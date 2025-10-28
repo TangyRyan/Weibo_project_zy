@@ -1,0 +1,319 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <title>微博热榜 WebSocket 演示</title>
+  <style>
+    :root {
+      color-scheme: light dark;
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    }
+    body {
+      margin: 0;
+      padding: 2rem;
+      background: #f6f7fb;
+      color: #1d1f23;
+    }
+    h1 {
+      font-size: 1.8rem;
+      margin-bottom: 0.5rem;
+    }
+    .layout {
+      max-width: 960px;
+      margin: 0 auto;
+      background: #fff;
+      border-radius: 12px;
+      box-shadow: 0 6px 20px rgba(23, 44, 71, 0.08);
+      padding: 2rem;
+    }
+    .status {
+      padding: 0.4rem 0.75rem;
+      border-radius: 6px;
+      background: #eef2ff;
+      color: #1d4ed8;
+      margin-bottom: 1rem;
+      font-size: 0.95rem;
+    }
+    .status.error {
+      background: #fee2e2;
+      color: #b91c1c;
+    }
+    .status.ok {
+      background: #dcfce7;
+      color: #166534;
+    }
+    .controls {
+      display: flex;
+      gap: 0.75rem;
+      flex-wrap: wrap;
+      margin-bottom: 1.5rem;
+      align-items: flex-end;
+    }
+    .controls label {
+      display: flex;
+      flex-direction: column;
+      font-size: 0.85rem;
+    }
+    .controls input {
+      margin-top: 0.3rem;
+      padding: 0.4rem 0.55rem;
+      border: 1px solid #cfd5e2;
+      border-radius: 6px;
+      font-size: 0.95rem;
+    }
+    button {
+      padding: 0.55rem 1rem;
+      border: none;
+      border-radius: 6px;
+      background: #2563eb;
+      color: #fff;
+      font-weight: 600;
+      cursor: pointer;
+    }
+    button:disabled {
+      opacity: 0.6;
+      cursor: not-allowed;
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.95rem;
+    }
+    thead {
+      background: #f1f5f9;
+    }
+    th, td {
+      padding: 0.55rem 0.75rem;
+      border-bottom: 1px solid #e2e8f0;
+      text-align: left;
+    }
+    th.rank, td.rank {
+      width: 3rem;
+      text-align: center;
+    }
+    tbody tr:hover {
+      background: #f8fafc;
+    }
+    .meta {
+      margin-bottom: 1rem;
+      font-size: 0.9rem;
+      color: #42526e;
+    }
+    .hidden {
+      display: none;
+    }
+    @media (max-width: 680px) {
+      body {
+        padding: 1rem;
+      }
+      .layout {
+        padding: 1.25rem;
+      }
+      table {
+        font-size: 0.88rem;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="layout">
+    <h1>微博热榜实时推送演示</h1>
+    <p class="meta">
+      通过 WebSocket 接收 <code>data/hot_topics/hourly/</code> 中最新的 JSON 快照，
+      并展示标题、排名及热度。后台出现新数据时，客户端会自动刷新列表。
+    </p>
+    <div id="status" class="status">正在连接 WebSocket...</div>
+    <form class="controls" id="requestForm">
+      <label>
+        WebSocket 地址
+        <input id="endpointInput" type="text" value="ws://127.0.0.1:8765/?limit=30" autocomplete="off">
+      </label>
+      <label>
+        指定日期 (YYYY-MM-DD，可选)
+        <input id="dateInput" type="text" placeholder="2025-10-27">
+      </label>
+      <label>
+        指定小时 (0-23，可选)
+        <input id="hourInput" type="number" min="0" max="23" step="1" placeholder="13">
+      </label>
+      <button type="submit" id="requestButton">拉取快照</button>
+      <button type="button" id="reconnectButton">重新连接</button>
+    </form>
+    <div class="meta" id="snapshotMeta" hidden></div>
+    <table>
+      <thead>
+        <tr>
+          <th class="rank">排名</th>
+          <th>话题</th>
+          <th>热度</th>
+          <th>分类</th>
+        </tr>
+      </thead>
+      <tbody id="topicsBody">
+        <tr id="placeholderRow">
+          <td colspan="4">尚未收到数据。</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+
+  <script>
+    const statusEl = document.getElementById("status");
+    const topicsBody = document.getElementById("topicsBody");
+    const placeholderRow = document.getElementById("placeholderRow");
+    const snapshotMeta = document.getElementById("snapshotMeta");
+    const form = document.getElementById("requestForm");
+    const endpointInput = document.getElementById("endpointInput");
+    const dateInput = document.getElementById("dateInput");
+    const hourInput = document.getElementById("hourInput");
+    const reconnectButton = document.getElementById("reconnectButton");
+
+    let socket = null;
+    let reconnectTimer = null;
+    let currentEndpoint = endpointInput.value;
+
+    function connect(endpoint) {
+      if (socket) {
+        socket.close();
+      }
+      currentEndpoint = endpoint;
+      updateStatus(`正在连接 ${endpoint} ...`, "info");
+      try {
+        socket = new WebSocket(endpoint);
+      } catch (error) {
+        updateStatus(`WebSocket 初始化失败: ${error}`, "error");
+        return;
+      }
+
+      socket.addEventListener("open", () => {
+        updateStatus("连接成功，等待数据...", "ok");
+      });
+
+      socket.addEventListener("message", (event) => {
+        handleMessage(event.data);
+      });
+
+      socket.addEventListener("close", () => {
+        updateStatus("连接关闭，将在 5 秒后尝试重连。", "error");
+        scheduleReconnect();
+      });
+
+      socket.addEventListener("error", () => {
+        updateStatus("WebSocket 出现错误。", "error");
+      });
+    }
+
+    function updateStatus(message, type = "info") {
+      statusEl.textContent = message;
+      statusEl.classList.remove("ok", "error");
+      if (type === "ok") {
+        statusEl.classList.add("ok");
+      } else if (type === "error") {
+        statusEl.classList.add("error");
+      }
+    }
+
+    function handleMessage(payload) {
+      let data = null;
+      try {
+        data = JSON.parse(payload);
+      } catch (error) {
+        updateStatus(`解析消息失败: ${error}`, "error");
+        return;
+      }
+      const { type } = data;
+      switch (type) {
+        case "snapshot":
+        case "update":
+          renderSnapshot(data);
+          if (type === "update") {
+            updateStatus(`收到新的 ${data.date} ${data.hour.toString().padStart(2, "0")} 快照`, "ok");
+          }
+          break;
+        case "empty":
+          renderEmpty(data.message || "暂无数据。");
+          break;
+        case "error":
+          updateStatus(data.message || "服务器返回错误。", "error");
+          break;
+        case "ack":
+        case "pong":
+          // 仅用于调试，忽略即可。
+          break;
+        default:
+          updateStatus("收到未知类型消息。", "error");
+      }
+    }
+
+    function renderSnapshot(data) {
+      const topics = Array.isArray(data.topics) ? data.topics : [];
+      topicsBody.innerHTML = "";
+      if (!topics.length) {
+        renderEmpty("热榜列表为空。");
+        return;
+      }
+      topics.forEach((topic) => {
+        const tr = document.createElement("tr");
+        tr.innerHTML = `
+          <td class="rank">${topic.rank ?? "-"}</td>
+          <td>
+            ${topic.url ? `<a href="${topic.url}" target="_blank" rel="noopener noreferrer">${topic.title || "(未命名话题)"}</a>` : (topic.title || "(未命名话题)")}
+            ${topic.ads ? '<span style="margin-left:0.4rem;color:#b45309;font-size:0.75rem;">广告</span>' : ""}
+          </td>
+          <td>${topic.hot ?? "-"}</td>
+          <td>${topic.category || "-"}</td>
+        `;
+        topicsBody.appendChild(tr);
+      });
+
+      placeholderRow.classList.add("hidden");
+      snapshotMeta.hidden = false;
+      snapshotMeta.innerHTML = `
+        <strong>快照：</strong>
+        ${data.date} 日 ${String(data.hour).padStart(2, "0")} 时，
+        共 ${data.total ?? topics.length} 条，
+        数据文件：<code>${data.source_path}</code>
+      `;
+    }
+
+    function renderEmpty(message) {
+      topicsBody.innerHTML = "";
+      placeholderRow.classList.remove("hidden");
+      placeholderRow.innerHTML = `<td colspan="4">${message}</td>`;
+      snapshotMeta.hidden = true;
+    }
+
+    function scheduleReconnect() {
+      clearTimeout(reconnectTimer);
+      reconnectTimer = setTimeout(() => {
+        connect(currentEndpoint);
+      }, 5000);
+    }
+
+    form.addEventListener("submit", (event) => {
+      event.preventDefault();
+      const request = { action: "request_snapshot" };
+      const date = dateInput.value.trim();
+      if (date) {
+        request.date = date;
+      }
+      const hourRaw = hourInput.value.trim();
+      if (hourRaw) {
+        request.hour = Number(hourRaw);
+      }
+      if (!socket || socket.readyState !== WebSocket.OPEN) {
+        updateStatus("WebSocket 未连接，无法请求快照。", "error");
+        return;
+      }
+      socket.send(JSON.stringify(request));
+    });
+
+    reconnectButton.addEventListener("click", () => {
+      const endpoint = endpointInput.value.trim() || "ws://127.0.0.1:8765/?limit=30";
+      connect(endpoint);
+    });
+
+    connect(currentEndpoint);
+  </script>
+</body>
+</html>

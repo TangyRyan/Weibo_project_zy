@@ -1,0 +1,21 @@
+{
+  "msg": "<think>内部思考</think><br>### ⚖️ 一、官方回应<br>1. **事件定性为谣言**<br>- **外交部** 明确澄清，并指出相关报道“捕风捉影”。<br>```wbCustomBlock{\"type\": \"quoted\", \"index\": 1}```<br>### 🔍 二、事实梳理<br>1. **矿石并非稀土**<br>- 样品为宝石原矿，与稀土开采无关。<media-block><div>should strip</div></media-block>",
+  "link_list": [
+    "sinaweibo://detail?mblogid=1234567890"
+  ],
+  "card_multimodal": {
+    "type": "mediablock",
+    "data": [
+      {
+        "img": "http://wx3.sinaimg.cn/middle/sample_image_pid.jpg",
+        "img_pid": "sample_image_pid",
+        "w": 1080,
+        "h": 1920,
+        "type": "v",
+        "user_name": "示例账号"
+      }
+    ]
+  },
+  "query": "%23示例话题%23"
+}
+
