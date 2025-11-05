@@ -10,8 +10,9 @@ from Weibo_zy.weibo_enhanced.topic_detail import WeiboPost, get_top_20_hot_posts
 
 # ------- CONFIG -------
 TARGET_DATE = "2025-10-25"
-ARCHIVE_DIR = Path("../data/hot_topics")
-POST_DIR = Path("../data/posts")
+PROJECT_ROOT = Path(__file__).resolve().parents[1]
+ARCHIVE_DIR = PROJECT_ROOT / "data" / "hot_topics"
+POST_DIR = PROJECT_ROOT / "data" / "posts"
 TOP_N = 30
 MAX_PAGES = 5
 MIN_SCORE = 0.0
@@ -235,6 +236,11 @@ def _run_async(func):
             finally:
                 loop.close()
         raise
+
+
+def ensure_topic_posts(title: str, record: Dict, date_str: str) -> Dict:
+    """Public helper to guarantee latest_posts populated for the given topic."""
+    return update_topic(title, record, date_str)
 
 
 if __name__ == "__main__":

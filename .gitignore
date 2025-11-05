@@ -1,0 +1,21 @@
+﻿.venv/
+__pycache__/
+*.pyc
+.vscode/
+.idea/
+.DS_Store
+sandbox/
+debug_*.html
+*.log
+
+# 你项目里常见的本地数据/缓存（按需保留或忽略）
+data/
+weibo/api/
+
+# 凭据与本地配置（很重要）
+*.env
+*cookie*
+*token*.json
+*auth_state*.json
+*.db
+*.sqlite

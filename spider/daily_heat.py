@@ -10,8 +10,10 @@ import requests
 from spider.crawler_core import slugify_title
 
 CHINA_TZ = timezone(timedelta(hours=8))
-ARCHIVE_DIR = Path("../data/hot_topics")
+PROJECT_ROOT = Path(__file__).resolve().parents[1]
+ARCHIVE_DIR = PROJECT_ROOT / "data" / "hot_topics"
 SUMMARY_PATH = ARCHIVE_DIR / "daily_heat.json"
+MAX_DAYS = 120
 REMOTE_SOURCE = (
     "https://raw.githubusercontent.com/lxw15337674/weibo-trending-hot-history/"
     "refs/heads/master/api/{date}/{hour}.json"

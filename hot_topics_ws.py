@@ -17,7 +17,7 @@ from urllib.parse import parse_qs, urlparse
 
 import websockets
 from websockets.exceptions import ConnectionClosed, ConnectionClosedError
-from websockets.server import WebSocketServerProtocol
+from websockets.legacy.server import WebSocketServerProtocol
 
 from spider.crawler_core import CHINA_TZ
 
@@ -202,26 +202,42 @@ class HotTopicsWebSocketService:
         self._last_version: Optional[Tuple[str, int]] = None
         self._shutdown_event = asyncio.Event()
 
-    async def start(self, host: str = "0.0.0.0", port: int = 8765) -> None:
-        LOGGER.info("Starting hot topics WebSocket server on %s:%s", host, port)
+    async def start(self, host: str = "0.0.0.0", port: int = 8765, *, auto_port: bool = False) -> None:
         serve_kwargs: Dict[str, Any] = {}
         if self._can_try_reuse_port():
             serve_kwargs["reuse_port"] = True
-        try:
-            await self._run_server(host, port, serve_kwargs)
-        except OSError as exc:
-            if exc.errno == errno.EADDRINUSE:
-                LOGGER.error(
-                    "WebSocket port %s is already in use. Stop the previous server or choose another port.",
-                    port,
-                )
-            raise
-        except ValueError as exc:
-            if "reuse_port" in str(exc):
-                LOGGER.warning("reuse_port not supported on this platform; retrying without it")
-                serve_kwargs.pop("reuse_port", None)
-                await self._run_server(host, port, serve_kwargs)
-            else:
+
+        attempts = 0
+        port_to_try = port
+        while True:
+            LOGGER.info("Starting hot topics WebSocket server on %s:%s", host, port_to_try)
+            try:
+                await self._run_server(host, port_to_try, serve_kwargs)
+                break  # normal shutdown
+            except OSError as exc:
+                if exc.errno == errno.EADDRINUSE:
+                    if auto_port:
+                        attempts += 1
+                        if attempts > 20:
+                            LOGGER.error("Failed to bind WebSocket after trying multiple ports starting from %s", port)
+                            raise
+                        LOGGER.warning(
+                            "Port %s is in use, attempting to bind to %s instead",
+                            port_to_try,
+                            port_to_try + 1,
+                        )
+                        port_to_try += 1
+                        continue
+                    LOGGER.error(
+                        "WebSocket port %s is already in use. Stop the previous server or choose another port.",
+                        port_to_try,
+                    )
+                raise
+            except ValueError as exc:
+                if "reuse_port" in str(exc):
+                    LOGGER.warning("reuse_port not supported on this platform; retrying without it")
+                    serve_kwargs.pop("reuse_port", None)
+                    continue
                 raise
 
     async def _run_server(self, host: str, port: int, serve_kwargs: Dict[str, Any]) -> None:
@@ -354,11 +370,15 @@ class HotTopicsWebSocketService:
 
 
 async def start_hot_topics_ws(
-    host: str = "0.0.0.0", port: int = 8765, *, refresh_interval: float = DEFAULT_REFRESH_SECONDS
+    host: str = "0.0.0.0",
+    port: int = 8765,
+    *,
+    refresh_interval: float = DEFAULT_REFRESH_SECONDS,
+    auto_port: bool = False,
 ) -> None:
     """Entry point for embedding inside other scripts."""
     service = HotTopicsWebSocketService(refresh_interval=refresh_interval)
-    await service.start(host=host, port=port)
+    await service.start(host=host, port=port, auto_port=auto_port)
 
 
 def configure_logging(level: int = logging.INFO) -> None:
@@ -399,7 +419,14 @@ def parse_args() -> argparse.Namespace:
         default=default_refresh,
         help=f"Polling interval in seconds (default: {DEFAULT_REFRESH_SECONDS} or HOT_TOPICS_WS_REFRESH env)",
     )
-    parser.add_argument("--log-level", default=default_log, help="Logging level")
+    parser.add_argument(
+        "--log-level", default=default_log, help="Logging level"
+    )
+    parser.add_argument(
+        "--auto-port",
+        action="store_true",
+        help="Automatically try the next available port if the requested port is in use",
+    )
     return parser.parse_args()
 
 
@@ -407,7 +434,14 @@ def main() -> None:
     args = parse_args()
     configure_logging(getattr(logging, args.log_level.upper(), logging.INFO))
     try:
-        asyncio.run(start_hot_topics_ws(host=args.host, port=args.port, refresh_interval=args.refresh))
+        asyncio.run(
+            start_hot_topics_ws(
+                host=args.host,
+                port=args.port,
+                refresh_interval=args.refresh,
+                auto_port=args.auto_port,
+            )
+        )
     except KeyboardInterrupt:
         LOGGER.info("Received shutdown signal, exiting")
 

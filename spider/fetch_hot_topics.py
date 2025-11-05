@@ -1,11 +1,12 @@
 import json
 import logging
-from datetime import datetime, timezone, timedelta
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
-from typing import Dict, List
+from typing import Dict, List, Optional
 
 import requests
 
+from spider.aicard_service import ensure_aicard_snapshot
 from spider.crawler_core import slugify_title
 from spider.daily_heat import update_daily_heat
 
@@ -18,8 +19,9 @@ HOT_TOPIC_SOURCE = (
     "https://raw.githubusercontent.com/lxw15337674/weibo-trending-hot-history/"
     "refs/heads/master/api/{date}/{hour}.json"
 )
-ARCHIVE_DIR = Path("../data/hot_topics")
-POST_DIR = Path("../data/posts")
+PROJECT_ROOT = Path(__file__).resolve().parents[1]
+ARCHIVE_DIR = PROJECT_ROOT / "data" / "hot_topics"
+POST_DIR = PROJECT_ROOT / "data" / "posts"
 LOG_LEVEL = logging.INFO
 
 
@@ -57,10 +59,10 @@ def iso_time(date_str: str, hour: int) -> str:
     dt = datetime.fromisoformat(f"{date_str}T{hour:02d}:00:00")
     return dt.replace(tzinfo=CHINA_TZ).isoformat(timespec="seconds")
 
-def upsert_topic(record_map: Dict[str, Dict], topic: Dict, date_str: str, hour: int) -> None:
+def upsert_topic(record_map: Dict[str, Dict], topic: Dict, date_str: str, hour: int) -> Optional[Dict]:
     title = (topic.get("title") or "").strip()
     if not title:
-        return
+        return None
     hour_str = f"{hour:02d}"
     seen_time = iso_time(date_str, hour)
     record = record_map.get(title)
@@ -75,7 +77,7 @@ def upsert_topic(record_map: Dict[str, Dict], topic: Dict, date_str: str, hour: 
         record["needs_refresh"] = True
         record["slug"] = slugify_title(title)
         record_map[title] = record
-        return
+        return record
 
     # 更新已有事件
     record.update(topic)
@@ -89,6 +91,7 @@ def upsert_topic(record_map: Dict[str, Dict], topic: Dict, date_str: str, hour: 
     record["slug"] = slugify_title(title)
     if record.get("last_post_refresh") != date_str:
         record["needs_refresh"] = True
+    return record
 
 
 def process_day(date_str: str, hours: List[int]) -> None:
@@ -104,7 +107,25 @@ def process_day(date_str: str, hours: List[int]) -> None:
             title = (topic.get("title") or "").strip()
             if title and title not in daily_data:
                 new_titles.append(title)
-            upsert_topic(daily_data, topic, date_str, hour)
+            record = upsert_topic(daily_data, topic, date_str, hour)
+            if not record:
+                continue
+            snapshot = ensure_aicard_snapshot(
+                title,
+                date_str,
+                hour,
+                slug=record.get("slug"),
+                logger=logging.getLogger("aicard"),
+            )
+            if snapshot:
+                record.setdefault("aicard", {})
+                record["aicard"]["html"] = snapshot["html"]
+                record["aicard"]["json"] = snapshot["json"]
+                hours = record["aicard"].setdefault("hours", {})
+                hours[f"{hour:02d}"] = {
+                    "html": snapshot["html"],
+                    "json": snapshot["json"],
+                }
 
     save_daily_archive(date_str, daily_data)
     try:
