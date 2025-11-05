@@ -1,16 +1,16 @@
-# 前端接口说明
+# 前端与风险分析接口说明
 
-本地 Flask 服务默认监听 `http://127.0.0.1:5000`。若启动时使用 `flask run --host=0.0.0.0 --port=8766`，请将以下示例中的端口替换为实际值。
+接口基于本地 Flask 服务，默认监听 `http://127.0.0.1:5000`。如启动时指定 `flask run --host=0.0.0.0 --port=8766`，替换示例中的端口即可。
 
 ---
 
-## 热榜（小时级）
+## 热榜（小时级）——前端
 - **URL**：`GET /api/hot_topics/hourly`
-- **用途**：返回指定日期/小时的热搜榜项，默认使用最新快照。
+- **作用**：返回指定日期/小时的热搜榜列表（默认使用最新快照）。
 - **参数**
-  - `date`（可选）`YYYY-MM-DD`：不传时自动选择最新日期。
-  - `hour`（可选）`0-23`：配合 `date` 选择具体小时；不传时自动选择指定日期的最新小时。
-  - `limit`（可选）`1-50`：限制返回条数，默认返回全部。
+  - `date`（可选）`YYYY-MM-DD`
+  - `hour`（可选）`0-23`
+  - `limit`（可选）`1-50`
 - **示例**
   ```
   GET http://127.0.0.1:5000/api/hot_topics/hourly?date=2025-11-05&hour=15&limit=20
@@ -40,23 +40,21 @@
     "requested_limit": 20
   }
   ```
-
-> 若需实时更新，可连接 `hot_topics_ws.py` 提供的 WebSocket 并监听 `snapshot`/`update` 消息。
+> 若需实时推送，可连接 `hot_topics_ws.py` 的 WebSocket，监听 `snapshot`/`update` 消息。
 
 ---
 
-## 话题帖子
+## 话题帖子——前端
 - **URL**：`GET /api/hot_topics/posts`
-- **用途**：返回指定话题的热门帖子列表。
-- **必需参数**
-  - `date`：`YYYY-MM-DD`（若未提供且系统能推断，会自动补全）。
-- **话题定位方式**（至少提供其一）
-  1. `slug`：文件名中的 slug。
-  2. `title`：话题标题。
-  3. `rank`：榜单排名，需配合 `date`/`hour` 或依赖最新榜单。
-- **其他参数**
-  - `hour`（可选）`0-23`：锁定某个小时的榜单。
-  - `limit`（可选）`1-50`：限制返回帖子数量。
+- **作用**：返回单个话题的热门帖文列表。
+- **必需参数**：`date`
+- **话题定位方式（任选其一）**
+  1. `slug`
+  2. `title`
+  3. `rank`
+- **可选参数**
+  - `hour`
+  - `limit`（默认返回全部，最多 50）
 - **示例**
   ```
   GET http://127.0.0.1:5000/api/hot_topics/posts?date=2025-11-05&title=家庭头等舱2026款夏19.68万元起&limit=20
@@ -88,22 +86,17 @@
     "requested_limit": 20
   }
   ```
-
-> 返回的 `created_at` 字段统一格式为 `YY-MM-DD HH:MM`（示例：`25-11-05 15:22`），无论原始数据是“57分钟前”“今天 12:30”还是其他相对时间，都会转换为对应的北京时间。若文件尚未生成，接口会调用 `ensure_topic_posts()` 自动补抓；首次请求可能返回 404，稍后重试即可。
+> 返回的 `created_at` 字段统一格式为 `YY-MM-DD HH:MM`（北京时间），不再出现“xx分钟前”等相对时间；若首次请求返回 404，可稍后重试。
 
 ---
 
-## AI Card
+## AI Card——前端
 - **URL**：`GET /api/hot_topics/aicard`
-- **用途**：返回指定话题的 AI Card 快照（HTML 内容 + 元数据）。
-- **必需参数**
-  - `date`：`YYYY-MM-DD`（若能推断，将自动补全）。
-- **话题定位方式**（至少提供其一，与帖子接口一致）
-  1. `slug`
-  2. `title`
-  3. `rank`
-- **其他参数**
-  - `hour`（可选）`0-23`：辅助定位小时榜单。
+- **作用**：返回指定话题的 AI Card 快照（HTML + 元数据）。
+- **参数**
+  - `date`（如可推断会自动补全）
+  - 至少提供 `slug`、`title`、`rank` 中的一种
+  - `hour`（可选）
 - **示例**
   ```
   GET http://127.0.0.1:5000/api/hot_topics/aicard?date=2025-11-05&title=家庭头等舱2026款夏19.68万元起
@@ -117,7 +110,7 @@
     "title": "家庭头等舱2026款夏19.68万元起",
     "html_path": "data/aicard/hourly/2025-11-05/15/jiating-toudengcang-2026kuan.html",
     "json_path": "data/aicard/hourly/2025-11-05/15/jiating-toudengcang-2026kuan.json",
-    "html": "<!DOCTYPE html>...完整 HTML 文本",
+    "html": "<!DOCTYPE html>...",
     "meta": { "...": "..." },
     "links": [],
     "media": [],
@@ -125,17 +118,56 @@
     "last_seen": "2025-11-05T15:00:00+08:00"
   }
   ```
-
-> 若快照缺失，接口会调用 `ensure_aicard_snapshot()` 立即生成；首次请求可能返回 404，稍后重试即可。
+> 若快照缺失，接口会自动调用 `ensure_aicard_snapshot()` 现场生成。
 
 ---
 
-## 30 天热度
+## 每日整合——风险分析
+- **URL**：`GET /api/hot_topics/daily_bundle`
+- **作用**：风险分析模块一次性获取某日全部话题及对应帖文。
+- **必需参数**：`date`
+- **可选参数**：`include_posts`（默认 `true`），`true` 返回话题+帖文整合，`false` 仅返回纯话题归档。
+- **示例**
+  ```
+  GET http://127.0.0.1:5000/api/hot_topics/daily_bundle?date=2025-11-05
+  ```
+- **返回示例**
+  ```json
+  {
+    "date": "2025-11-05",
+    "include_posts": true,
+    "source_path": "data/daily_bundles/2025-11-05/topics_with_posts.json",
+    "data": {
+      "date": "2025-11-05",
+      "generated_at": "2025-11-05T23:59:59+08:00",
+      "topics": [
+        {
+          "title": "家庭头等舱2026款夏19.68万元起",
+          "slug": "jiating-toudengcang-2026kuan",
+          "...": "...",
+          "latest_posts": {
+            "topic": "#家庭头等舱2026款夏19.68万元起#",
+            "fetched_at": "2025-11-05T15:47:38+08:00",
+            "items": [...]
+          }
+        }
+      ],
+      "source": {
+        "archive": "data/hot_topics/2025-11-05.json",
+        "posts_dir": "data/posts/2025-11-05"
+      }
+    }
+  }
+  ```
+> 若整合文件缺失，接口会尝试调 `spider/export_daily_bundle.write_bundle` 立即生成；需保证 `data/daily_bundles/` 可写。
+
+---
+
+## 30 天热度——前端/BI
 - **URL**：`GET /api/hot_topics/daily_heat`
-- **用途**：返回最近 N 天的热度汇总。
 - **参数**
-  - `limit`（可选）`1-60`：默认 30。
-  - `refresh`（可选）布尔：`1/true/yes` 时强制重建摘要。
+  - `limit`（可选）`1-60`，默认 30
+  - `refresh`（可选）布尔
 - **示例**
   ```
   GET http://127.0.0.1:5000/api/hot_topics/daily_heat?limit=30
@@ -159,23 +191,10 @@
 ---
 
 ## 数据更新频率与目录
-- **热榜数据**
-  - `monitor_remote_hot_topics.py` 每 10 分钟轮询 GitHub 远程仓库，启动即刻拉取。
-  - 若某小时在 45 分钟内仍缺失，会调用本地兜底爬虫。
-  - 前端可通过 REST `/api/hot_topics/hourly` 或 WebSocket `snapshot/update` 获取。
-- **帖子数据**
-  - 每次写入小时榜后自动刷新 `needs_refresh` 话题；若接口发现缺失会即时补抓。
-  - 依赖有效的 `WEIBO_COOKIE`。
-- **AI Card**
-  - 日归档流程会尝试生成；若缺失，`/api/hot_topics/aicard` 会调用 `ensure_aicard_snapshot()` 现场生成。
-  - 依赖 `WEIBO_AICARD_COOKIE`（或 `WEIBO_COOKIE`）保持登录态。
-- **30 天热度**
-  - 小时榜更新或 `/api/hot_topics/daily_heat?refresh=1` 时重建。
-  - 数据来源 `data/hot_topics/<date>.json`，输出 `data/hot_topics/daily_heat.json`。
-- **数据目录**
-  - `data/hot_topics/hourly/<date>/<hour>.json` —— 热榜快照（`/hourly` 数据源）。
-  - `data/posts/<date>/<slug>.json` —— 帖子快照（`/posts` 数据源）。
-  - `data/aicard/hourly/<date>/<hour>/<slug>.(html|json)` —— AI Card 快照（`/aicard` 数据源）。
-  - `data/hot_topics/daily_heat.json` —— 30 天热度摘要（`/daily_heat` 数据源）。
+- **热榜**：`monitor_remote_hot_topics.py` 每 10 分钟轮询远程仓库，若 45 分钟内无数据则触发本地兜底。对应文件 `data/hot_topics/hourly/<date>/<hour>.json`。
+- **帖子**：写入小时榜后自动刷新 `needs_refresh` 话题；若接口发现缺失会即时补抓。数据位于 `data/posts/<date>/<slug>.json`。
+- **AI Card**：归档时抓取，接口缺失时现场生成。文件位于 `data/aicard/hourly/<date>/<hour>/<slug>.(html|json)`。
+- **每日整合（风险分析）**：建议每日终端运行 `python spider/export_daily_bundle.py --date YYYY-MM-DD` 生成 `data/daily_bundles/<date>/topics_with_posts.json`。接口调用时若不存在会尝试自动生成。
+- **30 天热度**：写入小时榜或调用 `/api/hot_topics/daily_heat?refresh=1` 时重建，文件 `data/hot_topics/daily_heat.json`。
 
-出现 400/404 大多是参数缺失或数据尚未生成，按提示补齐或稍后重试即可。响应中的 `source_path` 字段可帮助定位原始文件以便排查。
+接口返回 400/404 通常是参数缺失或数据尚未生成，可按提示补齐或稍后重试。响应中的 `source_path` 便于定位原始 JSON 进行排查。

@@ -12,6 +12,7 @@ from spider.crawler_core import CHINA_TZ, slugify_title
 from spider.daily_heat import ARCHIVE_DIR, SUMMARY_PATH, rebuild_summary
 from spider.aicard_service import ensure_aicard_snapshot
 from spider.update_posts import ensure_topic_posts, load_archive, save_archive
+from spider.export_daily_bundle import write_bundle as export_daily_bundle
 
 app = Flask(__name__)
 LOG_LEVEL = logging.INFO
@@ -22,6 +23,7 @@ MAX_POST_LIMIT = 50
 
 HOURLY_DIR = ARCHIVE_DIR / "hourly"
 POSTS_DIR = ARCHIVE_DIR.parent / "posts"
+BUNDLE_DIR = ARCHIVE_DIR.parent / "daily_bundles"
 REPO_ROOT = Path(__file__).resolve().parent
 
 
@@ -127,6 +129,17 @@ def _resolve_positive_limit(raw_value: Optional[str], *, maximum: int) -> Option
     if maximum is not None:
         value = min(value, maximum)
     return value
+
+
+def _resolve_boolean(raw_value: Optional[str], default: bool = True) -> bool:
+    if raw_value is None:
+        return default
+    lowered = raw_value.strip().lower()
+    if lowered in {"1", "true", "yes", "on"}:
+        return True
+    if lowered in {"0", "false", "no", "off"}:
+        return False
+    return default
 
 
 def _load_json(path: Path) -> Optional[Any]:
@@ -319,6 +332,13 @@ def _load_post_payload(date: str, slug: str) -> Tuple[Optional[Dict[str, Any]], 
     if data is None:
         return None, None
     return data, path
+
+
+def _load_bundle_payload(date: str, include_posts: bool) -> Tuple[Optional[Any], Path]:
+    filename = "topics_with_posts.json" if include_posts else "topics.json"
+    path = BUNDLE_DIR / date / filename
+    payload = _load_json(path)
+    return payload, path
 
 
 def _ensure_posts_exist(date: str, title: str, archive: Dict[str, Dict[str, Any]]) -> Optional[Dict[str, Any]]:
@@ -629,6 +649,53 @@ def topic_aicard() -> Any:
         response["first_seen"] = record.get("first_seen")
         response["last_seen"] = record.get("last_seen")
 
+    return jsonify(response)
+
+
+@app.get("/api/hot_topics/daily_bundle")
+def daily_bundle() -> Any:
+    date = request.args.get("date")
+    if not date:
+        return jsonify({"error": "date is required"}), 400
+    try:
+        datetime.strptime(date, "%Y-%m-%d")
+    except ValueError:
+        return jsonify({"error": "date must be formatted as YYYY-MM-DD"}), 400
+
+    include_posts = _resolve_boolean(request.args.get("include_posts"), True)
+    payload, source_path = _load_bundle_payload(date, include_posts)
+
+    if payload is None and include_posts:
+        try:
+            export_daily_bundle(date)
+        except Exception as exc:  # pylint: disable=broad-except
+            logging.error("Failed to generate daily bundle for %s: %s", date, exc)
+        payload, source_path = _load_bundle_payload(date, include_posts)
+
+    if payload is None and not include_posts:
+        fallback_path = ARCHIVE_DIR / f"{date}.json"
+        payload = _load_json(fallback_path)
+        if payload is not None:
+            source_path = fallback_path
+
+    if payload is None:
+        return (
+            jsonify(
+                {
+                    "error": "Daily bundle not available",
+                    "expected_path": source_path.as_posix(),
+                    "hint": "Run spider/export_daily_bundle.py to generate bundle",
+                }
+            ),
+            404,
+        )
+
+    response = {
+        "date": date,
+        "include_posts": include_posts,
+        "source_path": source_path.as_posix(),
+        "data": payload,
+    }
     return jsonify(response)
 
 
