@@ -1,0 +1,326 @@
+{
+  "meta": {
+    "query": "#四海中医 向世界种草中国智慧#",
+    "status_code": 200,
+    "fetched_at": "2025-11-02T15:35:45+08:00",
+    "response": {
+      "msg_json": "{}",
+      "query_field": "50",
+      "chat_status_stage": 1,
+      "status": 2,
+      "news_analyze": {},
+      "reliable_tips": "{\"gold_orange_v_mids\": [\"5228435901251944\", \"5228324101818693\", \"5228445915416356\", \"5228192018204100\", \"5203513938546277\", \"5228436734084031\", \"5228451361195931\", \"5228038281494854\", \"5224466662819615\", \"5182722515402850\", \"5189301283064711\"], \"gold_orange_v_ratio\": \"31%\", \"media_mids\": [\"5151405225807164\"], \"media_ratio\": \"3%\", \"verified_mids\": [\"5099282719576830\", \"5098519857989993\", \"5227907754757380\", \"5228111596880135\", \"5228307890315783\", \"5228204705977244\", \"5228315442944349\", \"5228466434738859\", \"5228307886905413\", \"5227389338255390\", \"5182813114728585\", \"5227741819438094\", \"5224842932521955\", \"5225379737375360\", \"5198396767866352\", \"5228550743656466\", \"5228323743466671\", \"5228482143455878\", \"5118453961460647\", \"5151720787153759\", \"5228519284279401\", \"4914363813595012\"], \"verified_ratio\": \"61%\", \"normal_mids\": [\"5228293609490392\", \"5228324401971465\"], \"normal_ratio\": \"5%\", \"ref_mid_rank\": {\"5099282719576830\": {\"rank\": 26}, \"5098519857989993\": {\"rank\": 36}, \"5228435901251944\": {\"rank\": 9}, \"5228324101818693\": {\"rank\": 10}, \"5227907754757380\": {\"rank\": 1}, \"5228111596880135\": {\"rank\": 13}, \"5228307890315783\": {\"rank\": 2}, \"5228204705977244\": {\"rank\": 24}, \"5228315442944349\": {\"rank\": 4}, \"5228466434738859\": {\"rank\": 7}, \"5228307886905413\": {\"rank\": 3}, \"5227389338255390\": {\"rank\": 34}, \"5182813114728585\": {\"rank\": 22}, \"5227741819438094\": {\"rank\": 6}, \"5224842932521955\": {\"rank\": 14}, \"5228445915416356\": {\"rank\": 20}, \"5228293609490392\": {\"rank\": 33}, \"5225379737375360\": {\"rank\": 8}, \"5228192018204100\": {\"rank\": 28}, \"5203513938546277\": {\"rank\": 21}, \"5228436734084031\": {\"rank\": 5}, \"5228324401971465\": {\"rank\": 11}, \"5198396767866352\": {\"rank\": 12}, \"5228451361195931\": {\"rank\": 15}, \"5228550743656466\": {\"rank\": 16}, \"5228323743466671\": {\"rank\": 17}, \"5228038281494854\": {\"rank\": 18}, \"5228482143455878\": {\"rank\": 19}, \"5118453961460647\": {\"rank\": 23}, \"5151720787153759\": {\"rank\": 25}, \"5228519284279401\": {\"rank\": 27}, \"5224466662819615\": {\"rank\": 29}, \"5182722515402850\": {\"rank\": 30}, \"5189301283064711\": {\"rank\": 31}, \"4914363813595012\": {\"rank\": 32}, \"5151405225807164\": {\"rank\": 35}}}",
+      "query": "#四海中医 向世界种草中国智慧#",
+      "current_time": 1762068947,
+      "user_info": {},
+      "qs_status_info": "{\"qs_u_status\":0,\"qs_status\":0,\"qs_q_status\":0,\"qs_c_status\":8388608,\"qs_r_status\":0,\"ab_lab\":{}}",
+      "ext_show": {},
+      "analysis_time": 1762068545,
+      "loop_times": 200,
+      "profile_image_url": "",
+      "wenda": {
+        "forward_gen": 0
+      },
+      "mid_list": null,
+      "reference_num": 36,
+      "query_category": "Medical",
+      "status_stage": 4,
+      "link_list": [
+        "sinaweibo://detail?mblogid=5227907754757380",
+        "sinaweibo://detail?mblogid=5228307890315783",
+        "sinaweibo://detail?mblogid=5228307886905413",
+        "sinaweibo://detail?mblogid=5228315442944349",
+        "sinaweibo://detail?mblogid=5228436734084031",
+        "sinaweibo://detail?mblogid=5227741819438094",
+        "sinaweibo://detail?mblogid=5228466434738859",
+        "sinaweibo://detail?mblogid=5225379737375360",
+        "sinaweibo://detail?mblogid=5228435901251944",
+        "sinaweibo://detail?mblogid=5228324101818693",
+        "sinaweibo://detail?mblogid=5228324401971465",
+        "sinaweibo://detail?mblogid=5198396767866352",
+        "sinaweibo://detail?mblogid=5228111596880135",
+        "sinaweibo://detail?mblogid=5224842932521955",
+        "sinaweibo://detail?mblogid=5228451361195931",
+        "sinaweibo://detail?mblogid=5228550743656466",
+        "sinaweibo://detail?mblogid=5228323743466671",
+        "sinaweibo://detail?mblogid=5228038281494854",
+        "sinaweibo://detail?mblogid=5228482143455878",
+        "sinaweibo://detail?mblogid=5228445915416356",
+        "sinaweibo://detail?mblogid=5203513938546277",
+        "sinaweibo://detail?mblogid=5182813114728585",
+        "sinaweibo://detail?mblogid=5118453961460647",
+        "sinaweibo://detail?mblogid=5228204705977244",
+        "sinaweibo://detail?mblogid=5151720787153759",
+        "sinaweibo://detail?mblogid=5099282719576830",
+        "sinaweibo://detail?mblogid=5228519284279401",
+        "sinaweibo://detail?mblogid=5228192018204100",
+        "sinaweibo://detail?mblogid=5224466662819615",
+        "sinaweibo://detail?mblogid=5182722515402850",
+        "sinaweibo://detail?mblogid=5189301283064711",
+        "sinaweibo://detail?mblogid=4914363813595012",
+        "sinaweibo://detail?mblogid=5228293609490392",
+        "sinaweibo://detail?mblogid=5227389338255390",
+        "sinaweibo://detail?mblogid=5151405225807164",
+        "sinaweibo://detail?mblogid=5098519857989993"
+      ],
+      "model": "deepseek",
+      "uid": "",
+      "unify_md5": "fe7eef5cb30d48376fbdc201606a9a2c",
+      "card_multimodal": {
+        "type": "mediablock",
+        "data": [
+          {
+            "w": 1514,
+            "vtype": 2,
+            "cur_mid": "5227907754757380",
+            "h": 852,
+            "user_name": "东阿阿胶",
+            "video_url": "https://video.weibo.com/show?fid=1034:5227871623381058",
+            "user_avatar": "https://tvax1.sinaimg.cn/crop.102.117.888.888.50/7fb5ac19ly8h8w47o1wm6j20u00u075j.jpg?KID=imgbed,tva&Expires=1762079160&ssig=a85UDZ8anI",
+            "img": "http://wx2.sinaimg.cn/middle/7fb5ac19ly1i6vq24ul8gj21620no7wh.jpg",
+            "scheme": "sinaweibo://video/vvs?mid=5227907754757380&multi_paragraph=1&multi_count=0",
+            "type": "v",
+            "hit_score_new": 0,
+            "doc_score": 0,
+            "img_pid": "7fb5ac19ly1i6vq24ul8gj21620no7wh",
+            "hit_score_final": 0,
+            "click_rate": 0
+          },
+          {
+            "w": 4096,
+            "vtype": 3,
+            "cur_mid": "5228307890315783",
+            "h": 2304,
+            "user_name": "凤凰卫视",
+            "video_url": "https://video.weibo.com/show?fid=1034:5228272896901151",
+            "user_avatar": "https://tvax1.sinaimg.cn/crop.0.0.600.600.50/001NfW7xly8hwn58bch3vj60go0goaca02.jpg?KID=imgbed,tva&Expires=1762079160&ssig=vWphBBAVr%2F",
+            "img": "http://wx4.sinaimg.cn/middle/001NfW7xly1i6x0cq4xirj635s1s04qu02.jpg",
+            "scheme": "sinaweibo://video/vvs?mid=5228307890315783&multi_paragraph=2&multi_count=0",
+            "type": "v",
+            "hit_score_new": 0,
+            "doc_score": 0,
+            "img_pid": "001NfW7xly1i6x0cq4xirj635s1s04qu02",
+            "hit_score_final": 0,
+            "click_rate": 0
+          },
+          {
+            "w": 4096,
+            "vtype": 3,
+            "cur_mid": "5228307886905413",
+            "h": 2304,
+            "user_name": "凤凰卫视",
+            "video_url": "https://video.weibo.com/show?fid=1034:5227758477836309",
+            "user_avatar": "https://tvax1.sinaimg.cn/crop.0.0.600.600.50/001NfW7xly8hwn58bch3vj60go0goaca02.jpg?KID=imgbed,tva&Expires=1762079160&ssig=vWphBBAVr%2F",
+            "img": "http://wx4.sinaimg.cn/middle/001NfW7xly1i6ve7s1z3nj635s1s0u1202.jpg",
+            "scheme": "sinaweibo://video/vvs?mid=5228307886905413&multi_paragraph=2&multi_count=1",
+            "type": "v",
+            "hit_score_new": 98.828125,
+            "doc_score": 6356,
+            "img_pid": "001NfW7xly1i6ve7s1z3nj635s1s0u1202",
+            "hit_score_final": 90.992874,
+            "click_rate": 0
+          },
+          {
+            "w": 1514,
+            "vtype": 2,
+            "cur_mid": "5227907754757380",
+            "h": 852,
+            "user_name": "东阿阿胶",
+            "video_url": "https://video.weibo.com/show?fid=1034:5227871623381058",
+            "user_avatar": "https://tvax1.sinaimg.cn/crop.102.117.888.888.50/7fb5ac19ly8h8w47o1wm6j20u00u075j.jpg?KID=imgbed,tva&Expires=1762079160&ssig=a85UDZ8anI",
+            "img": "http://wx2.sinaimg.cn/middle/7fb5ac19ly1i6vq24ul8gj21620no7wh.jpg",
+            "scheme": "sinaweibo://video/vvs?mid=5227907754757380&multi_paragraph=1&multi_count=0",
+            "type": "v",
+            "hit_score_new": 0,
+            "doc_score": 0,
+            "img_pid": "7fb5ac19ly1i6vq24ul8gj21620no7wh",
+            "hit_score_final": 0,
+            "click_rate": 0
+          }
+        ]
+      },
+      "share_card_multimodal": {
+        "w": 1514,
+        "vtype": 2,
+        "cur_mid": "5227907754757380",
+        "h": 852,
+        "user_name": "东阿阿胶",
+        "video_url": "https://video.weibo.com/show?fid=1034:5227871623381058",
+        "user_avatar": "https://tvax1.sinaimg.cn/crop.102.117.888.888.50/7fb5ac19ly8h8w47o1wm6j20u00u075j.jpg?KID=imgbed,tva&Expires=1762079160&ssig=a85UDZ8anI",
+        "img": "http://wx2.sinaimg.cn/middle/7fb5ac19ly1i6vq24ul8gj21620no7wh.jpg",
+        "scheme": "sinaweibo://video/vvs?mid=5227907754757380&multi_paragraph=1&multi_count=0",
+        "type": "v",
+        "hit_score_new": 0,
+        "doc_score": 0,
+        "img_pid": "7fb5ac19ly1i6vq24ul8gj21620no7wh",
+        "hit_score_final": 0,
+        "click_rate": 0
+      },
+      "zs_risk_control": {
+        "think_text_close": 0,
+        "land_button_close": 0
+      },
+      "basemodel": "实验组1",
+      "q_attr": {
+        "reply_cid": "",
+        "comment_from_type": "",
+        "from_request_id": "",
+        "mid": "",
+        "from_uid": ""
+      },
+      "msg": "<think><br><br>嗯，用户想了解\"四海中医 向世界种草中国智慧\"的相关信息。从搜索结果看，这其实是一个大型中医药文化国际传播项目，由凤凰卫视和东阿阿胶联合出品。<br><br>仔细看看这些资料。这个项目主要通过纪录片形式展现中医药在全球的传播，第一季在2025年11月1日刚刚开播。节目内容挺丰富的，走访了港澳台、欧洲、美洲等地，展示中医药在不同文化背景下的发展和创新。<br><br>节目内容设计很用心啊。比如台湾篇展现了高雄老药铺将药材融入麻辣火锅的创新，还有泰雅族用马告、土肉桂等本土草药的智慧。港澳篇则聚焦都市中的中医传承。这种\"药食同源\"的日常化呈现方式，确实能让外国观众更容易理解中医文化。<br><br>注意到这个项目有些独特亮点。它采用了\"中医+科技\"的叙事方式，比如台北中医诊所引入生物电阻抗检测的案例；还关注印尼将传统草药Jamu做成\"盲盒\"的年轻化转型。这种传统与现代的结合很有新意。<br><br>在国际传播方面，节目邀请了外国专家参与，比如美国中药学博士Eric。凤凰卫视的全球传播渠道也能帮助节目触达更广受众。有数据显示海外对中医的认可度在提升，比如意大利医生组团学习、英国贵族青睐针灸等。<br><br>项目背后有坚实的产业支持。东阿阿胶作为联合出品方，依托其千年中医药文化底蕴；广药白云山作为战略合作方提供支持。去年进博会期间启动的仪式也显示其国际推广的定位。<br><br>用户可能想深入了解这个文化传播项目的特色和价值。搜索结果中时效性强的内容集中在10月下旬到11月初的节目预热和开播信息，最新动态是11月2日发布的台湾篇深度报道。这些应该是用户最关心的内容。<br><br>节目引发的讨论方向也值得关注。有观点认为中医\"天人合一\"的理念为现代医学提供新思路；也有讨论聚焦中医国际化面临的挑战与创新。这些不同角度丰富了项目的内涵。<br><br></think><br>“四海中医：向世界种草中国智慧”是凤凰卫视与东阿阿胶联合打造的大型中医药文化国际传播项目，通过纪录片等形式展现中医药在全球的传承与创新，旨在推动中医文化走向世界。以下是核心信息整理：<br>### 一、项目背景与定位  <br>1. **联合出品**：凤凰卫视与东阿阿胶共同发起，广药白云山战略合作，于2024年进博会期间启动。```wbCustomBlock{\"type\": \"quoted\", \"index\": 3, \"data\": {\"num\": [26, 36], \"version\": 2, \"quote_list\": [{\"name\": \"凤凰周刊\", \"scheme\": \"sinaweibo://detail?mblogid=5098519857989993\", \"index\": 36, \"label\": \"大v\"}, {\"name\": \"Miss-颜颜\", \"scheme\": \"sinaweibo://detail?mblogid=5099282719576830\", \"index\": 26, \"label\": \"\"}], \"name\": \"凤凰周刊\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.828.828.50/001nM6KVly8h8vm9rzz1oj60n00n0js102.jpg?KID=imgbed,tva&Expires=1762079160&ssig=WLYlPtIRFh\", \"scheme\": \"sinaweibo://detail?mblogid=5098519857989993\", \"vType\": 3}}```  <br>2. **核心目标**：以全球视野解读中医药文化，打破“古老医术”刻板印象，将其转化为可感知的“生活智慧”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 4, \"data\": {\"num\": [9, 10], \"version\": 2, \"quote_list\": [{\"name\": \"鞠茉汐\", \"scheme\": \"sinaweibo://detail?mblogid=5228435901251944\", \"index\": 9, \"label\": \"\"}, {\"name\": \"夏野小橙子\", \"scheme\": \"sinaweibo://detail?mblogid=5228324101818693\", \"index\": 10, \"label\": \"\"}]}}```  <br>3. **首播时间**：2025年11月1日起，每周六22:00在凤凰卫视全媒体平台两集连播。```wbCustomBlock{\"type\": \"quoted\", \"index\": 5, \"data\": {\"num\": [1, 13], \"version\": 2, \"quote_list\": [{\"name\": \"东阿阿胶\", \"scheme\": \"sinaweibo://detail?mblogid=5227907754757380\", \"index\": 1, \"label\": \"\"}, {\"name\": \"东阿阿胶\", \"scheme\": \"sinaweibo://detail?mblogid=5228111596880135\", \"index\": 13, \"label\": \"\"}]}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5227907754757380&multi_paragraph=1&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.102.117.888.888.50/7fb5ac19ly8h8w47o1wm6j20u00u075j.jpg?KID=imgbed,tva&Expires=1762079160&ssig=a85UDZ8anI) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">东阿阿胶</span><img src=\"http://wx2.sinaimg.cn/middle/7fb5ac19ly1i6vq24ul8gj21620no7wh.jpg\" data-width=852 data-height=1514></div></media-block><br>### 二、内容亮点：传统与现代的融合  <br>1. **地域化叙事**  <br>    - **台湾篇《光阴的味道》**：  <br>      - 探访高雄百年药铺，将肉桂等辛香料融入麻辣火锅，诠释“药食同源”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 9, \"data\": {\"num\": [2, 24], \"version\": 2, \"quote_list\": [{\"name\": \"凤凰卫视\", \"scheme\": \"sinaweibo://detail?mblogid=5228307890315783\", \"index\": 2, \"label\": \"大v\"}, {\"name\": \"凤凰卫视\", \"scheme\": \"sinaweibo://detail?mblogid=5228204705977244\", \"index\": 24, \"label\": \"\"}], \"name\": \"凤凰卫视\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.600.600.50/001NfW7xly8hwn58bch3vj60go0goaca02.jpg?KID=imgbed,tva&Expires=1762079160&ssig=vWphBBAVr%2F\", \"scheme\": \"sinaweibo://detail?mblogid=5228307890315783\", \"vType\": 3}}```  <br>      - 记录泰雅族以马告、土肉桂防蚊疗疾，展现草药与自然共生的智慧。```wbCustomBlock{\"type\": \"quoted\", \"index\": 10, \"data\": {\"num\": [4, 7], \"version\": 2, \"quote_list\": [{\"name\": \"四海中医\", \"scheme\": \"sinaweibo://detail?mblogid=5228315442944349\", \"index\": 4, \"label\": \"\"}, {\"name\": \"凤凰周刊\", \"scheme\": \"sinaweibo://detail?mblogid=5228466434738859\", \"index\": 7, \"label\": \"\"}]}}```  <br>      - 台北青草巷创新推出“签单式”青草茶，结合现代养生需求定制配方。```wbCustomBlock{\"type\": \"quoted\", \"index\": 11, \"data\": {\"num\": [4, 9], \"version\": 2, \"quote_list\": [{\"name\": \"四海中医\", \"scheme\": \"sinaweibo://detail?mblogid=5228315442944349\", \"index\": 4, \"label\": \"\"}, {\"name\": \"鞠茉汐\", \"scheme\": \"sinaweibo://detail?mblogid=5228435901251944\", \"index\": 9, \"label\": \"\"}]}}```  <br>    - **港澳篇《都市杏林江湖》**：  <br>      - 聚焦香港东华医院，揭示19世纪末中医制度化、国际化的首次尝试。```wbCustomBlock{\"type\": \"quoted\", \"index\": 13, \"data\": {\"num\": [3, 34], \"version\": 2, \"quote_list\": [{\"name\": \"凤凰卫视\", \"scheme\": \"sinaweibo://detail?mblogid=5228307886905413\", \"index\": 3, \"label\": \"\"}, {\"name\": \"凤凰卫视\", \"scheme\": \"sinaweibo://detail?mblogid=5227389338255390\", \"index\": 34, \"label\": \"\"}]}}```  <br>      - 记录武医同源传统在快节奏都市中的坚守与挑战。```wbCustomBlock{\"type\": \"quoted\", \"index\": 14, \"data\": {\"num\": [3], \"version\": 2, \"quote_list\": [{\"name\": \"凤凰卫视\", \"scheme\": \"sinaweibo://detail?mblogid=5228307886905413\", \"index\": 3, \"label\": \"\"}]}}```  <br>    - **海外篇章**：  <br>      - 印尼将传统草药Jamu转型为“盲盒”产品，吸引年轻群体。```wbCustomBlock{\"type\": \"quoted\", \"index\": 16, \"data\": {\"num\": [9, 22], \"version\": 2, \"quote_list\": [{\"name\": \"鞠茉汐\", \"scheme\": \"sinaweibo://detail?mblogid=5228435901251944\", \"index\": 9, \"label\": \"\"}, {\"name\": \"凤凰卫视\", \"scheme\": \"sinaweibo://detail?mblogid=5182813114728585\", \"index\": 22, \"label\": \"\"}]}}```  <br>      - 意大利医生组团学中医、英国贵族推崇针灸，凸显国际认可。```wbCustomBlock{\"type\": \"quoted\", \"index\": 17, \"data\": {\"num\": [6, 14], \"version\": 2, \"quote_list\": [{\"name\": \"凤凰卫视\", \"scheme\": \"sinaweibo://detail?mblogid=5227741819438094\", \"index\": 6, \"label\": \"\"}, {\"name\": \"凤凰卫视\", \"scheme\": \"sinaweibo://detail?mblogid=5224842932521955\", \"index\": 14, \"label\": \"\"}]}}```  <br><br>2. **科技赋能中医**  <br>    - 台北中医诊所引入生物电阻抗检测，结合大数据分析体质，推动诊疗精准化。```wbCustomBlock{\"type\": \"quoted\", \"index\": 19, \"data\": {\"num\": [4, 20], \"version\": 2, \"quote_list\": [{\"name\": \"股市安吉拉\", \"scheme\": \"sinaweibo://detail?mblogid=5228445915416356\", \"index\": 20, \"label\": \"大v\"}, {\"name\": \"四海中医\", \"scheme\": \"sinaweibo://detail?mblogid=5228315442944349\", \"index\": 4, \"label\": \"\"}], \"name\": \"股市安吉拉\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/6fa97eb5ly8hbr6ophonpj20u00u00up.jpg?KID=imgbed,tva&Expires=1762079160&ssig=9JeqXPkVBf\", \"scheme\": \"sinaweibo://detail?mblogid=5228445915416356\", \"vType\": 0}}```  <br>    - 保留手工炮制药材的百年老店与科技药房并存，体现“守正创新”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 20, \"data\": {\"num\": [4, 7], \"version\": 2, \"quote_list\": [{\"name\": \"四海中医\", \"scheme\": \"sinaweibo://detail?mblogid=5228315442944349\", \"index\": 4, \"label\": \"\"}, {\"name\": \"凤凰周刊\", \"scheme\": \"sinaweibo://detail?mblogid=5228466434738859\", \"index\": 7, \"label\": \"\"}]}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5228307890315783&multi_paragraph=2&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.600.600.50/001NfW7xly8hwn58bch3vj60go0goaca02.jpg?KID=imgbed,tva&Expires=1762079160&ssig=vWphBBAVr%2F) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">凤凰卫视</span><img src=\"http://wx4.sinaimg.cn/middle/001NfW7xly1i6x0cq4xirj635s1s04qu02.jpg\" data-width=2304 data-height=4096></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5228307886905413&multi_paragraph=2&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.600.600.50/001NfW7xly8hwn58bch3vj60go0goaca02.jpg?KID=imgbed,tva&Expires=1762079160&ssig=vWphBBAVr%2F) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">凤凰卫视</span><img src=\"http://wx4.sinaimg.cn/middle/001NfW7xly1i6ve7s1z3nj635s1s0u1202.jpg\" data-width=2304 data-height=4096></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5227741819438094&multi_paragraph=2&multi_count=2\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.600.600.50/001NfW7xly8hwn58bch3vj60go0goaca02.jpg?KID=imgbed,tva&Expires=1762079160&ssig=vWphBBAVr%2F) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">凤凰卫视</span><img src=\"http://wx4.sinaimg.cn/middle/001NfW7xly1i6vggtnubkj60u0140av902.jpg\" data-width=1440 data-height=1080></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5224842932521955&multi_paragraph=2&multi_count=3\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.600.600.50/001NfW7xly8hwn58bch3vj60go0goaca02.jpg?KID=imgbed,tva&Expires=1762079160&ssig=vWphBBAVr%2F) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">凤凰卫视</span><img src=\"http://wx4.sinaimg.cn/middle/001NfW7xly1i6m20qasjsj60u01407hy02.jpg\" data-width=1440 data-height=1080></div></media-block><br>### 三、传播策略与文化价值  <br>1. **国际视角表达**  <br>    - 特邀美籍中药学博士Eric等外国专家参与探访，以跨文化视角解读中医。```wbCustomBlock{\"type\": \"quoted\", \"index\": 23, \"data\": {\"num\": [6, 13], \"version\": 2, \"quote_list\": [{\"name\": \"凤凰卫视\", \"scheme\": \"sinaweibo://detail?mblogid=5227741819438094\", \"index\": 6, \"label\": \"\"}, {\"name\": \"东阿阿胶\", \"scheme\": \"sinaweibo://detail?mblogid=5228111596880135\", \"index\": 13, \"label\": \"\"}]}}```  <br>    - 多语言版本覆盖全球，粤语版通过香港台播出，欧美平台同步上线。```wbCustomBlock{\"type\": \"quoted\", \"index\": 24, \"data\": {\"num\": [33], \"version\": 2, \"quote_list\": [{\"name\": \"黄斌-元御传人\", \"scheme\": \"sinaweibo://detail?mblogid=5228293609490392\", \"index\": 33, \"label\": \"\"}]}}```  <br><br>2. **生活化场景渗透**  <br>    - 通过梳头养生、穴位按摩等日常实践传递“治未病”理念。```wbCustomBlock{\"type\": \"quoted\", \"index\": 26, \"data\": {\"num\": [8], \"version\": 2, \"quote_list\": [{\"name\": \"凤凰卫视\", \"scheme\": \"sinaweibo://detail?mblogid=5225379737375360\", \"index\": 8, \"label\": \"\"}]}}```  <br>    - 倡导“喝热水”等低成本养生法，呼应中医“温养阳气”核心。```wbCustomBlock{\"type\": \"quoted\", \"index\": 27, \"data\": {\"num\": [28], \"version\": 2, \"quote_list\": [{\"name\": \"袁者之\", \"scheme\": \"sinaweibo://detail?mblogid=5228192018204100\", \"index\": 28, \"label\": \"大v\"}], \"name\": \"袁者之\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/e6242c21ly8huwiggtq5wj20u00u0q42.jpg?KID=imgbed,tva&Expires=1762079160&ssig=WrnnkfzZYF\", \"scheme\": \"sinaweibo://detail?mblogid=5228192018204100\", \"vType\": 0}}```  <br><br>3. **产业联动助力**  <br>    - 东阿阿胶依托千年文化底蕴，为节目注入产业实践案例。```wbCustomBlock{\"type\": \"quoted\", \"index\": 29, \"data\": {\"num\": [1, 13], \"version\": 2, \"quote_list\": [{\"name\": \"东阿阿胶\", \"scheme\": \"sinaweibo://detail?mblogid=5227907754757380\", \"index\": 1, \"label\": \"\"}, {\"name\": \"东阿阿胶\", \"scheme\": \"sinaweibo://detail?mblogid=5228111596880135\", \"index\": 13, \"label\": \"\"}]}}```  <br>    - 广药白云山支持中医药标准化、国际化进程。```wbCustomBlock{\"type\": \"quoted\", \"index\": 30, \"data\": {\"num\": [2, 36], \"version\": 2, \"quote_list\": [{\"name\": \"凤凰卫视\", \"scheme\": \"sinaweibo://detail?mblogid=5228307890315783\", \"index\": 2, \"label\": \"\"}, {\"name\": \"凤凰周刊\", \"scheme\": \"sinaweibo://detail?mblogid=5098519857989993\", \"index\": 36, \"label\": \"\"}]}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5225379737375360&multi_paragraph=3&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.600.600.50/001NfW7xly8hwn58bch3vj60go0goaca02.jpg?KID=imgbed,tva&Expires=1762079160&ssig=vWphBBAVr%2F) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">凤凰卫视</span><img src=\"http://wx1.sinaimg.cn/middle/001NfW7xly1i6nrbztuh9j60u0140txl02.jpg\" data-width=1440 data-height=1080></div></media-block><br>### 四、社会反响与意义  <br>- **破除偏见**：海外调研显示，中医因“以人为本”的整体观受多国认可，远超“不科学”质疑。```wbCustomBlock{\"type\": \"quoted\", \"index\": 32, \"data\": {\"num\": [14, 21], \"version\": 2, \"quote_list\": [{\"name\": \"选择中医__董洪涛\", \"scheme\": \"sinaweibo://detail?mblogid=5203513938546277\", \"index\": 21, \"label\": \"大v\"}, {\"name\": \"凤凰卫视\", \"scheme\": \"sinaweibo://detail?mblogid=5224842932521955\", \"index\": 14, \"label\": \"\"}], \"name\": \"选择中医__董洪涛\", \"img\": \"https://tva3.sinaimg.cn/crop.0.0.180.180.50/55fe2b65jw1e8qgp5bmzyj2050050aa8.jpg?KID=imgbed,tva&Expires=1762079160&ssig=7fXWHVZ3em\", \"scheme\": \"sinaweibo://detail?mblogid=5203513938546277\", \"vType\": 0}}```  <br>- **女性力量**：穿插历史人物如汉代女医义妁的故事，致敬女性在中医传承中的突破。```wbCustomBlock{\"type\": \"quoted\", \"index\": 33, \"data\": {\"num\": [5], \"version\": 2, \"quote_list\": [{\"name\": \"Jenny米妮妮\", \"scheme\": \"sinaweibo://detail?mblogid=5228436734084031\", \"index\": 5, \"label\": \"\"}]}}```  <br>- **文明共振**：节目传递“中医是中华文明钥匙”，引发跨文化健康理念共鸣。```wbCustomBlock{\"type\": \"quoted\", \"index\": 34, \"data\": {\"num\": [6, 10], \"version\": 2, \"quote_list\": [{\"name\": \"凤凰卫视\", \"scheme\": \"sinaweibo://detail?mblogid=5227741819438094\", \"index\": 6, \"label\": \"\"}, {\"name\": \"夏野小橙子\", \"scheme\": \"sinaweibo://detail?mblogid=5228324101818693\", \"index\": 10, \"label\": \"\"}]}}```  <br><br>**总结**：“四海中医”以纪录片为桥梁，通过在地化叙事、科技融合与生活哲学转化，将中医药打造为全球共享的健康方案。其核心不仅是文化输出，更是文明价值的双向对话——既扎根传统智慧，又回应现代需求。```wbCustomBlock{\"type\": \"quoted\", \"index\": 35, \"data\": {\"num\": [9, 20, 36], \"version\": 2, \"quote_list\": [{\"name\": \"鞠茉汐\", \"scheme\": \"sinaweibo://detail?mblogid=5228435901251944\", \"index\": 9, \"label\": \"\"}, {\"name\": \"股市安吉拉\", \"scheme\": \"sinaweibo://detail?mblogid=5228445915416356\", \"index\": 20, \"label\": \"\"}, {\"name\": \"凤凰周刊\", \"scheme\": \"sinaweibo://detail?mblogid=5098519857989993\", \"index\": 36, \"label\": \"\"}]}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5228436734084031&multi_paragraph=4&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.533.533.50/7b062fefly8i4wtpprqnhj20et0etq38.jpg?KID=imgbed,tva&Expires=1762079160&ssig=2UY5eitFyN) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">Jenny米妮妮</span><img src=\"http://wx2.sinaimg.cn/middle/7b062fefly1i6xiqgw6rrj20u01mqn0m.jpg\" data-width=2114 data-height=1080></div></media-block><br>",
+      "short_url": "http://t.cn/AXAMmwqy",
+      "version": "2025-11-02 15:26:00.019000-9300",
+      "page_id": "23296433a1f4192d574c5af3e4ad25e7c87631",
+      "sorted_material_list": null,
+      "qs_status": 0,
+      "share_info": {
+        "url": "http://t.cn/AXAtuP3q",
+        "unify_md5": "fe7eef5cb30d48376fbdc201606a9a2c",
+        "comment_content": "",
+        "page_id": "23296433a1f4192d574c5af3e4ad25e7c87631",
+        "tips": "#四海中医 向世界种草中国智慧#的相关内容，来智搜看看",
+        "display_name": "#四海中医 向世界种草中国智慧#",
+        "status": 3
+      },
+      "scheme": "sinaweibo://cardlist?containerid=100103type%3D225%26q%3D%23%E5%9B%9B%E6%B5%B7%E4%B8%AD%E5%8C%BB%20%E5%90%91%E4%B8%96%E7%95%8C%E7%A7%8D%E8%8D%89%E4%B8%AD%E5%9B%BD%E6%99%BA%E6%85%A7%23%26t%3D&extparam=ai_model%3Ddeepseek%26ori_ai_title%3D%E5%8F%82%E8%80%83%E5%8D%9A%E6%96%87%26material_version%3D1762068360",
+      "abtest_info": {
+        "chat_entrance": 1
+      },
+      "cot": 1,
+      "top_quote_list": {},
+      "share_text": "#四海中医 向世界种草中国智慧#的相关内容，来智搜看看",
+      "msg_format": "markdown",
+      "show_ctrl": {
+        "quote": {}
+      },
+      "comment_info": {},
+      "ab_suffix": "default"
+    }
+  },
+  "links": [
+    "sinaweibo://detail?mblogid=5227907754757380",
+    "sinaweibo://detail?mblogid=5228307890315783",
+    "sinaweibo://detail?mblogid=5228307886905413",
+    "sinaweibo://detail?mblogid=5228315442944349",
+    "sinaweibo://detail?mblogid=5228436734084031",
+    "sinaweibo://detail?mblogid=5227741819438094",
+    "sinaweibo://detail?mblogid=5228466434738859",
+    "sinaweibo://detail?mblogid=5225379737375360",
+    "sinaweibo://detail?mblogid=5228435901251944",
+    "sinaweibo://detail?mblogid=5228324101818693",
+    "sinaweibo://detail?mblogid=5228324401971465",
+    "sinaweibo://detail?mblogid=5198396767866352",
+    "sinaweibo://detail?mblogid=5228111596880135",
+    "sinaweibo://detail?mblogid=5224842932521955",
+    "sinaweibo://detail?mblogid=5228451361195931",
+    "sinaweibo://detail?mblogid=5228550743656466",
+    "sinaweibo://detail?mblogid=5228323743466671",
+    "sinaweibo://detail?mblogid=5228038281494854",
+    "sinaweibo://detail?mblogid=5228482143455878",
+    "sinaweibo://detail?mblogid=5228445915416356",
+    "sinaweibo://detail?mblogid=5203513938546277",
+    "sinaweibo://detail?mblogid=5182813114728585",
+    "sinaweibo://detail?mblogid=5118453961460647",
+    "sinaweibo://detail?mblogid=5228204705977244",
+    "sinaweibo://detail?mblogid=5151720787153759",
+    "sinaweibo://detail?mblogid=5099282719576830",
+    "sinaweibo://detail?mblogid=5228519284279401",
+    "sinaweibo://detail?mblogid=5228192018204100",
+    "sinaweibo://detail?mblogid=5224466662819615",
+    "sinaweibo://detail?mblogid=5182722515402850",
+    "sinaweibo://detail?mblogid=5189301283064711",
+    "sinaweibo://detail?mblogid=4914363813595012",
+    "sinaweibo://detail?mblogid=5228293609490392",
+    "sinaweibo://detail?mblogid=5227389338255390",
+    "sinaweibo://detail?mblogid=5151405225807164",
+    "sinaweibo://detail?mblogid=5098519857989993"
+  ],
+  "media": [
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/7fb5ac19ly1i6vq24ul8gj21620no7wh.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/7fb5ac19ly1i6vq24ul8gj21620no7wh.jpg",
+      "alt": "东阿阿胶",
+      "width": 852,
+      "height": 1514,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/7fb5ac19ly1i6vq24ul8gj21620no7wh.jpg"
+      ],
+      "user": "东阿阿胶"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/001NfW7xly1i6x0cq4xirj635s1s04qu02.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/001NfW7xly1i6x0cq4xirj635s1s04qu02.jpg",
+      "alt": "凤凰卫视",
+      "width": 2304,
+      "height": 4096,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/001NfW7xly1i6x0cq4xirj635s1s04qu02.jpg"
+      ],
+      "user": "凤凰卫视"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/001NfW7xly1i6ve7s1z3nj635s1s0u1202.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/001NfW7xly1i6ve7s1z3nj635s1s0u1202.jpg",
+      "alt": "凤凰卫视",
+      "width": 2304,
+      "height": 4096,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/001NfW7xly1i6ve7s1z3nj635s1s0u1202.jpg"
+      ],
+      "user": "凤凰卫视"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/001NfW7xly1i6vggtnubkj60u0140av902.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/001NfW7xly1i6vggtnubkj60u0140av902.jpg",
+      "alt": "凤凰卫视",
+      "width": 1440,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/001NfW7xly1i6vggtnubkj60u0140av902.jpg"
+      ],
+      "user": "凤凰卫视"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/001NfW7xly1i6m20qasjsj60u01407hy02.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/001NfW7xly1i6m20qasjsj60u01407hy02.jpg",
+      "alt": "凤凰卫视",
+      "width": 1440,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx4.sinaimg.cn/large/001NfW7xly1i6m20qasjsj60u01407hy02.jpg"
+      ],
+      "user": "凤凰卫视"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/001NfW7xly1i6nrbztuh9j60u0140txl02.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/001NfW7xly1i6nrbztuh9j60u0140txl02.jpg",
+      "alt": "凤凰卫视",
+      "width": 1440,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/001NfW7xly1i6nrbztuh9j60u0140txl02.jpg"
+      ],
+      "user": "凤凰卫视"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/7b062fefly1i6xiqgw6rrj20u01mqn0m.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/7b062fefly1i6xiqgw6rrj20u01mqn0m.jpg",
+      "alt": "Jenny米妮妮",
+      "width": 2114,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/7b062fefly1i6xiqgw6rrj20u01mqn0m.jpg"
+      ],
+      "user": "Jenny米妮妮"
+    }
+  ],
+  "html_path": "data/aicard/hourly/2025-11-02/15/topic-fe7eef5c.html"
+}

@@ -1,0 +1,300 @@
+{
+  "meta": {
+    "query": "#新疆人最近都在追同一部剧#",
+    "status_code": 200,
+    "fetched_at": "2025-10-31T22:41:44+08:00",
+    "response": {
+      "page_id": "232964b9235af92cf4a607b1aad470df23aedd",
+      "q_attr": {
+        "from_uid": "",
+        "mid": "",
+        "reply_cid": "",
+        "from_request_id": "",
+        "comment_from_type": ""
+      },
+      "analysis_time": 1761841165,
+      "status": 2,
+      "abtest_info": {
+        "chat_entrance": 1
+      },
+      "scheme": "sinaweibo://cardlist?containerid=100103type%3D225%26q%3D%23%E6%96%B0%E7%96%86%E4%BA%BA%E6%9C%80%E8%BF%91%E9%83%BD%E5%9C%A8%E8%BF%BD%E5%90%8C%E4%B8%80%E9%83%A8%E5%89%A7%23%26t%3D&extparam=ai_model%3Ddeepseek%26ori_ai_title%3D%E5%8F%82%E8%80%83%E5%8D%9A%E6%96%87%26material_version%3D1761841056",
+      "share_info": {
+        "unify_md5": "a0acda5afd68a41e6c3fce967afc2086",
+        "url": "http://t.cn/AXAyJzTP",
+        "comment_content": "",
+        "page_id": "232964b9235af92cf4a607b1aad470df23aedd",
+        "tips": "#新疆人最近都在追同一部剧#的相关内容，来智搜看看",
+        "status": 3,
+        "display_name": "#新疆人最近都在追同一部剧#"
+      },
+      "sorted_material_list": null,
+      "query": "#新疆人最近都在追同一部剧#",
+      "reference_num": 27,
+      "status_stage": 4,
+      "link_list": [
+        "sinaweibo://detail?mblogid=5227371730045050",
+        "sinaweibo://detail?mblogid=5227430359075375",
+        "sinaweibo://detail?mblogid=5188728794648974",
+        "sinaweibo://detail?mblogid=5227402852567830",
+        "sinaweibo://detail?mblogid=5227419273529195",
+        "historyweibo://5227371730045050",
+        "historyweibo://5224212983709800",
+        "sinaweibo://detail?mblogid=5227432552171252",
+        "sinaweibo://detail?mblogid=5227501321192237",
+        "sinaweibo://detail?mblogid=5227573362557453",
+        "sinaweibo://detail?mblogid=5227503448757524",
+        "sinaweibo://detail?mblogid=5227495755613934",
+        "sinaweibo://detail?mblogid=5227398108021071",
+        "sinaweibo://detail?mblogid=5227433617523168",
+        "sinaweibo://detail?mblogid=5227373894828927",
+        "sinaweibo://detail?mblogid=5227372531941688",
+        "sinaweibo://detail?mblogid=5227367552254376",
+        "sinaweibo://detail?mblogid=5227214514950698",
+        "sinaweibo://detail?mblogid=5227482878051118",
+        "sinaweibo://detail?mblogid=5225413750293973",
+        "sinaweibo://detail?mblogid=5227399446528587",
+        "sinaweibo://detail?mblogid=5227430870778311",
+        "sinaweibo://detail?mblogid=5227399119375260",
+        "sinaweibo://detail?mblogid=5227418643074016",
+        "sinaweibo://detail?mblogid=5227411249823760",
+        "sinaweibo://detail?mblogid=5227414370389613",
+        "sinaweibo://detail?mblogid=5227576822072752",
+        "sinaweibo://detail?mblogid=5227422136140495",
+        "sinaweibo://detail?mblogid=5227425401146014"
+      ],
+      "ext_show": {},
+      "model": "deepseek",
+      "card_multimodal": {
+        "type": "mediablock",
+        "data": [
+          {
+            "h": 1080,
+            "video_url": "https://video.weibo.com/show?fid=1034:5225410091483140",
+            "click_rate": 0,
+            "hit_score_new": 52.441406,
+            "doc_score": 1581,
+            "img": "http://wx3.sinaimg.cn/middle/002M0gmrly1i6nv6glkx5j61hc0u042y02.jpg",
+            "hit_score_final": 51.464844,
+            "w": 1920,
+            "scheme": "sinaweibo://video/vvs?mid=5225413750293973&multi_paragraph=1&multi_count=0",
+            "type": "v",
+            "cur_mid": "5225413750293973",
+            "vtype": 1,
+            "user_name": "新疆发布",
+            "img_pid": "002M0gmrly1i6nv6glkx5j61hc0u042y02",
+            "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.600.600.50/002M0gmrly8hczdzdz2ipj60go0gogoe02.jpg?KID=imgbed,tva&Expires=1761851856&ssig=JqIAmxxLLG"
+          },
+          {
+            "h": 1920,
+            "video_url": "https://video.weibo.com/show?fid=1034:5227399294681156",
+            "click_rate": 0,
+            "hit_score_new": 86.279297,
+            "doc_score": 2080,
+            "img": "http://wx2.sinaimg.cn/middle/76648102ly1i6u7mwpolzj20u01hc0vl.jpg",
+            "hit_score_final": 74.967583,
+            "w": 1080,
+            "scheme": "sinaweibo://video/vvs?mid=5227399446528587&multi_paragraph=1&multi_count=1",
+            "type": "v",
+            "cur_mid": "5227399446528587",
+            "vtype": 0,
+            "user_name": "看剧不谈钱",
+            "img_pid": "76648102ly1i6u7mwpolzj20u01hc0vl",
+            "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.512.512.50/76648102ly8himrqant4qj20e80e80sv.jpg?KID=imgbed,tva&Expires=1761851856&ssig=txkrkcLSSd"
+          },
+          {
+            "h": 1080,
+            "video_url": "https://video.weibo.com/show?fid=1034:5227402725621813",
+            "click_rate": 0,
+            "hit_score_new": 80.273438,
+            "doc_score": 2620,
+            "img": "http://wx2.sinaimg.cn/middle/005TR3jLly1i6u815gnzmj61400u076e02.jpg",
+            "hit_score_final": 70.164062,
+            "w": 1440,
+            "scheme": "sinaweibo://video/vvs?mid=5227402852567830&multi_paragraph=1&multi_count=2",
+            "type": "v",
+            "cur_mid": "5227402852567830",
+            "vtype": 7,
+            "user_name": "微博电视剧",
+            "img_pid": "005TR3jLly1i6u815gnzmj61400u076e02",
+            "user_avatar": "https://tvax1.sinaimg.cn/crop.0.0.180.180.50/005TR3jLly8i2lpl2ell1j6050050q2v02.jpg?KID=imgbed,tva&Expires=1761851856&ssig=3ZKbTHCx69"
+          },
+          {
+            "h": 1080,
+            "video_url": "https://video.weibo.com/show?fid=1034:5225410091483140",
+            "click_rate": 0,
+            "hit_score_new": 52.441406,
+            "doc_score": 1581,
+            "img": "http://wx3.sinaimg.cn/middle/002M0gmrly1i6nv6glkx5j61hc0u042y02.jpg",
+            "hit_score_final": 51.464844,
+            "w": 1920,
+            "scheme": "sinaweibo://video/vvs?mid=5225413750293973&multi_paragraph=1&multi_count=0",
+            "type": "v",
+            "cur_mid": "5225413750293973",
+            "vtype": 1,
+            "user_name": "新疆发布",
+            "img_pid": "002M0gmrly1i6nv6glkx5j61hc0u042y02",
+            "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.600.600.50/002M0gmrly8hczdzdz2ipj60go0gogoe02.jpg?KID=imgbed,tva&Expires=1761851856&ssig=JqIAmxxLLG"
+          }
+        ]
+      },
+      "share_card_multimodal": {
+        "h": 1080,
+        "video_url": "https://video.weibo.com/show?fid=1034:5225410091483140",
+        "click_rate": 0,
+        "hit_score_new": 52.441406,
+        "doc_score": 1581,
+        "img": "http://wx3.sinaimg.cn/middle/002M0gmrly1i6nv6glkx5j61hc0u042y02.jpg",
+        "hit_score_final": 51.464844,
+        "w": 1920,
+        "scheme": "sinaweibo://video/vvs?mid=5225413750293973&multi_paragraph=1&multi_count=0",
+        "type": "v",
+        "cur_mid": "5225413750293973",
+        "vtype": 1,
+        "user_name": "新疆发布",
+        "img_pid": "002M0gmrly1i6nv6glkx5j61hc0u042y02",
+        "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.600.600.50/002M0gmrly8hczdzdz2ipj60go0gogoe02.jpg?KID=imgbed,tva&Expires=1761851856&ssig=JqIAmxxLLG"
+      },
+      "short_url": "http://t.cn/AXAyxPTd",
+      "wenda": {
+        "forward_gen": 0
+      },
+      "zs_risk_control": {
+        "land_button_close": 0,
+        "think_text_close": 0
+      },
+      "msg_format": "markdown",
+      "show_ctrl": {
+        "quote": {}
+      },
+      "version": "2025-10-31 00:17:36.017999-4968",
+      "msg_json": "{}",
+      "cot": 1,
+      "query_field": "22",
+      "chat_status_stage": 1,
+      "qs_status": 0,
+      "news_analyze": {},
+      "current_time": 1761921704,
+      "profile_image_url": "",
+      "user_info": {},
+      "comment_info": {},
+      "reliable_tips": "{\"gold_orange_v_mids\": [\"5227371730045050\", \"5227398108021071\", \"5227399446528587\", \"5227425401146014\", \"5227576822072752\", \"5227399119375260\", \"5227430359075375\", \"5188728794648974\"], \"gold_orange_v_ratio\": \"30%\", \"media_mids\": [\"5227367552254376\", \"5227373894828927\", \"5227372531941688\", \"5227214514950698\"], \"media_ratio\": \"15%\", \"verified_mids\": [\"5225413750293973\", \"5227402852567830\", \"5227414370389613\", \"5227433617523168\", \"5227501321192237\", \"5227573362557453\"], \"verified_ratio\": \"22%\", \"normal_mids\": [\"5227430870778311\", \"5227419273529195\", \"5227422136140495\", \"5227432552171252\", \"5227503448757524\", \"5227495755613934\", \"5227482878051118\", \"5227418643074016\", \"5227411249823760\"], \"normal_ratio\": \"33%\", \"ref_mid_rank\": {\"5225413750293973\": {\"rank\": 20}, \"5227371730045050\": {\"rank\": 1}, \"5227402852567830\": {\"rank\": 4}, \"5227398108021071\": {\"rank\": 13}, \"5227399446528587\": {\"rank\": 21}, \"5227430870778311\": {\"rank\": 22}, \"5227425401146014\": {\"rank\": 29}, \"5227367552254376\": {\"rank\": 17}, \"5227419273529195\": {\"rank\": 5}, \"5227414370389613\": {\"rank\": 26}, \"5227576822072752\": {\"rank\": 27}, \"5227422136140495\": {\"rank\": 28}, \"5227433617523168\": {\"rank\": 14}, \"5227399119375260\": {\"rank\": 23}, \"5227430359075375\": {\"rank\": 2}, \"5188728794648974\": {\"rank\": 3}, \"5227432552171252\": {\"rank\": 8}, \"5227501321192237\": {\"rank\": 9}, \"5227573362557453\": {\"rank\": 10}, \"5227503448757524\": {\"rank\": 11}, \"5227495755613934\": {\"rank\": 12}, \"5227373894828927\": {\"rank\": 15}, \"5227372531941688\": {\"rank\": 16}, \"5227214514950698\": {\"rank\": 18}, \"5227482878051118\": {\"rank\": 19}, \"5227418643074016\": {\"rank\": 24}, \"5227411249823760\": {\"rank\": 25}}}",
+      "mid_list": null,
+      "basemodel": "实验组9",
+      "share_text": "#新疆人最近都在追同一部剧#的相关内容，来智搜看看",
+      "unify_md5": "a0acda5afd68a41e6c3fce967afc2086",
+      "top_quote_list": {},
+      "loop_times": 200,
+      "ab_suffix": "default",
+      "msg": "<think><br>嗯，用户想了解新疆人最近都在追哪部剧。从搜索结果看，答案非常明确——是《红石榴餐厅》这部央视热播剧。用户可能想了解这部剧火爆的原因、具体内容或社会影响，也可能考虑是否值得观看。<br><br>让我梳理核心信息点：这部剧于2025年10月22日在央视一套首播，是首部新疆都市情感剧，由央视和新疆党委宣传部联合制作。剧情围绕乌鲁木齐一家餐厅展开，融合家庭温情、美食文化和生态保护三条主线。<br><br>最打动我的是新疆观众的真实反应。他们普遍表示剧情\"像在自家小区发生的故事\"，这种代入感源于高度还原的生活细节：邻里互送食物、巴扎集市砍价、家人聚餐等场景。角色经常使用\"攒劲儿\"\"歹得很\"等方言，连新疆籍演员加奈那饰演野生动物保护员的设定也充满地域特色。<br><br>这部剧还意外带火了线下打卡。虽然\"红石榴餐厅\"只是乌鲁木齐水磨沟区的拍摄布景，但很多观众专门骑车十几公里去找剧中的手抓饭。取景地覆盖乌鲁木齐街景、阿勒泰草原等标志性景观，被观众称为\"每一帧都能当壁纸\"。<br><br>社会影响层面值得一提。作为新疆生产建设兵团70周年献礼剧，它打破了\"新疆只有歌舞草原\"的刻板印象，展现现代化城市风貌。数据显示2024年新疆旅游人次达3.02亿，这部剧可能进一步助推旅游热潮。<br><br>还需要注意几个细节：该剧在芒果TV、爱奇艺等平台同步更新；剧中美食引发餐饮业跟风推出同款菜品；部分观众提到相关演员迪丽热巴的新剧《利剑·玫瑰》，但和当前热点无直接关联。<br><br>最后整理出五个最具说服力的爆火原因：真实的烟火气息、视觉化的美食盛宴、震撼的自然风光、深沉的情感内核、以及本土化的精准表达。这些要素共同构成了现象级传播的基础。<br><br></think><br>新疆人近期全民追看的剧集是**《红石榴餐厅》**（又名《飘香的日子》），其热播现象已成为文化焦点。以下从热度表现、本土共鸣、社会效应等方面综合分析：<br>### 🔥 **一、全民追剧的热度表现**<br>1. **播出平台与时间**  <br>   该剧于**2025年10月22日**登陆**CCTV-1黄金档**，同时在芒果TV、爱奇艺、腾讯视频同步更新。开播首周收视率与全网播放量均表现亮眼。```wbCustomBlock{\"type\": \"quoted\", \"index\": 4, \"data\": {\"num\": [20], \"version\": 2, \"quote_list\": [{\"name\": \"新疆发布\", \"scheme\": \"sinaweibo://detail?mblogid=5225413750293973\", \"index\": 20, \"label\": \"大v\"}], \"name\": \"新疆发布\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.600.600.50/002M0gmrly8hczdzdz2ipj60go0gogoe02.jpg?KID=imgbed,tva&Expires=1761851856&ssig=JqIAmxxLLG\", \"scheme\": \"sinaweibo://detail?mblogid=5225413750293973\", \"vType\": 1}}```<br>2. **话题引爆社交平台**  <br>   微博话题 **#新疆人最近都在追同一部剧#** 和 **#红石榴餐厅#** 单日阅读量超千万，乌鲁木齐本地居民、媒体账号及普通网友纷纷分享观剧体验。```wbCustomBlock{\"type\": \"quoted\", \"index\": 5, \"data\": {\"num\": [1, 4, 13, 21], \"version\": 2, \"quote_list\": [{\"name\": \"追星人生赢家\", \"scheme\": \"sinaweibo://detail?mblogid=5227371730045050\", \"index\": 1, \"label\": \"大v\"}, {\"name\": \"微博电视剧\", \"scheme\": \"sinaweibo://detail?mblogid=5227402852567830\", \"index\": 4, \"label\": \"\"}, {\"name\": \"顶流预备役i\", \"scheme\": \"sinaweibo://detail?mblogid=5227398108021071\", \"index\": 13, \"label\": \"\"}, {\"name\": \"看剧不谈钱\", \"scheme\": \"sinaweibo://detail?mblogid=5227399446528587\", \"index\": 21, \"label\": \"\"}], \"name\": \"追星人生赢家\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.690.690.50/a0a833dbly8hwvc2gvcepj20j60j6ta7.jpg?KID=imgbed,tva&Expires=1761851856&ssig=NiiSY2JHEL\", \"scheme\": \"sinaweibo://detail?mblogid=5227371730045050\", \"vType\": 0}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5225413750293973&multi_paragraph=1&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.600.600.50/002M0gmrly8hczdzdz2ipj60go0gogoe02.jpg?KID=imgbed,tva&Expires=1761851856&ssig=JqIAmxxLLG) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">新疆发布</span><img src=\"http://wx3.sinaimg.cn/middle/002M0gmrly1i6nv6glkx5j61hc0u042y02.jpg\" data-width=1080 data-height=1920></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5227399446528587&multi_paragraph=1&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.512.512.50/76648102ly8himrqant4qj20e80e80sv.jpg?KID=imgbed,tva&Expires=1761851856&ssig=txkrkcLSSd) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">看剧不谈钱</span><img src=\"http://wx2.sinaimg.cn/middle/76648102ly1i6u7mwpolzj20u01hc0vl.jpg\" data-width=1920 data-height=1080></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5227402852567830&multi_paragraph=1&multi_count=2\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.180.180.50/005TR3jLly8i2lpl2ell1j6050050q2v02.jpg?KID=imgbed,tva&Expires=1761851856&ssig=3ZKbTHCx69) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">微博电视剧</span><img src=\"http://wx2.sinaimg.cn/middle/005TR3jLly1i6u815gnzmj61400u076e02.jpg\" data-width=1080 data-height=1440></div></media-block><br>### 🏠 **二、引发新疆观众深度共鸣的核心原因**<br>1. **生活场景高度还原**  <br>   - 剧中呈现乌鲁木齐街巷的烟火气：邻居互赠美食、巴扎集市砍价、家人围坐聚餐等日常，让本地观众直呼“像在自家小区发生的故事”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 9, \"data\": {\"num\": [1, 13], \"version\": 2, \"quote_list\": [{\"name\": \"顶流预备役i\", \"scheme\": \"sinaweibo://detail?mblogid=5227398108021071\", \"index\": 13, \"label\": \"大v\"}, {\"name\": \"追星人生赢家\", \"scheme\": \"sinaweibo://detail?mblogid=5227371730045050\", \"index\": 1, \"label\": \"\"}], \"name\": \"顶流预备役i\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.512.512.50/537b9367ly8hw6zksg2wej20e80e83z1.jpg?KID=imgbed,tva&Expires=1761851856&ssig=cljg%2FhPgZg\", \"scheme\": \"sinaweibo://detail?mblogid=5227398108021071\", \"vType\": 0}}```  <br>   - 方言台词强化代入感：角色频繁使用“攒劲儿”（带劲）、“歹得很”（真好）等新疆方言，增添真实感。```wbCustomBlock{\"type\": \"quoted\", \"index\": 10, \"data\": {\"num\": [22], \"version\": 2, \"quote_list\": [{\"name\": \"美豚椰\", \"scheme\": \"sinaweibo://detail?mblogid=5227430870778311\", \"index\": 22, \"label\": \"\"}]}}```<br>2. **本土演员与角色契合**  <br>   新疆籍演员**加奈那**（饰野生动物保护员古丽娜尔）以维吾尔族身份演绎本土故事，其奔跑于草原的镜头被央视主题曲选为经典画面。配角中大量启用新疆素人，方言对白自然流畅。```wbCustomBlock{\"type\": \"quoted\", \"index\": 11, \"data\": {\"num\": [29], \"version\": 2, \"quote_list\": [{\"name\": \"春巷序\", \"scheme\": \"sinaweibo://detail?mblogid=5227425401146014\", \"index\": 29, \"label\": \"\"}]}}```<br>3. **美食与文化符号的渗透**  <br>   - **美食贯穿剧情**：手抓饭、烤包子、羊肚菌炒肉等新疆特色菜肴成为情感纽带。观众因剧中美食“馋到立刻去餐厅拔草”，甚至有人骑行10公里寻找“剧同款手抓饭”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 13, \"data\": {\"num\": [1, 17, 21], \"version\": 2, \"quote_list\": [{\"name\": \"荔枝新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5227367552254376\", \"index\": 17, \"label\": \"大v\"}, {\"name\": \"追星人生赢家\", \"scheme\": \"sinaweibo://detail?mblogid=5227371730045050\", \"index\": 1, \"label\": \"\"}, {\"name\": \"看剧不谈钱\", \"scheme\": \"sinaweibo://detail?mblogid=5227399446528587\", \"index\": 21, \"label\": \"\"}], \"name\": \"荔枝新闻\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.600.600.50/6b0e1e9dly8i5r6s6bgzlj20go0go40f.jpg?KID=imgbed,tva&Expires=1761851856&ssig=HTwIWb8A1v\", \"scheme\": \"sinaweibo://detail?mblogid=5227367552254376\", \"vType\": 3}}```  <br>   - **红石榴意象**：餐厅布景采用红外立面与民族装饰，石榴象征“民族团结”，契合新疆生产建设兵团70周年献礼主题。```wbCustomBlock{\"type\": \"quoted\", \"index\": 14, \"data\": {\"num\": [20], \"version\": 2, \"quote_list\": [{\"name\": \"新疆发布\", \"scheme\": \"sinaweibo://detail?mblogid=5225413750293973\", \"index\": 20, \"label\": \"\"}]}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5227430870778311&from=search&content_show=1&mix_index=3&hide_index=1&multi_paragraph=2&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.736.736.50/0072naRmly8i6j1nj0gw3j30kg0kgq4y.jpg?KID=imgbed,tva&Expires=1761851856&ssig=OVdZZgrz8S) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">美豚椰</span><img src=\"http://wx4.sinaimg.cn/middle/0072naRmly1i6ub78yaakj30zk0g411k.jpg\" data-width=580 data-height=1280></div></media-block><br>### 📸 **三、从荧屏到现实的连锁效应**<br>1. **取景地打卡热潮**  <br>   剧中“红石榴餐厅”实景位于**乌鲁木齐市水磨沟区温泉西路北三巷**（原老纺织厂住宅区改造地）。尽管是临时布景未营业，仍吸引大量游客拍照打卡，日均人流量激增。当地居民称：“从家步行十几分钟就能到，过去安静的小街已成网红景点”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 17, \"data\": {\"num\": [1, 5, 26, 27], \"version\": 2, \"quote_list\": [{\"name\": \"追星人生赢家\", \"scheme\": \"sinaweibo://detail?mblogid=5227371730045050\", \"index\": 1, \"label\": \"\"}, {\"name\": \"宇宙失重\", \"scheme\": \"sinaweibo://detail?mblogid=5227419273529195\", \"index\": 5, \"label\": \"\"}, {\"name\": \"老默我想吃娱了\", \"scheme\": \"sinaweibo://detail?mblogid=5227414370389613\", \"index\": 26, \"label\": \"\"}, {\"name\": \"沛沛大圈圈\", \"scheme\": \"sinaweibo://detail?mblogid=5227576822072752\", \"index\": 27, \"label\": \"\"}]}}```<br>2. **文旅种草效应**  <br>   剧中阿勒泰草原、喀纳斯湖、熔岩塔式光热发电站等景观被赞“每一帧可作壁纸”，激发观众赴疆旅行意愿。关联话题 **#看完红石榴餐厅想去新疆了#** 热度攀升。2024年新疆旅游人次达3.02亿（2012年为4860万），消费总额3595亿元，该剧或进一步助推旅游增长。```wbCustomBlock{\"type\": \"quoted\", \"index\": 18, \"data\": {\"num\": [17, 28], \"version\": 2, \"quote_list\": [{\"name\": \"荔枝新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5227367552254376\", \"index\": 17, \"label\": \"\"}, {\"name\": \"古诗有南桥\", \"scheme\": \"sinaweibo://detail?mblogid=5227422136140495\", \"index\": 28, \"label\": \"\"}]}}```<br>3. **打破地域刻板印象**  <br>   外地观众通过剧中现代化街景、市井生活及多民族和谐共居场景，刷新对新疆“只有歌舞和草原”的认知，直观感受其城市化进程与人文温度。```wbCustomBlock{\"type\": \"quoted\", \"index\": 19, \"data\": {\"num\": [22], \"version\": 2, \"quote_list\": [{\"name\": \"美豚椰\", \"scheme\": \"sinaweibo://detail?mblogid=5227430870778311\", \"index\": 22, \"label\": \"\"}]}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5227576822072752&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=3&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/008dVt2Bly8i2x9ubel5bj30u00u00uj.jpg?KID=imgbed,tva&Expires=1761851856&ssig=yRpNJV18vi) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">沛沛大圈圈</span><img src=\"http://wx3.sinaimg.cn/middle/008dVt2Bgy1i6us0md4wpj30u01c2tkj.jpg\" data-width=1730 data-height=1080></div></media-block><br>### ❤️ **四、情感内核与时代意义**<br>1. **家庭温情引发代际共鸣**  <br>   如“母亲为儿缝衣，儿子为母画像”的细节，被观众视为“朴素亲情的缩影”。长辈感慨“想起已故亲人”，年轻人因朋友聚会剧情怀念家乡氛围。```wbCustomBlock{\"type\": \"quoted\", \"index\": 22, \"data\": {\"num\": [13, 14, 23], \"version\": 2, \"quote_list\": [{\"name\": \"新疆是个好地方V\", \"scheme\": \"sinaweibo://detail?mblogid=5227433617523168\", \"index\": 14, \"label\": \"大v\"}, {\"name\": \"顶流预备役i\", \"scheme\": \"sinaweibo://detail?mblogid=5227398108021071\", \"index\": 13, \"label\": \"\"}, {\"name\": \"芋头养娱塘\", \"scheme\": \"sinaweibo://detail?mblogid=5227399119375260\", \"index\": 23, \"label\": \"\"}], \"name\": \"新疆是个好地方V\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.640.640.50/93d0be68ly8hja8sorlrtj20hs0hswfr.jpg?KID=imgbed,tva&Expires=1761851856&ssig=cbbKQsvPyn\", \"scheme\": \"sinaweibo://detail?mblogid=5227433617523168\", \"vType\": 1}}```<br>2. **生态保护与时代主题**  <br>   通过野生动物保护员古丽娜尔的职业线，传递守护戈壁生态的价值观，呼应“绿水青山就是金山银山”理念。```wbCustomBlock{\"type\": \"quoted\", \"index\": 23, \"data\": {\"num\": [29], \"version\": 2, \"quote_list\": [{\"name\": \"春巷序\", \"scheme\": \"sinaweibo://detail?mblogid=5227425401146014\", \"index\": 29, \"label\": \"\"}]}}```  <br>3. **地域影视创作新范本**  <br>   该剧以“小人物日常”取代宏大叙事，用本土化语言和场景证明“真实的生活肌理最具感染力”。网友呼吁“各省都需这样的家乡剧”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 24, \"data\": {\"num\": [22], \"version\": 2, \"quote_list\": [{\"name\": \"美豚椰\", \"scheme\": \"sinaweibo://detail?mblogid=5227430870778311\", \"index\": 22, \"label\": \"\"}]}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5227399119375260&multi_paragraph=4&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.800.800.50/4e803722ly8hwuw9agbb8j20m80m841m.jpg?KID=imgbed,tva&Expires=1761851856&ssig=z7yb5cVWX3) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">芋头养娱塘</span><img src=\"http://wx2.sinaimg.cn/middle/4e803722ly1i6u7lmolifj20zk0k00sv.jpg\" data-width=720 data-height=1280></div></media-block><br>### 💎 **总结**  <br>《红石榴餐厅》以**极致的新疆风光**、**地道的生活还原**和**深沉的情感表达**，成为连接新疆民众集体记忆的文化载体。其热播不仅是追剧现象，更让全国观众透过荧屏看见新疆的现代图景与人文内核，印证了“最本土的故事最动人心”。随着剧情推进，红石榴餐厅的布景地或持续带动文旅创新，而剧中关于家庭、生态与时代的思考，也将延续其社会影响力。<br>",
+      "qs_status_info": "{\"ab_lab\":{},\"qs_q_status\":0,\"qs_status\":0,\"qs_r_status\":0,\"qs_u_status\":0,\"qs_c_status\":8388608}",
+      "uid": "",
+      "query_category": "Ip"
+    }
+  },
+  "links": [
+    "sinaweibo://detail?mblogid=5227371730045050",
+    "sinaweibo://detail?mblogid=5227430359075375",
+    "sinaweibo://detail?mblogid=5188728794648974",
+    "sinaweibo://detail?mblogid=5227402852567830",
+    "sinaweibo://detail?mblogid=5227419273529195",
+    "historyweibo://5227371730045050",
+    "historyweibo://5224212983709800",
+    "sinaweibo://detail?mblogid=5227432552171252",
+    "sinaweibo://detail?mblogid=5227501321192237",
+    "sinaweibo://detail?mblogid=5227573362557453",
+    "sinaweibo://detail?mblogid=5227503448757524",
+    "sinaweibo://detail?mblogid=5227495755613934",
+    "sinaweibo://detail?mblogid=5227398108021071",
+    "sinaweibo://detail?mblogid=5227433617523168",
+    "sinaweibo://detail?mblogid=5227373894828927",
+    "sinaweibo://detail?mblogid=5227372531941688",
+    "sinaweibo://detail?mblogid=5227367552254376",
+    "sinaweibo://detail?mblogid=5227214514950698",
+    "sinaweibo://detail?mblogid=5227482878051118",
+    "sinaweibo://detail?mblogid=5225413750293973",
+    "sinaweibo://detail?mblogid=5227399446528587",
+    "sinaweibo://detail?mblogid=5227430870778311",
+    "sinaweibo://detail?mblogid=5227399119375260",
+    "sinaweibo://detail?mblogid=5227418643074016",
+    "sinaweibo://detail?mblogid=5227411249823760",
+    "sinaweibo://detail?mblogid=5227414370389613",
+    "sinaweibo://detail?mblogid=5227576822072752",
+    "sinaweibo://detail?mblogid=5227422136140495",
+    "sinaweibo://detail?mblogid=5227425401146014"
+  ],
+  "media": [
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/002M0gmrly1i6nv6glkx5j61hc0u042y02.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/002M0gmrly1i6nv6glkx5j61hc0u042y02.jpg",
+      "alt": "新疆发布",
+      "width": 1080,
+      "height": 1920,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/002M0gmrly1i6nv6glkx5j61hc0u042y02.jpg"
+      ],
+      "user": "新疆发布"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/76648102ly1i6u7mwpolzj20u01hc0vl.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/76648102ly1i6u7mwpolzj20u01hc0vl.jpg",
+      "alt": "看剧不谈钱",
+      "width": 1920,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/76648102ly1i6u7mwpolzj20u01hc0vl.jpg"
+      ],
+      "user": "看剧不谈钱"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/005TR3jLly1i6u815gnzmj61400u076e02.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/005TR3jLly1i6u815gnzmj61400u076e02.jpg",
+      "alt": "微博电视剧",
+      "width": 1080,
+      "height": 1440,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/005TR3jLly1i6u815gnzmj61400u076e02.jpg"
+      ],
+      "user": "微博电视剧"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/0072naRmly1i6ub78yaakj30zk0g411k.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/0072naRmly1i6ub78yaakj30zk0g411k.jpg",
+      "alt": "美豚椰",
+      "width": 580,
+      "height": 1280,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/0072naRmly1i6ub78yaakj30zk0g411k.jpg"
+      ],
+      "user": "美豚椰"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/008dVt2Bgy1i6us0md4wpj30u01c2tkj.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/008dVt2Bgy1i6us0md4wpj30u01c2tkj.jpg",
+      "alt": "沛沛大圈圈",
+      "width": 1730,
+      "height": 1080,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/008dVt2Bgy1i6us0md4wpj30u01c2tkj.jpg"
+      ],
+      "user": "沛沛大圈圈"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/4e803722ly1i6u7lmolifj20zk0k00sv.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/4e803722ly1i6u7lmolifj20zk0k00sv.jpg",
+      "alt": "芋头养娱塘",
+      "width": 720,
+      "height": 1280,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/4e803722ly1i6u7lmolifj20zk0k00sv.jpg"
+      ],
+      "user": "芋头养娱塘"
+    }
+  ],
+  "html_path": "data/aicard/hourly/2025-10-30/12/topic-a0acda5a.html"
+}

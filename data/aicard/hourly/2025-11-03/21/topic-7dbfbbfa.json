@@ -1,0 +1,171 @@
+{
+  "meta": {
+    "query": "#侯明昊 属于我们的奖杯#",
+    "status_code": 200,
+    "fetched_at": "2025-11-03T21:49:02+08:00",
+    "response": {
+      "ext_show": {},
+      "qs_status": 0,
+      "unify_md5": "7dbfbbfac8ebb23a3a74abfd98253756",
+      "news_analyze": {},
+      "cot": 1,
+      "comment_info": {},
+      "sorted_material_list": null,
+      "msg_format": "markdown",
+      "model": "deepseek",
+      "version": "2025-11-03 21:36:39.019999-2190",
+      "abtest_info": {
+        "chat_entrance": 1
+      },
+      "query": "#侯明昊 属于我们的奖杯#",
+      "zs_risk_control": {
+        "think_text_close": 0,
+        "land_button_close": 0
+      },
+      "ab_suffix": "default",
+      "short_url": "http://t.cn/AXAOixZM",
+      "analysis_time": 1762177133,
+      "uid": "",
+      "mid_list": null,
+      "reference_num": 21,
+      "current_time": 1762177743,
+      "profile_image_url": "",
+      "link_list": [
+        "sinaweibo://detail?mblogid=5229002027696812",
+        "historyweibo://5228891310132731",
+        "historyweibo://5228630328475875",
+        "historyweibo://5217781144096064",
+        "sinaweibo://detail?mblogid=5227794503567304",
+        "sinaweibo://detail?mblogid=5229008946201945",
+        "sinaweibo://detail?mblogid=5228980946862729",
+        "sinaweibo://detail?mblogid=5229011605127738",
+        "sinaweibo://detail?mblogid=5229011573670392",
+        "sinaweibo://detail?mblogid=5229011501842683",
+        "sinaweibo://detail?mblogid=5229011312579914",
+        "sinaweibo://detail?mblogid=5229010982536765",
+        "sinaweibo://detail?mblogid=5129369938563055",
+        "sinaweibo://detail?mblogid=5123179135901237",
+        "sinaweibo://detail?mblogid=5122373210605536",
+        "sinaweibo://detail?mblogid=5121753624623589",
+        "sinaweibo://detail?mblogid=5121765038889413",
+        "sinaweibo://detail?mblogid=5121760867126498",
+        "sinaweibo://detail?mblogid=5109054327757120",
+        "sinaweibo://detail?mblogid=4186442785381273",
+        "sinaweibo://detail?mblogid=5229007991737153",
+        "sinaweibo://detail?mblogid=5229010910449148",
+        "sinaweibo://detail?mblogid=5122835823726033",
+        "sinaweibo://detail?mblogid=5229011455185328"
+      ],
+      "wenda": {
+        "forward_gen": 0
+      },
+      "top_quote_list": {},
+      "card_multimodal": {},
+      "share_card_multimodal": {
+        "type": "v",
+        "user_avatar": "https://tvax4.sinaimg.cn/crop.0.0.480.480.50/007mkziZly8i3dzz3xthkj30dc0dcglq.jpg?KID=imgbed,tva&Expires=1762187799&ssig=ZCjIZ%2BRlAx",
+        "hit_score_final": 59.685158,
+        "video_url": "https://video.weibo.com/show?fid=1034:5228980517666907",
+        "w": 1440,
+        "hit_score_new": 78.808594,
+        "doc_score": 4050,
+        "img_pid": "007mkziZly1i6z9a0zzdkj31400mjgry",
+        "vtype": 0,
+        "click_rate": 0,
+        "click_num": 0,
+        "img": "http://wx1.sinaimg.cn/middle/007mkziZly1i6z9a0zzdkj31400mjgry.jpg",
+        "h": 811,
+        "cur_mid": "5228980946862729",
+        "scheme": "sinaweibo://video/vvs?mid=5228980946862729&multi_paragraph=1&multi_count=0",
+        "user_name": "格列佛的密码"
+      },
+      "status": 2,
+      "basemodel": "实验组3",
+      "reliable_tips": "{\"gold_orange_v_mids\": [\"5229008946201945\", \"5229011573670392\", \"5228980946862729\", \"5229007991737153\", \"5229010910449148\", \"5229011455185328\", \"5109054327757120\", \"5121753624623589\", \"5123179135901237\", \"5229002027696812\"], \"gold_orange_v_ratio\": \"48%\", \"media_mids\": [], \"media_ratio\": \"0%\", \"verified_mids\": [\"5229011605127738\", \"5122835823726033\", \"5121765038889413\", \"5227794503567304\", \"5129369938563055\"], \"verified_ratio\": \"24%\", \"normal_mids\": [\"5229011501842683\", \"5122373210605536\", \"5121760867126498\", \"5229011312579914\", \"5229010982536765\", \"4186442785381273\"], \"normal_ratio\": \"28%\", \"ref_mid_rank\": {\"5229008946201945\": {\"rank\": 6}, \"5229011573670392\": {\"rank\": 9}, \"5228980946862729\": {\"rank\": 7}, \"5229007991737153\": {\"rank\": 21}, \"5229010910449148\": {\"rank\": 22}, \"5229011605127738\": {\"rank\": 8}, \"5229011501842683\": {\"rank\": 10}, \"5229011455185328\": {\"rank\": 24}, \"5109054327757120\": {\"rank\": 19}, \"5122835823726033\": {\"rank\": 23}, \"5122373210605536\": {\"rank\": 15}, \"5121753624623589\": {\"rank\": 16}, \"5121765038889413\": {\"rank\": 17}, \"5121760867126498\": {\"rank\": 18}, \"5123179135901237\": {\"rank\": 14}, \"5229002027696812\": {\"rank\": 1}, \"5227794503567304\": {\"rank\": 5}, \"5229011312579914\": {\"rank\": 11}, \"5229010982536765\": {\"rank\": 12}, \"5129369938563055\": {\"rank\": 13}, \"4186442785381273\": {\"rank\": 20}}}",
+      "qs_status_info": "{\"qs_c_status\":8388608,\"qs_status\":0,\"ab_lab\":{},\"qs_u_status\":0,\"qs_r_status\":0,\"qs_q_status\":0}",
+      "status_stage": 4,
+      "loop_times": 200,
+      "query_field": "1",
+      "msg": "<think><br><br>嗯，用户查询的是\"侯明昊 属于我们的奖杯\"，看起来是想了解这个梗的由来和具体含义。从搜索结果看，这应该是侯明昊在2025年11月3日微博视界大会获奖时的感言内容。<br><br>用户可能是侯明昊的粉丝，想了解偶像的最新动态；也可能是媒体从业者需要事件素材。考虑到话题刚发生不久（今天就是11月3日），应该重点呈现最新资讯。<br><br>翻看搜索结果发现几个关键点：首先在微博视界大会上，侯明昊获得了\"年度青云瞩目演员\"奖；领奖时他特别强调奖杯\"属于我们\"，这个表述立刻被粉丝捕捉并创建了话题#侯明昊属于我们的奖杯#，目前多个认证账号都在讨论。<br><br>有趣的是，这已经不是他第一次用\"我们\"的表述。今年1月微博之夜获奖时，他就直播展示奖杯说\"这是我们的荣誉\"，当时粉丝就感动于他把荣誉归为集体。更早从2017年拿第一个奖（金骨朵奖）开始，他就表示要让粉丝骄傲地说出\"喜欢侯明昊\"——可见这是贯穿他职业生涯的态度。<br><br>有粉丝分析得很深入，说这是\"将个人成就转化为群体情感契约\"。结合他过去经历会更动人：2023年微博之夜他曾坐角落穿不合身旧衣，现在能坦然说\"属于我们\"，确实体现逆袭的底气。<br><br>关于奖项本身，\"年度青云瞩目演员\"明显呼应他主演的热播剧《入青云》。他在感言里专门感谢剧组和\"纪伯宰\"这个角色，而11月正是该剧宣传期，他还有金发造型等营销动作——可见获奖与剧集热度直接相关。<br><br>需要提醒的是，虽然多个账号都在刷话题，但实际获奖名称有细微差异：有说\"年度青云瞩目演员\"，有说\"年度闪耀演员\"，建议以他工作室后续官宣为准。不过核心价值不在奖项名称，而在他传递的价值观。<br><br></think><br>关于“侯明昊 属于我们的奖杯”的核心信息梳理如下：<br>### 🏆 **一、事件起源：2025微博视界大会获奖感言**  <br>1. **奖项与发言**  <br>   - 侯明昊在2025年11月3日**微博视界大会**上获颁 **“年度青云瞩目演员”** 奖项。```wbCustomBlock{\"type\": \"quoted\", \"index\": 4, \"data\": {\"num\": [6, 9], \"version\": 2, \"quote_list\": [{\"name\": \"梨小笙Diana\", \"scheme\": \"sinaweibo://detail?mblogid=5229008946201945\", \"index\": 6, \"label\": \"大v\"}, {\"name\": \"-京墨Neo\", \"scheme\": \"sinaweibo://detail?mblogid=5229011573670392\", \"index\": 9, \"label\": \"\"}], \"name\": \"梨小笙Diana\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.512.512.50/006EP6cRly8hgluvejg55j30e80e8wek.jpg?KID=imgbed,tva&Expires=1762187799&ssig=5%2FWhBx%2B98p\", \"scheme\": \"sinaweibo://detail?mblogid=5229008946201945\", \"vType\": 0}}```  <br>   - 发表感言时特别强调： **“这是属于我们的奖杯”** ，并感谢《入青云》剧组、角色“纪伯宰”及全体剧粉的支持。```wbCustomBlock{\"type\": \"quoted\", \"index\": 5, \"data\": {\"num\": [7, 21], \"version\": 2, \"quote_list\": [{\"name\": \"格列佛的密码\", \"scheme\": \"sinaweibo://detail?mblogid=5228980946862729\", \"index\": 7, \"label\": \"大v\"}, {\"name\": \"长腿小九\", \"scheme\": \"sinaweibo://detail?mblogid=5229007991737153\", \"index\": 21, \"label\": \"\"}], \"name\": \"格列佛的密码\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.480.480.50/007mkziZly8i3dzz3xthkj30dc0dcglq.jpg?KID=imgbed,tva&Expires=1762187799&ssig=ZCjIZ%2BRlAx\", \"scheme\": \"sinaweibo://detail?mblogid=5228980946862729\", \"vType\": 0}}```  <br>   - 他提到角色教会自己“保持生活的赤诚之心”，并承诺延续对表演的赤诚。```wbCustomBlock{\"type\": \"quoted\", \"index\": 6, \"data\": {\"num\": [7, 22], \"version\": 2, \"quote_list\": [{\"name\": \"格列佛的密码\", \"scheme\": \"sinaweibo://detail?mblogid=5228980946862729\", \"index\": 7, \"label\": \"\"}, {\"name\": \"Xuanan0___\", \"scheme\": \"sinaweibo://detail?mblogid=5229010910449148\", \"index\": 22, \"label\": \"\"}]}}```<br><br>2. **粉丝共鸣与话题发酵**  <br>   - 粉丝迅速创建话题 **#侯明昊属于我们的奖杯#**，强调荣誉是演员与粉丝共同奋斗的结果。```wbCustomBlock{\"type\": \"quoted\", \"index\": 8, \"data\": {\"num\": [6, 8, 10], \"version\": 2, \"quote_list\": [{\"name\": \"梨小笙Diana\", \"scheme\": \"sinaweibo://detail?mblogid=5229008946201945\", \"index\": 6, \"label\": \"\"}, {\"name\": \"桃叁迷\", \"scheme\": \"sinaweibo://detail?mblogid=5229011605127738\", \"index\": 8, \"label\": \"\"}, {\"name\": \"烟雨落花-flower\", \"scheme\": \"sinaweibo://detail?mblogid=5229011501842683\", \"index\": 10, \"label\": \"\"}]}}```  <br>   - 关键词 **“我们”** 被反复解读为双向奔赴的象征，如粉丝所言：“他烧毁戏里的黄粱梦，却用现实表演缝补观众的真心”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 9, \"data\": {\"num\": [22, 24], \"version\": 2, \"quote_list\": [{\"name\": \"桃妹齐齐\", \"scheme\": \"sinaweibo://detail?mblogid=5229011455185328\", \"index\": 24, \"label\": \"大v\"}, {\"name\": \"Xuanan0___\", \"scheme\": \"sinaweibo://detail?mblogid=5229010910449148\", \"index\": 22, \"label\": \"\"}], \"name\": \"桃妹齐齐\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.480.480.50/556ec198ly8hxtc0vn169j20dc0dct8z.jpg?KID=imgbed,tva&Expires=1762187799&ssig=8p8CmfPjVH\", \"scheme\": \"sinaweibo://detail?mblogid=5229011455185328\", \"vType\": 0}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5228980946862729&multi_paragraph=1&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.480.480.50/007mkziZly8i3dzz3xthkj30dc0dcglq.jpg?KID=imgbed,tva&Expires=1762187799&ssig=ZCjIZ%2BRlAx) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">格列佛的密码</span><img src=\"http://wx1.sinaimg.cn/middle/007mkziZly1i6z9a0zzdkj31400mjgry.jpg\" data-width=811 data-height=1440></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5229007991737153&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=1\"><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.809.809.50/007cYTjyly1i64roqdatpj30mh0mhgni.jpg?KID=imgbed,tva&Expires=1762187799&ssig=buEm1K%2B%2BjO) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">长腿小九</span><img src=\"http://wx4.sinaimg.cn/middle/007cYTjyly1i6zcbzlzrrj30u00ludp1.jpg\" data-width=786 data-height=1080></div></media-block><br>### 🌟 **二、深层含义：荣誉共享的生存哲学**  <br>1. **历史延续性**  <br>   - **2017年首次获奖**（金骨朵网络影视盛典）时，侯明昊便表示：“要让大家骄傲地说喜欢侯明昊”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 12, \"data\": {\"num\": [19, 23], \"version\": 2, \"quote_list\": [{\"name\": \"i不长胖\", \"scheme\": \"sinaweibo://detail?mblogid=5122835823726033\", \"index\": 23, \"label\": \"大v\"}, {\"name\": \"-潜如夜\", \"scheme\": \"sinaweibo://detail?mblogid=5109054327757120\", \"index\": 19, \"label\": \"\"}], \"name\": \"i不长胖\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/008a9icnly8i6vqot23noj30u00u0dho.jpg?KID=imgbed,tva&Expires=1762187799&ssig=0wPHvEixlG\", \"scheme\": \"sinaweibo://detail?mblogid=5122835823726033\", \"vType\": 0}}```  <br>   - **2025年1月微博之夜**再获奖项，他直播展示奖杯称：“这是属于我们的荣誉！”，粉丝称此行为为“养成系追星的幸福感”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 13, \"data\": {\"num\": [15, 16, 17, 18], \"version\": 2, \"quote_list\": [{\"name\": \"菌菌不吃猕猴桃\", \"scheme\": \"sinaweibo://detail?mblogid=5122373210605536\", \"index\": 15, \"label\": \"\"}, {\"name\": \"-潜如夜\", \"scheme\": \"sinaweibo://detail?mblogid=5121753624623589\", \"index\": 16, \"label\": \"\"}, {\"name\": \"喵呜小月亮\", \"scheme\": \"sinaweibo://detail?mblogid=5121765038889413\", \"index\": 17, \"label\": \"\"}, {\"name\": \"水心猕-Hou-hmh\", \"scheme\": \"sinaweibo://detail?mblogid=5121760867126498\", \"index\": 18, \"label\": \"\"}]}}```  <br><br>2. **情感契约的构建**  <br>   - 从低谷期（如2023年微博之夜临时替补、座位边缘化）到逐步上升，侯明昊始终将粉丝视为重要支撑。```wbCustomBlock{\"type\": \"quoted\", \"index\": 15, \"data\": {\"num\": [14, 19], \"version\": 2, \"quote_list\": [{\"name\": \"-潜如夜\", \"scheme\": \"sinaweibo://detail?mblogid=5123179135901237\", \"index\": 14, \"label\": \"\"}, {\"name\": \"-潜如夜\", \"scheme\": \"sinaweibo://detail?mblogid=5109054327757120\", \"index\": 19, \"label\": \"\"}]}}```  <br>   - 粉丝强调其内核强大：“胸有惊雷而面如平湖”，并坚信奖项是彼此陪伴的见证。```wbCustomBlock{\"type\": \"quoted\", \"index\": 16, \"data\": {\"num\": [14, 21], \"version\": 2, \"quote_list\": [{\"name\": \"-潜如夜\", \"scheme\": \"sinaweibo://detail?mblogid=5123179135901237\", \"index\": 14, \"label\": \"\"}, {\"name\": \"长腿小九\", \"scheme\": \"sinaweibo://detail?mblogid=5229007991737153\", \"index\": 21, \"label\": \"\"}]}}```<br>### 💎 **三、行业意义与关联动态**  <br>1. **与作品深度绑定**  <br>   - 奖项名称 **“年度青云瞩目演员”** 直接关联其热播剧《入青云》及角色“纪伯宰”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 19, \"data\": {\"num\": [7], \"version\": 2, \"quote_list\": [{\"name\": \"格列佛的密码\", \"scheme\": \"sinaweibo://detail?mblogid=5228980946862729\", \"index\": 7, \"label\": \"\"}]}}```  <br>   - 近期他通过金发造型（#侯明昊这次真的不是普通黄毛#）、红毯“玩火”营销（#侯明昊又开始玩火了#）持续强化角色标签。  <br><br>2. **商业价值提升**  <br>   - 2025年多次直播（如方里品牌1小时销售额600万、海信电视古风清唱）展现强粉丝转化力，为奖杯的“共同荣誉”提供商业佐证。<br>### ⚠️ **四、潜在挑战**  <br>1. **团队争议未解**：经纪人苏冉被指“点赞黑稿”事件持续发酵，可能影响公众形象。  <br>2. **角色同质化风险**：待播剧《玉茗茶骨》再演“茶系男主”，恐引发审美疲劳。<br>### 总结  <br>“属于我们的奖杯” **本质是侯明昊与粉丝双向奔赴的情感符号**：  <br>- **对演员**：将个人荣誉归功集体，延续九年从业的真诚底色；  <br>- **对行业**：以《入青云》为跳板，验证角色绑定营销的有效性，但需警惕舆情风险与突破瓶颈。  <br>正如业内观察：“奖杯是他缝补观众真心的具象见证”，未来转化效果取决于作品深度与团队危机应对能力。```wbCustomBlock{\"type\": \"quoted\", \"index\": 29, \"data\": {\"num\": [22], \"version\": 2, \"quote_list\": [{\"name\": \"Xuanan0___\", \"scheme\": \"sinaweibo://detail?mblogid=5229010910449148\", \"index\": 22, \"label\": \"\"}]}}```<br>",
+      "msg_json": "{}",
+      "page_id": "2329645de8c08171ff9450eb9b108f8df90b9e",
+      "chat_status_stage": 1,
+      "scheme": "sinaweibo://cardlist?containerid=100103type%3D225%26q%3D%23%E4%BE%AF%E6%98%8E%E6%98%8A%20%E5%B1%9E%E4%BA%8E%E6%88%91%E4%BB%AC%E7%9A%84%E5%A5%96%E6%9D%AF%23%26t%3D&extparam=ai_model%3Ddeepseek%26ori_ai_title%3D%E5%8F%82%E8%80%83%E5%8D%9A%E6%96%87%26material_version%3D1762176999",
+      "q_attr": {
+        "reply_cid": "",
+        "comment_from_type": "",
+        "from_request_id": "",
+        "mid": "",
+        "from_uid": ""
+      },
+      "share_text": "#侯明昊 属于我们的奖杯#的相关内容，来智搜看看",
+      "query_category": "Ip",
+      "user_info": {},
+      "show_ctrl": {
+        "quote": {}
+      },
+      "share_info": {
+        "tips": "#侯明昊 属于我们的奖杯#的相关内容，来智搜看看",
+        "unify_md5": "7dbfbbfac8ebb23a3a74abfd98253756",
+        "display_name": "#侯明昊 属于我们的奖杯#",
+        "comment_content": "",
+        "url": "http://t.cn/AXAO6NAg",
+        "status": 3,
+        "page_id": "2329645de8c08171ff9450eb9b108f8df90b9e"
+      }
+    }
+  },
+  "links": [
+    "sinaweibo://detail?mblogid=5229002027696812",
+    "historyweibo://5228891310132731",
+    "historyweibo://5228630328475875",
+    "historyweibo://5217781144096064",
+    "sinaweibo://detail?mblogid=5227794503567304",
+    "sinaweibo://detail?mblogid=5229008946201945",
+    "sinaweibo://detail?mblogid=5228980946862729",
+    "sinaweibo://detail?mblogid=5229011605127738",
+    "sinaweibo://detail?mblogid=5229011573670392",
+    "sinaweibo://detail?mblogid=5229011501842683",
+    "sinaweibo://detail?mblogid=5229011312579914",
+    "sinaweibo://detail?mblogid=5229010982536765",
+    "sinaweibo://detail?mblogid=5129369938563055",
+    "sinaweibo://detail?mblogid=5123179135901237",
+    "sinaweibo://detail?mblogid=5122373210605536",
+    "sinaweibo://detail?mblogid=5121753624623589",
+    "sinaweibo://detail?mblogid=5121765038889413",
+    "sinaweibo://detail?mblogid=5121760867126498",
+    "sinaweibo://detail?mblogid=5109054327757120",
+    "sinaweibo://detail?mblogid=4186442785381273",
+    "sinaweibo://detail?mblogid=5229007991737153",
+    "sinaweibo://detail?mblogid=5229010910449148",
+    "sinaweibo://detail?mblogid=5122835823726033",
+    "sinaweibo://detail?mblogid=5229011455185328"
+  ],
+  "media": [
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/007mkziZly1i6z9a0zzdkj31400mjgry.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/007mkziZly1i6z9a0zzdkj31400mjgry.jpg",
+      "alt": "格列佛的密码",
+      "width": 811,
+      "height": 1440,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/007mkziZly1i6z9a0zzdkj31400mjgry.jpg"
+      ],
+      "user": "格列佛的密码"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/007cYTjyly1i6zcbzlzrrj30u00ludp1.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/007cYTjyly1i6zcbzlzrrj30u00ludp1.jpg",
+      "alt": "长腿小九",
+      "width": 786,
+      "height": 1080,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/007cYTjyly1i6zcbzlzrrj30u00ludp1.jpg"
+      ],
+      "user": "长腿小九"
+    }
+  ],
+  "html_path": "data/aicard/hourly/2025-11-03/21/topic-7dbfbbfa.html"
+}

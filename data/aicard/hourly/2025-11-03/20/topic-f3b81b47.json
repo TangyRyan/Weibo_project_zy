@@ -1,0 +1,282 @@
+{
+  "meta": {
+    "query": "#工行建行暂停提取实体金条#",
+    "status_code": 200,
+    "fetched_at": "2025-11-03T20:47:33+08:00",
+    "response": {
+      "abtest_info": {
+        "chat_entrance": 1
+      },
+      "mid_list": null,
+      "reference_num": 30,
+      "profile_image_url": "",
+      "status_stage": 4,
+      "link_list": [
+        "sinaweibo://detail?mblogid=5228949623805799",
+        "sinaweibo://detail?mblogid=5228942822740762",
+        "sinaweibo://detail?mblogid=5228977297033017",
+        "sinaweibo://detail?mblogid=5228936674940007",
+        "broadsocial_res://",
+        "historyweibo://5228878256934553",
+        "sinaweibo://detail?mblogid=5228991940400036",
+        "sinaweibo://detail?mblogid=5228938385424811",
+        "sinaweibo://detail?mblogid=5228955583644595",
+        "sinaweibo://detail?mblogid=5228940408390754",
+        "sinaweibo://detail?mblogid=5228935904232012",
+        "sinaweibo://detail?mblogid=5228994917040852",
+        "sinaweibo://detail?mblogid=5228905392770743",
+        "sinaweibo://detail?mblogid=5228896771642515",
+        "sinaweibo://detail?mblogid=5228996129461334",
+        "sinaweibo://detail?mblogid=5228995943864123",
+        "sinaweibo://detail?mblogid=5228994561835557",
+        "sinaweibo://detail?mblogid=5228951715971617",
+        "sinaweibo://detail?mblogid=5228946846910581",
+        "sinaweibo://detail?mblogid=5228939158751548",
+        "sinaweibo://detail?mblogid=5228936091928751",
+        "sinaweibo://detail?mblogid=5228939158491326",
+        "sinaweibo://detail?mblogid=5228995916335501",
+        "sinaweibo://detail?mblogid=5228995202781016",
+        "sinaweibo://detail?mblogid=5228952870456005",
+        "sinaweibo://detail?mblogid=5228954325617551",
+        "sinaweibo://detail?mblogid=5228949463633394",
+        "sinaweibo://detail?mblogid=5228983609986073",
+        "sinaweibo://detail?mblogid=5228852194577908",
+        "sinaweibo://detail?mblogid=5228950428846352",
+        "sinaweibo://detail?mblogid=5228893929737628",
+        "sinaweibo://detail?mblogid=5228925849436585"
+      ],
+      "top_quote_list": {},
+      "short_url": "http://t.cn/AXApYFeN",
+      "card_multimodal": {
+        "type": "mediablock",
+        "data": [
+          {
+            "w": 1080,
+            "type": "v",
+            "click_rate": 0.11111111111111,
+            "cur_mid": "5228936674940007",
+            "h": 1920,
+            "user_name": "重庆广电第1眼",
+            "img": "http://wx3.sinaimg.cn/middle/a7db4e88ly1i6z46s97ssj20u01hcq4n.jpg",
+            "user_avatar": "https://tvax1.sinaimg.cn/crop.0.0.600.600.50/a7db4e88ly8hf1bw4a8nzj20go0go74t.jpg?KID=imgbed,tva&Expires=1762184159&ssig=mKKeThxevJ",
+            "hit_score_final": 78.459381,
+            "video_url": "https://video.weibo.com/show?fid=1034:5228936519680033",
+            "vtype": 3,
+            "hit_score_new": 84.765625,
+            "doc_score": 3417,
+            "img_pid": "a7db4e88ly1i6z46s97ssj20u01hcq4n",
+            "scheme": "sinaweibo://video/vvs?mid=5228936674940007&multi_paragraph=1&multi_count=0"
+          },
+          {
+            "w": 1000,
+            "type": "v",
+            "click_rate": 0.052287581699346,
+            "cur_mid": "5228896771642515",
+            "h": 562,
+            "user_name": "央视财经",
+            "img": "http://wx4.sinaimg.cn/middle/002sRokily1i6yyav4hvcj60rs0fmh0702.jpg",
+            "user_avatar": "https://tvax2.sinaimg.cn/crop.0.0.700.700.50/002sRokily8h8vg8b1kf7j60jg0jgwf602.jpg?KID=imgbed,tva&Expires=1762184159&ssig=2lLWDE4ywk",
+            "hit_score_final": 55.933594,
+            "video_url": "https://video.weibo.com/show?fid=1034:5228885219147781",
+            "vtype": 3,
+            "hit_score_new": 53.222656,
+            "doc_score": 3276,
+            "img_pid": "002sRokily1i6yyav4hvcj60rs0fmh0702",
+            "scheme": "sinaweibo://video/vvs?mid=5228896771642515&multi_paragraph=1&multi_count=1"
+          },
+          {
+            "w": 1035,
+            "type": "p",
+            "click_rate": 0,
+            "cur_mid": "5228949623805799",
+            "h": 582,
+            "user_name": "澎湃新闻",
+            "img": "http://wx1.sinaimg.cn/middle/005vnhZYly1i6z5nc9jwuj60sr0g6nf702.jpg",
+            "user_avatar": "https://tvax1.sinaimg.cn/crop.11.10.275.275.50/005vnhZYly8ftjmwo0bx4j308c08cq32.jpg?KID=imgbed,tva&Expires=1762184159&ssig=3xNXDaPDrD",
+            "hit_score_final": 0,
+            "video_url": "",
+            "vtype": 3,
+            "hit_score_new": 0,
+            "doc_score": 0,
+            "img_pid": "005vnhZYly1i6z5nc9jwuj60sr0g6nf702",
+            "scheme": "sinaweibo://multimedia?mix_mid=5228949623805799&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=2"
+          },
+          {
+            "w": 1080,
+            "type": "v",
+            "click_rate": 0.11111111111111,
+            "cur_mid": "5228936674940007",
+            "h": 1920,
+            "user_name": "重庆广电第1眼",
+            "img": "http://wx3.sinaimg.cn/middle/a7db4e88ly1i6z46s97ssj20u01hcq4n.jpg",
+            "user_avatar": "https://tvax1.sinaimg.cn/crop.0.0.600.600.50/a7db4e88ly8hf1bw4a8nzj20go0go74t.jpg?KID=imgbed,tva&Expires=1762184159&ssig=mKKeThxevJ",
+            "hit_score_final": 78.459381,
+            "video_url": "https://video.weibo.com/show?fid=1034:5228936519680033",
+            "vtype": 3,
+            "hit_score_new": 84.765625,
+            "doc_score": 3417,
+            "img_pid": "a7db4e88ly1i6z46s97ssj20u01hcq4n",
+            "scheme": "sinaweibo://video/vvs?mid=5228936674940007&multi_paragraph=1&multi_count=0"
+          }
+        ]
+      },
+      "model": "deepseek",
+      "basemodel": "实验组10",
+      "analysis_time": 1762173542,
+      "sorted_material_list": null,
+      "version": "2025-11-03 20:35:59.016999-6203",
+      "msg_json": "{}",
+      "qs_status": 0,
+      "status": 2,
+      "reliable_tips": "{\"gold_orange_v_mids\": [\"5228991940400036\", \"5228995916335501\", \"5228905392770743\", \"5228994561835557\", \"5228954325617551\", \"5228852194577908\"], \"gold_orange_v_ratio\": \"20%\", \"media_mids\": [\"5228949623805799\", \"5228936674940007\", \"5228938385424811\", \"5228940408390754\", \"5228896771642515\", \"5228893929737628\", \"5228925849436585\", \"5228977297033017\", \"5228952870456005\", \"5228994917040852\", \"5228996129461334\", \"5228946846910581\", \"5228950428846352\"], \"media_ratio\": \"43%\", \"verified_mids\": [\"5228942822740762\", \"5228955583644595\", \"5228983609986073\", \"5228935904232012\", \"5228995943864123\", \"5228939158751548\", \"5228939158491326\", \"5228995202781016\", \"5228949463633394\"], \"verified_ratio\": \"30%\", \"normal_mids\": [\"5228951715971617\", \"5228936091928751\"], \"normal_ratio\": \"7%\", \"ref_mid_rank\": {\"5228949623805799\": {\"rank\": 1}, \"5228942822740762\": {\"rank\": 2}, \"5228936674940007\": {\"rank\": 4}, \"5228938385424811\": {\"rank\": 8}, \"5228940408390754\": {\"rank\": 10}, \"5228896771642515\": {\"rank\": 14}, \"5228893929737628\": {\"rank\": 31}, \"5228955583644595\": {\"rank\": 9}, \"5228925849436585\": {\"rank\": 32}, \"5228977297033017\": {\"rank\": 3}, \"5228952870456005\": {\"rank\": 25}, \"5228983609986073\": {\"rank\": 28}, \"5228991940400036\": {\"rank\": 7}, \"5228995916335501\": {\"rank\": 23}, \"5228935904232012\": {\"rank\": 11}, \"5228994917040852\": {\"rank\": 12}, \"5228905392770743\": {\"rank\": 13}, \"5228996129461334\": {\"rank\": 15}, \"5228995943864123\": {\"rank\": 16}, \"5228994561835557\": {\"rank\": 17}, \"5228951715971617\": {\"rank\": 18}, \"5228946846910581\": {\"rank\": 19}, \"5228939158751548\": {\"rank\": 20}, \"5228936091928751\": {\"rank\": 21}, \"5228939158491326\": {\"rank\": 22}, \"5228995202781016\": {\"rank\": 24}, \"5228954325617551\": {\"rank\": 26}, \"5228949463633394\": {\"rank\": 27}, \"5228852194577908\": {\"rank\": 29}, \"5228950428846352\": {\"rank\": 30}}}",
+      "page_id": "2329648c71a3fc64f1c1ec87f5bb2580f3b9a8",
+      "ab_suffix": "default",
+      "q_attr": {
+        "from_request_id": "",
+        "reply_cid": "",
+        "comment_from_type": "",
+        "from_uid": "",
+        "mid": ""
+      },
+      "query": "#工行建行暂停提取实体金条#",
+      "chat_status_stage": 1,
+      "zs_risk_control": {
+        "think_text_close": 0,
+        "land_button_close": 0
+      },
+      "share_info": {
+        "url": "http://t.cn/AXA09l3J",
+        "unify_md5": "f3b81b47bd548c2519a7e488756ba167",
+        "page_id": "2329648c71a3fc64f1c1ec87f5bb2580f3b9a8",
+        "tips": "#工行建行暂停提取实体金条#的相关内容，来智搜看看",
+        "display_name": "#工行建行暂停提取实体金条#",
+        "comment_content": "",
+        "status": 3
+      },
+      "wenda": {
+        "forward_gen": 0
+      },
+      "share_text": "#工行建行暂停提取实体金条#的相关内容，来智搜看看",
+      "comment_info": {},
+      "msg": "<think><br>嗯，用户查询的是工行和建行暂停提取实体金条的新闻，需要我结合搜索结果给出全面分析。从搜索结果看，这是今天（2025年11月3日）刚发生的热点事件，涉及黄金投资市场的重要政策调整。<br><br>我注意到几个核心信息源：澎湃新闻、新浪证券等多家权威媒体都报道了工行建行的公告。工行暂停的是如意金积存业务的新开户、主动积存和实物提取，建行则暂停了易存金业务的买入和兑换。有趣的是，结果5提到当晚工行已恢复业务，但其他报道均未证实，需要谨慎对待。<br><br>直接触发因素是财政部11月1日发布的黄金税收新政：通过交易所交易的未交割黄金免税，但实物提取或场外销售需征增值税。这解释了为什么招行同步调整了金条价格（含税），以及为何深圳水贝市场的金价单日暴涨59元/克。<br><br>市场反应很剧烈。结果3描述工行APP的金条4分钟内被抢空，有人单笔买入200克（约18.5万元）。港股黄金股如周大福当日跌超8%，反映出投资者对成本上升的担忧。<br><br>银行举措背后有双重逻辑：<br>一是政策合规需求，实物交割环节需升级税务系统；<br>二是风控考量——结果32提到国际金价已突破4000美元/盎司，国内超1000元/克，银行此前已多次上调积存门槛。<br><br>对投资者的影响分层明显：<br>- 新投资者暂时无法通过大行购买或提取实物金；<br>- 存量用户赎回和定投不受影响；<br>- 电子黄金（如交易所ETF）反而因免税更具优势。<br><br>值得补充两个细节：<br>1. 税收新政将持续至2027年底，说明这是中长期调整；<br>2. 除工行建行外，交行光大等仅上调门槛未暂停业务，提供替代渠道。<br><br>最后要提醒风险。结果21等普通账号的\"禁止韭菜买黄金\"言论缺乏依据，而权威分析强调这只是过渡期措施。不过金价单日波动达63元/克，高位追涨确实需警惕。<br><br>回答框架考虑分四个部分：先说明暂停情况，再分析政策原因，接着解读市场反应，最后给投资建议。会在政策部分用加粗突出免税条款，市场反应中加入具体金价数据增强说服力，建议部分区分短期操作和长期策略。这样既覆盖事实，又提供实用指导。<br><br></think><br>以下是关于工商银行、建设银行暂停提取实体金条事件的综合分析及影响解读：<br>### ⚠️ **银行暂停业务的核心内容**  <br>1. **暂停范围**  <br>   - **工商银行**：自11月3日起暂停如意金积存业务的 **新开户、主动积存、新增定投计划及实物提取申请**。```wbCustomBlock{\"type\": \"quoted\", \"index\": 5, \"data\": {\"num\": [1, 2], \"version\": 2, \"quote_list\": [{\"name\": \"澎湃新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5228949623805799\", \"index\": 1, \"label\": \"大v\"}, {\"name\": \"新浪证券\", \"scheme\": \"sinaweibo://detail?mblogid=5228942822740762\", \"index\": 2, \"label\": \"\"}], \"name\": \"澎湃新闻\", \"img\": \"https://tvax1.sinaimg.cn/crop.11.10.275.275.50/005vnhZYly8ftjmwo0bx4j308c08cq32.jpg?KID=imgbed,tva&Expires=1762184159&ssig=3xNXDaPDrD\", \"scheme\": \"sinaweibo://detail?mblogid=5228949623805799\", \"vType\": 3}}```  <br>   - **建设银行**：同步暂停易存金业务的 **实时买入、新增定投买入、实物兑换** 等申请。```wbCustomBlock{\"type\": \"quoted\", \"index\": 6, \"data\": {\"num\": [4, 8, 10], \"version\": 2, \"quote_list\": [{\"name\": \"重庆广电第1眼\", \"scheme\": \"sinaweibo://detail?mblogid=5228936674940007\", \"index\": 4, \"label\": \"大v\"}, {\"name\": \"中国新闻周刊\", \"scheme\": \"sinaweibo://detail?mblogid=5228938385424811\", \"index\": 8, \"label\": \"\"}, {\"name\": \"21世纪经济报道\", \"scheme\": \"sinaweibo://detail?mblogid=5228940408390754\", \"index\": 10, \"label\": \"\"}], \"name\": \"重庆广电第1眼\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.600.600.50/a7db4e88ly8hf1bw4a8nzj20go0go74t.jpg?KID=imgbed,tva&Expires=1762184159&ssig=mKKeThxevJ\", \"scheme\": \"sinaweibo://detail?mblogid=5228936674940007\", \"vType\": 3}}```  <br>   - **例外情况**：存量客户的定期积存计划执行、赎回及销户不受影响。```wbCustomBlock{\"type\": \"quoted\", \"index\": 7, \"data\": {\"num\": [1, 14], \"version\": 2, \"quote_list\": [{\"name\": \"央视财经\", \"scheme\": \"sinaweibo://detail?mblogid=5228896771642515\", \"index\": 14, \"label\": \"大v\"}, {\"name\": \"澎湃新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5228949623805799\", \"index\": 1, \"label\": \"\"}], \"name\": \"央视财经\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.700.700.50/002sRokily8h8vg8b1kf7j60jg0jgwf602.jpg?KID=imgbed,tva&Expires=1762184159&ssig=2lLWDE4ywk\", \"scheme\": \"sinaweibo://detail?mblogid=5228896771642515\", \"vType\": 3}}```<br><br>2. **业务恢复进展**  <br>   工行已于11月3日晚间恢复如意金积存业务办理（包括开户、积存及提取实物），建行尚未明确恢复时间。<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5228936674940007&multi_paragraph=1&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.600.600.50/a7db4e88ly8hf1bw4a8nzj20go0go74t.jpg?KID=imgbed,tva&Expires=1762184159&ssig=mKKeThxevJ) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">重庆广电第1眼</span><img src=\"http://wx3.sinaimg.cn/middle/a7db4e88ly1i6z46s97ssj20u01hcq4n.jpg\" data-width=1920 data-height=1080></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5228896771642515&multi_paragraph=1&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.700.700.50/002sRokily8h8vg8b1kf7j60jg0jgwf602.jpg?KID=imgbed,tva&Expires=1762184159&ssig=2lLWDE4ywk) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">央视财经</span><img src=\"http://wx4.sinaimg.cn/middle/002sRokily1i6yyav4hvcj60rs0fmh0702.jpg\" data-width=562 data-height=1000></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5228949623805799&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=2\"><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.11.10.275.275.50/005vnhZYly8ftjmwo0bx4j308c08cq32.jpg?KID=imgbed,tva&Expires=1762184159&ssig=3xNXDaPDrD) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">澎湃新闻</span><img src=\"http://wx1.sinaimg.cn/middle/005vnhZYly1i6z5nc9jwuj60sr0g6nf702.jpg\" data-width=582 data-height=1035></div></media-block><br>### 🔍 **暂停原因：黄金税收新政触发**  <br>1. **政策核心调整**  <br>   财政部、税务总局于11月1日发布《关于黄金有关税收政策的公告》：```wbCustomBlock{\"type\": \"quoted\", \"index\": 11, \"data\": {\"num\": [1, 8, 31], \"version\": 2, \"quote_list\": [{\"name\": \"中国新闻周刊\", \"scheme\": \"sinaweibo://detail?mblogid=5228938385424811\", \"index\": 8, \"label\": \"大v\"}, {\"name\": \"澎湃新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5228949623805799\", \"index\": 1, \"label\": \"\"}, {\"name\": \"中国商报\", \"scheme\": \"sinaweibo://detail?mblogid=5228893929737628\", \"index\": 31, \"label\": \"\"}], \"name\": \"中国新闻周刊\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/001N9Ovwly8h8vgj46gr1j60u00u03zp02.jpg?KID=imgbed,tva&Expires=1762184159&ssig=jKDV%2FHwF0l\", \"scheme\": \"sinaweibo://detail?mblogid=5228938385424811\", \"vType\": 3}}```  <br>   - **免税场景**：通过上海黄金交易所、上海期货交易所交易且未实物交割的标准黄金，免征增值税（2025.11.1-2027.12.31）。```wbCustomBlock{\"type\": \"quoted\", \"index\": 12, \"data\": {\"num\": [1, 9, 14], \"version\": 2, \"quote_list\": [{\"name\": \"华尔街见闻APP\", \"scheme\": \"sinaweibo://detail?mblogid=5228955583644595\", \"index\": 9, \"label\": \"大v\"}, {\"name\": \"澎湃新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5228949623805799\", \"index\": 1, \"label\": \"\"}, {\"name\": \"央视财经\", \"scheme\": \"sinaweibo://detail?mblogid=5228896771642515\", \"index\": 14, \"label\": \"\"}], \"name\": \"华尔街见闻APP\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.600.600.50/0022Ts5nly8gw2xf77nnvj60go0godg702.jpg?KID=imgbed,tva&Expires=1762184159&ssig=OYlodv7GRj\", \"scheme\": \"sinaweibo://detail?mblogid=5228955583644595\", \"vType\": 3}}```  <br>   - **征税场景**：实物黄金提取或非交易所渠道销售，需按现行规定征收增值税。```wbCustomBlock{\"type\": \"quoted\", \"index\": 13, \"data\": {\"num\": [1, 32], \"version\": 2, \"quote_list\": [{\"name\": \"羊城晚报\", \"scheme\": \"sinaweibo://detail?mblogid=5228925849436585\", \"index\": 32, \"label\": \"大v\"}, {\"name\": \"澎湃新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5228949623805799\", \"index\": 1, \"label\": \"\"}], \"name\": \"羊城晚报\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.753.753.50/001DjCJOly8h8vghz8v0gj60kx0kxmxm02.jpg?KID=imgbed,tva&Expires=1762184159&ssig=Bwqj0IOQVa\", \"scheme\": \"sinaweibo://detail?mblogid=5228925849436585\", \"vType\": 3}}```<br><br>2. **银行应对措施**  <br>   - 系统升级适配税务合规流程（如发票管理、交割环节征税）。```wbCustomBlock{\"type\": \"quoted\", \"index\": 15, \"data\": {\"num\": [1, 14], \"version\": 2, \"quote_list\": [{\"name\": \"澎湃新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5228949623805799\", \"index\": 1, \"label\": \"\"}, {\"name\": \"央视财经\", \"scheme\": \"sinaweibo://detail?mblogid=5228896771642515\", \"index\": 14, \"label\": \"\"}]}}```  <br>   - 2025年金价剧烈波动（国际金价突破4000美元/盎司、国内超1000元/克），银行需防范政策切换期风险。```wbCustomBlock{\"type\": \"quoted\", \"index\": 16, \"data\": {\"num\": [32], \"version\": 2, \"quote_list\": [{\"name\": \"羊城晚报\", \"scheme\": \"sinaweibo://detail?mblogid=5228925849436585\", \"index\": 32, \"label\": \"\"}]}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5228893929737628&multi_paragraph=2&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.640.640.50/74b6b953ly8h8vgzrfi4pj20hs0hsdgk.jpg?KID=imgbed,tva&Expires=1762184159&ssig=77oqCvb0vS) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">中国商报</span><img src=\"http://wx4.sinaimg.cn/middle/74b6b953ly1i6yz50hmw4j20u01hcalf.jpg\" data-width=1920 data-height=1080></div></media-block><br>### 💥 **市场连锁反应**  <br>1. **抢购潮与价格跳涨**  <br>   - 工行、建行公告后，四大行实物金条库存 **4分钟内售罄**，杭州地区出现200克（18.5万元）大额抢购。```wbCustomBlock{\"type\": \"quoted\", \"index\": 20, \"data\": {\"num\": [3, 4], \"version\": 2, \"quote_list\": [{\"name\": \"新闻晨报\", \"scheme\": \"sinaweibo://detail?mblogid=5228977297033017\", \"index\": 3, \"label\": \"大v\"}, {\"name\": \"重庆广电第1眼\", \"scheme\": \"sinaweibo://detail?mblogid=5228936674940007\", \"index\": 4, \"label\": \"\"}], \"name\": \"新闻晨报\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.676.676.50/001qXXGoly8h8vgkqi6cjj60j60ist9c02.jpg?KID=imgbed,tva&Expires=1762184159&ssig=odWq6PINNp\", \"scheme\": \"sinaweibo://detail?mblogid=5228977297033017\", \"vType\": 3}}```  <br>   - 非交易所金价暴涨：  <br>     - 深圳水贝市场报价超1000元/克；```wbCustomBlock{\"type\": \"quoted\", \"index\": 22, \"data\": {\"num\": [3, 31], \"version\": 2, \"quote_list\": [{\"name\": \"中国商报\", \"scheme\": \"sinaweibo://detail?mblogid=5228893929737628\", \"index\": 31, \"label\": \"大v\"}, {\"name\": \"新闻晨报\", \"scheme\": \"sinaweibo://detail?mblogid=5228977297033017\", \"index\": 3, \"label\": \"\"}], \"name\": \"中国商报\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.640.640.50/74b6b953ly8h8vgzrfi4pj20hs0hsdgk.jpg?KID=imgbed,tva&Expires=1762184159&ssig=77oqCvb0vS\", \"scheme\": \"sinaweibo://detail?mblogid=5228893929737628\", \"vType\": 3}}```  <br>     - 杭州足金999价格单日涨59元/克；```wbCustomBlock{\"type\": \"quoted\", \"index\": 23, \"data\": {\"num\": [3], \"version\": 2, \"quote_list\": [{\"name\": \"新闻晨报\", \"scheme\": \"sinaweibo://detail?mblogid=5228977297033017\", \"index\": 3, \"label\": \"\"}]}}```  <br>     - 周大福饰品金价一夜涨63元/克。```wbCustomBlock{\"type\": \"quoted\", \"index\": 24, \"data\": {\"num\": [31, 32], \"version\": 2, \"quote_list\": [{\"name\": \"中国商报\", \"scheme\": \"sinaweibo://detail?mblogid=5228893929737628\", \"index\": 31, \"label\": \"\"}, {\"name\": \"羊城晚报\", \"scheme\": \"sinaweibo://detail?mblogid=5228925849436585\", \"index\": 32, \"label\": \"\"}]}}```<br><br>2. **行业动态**  <br>   - **招商银行**：实体金条价格已含税，未暂停账户类积存金业务。```wbCustomBlock{\"type\": \"quoted\", \"index\": 26, \"data\": {\"num\": [1, 25], \"version\": 2, \"quote_list\": [{\"name\": \"澎湃新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5228949623805799\", \"index\": 1, \"label\": \"\"}, {\"name\": \"澎湃新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5228952870456005\", \"index\": 25, \"label\": \"\"}]}}```  <br>   - **其他银行**：交通银行、光大银行等仅上调积存门槛（如起购额提至1000元），未限制账户交易。  <br>   - **港股黄金股**：周大福、六福集团股价大跌超7%。```wbCustomBlock{\"type\": \"quoted\", \"index\": 28, \"data\": {\"num\": [3, 31], \"version\": 2, \"quote_list\": [{\"name\": \"新闻晨报\", \"scheme\": \"sinaweibo://detail?mblogid=5228977297033017\", \"index\": 3, \"label\": \"\"}, {\"name\": \"中国商报\", \"scheme\": \"sinaweibo://detail?mblogid=5228893929737628\", \"index\": 31, \"label\": \"\"}]}}```<br>### 💡 **对投资者的影响与应对建议**  <br>1. **短期限制**  <br>   - 新投资者无法通过工行、建行开立积存账户或提取实物，但可通过其他银行账户类积存金（无实物交割）交易。```wbCustomBlock{\"type\": \"quoted\", \"index\": 32, \"data\": {\"num\": [28], \"version\": 2, \"quote_list\": [{\"name\": \"经观APP\", \"scheme\": \"sinaweibo://detail?mblogid=5228983609986073\", \"index\": 28, \"label\": \"大v\"}], \"name\": \"经观APP\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.600.600.50/005JPoimly8i0wd8kx8zrj30go0gogm9.jpg?KID=imgbed,tva&Expires=1762184159&ssig=pTZdl6NMQh\", \"scheme\": \"sinaweibo://detail?mblogid=5228983609986073\", \"vType\": 2}}```  <br>   - 存量持仓者可继续持有、赎回或销户。```wbCustomBlock{\"type\": \"quoted\", \"index\": 33, \"data\": {\"num\": [1], \"version\": 2, \"quote_list\": [{\"name\": \"澎湃新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5228949623805799\", \"index\": 1, \"label\": \"\"}]}}```<br><br>2. **替代投资渠道**  <br>   - **场内标准化产品**：上海黄金/期货交易所的黄金ETF、期货等，享受免税优势。```wbCustomBlock{\"type\": \"quoted\", \"index\": 35, \"data\": {\"num\": [1, 14, 32], \"version\": 2, \"quote_list\": [{\"name\": \"澎湃新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5228949623805799\", \"index\": 1, \"label\": \"\"}, {\"name\": \"央视财经\", \"scheme\": \"sinaweibo://detail?mblogid=5228896771642515\", \"index\": 14, \"label\": \"\"}, {\"name\": \"羊城晚报\", \"scheme\": \"sinaweibo://detail?mblogid=5228925849436585\", \"index\": 32, \"label\": \"\"}]}}```  <br>   - **银行账户积存金**：选择招行等提供纯账户交易的银行，规避实物交割税费。```wbCustomBlock{\"type\": \"quoted\", \"index\": 36, \"data\": {\"num\": [9, 25], \"version\": 2, \"quote_list\": [{\"name\": \"华尔街见闻APP\", \"scheme\": \"sinaweibo://detail?mblogid=5228955583644595\", \"index\": 9, \"label\": \"\"}, {\"name\": \"澎湃新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5228952870456005\", \"index\": 25, \"label\": \"\"}]}}```<br><br>3. **风控提示**  <br>   - 避免高位追涨，金价波动加剧（单日波动超60元/克）。```wbCustomBlock{\"type\": \"quoted\", \"index\": 38, \"data\": {\"num\": [3, 31, 32], \"version\": 2, \"quote_list\": [{\"name\": \"新闻晨报\", \"scheme\": \"sinaweibo://detail?mblogid=5228977297033017\", \"index\": 3, \"label\": \"\"}, {\"name\": \"中国商报\", \"scheme\": \"sinaweibo://detail?mblogid=5228893929737628\", \"index\": 31, \"label\": \"\"}, {\"name\": \"羊城晚报\", \"scheme\": \"sinaweibo://detail?mblogid=5228925849436585\", \"index\": 32, \"label\": \"\"}]}}```  <br>   - 分散配置资产（如债券、股票），降低单一资产风险。```wbCustomBlock{\"type\": \"quoted\", \"index\": 39, \"data\": {\"num\": [7, 28], \"version\": 2, \"quote_list\": [{\"name\": \"才才用夕阳喂马\", \"scheme\": \"sinaweibo://detail?mblogid=5228991940400036\", \"index\": 7, \"label\": \"\"}, {\"name\": \"经观APP\", \"scheme\": \"sinaweibo://detail?mblogid=5228983609986073\", \"index\": 28, \"label\": \"\"}]}}```<br>### 🔮 **未来展望**  <br>- **政策导向**：引导黄金交易向国家级交易所集中，压缩场外灰色空间。```wbCustomBlock{\"type\": \"quoted\", \"index\": 42, \"data\": {\"num\": [32], \"version\": 2, \"quote_list\": [{\"name\": \"羊城晚报\", \"scheme\": \"sinaweibo://detail?mblogid=5228925849436585\", \"index\": 32, \"label\": \"\"}]}}```  <br>- **银行调整趋势**：实物交割业务或长期受限，账户类积存金成为主流。```wbCustomBlock{\"type\": \"quoted\", \"index\": 43, \"data\": {\"num\": [28, 32], \"version\": 2, \"quote_list\": [{\"name\": \"经观APP\", \"scheme\": \"sinaweibo://detail?mblogid=5228983609986073\", \"index\": 28, \"label\": \"\"}, {\"name\": \"羊城晚报\", \"scheme\": \"sinaweibo://detail?mblogid=5228925849436585\", \"index\": 32, \"label\": \"\"}]}}```  <br>- **恢复预期**：工行业务已重启，建行需待系统升级完成（预计数日至数周）。<br>### ✅ **总结**  <br>此次暂停是税收新政下的 **临时合规动作**，旨在适配增值税征管要求，非永久性叫停。投资者需优先选择场内标准化产品降低成本，并密切关注银行费率调整及政策细则落地。```wbCustomBlock{\"type\": \"quoted\", \"index\": 46, \"data\": {\"num\": [23, 32], \"version\": 2, \"quote_list\": [{\"name\": \"抱起兔子冲\", \"scheme\": \"sinaweibo://detail?mblogid=5228995916335501\", \"index\": 23, \"label\": \"\"}, {\"name\": \"羊城晚报\", \"scheme\": \"sinaweibo://detail?mblogid=5228925849436585\", \"index\": 32, \"label\": \"\"}]}}```<br>",
+      "loop_times": 200,
+      "query_field": "12",
+      "show_ctrl": {
+        "quote": {}
+      },
+      "qs_status_info": "{\"qs_c_status\":8388608,\"qs_q_status\":0,\"ab_lab\":{},\"qs_u_status\":0,\"qs_status\":0,\"qs_r_status\":0}",
+      "current_time": 1762174054,
+      "share_card_multimodal": {
+        "w": 1080,
+        "type": "v",
+        "click_rate": 0.11111111111111,
+        "cur_mid": "5228936674940007",
+        "h": 1920,
+        "user_name": "重庆广电第1眼",
+        "img": "http://wx3.sinaimg.cn/middle/a7db4e88ly1i6z46s97ssj20u01hcq4n.jpg",
+        "user_avatar": "https://tvax1.sinaimg.cn/crop.0.0.600.600.50/a7db4e88ly8hf1bw4a8nzj20go0go74t.jpg?KID=imgbed,tva&Expires=1762184159&ssig=mKKeThxevJ",
+        "hit_score_final": 78.459381,
+        "video_url": "https://video.weibo.com/show?fid=1034:5228936519680033",
+        "vtype": 3,
+        "hit_score_new": 84.765625,
+        "doc_score": 3417,
+        "img_pid": "a7db4e88ly1i6z46s97ssj20u01hcq4n",
+        "scheme": "sinaweibo://video/vvs?mid=5228936674940007&multi_paragraph=1&multi_count=0"
+      },
+      "unify_md5": "f3b81b47bd548c2519a7e488756ba167",
+      "cot": 1,
+      "ext_show": {},
+      "scheme": "sinaweibo://cardlist?containerid=100103type%3D225%26q%3D%23%E5%B7%A5%E8%A1%8C%E5%BB%BA%E8%A1%8C%E6%9A%82%E5%81%9C%E6%8F%90%E5%8F%96%E5%AE%9E%E4%BD%93%E9%87%91%E6%9D%A1%23%26t%3D&extparam=ai_model%3Ddeepseek%26ori_ai_title%3D%E5%8F%82%E8%80%83%E5%8D%9A%E6%96%87%26material_version%3D1762173359",
+      "news_analyze": {},
+      "query_category": "Ip",
+      "user_info": {},
+      "uid": "",
+      "msg_format": "markdown"
+    }
+  },
+  "links": [
+    "sinaweibo://detail?mblogid=5228949623805799",
+    "sinaweibo://detail?mblogid=5228942822740762",
+    "sinaweibo://detail?mblogid=5228977297033017",
+    "sinaweibo://detail?mblogid=5228936674940007",
+    "broadsocial_res://",
+    "historyweibo://5228878256934553",
+    "sinaweibo://detail?mblogid=5228991940400036",
+    "sinaweibo://detail?mblogid=5228938385424811",
+    "sinaweibo://detail?mblogid=5228955583644595",
+    "sinaweibo://detail?mblogid=5228940408390754",
+    "sinaweibo://detail?mblogid=5228935904232012",
+    "sinaweibo://detail?mblogid=5228994917040852",
+    "sinaweibo://detail?mblogid=5228905392770743",
+    "sinaweibo://detail?mblogid=5228896771642515",
+    "sinaweibo://detail?mblogid=5228996129461334",
+    "sinaweibo://detail?mblogid=5228995943864123",
+    "sinaweibo://detail?mblogid=5228994561835557",
+    "sinaweibo://detail?mblogid=5228951715971617",
+    "sinaweibo://detail?mblogid=5228946846910581",
+    "sinaweibo://detail?mblogid=5228939158751548",
+    "sinaweibo://detail?mblogid=5228936091928751",
+    "sinaweibo://detail?mblogid=5228939158491326",
+    "sinaweibo://detail?mblogid=5228995916335501",
+    "sinaweibo://detail?mblogid=5228995202781016",
+    "sinaweibo://detail?mblogid=5228952870456005",
+    "sinaweibo://detail?mblogid=5228954325617551",
+    "sinaweibo://detail?mblogid=5228949463633394",
+    "sinaweibo://detail?mblogid=5228983609986073",
+    "sinaweibo://detail?mblogid=5228852194577908",
+    "sinaweibo://detail?mblogid=5228950428846352",
+    "sinaweibo://detail?mblogid=5228893929737628",
+    "sinaweibo://detail?mblogid=5228925849436585"
+  ],
+  "media": [
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/a7db4e88ly1i6z46s97ssj20u01hcq4n.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/a7db4e88ly1i6z46s97ssj20u01hcq4n.jpg",
+      "alt": "重庆广电第1眼",
+      "width": 1920,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/a7db4e88ly1i6z46s97ssj20u01hcq4n.jpg"
+      ],
+      "user": "重庆广电第1眼"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/002sRokily1i6yyav4hvcj60rs0fmh0702.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/002sRokily1i6yyav4hvcj60rs0fmh0702.jpg",
+      "alt": "央视财经",
+      "width": 562,
+      "height": 1000,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/002sRokily1i6yyav4hvcj60rs0fmh0702.jpg"
+      ],
+      "user": "央视财经"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/005vnhZYly1i6z5nc9jwuj60sr0g6nf702.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/005vnhZYly1i6z5nc9jwuj60sr0g6nf702.jpg",
+      "alt": "澎湃新闻",
+      "width": 582,
+      "height": 1035,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/005vnhZYly1i6z5nc9jwuj60sr0g6nf702.jpg"
+      ],
+      "user": "澎湃新闻"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/74b6b953ly1i6yz50hmw4j20u01hcalf.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/74b6b953ly1i6yz50hmw4j20u01hcalf.jpg",
+      "alt": "中国商报",
+      "width": 1920,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/74b6b953ly1i6yz50hmw4j20u01hcalf.jpg"
+      ],
+      "user": "中国商报"
+    }
+  ],
+  "html_path": "data/aicard/hourly/2025-11-03/20/topic-f3b81b47.html"
+}

@@ -1,0 +1,417 @@
+{
+  "meta": {
+    "query": "#品牌回应翁青雅直播翻车#",
+    "status_code": 200,
+    "fetched_at": "2025-11-04T07:33:13+08:00",
+    "response": {
+      "analysis_time": 1762212623,
+      "cot": 1,
+      "zs_risk_control": {
+        "think_text_close": 0,
+        "land_button_close": 0
+      },
+      "sorted_material_list": null,
+      "model": "deepseek",
+      "query_field": "1",
+      "reference_num": 52,
+      "query_category": "",
+      "status_stage": 4,
+      "link_list": [
+        "sinaweibo://detail?mblogid=5229024630543275",
+        "sinaweibo://detail?mblogid=5228984272687162",
+        "sinaweibo://detail?mblogid=5228616841694766",
+        "sinaweibo://detail?mblogid=5228638566092379",
+        "sinaweibo://detail?mblogid=5228638695853608",
+        "sinaweibo://detail?mblogid=5228857003084819",
+        "sinaweibo://detail?mblogid=5228925705786632",
+        "sinaweibo://detail?mblogid=5228636208631371",
+        "sinaweibo://detail?mblogid=5228929755385235",
+        "sinaweibo://detail?mblogid=5228643371453752",
+        "sinaweibo://detail?mblogid=5229067391469559",
+        "sinaweibo://detail?mblogid=5228568080810209",
+        "sinaweibo://detail?mblogid=5228659862670766",
+        "sinaweibo://detail?mblogid=5228636631469080",
+        "sinaweibo://detail?mblogid=5228942224264592",
+        "sinaweibo://detail?mblogid=5228761154848019",
+        "sinaweibo://detail?mblogid=5228846205110782",
+        "sinaweibo://detail?mblogid=5228901016276067",
+        "sinaweibo://detail?mblogid=5228633812637391",
+        "sinaweibo://detail?mblogid=5228670043296989",
+        "historyweibo://5229024630543275",
+        "historyweibo://4876275400836411",
+        "historyweibo://4805271388163574",
+        "sinaweibo://detail?mblogid=5229148127889073",
+        "sinaweibo://detail?mblogid=5229146024182562",
+        "sinaweibo://detail?mblogid=5229062779831679",
+        "sinaweibo://detail?mblogid=5229066627842614",
+        "sinaweibo://detail?mblogid=5228970003926096",
+        "sinaweibo://detail?mblogid=5228715027728348",
+        "sinaweibo://detail?mblogid=5228586534437528",
+        "sinaweibo://detail?mblogid=5229160471200137",
+        "sinaweibo://detail?mblogid=5229160416413328",
+        "sinaweibo://detail?mblogid=5229160096074229",
+        "sinaweibo://detail?mblogid=5229159787528344",
+        "sinaweibo://detail?mblogid=5229076538458494",
+        "sinaweibo://detail?mblogid=5229121351451007",
+        "sinaweibo://detail?mblogid=5229093251448993",
+        "sinaweibo://detail?mblogid=5229073107255836",
+        "sinaweibo://detail?mblogid=5228702340221317",
+        "sinaweibo://detail?mblogid=5228619711647404",
+        "sinaweibo://detail?mblogid=5228732281258978",
+        "sinaweibo://detail?mblogid=5228944014971851",
+        "sinaweibo://detail?mblogid=5228644528298395",
+        "sinaweibo://detail?mblogid=5228640724058241",
+        "sinaweibo://detail?mblogid=5228328120222588",
+        "sinaweibo://detail?mblogid=5228642948351747",
+        "sinaweibo://detail?mblogid=5228830855790633",
+        "sinaweibo://detail?mblogid=5229099846730078",
+        "sinaweibo://detail?mblogid=5228688401502853",
+        "sinaweibo://detail?mblogid=5229160366867773",
+        "sinaweibo://detail?mblogid=5229159523026974",
+        "sinaweibo://detail?mblogid=5229159896844868",
+        "sinaweibo://detail?mblogid=5228686577240568",
+        "sinaweibo://detail?mblogid=5228648645002332",
+        "sinaweibo://detail?mblogid=5228823517856279"
+      ],
+      "news_analyze": {},
+      "reliable_tips": "{\"gold_orange_v_mids\": [\"5229160416413328\", \"5229160366867773\", \"5229099846730078\", \"5228984272687162\", \"5228970003926096\", \"5228616841694766\", \"5228702340221317\", \"5228686577240568\", \"5228942224264592\", \"5228901016276067\", \"5229148127889073\", \"5228619711647404\", \"5228944014971851\", \"5228638695853608\", \"5228670043296989\", \"5228823517856279\", \"5229062779831679\", \"5228688401502853\", \"5228636208631371\", \"5228568080810209\", \"5228586534437528\", \"5229160471200137\", \"5229159896844868\", \"5228732281258978\", \"5228929755385235\", \"5228644528298395\", \"5228638566092379\", \"5228857003084819\", \"5229067391469559\", \"5228761154848019\", \"5228633812637391\", \"5229146024182562\", \"5228715027728348\", \"5228640724058241\", \"5228830855790633\", \"5228648645002332\"], \"gold_orange_v_ratio\": \"69%\", \"media_mids\": [\"5228328120222588\", \"5228846205110782\", \"5228925705786632\"], \"media_ratio\": \"6%\", \"verified_mids\": [\"5229024630543275\", \"5228643371453752\", \"5228659862670766\", \"5228636631469080\", \"5229121351451007\"], \"verified_ratio\": \"10%\", \"normal_mids\": [\"5229066627842614\", \"5229159523026974\", \"5229160096074229\", \"5229159787528344\", \"5229076538458494\", \"5229093251448993\", \"5229073107255836\", \"5228642948351747\"], \"normal_ratio\": \"15%\", \"ref_mid_rank\": {\"5229024630543275\": {\"rank\": 1}, \"5229160416413328\": {\"rank\": 32}, \"5229160366867773\": {\"rank\": 50}, \"5229099846730078\": {\"rank\": 48}, \"5229066627842614\": {\"rank\": 27}, \"5228984272687162\": {\"rank\": 2}, \"5228970003926096\": {\"rank\": 28}, \"5228616841694766\": {\"rank\": 3}, \"5228702340221317\": {\"rank\": 39}, \"5228686577240568\": {\"rank\": 53}, \"5228942224264592\": {\"rank\": 15}, \"5228901016276067\": {\"rank\": 18}, \"5228328120222588\": {\"rank\": 45}, \"5229148127889073\": {\"rank\": 24}, \"5228619711647404\": {\"rank\": 40}, \"5228944014971851\": {\"rank\": 42}, \"5228638695853608\": {\"rank\": 5}, \"5228670043296989\": {\"rank\": 20}, \"5228823517856279\": {\"rank\": 55}, \"5229062779831679\": {\"rank\": 26}, \"5228688401502853\": {\"rank\": 49}, \"5228636208631371\": {\"rank\": 8}, \"5228568080810209\": {\"rank\": 12}, \"5228846205110782\": {\"rank\": 17}, \"5228586534437528\": {\"rank\": 30}, \"5228925705786632\": {\"rank\": 7}, \"5229160471200137\": {\"rank\": 31}, \"5229159896844868\": {\"rank\": 52}, \"5228732281258978\": {\"rank\": 41}, \"5229159523026974\": {\"rank\": 51}, \"5228929755385235\": {\"rank\": 9}, \"5228644528298395\": {\"rank\": 43}, \"5228638566092379\": {\"rank\": 4}, \"5228857003084819\": {\"rank\": 6}, \"5228643371453752\": {\"rank\": 10}, \"5229067391469559\": {\"rank\": 11}, \"5228659862670766\": {\"rank\": 13}, \"5228636631469080\": {\"rank\": 14}, \"5228761154848019\": {\"rank\": 16}, \"5228633812637391\": {\"rank\": 19}, \"5229146024182562\": {\"rank\": 25}, \"5228715027728348\": {\"rank\": 29}, \"5229160096074229\": {\"rank\": 33}, \"5229159787528344\": {\"rank\": 34}, \"5229076538458494\": {\"rank\": 35}, \"5229121351451007\": {\"rank\": 36}, \"5229093251448993\": {\"rank\": 37}, \"5229073107255836\": {\"rank\": 38}, \"5228640724058241\": {\"rank\": 44}, \"5228642948351747\": {\"rank\": 46}, \"5228830855790633\": {\"rank\": 47}, \"5228648645002332\": {\"rank\": 54}}}",
+      "card_multimodal": {
+        "data": [
+          {
+            "type": "v",
+            "click_rate": 0.59675900918281,
+            "w": 1080,
+            "hit_score_final": 0,
+            "click_num": 0,
+            "cur_mid": "5229024630543275",
+            "img": "http://wx4.sinaimg.cn/middle/001DitQply1i6xt1s4bicj60u01hc0ve02.jpg",
+            "user_name": "头条新闻",
+            "scheme": "sinaweibo://video/vvs?mid=5229024630543275&multi_paragraph=1&multi_count=0",
+            "user_avatar": "https://tvax1.sinaimg.cn/crop.0.4.535.535.50/001Lvb9uly8h8vgoyk5brj60f00f0jrq02.jpg?KID=imgbed,tva&Expires=1762223319&ssig=DDXJiPi2wK",
+            "vtype": 3,
+            "video_url": "https://video.weibo.com/show?fid=1034:5228526065090627",
+            "h": 1920,
+            "hit_score_new": 0,
+            "doc_score": 0,
+            "img_pid": "001DitQply1i6xt1s4bicj60u01hc0ve02"
+          },
+          {
+            "type": "v",
+            "click_rate": 0.12881177707676,
+            "w": 1080,
+            "hit_score_final": 61.939453,
+            "click_num": 0,
+            "cur_mid": "5228616841694766",
+            "img": "http://wx3.sinaimg.cn/middle/006foSRuly1i6y3emq60pj30u01hcwgw.jpg",
+            "user_name": "做梦当闲鱼",
+            "scheme": "sinaweibo://video/vvs?mid=5228616841694766&multi_paragraph=2&multi_count=0",
+            "user_avatar": "https://tvax1.sinaimg.cn/crop.0.0.1069.1069.50/006foSRuly8i6f3rl3jtcj30tp0tpabi.jpg?KID=imgbed,tva&Expires=1762223319&ssig=k63vcU4%2FYn",
+            "vtype": 0,
+            "video_url": "https://video.weibo.com/show?fid=1034:5228616288763998",
+            "h": 1920,
+            "hit_score_new": 63.232422,
+            "doc_score": 4010,
+            "img_pid": "006foSRuly1i6y3emq60pj30u01hcwgw"
+          },
+          {
+            "type": "v",
+            "click_rate": 0.12410848576003,
+            "w": 720,
+            "hit_score_final": 91.0625,
+            "click_num": 0,
+            "cur_mid": "5228328120222588",
+            "img": "http://wx4.sinaimg.cn/middle/0086ll1lly1i6x6amu9noj30k00zkwfo.jpg",
+            "user_name": "中网传播",
+            "scheme": "sinaweibo://video/vvs?mid=5228328120222588&multi_paragraph=2&multi_count=1",
+            "user_avatar": "https://tvax1.sinaimg.cn/crop.0.0.1000.1000.50/0086ll1lly8hw9cc28gcpj30rs0rs3yx.jpg?KID=imgbed,tva&Expires=1762223319&ssig=UaSZhbl1TV",
+            "vtype": 3,
+            "video_url": "https://video.weibo.com/show?fid=1034:5228299090067526",
+            "h": 1280,
+            "hit_score_new": 98.4375,
+            "doc_score": 4779,
+            "img_pid": "0086ll1lly1i6x6amu9noj30k00zkwfo"
+          },
+          {
+            "type": "v",
+            "click_rate": 0.59675900918281,
+            "w": 1080,
+            "hit_score_final": 0,
+            "click_num": 0,
+            "cur_mid": "5229024630543275",
+            "img": "http://wx4.sinaimg.cn/middle/001DitQply1i6xt1s4bicj60u01hc0ve02.jpg",
+            "user_name": "头条新闻",
+            "scheme": "sinaweibo://video/vvs?mid=5229024630543275&multi_paragraph=1&multi_count=0",
+            "user_avatar": "https://tvax1.sinaimg.cn/crop.0.4.535.535.50/001Lvb9uly8h8vgoyk5brj60f00f0jrq02.jpg?KID=imgbed,tva&Expires=1762223319&ssig=DDXJiPi2wK",
+            "vtype": 3,
+            "video_url": "https://video.weibo.com/show?fid=1034:5228526065090627",
+            "h": 1920,
+            "hit_score_new": 0,
+            "doc_score": 0,
+            "img_pid": "001DitQply1i6xt1s4bicj60u01hc0ve02"
+          }
+        ],
+        "type": "mediablock"
+      },
+      "share_card_multimodal": {
+        "type": "v",
+        "click_rate": 0.59675900918281,
+        "w": 1080,
+        "hit_score_final": 0,
+        "click_num": 0,
+        "cur_mid": "5229024630543275",
+        "img": "http://wx4.sinaimg.cn/middle/001DitQply1i6xt1s4bicj60u01hc0ve02.jpg",
+        "user_name": "头条新闻",
+        "scheme": "sinaweibo://video/vvs?mid=5229024630543275&multi_paragraph=1&multi_count=0",
+        "user_avatar": "https://tvax1.sinaimg.cn/crop.0.4.535.535.50/001Lvb9uly8h8vgoyk5brj60f00f0jrq02.jpg?KID=imgbed,tva&Expires=1762223319&ssig=DDXJiPi2wK",
+        "vtype": 3,
+        "video_url": "https://video.weibo.com/show?fid=1034:5228526065090627",
+        "h": 1920,
+        "hit_score_new": 0,
+        "doc_score": 0,
+        "img_pid": "001DitQply1i6xt1s4bicj60u01hc0ve02"
+      },
+      "wenda": {
+        "forward_gen": 0
+      },
+      "basemodel": "实验组2",
+      "uid": "",
+      "comment_info": {},
+      "show_ctrl": {
+        "quote": {}
+      },
+      "version": "2025-11-04 07:28:39.006999-9421",
+      "scheme": "sinaweibo://cardlist?containerid=100103type%3D225%26q%3D%23%E5%93%81%E7%89%8C%E5%9B%9E%E5%BA%94%E7%BF%81%E9%9D%92%E9%9B%85%E7%9B%B4%E6%92%AD%E7%BF%BB%E8%BD%A6%23%26t%3D&extparam=ai_model%3Ddeepseek%26ori_ai_title%3D%E5%8F%82%E8%80%83%E5%8D%9A%E6%96%87%26material_version%3D1762212519",
+      "ext_show": {},
+      "q_attr": {
+        "from_uid": "1961683560",
+        "comment_from_type": "",
+        "from_request_id": "1762212518053",
+        "reply_cid": "",
+        "mid": ""
+      },
+      "loop_times": 200,
+      "user_info": {},
+      "msg_json": "{}",
+      "short_url": "http://t.cn/AXAOEDoc",
+      "profile_image_url": "",
+      "msg": "<think><br>嗯，用户让我整理\"品牌回应翁青雅直播翻车\"事件的信息。搜索结果很丰富，有50多条，需要好好梳理一下。<br><br>先看品牌方的回应内容。结果1显示歌力思集团承认活动流程管理存在不足，已启动全面复盘工作。结果32和50补充说明品牌方没有解释主持人选拔标准这个关键问题。<br><br>事件经过方面，结果1提到直播发生在11月1日，翁青雅多次念错品牌名。结果2详细描述了她的失礼行为：进门不礼让朱珠，抢先落座主位。结果21总结了她忘词卡顿、提问浅显等专业问题。<br><br>当事人回应这块，结果21和53显示翁青雅在11月2日道歉，称\"太激动紧张\"。朱珠的回应很妙，结果15和18提到她说\"没关系，早就翻儿啦\"，用双关语化解尴尬。<br><br>舆论反应很有意思。结果7、17等媒体账号批评这是\"流量优先于专业\"的现象。结果24、40则质疑翁青雅靠背景抢占专业主持人机会。不过也有少数支持声音，如结果26、27认为应该给新人成长空间。<br><br>行业反思是重点。结果31指出这已成为检验娱乐行业价值观的试金石。结果17强调专业门槛不可模糊，结果41则点出\"普通人没有多次试错机会\"的现实差异。<br><br>最后看影响层面，结果29揭露品牌方想用名媛流量做噱头，结果21提到部分消费者认为不影响购买。而结果52认为朱珠的表现树立了职场体面新标杆。<br><br>把这些内容分类整理，可以用小标题划分：品牌回应、事件经过、舆论反应、行业反思和后续影响。关键信息如时间、引用的用户评论都要标注清楚。要注意平衡呈现各方观点，既批评失职也肯定朱珠的得体应对。最后点出这反映了行业深层问题，但避免主观评判。<br><br>对了，结果53提到网友质疑翁青雅的道歉用\"闯祸\"一词太轻描淡写，这个细节也可以补充在舆论反应部分。<br><br></think><br>### 🎤 品牌回应翁青雅直播翻车事件全解析<br>#### 一、**品牌方回应：承认管理疏失，启动整改**  <br>1. **核心回应内容**  <br>   - 歌力思集团（英国轻奢品牌Self-Portrait中国运营方）向界面新闻承认：活动流程管理与执行细节存在明显不足，已第一时间全面复盘工作流程，未来将确保专业性和严谨性。```wbCustomBlock{\"type\": \"quoted\", \"index\": 5, \"data\": {\"num\": [1, 32, 50], \"version\": 2, \"quote_list\": [{\"name\": \"头条新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5229024630543275\", \"index\": 1, \"label\": \"\"}, {\"name\": \"汀汀昊糕\", \"scheme\": \"sinaweibo://detail?mblogid=5229160416413328\", \"index\": 32, \"label\": \"\"}, {\"name\": \"折耳兔叽爱吃糖\", \"scheme\": \"sinaweibo://detail?mblogid=5229160366867773\", \"index\": 50, \"label\": \"\"}]}}```  <br>   - **未回应关键质疑**：未解释主持人选拔标准、是否涉及资源置换等问题，仅删除直播回放试图平息争议，但片段已在全网传播。```wbCustomBlock{\"type\": \"quoted\", \"index\": 6, \"data\": {\"num\": [32], \"version\": 2, \"quote_list\": [{\"name\": \"汀汀昊糕\", \"scheme\": \"sinaweibo://detail?mblogid=5229160416413328\", \"index\": 32, \"label\": \"\"}]}}```  <br><br>2. **公众反馈**  <br>   - **批评声浪**：被指“欲盖弥彰”，品牌声誉受损。```wbCustomBlock{\"type\": \"quoted\", \"index\": 8, \"data\": {\"num\": [48], \"version\": 2, \"quote_list\": [{\"name\": \"别来管姐lucky_\", \"scheme\": \"sinaweibo://detail?mblogid=5229099846730078\", \"index\": 48, \"label\": \"大v\"}], \"name\": \"别来管姐lucky_\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.1079.1079.50/007uXUgRly8i6zgmqjzw1j30tz0u043h.jpg?KID=imgbed,tva&Expires=1762223319&ssig=8J4hWJjFKu\", \"scheme\": \"sinaweibo://detail?mblogid=5229099846730078\", \"vType\": 0}}```  <br>   - **中立观点**：部分消费者认为不影响购买意愿，认可翁青雅“英伦名媛”人设与品牌调性契合。```wbCustomBlock{\"type\": \"quoted\", \"index\": 9, \"data\": {\"num\": [27], \"version\": 2, \"quote_list\": [{\"name\": \"摸娱小浪花\", \"scheme\": \"sinaweibo://detail?mblogid=5229066627842614\", \"index\": 27, \"label\": \"\"}]}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5229024630543275&multi_paragraph=1&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.4.535.535.50/001Lvb9uly8h8vgoyk5brj60f00f0jrq02.jpg?KID=imgbed,tva&Expires=1762223319&ssig=DDXJiPi2wK) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">头条新闻</span><img src=\"http://wx4.sinaimg.cn/middle/001DitQply1i6xt1s4bicj60u01hc0ve02.jpg\" data-width=1920 data-height=1080></div></media-block><br>#### 二、**事件经过：礼仪缺失与专业翻车**  <br>1. **直播事故细节**  <br>   - **礼仪争议**：翁青雅进门未礼让朱珠，自顾入内致朱珠自行关门；抢先落座主位沙发，未邀嘉宾入座。```wbCustomBlock{\"type\": \"quoted\", \"index\": 13, \"data\": {\"num\": [2, 28], \"version\": 2, \"quote_list\": [{\"name\": \"主持人胡莎\", \"scheme\": \"sinaweibo://detail?mblogid=5228970003926096\", \"index\": 28, \"label\": \"大v\"}, {\"name\": \"开心的罗菲鱼\", \"scheme\": \"sinaweibo://detail?mblogid=5228984272687162\", \"index\": 2, \"label\": \"\"}], \"name\": \"主持人胡莎\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.3.1067.1067.50/007EUucQly8hf0en7am9rj30tn0tt75r.jpg?KID=imgbed,tva&Expires=1762223319&ssig=rBOtjoTqmt\", \"scheme\": \"sinaweibo://detail?mblogid=5228970003926096\", \"vType\": 0}}```  <br>   - **业务硬伤**：  <br>     - 频繁念错品牌名（如“Self-Portrait”误读为“Self-Fortrait”）；  <br>     - 提问浅薄（反复追问“穿得好看吗”），未深挖朱珠艺术背景；  <br>     - 多次冷场需朱珠救场，最终品牌方增派主持人接管流程。```wbCustomBlock{\"type\": \"quoted\", \"index\": 17, \"data\": {\"num\": [1, 3], \"version\": 2, \"quote_list\": [{\"name\": \"头条新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5229024630543275\", \"index\": 1, \"label\": \"\"}, {\"name\": \"做梦当闲鱼\", \"scheme\": \"sinaweibo://detail?mblogid=5228616841694766\", \"index\": 3, \"label\": \"\"}]}}```  <br><br>2. **当事人应对**  <br>   - **翁青雅道歉**（11月2日）：称因首次见朱珠“太激动紧张”，向朱珠及公众致歉，承诺继续成长，末句自嘲“闯祸了可以看看我”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 19, \"data\": {\"num\": [39, 53], \"version\": 2, \"quote_list\": [{\"name\": \"椰子樹理学\", \"scheme\": \"sinaweibo://detail?mblogid=5228702340221317\", \"index\": 39, \"label\": \"\"}, {\"name\": \"哈_纯友谊罢了\", \"scheme\": \"sinaweibo://detail?mblogid=5228686577240568\", \"index\": 53, \"label\": \"\"}]}}```  <br>   - **朱珠回应**：留言“没关系，早就翻儿啦”（双关“翻篇”与“翻车”），被赞高情商。```wbCustomBlock{\"type\": \"quoted\", \"index\": 20, \"data\": {\"num\": [15, 18, 45], \"version\": 2, \"quote_list\": [{\"name\": \"中网传播\", \"scheme\": \"sinaweibo://detail?mblogid=5228328120222588\", \"index\": 45, \"label\": \"大v\"}, {\"name\": \"看剧点评星人\", \"scheme\": \"sinaweibo://detail?mblogid=5228942224264592\", \"index\": 15, \"label\": \"\"}, {\"name\": \"等待夏天65794\", \"scheme\": \"sinaweibo://detail?mblogid=5228901016276067\", \"index\": 18, \"label\": \"\"}], \"name\": \"中网传播\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.1000.1000.50/0086ll1lly8hw9cc28gcpj30rs0rs3yx.jpg?KID=imgbed,tva&Expires=1762223319&ssig=UaSZhbl1TV\", \"scheme\": \"sinaweibo://detail?mblogid=5228328120222588\", \"vType\": 3}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5228616841694766&multi_paragraph=2&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.1069.1069.50/006foSRuly8i6f3rl3jtcj30tp0tpabi.jpg?KID=imgbed,tva&Expires=1762223319&ssig=k63vcU4%2FYn) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">做梦当闲鱼</span><img src=\"http://wx3.sinaimg.cn/middle/006foSRuly1i6y3emq60pj30u01hcwgw.jpg\" data-width=1920 data-height=1080></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5228328120222588&multi_paragraph=2&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.1000.1000.50/0086ll1lly8hw9cc28gcpj30rs0rs3yx.jpg?KID=imgbed,tva&Expires=1762223319&ssig=UaSZhbl1TV) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">中网传播</span><img src=\"http://wx4.sinaimg.cn/middle/0086ll1lly1i6x6amu9noj30k00zkwfo.jpg\" data-width=1280 data-height=720></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5228901016276067&multi_paragraph=2&multi_count=2\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.500.500.50/006qih1Aly8gxy6wezvaij30dw0dw40c.jpg?KID=imgbed,tva&Expires=1762223319&ssig=tIV98lBku8) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">等待夏天65794</span><img src=\"http://wx4.sinaimg.cn/middle/006qih1Agy1i6z031jxy2j30jz0qowh2.jpg\" data-width=960 data-height=719></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5228942224264592&multi_paragraph=2&multi_count=3\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/008bhkEbly8i422d4pe3bj30u00u0my5.jpg?KID=imgbed,tva&Expires=1762223319&ssig=5HBTCeicWS) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">看剧点评星人</span><img src=\"http://wx3.sinaimg.cn/middle/008bhkEbly1i6z4tj2ajvj31hc0n4jsj.jpg\" data-width=832 data-height=1920></div><div data-type=\"v\" data-scheme=\"sinaweibo://multimedia?mix_mid=5228984272687162&mix_index=0&multi_paragraph=2&multi_count=4\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.512.512.50/008AHhLzly8hniueszuaqj30e80e874m.jpg?KID=imgbed,tva&Expires=1762223319&ssig=m%2F9Ua%2F9KaJ) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">开心的罗菲鱼</span><img src=\"http://wx4.sinaimg.cn/middle/008AHhLzly1i6z9nff1djj30k00wc3zu.jpg\" data-width=1164 data-height=720></div></media-block><br>#### 三、**舆论争议焦点：流量、资源与专业性博弈**  <br>1. **对翁青雅的批评**  <br>   - **能力质疑**：伦敦艺术大学传媒硕士学历与实际表现反差巨大，被讽“水学历”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 24, \"data\": {\"num\": [24, 40, 42], \"version\": 2, \"quote_list\": [{\"name\": \"汪秀华_\", \"scheme\": \"sinaweibo://detail?mblogid=5229148127889073\", \"index\": 24, \"label\": \"大v\"}, {\"name\": \"汀木洛\", \"scheme\": \"sinaweibo://detail?mblogid=5228619711647404\", \"index\": 40, \"label\": \"\"}, {\"name\": \"浪里在逃嗑学家\", \"scheme\": \"sinaweibo://detail?mblogid=5228944014971851\", \"index\": 42, \"label\": \"\"}], \"name\": \"汪秀华_\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.796.796.50/006L83dyly8hw5q7zi8yaj30m40m4js5.jpg?KID=imgbed,tva&Expires=1762223319&ssig=CwxcQWNgUd\", \"scheme\": \"sinaweibo://detail?mblogid=5229148127889073\", \"vType\": 0}}```  <br>   - **资源倾斜争议**：网传原定专业主持人落选，翁青雅被指靠家庭背景（百亿千金）抢占机会。```wbCustomBlock{\"type\": \"quoted\", \"index\": 25, \"data\": {\"num\": [40, 53], \"version\": 2, \"quote_list\": [{\"name\": \"汀木洛\", \"scheme\": \"sinaweibo://detail?mblogid=5228619711647404\", \"index\": 40, \"label\": \"\"}, {\"name\": \"哈_纯友谊罢了\", \"scheme\": \"sinaweibo://detail?mblogid=5228686577240568\", \"index\": 53, \"label\": \"\"}]}}```  <br>   - **道歉诚意不足**：被批用“紧张”掩盖准备缺失，自嘲态度轻浮未提品牌损失。```wbCustomBlock{\"type\": \"quoted\", \"index\": 26, \"data\": {\"num\": [5, 20, 55], \"version\": 2, \"quote_list\": [{\"name\": \"深圳县令\", \"scheme\": \"sinaweibo://detail?mblogid=5228638695853608\", \"index\": 5, \"label\": \"大v\"}, {\"name\": \"爱吃娱的猫m\", \"scheme\": \"sinaweibo://detail?mblogid=5228670043296989\", \"index\": 20, \"label\": \"\"}, {\"name\": \"沫沫小腰精\", \"scheme\": \"sinaweibo://detail?mblogid=5228823517856279\", \"index\": 55, \"label\": \"\"}], \"name\": \"深圳县令\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.1006.1006.50/682367e7ly8fgt1568xmhj20ry0ryabo.jpg?KID=imgbed,tva&Expires=1762223319&ssig=XY%2F8bZhHoO\", \"scheme\": \"sinaweibo://detail?mblogid=5228638695853608\", \"vType\": 0}}```  <br><br>2. **支持与共情声音**  <br>   - 肯定其直面错误，呼吁给予新人成长空间；```wbCustomBlock{\"type\": \"quoted\", \"index\": 28, \"data\": {\"num\": [26, 49], \"version\": 2, \"quote_list\": [{\"name\": \"主角天分\", \"scheme\": \"sinaweibo://detail?mblogid=5228688401502853\", \"index\": 49, \"label\": \"大v\"}, {\"name\": \"迷人的狐狸呀\", \"scheme\": \"sinaweibo://detail?mblogid=5229062779831679\", \"index\": 26, \"label\": \"\"}], \"name\": \"主角天分\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/006vRbxFly8i6yid48fowj30u00u0jt4.jpg?KID=imgbed,tva&Expires=1762223319&ssig=PTUQG35A5e\", \"scheme\": \"sinaweibo://detail?mblogid=5228688401502853\", \"vType\": 0}}```  <br>   - 部分网友共情“i人紧张”，认为过度审判助长网暴。```wbCustomBlock{\"type\": \"quoted\", \"index\": 29, \"data\": {\"num\": [8, 26], \"version\": 2, \"quote_list\": [{\"name\": \"飘姐带你去旅行\", \"scheme\": \"sinaweibo://detail?mblogid=5228636208631371\", \"index\": 8, \"label\": \"大v\"}, {\"name\": \"迷人的狐狸呀\", \"scheme\": \"sinaweibo://detail?mblogid=5229062779831679\", \"index\": 26, \"label\": \"\"}], \"name\": \"飘姐带你去旅行\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.144.144.50/a5419693ly8i4jb3ssawij2040040a9w.jpg?KID=imgbed,tva&Expires=1762223319&ssig=1yojPwHywB\", \"scheme\": \"sinaweibo://detail?mblogid=5228636208631371\", \"vType\": 0}}```  <br><br>3. **朱珠的标杆式表现**  <br>   - 全程保持微笑，主动引导话题至女性成长与品牌理念，被誉“职场体面人教科书”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 31, \"data\": {\"num\": [12, 28, 45], \"version\": 2, \"quote_list\": [{\"name\": \"雾眠弥漫气泡水\", \"scheme\": \"sinaweibo://detail?mblogid=5228568080810209\", \"index\": 12, \"label\": \"大v\"}, {\"name\": \"主持人胡莎\", \"scheme\": \"sinaweibo://detail?mblogid=5228970003926096\", \"index\": 28, \"label\": \"\"}, {\"name\": \"中网传播\", \"scheme\": \"sinaweibo://detail?mblogid=5228328120222588\", \"index\": 45, \"label\": \"\"}], \"name\": \"雾眠弥漫气泡水\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.512.512.50/008cW1Qaly8i6nq085bfij30e80e83yr.jpg?KID=imgbed,tva&Expires=1762223319&ssig=TK5cKob%2Bus\", \"scheme\": \"sinaweibo://detail?mblogid=5228568080810209\", \"vType\": 0}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5228636208631371&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=3&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.144.144.50/a5419693ly8i4jb3ssawij2040040a9w.jpg?KID=imgbed,tva&Expires=1762223319&ssig=1yojPwHywB) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">飘姐带你去旅行</span><img src=\"http://wx3.sinaimg.cn/middle/a5419693ly1i6y5mx3salj20u60e6779.jpg\" data-width=510 data-height=1086></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5228823517856279&multi_paragraph=3&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.967.967.50/007vOClhly8gybsaihfdaj30qv0qvjtr.jpg?KID=imgbed,tva&Expires=1762223319&ssig=aXlbslJm6p) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">沫沫小腰精</span><img src=\"http://wx1.sinaimg.cn/middle/007vOClhgy1i6yr70tf6gj30zk0k0gme.jpg\" data-width=720 data-height=1280></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5228638695853608&multi_paragraph=3&multi_count=2\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.1006.1006.50/682367e7ly8fgt1568xmhj20ry0ryabo.jpg?KID=imgbed,tva&Expires=1762223319&ssig=XY%2F8bZhHoO) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">深圳县令</span><img src=\"http://wx3.sinaimg.cn/middle/682367e7gy1i6y5yi31r2j20u01hcgmy.jpg\" data-width=1920 data-height=1080></div></media-block><br>#### 四、**行业反思：流量时代的专业警钟**  <br>1. **跨界与专业的冲突**  <br>   - **行业痛点**：流量明星挤压专业主持人空间，选拔机制倾向“话题性”而非能力匹配。```wbCustomBlock{\"type\": \"quoted\", \"index\": 35, \"data\": {\"num\": [17, 30, 40], \"version\": 2, \"quote_list\": [{\"name\": \"极目新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5228846205110782\", \"index\": 17, \"label\": \"大v\"}, {\"name\": \"蘑菇的二姐\", \"scheme\": \"sinaweibo://detail?mblogid=5228586534437528\", \"index\": 30, \"label\": \"\"}, {\"name\": \"汀木洛\", \"scheme\": \"sinaweibo://detail?mblogid=5228619711647404\", \"index\": 40, \"label\": \"\"}], \"name\": \"极目新闻\", \"img\": \"https://tvax4.sinaimg.cn/crop.111.343.857.857.50/001SsZ0Mly8h8vhiw5c7tj60u016w0us02.jpg?KID=imgbed,tva&Expires=1762223319&ssig=RpN%2BciwpmC\", \"scheme\": \"sinaweibo://detail?mblogid=5228846205110782\", \"vType\": 3}}```  <br>   - **警示案例**：品牌为追求热度忽视专业性，最终反噬口碑。```wbCustomBlock{\"type\": \"quoted\", \"index\": 36, \"data\": {\"num\": [7, 31, 52], \"version\": 2, \"quote_list\": [{\"name\": \"封面新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5228925705786632\", \"index\": 7, \"label\": \"大v\"}, {\"name\": \"约眠\", \"scheme\": \"sinaweibo://detail?mblogid=5229160471200137\", \"index\": 31, \"label\": \"\"}, {\"name\": \"财欢欢呀\", \"scheme\": \"sinaweibo://detail?mblogid=5229159896844868\", \"index\": 52, \"label\": \"\"}], \"name\": \"封面新闻\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.690.690.50/001DitQply8h8vhzzl20mj60j60j6jrn02.jpg?KID=imgbed,tva&Expires=1762223319&ssig=TVFT9VUabI\", \"scheme\": \"sinaweibo://detail?mblogid=5228925705786632\", \"vType\": 3}}```  <br><br>2. **深层价值探讨**  <br>   - **专业门槛不可模糊**：主持需系统训练与充分准备，绝非“念稿即可”；```wbCustomBlock{\"type\": \"quoted\", \"index\": 38, \"data\": {\"num\": [17, 28, 41], \"version\": 2, \"quote_list\": [{\"name\": \"Yundor\", \"scheme\": \"sinaweibo://detail?mblogid=5228732281258978\", \"index\": 41, \"label\": \"\"}, {\"name\": \"极目新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5228846205110782\", \"index\": 17, \"label\": \"\"}, {\"name\": \"主持人胡莎\", \"scheme\": \"sinaweibo://detail?mblogid=5228970003926096\", \"index\": 28, \"label\": \"\"}], \"name\": \"Yundor\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/4dbcedc0ly8i5osqauea1j20u00u00uv.jpg?KID=imgbed,tva&Expires=1762223319&ssig=tlnBXoysIb\", \"scheme\": \"sinaweibo://detail?mblogid=5228732281258978\", \"vType\": 0}}```  <br>   - **流量与实力平衡**：媒体呼吁“流量通行证更需精益求精”，网红长红需补位专业素养。```wbCustomBlock{\"type\": \"quoted\", \"index\": 39, \"data\": {\"num\": [7, 17, 52], \"version\": 2, \"quote_list\": [{\"name\": \"封面新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5228925705786632\", \"index\": 7, \"label\": \"\"}, {\"name\": \"极目新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5228846205110782\", \"index\": 17, \"label\": \"\"}, {\"name\": \"财欢欢呀\", \"scheme\": \"sinaweibo://detail?mblogid=5229159896844868\", \"index\": 52, \"label\": \"\"}]}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5228586534437528&multi_paragraph=4&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tva2.sinaimg.cn/crop.0.1.750.750.50/a19169fbjw8ep0mir735oj20ku0kxmy5.jpg?KID=imgbed,tva&Expires=1762223319&ssig=S%2FbduBg0jB) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">蘑菇的二姐</span><img src=\"http://wx4.sinaimg.cn/middle/a19169fbly1i6xzyb59f5j20jy0v63zn.jpg\" data-width=1122 data-height=718></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5228846205110782&multi_paragraph=4&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.111.343.857.857.50/001SsZ0Mly8h8vhiw5c7tj60u016w0us02.jpg?KID=imgbed,tva&Expires=1762223319&ssig=RpN%2BciwpmC) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">极目新闻</span><img src=\"http://wx2.sinaimg.cn/middle/001SsZ0Mly1i6ytslzh40j60k00zkab802.jpg\" data-width=1280 data-height=720></div></media-block><br>#### 五、**后续影响与观察重点**  <br>- **品牌整改**：歌力思能否通过流程优化重建信任，避免“黑红”营销。```wbCustomBlock{\"type\": \"quoted\", \"index\": 42, \"data\": {\"num\": [31, 51], \"version\": 2, \"quote_list\": [{\"name\": \"约眠\", \"scheme\": \"sinaweibo://detail?mblogid=5229160471200137\", \"index\": 31, \"label\": \"\"}, {\"name\": \"_吃掉小猫\", \"scheme\": \"sinaweibo://detail?mblogid=5229159523026974\", \"index\": 51, \"label\": \"\"}]}}```  <br>- **翁青雅行动**：其承诺的“成长”需转化为系统性能力提升，而非仅口头道歉。```wbCustomBlock{\"type\": \"quoted\", \"index\": 43, \"data\": {\"num\": [9, 43, 53], \"version\": 2, \"quote_list\": [{\"name\": \"狐狸是个睡神\", \"scheme\": \"sinaweibo://detail?mblogid=5228929755385235\", \"index\": 9, \"label\": \"\"}, {\"name\": \"泡泡栗子丸_\", \"scheme\": \"sinaweibo://detail?mblogid=5228644528298395\", \"index\": 43, \"label\": \"\"}, {\"name\": \"哈_纯友谊罢了\", \"scheme\": \"sinaweibo://detail?mblogid=5228686577240568\", \"index\": 53, \"label\": \"\"}]}}```  <br>- **行业规范**：是否出台跨界主持资质审核机制，保障专业就业公平。```wbCustomBlock{\"type\": \"quoted\", \"index\": 44, \"data\": {\"num\": [17, 40, 52], \"version\": 2, \"quote_list\": [{\"name\": \"极目新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5228846205110782\", \"index\": 17, \"label\": \"\"}, {\"name\": \"汀木洛\", \"scheme\": \"sinaweibo://detail?mblogid=5228619711647404\", \"index\": 40, \"label\": \"\"}, {\"name\": \"财欢欢呀\", \"scheme\": \"sinaweibo://detail?mblogid=5229159896844868\", \"index\": 52, \"label\": \"\"}]}}```  <br><br>> 💎 **事件本质**：这场翻车已超越个人失误，成为检验娱乐业“**流量优先还是专业至上**”的试金石。朱珠的从容与翁青雅的狼狈，恰是职业敬畏心与现实浮躁的鲜明映照。```wbCustomBlock{\"type\": \"quoted\", \"index\": 45, \"data\": {\"num\": [12, 31, 51, 52], \"version\": 2, \"quote_list\": [{\"name\": \"雾眠弥漫气泡水\", \"scheme\": \"sinaweibo://detail?mblogid=5228568080810209\", \"index\": 12, \"label\": \"\"}, {\"name\": \"约眠\", \"scheme\": \"sinaweibo://detail?mblogid=5229160471200137\", \"index\": 31, \"label\": \"\"}, {\"name\": \"_吃掉小猫\", \"scheme\": \"sinaweibo://detail?mblogid=5229159523026974\", \"index\": 51, \"label\": \"\"}, {\"name\": \"财欢欢呀\", \"scheme\": \"sinaweibo://detail?mblogid=5229159896844868\", \"index\": 52, \"label\": \"\"}]}}```<br>",
+      "mid_list": null,
+      "abtest_info": {
+        "chat_entrance": 1
+      },
+      "top_quote_list": {},
+      "status": 2,
+      "qs_status_info": "{\"qs_q_status\":0,\"qs_u_status\":0,\"qs_r_status\":0,\"ab_lab\":{},\"qs_c_status\":8388608,\"qs_status\":0}",
+      "page_id": "2329647024b03e3a562b4ba9b16921306aab4c",
+      "qs_status": 0,
+      "chat_status_stage": 1,
+      "ab_suffix": "default",
+      "share_text": "#品牌回应翁青雅直播翻车#的相关内容，来智搜看看",
+      "share_info": {
+        "display_name": "#品牌回应翁青雅直播翻车#",
+        "comment_content": "",
+        "tips": "#品牌回应翁青雅直播翻车#的相关内容，来智搜看看",
+        "unify_md5": "c86992023a5be859b2440284692167bb",
+        "url": "http://t.cn/AXAO01P0",
+        "status": 3,
+        "page_id": "2329647024b03e3a562b4ba9b16921306aab4c"
+      },
+      "query": "#品牌回应翁青雅直播翻车#",
+      "unify_md5": "c86992023a5be859b2440284692167bb",
+      "msg_format": "markdown",
+      "current_time": 1762212794
+    }
+  },
+  "links": [
+    "sinaweibo://detail?mblogid=5229024630543275",
+    "sinaweibo://detail?mblogid=5228984272687162",
+    "sinaweibo://detail?mblogid=5228616841694766",
+    "sinaweibo://detail?mblogid=5228638566092379",
+    "sinaweibo://detail?mblogid=5228638695853608",
+    "sinaweibo://detail?mblogid=5228857003084819",
+    "sinaweibo://detail?mblogid=5228925705786632",
+    "sinaweibo://detail?mblogid=5228636208631371",
+    "sinaweibo://detail?mblogid=5228929755385235",
+    "sinaweibo://detail?mblogid=5228643371453752",
+    "sinaweibo://detail?mblogid=5229067391469559",
+    "sinaweibo://detail?mblogid=5228568080810209",
+    "sinaweibo://detail?mblogid=5228659862670766",
+    "sinaweibo://detail?mblogid=5228636631469080",
+    "sinaweibo://detail?mblogid=5228942224264592",
+    "sinaweibo://detail?mblogid=5228761154848019",
+    "sinaweibo://detail?mblogid=5228846205110782",
+    "sinaweibo://detail?mblogid=5228901016276067",
+    "sinaweibo://detail?mblogid=5228633812637391",
+    "sinaweibo://detail?mblogid=5228670043296989",
+    "historyweibo://5229024630543275",
+    "historyweibo://4876275400836411",
+    "historyweibo://4805271388163574",
+    "sinaweibo://detail?mblogid=5229148127889073",
+    "sinaweibo://detail?mblogid=5229146024182562",
+    "sinaweibo://detail?mblogid=5229062779831679",
+    "sinaweibo://detail?mblogid=5229066627842614",
+    "sinaweibo://detail?mblogid=5228970003926096",
+    "sinaweibo://detail?mblogid=5228715027728348",
+    "sinaweibo://detail?mblogid=5228586534437528",
+    "sinaweibo://detail?mblogid=5229160471200137",
+    "sinaweibo://detail?mblogid=5229160416413328",
+    "sinaweibo://detail?mblogid=5229160096074229",
+    "sinaweibo://detail?mblogid=5229159787528344",
+    "sinaweibo://detail?mblogid=5229076538458494",
+    "sinaweibo://detail?mblogid=5229121351451007",
+    "sinaweibo://detail?mblogid=5229093251448993",
+    "sinaweibo://detail?mblogid=5229073107255836",
+    "sinaweibo://detail?mblogid=5228702340221317",
+    "sinaweibo://detail?mblogid=5228619711647404",
+    "sinaweibo://detail?mblogid=5228732281258978",
+    "sinaweibo://detail?mblogid=5228944014971851",
+    "sinaweibo://detail?mblogid=5228644528298395",
+    "sinaweibo://detail?mblogid=5228640724058241",
+    "sinaweibo://detail?mblogid=5228328120222588",
+    "sinaweibo://detail?mblogid=5228642948351747",
+    "sinaweibo://detail?mblogid=5228830855790633",
+    "sinaweibo://detail?mblogid=5229099846730078",
+    "sinaweibo://detail?mblogid=5228688401502853",
+    "sinaweibo://detail?mblogid=5229160366867773",
+    "sinaweibo://detail?mblogid=5229159523026974",
+    "sinaweibo://detail?mblogid=5229159896844868",
+    "sinaweibo://detail?mblogid=5228686577240568",
+    "sinaweibo://detail?mblogid=5228648645002332",
+    "sinaweibo://detail?mblogid=5228823517856279"
+  ],
+  "media": [
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/001DitQply1i6xt1s4bicj60u01hc0ve02.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/001DitQply1i6xt1s4bicj60u01hc0ve02.jpg",
+      "alt": "头条新闻",
+      "width": 1920,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/001DitQply1i6xt1s4bicj60u01hc0ve02.jpg"
+      ],
+      "user": "头条新闻"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/006foSRuly1i6y3emq60pj30u01hcwgw.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/006foSRuly1i6y3emq60pj30u01hcwgw.jpg",
+      "alt": "做梦当闲鱼",
+      "width": 1920,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/006foSRuly1i6y3emq60pj30u01hcwgw.jpg"
+      ],
+      "user": "做梦当闲鱼"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/0086ll1lly1i6x6amu9noj30k00zkwfo.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/0086ll1lly1i6x6amu9noj30k00zkwfo.jpg",
+      "alt": "中网传播",
+      "width": 1280,
+      "height": 720,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/0086ll1lly1i6x6amu9noj30k00zkwfo.jpg"
+      ],
+      "user": "中网传播"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/006qih1Agy1i6z031jxy2j30jz0qowh2.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/006qih1Agy1i6z031jxy2j30jz0qowh2.jpg",
+      "alt": "等待夏天65794",
+      "width": 960,
+      "height": 719,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/006qih1Agy1i6z031jxy2j30jz0qowh2.jpg"
+      ],
+      "user": "等待夏天65794"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/008bhkEbly1i6z4tj2ajvj31hc0n4jsj.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/008bhkEbly1i6z4tj2ajvj31hc0n4jsj.jpg",
+      "alt": "看剧点评星人",
+      "width": 832,
+      "height": 1920,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx4.sinaimg.cn/large/008bhkEbly1i6z4tj2ajvj31hc0n4jsj.jpg"
+      ],
+      "user": "看剧点评星人"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/008AHhLzly1i6z9nff1djj30k00wc3zu.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/008AHhLzly1i6z9nff1djj30k00wc3zu.jpg",
+      "alt": "开心的罗菲鱼",
+      "width": 1164,
+      "height": 720,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/008AHhLzly1i6z9nff1djj30k00wc3zu.jpg"
+      ],
+      "user": "开心的罗菲鱼"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/a5419693ly1i6y5mx3salj20u60e6779.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/a5419693ly1i6y5mx3salj20u60e6779.jpg",
+      "alt": "飘姐带你去旅行",
+      "width": 510,
+      "height": 1086,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/a5419693ly1i6y5mx3salj20u60e6779.jpg"
+      ],
+      "user": "飘姐带你去旅行"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/007vOClhgy1i6yr70tf6gj30zk0k0gme.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/007vOClhgy1i6yr70tf6gj30zk0k0gme.jpg",
+      "alt": "沫沫小腰精",
+      "width": 720,
+      "height": 1280,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/007vOClhgy1i6yr70tf6gj30zk0k0gme.jpg"
+      ],
+      "user": "沫沫小腰精"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/682367e7gy1i6y5yi31r2j20u01hcgmy.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/682367e7gy1i6y5yi31r2j20u01hcgmy.jpg",
+      "alt": "深圳县令",
+      "width": 1920,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/682367e7gy1i6y5yi31r2j20u01hcgmy.jpg"
+      ],
+      "user": "深圳县令"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/a19169fbly1i6xzyb59f5j20jy0v63zn.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/a19169fbly1i6xzyb59f5j20jy0v63zn.jpg",
+      "alt": "蘑菇的二姐",
+      "width": 1122,
+      "height": 718,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/a19169fbly1i6xzyb59f5j20jy0v63zn.jpg"
+      ],
+      "user": "蘑菇的二姐"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/001SsZ0Mly1i6ytslzh40j60k00zkab802.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/001SsZ0Mly1i6ytslzh40j60k00zkab802.jpg",
+      "alt": "极目新闻",
+      "width": 1280,
+      "height": 720,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/001SsZ0Mly1i6ytslzh40j60k00zkab802.jpg"
+      ],
+      "user": "极目新闻"
+    }
+  ],
+  "html_path": "data/aicard/hourly/2025-11-04/07/topic-c8699202.html"
+}

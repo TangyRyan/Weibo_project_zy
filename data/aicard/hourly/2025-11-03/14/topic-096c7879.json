@@ -1,0 +1,336 @@
+{
+  "meta": {
+    "query": "#朱珠说没关系早就翻了#",
+    "status_code": 200,
+    "fetched_at": "2025-11-03T14:48:29+08:00",
+    "response": {
+      "scheme": "sinaweibo://cardlist?containerid=100103type%3D225%26q%3D%23%E6%9C%B1%E7%8F%A0%E8%AF%B4%E6%B2%A1%E5%85%B3%E7%B3%BB%E6%97%A9%E5%B0%B1%E7%BF%BB%E4%BA%86%23%26t%3D&extparam=ai_model%3Ddeepseek%26ori_ai_title%3D%E5%8F%82%E8%80%83%E5%8D%9A%E6%96%87%26material_version%3D1762152204",
+      "loop_times": 200,
+      "share_text": "#朱珠说没关系早就翻了#的相关内容，来智搜看看",
+      "query": "#朱珠说没关系早就翻了#",
+      "unify_md5": "096c787993a21fd8c50961456b7b3835",
+      "reference_num": 37,
+      "query_category": "Gossip",
+      "short_url": "http://t.cn/AXAC4EHT",
+      "zs_risk_control": {
+        "think_text_close": 0,
+        "land_button_close": 0
+      },
+      "cot": 1,
+      "top_quote_list": {},
+      "card_multimodal": {
+        "type": "mediablock",
+        "data": [
+          {
+            "scheme": "sinaweibo://multimedia?mix_mid=5228834368784924&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=0",
+            "cur_mid": "5228834368784924",
+            "h": 1084,
+            "user_name": "地瓜熊老六",
+            "vtype": 0,
+            "type": "p",
+            "img": "http://wx3.sinaimg.cn/middle/004iBqFSly1i6ysf2wzewj60qo0u4gqm02.jpg",
+            "video_url": "",
+            "hit_score_new": 96.875,
+            "doc_score": 4945,
+            "img_pid": "004iBqFSly1i6ysf2wzewj60qo0u4gqm02",
+            "user_avatar": "https://tvax2.sinaimg.cn/crop.0.40.649.649.50/eacedf04ly8geb0ltyihbj20j60j60tm.jpg?KID=imgbed,tva&Expires=1762163004&ssig=9X0zSx1%2BaA",
+            "hit_score_final": 87.725006,
+            "w": 960,
+            "click_rate": 0.11745513866232
+          },
+          {
+            "scheme": "sinaweibo://multimedia?mix_mid=5228882007429031&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=1&multi_count=1",
+            "cur_mid": "5228882007429031",
+            "h": 1460,
+            "user_name": "逸菲七分甜Lucky",
+            "vtype": 0,
+            "type": "p",
+            "img": "http://wx1.sinaimg.cn/middle/007dhO9Egy1i6yxwjwuk0j30q214kjts.jpg",
+            "video_url": "",
+            "hit_score_new": 89.208984,
+            "doc_score": 6111,
+            "img_pid": "007dhO9Egy1i6yxwjwuk0j30q214kjts",
+            "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/007dhO9Ely8i31y03lshaj30u00u0dje.jpg?KID=imgbed,tva&Expires=1762163004&ssig=Ltjca4zZKc",
+            "hit_score_final": 85.525391,
+            "w": 938,
+            "click_rate": 0.06
+          },
+          {
+            "scheme": "sinaweibo://video/vvs?mid=5228855841262582&multi_paragraph=1&multi_count=2",
+            "cur_mid": "5228855841262582",
+            "h": 1080,
+            "user_name": "财加灵",
+            "vtype": 0,
+            "type": "v",
+            "img": "http://wx3.sinaimg.cn/middle/005JNCHFgy1i6yuvziab1j31hc0u0woo.jpg",
+            "video_url": "https://video.weibo.com/show?fid=1034:5228855427006498",
+            "hit_score_new": 93.505859,
+            "doc_score": 6021,
+            "img_pid": "005JNCHFgy1i6yuvziab1j31hc0u0woo",
+            "user_avatar": "https://tvax1.sinaimg.cn/crop.0.0.400.400.50/005JNCHFly8i5e4gr08mnj30b40b4mx6.jpg?KID=imgbed,tva&Expires=1762163004&ssig=n8DUOOEoI9",
+            "hit_score_final": 88.103516,
+            "w": 1920,
+            "click_rate": 0.019155420113191
+          },
+          {
+            "scheme": "sinaweibo://multimedia?mix_mid=5228834368784924&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=0",
+            "cur_mid": "5228834368784924",
+            "h": 1084,
+            "user_name": "地瓜熊老六",
+            "vtype": 0,
+            "type": "p",
+            "img": "http://wx3.sinaimg.cn/middle/004iBqFSly1i6ysf2wzewj60qo0u4gqm02.jpg",
+            "video_url": "",
+            "hit_score_new": 96.875,
+            "doc_score": 4945,
+            "img_pid": "004iBqFSly1i6ysf2wzewj60qo0u4gqm02",
+            "user_avatar": "https://tvax2.sinaimg.cn/crop.0.40.649.649.50/eacedf04ly8geb0ltyihbj20j60j60tm.jpg?KID=imgbed,tva&Expires=1762163004&ssig=9X0zSx1%2BaA",
+            "hit_score_final": 87.725006,
+            "w": 960,
+            "click_rate": 0.11745513866232
+          }
+        ]
+      },
+      "share_card_multimodal": {
+        "scheme": "sinaweibo://multimedia?mix_mid=5228834368784924&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=0",
+        "cur_mid": "5228834368784924",
+        "h": 1084,
+        "user_name": "地瓜熊老六",
+        "vtype": 0,
+        "type": "p",
+        "img": "http://wx3.sinaimg.cn/middle/004iBqFSly1i6ysf2wzewj60qo0u4gqm02.jpg",
+        "video_url": "",
+        "hit_score_new": 96.875,
+        "doc_score": 4945,
+        "img_pid": "004iBqFSly1i6ysf2wzewj60qo0u4gqm02",
+        "user_avatar": "https://tvax2.sinaimg.cn/crop.0.40.649.649.50/eacedf04ly8geb0ltyihbj20j60j60tm.jpg?KID=imgbed,tva&Expires=1762163004&ssig=9X0zSx1%2BaA",
+        "hit_score_final": 87.725006,
+        "w": 960,
+        "click_rate": 0.11745513866232
+      },
+      "basemodel": "实验组6",
+      "sorted_material_list": null,
+      "qs_status_info": "{\"qs_r_status\":0,\"qs_u_status\":0,\"ab_lab\":{},\"qs_status\":0,\"qs_q_status\":0,\"qs_c_status\":8388608}",
+      "qs_status": 0,
+      "ext_show": {},
+      "version": "2025-11-03 14:43:24.015000-6374",
+      "wenda": {
+        "forward_gen": 0
+      },
+      "abtest_info": {
+        "chat_entrance": 1
+      },
+      "uid": "",
+      "status_stage": 4,
+      "query_field": "1",
+      "msg_format": "markdown",
+      "msg": "<think><br>嗯，我收到了用户关于\"朱珠说没关系早就翻了\"的查询，需要整理搜索结果并给出回答。用户提供了41个搜索结果，包含了大量微博和各种资料信息。<br><br>浏览这些搜索结果后，我发现这是关于演员朱珠对主持人翁青雅采访失误事件的回应。主要信息包括：<br>1. 事件起因是翁青雅在11月1日跨界采访朱珠时表现失误，被网友称为\"社交灾难\"，具体问题有礼仪失当、专业不足等。<br>2. 翁青雅于11月2日发文道歉。<br>3. 朱珠在同日回复\"没关系，早就翻儿啦\"。<br>4. 品牌方删除了采访回放，主要因为翁青雅念错品牌名称。<br>5. 网友对朱珠的回应普遍评价为高情商、体面大度。<br><br>考虑到用户要求：<br>- 需要在答案中引用相关搜索结果编号<br>- 不能简单罗列账号内容<br>- 语言要与用户保持一致（中文）<br>- 注意时效性（今天是2025年11月3日）<br><br>我准备组织回答的结构如下：<br>开篇部分会简洁点出核心事件，包括时间、人物和关键回应。然后分三部分详细说明：事件背景（翁青雅的失误和道歉）、朱珠的回应及公众反应、事件影响与专业反思。<br><br>在事件背景部分，会涵盖翁青雅的具体失误表现（礼仪、专业、态度三方面）以及她的道歉内容和存在的问题。在朱珠回应部分，会分析她回应的高情商表现，同时带出她作为前主持人的专业背景。在事件影响部分，会讨论品牌方的处理、公众对专业性的讨论以及事件反映的行业问题。<br><br>每个要点都会引用相关的搜索结果作为支持，比如引用结果2、11等说明翁青雅的道歉和品牌处理，引用结果13说明朱珠的主持背景，引用结果34讨论专业性问题。<br><br>最后会强调朱珠展现出的职业素养和该事件对行业的启示意义。回答中会避免直接引用账号名称，而是概括内容并用引用编号标明来源。<br><br></think><br>以下是关于\"朱珠说没关系早就翻了\"事件的全面解析，综合多方信息整理：<br>### ⚡️ **事件核心脉络**<br>1. **争议采访爆发（11月1日）**  <br>   综艺嘉宾翁青雅跨界采访演员朱珠时，因多重失误被网友称为\"社交灾难\"：  <br>   - **礼仪失当**：进门未扶门让嘉宾关门、抢先落座主位，被批缺乏职业素养；```wbCustomBlock{\"type\": \"quoted\", \"index\": 4, \"data\": {\"num\": [3, 16], \"version\": 2, \"quote_list\": [{\"name\": \"逸菲七分甜Lucky\", \"scheme\": \"sinaweibo://detail?mblogid=5228882007429031\", \"index\": 3, \"label\": \"大v\"}, {\"name\": \"续丠词\", \"scheme\": \"sinaweibo://detail?mblogid=5228643585625028\", \"index\": 16, \"label\": \"\"}], \"name\": \"逸菲七分甜Lucky\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/007dhO9Ely8i31y03lshaj30u00u0dje.jpg?KID=imgbed,tva&Expires=1762163004&ssig=Ltjca4zZKc\", \"scheme\": \"sinaweibo://detail?mblogid=5228882007429031\", \"vType\": 0}}```  <br>   - **专业不足**：提问逻辑混乱，多次念错品牌名（如将\"Self-Portrait\"误读为\"Self-Fortrait\"），导致采访冷场频发；```wbCustomBlock{\"type\": \"quoted\", \"index\": 5, \"data\": {\"num\": [34], \"version\": 2, \"quote_list\": [{\"name\": \"今视频长天新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5228903040024867\", \"index\": 34, \"label\": \"大v\"}], \"name\": \"今视频长天新闻\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.600.600.50/001pc7tEly8i1trdqpgroj60go0gogm502.jpg?KID=imgbed,tva&Expires=1762163004&ssig=jzXTbZOvBz\", \"scheme\": \"sinaweibo://detail?mblogid=5228903040024867\", \"vType\": 3}}```  <br>   - **救场对比**：朱珠全程微笑控场，主动接话引导话题，被赞\"教科书级救场\"。```wbCustomBlock{\"type\": \"quoted\", \"index\": 6, \"data\": {\"num\": [4], \"version\": 2, \"quote_list\": [{\"name\": \"财加灵\", \"scheme\": \"sinaweibo://detail?mblogid=5228855841262582\", \"index\": 4, \"label\": \"\"}]}}```<br><br>2. **公开道歉（11月2日）**  <br>   翁青雅发文承认因紧张造成失误，向朱珠致歉称：\"第一次见朱珠姐太激动紧张……以后会继续努力\"。其道歉文末用网友批评玩梗\"大家以后觉得自己闯祸了可以看看翁青雅的探访\"，但将\"采访\"误写为\"探访\"，再遭质疑知识储备不足。```wbCustomBlock{\"type\": \"quoted\", \"index\": 7, \"data\": {\"num\": [2, 39], \"version\": 2, \"quote_list\": [{\"name\": \"翁青雅Evelyn\", \"scheme\": \"sinaweibo://detail?mblogid=5228627174362495\", \"index\": 2, \"label\": \"大v\"}, {\"name\": \"Cecily_初橘泛椿季\", \"scheme\": \"sinaweibo://detail?mblogid=5228882841043622\", \"index\": 39, \"label\": \"\"}], \"name\": \"翁青雅Evelyn\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.512.512.50/7453df49ly8hsq22io256j20e80e8ab7.jpg?KID=imgbed,tva&Expires=1762163004&ssig=E0UzPh%2F140\", \"scheme\": \"sinaweibo://detail?mblogid=5228627174362495\", \"vType\": 0}}```<br><br>3. **朱珠回应（11月2日晚）**  <br>   朱珠在翁青雅道歉微博下回复：\"没关系，早就翻儿啦\"。该回应6小时内获赞超14万，衍生话题登热搜首位。网友解读\"翻儿啦\"为北京方言\"翻篇\"，既表明事件已过去，又暗含对失误的调侃式宽容。```wbCustomBlock{\"type\": \"quoted\", \"index\": 8, \"data\": {\"num\": [1, 19, 22, 23, 32], \"version\": 2, \"quote_list\": [{\"name\": \"中国蓝新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5228839367607285\", \"index\": 1, \"label\": \"大v\"}, {\"name\": \"新浪大文娱\", \"scheme\": \"sinaweibo://detail?mblogid=5228654929909251\", \"index\": 19, \"label\": \"\"}, {\"name\": \"大皖新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5228668635058748\", \"index\": 22, \"label\": \"\"}, {\"name\": \"地瓜熊老六\", \"scheme\": \"sinaweibo://detail?mblogid=5228834368784924\", \"index\": 23, \"label\": \"\"}, {\"name\": \"楠同学的记事薄\", \"scheme\": \"sinaweibo://detail?mblogid=5228907185836457\", \"index\": 32, \"label\": \"\"}], \"name\": \"中国蓝新闻\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.1000.1000.50/8842ff52ly8heqfusvnwbj20rs0rsmxx.jpg?KID=imgbed,tva&Expires=1762163004&ssig=6cQ7b55Us6\", \"scheme\": \"sinaweibo://detail?mblogid=5228839367607285\", \"vType\": 3}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5228834368784924&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.40.649.649.50/eacedf04ly8geb0ltyihbj20j60j60tm.jpg?KID=imgbed,tva&Expires=1762163004&ssig=9X0zSx1%2BaA) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">地瓜熊老六</span><img src=\"http://wx3.sinaimg.cn/middle/004iBqFSly1i6ysf2wzewj60qo0u4gqm02.jpg\" data-width=1084 data-height=960></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5228882007429031&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=1&multi_count=1\"><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/007dhO9Ely8i31y03lshaj30u00u0dje.jpg?KID=imgbed,tva&Expires=1762163004&ssig=Ltjca4zZKc) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">逸菲七分甜Lucky</span><img src=\"http://wx1.sinaimg.cn/middle/007dhO9Egy1i6yxwjwuk0j30q214kjts.jpg\" data-width=1460 data-height=938></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5228855841262582&multi_paragraph=1&multi_count=2\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.400.400.50/005JNCHFly8i5e4gr08mnj30b40b4mx6.jpg?KID=imgbed,tva&Expires=1762163004&ssig=n8DUOOEoI9) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">财加灵</span><img src=\"http://wx3.sinaimg.cn/middle/005JNCHFgy1i6yuvziab1j31hc0u0woo.jpg\" data-width=1080 data-height=1920></div></media-block><br>### 💎 **朱珠回应背后的深意**<br>1. **专业底蕴的支撑**  <br>   朱珠早年任MTV双语主持人（2005-2011年），主持过希尔顿记者会、NBC直播等国际场合。此次事件中她展现的应变能力与包容态度，被业内视为多年职业素养的自然流露。其回应既化解后辈尴尬，又维护行业体面，被评\"强者风范\"。```wbCustomBlock{\"type\": \"quoted\", \"index\": 10, \"data\": {\"num\": [5, 8, 26], \"version\": 2, \"quote_list\": [{\"name\": \"橙子园的小虫女\", \"scheme\": \"sinaweibo://detail?mblogid=5228889078238848\", \"index\": 5, \"label\": \"大v\"}, {\"name\": \"小周很开心吖\", \"scheme\": \"sinaweibo://detail?mblogid=5228890668403112\", \"index\": 8, \"label\": \"\"}, {\"name\": \"中国蓝新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5228851874759720\", \"index\": 26, \"label\": \"\"}], \"name\": \"橙子园的小虫女\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.960.960.50/81bae92aly8i53n91no9kj20qo0qognk.jpg?KID=imgbed,tva&Expires=1762163004&ssig=bctNqalOyu\", \"scheme\": \"sinaweibo://detail?mblogid=5228889078238848\", \"vType\": 0}}```<br><br>2. **舆论两极分化**  <br>   - **支持方**：认为朱珠大气格局为行业树立榜样，用轻松化解尴尬彰显情商；```wbCustomBlock{\"type\": \"quoted\", \"index\": 12, \"data\": {\"num\": [5, 21], \"version\": 2, \"quote_list\": [{\"name\": \"橙子园的小虫女\", \"scheme\": \"sinaweibo://detail?mblogid=5228889078238848\", \"index\": 5, \"label\": \"\"}, {\"name\": \"渔樵乐闻\", \"scheme\": \"sinaweibo://detail?mblogid=5228896721043883\", \"index\": 21, \"label\": \"\"}]}}```  <br>   - **质疑方**：指出翁青雅道歉缺乏对品牌方和观众的致歉，且业务能力不足却占据优质资源，反映行业资源分配问题。```wbCustomBlock{\"type\": \"quoted\", \"index\": 13, \"data\": {\"num\": [25, 34], \"version\": 2, \"quote_list\": [{\"name\": \"沫沫小腰精\", \"scheme\": \"sinaweibo://detail?mblogid=5228711290339680\", \"index\": 25, \"label\": \"\"}, {\"name\": \"今视频长天新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5228903040024867\", \"index\": 34, \"label\": \"\"}]}}```<br><br>3. **品牌方紧急止损**  <br>   涉事品牌因主持失误删除采访回放（主要因品牌名念错），其他品牌未跟进，反映商业方对专业事故的敏感反应。```wbCustomBlock{\"type\": \"quoted\", \"index\": 14, \"data\": {\"num\": [39], \"version\": 2, \"quote_list\": [{\"name\": \"Cecily_初橘泛椿季\", \"scheme\": \"sinaweibo://detail?mblogid=5228882841043622\", \"index\": 39, \"label\": \"\"}]}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5228851874759720&multi_paragraph=2&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.1000.1000.50/8842ff52ly8heqfusvnwbj20rs0rsmxx.jpg?KID=imgbed,tva&Expires=1762163004&ssig=6cQ7b55Us6) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">中国蓝新闻</span><img src=\"http://wx4.sinaimg.cn/middle/8842ff52ly1i6yufgsxbsj20u0140ti8.jpg\" data-width=1440 data-height=1080></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5228889078238848&multi_paragraph=2&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.960.960.50/81bae92aly8i53n91no9kj20qo0qognk.jpg?KID=imgbed,tva&Expires=1762163004&ssig=bctNqalOyu) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">橙子园的小虫女</span><img src=\"http://wx3.sinaimg.cn/middle/81bae92agy1i6yyq3c578j20k00qpgro.jpg\" data-width=961 data-height=720></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5228890668403112&multi_paragraph=2&multi_count=2\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.959.959.50/007YrCoIly8hk2st2tnasj30qn0qn41u.jpg?KID=imgbed,tva&Expires=1762163004&ssig=0Ft3kN7ywi) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">小周很开心吖</span><img src=\"http://wx3.sinaimg.cn/middle/007YrCoIly1i6yyuh6bllj30gg0zkaaf.jpg\" data-width=1280 data-height=592></div></media-block><br>### 📌 **事件折射的行业反思**<br>1. **专业底线的重要性**  <br>   网友对比专业主持人（如汪涵、董卿）的控场能力，强调\"流量不能替代专业\"。国家近年已明确要求主持人持证上岗，行业正回归专业主义共识。```wbCustomBlock{\"type\": \"quoted\", \"index\": 16, \"data\": {\"num\": [34, 36], \"version\": 2, \"quote_list\": [{\"name\": \"今视频长天新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5228903040024867\", \"index\": 34, \"label\": \"\"}, {\"name\": \"狐尾釘_\", \"scheme\": \"sinaweibo://detail?mblogid=5228884964675246\", \"index\": 36, \"label\": \"\"}]}}```<br><br>2. **跨界争议的深层矛盾**  <br>   翁青雅作为综艺网红跨界主持，其准备不足激发公众对\"资源咖\"的批评，反映大众对机会公平与职业敬畏的期待。部分观点呼吁给新人成长空间，但更多声音指出\"话筒虽轻，责任却重\"。```wbCustomBlock{\"type\": \"quoted\", \"index\": 17, \"data\": {\"num\": [18, 25, 26, 34, 38], \"version\": 2, \"quote_list\": [{\"name\": \"属于星星的小王妃\", \"scheme\": \"sinaweibo://detail?mblogid=5228846732282914\", \"index\": 18, \"label\": \"\"}, {\"name\": \"沫沫小腰精\", \"scheme\": \"sinaweibo://detail?mblogid=5228711290339680\", \"index\": 25, \"label\": \"\"}, {\"name\": \"中国蓝新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5228851874759720\", \"index\": 26, \"label\": \"\"}, {\"name\": \"今视频长天新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5228903040024867\", \"index\": 34, \"label\": \"\"}, {\"name\": \"柚涧千屿\", \"scheme\": \"sinaweibo://detail?mblogid=5228873853962022\", \"index\": 38, \"label\": \"\"}]}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5228884964675246&multi_paragraph=3&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/008ar68Cly8i6oz7amcpkj30u00u0abf.jpg?KID=imgbed,tva&Expires=1762163004&ssig=GB8By1bOO5) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">狐尾釘_</span><img src=\"http://wx1.sinaimg.cn/middle/008ar68Cly1i6yy8p96d8j30k00zkmy3.jpg\" data-width=1280 data-height=720></div></media-block><br>### 💡 **总结**<br>朱珠以六字回应平息风波，背后是主持、演艺双轨生涯积淀的职业素养；而翁青雅的成长承诺能否兑现，仍需时间检验。事件最终超越个人争议，成为审视娱乐圈专业底线与流量规则的公共样本。正如网友所言：\"体面是强者的铠甲，专业是行业的脊梁。\"```wbCustomBlock{\"type\": \"quoted\", \"index\": 18, \"data\": {\"num\": [34], \"version\": 2, \"quote_list\": [{\"name\": \"今视频长天新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5228903040024867\", \"index\": 34, \"label\": \"\"}]}}```<br>",
+      "status": 2,
+      "link_list": [
+        "sinaweibo://detail?mblogid=5228839367607285",
+        "sinaweibo://detail?mblogid=5228627174362495",
+        "sinaweibo://detail?mblogid=5228882007429031",
+        "sinaweibo://detail?mblogid=5228855841262582",
+        "sinaweibo://detail?mblogid=5228889078238848",
+        "sinaweibo://detail?mblogid=5228866743829004",
+        "sinaweibo://detail?mblogid=5228882107305843",
+        "sinaweibo://detail?mblogid=5228890668403112",
+        "sinaweibo://detail?mblogid=5228885077658527",
+        "sinaweibo://detail?mblogid=5228662091683293",
+        "broadsocial_res://",
+        "ctr://",
+        "historyweibo://5228532043091364",
+        "historyweibo://5228248386504688",
+        "sinaweibo://detail?mblogid=5228634065602503",
+        "sinaweibo://detail?mblogid=5228643585625028",
+        "sinaweibo://detail?mblogid=5228839229981050",
+        "sinaweibo://detail?mblogid=5228846732282914",
+        "sinaweibo://detail?mblogid=5228654929909251",
+        "sinaweibo://detail?mblogid=5228896299783778",
+        "sinaweibo://detail?mblogid=5228896721043883",
+        "sinaweibo://detail?mblogid=5228668635058748",
+        "sinaweibo://detail?mblogid=5228834368784924",
+        "sinaweibo://detail?mblogid=5228659306663147",
+        "sinaweibo://detail?mblogid=5228711290339680",
+        "sinaweibo://detail?mblogid=5228851874759720",
+        "sinaweibo://detail?mblogid=5228822481864342",
+        "sinaweibo://detail?mblogid=5228886205928514",
+        "sinaweibo://detail?mblogid=5228907488089143",
+        "sinaweibo://detail?mblogid=5228907436969080",
+        "sinaweibo://detail?mblogid=5228907211000321",
+        "sinaweibo://detail?mblogid=5228907185836457",
+        "sinaweibo://detail?mblogid=5228905385694114",
+        "sinaweibo://detail?mblogid=5228903040024867",
+        "sinaweibo://detail?mblogid=5228901913855989",
+        "sinaweibo://detail?mblogid=5228884964675246",
+        "sinaweibo://detail?mblogid=5228895546379468",
+        "sinaweibo://detail?mblogid=5228873853962022",
+        "sinaweibo://detail?mblogid=5228882841043622",
+        "sinaweibo://detail?mblogid=5228877335232778",
+        "sinaweibo://detail?mblogid=5228666901502518"
+      ],
+      "model": "deepseek",
+      "msg_json": "{}",
+      "chat_status_stage": 1,
+      "q_attr": {
+        "reply_cid": "",
+        "comment_from_type": "",
+        "mid": "",
+        "from_uid": "",
+        "from_request_id": ""
+      },
+      "analysis_time": 1762152371,
+      "share_info": {
+        "page_id": "2329641b4d1338ad0514d8967577f9309b59ed",
+        "tips": "#朱珠说没关系早就翻了#的相关内容，来智搜看看",
+        "status": 3,
+        "unify_md5": "096c787993a21fd8c50961456b7b3835",
+        "url": "http://t.cn/AXACfhyM",
+        "display_name": "#朱珠说没关系早就翻了#",
+        "comment_content": ""
+      },
+      "news_analyze": {},
+      "reliable_tips": "{\"gold_orange_v_mids\": [\"5228882007429031\", \"5228643585625028\", \"5228855841262582\", \"5228627174362495\", \"5228882841043622\", \"5228834368784924\", \"5228889078238848\", \"5228890668403112\", \"5228896721043883\", \"5228711290339680\", \"5228884964675246\", \"5228846732282914\", \"5228873853962022\", \"5228866743829004\", \"5228882107305843\", \"5228885077658527\", \"5228662091683293\", \"5228634065602503\", \"5228839229981050\", \"5228896299783778\", \"5228659306663147\", \"5228886205928514\", \"5228907436969080\", \"5228907211000321\", \"5228895546379468\", \"5228877335232778\", \"5228666901502518\"], \"gold_orange_v_ratio\": \"73%\", \"media_mids\": [\"5228903040024867\", \"5228839367607285\", \"5228668635058748\", \"5228851874759720\", \"5228822481864342\"], \"media_ratio\": \"13%\", \"verified_mids\": [\"5228654929909251\"], \"verified_ratio\": \"3%\", \"normal_mids\": [\"5228907185836457\", \"5228907488089143\", \"5228905385694114\", \"5228901913855989\"], \"normal_ratio\": \"11%\", \"ref_mid_rank\": {\"5228882007429031\": {\"rank\": 3}, \"5228643585625028\": {\"rank\": 16}, \"5228903040024867\": {\"rank\": 34}, \"5228855841262582\": {\"rank\": 4}, \"5228627174362495\": {\"rank\": 2}, \"5228882841043622\": {\"rank\": 39}, \"5228839367607285\": {\"rank\": 1}, \"5228654929909251\": {\"rank\": 19}, \"5228668635058748\": {\"rank\": 22}, \"5228834368784924\": {\"rank\": 23}, \"5228907185836457\": {\"rank\": 32}, \"5228889078238848\": {\"rank\": 5}, \"5228890668403112\": {\"rank\": 8}, \"5228851874759720\": {\"rank\": 26}, \"5228896721043883\": {\"rank\": 21}, \"5228711290339680\": {\"rank\": 25}, \"5228884964675246\": {\"rank\": 36}, \"5228846732282914\": {\"rank\": 18}, \"5228873853962022\": {\"rank\": 38}, \"5228866743829004\": {\"rank\": 6}, \"5228882107305843\": {\"rank\": 7}, \"5228885077658527\": {\"rank\": 9}, \"5228662091683293\": {\"rank\": 10}, \"5228634065602503\": {\"rank\": 15}, \"5228839229981050\": {\"rank\": 17}, \"5228896299783778\": {\"rank\": 20}, \"5228659306663147\": {\"rank\": 24}, \"5228822481864342\": {\"rank\": 27}, \"5228886205928514\": {\"rank\": 28}, \"5228907488089143\": {\"rank\": 29}, \"5228907436969080\": {\"rank\": 30}, \"5228907211000321\": {\"rank\": 31}, \"5228905385694114\": {\"rank\": 33}, \"5228901913855989\": {\"rank\": 35}, \"5228895546379468\": {\"rank\": 37}, \"5228877335232778\": {\"rank\": 40}, \"5228666901502518\": {\"rank\": 41}}}",
+      "page_id": "2329641b4d1338ad0514d8967577f9309b59ed",
+      "current_time": 1762152510,
+      "profile_image_url": "",
+      "user_info": {},
+      "show_ctrl": {
+        "quote": {}
+      },
+      "mid_list": null,
+      "ab_suffix": "default",
+      "comment_info": {}
+    }
+  },
+  "links": [
+    "sinaweibo://detail?mblogid=5228839367607285",
+    "sinaweibo://detail?mblogid=5228627174362495",
+    "sinaweibo://detail?mblogid=5228882007429031",
+    "sinaweibo://detail?mblogid=5228855841262582",
+    "sinaweibo://detail?mblogid=5228889078238848",
+    "sinaweibo://detail?mblogid=5228866743829004",
+    "sinaweibo://detail?mblogid=5228882107305843",
+    "sinaweibo://detail?mblogid=5228890668403112",
+    "sinaweibo://detail?mblogid=5228885077658527",
+    "sinaweibo://detail?mblogid=5228662091683293",
+    "broadsocial_res://",
+    "ctr://",
+    "historyweibo://5228532043091364",
+    "historyweibo://5228248386504688",
+    "sinaweibo://detail?mblogid=5228634065602503",
+    "sinaweibo://detail?mblogid=5228643585625028",
+    "sinaweibo://detail?mblogid=5228839229981050",
+    "sinaweibo://detail?mblogid=5228846732282914",
+    "sinaweibo://detail?mblogid=5228654929909251",
+    "sinaweibo://detail?mblogid=5228896299783778",
+    "sinaweibo://detail?mblogid=5228896721043883",
+    "sinaweibo://detail?mblogid=5228668635058748",
+    "sinaweibo://detail?mblogid=5228834368784924",
+    "sinaweibo://detail?mblogid=5228659306663147",
+    "sinaweibo://detail?mblogid=5228711290339680",
+    "sinaweibo://detail?mblogid=5228851874759720",
+    "sinaweibo://detail?mblogid=5228822481864342",
+    "sinaweibo://detail?mblogid=5228886205928514",
+    "sinaweibo://detail?mblogid=5228907488089143",
+    "sinaweibo://detail?mblogid=5228907436969080",
+    "sinaweibo://detail?mblogid=5228907211000321",
+    "sinaweibo://detail?mblogid=5228907185836457",
+    "sinaweibo://detail?mblogid=5228905385694114",
+    "sinaweibo://detail?mblogid=5228903040024867",
+    "sinaweibo://detail?mblogid=5228901913855989",
+    "sinaweibo://detail?mblogid=5228884964675246",
+    "sinaweibo://detail?mblogid=5228895546379468",
+    "sinaweibo://detail?mblogid=5228873853962022",
+    "sinaweibo://detail?mblogid=5228882841043622",
+    "sinaweibo://detail?mblogid=5228877335232778",
+    "sinaweibo://detail?mblogid=5228666901502518"
+  ],
+  "media": [
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/004iBqFSly1i6ysf2wzewj60qo0u4gqm02.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/004iBqFSly1i6ysf2wzewj60qo0u4gqm02.jpg",
+      "alt": "地瓜熊老六",
+      "width": 1084,
+      "height": 960,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/004iBqFSly1i6ysf2wzewj60qo0u4gqm02.jpg"
+      ],
+      "user": "地瓜熊老六"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/007dhO9Egy1i6yxwjwuk0j30q214kjts.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/007dhO9Egy1i6yxwjwuk0j30q214kjts.jpg",
+      "alt": "逸菲七分甜Lucky",
+      "width": 1460,
+      "height": 938,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/007dhO9Egy1i6yxwjwuk0j30q214kjts.jpg"
+      ],
+      "user": "逸菲七分甜Lucky"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/005JNCHFgy1i6yuvziab1j31hc0u0woo.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/005JNCHFgy1i6yuvziab1j31hc0u0woo.jpg",
+      "alt": "财加灵",
+      "width": 1080,
+      "height": 1920,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/005JNCHFgy1i6yuvziab1j31hc0u0woo.jpg"
+      ],
+      "user": "财加灵"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/8842ff52ly1i6yufgsxbsj20u0140ti8.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/8842ff52ly1i6yufgsxbsj20u0140ti8.jpg",
+      "alt": "中国蓝新闻",
+      "width": 1440,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/8842ff52ly1i6yufgsxbsj20u0140ti8.jpg"
+      ],
+      "user": "中国蓝新闻"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/81bae92agy1i6yyq3c578j20k00qpgro.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/81bae92agy1i6yyq3c578j20k00qpgro.jpg",
+      "alt": "橙子园的小虫女",
+      "width": 961,
+      "height": 720,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/81bae92agy1i6yyq3c578j20k00qpgro.jpg"
+      ],
+      "user": "橙子园的小虫女"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/007YrCoIly1i6yyuh6bllj30gg0zkaaf.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/007YrCoIly1i6yyuh6bllj30gg0zkaaf.jpg",
+      "alt": "小周很开心吖",
+      "width": 1280,
+      "height": 592,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/007YrCoIly1i6yyuh6bllj30gg0zkaaf.jpg"
+      ],
+      "user": "小周很开心吖"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/008ar68Cly1i6yy8p96d8j30k00zkmy3.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/008ar68Cly1i6yy8p96d8j30k00zkmy3.jpg",
+      "alt": "狐尾釘_",
+      "width": 1280,
+      "height": 720,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/008ar68Cly1i6yy8p96d8j30k00zkmy3.jpg"
+      ],
+      "user": "狐尾釘_"
+    }
+  ],
+  "html_path": "data/aicard/hourly/2025-11-03/14/topic-096c7879.html"
+}

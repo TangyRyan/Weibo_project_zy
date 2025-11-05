@@ -1,4 +1,4 @@
-﻿.venv/
+.venv/
 __pycache__/
 *.pyc
 .vscode/
@@ -8,11 +8,10 @@ sandbox/
 debug_*.html
 *.log
 
-# 你项目里常见的本地数据/缓存（按需保留或忽略）
-data/
+# third-party API scaffolding (optional local copy)
 weibo/api/
 
-# 凭据与本地配置（很重要）
+# local credentials and sqlite caches
 *.env
 *cookie*
 *token*.json

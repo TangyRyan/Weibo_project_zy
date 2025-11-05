@@ -1,0 +1,47 @@
+{
+  "meta": {
+    "query": "#习主席韩国之行#",
+    "status_code": 200,
+    "fetched_at": "2025-11-03T21:49:09+08:00",
+    "response": {
+      "wenda": {
+        "forward_gen": 0
+      },
+      "ext_show": {},
+      "query": "#习主席韩国之行#",
+      "cot": 1,
+      "analysis_time": 0,
+      "msg": "抱歉，这个问题我暂时无法回答，换个问题试试吧",
+      "status": 3,
+      "qs_status_info": "{\"qs_c_status\":0,\"ab_lab\":{},\"qs_status\":10,\"qs_q_status\":8218,\"qs_u_status\":0,\"qs_r_status\":0}",
+      "qs_status": 10,
+      "abtest_info": {
+        "chat_entrance": 1
+      },
+      "comment_info": {},
+      "share_info": {
+        "unify_md5": "7876f39cf7c92cdc5bd5de61e2c09b7b",
+        "tips": "#习主席韩国之行#的相关内容，来智搜看看",
+        "url": "http://t.cn/AXAyxm4o",
+        "page_id": "",
+        "status": 1,
+        "display_name": "#习主席韩国之行#",
+        "comment_content": ""
+      },
+      "ab_suffix": "default",
+      "uid": "",
+      "loop_times": 200,
+      "model": "",
+      "zs_risk_control": {
+        "think_text_close": 1,
+        "land_button_close": 1,
+        "share": 1,
+        "may_be_ask_show": 0,
+        "ban_chat_enterance": 1
+      }
+    }
+  },
+  "links": [],
+  "media": [],
+  "html_path": "data/aicard/hourly/2025-11-03/21/topic-7876f39c.html"
+}

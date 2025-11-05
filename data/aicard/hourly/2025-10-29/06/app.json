@@ -1,0 +1,279 @@
+{
+  "meta": {
+    "query": "#宝宝巴士客服回应APP跳转成人广告#",
+    "status_code": 200,
+    "fetched_at": "2025-10-29T06:37:38+08:00",
+    "response": {
+      "news_analyze": {},
+      "reliable_tips": "{\"gold_orange_v_mids\": [\"5226891889345196\", \"5226904372117624\", \"5226877254896148\", \"5226890732503850\", \"5226889486797356\", \"5226873736141653\", \"5226898707972954\", \"5226868676497064\", \"5226872629627592\", \"5226884473292112\", \"5226814697636723\", \"5226879704367682\", \"5226879893374404\", \"5226878924227935\", \"5226887732790719\", \"5226866421531248\", \"5226881700858527\", \"5226882469727006\"], \"gold_orange_v_ratio\": \"67%\", \"media_mids\": [\"5226780493614392\", \"5226789812045332\", \"5226849396330039\", \"5226857137967708\"], \"media_ratio\": \"15%\", \"verified_mids\": [\"5226884166061553\", \"5226939352612944\"], \"verified_ratio\": \"7%\", \"normal_mids\": [\"5226949020484217\", \"5226954559324692\", \"5226945753120954\"], \"normal_ratio\": \"11%\", \"ref_mid_rank\": {\"5226780493614392\": {\"rank\": 3}, \"5226789812045332\": {\"rank\": 6}, \"5226891889345196\": {\"rank\": 26}, \"5226904372117624\": {\"rank\": 30}, \"5226877254896148\": {\"rank\": 7}, \"5226949020484217\": {\"rank\": 16}, \"5226884166061553\": {\"rank\": 31}, \"5226849396330039\": {\"rank\": 1}, \"5226890732503850\": {\"rank\": 21}, \"5226889486797356\": {\"rank\": 23}, \"5226873736141653\": {\"rank\": 28}, \"5226898707972954\": {\"rank\": 29}, \"5226868676497064\": {\"rank\": 25}, \"5226872629627592\": {\"rank\": 2}, \"5226884473292112\": {\"rank\": 4}, \"5226814697636723\": {\"rank\": 5}, \"5226879704367682\": {\"rank\": 8}, \"5226879893374404\": {\"rank\": 13}, \"5226878924227935\": {\"rank\": 14}, \"5226954559324692\": {\"rank\": 15}, \"5226945753120954\": {\"rank\": 17}, \"5226939352612944\": {\"rank\": 18}, \"5226857137967708\": {\"rank\": 19}, \"5226887732790719\": {\"rank\": 20}, \"5226866421531248\": {\"rank\": 22}, \"5226881700858527\": {\"rank\": 24}, \"5226882469727006\": {\"rank\": 27}}}",
+      "profile_image_url": "",
+      "mid_list": null,
+      "reference_num": 27,
+      "status_stage": 4,
+      "model": "deepseek",
+      "top_quote_list": {},
+      "card_multimodal": {
+        "type": "mediablock",
+        "data": [
+          {
+            "user_avatar": "https://tvax1.sinaimg.cn/crop.0.0.960.960.50/007ukacEly8i6mshrj957j30qo0qowhd.jpg?KID=imgbed,tva&Expires=1761701591&ssig=wW25p0Tn2q",
+            "w": 1080,
+            "video_url": "",
+            "img": "http://wx1.sinaimg.cn/middle/007ukacEly1i6sjn2srawj30u01dg10u.jpg",
+            "hit_score_new": 79.199219,
+            "doc_score": 5189,
+            "scheme": "sinaweibo://multimedia?mix_mid=5226877254896148&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=1&multi_count=0",
+            "type": "p",
+            "img_pid": "007ukacEly1i6sjn2srawj30u01dg10u",
+            "h": 1780,
+            "vtype": 0,
+            "click_rate": 0.20434629183085,
+            "cur_mid": "5226877254896148",
+            "hit_score_final": 73.919525,
+            "user_name": "檀香溪"
+          },
+          {
+            "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.700.700.50/0074IzkYly8hszd7v00a4j30jg0jgjs4.jpg?KID=imgbed,tva&Expires=1761701591&ssig=fewqJwNCq5",
+            "w": 1080,
+            "video_url": "",
+            "img": "http://wx4.sinaimg.cn/middle/0074IzkYgy1i6sl1hovchj30u00ystci.jpg",
+            "hit_score_new": 94.970703,
+            "doc_score": 3711,
+            "scheme": "sinaweibo://multimedia?mix_mid=5226889486797356&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=1&multi_count=1",
+            "type": "p",
+            "img_pid": "0074IzkYgy1i6sl1hovchj30u00ystci",
+            "h": 1252,
+            "vtype": 0,
+            "click_rate": 0.07843137254902,
+            "cur_mid": "5226889486797356",
+            "hit_score_final": 89.782425,
+            "user_name": "寻找快乐地小皮妖"
+          },
+          {
+            "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.600.600.50/008cHdLily8h8vgz2g178j30go0go0tm.jpg?KID=imgbed,tva&Expires=1761701591&ssig=GEe2ome9AJ",
+            "w": 1206,
+            "video_url": "",
+            "img": "http://wx4.sinaimg.cn/middle/008cHdLigy1i6sgh0xpltj30xi20u44f.jpg",
+            "hit_score_new": 0,
+            "doc_score": 0,
+            "scheme": "sinaweibo://multimedia?mix_mid=5226849396330039&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=2",
+            "type": "p",
+            "img_pid": "008cHdLigy1i6sgh0xpltj30xi20u44f",
+            "h": 2622,
+            "vtype": 3,
+            "click_rate": 0.06,
+            "cur_mid": "5226849396330039",
+            "hit_score_final": 0,
+            "user_name": "九派新闻"
+          },
+          {
+            "user_avatar": "https://tvax1.sinaimg.cn/crop.0.0.960.960.50/007ukacEly8i6mshrj957j30qo0qowhd.jpg?KID=imgbed,tva&Expires=1761701591&ssig=wW25p0Tn2q",
+            "w": 1080,
+            "video_url": "",
+            "img": "http://wx1.sinaimg.cn/middle/007ukacEly1i6sjn2srawj30u01dg10u.jpg",
+            "hit_score_new": 79.199219,
+            "doc_score": 5189,
+            "scheme": "sinaweibo://multimedia?mix_mid=5226877254896148&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=1&multi_count=0",
+            "type": "p",
+            "img_pid": "007ukacEly1i6sjn2srawj30u01dg10u",
+            "h": 1780,
+            "vtype": 0,
+            "click_rate": 0.20434629183085,
+            "cur_mid": "5226877254896148",
+            "hit_score_final": 73.919525,
+            "user_name": "檀香溪"
+          }
+        ]
+      },
+      "share_card_multimodal": {
+        "user_avatar": "https://tvax1.sinaimg.cn/crop.0.0.960.960.50/007ukacEly8i6mshrj957j30qo0qowhd.jpg?KID=imgbed,tva&Expires=1761701591&ssig=wW25p0Tn2q",
+        "w": 1080,
+        "video_url": "",
+        "img": "http://wx1.sinaimg.cn/middle/007ukacEly1i6sjn2srawj30u01dg10u.jpg",
+        "hit_score_new": 79.199219,
+        "doc_score": 5189,
+        "scheme": "sinaweibo://multimedia?mix_mid=5226877254896148&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=1&multi_count=0",
+        "type": "p",
+        "img_pid": "007ukacEly1i6sjn2srawj30u01dg10u",
+        "h": 1780,
+        "vtype": 0,
+        "click_rate": 0.20434629183085,
+        "cur_mid": "5226877254896148",
+        "hit_score_final": 73.919525,
+        "user_name": "檀香溪"
+      },
+      "share_text": "#宝宝巴士客服回应APP跳转成人广告#的相关内容，来智搜看看",
+      "msg_json": "{}",
+      "user_info": {},
+      "zs_risk_control": {
+        "think_text_close": 0,
+        "land_button_close": 0
+      },
+      "short_url": "http://t.cn/AXA7gGkd",
+      "ext_show": {},
+      "version": "2025-10-29 06:33:11.006000-4100",
+      "show_ctrl": {
+        "quote": {}
+      },
+      "abtest_info": {
+        "chat_entrance": 1
+      },
+      "basemodel": "实验组10",
+      "loop_times": 200,
+      "share_info": {
+        "url": "http://t.cn/AXA7diY9",
+        "tips": "#宝宝巴士客服回应APP跳转成人广告#的相关内容，来智搜看看",
+        "display_name": "#宝宝巴士客服回应APP跳转成人广告#",
+        "page_id": "2329645cf4c088bb1cb703c876bb650b4afe38",
+        "unify_md5": "591ee54679c7d9e2d38ea359ea3161ad",
+        "status": 3
+      },
+      "unify_md5": "591ee54679c7d9e2d38ea359ea3161ad",
+      "qs_status": 0,
+      "chat_status_stage": 1,
+      "page_id": "2329645cf4c088bb1cb703c876bb650b4afe38",
+      "ab_suffix": "default",
+      "query_field": "60",
+      "q_attr": {
+        "from_uid": "1854924417",
+        "from_request_id": ""
+      },
+      "wenda": {
+        "forward_gen": 0
+      },
+      "query": "#宝宝巴士客服回应APP跳转成人广告#",
+      "sorted_material_list": null,
+      "status": 2,
+      "cot": 1,
+      "query_category": "",
+      "scheme": "sinaweibo://cardlist?containerid=100103type%3D225%26q%3D%23%E5%AE%9D%E5%AE%9D%E5%B7%B4%E5%A3%AB%E5%AE%A2%E6%9C%8D%E5%9B%9E%E5%BA%94app%E8%B7%B3%E8%BD%AC%E6%88%90%E4%BA%BA%E5%B9%BF%E5%91%8A%23%26t%3D&extparam=ai_model%3Ddeepseek%26ori_ai_title%3D%E5%8F%82%E8%80%83%E5%8D%9A%E6%96%87%26material_version%3D1761690791",
+      "current_time": 1761691059,
+      "analysis_time": 1761690864,
+      "msg_format": "markdown",
+      "qs_status_info": "{\"qs_status\":0,\"qs_c_status\":8388608,\"qs_r_status\":0,\"qs_q_status\":0,\"qs_u_status\":0,\"ab_lab\":{}}",
+      "msg": "<think><br>嗯，用户给了我很多关于宝宝巴士APP出现成人广告的搜索结果，我需要整理出一个全面清晰的回答。<br><br>用户可能是一位关心孩子网络安全的家长，看到新闻后想了解具体情况和应对措施。从搜索结果看，这事影响挺大的，很多家长都在投诉。<br><br>先看问题描述。2025年10月底，多位家长反映在打开\"宝宝巴士儿歌\"APP时，开屏广告会跳转到成人内容或低俗直播。有家长说孩子误触广告后手机自动安装陌生软件，孩子急得直哭。广告内容很露骨，比如\"三女共侍一夫\"这种，完全不适合儿童。<br><br>宝宝巴士客服的回应集中在三点：一是广告来自第三方平台；二是承认审核有疏漏；三是建议用户开通会员去广告。这个回应引发不少质疑，用户@烧肉卷饼就反问：12306、钉钉这些APP怎么就没这种问题。<br><br>法律角度值得关注。律师明确指出这类广告涉嫌违反《广告法》，平台负有法定审核义务。有意思的是，类似事件不是第一次，有资料显示2024年4月就有类似投诉，但问题一直没解决。<br><br>用户最需要的应该是解决方案。综合搜索结果，可以给家长这些建议：立即检查设备已安装软件；开启家长控制模式；遇到问题要保留录屏证据；向平台和市场监督部门投诉。企业方面则需要建立严格的分级审核机制，不能光想着赚钱。<br><br>回答时会注意几点：用时间线理清事件脉络；突出儿童保护的特殊性；提供实用建议。最后要强调平台责任，毕竟他们号称\"专注儿童启蒙\"，不能辜负家长信任。<br><br></think><br>关于“宝宝巴士APP跳转成人广告”事件的整理分析如下：<br>### 🚨 **事件核心问题与用户遭遇**<br>1. **广告内容低俗**  <br>   - 多名家长反映打开“宝宝巴士儿歌”APP时，开屏广告会强制跳转至含成人内容、低俗擦边直播的第三方页面（如性暗示、“三女共侍一夫”等露骨信息），点击后甚至自动下载陌生软件或强制弹窗无法关闭。```wbCustomBlock{\"type\": \"quoted\", \"index\": 5, \"data\": {\"num\": [3, 6, 26, 30], \"version\": 2, \"quote_list\": [{\"name\": \"经视直播\", \"scheme\": \"sinaweibo://detail?mblogid=5226780493614392\", \"index\": 3, \"label\": \"大v\"}, {\"name\": \"经视直播\", \"scheme\": \"sinaweibo://detail?mblogid=5226789812045332\", \"index\": 6, \"label\": \"\"}, {\"name\": \"困困小羊羔-\", \"scheme\": \"sinaweibo://detail?mblogid=5226891889345196\", \"index\": 26, \"label\": \"\"}, {\"name\": \"-小晴莓莓-\", \"scheme\": \"sinaweibo://detail?mblogid=5226904372117624\", \"index\": 30, \"label\": \"\"}], \"name\": \"经视直播\", \"img\": \"https://tvax4.sinaimg.cn/crop.10.0.621.621.50/6b354636ly8h8vg0a9gl2j20hk0hkaau.jpg?KID=imgbed,tva&Expires=1761701591&ssig=wVDzzaSNX%2B\", \"scheme\": \"sinaweibo://detail?mblogid=5226780493614392\", \"vType\": 3}}```<br>   - 广告关闭按钮设计隐蔽或失效，幼儿因无法识别而频繁误触，导致设备被强制安装无关软件。有家长称孩子误点广告后急哭，手机屏幕被不良内容占据。```wbCustomBlock{\"type\": \"quoted\", \"index\": 6, \"data\": {\"num\": [7, 16, 31], \"version\": 2, \"quote_list\": [{\"name\": \"檀香溪\", \"scheme\": \"sinaweibo://detail?mblogid=5226877254896148\", \"index\": 7, \"label\": \"\"}, {\"name\": \"财热栈\", \"scheme\": \"sinaweibo://detail?mblogid=5226949020484217\", \"index\": 16, \"label\": \"\"}, {\"name\": \"钟渊救我\", \"scheme\": \"sinaweibo://detail?mblogid=5226884166061553\", \"index\": 31, \"label\": \"\"}]}}```<br><br>2. **平台责任争议**  <br>   - 宝宝巴士客服回应称广告由第三方投放，平台已进行审核但“难免遗漏”，将此类问题归为“异常情况”，承诺整改并加强监督。```wbCustomBlock{\"type\": \"quoted\", \"index\": 8, \"data\": {\"num\": [1], \"version\": 2, \"quote_list\": [{\"name\": \"九派新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5226849396330039\", \"index\": 1, \"label\": \"大v\"}], \"name\": \"九派新闻\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.600.600.50/008cHdLily8h8vgz2g178j30go0go0tm.jpg?KID=imgbed,tva&Expires=1761701591&ssig=GEe2ome9AJ\", \"scheme\": \"sinaweibo://detail?mblogid=5226849396330039\", \"vType\": 3}}```<br>   - 客服建议用户开通会员以屏蔽广告，引发舆论不满，被指将商业盈利凌驾于儿童安全之上。```wbCustomBlock{\"type\": \"quoted\", \"index\": 9, \"data\": {\"num\": [21, 23], \"version\": 2, \"quote_list\": [{\"name\": \"寻找快乐地小皮妖\", \"scheme\": \"sinaweibo://detail?mblogid=5226889486797356\", \"index\": 23, \"label\": \"大v\"}, {\"name\": \"西子丹聊斋\", \"scheme\": \"sinaweibo://detail?mblogid=5226890732503850\", \"index\": 21, \"label\": \"\"}], \"name\": \"寻找快乐地小皮妖\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.700.700.50/0074IzkYly8hszd7v00a4j30jg0jgjs4.jpg?KID=imgbed,tva&Expires=1761701591&ssig=fewqJwNCq5\", \"scheme\": \"sinaweibo://detail?mblogid=5226889486797356\", \"vType\": 0}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5226877254896148&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=1&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.960.960.50/007ukacEly8i6mshrj957j30qo0qowhd.jpg?KID=imgbed,tva&Expires=1761701591&ssig=wW25p0Tn2q) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">檀香溪</span><img src=\"http://wx1.sinaimg.cn/middle/007ukacEly1i6sjn2srawj30u01dg10u.jpg\" data-width=1780 data-height=1080></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5226889486797356&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=1&multi_count=1\"><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.700.700.50/0074IzkYly8hszd7v00a4j30jg0jgjs4.jpg?KID=imgbed,tva&Expires=1761701591&ssig=fewqJwNCq5) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">寻找快乐地小皮妖</span><img src=\"http://wx4.sinaimg.cn/middle/0074IzkYgy1i6sl1hovchj30u00ystci.jpg\" data-width=1252 data-height=1080></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5226849396330039&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=2\"><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.600.600.50/008cHdLily8h8vgz2g178j30go0go0tm.jpg?KID=imgbed,tva&Expires=1761701591&ssig=GEe2ome9AJ) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">九派新闻</span><img src=\"http://wx4.sinaimg.cn/middle/008cHdLigy1i6sgh0xpltj30xi20u44f.jpg\" data-width=2622 data-height=1206></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5226780493614392&multi_paragraph=1&multi_count=3\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.10.0.621.621.50/6b354636ly8h8vg0a9gl2j20hk0hkaau.jpg?KID=imgbed,tva&Expires=1761701591&ssig=wVDzzaSNX%2B) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">经视直播</span><img src=\"http://wx3.sinaimg.cn/middle/6b354636gy1i6s9m7u8rxj20u01401iu.jpg\" data-width=1440 data-height=1080></div></media-block><br>### ⚖️ **法律风险与责任认定**<br>1. **涉嫌违法**  <br>   - 律师指出，此类广告违反《广告法》第九条（禁止含淫秽、色情内容）和第三十四条（平台需履行审核义务）。平台作为广告发布者，需对内容合法性负责，而非以“疏漏”开脱。```wbCustomBlock{\"type\": \"quoted\", \"index\": 13, \"data\": {\"num\": [3, 6, 28], \"version\": 2, \"quote_list\": [{\"name\": \"姃千花\", \"scheme\": \"sinaweibo://detail?mblogid=5226873736141653\", \"index\": 28, \"label\": \"大v\"}, {\"name\": \"经视直播\", \"scheme\": \"sinaweibo://detail?mblogid=5226780493614392\", \"index\": 3, \"label\": \"\"}, {\"name\": \"经视直播\", \"scheme\": \"sinaweibo://detail?mblogid=5226789812045332\", \"index\": 6, \"label\": \"\"}], \"name\": \"姃千花\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.1023.1023.50/005Mwk2Zly8hzpu4d1kfcj30sf0sfwhe.jpg?KID=imgbed,tva&Expires=1761701591&ssig=le4uZcndiI\", \"scheme\": \"sinaweibo://detail?mblogid=5226873736141653\", \"vType\": 0}}```<br>   - 若广告主涉及非法医疗或代孕等黑色产业链（如历史事件中“试管包生儿子广告”），平台可能承担连带责任。<br><br>2. **监管缺位**  <br>   - 类似问题早在2024年4月已有用户投诉，但至今未根治，暴露平台审核机制形同虚设。部分广告商利用公共载体（如APP、客车座椅）投放违法内容，基层监管存在漏洞。```wbCustomBlock{\"type\": \"quoted\", \"index\": 16, \"data\": {\"num\": [29], \"version\": 2, \"quote_list\": [{\"name\": \"昼是椰子\", \"scheme\": \"sinaweibo://detail?mblogid=5226898707972954\", \"index\": 29, \"label\": \"\"}]}}```<br>### 👥 **社会影响与用户诉求**<br>1. **家长愤怒与担忧**  <br>   - 家长质疑宝宝巴士“守护孩子童年”的品牌承诺，认为其放任低俗广告是对儿童权益的背叛。有用户称“原本治愈的儿歌APP变成不良内容传送门”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 20, \"data\": {\"num\": [16, 25], \"version\": 2, \"quote_list\": [{\"name\": \"财热栈\", \"scheme\": \"sinaweibo://detail?mblogid=5226949020484217\", \"index\": 16, \"label\": \"\"}, {\"name\": \"都好大王\", \"scheme\": \"sinaweibo://detail?mblogid=5226868676497064\", \"index\": 25, \"label\": \"\"}]}}```<br>   - 儿童长期接触此类内容可能导致价值观扭曲或心理焦虑。```wbCustomBlock{\"type\": \"quoted\", \"index\": 21, \"data\": {\"num\": [31], \"version\": 2, \"quote_list\": [{\"name\": \"钟渊救我\", \"scheme\": \"sinaweibo://detail?mblogid=5226884166061553\", \"index\": 31, \"label\": \"\"}]}}```<br><br>2. **公众呼吁整改**  <br>   - 用户要求平台建立严格的广告分级审核机制，而非仅依赖事后处理。```wbCustomBlock{\"type\": \"quoted\", \"index\": 23, \"data\": {\"num\": [16, 28], \"version\": 2, \"quote_list\": [{\"name\": \"财热栈\", \"scheme\": \"sinaweibo://detail?mblogid=5226949020484217\", \"index\": 16, \"label\": \"\"}, {\"name\": \"姃千花\", \"scheme\": \"sinaweibo://detail?mblogid=5226873736141653\", \"index\": 28, \"label\": \"\"}]}}```  <br>   - 建议加强家长控制功能（如限制跳转、自动下载），并通过会员体系平衡商业收益与用户体验。```wbCustomBlock{\"type\": \"quoted\", \"index\": 24, \"data\": {\"num\": [26, 28], \"version\": 2, \"quote_list\": [{\"name\": \"困困小羊羔-\", \"scheme\": \"sinaweibo://detail?mblogid=5226891889345196\", \"index\": 26, \"label\": \"大v\"}, {\"name\": \"姃千花\", \"scheme\": \"sinaweibo://detail?mblogid=5226873736141653\", \"index\": 28, \"label\": \"\"}], \"name\": \"困困小羊羔-\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/918d561fly8i6sck3m0ztj20u00u076b.jpg?KID=imgbed,tva&Expires=1761701591&ssig=aEaaAwxqV8\", \"scheme\": \"sinaweibo://detail?mblogid=5226891889345196\", \"vType\": 0}}```<br>### 🛡️ **行动建议与解决方案**<br>1. **家长应对措施**  <br>   - **立即检查设备**：删除陌生软件，开启“禁止应用内安装”等防护功能。```wbCustomBlock{\"type\": \"quoted\", \"index\": 28, \"data\": {\"num\": [28, 31], \"version\": 2, \"quote_list\": [{\"name\": \"姃千花\", \"scheme\": \"sinaweibo://detail?mblogid=5226873736141653\", \"index\": 28, \"label\": \"\"}, {\"name\": \"钟渊救我\", \"scheme\": \"sinaweibo://detail?mblogid=5226884166061553\", \"index\": 31, \"label\": \"\"}]}}```  <br>   - **保留证据投诉**：对问题广告录屏取证，向宝宝巴士平台（客服渠道）及市场监督部门（12315平台）举报。```wbCustomBlock{\"type\": \"quoted\", \"index\": 29, \"data\": {\"num\": [6, 21], \"version\": 2, \"quote_list\": [{\"name\": \"西子丹聊斋\", \"scheme\": \"sinaweibo://detail?mblogid=5226890732503850\", \"index\": 21, \"label\": \"大v\"}, {\"name\": \"经视直播\", \"scheme\": \"sinaweibo://detail?mblogid=5226789812045332\", \"index\": 6, \"label\": \"\"}], \"name\": \"西子丹聊斋\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.825.825.50/db1747fcly8hm3yffjcfgj20mx0myjsn.jpg?KID=imgbed,tva&Expires=1761701591&ssig=zqPzeCjhNt\", \"scheme\": \"sinaweibo://detail?mblogid=5226890732503850\", \"vType\": 0}}```  <br>   - **替代方案**：优先选择无广告版儿童APP，或使用设备自带的“儿童模式”限制风险。```wbCustomBlock{\"type\": \"quoted\", \"index\": 30, \"data\": {\"num\": [28], \"version\": 2, \"quote_list\": [{\"name\": \"姃千花\", \"scheme\": \"sinaweibo://detail?mblogid=5226873736141653\", \"index\": 28, \"label\": \"\"}]}}```<br><br>2. **平台整改方向**  <br>   - **强化审核技术**：建立“人工+AI”双重筛查，对第三方广告商实行准入审核与违约追责。```wbCustomBlock{\"type\": \"quoted\", \"index\": 32, \"data\": {\"num\": [16], \"version\": 2, \"quote_list\": [{\"name\": \"财热栈\", \"scheme\": \"sinaweibo://detail?mblogid=5226949020484217\", \"index\": 16, \"label\": \"\"}]}}```  <br>   - **优化交互设计**：禁用强制下载功能，广告关闭按钮需明显且有效。```wbCustomBlock{\"type\": \"quoted\", \"index\": 33, \"data\": {\"num\": [7, 30], \"version\": 2, \"quote_list\": [{\"name\": \"檀香溪\", \"scheme\": \"sinaweibo://detail?mblogid=5226877254896148\", \"index\": 7, \"label\": \"\"}, {\"name\": \"-小晴莓莓-\", \"scheme\": \"sinaweibo://detail?mblogid=5226904372117624\", \"index\": 30, \"label\": \"\"}]}}```  <br>   - **透明化处理流程**：公开整改进展，设立低俗广告专项反馈通道。```wbCustomBlock{\"type\": \"quoted\", \"index\": 34, \"data\": {\"num\": [1], \"version\": 2, \"quote_list\": [{\"name\": \"九派新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5226849396330039\", \"index\": 1, \"label\": \"\"}]}}```<br><br>3. **监管介入必要性**  <br>   - 相关部门需对儿童类APP开展广告合规专项检查，严惩违规平台，从源头打击低俗广告产业链。```wbCustomBlock{\"type\": \"quoted\", \"index\": 36, \"data\": {\"num\": [28], \"version\": 2, \"quote_list\": [{\"name\": \"姃千花\", \"scheme\": \"sinaweibo://detail?mblogid=5226873736141653\", \"index\": 28, \"label\": \"\"}]}}```<br>### 💎 **事件本质**  <br>此次事件是**商业利益与儿童权益的冲突**。平台以“免费内容需广告支撑”为由推卸责任，但儿童产品的特殊性要求其必须坚守“零容忍”底线。正如舆论所言：“童年的纯净经不起一丝污染，'审核疏漏'担不起千万家庭的信任。”```wbCustomBlock{\"type\": \"quoted\", \"index\": 38, \"data\": {\"num\": [16, 25], \"version\": 2, \"quote_list\": [{\"name\": \"财热栈\", \"scheme\": \"sinaweibo://detail?mblogid=5226949020484217\", \"index\": 16, \"label\": \"\"}, {\"name\": \"都好大王\", \"scheme\": \"sinaweibo://detail?mblogid=5226868676497064\", \"index\": 25, \"label\": \"\"}]}}```<br>",
+      "uid": "",
+      "link_list": [
+        "sinaweibo://detail?mblogid=5226849396330039",
+        "sinaweibo://detail?mblogid=5226872629627592",
+        "sinaweibo://detail?mblogid=5226780493614392",
+        "sinaweibo://detail?mblogid=5226884473292112",
+        "sinaweibo://detail?mblogid=5226814697636723",
+        "sinaweibo://detail?mblogid=5226789812045332",
+        "sinaweibo://detail?mblogid=5226877254896148",
+        "sinaweibo://detail?mblogid=5226879704367682",
+        "https://mparticle.uc.cn/article.html?uc_param_str=frdnsnpfvecpntnwprdssskt#!wm_aid=b57fdc519a93da579873e56499848eba!!wm_id=83c2c71c78fd4c5789fb7fb84a9b2b83",
+        "historyweibo://5191214141279504",
+        "historyweibo://5183562114402589",
+        "historyweibo://5151329103120349",
+        "sinaweibo://detail?mblogid=5226879893374404",
+        "sinaweibo://detail?mblogid=5226878924227935",
+        "sinaweibo://detail?mblogid=5226954559324692",
+        "sinaweibo://detail?mblogid=5226949020484217",
+        "sinaweibo://detail?mblogid=5226945753120954",
+        "sinaweibo://detail?mblogid=5226939352612944",
+        "sinaweibo://detail?mblogid=5226857137967708",
+        "sinaweibo://detail?mblogid=5226887732790719",
+        "sinaweibo://detail?mblogid=5226890732503850",
+        "sinaweibo://detail?mblogid=5226866421531248",
+        "sinaweibo://detail?mblogid=5226889486797356",
+        "sinaweibo://detail?mblogid=5226881700858527",
+        "sinaweibo://detail?mblogid=5226868676497064",
+        "sinaweibo://detail?mblogid=5226891889345196",
+        "sinaweibo://detail?mblogid=5226882469727006",
+        "sinaweibo://detail?mblogid=5226873736141653",
+        "sinaweibo://detail?mblogid=5226898707972954",
+        "sinaweibo://detail?mblogid=5226904372117624",
+        "sinaweibo://detail?mblogid=5226884166061553",
+        "https://m.toutiao.com/article/7566308562524242484/",
+        "https://m.toutiao.com/article/7566269141896774184/"
+      ]
+    }
+  },
+  "links": [
+    "sinaweibo://detail?mblogid=5226849396330039",
+    "sinaweibo://detail?mblogid=5226872629627592",
+    "sinaweibo://detail?mblogid=5226780493614392",
+    "sinaweibo://detail?mblogid=5226884473292112",
+    "sinaweibo://detail?mblogid=5226814697636723",
+    "sinaweibo://detail?mblogid=5226789812045332",
+    "sinaweibo://detail?mblogid=5226877254896148",
+    "sinaweibo://detail?mblogid=5226879704367682",
+    "https://mparticle.uc.cn/article.html?uc_param_str=frdnsnpfvecpntnwprdssskt#!wm_aid=b57fdc519a93da579873e56499848eba!!wm_id=83c2c71c78fd4c5789fb7fb84a9b2b83",
+    "historyweibo://5191214141279504",
+    "historyweibo://5183562114402589",
+    "historyweibo://5151329103120349",
+    "sinaweibo://detail?mblogid=5226879893374404",
+    "sinaweibo://detail?mblogid=5226878924227935",
+    "sinaweibo://detail?mblogid=5226954559324692",
+    "sinaweibo://detail?mblogid=5226949020484217",
+    "sinaweibo://detail?mblogid=5226945753120954",
+    "sinaweibo://detail?mblogid=5226939352612944",
+    "sinaweibo://detail?mblogid=5226857137967708",
+    "sinaweibo://detail?mblogid=5226887732790719",
+    "sinaweibo://detail?mblogid=5226890732503850",
+    "sinaweibo://detail?mblogid=5226866421531248",
+    "sinaweibo://detail?mblogid=5226889486797356",
+    "sinaweibo://detail?mblogid=5226881700858527",
+    "sinaweibo://detail?mblogid=5226868676497064",
+    "sinaweibo://detail?mblogid=5226891889345196",
+    "sinaweibo://detail?mblogid=5226882469727006",
+    "sinaweibo://detail?mblogid=5226873736141653",
+    "sinaweibo://detail?mblogid=5226898707972954",
+    "sinaweibo://detail?mblogid=5226904372117624",
+    "sinaweibo://detail?mblogid=5226884166061553",
+    "https://m.toutiao.com/article/7566308562524242484/",
+    "https://m.toutiao.com/article/7566269141896774184/"
+  ],
+  "media": [
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/007ukacEly1i6sjn2srawj30u01dg10u.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/007ukacEly1i6sjn2srawj30u01dg10u.jpg",
+      "alt": "檀香溪",
+      "width": 1780,
+      "height": 1080,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/007ukacEly1i6sjn2srawj30u01dg10u.jpg"
+      ],
+      "user": "檀香溪"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/0074IzkYgy1i6sl1hovchj30u00ystci.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/0074IzkYgy1i6sl1hovchj30u00ystci.jpg",
+      "alt": "寻找快乐地小皮妖",
+      "width": 1252,
+      "height": 1080,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/0074IzkYgy1i6sl1hovchj30u00ystci.jpg"
+      ],
+      "user": "寻找快乐地小皮妖"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/008cHdLigy1i6sgh0xpltj30xi20u44f.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/008cHdLigy1i6sgh0xpltj30xi20u44f.jpg",
+      "alt": "九派新闻",
+      "width": 2622,
+      "height": 1206,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/008cHdLigy1i6sgh0xpltj30xi20u44f.jpg"
+      ],
+      "user": "九派新闻"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/6b354636gy1i6s9m7u8rxj20u01401iu.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/6b354636gy1i6s9m7u8rxj20u01401iu.jpg",
+      "alt": "经视直播",
+      "width": 1440,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx4.sinaimg.cn/large/6b354636gy1i6s9m7u8rxj20u01401iu.jpg"
+      ],
+      "user": "经视直播"
+    }
+  ],
+  "html_path": "data/aicard/hourly/2025-10-29/06/app.html"
+}

@@ -1,0 +1,279 @@
+{
+  "meta": {
+    "query": "#花少要拍团综了#",
+    "status_code": 200,
+    "fetched_at": "2025-10-28T21:45:13+08:00",
+    "response": {
+      "model": "deepseek_stream",
+      "show_ctrl": {
+        "quote": {}
+      },
+      "cot": 1,
+      "query": "#花少要拍团综了#",
+      "query_category": "",
+      "loop_times": 200,
+      "status_stage": 4,
+      "unify_md5": "b6d244d9dccf139f56df59b0decd4d21",
+      "qs_status": 0,
+      "basemodel": "实验组4",
+      "qs_status_info": "{\"qs_u_status\":0,\"qs_c_status\":8388608,\"qs_r_status\":0,\"qs_q_status\":0,\"qs_status\":0,\"ab_lab\":{}}",
+      "wenda": {
+        "forward_gen": 0
+      },
+      "abtest_info": {
+        "chat_entrance": 1
+      },
+      "uid": "",
+      "link_list": [
+        "sinaweibo://detail?mblogid=5226815488525051",
+        "sinaweibo://detail?mblogid=5226718770236442",
+        "sinaweibo://detail?mblogid=5226829444289294",
+        "sinaweibo://detail?mblogid=5211219985432670",
+        "sinaweibo://detail?mblogid=5199163882999241",
+        "sinaweibo://detail?mblogid=5226832767225681",
+        "sinaweibo://detail?mblogid=5223741735831374",
+        "sinaweibo://detail?mblogid=4993765570249155",
+        "historyweibo://5214786775419839",
+        "historyweibo://5212592488317155",
+        "historyweibo://5213018717688482",
+        "sinaweibo://detail?mblogid=5226831191999341",
+        "sinaweibo://detail?mblogid=5226832913500679",
+        "sinaweibo://detail?mblogid=5226827004252288",
+        "sinaweibo://detail?mblogid=5226834611675302",
+        "sinaweibo://detail?mblogid=5226823015203587",
+        "sinaweibo://detail?mblogid=5226818187823926",
+        "sinaweibo://detail?mblogid=5226828663887319",
+        "sinaweibo://detail?mblogid=5226834283202144",
+        "sinaweibo://detail?mblogid=5226828446046149",
+        "sinaweibo://detail?mblogid=5226712879334779",
+        "sinaweibo://detail?mblogid=5226744622615860",
+        "sinaweibo://detail?mblogid=5226837367329667",
+        "sinaweibo://detail?mblogid=5226837206633255",
+        "sinaweibo://detail?mblogid=5226837191429084",
+        "sinaweibo://detail?mblogid=5226837074515295",
+        "sinaweibo://detail?mblogid=5226837068220660",
+        "sinaweibo://detail?mblogid=5226837053279182",
+        "sinaweibo://detail?mblogid=5226837047254020",
+        "sinaweibo://detail?mblogid=5226718113825295",
+        "sinaweibo://detail?mblogid=5226723592899074",
+        "sinaweibo://detail?mblogid=5226815943871940",
+        "sinaweibo://detail?mblogid=5226717321889015"
+      ],
+      "top_quote_list": {},
+      "sorted_material_list": null,
+      "ab_suffix": "default",
+      "card_multimodal": {
+        "data": [
+          {
+            "video_url": "https://video.weibo.com/show?fid=1034:5226832249946253",
+            "type": "v",
+            "click_rate": 0,
+            "hit_score_new": 99.023438,
+            "doc_score": 3454,
+            "hit_score_final": 87.014069,
+            "img_pid": "007nLLMhly1i6seiiwd1ej30qo0k0754",
+            "img": "http://wx2.sinaimg.cn/middle/007nLLMhly1i6seiiwd1ej30qo0k0754.jpg",
+            "user_name": "小C带你瘦",
+            "cur_mid": "5226832767225681",
+            "w": 960,
+            "vtype": 0,
+            "h": 720,
+            "user_avatar": "https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/007nLLMhly8i3dssj81ugj30u00u0q8y.jpg?KID=imgbed,tva&Expires=1761669423&ssig=spUsTXU3EG",
+            "scheme": "sinaweibo://video/vvs?mid=5226832767225681&multi_paragraph=1&multi_count=0"
+          },
+          {
+            "video_url": "https://video.weibo.com/show?fid=1034:5226828554502209",
+            "type": "v",
+            "click_rate": 0,
+            "hit_score_new": 97.412109,
+            "doc_score": 5672,
+            "hit_score_final": 82.447266,
+            "img_pid": "0075f06Fgy1i6se389sdsj30qo0k03z7",
+            "img": "http://wx1.sinaimg.cn/middle/0075f06Fgy1i6se389sdsj30qo0k03z7.jpg",
+            "user_name": "海棠纪",
+            "cur_mid": "5226828663887319",
+            "w": 960,
+            "vtype": 0,
+            "h": 720,
+            "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/0075f06Fly8i3wgrf9bq1j30u00u0ac9.jpg?KID=imgbed,tva&Expires=1761669423&ssig=4as1MRdirY",
+            "scheme": "sinaweibo://multimedia?mix_mid=5226828663887319&mix_index=0&multi_paragraph=2&multi_count=0"
+          },
+          {
+            "video_url": "https://video.weibo.com/show?fid=1034:5226829062275084",
+            "type": "v",
+            "click_rate": 0,
+            "hit_score_new": 98.4375,
+            "doc_score": 6050,
+            "hit_score_final": 83.0625,
+            "img_pid": "005WCsm1gy1i6se60xfvcj30zk0k0jxf",
+            "img": "http://wx4.sinaimg.cn/middle/005WCsm1gy1i6se60xfvcj30zk0k0jxf.jpg",
+            "user_name": "桃園初戀_YELLOW",
+            "cur_mid": "5226829444289294",
+            "w": 1280,
+            "vtype": 0,
+            "h": 720,
+            "user_avatar": "https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/005WCsm1ly8i6nt1z9zh8j30u00u0gnz.jpg?KID=imgbed,tva&Expires=1761669423&ssig=YsLPQjmw0d",
+            "scheme": "sinaweibo://video/vvs?mid=5226829444289294&multi_paragraph=4&multi_count=0"
+          },
+          {
+            "video_url": "https://video.weibo.com/show?fid=1034:5226832249946253",
+            "type": "v",
+            "click_rate": 0,
+            "hit_score_new": 99.023438,
+            "doc_score": 3454,
+            "hit_score_final": 87.014069,
+            "img_pid": "007nLLMhly1i6seiiwd1ej30qo0k0754",
+            "img": "http://wx2.sinaimg.cn/middle/007nLLMhly1i6seiiwd1ej30qo0k0754.jpg",
+            "user_name": "小C带你瘦",
+            "cur_mid": "5226832767225681",
+            "w": 960,
+            "vtype": 0,
+            "h": 720,
+            "user_avatar": "https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/007nLLMhly8i3dssj81ugj30u00u0q8y.jpg?KID=imgbed,tva&Expires=1761669423&ssig=spUsTXU3EG",
+            "scheme": "sinaweibo://video/vvs?mid=5226832767225681&multi_paragraph=1&multi_count=0"
+          }
+        ],
+        "type": "mediablock"
+      },
+      "share_card_multimodal": {
+        "video_url": "https://video.weibo.com/show?fid=1034:5226832249946253",
+        "type": "v",
+        "click_rate": 0,
+        "hit_score_new": 99.023438,
+        "doc_score": 3454,
+        "hit_score_final": 87.014069,
+        "img_pid": "007nLLMhly1i6seiiwd1ej30qo0k0754",
+        "img": "http://wx2.sinaimg.cn/middle/007nLLMhly1i6seiiwd1ej30qo0k0754.jpg",
+        "user_name": "小C带你瘦",
+        "cur_mid": "5226832767225681",
+        "w": 960,
+        "vtype": 0,
+        "h": 720,
+        "user_avatar": "https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/007nLLMhly8i3dssj81ugj30u00u0q8y.jpg?KID=imgbed,tva&Expires=1761669423&ssig=spUsTXU3EG",
+        "scheme": "sinaweibo://video/vvs?mid=5226832767225681&multi_paragraph=1&multi_count=0"
+      },
+      "msg": "<think><br>嗯，用户查询是关于\"花少要拍团综了\"的搜索结果整理。我需要仔细分析这些信息并整理成一份清晰、全面的报告。<br><br>首先看搜索结果的整体情况。这些结果主要来自微博平台，时间集中在2025年10月28日（也就是今天），说明这是刚公布的热点消息。有几个优质搜索结果值得特别关注，比如等。<br><br>关于团综的核心信息，从可以看出，这是在湖南卫视2025秋季招商大会上正式官宣的项目，属于2026年综艺片单。节目名暂定为《2026花少团综企划》。节目定位是老友户外游戏生活类真人秀，创意很特别：让嘉宾们从远方回归故乡，在一个空房子里通过游戏自给自足，逐步把空屋打造成童话家园。这听起来很治愈温馨。<br><br>关于嘉宾阵容，有提到两种可能方案：\"北斗七行\"（秦海璐、秦岚、辛芷蕾、迪丽热巴、赵昭仪、王安宇、胡先煦）或\"七老童心\"（那英、陈数、马思纯、李沁、张雅琪、龚俊、张晚意）。节目可能采用二选一模式，但提到现实困难：有些演员如热巴要拍戏，辛芷蕾作为新晋影后可能不再常驻综艺。<br><br>粉丝反应方面很有意思。等显示观众非常期待原班人马重聚，但也提出担忧：不同季成员混搭可能破坏原有化学反应。则称赞了花少系列的真实感和治愈特质。<br><br>制作团队和播出信息方面，提到将由李越团队制作，预计2026年在芒果TV播出。但具体录制时间尚未公布。<br><br>我还注意到一些相关动态：等提到龚俊粉丝在宣传他的新剧《暗河传》；有趣地讨论了快乐家族打破花少\"双数季魔咒\"的设想；则提供了其他团综的参考案例。<br><br>基于这些信息，我会在回复时重点突出：节目创意亮点、嘉宾阵容可能性、粉丝期待与担忧、以及制作时间线这几个维度。准备用四个清晰的部分来组织内容：节目官宣与定位、拟邀嘉宾方案、制作与播出信息、观众反响与期待。这样能全面覆盖用户想了解的各个方面。<br><br></think><br>关于“花少要拍团综了”的相关信息，综合整理如下：<br>### 🌟一、节目官宣与定位<br>1. **正式官宣**  <br>   在2025年芒果秋季招商大会上，《2026花少团综企划》首次亮相，定位为“老友户外游戏生活类真人秀”。节目计划让经典组合“北斗七行”或“七老童心”限定回归，通过共同生活与游戏协作，将空屋改造成“童话家园”，主打治愈与欢乐的重聚主题。```wbCustomBlock{\"type\": \"quoted\", \"index\": 4, \"data\": {\"num\": [1, 2, 30, 31], \"version\": 2, \"quote_list\": [{\"name\": \"会火\", \"scheme\": \"sinaweibo://detail?mblogid=5226718770236442\", \"index\": 2, \"label\": \"大v\"}, {\"name\": \"湖南卫视\", \"scheme\": \"sinaweibo://detail?mblogid=5226815488525051\", \"index\": 1, \"label\": \"\"}, {\"name\": \"橘子娱乐\", \"scheme\": \"sinaweibo://detail?mblogid=5226718113825295\", \"index\": 30, \"label\": \"\"}, {\"name\": \"芒果捞MangoLove\", \"scheme\": \"sinaweibo://detail?mblogid=5226723592899074\", \"index\": 31, \"label\": \"\"}], \"name\": \"会火\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/00448XYOly8hr3sojtj9ej60u00u0aau02.jpg?KID=imgbed,tva&Expires=1761669422&ssig=RNjJAzB31k\", \"scheme\": \"sinaweibo://detail?mblogid=5226718770236442\", \"vType\": 0}}```<br><br>2. **核心创意**  <br>   - 从旅行回归生活：嘉宾需在“世外桃源”的空房间中自给自足，从解决温饱到建设家园，全程通过游戏任务推进。```wbCustomBlock{\"type\": \"quoted\", \"index\": 6, \"data\": {\"num\": [2, 21, 30], \"version\": 2, \"quote_list\": [{\"name\": \"传媒剧透哥\", \"scheme\": \"sinaweibo://detail?mblogid=5226712879334779\", \"index\": 21, \"label\": \"大v\"}, {\"name\": \"会火\", \"scheme\": \"sinaweibo://detail?mblogid=5226718770236442\", \"index\": 2, \"label\": \"\"}, {\"name\": \"橘子娱乐\", \"scheme\": \"sinaweibo://detail?mblogid=5226718113825295\", \"index\": 30, \"label\": \"\"}], \"name\": \"传媒剧透哥\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/0075fOecly8i4v46zlmesj30u00u0dgw.jpg?KID=imgbed,tva&Expires=1761669423&ssig=qbLuE5I6d8\", \"scheme\": \"sinaweibo://detail?mblogid=5226712879334779\", \"vType\": 0}}```  <br>   - 情感内核：强调成员间自然互动与默契，延续花少系列“真实群像”和“温暖关系”的风格。```wbCustomBlock{\"type\": \"quoted\", \"index\": 7, \"data\": {\"num\": [6, 16, 19], \"version\": 2, \"quote_list\": [{\"name\": \"小C带你瘦\", \"scheme\": \"sinaweibo://detail?mblogid=5226832767225681\", \"index\": 6, \"label\": \"\"}, {\"name\": \"萝卜萝卜大萝卜xy\", \"scheme\": \"sinaweibo://detail?mblogid=5226823015203587\", \"index\": 16, \"label\": \"\"}, {\"name\": \"沈鱼七-sanmu\", \"scheme\": \"sinaweibo://detail?mblogid=5226834283202144\", \"index\": 19, \"label\": \"\"}]}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5226832767225681&multi_paragraph=1&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/007nLLMhly8i3dssj81ugj30u00u0q8y.jpg?KID=imgbed,tva&Expires=1761669423&ssig=spUsTXU3EG) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">小C带你瘦</span><img src=\"http://wx2.sinaimg.cn/middle/007nLLMhly1i6seiiwd1ej30qo0k0754.jpg\" data-width=720 data-height=960></div></media-block><br>### 👥二、拟邀嘉宾方案（二选一）<br>目前节目组提出两组阵容方案，均来自过往高口碑季的成员：<br>- **「北斗七行」**：秦海璐、秦岚、辛芷蕾、迪丽热巴、赵昭仪、王安宇、胡先煦（《花儿与少年·丝路季》原班）。```wbCustomBlock{\"type\": \"quoted\", \"index\": 10, \"data\": {\"num\": [2, 21, 31, 33], \"version\": 2, \"quote_list\": [{\"name\": \"芒果捞MangoLove\", \"scheme\": \"sinaweibo://detail?mblogid=5226723592899074\", \"index\": 31, \"label\": \"大v\"}, {\"name\": \"会火\", \"scheme\": \"sinaweibo://detail?mblogid=5226718770236442\", \"index\": 2, \"label\": \"\"}, {\"name\": \"传媒剧透哥\", \"scheme\": \"sinaweibo://detail?mblogid=5226712879334779\", \"index\": 21, \"label\": \"\"}, {\"name\": \"香蕉你个不拿拿儿\", \"scheme\": \"sinaweibo://detail?mblogid=5226717321889015\", \"index\": 33, \"label\": \"\"}], \"name\": \"芒果捞MangoLove\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.600.600.50/001UctmBly8i6k280rfeqj60go0gowfo02.jpg?KID=imgbed,tva&Expires=1761669423&ssig=ffHT8l85mZ\", \"scheme\": \"sinaweibo://detail?mblogid=5226723592899074\", \"vType\": 0}}```  <br>- **「七老童心」**：那英、陈数、马思纯、李沁、张雅琪、龚俊、张晚意（《花儿与少年·同心季》阵容）。```wbCustomBlock{\"type\": \"quoted\", \"index\": 11, \"data\": {\"num\": [21, 31], \"version\": 2, \"quote_list\": [{\"name\": \"传媒剧透哥\", \"scheme\": \"sinaweibo://detail?mblogid=5226712879334779\", \"index\": 21, \"label\": \"\"}, {\"name\": \"芒果捞MangoLove\", \"scheme\": \"sinaweibo://detail?mblogid=5226723592899074\", \"index\": 31, \"label\": \"\"}]}}```<br><br>> **注**：辛芷蕾因新晋影后身份或减少综艺曝光，迪丽热巴、王安宇等演员档期存疑，能否全员回归尚不确定。```wbCustomBlock{\"type\": \"quoted\", \"index\": 12, \"data\": {\"num\": [18, 28], \"version\": 2, \"quote_list\": [{\"name\": \"海棠纪\", \"scheme\": \"sinaweibo://detail?mblogid=5226828663887319\", \"index\": 18, \"label\": \"\"}, {\"name\": \"幸运迪开心迪\", \"scheme\": \"sinaweibo://detail?mblogid=5226837053279182\", \"index\": 28, \"label\": \"\"}]}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://multimedia?mix_mid=5226828663887319&mix_index=0&multi_paragraph=2&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/0075f06Fly8i3wgrf9bq1j30u00u0ac9.jpg?KID=imgbed,tva&Expires=1761669423&ssig=4as1MRdirY) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">海棠纪</span><img src=\"http://wx1.sinaimg.cn/middle/0075f06Fgy1i6se389sdsj30qo0k03z7.jpg\" data-width=720 data-height=960></div></media-block><br>### 📅三、制作与播出信息<br>1. **制作团队**  <br>   由芒果TV李越团队操刀（曾制作多档高分综艺），延续花少IP的制作水准。```wbCustomBlock{\"type\": \"quoted\", \"index\": 15, \"data\": {\"num\": [30, 31], \"version\": 2, \"quote_list\": [{\"name\": \"橘子娱乐\", \"scheme\": \"sinaweibo://detail?mblogid=5226718113825295\", \"index\": 30, \"label\": \"大v\"}, {\"name\": \"芒果捞MangoLove\", \"scheme\": \"sinaweibo://detail?mblogid=5226723592899074\", \"index\": 31, \"label\": \"\"}], \"name\": \"橘子娱乐\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.811.811.50/005M7XdTly8h8vnv7l2aij30mj0mj3yz.jpg?KID=imgbed,tva&Expires=1761669423&ssig=cqKz9UgGl%2B\", \"scheme\": \"sinaweibo://detail?mblogid=5226718113825295\", \"vType\": 0}}```  <br>2. **时间规划**  <br>   - 录制时间：未公布（预计2026年初启动）。```wbCustomBlock{\"type\": \"quoted\", \"index\": 17, \"data\": {\"num\": [1, 30], \"version\": 2, \"quote_list\": [{\"name\": \"湖南卫视\", \"scheme\": \"sinaweibo://detail?mblogid=5226815488525051\", \"index\": 1, \"label\": \"大v\"}, {\"name\": \"橘子娱乐\", \"scheme\": \"sinaweibo://detail?mblogid=5226718113825295\", \"index\": 30, \"label\": \"\"}], \"name\": \"湖南卫视\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/001MTwmaly8h8vlu6go9hj60u00u0mxm02.jpg?KID=imgbed,tva&Expires=1761669422&ssig=cyWtRTHhoS\", \"scheme\": \"sinaweibo://detail?mblogid=5226815488525051\", \"vType\": 3}}```  <br>   - 播出时间：2026年内于芒果TV上线，具体季度待定。```wbCustomBlock{\"type\": \"quoted\", \"index\": 18, \"data\": {\"num\": [1, 22], \"version\": 2, \"quote_list\": [{\"name\": \"马栏山综艺资讯\", \"scheme\": \"sinaweibo://detail?mblogid=5226744622615860\", \"index\": 22, \"label\": \"大v\"}, {\"name\": \"湖南卫视\", \"scheme\": \"sinaweibo://detail?mblogid=5226815488525051\", \"index\": 1, \"label\": \"\"}], \"name\": \"马栏山综艺资讯\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.995.995.50/006OiUeTly8h0pe0uh9n5j30rn0rnt9h.jpg?KID=imgbed,tva&Expires=1761669423&ssig=hAHoj6wTFV\", \"scheme\": \"sinaweibo://detail?mblogid=5226744622615860\", \"vType\": 0}}```<br>### 💬四、观众反响与期待<br>1. **支持呼声**  <br>   - 粉丝强烈期待原班人马重聚，认为北斗七行与七老童心各有特色，均能延续“电子榨菜”级治愈效果。```wbCustomBlock{\"type\": \"quoted\", \"index\": 22, \"data\": {\"num\": [3, 20, 23, 33], \"version\": 2, \"quote_list\": [{\"name\": \"桃園初戀_YELLOW\", \"scheme\": \"sinaweibo://detail?mblogid=5226829444289294\", \"index\": 3, \"label\": \"大v\"}, {\"name\": \"梨花予\", \"scheme\": \"sinaweibo://detail?mblogid=5226828446046149\", \"index\": 20, \"label\": \"\"}, {\"name\": \"云深鹤不知\", \"scheme\": \"sinaweibo://detail?mblogid=5226837367329667\", \"index\": 23, \"label\": \"\"}, {\"name\": \"香蕉你个不拿拿儿\", \"scheme\": \"sinaweibo://detail?mblogid=5226717321889015\", \"index\": 33, \"label\": \"\"}], \"name\": \"桃園初戀_YELLOW\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/005WCsm1ly8i6nt1z9zh8j30u00u0gnz.jpg?KID=imgbed,tva&Expires=1761669423&ssig=YsLPQjmw0d\", \"scheme\": \"sinaweibo://detail?mblogid=5226829444289294\", \"vType\": 0}}```  <br>   - 观众称赞两季嘉宾的“亲民感”和“家庭式互动”，认为真实感是花少核心吸引力。```wbCustomBlock{\"type\": \"quoted\", \"index\": 23, \"data\": {\"num\": [8, 16, 19], \"version\": 2, \"quote_list\": [{\"name\": \"茶妹爱追星\", \"scheme\": \"sinaweibo://detail?mblogid=4993765570249155\", \"index\": 8, \"label\": \"大v\"}, {\"name\": \"萝卜萝卜大萝卜xy\", \"scheme\": \"sinaweibo://detail?mblogid=5226823015203587\", \"index\": 16, \"label\": \"\"}, {\"name\": \"沈鱼七-sanmu\", \"scheme\": \"sinaweibo://detail?mblogid=5226834283202144\", \"index\": 19, \"label\": \"\"}], \"name\": \"茶妹爱追星\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/0071Bxmfly8hcleh27e2bj30u00u076l.jpg?KID=imgbed,tva&Expires=1761669423&ssig=DK3KhUSqRm\", \"scheme\": \"sinaweibo://detail?mblogid=4993765570249155\", \"vType\": 0}}```  <br>2. **担忧建议**  <br>   - 反对拼盘式混搭：认为不同季成员（如e人/i人群体）混组易破坏化学反应，应分开拍摄。```wbCustomBlock{\"type\": \"quoted\", \"index\": 25, \"data\": {\"num\": [12, 13, 14], \"version\": 2, \"quote_list\": [{\"name\": \"学不会玩滑板\", \"scheme\": \"sinaweibo://detail?mblogid=5226827004252288\", \"index\": 14, \"label\": \"大v\"}, {\"name\": \"李冷冷·\", \"scheme\": \"sinaweibo://detail?mblogid=5226831191999341\", \"index\": 12, \"label\": \"\"}, {\"name\": \"梦与声\", \"scheme\": \"sinaweibo://detail?mblogid=5226832913500679\", \"index\": 13, \"label\": \"\"}], \"name\": \"学不会玩滑板\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.360.360.50/006DLMORly8hajs9cl4pgj30a00a0q31.jpg?KID=imgbed,tva&Expires=1761669422&ssig=xLueYUvCf1\", \"scheme\": \"sinaweibo://detail?mblogid=5226827004252288\", \"vType\": 0}}```  <br>   - 现实可行性：演员档期冲突可能限制全员回归，部分网友建议灵活调整阵容。```wbCustomBlock{\"type\": \"quoted\", \"index\": 26, \"data\": {\"num\": [18, 28], \"version\": 2, \"quote_list\": [{\"name\": \"海棠纪\", \"scheme\": \"sinaweibo://detail?mblogid=5226828663887319\", \"index\": 18, \"label\": \"\"}, {\"name\": \"幸运迪开心迪\", \"scheme\": \"sinaweibo://detail?mblogid=5226837053279182\", \"index\": 28, \"label\": \"\"}]}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5226829444289294&multi_paragraph=4&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/005WCsm1ly8i6nt1z9zh8j30u00u0gnz.jpg?KID=imgbed,tva&Expires=1761669423&ssig=YsLPQjmw0d) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">桃園初戀_YELLOW</span><img src=\"http://wx4.sinaimg.cn/middle/005WCsm1gy1i6se60xfvcj30zk0k0jxf.jpg\" data-width=720 data-height=1280></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=4993765570249155&multi_paragraph=4&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/0071Bxmfly8hcleh27e2bj30u00u076l.jpg?KID=imgbed,tva&Expires=1761669423&ssig=DK3KhUSqRm) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">茶妹爱追星</span><img src=\"http://wx1.sinaimg.cn/middle/0071Bxmfly1hm4v5o634ej31c00u0q4t.jpg\" data-width=1080 data-height=1728></div></media-block><br>### 💎总结<br>《2026花少团综企划》以“老友共建家园”的新模式引发热议，能否实现全员回归仍是最大悬念。观众更倾向保留单季原生组合的纯粹性，期待节目延续真实、治愈的底色。最终阵容与录制进展需待官方进一步公布。<br>",
+      "share_text": "#花少要拍团综了#的相关内容，来智搜看看",
+      "mid_list": null,
+      "news_analyze": {},
+      "msg_json": "{}",
+      "version": "2025-10-28 21:37:02.595999-1914",
+      "query_field": "21",
+      "chat_status_stage": 4,
+      "analysis_time": 1761658661,
+      "reliable_tips": "{\"gold_orange_v_mids\": [\"5226718770236442\", \"5226718113825295\", \"5226723592899074\", \"5226712879334779\", \"5226832767225681\", \"5226823015203587\", \"5226834283202144\", \"5226717321889015\", \"5226828663887319\", \"5226744622615860\", \"5226829444289294\", \"5226828446046149\", \"4993765570249155\", \"5226831191999341\", \"5226832913500679\", \"5226827004252288\", \"5211219985432670\", \"5199163882999241\", \"5223741735831374\", \"5226834611675302\", \"5226818187823926\"], \"gold_orange_v_ratio\": \"70%\", \"media_mids\": [\"5226815488525051\"], \"media_ratio\": \"4%\", \"verified_mids\": [\"5226815943871940\"], \"verified_ratio\": \"3%\", \"normal_mids\": [\"5226837053279182\", \"5226837367329667\", \"5226837206633255\", \"5226837191429084\", \"5226837074515295\", \"5226837068220660\", \"5226837047254020\"], \"normal_ratio\": \"23%\", \"ref_mid_rank\": {\"5226815488525051\": {\"rank\": 1}, \"5226718770236442\": {\"rank\": 2}, \"5226718113825295\": {\"rank\": 30}, \"5226723592899074\": {\"rank\": 31}, \"5226712879334779\": {\"rank\": 21}, \"5226832767225681\": {\"rank\": 6}, \"5226823015203587\": {\"rank\": 16}, \"5226834283202144\": {\"rank\": 19}, \"5226717321889015\": {\"rank\": 33}, \"5226828663887319\": {\"rank\": 18}, \"5226837053279182\": {\"rank\": 28}, \"5226744622615860\": {\"rank\": 22}, \"5226829444289294\": {\"rank\": 3}, \"5226828446046149\": {\"rank\": 20}, \"5226837367329667\": {\"rank\": 23}, \"4993765570249155\": {\"rank\": 8}, \"5226831191999341\": {\"rank\": 12}, \"5226832913500679\": {\"rank\": 13}, \"5226827004252288\": {\"rank\": 14}, \"5211219985432670\": {\"rank\": 4}, \"5199163882999241\": {\"rank\": 5}, \"5223741735831374\": {\"rank\": 7}, \"5226834611675302\": {\"rank\": 15}, \"5226818187823926\": {\"rank\": 17}, \"5226837206633255\": {\"rank\": 24}, \"5226837191429084\": {\"rank\": 25}, \"5226837074515295\": {\"rank\": 26}, \"5226837068220660\": {\"rank\": 27}, \"5226837047254020\": {\"rank\": 29}, \"5226815943871940\": {\"rank\": 32}}}",
+      "reference_num": 30,
+      "msg_format": "markdown",
+      "status": 2,
+      "current_time": 1761659113,
+      "profile_image_url": "",
+      "user_info": {},
+      "page_id": "23296447ae36e0ef26bc66e222c443d24cc2a2",
+      "short_url": "http://t.cn/AXA7iIW8",
+      "q_attr": {
+        "from_uid": "5794063770",
+        "from_request_id": ""
+      },
+      "ext_show": {},
+      "share_info": {
+        "page_id": "23296447ae36e0ef26bc66e222c443d24cc2a2",
+        "unify_md5": "b6d244d9dccf139f56df59b0decd4d21",
+        "url": "http://t.cn/AXAvCSdN",
+        "display_name": "#花少要拍团综了#",
+        "status": 3,
+        "tips": "#花少要拍团综了#的相关内容，来智搜看看"
+      },
+      "zs_risk_control": {
+        "think_text_close": 0,
+        "land_button_close": 0
+      },
+      "scheme": "sinaweibo://cardlist?containerid=100103type%3D225%26q%3D%23%E8%8A%B1%E5%B0%91%E8%A6%81%E6%8B%8D%E5%9B%A2%E7%BB%BC%E4%BA%86%23%26t%3D&extparam=ai_model%3Ddeepseek_stream%26ori_ai_title%3D%E5%8F%82%E8%80%83%E5%8D%9A%E6%96%87%26material_version%3D1761658622"
+    }
+  },
+  "links": [
+    "sinaweibo://detail?mblogid=5226815488525051",
+    "sinaweibo://detail?mblogid=5226718770236442",
+    "sinaweibo://detail?mblogid=5226829444289294",
+    "sinaweibo://detail?mblogid=5211219985432670",
+    "sinaweibo://detail?mblogid=5199163882999241",
+    "sinaweibo://detail?mblogid=5226832767225681",
+    "sinaweibo://detail?mblogid=5223741735831374",
+    "sinaweibo://detail?mblogid=4993765570249155",
+    "historyweibo://5214786775419839",
+    "historyweibo://5212592488317155",
+    "historyweibo://5213018717688482",
+    "sinaweibo://detail?mblogid=5226831191999341",
+    "sinaweibo://detail?mblogid=5226832913500679",
+    "sinaweibo://detail?mblogid=5226827004252288",
+    "sinaweibo://detail?mblogid=5226834611675302",
+    "sinaweibo://detail?mblogid=5226823015203587",
+    "sinaweibo://detail?mblogid=5226818187823926",
+    "sinaweibo://detail?mblogid=5226828663887319",
+    "sinaweibo://detail?mblogid=5226834283202144",
+    "sinaweibo://detail?mblogid=5226828446046149",
+    "sinaweibo://detail?mblogid=5226712879334779",
+    "sinaweibo://detail?mblogid=5226744622615860",
+    "sinaweibo://detail?mblogid=5226837367329667",
+    "sinaweibo://detail?mblogid=5226837206633255",
+    "sinaweibo://detail?mblogid=5226837191429084",
+    "sinaweibo://detail?mblogid=5226837074515295",
+    "sinaweibo://detail?mblogid=5226837068220660",
+    "sinaweibo://detail?mblogid=5226837053279182",
+    "sinaweibo://detail?mblogid=5226837047254020",
+    "sinaweibo://detail?mblogid=5226718113825295",
+    "sinaweibo://detail?mblogid=5226723592899074",
+    "sinaweibo://detail?mblogid=5226815943871940",
+    "sinaweibo://detail?mblogid=5226717321889015"
+  ],
+  "media": [
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/007nLLMhly1i6seiiwd1ej30qo0k0754.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/007nLLMhly1i6seiiwd1ej30qo0k0754.jpg",
+      "alt": "小C带你瘦",
+      "width": 720,
+      "height": 960,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/007nLLMhly1i6seiiwd1ej30qo0k0754.jpg"
+      ],
+      "user": "小C带你瘦"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/0075f06Fgy1i6se389sdsj30qo0k03z7.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/0075f06Fgy1i6se389sdsj30qo0k03z7.jpg",
+      "alt": "海棠纪",
+      "width": 720,
+      "height": 960,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/0075f06Fgy1i6se389sdsj30qo0k03z7.jpg"
+      ],
+      "user": "海棠纪"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/005WCsm1gy1i6se60xfvcj30zk0k0jxf.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/005WCsm1gy1i6se60xfvcj30zk0k0jxf.jpg",
+      "alt": "桃園初戀_YELLOW",
+      "width": 720,
+      "height": 1280,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/005WCsm1gy1i6se60xfvcj30zk0k0jxf.jpg"
+      ],
+      "user": "桃園初戀_YELLOW"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/0071Bxmfly1hm4v5o634ej31c00u0q4t.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/0071Bxmfly1hm4v5o634ej31c00u0q4t.jpg",
+      "alt": "茶妹爱追星",
+      "width": 1080,
+      "height": 1728,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/0071Bxmfly1hm4v5o634ej31c00u0q4t.jpg"
+      ],
+      "user": "茶妹爱追星"
+    }
+  ],
+  "html_path": "data/aicard/hourly/2025-10-28/21/topic-b6d244d9.html"
+}

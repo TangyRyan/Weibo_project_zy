@@ -1,0 +1,43 @@
+{
+  "meta": {
+    "query": "#APEC领导人集体合影#",
+    "status_code": 200,
+    "fetched_at": "2025-11-02T02:36:57+08:00",
+    "response": {
+      "qs_status": 2,
+      "query": "#APEC领导人集体合影#",
+      "ext_show": {},
+      "msg": "抱歉，这个问题我暂时无法回答，换个问题试试吧",
+      "comment_info": {},
+      "wenda": {
+        "forward_gen": 0
+      },
+      "analysis_time": 0,
+      "zs_risk_control": {
+        "may_be_ask_show": 0
+      },
+      "uid": "",
+      "model": "",
+      "cot": 1,
+      "loop_times": 200,
+      "status": 3,
+      "qs_status_info": "{\"ab_lab\":{},\"qs_u_status\":0,\"qs_c_status\":0,\"qs_r_status\":0,\"qs_status\":2,\"qs_q_status\":2}",
+      "ab_suffix": "default",
+      "share_info": {
+        "unify_md5": "391e99285d0a8b1cea33f618a240da88",
+        "tips": "#APEC领导人集体合影#的相关内容，来智搜看看",
+        "page_id": "",
+        "status": 1,
+        "comment_content": "",
+        "display_name": "#APEC领导人集体合影#",
+        "url": "http://t.cn/AXAMgBMF"
+      },
+      "abtest_info": {
+        "chat_entrance": 1
+      }
+    }
+  },
+  "links": [],
+  "media": [],
+  "html_path": "data/aicard/hourly/2025-11-02/02/apec.html"
+}

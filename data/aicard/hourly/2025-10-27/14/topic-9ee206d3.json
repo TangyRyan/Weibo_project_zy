@@ -1,0 +1,401 @@
+{
+  "meta": {
+    "query": "#入青云你很得意吧#",
+    "status_code": 200,
+    "fetched_at": "2025-10-28T17:56:11+08:00",
+    "response": {
+      "abtest_info": {
+        "chat_entrance": 1
+      },
+      "cot": 1,
+      "wenda": {
+        "forward_gen": 0
+      },
+      "ext_show": {},
+      "unify_md5": "9ee206d3716211b372d657ff06f66f99",
+      "query_category": "Ip",
+      "ab_suffix": "default",
+      "current_time": 1761645371,
+      "user_info": {},
+      "uid": "",
+      "short_url": "http://t.cn/AXw7W2VO",
+      "sorted_material_list": null,
+      "qs_status": 0,
+      "query_field": "1",
+      "msg_format": "markdown",
+      "status": 2,
+      "zs_risk_control": {
+        "think_text_close": 0,
+        "land_button_close": 0
+      },
+      "show_ctrl": {
+        "quote": {}
+      },
+      "news_analyze": {},
+      "reliable_tips": "{\"gold_orange_v_mids\": [\"5226330105061007\", \"5226367357815912\", \"5226351041710895\", \"5226126790104992\", \"5226366087726418\", \"5226404155229559\", \"5226085341989258\", \"5225672664683155\", \"5225677227823815\", \"5225930013544421\", \"5223565520799897\", \"5223827865862586\", \"5220159440816110\", \"5225426179850639\", \"5224489983938034\", \"5226107001376938\", \"5226293458372574\", \"5225295919189068\", \"5226158259440478\", \"5226366771663456\", \"5226351587495737\", \"5226404591699094\", \"5226398533028145\", \"5222859825219310\", \"5221814374761432\", \"5224059391444612\", \"5222032669411778\", \"5226367207870080\", \"5226461139307583\", \"5226365047540274\", \"5226368686097360\", \"5226369597834448\"], \"gold_orange_v_ratio\": \"84%\", \"media_mids\": [], \"media_ratio\": \"0%\", \"verified_mids\": [\"5225174744170644\", \"5226366896181156\", \"5226662158926205\"], \"verified_ratio\": \"8%\", \"normal_mids\": [\"5226039875999059\", \"5226070107227519\", \"5226614574547441\"], \"normal_ratio\": \"8%\"}",
+      "version": "2025-10-28 16:27:13.038000-8369",
+      "chat_status_stage": 1,
+      "loop_times": 200,
+      "share_info": {
+        "status": 3,
+        "display_name": "#入青云你很得意吧#",
+        "url": "http://t.cn/AXwg1u96",
+        "page_id": "232964e40128db90f363e11939745c971cceac",
+        "tips": "#入青云你很得意吧#的相关内容，来智搜看看",
+        "unify_md5": "9ee206d3716211b372d657ff06f66f99"
+      },
+      "mid_list": null,
+      "reference_num": 38,
+      "status_stage": 4,
+      "link_list": [
+        "sinaweibo://detail?mblogid=5226330105061007",
+        "sinaweibo://detail?mblogid=5226367357815912",
+        "sinaweibo://detail?mblogid=5226366896181156",
+        "sinaweibo://detail?mblogid=5226126790104992",
+        "sinaweibo://detail?mblogid=5226366771663456",
+        "sinaweibo://detail?mblogid=5226351587495737",
+        "sinaweibo://detail?mblogid=5226404591699094",
+        "sinaweibo://detail?mblogid=5223565520799897",
+        "sinaweibo://detail?mblogid=5226107001376938",
+        "sinaweibo://detail?mblogid=5226398533028145",
+        "sinaweibo://detail?mblogid=5225672664683155",
+        "sinaweibo://detail?mblogid=5225426179850639",
+        "sinaweibo://detail?mblogid=5225677227823815",
+        "sinaweibo://detail?mblogid=5223827865862586",
+        "sinaweibo://detail?mblogid=5222859825219310",
+        "sinaweibo://detail?mblogid=5224489983938034",
+        "sinaweibo://detail?mblogid=5221814374761432",
+        "sinaweibo://detail?mblogid=5224059391444612",
+        "sinaweibo://detail?mblogid=5222032669411778",
+        "sinaweibo://detail?mblogid=5225295919189068",
+        "sinaweibo://detail?mblogid=5220159440816110",
+        "sinaweibo://detail?mblogid=5225174744170644",
+        "https://baijiahao.baidu.com/s?id=1846634552218863932",
+        "https://baijiahao.baidu.com/s?id=1846508172558366857",
+        "https://m.sohu.com/a/947767784_120674124/?pvid=000115_3w_a",
+        "https://m.toutiao.com/a7565189475203973666/",
+        "https://m.toutiao.com/a7563266692378296874/",
+        "historyweibo://5226330105061007",
+        "sinaweibo://detail?mblogid=5226367207870080",
+        "sinaweibo://detail?mblogid=5226461139307583",
+        "sinaweibo://detail?mblogid=5226351041710895",
+        "sinaweibo://detail?mblogid=5226365047540274",
+        "sinaweibo://detail?mblogid=5226366087726418",
+        "sinaweibo://detail?mblogid=5226368686097360",
+        "sinaweibo://detail?mblogid=5226404155229559",
+        "sinaweibo://detail?mblogid=5226039875999059",
+        "sinaweibo://detail?mblogid=5226070107227519",
+        "sinaweibo://detail?mblogid=5226662158926205",
+        "sinaweibo://detail?mblogid=5226369597834448",
+        "sinaweibo://detail?mblogid=5226614574547441",
+        "sinaweibo://detail?mblogid=5226085341989258",
+        "sinaweibo://detail?mblogid=5226158259440478",
+        "sinaweibo://detail?mblogid=5226293458372574",
+        "sinaweibo://detail?mblogid=5225930013544421",
+        "https://m.toutiao.com/a7563288787833405967/",
+        "https://m.toutiao.com/a1846508706044947/"
+      ],
+      "model": "deepseek",
+      "scheme": "sinaweibo://cardlist?containerid=100103type%3D225%26q%3D%23%E5%85%A5%E9%9D%92%E4%BA%91%E4%BD%A0%E5%BE%88%E5%BE%97%E6%84%8F%E5%90%A7%23%26t%3D&extparam=ai_model%3Ddeepseek%26ori_ai_title%3D%E5%8F%82%E8%80%83%E5%8D%9A%E6%96%87%26material_version%3D1761640033",
+      "card_multimodal": {
+        "data": [
+          {
+            "doc_score": 0,
+            "img_pid": "69dbddb1ly1i6qrgsygurj21hc0u0aeg",
+            "scheme": "sinaweibo://video/vvs?mid=5226330105061007&multi_paragraph=1&multi_count=0",
+            "type": "v",
+            "img": "http://wx2.sinaimg.cn/middle/69dbddb1ly1i6qrgsygurj21hc0u0aeg.jpg",
+            "user_name": "闻汤识面泡剧",
+            "cur_mid": "5226330105061007",
+            "w": 1920,
+            "h": 1080,
+            "user_avatar": "https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/69dbddb1ly8gdi7fgptdnj20u00u0wfy.jpg?KID=imgbed,tva&Expires=1761650833&ssig=OqYoAxeg0H",
+            "hit_score_final": 0,
+            "vtype": 0,
+            "video_url": "https://video.weibo.com/show?fid=1034:5226317961166891",
+            "click_rate": 0,
+            "hit_score_new": 0
+          },
+          {
+            "doc_score": 5573,
+            "img_pid": "005XuxSMly1i6qx41cmopj30qo0f10wm",
+            "scheme": "sinaweibo://video/vvs?mid=5226367357815912&multi_paragraph=1&multi_count=1",
+            "type": "v",
+            "img": "http://wx1.sinaimg.cn/middle/005XuxSMly1i6qx41cmopj30qo0f10wm.jpg",
+            "user_name": "解剖SK",
+            "cur_mid": "5226367357815912",
+            "w": 960,
+            "h": 541,
+            "user_avatar": "https://tvax4.sinaimg.cn/crop.0.0.512.512.50/005XuxSMly8gk1vwqwe7vj30e80e8jrk.jpg?KID=imgbed,tva&Expires=1761650833&ssig=prJLObt%2FIO",
+            "hit_score_final": 91.355469,
+            "vtype": 0,
+            "video_url": "https://video.weibo.com/show?fid=1034:5226363079032838",
+            "click_rate": 0,
+            "hit_score_new": 98.925781
+          },
+          {
+            "doc_score": 4282,
+            "img_pid": "89297a98ly1i6qv8gbk9fj20qo0k0gml",
+            "scheme": "sinaweibo://video/vvs?mid=5226351041710895&multi_paragraph=1&multi_count=2",
+            "type": "v",
+            "img": "http://wx3.sinaimg.cn/middle/89297a98ly1i6qv8gbk9fj20qo0k0gml.jpg",
+            "user_name": "不做大王狠多年",
+            "cur_mid": "5226351041710895",
+            "w": 960,
+            "h": 720,
+            "user_avatar": "https://tvax1.sinaimg.cn/crop.0.0.886.886.50/89297a98ly8i3v5b1xqibj20om0omgmp.jpg?KID=imgbed,tva&Expires=1761650833&ssig=nfjrfhVUr9",
+            "hit_score_final": 80,
+            "vtype": 0,
+            "video_url": "https://video.weibo.com/show?fid=1034:5226343454146591",
+            "click_rate": 0,
+            "hit_score_new": 98.828125
+          },
+          {
+            "doc_score": 0,
+            "img_pid": "69dbddb1ly1i6qrgsygurj21hc0u0aeg",
+            "scheme": "sinaweibo://video/vvs?mid=5226330105061007&multi_paragraph=1&multi_count=0",
+            "type": "v",
+            "img": "http://wx2.sinaimg.cn/middle/69dbddb1ly1i6qrgsygurj21hc0u0aeg.jpg",
+            "user_name": "闻汤识面泡剧",
+            "cur_mid": "5226330105061007",
+            "w": 1920,
+            "h": 1080,
+            "user_avatar": "https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/69dbddb1ly8gdi7fgptdnj20u00u0wfy.jpg?KID=imgbed,tva&Expires=1761650833&ssig=OqYoAxeg0H",
+            "hit_score_final": 0,
+            "vtype": 0,
+            "video_url": "https://video.weibo.com/show?fid=1034:5226317961166891",
+            "click_rate": 0,
+            "hit_score_new": 0
+          }
+        ],
+        "type": "mediablock"
+      },
+      "share_card_multimodal": {
+        "doc_score": 0,
+        "img_pid": "69dbddb1ly1i6qrgsygurj21hc0u0aeg",
+        "scheme": "sinaweibo://video/vvs?mid=5226330105061007&multi_paragraph=1&multi_count=0",
+        "type": "v",
+        "img": "http://wx2.sinaimg.cn/middle/69dbddb1ly1i6qrgsygurj21hc0u0aeg.jpg",
+        "user_name": "闻汤识面泡剧",
+        "cur_mid": "5226330105061007",
+        "w": 1920,
+        "h": 1080,
+        "user_avatar": "https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/69dbddb1ly8gdi7fgptdnj20u00u0wfy.jpg?KID=imgbed,tva&Expires=1761650833&ssig=OqYoAxeg0H",
+        "hit_score_final": 0,
+        "vtype": 0,
+        "video_url": "https://video.weibo.com/show?fid=1034:5226317961166891",
+        "click_rate": 0,
+        "hit_score_new": 0
+      },
+      "msg_json": "{}",
+      "basemodel": "实验组10",
+      "share_text": "#入青云你很得意吧#的相关内容，来智搜看看",
+      "page_id": "232964e40128db90f363e11939745c971cceac",
+      "query": "#入青云你很得意吧#",
+      "qs_status_info": "{\"qs_r_status\":0,\"ab_lab\":{},\"qs_q_status\":0,\"qs_status\":0,\"qs_u_status\":0,\"qs_c_status\":8388608}",
+      "q_attr": {
+        "from_uid": "8264441688",
+        "from_request_id": "1761640030666"
+      },
+      "msg": "<think><br><br>嗯，用户查询的是\"入青云你很得意吧\"，看起来像是一句带有调侃性质的网络用语。从搜索结果看，这句话其实是热播剧《入青云》粉丝创造的热梗，用来表达又爱又恨的追剧情绪。<br><br>翻看这些资料，《入青云》是2025年10月播出的仙侠剧，由侯明昊和卢昱晓主演。最有趣的是这个梗的诞生过程：它原本是剧中男主纪伯宰的台词\"你很得意吧\"，结果被剧粉活学活用，变成对剧集的\"控诉\"。现在刷微博看到#入青云你很得意吧#话题下，全是观众看完大结局后的戒断反应——有人说要二刷三刷，有人调侃剧方\"害我熬夜\"，特别有共鸣感。<br><br>这部剧的数据确实很能打：优酷站内热度破万（2025年古装剧首例），云合数据单日播放量超2100万，更神奇的是男性观众占比达41%，打破仙侠剧女性主导的固有印象。观众分析认为，剧中\"无雌竞+双强人设+兵器打斗\"的设定成功吸引男性群体。<br><br>让我想想观众为什么这么上头。首先是反套路剧情：战神女主和罪囚男主从互相欺骗到双向奔赴，夹杂权谋线；其次是侯明昊演的纪伯宰，把\"疯批美人\"和深情隐忍无缝切换；卢昱晓更是一人分饰战神和舞姬，即兴改的台词\"我对你何止半分真心\"直接出圈。连制作细节都经得起推敲——金绣戏服用料讲究，打戏融合京剧武生身段。<br><br>现在剧粉自称\"云玩家\"，正疯狂二刷找伏笔。像雷劫刻字、浴池吻这些名场面，弹幕都在刷\"入青云你赢走我眼泪\"。优酷还顺势推出\"用户共营\"活动，鼓励观众复刻剧中初遇场景，这种双向奔赴的宣传方式蛮聪明的。<br><br>最触动我的是结局时的观众反应。因为主演都不是流量明星，开播时不被看好，结果靠内容逆袭。卢昱晓直播时看到破万数据眼眶发红，网友刷的\"人人都不看好你，偏偏你最争气\"这句话，或许就是对诚意创作最好的褒奖。<br><br></think><br>“入青云你很得意吧”是热播仙侠剧《入青云》的观众对剧集表达爱恨交织情绪的**热梗**，源于剧中台词，现成为粉丝调侃剧方“高热度致观众戒断”的集体共鸣。以下是综合解读：<br>### 🔥 **热梗的诞生：爱恨交织的观众情绪**<br>1. **台词来源与情感投射**  <br>   剧中男主纪伯宰（侯明昊饰）的经典台词“你很得意吧”，被观众借用并升级为对剧方的“控诉”：  <br>   > “入青云你很得意吧！看着我每天戒断难受、二刷三刷，你满意了吧？”  <br>   这种表达既是对剧集成功的认可，也是对完结后“失恋般空虚感”的幽默宣泄。```wbCustomBlock{\"type\": \"quoted\", \"index\": 5, \"data\": {\"num\": [1, 2, 31], \"version\": 2, \"quote_list\": [{\"name\": \"闻汤识面泡剧\", \"scheme\": \"sinaweibo://detail?mblogid=5226330105061007\", \"index\": 1, \"label\": \"大v\"}, {\"name\": \"解剖SK\", \"scheme\": \"sinaweibo://detail?mblogid=5226367357815912\", \"index\": 2, \"label\": \"\"}, {\"name\": \"不做大王狠多年\", \"scheme\": \"sinaweibo://detail?mblogid=5226351041710895\", \"index\": 31, \"label\": \"\"}], \"name\": \"闻汤识面泡剧\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/69dbddb1ly8gdi7fgptdnj20u00u0wfy.jpg?KID=imgbed,tva&Expires=1761650833&ssig=OqYoAxeg0H\", \"scheme\": \"sinaweibo://detail?mblogid=5226330105061007\", \"vType\": 0}}```<br><br>2. **戒断反应激发创作欲**  <br>   大结局后（2025年10月26日），观众陷入强烈戒断反应：  <br>   - 反复重温雷劫刻字、浴池吻、醉酒撒娇等名场面；```wbCustomBlock{\"type\": \"quoted\", \"index\": 7, \"data\": {\"num\": [4, 22, 33], \"version\": 2, \"quote_list\": [{\"name\": \"星冷熬\", \"scheme\": \"sinaweibo://detail?mblogid=5226366087726418\", \"index\": 33, \"label\": \"大v\"}, {\"name\": \"你看见星星了吗\", \"scheme\": \"sinaweibo://detail?mblogid=5226126790104992\", \"index\": 4, \"label\": \"\"}, {\"name\": \"新浪娱乐\", \"scheme\": \"sinaweibo://detail?mblogid=5225174744170644\", \"index\": 22, \"label\": \"\"}], \"name\": \"星冷熬\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.996.996.50/006ooCofly8gq1nzcje3aj30ro0romyx.jpg?KID=imgbed,tva&Expires=1761650833&ssig=k1D8jYxpv0\", \"scheme\": \"sinaweibo://detail?mblogid=5226366087726418\", \"vType\": 0}}```  <br>   - 挖掘前期伏笔（如纪伯宰装晕试探明意）；```wbCustomBlock{\"type\": \"quoted\", \"index\": 8, \"data\": {\"num\": [1, 2], \"version\": 2, \"quote_list\": [{\"name\": \"解剖SK\", \"scheme\": \"sinaweibo://detail?mblogid=5226367357815912\", \"index\": 2, \"label\": \"大v\"}, {\"name\": \"闻汤识面泡剧\", \"scheme\": \"sinaweibo://detail?mblogid=5226330105061007\", \"index\": 1, \"label\": \"\"}], \"name\": \"解剖SK\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.512.512.50/005XuxSMly8gk1vwqwe7vj30e80e8jrk.jpg?KID=imgbed,tva&Expires=1761650833&ssig=prJLObt%2FIO\", \"scheme\": \"sinaweibo://detail?mblogid=5226367357815912\", \"vType\": 0}}```  <br>   - 衍生“戒断文学”：“你赢走我的眼泪和时间，我心甘情愿认输”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 9, \"data\": {\"num\": [35], \"version\": 2, \"quote_list\": [{\"name\": \"Myself必殺技\", \"scheme\": \"sinaweibo://detail?mblogid=5226404155229559\", \"index\": 35, \"label\": \"\"}]}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5226330105061007&multi_paragraph=1&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/69dbddb1ly8gdi7fgptdnj20u00u0wfy.jpg?KID=imgbed,tva&Expires=1761650833&ssig=OqYoAxeg0H) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">闻汤识面泡剧</span><img src=\"http://wx2.sinaimg.cn/middle/69dbddb1ly1i6qrgsygurj21hc0u0aeg.jpg\" data-width=1080 data-height=1920></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5226367357815912&multi_paragraph=1&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.512.512.50/005XuxSMly8gk1vwqwe7vj30e80e8jrk.jpg?KID=imgbed,tva&Expires=1761650833&ssig=prJLObt%2FIO) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">解剖SK</span><img src=\"http://wx1.sinaimg.cn/middle/005XuxSMly1i6qx41cmopj30qo0f10wm.jpg\" data-width=541 data-height=960></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5226351041710895&multi_paragraph=1&multi_count=2\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.886.886.50/89297a98ly8i3v5b1xqibj20om0omgmp.jpg?KID=imgbed,tva&Expires=1761650833&ssig=nfjrfhVUr9) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">不做大王狠多年</span><img src=\"http://wx3.sinaimg.cn/middle/89297a98ly1i6qv8gbk9fj20qo0k0gml.jpg\" data-width=720 data-height=960></div><div data-type=\"v\" data-scheme=\"sinaweibo://multimedia?mix_mid=5226366087726418&mix_index=0&multi_paragraph=1&multi_count=3\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.996.996.50/006ooCofly8gq1nzcje3aj30ro0romyx.jpg?KID=imgbed,tva&Expires=1761650833&ssig=k1D8jYxpv0) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">星冷熬</span><img src=\"http://wx4.sinaimg.cn/middle/006ooCofly1i6qwrheyfhj31hc0u0wfj.jpg\" data-width=1080 data-height=1920></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5226126790104992&multi_paragraph=1&multi_count=4\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.449.449.50/006JzC9Xly8hdeoofq4j9j30ch0chq36.jpg?KID=imgbed,tva&Expires=1761650833&ssig=JIta9v27jh) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">你看见星星了吗</span><img src=\"http://wx1.sinaimg.cn/middle/006JzC9Xgy1i6q5h137l8j30qo0f10x4.jpg\" data-width=541 data-height=960></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5225174744170644&multi_paragraph=1&multi_count=5\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.180.180.50/001Na93Ily8i0zphqtgfnj6050050jrc02.jpg?KID=imgbed,tva&Expires=1761650833&ssig=XAogsRM9Ml) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">新浪娱乐</span><img src=\"http://wx3.sinaimg.cn/middle/001Na93Ily1i6n4441vznj61c00pk75m02.jpg\" data-width=920 data-height=1728></div></media-block><br>### 💯 **剧集“得意”的资本：数据与口碑双爆**<br>1. **现象级热度表现**  <br>   - **优酷站内破万**：10月26日大结局热度达10036，创2025年优酷古装剧纪录；```wbCustomBlock{\"type\": \"quoted\", \"index\": 13, \"data\": {\"num\": [41], \"version\": 2, \"quote_list\": [{\"name\": \"季风号苏打\", \"scheme\": \"sinaweibo://detail?mblogid=5226085341989258\", \"index\": 41, \"label\": \"大v\"}], \"name\": \"季风号苏打\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.500.500.50/006IQA9ply8hc1m5eh26hj30dw0dwjrt.jpg?KID=imgbed,tva&Expires=1761650833&ssig=8zEZsZwo8t\", \"scheme\": \"sinaweibo://detail?mblogid=5226085341989258\", \"vType\": 0}}```  <br>   - **全网播放量破12亿**：云合数据单日有效播放超2100万，登顶全舆情热度榜；```wbCustomBlock{\"type\": \"quoted\", \"index\": 14, \"data\": {\"num\": [11, 41], \"version\": 2, \"quote_list\": [{\"name\": \"小熊糖糕\", \"scheme\": \"sinaweibo://detail?mblogid=5225672664683155\", \"index\": 11, \"label\": \"大v\"}, {\"name\": \"季风号苏打\", \"scheme\": \"sinaweibo://detail?mblogid=5226085341989258\", \"index\": 41, \"label\": \"\"}], \"name\": \"小熊糖糕\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.913.913.50/647a6380ly8hwut23q3q3j20pd0pd3zz.jpg?KID=imgbed,tva&Expires=1761650833&ssig=SxL2rIMhu5\", \"scheme\": \"sinaweibo://detail?mblogid=5225672664683155\", \"vType\": 0}}```  <br>   - **21个榜单TOP1**：覆盖猫眼、抖音剧集榜等，海外登陆Netflix多国热播。```wbCustomBlock{\"type\": \"quoted\", \"index\": 15, \"data\": {\"num\": [13, 44], \"version\": 2, \"quote_list\": [{\"name\": \"新加坡小笔尖\", \"scheme\": \"sinaweibo://detail?mblogid=5225677227823815\", \"index\": 13, \"label\": \"大v\"}, {\"name\": \"裴家好赏沿途之景\", \"scheme\": \"sinaweibo://detail?mblogid=5225930013544421\", \"index\": 44, \"label\": \"\"}], \"name\": \"新加坡小笔尖\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.511.511.50/006xMIGRly8hvtmctyc4pj30e70e7aao.jpg?KID=imgbed,tva&Expires=1761650833&ssig=MFBABIGWEf\", \"scheme\": \"sinaweibo://detail?mblogid=5225677227823815\", \"vType\": 0}}```<br><br>2. **破圈层受众覆盖**  <br>   - **男性观众占比41%**：打破仙侠剧“女性向”标签，因“无雌竞+势均力敌爱情+兵器打斗爽感”吸引下沉市场；```wbCustomBlock{\"type\": \"quoted\", \"index\": 17, \"data\": {\"num\": [8], \"version\": 2, \"quote_list\": [{\"name\": \"说倾城\", \"scheme\": \"sinaweibo://detail?mblogid=5223565520799897\", \"index\": 8, \"label\": \"大v\"}], \"name\": \"说倾城\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.511.511.50/007aAoUaly8huf9dd1t08j30e70e7t92.jpg?KID=imgbed,tva&Expires=1761650833&ssig=8akmUi1u2k\", \"scheme\": \"sinaweibo://detail?mblogid=5223565520799897\", \"vType\": 0}}```  <br>   - **高口碑认证**：猫眼评分8.7，知乎推荐度91%，被赞“仙侠版史密斯夫妇”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 18, \"data\": {\"num\": [8], \"version\": 2, \"quote_list\": [{\"name\": \"说倾城\", \"scheme\": \"sinaweibo://detail?mblogid=5223565520799897\", \"index\": 8, \"label\": \"\"}]}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://multimedia?mix_mid=5223565520799897&mix_index=0&multi_paragraph=2&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.511.511.50/007aAoUaly8huf9dd1t08j30e70e7t92.jpg?KID=imgbed,tva&Expires=1761650833&ssig=8akmUi1u2k) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">说倾城</span><img src=\"http://wx2.sinaimg.cn/middle/007aAoUaly1i6hzbigegxj30qo0k0gmp.jpg\" data-width=720 data-height=960></div></media-block><br>### ❤️ **观众上头的核心原因**<br>1. **反套路人设与高能剧情**  <br>   - **双强互骗到双向奔赴**：战神女主明意（卢昱晓饰）伪装舞姬接近罪囚男主纪伯宰，从试探到携手揭露阴谋；  <br>   - **名场面密集出圈**：  <br>     - 雷劫刻字：悲壮感与东方美学结合；```wbCustomBlock{\"type\": \"quoted\", \"index\": 24, \"data\": {\"num\": [14], \"version\": 2, \"quote_list\": [{\"name\": \"来看娱乐\", \"scheme\": \"sinaweibo://detail?mblogid=5223827865862586\", \"index\": 14, \"label\": \"大v\"}], \"name\": \"来看娱乐\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/7897b8cdly8gdi2php1cij20u00u0wfs.jpg?KID=imgbed,tva&Expires=1761650833&ssig=gVRSqBWt7U\", \"scheme\": \"sinaweibo://detail?mblogid=5223827865862586\", \"vType\": 0}}```  <br>     - 纪伯宰醉酒撒娇：“喊我”“爱我”成媚术天花板；```wbCustomBlock{\"type\": \"quoted\", \"index\": 25, \"data\": {\"num\": [4, 22], \"version\": 2, \"quote_list\": [{\"name\": \"你看见星星了吗\", \"scheme\": \"sinaweibo://detail?mblogid=5226126790104992\", \"index\": 4, \"label\": \"\"}, {\"name\": \"新浪娱乐\", \"scheme\": \"sinaweibo://detail?mblogid=5225174744170644\", \"index\": 22, \"label\": \"\"}]}}```  <br>     - 修罗场三人对峙“100个心眼子”喜剧感拉满。```wbCustomBlock{\"type\": \"quoted\", \"index\": 26, \"data\": {\"num\": [21], \"version\": 2, \"quote_list\": [{\"name\": \"北岛\", \"scheme\": \"sinaweibo://detail?mblogid=5220159440816110\", \"index\": 21, \"label\": \"大v\"}], \"name\": \"北岛\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.750.750.50/006MaaAOly8ga5r1705c4j30ku0ku3z3.jpg?KID=imgbed,tva&Expires=1761650833&ssig=UESXJcoryF\", \"scheme\": \"sinaweibo://detail?mblogid=5220159440816110\", \"vType\": 0}}```<br><br>2. **演员与角色双向成就**  <br>   - **侯明昊“剧抛脸”演技**：红衣邪魅与隐忍深情无缝切换，凭此剧成95生首位优酷“三部一番破万”演员；```wbCustomBlock{\"type\": \"quoted\", \"index\": 28, \"data\": {\"num\": [12, 16], \"version\": 2, \"quote_list\": [{\"name\": \"顶流皇后\", \"scheme\": \"sinaweibo://detail?mblogid=5225426179850639\", \"index\": 12, \"label\": \"大v\"}, {\"name\": \"手心里的橘色星球\", \"scheme\": \"sinaweibo://detail?mblogid=5224489983938034\", \"index\": 16, \"label\": \"\"}], \"name\": \"顶流皇后\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.512.512.50/008tAxGqly8hwrmrifdbwj30e80e8js9.jpg?KID=imgbed,tva&Expires=1761650833&ssig=4S%2FSZuK9%2Bf\", \"scheme\": \"sinaweibo://detail?mblogid=5225426179850639\", \"vType\": 0}}```  <br>   - **卢昱晓灵气突破**：即兴台词“我对你何止半分真心”成金句，哭戏被赞“情感上位教科书”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 29, \"data\": {\"num\": [9, 14, 43], \"version\": 2, \"quote_list\": [{\"name\": \"竹浦归菱闲\", \"scheme\": \"sinaweibo://detail?mblogid=5226107001376938\", \"index\": 9, \"label\": \"\"}, {\"name\": \"来看娱乐\", \"scheme\": \"sinaweibo://detail?mblogid=5223827865862586\", \"index\": 14, \"label\": \"\"}, {\"name\": \"深埋雨季\", \"scheme\": \"sinaweibo://detail?mblogid=5226293458372574\", \"index\": 43, \"label\": \"\"}], \"name\": \"竹浦归菱闲\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.404.404.50/6a3da681ly8hjiekpoop1j20b80b8gls.jpg?KID=imgbed,tva&Expires=1761650833&ssig=%2BlXe3CnV75\", \"scheme\": \"sinaweibo://detail?mblogid=5226107001376938\", \"vType\": 0}}```<br><br>3. **制作细节显诚意**  <br>   - **服化道非遗工艺**：纪伯宰战甲嵌金属刺绣，明意红衣舞裙单件金线用量近3两；  <br>   - **实景拍摄占比70%**：敦煌沙漠、雪山实景替代绿幕，打戏融合京剧武生身段。<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5223827865862586&multi_paragraph=3&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/7897b8cdly8gdi2php1cij20u00u0wfs.jpg?KID=imgbed,tva&Expires=1761650833&ssig=gVRSqBWt7U) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">来看娱乐</span><img src=\"http://wx2.sinaimg.cn/middle/7897b8cdly1i6itey803dj21hc0u00ur.jpg\" data-width=1080 data-height=1920></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5224489983938034&multi_paragraph=3&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/7f19a3b7ly8i1smdxt9w0j20u00u0n09.jpg?KID=imgbed,tva&Expires=1761650833&ssig=WNWpNor%2B%2B%2F) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">手心里的橘色星球</span><img src=\"http://wx2.sinaimg.cn/middle/7f19a3b7ly1i6kxhmxjntj20u0140t9m.jpg\" data-width=1440 data-height=1080></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5226107001376938&multi_paragraph=3&multi_count=2\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.404.404.50/6a3da681ly8hjiekpoop1j20b80b8gls.jpg?KID=imgbed,tva&Expires=1761650833&ssig=%2BlXe3CnV75) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">竹浦归菱闲</span><img src=\"http://wx2.sinaimg.cn/middle/6a3da681gy1i6q37kyzxfj20qo0f1jvj.jpg\" data-width=541 data-height=960></div><div data-type=\"v\" data-scheme=\"sinaweibo://multimedia?mix_mid=5226293458372574&mix_index=0&multi_paragraph=3&multi_count=3\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/007FnrsNly8i69a9pppn3j30u00u00w6.jpg?KID=imgbed,tva&Expires=1761650833&ssig=tV2k%2FTiAga) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">深埋雨季</span><img src=\"http://wx1.sinaimg.cn/middle/007FnrsNly1i6qomb9fo1j30u01hc406.jpg\" data-width=1920 data-height=1080></div></media-block><br>### 🌟 **观众行动：从追剧到“共创”**<br>1. **二创推动热度裂变**  <br>   - 抖音主话题#入青云播放量超63亿，纪伯宰“二字诀”媚术（“骗我”“爱我”）掀模仿潮；```wbCustomBlock{\"type\": \"quoted\", \"index\": 36, \"data\": {\"num\": [20, 42], \"version\": 2, \"quote_list\": [{\"name\": \"追星蜀黍\", \"scheme\": \"sinaweibo://detail?mblogid=5225295919189068\", \"index\": 20, \"label\": \"\"}, {\"name\": \"是棵香菜呢\", \"scheme\": \"sinaweibo://detail?mblogid=5226158259440478\", \"index\": 42, \"label\": \"\"}], \"name\": \"追星蜀黍\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.750.750.50/50083478ly8i5xv6imt05j20ku0kuabe.jpg?KID=imgbed,tva&Expires=1761650833&ssig=SdeWAggE5V\", \"scheme\": \"sinaweibo://detail?mblogid=5225295919189068\", \"vType\": 0}}```  <br>   - 副CP公主×权臣的“离婚感拉扯”成二创热点。<br><br>2. **剧粉化身“云玩家”**  <br>   - 自发组织“云包场”活动，累计投放超2万会员助力热度冲刺；```wbCustomBlock{\"type\": \"quoted\", \"index\": 39, \"data\": {\"num\": [44], \"version\": 2, \"quote_list\": [{\"name\": \"裴家好赏沿途之景\", \"scheme\": \"sinaweibo://detail?mblogid=5225930013544421\", \"index\": 44, \"label\": \"\"}]}}```  <br>   - 优酷发起“用户共营”宣发：复刻初遇名场面、征集戒断故事。```wbCustomBlock{\"type\": \"quoted\", \"index\": 40, \"data\": {\"num\": [13, 14], \"version\": 2, \"quote_list\": [{\"name\": \"新加坡小笔尖\", \"scheme\": \"sinaweibo://detail?mblogid=5225677227823815\", \"index\": 13, \"label\": \"\"}, {\"name\": \"来看娱乐\", \"scheme\": \"sinaweibo://detail?mblogid=5223827865862586\", \"index\": 14, \"label\": \"\"}]}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5226158259440478&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=4&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.1024.1024.50/008aMQj4ly8i2ucmc5ncaj30sg0sg3zd.jpg?KID=imgbed,tva&Expires=1761650833&ssig=1brYMdUrXk) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">是棵香菜呢</span><img src=\"http://wx3.sinaimg.cn/middle/008aMQj4gy1i6q92bzrc3j30ws1rk1f0.jpg\" data-width=2288 data-height=1180></div></media-block><br>### 💎 **总结：为何观众甘心“认输”？**<br>“入青云你很得意吧”本质是观众对**诚意之作的至高褒奖**。当行业迷信流量时，它以反套路剧情、演技高光与审美在线，让观众自愿成为其成功的“共谋者”。正如网友感叹：  <br>> “你让我笑是因为你，哭也是因为你——但这场博弈，我心甘情愿认输。”```wbCustomBlock{\"type\": \"quoted\", \"index\": 43, \"data\": {\"num\": [1, 36], \"version\": 2, \"quote_list\": [{\"name\": \"闻汤识面泡剧\", \"scheme\": \"sinaweibo://detail?mblogid=5226330105061007\", \"index\": 1, \"label\": \"\"}, {\"name\": \"-是璐不si露-\", \"scheme\": \"sinaweibo://detail?mblogid=5226039875999059\", \"index\": 36, \"label\": \"\"}]}}```<br>",
+      "profile_image_url": "",
+      "top_quote_list": {},
+      "analysis_time": 1761640130
+    }
+  },
+  "links": [
+    "sinaweibo://detail?mblogid=5226330105061007",
+    "sinaweibo://detail?mblogid=5226367357815912",
+    "sinaweibo://detail?mblogid=5226366896181156",
+    "sinaweibo://detail?mblogid=5226126790104992",
+    "sinaweibo://detail?mblogid=5226366771663456",
+    "sinaweibo://detail?mblogid=5226351587495737",
+    "sinaweibo://detail?mblogid=5226404591699094",
+    "sinaweibo://detail?mblogid=5223565520799897",
+    "sinaweibo://detail?mblogid=5226107001376938",
+    "sinaweibo://detail?mblogid=5226398533028145",
+    "sinaweibo://detail?mblogid=5225672664683155",
+    "sinaweibo://detail?mblogid=5225426179850639",
+    "sinaweibo://detail?mblogid=5225677227823815",
+    "sinaweibo://detail?mblogid=5223827865862586",
+    "sinaweibo://detail?mblogid=5222859825219310",
+    "sinaweibo://detail?mblogid=5224489983938034",
+    "sinaweibo://detail?mblogid=5221814374761432",
+    "sinaweibo://detail?mblogid=5224059391444612",
+    "sinaweibo://detail?mblogid=5222032669411778",
+    "sinaweibo://detail?mblogid=5225295919189068",
+    "sinaweibo://detail?mblogid=5220159440816110",
+    "sinaweibo://detail?mblogid=5225174744170644",
+    "https://baijiahao.baidu.com/s?id=1846634552218863932",
+    "https://baijiahao.baidu.com/s?id=1846508172558366857",
+    "https://m.sohu.com/a/947767784_120674124/?pvid=000115_3w_a",
+    "https://m.toutiao.com/a7565189475203973666/",
+    "https://m.toutiao.com/a7563266692378296874/",
+    "historyweibo://5226330105061007",
+    "sinaweibo://detail?mblogid=5226367207870080",
+    "sinaweibo://detail?mblogid=5226461139307583",
+    "sinaweibo://detail?mblogid=5226351041710895",
+    "sinaweibo://detail?mblogid=5226365047540274",
+    "sinaweibo://detail?mblogid=5226366087726418",
+    "sinaweibo://detail?mblogid=5226368686097360",
+    "sinaweibo://detail?mblogid=5226404155229559",
+    "sinaweibo://detail?mblogid=5226039875999059",
+    "sinaweibo://detail?mblogid=5226070107227519",
+    "sinaweibo://detail?mblogid=5226662158926205",
+    "sinaweibo://detail?mblogid=5226369597834448",
+    "sinaweibo://detail?mblogid=5226614574547441",
+    "sinaweibo://detail?mblogid=5226085341989258",
+    "sinaweibo://detail?mblogid=5226158259440478",
+    "sinaweibo://detail?mblogid=5226293458372574",
+    "sinaweibo://detail?mblogid=5225930013544421",
+    "https://m.toutiao.com/a7563288787833405967/",
+    "https://m.toutiao.com/a1846508706044947/"
+  ],
+  "media": [
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/69dbddb1ly1i6qrgsygurj21hc0u0aeg.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/69dbddb1ly1i6qrgsygurj21hc0u0aeg.jpg",
+      "alt": "闻汤识面泡剧",
+      "width": 1080,
+      "height": 1920,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/69dbddb1ly1i6qrgsygurj21hc0u0aeg.jpg"
+      ],
+      "user": "闻汤识面泡剧"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/005XuxSMly1i6qx41cmopj30qo0f10wm.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/005XuxSMly1i6qx41cmopj30qo0f10wm.jpg",
+      "alt": "解剖SK",
+      "width": 541,
+      "height": 960,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/005XuxSMly1i6qx41cmopj30qo0f10wm.jpg"
+      ],
+      "user": "解剖SK"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/89297a98ly1i6qv8gbk9fj20qo0k0gml.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/89297a98ly1i6qv8gbk9fj20qo0k0gml.jpg",
+      "alt": "不做大王狠多年",
+      "width": 720,
+      "height": 960,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/89297a98ly1i6qv8gbk9fj20qo0k0gml.jpg"
+      ],
+      "user": "不做大王狠多年"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/006ooCofly1i6qwrheyfhj31hc0u0wfj.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/006ooCofly1i6qwrheyfhj31hc0u0wfj.jpg",
+      "alt": "星冷熬",
+      "width": 1080,
+      "height": 1920,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx4.sinaimg.cn/large/006ooCofly1i6qwrheyfhj31hc0u0wfj.jpg"
+      ],
+      "user": "星冷熬"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/006JzC9Xgy1i6q5h137l8j30qo0f10x4.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/006JzC9Xgy1i6q5h137l8j30qo0f10x4.jpg",
+      "alt": "你看见星星了吗",
+      "width": 541,
+      "height": 960,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/006JzC9Xgy1i6q5h137l8j30qo0f10x4.jpg"
+      ],
+      "user": "你看见星星了吗"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/001Na93Ily1i6n4441vznj61c00pk75m02.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/001Na93Ily1i6n4441vznj61c00pk75m02.jpg",
+      "alt": "新浪娱乐",
+      "width": 920,
+      "height": 1728,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/001Na93Ily1i6n4441vznj61c00pk75m02.jpg"
+      ],
+      "user": "新浪娱乐"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/007aAoUaly1i6hzbigegxj30qo0k0gmp.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/007aAoUaly1i6hzbigegxj30qo0k0gmp.jpg",
+      "alt": "说倾城",
+      "width": 720,
+      "height": 960,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/007aAoUaly1i6hzbigegxj30qo0k0gmp.jpg"
+      ],
+      "user": "说倾城"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/7897b8cdly1i6itey803dj21hc0u00ur.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/7897b8cdly1i6itey803dj21hc0u00ur.jpg",
+      "alt": "来看娱乐",
+      "width": 1080,
+      "height": 1920,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/7897b8cdly1i6itey803dj21hc0u00ur.jpg"
+      ],
+      "user": "来看娱乐"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/7f19a3b7ly1i6kxhmxjntj20u0140t9m.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/7f19a3b7ly1i6kxhmxjntj20u0140t9m.jpg",
+      "alt": "手心里的橘色星球",
+      "width": 1440,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/7f19a3b7ly1i6kxhmxjntj20u0140t9m.jpg"
+      ],
+      "user": "手心里的橘色星球"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/6a3da681gy1i6q37kyzxfj20qo0f1jvj.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/6a3da681gy1i6q37kyzxfj20qo0f1jvj.jpg",
+      "alt": "竹浦归菱闲",
+      "width": 541,
+      "height": 960,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/6a3da681gy1i6q37kyzxfj20qo0f1jvj.jpg"
+      ],
+      "user": "竹浦归菱闲"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/007FnrsNly1i6qomb9fo1j30u01hc406.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/007FnrsNly1i6qomb9fo1j30u01hc406.jpg",
+      "alt": "深埋雨季",
+      "width": 1920,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx4.sinaimg.cn/large/007FnrsNly1i6qomb9fo1j30u01hc406.jpg"
+      ],
+      "user": "深埋雨季"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/008aMQj4gy1i6q92bzrc3j30ws1rk1f0.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/008aMQj4gy1i6q92bzrc3j30ws1rk1f0.jpg",
+      "alt": "是棵香菜呢",
+      "width": 2288,
+      "height": 1180,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/008aMQj4gy1i6q92bzrc3j30ws1rk1f0.jpg"
+      ],
+      "user": "是棵香菜呢"
+    }
+  ],
+  "html_path": "data/aicard/hourly/2025-10-27/14/topic-9ee206d3.html"
+}

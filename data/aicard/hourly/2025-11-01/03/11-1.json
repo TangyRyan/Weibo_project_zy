@@ -1,0 +1,400 @@
+{
+  "meta": {
+    "query": "#11月第1天#",
+    "status_code": 200,
+    "fetched_at": "2025-11-01T03:23:38+08:00",
+    "response": {
+      "reference_num": 44,
+      "scheme": "sinaweibo://cardlist?containerid=100103type%3D225%26q%3D%2311%E6%9C%88%E7%AC%AC1%E5%A4%A9%23%26t%3D&extparam=ai_model%3Ddeepseek%26ori_ai_title%3D%E5%8F%82%E8%80%83%E5%8D%9A%E6%96%87%26material_version%3D1761938160",
+      "link_list": [
+        "sinaweibo://detail?mblogid=5227960605085850",
+        "sinaweibo://detail?mblogid=5227942872351301",
+        "sinaweibo://detail?mblogid=5227493860052892",
+        "sinaweibo://detail?mblogid=5227552403881998",
+        "sinaweibo://detail?mblogid=5227900208677363",
+        "sinaweibo://detail?mblogid=5227910341598121",
+        "sinaweibo://detail?mblogid=5227937953745015",
+        "sinaweibo://detail?mblogid=5227792730164974",
+        "sinaweibo://detail?mblogid=5225648407970490",
+        "https://baike.baidu.com/item/%E5%8D%81%E4%B8%80%E5%A4%A9%E5%8D%81%E4%B8%80%E5%A4%9C1?fromModule=search-result_lemma",
+        "broadsocial_res://",
+        "historyweibo://5227960605085850",
+        "historyweibo://5106304154600794",
+        "historyweibo://5095667900875288",
+        "sinaweibo://detail?mblogid=5227968357206620",
+        "sinaweibo://detail?mblogid=5227900204221269",
+        "sinaweibo://detail?mblogid=5227930495488869",
+        "sinaweibo://detail?mblogid=5227965101116720",
+        "sinaweibo://detail?mblogid=5227055212136849",
+        "sinaweibo://detail?mblogid=5227972593452624",
+        "sinaweibo://detail?mblogid=5227856676000301",
+        "sinaweibo://detail?mblogid=5227089872817696",
+        "sinaweibo://detail?mblogid=5227041152304463",
+        "sinaweibo://detail?mblogid=5228006685803400",
+        "sinaweibo://detail?mblogid=5228003934078572",
+        "sinaweibo://detail?mblogid=5228003647031114",
+        "sinaweibo://detail?mblogid=5228003489743581",
+        "sinaweibo://detail?mblogid=5228001631404442",
+        "sinaweibo://detail?mblogid=5228001448951937",
+        "sinaweibo://detail?mblogid=5227999525340527",
+        "sinaweibo://detail?mblogid=5227997536979032",
+        "sinaweibo://detail?mblogid=5227996636251130",
+        "sinaweibo://detail?mblogid=5227995197081097",
+        "sinaweibo://detail?mblogid=5227993859097892",
+        "sinaweibo://detail?mblogid=5227979101701100",
+        "sinaweibo://detail?mblogid=5227976934298084",
+        "sinaweibo://detail?mblogid=5227975171903499",
+        "sinaweibo://detail?mblogid=5227974548521954",
+        "sinaweibo://detail?mblogid=5227553275249785",
+        "sinaweibo://detail?mblogid=5227862450766516",
+        "sinaweibo://detail?mblogid=5106424715675060",
+        "sinaweibo://detail?mblogid=5227963715160906",
+        "sinaweibo://detail?mblogid=5227918357431879",
+        "sinaweibo://detail?mblogid=5227976029113731",
+        "sinaweibo://detail?mblogid=5227794042717018",
+        "sinaweibo://detail?mblogid=5227905484588727",
+        "sinaweibo://detail?mblogid=5227870009166207",
+        "sinaweibo://detail?mblogid=5227925047609875",
+        "sinaweibo://detail?mblogid=5225245044640552"
+      ],
+      "reliable_tips": "{\"gold_orange_v_mids\": [\"5227493860052892\", \"5227792730164974\", \"5227794042717018\", \"5227930495488869\", \"5227910341598121\", \"5227972593452624\", \"5227055212136849\", \"5227089872817696\", \"5228001448951937\", \"5227041152304463\", \"5227968357206620\", \"5227993859097892\", \"5227937953745015\", \"5227905484588727\", \"5227918357431879\", \"5227900208677363\", \"5227965101116720\", \"5227856676000301\", \"5228003934078572\", \"5227925047609875\"], \"gold_orange_v_ratio\": \"45%\", \"media_mids\": [\"5227942872351301\", \"5227900204221269\", \"5227960605085850\"], \"media_ratio\": \"7%\", \"verified_mids\": [\"5227552403881998\", \"5225245044640552\", \"5225648407970490\", \"5227862450766516\"], \"verified_ratio\": \"9%\", \"normal_mids\": [\"5227996636251130\", \"5227997536979032\", \"5227870009166207\", \"5227553275249785\", \"5228006685803400\", \"5228001631404442\", \"5227999525340527\", \"5228003647031114\", \"5228003489743581\", \"5227995197081097\", \"5227979101701100\", \"5227976934298084\", \"5227975171903499\", \"5227974548521954\", \"5106424715675060\", \"5227963715160906\", \"5227976029113731\"], \"normal_ratio\": \"39%\", \"ref_mid_rank\": {\"5227493860052892\": {\"rank\": 3}, \"5227552403881998\": {\"rank\": 4}, \"5227792730164974\": {\"rank\": 8}, \"5225245044640552\": {\"rank\": 49}, \"5225648407970490\": {\"rank\": 9}, \"5227794042717018\": {\"rank\": 45}, \"5227942872351301\": {\"rank\": 2}, \"5227900204221269\": {\"rank\": 16}, \"5227930495488869\": {\"rank\": 17}, \"5227910341598121\": {\"rank\": 6}, \"5227996636251130\": {\"rank\": 32}, \"5227972593452624\": {\"rank\": 20}, \"5227997536979032\": {\"rank\": 31}, \"5227055212136849\": {\"rank\": 19}, \"5227089872817696\": {\"rank\": 22}, \"5228001448951937\": {\"rank\": 29}, \"5227041152304463\": {\"rank\": 23}, \"5227870009166207\": {\"rank\": 47}, \"5227553275249785\": {\"rank\": 39}, \"5227862450766516\": {\"rank\": 40}, \"5227968357206620\": {\"rank\": 15}, \"5227993859097892\": {\"rank\": 34}, \"5228006685803400\": {\"rank\": 24}, \"5228001631404442\": {\"rank\": 28}, \"5227999525340527\": {\"rank\": 30}, \"5227937953745015\": {\"rank\": 7}, \"5227905484588727\": {\"rank\": 46}, \"5227918357431879\": {\"rank\": 43}, \"5227960605085850\": {\"rank\": 1}, \"5227900208677363\": {\"rank\": 5}, \"5227965101116720\": {\"rank\": 18}, \"5227856676000301\": {\"rank\": 21}, \"5228003934078572\": {\"rank\": 25}, \"5228003647031114\": {\"rank\": 26}, \"5228003489743581\": {\"rank\": 27}, \"5227995197081097\": {\"rank\": 33}, \"5227979101701100\": {\"rank\": 35}, \"5227976934298084\": {\"rank\": 36}, \"5227975171903499\": {\"rank\": 37}, \"5227974548521954\": {\"rank\": 38}, \"5106424715675060\": {\"rank\": 41}, \"5227963715160906\": {\"rank\": 42}, \"5227976029113731\": {\"rank\": 44}, \"5227925047609875\": {\"rank\": 48}}}",
+      "top_quote_list": {},
+      "card_multimodal": {
+        "type": "mediablock",
+        "data": [
+          {
+            "user_avatar": "https://tvax4.sinaimg.cn/crop.0.0.600.600.50/006yllNVly8h8wegdfz5fj30go0gojru.jpg?KID=imgbed,tva&Expires=1761948960&ssig=1e8%2BRGWZ6j",
+            "scheme": "sinaweibo://multimedia?mix_mid=5227552403881998&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=0",
+            "video_url": "",
+            "hit_score_new": 0,
+            "doc_score": 5437,
+            "img_pid": "006yllNVgy1i6up9343h3j30v80xu7qb",
+            "click_rate": 0.32511101010454,
+            "w": 1124,
+            "vtype": 3,
+            "type": "p",
+            "h": 1218,
+            "cur_mid": "5227552403881998",
+            "img": "http://wx3.sinaimg.cn/middle/006yllNVgy1i6up9343h3j30v80xu7qb.jpg",
+            "user_name": "梨视频",
+            "hit_score_final": 80
+          },
+          {
+            "user_avatar": "https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/001SzPzIly8glt0lw5p9tj60u00u0jsn02.jpg?KID=imgbed,tva&Expires=1761948960&ssig=ZwQ%2FxmLWaX",
+            "scheme": "sinaweibo://multimedia?mix_mid=5227493860052892&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=1",
+            "video_url": "",
+            "hit_score_new": 0,
+            "doc_score": 5779,
+            "img_pid": "001SzPzIly1i6uigz9tgoj60zu20lhdu02",
+            "click_rate": 0.076477084483711,
+            "w": 1290,
+            "vtype": 0,
+            "type": "p",
+            "h": 2613,
+            "cur_mid": "5227493860052892",
+            "img": "http://wx2.sinaimg.cn/middle/001SzPzIly1i6uigz9tgoj60zu20lhdu02.jpg",
+            "user_name": "舒淇",
+            "hit_score_final": 80
+          },
+          {
+            "user_avatar": "https://tvax3.sinaimg.cn/crop.6.6.484.484.50/74f47cbdly8fuqw0rvx6jj20dw0dwtcg.jpg?KID=imgbed,tva&Expires=1761948960&ssig=aLweJfswI7",
+            "scheme": "sinaweibo://video/vvs?mid=5225648407970490&multi_paragraph=1&multi_count=2",
+            "video_url": "https://video.weibo.com/show?fid=1034:5225648256647171",
+            "hit_score_new": 0,
+            "doc_score": 2987,
+            "img_pid": "74f47cbdly1i6omj480mbj20mh0u0n0e",
+            "click_rate": 0.041666666666667,
+            "w": 809,
+            "vtype": 3,
+            "type": "v",
+            "h": 1080,
+            "cur_mid": "5225648407970490",
+            "img": "http://wx2.sinaimg.cn/middle/74f47cbdly1i6omj480mbj20mh0u0n0e.jpg",
+            "user_name": "IN兰州",
+            "hit_score_final": 89
+          },
+          {
+            "user_avatar": "https://tvax4.sinaimg.cn/crop.0.0.600.600.50/006yllNVly8h8wegdfz5fj30go0gojru.jpg?KID=imgbed,tva&Expires=1761948960&ssig=1e8%2BRGWZ6j",
+            "scheme": "sinaweibo://multimedia?mix_mid=5227552403881998&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=0",
+            "video_url": "",
+            "hit_score_new": 0,
+            "doc_score": 5437,
+            "img_pid": "006yllNVgy1i6up9343h3j30v80xu7qb",
+            "click_rate": 0.32511101010454,
+            "w": 1124,
+            "vtype": 3,
+            "type": "p",
+            "h": 1218,
+            "cur_mid": "5227552403881998",
+            "img": "http://wx3.sinaimg.cn/middle/006yllNVgy1i6up9343h3j30v80xu7qb.jpg",
+            "user_name": "梨视频",
+            "hit_score_final": 80
+          }
+        ]
+      },
+      "page_id": "232964bbd834ee7abc50f47acf981b11cfc9a8",
+      "abtest_info": {
+        "chat_entrance": 1
+      },
+      "basemodel": "实验组7",
+      "chat_status_stage": 1,
+      "loop_times": 200,
+      "news_analyze": {},
+      "short_url": "http://t.cn/AX7sxwBQ",
+      "analysis_time": 1761938393,
+      "wenda": {
+        "forward_gen": 0
+      },
+      "query_category": "Ip",
+      "share_text": "#11月第1天#的相关内容，来智搜看看",
+      "qs_status_info": "{\"qs_u_status\":0,\"qs_status\":0,\"qs_q_status\":0,\"qs_c_status\":8388608,\"qs_r_status\":0,\"ab_lab\":{}}",
+      "unify_md5": "e97e7ec8d3015ed1d9a95977b9cf2a8a",
+      "current_time": 1761938618,
+      "profile_image_url": "",
+      "ab_suffix": "default",
+      "ext_show": {},
+      "msg": "<think><br>嗯，用户搜索的是\"11月第1天\"，从搜索结果看今天就是2025年11月1日。我需要整理所有相关信息并分门别类呈现。<br><br>首先看时效性强的信息。影视方面有三条重要动态：舒淇导演的《女孩》今天全国上映，马天宇的《三人行》中午12点开播，还有《水龙吟》在韩国同步播出。民生政策方面，兰州今天开始供暖，全国范围实施新车数字化上牌。<br><br>生活类内容很丰富。人民日报的30件冬日小事打卡活动设计得很温馨，从做书签到写信给春天的自己，每天都有仪式感。星座运势和玄学提醒很多，但要注意结果11专门澄清了\"白虎日\"是错误说法，这点需要特别提示。<br><br>很多普通用户在今天表达情感：有人感慨时间飞逝，有人庆祝恋爱纪念日，还有人为工作焦虑失眠。宝藏女孩等账号提供了很多朋友圈文案灵感。<br><br>时间提醒类内容值得关注。央视频等账号强调2025年仅剩61天，花生十三的国考课程今天截止报名，鱼头星星的新歌凌晨上线。<br><br>最后是文化产品信息。《BEST STAGE》11月号发行，万代模型公布新品月历，不过这些属于周边信息。<br><br>整理下来，决定分成五个板块来呈现：今日重点事件放在最前面，接着是生活指南、时间提醒、情感表达，最后加注意事项。影视和民生政策需要强调具体时间，比如《女孩》的上映时间和《三人行》的开播时间。对于玄学内容会标注风险提示，直接用结果11的辟谣信息。<br><br>在排版上准备用醒目的emoji和分隔线，但引用编号要严格对应。比如舒淇电影的信息来源是3和4，新车政策是45，星座运势是5和20等。避免简单堆砌账号内容，比如不具体提\"@央视新闻\"，而是概括为\"媒体提醒\"。<br><br></think><br>以下是2025年11月1日的重要信息和热点内容整理，结合时效性、实用性与社会关注度综合呈现：<br>### 🎬 **一、今日重点事件**<br>1. **影视作品上线**  <br>   - **电影《女孩》全国上映**：舒淇首部自编自导作品，聚焦女性成长故事，王俊凯等明星助力宣传。```wbCustomBlock{\"type\": \"quoted\", \"index\": 5, \"data\": {\"num\": [3, 4], \"version\": 2, \"quote_list\": [{\"name\": \"舒淇\", \"scheme\": \"sinaweibo://detail?mblogid=5227493860052892\", \"index\": 3, \"label\": \"大v\"}, {\"name\": \"梨视频\", \"scheme\": \"sinaweibo://detail?mblogid=5227552403881998\", \"index\": 4, \"label\": \"\"}], \"name\": \"舒淇\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/001SzPzIly8glt0lw5p9tj60u00u0jsn02.jpg?KID=imgbed,tva&Expires=1761948960&ssig=ZwQ%2FxmLWaX\", \"scheme\": \"sinaweibo://detail?mblogid=5227493860052892\", \"vType\": 0}}```  <br>   - **电视剧《三人行》开播**：马天宇主演，今日中午12:00平台上线，剧情围绕穿越题材展开。```wbCustomBlock{\"type\": \"quoted\", \"index\": 6, \"data\": {\"num\": [8], \"version\": 2, \"quote_list\": [{\"name\": \"馬天宇\", \"scheme\": \"sinaweibo://detail?mblogid=5227792730164974\", \"index\": 8, \"label\": \"大v\"}], \"name\": \"馬天宇\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/001lyDOrly8hmbmgpwnncj60u00u0wg002.jpg?KID=imgbed,tva&Expires=1761948960&ssig=Uy0zSkqK2r\", \"scheme\": \"sinaweibo://detail?mblogid=5227792730164974\", \"vType\": 0}}```  <br>   - **《水龙吟》韩国同步播出**：古装剧登陆韩国MOA平台，拓宽国产剧海外市场。```wbCustomBlock{\"type\": \"quoted\", \"index\": 7, \"data\": {\"num\": [49], \"version\": 2, \"quote_list\": [{\"name\": \"Thor昊Tsor\", \"scheme\": \"sinaweibo://detail?mblogid=5225245044640552\", \"index\": 49, \"label\": \"\"}]}}```<br><br>2. **民生政策实施**  <br>   - **兰州正式供暖**：全市供暖系统启动，燕儿湾供热场采用污水源热泵技术，覆盖82万平方米区域。```wbCustomBlock{\"type\": \"quoted\", \"index\": 9, \"data\": {\"num\": [9], \"version\": 2, \"quote_list\": [{\"name\": \"IN兰州\", \"scheme\": \"sinaweibo://detail?mblogid=5225648407970490\", \"index\": 9, \"label\": \"\"}]}}```  <br>   - **新车数字化上牌全国推行**：国产小客车注册登记通过“交管12123”App办理，免线下验车流程。```wbCustomBlock{\"type\": \"quoted\", \"index\": 10, \"data\": {\"num\": [45], \"version\": 2, \"quote_list\": [{\"name\": \"野生11\", \"scheme\": \"sinaweibo://detail?mblogid=5227794042717018\", \"index\": 45, \"label\": \"大v\"}], \"name\": \"野生11\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/6b5af1afly8ggdyavg1tqj20u00u00we.jpg?KID=imgbed,tva&Expires=1761948960&ssig=9g3PS5zEAR\", \"scheme\": \"sinaweibo://detail?mblogid=5227794042717018\", \"vType\": 0}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5227552403881998&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.600.600.50/006yllNVly8h8wegdfz5fj30go0gojru.jpg?KID=imgbed,tva&Expires=1761948960&ssig=1e8%2BRGWZ6j) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">梨视频</span><img src=\"http://wx3.sinaimg.cn/middle/006yllNVgy1i6up9343h3j30v80xu7qb.jpg\" data-width=1218 data-height=1124></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5227493860052892&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=1\"><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/001SzPzIly8glt0lw5p9tj60u00u0jsn02.jpg?KID=imgbed,tva&Expires=1761948960&ssig=ZwQ%2FxmLWaX) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">舒淇</span><img src=\"http://wx2.sinaimg.cn/middle/001SzPzIly1i6uigz9tgoj60zu20lhdu02.jpg\" data-width=2613 data-height=1290></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5225648407970490&multi_paragraph=1&multi_count=2\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.6.6.484.484.50/74f47cbdly8fuqw0rvx6jj20dw0dwtcg.jpg?KID=imgbed,tva&Expires=1761948960&ssig=aLweJfswI7) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">IN兰州</span><img src=\"http://wx2.sinaimg.cn/middle/74f47cbdly1i6omj480mbj20mh0u0n0e.jpg\" data-width=1080 data-height=809></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5225245044640552&multi_paragraph=1&multi_count=3\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/d37aada7ly8hnq1gjiz94j20u00u0dln.jpg?KID=imgbed,tva&Expires=1761948960&ssig=1V4rFeNALW) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">Thor昊Tsor</span><img src=\"http://wx3.sinaimg.cn/middle/d37aada7ly1i6nc7kp2bij21hc0u0dhq.jpg\" data-width=1080 data-height=1920></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5227792730164974&multi_paragraph=1&multi_count=4\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/001lyDOrly8hmbmgpwnncj60u00u0wg002.jpg?KID=imgbed,tva&Expires=1761948960&ssig=Uy0zSkqK2r) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">馬天宇</span><img src=\"http://wx4.sinaimg.cn/middle/001lyDOrly1i6vgt0hm0cj60u0140wjz02.jpg\" data-width=1440 data-height=1080></div></media-block><br>### 🌟 **二、生活方式与热点活动**<br>1. **冬日仪式感打卡**  <br>   人民日报发起 **#30件仪式感小事迎接冬天#** 活动，每日一件暖心小事：  <br>   - **今日任务**：捡银杏叶/枫叶制书签、泡脚、换厚睡衣。```wbCustomBlock{\"type\": \"quoted\", \"index\": 14, \"data\": {\"num\": [2], \"version\": 2, \"quote_list\": [{\"name\": \"人民日报\", \"scheme\": \"sinaweibo://detail?mblogid=5227942872351301\", \"index\": 2, \"label\": \"大v\"}], \"name\": \"人民日报\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.1018.1018.50/0033ImPzly8h8vgemh8kxj60sa0sadgw02.jpg?KID=imgbed,tva&Expires=1761948960&ssig=kYDxavUahY\", \"scheme\": \"sinaweibo://detail?mblogid=5227942872351301\", \"vType\": 3}}```  <br>   - **后续亮点**：立冬吃火锅、织围巾、记录“温暖相册”等，持续整个11月。<br><br>2. **时间感知与年末规划**  <br>   - **2025年仅剩61天**：央视频等媒体发起年末目标计划，鼓励用户规划未完成事项。```wbCustomBlock{\"type\": \"quoted\", \"index\": 17, \"data\": {\"num\": [16, 17], \"version\": 2, \"quote_list\": [{\"name\": \"央视频\", \"scheme\": \"sinaweibo://detail?mblogid=5227900204221269\", \"index\": 16, \"label\": \"大v\"}, {\"name\": \"不想认真的taylor\", \"scheme\": \"sinaweibo://detail?mblogid=5227930495488869\", \"index\": 17, \"label\": \"\"}], \"name\": \"央视频\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.180.180.50/007S2YvRly1h8vgi91xayj3050050wec.jpg?KID=imgbed,tva&Expires=1761948960&ssig=LsROlXysUx\", \"scheme\": \"sinaweibo://detail?mblogid=5227900204221269\", \"vType\": 3}}```  <br>   - **网友共鸣**：普遍感慨时间飞逝，部分用户分享减压方式（如登高放松、烧香祈福）。```wbCustomBlock{\"type\": \"quoted\", \"index\": 18, \"data\": {\"num\": [6, 32], \"version\": 2, \"quote_list\": [{\"name\": \"我爱喝焦麻\", \"scheme\": \"sinaweibo://detail?mblogid=5227910341598121\", \"index\": 6, \"label\": \"大v\"}, {\"name\": \"红红火火的耶\", \"scheme\": \"sinaweibo://detail?mblogid=5227996636251130\", \"index\": 32, \"label\": \"\"}], \"name\": \"我爱喝焦麻\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/0078p1whly8i0yrixrdmhj30u00u0glw.jpg?KID=imgbed,tva&Expires=1761948960&ssig=ya0tor3CUp\", \"scheme\": \"sinaweibo://detail?mblogid=5227910341598121\", \"vType\": 0}}```<br><br>3. **情感与社交互动**  <br>   - **纪念日与许愿**：网友庆祝恋爱700天、许愿“十一月被钱缠上”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 20, \"data\": {\"num\": [20, 31], \"version\": 2, \"quote_list\": [{\"name\": \"星座小容女\", \"scheme\": \"sinaweibo://detail?mblogid=5227972593452624\", \"index\": 20, \"label\": \"大v\"}, {\"name\": \"纯情苹果派\", \"scheme\": \"sinaweibo://detail?mblogid=5227997536979032\", \"index\": 31, \"label\": \"\"}], \"name\": \"星座小容女\", \"img\": \"https://tva4.sinaimg.cn/crop.0.25.1242.1242.50/68b3c45djw8fapjmbfclkj20yi0zxjtq.jpg?KID=imgbed,tva&Expires=1761948960&ssig=k6Ep%2F32MjC\", \"scheme\": \"sinaweibo://detail?mblogid=5227972593452624\", \"vType\": 0}}```  <br>   - **朋友圈文案热潮**：宝藏女孩、文案收藏集等账号提供创意文案模板，强调“焕新”“期待”主题。```wbCustomBlock{\"type\": \"quoted\", \"index\": 21, \"data\": {\"num\": [19, 22, 29], \"version\": 2, \"quote_list\": [{\"name\": \"絮米粥\", \"scheme\": \"sinaweibo://detail?mblogid=5228001448951937\", \"index\": 29, \"label\": \"大v\"}, {\"name\": \"宝藏女孩-婷婷\", \"scheme\": \"sinaweibo://detail?mblogid=5227055212136849\", \"index\": 19, \"label\": \"\"}, {\"name\": \"文案收藏集\", \"scheme\": \"sinaweibo://detail?mblogid=5227089872817696\", \"index\": 22, \"label\": \"\"}], \"name\": \"絮米粥\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/00682XbBly8i6uhp3k5oaj30u00u0q5p.jpg?KID=imgbed,tva&Expires=1761948960&ssig=kkjjhQGdlq\", \"scheme\": \"sinaweibo://detail?mblogid=5228001448951937\", \"vType\": 0}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5227942872351301&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=2&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.1018.1018.50/0033ImPzly8h8vgemh8kxj60sa0sadgw02.jpg?KID=imgbed,tva&Expires=1761948960&ssig=kYDxavUahY) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">人民日报</span><img src=\"http://wx1.sinaimg.cn/middle/0033ImPzly1i6vy1yg1p1j60mn0kx0zs02.jpg\" data-width=753 data-height=815></div></media-block><br>### ⏰ **三、时间节点提醒**<br>1. **限时活动**  <br>   - **《女孩》观影红包**：今日15:14前扫码可免费领取。```wbCustomBlock{\"type\": \"quoted\", \"index\": 25, \"data\": {\"num\": [3], \"version\": 2, \"quote_list\": [{\"name\": \"舒淇\", \"scheme\": \"sinaweibo://detail?mblogid=5227493860052892\", \"index\": 3, \"label\": \"\"}]}}```  <br>   - **国考课程全勤返学费**：花生十三“片段阅读600题”活动今日16:00截止。```wbCustomBlock{\"type\": \"quoted\", \"index\": 26, \"data\": {\"num\": [23], \"version\": 2, \"quote_list\": [{\"name\": \"花生十三\", \"scheme\": \"sinaweibo://detail?mblogid=5227041152304463\", \"index\": 23, \"label\": \"大v\"}], \"name\": \"花生十三\", \"img\": \"https://tvax2.sinaimg.cn/crop.54.78.1002.1002.50/00253qTHly8gu4dayf2vrj60u00u00ux02.jpg?KID=imgbed,tva&Expires=1761948960&ssig=8z8ixRLcNx\", \"scheme\": \"sinaweibo://detail?mblogid=5227041152304463\", \"vType\": 0}}```  <br>   - **鱼头星星新歌上线**：虞书欣出道9周年纪念曲《梦时》凌晨全网发布。```wbCustomBlock{\"type\": \"quoted\", \"index\": 27, \"data\": {\"num\": [47], \"version\": 2, \"quote_list\": [{\"name\": \"鱼头星星小欣箱\", \"scheme\": \"sinaweibo://detail?mblogid=5227870009166207\", \"index\": 47, \"label\": \"\"}]}}```<br><br>2. **文化产品上新**  <br>   - **杂志与模型**：《BEST STAGE》11月号发行，万代模型公布新品月历。```wbCustomBlock{\"type\": \"quoted\", \"index\": 29, \"data\": {\"num\": [39, 40], \"version\": 2, \"quote_list\": [{\"name\": \"时不时就要掉一个新坑\", \"scheme\": \"sinaweibo://detail?mblogid=5227553275249785\", \"index\": 39, \"label\": \"\"}, {\"name\": \"万代模型\", \"scheme\": \"sinaweibo://detail?mblogid=5227862450766516\", \"index\": 40, \"label\": \"\"}]}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5227041152304463&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=3&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.54.78.1002.1002.50/00253qTHly8gu4dayf2vrj60u00u00ux02.jpg?KID=imgbed,tva&Expires=1761948960&ssig=8z8ixRLcNx) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">花生十三</span><img src=\"http://wx4.sinaimg.cn/middle/71a9fcddly1i6t24iak71j20ku112wjj.jpg\" data-width=1334 data-height=750></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5227862450766516&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=3&multi_count=1\"><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.168.43.510.510.50/79c11837ly8h8p8dx9hjwj20ne0gk0t8.jpg?KID=imgbed,tva&Expires=1761948960&ssig=Jt0TyhXcLS) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">万代模型</span><img src=\"http://wx3.sinaimg.cn/middle/79c11837gy1i6vj2xsa4gj21hc0zkqnj.jpg\" data-width=1280 data-height=1920></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5227553275249785&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=3&multi_count=2\"><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.934.934.50/007cUOY7ly8i5yhmftz58j30py0py75t.jpg?KID=imgbed,tva&Expires=1761948960&ssig=tDy%2BCUz8F8) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">时不时就要掉一个新坑</span><img src=\"http://wx3.sinaimg.cn/middle/007cUOY7gy1i6upb0no7pj31hg24o4qq.jpg\" data-width=2760 data-height=1924></div></media-block><br>### 💬 **四、网友情绪与生活观察**<br>1. **积极与焦虑并存**  <br>   - 正向表达：34%用户发“十一月你好”并许愿顺遂。```wbCustomBlock{\"type\": \"quoted\", \"index\": 33, \"data\": {\"num\": [15, 34], \"version\": 2, \"quote_list\": [{\"name\": \"神得强Steven\", \"scheme\": \"sinaweibo://detail?mblogid=5227968357206620\", \"index\": 15, \"label\": \"大v\"}, {\"name\": \"素希哥\", \"scheme\": \"sinaweibo://detail?mblogid=5227993859097892\", \"index\": 34, \"label\": \"\"}], \"name\": \"神得强Steven\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/001r1n2Bly8hty1kc82l8j60u00u0dhv02.jpg?KID=imgbed,tva&Expires=1761948960&ssig=QtqPwt%2FuOA\", \"scheme\": \"sinaweibo://detail?mblogid=5227968357206620\", \"vType\": 0}}```  <br>   - 工作压力：互联网从业者因学习焦虑失眠，部分用户加班至深夜。```wbCustomBlock{\"type\": \"quoted\", \"index\": 34, \"data\": {\"num\": [24, 28, 30], \"version\": 2, \"quote_list\": [{\"name\": \"小熊布鲁诺99\", \"scheme\": \"sinaweibo://detail?mblogid=5228006685803400\", \"index\": 24, \"label\": \"\"}, {\"name\": \"ForgetPast-\", \"scheme\": \"sinaweibo://detail?mblogid=5228001631404442\", \"index\": 28, \"label\": \"\"}, {\"name\": \"碎碎念日常呀_\", \"scheme\": \"sinaweibo://detail?mblogid=5227999525340527\", \"index\": 30, \"label\": \"\"}]}}```<br><br>2. **健康与消费提示**  <br>   - 玄学建议：部分账号提示注意交通安全、控制消费欲，但需理性看待（后文详述）。```wbCustomBlock{\"type\": \"reliability\", \"data\": {\"tag_name\": \"不可信\", \"tag_normal_color\": \"#B94141\", \"tag_dark_color\": \"#CE4848\", \"tips\": \"网传\\\"白虎日\\\"风险警示已被核实为错误，2025年11月1日实际为农历十月初一，无特殊风险依据。\"}}``````wbCustomBlock{\"type\": \"quoted\", \"index\": 36, \"data\": {\"num\": [7, 46], \"version\": 2, \"quote_list\": [{\"name\": \"锦鲤大王\", \"scheme\": \"sinaweibo://detail?mblogid=5227937953745015\", \"index\": 7, \"label\": \"\"}, {\"name\": \"司马侨小小侄女\", \"scheme\": \"sinaweibo://detail?mblogid=5227905484588727\", \"index\": 46, \"label\": \"\"}], \"name\": \"锦鲤大王\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/d90d1513ly8gdi6m94llvj20u00u0tcw.jpg?KID=imgbed,tva&Expires=1761948960&ssig=yU72MCmun%2F\", \"scheme\": \"sinaweibo://detail?mblogid=5227937953745015\", \"vType\": 0}}```  <br>   - 实际建议：多喝菊花茶去火，注意防寒保暖。```wbCustomBlock{\"type\": \"quoted\", \"index\": 37, \"data\": {\"num\": [43], \"version\": 2, \"quote_list\": [{\"name\": \"少女知樱\", \"scheme\": \"sinaweibo://detail?mblogid=5227918357431879\", \"index\": 43, \"label\": \"\"}], \"name\": \"少女知樱\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/0076JOC8ly8i3v10gcp86j30u00u0wgo.jpg?KID=imgbed,tva&Expires=1761948960&ssig=8llIhEcmFu\", \"scheme\": \"sinaweibo://detail?mblogid=5227918357431879\", \"vType\": 0}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5227937953745015&multi_paragraph=4&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/d90d1513ly8gdi6m94llvj20u00u0tcw.jpg?KID=imgbed,tva&Expires=1761948960&ssig=yU72MCmun%2F) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">锦鲤大王</span><img src=\"http://wx4.sinaimg.cn/middle/003YrpWrly1i6vielxzp1j60u014ogqa02.jpg\" data-width=1464 data-height=1080></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5227905484588727&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=4&multi_count=1\"><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.512.512.50/744bbc09ly8hz4yyh3mphj20e80e8aai.jpg?KID=imgbed,tva&Expires=1761948960&ssig=r4sP9AjoiY) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">司马侨小小侄女</span><img src=\"http://wx2.sinaimg.cn/middle/744bbc09gy1i6vq0uavmdj20j60fbafc.jpg\" data-width=551 data-height=690></div></media-block><br>### ⚠️ **五、风险与争议提示**<br>1. **玄学内容辨析**  <br>   - 网传今日为“白虎日”易引发伤害，但经核实：**2025年11月1日为农历十月初一，与“白虎日”无关**。道路交通安全等应遵循日常科学准则。  <br>   - 星座财运预测（如金牛、天蝎座“数钱手软”）仅为娱乐参考。```wbCustomBlock{\"type\": \"reliability\", \"data\": {\"tag_name\": \"存疑\", \"tag_normal_color\": \"#EF8B00\", \"tag_dark_color\": \"#D77D00\", \"tips\": \"星座财运预测（如金牛、天蝎座）缺乏科学依据，仅为娱乐性内容，不可作为实际指导。\"}}```<br><br>2. **信息核实建议**  <br>   - 影视上映时间、政策细则请以官网为准。供暖问题可咨询当地供热部门。<br>### 💎 **结语**  <br>11月的第一天承载着冬日的初启、文化的绽放与生活的仪式感。无论是打卡小事温暖身心，还是追随光影邂逅故事，愿你在61天的年末旅程中，既拥抱烟火日常，亦不忘心向繁星。  <br><br>> 注：玄学、占卜等内容无科学依据，请勿轻信；政策与影视动态请通过正规渠道确认。```wbCustomBlock{\"type\": \"quoted\", \"index\": 42, \"data\": {\"num\": [9, 20], \"version\": 2, \"quote_list\": [{\"name\": \"IN兰州\", \"scheme\": \"sinaweibo://detail?mblogid=5225648407970490\", \"index\": 9, \"label\": \"\"}, {\"name\": \"星座小容女\", \"scheme\": \"sinaweibo://detail?mblogid=5227972593452624\", \"index\": 20, \"label\": \"\"}]}}```<br>",
+      "zs_risk_control": {
+        "think_text_close": 0,
+        "land_button_close": 0
+      },
+      "status": 2,
+      "query": "#11月第1天#",
+      "version": "2025-11-01 03:16:00.017999-5389",
+      "qs_status": 0,
+      "q_attr": {
+        "from_uid": "",
+        "mid": "",
+        "reply_cid": "",
+        "comment_from_type": "",
+        "from_request_id": ""
+      },
+      "cot": 1,
+      "share_info": {
+        "tips": "#11月第1天#的相关内容，来智搜看看",
+        "status": 3,
+        "unify_md5": "e97e7ec8d3015ed1d9a95977b9cf2a8a",
+        "comment_content": "",
+        "url": "http://t.cn/AXAfp37n",
+        "page_id": "232964bbd834ee7abc50f47acf981b11cfc9a8",
+        "display_name": "#11月第1天#"
+      },
+      "share_card_multimodal": {
+        "user_avatar": "https://tvax4.sinaimg.cn/crop.0.0.600.600.50/006yllNVly8h8wegdfz5fj30go0gojru.jpg?KID=imgbed,tva&Expires=1761948960&ssig=1e8%2BRGWZ6j",
+        "scheme": "sinaweibo://multimedia?mix_mid=5227552403881998&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=0",
+        "video_url": "",
+        "hit_score_new": 0,
+        "doc_score": 5437,
+        "img_pid": "006yllNVgy1i6up9343h3j30v80xu7qb",
+        "click_rate": 0.32511101010454,
+        "w": 1124,
+        "vtype": 3,
+        "type": "p",
+        "h": 1218,
+        "cur_mid": "5227552403881998",
+        "img": "http://wx3.sinaimg.cn/middle/006yllNVgy1i6up9343h3j30v80xu7qb.jpg",
+        "user_name": "梨视频",
+        "hit_score_final": 80
+      },
+      "comment_info": {},
+      "mid_list": null,
+      "sorted_material_list": null,
+      "show_ctrl": {
+        "quote": {}
+      },
+      "msg_format": "markdown",
+      "query_field": "60",
+      "uid": "",
+      "msg_json": "{}",
+      "user_info": {},
+      "status_stage": 4,
+      "model": "deepseek"
+    }
+  },
+  "links": [
+    "sinaweibo://detail?mblogid=5227960605085850",
+    "sinaweibo://detail?mblogid=5227942872351301",
+    "sinaweibo://detail?mblogid=5227493860052892",
+    "sinaweibo://detail?mblogid=5227552403881998",
+    "sinaweibo://detail?mblogid=5227900208677363",
+    "sinaweibo://detail?mblogid=5227910341598121",
+    "sinaweibo://detail?mblogid=5227937953745015",
+    "sinaweibo://detail?mblogid=5227792730164974",
+    "sinaweibo://detail?mblogid=5225648407970490",
+    "https://baike.baidu.com/item/%E5%8D%81%E4%B8%80%E5%A4%A9%E5%8D%81%E4%B8%80%E5%A4%9C1?fromModule=search-result_lemma",
+    "broadsocial_res://",
+    "historyweibo://5227960605085850",
+    "historyweibo://5106304154600794",
+    "historyweibo://5095667900875288",
+    "sinaweibo://detail?mblogid=5227968357206620",
+    "sinaweibo://detail?mblogid=5227900204221269",
+    "sinaweibo://detail?mblogid=5227930495488869",
+    "sinaweibo://detail?mblogid=5227965101116720",
+    "sinaweibo://detail?mblogid=5227055212136849",
+    "sinaweibo://detail?mblogid=5227972593452624",
+    "sinaweibo://detail?mblogid=5227856676000301",
+    "sinaweibo://detail?mblogid=5227089872817696",
+    "sinaweibo://detail?mblogid=5227041152304463",
+    "sinaweibo://detail?mblogid=5228006685803400",
+    "sinaweibo://detail?mblogid=5228003934078572",
+    "sinaweibo://detail?mblogid=5228003647031114",
+    "sinaweibo://detail?mblogid=5228003489743581",
+    "sinaweibo://detail?mblogid=5228001631404442",
+    "sinaweibo://detail?mblogid=5228001448951937",
+    "sinaweibo://detail?mblogid=5227999525340527",
+    "sinaweibo://detail?mblogid=5227997536979032",
+    "sinaweibo://detail?mblogid=5227996636251130",
+    "sinaweibo://detail?mblogid=5227995197081097",
+    "sinaweibo://detail?mblogid=5227993859097892",
+    "sinaweibo://detail?mblogid=5227979101701100",
+    "sinaweibo://detail?mblogid=5227976934298084",
+    "sinaweibo://detail?mblogid=5227975171903499",
+    "sinaweibo://detail?mblogid=5227974548521954",
+    "sinaweibo://detail?mblogid=5227553275249785",
+    "sinaweibo://detail?mblogid=5227862450766516",
+    "sinaweibo://detail?mblogid=5106424715675060",
+    "sinaweibo://detail?mblogid=5227963715160906",
+    "sinaweibo://detail?mblogid=5227918357431879",
+    "sinaweibo://detail?mblogid=5227976029113731",
+    "sinaweibo://detail?mblogid=5227794042717018",
+    "sinaweibo://detail?mblogid=5227905484588727",
+    "sinaweibo://detail?mblogid=5227870009166207",
+    "sinaweibo://detail?mblogid=5227925047609875",
+    "sinaweibo://detail?mblogid=5225245044640552"
+  ],
+  "media": [
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/006yllNVgy1i6up9343h3j30v80xu7qb.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/006yllNVgy1i6up9343h3j30v80xu7qb.jpg",
+      "alt": "梨视频",
+      "width": 1218,
+      "height": 1124,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/006yllNVgy1i6up9343h3j30v80xu7qb.jpg"
+      ],
+      "user": "梨视频"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/001SzPzIly1i6uigz9tgoj60zu20lhdu02.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/001SzPzIly1i6uigz9tgoj60zu20lhdu02.jpg",
+      "alt": "舒淇",
+      "width": 2613,
+      "height": 1290,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/001SzPzIly1i6uigz9tgoj60zu20lhdu02.jpg"
+      ],
+      "user": "舒淇"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/74f47cbdly1i6omj480mbj20mh0u0n0e.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/74f47cbdly1i6omj480mbj20mh0u0n0e.jpg",
+      "alt": "IN兰州",
+      "width": 1080,
+      "height": 809,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/74f47cbdly1i6omj480mbj20mh0u0n0e.jpg"
+      ],
+      "user": "IN兰州"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/d37aada7ly1i6nc7kp2bij21hc0u0dhq.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/d37aada7ly1i6nc7kp2bij21hc0u0dhq.jpg",
+      "alt": "Thor昊Tsor",
+      "width": 1080,
+      "height": 1920,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx4.sinaimg.cn/large/d37aada7ly1i6nc7kp2bij21hc0u0dhq.jpg"
+      ],
+      "user": "Thor昊Tsor"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/001lyDOrly1i6vgt0hm0cj60u0140wjz02.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/001lyDOrly1i6vgt0hm0cj60u0140wjz02.jpg",
+      "alt": "馬天宇",
+      "width": 1440,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/001lyDOrly1i6vgt0hm0cj60u0140wjz02.jpg"
+      ],
+      "user": "馬天宇"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/0033ImPzly1i6vy1yg1p1j60mn0kx0zs02.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/0033ImPzly1i6vy1yg1p1j60mn0kx0zs02.jpg",
+      "alt": "人民日报",
+      "width": 753,
+      "height": 815,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/0033ImPzly1i6vy1yg1p1j60mn0kx0zs02.jpg"
+      ],
+      "user": "人民日报"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/71a9fcddly1i6t24iak71j20ku112wjj.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/71a9fcddly1i6t24iak71j20ku112wjj.jpg",
+      "alt": "花生十三",
+      "width": 1334,
+      "height": 750,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/71a9fcddly1i6t24iak71j20ku112wjj.jpg"
+      ],
+      "user": "花生十三"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/79c11837gy1i6vj2xsa4gj21hc0zkqnj.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/79c11837gy1i6vj2xsa4gj21hc0zkqnj.jpg",
+      "alt": "万代模型",
+      "width": 1280,
+      "height": 1920,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/79c11837gy1i6vj2xsa4gj21hc0zkqnj.jpg"
+      ],
+      "user": "万代模型"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/007cUOY7gy1i6upb0no7pj31hg24o4qq.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/007cUOY7gy1i6upb0no7pj31hg24o4qq.jpg",
+      "alt": "时不时就要掉一个新坑",
+      "width": 2760,
+      "height": 1924,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/007cUOY7gy1i6upb0no7pj31hg24o4qq.jpg"
+      ],
+      "user": "时不时就要掉一个新坑"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/003YrpWrly1i6vielxzp1j60u014ogqa02.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/003YrpWrly1i6vielxzp1j60u014ogqa02.jpg",
+      "alt": "锦鲤大王",
+      "width": 1464,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/003YrpWrly1i6vielxzp1j60u014ogqa02.jpg"
+      ],
+      "user": "锦鲤大王"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/744bbc09gy1i6vq0uavmdj20j60fbafc.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/744bbc09gy1i6vq0uavmdj20j60fbafc.jpg",
+      "alt": "司马侨小小侄女",
+      "width": 551,
+      "height": 690,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/744bbc09gy1i6vq0uavmdj20j60fbafc.jpg"
+      ],
+      "user": "司马侨小小侄女"
+    }
+  ],
+  "html_path": "data/aicard/hourly/2025-11-01/03/11-1.html"
+}
