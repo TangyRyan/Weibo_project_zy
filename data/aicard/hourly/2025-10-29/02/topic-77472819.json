@@ -1,0 +1,327 @@
+{
+  "meta": {
+    "query": "#网约房乱象谁来管#",
+    "status_code": 200,
+    "fetched_at": "2025-10-29T02:49:27+08:00",
+    "response": {
+      "share_info": {
+        "status": 3,
+        "page_id": "23296466bd717a55fb4fdc6628366970eeae3d",
+        "display_name": "#网约房乱象谁来管#",
+        "url": "http://t.cn/AXAvRk4f",
+        "tips": "#网约房乱象谁来管#的相关内容，来智搜看看",
+        "unify_md5": "77472819bbf7059237ac89df687e7dab"
+      },
+      "share_text": "#网约房乱象谁来管#的相关内容，来智搜看看",
+      "version": "2025-10-29 02:44:00.013000-8145",
+      "analysis_time": 1761677214,
+      "query_category": "",
+      "model": "deepseek",
+      "cot": 1,
+      "query": "#网约房乱象谁来管#",
+      "qs_status": 0,
+      "short_url": "http://t.cn/AXAvbYPI",
+      "current_time": 1761677368,
+      "sorted_material_list": null,
+      "uid": "",
+      "zs_risk_control": {
+        "think_text_close": 0,
+        "land_button_close": 0
+      },
+      "msg_format": "markdown",
+      "wenda": {
+        "forward_gen": 0
+      },
+      "mid_list": null,
+      "msg_json": "{}",
+      "status_stage": 4,
+      "link_list": [
+        "sinaweibo://detail?mblogid=5226707342593168",
+        "sinaweibo://detail?mblogid=5172363757093378",
+        "sinaweibo://detail?mblogid=5166261659502693",
+        "sinaweibo://detail?mblogid=4832008453491077",
+        "sinaweibo://detail?mblogid=5158504814612169",
+        "broadsocial_res://",
+        "historyweibo://5226707342593168",
+        "historyweibo://5226707342593168",
+        "sinaweibo://detail?mblogid=5226874318886358",
+        "sinaweibo://detail?mblogid=5226789715839672",
+        "sinaweibo://detail?mblogid=5226775313388034",
+        "sinaweibo://detail?mblogid=5226748388049480",
+        "sinaweibo://detail?mblogid=5226829738672746",
+        "sinaweibo://detail?mblogid=5226736011973292",
+        "sinaweibo://detail?mblogid=5226902983542230",
+        "sinaweibo://detail?mblogid=5226909137109618",
+        "sinaweibo://detail?mblogid=5226907555857096",
+        "sinaweibo://detail?mblogid=5226905959924066",
+        "sinaweibo://detail?mblogid=5226896923034471",
+        "sinaweibo://detail?mblogid=5226895283325399",
+        "sinaweibo://detail?mblogid=5226878323656649",
+        "sinaweibo://detail?mblogid=5226860670879018",
+        "sinaweibo://detail?mblogid=5226799652933967",
+        "sinaweibo://detail?mblogid=5226794603251185",
+        "sinaweibo://detail?mblogid=5226790486280012",
+        "sinaweibo://detail?mblogid=5226786054735536",
+        "sinaweibo://detail?mblogid=5226780601618851",
+        "sinaweibo://detail?mblogid=5226778532776288",
+        "sinaweibo://detail?mblogid=4976355949938425",
+        "sinaweibo://detail?mblogid=5226772348274704",
+        "sinaweibo://detail?mblogid=4944472636395350",
+        "sinaweibo://detail?mblogid=5071673283842221",
+        "sinaweibo://detail?mblogid=5036401227729561"
+      ],
+      "status": 2,
+      "top_quote_list": {},
+      "card_multimodal": {
+        "type": "mediablock",
+        "data": [
+          {
+            "video_url": "https://video.weibo.com/show?fid=1034:4831739290517534",
+            "click_rate": 0,
+            "hit_score_new": 90.039062,
+            "h": 720,
+            "img_pid": "65fb5cbfly1h7s9mj14p4j20zk0k0zlf",
+            "vtype": 1,
+            "doc_score": 3922,
+            "user_name": "渭南检察",
+            "scheme": "sinaweibo://video/vvs?mid=4832008453491077&multi_paragraph=1&multi_count=0",
+            "cur_mid": "4832008453491077",
+            "img": "http://wx4.sinaimg.cn/middle/65fb5cbfly1h7s9mj14p4j20zk0k0zlf.jpg",
+            "type": "v",
+            "w": 1280,
+            "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.813.813.50/005G1f6Cly8h8vgyqyg7uj30ml0mlq44.jpg?KID=imgbed,tva&Expires=1761687840&ssig=XoVQM9LjRS",
+            "hit_score_final": 71.223442
+          },
+          {
+            "video_url": "https://video.weibo.com/show?fid=1034:5071661729251358",
+            "click_rate": 0,
+            "hit_score_new": 58.447266,
+            "h": 1920,
+            "img_pid": "8a2dedddly1ht1df7ue5rj20u01hcq5n",
+            "vtype": 3,
+            "doc_score": 2137,
+            "user_name": "半月谈",
+            "scheme": "sinaweibo://video/vvs?mid=5071673283842221&multi_paragraph=1&multi_count=1",
+            "cur_mid": "5071673283842221",
+            "img": "http://wx1.sinaimg.cn/middle/8a2dedddly1ht1df7ue5rj20u01hcq5n.jpg",
+            "type": "v",
+            "w": 1080,
+            "user_avatar": "https://tvax3.sinaimg.cn/crop.324.174.702.702.50/8a2dedddly8h8twu6oc28j20u00u0gmh.jpg?KID=imgbed,tva&Expires=1761687840&ssig=6dQNhtAGj5",
+            "hit_score_final": 59.468357
+          },
+          {
+            "video_url": "https://video.weibo.com/show?fid=1034:5172317769367623",
+            "click_rate": 0,
+            "hit_score_new": 78.369141,
+            "h": 928,
+            "img_pid": "812ffe02ly1i1yhpf1dmuj219t0psgzz",
+            "vtype": 3,
+            "doc_score": 3456,
+            "user_name": "观察者网",
+            "scheme": "sinaweibo://video/vvs?mid=5172363757093378&multi_paragraph=1&multi_count=2",
+            "cur_mid": "5172363757093378",
+            "img": "http://wx1.sinaimg.cn/middle/812ffe02ly1i1yhpf1dmuj219t0psgzz.jpg",
+            "type": "v",
+            "w": 1649,
+            "user_avatar": "https://tvax3.sinaimg.cn/crop.6.8.591.591.50/707e96d5ly8h8vg9v0hpjj20go0gowf6.jpg?KID=imgbed,tva&Expires=1761687840&ssig=%2FQgbtGWXKi",
+            "hit_score_final": 70.621483
+          },
+          {
+            "video_url": "https://video.weibo.com/show?fid=1034:4831739290517534",
+            "click_rate": 0,
+            "hit_score_new": 90.039062,
+            "h": 720,
+            "img_pid": "65fb5cbfly1h7s9mj14p4j20zk0k0zlf",
+            "vtype": 1,
+            "doc_score": 3922,
+            "user_name": "渭南检察",
+            "scheme": "sinaweibo://video/vvs?mid=4832008453491077&multi_paragraph=1&multi_count=0",
+            "cur_mid": "4832008453491077",
+            "img": "http://wx4.sinaimg.cn/middle/65fb5cbfly1h7s9mj14p4j20zk0k0zlf.jpg",
+            "type": "v",
+            "w": 1280,
+            "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.813.813.50/005G1f6Cly8h8vgyqyg7uj30ml0mlq44.jpg?KID=imgbed,tva&Expires=1761687840&ssig=XoVQM9LjRS",
+            "hit_score_final": 71.223442
+          }
+        ]
+      },
+      "msg": "<think><br>嗯，用户查询的是\"网约房乱象谁来管\"，看起来是个涉及城市治理和社会痛点的问题。从搜索结果看，这确实是个复杂问题，涉及多个监管部门和民生矛盾。用户可能是遭遇过类似困扰的居民，也可能是关注社会问题的普通网友。<br><br>让我先梳理核心矛盾点：网约房本质是共享经济的产物（类似民宿短租），但现实中很多变成了变相群租房。居民最痛苦的是深夜噪音和电梯拥堵，比如杭州文天公寓有住户要等三次才能乘电梯。更严重的是安全隐患，未成年人居然能在网约房被性侵或涉毒，简直触目惊心。<br><br>监管真空是根本原因。公安说缺法律依据，市监说住宅办不了执照，住建又管不着，三个部门踢皮球。平台也够黑心，像安居客明知有300家\"流量公司\"专搞诈骗房源，还年赚480万推广费。老百姓报警都没用，怪不得网友说\"举报不交税才有人管\"。<br><br>不过也有曙光：今年9月《住房租赁条例》终于明确网约房需备案，重庆的\"房源码\"系统管理1.3万间房效果不错。技术上刷脸入住、自动分流投诉都可行，关键看执行。杭州拱墅区备案3000家却取缔不了，暴露跨省平台协调的老大难。<br><br>用户可能需要实用建议。居民维权要拍照取证+12345投诉，租客则要避开低价陷阱。长期看还得靠扩大公租房供给，像上海允许客厅≥12㎡隔断就是人性化探索。<br><br>最后决定用四部分回答：乱象现象学展示冲击力，部门扯皮点明痛点，再给解决方案希望。标题用\"三不管\"这个关键词刺痛感强，结尾强调立法提速——毕竟国家条例才施行一个半月，用户可能还不知道这个进展。风险提示放在未成年人受害案例处，这是绝对不能模糊的底线问题。<br><br></think><br>网约房乱象的治理涉及多部门职责交叉与法规滞后，但最新立法已提供解决框架，核心问题与破局路径如下：<br>### 🚨 **一、乱象核心：安全与民生双重隐患**<br>1. **治安漏洞**  <br>   - **身份核验缺失**：无需实名登记即可入住，虚构身份也能付款，沦为吸毒、性侵未成年人、网络赌博的犯罪温床。```wbCustomBlock{\"type\": \"quoted\", \"index\": 5, \"data\": {\"num\": [4, 31, 32], \"version\": 2, \"quote_list\": [{\"name\": \"正义网\", \"scheme\": \"sinaweibo://detail?mblogid=4944472636395350\", \"index\": 31, \"label\": \"大v\"}, {\"name\": \"渭南检察\", \"scheme\": \"sinaweibo://detail?mblogid=4832008453491077\", \"index\": 4, \"label\": \"\"}, {\"name\": \"半月谈\", \"scheme\": \"sinaweibo://detail?mblogid=5071673283842221\", \"index\": 32, \"label\": \"\"}], \"name\": \"正义网\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.244.244.50/710c95f3ly8h8vgrxdt55j206u06t3yh.jpg?KID=imgbed,tva&Expires=1761687840&ssig=qn55LIsaHk\", \"scheme\": \"sinaweibo://detail?mblogid=4944472636395350\", \"vType\": 3}}```  <br>   - **未成年人受害高发**：13岁女孩在网约房内遭性侵、16岁少女被诱骗卖淫等案件频发，监管缺位纵容犯罪。```wbCustomBlock{\"type\": \"quoted\", \"index\": 6, \"data\": {\"num\": [31, 32], \"version\": 2, \"quote_list\": [{\"name\": \"半月谈\", \"scheme\": \"sinaweibo://detail?mblogid=5071673283842221\", \"index\": 32, \"label\": \"大v\"}, {\"name\": \"正义网\", \"scheme\": \"sinaweibo://detail?mblogid=4944472636395350\", \"index\": 31, \"label\": \"\"}], \"name\": \"半月谈\", \"img\": \"https://tvax3.sinaimg.cn/crop.324.174.702.702.50/8a2dedddly8h8twu6oc28j20u00u0gmh.jpg?KID=imgbed,tva&Expires=1761687840&ssig=6dQNhtAGj5\", \"scheme\": \"sinaweibo://detail?mblogid=5071673283842221\", \"vType\": 3}}```<br><br>2. **民生矛盾激化**  <br>   - **噪音与资源挤占**：频繁变动的住客导致深夜喧哗、垃圾堆积，居民电梯使用权被侵占（如杭州文天公寓住户需等待3次才能乘梯）。```wbCustomBlock{\"type\": \"quoted\", \"index\": 8, \"data\": {\"num\": [2, 21], \"version\": 2, \"quote_list\": [{\"name\": \"观察者网\", \"scheme\": \"sinaweibo://detail?mblogid=5172363757093378\", \"index\": 2, \"label\": \"大v\"}, {\"name\": \"偷偷转了一个圈\", \"scheme\": \"sinaweibo://detail?mblogid=5226878323656649\", \"index\": 21, \"label\": \"\"}], \"name\": \"观察者网\", \"img\": \"https://tvax3.sinaimg.cn/crop.6.8.591.591.50/707e96d5ly8h8vg9v0hpjj20go0gowf6.jpg?KID=imgbed,tva&Expires=1761687840&ssig=%2FQgbtGWXKi\", \"scheme\": \"sinaweibo://detail?mblogid=5172363757093378\", \"vType\": 3}}```  <br>   - **消费欺诈泛滥**：虚假宣传、“幽灵地址”、三居室变单间等投诉超4万条，用户遭遇“陌生人深夜闯入”的盲盒式体验。```wbCustomBlock{\"type\": \"quoted\", \"index\": 9, \"data\": {\"num\": [3, 23], \"version\": 2, \"quote_list\": [{\"name\": \"央视网\", \"scheme\": \"sinaweibo://detail?mblogid=5166261659502693\", \"index\": 3, \"label\": \"大v\"}, {\"name\": \"杰特jiete\", \"scheme\": \"sinaweibo://detail?mblogid=5226799652933967\", \"index\": 23, \"label\": \"\"}], \"name\": \"央视网\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.180.180.50/003z5L7fly8h8ursf868gj6050050mwz02.jpg?KID=imgbed,tva&Expires=1761687840&ssig=AoE%2BfvUkVY\", \"scheme\": \"sinaweibo://detail?mblogid=5166261659502693\", \"vType\": 3}}```<br><br>3. **安全风险突出**  <br>   - **消防隐患**：私拉电线、隔断堵塞通道，部分厨房阳台改卧室，人均面积不足5㎡。```wbCustomBlock{\"type\": \"quoted\", \"index\": 11, \"data\": {\"num\": [12], \"version\": 2, \"quote_list\": [{\"name\": \"体圈小白白\", \"scheme\": \"sinaweibo://detail?mblogid=5226748388049480\", \"index\": 12, \"label\": \"\"}]}}```  <br>   - **结构破坏**：违规改造承重墙，群租房式网约房埋下坍塌风险。<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=4832008453491077&multi_paragraph=1&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.813.813.50/005G1f6Cly8h8vgyqyg7uj30ml0mlq44.jpg?KID=imgbed,tva&Expires=1761687840&ssig=XoVQM9LjRS) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">渭南检察</span><img src=\"http://wx4.sinaimg.cn/middle/65fb5cbfly1h7s9mj14p4j20zk0k0zlf.jpg\" data-width=720 data-height=1280></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5071673283842221&multi_paragraph=1&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.324.174.702.702.50/8a2dedddly8h8twu6oc28j20u00u0gmh.jpg?KID=imgbed,tva&Expires=1761687840&ssig=6dQNhtAGj5) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">半月谈</span><img src=\"http://wx1.sinaimg.cn/middle/8a2dedddly1ht1df7ue5rj20u01hcq5n.jpg\" data-width=1920 data-height=1080></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5172363757093378&multi_paragraph=1&multi_count=2\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.6.8.591.591.50/707e96d5ly8h8vg9v0hpjj20go0gowf6.jpg?KID=imgbed,tva&Expires=1761687840&ssig=%2FQgbtGWXKi) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">观察者网</span><img src=\"http://wx1.sinaimg.cn/middle/812ffe02ly1i1yhpf1dmuj219t0psgzz.jpg\" data-width=928 data-height=1649></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5166261659502693&multi_paragraph=1&multi_count=3\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.180.180.50/003z5L7fly8h8ursf868gj6050050mwz02.jpg?KID=imgbed,tva&Expires=1761687840&ssig=AoE%2BfvUkVY) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">央视网</span><img src=\"http://wx1.sinaimg.cn/middle/003z5L7fly1i1f5yyk6knj60mo0crdse02.jpg\" data-width=459 data-height=816></div></media-block><br>### ⚖️ **二、监管困境：权责模糊与执行真空**<br>1. **“三不管”责任推诿**  <br>   - **公安**：缺乏上位法支持，仅能管人员登记，无法取缔无证经营；```wbCustomBlock{\"type\": \"quoted\", \"index\": 16, \"data\": {\"num\": [1, 24], \"version\": 2, \"quote_list\": [{\"name\": \"人民网\", \"scheme\": \"sinaweibo://detail?mblogid=5226707342593168\", \"index\": 1, \"label\": \"大v\"}, {\"name\": \"燕山闲居\", \"scheme\": \"sinaweibo://detail?mblogid=5226794603251185\", \"index\": 24, \"label\": \"\"}], \"name\": \"人民网\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.690.690.50/002uLDeXly8h8vh2k4apuj60j60j6gm402.jpg?KID=imgbed,tva&Expires=1761687840&ssig=A4d%2FTMNaER\", \"scheme\": \"sinaweibo://detail?mblogid=5226707342593168\", \"vType\": 3}}```  <br>   - **市场监管**：住宅区无法办理营业执照，处罚无依据；```wbCustomBlock{\"type\": \"quoted\", \"index\": 17, \"data\": {\"num\": [5, 24], \"version\": 2, \"quote_list\": [{\"name\": \"白银市检察院\", \"scheme\": \"sinaweibo://detail?mblogid=5158504814612169\", \"index\": 5, \"label\": \"大v\"}, {\"name\": \"燕山闲居\", \"scheme\": \"sinaweibo://detail?mblogid=5226794603251185\", \"index\": 24, \"label\": \"\"}], \"name\": \"白银市检察院\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.900.900.50/c9776b50ly8h8w4vzrbfnj20p00p0dhm.jpg?KID=imgbed,tva&Expires=1761687840&ssig=Fqkc2ZPK6P\", \"scheme\": \"sinaweibo://detail?mblogid=5158504814612169\", \"vType\": 1}}```  <br>   - **住建部门**：难定性隔断房合法性，监管乏力。<br><br>2. **平台责任缺位**  <br>   - 为赚取推广费纵容虚假房源（如安居客平台300家“流量公司”年缴480万推广费），甚至虚构低价骗取看房费。```wbCustomBlock{\"type\": \"quoted\", \"index\": 20, \"data\": {\"num\": [33], \"version\": 2, \"quote_list\": [{\"name\": \"荔枝新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5036401227729561\", \"index\": 33, \"label\": \"大v\"}], \"name\": \"荔枝新闻\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.600.600.50/6b0e1e9dly8i5r6s6bgzlj20go0go40f.jpg?KID=imgbed,tva&Expires=1761687840&ssig=ZnH4GlsJ8T\", \"scheme\": \"sinaweibo://detail?mblogid=5036401227729561\", \"vType\": 3}}```  <br>   - 异地平台（如美团、携程）不受地方约束，违规房源难下架。<br><br>3. **利益链灰色化**  <br>   “房东—二房东—平台”形成产业链：房东追求高收益忽视监管，二房东违规改造牟利，平台抽成助推乱象。```wbCustomBlock{\"type\": \"quoted\", \"index\": 22, \"data\": {\"num\": [24], \"version\": 2, \"quote_list\": [{\"name\": \"燕山闲居\", \"scheme\": \"sinaweibo://detail?mblogid=5226794603251185\", \"index\": 24, \"label\": \"\"}]}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5226707342593168&multi_paragraph=2&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.690.690.50/002uLDeXly8h8vh2k4apuj60j60j6gm402.jpg?KID=imgbed,tva&Expires=1761687840&ssig=A4d%2FTMNaER) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">人民网</span><img src=\"http://wx4.sinaimg.cn/middle/002uLDeXly1i6rv7f3p0ij60k00zkdgy02.jpg\" data-width=1280 data-height=720></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5158504814612169&multi_paragraph=2&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.900.900.50/c9776b50ly8h8w4vzrbfnj20p00p0dhm.jpg?KID=imgbed,tva&Expires=1761687840&ssig=Fqkc2ZPK6P) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">白银市检察院</span><img src=\"http://wx1.sinaimg.cn/middle/75dda851ly1i0pkbh99fxj20zk0k0whh.jpg\" data-width=720 data-height=1280></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5036401227729561&multi_paragraph=2&multi_count=2\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.600.600.50/6b0e1e9dly8i5r6s6bgzlj20go0go40f.jpg?KID=imgbed,tva&Expires=1761687840&ssig=ZnH4GlsJ8T) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">荔枝新闻</span><img src=\"http://wx2.sinaimg.cn/middle/6b0e1e9dly8hpwvp56vc5j21hc0u045k.jpg\" data-width=1080 data-height=1920></div></media-block><br>### 🛠️ **三、破局路径：立法、技术与协同治理**<br>#### **1. 国家立法填补真空**  <br> - **《住房租赁条例》（2025年9月施行）**：首次明确网约房需备案，禁止非居住空间出租，划定群租人均面积标准。```wbCustomBlock{\"type\": \"quoted\", \"index\": 26, \"data\": {\"num\": [30], \"version\": 2, \"quote_list\": [{\"name\": \"eva-yangyang\", \"scheme\": \"sinaweibo://detail?mblogid=5226772348274704\", \"index\": 30, \"label\": \"大v\"}], \"name\": \"eva-yangyang\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/698e48bbly8hkejxeayxlj20u00u0wiw.jpg?KID=imgbed,tva&Expires=1761687840&ssig=DAocys0s7I\", \"scheme\": \"sinaweibo://detail?mblogid=5226772348274704\", \"vType\": 0}}```  <br> - **法律定位清晰化**：需将网约房纳入特种行业管理，明确公安牵头治安、住建管房屋结构、消防负责安全标准。```wbCustomBlock{\"type\": \"quoted\", \"index\": 27, \"data\": {\"num\": [29], \"version\": 2, \"quote_list\": [{\"name\": \"正义南康\", \"scheme\": \"sinaweibo://detail?mblogid=4976355949938425\", \"index\": 29, \"label\": \"大v\"}], \"name\": \"正义南康\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.335.335.50/8fe8596aly8h8w1z37ugqj209b09bt8y.jpg?KID=imgbed,tva&Expires=1761687840&ssig=0NQFkmLlOX\", \"scheme\": \"sinaweibo://detail?mblogid=4976355949938425\", \"vType\": 1}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5226772348274704&multi_paragraph=4&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/698e48bbly8hkejxeayxlj20u00u0wiw.jpg?KID=imgbed,tva&Expires=1761687840&ssig=DAocys0s7I) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">eva-yangyang</span><img src=\"http://wx1.sinaimg.cn/middle/698e48bbly1i6s7fodc94j20k00zkmyb.jpg\" data-width=1280 data-height=720></div></media-block><br>#### **2. 地方创新实践**  <br> - **重庆“房源码”系统**：  <br>   ✅ 一房一码打通公安、消防、市监数据，强制实名入住（刷脸核验）；  <br>   ✅ 自动分流投诉至对应部门，已化解纠纷800余起，纳管1.3万间房源。```wbCustomBlock{\"type\": \"quoted\", \"index\": 29, \"data\": {\"num\": [5], \"version\": 2, \"quote_list\": [{\"name\": \"白银市检察院\", \"scheme\": \"sinaweibo://detail?mblogid=5158504814612169\", \"index\": 5, \"label\": \"\"}]}}```  <br> - **杭州拱墅区**：公安强制备案3000家网约房，但呼吁省级法规解决跨平台协调难。```wbCustomBlock{\"type\": \"quoted\", \"index\": 30, \"data\": {\"num\": [24], \"version\": 2, \"quote_list\": [{\"name\": \"燕山闲居\", \"scheme\": \"sinaweibo://detail?mblogid=5226794603251185\", \"index\": 24, \"label\": \"\"}]}}```  <br> - **渝中区自治联盟**：经营者缴纳资源占用费补偿居民，缓解公共资源矛盾。```wbCustomBlock{\"type\": \"quoted\", \"index\": 31, \"data\": {\"num\": [5, 25], \"version\": 2, \"quote_list\": [{\"name\": \"黎阳\", \"scheme\": \"sinaweibo://detail?mblogid=5226790486280012\", \"index\": 25, \"label\": \"大v\"}, {\"name\": \"白银市检察院\", \"scheme\": \"sinaweibo://detail?mblogid=5158504814612169\", \"index\": 5, \"label\": \"\"}], \"name\": \"黎阳\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/733e6dbfly8hiloqkahjhj20u00u0goh.jpg?KID=imgbed,tva&Expires=1761687840&ssig=WIM9q54vx2\", \"scheme\": \"sinaweibo://detail?mblogid=5226790486280012\", \"vType\": 0}}```<br>#### **3. 技术赋能动态监管**  <br> - **智能门锁+人脸识别**：重庆要求网约房安装公安联网门锁，杜绝匿名入住。```wbCustomBlock{\"type\": \"quoted\", \"index\": 33, \"data\": {\"num\": [5], \"version\": 2, \"quote_list\": [{\"name\": \"白银市检察院\", \"scheme\": \"sinaweibo://detail?mblogid=5158504814612169\", \"index\": 5, \"label\": \"\"}]}}```  <br> - **风险预警系统**：自动抓取虚假宣传、卫生投诉等关键词，联动多部门处置（如重庆数字化平台）。```wbCustomBlock{\"type\": \"quoted\", \"index\": 34, \"data\": {\"num\": [5], \"version\": 2, \"quote_list\": [{\"name\": \"白银市检察院\", \"scheme\": \"sinaweibo://detail?mblogid=5158504814612169\", \"index\": 5, \"label\": \"\"}]}}```<br>#### **4. 压实平台责任**  <br> - **强制房源核验**：下架未备案房屋，建立租客信用档案，违规平台承担连带责任。```wbCustomBlock{\"type\": \"quoted\", \"index\": 36, \"data\": {\"num\": [29], \"version\": 2, \"quote_list\": [{\"name\": \"正义南康\", \"scheme\": \"sinaweibo://detail?mblogid=4976355949938425\", \"index\": 29, \"label\": \"\"}]}}```  <br> - **切断灰色产业链**：严禁平台为“流量公司”提供推广服务。```wbCustomBlock{\"type\": \"quoted\", \"index\": 37, \"data\": {\"num\": [33], \"version\": 2, \"quote_list\": [{\"name\": \"荔枝新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5036401227729561\", \"index\": 33, \"label\": \"\"}]}}```<br>### 💡 **四、用户应对指南**  <br>| **角色**       | **行动建议**                                                                 |<br>|----------------|----------------------------------------------------------------------------|<br>| **居民**       | 遇噪音扰民立即拍照取证，拨打12345投诉；拒绝电动车入楼，发现隔断房向住建举报。 |<br>| **租客**       | 通过平台支付保留凭证；实地考察消防通道；长租需合同明确“禁止转短租”。         |<br>| **未成年人家长** | 教育子女远离无证网约房；发现隐患立即向检察机关举报（参考“康检播报”渠道）。    |<br><br>```wbCustomBlock{\"type\": \"quoted\", \"index\": 39, \"data\": {\"num\": [12, 21, 29, 30, 32], \"version\": 2, \"quote_list\": [{\"name\": \"体圈小白白\", \"scheme\": \"sinaweibo://detail?mblogid=5226748388049480\", \"index\": 12, \"label\": \"\"}, {\"name\": \"偷偷转了一个圈\", \"scheme\": \"sinaweibo://detail?mblogid=5226878323656649\", \"index\": 21, \"label\": \"\"}, {\"name\": \"正义南康\", \"scheme\": \"sinaweibo://detail?mblogid=4976355949938425\", \"index\": 29, \"label\": \"\"}, {\"name\": \"eva-yangyang\", \"scheme\": \"sinaweibo://detail?mblogid=5226772348274704\", \"index\": 30, \"label\": \"\"}, {\"name\": \"半月谈\", \"scheme\": \"sinaweibo://detail?mblogid=5071673283842221\", \"index\": 32, \"label\": \"\"}]}}```<br>### 💎 **总结：治理已进入关键期**  <br>网约房乱象根治需 **法律顶层设计**（国家明确归属）、**技术动态监管**（地方一房一码）、**平台责任落实** 三方协同。随着《住房租赁条例》施行，地方政府需加速细化规则，推广“重庆模式”的数字化治理经验。唯有将灰色地带纳入规范化轨道，才能平衡 **低收入群体住宿需求** 与 **社区安全底线**。当前核心矛盾已从“无法可依”转向“执行落地”，立法与技术的双轮驱动将成为破局关键。```wbCustomBlock{\"type\": \"quoted\", \"index\": 41, \"data\": {\"num\": [5, 14, 30], \"version\": 2, \"quote_list\": [{\"name\": \"白银市检察院\", \"scheme\": \"sinaweibo://detail?mblogid=5158504814612169\", \"index\": 5, \"label\": \"\"}, {\"name\": \"紫苏的森林\", \"scheme\": \"sinaweibo://detail?mblogid=5226736011973292\", \"index\": 14, \"label\": \"\"}, {\"name\": \"eva-yangyang\", \"scheme\": \"sinaweibo://detail?mblogid=5226772348274704\", \"index\": 30, \"label\": \"\"}]}}```<br>",
+      "unify_md5": "77472819bbf7059237ac89df687e7dab",
+      "basemodel": "实验组4",
+      "reliable_tips": "{\"gold_orange_v_mids\": [\"5226748388049480\", \"5226772348274704\", \"5226790486280012\", \"5226736011973292\", \"5226874318886358\", \"5226789715839672\", \"5226775313388034\", \"5226902983542230\", \"5226909137109618\", \"5226905959924066\"], \"gold_orange_v_ratio\": \"33%\", \"media_mids\": [\"4944472636395350\", \"5071673283842221\", \"5166261659502693\", \"5226707342593168\", \"5036401227729561\"], \"media_ratio\": \"17%\", \"verified_mids\": [\"4832008453491077\", \"5172363757093378\", \"5158504814612169\", \"4976355949938425\", \"5226829738672746\", \"5226778532776288\"], \"verified_ratio\": \"20%\", \"normal_mids\": [\"5226878323656649\", \"5226799652933967\", \"5226794603251185\", \"5226907555857096\", \"5226896923034471\", \"5226895283325399\", \"5226860670879018\", \"5226786054735536\", \"5226780601618851\"], \"normal_ratio\": \"30%\", \"ref_mid_rank\": {\"4832008453491077\": {\"rank\": 4}, \"4944472636395350\": {\"rank\": 31}, \"5071673283842221\": {\"rank\": 32}, \"5172363757093378\": {\"rank\": 2}, \"5226878323656649\": {\"rank\": 21}, \"5166261659502693\": {\"rank\": 3}, \"5226799652933967\": {\"rank\": 23}, \"5226748388049480\": {\"rank\": 12}, \"5226707342593168\": {\"rank\": 1}, \"5226794603251185\": {\"rank\": 24}, \"5158504814612169\": {\"rank\": 5}, \"5036401227729561\": {\"rank\": 33}, \"5226772348274704\": {\"rank\": 30}, \"4976355949938425\": {\"rank\": 29}, \"5226790486280012\": {\"rank\": 25}, \"5226736011973292\": {\"rank\": 14}, \"5226874318886358\": {\"rank\": 9}, \"5226789715839672\": {\"rank\": 10}, \"5226775313388034\": {\"rank\": 11}, \"5226829738672746\": {\"rank\": 13}, \"5226902983542230\": {\"rank\": 15}, \"5226909137109618\": {\"rank\": 16}, \"5226907555857096\": {\"rank\": 17}, \"5226905959924066\": {\"rank\": 18}, \"5226896923034471\": {\"rank\": 19}, \"5226895283325399\": {\"rank\": 20}, \"5226860670879018\": {\"rank\": 22}, \"5226786054735536\": {\"rank\": 26}, \"5226780601618851\": {\"rank\": 27}, \"5226778532776288\": {\"rank\": 28}}}",
+      "profile_image_url": "",
+      "user_info": {},
+      "q_attr": {
+        "from_uid": "",
+        "from_request_id": ""
+      },
+      "scheme": "sinaweibo://cardlist?containerid=100103type%3D225%26q%3D%23%E7%BD%91%E7%BA%A6%E6%88%BF%E4%B9%B1%E8%B1%A1%E8%B0%81%E6%9D%A5%E7%AE%A1%23%26t%3D&extparam=ai_model%3Ddeepseek%26ori_ai_title%3D%E5%8F%82%E8%80%83%E5%8D%9A%E6%96%87%26material_version%3D1761677040",
+      "page_id": "23296466bd717a55fb4fdc6628366970eeae3d",
+      "reference_num": 30,
+      "query_field": "60",
+      "chat_status_stage": 1,
+      "news_analyze": {},
+      "abtest_info": {
+        "chat_entrance": 1
+      },
+      "show_ctrl": {
+        "quote": {}
+      },
+      "ab_suffix": "default",
+      "share_card_multimodal": {
+        "video_url": "https://video.weibo.com/show?fid=1034:4831739290517534",
+        "click_rate": 0,
+        "hit_score_new": 90.039062,
+        "h": 720,
+        "img_pid": "65fb5cbfly1h7s9mj14p4j20zk0k0zlf",
+        "vtype": 1,
+        "doc_score": 3922,
+        "user_name": "渭南检察",
+        "scheme": "sinaweibo://video/vvs?mid=4832008453491077&multi_paragraph=1&multi_count=0",
+        "cur_mid": "4832008453491077",
+        "img": "http://wx4.sinaimg.cn/middle/65fb5cbfly1h7s9mj14p4j20zk0k0zlf.jpg",
+        "type": "v",
+        "w": 1280,
+        "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.813.813.50/005G1f6Cly8h8vgyqyg7uj30ml0mlq44.jpg?KID=imgbed,tva&Expires=1761687840&ssig=XoVQM9LjRS",
+        "hit_score_final": 71.223442
+      },
+      "qs_status_info": "{\"qs_u_status\":0,\"qs_status\":0,\"qs_r_status\":0,\"ab_lab\":{},\"qs_c_status\":8388608,\"qs_q_status\":0}",
+      "ext_show": {},
+      "loop_times": 200
+    }
+  },
+  "links": [
+    "sinaweibo://detail?mblogid=5226707342593168",
+    "sinaweibo://detail?mblogid=5172363757093378",
+    "sinaweibo://detail?mblogid=5166261659502693",
+    "sinaweibo://detail?mblogid=4832008453491077",
+    "sinaweibo://detail?mblogid=5158504814612169",
+    "broadsocial_res://",
+    "historyweibo://5226707342593168",
+    "historyweibo://5226707342593168",
+    "sinaweibo://detail?mblogid=5226874318886358",
+    "sinaweibo://detail?mblogid=5226789715839672",
+    "sinaweibo://detail?mblogid=5226775313388034",
+    "sinaweibo://detail?mblogid=5226748388049480",
+    "sinaweibo://detail?mblogid=5226829738672746",
+    "sinaweibo://detail?mblogid=5226736011973292",
+    "sinaweibo://detail?mblogid=5226902983542230",
+    "sinaweibo://detail?mblogid=5226909137109618",
+    "sinaweibo://detail?mblogid=5226907555857096",
+    "sinaweibo://detail?mblogid=5226905959924066",
+    "sinaweibo://detail?mblogid=5226896923034471",
+    "sinaweibo://detail?mblogid=5226895283325399",
+    "sinaweibo://detail?mblogid=5226878323656649",
+    "sinaweibo://detail?mblogid=5226860670879018",
+    "sinaweibo://detail?mblogid=5226799652933967",
+    "sinaweibo://detail?mblogid=5226794603251185",
+    "sinaweibo://detail?mblogid=5226790486280012",
+    "sinaweibo://detail?mblogid=5226786054735536",
+    "sinaweibo://detail?mblogid=5226780601618851",
+    "sinaweibo://detail?mblogid=5226778532776288",
+    "sinaweibo://detail?mblogid=4976355949938425",
+    "sinaweibo://detail?mblogid=5226772348274704",
+    "sinaweibo://detail?mblogid=4944472636395350",
+    "sinaweibo://detail?mblogid=5071673283842221",
+    "sinaweibo://detail?mblogid=5036401227729561"
+  ],
+  "media": [
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/65fb5cbfly1h7s9mj14p4j20zk0k0zlf.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/65fb5cbfly1h7s9mj14p4j20zk0k0zlf.jpg",
+      "alt": "渭南检察",
+      "width": 720,
+      "height": 1280,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/65fb5cbfly1h7s9mj14p4j20zk0k0zlf.jpg"
+      ],
+      "user": "渭南检察"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/8a2dedddly1ht1df7ue5rj20u01hcq5n.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/8a2dedddly1ht1df7ue5rj20u01hcq5n.jpg",
+      "alt": "半月谈",
+      "width": 1920,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/8a2dedddly1ht1df7ue5rj20u01hcq5n.jpg"
+      ],
+      "user": "半月谈"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/812ffe02ly1i1yhpf1dmuj219t0psgzz.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/812ffe02ly1i1yhpf1dmuj219t0psgzz.jpg",
+      "alt": "观察者网",
+      "width": 928,
+      "height": 1649,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/812ffe02ly1i1yhpf1dmuj219t0psgzz.jpg"
+      ],
+      "user": "观察者网"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/003z5L7fly1i1f5yyk6knj60mo0crdse02.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/003z5L7fly1i1f5yyk6knj60mo0crdse02.jpg",
+      "alt": "央视网",
+      "width": 459,
+      "height": 816,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx4.sinaimg.cn/large/003z5L7fly1i1f5yyk6knj60mo0crdse02.jpg"
+      ],
+      "user": "央视网"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/002uLDeXly1i6rv7f3p0ij60k00zkdgy02.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/002uLDeXly1i6rv7f3p0ij60k00zkdgy02.jpg",
+      "alt": "人民网",
+      "width": 1280,
+      "height": 720,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/002uLDeXly1i6rv7f3p0ij60k00zkdgy02.jpg"
+      ],
+      "user": "人民网"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/75dda851ly1i0pkbh99fxj20zk0k0whh.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/75dda851ly1i0pkbh99fxj20zk0k0whh.jpg",
+      "alt": "白银市检察院",
+      "width": 720,
+      "height": 1280,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/75dda851ly1i0pkbh99fxj20zk0k0whh.jpg"
+      ],
+      "user": "白银市检察院"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/6b0e1e9dly8hpwvp56vc5j21hc0u045k.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/6b0e1e9dly8hpwvp56vc5j21hc0u045k.jpg",
+      "alt": "荔枝新闻",
+      "width": 1080,
+      "height": 1920,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/6b0e1e9dly8hpwvp56vc5j21hc0u045k.jpg"
+      ],
+      "user": "荔枝新闻"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/698e48bbly1i6s7fodc94j20k00zkmyb.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/698e48bbly1i6s7fodc94j20k00zkmyb.jpg",
+      "alt": "eva-yangyang",
+      "width": 1280,
+      "height": 720,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/698e48bbly1i6s7fodc94j20k00zkmyb.jpg"
+      ],
+      "user": "eva-yangyang"
+    }
+  ],
+  "html_path": "data/aicard/hourly/2025-10-29/02/topic-77472819.html"
+}

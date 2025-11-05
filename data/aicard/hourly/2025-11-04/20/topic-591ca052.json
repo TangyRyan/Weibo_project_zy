@@ -1,0 +1,291 @@
+{
+  "meta": {
+    "query": "#以军下令停用中国汽车#",
+    "status_code": 200,
+    "fetched_at": "2025-11-04T20:52:18+08:00",
+    "response": {
+      "q_attr": {
+        "from_uid": "",
+        "mid": "",
+        "from_request_id": "",
+        "reply_cid": "",
+        "comment_from_type": ""
+      },
+      "wenda": {
+        "forward_gen": 0
+      },
+      "ext_show": {},
+      "mid_list": null,
+      "reference_num": 25,
+      "current_time": 1762260738,
+      "status_stage": 4,
+      "link_list": [
+        "sinaweibo://detail?mblogid=5228971188817185",
+        "sinaweibo://detail?mblogid=5229003931650420",
+        "sinaweibo://detail?mblogid=5228985829035923",
+        "sinaweibo://detail?mblogid=5229016814458492",
+        "sinaweibo://detail?mblogid=5229353081245359",
+        "sinaweibo://detail?mblogid=5229202572839097",
+        "sinaweibo://detail?mblogid=5229355522326605",
+        "sinaweibo://detail?mblogid=5229200959344248",
+        "historyweibo://5157859810086281",
+        "historyweibo://5152472725194963",
+        "historyweibo://5145471829150544",
+        "sinaweibo://detail?mblogid=5229352132283153",
+        "sinaweibo://detail?mblogid=5229352947026485",
+        "sinaweibo://detail?mblogid=5229360149695979",
+        "sinaweibo://detail?mblogid=5229359042659711",
+        "sinaweibo://detail?mblogid=5229354820830803",
+        "sinaweibo://detail?mblogid=5229354247262891",
+        "sinaweibo://detail?mblogid=5229353081243774",
+        "sinaweibo://detail?mblogid=5228969348564966",
+        "sinaweibo://detail?mblogid=5228973018582356",
+        "sinaweibo://detail?mblogid=5228857984811995",
+        "sinaweibo://detail?mblogid=5228944170947149",
+        "sinaweibo://detail?mblogid=5228998885639321",
+        "sinaweibo://detail?mblogid=5228995643965580",
+        "sinaweibo://detail?mblogid=5229350204739513",
+        "sinaweibo://detail?mblogid=5229174690415166",
+        "sinaweibo://detail?mblogid=5228891505431155",
+        "sinaweibo://detail?mblogid=5229353638303236"
+      ],
+      "uid": "",
+      "profile_image_url": "",
+      "share_card_multimodal": {
+        "click_rate": 0.064758329422806,
+        "img": "http://wx2.sinaimg.cn/middle/0064BRSPly1i6z7mr1mg2j31dc0vytvj.jpg",
+        "vtype": 0,
+        "cur_mid": "5228971188817185",
+        "hit_score_new": 0,
+        "user_name": "无心简影",
+        "scheme": "sinaweibo://multimedia?mix_mid=5228971188817185&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=1&multi_count=0",
+        "user_avatar": "https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/0064BRSPly8g0cfvaho4dj30u00u0dgz.jpg?KID=imgbed,tva&Expires=1762270882&ssig=h4Lxbqx%2FEU",
+        "h": 1150,
+        "video_url": "",
+        "w": 1776,
+        "type": "p",
+        "hit_score_final": 0,
+        "doc_score": 0,
+        "img_pid": "0064BRSPly1i6z7mr1mg2j31dc0vytvj",
+        "click_num": 0
+      },
+      "basemodel": "实验组2",
+      "loop_times": 200,
+      "short_url": "http://t.cn/AXATtYFB",
+      "chat_status_stage": 1,
+      "unify_md5": "591ca0529c5998fbf6d3bc557a77bbbf",
+      "reliable_tips": "{\"gold_orange_v_mids\": [\"5228971188817185\", \"5228969348564966\", \"5228998885639321\", \"5229355522326605\", \"5228944170947149\", \"5229352132283153\", \"5229352947026485\", \"5229174690415166\", \"5229354820830803\", \"5229200959344248\", \"5229353081245359\", \"5228995643965580\", \"5229003931650420\", \"5228985829035923\", \"5229202572839097\", \"5229360149695979\", \"5229359042659711\", \"5229354247262891\", \"5228857984811995\"], \"gold_orange_v_ratio\": \"76%\", \"media_mids\": [], \"media_ratio\": \"0%\", \"verified_mids\": [\"5229016814458492\", \"5228973018582356\", \"5229353638303236\"], \"verified_ratio\": \"12%\", \"normal_mids\": [\"5229350204739513\", \"5229353081243774\", \"5228891505431155\"], \"normal_ratio\": \"12%\", \"ref_mid_rank\": {\"5228971188817185\": {\"rank\": 1}, \"5229016814458492\": {\"rank\": 4}, \"5228969348564966\": {\"rank\": 19}, \"5228998885639321\": {\"rank\": 23}, \"5229355522326605\": {\"rank\": 7}, \"5228944170947149\": {\"rank\": 22}, \"5229350204739513\": {\"rank\": 25}, \"5229352132283153\": {\"rank\": 12}, \"5229352947026485\": {\"rank\": 13}, \"5228973018582356\": {\"rank\": 20}, \"5229174690415166\": {\"rank\": 26}, \"5229354820830803\": {\"rank\": 16}, \"5229200959344248\": {\"rank\": 8}, \"5229353081245359\": {\"rank\": 5}, \"5228995643965580\": {\"rank\": 24}, \"5229003931650420\": {\"rank\": 2}, \"5228985829035923\": {\"rank\": 3}, \"5229202572839097\": {\"rank\": 6}, \"5229360149695979\": {\"rank\": 14}, \"5229359042659711\": {\"rank\": 15}, \"5229354247262891\": {\"rank\": 17}, \"5229353081243774\": {\"rank\": 18}, \"5228857984811995\": {\"rank\": 21}, \"5228891505431155\": {\"rank\": 27}, \"5229353638303236\": {\"rank\": 28}}}",
+      "msg": "<think><br><br>嗯，用户想了解关于以军下令停用中国汽车的情况。这个问题涉及到地缘政治、科技安全和国际贸易等多个层面，需要从多方面分析。<br><br>从搜索结果看，主要信息来自2025年11月3日至4日的微博内容，包括认证账号、大V账号和普通账号的讨论。核心信息点是：以色列国防军以\"国家安全\"为由，计划在2026年第一季度前分阶段替换约600-700辆军官使用的中国汽车，主要是奇瑞七座车型。<br><br>有意思的是，虽然以军声称是出于安全考虑，但多个信源显示其内部承认\"没有证据表明中国车在收集数据\"。更矛盾的是，在最敏感的基里亚军事总部，中国名爵电动车仍在安保部队使用。这种选择性禁用暴露出政策的矛盾性。<br><br>特别注意到叶建勛的分析视频和绿之梦的评论都强调这是政治作秀而非真正的安全威胁。他们认为以色列此举主要是回应美国压力，因为美英近期都在炒作\"中国汽车威胁论\"。<br><br>还值得注意的是经济影响：中国电动车在以色列市占率达82%，禁令将迫使以军改用油耗更高的日本燃油车，阻碍其环保目标。且以军要求租赁公司对禁令保密，显示其担心中国反制。<br><br>飞扬军事铁背心和空警世界从技术层面反驳了安全指控，指出智能汽车的联网功能是全球标准配置，单独针对中国是双重标准。霹雳車王的讽刺评论也凸显了禁令的荒谬性。<br><br>最后要提的是背景关联：搜索结果9-11显示2025年3-4月以军多次袭击加沙救援车队并试图掩盖，这可能影响中以关系，但未发现与汽车禁令有直接因果关系。<br><br></think><br>以军下令停用中国汽车的事件核心脉络与争议焦点如下：<br>### 一、禁令核心内容与实施安排<br>1. **分阶段执行计划**  <br>   - **首阶段（当前启动）**：针对接触敏感信息的军官，停用其配备的约600-700辆中国品牌汽车（以奇瑞七座车型为主）；```wbCustomBlock{\"type\": \"quoted\", \"index\": 4, \"data\": {\"num\": [1, 4, 19], \"version\": 2, \"quote_list\": [{\"name\": \"无心简影\", \"scheme\": \"sinaweibo://detail?mblogid=5228971188817185\", \"index\": 1, \"label\": \"大v\"}, {\"name\": \"新浪军事\", \"scheme\": \"sinaweibo://detail?mblogid=5229016814458492\", \"index\": 4, \"label\": \"\"}, {\"name\": \"白俄罗斯大宽\", \"scheme\": \"sinaweibo://detail?mblogid=5228969348564966\", \"index\": 19, \"label\": \"\"}], \"name\": \"无心简影\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/0064BRSPly8g0cfvaho4dj30u00u0dgz.jpg?KID=imgbed,tva&Expires=1762270882&ssig=h4Lxbqx%2FEU\", \"scheme\": \"sinaweibo://detail?mblogid=5228971188817185\", \"vType\": 0}}```  <br>   - **全面覆盖（2026年一季度前）**：扩展到所有军官，车辆将被日本三菱等品牌替代。```wbCustomBlock{\"type\": \"quoted\", \"index\": 5, \"data\": {\"num\": [4, 23], \"version\": 2, \"quote_list\": [{\"name\": \"新浪军事\", \"scheme\": \"sinaweibo://detail?mblogid=5229016814458492\", \"index\": 4, \"label\": \"\"}, {\"name\": \"大象搬砖\", \"scheme\": \"sinaweibo://detail?mblogid=5228998885639321\", \"index\": 23, \"label\": \"\"}]}}```  <br>2. **配套限制措施**  <br>   - 已禁止中国车进入茨里芬军事基地等敏感区域；```wbCustomBlock{\"type\": \"quoted\", \"index\": 7, \"data\": {\"num\": [1, 4], \"version\": 2, \"quote_list\": [{\"name\": \"无心简影\", \"scheme\": \"sinaweibo://detail?mblogid=5228971188817185\", \"index\": 1, \"label\": \"\"}, {\"name\": \"新浪军事\", \"scheme\": \"sinaweibo://detail?mblogid=5229016814458492\", \"index\": 4, \"label\": \"\"}]}}```  <br>   - 在1万辆新公务车招标中秘密剔除中国品牌，改用斯柯达、起亚等燃油车。```wbCustomBlock{\"type\": \"quoted\", \"index\": 8, \"data\": {\"num\": [4, 7], \"version\": 2, \"quote_list\": [{\"name\": \"新浪军事\", \"scheme\": \"sinaweibo://detail?mblogid=5229016814458492\", \"index\": 4, \"label\": \"\"}, {\"name\": \"绿之梦---向前冲\", \"scheme\": \"sinaweibo://detail?mblogid=5229355522326605\", \"index\": 7, \"label\": \"\"}]}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5228971188817185&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=1&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/0064BRSPly8g0cfvaho4dj30u00u0dgz.jpg?KID=imgbed,tva&Expires=1762270882&ssig=h4Lxbqx%2FEU) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">无心简影</span><img src=\"http://wx2.sinaimg.cn/middle/0064BRSPly1i6z7mr1mg2j31dc0vytvj.jpg\" data-width=1150 data-height=1776></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5229016814458492&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=1\"><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.461.461.50/001Ds5xfly8h8vgjdxo3uj60ct0ctq3c02.jpg?KID=imgbed,tva&Expires=1762270882&ssig=rVEx2G6z35) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">新浪军事</span><img src=\"http://wx4.sinaimg.cn/middle/001Ds5xfgy1i6zde4f6bhj61z41bfgzg02.jpg\" data-width=1707 data-height=2560></div></media-block><br>### 二、以方官方理由与矛盾点<br>1. **安全指控无实质证据**  <br>   - 以军承认“无迹象表明中国车主动收集数据”，主要担忧是黑客可能利用车载设备窃密；```wbCustomBlock{\"type\": \"quoted\", \"index\": 11, \"data\": {\"num\": [1, 4, 22], \"version\": 2, \"quote_list\": [{\"name\": \"空警世界\", \"scheme\": \"sinaweibo://detail?mblogid=5228944170947149\", \"index\": 22, \"label\": \"大v\"}, {\"name\": \"无心简影\", \"scheme\": \"sinaweibo://detail?mblogid=5228971188817185\", \"index\": 1, \"label\": \"\"}, {\"name\": \"新浪军事\", \"scheme\": \"sinaweibo://detail?mblogid=5229016814458492\", \"index\": 4, \"label\": \"\"}], \"name\": \"空警世界\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.450.450.50/774cf065ly1fxfz76qusxj20ci0ci0tr.jpg?KID=imgbed,tva&Expires=1762270882&ssig=T8T5wfNPwh\", \"scheme\": \"sinaweibo://detail?mblogid=5228944170947149\", \"vType\": 0}}```  <br>   - 此前供应车辆已对多媒体系统做“净化处理”阻止数据外传，但新规仍以“风险”为由禁用。```wbCustomBlock{\"type\": \"quoted\", \"index\": 12, \"data\": {\"num\": [1, 25], \"version\": 2, \"quote_list\": [{\"name\": \"无心简影\", \"scheme\": \"sinaweibo://detail?mblogid=5228971188817185\", \"index\": 1, \"label\": \"\"}, {\"name\": \"河北新闻哥\", \"scheme\": \"sinaweibo://detail?mblogid=5229350204739513\", \"index\": 25, \"label\": \"\"}]}}```  <br>2. **政策自相矛盾**  <br>   - **基里亚总部例外**：以军最核心的指挥中心（含国防部、总参谋部）仍在安保中使用中国名爵电动车；```wbCustomBlock{\"type\": \"quoted\", \"index\": 14, \"data\": {\"num\": [1, 4, 7], \"version\": 2, \"quote_list\": [{\"name\": \"无心简影\", \"scheme\": \"sinaweibo://detail?mblogid=5228971188817185\", \"index\": 1, \"label\": \"\"}, {\"name\": \"新浪军事\", \"scheme\": \"sinaweibo://detail?mblogid=5229016814458492\", \"index\": 4, \"label\": \"\"}, {\"name\": \"绿之梦---向前冲\", \"scheme\": \"sinaweibo://detail?mblogid=5229355522326605\", \"index\": 7, \"label\": \"\"}]}}```  <br>   - **双重标准争议**：禁用奇瑞却保留名爵，被批“安全审查标准混乱”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 15, \"data\": {\"num\": [12, 13], \"version\": 2, \"quote_list\": [{\"name\": \"滚滚柚的羊毛毡\", \"scheme\": \"sinaweibo://detail?mblogid=5229352132283153\", \"index\": 12, \"label\": \"大v\"}, {\"name\": \"拿铁咖啡热的谢谢\", \"scheme\": \"sinaweibo://detail?mblogid=5229352947026485\", \"index\": 13, \"label\": \"\"}], \"name\": \"滚滚柚的羊毛毡\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.800.800.50/69d1f689ly8hkipk2u59zj20m80m8dic.jpg?KID=imgbed,tva&Expires=1762270882&ssig=s0fJIVsdEr\", \"scheme\": \"sinaweibo://detail?mblogid=5229352132283153\", \"vType\": 0}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5228944170947149&multi_paragraph=2&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.450.450.50/774cf065ly1fxfz76qusxj20ci0ci0tr.jpg?KID=imgbed,tva&Expires=1762270882&ssig=T8T5wfNPwh) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">空警世界</span><img src=\"http://wx3.sinaimg.cn/middle/002bsdDLly1i6z51t31a1j60nq0dcmxv02.jpg\" data-width=480 data-height=854></div></media-block><br>### 三、地缘政治驱动因素<br>1. **美英施压的直接反映**  <br>   - 以媒明确指认禁令效仿美英“敏感区域封杀中国车”政策，一名官员坦言“与美国关系有关”；```wbCustomBlock{\"type\": \"quoted\", \"index\": 18, \"data\": {\"num\": [4, 20, 26], \"version\": 2, \"quote_list\": [{\"name\": \"观察者网\", \"scheme\": \"sinaweibo://detail?mblogid=5228973018582356\", \"index\": 20, \"label\": \"大v\"}, {\"name\": \"新浪军事\", \"scheme\": \"sinaweibo://detail?mblogid=5229016814458492\", \"index\": 4, \"label\": \"\"}, {\"name\": \"沉默的山羊\", \"scheme\": \"sinaweibo://detail?mblogid=5229174690415166\", \"index\": 26, \"label\": \"\"}], \"name\": \"观察者网\", \"img\": \"https://tvax3.sinaimg.cn/crop.6.8.591.591.50/707e96d5ly8h8vg9v0hpjj20go0gowf6.jpg?KID=imgbed,tva&Expires=1762270882&ssig=BA3bsfjJsI\", \"scheme\": \"sinaweibo://detail?mblogid=5228973018582356\", \"vType\": 3}}```  <br>   - 美国此前炒作“中国可远程瘫痪百万辆汽车”，英国渲染中国车为“特洛伊木马”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 19, \"data\": {\"num\": [4, 7], \"version\": 2, \"quote_list\": [{\"name\": \"新浪军事\", \"scheme\": \"sinaweibo://detail?mblogid=5229016814458492\", \"index\": 4, \"label\": \"\"}, {\"name\": \"绿之梦---向前冲\", \"scheme\": \"sinaweibo://detail?mblogid=5229355522326605\", \"index\": 7, \"label\": \"\"}]}}```  <br>2. **以色列的站队姿态**  <br>   - 内部要求对禁令“保密执行”，避免刺激中国，显示其在经济依赖（中国占以电动车市场82%）与安全绑定美国间的挣扎。```wbCustomBlock{\"type\": \"quoted\", \"index\": 21, \"data\": {\"num\": [4, 7, 23], \"version\": 2, \"quote_list\": [{\"name\": \"新浪军事\", \"scheme\": \"sinaweibo://detail?mblogid=5229016814458492\", \"index\": 4, \"label\": \"\"}, {\"name\": \"绿之梦---向前冲\", \"scheme\": \"sinaweibo://detail?mblogid=5229355522326605\", \"index\": 7, \"label\": \"\"}, {\"name\": \"大象搬砖\", \"scheme\": \"sinaweibo://detail?mblogid=5228998885639321\", \"index\": 23, \"label\": \"\"}]}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5229174690415166&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=3&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.996.996.50/49eca83dly8gdihixqj73j20ro0rowg4.jpg?KID=imgbed,tva&Expires=1762270882&ssig=1QSKq16Kko) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">沉默的山羊</span><img src=\"http://wx2.sinaimg.cn/middle/49eca83dgy1i6zvj2neyqj20k00t1tdf.jpg\" data-width=1045 data-height=720></div></media-block><br>### 四、潜在影响与各方反应<br>1. **以军面临现实代价**  <br>   - 替换车辆均为燃油车，推高油耗与污染，背离以色列2030绿色转型目标；```wbCustomBlock{\"type\": \"quoted\", \"index\": 24, \"data\": {\"num\": [4, 7, 23], \"version\": 2, \"quote_list\": [{\"name\": \"新浪军事\", \"scheme\": \"sinaweibo://detail?mblogid=5229016814458492\", \"index\": 4, \"label\": \"\"}, {\"name\": \"绿之梦---向前冲\", \"scheme\": \"sinaweibo://detail?mblogid=5229355522326605\", \"index\": 7, \"label\": \"\"}, {\"name\": \"大象搬砖\", \"scheme\": \"sinaweibo://detail?mblogid=5228998885639321\", \"index\": 23, \"label\": \"\"}]}}```  <br>   - 改用非中国品牌将增加财政负担，可能引发军官不满。```wbCustomBlock{\"type\": \"quoted\", \"index\": 25, \"data\": {\"num\": [7, 16], \"version\": 2, \"quote_list\": [{\"name\": \"霹雳車王\", \"scheme\": \"sinaweibo://detail?mblogid=5229354820830803\", \"index\": 16, \"label\": \"大v\"}, {\"name\": \"绿之梦---向前冲\", \"scheme\": \"sinaweibo://detail?mblogid=5229355522326605\", \"index\": 7, \"label\": \"\"}], \"name\": \"霹雳車王\", \"img\": \"https://tva2.sinaimg.cn/crop.0.0.180.180.50/8ccf6cf7jw1e8qgp5bmzyj2050050aa8.jpg?KID=imgbed,tva&Expires=1762270882&ssig=ud4Q3apEk3\", \"scheme\": \"sinaweibo://detail?mblogid=5229354820830803\", \"vType\": 0}}```  <br>2. **中方与舆论驳斥**  <br>   - 中国驻以大使驳斥安全指控“毫无根据”；```wbCustomBlock{\"type\": \"quoted\", \"index\": 27, \"data\": {\"num\": [1, 4, 25], \"version\": 2, \"quote_list\": [{\"name\": \"无心简影\", \"scheme\": \"sinaweibo://detail?mblogid=5228971188817185\", \"index\": 1, \"label\": \"\"}, {\"name\": \"新浪军事\", \"scheme\": \"sinaweibo://detail?mblogid=5229016814458492\", \"index\": 4, \"label\": \"\"}, {\"name\": \"河北新闻哥\", \"scheme\": \"sinaweibo://detail?mblogid=5229350204739513\", \"index\": 25, \"label\": \"\"}]}}```  <br>   - 技术专家指出：车载智能功能属全球通行配置，单独针对中国是“政治污名化”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 28, \"data\": {\"num\": [8, 22], \"version\": 2, \"quote_list\": [{\"name\": \"飞扬军事铁背心\", \"scheme\": \"sinaweibo://detail?mblogid=5229200959344248\", \"index\": 8, \"label\": \"大v\"}, {\"name\": \"空警世界\", \"scheme\": \"sinaweibo://detail?mblogid=5228944170947149\", \"index\": 22, \"label\": \"\"}], \"name\": \"飞扬军事铁背心\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.600.600.50/7f8d08b2ly8hhhg8qtwr1j20go0gowfu.jpg?KID=imgbed,tva&Expires=1762270882&ssig=VKqPbgAJ4y\", \"scheme\": \"sinaweibo://detail?mblogid=5229200959344248\", \"vType\": 0}}```  <br>3. **民间讽刺与警示**  <br>   - 网友调侃禁令逻辑：“若真泄密，为何核心基地仍用中国车？”；```wbCustomBlock{\"type\": \"quoted\", \"index\": 30, \"data\": {\"num\": [12, 16], \"version\": 2, \"quote_list\": [{\"name\": \"滚滚柚的羊毛毡\", \"scheme\": \"sinaweibo://detail?mblogid=5229352132283153\", \"index\": 12, \"label\": \"\"}, {\"name\": \"霹雳車王\", \"scheme\": \"sinaweibo://detail?mblogid=5229354820830803\", \"index\": 16, \"label\": \"\"}]}}```  <br>   - 分析警告：此举可能招致中方反制，冲击以色列重卡清关、充电桩建设等中国技术支持项目。```wbCustomBlock{\"type\": \"quoted\", \"index\": 31, \"data\": {\"num\": [7, 23], \"version\": 2, \"quote_list\": [{\"name\": \"绿之梦---向前冲\", \"scheme\": \"sinaweibo://detail?mblogid=5229355522326605\", \"index\": 7, \"label\": \"\"}, {\"name\": \"大象搬砖\", \"scheme\": \"sinaweibo://detail?mblogid=5228998885639321\", \"index\": 23, \"label\": \"\"}]}}```<br>### 五、事件本质解读  <br>该禁令实质是**政治象征大于安全需求**：  <br>- 以军明知技术风险可控（核心基地未停用），却仍配合美国“科技冷战”策略；```wbCustomBlock{\"type\": \"quoted\", \"index\": 33, \"data\": {\"num\": [5, 8], \"version\": 2, \"quote_list\": [{\"name\": \"叶建勛\", \"scheme\": \"sinaweibo://detail?mblogid=5229353081245359\", \"index\": 5, \"label\": \"大v\"}, {\"name\": \"飞扬军事铁背心\", \"scheme\": \"sinaweibo://detail?mblogid=5229200959344248\", \"index\": 8, \"label\": \"\"}], \"name\": \"叶建勛\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.939.939.50/6e37d435ly8htbsbuak08j20q40q340k.jpg?KID=imgbed,tva&Expires=1762270882&ssig=CiSqvrTYuH\", \"scheme\": \"sinaweibo://detail?mblogid=5229353081245359\", \"vType\": 0}}```  <br>- 暴露以色列在中美博弈中“经济靠华、安全依美”的战略困境，最终以牺牲环保与经济效率为代价换取政治表态。```wbCustomBlock{\"type\": \"quoted\", \"index\": 34, \"data\": {\"num\": [5, 7, 24], \"version\": 2, \"quote_list\": [{\"name\": \"中道领航\", \"scheme\": \"sinaweibo://detail?mblogid=5228995643965580\", \"index\": 24, \"label\": \"大v\"}, {\"name\": \"叶建勛\", \"scheme\": \"sinaweibo://detail?mblogid=5229353081245359\", \"index\": 5, \"label\": \"\"}, {\"name\": \"绿之梦---向前冲\", \"scheme\": \"sinaweibo://detail?mblogid=5229355522326605\", \"index\": 7, \"label\": \"\"}], \"name\": \"中道领航\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.1002.1002.50/006BKSL8ly8i46jjgdai3j30ru0rv78b.jpg?KID=imgbed,tva&Expires=1762270882&ssig=knhyN7fDRF\", \"scheme\": \"sinaweibo://detail?mblogid=5228995643965580\", \"vType\": 0}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5229353081245359&multi_paragraph=5&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.939.939.50/6e37d435ly8htbsbuak08j20q40q340k.jpg?KID=imgbed,tva&Expires=1762270882&ssig=CiSqvrTYuH) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">叶建勛</span><img src=\"http://wx4.sinaimg.cn/middle/6e37d435ly1i70fyj018qj21hc0u0wg7.jpg\" data-width=1080 data-height=1920></div></media-block><br>",
+      "model": "deepseek",
+      "qs_status_info": "{\"qs_u_status\":0,\"qs_c_status\":8388608,\"qs_q_status\":0,\"ab_lab\":{},\"qs_status\":0,\"qs_r_status\":0}",
+      "comment_info": {},
+      "sorted_material_list": null,
+      "ab_suffix": "default",
+      "page_id": "2329646bd133f4c5e4ea8b5f4fcb8894f4ead0",
+      "scheme": "sinaweibo://cardlist?containerid=100103type%3D225%26q%3D%23%E4%BB%A5%E5%86%9B%E4%B8%8B%E4%BB%A4%E5%81%9C%E7%94%A8%E4%B8%AD%E5%9B%BD%E6%B1%BD%E8%BD%A6%23%26t%3D&extparam=ai_model%3Ddeepseek%26ori_ai_title%3D%E5%8F%82%E8%80%83%E5%8D%9A%E6%96%87%26material_version%3D1762260082",
+      "zs_risk_control": {
+        "think_text_close": 0,
+        "land_button_close": 0
+      },
+      "qs_status": 0,
+      "news_analyze": {},
+      "share_text": "#以军下令停用中国汽车#的相关内容，来智搜看看",
+      "query_category": "Ip",
+      "msg_format": "markdown",
+      "query": "#以军下令停用中国汽车#",
+      "user_info": {},
+      "msg_json": "{}",
+      "show_ctrl": {
+        "quote": {}
+      },
+      "card_multimodal": {
+        "data": [
+          {
+            "click_rate": 0.064758329422806,
+            "img": "http://wx2.sinaimg.cn/middle/0064BRSPly1i6z7mr1mg2j31dc0vytvj.jpg",
+            "vtype": 0,
+            "cur_mid": "5228971188817185",
+            "hit_score_new": 0,
+            "user_name": "无心简影",
+            "scheme": "sinaweibo://multimedia?mix_mid=5228971188817185&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=1&multi_count=0",
+            "user_avatar": "https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/0064BRSPly8g0cfvaho4dj30u00u0dgz.jpg?KID=imgbed,tva&Expires=1762270882&ssig=h4Lxbqx%2FEU",
+            "h": 1150,
+            "video_url": "",
+            "w": 1776,
+            "type": "p",
+            "hit_score_final": 0,
+            "doc_score": 0,
+            "img_pid": "0064BRSPly1i6z7mr1mg2j31dc0vytvj",
+            "click_num": 0
+          },
+          {
+            "click_rate": 0.06,
+            "img": "http://wx4.sinaimg.cn/middle/001Ds5xfgy1i6zde4f6bhj61z41bfgzg02.jpg",
+            "vtype": 3,
+            "cur_mid": "5229016814458492",
+            "hit_score_new": 96.679688,
+            "user_name": "新浪军事",
+            "scheme": "sinaweibo://multimedia?mix_mid=5229016814458492&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=1",
+            "user_avatar": "https://tvax2.sinaimg.cn/crop.0.0.461.461.50/001Ds5xfly8h8vgjdxo3uj60ct0ctq3c02.jpg?KID=imgbed,tva&Expires=1762270882&ssig=rVEx2G6z35",
+            "h": 1707,
+            "video_url": "",
+            "w": 2560,
+            "type": "p",
+            "hit_score_final": 86.007812,
+            "doc_score": 3922,
+            "img_pid": "001Ds5xfgy1i6zde4f6bhj61z41bfgzg02",
+            "click_num": 0
+          },
+          {
+            "click_rate": 0.068181818181818,
+            "img": "http://wx3.sinaimg.cn/middle/002bsdDLly1i6z51t31a1j60nq0dcmxv02.jpg",
+            "vtype": 0,
+            "cur_mid": "5228944170947149",
+            "hit_score_new": 88.574219,
+            "user_name": "空警世界",
+            "scheme": "sinaweibo://video/vvs?mid=5228944170947149&multi_paragraph=2&multi_count=0",
+            "user_avatar": "https://tvax4.sinaimg.cn/crop.0.0.450.450.50/774cf065ly1fxfz76qusxj20ci0ci0tr.jpg?KID=imgbed,tva&Expires=1762270882&ssig=T8T5wfNPwh",
+            "h": 480,
+            "video_url": "https://video.weibo.com/show?fid=1034:5228944069427262",
+            "w": 854,
+            "type": "v",
+            "hit_score_final": 80.744537,
+            "doc_score": 2946,
+            "img_pid": "002bsdDLly1i6z51t31a1j60nq0dcmxv02",
+            "click_num": 0
+          },
+          {
+            "click_rate": 0.064758329422806,
+            "img": "http://wx2.sinaimg.cn/middle/0064BRSPly1i6z7mr1mg2j31dc0vytvj.jpg",
+            "vtype": 0,
+            "cur_mid": "5228971188817185",
+            "hit_score_new": 0,
+            "user_name": "无心简影",
+            "scheme": "sinaweibo://multimedia?mix_mid=5228971188817185&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=1&multi_count=0",
+            "user_avatar": "https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/0064BRSPly8g0cfvaho4dj30u00u0dgz.jpg?KID=imgbed,tva&Expires=1762270882&ssig=h4Lxbqx%2FEU",
+            "h": 1150,
+            "video_url": "",
+            "w": 1776,
+            "type": "p",
+            "hit_score_final": 0,
+            "doc_score": 0,
+            "img_pid": "0064BRSPly1i6z7mr1mg2j31dc0vytvj",
+            "click_num": 0
+          }
+        ],
+        "type": "mediablock"
+      },
+      "status": 2,
+      "version": "2025-11-04 20:41:22.015000-8384",
+      "abtest_info": {
+        "chat_entrance": 1
+      },
+      "cot": 1,
+      "query_field": "5",
+      "share_info": {
+        "status": 3,
+        "unify_md5": "591ca0529c5998fbf6d3bc557a77bbbf",
+        "comment_content": "",
+        "page_id": "2329646bd133f4c5e4ea8b5f4fcb8894f4ead0",
+        "url": "http://t.cn/AXATHoss",
+        "tips": "#以军下令停用中国汽车#的相关内容，来智搜看看",
+        "display_name": "#以军下令停用中国汽车#"
+      },
+      "analysis_time": 1762260220,
+      "top_quote_list": {}
+    }
+  },
+  "links": [
+    "sinaweibo://detail?mblogid=5228971188817185",
+    "sinaweibo://detail?mblogid=5229003931650420",
+    "sinaweibo://detail?mblogid=5228985829035923",
+    "sinaweibo://detail?mblogid=5229016814458492",
+    "sinaweibo://detail?mblogid=5229353081245359",
+    "sinaweibo://detail?mblogid=5229202572839097",
+    "sinaweibo://detail?mblogid=5229355522326605",
+    "sinaweibo://detail?mblogid=5229200959344248",
+    "historyweibo://5157859810086281",
+    "historyweibo://5152472725194963",
+    "historyweibo://5145471829150544",
+    "sinaweibo://detail?mblogid=5229352132283153",
+    "sinaweibo://detail?mblogid=5229352947026485",
+    "sinaweibo://detail?mblogid=5229360149695979",
+    "sinaweibo://detail?mblogid=5229359042659711",
+    "sinaweibo://detail?mblogid=5229354820830803",
+    "sinaweibo://detail?mblogid=5229354247262891",
+    "sinaweibo://detail?mblogid=5229353081243774",
+    "sinaweibo://detail?mblogid=5228969348564966",
+    "sinaweibo://detail?mblogid=5228973018582356",
+    "sinaweibo://detail?mblogid=5228857984811995",
+    "sinaweibo://detail?mblogid=5228944170947149",
+    "sinaweibo://detail?mblogid=5228998885639321",
+    "sinaweibo://detail?mblogid=5228995643965580",
+    "sinaweibo://detail?mblogid=5229350204739513",
+    "sinaweibo://detail?mblogid=5229174690415166",
+    "sinaweibo://detail?mblogid=5228891505431155",
+    "sinaweibo://detail?mblogid=5229353638303236"
+  ],
+  "media": [
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/0064BRSPly1i6z7mr1mg2j31dc0vytvj.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/0064BRSPly1i6z7mr1mg2j31dc0vytvj.jpg",
+      "alt": "无心简影",
+      "width": 1150,
+      "height": 1776,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/0064BRSPly1i6z7mr1mg2j31dc0vytvj.jpg"
+      ],
+      "user": "无心简影"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/001Ds5xfgy1i6zde4f6bhj61z41bfgzg02.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/001Ds5xfgy1i6zde4f6bhj61z41bfgzg02.jpg",
+      "alt": "新浪军事",
+      "width": 1707,
+      "height": 2560,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/001Ds5xfgy1i6zde4f6bhj61z41bfgzg02.jpg"
+      ],
+      "user": "新浪军事"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/002bsdDLly1i6z51t31a1j60nq0dcmxv02.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/002bsdDLly1i6z51t31a1j60nq0dcmxv02.jpg",
+      "alt": "空警世界",
+      "width": 480,
+      "height": 854,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/002bsdDLly1i6z51t31a1j60nq0dcmxv02.jpg"
+      ],
+      "user": "空警世界"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/49eca83dgy1i6zvj2neyqj20k00t1tdf.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/49eca83dgy1i6zvj2neyqj20k00t1tdf.jpg",
+      "alt": "沉默的山羊",
+      "width": 1045,
+      "height": 720,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/49eca83dgy1i6zvj2neyqj20k00t1tdf.jpg"
+      ],
+      "user": "沉默的山羊"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/6e37d435ly1i70fyj018qj21hc0u0wg7.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/6e37d435ly1i70fyj018qj21hc0u0wg7.jpg",
+      "alt": "叶建勛",
+      "width": 1080,
+      "height": 1920,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/6e37d435ly1i70fyj018qj21hc0u0wg7.jpg"
+      ],
+      "user": "叶建勛"
+    }
+  ],
+  "html_path": "data/aicard/hourly/2025-11-04/20/topic-591ca052.html"
+}

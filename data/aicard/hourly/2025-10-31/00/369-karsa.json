@@ -1,0 +1,314 @@
+{
+  "meta": {
+    "query": "#369问karsa求夸#",
+    "status_code": 200,
+    "fetched_at": "2025-10-31T22:27:18+08:00",
+    "response": {
+      "unify_md5": "58bfd522888a8154af561c50fc3154c3",
+      "status": 2,
+      "analysis_time": 1761885789,
+      "cot": 1,
+      "loop_times": 200,
+      "ext_show": {},
+      "q_attr": {
+        "reply_cid": "",
+        "comment_from_type": "",
+        "mid": "",
+        "from_uid": "",
+        "from_request_id": ""
+      },
+      "page_id": "2329640c97b2f37bcb41aff43ad91e74038fbc",
+      "qs_status": 0,
+      "scheme": "sinaweibo://cardlist?containerid=100103type%3D225%26q%3D%23369%E9%97%AEkarsa%E6%B1%82%E5%A4%B8%23%26t%3D&extparam=ai_model%3Ddeepseek%26ori_ai_title%3D%E5%8F%82%E8%80%83%E5%8D%9A%E6%96%87%26material_version%3D1761885660",
+      "mid_list": null,
+      "reference_num": 21,
+      "status_stage": 4,
+      "link_list": [
+        "sinaweibo://detail?mblogid=5227545194666421",
+        "sinaweibo://detail?mblogid=5207997132308721",
+        "sinaweibo://detail?mblogid=5227759479554463",
+        "sinaweibo://detail?mblogid=5227505427940075",
+        "sinaweibo://detail?mblogid=5227565263625526",
+        "historyweibo://5227545194666421",
+        "historyweibo://5227499182364707",
+        "historyweibo://5138751857366032",
+        "sinaweibo://detail?mblogid=5227590362333513",
+        "sinaweibo://detail?mblogid=5227555290352663",
+        "sinaweibo://detail?mblogid=5227737170315213",
+        "sinaweibo://detail?mblogid=5227709806411906",
+        "sinaweibo://detail?mblogid=5227619226222962",
+        "sinaweibo://detail?mblogid=5227584435781722",
+        "sinaweibo://detail?mblogid=5227742197190650",
+        "sinaweibo://detail?mblogid=5099214705789449",
+        "sinaweibo://detail?mblogid=5227501485557482",
+        "sinaweibo://detail?mblogid=5227575292201838",
+        "sinaweibo://detail?mblogid=5227563892080887",
+        "sinaweibo://detail?mblogid=5227504145272248",
+        "sinaweibo://detail?mblogid=5227504623422637",
+        "sinaweibo://detail?mblogid=5227503237202726",
+        "sinaweibo://detail?mblogid=5227516420687568",
+        "sinaweibo://detail?mblogid=5138805222539735"
+      ],
+      "zs_risk_control": {
+        "think_text_close": 0,
+        "land_button_close": 0
+      },
+      "card_multimodal": {
+        "type": "mediablock",
+        "data": [
+          {
+            "scheme": "sinaweibo://multimedia?mix_mid=5227555290352663&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=0",
+            "hit_score_new": 63.525391,
+            "doc_score": 3514,
+            "img_pid": "006cmbhQgy1i6upiyekawj30jk049dfx",
+            "w": 704,
+            "type": "p",
+            "vtype": 0,
+            "click_rate": 0.39174137462646,
+            "cur_mid": "5227555290352663",
+            "hit_score_final": 70.115234,
+            "img": "http://wx3.sinaimg.cn/middle/006cmbhQgy1i6upiyekawj30jk049dfx.jpg",
+            "user_name": "英雄联盟神吐槽",
+            "user_avatar": "https://tvax2.sinaimg.cn/crop.0.0.439.439.50/006cmbhQly8h8uglinec1j30c70c73yz.jpg?KID=imgbed,tva&Expires=1761896460&ssig=9INtHQA12c",
+            "h": 153,
+            "video_url": ""
+          },
+          {
+            "scheme": "sinaweibo://multimedia?mix_mid=5227501485557482&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=1",
+            "hit_score_new": 62.841797,
+            "doc_score": 2524,
+            "img_pid": "007SWPUQgy1i6ujd5jytgj30v80a174u",
+            "w": 1124,
+            "type": "p",
+            "vtype": 0,
+            "click_rate": 0.22813688212928,
+            "cur_mid": "5227501485557482",
+            "hit_score_final": 63.305077,
+            "img": "http://wx2.sinaimg.cn/middle/007SWPUQgy1i6ujd5jytgj30v80a174u.jpg",
+            "user_name": "快乐大金子",
+            "user_avatar": "https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/007SWPUQly8hnqyyp5p34j30u00u0n0d.jpg?KID=imgbed,tva&Expires=1761896460&ssig=QW%2Bbe0wPdH",
+            "h": 361,
+            "video_url": ""
+          },
+          {
+            "scheme": "sinaweibo://multimedia?mix_mid=5099214705789449&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=2&multi_count=0",
+            "hit_score_new": 87.988281,
+            "doc_score": 2655,
+            "img_pid": "006k9dbSly1hvh9tiqjcxj30ku08bwex",
+            "w": 750,
+            "type": "p",
+            "vtype": 0,
+            "click_rate": 0.32786885245902,
+            "cur_mid": "5099214705789449",
+            "hit_score_final": 77.992973,
+            "img": "http://wx4.sinaimg.cn/middle/006k9dbSly1hvh9tiqjcxj30ku08bwex.jpg",
+            "user_name": "LOL动图菌",
+            "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.578.578.50/006k9dbSly8fr7gntvuqnj30hf0g2jsf.jpg?KID=imgbed,tva&Expires=1761896460&ssig=O%2BLOBfNcFi",
+            "h": 299,
+            "video_url": ""
+          },
+          {
+            "scheme": "sinaweibo://multimedia?mix_mid=5227555290352663&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=0",
+            "hit_score_new": 63.525391,
+            "doc_score": 3514,
+            "img_pid": "006cmbhQgy1i6upiyekawj30jk049dfx",
+            "w": 704,
+            "type": "p",
+            "vtype": 0,
+            "click_rate": 0.39174137462646,
+            "cur_mid": "5227555290352663",
+            "hit_score_final": 70.115234,
+            "img": "http://wx3.sinaimg.cn/middle/006cmbhQgy1i6upiyekawj30jk049dfx.jpg",
+            "user_name": "英雄联盟神吐槽",
+            "user_avatar": "https://tvax2.sinaimg.cn/crop.0.0.439.439.50/006cmbhQly8h8uglinec1j30c70c73yz.jpg?KID=imgbed,tva&Expires=1761896460&ssig=9INtHQA12c",
+            "h": 153,
+            "video_url": ""
+          }
+        ]
+      },
+      "sorted_material_list": null,
+      "query_field": "0",
+      "chat_status_stage": 1,
+      "query_category": "Ip",
+      "qs_status_info": "{\"ab_lab\":{},\"qs_c_status\":8388608,\"qs_r_status\":0,\"qs_q_status\":0,\"qs_u_status\":0,\"qs_status\":0}",
+      "news_analyze": {},
+      "reliable_tips": "{\"gold_orange_v_mids\": [\"5227545194666421\", \"5227501485557482\", \"5227503237202726\", \"5227555290352663\", \"5138805222539735\", \"5099214705789449\", \"5227563892080887\", \"5227504145272248\", \"5227759479554463\", \"5227565263625526\", \"5227516420687568\", \"5207997132308721\", \"5227505427940075\", \"5227590362333513\", \"5227504623422637\"], \"gold_orange_v_ratio\": \"71%\", \"media_mids\": [], \"media_ratio\": \"0%\", \"verified_mids\": [\"5227742197190650\"], \"verified_ratio\": \"5%\", \"normal_mids\": [\"5227619226222962\", \"5227584435781722\", \"5227737170315213\", \"5227575292201838\", \"5227709806411906\"], \"normal_ratio\": \"24%\", \"ref_mid_rank\": {\"5227545194666421\": {\"rank\": 1}, \"5227501485557482\": {\"rank\": 17}, \"5227503237202726\": {\"rank\": 22}, \"5227555290352663\": {\"rank\": 10}, \"5138805222539735\": {\"rank\": 24}, \"5099214705789449\": {\"rank\": 16}, \"5227563892080887\": {\"rank\": 19}, \"5227504145272248\": {\"rank\": 20}, \"5227759479554463\": {\"rank\": 3}, \"5227565263625526\": {\"rank\": 5}, \"5227516420687568\": {\"rank\": 23}, \"5227619226222962\": {\"rank\": 13}, \"5227584435781722\": {\"rank\": 14}, \"5227737170315213\": {\"rank\": 11}, \"5227575292201838\": {\"rank\": 18}, \"5207997132308721\": {\"rank\": 2}, \"5227505427940075\": {\"rank\": 4}, \"5227590362333513\": {\"rank\": 9}, \"5227709806411906\": {\"rank\": 12}, \"5227742197190650\": {\"rank\": 15}, \"5227504623422637\": {\"rank\": 21}}}",
+      "query": "#369问karsa求夸#",
+      "comment_info": {},
+      "version": "2025-10-31 12:41:00.019000-8556",
+      "wenda": {
+        "forward_gen": 0
+      },
+      "show_ctrl": {
+        "quote": {}
+      },
+      "share_text": "#369问karsa求夸#的相关内容，来智搜看看",
+      "share_info": {
+        "url": "http://t.cn/AXAGHPLm",
+        "comment_content": "",
+        "status": 3,
+        "unify_md5": "58bfd522888a8154af561c50fc3154c3",
+        "page_id": "2329640c97b2f37bcb41aff43ad91e74038fbc",
+        "display_name": "#369问karsa求夸#",
+        "tips": "#369问karsa求夸#的相关内容，来智搜看看"
+      },
+      "current_time": 1761920838,
+      "msg_format": "markdown",
+      "uid": "",
+      "top_quote_list": {},
+      "share_card_multimodal": {
+        "scheme": "sinaweibo://multimedia?mix_mid=5227555290352663&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=0",
+        "hit_score_new": 63.525391,
+        "doc_score": 3514,
+        "img_pid": "006cmbhQgy1i6upiyekawj30jk049dfx",
+        "w": 704,
+        "type": "p",
+        "vtype": 0,
+        "click_rate": 0.39174137462646,
+        "cur_mid": "5227555290352663",
+        "hit_score_final": 70.115234,
+        "img": "http://wx3.sinaimg.cn/middle/006cmbhQgy1i6upiyekawj30jk049dfx.jpg",
+        "user_name": "英雄联盟神吐槽",
+        "user_avatar": "https://tvax2.sinaimg.cn/crop.0.0.439.439.50/006cmbhQly8h8uglinec1j30c70c73yz.jpg?KID=imgbed,tva&Expires=1761896460&ssig=9INtHQA12c",
+        "h": 153,
+        "video_url": ""
+      },
+      "msg_json": "{}",
+      "ab_suffix": "default",
+      "basemodel": "实验组8",
+      "msg": "<think><br><br>嗯，用户询问的是\"369问karsa求夸\"这个事件的来龙去脉，看起来是个电竞圈的梗。让我仔细分析一下搜索结果，整理出完整的故事线。<br><br>从时间线上看，这个互动发生在2025年10月30日的S15八强赛期间。当时TES对阵G2，当TES 2:1领先拿到赛点时，Karsa发了条\"69加油！！\"的微博，直接上了热搜。赛后369立刻在微博@ Karsa说：\"咖哥我今天怎么样，下场还给我加油\"，还配了个求夸的表情。<br><br>这个互动之所以引发热议，是因为背后有长达五年的故事。2020年Karsa在TES当打野时，有段训斥369的经典录音：\"一个赛季练个纳尔那么难吗？\"\"酒桶玩得跟屎一样！\"，这成了电竞圈著名的\"圣经梗\"。后来369在2025年2月TES晋级LPL决赛时，主动发文\"咖哥我练好了\"并附上纳尔/酒桶的MVP战绩，算是隔空回应，Karsa也幽默回复\"9哥我们火了\"，两人正式和解。<br><br>今年S15期间两人的羁绊还在继续。Karsa淘汰后发过2020年TES的夺冠合照，369评论\"泪目\"引发老粉回忆。Karsa还说希望\"20年TES的369、K皇、杰克能完成我们的梦想\"，特别感人。<br><br>比赛方面，369这次确实打得好。对G2的赛点局他用剑魔在河道完成三杀，解说称为\"下凡级操作\"。电竞媒体开玩笑说\"Karsa当年的拉扯教学终于见效\"，还有视频直接喊话：\"白教练（Karsa）你看到了吗？369真的会拉扯了\"。<br><br>不过也有不同声音。部分网友觉得369\"打赢G2就邀功太膨胀\"，有人直接呛声\"见韩国队直接叫爹\"\"打赢LCK再来耍宝\"。毕竟TES四强可能要打T1或AL，历史对LCK战队胜率是0，压力不小。<br><br>整体来看，这既是赛场上的幽默互动，更承载了LPL一段师徒情谊的经典叙事——从冲突训诫到并肩追梦。现在压力给到369了，半决赛发挥如何，决定这段故事能否圆满收尾。<br><br></think><br>关于“369问Karsa求夸”事件的完整脉络及核心信息整理如下：<br>### ⚔️ **一、事件起源：S15赛场互动**  <br>1. **Karsa赛时声援**  <br>   2025年10月30日英雄联盟S15八强赛（TES vs G2）中，当TES以2:1领先拿到赛点时，前队友Karsa（洪浩轩）通过微博发布“69加油！！”为369助威，话题#karsa支持369#迅速登上热搜。```wbCustomBlock{\"type\": \"quoted\", \"index\": 4, \"data\": {\"num\": [1, 17, 22], \"version\": 2, \"quote_list\": [{\"name\": \"滔搏-369\", \"scheme\": \"sinaweibo://detail?mblogid=5227545194666421\", \"index\": 1, \"label\": \"大v\"}, {\"name\": \"快乐大金子\", \"scheme\": \"sinaweibo://detail?mblogid=5227501485557482\", \"index\": 17, \"label\": \"\"}, {\"name\": \"幼儿园园一莎弥拉\", \"scheme\": \"sinaweibo://detail?mblogid=5227503237202726\", \"index\": 22, \"label\": \"\"}], \"name\": \"滔搏-369\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/0078Iynbly8hl6kwz2b75j30u00u00v4.jpg?KID=imgbed,tva&Expires=1761896460&ssig=HiXw%2F%2BDW8a\", \"scheme\": \"sinaweibo://detail?mblogid=5227545194666421\", \"vType\": 0}}```  <br>2. **369赛后“求夸”**  <br>   TES晋级四强后，369直接发文@Karsa：“咖哥我今天怎么样，下场还给我加油！”并附“求夸”表情，被网友戏称为“公开邀功”。该互动被视作对Karsa支持的回应，也是两人师徒关系的温情延续。```wbCustomBlock{\"type\": \"quoted\", \"index\": 5, \"data\": {\"num\": [1, 10], \"version\": 2, \"quote_list\": [{\"name\": \"英雄联盟神吐槽\", \"scheme\": \"sinaweibo://detail?mblogid=5227555290352663\", \"index\": 10, \"label\": \"大v\"}, {\"name\": \"滔搏-369\", \"scheme\": \"sinaweibo://detail?mblogid=5227545194666421\", \"index\": 1, \"label\": \"\"}], \"name\": \"英雄联盟神吐槽\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.439.439.50/006cmbhQly8h8uglinec1j30c70c73yz.jpg?KID=imgbed,tva&Expires=1761896460&ssig=9INtHQA12c\", \"scheme\": \"sinaweibo://detail?mblogid=5227555290352663\", \"vType\": 0}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5227555290352663&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.439.439.50/006cmbhQly8h8uglinec1j30c70c73yz.jpg?KID=imgbed,tva&Expires=1761896460&ssig=9INtHQA12c) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">英雄联盟神吐槽</span><img src=\"http://wx3.sinaimg.cn/middle/006cmbhQgy1i6upiyekawj30jk049dfx.jpg\" data-width=153 data-height=704></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5227501485557482&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=1\"><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/007SWPUQly8hnqyyp5p34j30u00u0n0d.jpg?KID=imgbed,tva&Expires=1761896460&ssig=QW%2Bbe0wPdH) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">快乐大金子</span><img src=\"http://wx2.sinaimg.cn/middle/007SWPUQgy1i6ujd5jytgj30v80a174u.jpg\" data-width=361 data-height=1124></div></media-block><br>### 🤝 **二、师徒羁绊：从“圣经梗”到世纪和解**  <br>1. **经典冲突（2020年）**  <br>   Karsa在TES担任打野期间，因训练赛激烈训诫369：“一个赛季练个纳尔那么难吗？”“酒桶玩得跟屎一样！”，该片段因严厉语气成为电竞圈“圣经梗”。  <br>2. **主动和解（2025年2月）**  <br>   369在TES晋级LPL决赛后发文“咖哥我练好了”，并附纳尔/酒桶MVP战绩图隔空回应；Karsa幽默评论“9哥我们火了，决赛加油”，实现公开和解。```wbCustomBlock{\"type\": \"quoted\", \"index\": 9, \"data\": {\"num\": [24], \"version\": 2, \"quote_list\": [{\"name\": \"弹幕教练鳗鱼\", \"scheme\": \"sinaweibo://detail?mblogid=5138805222539735\", \"index\": 24, \"label\": \"大v\"}], \"name\": \"弹幕教练鳗鱼\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.511.511.50/9aaa639fly8i2djq6fnh5j20e70e73yk.jpg?KID=imgbed,tva&Expires=1761896460&ssig=BI6IgKzxBG\", \"scheme\": \"sinaweibo://detail?mblogid=5138805222539735\", \"vType\": 0}}```  <br>3. **S15情怀互动**  <br>   - Karsa在S15淘汰后喊话369：“希望20年TES的369、K皇、杰克能完成我们的梦想，带着我的那份前进”。  <br>   - 369赛前评论Karsa怀旧合照“泪目”，引发老粉集体回忆杀。```wbCustomBlock{\"type\": \"quoted\", \"index\": 12, \"data\": {\"num\": [16], \"version\": 2, \"quote_list\": [{\"name\": \"LOL动图菌\", \"scheme\": \"sinaweibo://detail?mblogid=5099214705789449\", \"index\": 16, \"label\": \"大v\"}], \"name\": \"LOL动图菌\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.578.578.50/006k9dbSly8fr7gntvuqnj30hf0g2jsf.jpg?KID=imgbed,tva&Expires=1761896460&ssig=O%2BLOBfNcFi\", \"scheme\": \"sinaweibo://detail?mblogid=5099214705789449\", \"vType\": 0}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5099214705789449&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=2&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.578.578.50/006k9dbSly8fr7gntvuqnj30hf0g2jsf.jpg?KID=imgbed,tva&Expires=1761896460&ssig=O%2BLOBfNcFi) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">LOL动图菌</span><img src=\"http://wx4.sinaimg.cn/middle/006k9dbSly1hvh9tiqjcxj30ku08bwex.jpg\" data-width=299 data-height=750></div></media-block><br>### 🏆 **三、赛场表现：369的“正名之战”**  <br>1. **关键操作封神**  <br>   对阵G2的赛点局中，369使用剑魔完成“河道三杀”，被解说称为“下凡级操作”。其拉扯技巧和团战影响力成为晋级关键，电竞媒体调侃“Karsa当年的拉扯教学终于见效”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 15, \"data\": {\"num\": [19, 20], \"version\": 2, \"quote_list\": [{\"name\": \"落日放映室\", \"scheme\": \"sinaweibo://detail?mblogid=5227563892080887\", \"index\": 19, \"label\": \"大v\"}, {\"name\": \"游戏组长\", \"scheme\": \"sinaweibo://detail?mblogid=5227504145272248\", \"index\": 20, \"label\": \"\"}], \"name\": \"落日放映室\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/005SYCMnly8i5qqgdtx69j30u00u0q53.jpg?KID=imgbed,tva&Expires=1761896460&ssig=XzCTeSw3JY\", \"scheme\": \"sinaweibo://detail?mblogid=5227563892080887\", \"vType\": 0}}```  <br>2. **状态全面回暖**  <br>   半决赛前专访中，369表示“体会到Karsa当初的感受”，并提及与JackeyLove共同突破队史（挺进决赛）的目标。多场比赛中，其英雄池深度（剑魔、狼人等）和稳定性获广泛认可。```wbCustomBlock{\"type\": \"quoted\", \"index\": 16, \"data\": {\"num\": [3, 5, 20, 23], \"version\": 2, \"quote_list\": [{\"name\": \"竞圈风向标\", \"scheme\": \"sinaweibo://detail?mblogid=5227759479554463\", \"index\": 3, \"label\": \"大v\"}, {\"name\": \"如约而至D_\", \"scheme\": \"sinaweibo://detail?mblogid=5227565263625526\", \"index\": 5, \"label\": \"\"}, {\"name\": \"游戏组长\", \"scheme\": \"sinaweibo://detail?mblogid=5227504145272248\", \"index\": 20, \"label\": \"\"}, {\"name\": \"王玮晨\", \"scheme\": \"sinaweibo://detail?mblogid=5227516420687568\", \"index\": 23, \"label\": \"\"}], \"name\": \"竞圈风向标\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.600.600.50/006W5FBDly8hvshq6akxvj30go0gojtd.jpg?KID=imgbed,tva&Expires=1761896460&ssig=wOBQvJrVCd\", \"scheme\": \"sinaweibo://detail?mblogid=5227759479554463\", \"vType\": 0}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5227563892080887&multi_paragraph=3&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/005SYCMnly8i5qqgdtx69j30u00u0q53.jpg?KID=imgbed,tva&Expires=1761896460&ssig=XzCTeSw3JY) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">落日放映室</span><img src=\"http://wx2.sinaimg.cn/middle/005SYCMngy1i6uqitvthej30ui0lsjs4.jpg\" data-width=784 data-height=1098></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5227504145272248&multi_paragraph=3&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.224.224.50/005z857cly8gepqtpxss7j3068068748.jpg?KID=imgbed,tva&Expires=1761896460&ssig=TESbr65W73) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">游戏组长</span><img src=\"http://wx4.sinaimg.cn/middle/005z857cly1i6ujo4jo3aj30qm0f0gm7.jpg\" data-width=540 data-height=958></div><div data-type=\"v\" data-scheme=\"sinaweibo://multimedia?mix_mid=5227759479554463&mix_index=0&multi_paragraph=3&multi_count=2\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.600.600.50/006W5FBDly8hvshq6akxvj30go0gojtd.jpg?KID=imgbed,tva&Expires=1761896460&ssig=wOBQvJrVCd) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">竞圈风向标</span><img src=\"http://wx1.sinaimg.cn/middle/006W5FBDly1i6vcznlxs1j30zk0k00tw.jpg\" data-width=720 data-height=1280></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5227516420687568&multi_paragraph=3&multi_count=3\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.480.480.50/005SyZ1Sly8i3tl9bvkkkj30dc0dc3yz.jpg?KID=imgbed,tva&Expires=1761896460&ssig=IJgB3aLaWR) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">王玮晨</span><img src=\"http://wx1.sinaimg.cn/middle/005SyZ1Sly1i6ul1vvgfpj31400u0n03.jpg\" data-width=1080 data-height=1440></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5227565263625526&multi_paragraph=3&multi_count=4\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.720.720.50/008x3uksly8hblliflcpij30k00k0wfz.jpg?KID=imgbed,tva&Expires=1761896460&ssig=GmiiCsi4OR) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">如约而至D_</span><img src=\"http://wx2.sinaimg.cn/middle/008x3uksly1i6uqo6zkmcj30zk0k0abq.jpg\" data-width=720 data-height=1280></div></media-block><br>### ⚠️ **四、争议与挑战**  <br>1. **质疑声音**  <br>   部分观众批评369“打赢G2就邀功过于膨胀”，直言“见韩国队直接叫爹”“打赢LCK再来耍宝”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 19, \"data\": {\"num\": [13, 14], \"version\": 2, \"quote_list\": [{\"name\": \"freestyle丶开森\", \"scheme\": \"sinaweibo://detail?mblogid=5227619226222962\", \"index\": 13, \"label\": \"\"}, {\"name\": \"鲜女一圈大si\", \"scheme\": \"sinaweibo://detail?mblogid=5227584435781722\", \"index\": 14, \"label\": \"\"}]}}```  <br>2. **历史阴影与现实压力**  <br>   - 尽管TES时隔5年重返四强，但赛前分析指出其“对LCK战队历史胜率为0”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 21, \"data\": {\"num\": [10, 11, 23], \"version\": 2, \"quote_list\": [{\"name\": \"王玮晨\", \"scheme\": \"sinaweibo://detail?mblogid=5227516420687568\", \"index\": 23, \"label\": \"大v\"}, {\"name\": \"英雄联盟神吐槽\", \"scheme\": \"sinaweibo://detail?mblogid=5227555290352663\", \"index\": 10, \"label\": \"\"}, {\"name\": \"马哉生态养殖\", \"scheme\": \"sinaweibo://detail?mblogid=5227737170315213\", \"index\": 11, \"label\": \"\"}], \"name\": \"王玮晨\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.480.480.50/005SyZ1Sly8i3tl9bvkkkj30dc0dc3yz.jpg?KID=imgbed,tva&Expires=1761896460&ssig=IJgB3aLaWR\", \"scheme\": \"sinaweibo://detail?mblogid=5227516420687568\", \"vType\": 0}}```  <br>   - 半决赛潜在对手T1或AL均被视作强敌，尤其AL因“外战更猛”被部分网友认为更具威胁。```wbCustomBlock{\"type\": \"quoted\", \"index\": 22, \"data\": {\"num\": [11, 19], \"version\": 2, \"quote_list\": [{\"name\": \"马哉生态养殖\", \"scheme\": \"sinaweibo://detail?mblogid=5227737170315213\", \"index\": 11, \"label\": \"\"}, {\"name\": \"落日放映室\", \"scheme\": \"sinaweibo://detail?mblogid=5227563892080887\", \"index\": 19, \"label\": \"\"}]}}```<br>### 💎 **总结：情怀与使命的交织**  <br>“369问Karsa求夸”表面是趣味互动，实则承载了LPL一段经典叙事：从冲突训诫到并肩追梦，师徒二人以幽默消解矛盾，将未竟梦想寄托于赛场传承。这一事件既是电竞圈情感文化的缩影，也为TES的半决赛征程增添了使命感——若369能率队击败LCK强敌，将为这段羁绊画上圆满句点。```wbCustomBlock{\"type\": \"quoted\", \"index\": 24, \"data\": {\"num\": [3, 18], \"version\": 2, \"quote_list\": [{\"name\": \"竞圈风向标\", \"scheme\": \"sinaweibo://detail?mblogid=5227759479554463\", \"index\": 3, \"label\": \"\"}, {\"name\": \"-布洛芬重度依赖\", \"scheme\": \"sinaweibo://detail?mblogid=5227575292201838\", \"index\": 18, \"label\": \"\"}]}}```<br>",
+      "model": "deepseek",
+      "short_url": "http://t.cn/AXAGTICq",
+      "abtest_info": {
+        "chat_entrance": 1
+      },
+      "profile_image_url": "",
+      "user_info": {}
+    }
+  },
+  "links": [
+    "sinaweibo://detail?mblogid=5227545194666421",
+    "sinaweibo://detail?mblogid=5207997132308721",
+    "sinaweibo://detail?mblogid=5227759479554463",
+    "sinaweibo://detail?mblogid=5227505427940075",
+    "sinaweibo://detail?mblogid=5227565263625526",
+    "historyweibo://5227545194666421",
+    "historyweibo://5227499182364707",
+    "historyweibo://5138751857366032",
+    "sinaweibo://detail?mblogid=5227590362333513",
+    "sinaweibo://detail?mblogid=5227555290352663",
+    "sinaweibo://detail?mblogid=5227737170315213",
+    "sinaweibo://detail?mblogid=5227709806411906",
+    "sinaweibo://detail?mblogid=5227619226222962",
+    "sinaweibo://detail?mblogid=5227584435781722",
+    "sinaweibo://detail?mblogid=5227742197190650",
+    "sinaweibo://detail?mblogid=5099214705789449",
+    "sinaweibo://detail?mblogid=5227501485557482",
+    "sinaweibo://detail?mblogid=5227575292201838",
+    "sinaweibo://detail?mblogid=5227563892080887",
+    "sinaweibo://detail?mblogid=5227504145272248",
+    "sinaweibo://detail?mblogid=5227504623422637",
+    "sinaweibo://detail?mblogid=5227503237202726",
+    "sinaweibo://detail?mblogid=5227516420687568",
+    "sinaweibo://detail?mblogid=5138805222539735"
+  ],
+  "media": [
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/006cmbhQgy1i6upiyekawj30jk049dfx.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/006cmbhQgy1i6upiyekawj30jk049dfx.jpg",
+      "alt": "英雄联盟神吐槽",
+      "width": 153,
+      "height": 704,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/006cmbhQgy1i6upiyekawj30jk049dfx.jpg"
+      ],
+      "user": "英雄联盟神吐槽"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/007SWPUQgy1i6ujd5jytgj30v80a174u.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/007SWPUQgy1i6ujd5jytgj30v80a174u.jpg",
+      "alt": "快乐大金子",
+      "width": 361,
+      "height": 1124,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/007SWPUQgy1i6ujd5jytgj30v80a174u.jpg"
+      ],
+      "user": "快乐大金子"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/006k9dbSly1hvh9tiqjcxj30ku08bwex.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/006k9dbSly1hvh9tiqjcxj30ku08bwex.jpg",
+      "alt": "LOL动图菌",
+      "width": 299,
+      "height": 750,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/006k9dbSly1hvh9tiqjcxj30ku08bwex.jpg"
+      ],
+      "user": "LOL动图菌"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/005SYCMngy1i6uqitvthej30ui0lsjs4.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/005SYCMngy1i6uqitvthej30ui0lsjs4.jpg",
+      "alt": "落日放映室",
+      "width": 784,
+      "height": 1098,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/005SYCMngy1i6uqitvthej30ui0lsjs4.jpg"
+      ],
+      "user": "落日放映室"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/005z857cly1i6ujo4jo3aj30qm0f0gm7.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/005z857cly1i6ujo4jo3aj30qm0f0gm7.jpg",
+      "alt": "游戏组长",
+      "width": 540,
+      "height": 958,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/005z857cly1i6ujo4jo3aj30qm0f0gm7.jpg"
+      ],
+      "user": "游戏组长"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/006W5FBDly1i6vcznlxs1j30zk0k00tw.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/006W5FBDly1i6vcznlxs1j30zk0k00tw.jpg",
+      "alt": "竞圈风向标",
+      "width": 720,
+      "height": 1280,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/006W5FBDly1i6vcznlxs1j30zk0k00tw.jpg"
+      ],
+      "user": "竞圈风向标"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/005SyZ1Sly1i6ul1vvgfpj31400u0n03.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/005SyZ1Sly1i6ul1vvgfpj31400u0n03.jpg",
+      "alt": "王玮晨",
+      "width": 1080,
+      "height": 1440,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx4.sinaimg.cn/large/005SyZ1Sly1i6ul1vvgfpj31400u0n03.jpg"
+      ],
+      "user": "王玮晨"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/008x3uksly1i6uqo6zkmcj30zk0k0abq.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/008x3uksly1i6uqo6zkmcj30zk0k0abq.jpg",
+      "alt": "如约而至D_",
+      "width": 720,
+      "height": 1280,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/008x3uksly1i6uqo6zkmcj30zk0k0abq.jpg"
+      ],
+      "user": "如约而至D_"
+    }
+  ],
+  "html_path": "data/aicard/hourly/2025-10-31/00/369-karsa.html"
+}

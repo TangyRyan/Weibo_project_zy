@@ -1,0 +1,397 @@
+{
+  "meta": {
+    "query": "#Peanut在休息室流泪#",
+    "status_code": 200,
+    "fetched_at": "2025-10-28T23:38:07+08:00",
+    "response": {
+      "query_field": "47",
+      "model": "deepseek_stream",
+      "share_text": "#Peanut在休息室流泪#的相关内容，来智搜看看",
+      "reference_num": 42,
+      "query_category": "",
+      "status_stage": 4,
+      "link_list": [
+        "sinaweibo://detail?mblogid=5226802674928706",
+        "sinaweibo://detail?mblogid=5226825078804333",
+        "sinaweibo://detail?mblogid=5226817045666946",
+        "sinaweibo://detail?mblogid=5226833559685835",
+        "sinaweibo://detail?mblogid=5226838273037956",
+        "sinaweibo://detail?mblogid=5226811860720428",
+        "sinaweibo://detail?mblogid=5226817331921950",
+        "sinaweibo://detail?mblogid=5226823055312983",
+        "sinaweibo://detail?mblogid=5226822692244470",
+        "sinaweibo://detail?mblogid=5226834406674253",
+        "sinaweibo://detail?mblogid=5226848940201095",
+        "historyweibo://5226802674928706",
+        "sinaweibo://detail?mblogid=5226817574671072",
+        "sinaweibo://detail?mblogid=5226815425872182",
+        "sinaweibo://detail?mblogid=5226834130112651",
+        "sinaweibo://detail?mblogid=5226815287200979",
+        "sinaweibo://detail?mblogid=5226839670260193",
+        "sinaweibo://detail?mblogid=5226811521764992",
+        "sinaweibo://detail?mblogid=5226825791050584",
+        "sinaweibo://detail?mblogid=5226847493161195",
+        "sinaweibo://detail?mblogid=5226850306491663",
+        "sinaweibo://detail?mblogid=5226831348240885",
+        "sinaweibo://detail?mblogid=5226833105651500",
+        "sinaweibo://detail?mblogid=5226819562506501",
+        "sinaweibo://detail?mblogid=5226859438540993",
+        "sinaweibo://detail?mblogid=5226822249742553",
+        "sinaweibo://detail?mblogid=5226866082318398",
+        "sinaweibo://detail?mblogid=5226847823730220",
+        "sinaweibo://detail?mblogid=5226828155327993",
+        "sinaweibo://detail?mblogid=5226811710507993",
+        "sinaweibo://detail?mblogid=5226817527219052",
+        "sinaweibo://detail?mblogid=5226847199301778",
+        "sinaweibo://detail?mblogid=5226828865209979",
+        "sinaweibo://detail?mblogid=5226844701856855",
+        "sinaweibo://detail?mblogid=5226817859882627",
+        "sinaweibo://detail?mblogid=5226807580427124",
+        "sinaweibo://detail?mblogid=5226826529247878",
+        "sinaweibo://detail?mblogid=5226825028208596",
+        "sinaweibo://detail?mblogid=5226831070368528",
+        "sinaweibo://detail?mblogid=5226858132015060",
+        "sinaweibo://detail?mblogid=5226844146375532",
+        "sinaweibo://detail?mblogid=5226819516891975",
+        "sinaweibo://detail?mblogid=5226828495066066",
+        "https://k.sina.cn/article_6355176057_m17acc4a7903302f94s.html?from=game&subch=ogame&wm=3049_0032"
+      ],
+      "top_quote_list": {},
+      "current_time": 1761665887,
+      "card_multimodal": {
+        "type": "mediablock",
+        "data": [
+          {
+            "h": 710,
+            "img": "http://wx1.sinaimg.cn/middle/006mEiMGly1i6sb3prbi1j310o0jqt9n.jpg",
+            "click_rate": 0,
+            "hit_score_new": 0,
+            "doc_score": 0,
+            "img_pid": "006mEiMGly1i6sb3prbi1j310o0jqt9n",
+            "hit_score_final": 0,
+            "scheme": "sinaweibo://video/vvs?mid=5226802674928706&multi_paragraph=1&multi_count=0",
+            "user_avatar": "https://tvax3.sinaimg.cn/crop.8.5.503.503.50/006mEiMGly8gqkq2ascw3j30e80e50ss.jpg?KID=imgbed,tva&Expires=1761676370&ssig=%2Bhgan0CXjw",
+            "w": 1320,
+            "cur_mid": "5226802674928706",
+            "video_url": "https://video.weibo.com/show?fid=1034:5226802554011722",
+            "user_name": "大电竞eSportsFocus",
+            "vtype": 0,
+            "type": "v"
+          },
+          {
+            "h": 718,
+            "img": "http://wx2.sinaimg.cn/middle/007bPoe5ly1i6sena1ti3j30zk0jygmj.jpg",
+            "click_rate": 0,
+            "hit_score_new": 85.595703,
+            "doc_score": 5607,
+            "img_pid": "007bPoe5ly1i6sena1ti3j30zk0jygmj",
+            "hit_score_final": 83.357422,
+            "scheme": "sinaweibo://multimedia?mix_mid=5226833559685835&mix_index=0&multi_paragraph=1&multi_count=1",
+            "user_avatar": "https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/007bPoe5ly8hyjbqruyjfj30u00u1wfr.jpg?KID=imgbed,tva&Expires=1761676370&ssig=1RIdKmyexw",
+            "w": 1280,
+            "cur_mid": "5226833559685835",
+            "video_url": "https://video.weibo.com/show?fid=1034:5226833419894812",
+            "user_name": "张佳ZHJ",
+            "vtype": 0,
+            "type": "v"
+          },
+          {
+            "h": 1080,
+            "img": "http://wx4.sinaimg.cn/middle/008xCJoDly1i6sddvuvfnj31jy0u0myc.jpg",
+            "click_rate": 0,
+            "hit_score_new": 98.291016,
+            "doc_score": 4171,
+            "img_pid": "008xCJoDly1i6sddvuvfnj31jy0u0myc",
+            "hit_score_final": 90.974609,
+            "scheme": "sinaweibo://multimedia?mix_mid=5226822692244470&mix_index=0&multi_paragraph=1&multi_count=2",
+            "user_avatar": "https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/008xCJoDly8hrq6l9fi5wj30u00u03yx.jpg?KID=imgbed,tva&Expires=1761676370&ssig=Ac%2B3sTv1wV",
+            "w": 2014,
+            "cur_mid": "5226822692244470",
+            "video_url": "https://video.weibo.com/show?fid=1034:5226821588025480",
+            "user_name": "小野的瓜田",
+            "vtype": 0,
+            "type": "v"
+          },
+          {
+            "h": 710,
+            "img": "http://wx1.sinaimg.cn/middle/006mEiMGly1i6sb3prbi1j310o0jqt9n.jpg",
+            "click_rate": 0,
+            "hit_score_new": 0,
+            "doc_score": 0,
+            "img_pid": "006mEiMGly1i6sb3prbi1j310o0jqt9n",
+            "hit_score_final": 0,
+            "scheme": "sinaweibo://video/vvs?mid=5226802674928706&multi_paragraph=1&multi_count=0",
+            "user_avatar": "https://tvax3.sinaimg.cn/crop.8.5.503.503.50/006mEiMGly8gqkq2ascw3j30e80e50ss.jpg?KID=imgbed,tva&Expires=1761676370&ssig=%2Bhgan0CXjw",
+            "w": 1320,
+            "cur_mid": "5226802674928706",
+            "video_url": "https://video.weibo.com/show?fid=1034:5226802554011722",
+            "user_name": "大电竞eSportsFocus",
+            "vtype": 0,
+            "type": "v"
+          }
+        ]
+      },
+      "profile_image_url": "",
+      "basemodel": "实验组9",
+      "qs_status": 0,
+      "chat_status_stage": 4,
+      "ext_show": {},
+      "reliable_tips": "{\"gold_orange_v_mids\": [\"5226802674928706\", \"5226833559685835\", \"5226822692244470\", \"5226817527219052\", \"5226817045666946\", \"5226834406674253\", \"5226817574671072\", \"5226838273037956\", \"5226811860720428\", \"5226844701856855\", \"5226815425872182\", \"5226819562506501\", \"5226858132015060\", \"5226811521764992\", \"5226817859882627\", \"5226826529247878\", \"5226819516891975\", \"5226839670260193\", \"5226828865209979\", \"5226825078804333\", \"5226817331921950\", \"5226823055312983\", \"5226848940201095\", \"5226834130112651\", \"5226815287200979\", \"5226825791050584\", \"5226847493161195\", \"5226850306491663\", \"5226831348240885\", \"5226859438540993\", \"5226822249742553\", \"5226847823730220\", \"5226828155327993\", \"5226811710507993\", \"5226847199301778\", \"5226807580427124\", \"5226825028208596\", \"5226828495066066\"], \"gold_orange_v_ratio\": \"90%\", \"media_mids\": [], \"media_ratio\": \"0%\", \"verified_mids\": [\"5226844146375532\", \"5226866082318398\"], \"verified_ratio\": \"5%\", \"normal_mids\": [\"5226833105651500\", \"5226831070368528\"], \"normal_ratio\": \"5%\", \"ref_mid_rank\": {\"5226802674928706\": {\"rank\": 1}, \"5226833559685835\": {\"rank\": 4}, \"5226822692244470\": {\"rank\": 9}, \"5226817527219052\": {\"rank\": 31}, \"5226817045666946\": {\"rank\": 3}, \"5226834406674253\": {\"rank\": 10}, \"5226817574671072\": {\"rank\": 13}, \"5226838273037956\": {\"rank\": 5}, \"5226811860720428\": {\"rank\": 6}, \"5226844701856855\": {\"rank\": 34}, \"5226815425872182\": {\"rank\": 14}, \"5226819562506501\": {\"rank\": 24}, \"5226858132015060\": {\"rank\": 40}, \"5226811521764992\": {\"rank\": 18}, \"5226817859882627\": {\"rank\": 35}, \"5226826529247878\": {\"rank\": 37}, \"5226819516891975\": {\"rank\": 42}, \"5226839670260193\": {\"rank\": 17}, \"5226828865209979\": {\"rank\": 33}, \"5226844146375532\": {\"rank\": 41}, \"5226825078804333\": {\"rank\": 2}, \"5226817331921950\": {\"rank\": 7}, \"5226823055312983\": {\"rank\": 8}, \"5226848940201095\": {\"rank\": 11}, \"5226834130112651\": {\"rank\": 15}, \"5226815287200979\": {\"rank\": 16}, \"5226825791050584\": {\"rank\": 19}, \"5226847493161195\": {\"rank\": 20}, \"5226850306491663\": {\"rank\": 21}, \"5226831348240885\": {\"rank\": 22}, \"5226833105651500\": {\"rank\": 23}, \"5226859438540993\": {\"rank\": 25}, \"5226822249742553\": {\"rank\": 26}, \"5226866082318398\": {\"rank\": 27}, \"5226847823730220\": {\"rank\": 28}, \"5226828155327993\": {\"rank\": 29}, \"5226811710507993\": {\"rank\": 30}, \"5226847199301778\": {\"rank\": 32}, \"5226807580427124\": {\"rank\": 36}, \"5226825028208596\": {\"rank\": 38}, \"5226831070368528\": {\"rank\": 39}, \"5226828495066066\": {\"rank\": 43}}}",
+      "analysis_time": 1761665605,
+      "mid_list": null,
+      "qs_status_info": "{\"qs_q_status\":0,\"qs_status\":0,\"ab_lab\":{},\"qs_c_status\":8388608,\"qs_r_status\":0,\"qs_u_status\":0}",
+      "scheme": "sinaweibo://cardlist?containerid=100103type%3D225%26q%3D%23peanut%E5%9C%A8%E4%BC%91%E6%81%AF%E5%AE%A4%E6%B5%81%E6%B3%AA%23%26t%3D&extparam=ai_model%3Ddeepseek_stream%26ori_ai_title%3D%E5%8F%82%E8%80%83%E5%8D%9A%E6%96%87%26material_version%3D1761665570",
+      "wenda": {
+        "forward_gen": 0
+      },
+      "page_id": "232964d5af7ec70f787f3e23a509fd29bed8e0",
+      "version": "2025-10-28 23:32:50.375999-9477",
+      "share_card_multimodal": {
+        "h": 710,
+        "img": "http://wx1.sinaimg.cn/middle/006mEiMGly1i6sb3prbi1j310o0jqt9n.jpg",
+        "click_rate": 0,
+        "hit_score_new": 0,
+        "doc_score": 0,
+        "img_pid": "006mEiMGly1i6sb3prbi1j310o0jqt9n",
+        "hit_score_final": 0,
+        "scheme": "sinaweibo://video/vvs?mid=5226802674928706&multi_paragraph=1&multi_count=0",
+        "user_avatar": "https://tvax3.sinaimg.cn/crop.8.5.503.503.50/006mEiMGly8gqkq2ascw3j30e80e50ss.jpg?KID=imgbed,tva&Expires=1761676370&ssig=%2Bhgan0CXjw",
+        "w": 1320,
+        "cur_mid": "5226802674928706",
+        "video_url": "https://video.weibo.com/show?fid=1034:5226802554011722",
+        "user_name": "大电竞eSportsFocus",
+        "vtype": 0,
+        "type": "v"
+      },
+      "msg_json": "{}",
+      "short_url": "http://t.cn/AXA7K0dU",
+      "msg_format": "markdown",
+      "q_attr": {
+        "from_uid": "7782966591",
+        "from_request_id": "1761665568464"
+      },
+      "show_ctrl": {
+        "quote": {}
+      },
+      "unify_md5": "e04bf4aa49c1a8406bd08d2b7566bb20",
+      "user_info": {},
+      "ab_suffix": "default",
+      "msg": "<think><br>嗯，用户想要了解关于\"peanut在休息室流泪\"的具体情况。从搜索结果来看，这是发生在2025年10月28日英雄联盟S15全球总决赛四分之一决赛后的事件。<br><br>用户可能是个电竞爱好者，特别是关注LCK赛区和Peanut选手的粉丝。ta想了解事件详情和背景，可能还带着对这位传奇选手的关切之情。<br><br>整理出的核心信息点包括：<br>1. 事件发生在HLE vs GEN的八强赛结束后，HLE以1:3落败<br>2. Peanut在台上保持微笑，回到休息室才情绪崩溃流泪<br>3. 这是他因兵役退役前的最后一场职业比赛<br>4. 尽管战队失利，他个人获得全场最高评分<br>5. 多位对手选手(Ruler、Chovy、Zeus)都主动安慰他<br><br>特别注意到几个动人细节：<br>- 他受访时说\"输了终究会留遗憾，却因粉丝欢呼留下美好记忆\"<br>- 粉丝用Showmaker名言\"失败贯穿人生始终\"来安慰他<br>- 他十年职业生涯中，2016年ROX Tigers的队友至此全部退役<br><br>用户可能还想了解事件影响，这个话题在48小时内阅读量超千万，登顶电竞榜TOP3。整个事件被视为\"一个时代的落幕\"，引发广泛共鸣。<br><br>在回复时会突出这些情感点，用时间线方式清晰呈现事件全过程，最后用Peanut自己的话作结，给这位老将一个体面的告别。避免简单堆砌事实，而是传递出电竞选手职业生涯的厚重感。<br><br></think><br>以下是关于电竞选手Peanut（韩旺乎）在休息室流泪事件的核心信息整理，综合多方信源及背景分析：<br>### ⚡️ **事件核心脉络**  <br>1. **时间与赛事背景**  <br>   - 2025年10月28日，英雄联盟S15全球总决赛四分之一决赛中，HLE战队以**1:3负于Gen.G（GEN）**，止步八强。此役是Peanut职业生涯的**最后一场比赛**，因韩国兵役要求，他赛后正式宣布退役。```wbCustomBlock{\"type\": \"quoted\", \"index\": 5, \"data\": {\"num\": [1, 4], \"version\": 2, \"quote_list\": [{\"name\": \"张佳ZHJ\", \"scheme\": \"sinaweibo://detail?mblogid=5226833559685835\", \"index\": 4, \"label\": \"大v\"}, {\"name\": \"大电竞eSportsFocus\", \"scheme\": \"sinaweibo://detail?mblogid=5226802674928706\", \"index\": 1, \"label\": \"\"}], \"name\": \"张佳ZHJ\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/007bPoe5ly8hyjbqruyjfj30u00u1wfr.jpg?KID=imgbed,tva&Expires=1761676370&ssig=1RIdKmyexw\", \"scheme\": \"sinaweibo://detail?mblogid=5226833559685835\", \"vType\": 0}}```  <br><br>2. **流泪场景与情绪细节**  <br>   - 比赛结束后，Peanut在**舞台上面带微笑**向观众致意，但**回到休息室后情绪失控流泪**，画面被镜头捕捉引发广泛共鸣。```wbCustomBlock{\"type\": \"quoted\", \"index\": 7, \"data\": {\"num\": [1, 9, 31], \"version\": 2, \"quote_list\": [{\"name\": \"大电竞eSportsFocus\", \"scheme\": \"sinaweibo://detail?mblogid=5226802674928706\", \"index\": 1, \"label\": \"大v\"}, {\"name\": \"小野的瓜田\", \"scheme\": \"sinaweibo://detail?mblogid=5226822692244470\", \"index\": 9, \"label\": \"\"}, {\"name\": \"才小登\", \"scheme\": \"sinaweibo://detail?mblogid=5226817527219052\", \"index\": 31, \"label\": \"\"}], \"name\": \"大电竞eSportsFocus\", \"img\": \"https://tvax3.sinaimg.cn/crop.8.5.503.503.50/006mEiMGly8gqkq2ascw3j30e80e50ss.jpg?KID=imgbed,tva&Expires=1761676370&ssig=%2Bhgan0CXjw\", \"scheme\": \"sinaweibo://detail?mblogid=5226802674928706\", \"vType\": 0}}```  <br>   - 对手GEN战队的Ruler、Chovy主动拥抱安慰他，前队友Zeus也轻拍其肩膀表达支持。粉丝形容其\"燃尽所有能量后的泪水\"是对赛场的不舍。```wbCustomBlock{\"type\": \"quoted\", \"index\": 8, \"data\": {\"num\": [3, 10, 13], \"version\": 2, \"quote_list\": [{\"name\": \"动漫游戏君\", \"scheme\": \"sinaweibo://detail?mblogid=5226817045666946\", \"index\": 3, \"label\": \"大v\"}, {\"name\": \"YKT余\", \"scheme\": \"sinaweibo://detail?mblogid=5226834406674253\", \"index\": 10, \"label\": \"\"}, {\"name\": \"IT互联网那点事\", \"scheme\": \"sinaweibo://detail?mblogid=5226817574671072\", \"index\": 13, \"label\": \"\"}], \"name\": \"动漫游戏君\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.690.690.50/006i8XEzly8hojzsvemjvj30j60j6my1.jpg?KID=imgbed,tva&Expires=1761676370&ssig=uQ2NBapKy7\", \"scheme\": \"sinaweibo://detail?mblogid=5226817045666946\", \"vType\": 0}}```  <br><br>3. **个人表现与团队结局**  <br>   - 尽管HLE落败，Peanut凭借顽强操作（尤其第三局多次挽救战局）获评**全场最高分选手**，但中上辅三人状态低迷成为团队失利主因。```wbCustomBlock{\"type\": \"quoted\", \"index\": 10, \"data\": {\"num\": [5], \"version\": 2, \"quote_list\": [{\"name\": \"竞圈风向标\", \"scheme\": \"sinaweibo://detail?mblogid=5226838273037956\", \"index\": 5, \"label\": \"大v\"}], \"name\": \"竞圈风向标\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.600.600.50/006W5FBDly8hvshq6akxvj30go0gojtd.jpg?KID=imgbed,tva&Expires=1761676370&ssig=i1Rh4oDukE\", \"scheme\": \"sinaweibo://detail?mblogid=5226838273037956\", \"vType\": 0}}```  <br>   - 他的退役标志传奇战队**ROX Tigers全员**（Smeb、Pray、Gorilla、Kuro）正式告别职业赛场，一个时代就此落幕。```wbCustomBlock{\"type\": \"quoted\", \"index\": 11, \"data\": {\"num\": [6, 34], \"version\": 2, \"quote_list\": [{\"name\": \"电竞探探长\", \"scheme\": \"sinaweibo://detail?mblogid=5226844701856855\", \"index\": 34, \"label\": \"大v\"}, {\"name\": \"LOL电竞小胖\", \"scheme\": \"sinaweibo://detail?mblogid=5226811860720428\", \"index\": 6, \"label\": \"\"}], \"name\": \"电竞探探长\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/007zEcisly8hbuic1w7yrj30u00u0mzl.jpg?KID=imgbed,tva&Expires=1761676370&ssig=rSv4ckrgS8\", \"scheme\": \"sinaweibo://detail?mblogid=5226844701856855\", \"vType\": 0}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5226802674928706&multi_paragraph=1&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.8.5.503.503.50/006mEiMGly8gqkq2ascw3j30e80e50ss.jpg?KID=imgbed,tva&Expires=1761676370&ssig=%2Bhgan0CXjw) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">大电竞eSportsFocus</span><img src=\"http://wx1.sinaimg.cn/middle/006mEiMGly1i6sb3prbi1j310o0jqt9n.jpg\" data-width=710 data-height=1320></div><div data-type=\"v\" data-scheme=\"sinaweibo://multimedia?mix_mid=5226833559685835&mix_index=0&multi_paragraph=1&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/007bPoe5ly8hyjbqruyjfj30u00u1wfr.jpg?KID=imgbed,tva&Expires=1761676370&ssig=1RIdKmyexw) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">张佳ZHJ</span><img src=\"http://wx2.sinaimg.cn/middle/007bPoe5ly1i6sena1ti3j30zk0jygmj.jpg\" data-width=718 data-height=1280></div><div data-type=\"v\" data-scheme=\"sinaweibo://multimedia?mix_mid=5226822692244470&mix_index=0&multi_paragraph=1&multi_count=2\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/008xCJoDly8hrq6l9fi5wj30u00u03yx.jpg?KID=imgbed,tva&Expires=1761676370&ssig=Ac%2B3sTv1wV) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">小野的瓜田</span><img src=\"http://wx4.sinaimg.cn/middle/008xCJoDly1i6sddvuvfnj31jy0u0myc.jpg\" data-width=1080 data-height=2014></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5226817045666946&multi_paragraph=1&multi_count=3\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.690.690.50/006i8XEzly8hojzsvemjvj30j60j6my1.jpg?KID=imgbed,tva&Expires=1761676370&ssig=uQ2NBapKy7) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">动漫游戏君</span><img src=\"http://wx1.sinaimg.cn/middle/006i8XEzly1i6sd02qvq9j30qo0k0jsg.jpg\" data-width=720 data-height=960></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5226834406674253&multi_paragraph=1&multi_count=4\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.481.481.50/ea150d60ly8i15mbhvdl7j20dd0ddt90.jpg?KID=imgbed,tva&Expires=1761676370&ssig=Zo5yYnYJeh) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">YKT余</span><img src=\"http://wx1.sinaimg.cn/middle/ea150d60gy1i6ser2u6atj20f008hab1.jpg\" data-width=305 data-height=540></div><div data-type=\"v\" data-scheme=\"sinaweibo://multimedia?mix_mid=5226817574671072&mix_index=0&multi_paragraph=1&multi_count=5\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tva4.sinaimg.cn/crop.0.20.158.158.50/6da17e26gw1eej7q25xqbj204f052t8p.jpg?KID=imgbed,tva&Expires=1761676370&ssig=ovfWaNzeo%2F) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">IT互联网那点事</span><img src=\"http://wx4.sinaimg.cn/middle/6da17e26ly1i6scqjeropj218g0k0dgc.jpg\" data-width=720 data-height=1600></div><div data-type=\"v\" data-scheme=\"sinaweibo://multimedia?mix_mid=5226838273037956&mix_index=0&multi_paragraph=1&multi_count=6\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.600.600.50/006W5FBDly8hvshq6akxvj30go0gojtd.jpg?KID=imgbed,tva&Expires=1761676370&ssig=i1Rh4oDukE) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">竞圈风向标</span><img src=\"http://wx1.sinaimg.cn/middle/006W5FBDly1i6sf702icpj30lc0g0t9f.jpg\" data-width=576 data-height=768></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5226811860720428&multi_paragraph=1&multi_count=7\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/008hQ91rly8gpjmgs8z03j30u00u00v6.jpg?KID=imgbed,tva&Expires=1761676370&ssig=yEcyaDOFPj) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">LOL电竞小胖</span><img src=\"http://wx4.sinaimg.cn/middle/008hQ91rly1i6sc5r20ocj30zk0k0wft.jpg\" data-width=720 data-height=1280></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5226844701856855&multi_paragraph=1&multi_count=8\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/007zEcisly8hbuic1w7yrj30u00u0mzl.jpg?KID=imgbed,tva&Expires=1761676370&ssig=rSv4ckrgS8) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">电竞探探长</span><img src=\"http://wx4.sinaimg.cn/middle/007zEcisly1i6sfxghhufj30u00u0aam.jpg\" data-width=1080 data-height=1080></div></media-block><br>### 💫 **退役的象征意义与舆论反响**  <br>1. **十年职业生涯的共鸣**  <br>   - Peanut的九年职业旅程贯穿从**ROX Tigers天才打野**（2016年）到HLE老将的蜕变，2016年与SKT的\"世纪对决\"仍被奉为经典。```wbCustomBlock{\"type\": \"quoted\", \"index\": 15, \"data\": {\"num\": [34], \"version\": 2, \"quote_list\": [{\"name\": \"电竞探探长\", \"scheme\": \"sinaweibo://detail?mblogid=5226844701856855\", \"index\": 34, \"label\": \"\"}]}}```  <br>   - 他在采访中坦言：\"**输了终究会留遗憾**，却因粉丝欢呼留下美好记忆\"，并希望以\"**长时间表现出色的选手**\"被铭记。```wbCustomBlock{\"type\": \"quoted\", \"index\": 16, \"data\": {\"num\": [4, 14], \"version\": 2, \"quote_list\": [{\"name\": \"天生恶颜\", \"scheme\": \"sinaweibo://detail?mblogid=5226815425872182\", \"index\": 14, \"label\": \"大v\"}, {\"name\": \"张佳ZHJ\", \"scheme\": \"sinaweibo://detail?mblogid=5226833559685835\", \"index\": 4, \"label\": \"\"}], \"name\": \"天生恶颜\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/007RWJEVly8i6r3opq8tnj30u00u0tb0.jpg?KID=imgbed,tva&Expires=1761676370&ssig=OI2sep9DgP\", \"scheme\": \"sinaweibo://detail?mblogid=5226815425872182\", \"vType\": 0}}```  <br><br>2. **圈内外的致敬与祝福**  <br>   - 粉丝引用Showmaker名言\"**失败贯穿人生始终**\"表达共情，媒体赞誉其\"体面退场的韧劲\"。```wbCustomBlock{\"type\": \"quoted\", \"index\": 18, \"data\": {\"num\": [14, 24, 31, 40], \"version\": 2, \"quote_list\": [{\"name\": \"__七面相\", \"scheme\": \"sinaweibo://detail?mblogid=5226819562506501\", \"index\": 24, \"label\": \"大v\"}, {\"name\": \"天生恶颜\", \"scheme\": \"sinaweibo://detail?mblogid=5226815425872182\", \"index\": 14, \"label\": \"\"}, {\"name\": \"才小登\", \"scheme\": \"sinaweibo://detail?mblogid=5226817527219052\", \"index\": 31, \"label\": \"\"}, {\"name\": \"棠眠道不晚\", \"scheme\": \"sinaweibo://detail?mblogid=5226858132015060\", \"index\": 40, \"label\": \"\"}], \"name\": \"__七面相\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/7dffd2f5ly8g94y5gx4juj20u00u00u6.jpg?KID=imgbed,tva&Expires=1761676370&ssig=eziWz6S8dn\", \"scheme\": \"sinaweibo://detail?mblogid=5226819562506501\", \"vType\": 0}}```  <br>   - 同行如Wayward呼吁\"服完兵役重返赛场\"，LOL官推以\"**My story ends here...**\"致敬其生涯。```wbCustomBlock{\"type\": \"quoted\", \"index\": 19, \"data\": {\"num\": [6, 18], \"version\": 2, \"quote_list\": [{\"name\": \"游叔\", \"scheme\": \"sinaweibo://detail?mblogid=5226811521764992\", \"index\": 18, \"label\": \"大v\"}, {\"name\": \"LOL电竞小胖\", \"scheme\": \"sinaweibo://detail?mblogid=5226811860720428\", \"index\": 6, \"label\": \"\"}], \"name\": \"游叔\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/8972f4d7ly8i6hqww3pj8j20u00u0dif.jpg?KID=imgbed,tva&Expires=1761676370&ssig=HBppiUEn1R\", \"scheme\": \"sinaweibo://detail?mblogid=5226811521764992\", \"vType\": 0}}```  <br><br>3. **舆论热度与社会影响**  <br>   - 话题#Peanut在休息室流泪# **48小时内阅读量超千万**，登顶微博电竞榜TOP3，流泪画面成为电竞\"真实勋章\"的象征。```wbCustomBlock{\"type\": \"quoted\", \"index\": 21, \"data\": {\"num\": [10, 35, 37], \"version\": 2, \"quote_list\": [{\"name\": \"救援先锋玄德公\", \"scheme\": \"sinaweibo://detail?mblogid=5226826529247878\", \"index\": 37, \"label\": \"大v\"}, {\"name\": \"YKT余\", \"scheme\": \"sinaweibo://detail?mblogid=5226834406674253\", \"index\": 10, \"label\": \"\"}, {\"name\": \"酥服喵\", \"scheme\": \"sinaweibo://detail?mblogid=5226817859882627\", \"index\": 35, \"label\": \"\"}], \"name\": \"救援先锋玄德公\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/0072XFzhly8h98u2ivzp6j30u00u0dhy.jpg?KID=imgbed,tva&Expires=1761676370&ssig=MpBvkXZM8S\", \"scheme\": \"sinaweibo://detail?mblogid=5226826529247878\", \"vType\": 0}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5226819562506501&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=2&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/7dffd2f5ly8g94y5gx4juj20u00u00u6.jpg?KID=imgbed,tva&Expires=1761676370&ssig=eziWz6S8dn) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">__七面相</span><img src=\"http://wx4.sinaimg.cn/middle/7dffd2f5gy1i6sd1oqgjaj20u01liagm.jpg\" data-width=2070 data-height=1080></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5226811521764992&multi_paragraph=2&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/8972f4d7ly8i6hqww3pj8j20u00u0dif.jpg?KID=imgbed,tva&Expires=1761676370&ssig=HBppiUEn1R) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">游叔</span><img src=\"http://wx1.sinaimg.cn/middle/8972f4d7ly1i6sc48nppnj21hc0u0t9u.jpg\" data-width=1080 data-height=1920></div></media-block><br>### 🌟 **人物评价与生涯高光**  <br>- **职业精神**：坚守赛场9年，以\"燃尽自我\"的拼搏赢得尊重。即便失利，仍保持公开场合的体面，将泪水留给幕后。```wbCustomBlock{\"type\": \"quoted\", \"index\": 24, \"data\": {\"num\": [9, 31, 42], \"version\": 2, \"quote_list\": [{\"name\": \"小野的瓜田\", \"scheme\": \"sinaweibo://detail?mblogid=5226822692244470\", \"index\": 9, \"label\": \"大v\"}, {\"name\": \"才小登\", \"scheme\": \"sinaweibo://detail?mblogid=5226817527219052\", \"index\": 31, \"label\": \"\"}, {\"name\": \"点晚星\", \"scheme\": \"sinaweibo://detail?mblogid=5226819516891975\", \"index\": 42, \"label\": \"\"}], \"name\": \"小野的瓜田\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/008xCJoDly8hrq6l9fi5wj30u00u03yx.jpg?KID=imgbed,tva&Expires=1761676370&ssig=Ac%2B3sTv1wV\", \"scheme\": \"sinaweibo://detail?mblogid=5226822692244470\", \"vType\": 0}}```  <br>- **生涯里程碑**：  <br>  - **2016年**：ROX时期野区统治力惊艳世界；```wbCustomBlock{\"type\": \"quoted\", \"index\": 26, \"data\": {\"num\": [34], \"version\": 2, \"quote_list\": [{\"name\": \"电竞探探长\", \"scheme\": \"sinaweibo://detail?mblogid=5226844701856855\", \"index\": 34, \"label\": \"\"}]}}```  <br>  - **2024年**：夏决夺冠落泪的巅峰时刻；  <br>  - **2025年**：退役战拼至全场最高分。```wbCustomBlock{\"type\": \"quoted\", \"index\": 28, \"data\": {\"num\": [6, 17], \"version\": 2, \"quote_list\": [{\"name\": \"LOL电竞小胖\", \"scheme\": \"sinaweibo://detail?mblogid=5226811860720428\", \"index\": 6, \"label\": \"\"}, {\"name\": \"肉食主义玩家\", \"scheme\": \"sinaweibo://detail?mblogid=5226839670260193\", \"index\": 17, \"label\": \"\"}], \"name\": \"LOL电竞小胖\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/008hQ91rly8gpjmgs8z03j30u00u00v6.jpg?KID=imgbed,tva&Expires=1761676370&ssig=yEcyaDOFPj\", \"scheme\": \"sinaweibo://detail?mblogid=5226811860720428\", \"vType\": 0}}```  <br>- **未来展望**：粉丝期待其兵役后开启人生新篇章，称\"**珍珠般的才华永不褪色**\"。```wbCustomBlock{\"type\": \"quoted\", \"index\": 29, \"data\": {\"num\": [10, 33], \"version\": 2, \"quote_list\": [{\"name\": \"YKT余\", \"scheme\": \"sinaweibo://detail?mblogid=5226834406674253\", \"index\": 10, \"label\": \"\"}, {\"name\": \"藍莓芭帝\", \"scheme\": \"sinaweibo://detail?mblogid=5226828865209979\", \"index\": 33, \"label\": \"\"}], \"name\": \"YKT余\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.481.481.50/ea150d60ly8i15mbhvdl7j20dd0ddt90.jpg?KID=imgbed,tva&Expires=1761676370&ssig=Zo5yYnYJeh\", \"scheme\": \"sinaweibo://detail?mblogid=5226834406674253\", \"vType\": 0}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5226819516891975&multi_paragraph=3&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.512.512.50/00672Pcaly8i0s2cvf9nqj30e80e83z0.jpg?KID=imgbed,tva&Expires=1761676370&ssig=MZFIJOYQev) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">点晚星</span><img src=\"http://wx3.sinaimg.cn/middle/00672Pcaly1i6sd178xr3j30zk0k074z.jpg\" data-width=720 data-height=1280></div></media-block><br>### 💬 **选手心声与采访摘录**  <br>> **Peanut退役采访关键回答**：  <br>> - **关于遗憾**：\"原本不希望留下遗憾，但比赛输了终究会遗憾。粉丝的欢呼让我留下美好记忆。\"  <br>> - **致10年前的自己**：\"不要放弃，好好发展。你将为无数人打比赛，得到许多爱。\"  <br>> - **对粉丝的期许**：\"记住我是**长时间表现出色的选手**，而非仅以冠军定义。\"```wbCustomBlock{\"type\": \"quoted\", \"index\": 35, \"data\": {\"num\": [4], \"version\": 2, \"quote_list\": [{\"name\": \"张佳ZHJ\", \"scheme\": \"sinaweibo://detail?mblogid=5226833559685835\", \"index\": 4, \"label\": \"\"}]}}```  <br><br>---  <br>Peanut的泪水不仅是对赛场的告别，更是对电竞初心的祭奠。正如他所言：\"**我的故事到这里结束，但感动与记忆永存。**\"```wbCustomBlock{\"type\": \"quoted\", \"index\": 36, \"data\": {\"num\": [40, 41], \"version\": 2, \"quote_list\": [{\"name\": \"棠眠道不晚\", \"scheme\": \"sinaweibo://detail?mblogid=5226858132015060\", \"index\": 40, \"label\": \"\"}, {\"name\": \"萌萌哼能有啥错\", \"scheme\": \"sinaweibo://detail?mblogid=5226844146375532\", \"index\": 41, \"label\": \"\"}]}}```<br>",
+      "loop_times": 200,
+      "share_info": {
+        "unify_md5": "e04bf4aa49c1a8406bd08d2b7566bb20",
+        "display_name": "#Peanut在休息室流泪#",
+        "status": 3,
+        "url": "http://t.cn/AXAhsRiK",
+        "tips": "#Peanut在休息室流泪#的相关内容，来智搜看看",
+        "page_id": "232964d5af7ec70f787f3e23a509fd29bed8e0"
+      },
+      "sorted_material_list": null,
+      "news_analyze": {},
+      "query": "#Peanut在休息室流泪#",
+      "zs_risk_control": {
+        "think_text_close": 0,
+        "land_button_close": 0
+      },
+      "status": 2,
+      "abtest_info": {
+        "chat_entrance": 1
+      },
+      "uid": "",
+      "cot": 1
+    }
+  },
+  "links": [
+    "sinaweibo://detail?mblogid=5226802674928706",
+    "sinaweibo://detail?mblogid=5226825078804333",
+    "sinaweibo://detail?mblogid=5226817045666946",
+    "sinaweibo://detail?mblogid=5226833559685835",
+    "sinaweibo://detail?mblogid=5226838273037956",
+    "sinaweibo://detail?mblogid=5226811860720428",
+    "sinaweibo://detail?mblogid=5226817331921950",
+    "sinaweibo://detail?mblogid=5226823055312983",
+    "sinaweibo://detail?mblogid=5226822692244470",
+    "sinaweibo://detail?mblogid=5226834406674253",
+    "sinaweibo://detail?mblogid=5226848940201095",
+    "historyweibo://5226802674928706",
+    "sinaweibo://detail?mblogid=5226817574671072",
+    "sinaweibo://detail?mblogid=5226815425872182",
+    "sinaweibo://detail?mblogid=5226834130112651",
+    "sinaweibo://detail?mblogid=5226815287200979",
+    "sinaweibo://detail?mblogid=5226839670260193",
+    "sinaweibo://detail?mblogid=5226811521764992",
+    "sinaweibo://detail?mblogid=5226825791050584",
+    "sinaweibo://detail?mblogid=5226847493161195",
+    "sinaweibo://detail?mblogid=5226850306491663",
+    "sinaweibo://detail?mblogid=5226831348240885",
+    "sinaweibo://detail?mblogid=5226833105651500",
+    "sinaweibo://detail?mblogid=5226819562506501",
+    "sinaweibo://detail?mblogid=5226859438540993",
+    "sinaweibo://detail?mblogid=5226822249742553",
+    "sinaweibo://detail?mblogid=5226866082318398",
+    "sinaweibo://detail?mblogid=5226847823730220",
+    "sinaweibo://detail?mblogid=5226828155327993",
+    "sinaweibo://detail?mblogid=5226811710507993",
+    "sinaweibo://detail?mblogid=5226817527219052",
+    "sinaweibo://detail?mblogid=5226847199301778",
+    "sinaweibo://detail?mblogid=5226828865209979",
+    "sinaweibo://detail?mblogid=5226844701856855",
+    "sinaweibo://detail?mblogid=5226817859882627",
+    "sinaweibo://detail?mblogid=5226807580427124",
+    "sinaweibo://detail?mblogid=5226826529247878",
+    "sinaweibo://detail?mblogid=5226825028208596",
+    "sinaweibo://detail?mblogid=5226831070368528",
+    "sinaweibo://detail?mblogid=5226858132015060",
+    "sinaweibo://detail?mblogid=5226844146375532",
+    "sinaweibo://detail?mblogid=5226819516891975",
+    "sinaweibo://detail?mblogid=5226828495066066",
+    "https://k.sina.cn/article_6355176057_m17acc4a7903302f94s.html?from=game&subch=ogame&wm=3049_0032"
+  ],
+  "media": [
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/006mEiMGly1i6sb3prbi1j310o0jqt9n.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/006mEiMGly1i6sb3prbi1j310o0jqt9n.jpg",
+      "alt": "大电竞eSportsFocus",
+      "width": 710,
+      "height": 1320,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/006mEiMGly1i6sb3prbi1j310o0jqt9n.jpg"
+      ],
+      "user": "大电竞eSportsFocus"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/007bPoe5ly1i6sena1ti3j30zk0jygmj.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/007bPoe5ly1i6sena1ti3j30zk0jygmj.jpg",
+      "alt": "张佳ZHJ",
+      "width": 718,
+      "height": 1280,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/007bPoe5ly1i6sena1ti3j30zk0jygmj.jpg"
+      ],
+      "user": "张佳ZHJ"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/008xCJoDly1i6sddvuvfnj31jy0u0myc.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/008xCJoDly1i6sddvuvfnj31jy0u0myc.jpg",
+      "alt": "小野的瓜田",
+      "width": 1080,
+      "height": 2014,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/008xCJoDly1i6sddvuvfnj31jy0u0myc.jpg"
+      ],
+      "user": "小野的瓜田"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/006i8XEzly1i6sd02qvq9j30qo0k0jsg.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/006i8XEzly1i6sd02qvq9j30qo0k0jsg.jpg",
+      "alt": "动漫游戏君",
+      "width": 720,
+      "height": 960,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx4.sinaimg.cn/large/006i8XEzly1i6sd02qvq9j30qo0k0jsg.jpg"
+      ],
+      "user": "动漫游戏君"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/ea150d60gy1i6ser2u6atj20f008hab1.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/ea150d60gy1i6ser2u6atj20f008hab1.jpg",
+      "alt": "YKT余",
+      "width": 305,
+      "height": 540,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/ea150d60gy1i6ser2u6atj20f008hab1.jpg"
+      ],
+      "user": "YKT余"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/6da17e26ly1i6scqjeropj218g0k0dgc.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/6da17e26ly1i6scqjeropj218g0k0dgc.jpg",
+      "alt": "IT互联网那点事",
+      "width": 720,
+      "height": 1600,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/6da17e26ly1i6scqjeropj218g0k0dgc.jpg"
+      ],
+      "user": "IT互联网那点事"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/006W5FBDly1i6sf702icpj30lc0g0t9f.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/006W5FBDly1i6sf702icpj30lc0g0t9f.jpg",
+      "alt": "竞圈风向标",
+      "width": 576,
+      "height": 768,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/006W5FBDly1i6sf702icpj30lc0g0t9f.jpg"
+      ],
+      "user": "竞圈风向标"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/008hQ91rly1i6sc5r20ocj30zk0k0wft.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/008hQ91rly1i6sc5r20ocj30zk0k0wft.jpg",
+      "alt": "LOL电竞小胖",
+      "width": 720,
+      "height": 1280,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx4.sinaimg.cn/large/008hQ91rly1i6sc5r20ocj30zk0k0wft.jpg"
+      ],
+      "user": "LOL电竞小胖"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/007zEcisly1i6sfxghhufj30u00u0aam.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/007zEcisly1i6sfxghhufj30u00u0aam.jpg",
+      "alt": "电竞探探长",
+      "width": 1080,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/007zEcisly1i6sfxghhufj30u00u0aam.jpg"
+      ],
+      "user": "电竞探探长"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/7dffd2f5gy1i6sd1oqgjaj20u01liagm.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/7dffd2f5gy1i6sd1oqgjaj20u01liagm.jpg",
+      "alt": "__七面相",
+      "width": 2070,
+      "height": 1080,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/7dffd2f5gy1i6sd1oqgjaj20u01liagm.jpg"
+      ],
+      "user": "__七面相"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/8972f4d7ly1i6sc48nppnj21hc0u0t9u.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/8972f4d7ly1i6sc48nppnj21hc0u0t9u.jpg",
+      "alt": "游叔",
+      "width": 1080,
+      "height": 1920,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/8972f4d7ly1i6sc48nppnj21hc0u0t9u.jpg"
+      ],
+      "user": "游叔"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/00672Pcaly1i6sd178xr3j30zk0k074z.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/00672Pcaly1i6sd178xr3j30zk0k074z.jpg",
+      "alt": "点晚星",
+      "width": 720,
+      "height": 1280,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/00672Pcaly1i6sd178xr3j30zk0k074z.jpg"
+      ],
+      "user": "点晚星"
+    }
+  ],
+  "html_path": "data/aicard/hourly/2025-10-28/23/peanut.html"
+}

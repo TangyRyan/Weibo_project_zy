@@ -1,0 +1,252 @@
+{
+  "meta": {
+    "query": "#oner谈S赛对LPL连胜#",
+    "status_code": 200,
+    "fetched_at": "2025-11-02T22:25:30+08:00",
+    "response": {
+      "mid_list": null,
+      "reference_num": 18,
+      "model": "deepseek",
+      "link_list": [
+        "sinaweibo://detail?mblogid=5228636409956942",
+        "sinaweibo://detail?mblogid=5049574263625015",
+        "broadsocial_res://",
+        "broadsocial_res://",
+        "historyweibo://5209265444487719",
+        "historyweibo://5209005303531553",
+        "historyweibo://5208907830002463",
+        "sinaweibo://detail?mblogid=5228640746078720",
+        "sinaweibo://detail?mblogid=5228659101140513",
+        "sinaweibo://detail?mblogid=5228624976022063",
+        "sinaweibo://detail?mblogid=5228659586897113",
+        "sinaweibo://detail?mblogid=5228657419228447",
+        "sinaweibo://detail?mblogid=5228656999533636",
+        "sinaweibo://detail?mblogid=5228656834118717",
+        "sinaweibo://detail?mblogid=5228656786147992",
+        "sinaweibo://detail?mblogid=5228656738963808",
+        "sinaweibo://detail?mblogid=5228656607890857",
+        "sinaweibo://detail?mblogid=5228640142362227",
+        "sinaweibo://detail?mblogid=5228656150446405",
+        "sinaweibo://detail?mblogid=5228655938900034",
+        "sinaweibo://detail?mblogid=5035102792325706",
+        "sinaweibo://detail?mblogid=5035347854229861",
+        "sinaweibo://detail?mblogid=4961898105931369"
+      ],
+      "cot": 1,
+      "top_quote_list": {},
+      "card_multimodal": {
+        "type": "mediablock",
+        "data": [
+          {
+            "hit_score_new": 0,
+            "doc_score": 0,
+            "w": 1280,
+            "click_rate": 0.02,
+            "scheme": "sinaweibo://video/vvs?mid=5228636409956942&multi_paragraph=1&multi_count=0",
+            "h": 720,
+            "vtype": 0,
+            "img": "http://wx4.sinaimg.cn/middle/007ZlrToly1i6y5p8zmusj30zk0k03zq.jpg",
+            "cur_mid": "5228636409956942",
+            "user_name": "吃瓜的空白",
+            "type": "v",
+            "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.512.512.50/007ZlrToly8hvw4k0pisuj30e80e8q2p.jpg?KID=imgbed,tva&Expires=1762103941&ssig=csHZN%2Fkfib",
+            "hit_score_final": 0,
+            "video_url": "https://video.weibo.com/show?fid=1034:5228636295331845",
+            "img_pid": "007ZlrToly1i6y5p8zmusj30zk0k03zq"
+          },
+          {
+            "hit_score_new": 50.585938,
+            "doc_score": 1392,
+            "w": 1380,
+            "click_rate": 0,
+            "scheme": "sinaweibo://video/vvs?mid=5035347854229861&multi_paragraph=1&multi_count=1",
+            "h": 772,
+            "vtype": 0,
+            "img": "http://wx4.sinaimg.cn/middle/a68def6cly1hptio9lgmjj212c0lgq3t.jpg",
+            "cur_mid": "5035347854229861",
+            "user_name": "tsukitokki",
+            "type": "v",
+            "user_avatar": "https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/a68def6cly8i1rt0grfw8j20u00u0jur.jpg?KID=imgbed,tva&Expires=1762103941&ssig=qnbeyzUU7U",
+            "hit_score_final": 54.351562,
+            "video_url": "https://video.weibo.com/show?fid=1034:5035346438586406",
+            "img_pid": "a68def6cly1hptio9lgmjj212c0lgq3t"
+          },
+          {
+            "hit_score_new": 71.435547,
+            "doc_score": 3119,
+            "w": 1920,
+            "click_rate": 0,
+            "scheme": "sinaweibo://video/vvs?mid=5228659101140513&multi_paragraph=2&multi_count=0",
+            "h": 1080,
+            "vtype": 0,
+            "img": "http://wx3.sinaimg.cn/middle/006BPLKbly1i6y8axqu51j31hc0u0wft.jpg",
+            "cur_mid": "5228659101140513",
+            "user_name": "我是电竞小生",
+            "type": "v",
+            "user_avatar": "https://tvax1.sinaimg.cn/crop.0.0.600.600.50/006BPLKbly8gx4n5qvexbj30go0gogp4.jpg?KID=imgbed,tva&Expires=1762103941&ssig=8QWkCvsgPa",
+            "hit_score_final": 54.461327,
+            "video_url": "https://video.weibo.com/show?fid=1034:5228655232614466",
+            "img_pid": "006BPLKbly1i6y8axqu51j31hc0u0wft"
+          },
+          {
+            "hit_score_new": 0,
+            "doc_score": 0,
+            "w": 1280,
+            "click_rate": 0.02,
+            "scheme": "sinaweibo://video/vvs?mid=5228636409956942&multi_paragraph=1&multi_count=0",
+            "h": 720,
+            "vtype": 0,
+            "img": "http://wx4.sinaimg.cn/middle/007ZlrToly1i6y5p8zmusj30zk0k03zq.jpg",
+            "cur_mid": "5228636409956942",
+            "user_name": "吃瓜的空白",
+            "type": "v",
+            "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.512.512.50/007ZlrToly8hvw4k0pisuj30e80e8q2p.jpg?KID=imgbed,tva&Expires=1762103941&ssig=csHZN%2Fkfib",
+            "hit_score_final": 0,
+            "video_url": "https://video.weibo.com/show?fid=1034:5228636295331845",
+            "img_pid": "007ZlrToly1i6y5p8zmusj30zk0k03zq"
+          }
+        ]
+      },
+      "share_card_multimodal": {
+        "hit_score_new": 0,
+        "doc_score": 0,
+        "w": 1280,
+        "click_rate": 0.02,
+        "scheme": "sinaweibo://video/vvs?mid=5228636409956942&multi_paragraph=1&multi_count=0",
+        "h": 720,
+        "vtype": 0,
+        "img": "http://wx4.sinaimg.cn/middle/007ZlrToly1i6y5p8zmusj30zk0k03zq.jpg",
+        "cur_mid": "5228636409956942",
+        "user_name": "吃瓜的空白",
+        "type": "v",
+        "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.512.512.50/007ZlrToly8hvw4k0pisuj30e80e8q2p.jpg?KID=imgbed,tva&Expires=1762103941&ssig=csHZN%2Fkfib",
+        "hit_score_final": 0,
+        "video_url": "https://video.weibo.com/show?fid=1034:5228636295331845",
+        "img_pid": "007ZlrToly1i6y5p8zmusj30zk0k03zq"
+      },
+      "status": 2,
+      "basemodel": "实验组7",
+      "qs_status": 0,
+      "query_field": "0",
+      "wenda": {
+        "forward_gen": 0
+      },
+      "sorted_material_list": null,
+      "ab_suffix": "default",
+      "short_url": "http://t.cn/AXAKx3u7",
+      "status_stage": 4,
+      "chat_status_stage": 1,
+      "msg_json": "{}",
+      "uid": "",
+      "msg": "<think><br>嗯，用户想了解Oner对S赛对阵LPL队伍连胜的看法。这个问题看起来是电竞粉丝对T1战队近期表现的关注，特别是他们在国际赛事中对LPL赛区的统治力。<br><br>先看搜索结果中Oner的原话。在2025年11月2日的采访中，Oner表示\"保持对LPL连胜不算什么，T1对其他赛区也维持着连胜\"。这句话很有意思，表面低调实则展现了T1的强大自信。<br><br>关于具体数据，搜索结果明确提到：截至2025年S15全球总决赛半决赛T1战胜TES后，T1对LPL队伍的S赛BO5连胜纪录已达13场。这包括2025年对AL的八强赛和对TES的半决赛。特别值得注意的是TES在半决赛被T1以3-0完败，整场系列赛未赢一小局，显示双方实力差距。<br><br>Oner这个表态的背景值得分析。从其他搜索结果看，T1在2024年LCK夏季赛表现就很强势，Oner在2024年6月26日的赛后采访中提到\"继续保持连胜非常开心\"。而2024年MSI期间，Oner还曾获得对阵G2的二连MVP，说明T1的强势不仅限于对阵LPL。<br><br>普通网友对这个话题的讨论也很有见地。比如有人指出Oner这话\"听着狂，但本质是T1的实力给了他说这话的勇气\"；也有人认为这是在强调T1的\"全面性\"，\"不是只针对某一支队伍强\"。这些观点都很有道理。<br><br>需要特别提醒的是，搜索结果中混入了关于中国男团ONER的内容，这与电竞选手Oner完全无关，在回答时要避免混淆。<br><br>最后注意到前TES教练白色月牙在TES败给T1后的激烈反应，以及网友\"黑色店長\"创作的趣味段子，这些侧面反映了LPL粉丝的失望情绪。而\"卖火柴的村菇\"的发言则显示出LPL观众对其他赛区表现的不满。<br><br>在组织回答时，我会重点突出：1）Oner发言的原文和背景；2）具体数据支持；3）网友的多元解读；4）相关事件的补充。考虑用分段式结构，在关键数据处加粗，确保电竞粉丝能快速获取核心信息。<br><br></think><br>以下是关于 T1 战队打野选手 Oner 谈论 S 赛对 LPL 连胜的详细分析，综合了最新赛事背景、选手表态及行业解读：<br>### ⚔️ **一、Oner 的核心表态与背景**<br>1. **赛后采访内容**（2025年S15全球总决赛期间）  <br>   Oner 在晋级决赛后的专访中回应「对LPL战队S赛连胜」时表示：  <br>   > **“保持对LPL的连胜不算什么，T1对其他赛区同样维持着连胜纪录。”**  <br>   此言论发表于T1击败TES晋级决赛后，强调T1的统治力**不局限于单一赛区**，而是全球性压制。```wbCustomBlock{\"type\": \"quoted\", \"index\": 5, \"data\": {\"num\": [1], \"version\": 2, \"quote_list\": [{\"name\": \"吃瓜的空白\", \"scheme\": \"sinaweibo://detail?mblogid=5228636409956942\", \"index\": 1, \"label\": \"大v\"}], \"name\": \"吃瓜的空白\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.512.512.50/007ZlrToly8hvw4k0pisuj30e80e8q2p.jpg?KID=imgbed,tva&Expires=1762103941&ssig=csHZN%2Fkfib\", \"scheme\": \"sinaweibo://detail?mblogid=5228636409956942\", \"vType\": 0}}```<br><br>2. **连胜数据支撑**  <br>   - **对LPL的BO5全胜纪录**：截至S15半决赛，T1在S赛对阵LPL队伍的BO5中已达成 **13连胜**（含S13决赛胜WBG、S14八强胜LNG、S15八强胜AL及半决赛胜TES）。  <br>   - **跨赛区压制力**：2024年MSI期间，Oner曾以二连MVP率队击败G2，印证其“对其他赛区连胜”的表述。```wbCustomBlock{\"type\": \"quoted\", \"index\": 8, \"data\": {\"num\": [21, 22], \"version\": 2, \"quote_list\": [{\"name\": \"兔玩游戏\", \"scheme\": \"sinaweibo://detail?mblogid=5035102792325706\", \"index\": 21, \"label\": \"大v\"}, {\"name\": \"tsukitokki\", \"scheme\": \"sinaweibo://detail?mblogid=5035347854229861\", \"index\": 22, \"label\": \"\"}], \"name\": \"兔玩游戏\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.400.400.50/005vhJLPly8haiwm7o7qbj30b40b4jrg.jpg?KID=imgbed,tva&Expires=1762103941&ssig=Dtz0jNB25s\", \"scheme\": \"sinaweibo://detail?mblogid=5035102792325706\", \"vType\": 0}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5228636409956942&multi_paragraph=1&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.512.512.50/007ZlrToly8hvw4k0pisuj30e80e8q2p.jpg?KID=imgbed,tva&Expires=1762103941&ssig=csHZN%2Fkfib) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">吃瓜的空白</span><img src=\"http://wx4.sinaimg.cn/middle/007ZlrToly1i6y5p8zmusj30zk0k03zq.jpg\" data-width=720 data-height=1280></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5035347854229861&multi_paragraph=1&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/a68def6cly8i1rt0grfw8j20u00u0jur.jpg?KID=imgbed,tva&Expires=1762103941&ssig=qnbeyzUU7U) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">tsukitokki</span><img src=\"http://wx4.sinaimg.cn/middle/a68def6cly1hptio9lgmjj212c0lgq3t.jpg\" data-width=772 data-height=1380></div></media-block><br>### 📊 **二、S15赛事结果印证T1绝对实力**<br>1. **TES 0-3 完败T1**  <br>   TES在半决赛中未赢一小局，全程遭全方位压制，前教练白色月牙赛后怒斥队伍“一打LCK就不会玩”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 11, \"data\": {\"num\": [9], \"version\": 2, \"quote_list\": [{\"name\": \"我是电竞小生\", \"scheme\": \"sinaweibo://detail?mblogid=5228659101140513\", \"index\": 9, \"label\": \"大v\"}], \"name\": \"我是电竞小生\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.600.600.50/006BPLKbly8gx4n5qvexbj30go0gogp4.jpg?KID=imgbed,tva&Expires=1762103941&ssig=8QWkCvsgPa\", \"scheme\": \"sinaweibo://detail?mblogid=5228659101140513\", \"vType\": 0}}```  <br>2. **AL 八强赛的短暂抵抗**  <br>   AL曾在八强赛一度领先T1，但最终被逆转淘汰，成为LPL队伍中“最接近打破T1连胜”却失败的案例。<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5228659101140513&multi_paragraph=2&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.600.600.50/006BPLKbly8gx4n5qvexbj30go0gogp4.jpg?KID=imgbed,tva&Expires=1762103941&ssig=8QWkCvsgPa) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">我是电竞小生</span><img src=\"http://wx3.sinaimg.cn/middle/006BPLKbly1i6y8axqu51j31hc0u0wft.jpg\" data-width=1080 data-height=1920></div></media-block><br>### 🔍 **三、言论背后的深层含义**<br>1. **淡化“抗中”标签，强调全球统治**  <br>   Oner刻意将“LPL连胜”与“其他赛区连胜”并列，表明T1的目标是**无差别碾压所有对手**，而非针对特定赛区。```wbCustomBlock{\"type\": \"quoted\", \"index\": 15, \"data\": {\"num\": [13, 16, 20], \"version\": 2, \"quote_list\": [{\"name\": \"和谐的节奏哦123\", \"scheme\": \"sinaweibo://detail?mblogid=5228656999533636\", \"index\": 13, \"label\": \"\"}, {\"name\": \"温柔的小少女200409\", \"scheme\": \"sinaweibo://detail?mblogid=5228656738963808\", \"index\": 16, \"label\": \"\"}, {\"name\": \"淳恬晟\", \"scheme\": \"sinaweibo://detail?mblogid=5228655938900034\", \"index\": 20, \"label\": \"\"}]}}```  <br>2. **以实力为底气的自信**  <br>   网友普遍认为该言论看似“凡尔赛”，实则是基于战绩的客观陈述：  <br>   - “换别的队说这话会被嘲，但T1用成绩兜底”；```wbCustomBlock{\"type\": \"quoted\", \"index\": 17, \"data\": {\"num\": [15], \"version\": 2, \"quote_list\": [{\"name\": \"YANFAN2潘\", \"scheme\": \"sinaweibo://detail?mblogid=5228656786147992\", \"index\": 15, \"label\": \"\"}]}}```  <br>   - “听着狂，本质是硬实力给了Oner勇气”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 18, \"data\": {\"num\": [14], \"version\": 2, \"quote_list\": [{\"name\": \"生动有趣的故事\", \"scheme\": \"sinaweibo://detail?mblogid=5228656834118717\", \"index\": 14, \"label\": \"\"}]}}```  <br>3. **心理战术与冠军心态**  <br>   通过淡化连胜意义，T1传递出“胜利是常态”的强者姿态，削弱对手心理优势。```wbCustomBlock{\"type\": \"quoted\", \"index\": 19, \"data\": {\"num\": [17, 19], \"version\": 2, \"quote_list\": [{\"name\": \"酷爱文学屋\", \"scheme\": \"sinaweibo://detail?mblogid=5228656607890857\", \"index\": 17, \"label\": \"\"}, {\"name\": \"温凉的小少女\", \"scheme\": \"sinaweibo://detail?mblogid=5228656150446405\", \"index\": 19, \"label\": \"\"}]}}```<br>### ⚠️ **四、LPL赛区的困境反思**<br>1. **“恐T1症”蔓延**  <br>   LPL队伍近年屡次在S赛关键战中被T1零封或逆转，如TES半决赛全程被动、AL领先被翻盘，暴露出战术储备与临场决策的差距。```wbCustomBlock{\"type\": \"quoted\", \"index\": 22, \"data\": {\"num\": [9], \"version\": 2, \"quote_list\": [{\"name\": \"我是电竞小生\", \"scheme\": \"sinaweibo://detail?mblogid=5228659101140513\", \"index\": 9, \"label\": \"\"}]}}```  <br>2. **赛区对抗格局失衡**  <br>   网友尖锐指出：“能和韩国打到最后稍微抵抗的只有LPL，其他赛区在哪蠕动？”，反映LPL虽为“抗韩主力”，却始终难破T1壁垒。```wbCustomBlock{\"type\": \"quoted\", \"index\": 23, \"data\": {\"num\": [8], \"version\": 2, \"quote_list\": [{\"name\": \"卖火柴的村菇\", \"scheme\": \"sinaweibo://detail?mblogid=5228640746078720\", \"index\": 8, \"label\": \"\"}]}}```<br>### 💎 **总结：T1王朝的统治逻辑**<br>Oner的发言揭示T1的终极目标——**成为无死角的世界赛统治者**。其13连胜LPL的纪录是王朝基石，而非终点。对LPL而言，破除“魔咒”需在英雄池深度、战术创新及心态建设上实现突破，否则恐延续“抗韩多年，难越T1”的宿命。```wbCustomBlock{\"type\": \"quoted\", \"index\": 25, \"data\": {\"num\": [9, 13], \"version\": 2, \"quote_list\": [{\"name\": \"我是电竞小生\", \"scheme\": \"sinaweibo://detail?mblogid=5228659101140513\", \"index\": 9, \"label\": \"\"}, {\"name\": \"和谐的节奏哦123\", \"scheme\": \"sinaweibo://detail?mblogid=5228656999533636\", \"index\": 13, \"label\": \"\"}]}}```<br>",
+      "scheme": "sinaweibo://cardlist?containerid=100103type%3D225%26q%3D%23oner%E8%B0%88s%E8%B5%9B%E5%AF%B9lpl%E8%BF%9E%E8%83%9C%23%26t%3D&extparam=ai_model%3Ddeepseek%26ori_ai_title%3D%E5%8F%82%E8%80%83%E5%8D%9A%E6%96%87%26material_version%3D1762093141",
+      "query": "#oner谈S赛对LPL连胜#",
+      "qs_status_info": "{\"qs_u_status\":0,\"ab_lab\":{},\"qs_status\":0,\"qs_c_status\":8388608,\"qs_q_status\":0,\"qs_r_status\":0}",
+      "version": "2025-11-02 22:19:01.029000-5347",
+      "analysis_time": 1762093353,
+      "ext_show": {},
+      "unify_md5": "e520b28f176c7aa0616b9beaead9c870",
+      "q_attr": {
+        "from_uid": "",
+        "comment_from_type": "",
+        "from_request_id": "",
+        "reply_cid": "",
+        "mid": ""
+      },
+      "query_category": "",
+      "share_info": {
+        "status": 3,
+        "tips": "#oner谈S赛对LPL连胜#的相关内容，来智搜看看",
+        "page_id": "23296462d3a35da6a0bc0aedebfe9337203e98",
+        "comment_content": "",
+        "url": "http://t.cn/AXAK9Cu8",
+        "display_name": "#oner谈S赛对LPL连胜#",
+        "unify_md5": "e520b28f176c7aa0616b9beaead9c870"
+      },
+      "page_id": "23296462d3a35da6a0bc0aedebfe9337203e98",
+      "share_text": "#oner谈S赛对LPL连胜#的相关内容，来智搜看看",
+      "current_time": 1762093532,
+      "user_info": {},
+      "msg_format": "markdown",
+      "show_ctrl": {
+        "quote": {}
+      },
+      "abtest_info": {
+        "chat_entrance": 1
+      },
+      "loop_times": 200,
+      "news_analyze": {},
+      "reliable_tips": "{\"gold_orange_v_mids\": [\"5228636409956942\", \"5035102792325706\", \"5228659101140513\", \"5228640746078720\", \"5228640142362227\"], \"gold_orange_v_ratio\": \"28%\", \"media_mids\": [], \"media_ratio\": \"0%\", \"verified_mids\": [\"5035347854229861\", \"5049574263625015\", \"5228624976022063\"], \"verified_ratio\": \"17%\", \"normal_mids\": [\"5228656999533636\", \"5228656738963808\", \"5228655938900034\", \"5228656786147992\", \"5228656834118717\", \"5228656607890857\", \"5228656150446405\", \"5228659586897113\", \"5228657419228447\", \"4961898105931369\"], \"normal_ratio\": \"55%\", \"ref_mid_rank\": {\"5228636409956942\": {\"rank\": 1}, \"5035102792325706\": {\"rank\": 21}, \"5035347854229861\": {\"rank\": 22}, \"5228659101140513\": {\"rank\": 9}, \"5228656999533636\": {\"rank\": 13}, \"5228656738963808\": {\"rank\": 16}, \"5228655938900034\": {\"rank\": 20}, \"5228656786147992\": {\"rank\": 15}, \"5228656834118717\": {\"rank\": 14}, \"5228656607890857\": {\"rank\": 17}, \"5228656150446405\": {\"rank\": 19}, \"5228640746078720\": {\"rank\": 8}, \"5049574263625015\": {\"rank\": 2}, \"5228624976022063\": {\"rank\": 10}, \"5228659586897113\": {\"rank\": 11}, \"5228657419228447\": {\"rank\": 12}, \"5228640142362227\": {\"rank\": 18}, \"4961898105931369\": {\"rank\": 23}}}",
+      "profile_image_url": "",
+      "comment_info": {},
+      "zs_risk_control": {
+        "think_text_close": 0,
+        "land_button_close": 0
+      }
+    }
+  },
+  "links": [
+    "sinaweibo://detail?mblogid=5228636409956942",
+    "sinaweibo://detail?mblogid=5049574263625015",
+    "broadsocial_res://",
+    "broadsocial_res://",
+    "historyweibo://5209265444487719",
+    "historyweibo://5209005303531553",
+    "historyweibo://5208907830002463",
+    "sinaweibo://detail?mblogid=5228640746078720",
+    "sinaweibo://detail?mblogid=5228659101140513",
+    "sinaweibo://detail?mblogid=5228624976022063",
+    "sinaweibo://detail?mblogid=5228659586897113",
+    "sinaweibo://detail?mblogid=5228657419228447",
+    "sinaweibo://detail?mblogid=5228656999533636",
+    "sinaweibo://detail?mblogid=5228656834118717",
+    "sinaweibo://detail?mblogid=5228656786147992",
+    "sinaweibo://detail?mblogid=5228656738963808",
+    "sinaweibo://detail?mblogid=5228656607890857",
+    "sinaweibo://detail?mblogid=5228640142362227",
+    "sinaweibo://detail?mblogid=5228656150446405",
+    "sinaweibo://detail?mblogid=5228655938900034",
+    "sinaweibo://detail?mblogid=5035102792325706",
+    "sinaweibo://detail?mblogid=5035347854229861",
+    "sinaweibo://detail?mblogid=4961898105931369"
+  ],
+  "media": [
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/007ZlrToly1i6y5p8zmusj30zk0k03zq.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/007ZlrToly1i6y5p8zmusj30zk0k03zq.jpg",
+      "alt": "吃瓜的空白",
+      "width": 720,
+      "height": 1280,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/007ZlrToly1i6y5p8zmusj30zk0k03zq.jpg"
+      ],
+      "user": "吃瓜的空白"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/a68def6cly1hptio9lgmjj212c0lgq3t.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/a68def6cly1hptio9lgmjj212c0lgq3t.jpg",
+      "alt": "tsukitokki",
+      "width": 772,
+      "height": 1380,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/a68def6cly1hptio9lgmjj212c0lgq3t.jpg"
+      ],
+      "user": "tsukitokki"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/006BPLKbly1i6y8axqu51j31hc0u0wft.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/006BPLKbly1i6y8axqu51j31hc0u0wft.jpg",
+      "alt": "我是电竞小生",
+      "width": 1080,
+      "height": 1920,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/006BPLKbly1i6y8axqu51j31hc0u0wft.jpg"
+      ],
+      "user": "我是电竞小生"
+    }
+  ],
+  "html_path": "data/aicard/hourly/2025-11-02/22/oner-s-lpl.html"
+}

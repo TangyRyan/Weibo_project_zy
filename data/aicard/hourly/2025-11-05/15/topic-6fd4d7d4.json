@@ -1,0 +1,343 @@
+{
+  "meta": {
+    "query": "#陈伟霆你不是黄明昊 别喂黄景瑜#",
+    "status_code": 200,
+    "fetched_at": "2025-11-05T15:37:00+08:00",
+    "response": {
+      "version": "2025-11-05 15:28:21.016999-2293",
+      "ext_show": {},
+      "model": "deepseek",
+      "wenda": {
+        "forward_gen": 0
+      },
+      "cot": 1,
+      "scheme": "sinaweibo://cardlist?containerid=100103type%3D225%26q%3D%23%E9%99%88%E4%BC%9F%E9%9C%86%E4%BD%A0%E4%B8%8D%E6%98%AF%E9%BB%84%E6%98%8E%E6%98%8A%20%E5%88%AB%E5%96%82%E9%BB%84%E6%99%AF%E7%91%9C%23%26t%3D&extparam=ai_model%3Ddeepseek%26ori_ai_title%3D%E5%8F%82%E8%80%83%E5%8D%9A%E6%96%87%26material_version%3D1762327701",
+      "qs_status": 0,
+      "query": "#陈伟霆你不是黄明昊 别喂黄景瑜#",
+      "mid_list": null,
+      "reference_num": 38,
+      "query_category": "",
+      "status_stage": 4,
+      "short_url": "http://t.cn/AXAQCDq2",
+      "share_info": {
+        "status": 3,
+        "url": "http://t.cn/AXAQpqPa",
+        "page_id": "2329645c18ea829254e2f413c7afbd93c1734d",
+        "unify_md5": "6fd4d7d4cecb39acb929c53a5e2ea454",
+        "tips": "#陈伟霆你不是黄明昊 别喂黄景瑜#的相关内容，来智搜看看",
+        "display_name": "#陈伟霆你不是黄明昊 别喂黄景瑜#",
+        "comment_content": ""
+      },
+      "card_multimodal": {
+        "type": "mediablock",
+        "data": [
+          {
+            "img": "http://wx3.sinaimg.cn/middle/006JzC9Xgy1i70j58xglgj30ok0wmaec.jpg",
+            "click_rate": 0.18282531743443,
+            "click_num": 0,
+            "video_url": "",
+            "scheme": "sinaweibo://multimedia?mix_mid=5229381431066878&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=1&multi_count=0",
+            "h": 1174,
+            "cur_mid": "5229381431066878",
+            "w": 884,
+            "user_name": "你看见星星了吗",
+            "vtype": 0,
+            "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.449.449.50/006JzC9Xly8hdeoofq4j9j30ch0chq36.jpg?KID=imgbed,tva&Expires=1762338501&ssig=EAA7Yswe0r",
+            "type": "p",
+            "hit_score_final": 83.056641,
+            "hit_score_new": 88.427734,
+            "doc_score": 5391,
+            "img_pid": "006JzC9Xgy1i70j58xglgj30ok0wmaec"
+          },
+          {
+            "img": "http://wx1.sinaimg.cn/middle/0079ahS8ly1i717r6d3rvj30xd0p0whg.jpg",
+            "click_rate": 0.17858426158821,
+            "click_num": 0,
+            "video_url": "",
+            "scheme": "sinaweibo://multimedia?mix_mid=5229595643349451&from=search&content_show=1&mix_index=2&hide_index=1&multi_paragraph=1&multi_count=1",
+            "h": 900,
+            "cur_mid": "5229595643349451",
+            "w": 1201,
+            "user_name": "吃瓜冲浪日记",
+            "vtype": 0,
+            "user_avatar": "https://tvax2.sinaimg.cn/crop.0.0.480.480.50/0079ahS8ly8i3zayv2yijj30dc0dcmx7.jpg?KID=imgbed,tva&Expires=1762338501&ssig=g857d0x%2Fcj",
+            "type": "p",
+            "hit_score_final": 0,
+            "hit_score_new": 0,
+            "doc_score": 0,
+            "img_pid": "0079ahS8ly1i717r6d3rvj30xd0p0whg"
+          },
+          {
+            "img": "http://wx4.sinaimg.cn/middle/006u4gbbly1i71bt2q822j31400u0gmn.jpg",
+            "click_rate": 0,
+            "click_num": 0,
+            "video_url": "https://video.weibo.com/show?fid=1034:5229629808771154",
+            "scheme": "sinaweibo://multimedia?mix_mid=5229630217000759&mix_index=0&multi_paragraph=1&multi_count=2",
+            "h": 1080,
+            "cur_mid": "5229630217000759",
+            "w": 1440,
+            "user_name": "Juli·Baker_c",
+            "vtype": 0,
+            "user_avatar": "https://tvax4.sinaimg.cn/crop.0.0.996.996.50/006u4gbbly8gnivjhqep8j30ro0ro0vm.jpg?KID=imgbed,tva&Expires=1762338501&ssig=IL09J%2BQJYf",
+            "type": "v",
+            "hit_score_final": 91.119919,
+            "hit_score_new": 96.533203,
+            "doc_score": 6565,
+            "img_pid": "006u4gbbly1i71bt2q822j31400u0gmn"
+          },
+          {
+            "img": "http://wx3.sinaimg.cn/middle/006JzC9Xgy1i70j58xglgj30ok0wmaec.jpg",
+            "click_rate": 0.18282531743443,
+            "click_num": 0,
+            "video_url": "",
+            "scheme": "sinaweibo://multimedia?mix_mid=5229381431066878&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=1&multi_count=0",
+            "h": 1174,
+            "cur_mid": "5229381431066878",
+            "w": 884,
+            "user_name": "你看见星星了吗",
+            "vtype": 0,
+            "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.449.449.50/006JzC9Xly8hdeoofq4j9j30ch0chq36.jpg?KID=imgbed,tva&Expires=1762338501&ssig=EAA7Yswe0r",
+            "type": "p",
+            "hit_score_final": 83.056641,
+            "hit_score_new": 88.427734,
+            "doc_score": 5391,
+            "img_pid": "006JzC9Xgy1i70j58xglgj30ok0wmaec"
+          }
+        ]
+      },
+      "share_card_multimodal": {
+        "img": "http://wx3.sinaimg.cn/middle/006JzC9Xgy1i70j58xglgj30ok0wmaec.jpg",
+        "click_rate": 0.18282531743443,
+        "click_num": 0,
+        "video_url": "",
+        "scheme": "sinaweibo://multimedia?mix_mid=5229381431066878&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=1&multi_count=0",
+        "h": 1174,
+        "cur_mid": "5229381431066878",
+        "w": 884,
+        "user_name": "你看见星星了吗",
+        "vtype": 0,
+        "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.449.449.50/006JzC9Xly8hdeoofq4j9j30ch0chq36.jpg?KID=imgbed,tva&Expires=1762338501&ssig=EAA7Yswe0r",
+        "type": "p",
+        "hit_score_final": 83.056641,
+        "hit_score_new": 88.427734,
+        "doc_score": 5391,
+        "img_pid": "006JzC9Xgy1i70j58xglgj30ok0wmaec"
+      },
+      "basemodel": "实验组3",
+      "msg_json": "{}",
+      "sorted_material_list": null,
+      "unify_md5": "6fd4d7d4cecb39acb929c53a5e2ea454",
+      "query_field": "1",
+      "chat_status_stage": 1,
+      "link_list": [
+        "sinaweibo://detail?mblogid=5229595643349451",
+        "sinaweibo://detail?mblogid=5229630217000759",
+        "sinaweibo://detail?mblogid=5229620029034147",
+        "sinaweibo://detail?mblogid=5229609658615362",
+        "sinaweibo://detail?mblogid=5229381431066878",
+        "sinaweibo://detail?mblogid=5229510593348878",
+        "sinaweibo://detail?mblogid=5229505196327781",
+        "broadsocial_res://",
+        "historyweibo://5170910107011619",
+        "historyweibo://5159493881561767",
+        "historyweibo://5153183944935613",
+        "sinaweibo://detail?mblogid=5229613248940501",
+        "sinaweibo://detail?mblogid=5229630107948511",
+        "sinaweibo://detail?mblogid=5229617968581840",
+        "sinaweibo://detail?mblogid=5229632402232221",
+        "sinaweibo://detail?mblogid=5229614595313670",
+        "sinaweibo://detail?mblogid=5229626714752072",
+        "sinaweibo://detail?mblogid=5229619692700755",
+        "sinaweibo://detail?mblogid=5229622007435357",
+        "sinaweibo://detail?mblogid=5229631504386035",
+        "sinaweibo://detail?mblogid=5229609025012836",
+        "sinaweibo://detail?mblogid=5229637980656743",
+        "sinaweibo://detail?mblogid=5229638659868454",
+        "sinaweibo://detail?mblogid=5229622008219610",
+        "sinaweibo://detail?mblogid=5229624181131482",
+        "sinaweibo://detail?mblogid=5229335548005741",
+        "sinaweibo://detail?mblogid=5229618240162266",
+        "sinaweibo://detail?mblogid=5229643725538659",
+        "sinaweibo://detail?mblogid=5229642744333473",
+        "sinaweibo://detail?mblogid=5229642684302598",
+        "sinaweibo://detail?mblogid=5229642541960405",
+        "sinaweibo://detail?mblogid=5229642539862251",
+        "sinaweibo://detail?mblogid=5229641876375613",
+        "sinaweibo://detail?mblogid=5229641570979447",
+        "sinaweibo://detail?mblogid=5229614663730026",
+        "sinaweibo://detail?mblogid=5229628543207862",
+        "sinaweibo://detail?mblogid=5229617512451137",
+        "sinaweibo://detail?mblogid=5229627301431865",
+        "sinaweibo://detail?mblogid=5229639161348426",
+        "sinaweibo://detail?mblogid=5229615299694116",
+        "sinaweibo://detail?mblogid=5229618131896943",
+        "sinaweibo://detail?mblogid=5229612180702651"
+      ],
+      "zs_risk_control": {
+        "think_text_close": 0,
+        "land_button_close": 0
+      },
+      "uid": "",
+      "news_analyze": {},
+      "current_time": 1762328221,
+      "profile_image_url": "",
+      "user_info": {},
+      "msg_format": "markdown",
+      "show_ctrl": {
+        "quote": {}
+      },
+      "reliable_tips": "{\"gold_orange_v_mids\": [\"5229595643349451\", \"5229630217000759\", \"5229381431066878\", \"5229617512451137\", \"5229627301431865\", \"5229639161348426\", \"5229617968581840\", \"5229620029034147\", \"5229615299694116\", \"5229614595313670\", \"5229637980656743\", \"5229609658615362\", \"5229510593348878\", \"5229505196327781\", \"5229613248940501\", \"5229630107948511\", \"5229632402232221\", \"5229626714752072\", \"5229619692700755\", \"5229622007435357\", \"5229631504386035\", \"5229609025012836\", \"5229638659868454\", \"5229622008219610\", \"5229624181131482\", \"5229335548005741\", \"5229618131896943\", \"5229612180702651\"], \"gold_orange_v_ratio\": \"74%\", \"media_mids\": [], \"media_ratio\": \"0%\", \"verified_mids\": [\"5229643725538659\"], \"verified_ratio\": \"2%\", \"normal_mids\": [\"5229618240162266\", \"5229642541960405\", \"5229614663730026\", \"5229642744333473\", \"5229642684302598\", \"5229642539862251\", \"5229641876375613\", \"5229641570979447\", \"5229628543207862\"], \"normal_ratio\": \"24%\", \"ref_mid_rank\": {\"5229595643349451\": {\"rank\": 1}, \"5229630217000759\": {\"rank\": 2}, \"5229381431066878\": {\"rank\": 5}, \"5229617512451137\": {\"rank\": 37}, \"5229627301431865\": {\"rank\": 38}, \"5229639161348426\": {\"rank\": 39}, \"5229617968581840\": {\"rank\": 14}, \"5229620029034147\": {\"rank\": 3}, \"5229615299694116\": {\"rank\": 40}, \"5229614595313670\": {\"rank\": 16}, \"5229637980656743\": {\"rank\": 22}, \"5229618240162266\": {\"rank\": 27}, \"5229642541960405\": {\"rank\": 31}, \"5229614663730026\": {\"rank\": 35}, \"5229609658615362\": {\"rank\": 4}, \"5229510593348878\": {\"rank\": 6}, \"5229505196327781\": {\"rank\": 7}, \"5229613248940501\": {\"rank\": 12}, \"5229630107948511\": {\"rank\": 13}, \"5229632402232221\": {\"rank\": 15}, \"5229626714752072\": {\"rank\": 17}, \"5229619692700755\": {\"rank\": 18}, \"5229622007435357\": {\"rank\": 19}, \"5229631504386035\": {\"rank\": 20}, \"5229609025012836\": {\"rank\": 21}, \"5229638659868454\": {\"rank\": 23}, \"5229622008219610\": {\"rank\": 24}, \"5229624181131482\": {\"rank\": 25}, \"5229335548005741\": {\"rank\": 26}, \"5229643725538659\": {\"rank\": 28}, \"5229642744333473\": {\"rank\": 29}, \"5229642684302598\": {\"rank\": 30}, \"5229642539862251\": {\"rank\": 32}, \"5229641876375613\": {\"rank\": 33}, \"5229641570979447\": {\"rank\": 34}, \"5229628543207862\": {\"rank\": 36}, \"5229618131896943\": {\"rank\": 41}, \"5229612180702651\": {\"rank\": 42}}}",
+      "comment_info": {},
+      "msg": "<think><br>嗯，用户要求我根据提供的搜索结果来解释关于\"陈伟霆你不是黄明昊 别喂黄景瑜\"这个热搜话题的情况。这是一个有趣的娱乐事件，我需要整理清楚来龙去脉。<br><br>先看看搜索结果中关键信息。结果1显示事件起源于陈伟霆在综艺中试图喂黄景瑜吃冰淇淋被婉拒，粉丝调侃说如果换成黄明昊喂的话黄景瑜就会接受。这个时间点是2025年11月5日，很新的内容。结果8提供了重要背景说明：实际上黄明昊从未在节目中喂过黄景瑜，\"投喂专属权\"完全是粉丝基于互动的二创玩梗。<br><br>结果38详细解释了事件发酵过程：在《现在就出发3》意大利录制现场，陈伟霆的喂食举动被拒后，网友联想到黄明昊与黄景瑜在《风驰赛车手》中的互动，戏称黄景瑜有\"投喂双标症\"。结果37还提到粉丝称黄明昊为\"内娱妲己\"，但结果8说明这只是部分粉丝的调侃标签，并非官方称号。<br><br>结果39补充了更多背景，提到黄景瑜对黄明昊的宠溺行为(如照顾胃痛、送早餐等)，这也解释了粉丝为何会产生这种联想。而结果5则展示了另一个有趣对比：同一天陈伟霆被王安宇喂冰淇淋时很配合，形成强烈反差。<br><br>还注意到很多结果(如16、22、27等)都在借此宣传黄明昊新剧《四喜》11月7日开播，说明粉丝也在利用热搜热度宣传新作品。<br><br>综合来看，这个热搜本质是粉丝文化现象，包含三个关键元素：综艺中的真实互动剪辑、艺人关系二创、新剧宣传借势。我需要客观呈现事实核心：即事件源于玩梗，同时澄清没有实际喂食行为，并解释公众人物的反差萌表现如何引发讨论。<br><br>我会在回答时注意：区分事实与粉丝创作；说明各艺人相关背景；提及新剧宣传现象；保持客观中立的娱乐事件分析视角。重点突出综艺互动如何被转化为网络梗文化这一有趣现象。<br><br></think><br>关于“陈伟霆你不是黄明昊 别喂黄景瑜”的热搜事件，综合多方信息，核心内容整理如下：<br>### 🔥 **事件起源与核心经过**<br>1. **综艺互动引发玩梗**  <br>   在综艺节目《现在就出发3》意大利录制现场（2025年11月），陈伟霆试图喂黄景瑜吃冰淇淋，但黄景瑜婉拒并露出傲娇表情，被网友调侃为“双标拒绝”。部分粉丝对比黄明昊与黄景瑜的互动模式，戏称：“如果是黄明昊喂，黄景瑜肯定吃！”从而衍生出“陈伟霆别越权投喂”的搞笑话题。```wbCustomBlock{\"type\": \"quoted\", \"index\": 4, \"data\": {\"num\": [1, 2, 5, 37, 38], \"version\": 2, \"quote_list\": [{\"name\": \"吃瓜冲浪日记\", \"scheme\": \"sinaweibo://detail?mblogid=5229595643349451\", \"index\": 1, \"label\": \"大v\"}, {\"name\": \"Juli·Baker_c\", \"scheme\": \"sinaweibo://detail?mblogid=5229630217000759\", \"index\": 2, \"label\": \"\"}, {\"name\": \"你看见星星了吗\", \"scheme\": \"sinaweibo://detail?mblogid=5229381431066878\", \"index\": 5, \"label\": \"\"}, {\"name\": \"芒果捞娱\", \"scheme\": \"sinaweibo://detail?mblogid=5229617512451137\", \"index\": 37, \"label\": \"\"}, {\"name\": \"创可脑洞说\", \"scheme\": \"sinaweibo://detail?mblogid=5229627301431865\", \"index\": 38, \"label\": \"\"}], \"name\": \"吃瓜冲浪日记\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.480.480.50/0079ahS8ly8i3zayv2yijj30dc0dcmx7.jpg?KID=imgbed,tva&Expires=1762338501&ssig=g857d0x%2Fcj\", \"scheme\": \"sinaweibo://detail?mblogid=5229595643349451\", \"vType\": 0}}```<br><br>2. **“投喂权”的粉丝二创来源**  <br>   - 黄明昊与黄景瑜因综艺《风驰赛车手》中的默契互动被观众称为“3A景区”组合，两人在节目中有大量搞笑互怼和自然接梗的片段（如抽象式说车、东北幽默碰撞），但**从未实际发生喂食行为**。```wbCustomBlock{\"type\": \"quoted\", \"index\": 6, \"data\": {\"num\": [38], \"version\": 2, \"quote_list\": [{\"name\": \"创可脑洞说\", \"scheme\": \"sinaweibo://detail?mblogid=5229627301431865\", \"index\": 38, \"label\": \"\"}]}}```  <br>   - 粉丝基于二人互动中的“宠溺感”（如黄景瑜照顾胃痛的黄明昊、送早餐等细节），创作出“投喂权归黄明昊专属”的梗，本质是圈内玩笑，非真实事件。```wbCustomBlock{\"type\": \"quoted\", \"index\": 7, \"data\": {\"num\": [39], \"version\": 2, \"quote_list\": [{\"name\": \"芭比爱吃娱\", \"scheme\": \"sinaweibo://detail?mblogid=5229639161348426\", \"index\": 39, \"label\": \"\"}]}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5229381431066878&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=1&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.449.449.50/006JzC9Xly8hdeoofq4j9j30ch0chq36.jpg?KID=imgbed,tva&Expires=1762338501&ssig=EAA7Yswe0r) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">你看见星星了吗</span><img src=\"http://wx3.sinaimg.cn/middle/006JzC9Xgy1i70j58xglgj30ok0wmaec.jpg\" data-width=1174 data-height=884></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5229595643349451&from=search&content_show=1&mix_index=2&hide_index=1&multi_paragraph=1&multi_count=1\"><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.480.480.50/0079ahS8ly8i3zayv2yijj30dc0dcmx7.jpg?KID=imgbed,tva&Expires=1762338501&ssig=g857d0x%2Fcj) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">吃瓜冲浪日记</span><img src=\"http://wx1.sinaimg.cn/middle/0079ahS8ly1i717r6d3rvj30xd0p0whg.jpg\" data-width=900 data-height=1201></div><div data-type=\"v\" data-scheme=\"sinaweibo://multimedia?mix_mid=5229630217000759&mix_index=0&multi_paragraph=1&multi_count=2\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.996.996.50/006u4gbbly8gnivjhqep8j30ro0ro0vm.jpg?KID=imgbed,tva&Expires=1762338501&ssig=IL09J%2BQJYf) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">Juli·Baker_c</span><img src=\"http://wx4.sinaimg.cn/middle/006u4gbbly1i71bt2q822j31400u0gmn.jpg\" data-width=1080 data-height=1440></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5229639161348426&multi_paragraph=1&multi_count=3\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.129.129.50/0087jSqsly8hpzfqoyryrj303l03ljr7.jpg?KID=imgbed,tva&Expires=1762338501&ssig=SJwPpvpKAl) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">芭比爱吃娱</span><img src=\"http://wx3.sinaimg.cn/middle/0087jSqsly1i71cb4f0afj30qo0k0q51.jpg\" data-width=720 data-height=960></div></media-block><br>### 💡 **人物关系与舆论焦点**<br>1. **黄景瑜的“双标”反差萌**  <br>   - 影视形象：多以硬汉角色（如《破冰行动》）示人，气质沉稳；  <br>   - 综艺表现：对黄明昊展现“傲娇大哥”式照顾，与陈伟霆互动时则显露出“兄弟互怼”画风，反差感成为话题催化剂。```wbCustomBlock{\"type\": \"quoted\", \"index\": 12, \"data\": {\"num\": [38, 39], \"version\": 2, \"quote_list\": [{\"name\": \"创可脑洞说\", \"scheme\": \"sinaweibo://detail?mblogid=5229627301431865\", \"index\": 38, \"label\": \"\"}, {\"name\": \"芭比爱吃娱\", \"scheme\": \"sinaweibo://detail?mblogid=5229639161348426\", \"index\": 39, \"label\": \"\"}]}}```<br><br>2. **陈伟霆的“躺枪”对比**  <br>   同日曝光的另一画面显示，陈伟霆被王安宇喂冰淇淋时乖巧接受，与黄景瑜的拒绝形成鲜明对比，网友调侃：“陈伟霆能喂别人，但别人喂不了黄景瑜！”```wbCustomBlock{\"type\": \"quoted\", \"index\": 13, \"data\": {\"num\": [5, 14], \"version\": 2, \"quote_list\": [{\"name\": \"逗是甜儿\", \"scheme\": \"sinaweibo://detail?mblogid=5229617968581840\", \"index\": 14, \"label\": \"大v\"}, {\"name\": \"你看见星星了吗\", \"scheme\": \"sinaweibo://detail?mblogid=5229381431066878\", \"index\": 5, \"label\": \"\"}], \"name\": \"逗是甜儿\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/9e726270ly8htj5bvaza9j20u00u0mxx.jpg?KID=imgbed,tva&Expires=1762338501&ssig=WiDXzS7yLX\", \"scheme\": \"sinaweibo://detail?mblogid=5229617968581840\", \"vType\": 0}}``` <br><br>3. **黄明昊的标签争议**  <br>   部分粉丝称黄明昊为“内娱妲己”（指其撒娇、奶萌的综艺形象），但该标签仅为饭圈调侃，无权威认证，且引发部分网友澄清反对。```wbCustomBlock{\"type\": \"quoted\", \"index\": 14, \"data\": {\"num\": [3, 40], \"version\": 2, \"quote_list\": [{\"name\": \"梨花予\", \"scheme\": \"sinaweibo://detail?mblogid=5229620029034147\", \"index\": 3, \"label\": \"\"}, {\"name\": \"肆杯奶汀\", \"scheme\": \"sinaweibo://detail?mblogid=5229615299694116\", \"index\": 40, \"label\": \"\"}]}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5229615299694116&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=2&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.754.754.50/0086F8j1ly8hyqx8cjtiaj30ky0kymz4.jpg?KID=imgbed,tva&Expires=1762338501&ssig=k6vGAzXToQ) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">肆杯奶汀</span><img src=\"http://wx2.sinaimg.cn/middle/0086F8j1gy1i71a4hk2vdj30u00tpgpe.jpg\" data-width=1069 data-height=1080></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5229620029034147&multi_paragraph=2&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/008wO37oly8i4uvys37hhj30u00u0q6d.jpg?KID=imgbed,tva&Expires=1762338501&ssig=j0PU9Z4afN) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">梨花予</span><img src=\"http://wx2.sinaimg.cn/middle/008wO37oly1i71aocmoa6j31hc0u00xx.jpg\" data-width=1080 data-height=1920></div></media-block><br>### ⚠️ **关键澄清与事实核查**<br>1. **“专属投喂”纯属虚构**  <br>   经核实，黄明昊与黄景瑜在《风驰赛车手》中无喂食画面，所谓“投喂默契”完全源于粉丝二创，节目仅展示同事间的搞笑互动。```wbCustomBlock{\"type\": \"quoted\", \"index\": 17, \"data\": {\"num\": [38], \"version\": 2, \"quote_list\": [{\"name\": \"创可脑洞说\", \"scheme\": \"sinaweibo://detail?mblogid=5229627301431865\", \"index\": 38, \"label\": \"\"}]}}```<br><br>2. **热搜的衍生影响**  <br>   - 黄明昊粉丝借热搜宣传其主演新剧《四喜》（11月7日央视开播），带动剧集热度；```wbCustomBlock{\"type\": \"quoted\", \"index\": 19, \"data\": {\"num\": [16, 22, 27], \"version\": 2, \"quote_list\": [{\"name\": \"两块黄桃\", \"scheme\": \"sinaweibo://detail?mblogid=5229614595313670\", \"index\": 16, \"label\": \"\"}, {\"name\": \"晚风蝴蝶结\", \"scheme\": \"sinaweibo://detail?mblogid=5229637980656743\", \"index\": 22, \"label\": \"\"}, {\"name\": \"喵喵本猪\", \"scheme\": \"sinaweibo://detail?mblogid=5229618240162266\", \"index\": 27, \"label\": \"\"}]}}```  <br>   - 部分网友认为词条“强行关联”黄明昊，呼吁专注作品。```wbCustomBlock{\"type\": \"quoted\", \"index\": 20, \"data\": {\"num\": [31, 35, 40], \"version\": 2, \"quote_list\": [{\"name\": \"信昊满格iii\", \"scheme\": \"sinaweibo://detail?mblogid=5229642541960405\", \"index\": 31, \"label\": \"\"}, {\"name\": \"lilililililina-lililili\", \"scheme\": \"sinaweibo://detail?mblogid=5229614663730026\", \"index\": 35, \"label\": \"\"}, {\"name\": \"肆杯奶汀\", \"scheme\": \"sinaweibo://detail?mblogid=5229615299694116\", \"index\": 40, \"label\": \"\"}]}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5229614595313670&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=3&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.684.684.50/74428ed9ly8hl8id13mn1j20j00j0q3x.jpg?KID=imgbed,tva&Expires=1762338501&ssig=Y6sYsfF5vm) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">两块黄桃</span><img src=\"http://wx2.sinaimg.cn/middle/74428ed9gy1i71a1u7ojxj20zk0zkgsb.jpg\" data-width=1280 data-height=1280></div></media-block><br>### 📌 **总结：一场玩梗狂欢的真相**<br>该热搜本质是**综艺片段+粉丝二创+艺人反差萌**的综合产物：  <br>- **事实基础**：陈伟霆喂食黄景瑜被拒的真实画面；  <br>- **延伸创作**：粉丝挪用“3A组合”旧梗赋予新解读；  <br>- **标签争议**：“内娱妲己”等称呼存在主观性，需理性看待；  <br>- **澄清重点**：黄明昊与黄景瑜的互动从未涉及实际喂食，所有“专属权”均为玩笑。  <br>事件反映了观众对综艺人设反差的喜爱，但需区分创意玩梗与现实行为。```wbCustomBlock{\"type\": \"quoted\", \"index\": 26, \"data\": {\"num\": [38], \"version\": 2, \"quote_list\": [{\"name\": \"创可脑洞说\", \"scheme\": \"sinaweibo://detail?mblogid=5229627301431865\", \"index\": 38, \"label\": \"\"}]}}```<br>",
+      "top_quote_list": {},
+      "page_id": "2329645c18ea829254e2f413c7afbd93c1734d",
+      "analysis_time": 1762327896,
+      "status": 2,
+      "qs_status_info": "{\"qs_q_status\":0,\"qs_c_status\":8388608,\"qs_r_status\":0,\"qs_u_status\":0,\"ab_lab\":{},\"qs_status\":0}",
+      "ab_suffix": "default",
+      "loop_times": 200,
+      "share_text": "#陈伟霆你不是黄明昊 别喂黄景瑜#的相关内容，来智搜看看",
+      "q_attr": {
+        "mid": "",
+        "reply_cid": "",
+        "from_uid": "",
+        "comment_from_type": "",
+        "from_request_id": ""
+      },
+      "abtest_info": {
+        "chat_entrance": 1
+      }
+    }
+  },
+  "links": [
+    "sinaweibo://detail?mblogid=5229595643349451",
+    "sinaweibo://detail?mblogid=5229630217000759",
+    "sinaweibo://detail?mblogid=5229620029034147",
+    "sinaweibo://detail?mblogid=5229609658615362",
+    "sinaweibo://detail?mblogid=5229381431066878",
+    "sinaweibo://detail?mblogid=5229510593348878",
+    "sinaweibo://detail?mblogid=5229505196327781",
+    "broadsocial_res://",
+    "historyweibo://5170910107011619",
+    "historyweibo://5159493881561767",
+    "historyweibo://5153183944935613",
+    "sinaweibo://detail?mblogid=5229613248940501",
+    "sinaweibo://detail?mblogid=5229630107948511",
+    "sinaweibo://detail?mblogid=5229617968581840",
+    "sinaweibo://detail?mblogid=5229632402232221",
+    "sinaweibo://detail?mblogid=5229614595313670",
+    "sinaweibo://detail?mblogid=5229626714752072",
+    "sinaweibo://detail?mblogid=5229619692700755",
+    "sinaweibo://detail?mblogid=5229622007435357",
+    "sinaweibo://detail?mblogid=5229631504386035",
+    "sinaweibo://detail?mblogid=5229609025012836",
+    "sinaweibo://detail?mblogid=5229637980656743",
+    "sinaweibo://detail?mblogid=5229638659868454",
+    "sinaweibo://detail?mblogid=5229622008219610",
+    "sinaweibo://detail?mblogid=5229624181131482",
+    "sinaweibo://detail?mblogid=5229335548005741",
+    "sinaweibo://detail?mblogid=5229618240162266",
+    "sinaweibo://detail?mblogid=5229643725538659",
+    "sinaweibo://detail?mblogid=5229642744333473",
+    "sinaweibo://detail?mblogid=5229642684302598",
+    "sinaweibo://detail?mblogid=5229642541960405",
+    "sinaweibo://detail?mblogid=5229642539862251",
+    "sinaweibo://detail?mblogid=5229641876375613",
+    "sinaweibo://detail?mblogid=5229641570979447",
+    "sinaweibo://detail?mblogid=5229614663730026",
+    "sinaweibo://detail?mblogid=5229628543207862",
+    "sinaweibo://detail?mblogid=5229617512451137",
+    "sinaweibo://detail?mblogid=5229627301431865",
+    "sinaweibo://detail?mblogid=5229639161348426",
+    "sinaweibo://detail?mblogid=5229615299694116",
+    "sinaweibo://detail?mblogid=5229618131896943",
+    "sinaweibo://detail?mblogid=5229612180702651"
+  ],
+  "media": [
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/006JzC9Xgy1i70j58xglgj30ok0wmaec.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/006JzC9Xgy1i70j58xglgj30ok0wmaec.jpg",
+      "alt": "你看见星星了吗",
+      "width": 1174,
+      "height": 884,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/006JzC9Xgy1i70j58xglgj30ok0wmaec.jpg"
+      ],
+      "user": "你看见星星了吗"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/0079ahS8ly1i717r6d3rvj30xd0p0whg.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/0079ahS8ly1i717r6d3rvj30xd0p0whg.jpg",
+      "alt": "吃瓜冲浪日记",
+      "width": 900,
+      "height": 1201,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/0079ahS8ly1i717r6d3rvj30xd0p0whg.jpg"
+      ],
+      "user": "吃瓜冲浪日记"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/006u4gbbly1i71bt2q822j31400u0gmn.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/006u4gbbly1i71bt2q822j31400u0gmn.jpg",
+      "alt": "Juli·Baker_c",
+      "width": 1080,
+      "height": 1440,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/006u4gbbly1i71bt2q822j31400u0gmn.jpg"
+      ],
+      "user": "Juli·Baker_c"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/0087jSqsly1i71cb4f0afj30qo0k0q51.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/0087jSqsly1i71cb4f0afj30qo0k0q51.jpg",
+      "alt": "芭比爱吃娱",
+      "width": 720,
+      "height": 960,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx4.sinaimg.cn/large/0087jSqsly1i71cb4f0afj30qo0k0q51.jpg"
+      ],
+      "user": "芭比爱吃娱"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/0086F8j1gy1i71a4hk2vdj30u00tpgpe.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/0086F8j1gy1i71a4hk2vdj30u00tpgpe.jpg",
+      "alt": "肆杯奶汀",
+      "width": 1069,
+      "height": 1080,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/0086F8j1gy1i71a4hk2vdj30u00tpgpe.jpg"
+      ],
+      "user": "肆杯奶汀"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/008wO37oly1i71aocmoa6j31hc0u00xx.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/008wO37oly1i71aocmoa6j31hc0u00xx.jpg",
+      "alt": "梨花予",
+      "width": 1080,
+      "height": 1920,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/008wO37oly1i71aocmoa6j31hc0u00xx.jpg"
+      ],
+      "user": "梨花予"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/74428ed9gy1i71a1u7ojxj20zk0zkgsb.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/74428ed9gy1i71a1u7ojxj20zk0zkgsb.jpg",
+      "alt": "两块黄桃",
+      "width": 1280,
+      "height": 1280,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/74428ed9gy1i71a1u7ojxj20zk0zkgsb.jpg"
+      ],
+      "user": "两块黄桃"
+    }
+  ],
+  "html_path": "data/aicard/hourly/2025-11-05/15/topic-6fd4d7d4.html"
+}

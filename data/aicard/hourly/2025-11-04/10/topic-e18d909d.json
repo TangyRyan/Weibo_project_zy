@@ -1,0 +1,367 @@
+{
+  "meta": {
+    "query": "#阿里回应饿了么更名#",
+    "status_code": 200,
+    "fetched_at": "2025-11-04T10:07:42+08:00",
+    "response": {
+      "share_card_multimodal": {
+        "hit_score_new": 78.027344,
+        "scheme": "sinaweibo://multimedia?mix_mid=5229040172795855&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=0",
+        "img_pid": "821234dfly1i6zg1r4o26j20xo36whdt",
+        "doc_score": 4752,
+        "click_rate": 0.10242138937294,
+        "click_num": 0,
+        "w": 1212,
+        "h": 4136,
+        "video_url": "",
+        "img": "http://wx3.sinaimg.cn/middle/821234dfly1i6zg1r4o26j20xo36whdt.jpg",
+        "hit_score_final": 78.816406,
+        "cur_mid": "5229040172795855",
+        "vtype": 0,
+        "user_name": "码哥评测",
+        "type": "p",
+        "user_avatar": "https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/821234dfly8gem3ddfao8j20u00u0jt9.jpg?KID=imgbed,tva&Expires=1762232121&ssig=%2FI4gH2YiQD"
+      },
+      "basemodel": "实验组10",
+      "uid": "",
+      "wenda": {
+        "forward_gen": 0
+      },
+      "abtest_info": {
+        "chat_entrance": 1
+      },
+      "model": "deepseek",
+      "version": "2025-11-04 09:55:21.013999-1905",
+      "cot": 1,
+      "q_attr": {
+        "from_request_id": "",
+        "comment_from_type": "",
+        "mid": "",
+        "reply_cid": "",
+        "from_uid": ""
+      },
+      "page_id": "2329648ce71eff026e81a2f03cd9e05361b790",
+      "ext_show": {},
+      "share_text": "#阿里回应饿了么更名#的相关内容，来智搜看看",
+      "qs_status": 0,
+      "show_ctrl": {
+        "quote": {}
+      },
+      "scheme": "sinaweibo://cardlist?containerid=100103type%3D225%26q%3D%23%E9%98%BF%E9%87%8C%E5%9B%9E%E5%BA%94%E9%A5%BF%E4%BA%86%E4%B9%88%E6%9B%B4%E5%90%8D%23%26t%3D&extparam=ai_model%3Ddeepseek%26ori_ai_title%3D%E5%8F%82%E8%80%83%E5%8D%9A%E6%96%87%26material_version%3D1762221321",
+      "profile_image_url": "",
+      "msg_json": "{}",
+      "unify_md5": "e18d909dd494c562537cce69e2a1d3a1",
+      "zs_risk_control": {
+        "think_text_close": 0,
+        "land_button_close": 0
+      },
+      "msg_format": "markdown",
+      "query": "#阿里回应饿了么更名#",
+      "user_info": {},
+      "analysis_time": 1762221602,
+      "current_time": 1762222064,
+      "status": 2,
+      "reliable_tips": "{\"gold_orange_v_mids\": [\"5229190156912123\", \"5229040172795855\", \"5229178880263287\", \"5229184238492082\", \"5229191794263371\", \"5229194904600997\", \"5229185364658969\", \"5229171014897277\", \"5229173419278542\", \"5229189554242328\", \"5229194877077664\", \"5229191438009794\", \"5229183552455011\", \"5229176228680105\", \"5229177630097591\", \"5229180913978989\", \"5229189894767298\", \"5229170918687758\", \"5229179261945014\", \"5229186113343436\", \"5229035472031520\", \"5229195703878758\", \"5229183462802901\", \"5229179541915579\", \"5229196867800408\", \"5229191668697654\", \"5229181885484039\"], \"gold_orange_v_ratio\": \"75%\", \"media_mids\": [\"5229194751510013\", \"5229178798476375\"], \"media_ratio\": \"6%\", \"verified_mids\": [\"5229178065783082\", \"5229189473241084\"], \"verified_ratio\": \"5%\", \"normal_mids\": [\"5229191739214422\", \"5229195790649073\", \"5229193956690371\", \"5229193308671274\", \"5229186067464529\"], \"normal_ratio\": \"14%\", \"ref_mid_rank\": {\"5229190156912123\": {\"rank\": 4}, \"5229178065783082\": {\"rank\": 16}, \"5229040172795855\": {\"rank\": 18}, \"5229178880263287\": {\"rank\": 17}, \"5229189473241084\": {\"rank\": 31}, \"5229184238492082\": {\"rank\": 14}, \"5229191794263371\": {\"rank\": 1}, \"5229194904600997\": {\"rank\": 3}, \"5229185364658969\": {\"rank\": 21}, \"5229171014897277\": {\"rank\": 24}, \"5229173419278542\": {\"rank\": 7}, \"5229189554242328\": {\"rank\": 9}, \"5229191739214422\": {\"rank\": 29}, \"5229194877077664\": {\"rank\": 5}, \"5229191438009794\": {\"rank\": 12}, \"5229183552455011\": {\"rank\": 19}, \"5229176228680105\": {\"rank\": 22}, \"5229177630097591\": {\"rank\": 34}, \"5229194751510013\": {\"rank\": 20}, \"5229180913978989\": {\"rank\": 23}, \"5229189894767298\": {\"rank\": 6}, \"5229170918687758\": {\"rank\": 10}, \"5229178798476375\": {\"rank\": 33}, \"5229179261945014\": {\"rank\": 35}, \"5229186113343436\": {\"rank\": 2}, \"5229035472031520\": {\"rank\": 8}, \"5229195703878758\": {\"rank\": 11}, \"5229183462802901\": {\"rank\": 13}, \"5229179541915579\": {\"rank\": 15}, \"5229196867800408\": {\"rank\": 25}, \"5229195790649073\": {\"rank\": 26}, \"5229193956690371\": {\"rank\": 27}, \"5229193308671274\": {\"rank\": 28}, \"5229191668697654\": {\"rank\": 30}, \"5229186067464529\": {\"rank\": 32}, \"5229181885484039\": {\"rank\": 36}}}",
+      "loop_times": 200,
+      "news_analyze": {},
+      "msg": "<think><br>嗯，我收到了用户的查询，要求整理关于\"阿里回应饿了么更名\"的搜索结果。用户提供了36条搜索结果，我需要分析这些信息，综合整理成答案。<br><br>用户可能想了解饿了么更名淘宝闪购的具体情况，包括官方回应的原因、品牌变化细节、市场竞争格局影响以及用户反应等。作为DeepSeek，我会基于搜索结果全面分析这个事件。<br><br>浏览搜索结果后，发现核心信息点包括：<br>饿了么App正在进行灰度测试，更名为\"淘宝闪购\"，新标语是\"外卖放心点，美食准时达\"。<br>阿里官方回应称更名是战略整合的一部分，目的是强化统一品牌定位，将饿了么从外卖平台转变为即时零售的履约基础设施。<br>品牌视觉全面更新：App图标、骑手制服都换成淘宝的橙色，骑手称号从\"蓝骑士\"变为\"城市骑士\"。<br>更名背后的战略考量包括打破\"饿了么=外卖\"的局限认知，实现淘宝流量与饿了么运力的协同，应对美团和京东的竞争。<br>市场格局变化显著：美团市占率从73%降至44.1%，淘宝闪购升至44.5%，形成双巨头局面。<br>用户反应存在分歧：有人怀念\"饿了么\"品牌，更多人关注实际体验如补贴力度和配送效率。<br><br>考虑设计回答结构：从品牌更迭细节入手，然后分析战略动因，再说明市场竞争影响，最后补充用户反应。准备用分段标题和小标题组织内容。关键变化点如App界面、骑手服装等用适当方式强调，战略部分会提及运力协同和品类扩展。<br><br>还需要注意时效性，所有搜索结果日期都是2025年11月3日或4日，符合当前需求。会优先引用认证账号和优质搜索结果的内容。<br><br>对于市场数据、用户评价等可能存在差异的信息，会保持客观表述，比如说明\"部分用户担忧\"而非概括整体反应。<br><br></think><br>以下是关于\"阿里回应饿了么更名\"事件的综合整理，核心信息均源自搜索结果：<br>### 🧭 一、更名核心事实与官方回应  <br>1. **更名进展**  <br>   - 饿了么App内测版（版本号12.0.1）已更名为\"淘宝闪购\"，新标语为\"外卖放心点，美食准时达\"。```wbCustomBlock{\"type\": \"quoted\", \"index\": 4, \"data\": {\"num\": [4, 16, 18], \"version\": 2, \"quote_list\": [{\"name\": \"小白测评\", \"scheme\": \"sinaweibo://detail?mblogid=5229190156912123\", \"index\": 4, \"label\": \"大v\"}, {\"name\": \"快豹社\", \"scheme\": \"sinaweibo://detail?mblogid=5229178065783082\", \"index\": 16, \"label\": \"\"}, {\"name\": \"码哥评测\", \"scheme\": \"sinaweibo://detail?mblogid=5229040172795855\", \"index\": 18, \"label\": \"\"}], \"name\": \"小白测评\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/78891eafly8h74njl44lqj20u00u0my5.jpg?KID=imgbed,tva&Expires=1762232121&ssig=hNU6Bdt3tY\", \"scheme\": \"sinaweibo://detail?mblogid=5229190156912123\", \"vType\": 0}}```  <br>   - 目前处于**灰度测试阶段**，仅对部分安卓用户开放，iOS暂未同步，预计11月完成全面切换。```wbCustomBlock{\"type\": \"quoted\", \"index\": 5, \"data\": {\"num\": [4, 16, 17], \"version\": 2, \"quote_list\": [{\"name\": \"科技疯汇\", \"scheme\": \"sinaweibo://detail?mblogid=5229178880263287\", \"index\": 17, \"label\": \"大v\"}, {\"name\": \"小白测评\", \"scheme\": \"sinaweibo://detail?mblogid=5229190156912123\", \"index\": 4, \"label\": \"\"}, {\"name\": \"快豹社\", \"scheme\": \"sinaweibo://detail?mblogid=5229178065783082\", \"index\": 16, \"label\": \"\"}], \"name\": \"科技疯汇\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.690.690.50/82d30882ly8gdljvx4uurj20j60j60t2.jpg?KID=imgbed,tva&Expires=1762232121&ssig=%2BxPV%2BrrjMJ\", \"scheme\": \"sinaweibo://detail?mblogid=5229178880263287\", \"vType\": 0}}```  <br><br>2. **阿里官方回应**  <br>   - 此次更名是阿里集团**即时零售战略整合**的一部分，旨在强化\"淘宝闪购\"作为统一品牌的定位。```wbCustomBlock{\"type\": \"quoted\", \"index\": 7, \"data\": {\"num\": [4, 16, 31], \"version\": 2, \"quote_list\": [{\"name\": \"小白测评\", \"scheme\": \"sinaweibo://detail?mblogid=5229190156912123\", \"index\": 4, \"label\": \"\"}, {\"name\": \"快豹社\", \"scheme\": \"sinaweibo://detail?mblogid=5229178065783082\", \"index\": 16, \"label\": \"\"}, {\"name\": \"芜湖大队长\", \"scheme\": \"sinaweibo://detail?mblogid=5229189473241084\", \"index\": 31, \"label\": \"\"}]}}```  <br>   - 饿了么将从独立外卖平台转变为\"即时零售的履约基础设施\"，与淘宝流量入口协同，实现\"30分钟送万物\"的目标。```wbCustomBlock{\"type\": \"quoted\", \"index\": 8, \"data\": {\"num\": [4, 14, 31], \"version\": 2, \"quote_list\": [{\"name\": \"厚恩投资张延昆\", \"scheme\": \"sinaweibo://detail?mblogid=5229184238492082\", \"index\": 14, \"label\": \"大v\"}, {\"name\": \"小白测评\", \"scheme\": \"sinaweibo://detail?mblogid=5229190156912123\", \"index\": 4, \"label\": \"\"}, {\"name\": \"芜湖大队长\", \"scheme\": \"sinaweibo://detail?mblogid=5229189473241084\", \"index\": 31, \"label\": \"\"}], \"name\": \"厚恩投资张延昆\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/404cdd30ly8gdih9m7oraj20u00u0whj.jpg?KID=imgbed,tva&Expires=1762232121&ssig=RS7gdxKFGA\", \"scheme\": \"sinaweibo://detail?mblogid=5229184238492082\", \"vType\": 0}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5229040172795855&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/821234dfly8gem3ddfao8j20u00u0jt9.jpg?KID=imgbed,tva&Expires=1762232121&ssig=%2FI4gH2YiQD) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">码哥评测</span><img src=\"http://wx3.sinaimg.cn/middle/821234dfly1i6zg1r4o26j20xo36whdt.jpg\" data-width=4136 data-height=1212></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5229178880263287&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=1\"><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.690.690.50/82d30882ly8gdljvx4uurj20j60j60t2.jpg?KID=imgbed,tva&Expires=1762232121&ssig=%2BxPV%2BrrjMJ) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">科技疯汇</span><img src=\"http://wx3.sinaimg.cn/middle/82d30882gy1i6zw0e27arj20a20byq3v.jpg\" data-width=430 data-height=362></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5229184238492082&multi_paragraph=1&multi_count=2\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/404cdd30ly8gdih9m7oraj20u00u0whj.jpg?KID=imgbed,tva&Expires=1762232121&ssig=RS7gdxKFGA) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">厚恩投资张延昆</span><img src=\"http://wx2.sinaimg.cn/middle/404cdd30ly1i6zwmgurhej20as0nq3yf.jpg\" data-width=854 data-height=388></div></media-block><br>### 🔥 二、战略动因解析  <br>1. **突破品牌认知局限**  <br>   - \"饿了么\"长期被用户关联为\"外卖平台\"，而阿里意在拓展生鲜、数码、美妆等**全品类即时零售**业务，\"淘宝闪购\"更符合新定位。```wbCustomBlock{\"type\": \"quoted\", \"index\": 11, \"data\": {\"num\": [1, 3, 21], \"version\": 2, \"quote_list\": [{\"name\": \"baebaealice\", \"scheme\": \"sinaweibo://detail?mblogid=5229191794263371\", \"index\": 1, \"label\": \"\"}, {\"name\": \"井原川奈JY\", \"scheme\": \"sinaweibo://detail?mblogid=5229194904600997\", \"index\": 3, \"label\": \"\"}, {\"name\": \"小紫菜稳稳瘦\", \"scheme\": \"sinaweibo://detail?mblogid=5229185364658969\", \"index\": 21, \"label\": \"\"}]}}```  <br><br>2. **资源整合与降本增效**  <br>   - 整合淘宝8亿用户流量入口，降低获客成本；饿了么400万骑手运力承接淘宝闪购订单，提升配送效率（日峰值达1.5亿单）。```wbCustomBlock{\"type\": \"quoted\", \"index\": 13, \"data\": {\"num\": [3, 14, 24], \"version\": 2, \"quote_list\": [{\"name\": \"喜奈丶\", \"scheme\": \"sinaweibo://detail?mblogid=5229171014897277\", \"index\": 24, \"label\": \"大v\"}, {\"name\": \"井原川奈JY\", \"scheme\": \"sinaweibo://detail?mblogid=5229194904600997\", \"index\": 3, \"label\": \"\"}, {\"name\": \"厚恩投资张延昆\", \"scheme\": \"sinaweibo://detail?mblogid=5229184238492082\", \"index\": 14, \"label\": \"\"}], \"name\": \"喜奈丶\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/006WuQ6Rly8i6iinnylujj30u00u074x.jpg?KID=imgbed,tva&Expires=1762232121&ssig=UzpTay7vni\", \"scheme\": \"sinaweibo://detail?mblogid=5229171014897277\", \"vType\": 0}}```  <br>   - 组织架构上，饿了么已并入淘天体系，由蒋凡统一管理，消除内部协作壁垒。```wbCustomBlock{\"type\": \"quoted\", \"index\": 14, \"data\": {\"num\": [3, 14], \"version\": 2, \"quote_list\": [{\"name\": \"井原川奈JY\", \"scheme\": \"sinaweibo://detail?mblogid=5229194904600997\", \"index\": 3, \"label\": \"\"}, {\"name\": \"厚恩投资张延昆\", \"scheme\": \"sinaweibo://detail?mblogid=5229184238492082\", \"index\": 14, \"label\": \"\"}]}}```  <br><br>3. **应对市场竞争**  <br>   - 对标美团闪购、京东秒送，通过品牌统一与资源集中提升竞争力。市场格局已从美团垄断（73%市占率）变为双巨头对峙（美团44.1% vs 淘宝闪购44.5%）。```wbCustomBlock{\"type\": \"quoted\", \"index\": 16, \"data\": {\"num\": [3, 14, 24], \"version\": 2, \"quote_list\": [{\"name\": \"井原川奈JY\", \"scheme\": \"sinaweibo://detail?mblogid=5229194904600997\", \"index\": 3, \"label\": \"\"}, {\"name\": \"厚恩投资张延昆\", \"scheme\": \"sinaweibo://detail?mblogid=5229184238492082\", \"index\": 14, \"label\": \"\"}, {\"name\": \"喜奈丶\", \"scheme\": \"sinaweibo://detail?mblogid=5229171014897277\", \"index\": 24, \"label\": \"\"}]}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5229171014897277&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=2&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/006WuQ6Rly8i6iinnylujj30u00u074x.jpg?KID=imgbed,tva&Expires=1762232121&ssig=UzpTay7vni) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">喜奈丶</span><img src=\"http://wx1.sinaimg.cn/middle/006WuQ6Rly1i6zv3vlevkj30u01hcb29.jpg\" data-width=1920 data-height=1080></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5229191794263371&multi_paragraph=2&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/005EfGJKly8i6as4b275jj30u00u0ac8.jpg?KID=imgbed,tva&Expires=1762232121&ssig=JWpCWLTaq%2F) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">baebaealice</span><img src=\"http://wx4.sinaimg.cn/middle/005EfGJKly1i6zxhgckn1j30zk0k074w.jpg\" data-width=720 data-height=1280></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5229185364658969&multi_paragraph=2&multi_count=2\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/005PvxAYly8i4s6da9a8vj30u00u0dik.jpg?KID=imgbed,tva&Expires=1762232121&ssig=kR9QoE%2FEg5) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">小紫菜稳稳瘦</span><img src=\"http://wx4.sinaimg.cn/middle/005PvxAYly1i6zwpz12fxj30k00zkmyx.jpg\" data-width=1280 data-height=720></div></media-block><br>### 🔍 三、用户可见变化  <br>- **视觉标识**：App图标、骑手制服（蓝变橙）、标语全面更换为淘宝主题色。```wbCustomBlock{\"type\": \"quoted\", \"index\": 18, \"data\": {\"num\": [1, 4, 7], \"version\": 2, \"quote_list\": [{\"name\": \"一辈子一起走517\", \"scheme\": \"sinaweibo://detail?mblogid=5229173419278542\", \"index\": 7, \"label\": \"大v\"}, {\"name\": \"baebaealice\", \"scheme\": \"sinaweibo://detail?mblogid=5229191794263371\", \"index\": 1, \"label\": \"\"}, {\"name\": \"小白测评\", \"scheme\": \"sinaweibo://detail?mblogid=5229190156912123\", \"index\": 4, \"label\": \"\"}], \"name\": \"一辈子一起走517\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/855f3f6fly8i6ggd30jlhj20u00u0wh9.jpg?KID=imgbed,tva&Expires=1762232121&ssig=FCUpCvIJV1\", \"scheme\": \"sinaweibo://detail?mblogid=5229173419278542\", \"vType\": 0}}```  <br>- **功能体验**：用户可通过淘宝APP直接使用闪购服务，无需单独下载饿了么。```wbCustomBlock{\"type\": \"quoted\", \"index\": 19, \"data\": {\"num\": [9, 29], \"version\": 2, \"quote_list\": [{\"name\": \"LeoGo科技\", \"scheme\": \"sinaweibo://detail?mblogid=5229189554242328\", \"index\": 9, \"label\": \"大v\"}, {\"name\": \"渔村圆滚滚\", \"scheme\": \"sinaweibo://detail?mblogid=5229191739214422\", \"index\": 29, \"label\": \"\"}], \"name\": \"LeoGo科技\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/007zfS4Uly8hwnvj6rd9rj30u00u0wg2.jpg?KID=imgbed,tva&Expires=1762232121&ssig=tMtwWNXOMc\", \"scheme\": \"sinaweibo://detail?mblogid=5229189554242328\", \"vType\": 0}}```  <br>- **补贴策略**：更名后补贴力度加大，部分用户反馈\"便宜到不点就亏\"。```wbCustomBlock{\"type\": \"quoted\", \"index\": 20, \"data\": {\"num\": [5, 12], \"version\": 2, \"quote_list\": [{\"name\": \"鍋盖頭司令\", \"scheme\": \"sinaweibo://detail?mblogid=5229194877077664\", \"index\": 5, \"label\": \"大v\"}, {\"name\": \"梁小欣同学\", \"scheme\": \"sinaweibo://detail?mblogid=5229191438009794\", \"index\": 12, \"label\": \"\"}], \"name\": \"鍋盖頭司令\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.1.1078.1078.50/002i5FJPly8i6x1knagx8j60ty0u0adj02.jpg?KID=imgbed,tva&Expires=1762232121&ssig=PLPpfqwp%2Fk\", \"scheme\": \"sinaweibo://detail?mblogid=5229194877077664\", \"vType\": 0}}```<br>### ⚠️ 四、挑战与争议  <br>1. **运力瓶颈**：全职骑手仅20万（美团为80万），高峰期间需调用盒马运力，可能影响配送时效。```wbCustomBlock{\"type\": \"quoted\", \"index\": 22, \"data\": {\"num\": [3, 14], \"version\": 2, \"quote_list\": [{\"name\": \"井原川奈JY\", \"scheme\": \"sinaweibo://detail?mblogid=5229194904600997\", \"index\": 3, \"label\": \"\"}, {\"name\": \"厚恩投资张延昆\", \"scheme\": \"sinaweibo://detail?mblogid=5229184238492082\", \"index\": 14, \"label\": \"\"}]}}```  <br>2. **用户体验担忧**：部分用户认为淘宝APP功能臃肿，整合后操作可能更繁琐。```wbCustomBlock{\"type\": \"quoted\", \"index\": 23, \"data\": {\"num\": [14, 17], \"version\": 2, \"quote_list\": [{\"name\": \"厚恩投资张延昆\", \"scheme\": \"sinaweibo://detail?mblogid=5229184238492082\", \"index\": 14, \"label\": \"\"}, {\"name\": \"科技疯汇\", \"scheme\": \"sinaweibo://detail?mblogid=5229178880263287\", \"index\": 17, \"label\": \"\"}]}}```  <br>3. **品牌情感稀释**：\"饿了么\"作为运营18年的品牌，更名引发用户怀旧情绪，如经典广告语\"饿了别叫妈\"成为历史。```wbCustomBlock{\"type\": \"quoted\", \"index\": 24, \"data\": {\"num\": [19, 22, 34], \"version\": 2, \"quote_list\": [{\"name\": \"袁国庆\", \"scheme\": \"sinaweibo://detail?mblogid=5229176228680105\", \"index\": 22, \"label\": \"大v\"}, {\"name\": \"暖被窝的暖by\", \"scheme\": \"sinaweibo://detail?mblogid=5229183552455011\", \"index\": 19, \"label\": \"\"}, {\"name\": \"互联网俊明说\", \"scheme\": \"sinaweibo://detail?mblogid=5229177630097591\", \"index\": 34, \"label\": \"\"}], \"name\": \"袁国庆\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/5e4ff271ly8gshtueqiu3j20u00u0wfc.jpg?KID=imgbed,tva&Expires=1762232121&ssig=BmFCb2EFzi\", \"scheme\": \"sinaweibo://detail?mblogid=5229176228680105\", \"vType\": 0}}```  <br>4. **商标纠纷风险**：美团曾抢注\"闪购\"商标，阿里虽注册\"淘宝闪购\"，但法律争议尚未完全解决。```wbCustomBlock{\"type\": \"quoted\", \"index\": 25, \"data\": {\"num\": [14, 20], \"version\": 2, \"quote_list\": [{\"name\": \"东方财经\", \"scheme\": \"sinaweibo://detail?mblogid=5229194751510013\", \"index\": 20, \"label\": \"大v\"}, {\"name\": \"厚恩投资张延昆\", \"scheme\": \"sinaweibo://detail?mblogid=5229184238492082\", \"index\": 14, \"label\": \"\"}], \"name\": \"东方财经\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/006ckfnZly8hiy2p0p8fqj30u00u040d.jpg?KID=imgbed,tva&Expires=1762232121&ssig=4LDp%2BINgYV\", \"scheme\": \"sinaweibo://detail?mblogid=5229194751510013\", \"vType\": 3}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5229176228680105&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=4&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/5e4ff271ly8gshtueqiu3j20u00u0wfc.jpg?KID=imgbed,tva&Expires=1762232121&ssig=BmFCb2EFzi) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">袁国庆</span><img src=\"http://wx1.sinaimg.cn/middle/5e4ff271ly1i6zvmpopfej20zu25ogwn.jpg\" data-width=2796 data-height=1290></div><div data-type=\"v\" data-scheme=\"sinaweibo://multimedia?mix_mid=5229183552455011&mix_index=0&multi_paragraph=4&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.827.827.50/9073ea59ly8htvdqfu7jej20mz0mzwg6.jpg?KID=imgbed,tva&Expires=1762232121&ssig=rA834ofm3V) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">暖被窝的暖by</span><img src=\"http://wx3.sinaimg.cn/middle/9073ea59ly1i6zwip7hilj20k00zkaar.jpg\" data-width=1280 data-height=720></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5229194751510013&multi_paragraph=4&multi_count=2\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/006ckfnZly8hiy2p0p8fqj30u00u040d.jpg?KID=imgbed,tva&Expires=1762232121&ssig=4LDp%2BINgYV) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">东方财经</span><img src=\"http://wx3.sinaimg.cn/middle/006ckfnZgy1i6zxtqvtqoj30u0140qh8.jpg\" data-width=1440 data-height=1080></div></media-block><br>### 🚀 五、未来布局  <br>- **即时零售生态**：建设20亿闪购仓，推出\"淘宝便利店\"品牌，结合菜鸟供应链强化高单价品类配送能力。```wbCustomBlock{\"type\": \"quoted\", \"index\": 27, \"data\": {\"num\": [3, 14], \"version\": 2, \"quote_list\": [{\"name\": \"井原川奈JY\", \"scheme\": \"sinaweibo://detail?mblogid=5229194904600997\", \"index\": 3, \"label\": \"\"}, {\"name\": \"厚恩投资张延昆\", \"scheme\": \"sinaweibo://detail?mblogid=5229184238492082\", \"index\": 14, \"label\": \"\"}]}}```  <br>- **战略地位**：蒋凡将即时零售与AI并列为阿里双核心赛道，目标5年内为集团带来1万亿交易增量。```wbCustomBlock{\"type\": \"quoted\", \"index\": 28, \"data\": {\"num\": [3, 14], \"version\": 2, \"quote_list\": [{\"name\": \"井原川奈JY\", \"scheme\": \"sinaweibo://detail?mblogid=5229194904600997\", \"index\": 3, \"label\": \"\"}, {\"name\": \"厚恩投资张延昆\", \"scheme\": \"sinaweibo://detail?mblogid=5229184238492082\", \"index\": 14, \"label\": \"\"}]}}```<br>### 💡 用户态度  <br>- **实用派**：更关注补贴和配送效率，\"只要便宜快，改名无所谓\"。```wbCustomBlock{\"type\": \"quoted\", \"index\": 30, \"data\": {\"num\": [5, 23, 29], \"version\": 2, \"quote_list\": [{\"name\": \"鍋盖頭司令\", \"scheme\": \"sinaweibo://detail?mblogid=5229194877077664\", \"index\": 5, \"label\": \"\"}, {\"name\": \"日升月落_17\", \"scheme\": \"sinaweibo://detail?mblogid=5229180913978989\", \"index\": 23, \"label\": \"\"}, {\"name\": \"渔村圆滚滚\", \"scheme\": \"sinaweibo://detail?mblogid=5229191739214422\", \"index\": 29, \"label\": \"\"}]}}```  <br>- **怀旧派**：惋惜品牌消失，\"饿了么的梗成过去式\"。```wbCustomBlock{\"type\": \"quoted\", \"index\": 31, \"data\": {\"num\": [6, 22], \"version\": 2, \"quote_list\": [{\"name\": \"繆斯高\", \"scheme\": \"sinaweibo://detail?mblogid=5229189894767298\", \"index\": 6, \"label\": \"大v\"}, {\"name\": \"袁国庆\", \"scheme\": \"sinaweibo://detail?mblogid=5229176228680105\", \"index\": 22, \"label\": \"\"}], \"name\": \"繆斯高\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.1024.1024.50/006lWwAwly8hhx3kb1ox6j30sg0sgmyu.jpg?KID=imgbed,tva&Expires=1762232121&ssig=ebpPKlPncF\", \"scheme\": \"sinaweibo://detail?mblogid=5229189894767298\", \"vType\": 0}}```  <br>- **观望派**：担忧运力不足和体验复杂度，期待双11检验成效。```wbCustomBlock{\"type\": \"quoted\", \"index\": 32, \"data\": {\"num\": [10, 33], \"version\": 2, \"quote_list\": [{\"name\": \"互联网三爷\", \"scheme\": \"sinaweibo://detail?mblogid=5229170918687758\", \"index\": 10, \"label\": \"\"}, {\"name\": \"钱江频道-九点半\", \"scheme\": \"sinaweibo://detail?mblogid=5229178798476375\", \"index\": 33, \"label\": \"\"}], \"name\": \"互联网三爷\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/006OBdIqly8h8v5pffuxcj30u00u07al.jpg?KID=imgbed,tva&Expires=1762232121&ssig=QL5QYvGqkH\", \"scheme\": \"sinaweibo://detail?mblogid=5229170918687758\", \"vType\": 0}}```  <br><br>> 💎 此次更名标志着阿里即时零售战略从单点突破进入生态决战阶段，用户将获得更丰富的商品选择与更快的配送体验，但能否持续平衡资源整合与用户体验，将是淘宝闪购直面美团的关键。```wbCustomBlock{\"type\": \"quoted\", \"index\": 33, \"data\": {\"num\": [3, 14, 35], \"version\": 2, \"quote_list\": [{\"name\": \"井原川奈JY\", \"scheme\": \"sinaweibo://detail?mblogid=5229194904600997\", \"index\": 3, \"label\": \"\"}, {\"name\": \"厚恩投资张延昆\", \"scheme\": \"sinaweibo://detail?mblogid=5229184238492082\", \"index\": 14, \"label\": \"\"}, {\"name\": \"小貓隐郁\", \"scheme\": \"sinaweibo://detail?mblogid=5229179261945014\", \"index\": 35, \"label\": \"\"}]}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5229180913978989&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=6&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.1042.1042.50/008B2B53ly8hj5bcn0fg6j30sy0syq6h.jpg?KID=imgbed,tva&Expires=1762232121&ssig=nMrnllVA6W) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">日升月落_17</span><img src=\"http://wx3.sinaimg.cn/middle/008B2B53ly1i6zw8j3pvjj31401hcjyw.jpg\" data-width=1920 data-height=1440></div></media-block><br>",
+      "ab_suffix": "default",
+      "sorted_material_list": null,
+      "short_url": "http://t.cn/AXAWOlEw",
+      "query_field": "42",
+      "chat_status_stage": 1,
+      "share_info": {
+        "display_name": "#阿里回应饿了么更名#",
+        "url": "http://t.cn/AXAWjWhE",
+        "comment_content": "",
+        "unify_md5": "e18d909dd494c562537cce69e2a1d3a1",
+        "status": 3,
+        "page_id": "2329648ce71eff026e81a2f03cd9e05361b790",
+        "tips": "#阿里回应饿了么更名#的相关内容，来智搜看看"
+      },
+      "comment_info": {},
+      "mid_list": null,
+      "reference_num": 36,
+      "query_category": "",
+      "status_stage": 4,
+      "link_list": [
+        "sinaweibo://detail?mblogid=5229191794263371",
+        "sinaweibo://detail?mblogid=5229186113343436",
+        "sinaweibo://detail?mblogid=5229194904600997",
+        "sinaweibo://detail?mblogid=5229190156912123",
+        "sinaweibo://detail?mblogid=5229194877077664",
+        "sinaweibo://detail?mblogid=5229189894767298",
+        "sinaweibo://detail?mblogid=5229173419278542",
+        "sinaweibo://detail?mblogid=5229035472031520",
+        "sinaweibo://detail?mblogid=5229189554242328",
+        "sinaweibo://detail?mblogid=5229170918687758",
+        "sinaweibo://detail?mblogid=5229195703878758",
+        "sinaweibo://detail?mblogid=5229191438009794",
+        "sinaweibo://detail?mblogid=5229183462802901",
+        "sinaweibo://detail?mblogid=5229184238492082",
+        "sinaweibo://detail?mblogid=5229179541915579",
+        "sinaweibo://detail?mblogid=5229178065783082",
+        "sinaweibo://detail?mblogid=5229178880263287",
+        "sinaweibo://detail?mblogid=5229040172795855",
+        "sinaweibo://detail?mblogid=5229183552455011",
+        "sinaweibo://detail?mblogid=5229194751510013",
+        "sinaweibo://detail?mblogid=5229185364658969",
+        "sinaweibo://detail?mblogid=5229176228680105",
+        "sinaweibo://detail?mblogid=5229180913978989",
+        "sinaweibo://detail?mblogid=5229171014897277",
+        "sinaweibo://detail?mblogid=5229196867800408",
+        "sinaweibo://detail?mblogid=5229195790649073",
+        "sinaweibo://detail?mblogid=5229193956690371",
+        "sinaweibo://detail?mblogid=5229193308671274",
+        "sinaweibo://detail?mblogid=5229191739214422",
+        "sinaweibo://detail?mblogid=5229191668697654",
+        "sinaweibo://detail?mblogid=5229189473241084",
+        "sinaweibo://detail?mblogid=5229186067464529",
+        "sinaweibo://detail?mblogid=5229178798476375",
+        "sinaweibo://detail?mblogid=5229177630097591",
+        "sinaweibo://detail?mblogid=5229179261945014",
+        "sinaweibo://detail?mblogid=5229181885484039"
+      ],
+      "qs_status_info": "{\"qs_c_status\":8388608,\"qs_r_status\":0,\"qs_q_status\":0,\"ab_lab\":{},\"qs_u_status\":0,\"qs_status\":0}",
+      "top_quote_list": {},
+      "card_multimodal": {
+        "type": "mediablock",
+        "data": [
+          {
+            "hit_score_new": 78.027344,
+            "scheme": "sinaweibo://multimedia?mix_mid=5229040172795855&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=0",
+            "img_pid": "821234dfly1i6zg1r4o26j20xo36whdt",
+            "doc_score": 4752,
+            "click_rate": 0.10242138937294,
+            "click_num": 0,
+            "w": 1212,
+            "h": 4136,
+            "video_url": "",
+            "img": "http://wx3.sinaimg.cn/middle/821234dfly1i6zg1r4o26j20xo36whdt.jpg",
+            "hit_score_final": 78.816406,
+            "cur_mid": "5229040172795855",
+            "vtype": 0,
+            "user_name": "码哥评测",
+            "type": "p",
+            "user_avatar": "https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/821234dfly8gem3ddfao8j20u00u0jt9.jpg?KID=imgbed,tva&Expires=1762232121&ssig=%2FI4gH2YiQD"
+          },
+          {
+            "hit_score_new": 60.253906,
+            "scheme": "sinaweibo://multimedia?mix_mid=5229178880263287&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=1",
+            "img_pid": "82d30882gy1i6zw0e27arj20a20byq3v",
+            "doc_score": 3768,
+            "click_rate": 0.06,
+            "click_num": 0,
+            "w": 362,
+            "h": 430,
+            "video_url": "",
+            "img": "http://wx3.sinaimg.cn/middle/82d30882gy1i6zw0e27arj20a20byq3v.jpg",
+            "hit_score_final": 64.552338,
+            "cur_mid": "5229178880263287",
+            "vtype": 0,
+            "user_name": "科技疯汇",
+            "type": "p",
+            "user_avatar": "https://tvax4.sinaimg.cn/crop.0.0.690.690.50/82d30882ly8gdljvx4uurj20j60j60t2.jpg?KID=imgbed,tva&Expires=1762232121&ssig=%2BxPV%2BrrjMJ"
+          },
+          {
+            "hit_score_new": 56.396484,
+            "scheme": "sinaweibo://video/vvs?mid=5229184238492082&multi_paragraph=1&multi_count=2",
+            "img_pid": "404cdd30ly1i6zwmgurhej20as0nq3yf",
+            "doc_score": 3934,
+            "click_rate": 0,
+            "click_num": 0,
+            "w": 388,
+            "h": 854,
+            "video_url": "https://video.weibo.com/show?fid=1034:5229184176554049",
+            "img": "http://wx2.sinaimg.cn/middle/404cdd30ly1i6zwmgurhej20as0nq3yf.jpg",
+            "hit_score_final": 65.837891,
+            "cur_mid": "5229184238492082",
+            "vtype": 0,
+            "user_name": "厚恩投资张延昆",
+            "type": "v",
+            "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/404cdd30ly8gdih9m7oraj20u00u0whj.jpg?KID=imgbed,tva&Expires=1762232121&ssig=RS7gdxKFGA"
+          },
+          {
+            "hit_score_new": 78.027344,
+            "scheme": "sinaweibo://multimedia?mix_mid=5229040172795855&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=0",
+            "img_pid": "821234dfly1i6zg1r4o26j20xo36whdt",
+            "doc_score": 4752,
+            "click_rate": 0.10242138937294,
+            "click_num": 0,
+            "w": 1212,
+            "h": 4136,
+            "video_url": "",
+            "img": "http://wx3.sinaimg.cn/middle/821234dfly1i6zg1r4o26j20xo36whdt.jpg",
+            "hit_score_final": 78.816406,
+            "cur_mid": "5229040172795855",
+            "vtype": 0,
+            "user_name": "码哥评测",
+            "type": "p",
+            "user_avatar": "https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/821234dfly8gem3ddfao8j20u00u0jt9.jpg?KID=imgbed,tva&Expires=1762232121&ssig=%2FI4gH2YiQD"
+          }
+        ]
+      }
+    }
+  },
+  "links": [
+    "sinaweibo://detail?mblogid=5229191794263371",
+    "sinaweibo://detail?mblogid=5229186113343436",
+    "sinaweibo://detail?mblogid=5229194904600997",
+    "sinaweibo://detail?mblogid=5229190156912123",
+    "sinaweibo://detail?mblogid=5229194877077664",
+    "sinaweibo://detail?mblogid=5229189894767298",
+    "sinaweibo://detail?mblogid=5229173419278542",
+    "sinaweibo://detail?mblogid=5229035472031520",
+    "sinaweibo://detail?mblogid=5229189554242328",
+    "sinaweibo://detail?mblogid=5229170918687758",
+    "sinaweibo://detail?mblogid=5229195703878758",
+    "sinaweibo://detail?mblogid=5229191438009794",
+    "sinaweibo://detail?mblogid=5229183462802901",
+    "sinaweibo://detail?mblogid=5229184238492082",
+    "sinaweibo://detail?mblogid=5229179541915579",
+    "sinaweibo://detail?mblogid=5229178065783082",
+    "sinaweibo://detail?mblogid=5229178880263287",
+    "sinaweibo://detail?mblogid=5229040172795855",
+    "sinaweibo://detail?mblogid=5229183552455011",
+    "sinaweibo://detail?mblogid=5229194751510013",
+    "sinaweibo://detail?mblogid=5229185364658969",
+    "sinaweibo://detail?mblogid=5229176228680105",
+    "sinaweibo://detail?mblogid=5229180913978989",
+    "sinaweibo://detail?mblogid=5229171014897277",
+    "sinaweibo://detail?mblogid=5229196867800408",
+    "sinaweibo://detail?mblogid=5229195790649073",
+    "sinaweibo://detail?mblogid=5229193956690371",
+    "sinaweibo://detail?mblogid=5229193308671274",
+    "sinaweibo://detail?mblogid=5229191739214422",
+    "sinaweibo://detail?mblogid=5229191668697654",
+    "sinaweibo://detail?mblogid=5229189473241084",
+    "sinaweibo://detail?mblogid=5229186067464529",
+    "sinaweibo://detail?mblogid=5229178798476375",
+    "sinaweibo://detail?mblogid=5229177630097591",
+    "sinaweibo://detail?mblogid=5229179261945014",
+    "sinaweibo://detail?mblogid=5229181885484039"
+  ],
+  "media": [
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/821234dfly1i6zg1r4o26j20xo36whdt.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/821234dfly1i6zg1r4o26j20xo36whdt.jpg",
+      "alt": "码哥评测",
+      "width": 4136,
+      "height": 1212,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/821234dfly1i6zg1r4o26j20xo36whdt.jpg"
+      ],
+      "user": "码哥评测"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/82d30882gy1i6zw0e27arj20a20byq3v.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/82d30882gy1i6zw0e27arj20a20byq3v.jpg",
+      "alt": "科技疯汇",
+      "width": 430,
+      "height": 362,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/82d30882gy1i6zw0e27arj20a20byq3v.jpg"
+      ],
+      "user": "科技疯汇"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/404cdd30ly1i6zwmgurhej20as0nq3yf.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/404cdd30ly1i6zwmgurhej20as0nq3yf.jpg",
+      "alt": "厚恩投资张延昆",
+      "width": 854,
+      "height": 388,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/404cdd30ly1i6zwmgurhej20as0nq3yf.jpg"
+      ],
+      "user": "厚恩投资张延昆"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/006WuQ6Rly1i6zv3vlevkj30u01hcb29.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/006WuQ6Rly1i6zv3vlevkj30u01hcb29.jpg",
+      "alt": "喜奈丶",
+      "width": 1920,
+      "height": 1080,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/006WuQ6Rly1i6zv3vlevkj30u01hcb29.jpg"
+      ],
+      "user": "喜奈丶"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/005EfGJKly1i6zxhgckn1j30zk0k074w.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/005EfGJKly1i6zxhgckn1j30zk0k074w.jpg",
+      "alt": "baebaealice",
+      "width": 720,
+      "height": 1280,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/005EfGJKly1i6zxhgckn1j30zk0k074w.jpg"
+      ],
+      "user": "baebaealice"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/005PvxAYly1i6zwpz12fxj30k00zkmyx.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/005PvxAYly1i6zwpz12fxj30k00zkmyx.jpg",
+      "alt": "小紫菜稳稳瘦",
+      "width": 1280,
+      "height": 720,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/005PvxAYly1i6zwpz12fxj30k00zkmyx.jpg"
+      ],
+      "user": "小紫菜稳稳瘦"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/5e4ff271ly1i6zvmpopfej20zu25ogwn.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/5e4ff271ly1i6zvmpopfej20zu25ogwn.jpg",
+      "alt": "袁国庆",
+      "width": 2796,
+      "height": 1290,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/5e4ff271ly1i6zvmpopfej20zu25ogwn.jpg"
+      ],
+      "user": "袁国庆"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/9073ea59ly1i6zwip7hilj20k00zkaar.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/9073ea59ly1i6zwip7hilj20k00zkaar.jpg",
+      "alt": "暖被窝的暖by",
+      "width": 1280,
+      "height": 720,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/9073ea59ly1i6zwip7hilj20k00zkaar.jpg"
+      ],
+      "user": "暖被窝的暖by"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/006ckfnZgy1i6zxtqvtqoj30u0140qh8.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/006ckfnZgy1i6zxtqvtqoj30u0140qh8.jpg",
+      "alt": "东方财经",
+      "width": 1440,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/006ckfnZgy1i6zxtqvtqoj30u0140qh8.jpg"
+      ],
+      "user": "东方财经"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/008B2B53ly1i6zw8j3pvjj31401hcjyw.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/008B2B53ly1i6zw8j3pvjj31401hcjyw.jpg",
+      "alt": "日升月落_17",
+      "width": 1920,
+      "height": 1440,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/008B2B53ly1i6zw8j3pvjj31401hcjyw.jpg"
+      ],
+      "user": "日升月落_17"
+    }
+  ],
+  "html_path": "data/aicard/hourly/2025-11-04/10/topic-e18d909d.html"
+}

@@ -1,0 +1,244 @@
+{
+  "meta": {
+    "query": "#富贵有三勺盐三勺糖三个馒头#",
+    "status_code": 200,
+    "fetched_at": "2025-10-31T22:35:02+08:00",
+    "response": {
+      "top_quote_list": {},
+      "short_url": "http://t.cn/AXAtOrm6",
+      "status": 2,
+      "share_card_multimodal": {
+        "click_rate": 0.06,
+        "hit_score_final": 61.5,
+        "w": 960,
+        "img": "http://wx1.sinaimg.cn/middle/005v4nJEly1i6vruik61cj60qo13ztew02.jpg",
+        "scheme": "sinaweibo://multimedia?mix_mid=5227889881518850&from=search&content_show=1&mix_index=2&hide_index=1&multi_paragraph=1&multi_count=0",
+        "cur_mid": "5227889881518850",
+        "h": 1439,
+        "type": "p",
+        "vtype": 0,
+        "user_avatar": "https://tvax1.sinaimg.cn/crop.0.0.600.600.50/005v4nJEly8h8v0yad6ygj60go0godhi02.jpg?KID=imgbed,tva&Expires=1761925025&ssig=9aQbeuYBCQ",
+        "user_name": "蜀黍说娱乐",
+        "video_url": "",
+        "hit_score_new": 62.5,
+        "doc_score": 4281,
+        "img_pid": "005v4nJEly1i6vruik61cj60qo13ztew02"
+      },
+      "chat_status_stage": 1,
+      "basemodel": "实验组5",
+      "msg_format": "markdown",
+      "page_id": "232964e53be273f9d80ac3e0f4ed49a228515e",
+      "zs_risk_control": {
+        "think_text_close": 0,
+        "land_button_close": 0
+      },
+      "ab_suffix": "default",
+      "user_info": {},
+      "uid": "",
+      "qs_status": 0,
+      "qs_status_info": "{\"qs_status\":0,\"qs_c_status\":8388608,\"qs_r_status\":0,\"qs_u_status\":0,\"ab_lab\":{},\"qs_q_status\":0}",
+      "mid_list": null,
+      "reference_num": 17,
+      "query_category": "Ip",
+      "status_stage": 4,
+      "version": "2025-10-31 20:37:05.040999-4688",
+      "current_time": 1761921302,
+      "profile_image_url": "",
+      "model": "deepseek",
+      "share_info": {
+        "comment_content": "",
+        "display_name": "#富贵有三勺盐三勺糖三个馒头#",
+        "tips": "#富贵有三勺盐三勺糖三个馒头#的相关内容，来智搜看看",
+        "url": "http://t.cn/AXAtY88t",
+        "status": 3,
+        "page_id": "232964e53be273f9d80ac3e0f4ed49a228515e",
+        "unify_md5": "84482c866ca59e25dad550e4db239a0c"
+      },
+      "wenda": {
+        "forward_gen": 0
+      },
+      "query_field": "1",
+      "reliable_tips": "{\"gold_orange_v_mids\": [\"5227838733026498\", \"5227881600913420\", \"5227877810832434\", \"5227877431777030\", \"5227889881518850\", \"5227823372960428\", \"5227876728964720\", \"5227889847180836\", \"5227874090223902\", \"5227878305236531\", \"5227884671144575\", \"5227879378196510\"], \"gold_orange_v_ratio\": \"71%\", \"media_mids\": [\"5227889571924492\"], \"media_ratio\": \"6%\", \"verified_mids\": [], \"verified_ratio\": \"0%\", \"normal_mids\": [\"5227873020415859\", \"5227901551379306\", \"5227879097172762\", \"5227900439630990\"], \"normal_ratio\": \"23%\", \"ref_mid_rank\": {\"5227838733026498\": {\"rank\": 1}, \"5227881600913420\": {\"rank\": 7}, \"5227877810832434\": {\"rank\": 16}, \"5227877431777030\": {\"rank\": 9}, \"5227889881518850\": {\"rank\": 10}, \"5227873020415859\": {\"rank\": 17}, \"5227823372960428\": {\"rank\": 3}, \"5227901551379306\": {\"rank\": 13}, \"5227876728964720\": {\"rank\": 4}, \"5227889847180836\": {\"rank\": 15}, \"5227874090223902\": {\"rank\": 18}, \"5227878305236531\": {\"rank\": 19}, \"5227884671144575\": {\"rank\": 8}, \"5227879097172762\": {\"rank\": 12}, \"5227879378196510\": {\"rank\": 2}, \"5227889571924492\": {\"rank\": 11}, \"5227900439630990\": {\"rank\": 14}}}",
+      "link_list": [
+        "sinaweibo://detail?mblogid=5227838733026498",
+        "sinaweibo://detail?mblogid=5227879378196510",
+        "sinaweibo://detail?mblogid=5227823372960428",
+        "sinaweibo://detail?mblogid=5227876728964720",
+        "broadsocial_res://",
+        "ctr://",
+        "sinaweibo://detail?mblogid=5227881600913420",
+        "sinaweibo://detail?mblogid=5227884671144575",
+        "sinaweibo://detail?mblogid=5227877431777030",
+        "sinaweibo://detail?mblogid=5227889881518850",
+        "sinaweibo://detail?mblogid=5227889571924492",
+        "sinaweibo://detail?mblogid=5227879097172762",
+        "sinaweibo://detail?mblogid=5227901551379306",
+        "sinaweibo://detail?mblogid=5227900439630990",
+        "sinaweibo://detail?mblogid=5227889847180836",
+        "sinaweibo://detail?mblogid=5227877810832434",
+        "sinaweibo://detail?mblogid=5227873020415859",
+        "sinaweibo://detail?mblogid=5227874090223902",
+        "sinaweibo://detail?mblogid=5227878305236531"
+      ],
+      "loop_times": 200,
+      "q_attr": {
+        "from_request_id": "",
+        "from_uid": "",
+        "reply_cid": "",
+        "comment_from_type": "",
+        "mid": ""
+      },
+      "cot": 1,
+      "analysis_time": 1761914347,
+      "msg_json": "{}",
+      "share_text": "#富贵有三勺盐三勺糖三个馒头#的相关内容，来智搜看看",
+      "scheme": "sinaweibo://cardlist?containerid=100103type%3D225%26q%3D%23%E5%AF%8C%E8%B4%B5%E6%9C%89%E4%B8%89%E5%8B%BA%E7%9B%90%E4%B8%89%E5%8B%BA%E7%B3%96%E4%B8%89%E4%B8%AA%E9%A6%92%E5%A4%B4%23%26t%3D&extparam=ai_model%3Ddeepseek%26ori_ai_title%3D%E5%8F%82%E8%80%83%E5%8D%9A%E6%96%87%26material_version%3D1761914225",
+      "card_multimodal": {
+        "type": "mediablock",
+        "data": [
+          {
+            "click_rate": 0.06,
+            "hit_score_final": 61.5,
+            "w": 960,
+            "img": "http://wx1.sinaimg.cn/middle/005v4nJEly1i6vruik61cj60qo13ztew02.jpg",
+            "scheme": "sinaweibo://multimedia?mix_mid=5227889881518850&from=search&content_show=1&mix_index=2&hide_index=1&multi_paragraph=1&multi_count=0",
+            "cur_mid": "5227889881518850",
+            "h": 1439,
+            "type": "p",
+            "vtype": 0,
+            "user_avatar": "https://tvax1.sinaimg.cn/crop.0.0.600.600.50/005v4nJEly8h8v0yad6ygj60go0godhi02.jpg?KID=imgbed,tva&Expires=1761925025&ssig=9aQbeuYBCQ",
+            "user_name": "蜀黍说娱乐",
+            "video_url": "",
+            "hit_score_new": 62.5,
+            "doc_score": 4281,
+            "img_pid": "005v4nJEly1i6vruik61cj60qo13ztew02"
+          },
+          {
+            "click_rate": 0.10227272727273,
+            "hit_score_final": 62.232815,
+            "w": 1080,
+            "img": "http://wx3.sinaimg.cn/middle/86df922dly1i6vkb7wvanj20u01hcdk7.jpg",
+            "scheme": "sinaweibo://video/vvs?mid=5227823372960428&multi_paragraph=2&multi_count=0",
+            "cur_mid": "5227823372960428",
+            "h": 1920,
+            "type": "v",
+            "vtype": 0,
+            "user_avatar": "https://tvax1.sinaimg.cn/crop.0.0.821.821.50/86df922dly8ftgm4zr5p3j20mt0mt0t6.jpg?KID=imgbed,tva&Expires=1761925025&ssig=DZnnzX31J5",
+            "user_name": "阿葱",
+            "video_url": "https://video.weibo.com/show?fid=1034:5227818330554437",
+            "hit_score_new": 81.054688,
+            "doc_score": 4210,
+            "img_pid": "86df922dly1i6vkb7wvanj20u01hcdk7"
+          },
+          {
+            "click_rate": 0.06,
+            "hit_score_final": 61.587891,
+            "w": 2000,
+            "img": "http://wx4.sinaimg.cn/middle/008zXq4Pgy1i6vqgc5h7yj31jk2bcu0x.jpg",
+            "scheme": "sinaweibo://multimedia?mix_mid=5227876728964720&from=search&content_show=1&mix_index=2&hide_index=1&multi_paragraph=2&multi_count=1",
+            "cur_mid": "5227876728964720",
+            "h": 3000,
+            "type": "p",
+            "vtype": 0,
+            "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/008zXq4Ply8i6mku49rwbj30u00u0dj0.jpg?KID=imgbed,tva&Expires=1761925025&ssig=Ucxc3LQCwO",
+            "user_name": "骑着塑料袋兜风",
+            "video_url": "",
+            "hit_score_new": 62.646484,
+            "doc_score": 3831,
+            "img_pid": "008zXq4Pgy1i6vqgc5h7yj31jk2bcu0x"
+          },
+          {
+            "click_rate": 0.06,
+            "hit_score_final": 61.5,
+            "w": 960,
+            "img": "http://wx1.sinaimg.cn/middle/005v4nJEly1i6vruik61cj60qo13ztew02.jpg",
+            "scheme": "sinaweibo://multimedia?mix_mid=5227889881518850&from=search&content_show=1&mix_index=2&hide_index=1&multi_paragraph=1&multi_count=0",
+            "cur_mid": "5227889881518850",
+            "h": 1439,
+            "type": "p",
+            "vtype": 0,
+            "user_avatar": "https://tvax1.sinaimg.cn/crop.0.0.600.600.50/005v4nJEly8h8v0yad6ygj60go0godhi02.jpg?KID=imgbed,tva&Expires=1761925025&ssig=9aQbeuYBCQ",
+            "user_name": "蜀黍说娱乐",
+            "video_url": "",
+            "hit_score_new": 62.5,
+            "doc_score": 4281,
+            "img_pid": "005v4nJEly1i6vruik61cj60qo13ztew02"
+          }
+        ]
+      },
+      "sorted_material_list": null,
+      "msg": "<think><br><br>嗯，用户查询的是网络热梗\"富贵有三勺盐三勺糖三个馒头\"的含义。这个梗看起来最近在微博上很火啊，相关讨论都集中在2025年10月31日，正好就是今天，说明是实时热点。<br><br>看了用户给的搜索结果，发现这个梗和电视剧《天地剑心》相关。结果1提到是网友在追剧团活动上发现的创意，把三位主演分别比作\"三勺盐\"、\"三勺糖\"和\"三个馒头\"。结果16给出了具体对应关系：\"三勺盐\"指郭俊辰的角色（剧中不想被遗忘所以夸张如加盐）、\"三勺糖\"指李一桐的角色（剧中给王权富贵煮汤放三勺糖）、\"三个馒头\"指成毅演的王权富贵（被父亲逼着每天只吃三个馒头练剑）。<br><br>有意思的是结果5提到这个梗其实是观众自发创作的，并非剧方策划。结果6补充说梗的传播源于网友对剧情的二次解读。不过演员们也配合玩梗，比如结果10说成毅在活动上被问及此事时选择了\"馒头\"，结果9还提到成毅在直播中喝下咸饮料后机智回应\"大富大贵\"的趣事。<br><br>关于\"三个馒头\"的深层含义，结果4和结果7揭示了观众对王权富贵的心疼——每天只吃馒头却要练成绝世武功，被解读为\"美强疯\"特质。结果15还提到剧中\"天下非妖之天下\"的台词，暗示角色在严苛环境下坚守道义的精神内核。<br><br>这个梗的传播效果似乎很好，结果1和结果8都提到\"全员带梗剧宣\"让网友直呼要去追剧。最近今天（31号）的追剧团活动也在持续发酵这个梗，结果11描述成毅玩游戏时\"摇摇晃晃\"的可爱表现，结果19则记录了他和李一桐跳\"清潼摇\"的现场。<br><br>最后注意到结果5和结果6都强调梗的民间属性，回答时需要区分清楚剧方宣传和观众创作的区别。不过从结果17和结果13看，普通观众确实通过这个梗表达了对角色的喜爱。<br><br></think><br>关于网络热梗“富贵有三勺盐三勺糖三个馒头”的解析如下：<br>### 🔥 **一、梗的起源与核心含义**<br>该梗源于热播剧《天地剑心》的观众二创，通过剧中情节与演员互动形成符号化标签：<br>1. **三个馒头 → 成毅饰演的王权富贵**  <br>   剧中父亲为培养其成为“天地一剑”继承者，每天仅喂食三个馒头并严苛训练。这一设定凸显角色“美强惨”（美丽强大却命运悲惨）特质，被观众调侃为“苦哈哈的富贵少爷”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 3, \"data\": {\"num\": [1, 7, 16], \"version\": 2, \"quote_list\": [{\"name\": \"逍遥珊33\", \"scheme\": \"sinaweibo://detail?mblogid=5227838733026498\", \"index\": 1, \"label\": \"大v\"}, {\"name\": \"言情小姐姐\", \"scheme\": \"sinaweibo://detail?mblogid=5227881600913420\", \"index\": 7, \"label\": \"\"}, {\"name\": \"猫咪收养法则_\", \"scheme\": \"sinaweibo://detail?mblogid=5227877810832434\", \"index\": 16, \"label\": \"\"}], \"name\": \"逍遥珊33\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.512.512.50/aa930d9aly8h5xc0hhlvxj20e80e8753.jpg?KID=imgbed,tva&Expires=1761925025&ssig=WKRKPAAo3G\", \"scheme\": \"sinaweibo://detail?mblogid=5227838733026498\", \"vType\": 0}}```<br>2. **三勺盐 → 郭俊辰饰演的角色**  <br>   源自剧中角色“为引人注目故意多加三勺盐”的夸张行为，象征存在感极强的戏剧化人设。演员在直播中曾以“盐”谐音“富贵”玩梗，强化关联。```wbCustomBlock{\"type\": \"quoted\", \"index\": 4, \"data\": {\"num\": [1, 9, 10, 16], \"version\": 2, \"quote_list\": [{\"name\": \"蜀黍说娱乐\", \"scheme\": \"sinaweibo://detail?mblogid=5227889881518850\", \"index\": 10, \"label\": \"大v\"}, {\"name\": \"逍遥珊33\", \"scheme\": \"sinaweibo://detail?mblogid=5227838733026498\", \"index\": 1, \"label\": \"\"}, {\"name\": \"人生得毅须尽欢_追毅\", \"scheme\": \"sinaweibo://detail?mblogid=5227877431777030\", \"index\": 9, \"label\": \"\"}, {\"name\": \"猫咪收养法则_\", \"scheme\": \"sinaweibo://detail?mblogid=5227877810832434\", \"index\": 16, \"label\": \"\"}], \"name\": \"蜀黍说娱乐\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.600.600.50/005v4nJEly8h8v0yad6ygj60go0godhi02.jpg?KID=imgbed,tva&Expires=1761925025&ssig=9aQbeuYBCQ\", \"scheme\": \"sinaweibo://detail?mblogid=5227889881518850\", \"vType\": 0}}```<br>3. **三勺糖 → 李一桐饰演的角色**  <br>   对应剧中“12580给王权富贵煮汤放三勺糖”的情节，体现角色温情特质。```wbCustomBlock{\"type\": \"quoted\", \"index\": 5, \"data\": {\"num\": [1, 16, 17], \"version\": 2, \"quote_list\": [{\"name\": \"逍遥珊33\", \"scheme\": \"sinaweibo://detail?mblogid=5227838733026498\", \"index\": 1, \"label\": \"\"}, {\"name\": \"猫咪收养法则_\", \"scheme\": \"sinaweibo://detail?mblogid=5227877810832434\", \"index\": 16, \"label\": \"\"}, {\"name\": \"永远相信也相信\", \"scheme\": \"sinaweibo://detail?mblogid=5227873020415859\", \"index\": 17, \"label\": \"\"}]}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5227889881518850&from=search&content_show=1&mix_index=2&hide_index=1&multi_paragraph=1&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.600.600.50/005v4nJEly8h8v0yad6ygj60go0godhi02.jpg?KID=imgbed,tva&Expires=1761925025&ssig=9aQbeuYBCQ) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">蜀黍说娱乐</span><img src=\"http://wx1.sinaimg.cn/middle/005v4nJEly1i6vruik61cj60qo13ztew02.jpg\" data-width=1439 data-height=960></div></media-block><br>### 💡 **二、梗的传播与影响**<br>1. **观众自发创作主导**  <br>   虽被赞为“天赋型剧宣”，但实际源于网友对剧情的二次解读，非剧组主动策划。梗的爆火始于10月31日《天地剑心》线下追剧团活动，演员成毅、李一桐、郭俊辰的同框引发观众创意联想。```wbCustomBlock{\"type\": \"quoted\", \"index\": 7, \"data\": {\"num\": [1, 3], \"version\": 2, \"quote_list\": [{\"name\": \"阿葱\", \"scheme\": \"sinaweibo://detail?mblogid=5227823372960428\", \"index\": 3, \"label\": \"大v\"}, {\"name\": \"逍遥珊33\", \"scheme\": \"sinaweibo://detail?mblogid=5227838733026498\", \"index\": 1, \"label\": \"\"}], \"name\": \"阿葱\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.821.821.50/86df922dly8ftgm4zr5p3j20mt0mt0t6.jpg?KID=imgbed,tva&Expires=1761925025&ssig=DZnnzX31J5\", \"scheme\": \"sinaweibo://detail?mblogid=5227823372960428\", \"vType\": 0}}```<br>2. **情感投射与角色升华**  <br>   - 观众通过“馒头”表达对王权富贵的心疼：“霸霸，吃这样能挥出天地一剑吗？”；```wbCustomBlock{\"type\": \"quoted\", \"index\": 9, \"data\": {\"num\": [7, 13], \"version\": 2, \"quote_list\": [{\"name\": \"言情小姐姐\", \"scheme\": \"sinaweibo://detail?mblogid=5227881600913420\", \"index\": 7, \"label\": \"大v\"}, {\"name\": \"一一贰柒_17\", \"scheme\": \"sinaweibo://detail?mblogid=5227901551379306\", \"index\": 13, \"label\": \"\"}], \"name\": \"言情小姐姐\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/005SzWQily8i6c2mwq89bj30u00u0whj.jpg?KID=imgbed,tva&Expires=1761925025&ssig=6k4TjuHNdz\", \"scheme\": \"sinaweibo://detail?mblogid=5227881600913420\", \"vType\": 0}}```  <br>   - “盐/糖/馒头”成为角色记忆锚点，王权富贵的坚韧被赋予“人间清醒”“美强疯”的深度解读。```wbCustomBlock{\"type\": \"quoted\", \"index\": 10, \"data\": {\"num\": [4, 15], \"version\": 2, \"quote_list\": [{\"name\": \"爱淇飞\", \"scheme\": \"sinaweibo://detail?mblogid=5227889847180836\", \"index\": 15, \"label\": \"大v\"}, {\"name\": \"骑着塑料袋兜风\", \"scheme\": \"sinaweibo://detail?mblogid=5227876728964720\", \"index\": 4, \"label\": \"\"}], \"name\": \"爱淇飞\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/7da9b65ely8hj3v4mgsaaj20u00u0jw2.jpg?KID=imgbed,tva&Expires=1761925025&ssig=IL%2B07LDyFB\", \"scheme\": \"sinaweibo://detail?mblogid=5227889847180836\", \"vType\": 0}}```<br>3. **演员互动助推热度**  <br>   成毅在直播中喝下含半包盐的饮品后强忍不适，却机智回应“运气好好，大富大贵”；线下活动中被问及选择时，他主动选“馒头”并调侃郭俊辰“三勺盐”，展现幽默配合。```wbCustomBlock{\"type\": \"quoted\", \"index\": 11, \"data\": {\"num\": [9, 10, 18, 19], \"version\": 2, \"quote_list\": [{\"name\": \"星冰乐kiki\", \"scheme\": \"sinaweibo://detail?mblogid=5227878305236531\", \"index\": 19, \"label\": \"大v\"}, {\"name\": \"人生得毅须尽欢_追毅\", \"scheme\": \"sinaweibo://detail?mblogid=5227877431777030\", \"index\": 9, \"label\": \"\"}, {\"name\": \"蜀黍说娱乐\", \"scheme\": \"sinaweibo://detail?mblogid=5227889881518850\", \"index\": 10, \"label\": \"\"}, {\"name\": \"女鹅er\", \"scheme\": \"sinaweibo://detail?mblogid=5227874090223902\", \"index\": 18, \"label\": \"\"}], \"name\": \"星冰乐kiki\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/5dd01aebly8g91d0tq96jj20u00u0mzo.jpg?KID=imgbed,tva&Expires=1761925025&ssig=P80aXDpx8z\", \"scheme\": \"sinaweibo://detail?mblogid=5227878305236531\", \"vType\": 0}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5227823372960428&multi_paragraph=2&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.821.821.50/86df922dly8ftgm4zr5p3j20mt0mt0t6.jpg?KID=imgbed,tva&Expires=1761925025&ssig=DZnnzX31J5) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">阿葱</span><img src=\"http://wx3.sinaimg.cn/middle/86df922dly1i6vkb7wvanj20u01hcdk7.jpg\" data-width=1920 data-height=1080></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5227876728964720&from=search&content_show=1&mix_index=2&hide_index=1&multi_paragraph=2&multi_count=1\"><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/008zXq4Ply8i6mku49rwbj30u00u0dj0.jpg?KID=imgbed,tva&Expires=1761925025&ssig=Ucxc3LQCwO) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">骑着塑料袋兜风</span><img src=\"http://wx4.sinaimg.cn/middle/008zXq4Pgy1i6vqgc5h7yj31jk2bcu0x.jpg\" data-width=3000 data-height=2000></div></media-block><br>### 🌟 **三、文化现象解析**<br>该梗本质是观众对剧集情感共鸣的集体创作：<br>- **解构严肃叙事**：将武侠修炼的艰辛转化为“三个馒头练就神功”的荒诞幽默，消解沉重感；```wbCustomBlock{\"type\": \"quoted\", \"index\": 13, \"data\": {\"num\": [1, 8], \"version\": 2, \"quote_list\": [{\"name\": \"逍遥珊33\", \"scheme\": \"sinaweibo://detail?mblogid=5227838733026498\", \"index\": 1, \"label\": \"\"}, {\"name\": \"爱旻砖家\", \"scheme\": \"sinaweibo://detail?mblogid=5227884671144575\", \"index\": 8, \"label\": \"\"}]}}```  <br>- **构建参与感**：通过符号化标签（盐/糖/馒头），观众深度融入角色讨论，形成社群认同；```wbCustomBlock{\"type\": \"quoted\", \"index\": 14, \"data\": {\"num\": [17], \"version\": 2, \"quote_list\": [{\"name\": \"永远相信也相信\", \"scheme\": \"sinaweibo://detail?mblogid=5227873020415859\", \"index\": 17, \"label\": \"\"}]}}```  <br>- **反哺剧集热度**：梗的病毒式传播带动#天地剑心#话题出圈，吸引新观众追剧。```wbCustomBlock{\"type\": \"quoted\", \"index\": 15, \"data\": {\"num\": [1, 12, 19], \"version\": 2, \"quote_list\": [{\"name\": \"逍遥珊33\", \"scheme\": \"sinaweibo://detail?mblogid=5227838733026498\", \"index\": 1, \"label\": \"\"}, {\"name\": \"MerissaJiang\", \"scheme\": \"sinaweibo://detail?mblogid=5227879097172762\", \"index\": 12, \"label\": \"\"}, {\"name\": \"星冰乐kiki\", \"scheme\": \"sinaweibo://detail?mblogid=5227878305236531\", \"index\": 19, \"label\": \"\"}]}}```<br>",
+      "ext_show": {},
+      "unify_md5": "84482c866ca59e25dad550e4db239a0c",
+      "comment_info": {},
+      "query": "#富贵有三勺盐三勺糖三个馒头#",
+      "show_ctrl": {
+        "quote": {}
+      },
+      "news_analyze": {},
+      "abtest_info": {
+        "chat_entrance": 1
+      }
+    }
+  },
+  "links": [
+    "sinaweibo://detail?mblogid=5227838733026498",
+    "sinaweibo://detail?mblogid=5227879378196510",
+    "sinaweibo://detail?mblogid=5227823372960428",
+    "sinaweibo://detail?mblogid=5227876728964720",
+    "broadsocial_res://",
+    "ctr://",
+    "sinaweibo://detail?mblogid=5227881600913420",
+    "sinaweibo://detail?mblogid=5227884671144575",
+    "sinaweibo://detail?mblogid=5227877431777030",
+    "sinaweibo://detail?mblogid=5227889881518850",
+    "sinaweibo://detail?mblogid=5227889571924492",
+    "sinaweibo://detail?mblogid=5227879097172762",
+    "sinaweibo://detail?mblogid=5227901551379306",
+    "sinaweibo://detail?mblogid=5227900439630990",
+    "sinaweibo://detail?mblogid=5227889847180836",
+    "sinaweibo://detail?mblogid=5227877810832434",
+    "sinaweibo://detail?mblogid=5227873020415859",
+    "sinaweibo://detail?mblogid=5227874090223902",
+    "sinaweibo://detail?mblogid=5227878305236531"
+  ],
+  "media": [
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/005v4nJEly1i6vruik61cj60qo13ztew02.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/005v4nJEly1i6vruik61cj60qo13ztew02.jpg",
+      "alt": "蜀黍说娱乐",
+      "width": 1439,
+      "height": 960,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/005v4nJEly1i6vruik61cj60qo13ztew02.jpg"
+      ],
+      "user": "蜀黍说娱乐"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/86df922dly1i6vkb7wvanj20u01hcdk7.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/86df922dly1i6vkb7wvanj20u01hcdk7.jpg",
+      "alt": "阿葱",
+      "width": 1920,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/86df922dly1i6vkb7wvanj20u01hcdk7.jpg"
+      ],
+      "user": "阿葱"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/008zXq4Pgy1i6vqgc5h7yj31jk2bcu0x.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/008zXq4Pgy1i6vqgc5h7yj31jk2bcu0x.jpg",
+      "alt": "骑着塑料袋兜风",
+      "width": 3000,
+      "height": 2000,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/008zXq4Pgy1i6vqgc5h7yj31jk2bcu0x.jpg"
+      ],
+      "user": "骑着塑料袋兜风"
+    }
+  ],
+  "html_path": "data/aicard/hourly/2025-10-31/19/topic-84482c86.html"
+}

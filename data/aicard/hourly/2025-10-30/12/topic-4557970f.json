@@ -1,0 +1,338 @@
+{
+  "meta": {
+    "query": "#河南女性的粉红守护已送达#",
+    "status_code": 200,
+    "fetched_at": "2025-10-31T22:41:41+08:00",
+    "response": {
+      "model": "deepseek",
+      "status": 2,
+      "zs_risk_control": {
+        "think_text_close": 0,
+        "land_button_close": 0
+      },
+      "page_id": "232964f59763bf0ea342f9f75c329444beb9c2",
+      "reference_num": 18,
+      "status_stage": 4,
+      "link_list": [
+        "sinaweibo://detail?mblogid=5227396884072363",
+        "sinaweibo://detail?mblogid=5227399405111572",
+        "sinaweibo://detail?mblogid=5227400675460034",
+        "sinaweibo://detail?mblogid=5224850805230202",
+        "sinaweibo://detail?mblogid=5224834237729073",
+        "sinaweibo://detail?mblogid=5224637085778420",
+        "sinaweibo://detail?mblogid=5223864219206150",
+        "sinaweibo://detail?mblogid=5223838850748076",
+        "sinaweibo://detail?mblogid=5226503223641026",
+        "sinaweibo://detail?mblogid=5225459015223307",
+        "sinaweibo://detail?mblogid=5224131832316478",
+        "sinaweibo://detail?mblogid=5227399555318735",
+        "sinaweibo://detail?mblogid=5227400699841020",
+        "sinaweibo://detail?mblogid=5227399426082818",
+        "sinaweibo://detail?mblogid=5227440523709349",
+        "sinaweibo://detail?mblogid=5227042408759440",
+        "sinaweibo://detail?mblogid=5223842436879241",
+        "sinaweibo://detail?mblogid=5223829006979083"
+      ],
+      "qs_status": 0,
+      "top_quote_list": {},
+      "card_multimodal": {
+        "type": "mediablock",
+        "data": [
+          {
+            "user_name": "新浪看点",
+            "user_avatar": "https://tvax4.sinaimg.cn/crop.0.0.438.438.50/001WnugLly8h8vg523qajj60c60c6glz02.jpg?KID=imgbed,tva&Expires=1761853279&ssig=TmYNBCpYrw",
+            "img": "http://wx3.sinaimg.cn/middle/002diGk7ly8i6tip733xfj62yo1o0u0z02.jpg",
+            "video_url": "https://video.weibo.com/show?fid=1034:5227181568360451",
+            "cur_mid": "5227396884072363",
+            "h": 2160,
+            "hit_score_new": 0,
+            "doc_score": 0,
+            "img_pid": "002diGk7ly8i6tip733xfj62yo1o0u0z02",
+            "type": "v",
+            "w": 3840,
+            "scheme": "sinaweibo://video/vvs?mid=5227396884072363&multi_paragraph=1&multi_count=0",
+            "click_rate": 0,
+            "vtype": 7,
+            "hit_score_final": 0
+          },
+          {
+            "user_name": "明日头条",
+            "user_avatar": "https://tvax1.sinaimg.cn/crop.0.0.180.180.50/006cuUdjly8gdi6wuko16j3050050mx1.jpg?KID=imgbed,tva&Expires=1761853279&ssig=UjvjGMqWQ1",
+            "img": "http://wx2.sinaimg.cn/middle/006cuUdjly1i6u6w58uc8j60u01hcmzq02.jpg",
+            "video_url": "https://video.weibo.com/show?fid=1034:5227392810287155",
+            "cur_mid": "5227400675460034",
+            "h": 1920,
+            "hit_score_new": 98.730469,
+            "doc_score": 5348,
+            "img_pid": "006cuUdjly1i6u6w58uc8j60u01hcmzq02",
+            "type": "v",
+            "w": 1080,
+            "scheme": "sinaweibo://video/vvs?mid=5227400675460034&multi_paragraph=1&multi_count=1",
+            "click_rate": 0,
+            "vtype": 3,
+            "hit_score_final": 91.238281
+          },
+          {
+            "user_name": "爱康国宾",
+            "user_avatar": "https://tvax4.sinaimg.cn/crop.0.0.545.545.50/7ede1691ly8gof5zju6lfj20f50f5aau.jpg?KID=imgbed,tva&Expires=1761853279&ssig=Q0Zte8Z62K",
+            "img": "http://wx2.sinaimg.cn/middle/7ede1691ly1i6iv2yzbfsj21bf0qoqph.jpg",
+            "video_url": "https://video.weibo.com/show?fid=1034:5223841857732647",
+            "cur_mid": "5223842436879241",
+            "h": 960,
+            "hit_score_new": 98.925781,
+            "doc_score": 3856,
+            "img_pid": "7ede1691ly1i6iv2yzbfsj21bf0qoqph",
+            "type": "v",
+            "w": 1707,
+            "scheme": "sinaweibo://video/vvs?mid=5223842436879241&multi_paragraph=1&multi_count=2",
+            "click_rate": 0,
+            "vtype": 7,
+            "hit_score_final": 80.411469
+          },
+          {
+            "user_name": "新浪看点",
+            "user_avatar": "https://tvax4.sinaimg.cn/crop.0.0.438.438.50/001WnugLly8h8vg523qajj60c60c6glz02.jpg?KID=imgbed,tva&Expires=1761853279&ssig=TmYNBCpYrw",
+            "img": "http://wx3.sinaimg.cn/middle/002diGk7ly8i6tip733xfj62yo1o0u0z02.jpg",
+            "video_url": "https://video.weibo.com/show?fid=1034:5227181568360451",
+            "cur_mid": "5227396884072363",
+            "h": 2160,
+            "hit_score_new": 0,
+            "doc_score": 0,
+            "img_pid": "002diGk7ly8i6tip733xfj62yo1o0u0z02",
+            "type": "v",
+            "w": 3840,
+            "scheme": "sinaweibo://video/vvs?mid=5227396884072363&multi_paragraph=1&multi_count=0",
+            "click_rate": 0,
+            "vtype": 7,
+            "hit_score_final": 0
+          }
+        ]
+      },
+      "share_card_multimodal": {
+        "user_name": "新浪看点",
+        "user_avatar": "https://tvax4.sinaimg.cn/crop.0.0.438.438.50/001WnugLly8h8vg523qajj60c60c6glz02.jpg?KID=imgbed,tva&Expires=1761853279&ssig=TmYNBCpYrw",
+        "img": "http://wx3.sinaimg.cn/middle/002diGk7ly8i6tip733xfj62yo1o0u0z02.jpg",
+        "video_url": "https://video.weibo.com/show?fid=1034:5227181568360451",
+        "cur_mid": "5227396884072363",
+        "h": 2160,
+        "hit_score_new": 0,
+        "doc_score": 0,
+        "img_pid": "002diGk7ly8i6tip733xfj62yo1o0u0z02",
+        "type": "v",
+        "w": 3840,
+        "scheme": "sinaweibo://video/vvs?mid=5227396884072363&multi_paragraph=1&multi_count=0",
+        "click_rate": 0,
+        "vtype": 7,
+        "hit_score_final": 0
+      },
+      "query": "#河南女性的粉红守护已送达#",
+      "chat_status_stage": 1,
+      "news_analyze": {},
+      "reliable_tips": "{\"gold_orange_v_mids\": [\"5224637085778420\", \"5224850805230202\", \"5226503223641026\", \"5225459015223307\", \"5223838850748076\", \"5223829006979083\", \"5224834237729073\", \"5227042408759440\"], \"gold_orange_v_ratio\": \"44%\", \"media_mids\": [], \"media_ratio\": \"0%\", \"verified_mids\": [\"5227396884072363\", \"5227400675460034\", \"5223864219206150\", \"5223842436879241\", \"5227399426082818\", \"5224131832316478\", \"5227399405111572\", \"5227399555318735\", \"5227400699841020\"], \"verified_ratio\": \"50%\", \"normal_mids\": [\"5227440523709349\"], \"normal_ratio\": \"6%\", \"ref_mid_rank\": {\"5227396884072363\": {\"rank\": 1}, \"5227400675460034\": {\"rank\": 3}, \"5223864219206150\": {\"rank\": 7}, \"5223842436879241\": {\"rank\": 17}, \"5227399426082818\": {\"rank\": 14}, \"5224637085778420\": {\"rank\": 6}, \"5224131832316478\": {\"rank\": 11}, \"5224850805230202\": {\"rank\": 4}, \"5227399405111572\": {\"rank\": 2}, \"5227399555318735\": {\"rank\": 12}, \"5226503223641026\": {\"rank\": 9}, \"5225459015223307\": {\"rank\": 10}, \"5223838850748076\": {\"rank\": 8}, \"5223829006979083\": {\"rank\": 18}, \"5224834237729073\": {\"rank\": 5}, \"5227400699841020\": {\"rank\": 13}, \"5227440523709349\": {\"rank\": 15}, \"5227042408759440\": {\"rank\": 16}}}",
+      "share_text": "#河南女性的粉红守护已送达#的相关内容，来智搜看看",
+      "comment_info": {},
+      "show_ctrl": {
+        "quote": {}
+      },
+      "sorted_material_list": null,
+      "wenda": {
+        "forward_gen": 0
+      },
+      "query_field": "60",
+      "msg": "<think><br>嗯，用户查询的是\"河南女性的粉红守护已送达\"相关的活动信息，看起来是想了解这个公益项目的具体情况。从搜索结果来看，这应该是一项在河南开展的女性健康公益活动，主要由爱康集团参与执行。<br><br>浏览了搜索结果后，我注意到几个关键点：这个活动是在2025年10月进行的，正值世界乳腺癌防治月。活动名称为\"中国家庭教育千课公益大讲堂——女性健康关爱活动公益项目\"，主要在河南省焦作市开展。<br><br>活动内容方面很有意思，爱康集团派出了粉红义诊车，在10天内跑了10个村庄，为1339名农村女性提供了免费健康筛查服务。提供的检查项目包括乳腺超声、肺部CT和人工智能视网膜筛查三项。这个规模还挺大的。<br><br>我看到搜索结果中有很多具体细节：例如结果1和结果15都提到，这个活动不只是简单的体检，更是一次健康理念的传播。很多农村女性由于传统观念和就医不便，常常忽视自身健康。有个村民在视频里说：\"不疼不痒就不去医院\"，这种想法在乡村很普遍。<br><br>活动的组织架构也很清晰：由中国家庭教育学会主办，河南省妇女儿童发展基金会联合主办，爱康集团协办，焦作市妇联承办。这种多方合作模式确保了活动能够落地实施。<br><br>还发现活动做了创新性的公众互动——\"粉红云点亮\"线上活动。根据结果9的描述，网友可以通过H5页面参与，成为\"粉红守护者\"。截至摄影师小臭臭参与时，已有上千人加入。<br><br>特别值得注意的是结果10提供的数据：53%的40岁女性检出乳腺结节。这个数据突显了健康筛查的必要性。而农村地区乳腺癌发病率增幅高于城市地区，说明这次深入乡村的活动特别有意义。<br><br>关于活动效果，从结果14看到最终服务了1339名女性。在多个搜索结果中都提到村民反响热烈，有位老人说去医院\"找不着地\"，义诊到家门口解决了实际困难。<br><br>最后注意到这个活动是爱康集团坚持了15年的公益行动。这种持续性很可贵，不是一次性的作秀。<br><br>时间上要注意：今天是2025年10月31日，搜索结果都是10月下旬的报道，内容非常及时。考虑到所有信息都指向同一活动，且来源都是认证账号和大V账号，信息可信度高。<br><br>在组织回答时，考虑围绕活动核心信息展开，重点突出活动的公益性质、具体内容、创新点和实际影响。为了让内容生动，准备引用村民的真实反馈和具体数据。也会提一下这个活动的持续性特点。<br><br></think><br>关于“河南女性的粉红守护已送达”公益活动，综合搜索结果的核心信息整理如下：<br>### 🌸 一、活动核心概况  <br>1. **项目名称**：  <br>   **中国家庭教育千课公益大讲堂——女性健康关爱活动公益项目**，由中国家庭教育学会主办，河南省妇女儿童发展基金会联合主办，爱康集团协办，焦作市妇联承办。```wbCustomBlock{\"type\": \"quoted\", \"index\": 4, \"data\": {\"num\": [1, 3, 7, 17], \"version\": 2, \"quote_list\": [{\"name\": \"新浪看点\", \"scheme\": \"sinaweibo://detail?mblogid=5227396884072363\", \"index\": 1, \"label\": \"\"}, {\"name\": \"明日头条\", \"scheme\": \"sinaweibo://detail?mblogid=5227400675460034\", \"index\": 3, \"label\": \"\"}, {\"name\": \"新浪文化\", \"scheme\": \"sinaweibo://detail?mblogid=5223864219206150\", \"index\": 7, \"label\": \"\"}, {\"name\": \"爱康国宾\", \"scheme\": \"sinaweibo://detail?mblogid=5223842436879241\", \"index\": 17, \"label\": \"\"}]}}```<br><br>2. **时间与范围**：  <br>   - **2025年10月20日-29日**（世界乳腺癌防治月）；```wbCustomBlock{\"type\": \"quoted\", \"index\": 6, \"data\": {\"num\": [1, 14], \"version\": 2, \"quote_list\": [{\"name\": \"新浪看点\", \"scheme\": \"sinaweibo://detail?mblogid=5227396884072363\", \"index\": 1, \"label\": \"\"}, {\"name\": \"新知悦生活\", \"scheme\": \"sinaweibo://detail?mblogid=5227399426082818\", \"index\": 14, \"label\": \"\"}]}}```  <br>   - 覆盖河南焦作市**10个乡村**（如修武县、博爱县、宁郭镇大驾村等）。```wbCustomBlock{\"type\": \"quoted\", \"index\": 7, \"data\": {\"num\": [6, 11], \"version\": 2, \"quote_list\": [{\"name\": \"青春河边巢\", \"scheme\": \"sinaweibo://detail?mblogid=5224637085778420\", \"index\": 6, \"label\": \"大v\"}, {\"name\": \"新浪新闻客户端\", \"scheme\": \"sinaweibo://detail?mblogid=5224131832316478\", \"index\": 11, \"label\": \"\"}], \"name\": \"青春河边巢\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.512.512.50/62183001ly8i1dt4ir2jmj20e80e8t8y.jpg?KID=imgbed,tva&Expires=1761853279&ssig=Dk6E6zMRSP\", \"scheme\": \"sinaweibo://detail?mblogid=5224637085778420\", \"vType\": 0}}```<br><br>3. **公益行动主体**：  <br>   爱康国宾派出“粉红义诊车”（移动体检车），搭载专业医疗设备及三甲专家团队，开展免费健康筛查。```wbCustomBlock{\"type\": \"quoted\", \"index\": 8, \"data\": {\"num\": [1, 4, 17], \"version\": 2, \"quote_list\": [{\"name\": \"抬头看风景nono\", \"scheme\": \"sinaweibo://detail?mblogid=5224850805230202\", \"index\": 4, \"label\": \"大v\"}, {\"name\": \"新浪看点\", \"scheme\": \"sinaweibo://detail?mblogid=5227396884072363\", \"index\": 1, \"label\": \"\"}, {\"name\": \"爱康国宾\", \"scheme\": \"sinaweibo://detail?mblogid=5223842436879241\", \"index\": 17, \"label\": \"\"}], \"name\": \"抬头看风景nono\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.1242.1242.50/74e84d68ly8fje6grd2k9j20yi0yidiq.jpg?KID=imgbed,tva&Expires=1761853279&ssig=vESHgLACBU\", \"scheme\": \"sinaweibo://detail?mblogid=5224850805230202\", \"vType\": 0}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5227396884072363&multi_paragraph=1&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.438.438.50/001WnugLly8h8vg523qajj60c60c6glz02.jpg?KID=imgbed,tva&Expires=1761853279&ssig=TmYNBCpYrw) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">新浪看点</span><img src=\"http://wx3.sinaimg.cn/middle/002diGk7ly8i6tip733xfj62yo1o0u0z02.jpg\" data-width=2160 data-height=3840></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5227400675460034&multi_paragraph=1&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.180.180.50/006cuUdjly8gdi6wuko16j3050050mx1.jpg?KID=imgbed,tva&Expires=1761853279&ssig=UjvjGMqWQ1) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">明日头条</span><img src=\"http://wx2.sinaimg.cn/middle/006cuUdjly1i6u6w58uc8j60u01hcmzq02.jpg\" data-width=1920 data-height=1080></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5223842436879241&multi_paragraph=1&multi_count=2\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.545.545.50/7ede1691ly8gof5zju6lfj20f50f5aau.jpg?KID=imgbed,tva&Expires=1761853279&ssig=Q0Zte8Z62K) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">爱康国宾</span><img src=\"http://wx2.sinaimg.cn/middle/7ede1691ly1i6iv2yzbfsj21bf0qoqph.jpg\" data-width=960 data-height=1707></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5224637085778420&multi_paragraph=1&multi_count=3\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.512.512.50/62183001ly8i1dt4ir2jmj20e80e8t8y.jpg?KID=imgbed,tva&Expires=1761853279&ssig=Dk6E6zMRSP) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">青春河边巢</span><img src=\"http://wx2.sinaimg.cn/middle/62183001ly1i6lje8q6qnj21hc0u0mzt.jpg\" data-width=1080 data-height=1920></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5224131832316478&multi_paragraph=1&multi_count=4\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.449.449.50/001g9tWDly8h8vg4kwd12j60ch0chjrx02.jpg?KID=imgbed,tva&Expires=1761853279&ssig=UwAJfIKCgD) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">新浪新闻客户端</span><img src=\"http://wx2.sinaimg.cn/middle/001g9tWDly1i6jsbg8q5zj60k00zkq4x02.jpg\" data-width=1280 data-height=720></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5224850805230202&multi_paragraph=1&multi_count=5\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.1242.1242.50/74e84d68ly8fje6grd2k9j20yi0yidiq.jpg?KID=imgbed,tva&Expires=1761853279&ssig=vESHgLACBU) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">抬头看风景nono</span><img src=\"http://wx3.sinaimg.cn/middle/74e84d68ly1i6m2wzlfb4j20u00gwn37.jpg\" data-width=608 data-height=1080></div></media-block><br>### ✨ 二、服务内容与成果  <br>1. **免费筛查项目**：  <br>   - **乳腺超声筛查**（乳腺癌早筛重点）；  <br>   - **肺部CT检查**；  <br>   - **人工智能视网膜筛查**（慢病风险检测）。```wbCustomBlock{\"type\": \"quoted\", \"index\": 14, \"data\": {\"num\": [1, 2, 12], \"version\": 2, \"quote_list\": [{\"name\": \"新浪看点\", \"scheme\": \"sinaweibo://detail?mblogid=5227396884072363\", \"index\": 1, \"label\": \"\"}, {\"name\": \"新浪新知\", \"scheme\": \"sinaweibo://detail?mblogid=5227399405111572\", \"index\": 2, \"label\": \"\"}, {\"name\": \"冲浪新知\", \"scheme\": \"sinaweibo://detail?mblogid=5227399555318735\", \"index\": 12, \"label\": \"\"}]}}```  <br><br>2. **受益人群**：  <br>   累计服务**1,339名**河南乡村女性（部分数据称超1,200名）。```wbCustomBlock{\"type\": \"quoted\", \"index\": 15, \"data\": {\"num\": [1, 2, 12, 14], \"version\": 2, \"quote_list\": [{\"name\": \"新浪看点\", \"scheme\": \"sinaweibo://detail?mblogid=5227396884072363\", \"index\": 1, \"label\": \"\"}, {\"name\": \"新浪新知\", \"scheme\": \"sinaweibo://detail?mblogid=5227399405111572\", \"index\": 2, \"label\": \"\"}, {\"name\": \"冲浪新知\", \"scheme\": \"sinaweibo://detail?mblogid=5227399555318735\", \"index\": 12, \"label\": \"\"}, {\"name\": \"新知悦生活\", \"scheme\": \"sinaweibo://detail?mblogid=5227399426082818\", \"index\": 14, \"label\": \"\"}]}}```  <br><br>3. **理念倡导**：  <br>   - 打破“不疼不痒=健康”的认知误区，科普**早预防、早发现、早治疗**的重要性；```wbCustomBlock{\"type\": \"quoted\", \"index\": 17, \"data\": {\"num\": [1, 9, 10], \"version\": 2, \"quote_list\": [{\"name\": \"摄影师小臭臭\", \"scheme\": \"sinaweibo://detail?mblogid=5226503223641026\", \"index\": 9, \"label\": \"大v\"}, {\"name\": \"新浪看点\", \"scheme\": \"sinaweibo://detail?mblogid=5227396884072363\", \"index\": 1, \"label\": \"\"}, {\"name\": \"菜菜的小机灵鬼儿\", \"scheme\": \"sinaweibo://detail?mblogid=5225459015223307\", \"index\": 10, \"label\": \"\"}], \"name\": \"摄影师小臭臭\", \"img\": \"https://tva4.sinaimg.cn/crop.0.240.360.360.50/7308e38cgw1ejxcbl38i3j20b40goq51.jpg?KID=imgbed,tva&Expires=1761853279&ssig=FLlZ3p4RFG\", \"scheme\": \"sinaweibo://detail?mblogid=5226503223641026\", \"vType\": 0}}```  <br>   - 针对农村女性就医不便、健康意识薄弱等问题，提供家门口的便捷服务。```wbCustomBlock{\"type\": \"quoted\", \"index\": 18, \"data\": {\"num\": [1, 4], \"version\": 2, \"quote_list\": [{\"name\": \"新浪看点\", \"scheme\": \"sinaweibo://detail?mblogid=5227396884072363\", \"index\": 1, \"label\": \"\"}, {\"name\": \"抬头看风景nono\", \"scheme\": \"sinaweibo://detail?mblogid=5224850805230202\", \"index\": 4, \"label\": \"\"}]}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5225459015223307&from=search&content_show=1&mix_index=7&hide_index=1&multi_paragraph=2&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.1024.1024.50/9e28bc7fly8i59zbpuly8j20sg0sgn04.jpg?KID=imgbed,tva&Expires=1761853279&ssig=SUXBr2Co%2B2) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">菜菜的小机灵鬼儿</span><img src=\"http://wx1.sinaimg.cn/middle/9e28bc7fgy1i6o0ruqhv2j219318qkap.jpg\" data-width=1610 data-height=1623></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5227399555318735&from=search&content_show=1&mix_index=5&hide_index=1&multi_paragraph=2&multi_count=1\"><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.33.36.422.422.50/7686632fly8h5za2wbjiwj20dw0dwta3.jpg?KID=imgbed,tva&Expires=1761853279&ssig=7lsh53t9vV) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">冲浪新知</span><img src=\"http://wx4.sinaimg.cn/middle/002diGk7ly8i6u72xn90gj635s2dcnpf02.jpg\" data-width=3072 data-height=4096></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5226503223641026&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=2&multi_count=2\"><span class=\"vator\" style=\"display: none;background: url(https://tva4.sinaimg.cn/crop.0.240.360.360.50/7308e38cgw1ejxcbl38i3j20b40goq51.jpg?KID=imgbed,tva&Expires=1761853279&ssig=FLlZ3p4RFG) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">摄影师小臭臭</span><img src=\"http://wx4.sinaimg.cn/middle/7308e38cgy1i6rcl7vl7sj20v61jf7bs.jpg\" data-width=1995 data-height=1122></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5227399405111572&multi_paragraph=2&multi_count=3\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.500.500.50/001lml2lly8h8vgcg1vpqj60dw0dw0ta02.jpg?KID=imgbed,tva&Expires=1761853279&ssig=jgtdMX9HVx) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">新浪新知</span><img src=\"http://wx4.sinaimg.cn/middle/001lml2lly1i6u70fjefrj60u01hc0wd02.jpg\" data-width=1920 data-height=1080></div></media-block><br>### ♥️ 三、社会意义与创新  <br>1. **解决乡村痛点**：  <br>   - 农村地区乳腺癌发病率增速高于城市，但医疗资源匮乏、女性羞于就医问题突出；```wbCustomBlock{\"type\": \"quoted\", \"index\": 22, \"data\": {\"num\": [1, 10], \"version\": 2, \"quote_list\": [{\"name\": \"菜菜的小机灵鬼儿\", \"scheme\": \"sinaweibo://detail?mblogid=5225459015223307\", \"index\": 10, \"label\": \"大v\"}, {\"name\": \"新浪看点\", \"scheme\": \"sinaweibo://detail?mblogid=5227396884072363\", \"index\": 1, \"label\": \"\"}], \"name\": \"菜菜的小机灵鬼儿\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.1024.1024.50/9e28bc7fly8i59zbpuly8j20sg0sgn04.jpg?KID=imgbed,tva&Expires=1761853279&ssig=SUXBr2Co%2B2\", \"scheme\": \"sinaweibo://detail?mblogid=5225459015223307\", \"vType\": 0}}```  <br>   - 义诊车下沉至田间地头，减少奔波成本（如村民反馈：“去医院找不着路，排队麻烦”）。```wbCustomBlock{\"type\": \"quoted\", \"index\": 23, \"data\": {\"num\": [1, 4], \"version\": 2, \"quote_list\": [{\"name\": \"新浪看点\", \"scheme\": \"sinaweibo://detail?mblogid=5227396884072363\", \"index\": 1, \"label\": \"\"}, {\"name\": \"抬头看风景nono\", \"scheme\": \"sinaweibo://detail?mblogid=5224850805230202\", \"index\": 4, \"label\": \"\"}]}}```  <br><br>2. **线上联动公益**：  <br>   推出 **#粉爱传递 温暖相豫#** 线上活动，网友通过H5页面“点亮粉红云”，成为“粉红守护者”助力公益（截至10月27日超千人参与）。```wbCustomBlock{\"type\": \"quoted\", \"index\": 24, \"data\": {\"num\": [8, 9, 18], \"version\": 2, \"quote_list\": [{\"name\": \"珍石部落\", \"scheme\": \"sinaweibo://detail?mblogid=5223838850748076\", \"index\": 8, \"label\": \"大v\"}, {\"name\": \"摄影师小臭臭\", \"scheme\": \"sinaweibo://detail?mblogid=5226503223641026\", \"index\": 9, \"label\": \"\"}, {\"name\": \"那姐疯了\", \"scheme\": \"sinaweibo://detail?mblogid=5223829006979083\", \"index\": 18, \"label\": \"\"}], \"name\": \"珍石部落\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/bb194a30ly8hjllih3dnvj20u00u1n0b.jpg?KID=imgbed,tva&Expires=1761853279&ssig=JDCkENEEGR\", \"scheme\": \"sinaweibo://detail?mblogid=5223838850748076\", \"vType\": 0}}```  <br><br>3. **长期承诺**：  <br>   爱康集团持续**15年**推进粉红丝带公益行动，此次为河南乡村女性健康注入持续关爱。```wbCustomBlock{\"type\": \"quoted\", \"index\": 25, \"data\": {\"num\": [1, 3, 17], \"version\": 2, \"quote_list\": [{\"name\": \"新浪看点\", \"scheme\": \"sinaweibo://detail?mblogid=5227396884072363\", \"index\": 1, \"label\": \"\"}, {\"name\": \"明日头条\", \"scheme\": \"sinaweibo://detail?mblogid=5227400675460034\", \"index\": 3, \"label\": \"\"}, {\"name\": \"爱康国宾\", \"scheme\": \"sinaweibo://detail?mblogid=5223842436879241\", \"index\": 17, \"label\": \"\"}]}}```<br>### 😊 四、现场反响与影响  <br>1. **村民真实反馈**：  <br>   - 多位村民表示**首次接受专业筛查**，医生态度耐心，“小病不拖成大病的提醒很受用”；```wbCustomBlock{\"type\": \"quoted\", \"index\": 29, \"data\": {\"num\": [1, 11], \"version\": 2, \"quote_list\": [{\"name\": \"新浪看点\", \"scheme\": \"sinaweibo://detail?mblogid=5227396884072363\", \"index\": 1, \"label\": \"\"}, {\"name\": \"新浪新闻客户端\", \"scheme\": \"sinaweibo://detail?mblogid=5224131832316478\", \"index\": 11, \"label\": \"\"}]}}```  <br>   - 女性劳动者（如环卫女工、务农妇女）获赠千张体检卡，后续可享深度服务。```wbCustomBlock{\"type\": \"quoted\", \"index\": 30, \"data\": {\"num\": [6, 18], \"version\": 2, \"quote_list\": [{\"name\": \"青春河边巢\", \"scheme\": \"sinaweibo://detail?mblogid=5224637085778420\", \"index\": 6, \"label\": \"\"}, {\"name\": \"那姐疯了\", \"scheme\": \"sinaweibo://detail?mblogid=5223829006979083\", \"index\": 18, \"label\": \"\"}]}}```  <br><br>2. **社会关注提升**：  <br>   活动吸引```wbCustomBlock{\"type\": \"midquoted\", \"index\": \"1645752321_1\", \"data\": {\"name\": \"青春河边巢\", \"scheme\": \"https://weibo.com/u/1645752321\"}}```、```wbCustomBlock{\"type\": \"midquoted\", \"index\": \"5143100170_1\", \"data\": {\"name\": \"桃酱食光记\", \"scheme\": \"https://weibo.com/u/5143100170\"}}```等大V实地见证，通过短视频记录义诊温暖瞬间。```wbCustomBlock{\"type\": \"quoted\", \"index\": 31, \"data\": {\"num\": [4, 5, 6], \"version\": 2, \"quote_list\": [{\"name\": \"桃酱食光记\", \"scheme\": \"sinaweibo://detail?mblogid=5224834237729073\", \"index\": 5, \"label\": \"大v\"}, {\"name\": \"抬头看风景nono\", \"scheme\": \"sinaweibo://detail?mblogid=5224850805230202\", \"index\": 4, \"label\": \"\"}, {\"name\": \"青春河边巢\", \"scheme\": \"sinaweibo://detail?mblogid=5224637085778420\", \"index\": 6, \"label\": \"\"}], \"name\": \"桃酱食光记\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.996.996.50/005C3Viyly8gfkwnd3gowj30ro0rotbf.jpg?KID=imgbed,tva&Expires=1761853279&ssig=S35H3kBHFN\", \"scheme\": \"sinaweibo://detail?mblogid=5224834237729073\", \"vType\": 0}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5224834237729073&multi_paragraph=4&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.996.996.50/005C3Viyly8gfkwnd3gowj30ro0rotbf.jpg?KID=imgbed,tva&Expires=1761853279&ssig=S35H3kBHFN) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">桃酱食光记</span><img src=\"http://wx4.sinaimg.cn/middle/005EY2yCly8i6m3xlj5rij62rh1jyqv502.jpg\" data-width=2014 data-height=3581></div></media-block><br>### 💎 总结  <br>“粉红守护”以移动义诊车为载体，将“早筛早诊”理念和免费医疗服务深入河南乡村，既缓解了农村女性就医难问题，更通过健康科普播下自我关爱的种子。这一行动是公益力量下沉的生动实践，也为乡村振兴中的健康平等提供了新思路 🌱。```wbCustomBlock{\"type\": \"quoted\", \"index\": 33, \"data\": {\"num\": [1, 4, 14], \"version\": 2, \"quote_list\": [{\"name\": \"新浪看点\", \"scheme\": \"sinaweibo://detail?mblogid=5227396884072363\", \"index\": 1, \"label\": \"\"}, {\"name\": \"抬头看风景nono\", \"scheme\": \"sinaweibo://detail?mblogid=5224850805230202\", \"index\": 4, \"label\": \"\"}, {\"name\": \"新知悦生活\", \"scheme\": \"sinaweibo://detail?mblogid=5227399426082818\", \"index\": 14, \"label\": \"\"}]}}```  <br><br>---  <br>⚠️ 说明：数据来源于2025年10月20日至30日的公开报道，部分表述可能存在重复引用同一活动不同角度的描述。<br>",
+      "msg_json": "{}",
+      "basemodel": "实验组8",
+      "short_url": "http://t.cn/AXwsqUfs",
+      "mid_list": null,
+      "unify_md5": "4557970fdbc73960012a21666de84a33",
+      "current_time": 1761921701,
+      "profile_image_url": "",
+      "user_info": {},
+      "ab_suffix": "default",
+      "q_attr": {
+        "comment_from_type": "",
+        "from_uid": "",
+        "mid": "",
+        "from_request_id": "",
+        "reply_cid": ""
+      },
+      "share_info": {
+        "tips": "#河南女性的粉红守护已送达#的相关内容，来智搜看看",
+        "comment_content": "",
+        "unify_md5": "4557970fdbc73960012a21666de84a33",
+        "display_name": "#河南女性的粉红守护已送达#",
+        "page_id": "232964f59763bf0ea342f9f75c329444beb9c2",
+        "url": "http://t.cn/AXwezjU3",
+        "status": 3
+      },
+      "version": "2025-10-31 00:41:19.020999-6055",
+      "query_category": "",
+      "abtest_info": {
+        "chat_entrance": 1
+      },
+      "qs_status_info": "{\"qs_q_status\":0,\"qs_c_status\":8388608,\"qs_r_status\":0,\"qs_u_status\":0,\"ab_lab\":{},\"qs_status\":0}",
+      "scheme": "sinaweibo://cardlist?containerid=100103type%3D225%26q%3D%23%E6%B2%B3%E5%8D%97%E5%A5%B3%E6%80%A7%E7%9A%84%E7%B2%89%E7%BA%A2%E5%AE%88%E6%8A%A4%E5%B7%B2%E9%80%81%E8%BE%BE%23%26t%3D&extparam=ai_model%3Ddeepseek%26ori_ai_title%3D%E5%8F%82%E8%80%83%E5%8D%9A%E6%96%87%26material_version%3D1761842479",
+      "ext_show": {},
+      "loop_times": 200,
+      "uid": "",
+      "msg_format": "markdown",
+      "analysis_time": 1761842560,
+      "cot": 1
+    }
+  },
+  "links": [
+    "sinaweibo://detail?mblogid=5227396884072363",
+    "sinaweibo://detail?mblogid=5227399405111572",
+    "sinaweibo://detail?mblogid=5227400675460034",
+    "sinaweibo://detail?mblogid=5224850805230202",
+    "sinaweibo://detail?mblogid=5224834237729073",
+    "sinaweibo://detail?mblogid=5224637085778420",
+    "sinaweibo://detail?mblogid=5223864219206150",
+    "sinaweibo://detail?mblogid=5223838850748076",
+    "sinaweibo://detail?mblogid=5226503223641026",
+    "sinaweibo://detail?mblogid=5225459015223307",
+    "sinaweibo://detail?mblogid=5224131832316478",
+    "sinaweibo://detail?mblogid=5227399555318735",
+    "sinaweibo://detail?mblogid=5227400699841020",
+    "sinaweibo://detail?mblogid=5227399426082818",
+    "sinaweibo://detail?mblogid=5227440523709349",
+    "sinaweibo://detail?mblogid=5227042408759440",
+    "sinaweibo://detail?mblogid=5223842436879241",
+    "sinaweibo://detail?mblogid=5223829006979083"
+  ],
+  "media": [
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/002diGk7ly8i6tip733xfj62yo1o0u0z02.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/002diGk7ly8i6tip733xfj62yo1o0u0z02.jpg",
+      "alt": "新浪看点",
+      "width": 2160,
+      "height": 3840,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/002diGk7ly8i6tip733xfj62yo1o0u0z02.jpg"
+      ],
+      "user": "新浪看点"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/006cuUdjly1i6u6w58uc8j60u01hcmzq02.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/006cuUdjly1i6u6w58uc8j60u01hcmzq02.jpg",
+      "alt": "明日头条",
+      "width": 1920,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/006cuUdjly1i6u6w58uc8j60u01hcmzq02.jpg"
+      ],
+      "user": "明日头条"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/7ede1691ly1i6iv2yzbfsj21bf0qoqph.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/7ede1691ly1i6iv2yzbfsj21bf0qoqph.jpg",
+      "alt": "爱康国宾",
+      "width": 960,
+      "height": 1707,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/7ede1691ly1i6iv2yzbfsj21bf0qoqph.jpg"
+      ],
+      "user": "爱康国宾"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/62183001ly1i6lje8q6qnj21hc0u0mzt.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/62183001ly1i6lje8q6qnj21hc0u0mzt.jpg",
+      "alt": "青春河边巢",
+      "width": 1080,
+      "height": 1920,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx4.sinaimg.cn/large/62183001ly1i6lje8q6qnj21hc0u0mzt.jpg"
+      ],
+      "user": "青春河边巢"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/001g9tWDly1i6jsbg8q5zj60k00zkq4x02.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/001g9tWDly1i6jsbg8q5zj60k00zkq4x02.jpg",
+      "alt": "新浪新闻客户端",
+      "width": 1280,
+      "height": 720,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/001g9tWDly1i6jsbg8q5zj60k00zkq4x02.jpg"
+      ],
+      "user": "新浪新闻客户端"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/74e84d68ly1i6m2wzlfb4j20u00gwn37.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/74e84d68ly1i6m2wzlfb4j20u00gwn37.jpg",
+      "alt": "抬头看风景nono",
+      "width": 608,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/74e84d68ly1i6m2wzlfb4j20u00gwn37.jpg"
+      ],
+      "user": "抬头看风景nono"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/9e28bc7fgy1i6o0ruqhv2j219318qkap.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/9e28bc7fgy1i6o0ruqhv2j219318qkap.jpg",
+      "alt": "菜菜的小机灵鬼儿",
+      "width": 1610,
+      "height": 1623,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/9e28bc7fgy1i6o0ruqhv2j219318qkap.jpg"
+      ],
+      "user": "菜菜的小机灵鬼儿"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/002diGk7ly8i6u72xn90gj635s2dcnpf02.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/002diGk7ly8i6u72xn90gj635s2dcnpf02.jpg",
+      "alt": "冲浪新知",
+      "width": 3072,
+      "height": 4096,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/002diGk7ly8i6u72xn90gj635s2dcnpf02.jpg"
+      ],
+      "user": "冲浪新知"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/7308e38cgy1i6rcl7vl7sj20v61jf7bs.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/7308e38cgy1i6rcl7vl7sj20v61jf7bs.jpg",
+      "alt": "摄影师小臭臭",
+      "width": 1995,
+      "height": 1122,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/7308e38cgy1i6rcl7vl7sj20v61jf7bs.jpg"
+      ],
+      "user": "摄影师小臭臭"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/001lml2lly1i6u70fjefrj60u01hc0wd02.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/001lml2lly1i6u70fjefrj60u01hc0wd02.jpg",
+      "alt": "新浪新知",
+      "width": 1920,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx4.sinaimg.cn/large/001lml2lly1i6u70fjefrj60u01hc0wd02.jpg"
+      ],
+      "user": "新浪新知"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/005EY2yCly8i6m3xlj5rij62rh1jyqv502.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/005EY2yCly8i6m3xlj5rij62rh1jyqv502.jpg",
+      "alt": "桃酱食光记",
+      "width": 2014,
+      "height": 3581,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/005EY2yCly8i6m3xlj5rij62rh1jyqv502.jpg"
+      ],
+      "user": "桃酱食光记"
+    }
+  ],
+  "html_path": "data/aicard/hourly/2025-10-30/12/topic-4557970f.html"
+}

@@ -1,0 +1,283 @@
+{
+  "meta": {
+    "query": "#哥伦比亚23岁女子喝酒挑战后去世#",
+    "status_code": 200,
+    "fetched_at": "2025-11-04T08:54:47+08:00",
+    "response": {
+      "top_quote_list": {},
+      "short_url": "http://t.cn/AXApwPhY",
+      "card_multimodal": {
+        "data": [
+          {
+            "vtype": 3,
+            "video_url": "https://video.weibo.com/show?fid=1034:5228551696482315",
+            "user_name": "新浪新闻",
+            "hit_score_new": 96.240234,
+            "doc_score": 3612,
+            "img_pid": "007YAdaely1i6xwa3k9itj30u01hcacm",
+            "scheme": "sinaweibo://video/vvs?mid=5228557850644939&multi_paragraph=0&multi_count=0",
+            "w": 1080,
+            "click_num": 0,
+            "type": "v",
+            "hit_score_final": 83.344147,
+            "cur_mid": "5228557850644939",
+            "h": 1920,
+            "img": "http://wx1.sinaimg.cn/middle/007YAdaely1i6xwa3k9itj30u01hcacm.jpg",
+            "click_rate": 0.11450381679389,
+            "user_avatar": "https://tvax4.sinaimg.cn/crop.0.0.799.799.50/002diGk7ly8h8vg36oqidj60m70m7mxs02.jpg?KID=imgbed,tva&Expires=1762228149&ssig=YG%2FxKXAHOT"
+          },
+          {
+            "vtype": 3,
+            "video_url": "https://video.weibo.com/show?fid=1034:5228930391539766",
+            "user_name": "新京报",
+            "hit_score_new": 0,
+            "doc_score": 0,
+            "img_pid": "001Ngxkily1i6z3mm65lhj61hc0u0b0502",
+            "scheme": "sinaweibo://video/vvs?mid=5228931886088475&multi_paragraph=0&multi_count=1",
+            "w": 1920,
+            "click_num": 0,
+            "type": "v",
+            "hit_score_final": 0,
+            "cur_mid": "5228931886088475",
+            "h": 1080,
+            "img": "http://wx4.sinaimg.cn/middle/001Ngxkily1i6z3mm65lhj61hc0u0b0502.jpg",
+            "click_rate": 0.074273132835936,
+            "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.512.512.50/001Ngxkily8h8vm7jc1igj60e80e8q3a02.jpg?KID=imgbed,tva&Expires=1762228149&ssig=ur3WDHkz%2Bp"
+          },
+          {
+            "vtype": 3,
+            "video_url": "",
+            "user_name": "极目新闻",
+            "hit_score_new": 93.75,
+            "doc_score": 2509,
+            "img_pid": "001SsZ0Mgy1i6y5pwsfpfj60c50gfmzq02",
+            "scheme": "sinaweibo://multimedia?mix_mid=5228636508783119&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=0&multi_count=2",
+            "w": 437,
+            "click_num": 0,
+            "type": "p",
+            "hit_score_final": 81.050003,
+            "cur_mid": "5228636508783119",
+            "h": 591,
+            "img": "http://wx1.sinaimg.cn/middle/001SsZ0Mgy1i6y5pwsfpfj60c50gfmzq02.jpg",
+            "click_rate": 0.06,
+            "user_avatar": "https://tvax4.sinaimg.cn/crop.111.343.857.857.50/001SsZ0Mly8h8vhiw5c7tj60u016w0us02.jpg?KID=imgbed,tva&Expires=1762228149&ssig=Ol1iCBr9JJ"
+          },
+          {
+            "vtype": 3,
+            "video_url": "https://video.weibo.com/show?fid=1034:5228551696482315",
+            "user_name": "新浪新闻",
+            "hit_score_new": 96.240234,
+            "doc_score": 3612,
+            "img_pid": "007YAdaely1i6xwa3k9itj30u01hcacm",
+            "scheme": "sinaweibo://video/vvs?mid=5228557850644939&multi_paragraph=0&multi_count=0",
+            "w": 1080,
+            "click_num": 0,
+            "type": "v",
+            "hit_score_final": 83.344147,
+            "cur_mid": "5228557850644939",
+            "h": 1920,
+            "img": "http://wx1.sinaimg.cn/middle/007YAdaely1i6xwa3k9itj30u01hcacm.jpg",
+            "click_rate": 0.11450381679389,
+            "user_avatar": "https://tvax4.sinaimg.cn/crop.0.0.799.799.50/002diGk7ly8h8vg36oqidj60m70m7mxs02.jpg?KID=imgbed,tva&Expires=1762228149&ssig=YG%2FxKXAHOT"
+          }
+        ],
+        "type": "mediablock"
+      },
+      "model": "deepseek",
+      "query": "#哥伦比亚23岁女子喝酒挑战后去世#",
+      "basemodel": "实验组10",
+      "wenda": {
+        "forward_gen": 0
+      },
+      "comment_info": {},
+      "qs_status_info": "{\"qs_u_status\":0,\"qs_q_status\":0,\"qs_status\":0,\"ab_lab\":{},\"qs_c_status\":8388608,\"qs_r_status\":0}",
+      "loop_times": 200,
+      "cot": 1,
+      "sorted_material_list": null,
+      "qs_status": 0,
+      "version": "2025-11-04 08:49:09.010999-7220",
+      "share_info": {
+        "comment_content": "",
+        "unify_md5": "9dead007dbd147a45caf9f4254805b41",
+        "status": 3,
+        "tips": "#哥伦比亚23岁女子喝酒挑战后去世#的相关内容，来智搜看看",
+        "url": "http://t.cn/AXAOLGoH",
+        "page_id": "232964aa56058d4abc267526e524a04b7f4fac",
+        "display_name": "#哥伦比亚23岁女子喝酒挑战后去世#"
+      },
+      "status": 2,
+      "abtest_info": {
+        "chat_entrance": 1
+      },
+      "share_text": "#哥伦比亚23岁女子喝酒挑战后去世#的相关内容，来智搜看看",
+      "uid": "",
+      "profile_image_url": "",
+      "show_ctrl": {
+        "quote": {}
+      },
+      "unify_md5": "9dead007dbd147a45caf9f4254805b41",
+      "zs_risk_control": {
+        "think_text_close": 0,
+        "land_button_close": 0
+      },
+      "chat_status_stage": 1,
+      "scheme": "sinaweibo://cardlist?containerid=100103type%3D225%26q%3D%23%E5%93%A5%E4%BC%A6%E6%AF%94%E4%BA%9A23%E5%B2%81%E5%A5%B3%E5%AD%90%E5%96%9D%E9%85%92%E6%8C%91%E6%88%98%E5%90%8E%E5%8E%BB%E4%B8%96%23%26t%3D&extparam=ai_model%3Ddeepseek%26ori_ai_title%3D%E5%8F%82%E8%80%83%E5%8D%9A%E6%96%87%26material_version%3D1762217349",
+      "msg_format": "markdown",
+      "user_info": {},
+      "news_analyze": {},
+      "reliable_tips": "{\"gold_orange_v_mids\": [\"5229171530793501\", \"5229154921874143\", \"5229168331590064\", \"5229175950806328\", \"5229174614918008\", \"5229171351748934\", \"5229169000583246\", \"5229004946934180\", \"5229174451079172\", \"5229176007426680\", \"5229175616045828\", \"5229174886237992\", \"5228558747699031\", \"5228609373213643\"], \"gold_orange_v_ratio\": \"54%\", \"media_mids\": [\"5228931886088475\", \"5228636508783119\", \"5229170038933521\", \"5229180725234385\", \"5228618689024924\"], \"media_ratio\": \"19%\", \"verified_mids\": [\"5228557850644939\", \"5229176224482645\", \"5228551747666253\", \"5229148995847198\"], \"verified_ratio\": \"15%\", \"normal_mids\": [\"5229180524430329\", \"5228669264200811\", \"5229178114803260\"], \"normal_ratio\": \"12%\", \"ref_mid_rank\": {\"5228931886088475\": {\"rank\": 1}, \"5228557850644939\": {\"rank\": 2}, \"5229171530793501\": {\"rank\": 11}, \"5228636508783119\": {\"rank\": 28}, \"5229154921874143\": {\"rank\": 4}, \"5229168331590064\": {\"rank\": 14}, \"5229175950806328\": {\"rank\": 21}, \"5229170038933521\": {\"rank\": 5}, \"5229174614918008\": {\"rank\": 24}, \"5229180524430329\": {\"rank\": 17}, \"5229171351748934\": {\"rank\": 10}, \"5229169000583246\": {\"rank\": 15}, \"5228669264200811\": {\"rank\": 3}, \"5229004946934180\": {\"rank\": 12}, \"5229174451079172\": {\"rank\": 13}, \"5229180725234385\": {\"rank\": 16}, \"5229178114803260\": {\"rank\": 18}, \"5229176224482645\": {\"rank\": 19}, \"5229176007426680\": {\"rank\": 20}, \"5229175616045828\": {\"rank\": 22}, \"5229174886237992\": {\"rank\": 23}, \"5228618689024924\": {\"rank\": 25}, \"5228558747699031\": {\"rank\": 26}, \"5228551747666253\": {\"rank\": 27}, \"5229148995847198\": {\"rank\": 29}, \"5228609373213643\": {\"rank\": 30}}}",
+      "ext_show": {},
+      "msg_json": "{}",
+      "analysis_time": 1762217624,
+      "ab_suffix": "default",
+      "share_card_multimodal": {
+        "vtype": 3,
+        "video_url": "https://video.weibo.com/show?fid=1034:5228551696482315",
+        "user_name": "新浪新闻",
+        "hit_score_new": 96.240234,
+        "doc_score": 3612,
+        "img_pid": "007YAdaely1i6xwa3k9itj30u01hcacm",
+        "scheme": "sinaweibo://video/vvs?mid=5228557850644939&multi_paragraph=0&multi_count=0",
+        "w": 1080,
+        "click_num": 0,
+        "type": "v",
+        "hit_score_final": 83.344147,
+        "cur_mid": "5228557850644939",
+        "h": 1920,
+        "img": "http://wx1.sinaimg.cn/middle/007YAdaely1i6xwa3k9itj30u01hcacm.jpg",
+        "click_rate": 0.11450381679389,
+        "user_avatar": "https://tvax4.sinaimg.cn/crop.0.0.799.799.50/002diGk7ly8h8vg36oqidj60m70m7mxs02.jpg?KID=imgbed,tva&Expires=1762228149&ssig=YG%2FxKXAHOT"
+      },
+      "page_id": "232964aa56058d4abc267526e524a04b7f4fac",
+      "query_field": "60",
+      "q_attr": {
+        "from_uid": "",
+        "from_request_id": "",
+        "mid": "",
+        "reply_cid": "",
+        "comment_from_type": ""
+      },
+      "msg": "<think><br>嗯，用户要求我根据提供的搜索结果整理关于哥伦比亚23岁女子喝酒挑战后去世事件的回答。用户给的信息量很大，有30个搜索结果，需要我仔细梳理分析。<br><br>在这些搜索结果中，主要信息来自媒体账号如新京报、新浪新闻等，还有大V和普通用户的讨论。时效性上，大部分信息集中在2025年11月2日至4日，也就是事件发生后几天内的报道。<br><br>我看到了几个关键点需要整理：<br>事件核心事实方面，这个23岁女子叫玛丽亚·何塞·阿尔迪拉，她在10月25日参加夜店的饮酒挑战，挑战要求10分钟内喝完6轮酒，奖金150万哥伦比亚比索（约2700人民币）。她在还剩3杯左右时昏倒，呕吐物阻塞气管导致窒息，约17分钟没有呼吸。送医后确认为脑死亡，10月30日去世。<br><br>死因医学分析比较专业，搜索结果6、8、21都指出短时摄入过量酒精是主因。特别值得注意的是搜索结果8详细说明：10分钟内饮用超5标准杯（1杯约14g纯酒精）就达致死阈值。而这次挑战的6轮混合酒远超安全极限，混饮还加速了中毒。窒息是直接死因，因为酒精抑制了脑干反射，呕吐物堵塞气管。<br><br>责任争议方面，搜索结果1、8、9、28都提到家属指控夜店责任。夜店不仅组织危险挑战，而且在事发后没停止活动，反而提高奖金到200万比索。现场缺乏急救措施，工作人员没及时清理呼吸道或实施心肺复苏。<br><br>社会警示部分，很多搜索结果都有讨论。搜索结果5详细科普了安全饮酒知识，包括每日限量、急救措施等。搜索结果17、21、24都强调“身体没有重赛键”的生命警示。搜索结果10还提到国内类似案例，34岁网红直播喝酒致死。<br><br>关于该女子产后状态，搜索结果6、7明确表示医学研究未证实产后恢复期与酒精耐受性降低有必然关联，尸检报告也未将其列为致死因素。所以这点可以不带入主报告，避免误导。<br><br>我考虑设计这样组织回答：先核心事实，再死因机制，然后是责任争议，最后是社会警示。每个部分会引用多个相关搜索结果，避免只依赖单一来源。特别要注意的是，搜索结果的可靠性：媒体账号和大V账号的内容更可信，普通用户讨论可作为补充但需谨慎。<br><br>在引用时，会按规范在句末标注[^数字]，比如核心事实部分会引用等。整体采用清晰的小标题分段，关键数据如“17分钟窒息”“2700元奖金”等加粗突出。<br><br>最后要强调的是生命价值这个核心警示，用搜索结果21中那句有力的“身体没有重赛键”作为结语，呼应多个搜索结果中提到的安全警示。<br><br></think><br>### 🕯️ 哥伦比亚23岁女子饮酒挑战身亡事件核心事实  <br>1. **人物与事件经过**  <br>   - 23岁哥伦比亚女子**玛丽亚·何塞·阿尔迪拉**（María José Aldira）于2025年10月25日在卡利市某夜店庆祝生日时，参与“**10分钟内喝完6轮酒**”的挑战（酒类含烈性鸡尾酒），成功可获得150万比索奖金（约2700元人民币）。```wbCustomBlock{\"type\": \"quoted\", \"index\": 4, \"data\": {\"num\": [1, 2], \"version\": 2, \"quote_list\": [{\"name\": \"新京报\", \"scheme\": \"sinaweibo://detail?mblogid=5228931886088475\", \"index\": 1, \"label\": \"大v\"}, {\"name\": \"新浪新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5228557850644939\", \"index\": 2, \"label\": \"\"}], \"name\": \"新京报\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.512.512.50/001Ngxkily8h8vm7jc1igj60e80e8q3a02.jpg?KID=imgbed,tva&Expires=1762228149&ssig=ur3WDHkz%2Bp\", \"scheme\": \"sinaweibo://detail?mblogid=5228931886088475\", \"vType\": 3}}```  <br>   - 挑战接近尾声时（仅剩3-5杯），她饮下一杯黑色鸡尾酒后表示“味道糟透了”，随即昏迷倒地并剧烈呕吐，**因呕吐物阻塞气管窒息，约17分钟无自主呼吸**。送医后确诊脑死亡，10月30日因多器官衰竭去世。```wbCustomBlock{\"type\": \"quoted\", \"index\": 5, \"data\": {\"num\": [1, 2, 11, 28], \"version\": 2, \"quote_list\": [{\"name\": \"极目新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5228636508783119\", \"index\": 28, \"label\": \"大v\"}, {\"name\": \"新京报\", \"scheme\": \"sinaweibo://detail?mblogid=5228931886088475\", \"index\": 1, \"label\": \"\"}, {\"name\": \"新浪新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5228557850644939\", \"index\": 2, \"label\": \"\"}, {\"name\": \"浔湫钰\", \"scheme\": \"sinaweibo://detail?mblogid=5229171530793501\", \"index\": 11, \"label\": \"\"}], \"name\": \"极目新闻\", \"img\": \"https://tvax4.sinaimg.cn/crop.111.343.857.857.50/001SsZ0Mly8h8vhiw5c7tj60u016w0us02.jpg?KID=imgbed,tva&Expires=1762228149&ssig=Ol1iCBr9JJ\", \"scheme\": \"sinaweibo://detail?mblogid=5228636508783119\", \"vType\": 3}}```  <br><br>2. **关键背景细节**  <br>   - **动机与经济压力**：阿尔迪拉是10个月大婴儿的母亲，参与挑战主要为帮助朋友缓解经济困境。150万比索相当于哥伦比亚平均月收入（469万比索）的1/3。```wbCustomBlock{\"type\": \"quoted\", \"index\": 7, \"data\": {\"num\": [4], \"version\": 2, \"quote_list\": [{\"name\": \"木岛主\", \"scheme\": \"sinaweibo://detail?mblogid=5229154921874143\", \"index\": 4, \"label\": \"大v\"}], \"name\": \"木岛主\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.512.512.50/59219113ly8gbzw0qvhcvj20e80e8gmh.jpg?KID=imgbed,tva&Expires=1762228149&ssig=Omxs%2FPZ3Km\", \"scheme\": \"sinaweibo://detail?mblogid=5229154921874143\", \"vType\": 0}}```  <br>   - **现场急救缺失**：监控显示工作人员未及时清理呼吸道或实施心肺复苏，多辆出租车误判其为“醉酒”拒绝送医，延误抢救。```wbCustomBlock{\"type\": \"quoted\", \"index\": 8, \"data\": {\"num\": [14], \"version\": 2, \"quote_list\": [{\"name\": \"银绒星\", \"scheme\": \"sinaweibo://detail?mblogid=5229168331590064\", \"index\": 14, \"label\": \"\"}]}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5228557850644939&multi_paragraph=0&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.799.799.50/002diGk7ly8h8vg36oqidj60m70m7mxs02.jpg?KID=imgbed,tva&Expires=1762228149&ssig=YG%2FxKXAHOT) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">新浪新闻</span><img src=\"http://wx1.sinaimg.cn/middle/007YAdaely1i6xwa3k9itj30u01hcacm.jpg\" data-width=1920 data-height=1080></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5228931886088475&multi_paragraph=0&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.512.512.50/001Ngxkily8h8vm7jc1igj60e80e8q3a02.jpg?KID=imgbed,tva&Expires=1762228149&ssig=ur3WDHkz%2Bp) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">新京报</span><img src=\"http://wx4.sinaimg.cn/middle/001Ngxkily1i6z3mm65lhj61hc0u0b0502.jpg\" data-width=1080 data-height=1920></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5228636508783119&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=0&multi_count=2\"><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.111.343.857.857.50/001SsZ0Mly8h8vhiw5c7tj60u016w0us02.jpg?KID=imgbed,tva&Expires=1762228149&ssig=Ol1iCBr9JJ) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">极目新闻</span><img src=\"http://wx1.sinaimg.cn/middle/001SsZ0Mgy1i6y5pwsfpfj60c50gfmzq02.jpg\" data-width=591 data-height=437></div></media-block><br>### ⚠️ 医学死因与高风险机制  <br>1. **直接致死原因**  <br>   - **急性酒精中毒**：短时摄入超量酒精抑制脑干反射（如咳嗽反射），导致昏迷。```wbCustomBlock{\"type\": \"quoted\", \"index\": 12, \"data\": {\"num\": [21], \"version\": 2, \"quote_list\": [{\"name\": \"凌点十九分\", \"scheme\": \"sinaweibo://detail?mblogid=5229175950806328\", \"index\": 21, \"label\": \"\"}]}}```  <br>   - **窒息性脑死亡**：昏迷后呕吐物反流堵塞气管，引发急性缺氧，脑部功能永久性衰竭。```wbCustomBlock{\"type\": \"quoted\", \"index\": 13, \"data\": {\"num\": [14], \"version\": 2, \"quote_list\": [{\"name\": \"银绒星\", \"scheme\": \"sinaweibo://detail?mblogid=5229168331590064\", \"index\": 14, \"label\": \"\"}]}}```  <br><br>2. **致命剂量解析**  <br>   - 医学研究表明，**10分钟内饮用≥5标准杯酒精（1杯=14g纯酒精）即达致死阈值**。本次挑战的6轮混合烈酒远超安全极限，且混饮加速酒精吸收。```wbCustomBlock{\"type\": \"quoted\", \"index\": 15, \"data\": {\"num\": [21], \"version\": 2, \"quote_list\": [{\"name\": \"凌点十九分\", \"scheme\": \"sinaweibo://detail?mblogid=5229175950806328\", \"index\": 21, \"label\": \"\"}]}}```<br>### ⚖️ 争议焦点与责任追究  <br>1. **夜店责任指控**  <br>   - **危险诱导**：家属指控夜店以奖金诱导高危行为，且事发后未停止活动，反将奖金提高至200万比索（约3600元人民币）。```wbCustomBlock{\"type\": \"quoted\", \"index\": 19, \"data\": {\"num\": [28], \"version\": 2, \"quote_list\": [{\"name\": \"极目新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5228636508783119\", \"index\": 28, \"label\": \"\"}]}}```  <br>   - **管理失职**：现场无专业急救人员，未筛查参与者健康状况（如产后状态），违反安全经营义务。```wbCustomBlock{\"type\": \"reliability\", \"data\": {\"tag_name\": \"存疑\", \"tag_normal_color\": \"#EF8B00\", \"tag_dark_color\": \"#D77D00\", \"tips\": \"引用来源未支持产后状态作为健康风险因素，医学研究证实无直接关联。\"}}``````wbCustomBlock{\"type\": \"quoted\", \"index\": 20, \"data\": {\"num\": [28], \"version\": 2, \"quote_list\": [{\"name\": \"极目新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5228636508783119\", \"index\": 28, \"label\": \"\"}]}}```  <br><br>2. **法律调查进展**  <br>   - 哥伦比亚总检察长办公室已立案，重点核查夜店是否**违规组织危险挑战、提供超量酒精饮品及急救措施缺失**，结果将决定民事赔偿与刑事责任。```wbCustomBlock{\"type\": \"quoted\", \"index\": 22, \"data\": {\"num\": [1, 2, 28], \"version\": 2, \"quote_list\": [{\"name\": \"新京报\", \"scheme\": \"sinaweibo://detail?mblogid=5228931886088475\", \"index\": 1, \"label\": \"\"}, {\"name\": \"新浪新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5228557850644939\", \"index\": 2, \"label\": \"\"}, {\"name\": \"极目新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5228636508783119\", \"index\": 28, \"label\": \"\"}]}}```<br>### 💡 社会警示与安全建议  <br>1. **个人风险规避**  <br>   - **拒绝限时饮酒挑战**：尤其警惕混合烈酒，10分钟内摄入≥5杯酒精即威胁生命。```wbCustomBlock{\"type\": \"quoted\", \"index\": 26, \"data\": {\"num\": [5, 21], \"version\": 2, \"quote_list\": [{\"name\": \"云南网\", \"scheme\": \"sinaweibo://detail?mblogid=5229170038933521\", \"index\": 5, \"label\": \"大v\"}, {\"name\": \"凌点十九分\", \"scheme\": \"sinaweibo://detail?mblogid=5229175950806328\", \"index\": 21, \"label\": \"\"}], \"name\": \"云南网\", \"img\": \"https://tvax2.sinaimg.cn/crop.134.88.336.336.50/74cac0c8ly8h8vgzlnaw3j20gu0eawet.jpg?KID=imgbed,tva&Expires=1762228149&ssig=A7ZAdIritj\", \"scheme\": \"sinaweibo://detail?mblogid=5229170038933521\", \"vType\": 3}}```  <br>   - **急救措施**：若同伴醉酒呕吐，立即将其**侧卧清理口腔异物**，防止窒息，并呼叫急救。```wbCustomBlock{\"type\": \"quoted\", \"index\": 27, \"data\": {\"num\": [5, 11, 14], \"version\": 2, \"quote_list\": [{\"name\": \"云南网\", \"scheme\": \"sinaweibo://detail?mblogid=5229170038933521\", \"index\": 5, \"label\": \"\"}, {\"name\": \"浔湫钰\", \"scheme\": \"sinaweibo://detail?mblogid=5229171530793501\", \"index\": 11, \"label\": \"\"}, {\"name\": \"银绒星\", \"scheme\": \"sinaweibo://detail?mblogid=5229168331590064\", \"index\": 14, \"label\": \"\"}]}}```  <br><br>2. **监管与立法缺失**  <br>   - 全球多国仍无法律禁止商业饮酒挑战，需推动立法强化娱乐场所监管，强制配备急救设备及培训。```wbCustomBlock{\"type\": \"quoted\", \"index\": 29, \"data\": {\"num\": [24], \"version\": 2, \"quote_list\": [{\"name\": \"时光里的絮语\", \"scheme\": \"sinaweibo://detail?mblogid=5229174614918008\", \"index\": 24, \"label\": \"\"}]}}```  <br>   - 商家利用经济困境营销高危活动暴露法律漏洞，需加强酒精销售限制与责任追责。```wbCustomBlock{\"type\": \"quoted\", \"index\": 30, \"data\": {\"num\": [17, 24], \"version\": 2, \"quote_list\": [{\"name\": \"点昼\", \"scheme\": \"sinaweibo://detail?mblogid=5229180524430329\", \"index\": 17, \"label\": \"\"}, {\"name\": \"时光里的絮语\", \"scheme\": \"sinaweibo://detail?mblogid=5229174614918008\", \"index\": 24, \"label\": \"\"}]}}```  <br><br>3. **生命价值反思**  <br>   - **“身体没有重赛键”**：本次事件与同类案例（如中国网红直播饮酒致死、醉驾致死案）共同警示——**任何突破生理极限的挑战本质是赌命**。```wbCustomBlock{\"type\": \"quoted\", \"index\": 32, \"data\": {\"num\": [10, 21, 24], \"version\": 2, \"quote_list\": [{\"name\": \"我的读书小马甲\", \"scheme\": \"sinaweibo://detail?mblogid=5229171351748934\", \"index\": 10, \"label\": \"大v\"}, {\"name\": \"凌点十九分\", \"scheme\": \"sinaweibo://detail?mblogid=5229175950806328\", \"index\": 21, \"label\": \"\"}, {\"name\": \"时光里的絮语\", \"scheme\": \"sinaweibo://detail?mblogid=5229174614918008\", \"index\": 24, \"label\": \"\"}], \"name\": \"我的读书小马甲\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.600.600.50/0065taXAly8i3ijdoe418j30go0gomyv.jpg?KID=imgbed,tva&Expires=1762228149&ssig=%2B0KBPYiIj1\", \"scheme\": \"sinaweibo://detail?mblogid=5229171351748934\", \"vType\": 0}}```  <br>   - 2700元奖金与23岁生命的代价，凸显经济压力下安全意识的失衡，娱乐消费需坚守生命底线。```wbCustomBlock{\"type\": \"quoted\", \"index\": 33, \"data\": {\"num\": [15, 24], \"version\": 2, \"quote_list\": [{\"name\": \"今天不想动脑筋_-_\", \"scheme\": \"sinaweibo://detail?mblogid=5229169000583246\", \"index\": 15, \"label\": \"大v\"}, {\"name\": \"时光里的絮语\", \"scheme\": \"sinaweibo://detail?mblogid=5229174614918008\", \"index\": 24, \"label\": \"\"}], \"name\": \"今天不想动脑筋_-_\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.512.512.50/006Ah6D8ly8i60zckwzfkj30e80e8t92.jpg?KID=imgbed,tva&Expires=1762228149&ssig=l4h0f79xPm\", \"scheme\": \"sinaweibo://detail?mblogid=5229169000583246\", \"vType\": 0}}```  <br><br>> 阿尔迪拉的父亲沉痛呼吁：“这件事毁了我们的生活……我不想这种事再次发生。”```wbCustomBlock{\"type\": \"quoted\", \"index\": 34, \"data\": {\"num\": [28], \"version\": 2, \"quote_list\": [{\"name\": \"极目新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5228636508783119\", \"index\": 28, \"label\": \"\"}]}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5229170038933521&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=3&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.134.88.336.336.50/74cac0c8ly8h8vgzlnaw3j20gu0eawet.jpg?KID=imgbed,tva&Expires=1762228149&ssig=A7ZAdIritj) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">云南网</span><img src=\"http://wx2.sinaimg.cn/middle/74cac0c8gy1i6zuytfvrmj20dw0dw0w8.jpg\" data-width=500 data-height=500></div></media-block><br>",
+      "mid_list": null,
+      "reference_num": 26,
+      "query_category": "",
+      "status_stage": 4,
+      "link_list": [
+        "sinaweibo://detail?mblogid=5228931886088475",
+        "sinaweibo://detail?mblogid=5228557850644939",
+        "sinaweibo://detail?mblogid=5228669264200811",
+        "sinaweibo://detail?mblogid=5229154921874143",
+        "sinaweibo://detail?mblogid=5229170038933521",
+        "broadsocial_res://",
+        "broadsocial_res://",
+        "historyweibo://5228555349791563",
+        "historyweibo://5228931886088475",
+        "sinaweibo://detail?mblogid=5229171351748934",
+        "sinaweibo://detail?mblogid=5229171530793501",
+        "sinaweibo://detail?mblogid=5229004946934180",
+        "sinaweibo://detail?mblogid=5229174451079172",
+        "sinaweibo://detail?mblogid=5229168331590064",
+        "sinaweibo://detail?mblogid=5229169000583246",
+        "sinaweibo://detail?mblogid=5229180725234385",
+        "sinaweibo://detail?mblogid=5229180524430329",
+        "sinaweibo://detail?mblogid=5229178114803260",
+        "sinaweibo://detail?mblogid=5229176224482645",
+        "sinaweibo://detail?mblogid=5229176007426680",
+        "sinaweibo://detail?mblogid=5229175950806328",
+        "sinaweibo://detail?mblogid=5229175616045828",
+        "sinaweibo://detail?mblogid=5229174886237992",
+        "sinaweibo://detail?mblogid=5229174614918008",
+        "sinaweibo://detail?mblogid=5228618689024924",
+        "sinaweibo://detail?mblogid=5228558747699031",
+        "sinaweibo://detail?mblogid=5228551747666253",
+        "sinaweibo://detail?mblogid=5228636508783119",
+        "sinaweibo://detail?mblogid=5229148995847198",
+        "sinaweibo://detail?mblogid=5228609373213643"
+      ],
+      "current_time": 1762217688
+    }
+  },
+  "links": [
+    "sinaweibo://detail?mblogid=5228931886088475",
+    "sinaweibo://detail?mblogid=5228557850644939",
+    "sinaweibo://detail?mblogid=5228669264200811",
+    "sinaweibo://detail?mblogid=5229154921874143",
+    "sinaweibo://detail?mblogid=5229170038933521",
+    "broadsocial_res://",
+    "broadsocial_res://",
+    "historyweibo://5228555349791563",
+    "historyweibo://5228931886088475",
+    "sinaweibo://detail?mblogid=5229171351748934",
+    "sinaweibo://detail?mblogid=5229171530793501",
+    "sinaweibo://detail?mblogid=5229004946934180",
+    "sinaweibo://detail?mblogid=5229174451079172",
+    "sinaweibo://detail?mblogid=5229168331590064",
+    "sinaweibo://detail?mblogid=5229169000583246",
+    "sinaweibo://detail?mblogid=5229180725234385",
+    "sinaweibo://detail?mblogid=5229180524430329",
+    "sinaweibo://detail?mblogid=5229178114803260",
+    "sinaweibo://detail?mblogid=5229176224482645",
+    "sinaweibo://detail?mblogid=5229176007426680",
+    "sinaweibo://detail?mblogid=5229175950806328",
+    "sinaweibo://detail?mblogid=5229175616045828",
+    "sinaweibo://detail?mblogid=5229174886237992",
+    "sinaweibo://detail?mblogid=5229174614918008",
+    "sinaweibo://detail?mblogid=5228618689024924",
+    "sinaweibo://detail?mblogid=5228558747699031",
+    "sinaweibo://detail?mblogid=5228551747666253",
+    "sinaweibo://detail?mblogid=5228636508783119",
+    "sinaweibo://detail?mblogid=5229148995847198",
+    "sinaweibo://detail?mblogid=5228609373213643"
+  ],
+  "media": [
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/007YAdaely1i6xwa3k9itj30u01hcacm.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/007YAdaely1i6xwa3k9itj30u01hcacm.jpg",
+      "alt": "新浪新闻",
+      "width": 1920,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/007YAdaely1i6xwa3k9itj30u01hcacm.jpg"
+      ],
+      "user": "新浪新闻"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/001Ngxkily1i6z3mm65lhj61hc0u0b0502.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/001Ngxkily1i6z3mm65lhj61hc0u0b0502.jpg",
+      "alt": "新京报",
+      "width": 1080,
+      "height": 1920,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/001Ngxkily1i6z3mm65lhj61hc0u0b0502.jpg"
+      ],
+      "user": "新京报"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/001SsZ0Mgy1i6y5pwsfpfj60c50gfmzq02.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/001SsZ0Mgy1i6y5pwsfpfj60c50gfmzq02.jpg",
+      "alt": "极目新闻",
+      "width": 591,
+      "height": 437,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/001SsZ0Mgy1i6y5pwsfpfj60c50gfmzq02.jpg"
+      ],
+      "user": "极目新闻"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/74cac0c8gy1i6zuytfvrmj20dw0dw0w8.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/74cac0c8gy1i6zuytfvrmj20dw0dw0w8.jpg",
+      "alt": "云南网",
+      "width": 500,
+      "height": 500,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/74cac0c8gy1i6zuytfvrmj20dw0dw0w8.jpg"
+      ],
+      "user": "云南网"
+    }
+  ],
+  "html_path": "data/aicard/hourly/2025-11-04/08/23.html"
+}

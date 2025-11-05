@@ -1,0 +1,143 @@
+{
+  "meta": {
+    "query": "#国安机关提醒密码设置不是小事#",
+    "status_code": 200,
+    "fetched_at": "2025-10-29T09:49:40+08:00",
+    "response": {
+      "model": "deepseek",
+      "zs_risk_control": {
+        "think_text_close": 0,
+        "land_button_close": 0
+      },
+      "cot": 1,
+      "analysis_time": 1761702260,
+      "msg_format": "markdown",
+      "current_time": 1761702581,
+      "qs_status": 0,
+      "q_attr": {
+        "from_uid": "",
+        "from_request_id": ""
+      },
+      "query": "#国安机关提醒密码设置不是小事#",
+      "chat_status_stage": 1,
+      "reference_num": 13,
+      "query_category": "Ip",
+      "profile_image_url": "",
+      "link_list": [
+        "sinaweibo://detail?mblogid=5226992917809181",
+        "sinaweibo://detail?mblogid=5202049865882353",
+        "sinaweibo://detail?mblogid=5096722444850059",
+        "sinaweibo://detail?mblogid=5196912399483392",
+        "sinaweibo://detail?mblogid=5227019626873076",
+        "sinaweibo://detail?mblogid=5227019396189688",
+        "sinaweibo://detail?mblogid=5227009580204927",
+        "sinaweibo://detail?mblogid=5227008309332636",
+        "sinaweibo://detail?mblogid=5202372294869356",
+        "sinaweibo://detail?mblogid=5227019190404264",
+        "sinaweibo://detail?mblogid=5131007063491907",
+        "sinaweibo://detail?mblogid=5185741438322998",
+        "sinaweibo://detail?mblogid=5194918060102473"
+      ],
+      "reliable_tips": "{\"gold_orange_v_mids\": [\"5202372294869356\", \"5185741438322998\", \"5227008309332636\", \"5131007063491907\"], \"gold_orange_v_ratio\": \"31%\", \"media_mids\": [\"5226992917809181\", \"5202049865882353\"], \"media_ratio\": \"15%\", \"verified_mids\": [\"5096722444850059\", \"5227019626873076\", \"5227019396189688\", \"5227009580204927\", \"5196912399483392\", \"5227019190404264\", \"5194918060102473\"], \"verified_ratio\": \"54%\", \"normal_mids\": [], \"normal_ratio\": \"0%\", \"ref_mid_rank\": {\"5226992917809181\": {\"rank\": 1}, \"5202049865882353\": {\"rank\": 2}, \"5096722444850059\": {\"rank\": 3}, \"5227019626873076\": {\"rank\": 5}, \"5227019396189688\": {\"rank\": 6}, \"5227009580204927\": {\"rank\": 7}, \"5202372294869356\": {\"rank\": 9}, \"5185741438322998\": {\"rank\": 12}, \"5196912399483392\": {\"rank\": 4}, \"5227008309332636\": {\"rank\": 8}, \"5227019190404264\": {\"rank\": 10}, \"5131007063491907\": {\"rank\": 11}, \"5194918060102473\": {\"rank\": 13}}}",
+      "ext_show": {},
+      "card_multimodal": {},
+      "share_card_multimodal": {
+        "user_name": "大皖新闻",
+        "h": 474,
+        "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.1023.1023.50/001Uy0Wgly8hbemb0m53cj60sg0sfmy202.jpg?KID=imgbed,tva&Expires=1761712922&ssig=92sYY9J4I7",
+        "video_url": "https://video.weibo.com/show?fid=1034:5181156153294871",
+        "w": 842,
+        "vtype": 3,
+        "hit_score_new": 80.810547,
+        "doc_score": 2774,
+        "img_pid": "75dda851ly1i2qooxcgasj20ne0d67dw",
+        "scheme": "sinaweibo://video/vvs?mid=5202049865882353&multi_paragraph=0&multi_count=0",
+        "img": "http://wx2.sinaimg.cn/middle/75dda851ly1i2qooxcgasj20ne0d67dw.jpg",
+        "click_rate": 0,
+        "type": "v",
+        "cur_mid": "5202049865882353",
+        "hit_score_final": 68.486328
+      },
+      "uid": "",
+      "wenda": {
+        "forward_gen": 0
+      },
+      "share_text": "#国安机关提醒密码设置不是小事#的相关内容，来智搜看看",
+      "short_url": "http://t.cn/AXAzYitQ",
+      "show_ctrl": {
+        "quote": {}
+      },
+      "status": 2,
+      "loop_times": 200,
+      "share_info": {
+        "url": "http://t.cn/AXAzHVmO",
+        "tips": "#国安机关提醒密码设置不是小事#的相关内容，来智搜看看",
+        "unify_md5": "dbbe832c81abfba7630553d15522fd17",
+        "display_name": "#国安机关提醒密码设置不是小事#",
+        "page_id": "23296460bf21885362afb71396a0b55d793bb5",
+        "status": 3
+      },
+      "unify_md5": "dbbe832c81abfba7630553d15522fd17",
+      "scheme": "sinaweibo://cardlist?containerid=100103type%3D225%26q%3D%23%E5%9B%BD%E5%AE%89%E6%9C%BA%E5%85%B3%E6%8F%90%E9%86%92%E5%AF%86%E7%A0%81%E8%AE%BE%E7%BD%AE%E4%B8%8D%E6%98%AF%E5%B0%8F%E4%BA%8B%23%26t%3D&extparam=ai_model%3Ddeepseek%26ori_ai_title%3D%E5%8F%82%E8%80%83%E5%8D%9A%E6%96%87%26material_version%3D1761702122",
+      "query_field": "60",
+      "top_quote_list": {},
+      "status_stage": 4,
+      "abtest_info": {
+        "chat_entrance": 1
+      },
+      "user_info": {},
+      "page_id": "23296460bf21885362afb71396a0b55d793bb5",
+      "mid_list": null,
+      "news_analyze": {},
+      "msg": "<think><br><br>嗯，用户查询的是“国安机关提醒密码设置不是小事”的相关信息。从搜索结果来看，这其实是国家安全部近期发起的网络安全宣传活动，核心是强调弱密码对国家安全的威胁。<br><br>我注意到几个关键点：人民日报等官媒都在10月29日集中发布，说明这是统一部署的宣传活动。内容高度一致，主要聚焦三类风险场景：企业不修改设备初始密码导致入侵、医院不加密患者数据、使用盗版破解软件。这些案例的共同点在于，看似图省事的小习惯，实际可能引发重大泄密事件。<br><br>用户可能更关心具体防护措施。搜索结果里提到12位以上混合密码、定期更换、不同平台避免相同密码等建议特别实用。尤其那个7秒破解密码的演示视频很有冲击力，说明简单字母数字组合也不可靠。<br><br>比较意外的是几个延伸案例：沿海商铺摄像头被境外操控监控港口、校园广播系统因密码简单遭入侵。原来家用设备也会涉及国家安全，这个角度普通用户可能容易忽略。看来国安机关提醒的“密码无小事”确实字面意思。<br><br>最后想到是否要提举报渠道？12339电话和官网在多个结果出现，属于标准配置，应该保留。但普通用户更需要的可能是具体操作指南，比如如何设置强密码、启用双重验证等，这些在里都有详细说明，重点突出就好。<br><br></think><br>以下是根据国家安全机关提醒整理的密码安全核心要点与风险防范指南，综合时效性强的官方信息：```wbCustomBlock{\"type\": \"quoted\", \"index\": 1, \"data\": {\"num\": [1, 2, 3, 5, 6, 7], \"version\": 2, \"quote_list\": [{\"name\": \"人民日报\", \"scheme\": \"sinaweibo://detail?mblogid=5226992917809181\", \"index\": 1, \"label\": \"大v\"}, {\"name\": \"大皖新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5202049865882353\", \"index\": 2, \"label\": \"\"}, {\"name\": \"法治成都\", \"scheme\": \"sinaweibo://detail?mblogid=5096722444850059\", \"index\": 3, \"label\": \"\"}, {\"name\": \"青春株洲\", \"scheme\": \"sinaweibo://detail?mblogid=5227019626873076\", \"index\": 5, \"label\": \"\"}, {\"name\": \"赛罕区法院\", \"scheme\": \"sinaweibo://detail?mblogid=5227019396189688\", \"index\": 6, \"label\": \"\"}, {\"name\": \"吉林共青团\", \"scheme\": \"sinaweibo://detail?mblogid=5227009580204927\", \"index\": 7, \"label\": \"\"}], \"name\": \"人民日报\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.1018.1018.50/0033ImPzly8h8vgemh8kxj60sa0sadgw02.jpg?KID=imgbed,tva&Expires=1761712922&ssig=%2Fbpj9SqNJV\", \"scheme\": \"sinaweibo://detail?mblogid=5226992917809181\", \"vType\": 3}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5202049865882353&multi_paragraph=0&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.1023.1023.50/001Uy0Wgly8hbemb0m53cj60sg0sfmy202.jpg?KID=imgbed,tva&Expires=1761712922&ssig=92sYY9J4I7) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">大皖新闻</span><img src=\"http://wx2.sinaimg.cn/middle/75dda851ly1i2qooxcgasj20ne0d67dw.jpg\" data-width=474 data-height=842></div></media-block><br>### 🔐 **一、弱密码的致命风险**  <br>1. **初始密码不修改**  <br>   - 企业未更改网络设备默认密码（如admin/123456），遭暴力破解致核心数据外泄、业务中断；监控摄像头使用出厂密码，被境外黑客操控转向军事港口偷拍。```wbCustomBlock{\"type\": \"quoted\", \"index\": 5, \"data\": {\"num\": [1, 2, 6, 9], \"version\": 2, \"quote_list\": [{\"name\": \"大皖新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5202049865882353\", \"index\": 2, \"label\": \"大v\"}, {\"name\": \"人民日报\", \"scheme\": \"sinaweibo://detail?mblogid=5226992917809181\", \"index\": 1, \"label\": \"\"}, {\"name\": \"赛罕区法院\", \"scheme\": \"sinaweibo://detail?mblogid=5227019396189688\", \"index\": 6, \"label\": \"\"}, {\"name\": \"品茶说酒\", \"scheme\": \"sinaweibo://detail?mblogid=5202372294869356\", \"index\": 9, \"label\": \"\"}], \"name\": \"大皖新闻\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.1023.1023.50/001Uy0Wgly8hbemb0m53cj60sg0sfmy202.jpg?KID=imgbed,tva&Expires=1761712922&ssig=92sYY9J4I7\", \"scheme\": \"sinaweibo://detail?mblogid=5202049865882353\", \"vType\": 3}}```  <br>2. **个人信息直接设密码**  <br>   - 生日、电话号码等组合的“弱口令”，7秒即可被破解（实测：数字+字母组合7秒破译）。```wbCustomBlock{\"type\": \"quoted\", \"index\": 7, \"data\": {\"num\": [2, 3], \"version\": 2, \"quote_list\": [{\"name\": \"法治成都\", \"scheme\": \"sinaweibo://detail?mblogid=5096722444850059\", \"index\": 3, \"label\": \"大v\"}, {\"name\": \"大皖新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5202049865882353\", \"index\": 2, \"label\": \"\"}], \"name\": \"法治成都\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/9d1158f2ly8hjeugv0igtj20u00u0whf.jpg?KID=imgbed,tva&Expires=1761712923&ssig=uXmbwac6WB\", \"scheme\": \"sinaweibo://detail?mblogid=5096722444850059\", \"vType\": 1}}```  <br>3. **“一码走天下”的连锁风险**  <br>   - 同一密码用于多平台，一旦泄露，涉密单位系统可能被连带攻破。```wbCustomBlock{\"type\": \"quoted\", \"index\": 9, \"data\": {\"num\": [3, 7], \"version\": 2, \"quote_list\": [{\"name\": \"吉林共青团\", \"scheme\": \"sinaweibo://detail?mblogid=5227009580204927\", \"index\": 7, \"label\": \"大v\"}, {\"name\": \"法治成都\", \"scheme\": \"sinaweibo://detail?mblogid=5096722444850059\", \"index\": 3, \"label\": \"\"}], \"name\": \"吉林共青团\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.1000.1000.50/0030YOrYly8hn5d31dp43j60rs0rs79502.jpg?KID=imgbed,tva&Expires=1761712922&ssig=2q3ftr026t\", \"scheme\": \"sinaweibo://detail?mblogid=5227009580204927\", \"vType\": 1}}```<br>### 🛡️ **二、国安机关密码生存法则**<br>#### **（1）动态强密码设置**  <br>- **长度与复杂度**：重要账户（支付/邮箱/社交）需 **≥12位**，混合 **大小写字母+数字+符号**（如 `Jx3$!9uJ#kL8`）。```wbCustomBlock{\"type\": \"quoted\", \"index\": 13, \"data\": {\"num\": [1, 3, 7], \"version\": 2, \"quote_list\": [{\"name\": \"人民日报\", \"scheme\": \"sinaweibo://detail?mblogid=5226992917809181\", \"index\": 1, \"label\": \"\"}, {\"name\": \"法治成都\", \"scheme\": \"sinaweibo://detail?mblogid=5096722444850059\", \"index\": 3, \"label\": \"\"}, {\"name\": \"吉林共青团\", \"scheme\": \"sinaweibo://detail?mblogid=5227009580204927\", \"index\": 7, \"label\": \"\"}]}}```  <br>- **拒绝重复**：不同平台使用独立密码，禁用“通用密码”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 14, \"data\": {\"num\": [1, 7], \"version\": 2, \"quote_list\": [{\"name\": \"人民日报\", \"scheme\": \"sinaweibo://detail?mblogid=5226992917809181\", \"index\": 1, \"label\": \"\"}, {\"name\": \"吉林共青团\", \"scheme\": \"sinaweibo://detail?mblogid=5227009580204927\", \"index\": 7, \"label\": \"\"}]}}```<br>#### **（2）密码更新与操作规范**  <br>- **定期更换**：至少每3个月更新一次，避免多套密码轮换使用。```wbCustomBlock{\"type\": \"quoted\", \"index\": 16, \"data\": {\"num\": [2, 3], \"version\": 2, \"quote_list\": [{\"name\": \"大皖新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5202049865882353\", \"index\": 2, \"label\": \"\"}, {\"name\": \"法治成都\", \"scheme\": \"sinaweibo://detail?mblogid=5096722444850059\", \"index\": 3, \"label\": \"\"}]}}```  <br>- **警惕诈骗**：不轻信“客服改密码”“系统验证”等来电，**绝不透露短信验证码**。```wbCustomBlock{\"type\": \"quoted\", \"index\": 17, \"data\": {\"num\": [1, 6], \"version\": 2, \"quote_list\": [{\"name\": \"赛罕区法院\", \"scheme\": \"sinaweibo://detail?mblogid=5227019396189688\", \"index\": 6, \"label\": \"大v\"}, {\"name\": \"人民日报\", \"scheme\": \"sinaweibo://detail?mblogid=5226992917809181\", \"index\": 1, \"label\": \"\"}], \"name\": \"赛罕区法院\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.600.600.50/005wcgG9ly8gxc1a9wny4j30go0goaby.jpg?KID=imgbed,tva&Expires=1761712922&ssig=eUCvMGOS0Z\", \"scheme\": \"sinaweibo://detail?mblogid=5227019396189688\", \"vType\": 1}}```<br>#### **（3）关键设备防护升级**  <br>- **加密协议**：路由器、办公电脑启用 **WPA3** 等符合《密码法》的高强度加密，关闭“开放网络”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 19, \"data\": {\"num\": [1, 6], \"version\": 2, \"quote_list\": [{\"name\": \"人民日报\", \"scheme\": \"sinaweibo://detail?mblogid=5226992917809181\", \"index\": 1, \"label\": \"\"}, {\"name\": \"赛罕区法院\", \"scheme\": \"sinaweibo://detail?mblogid=5227019396189688\", \"index\": 6, \"label\": \"\"}]}}```  <br>- **安全审计**：定期检查设备登录日志，发现异常立即处理。```wbCustomBlock{\"type\": \"quoted\", \"index\": 20, \"data\": {\"num\": [3, 7], \"version\": 2, \"quote_list\": [{\"name\": \"法治成都\", \"scheme\": \"sinaweibo://detail?mblogid=5096722444850059\", \"index\": 3, \"label\": \"\"}, {\"name\": \"吉林共青团\", \"scheme\": \"sinaweibo://detail?mblogid=5227009580204927\", \"index\": 7, \"label\": \"\"}]}}```<br>### ⚠️ **三、真实案例警示**  <br>- **医疗数据泄露**  <br>  某医院未加密患者数据库，数万条诊疗记录被窃取，责任方被追责。```wbCustomBlock{\"type\": \"quoted\", \"index\": 23, \"data\": {\"num\": [1, 6], \"version\": 2, \"quote_list\": [{\"name\": \"人民日报\", \"scheme\": \"sinaweibo://detail?mblogid=5226992917809181\", \"index\": 1, \"label\": \"\"}, {\"name\": \"赛罕区法院\", \"scheme\": \"sinaweibo://detail?mblogid=5227019396189688\", \"index\": 6, \"label\": \"\"}]}}```  <br>- **校园系统遭渗透**  <br>  学校广播系统因密码简单（纯数字组合），遭境外反华组织入侵企图传播有害信息。```wbCustomBlock{\"type\": \"quoted\", \"index\": 24, \"data\": {\"num\": [12], \"version\": 2, \"quote_list\": [{\"name\": \"小凡好摄\", \"scheme\": \"sinaweibo://detail?mblogid=5185741438322998\", \"index\": 12, \"label\": \"大v\"}], \"name\": \"小凡好摄\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/62eff6aely8h0vmre31cnj20u00u0tba.jpg?KID=imgbed,tva&Expires=1761712922&ssig=L7f4GXn%2Fmh\", \"scheme\": \"sinaweibo://detail?mblogid=5185741438322998\", \"vType\": 0}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5185741438322998&multi_paragraph=6&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/62eff6aely8h0vmre31cnj20u00u0tba.jpg?KID=imgbed,tva&Expires=1761712922&ssig=L7f4GXn%2Fmh) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">小凡好摄</span><img src=\"http://wx1.sinaimg.cn/middle/62eff6aegy1i35b8ga92mj20u01hcdhz.jpg\" data-width=1920 data-height=1080></div></media-block><br>### 📢 **四、全民行动提示**  <br>- **举报渠道**：发现危害国家安全的密码技术滥用行为，立即通过以下途径举报：  <br>  🔹电话：**12339**  <br>  🔹网站：**www.12339.gov.cn**  <br>  🔹国家安全部微信公众号。```wbCustomBlock{\"type\": \"quoted\", \"index\": 27, \"data\": {\"num\": [1, 6, 7], \"version\": 2, \"quote_list\": [{\"name\": \"人民日报\", \"scheme\": \"sinaweibo://detail?mblogid=5226992917809181\", \"index\": 1, \"label\": \"\"}, {\"name\": \"赛罕区法院\", \"scheme\": \"sinaweibo://detail?mblogid=5227019396189688\", \"index\": 6, \"label\": \"\"}, {\"name\": \"吉林共青团\", \"scheme\": \"sinaweibo://detail?mblogid=5227009580204927\", \"index\": 7, \"label\": \"\"}]}}```  <br>- **认知升级**：摒弃“密码是个人小事”观念，每个公民都是密码安全“第一责任人”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 28, \"data\": {\"num\": [1, 7], \"version\": 2, \"quote_list\": [{\"name\": \"人民日报\", \"scheme\": \"sinaweibo://detail?mblogid=5226992917809181\", \"index\": 1, \"label\": \"\"}, {\"name\": \"吉林共青团\", \"scheme\": \"sinaweibo://detail?mblogid=5227009580204927\", \"index\": 7, \"label\": \"\"}]}}```  <br><br>> 💡 **今日自检**：拿起手机时多花10秒——你的密码真的安全吗？```wbCustomBlock{\"type\": \"quoted\", \"index\": 29, \"data\": {\"num\": [1, 7], \"version\": 2, \"quote_list\": [{\"name\": \"人民日报\", \"scheme\": \"sinaweibo://detail?mblogid=5226992917809181\", \"index\": 1, \"label\": \"\"}, {\"name\": \"吉林共青团\", \"scheme\": \"sinaweibo://detail?mblogid=5227009580204927\", \"index\": 7, \"label\": \"\"}]}}```<br>",
+      "sorted_material_list": null,
+      "ab_suffix": "default",
+      "basemodel": "实验组4",
+      "version": "2025-10-29 09:42:02.019999-8645",
+      "qs_status_info": "{\"qs_c_status\":8388608,\"qs_r_status\":0,\"qs_status\":0,\"qs_q_status\":0,\"qs_u_status\":0,\"ab_lab\":{}}",
+      "msg_json": "{}"
+    }
+  },
+  "links": [
+    "sinaweibo://detail?mblogid=5226992917809181",
+    "sinaweibo://detail?mblogid=5202049865882353",
+    "sinaweibo://detail?mblogid=5096722444850059",
+    "sinaweibo://detail?mblogid=5196912399483392",
+    "sinaweibo://detail?mblogid=5227019626873076",
+    "sinaweibo://detail?mblogid=5227019396189688",
+    "sinaweibo://detail?mblogid=5227009580204927",
+    "sinaweibo://detail?mblogid=5227008309332636",
+    "sinaweibo://detail?mblogid=5202372294869356",
+    "sinaweibo://detail?mblogid=5227019190404264",
+    "sinaweibo://detail?mblogid=5131007063491907",
+    "sinaweibo://detail?mblogid=5185741438322998",
+    "sinaweibo://detail?mblogid=5194918060102473"
+  ],
+  "media": [
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/75dda851ly1i2qooxcgasj20ne0d67dw.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/75dda851ly1i2qooxcgasj20ne0d67dw.jpg",
+      "alt": "大皖新闻",
+      "width": 474,
+      "height": 842,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/75dda851ly1i2qooxcgasj20ne0d67dw.jpg"
+      ],
+      "user": "大皖新闻"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/62eff6aegy1i35b8ga92mj20u01hcdhz.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/62eff6aegy1i35b8ga92mj20u01hcdhz.jpg",
+      "alt": "小凡好摄",
+      "width": 1920,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/62eff6aegy1i35b8ga92mj20u01hcdhz.jpg"
+      ],
+      "user": "小凡好摄"
+    }
+  ],
+  "html_path": "data/aicard/hourly/2025-10-29/09/topic-dbbe832c.html"
+}

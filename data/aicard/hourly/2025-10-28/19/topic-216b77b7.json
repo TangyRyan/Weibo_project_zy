@@ -1,0 +1,273 @@
+{
+  "meta": {
+    "query": "#谁家专门为了宠粉办个演唱会#",
+    "status_code": 200,
+    "fetched_at": "2025-10-28T19:28:11+08:00",
+    "response": {
+      "status": 2,
+      "model": "deepseek",
+      "query": "#谁家专门为了宠粉办个演唱会#",
+      "query_field": "1",
+      "sorted_material_list": null,
+      "reference_num": 30,
+      "status_stage": 4,
+      "link_list": [
+        "sinaweibo://detail?mblogid=5226662040964151",
+        "sinaweibo://detail?mblogid=5226769661824319",
+        "sinaweibo://detail?mblogid=5192707440118445",
+        "sinaweibo://detail?mblogid=5087013242145142",
+        "sinaweibo://detail?mblogid=5220010340909589",
+        "sinaweibo://detail?mblogid=5223182556728846",
+        "sinaweibo://detail?mblogid=5162640751465451",
+        "sinaweibo://detail?mblogid=5226771508887950",
+        "sinaweibo://detail?mblogid=5163457444578139",
+        "sinaweibo://detail?mblogid=5155825920774351",
+        "sinaweibo://detail?mblogid=5209712728737221",
+        "sinaweibo://detail?mblogid=5226310688834615",
+        "sinaweibo://detail?mblogid=5219409383915579",
+        "sinaweibo://detail?mblogid=5177896957381631",
+        "sinaweibo://detail?mblogid=5182567556846413",
+        "sinaweibo://detail?mblogid=5226770850907127",
+        "sinaweibo://detail?mblogid=5226770722984153",
+        "sinaweibo://detail?mblogid=5216528374960771",
+        "sinaweibo://detail?mblogid=5218418540415136",
+        "sinaweibo://detail?mblogid=5226738834999468",
+        "sinaweibo://detail?mblogid=5226773967274617",
+        "sinaweibo://detail?mblogid=5226688750551734",
+        "sinaweibo://detail?mblogid=5226392740432856",
+        "sinaweibo://detail?mblogid=5226746595248518",
+        "sinaweibo://detail?mblogid=5226754449085646",
+        "sinaweibo://detail?mblogid=5226754331382238",
+        "sinaweibo://detail?mblogid=5226769101883789",
+        "sinaweibo://detail?mblogid=5226771890571937",
+        "sinaweibo://detail?mblogid=5226791582567224",
+        "sinaweibo://detail?mblogid=4983303450924276"
+      ],
+      "current_time": 1761650891,
+      "top_quote_list": {},
+      "reliable_tips": "{\"gold_orange_v_mids\": [\"5226773967274617\", \"5226746595248518\", \"5226738834999468\", \"5226688750551734\", \"5226754449085646\", \"5226770722984153\", \"5087013242145142\", \"5220010340909589\", \"5219409383915579\", \"5223182556728846\", \"5192707440118445\", \"5216528374960771\", \"5155825920774351\", \"5209712728737221\", \"5226754331382238\", \"5226769101883789\", \"5226791582567224\"], \"gold_orange_v_ratio\": \"57%\", \"media_mids\": [], \"media_ratio\": \"0%\", \"verified_mids\": [\"5226662040964151\", \"5226770850907127\", \"5226769661824319\", \"5226771890571937\", \"5162640751465451\", \"5163457444578139\", \"5182567556846413\", \"5226310688834615\", \"5226771508887950\", \"5226392740432856\"], \"verified_ratio\": \"33%\", \"normal_mids\": [\"5218418540415136\", \"5177896957381631\", \"4983303450924276\"], \"normal_ratio\": \"10%\", \"ref_mid_rank\": {\"5226662040964151\": {\"rank\": 1}, \"5226770850907127\": {\"rank\": 16}, \"5226773967274617\": {\"rank\": 21}, \"5226746595248518\": {\"rank\": 24}, \"5226769661824319\": {\"rank\": 2}, \"5226738834999468\": {\"rank\": 20}, \"5226688750551734\": {\"rank\": 22}, \"5226754449085646\": {\"rank\": 25}, \"5226770722984153\": {\"rank\": 17}, \"5226771890571937\": {\"rank\": 28}, \"5087013242145142\": {\"rank\": 4}, \"5220010340909589\": {\"rank\": 5}, \"5219409383915579\": {\"rank\": 13}, \"5162640751465451\": {\"rank\": 7}, \"5218418540415136\": {\"rank\": 19}, \"5223182556728846\": {\"rank\": 6}, \"5192707440118445\": {\"rank\": 3}, \"5216528374960771\": {\"rank\": 18}, \"5163457444578139\": {\"rank\": 9}, \"5155825920774351\": {\"rank\": 10}, \"5177896957381631\": {\"rank\": 14}, \"5182567556846413\": {\"rank\": 15}, \"5209712728737221\": {\"rank\": 11}, \"5226310688834615\": {\"rank\": 12}, \"5226771508887950\": {\"rank\": 8}, \"5226392740432856\": {\"rank\": 23}, \"5226754331382238\": {\"rank\": 26}, \"5226769101883789\": {\"rank\": 27}, \"5226791582567224\": {\"rank\": 29}, \"4983303450924276\": {\"rank\": 30}}}",
+      "q_attr": {
+        "from_request_id": "",
+        "from_uid": ""
+      },
+      "share_card_multimodal": {
+        "scheme": "sinaweibo://multimedia?mix_mid=5226773967274617&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=0",
+        "img_pid": "001qf5nAly1i6r8m4vpu0j62i01o07wh02",
+        "type": "p",
+        "w": 3240,
+        "hit_score_final": 78.697266,
+        "cur_mid": "5226773967274617",
+        "vtype": 0,
+        "user_name": "悠然米拉",
+        "img": "http://wx3.sinaimg.cn/middle/001qf5nAly1i6r8m4vpu0j62i01o07wh02.jpg",
+        "user_avatar": "https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/4db822d2ly8gdi83vy345j20u00u0dj0.jpg?KID=imgbed,tva&Expires=1761660380&ssig=q34SWoF7eA",
+        "h": 2160,
+        "video_url": "",
+        "doc_score": 4028,
+        "click_rate": 0,
+        "hit_score_new": 91.162109
+      },
+      "basemodel": "实验组3",
+      "msg_json": "{}",
+      "analysis_time": 1761649700,
+      "uid": "",
+      "ab_suffix": "default",
+      "show_ctrl": {
+        "quote": {}
+      },
+      "abtest_info": {
+        "chat_entrance": 1
+      },
+      "qs_status_info": "{\"qs_u_status\":0,\"ab_lab\":{},\"qs_status\":0,\"qs_q_status\":0,\"qs_c_status\":8388608,\"qs_r_status\":0}",
+      "share_text": "#谁家专门为了宠粉办个演唱会#的相关内容，来智搜看看",
+      "loop_times": 200,
+      "share_info": {
+        "unify_md5": "216b77b70d2904c1ed8665d33d22a9f2",
+        "url": "http://t.cn/AXAPEdvj",
+        "status": 3,
+        "tips": "#谁家专门为了宠粉办个演唱会#的相关内容，来智搜看看",
+        "page_id": "2329646ac15359ce07e20fe76109d42524b436",
+        "display_name": "#谁家专门为了宠粉办个演唱会#"
+      },
+      "ext_show": {},
+      "msg": "<think><br>嗯，用户想查哪些品牌或明星专门为宠粉办演唱会，挺有意思的话题。看看搜索结果里有什么线索。<br><br>慕思这个品牌跳出来好多次，他们在2025年12月20日要在杭州办\"宠粉之夜\"演唱会，请了李宇春、罗大佑等大牌明星。有意思的是这居然是家居品牌办的，宣传说要把睡眠科技和音乐结合。还有用户提到他们之前就搞过宠粉活动，请希林娜依·高当宠粉挚友，看来是系列营销活动。<br><br>艺人方面华晨宇的粉丝好活跃，说他连放三天定制烟花，每晚不重样，还自嘲\"放掉一套房子\"。更贴心的是演唱会现场准备很周到，医疗站、降温冰块、女性用品都备齐了，连移动厕所都配了香薰挂钩，确实舍得花钱宠粉。<br><br>刘宇宁粉丝也晒过证据，比如临时调整演唱会座位图让粉丝视野更好。还有粉丝说他\"用行动实力宠粉\"，不过也有吐槽他直播互动太频繁让粉丝要求变高的。<br><br>其他艺人也有亮点：鹿晗被夸认真回应粉丝每句话，连帮粉丝征婚都当真；檀健次被说巡演每场设计不同惊喜；周深在青岛站加唱本地歌曲，还设\"家长托儿所\"解决带娃看演唱会的问题。苏有朋粉丝则在求办专属LiveHouse演唱会。<br><br>杭州文旅也意外上榜，他们为李宇春演唱会粉丝开通专属公交线路\"城市过山车\"，车上还能欢唱，这个政府级宠粉操作很有创意。<br><br>总结来看，品牌里慕思最突出，艺人中华晨宇、刘宇宁的案例最具体，杭州政府的配套服务也算另类宠粉。把这些分门别类整理清楚应该就能回答用户了。<br><br></think><br>根据公开信息，以下是专门为宠粉而举办演唱会的品牌及艺人案例，综合时效性和事件代表性整理如下：<br>### 🎤 一、品牌主办：慕思「宠粉之夜」演唱会<br>1. **品牌理念与行动**  <br>   慕思作为家居品牌，于2025年12月20日在杭州奥体中心体育场举办群星演唱会，以「睡与听的双重盛宴」为主题，将睡眠科技与音乐结合，回馈用户。活动以\"宠粉\"为核心，从前期邀请希林娜依·高担任宠粉挚友互动，到直接落地大型演唱会，形成完整的宠粉链条。```wbCustomBlock{\"type\": \"quoted\", \"index\": 3, \"data\": {\"num\": [1, 16, 21, 24], \"version\": 2, \"quote_list\": [{\"name\": \"Geer歌歌儿\", \"scheme\": \"sinaweibo://detail?mblogid=5226746595248518\", \"index\": 24, \"label\": \"大v\"}, {\"name\": \"慕思DeRUCCI\", \"scheme\": \"sinaweibo://detail?mblogid=5226662040964151\", \"index\": 1, \"label\": \"\"}, {\"name\": \"爱我请举手\", \"scheme\": \"sinaweibo://detail?mblogid=5226770850907127\", \"index\": 16, \"label\": \"\"}, {\"name\": \"悠然米拉\", \"scheme\": \"sinaweibo://detail?mblogid=5226773967274617\", \"index\": 21, \"label\": \"\"}], \"name\": \"Geer歌歌儿\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/71ef8579ly8hzuq9lx7ulj20u00u0q5m.jpg?KID=imgbed,tva&Expires=1761660380&ssig=eyxP7Vy899\", \"scheme\": \"sinaweibo://detail?mblogid=5226746595248518\", \"vType\": 0}}```<br><br>2. **嘉宾阵容与亮点**  <br>   集结李宇春、罗大佑、容祖儿、张碧晨、毛不易、萧敬腾等实力歌手，打造全Live舞台。粉丝可通过线下门店活动参与门票获取，将产品体验（如鸿蒙智联智能床）与演唱会福利深度绑定。```wbCustomBlock{\"type\": \"quoted\", \"index\": 4, \"data\": {\"num\": [2, 20, 22, 25], \"version\": 2, \"quote_list\": [{\"name\": \"杜予瑄\", \"scheme\": \"sinaweibo://detail?mblogid=5226738834999468\", \"index\": 20, \"label\": \"大v\"}, {\"name\": \"音乐人\", \"scheme\": \"sinaweibo://detail?mblogid=5226769661824319\", \"index\": 2, \"label\": \"\"}, {\"name\": \"马克笔游老师\", \"scheme\": \"sinaweibo://detail?mblogid=5226688750551734\", \"index\": 22, \"label\": \"\"}, {\"name\": \"关于dodo张\", \"scheme\": \"sinaweibo://detail?mblogid=5226754449085646\", \"index\": 25, \"label\": \"\"}], \"name\": \"杜予瑄\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/4a745447ly8hhoa0v7cs6j20u00u0jtn.jpg?KID=imgbed,tva&Expires=1761660380&ssig=f2oUYdcD%2F%2F\", \"scheme\": \"sinaweibo://detail?mblogid=5226738834999468\", \"vType\": 0}}```<br><br>3. **行业创新性**  <br>   此举被媒体称为「把宠粉刻进DNA」，是家居行业首次以演唱会形式集中回馈用户，开创品牌宠粉新范式。```wbCustomBlock{\"type\": \"quoted\", \"index\": 5, \"data\": {\"num\": [17, 28], \"version\": 2, \"quote_list\": [{\"name\": \"网综天天看\", \"scheme\": \"sinaweibo://detail?mblogid=5226770722984153\", \"index\": 17, \"label\": \"\"}, {\"name\": \"微博音乐\", \"scheme\": \"sinaweibo://detail?mblogid=5226771890571937\", \"index\": 28, \"label\": \"\"}]}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5226773967274617&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/4db822d2ly8gdi83vy345j20u00u0dj0.jpg?KID=imgbed,tva&Expires=1761660380&ssig=q34SWoF7eA) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">悠然米拉</span><img src=\"http://wx3.sinaimg.cn/middle/001qf5nAly1i6r8m4vpu0j62i01o07wh02.jpg\" data-width=2160 data-height=3240></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5226746595248518&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=1\"><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/71ef8579ly8hzuq9lx7ulj20u00u0q5m.jpg?KID=imgbed,tva&Expires=1761660380&ssig=eyxP7Vy899) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">Geer歌歌儿</span><img src=\"http://wx3.sinaimg.cn/middle/71ef8579ly1i6s4c5u2u6j22i01o0kjl.jpg\" data-width=2160 data-height=3240></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5226738834999468&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=2\"><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/4a745447ly8hhoa0v7cs6j20u00u0jtn.jpg?KID=imgbed,tva&Expires=1761660380&ssig=f2oUYdcD%2F%2F) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">杜予瑄</span><img src=\"http://wx4.sinaimg.cn/middle/4a745447ly1i6s39r06r6j21jk2bbhdu.jpg\" data-width=2999 data-height=2000></div></media-block><br>### 🎸 二、艺人主办：粉丝专属演唱会案例<br>1. **华晨宇：细节级宠粉**  <br>   - **南京演唱会烟花秀**：斥资定制三天不同主题烟花（网传成本堪比一套房），回应粉丝对「舞台梦幻感」的期待；```wbCustomBlock{\"type\": \"quoted\", \"index\": 8, \"data\": {\"num\": [4, 5, 13], \"version\": 2, \"quote_list\": [{\"name\": \"序芽\", \"scheme\": \"sinaweibo://detail?mblogid=5219409383915579\", \"index\": 13, \"label\": \"大v\"}, {\"name\": \"娱乐探神\", \"scheme\": \"sinaweibo://detail?mblogid=5087013242145142\", \"index\": 4, \"label\": \"\"}, {\"name\": \"财说养生\", \"scheme\": \"sinaweibo://detail?mblogid=5220010340909589\", \"index\": 5, \"label\": \"\"}], \"name\": \"序芽\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/007uHbChly8i4ha19ow4nj30u00u0wg7.jpg?KID=imgbed,tva&Expires=1761660381&ssig=oMqmrlyk12\", \"scheme\": \"sinaweibo://detail?mblogid=5219409383915579\", \"vType\": 0}}```  <br>   - **服务设计**：免费提供定制雨衣、防暑冰水、医疗站降温设备（单价4万/台），移动厕所配备卫生巾、香薰挂钩等女性用品，将粉丝体验嵌入每个环节。```wbCustomBlock{\"type\": \"quoted\", \"index\": 9, \"data\": {\"num\": [7, 19], \"version\": 2, \"quote_list\": [{\"name\": \"共青互娱\", \"scheme\": \"sinaweibo://detail?mblogid=5162640751465451\", \"index\": 7, \"label\": \"\"}, {\"name\": \"人间小仙女是洋宝\", \"scheme\": \"sinaweibo://detail?mblogid=5218418540415136\", \"index\": 19, \"label\": \"\"}]}}```<br><br>2. **刘宇宁：行动派宠粉**  <br>   - **西安演唱会调整**：因技术原因延迟开票，实际秘密优化座位布局，将高价区座位前移改善视野，同等票价升级体验；```wbCustomBlock{\"type\": \"quoted\", \"index\": 11, \"data\": {\"num\": [6], \"version\": 2, \"quote_list\": [{\"name\": \"蓝精灵_198402\", \"scheme\": \"sinaweibo://detail?mblogid=5223182556728846\", \"index\": 6, \"label\": \"\"}]}}```  <br>   - **粉丝互动定位**：直播中强调「粉丝要求即行动目标」，被粉丝称为「宠粉狂魔」。```wbCustomBlock{\"type\": \"quoted\", \"index\": 12, \"data\": {\"num\": [3, 18], \"version\": 2, \"quote_list\": [{\"name\": \"妮娜天使宁\", \"scheme\": \"sinaweibo://detail?mblogid=5192707440118445\", \"index\": 3, \"label\": \"大v\"}, {\"name\": \"MD-程与宁\", \"scheme\": \"sinaweibo://detail?mblogid=5216528374960771\", \"index\": 18, \"label\": \"\"}], \"name\": \"妮娜天使宁\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/006zPp80ly8hylc7fh0gxj30u00u0go7.jpg?KID=imgbed,tva&Expires=1761660381&ssig=LvNciyOzc3\", \"scheme\": \"sinaweibo://detail?mblogid=5192707440118445\", \"vType\": 0}}```<br><br>3. **其他艺人代表性操作**  <br>   - **檀健次**：巡演每场设计不同惊喜环节，如专属歌曲改编、互动环节定制，粉丝称「浪漫天花板」；```wbCustomBlock{\"type\": \"quoted\", \"index\": 14, \"data\": {\"num\": [9, 10], \"version\": 2, \"quote_list\": [{\"name\": \"檀你脑瓜响叮咚\", \"scheme\": \"sinaweibo://detail?mblogid=5163457444578139\", \"index\": 9, \"label\": \"\"}, {\"name\": \"主打一个随心瓜\", \"scheme\": \"sinaweibo://detail?mblogid=5155825920774351\", \"index\": 10, \"label\": \"\"}]}}```  <br>   - **周深**：青岛站加唱本地关联歌曲《大海啊故乡》《相亲相爱》，并设置「家长托儿所」解决带娃观演需求；```wbCustomBlock{\"type\": \"quoted\", \"index\": 15, \"data\": {\"num\": [14, 15], \"version\": 2, \"quote_list\": [{\"name\": \"蓝睛\", \"scheme\": \"sinaweibo://detail?mblogid=5182567556846413\", \"index\": 15, \"label\": \"大v\"}, {\"name\": \"笑迷雾森林\", \"scheme\": \"sinaweibo://detail?mblogid=5177896957381631\", \"index\": 14, \"label\": \"\"}], \"name\": \"蓝睛\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.751.751.50/006zFZrRly8gdik137fiuj30kv0kvwev.jpg?KID=imgbed,tva&Expires=1761660381&ssig=TEC0NYs2cB\", \"scheme\": \"sinaweibo://detail?mblogid=5182567556846413\", \"vType\": 3}}```  <br>   - **鹿晗**：演唱会现场回应粉丝灯牌诉求（如征婚、签名照），即兴互动被誉「把粉丝每句话当回事」。```wbCustomBlock{\"type\": \"quoted\", \"index\": 16, \"data\": {\"num\": [11], \"version\": 2, \"quote_list\": [{\"name\": \"豆蔻\", \"scheme\": \"sinaweibo://detail?mblogid=5209712728737221\", \"index\": 11, \"label\": \"大v\"}], \"name\": \"豆蔻\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/794b0cfcly8hjugdgip98j20u00u0aax.jpg?KID=imgbed,tva&Expires=1761660380&ssig=i%2FtppAIW2S\", \"scheme\": \"sinaweibo://detail?mblogid=5209712728737221\", \"vType\": 0}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5163457444578139&multi_paragraph=2&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.960.960.50/008DlYL5ly8i62pjhczrrj30qo0qomzq.jpg?KID=imgbed,tva&Expires=1761660380&ssig=MYLZ3qWhhB) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">檀你脑瓜响叮咚</span><img src=\"http://wx1.sinaimg.cn/middle/008DlYL5gy1i167vj5bk0j31h00u00zo.jpg\" data-width=1080 data-height=1908></div></media-block><br>### 🚌 三、延伸案例：城市级「宠粉」联动<br>- **杭州文旅局**：为李宇春演唱会推出「专属城市过山车」公交专线，60位粉丝夜游欢唱并获赠奶茶，将城市服务与观演体验结合。```wbCustomBlock{\"type\": \"quoted\", \"index\": 18, \"data\": {\"num\": [12], \"version\": 2, \"quote_list\": [{\"name\": \"杭州文广旅游发布\", \"scheme\": \"sinaweibo://detail?mblogid=5226310688834615\", \"index\": 12, \"label\": \"大v\"}], \"name\": \"杭州文广旅游发布\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.640.640.50/001X5TDZly8h8v9hjgxjej60hs0hs75102.jpg?KID=imgbed,tva&Expires=1761660381&ssig=Cf9gzowLhZ\", \"scheme\": \"sinaweibo://detail?mblogid=5226310688834615\", \"vType\": 1}}```<br>### 💎 总结<br>**品牌端**以慕思为代表，将产品营销升级为情感回馈；**艺人端**华晨宇、刘宇宁等通过高成本投入（如烟花、座位优化）及精细化服务（医疗、育儿配套）体现诚意；**城市服务**则拓展了宠粉的外延价值。此类演唱会核心逻辑均为「超越商业回报的粉丝双向奔赴」，成为文娱营销新趋势。<br>",
+      "card_multimodal": {
+        "data": [
+          {
+            "scheme": "sinaweibo://multimedia?mix_mid=5226773967274617&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=0",
+            "img_pid": "001qf5nAly1i6r8m4vpu0j62i01o07wh02",
+            "type": "p",
+            "w": 3240,
+            "hit_score_final": 78.697266,
+            "cur_mid": "5226773967274617",
+            "vtype": 0,
+            "user_name": "悠然米拉",
+            "img": "http://wx3.sinaimg.cn/middle/001qf5nAly1i6r8m4vpu0j62i01o07wh02.jpg",
+            "user_avatar": "https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/4db822d2ly8gdi83vy345j20u00u0dj0.jpg?KID=imgbed,tva&Expires=1761660380&ssig=q34SWoF7eA",
+            "h": 2160,
+            "video_url": "",
+            "doc_score": 4028,
+            "click_rate": 0,
+            "hit_score_new": 91.162109
+          },
+          {
+            "scheme": "sinaweibo://multimedia?mix_mid=5226746595248518&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=1",
+            "img_pid": "71ef8579ly1i6s4c5u2u6j22i01o0kjl",
+            "type": "p",
+            "w": 3240,
+            "hit_score_final": 78.550781,
+            "cur_mid": "5226746595248518",
+            "vtype": 0,
+            "user_name": "Geer歌歌儿",
+            "img": "http://wx3.sinaimg.cn/middle/71ef8579ly1i6s4c5u2u6j22i01o0kjl.jpg",
+            "user_avatar": "https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/71ef8579ly8hzuq9lx7ulj20u00u0q5m.jpg?KID=imgbed,tva&Expires=1761660380&ssig=eyxP7Vy899",
+            "h": 2160,
+            "video_url": "",
+            "doc_score": 3164,
+            "click_rate": 0,
+            "hit_score_new": 90.917969
+          },
+          {
+            "scheme": "sinaweibo://multimedia?mix_mid=5226738834999468&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=2",
+            "img_pid": "4a745447ly1i6s39r06r6j21jk2bbhdu",
+            "type": "p",
+            "w": 2000,
+            "hit_score_final": 78.697266,
+            "cur_mid": "5226738834999468",
+            "vtype": 0,
+            "user_name": "杜予瑄",
+            "img": "http://wx4.sinaimg.cn/middle/4a745447ly1i6s39r06r6j21jk2bbhdu.jpg",
+            "user_avatar": "https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/4a745447ly8hhoa0v7cs6j20u00u0jtn.jpg?KID=imgbed,tva&Expires=1761660380&ssig=f2oUYdcD%2F%2F",
+            "h": 2999,
+            "video_url": "",
+            "doc_score": 4130,
+            "click_rate": 0,
+            "hit_score_new": 91.162109
+          },
+          {
+            "scheme": "sinaweibo://multimedia?mix_mid=5226773967274617&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=0",
+            "img_pid": "001qf5nAly1i6r8m4vpu0j62i01o07wh02",
+            "type": "p",
+            "w": 3240,
+            "hit_score_final": 78.697266,
+            "cur_mid": "5226773967274617",
+            "vtype": 0,
+            "user_name": "悠然米拉",
+            "img": "http://wx3.sinaimg.cn/middle/001qf5nAly1i6r8m4vpu0j62i01o07wh02.jpg",
+            "user_avatar": "https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/4db822d2ly8gdi83vy345j20u00u0dj0.jpg?KID=imgbed,tva&Expires=1761660380&ssig=q34SWoF7eA",
+            "h": 2160,
+            "video_url": "",
+            "doc_score": 4028,
+            "click_rate": 0,
+            "hit_score_new": 91.162109
+          }
+        ],
+        "type": "mediablock"
+      },
+      "wenda": {
+        "forward_gen": 0
+      },
+      "news_analyze": {},
+      "mid_list": null,
+      "chat_status_stage": 1,
+      "query_category": "",
+      "msg_format": "markdown",
+      "page_id": "2329646ac15359ce07e20fe76109d42524b436",
+      "unify_md5": "216b77b70d2904c1ed8665d33d22a9f2",
+      "short_url": "http://t.cn/AXwFkXn4",
+      "version": "2025-10-28 19:06:20.016000-1954",
+      "qs_status": 0,
+      "user_info": {},
+      "profile_image_url": "",
+      "zs_risk_control": {
+        "think_text_close": 0,
+        "land_button_close": 0
+      },
+      "cot": 1,
+      "scheme": "sinaweibo://cardlist?containerid=100103type%3D225%26q%3D%23%E8%B0%81%E5%AE%B6%E4%B8%93%E9%97%A8%E4%B8%BA%E4%BA%86%E5%AE%A0%E7%B2%89%E5%8A%9E%E4%B8%AA%E6%BC%94%E5%94%B1%E4%BC%9A%23%26t%3D&extparam=ai_model%3Ddeepseek%26ori_ai_title%3D%E5%8F%82%E8%80%83%E5%8D%9A%E6%96%87%26material_version%3D1761649580"
+    }
+  },
+  "links": [
+    "sinaweibo://detail?mblogid=5226662040964151",
+    "sinaweibo://detail?mblogid=5226769661824319",
+    "sinaweibo://detail?mblogid=5192707440118445",
+    "sinaweibo://detail?mblogid=5087013242145142",
+    "sinaweibo://detail?mblogid=5220010340909589",
+    "sinaweibo://detail?mblogid=5223182556728846",
+    "sinaweibo://detail?mblogid=5162640751465451",
+    "sinaweibo://detail?mblogid=5226771508887950",
+    "sinaweibo://detail?mblogid=5163457444578139",
+    "sinaweibo://detail?mblogid=5155825920774351",
+    "sinaweibo://detail?mblogid=5209712728737221",
+    "sinaweibo://detail?mblogid=5226310688834615",
+    "sinaweibo://detail?mblogid=5219409383915579",
+    "sinaweibo://detail?mblogid=5177896957381631",
+    "sinaweibo://detail?mblogid=5182567556846413",
+    "sinaweibo://detail?mblogid=5226770850907127",
+    "sinaweibo://detail?mblogid=5226770722984153",
+    "sinaweibo://detail?mblogid=5216528374960771",
+    "sinaweibo://detail?mblogid=5218418540415136",
+    "sinaweibo://detail?mblogid=5226738834999468",
+    "sinaweibo://detail?mblogid=5226773967274617",
+    "sinaweibo://detail?mblogid=5226688750551734",
+    "sinaweibo://detail?mblogid=5226392740432856",
+    "sinaweibo://detail?mblogid=5226746595248518",
+    "sinaweibo://detail?mblogid=5226754449085646",
+    "sinaweibo://detail?mblogid=5226754331382238",
+    "sinaweibo://detail?mblogid=5226769101883789",
+    "sinaweibo://detail?mblogid=5226771890571937",
+    "sinaweibo://detail?mblogid=5226791582567224",
+    "sinaweibo://detail?mblogid=4983303450924276"
+  ],
+  "media": [
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/001qf5nAly1i6r8m4vpu0j62i01o07wh02.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/001qf5nAly1i6r8m4vpu0j62i01o07wh02.jpg",
+      "alt": "悠然米拉",
+      "width": 2160,
+      "height": 3240,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/001qf5nAly1i6r8m4vpu0j62i01o07wh02.jpg"
+      ],
+      "user": "悠然米拉"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/71ef8579ly1i6s4c5u2u6j22i01o0kjl.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/71ef8579ly1i6s4c5u2u6j22i01o0kjl.jpg",
+      "alt": "Geer歌歌儿",
+      "width": 2160,
+      "height": 3240,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/71ef8579ly1i6s4c5u2u6j22i01o0kjl.jpg"
+      ],
+      "user": "Geer歌歌儿"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/4a745447ly1i6s39r06r6j21jk2bbhdu.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/4a745447ly1i6s39r06r6j21jk2bbhdu.jpg",
+      "alt": "杜予瑄",
+      "width": 2999,
+      "height": 2000,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/4a745447ly1i6s39r06r6j21jk2bbhdu.jpg"
+      ],
+      "user": "杜予瑄"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/008DlYL5gy1i167vj5bk0j31h00u00zo.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/008DlYL5gy1i167vj5bk0j31h00u00zo.jpg",
+      "alt": "檀你脑瓜响叮咚",
+      "width": 1080,
+      "height": 1908,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/008DlYL5gy1i167vj5bk0j31h00u00zo.jpg"
+      ],
+      "user": "檀你脑瓜响叮咚"
+    }
+  ],
+  "html_path": "data/aicard/hourly/2025-10-28/19/topic-216b77b7.html"
+}

@@ -1,0 +1,406 @@
+{
+  "meta": {
+    "query": "#何美延原生家庭#",
+    "status_code": 200,
+    "fetched_at": "2025-10-31T22:42:37+08:00",
+    "response": {
+      "unify_md5": "98ad21d93d81aab94763c466a0099cd0",
+      "user_info": {},
+      "short_url": "http://t.cn/AXwhUGmd",
+      "show_ctrl": {
+        "quote": {}
+      },
+      "zs_risk_control": {
+        "think_text_close": 0,
+        "land_button_close": 0
+      },
+      "status": 2,
+      "analysis_time": 1761898005,
+      "page_id": "232964bab494b6738ea4185ca4f598254b4bbc",
+      "scheme": "sinaweibo://cardlist?containerid=100103type%3D225%26q%3D%23%E4%BD%95%E7%BE%8E%E5%BB%B6%E5%8E%9F%E7%94%9F%E5%AE%B6%E5%BA%AD%23%26t%3D&extparam=ai_model%3Ddeepseek%26ori_ai_title%3D%E5%8F%82%E8%80%83%E5%8D%9A%E6%96%87%26material_version%3D1761897936",
+      "model": "deepseek",
+      "cot": 1,
+      "qs_status_info": "{\"qs_c_status\":8388608,\"ab_lab\":{},\"qs_u_status\":0,\"qs_r_status\":0,\"qs_q_status\":0,\"qs_status\":0}",
+      "query": "#何美延原生家庭#",
+      "abtest_info": {
+        "chat_entrance": 1
+      },
+      "current_time": 1761921757,
+      "msg_format": "markdown",
+      "top_quote_list": {},
+      "card_multimodal": {
+        "type": "mediablock",
+        "data": [
+          {
+            "user_name": "电影拆台君",
+            "hit_score_final": 90.623047,
+            "user_avatar": "https://tvax4.sinaimg.cn/crop.0.0.976.976.50/006f5QMaly8i003ec06uqj30r40r4wj3.jpg?KID=imgbed,tva&Expires=1761908736&ssig=vcA6Cf2Ybx",
+            "type": "v",
+            "video_url": "https://video.weibo.com/show?fid=1034:5227136378929260",
+            "h": 1080,
+            "click_rate": 0,
+            "hit_score_new": 97.705078,
+            "doc_score": 3980,
+            "img_pid": "006f5QMaly1i6tdg53rcuj31hc0u0jsr",
+            "img": "http://wx4.sinaimg.cn/middle/006f5QMaly1i6tdg53rcuj31hc0u0jsr.jpg",
+            "scheme": "sinaweibo://video/vvs?mid=5227137477904110&multi_paragraph=1&multi_count=0",
+            "vtype": 0,
+            "w": 1920,
+            "cur_mid": "5227137477904110"
+          },
+          {
+            "user_name": "卢米沃克斯动漫",
+            "hit_score_final": 65.770706,
+            "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/006HHlDvly8i3nd5o182tj30u00u0jsp.jpg?KID=imgbed,tva&Expires=1761908736&ssig=hg9cV5LAYz",
+            "type": "v",
+            "video_url": "https://video.weibo.com/show?fid=1034:5227109896093772",
+            "h": 960,
+            "click_rate": 0,
+            "hit_score_new": 74.951172,
+            "doc_score": 2138,
+            "img_pid": "006HHlDvly1i6taeckptej30k00qojsc",
+            "img": "http://wx1.sinaimg.cn/middle/006HHlDvly1i6taeckptej30k00qojsc.jpg",
+            "scheme": "sinaweibo://video/vvs?mid=5227110118459109&multi_paragraph=1&multi_count=1",
+            "vtype": 0,
+            "w": 720,
+            "cur_mid": "5227110118459109"
+          },
+          {
+            "user_name": "爱喝冬芳树叶",
+            "hit_score_final": 52.286133,
+            "user_avatar": "https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/008cQxzply8i4reqhqzv1j30u00u0te2.jpg?KID=imgbed,tva&Expires=1761908736&ssig=hDONXjUVjT",
+            "type": "v",
+            "video_url": "https://video.weibo.com/show?fid=1034:5227507197345843",
+            "h": 1280,
+            "click_rate": 0,
+            "hit_score_new": 47.143555,
+            "doc_score": 2779,
+            "img_pid": "008cQxzply1i6uk0yu80lj30k00zkmy8",
+            "img": "http://wx4.sinaimg.cn/middle/008cQxzply1i6uk0yu80lj30k00zkmy8.jpg",
+            "scheme": "sinaweibo://video/vvs?mid=5227507326388300&multi_paragraph=1&multi_count=2",
+            "vtype": 0,
+            "w": 720,
+            "cur_mid": "5227507326388300"
+          },
+          {
+            "user_name": "电影拆台君",
+            "hit_score_final": 90.623047,
+            "user_avatar": "https://tvax4.sinaimg.cn/crop.0.0.976.976.50/006f5QMaly8i003ec06uqj30r40r4wj3.jpg?KID=imgbed,tva&Expires=1761908736&ssig=vcA6Cf2Ybx",
+            "type": "v",
+            "video_url": "https://video.weibo.com/show?fid=1034:5227136378929260",
+            "h": 1080,
+            "click_rate": 0,
+            "hit_score_new": 97.705078,
+            "doc_score": 3980,
+            "img_pid": "006f5QMaly1i6tdg53rcuj31hc0u0jsr",
+            "img": "http://wx4.sinaimg.cn/middle/006f5QMaly1i6tdg53rcuj31hc0u0jsr.jpg",
+            "scheme": "sinaweibo://video/vvs?mid=5227137477904110&multi_paragraph=1&multi_count=0",
+            "vtype": 0,
+            "w": 1920,
+            "cur_mid": "5227137477904110"
+          }
+        ]
+      },
+      "share_card_multimodal": {
+        "user_name": "电影拆台君",
+        "hit_score_final": 90.623047,
+        "user_avatar": "https://tvax4.sinaimg.cn/crop.0.0.976.976.50/006f5QMaly8i003ec06uqj30r40r4wj3.jpg?KID=imgbed,tva&Expires=1761908736&ssig=vcA6Cf2Ybx",
+        "type": "v",
+        "video_url": "https://video.weibo.com/show?fid=1034:5227136378929260",
+        "h": 1080,
+        "click_rate": 0,
+        "hit_score_new": 97.705078,
+        "doc_score": 3980,
+        "img_pid": "006f5QMaly1i6tdg53rcuj31hc0u0jsr",
+        "img": "http://wx4.sinaimg.cn/middle/006f5QMaly1i6tdg53rcuj31hc0u0jsr.jpg",
+        "scheme": "sinaweibo://video/vvs?mid=5227137477904110&multi_paragraph=1&multi_count=0",
+        "vtype": 0,
+        "w": 1920,
+        "cur_mid": "5227137477904110"
+      },
+      "msg_json": "{}",
+      "share_info": {
+        "unify_md5": "98ad21d93d81aab94763c466a0099cd0",
+        "display_name": "#何美延原生家庭#",
+        "tips": "#何美延原生家庭#的相关内容，来智搜看看",
+        "page_id": "232964bab494b6738ea4185ca4f598254b4bbc",
+        "comment_content": "",
+        "url": "http://t.cn/AXAU2ugI",
+        "status": 3
+      },
+      "status_stage": 4,
+      "ext_show": {},
+      "news_analyze": {},
+      "sorted_material_list": null,
+      "q_attr": {
+        "from_uid": "6503896085",
+        "reply_cid": "",
+        "from_request_id": "1761897933951",
+        "comment_from_type": "",
+        "mid": ""
+      },
+      "ab_suffix": "default",
+      "wenda": {
+        "forward_gen": 0
+      },
+      "uid": "",
+      "comment_info": {},
+      "profile_image_url": "",
+      "share_text": "#何美延原生家庭#的相关内容，来智搜看看",
+      "query_field": "21",
+      "chat_status_stage": 1,
+      "msg": "<think><br><br>嗯，用户查询的是\"何美延原生家庭\"，我需要从搜索结果中整理相关信息。首先，看看有哪些相关内容。<br><br>注意到多个搜索结果提到何美延的原生家庭环境充满争吵，导致她对冲突习以为常。都提到她从小在频繁争吵的家庭中长大，认为吵架是解决问题的正常方式。这影响了她的婚姻沟通模式，比如与梁淞的争执时情绪容易叠加升级。<br><br>关于隐私泄露的问题，描述了梁淞在朋友面前透露何美延的原生家庭伤痛，让她感到被背叛。何美延认为这些隐私只应与亲密的人分享，而梁淞的解释是希望朋友理解背景，但最终道歉了。蔡明在中批评这种行为如同\"拿刀扎心\"。<br><br>经济方面，提到何美延因早婚育子（23岁生双胞胎，四年三孩）中断说唱事业，经济依赖梁淞，而梁淞一人负担七口之家，压力大，有时在争吵中查账，让何美延感到不被信任。胡彦斌在中指出她重返职场面临行业断层和市场竞争的困难。<br><br>家暴事件在有涉及，双方各执一词，何美延指控梁淞家暴，梁淞则称冲突源于情绪失控和产后抑郁。倪萍在中批评两人争吵模式危险，称若自己是婆婆\"会住六次院\"。<br><br>孩子作为婚姻纽带，提到两人因三个孩子暂未离婚，但专家担心这种\"消耗型婚姻\"反而可能伤害孩子。情感专家张心媛在分析他们的\"追逃模式\"对身心的消耗。<br><br>胡彦斌与梁淞的观点分歧在中：梁淞认为应直面恐惧才能克服创伤，而胡彦斌主张不必反复撕开伤疤，过去的痛苦应让它自然淡化。<br><br>需要整合这些点，注意时效性（多数结果是2025年10月底的），并区分事实与观点。百科和资料提供背景，但需结合节目中的具体事例。风险提示方面，家暴和隐私争议部分需谨慎表述，引用双方说法和第三方观察（如倪萍、蔡明的评论）。<br><br>最后组织内容时，按原生家庭影响、婚姻矛盾、经济因素、外部观点等维度展开，突出关键词如\"争吵环境\"\"隐私暴露\"\"经济依赖\"，用引用编号支持每个点，避免重复引用同一来源。<br><br></think><br>何美延的原生家庭问题，是影响其婚姻关系与个人心理状态的核心因素。结合公开信息与节目讨论，其核心矛盾可概括如下：<br>### **一、原生家庭创伤的核心表现**<br>1. **长期争吵环境导致情感认知偏差**  <br>   何美延成长于家庭成员频繁争吵的环境中，对冲突习以为常，甚至认为\"吵架是解决问题的方式\"。这种模式延续至婚姻中：她习惯用激烈沟通表达需求，而丈夫梁淞则倾向回避冲突，导致双方陷入\"情绪对抗-冷战\"的恶性循环。```wbCustomBlock{\"type\": \"quoted\", \"index\": 4, \"data\": {\"num\": [3, 12, 13, 31], \"version\": 2, \"quote_list\": [{\"name\": \"电影拆台君\", \"scheme\": \"sinaweibo://detail?mblogid=5227137477904110\", \"index\": 3, \"label\": \"大v\"}, {\"name\": \"我是超级无敌美少女啦\", \"scheme\": \"sinaweibo://detail?mblogid=5227145477753866\", \"index\": 12, \"label\": \"\"}, {\"name\": \"卢米沃克斯动漫\", \"scheme\": \"sinaweibo://detail?mblogid=5227110118459109\", \"index\": 13, \"label\": \"\"}, {\"name\": \"娱酥酥\", \"scheme\": \"sinaweibo://detail?mblogid=5227533341033218\", \"index\": 31, \"label\": \"\"}], \"name\": \"电影拆台君\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.976.976.50/006f5QMaly8i003ec06uqj30r40r4wj3.jpg?KID=imgbed,tva&Expires=1761908736&ssig=vcA6Cf2Ybx\", \"scheme\": \"sinaweibo://detail?mblogid=5227137477904110\", \"vType\": 0}}```<br><br>2. **情感支持缺失与隐私暴露的二次伤害**  <br>   家庭未能提供有效情感支持，尤其在遭遇校园霸凌时，家人处理方式不当加剧其心理创伤。更严重的是，梁淞在朋友聚会中将她的原生伤痛（如\"她因家庭问题被欺负才这样\"）作为谈资解释其行为，令何美延感到隐私被背叛。观察室嘉宾蔡明痛斥此举\"如同拿刀扎心\"。```wbCustomBlock{\"type\": \"quoted\", \"index\": 5, \"data\": {\"num\": [1, 3, 5, 11, 13, 27], \"version\": 2, \"quote_list\": [{\"name\": \"阳光八卦君\", \"scheme\": \"sinaweibo://detail?mblogid=5227438368883555\", \"index\": 5, \"label\": \"大v\"}, {\"name\": \"娱圈挑担人\", \"scheme\": \"sinaweibo://detail?mblogid=5227429385734335\", \"index\": 1, \"label\": \"\"}, {\"name\": \"电影拆台君\", \"scheme\": \"sinaweibo://detail?mblogid=5227137477904110\", \"index\": 3, \"label\": \"\"}, {\"name\": \"浪花文艺\", \"scheme\": \"sinaweibo://detail?mblogid=5227434482076848\", \"index\": 11, \"label\": \"\"}, {\"name\": \"卢米沃克斯动漫\", \"scheme\": \"sinaweibo://detail?mblogid=5227110118459109\", \"index\": 13, \"label\": \"\"}, {\"name\": \"爱喝冬芳树叶\", \"scheme\": \"sinaweibo://detail?mblogid=5227507326388300\", \"index\": 27, \"label\": \"\"}], \"name\": \"阳光八卦君\", \"img\": \"https://tva3.sinaimg.cn/crop.0.0.180.180.50/4911bd8ajw1e8qgp5bmzyj2050050aa8.jpg?KID=imgbed,tva&Expires=1761908736&ssig=DxmVCkR1Ah\", \"scheme\": \"sinaweibo://detail?mblogid=5227438368883555\", \"vType\": 0}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5227137477904110&multi_paragraph=1&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.976.976.50/006f5QMaly8i003ec06uqj30r40r4wj3.jpg?KID=imgbed,tva&Expires=1761908736&ssig=vcA6Cf2Ybx) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">电影拆台君</span><img src=\"http://wx4.sinaimg.cn/middle/006f5QMaly1i6tdg53rcuj31hc0u0jsr.jpg\" data-width=1080 data-height=1920></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5227110118459109&multi_paragraph=1&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/006HHlDvly8i3nd5o182tj30u00u0jsp.jpg?KID=imgbed,tva&Expires=1761908736&ssig=hg9cV5LAYz) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">卢米沃克斯动漫</span><img src=\"http://wx1.sinaimg.cn/middle/006HHlDvly1i6taeckptej30k00qojsc.jpg\" data-width=960 data-height=720></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5227507326388300&multi_paragraph=1&multi_count=2\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/008cQxzply8i4reqhqzv1j30u00u0te2.jpg?KID=imgbed,tva&Expires=1761908736&ssig=hDONXjUVjT) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">爱喝冬芳树叶</span><img src=\"http://wx4.sinaimg.cn/middle/008cQxzply1i6uk0yu80lj30k00zkmy8.jpg\" data-width=1280 data-height=720></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5227438368883555&multi_paragraph=1&multi_count=3\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tva3.sinaimg.cn/crop.0.0.180.180.50/4911bd8ajw1e8qgp5bmzyj2050050aa8.jpg?KID=imgbed,tva&Expires=1761908736&ssig=DxmVCkR1Ah) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">阳光八卦君</span><img src=\"http://wx4.sinaimg.cn/middle/001kXKr0ly1i6uc3rjtk7j61hz0u0jv702.jpg\" data-width=1080 data-height=1943></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5227429385734335&multi_paragraph=1&multi_count=4\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.1039.1039.50/83fee4ealy8hynt6kzwi0j20sv0svgnn.jpg?KID=imgbed,tva&Expires=1761908736&ssig=Ik6zpsPZgE) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">娱圈挑担人</span><img src=\"http://wx3.sinaimg.cn/middle/83fee4ealy1i6ub2fdzsbj20k00zkgn5.jpg\" data-width=1280 data-height=720></div></media-block><br>### **二、原生创伤如何激化婚姻矛盾**<br>1. **信任崩塌与经济依赖的双重困境**  <br>   - **隐私边界被突破**：何美延强调伤痛经历本应是亲密关系的专属信任，却被公开讨论，削弱婚姻安全感。梁淞虽道歉，却辩解\"需直面恐惧才能克服\"，被胡彦斌反驳为\"反复撕开伤疤\"。```wbCustomBlock{\"type\": \"quoted\", \"index\": 9, \"data\": {\"num\": [25, 29, 30, 33], \"version\": 2, \"quote_list\": [{\"name\": \"小狗斯特\", \"scheme\": \"sinaweibo://detail?mblogid=5227488998331385\", \"index\": 25, \"label\": \"大v\"}, {\"name\": \"来看娱乐\", \"scheme\": \"sinaweibo://detail?mblogid=5227488998852656\", \"index\": 29, \"label\": \"\"}, {\"name\": \"硬哥追剧\", \"scheme\": \"sinaweibo://detail?mblogid=5227795506529446\", \"index\": 30, \"label\": \"\"}, {\"name\": \"王牌神吐槽\", \"scheme\": \"sinaweibo://detail?mblogid=5227498658857574\", \"index\": 33, \"label\": \"\"}], \"name\": \"小狗斯特\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.1024.1024.50/0070IZ7ply8i6m4766chrj30sg0sg3z3.jpg?KID=imgbed,tva&Expires=1761908736&ssig=ozWhiBw2Cm\", \"scheme\": \"sinaweibo://detail?mblogid=5227488998331385\", \"vType\": 0}}```  <br>   - **经济控制加剧自卑**：因早婚早育（23岁生双胞胎，四年三孩）中断说唱事业，何美延缺乏收入来源。梁淞承担七口之家经济压力，却在争吵中查账质问：\"你为家付出过什么？\"，倪萍直言此举让何美延陷入\"寄人篱下\"的屈辱感。```wbCustomBlock{\"type\": \"quoted\", \"index\": 10, \"data\": {\"num\": [2, 6, 28, 34, 38], \"version\": 2, \"quote_list\": [{\"name\": \"娱婆\", \"scheme\": \"sinaweibo://detail?mblogid=5227473631708740\", \"index\": 2, \"label\": \"大v\"}, {\"name\": \"圈内顶流\", \"scheme\": \"sinaweibo://detail?mblogid=5223127611081578\", \"index\": 6, \"label\": \"\"}, {\"name\": \"两性情感专家张心媛\", \"scheme\": \"sinaweibo://detail?mblogid=5227835329348812\", \"index\": 28, \"label\": \"\"}, {\"name\": \"你算哪根cong啊\", \"scheme\": \"sinaweibo://detail?mblogid=5227527419202884\", \"index\": 34, \"label\": \"\"}, {\"name\": \"追星吃瓜崽\", \"scheme\": \"sinaweibo://detail?mblogid=5227497488651234\", \"index\": 38, \"label\": \"\"}], \"name\": \"娱婆\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.994.994.50/0076Eemrly8h8v0y652g0j30rm0rmwg2.jpg?KID=imgbed,tva&Expires=1761908736&ssig=5iuj%2BcGoTB\", \"scheme\": \"sinaweibo://detail?mblogid=5227473631708740\", \"vType\": 0}}```<br><br>2. **冲突模式代际传递**  <br>   何美延将原生家庭的争吵逻辑带入婚姻，试图通过对抗获取关注；梁淞则以\"冷暴力+翻旧账\"回应（如提及其家庭缺陷）。情感专家张心媛指出，双方陷入\"追逃模式\"：一方追讨情感认可，一方逃避压力，最终消耗身心。```wbCustomBlock{\"type\": \"quoted\", \"index\": 11, \"data\": {\"num\": [5, 28, 31], \"version\": 2, \"quote_list\": [{\"name\": \"阳光八卦君\", \"scheme\": \"sinaweibo://detail?mblogid=5227438368883555\", \"index\": 5, \"label\": \"\"}, {\"name\": \"两性情感专家张心媛\", \"scheme\": \"sinaweibo://detail?mblogid=5227835329348812\", \"index\": 28, \"label\": \"\"}, {\"name\": \"娱酥酥\", \"scheme\": \"sinaweibo://detail?mblogid=5227533341033218\", \"index\": 31, \"label\": \"\"}]}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5227488998331385&multi_paragraph=2&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.1024.1024.50/0070IZ7ply8i6m4766chrj30sg0sg3z3.jpg?KID=imgbed,tva&Expires=1761908736&ssig=ozWhiBw2Cm) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">小狗斯特</span><img src=\"http://wx4.sinaimg.cn/middle/a66d0169ly8i6uh32x28aj217o0ogx32.jpg\" data-width=880 data-height=1572></div><div data-type=\"v\" data-scheme=\"sinaweibo://multimedia?mix_mid=5227473631708740&mix_index=0&multi_paragraph=2&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.994.994.50/0076Eemrly8h8v0y652g0j30rm0rmwg2.jpg?KID=imgbed,tva&Expires=1761908736&ssig=5iuj%2BcGoTB) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">娱婆</span><img src=\"http://wx1.sinaimg.cn/middle/0076Eemrly1i6ufdgfoj4j30nq0dc755.jpg\" data-width=480 data-height=854></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5227497488651234&multi_paragraph=2&multi_count=2\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.512.512.50/00747Yrgly8hy9u7pyigpj30e80e8dge.jpg?KID=imgbed,tva&Expires=1761908736&ssig=7oY%2B688C8O) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">追星吃瓜崽</span><img src=\"http://wx3.sinaimg.cn/middle/00747Yrgly1i6uiw6uyxhj30qo0k075g.jpg\" data-width=720 data-height=960></div></media-block><br>### **三、外部视角的反思与争议**<br>1. **嘉宾观点分化**  <br>   - **胡彦斌**：反对强迫当事人直面创伤，认为反复提及伤痛可能适得其反。他更关注何美延的职业断层困境，指出全职妈妈重返说唱市场需克服行业断层与性别偏见。```wbCustomBlock{\"type\": \"quoted\", \"index\": 15, \"data\": {\"num\": [6, 30], \"version\": 2, \"quote_list\": [{\"name\": \"圈内顶流\", \"scheme\": \"sinaweibo://detail?mblogid=5223127611081578\", \"index\": 6, \"label\": \"大v\"}, {\"name\": \"硬哥追剧\", \"scheme\": \"sinaweibo://detail?mblogid=5227795506529446\", \"index\": 30, \"label\": \"\"}], \"name\": \"圈内顶流\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/005GKY8ily8gl8r1d2mnnj30u00u075j.jpg?KID=imgbed,tva&Expires=1761908736&ssig=kdoSAlS8VH\", \"scheme\": \"sinaweibo://detail?mblogid=5223127611081578\", \"vType\": 0}}```  <br>   - **倪萍**：犀利批评二人\"专挑软肋攻击\"，警示长期消耗型婚姻的危害：\"若我是你婆婆，会住六回医院\"。```wbCustomBlock{\"type\": \"quoted\", \"index\": 16, \"data\": {\"num\": [2, 26], \"version\": 2, \"quote_list\": [{\"name\": \"娱婆\", \"scheme\": \"sinaweibo://detail?mblogid=5227473631708740\", \"index\": 2, \"label\": \"\"}, {\"name\": \"独行侠H\", \"scheme\": \"sinaweibo://detail?mblogid=5227455705257341\", \"index\": 26, \"label\": \"\"}]}}```<br><br>2. **社会共鸣与风险警示**  <br>   节目引发对\"中国式婚姻\"的讨论：  <br>   - **孩子能否维系婚姻？** 两人坦言因三个孩子暂未离婚，但专家强调\"完整家庭≠健康环境\"，冷漠氛围可能让孩子更敏感。```wbCustomBlock{\"type\": \"quoted\", \"index\": 18, \"data\": {\"num\": [16, 17, 39, 40], \"version\": 2, \"quote_list\": [{\"name\": \"偷喝汽水zhao\", \"scheme\": \"sinaweibo://detail?mblogid=5222677989819290\", \"index\": 16, \"label\": \"\"}, {\"name\": \"钧沐宸\", \"scheme\": \"sinaweibo://detail?mblogid=5222672762929362\", \"index\": 17, \"label\": \"\"}, {\"name\": \"寂野星眠\", \"scheme\": \"sinaweibo://detail?mblogid=5222671214447338\", \"index\": 39, \"label\": \"\"}, {\"name\": \"电影之财猫猫呀-\", \"scheme\": \"sinaweibo://detail?mblogid=5222677713257389\", \"index\": 40, \"label\": \"\"}]}}```  <br>   - **家暴争议的阴影**：2025年4月，何美延指控梁淞家暴（掐脖子、扇巴掌），梁淞则称其\"用头撞人致淤青\"。尽管双方各执一词，但情绪失控与产后抑郁的叠加风险已被正视。```wbCustomBlock{\"type\": \"quoted\", \"index\": 19, \"data\": {\"num\": [18, 20, 35], \"version\": 2, \"quote_list\": [{\"name\": \"大象新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5155343667824391\", \"index\": 35, \"label\": \"大v\"}, {\"name\": \"SwagFxxk_\", \"scheme\": \"sinaweibo://detail?mblogid=5222386183966142\", \"index\": 18, \"label\": \"\"}, {\"name\": \"董克川\", \"scheme\": \"sinaweibo://detail?mblogid=5155382911043945\", \"index\": 20, \"label\": \"\"}], \"name\": \"大象新闻\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/007YAdaely8hue6u20f9xj30u00u00ud.jpg?KID=imgbed,tva&Expires=1761908736&ssig=OnGqKJEWWy\", \"scheme\": \"sinaweibo://detail?mblogid=5155343667824391\", \"vType\": 3}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5155382911043945&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=3&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.808.808.50/005KXNSzly8hwfxqr530nj30mg0mgdh5.jpg?KID=imgbed,tva&Expires=1761908736&ssig=fVpuWGdoy2) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">董克川</span><img src=\"http://wx2.sinaimg.cn/middle/005KXNSzgy1i0ggnah00jj30n20h4tcg.jpg\" data-width=616 data-height=830></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5222672762929362&multi_paragraph=3&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/b6198939ly8i0zvf7il3gj20u00u07aw.jpg?KID=imgbed,tva&Expires=1761908736&ssig=fTJcsHIPoR) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">钧沐宸</span><img src=\"http://wx1.sinaimg.cn/middle/b6198939ly1i6f4qv6c6qj20ow0k0t9j.jpg\" data-width=720 data-height=896></div><div data-type=\"v\" data-scheme=\"sinaweibo://multimedia?mix_mid=5222386183966142&mix_index=0&multi_paragraph=3&multi_count=2\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.512.512.50/006qlIAxly8gnhq3sgbqqj30e80e8my3.jpg?KID=imgbed,tva&Expires=1761908736&ssig=SFkUTTpc%2Bv) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">SwagFxxk_</span><img src=\"http://wx3.sinaimg.cn/middle/006qlIAxgy1i6e7vf1h63j31hc0qowfn.jpg\" data-width=960 data-height=1920></div></media-block><br>### **四、解决路径的探索**<br>1. **重建信任与尊重隐私**  <br>   梁淞需停止将伴侣伤痛工具化（如以\"帮助成长\"为由公开谈论），转而建立情感安全区；何美延则需跳出\"争吵即沟通\"的惯性，尝试非对抗表达。```wbCustomBlock{\"type\": \"quoted\", \"index\": 22, \"data\": {\"num\": [27, 28, 30], \"version\": 2, \"quote_list\": [{\"name\": \"爱喝冬芳树叶\", \"scheme\": \"sinaweibo://detail?mblogid=5227507326388300\", \"index\": 27, \"label\": \"大v\"}, {\"name\": \"两性情感专家张心媛\", \"scheme\": \"sinaweibo://detail?mblogid=5227835329348812\", \"index\": 28, \"label\": \"\"}, {\"name\": \"硬哥追剧\", \"scheme\": \"sinaweibo://detail?mblogid=5227795506529446\", \"index\": 30, \"label\": \"\"}], \"name\": \"爱喝冬芳树叶\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/008cQxzply8i4reqhqzv1j30u00u0te2.jpg?KID=imgbed,tva&Expires=1761908736&ssig=hDONXjUVjT\", \"scheme\": \"sinaweibo://detail?mblogid=5227507326388300\", \"vType\": 0}}```<br><br>2. **经济独立与价值认同**  <br>   胡彦斌建议何美延通过分阶段职业回归（如小型演出、创作）重获自信，同时梁淞需调整\"养家者优越感\"，承认育儿与情绪劳动的价值。```wbCustomBlock{\"type\": \"quoted\", \"index\": 23, \"data\": {\"num\": [6, 38], \"version\": 2, \"quote_list\": [{\"name\": \"圈内顶流\", \"scheme\": \"sinaweibo://detail?mblogid=5223127611081578\", \"index\": 6, \"label\": \"\"}, {\"name\": \"追星吃瓜崽\", \"scheme\": \"sinaweibo://detail?mblogid=5227497488651234\", \"index\": 38, \"label\": \"\"}]}}```<br><br>3. **专业干预的必要性**  <br>   双方已接受心理咨询，但需持续解决深层问题：  <br>   - 何美延的创伤后应激反应（如被揭露隐私时的强烈应激）；```wbCustomBlock{\"type\": \"quoted\", \"index\": 25, \"data\": {\"num\": [11, 25], \"version\": 2, \"quote_list\": [{\"name\": \"浪花文艺\", \"scheme\": \"sinaweibo://detail?mblogid=5227434482076848\", \"index\": 11, \"label\": \"\"}, {\"name\": \"小狗斯特\", \"scheme\": \"sinaweibo://detail?mblogid=5227488998331385\", \"index\": 25, \"label\": \"\"}]}}```  <br>   - 梁淞的压力管理（一人养七口的经济焦虑）。```wbCustomBlock{\"type\": \"quoted\", \"index\": 26, \"data\": {\"num\": [19, 36], \"version\": 2, \"quote_list\": [{\"name\": \"大玉米宝\", \"scheme\": \"sinaweibo://detail?mblogid=5222686873095366\", \"index\": 19, \"label\": \"\"}, {\"name\": \"幼儿园我没毕业\", \"scheme\": \"sinaweibo://detail?mblogid=5222677488864685\", \"index\": 36, \"label\": \"\"}]}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5222686873095366&multi_paragraph=4&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/450bb15fly8i3p1gww9vfj20u00u0tbg.jpg?KID=imgbed,tva&Expires=1761908736&ssig=7%2B05sgJqy%2B) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">大玉米宝</span><img src=\"http://wx1.sinaimg.cn/middle/450bb15fly1i6f6dl1ywjj20zk0k0my0.jpg\" data-width=720 data-height=1280></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5222677488864685&multi_paragraph=4&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.1000.1000.50/e0b2fe90ly8i51wr1ppv6j20rs0rsdlg.jpg?KID=imgbed,tva&Expires=1761908736&ssig=sRNm26SZZr) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">幼儿园我没毕业</span><img src=\"http://wx3.sinaimg.cn/middle/e0b2fe90ly1i6f57skphij20zk0k0wfe.jpg\" data-width=720 data-height=1280></div></media-block><br>### **核心启示**  <br>何美延的案例折射出原生家庭创伤的代际传递风险：**未被疗愈的伤口，终将在亲密关系中溃烂**。婚姻修复不仅需双方停止相互\"递刀\"，更需社会正视早婚女性的事业断层、经济弱势及心理支持缺失的系统性问题。健康关系的核心，始终是尊严边界内的共生，而非消耗型的捆绑。```wbCustomBlock{\"type\": \"quoted\", \"index\": 28, \"data\": {\"num\": [28, 37], \"version\": 2, \"quote_list\": [{\"name\": \"陈陈陈陈陈梦想\", \"scheme\": \"sinaweibo://detail?mblogid=5222685790438553\", \"index\": 37, \"label\": \"大v\"}, {\"name\": \"两性情感专家张心媛\", \"scheme\": \"sinaweibo://detail?mblogid=5227835329348812\", \"index\": 28, \"label\": \"\"}], \"name\": \"陈陈陈陈陈梦想\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.690.690.50/bd27f1a1ly8hw6ehgww0dj20j60j6dg4.jpg?KID=imgbed,tva&Expires=1761908736&ssig=4grGJ266XQ\", \"scheme\": \"sinaweibo://detail?mblogid=5222685790438553\", \"vType\": 0}}```<br>",
+      "basemodel": "实验组7",
+      "version": "2025-10-31 16:05:36.009999-9022",
+      "mid_list": null,
+      "reference_num": 36,
+      "reliable_tips": "{\"gold_orange_v_mids\": [\"5227137477904110\", \"5227145477753866\", \"5227110118459109\", \"5227533341033218\", \"5227429385734335\", \"5227438368883555\", \"5227507326388300\", \"5227488998331385\", \"5227488998852656\", \"5227795506529446\", \"5227498658857574\", \"5227473631708740\", \"5223127611081578\", \"5227527419202884\", \"5227497488651234\", \"5222677989819290\", \"5222672762929362\", \"5222671214447338\", \"5222677713257389\", \"5222386183966142\", \"5222686873095366\", \"5222677488864685\", \"5222685790438553\", \"5227438067679708\", \"5227458045674158\", \"5222543277426632\", \"5223866414664118\", \"5223914281636309\", \"5222380994825559\", \"5224870889390608\", \"5227057487545278\"], \"gold_orange_v_ratio\": \"86%\", \"media_mids\": [\"5155343667824391\"], \"media_ratio\": \"3%\", \"verified_mids\": [\"5227434482076848\", \"5227455705257341\", \"5155382911043945\"], \"verified_ratio\": \"8%\", \"normal_mids\": [\"5227835329348812\"], \"normal_ratio\": \"3%\", \"ref_mid_rank\": {\"5227137477904110\": {\"rank\": 3}, \"5227145477753866\": {\"rank\": 12}, \"5227110118459109\": {\"rank\": 13}, \"5227533341033218\": {\"rank\": 31}, \"5227429385734335\": {\"rank\": 1}, \"5227438368883555\": {\"rank\": 5}, \"5227434482076848\": {\"rank\": 11}, \"5227507326388300\": {\"rank\": 27}, \"5227488998331385\": {\"rank\": 25}, \"5227488998852656\": {\"rank\": 29}, \"5227795506529446\": {\"rank\": 30}, \"5227498658857574\": {\"rank\": 33}, \"5227473631708740\": {\"rank\": 2}, \"5223127611081578\": {\"rank\": 6}, \"5227835329348812\": {\"rank\": 28}, \"5227527419202884\": {\"rank\": 34}, \"5227497488651234\": {\"rank\": 38}, \"5227455705257341\": {\"rank\": 26}, \"5222677989819290\": {\"rank\": 16}, \"5222672762929362\": {\"rank\": 17}, \"5222671214447338\": {\"rank\": 39}, \"5222677713257389\": {\"rank\": 40}, \"5222386183966142\": {\"rank\": 18}, \"5155382911043945\": {\"rank\": 20}, \"5155343667824391\": {\"rank\": 35}, \"5222686873095366\": {\"rank\": 19}, \"5222677488864685\": {\"rank\": 36}, \"5222685790438553\": {\"rank\": 37}, \"5227438067679708\": {\"rank\": 4}, \"5227458045674158\": {\"rank\": 7}, \"5222543277426632\": {\"rank\": 8}, \"5223866414664118\": {\"rank\": 9}, \"5223914281636309\": {\"rank\": 10}, \"5222380994825559\": {\"rank\": 14}, \"5224870889390608\": {\"rank\": 15}, \"5227057487545278\": {\"rank\": 32}}}",
+      "qs_status": 0,
+      "loop_times": 200,
+      "link_list": [
+        "sinaweibo://detail?mblogid=5227429385734335",
+        "sinaweibo://detail?mblogid=5227473631708740",
+        "sinaweibo://detail?mblogid=5227137477904110",
+        "sinaweibo://detail?mblogid=5227438067679708",
+        "sinaweibo://detail?mblogid=5227438368883555",
+        "sinaweibo://detail?mblogid=5223127611081578",
+        "sinaweibo://detail?mblogid=5227458045674158",
+        "sinaweibo://detail?mblogid=5222543277426632",
+        "sinaweibo://detail?mblogid=5223866414664118",
+        "sinaweibo://detail?mblogid=5223914281636309",
+        "sinaweibo://detail?mblogid=5227434482076848",
+        "sinaweibo://detail?mblogid=5227145477753866",
+        "sinaweibo://detail?mblogid=5227110118459109",
+        "sinaweibo://detail?mblogid=5222380994825559",
+        "sinaweibo://detail?mblogid=5224870889390608",
+        "sinaweibo://detail?mblogid=5222677989819290",
+        "sinaweibo://detail?mblogid=5222672762929362",
+        "sinaweibo://detail?mblogid=5222386183966142",
+        "sinaweibo://detail?mblogid=5222686873095366",
+        "sinaweibo://detail?mblogid=5155382911043945",
+        "https://baike.baidu.com/item/%E4%BD%95%E7%BE%8E%E5%BB%B6?fromModule=search-result_lemma",
+        "historyweibo://5227429385734335",
+        "historyweibo://5167739666436289",
+        "historyweibo://5134259585290191",
+        "sinaweibo://detail?mblogid=5227488998331385",
+        "sinaweibo://detail?mblogid=5227455705257341",
+        "sinaweibo://detail?mblogid=5227507326388300",
+        "sinaweibo://detail?mblogid=5227835329348812",
+        "sinaweibo://detail?mblogid=5227488998852656",
+        "sinaweibo://detail?mblogid=5227795506529446",
+        "sinaweibo://detail?mblogid=5227533341033218",
+        "sinaweibo://detail?mblogid=5227057487545278",
+        "sinaweibo://detail?mblogid=5227498658857574",
+        "sinaweibo://detail?mblogid=5227527419202884",
+        "sinaweibo://detail?mblogid=5155343667824391",
+        "sinaweibo://detail?mblogid=5222677488864685",
+        "sinaweibo://detail?mblogid=5222685790438553",
+        "sinaweibo://detail?mblogid=5227497488651234",
+        "sinaweibo://detail?mblogid=5222671214447338",
+        "sinaweibo://detail?mblogid=5222677713257389"
+      ],
+      "query_category": ""
+    }
+  },
+  "links": [
+    "sinaweibo://detail?mblogid=5227429385734335",
+    "sinaweibo://detail?mblogid=5227473631708740",
+    "sinaweibo://detail?mblogid=5227137477904110",
+    "sinaweibo://detail?mblogid=5227438067679708",
+    "sinaweibo://detail?mblogid=5227438368883555",
+    "sinaweibo://detail?mblogid=5223127611081578",
+    "sinaweibo://detail?mblogid=5227458045674158",
+    "sinaweibo://detail?mblogid=5222543277426632",
+    "sinaweibo://detail?mblogid=5223866414664118",
+    "sinaweibo://detail?mblogid=5223914281636309",
+    "sinaweibo://detail?mblogid=5227434482076848",
+    "sinaweibo://detail?mblogid=5227145477753866",
+    "sinaweibo://detail?mblogid=5227110118459109",
+    "sinaweibo://detail?mblogid=5222380994825559",
+    "sinaweibo://detail?mblogid=5224870889390608",
+    "sinaweibo://detail?mblogid=5222677989819290",
+    "sinaweibo://detail?mblogid=5222672762929362",
+    "sinaweibo://detail?mblogid=5222386183966142",
+    "sinaweibo://detail?mblogid=5222686873095366",
+    "sinaweibo://detail?mblogid=5155382911043945",
+    "https://baike.baidu.com/item/%E4%BD%95%E7%BE%8E%E5%BB%B6?fromModule=search-result_lemma",
+    "historyweibo://5227429385734335",
+    "historyweibo://5167739666436289",
+    "historyweibo://5134259585290191",
+    "sinaweibo://detail?mblogid=5227488998331385",
+    "sinaweibo://detail?mblogid=5227455705257341",
+    "sinaweibo://detail?mblogid=5227507326388300",
+    "sinaweibo://detail?mblogid=5227835329348812",
+    "sinaweibo://detail?mblogid=5227488998852656",
+    "sinaweibo://detail?mblogid=5227795506529446",
+    "sinaweibo://detail?mblogid=5227533341033218",
+    "sinaweibo://detail?mblogid=5227057487545278",
+    "sinaweibo://detail?mblogid=5227498658857574",
+    "sinaweibo://detail?mblogid=5227527419202884",
+    "sinaweibo://detail?mblogid=5155343667824391",
+    "sinaweibo://detail?mblogid=5222677488864685",
+    "sinaweibo://detail?mblogid=5222685790438553",
+    "sinaweibo://detail?mblogid=5227497488651234",
+    "sinaweibo://detail?mblogid=5222671214447338",
+    "sinaweibo://detail?mblogid=5222677713257389"
+  ],
+  "media": [
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/006f5QMaly1i6tdg53rcuj31hc0u0jsr.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/006f5QMaly1i6tdg53rcuj31hc0u0jsr.jpg",
+      "alt": "电影拆台君",
+      "width": 1080,
+      "height": 1920,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/006f5QMaly1i6tdg53rcuj31hc0u0jsr.jpg"
+      ],
+      "user": "电影拆台君"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/006HHlDvly1i6taeckptej30k00qojsc.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/006HHlDvly1i6taeckptej30k00qojsc.jpg",
+      "alt": "卢米沃克斯动漫",
+      "width": 960,
+      "height": 720,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/006HHlDvly1i6taeckptej30k00qojsc.jpg"
+      ],
+      "user": "卢米沃克斯动漫"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/008cQxzply1i6uk0yu80lj30k00zkmy8.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/008cQxzply1i6uk0yu80lj30k00zkmy8.jpg",
+      "alt": "爱喝冬芳树叶",
+      "width": 1280,
+      "height": 720,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/008cQxzply1i6uk0yu80lj30k00zkmy8.jpg"
+      ],
+      "user": "爱喝冬芳树叶"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/001kXKr0ly1i6uc3rjtk7j61hz0u0jv702.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/001kXKr0ly1i6uc3rjtk7j61hz0u0jv702.jpg",
+      "alt": "阳光八卦君",
+      "width": 1080,
+      "height": 1943,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx4.sinaimg.cn/large/001kXKr0ly1i6uc3rjtk7j61hz0u0jv702.jpg"
+      ],
+      "user": "阳光八卦君"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/83fee4ealy1i6ub2fdzsbj20k00zkgn5.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/83fee4ealy1i6ub2fdzsbj20k00zkgn5.jpg",
+      "alt": "娱圈挑担人",
+      "width": 1280,
+      "height": 720,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/83fee4ealy1i6ub2fdzsbj20k00zkgn5.jpg"
+      ],
+      "user": "娱圈挑担人"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/a66d0169ly8i6uh32x28aj217o0ogx32.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/a66d0169ly8i6uh32x28aj217o0ogx32.jpg",
+      "alt": "小狗斯特",
+      "width": 880,
+      "height": 1572,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/a66d0169ly8i6uh32x28aj217o0ogx32.jpg"
+      ],
+      "user": "小狗斯特"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/0076Eemrly1i6ufdgfoj4j30nq0dc755.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/0076Eemrly1i6ufdgfoj4j30nq0dc755.jpg",
+      "alt": "娱婆",
+      "width": 480,
+      "height": 854,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/0076Eemrly1i6ufdgfoj4j30nq0dc755.jpg"
+      ],
+      "user": "娱婆"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/00747Yrgly1i6uiw6uyxhj30qo0k075g.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/00747Yrgly1i6uiw6uyxhj30qo0k075g.jpg",
+      "alt": "追星吃瓜崽",
+      "width": 720,
+      "height": 960,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/00747Yrgly1i6uiw6uyxhj30qo0k075g.jpg"
+      ],
+      "user": "追星吃瓜崽"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/005KXNSzgy1i0ggnah00jj30n20h4tcg.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/005KXNSzgy1i0ggnah00jj30n20h4tcg.jpg",
+      "alt": "董克川",
+      "width": 616,
+      "height": 830,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/005KXNSzgy1i0ggnah00jj30n20h4tcg.jpg"
+      ],
+      "user": "董克川"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/b6198939ly1i6f4qv6c6qj20ow0k0t9j.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/b6198939ly1i6f4qv6c6qj20ow0k0t9j.jpg",
+      "alt": "钧沐宸",
+      "width": 720,
+      "height": 896,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/b6198939ly1i6f4qv6c6qj20ow0k0t9j.jpg"
+      ],
+      "user": "钧沐宸"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/006qlIAxgy1i6e7vf1h63j31hc0qowfn.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/006qlIAxgy1i6e7vf1h63j31hc0qowfn.jpg",
+      "alt": "SwagFxxk_",
+      "width": 960,
+      "height": 1920,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/006qlIAxgy1i6e7vf1h63j31hc0qowfn.jpg"
+      ],
+      "user": "SwagFxxk_"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/450bb15fly1i6f6dl1ywjj20zk0k0my0.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/450bb15fly1i6f6dl1ywjj20zk0k0my0.jpg",
+      "alt": "大玉米宝",
+      "width": 720,
+      "height": 1280,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/450bb15fly1i6f6dl1ywjj20zk0k0my0.jpg"
+      ],
+      "user": "大玉米宝"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/e0b2fe90ly1i6f57skphij20zk0k0wfe.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/e0b2fe90ly1i6f57skphij20zk0k0wfe.jpg",
+      "alt": "幼儿园我没毕业",
+      "width": 720,
+      "height": 1280,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/e0b2fe90ly1i6f57skphij20zk0k0wfe.jpg"
+      ],
+      "user": "幼儿园我没毕业"
+    }
+  ],
+  "html_path": "data/aicard/hourly/2025-10-30/14/topic-98ad21d9.html"
+}

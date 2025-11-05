@@ -1,0 +1,411 @@
+{
+  "meta": {
+    "query": "#微信式恋爱#",
+    "status_code": 200,
+    "fetched_at": "2025-11-05T12:35:16+08:00",
+    "response": {
+      "msg_format": "markdown",
+      "mid_list": null,
+      "reference_num": 46,
+      "query_category": "",
+      "status_stage": 4,
+      "link_list": [
+        "sinaweibo://detail?mblogid=5229562583583571",
+        "sinaweibo://detail?mblogid=5198961952693192",
+        "sinaweibo://detail?mblogid=5217657047745667",
+        "sinaweibo://detail?mblogid=4903280687712600",
+        "sinaweibo://detail?mblogid=5198969770082799",
+        "sinaweibo://detail?mblogid=5198981178067406",
+        "sinaweibo://detail?mblogid=5217708241322185",
+        "sinaweibo://detail?mblogid=5198959872316006",
+        "sinaweibo://detail?mblogid=5198963252135944",
+        "sinaweibo://detail?mblogid=5217704910786727",
+        "sinaweibo://detail?mblogid=5217706477619882",
+        "sinaweibo://detail?mblogid=5217842041456303",
+        "sinaweibo://detail?mblogid=5217692149876806",
+        "sinaweibo://detail?mblogid=5217701791797021",
+        "https://baike.baidu.com/item/%E5%BE%AE%E4%BF%A1%E7%88%B1%E6%83%85%E6%95%85%E4%BA%8B/24310189?fromModule=search-result_lemma",
+        "broadsocial_res://",
+        "broadsocial_res://",
+        "historyweibo://5226465564036989",
+        "historyweibo://5226373396303094",
+        "historyweibo://5226112049480034",
+        "sinaweibo://detail?mblogid=5229594865042999",
+        "sinaweibo://detail?mblogid=5229595520401843",
+        "sinaweibo://detail?mblogid=5229596389676463",
+        "sinaweibo://detail?mblogid=5229596077461298",
+        "sinaweibo://detail?mblogid=5229595773373573",
+        "sinaweibo://detail?mblogid=5229595563394113",
+        "sinaweibo://detail?mblogid=5229595471123185",
+        "sinaweibo://detail?mblogid=5229592801709750",
+        "sinaweibo://detail?mblogid=5229592428414241",
+        "sinaweibo://detail?mblogid=5229592245177574",
+        "sinaweibo://detail?mblogid=5229592151589874",
+        "sinaweibo://detail?mblogid=5229591238282715",
+        "sinaweibo://detail?mblogid=5228127175578008",
+        "sinaweibo://detail?mblogid=5225718013233900",
+        "sinaweibo://detail?mblogid=5225329406510465",
+        "sinaweibo://detail?mblogid=5223032840260097",
+        "sinaweibo://detail?mblogid=5219103242982649",
+        "sinaweibo://detail?mblogid=5218891879685951",
+        "sinaweibo://detail?mblogid=5217768322109110",
+        "sinaweibo://detail?mblogid=5217701322034745",
+        "sinaweibo://detail?mblogid=5093822682103916",
+        "sinaweibo://detail?mblogid=5020216490988257",
+        "sinaweibo://detail?mblogid=5046027536564742",
+        "sinaweibo://detail?mblogid=5199117756404024",
+        "sinaweibo://detail?mblogid=5198973723738356",
+        "sinaweibo://detail?mblogid=5198965797815019",
+        "sinaweibo://detail?mblogid=5217715070703388",
+        "sinaweibo://detail?mblogid=5217713758669167",
+        "sinaweibo://detail?mblogid=5020213252984684",
+        "sinaweibo://detail?mblogid=5217786326685695",
+        "sinaweibo://detail?mblogid=5217698478294201",
+        "sinaweibo://detail?mblogid=5020217107808762"
+      ],
+      "top_quote_list": {},
+      "short_url": "http://t.cn/A6dE1THO",
+      "uid": "",
+      "model": "deepseek",
+      "ext_show": {},
+      "qs_status": 0,
+      "query_field": "6",
+      "qs_status_info": "{\"ab_lab\":{},\"qs_q_status\":0,\"qs_c_status\":8388608,\"qs_r_status\":0,\"qs_u_status\":0,\"qs_status\":0}",
+      "query": "#微信式恋爱#",
+      "news_analyze": {},
+      "reliable_tips": "{\"gold_orange_v_mids\": [\"5229562583583571\", \"5217657047745667\", \"5198963252135944\", \"4903280687712600\", \"5217706477619882\", \"5229595773373573\", \"5217768322109110\", \"5198969770082799\", \"5217708241322185\", \"5229594865042999\", \"5198959872316006\", \"5217715070703388\", \"5198981178067406\", \"5217692149876806\", \"5198961952693192\", \"5198973723738356\", \"5217701322034745\", \"5217713758669167\", \"5198965797815019\", \"5217701791797021\", \"5217842041456303\", \"5199117756404024\", \"5217704910786727\", \"5229595520401843\", \"5229596389676463\", \"5229592801709750\", \"5229592151589874\", \"5229591238282715\", \"5219103242982649\", \"5093822682103916\", \"5020216490988257\", \"5020213252984684\", \"5217786326685695\", \"5217698478294201\"], \"gold_orange_v_ratio\": \"74%\", \"media_mids\": [], \"media_ratio\": \"0%\", \"verified_mids\": [\"5223032840260097\", \"5229596077461298\", \"5229595471123185\", \"5046027536564742\"], \"verified_ratio\": \"9%\", \"normal_mids\": [\"5229595563394113\", \"5229592428414241\", \"5229592245177574\", \"5228127175578008\", \"5225718013233900\", \"5225329406510465\", \"5218891879685951\", \"5020217107808762\"], \"normal_ratio\": \"17%\", \"ref_mid_rank\": {\"5229562583583571\": {\"rank\": 1}, \"5217657047745667\": {\"rank\": 3}, \"5198963252135944\": {\"rank\": 9}, \"4903280687712600\": {\"rank\": 4}, \"5217706477619882\": {\"rank\": 11}, \"5229595773373573\": {\"rank\": 25}, \"5217768322109110\": {\"rank\": 39}, \"5198969770082799\": {\"rank\": 5}, \"5217708241322185\": {\"rank\": 7}, \"5229594865042999\": {\"rank\": 21}, \"5198959872316006\": {\"rank\": 8}, \"5217715070703388\": {\"rank\": 47}, \"5198981178067406\": {\"rank\": 6}, \"5217692149876806\": {\"rank\": 13}, \"5198961952693192\": {\"rank\": 2}, \"5223032840260097\": {\"rank\": 36}, \"5198973723738356\": {\"rank\": 45}, \"5217701322034745\": {\"rank\": 40}, \"5217713758669167\": {\"rank\": 48}, \"5198965797815019\": {\"rank\": 46}, \"5229596077461298\": {\"rank\": 24}, \"5217701791797021\": {\"rank\": 14}, \"5217842041456303\": {\"rank\": 12}, \"5199117756404024\": {\"rank\": 44}, \"5217704910786727\": {\"rank\": 10}, \"5229595520401843\": {\"rank\": 22}, \"5229596389676463\": {\"rank\": 23}, \"5229595563394113\": {\"rank\": 26}, \"5229595471123185\": {\"rank\": 27}, \"5229592801709750\": {\"rank\": 28}, \"5229592428414241\": {\"rank\": 29}, \"5229592245177574\": {\"rank\": 30}, \"5229592151589874\": {\"rank\": 31}, \"5229591238282715\": {\"rank\": 32}, \"5228127175578008\": {\"rank\": 33}, \"5225718013233900\": {\"rank\": 34}, \"5225329406510465\": {\"rank\": 35}, \"5219103242982649\": {\"rank\": 37}, \"5218891879685951\": {\"rank\": 38}, \"5093822682103916\": {\"rank\": 41}, \"5020216490988257\": {\"rank\": 42}, \"5046027536564742\": {\"rank\": 43}, \"5020213252984684\": {\"rank\": 49}, \"5217786326685695\": {\"rank\": 50}, \"5217698478294201\": {\"rank\": 51}, \"5020217107808762\": {\"rank\": 52}}, \"reliable_summary\": \"核心事件可靠度低，因性别比例数据缺乏权威验证，存在争议。\"}",
+      "profile_image_url": "",
+      "zs_risk_control": {
+        "think_text_close": 0,
+        "land_button_close": 0
+      },
+      "version": "2025-11-05 12:23:02.020999-8156",
+      "comment_info": {},
+      "current_time": 1762317317,
+      "sorted_material_list": null,
+      "show_ctrl": {
+        "quote": {}
+      },
+      "card_multimodal": {
+        "type": "mediablock",
+        "data": [
+          {
+            "w": 1242,
+            "scheme": "sinaweibo://multimedia?mix_mid=5217706477619882&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=0&multi_count=0",
+            "img": "http://wx1.sinaimg.cn/middle/008gS7KBgy1i5zaexlmejj30yi1a445e.jpg",
+            "hit_score_new": 84.326172,
+            "doc_score": 3432,
+            "img_pid": "008gS7KBgy1i5zaexlmejj30yi1a445e",
+            "user_name": "乂斯命",
+            "click_rate": 0.06,
+            "click_num": 0,
+            "hit_score_final": 73.795708,
+            "video_url": "",
+            "cur_mid": "5217706477619882",
+            "user_avatar": "https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/008gS7KBly8i6xzq9sm78j30u00u0q4r.jpg?KID=imgbed,tva&Expires=1762327382&ssig=wDZJlxmm2n",
+            "h": 1660,
+            "type": "p",
+            "vtype": 0
+          },
+          {
+            "w": 1179,
+            "scheme": "sinaweibo://multimedia?mix_mid=5217715070703388&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=0&multi_count=1",
+            "img": "http://wx1.sinaimg.cn/middle/008A8sMaly1i5zbdmy9ljj30wr17eai0.jpg",
+            "hit_score_new": 87.304688,
+            "doc_score": 3310,
+            "img_pid": "008A8sMaly1i5zbdmy9ljj30wr17eai0",
+            "user_name": "呆梦酱吖",
+            "click_rate": 0.06,
+            "click_num": 0,
+            "hit_score_final": 78.782814,
+            "video_url": "",
+            "cur_mid": "5217715070703388",
+            "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/008A8sMaly8hoj8s0ey6ij30u00u0acf.jpg?KID=imgbed,tva&Expires=1762327382&ssig=3b7bx8nx7i",
+            "h": 1562,
+            "type": "p",
+            "vtype": 0
+          },
+          {
+            "w": 1080,
+            "scheme": "sinaweibo://video/vvs?mid=5217657047745667&multi_paragraph=0&multi_count=2",
+            "img": "http://wx4.sinaimg.cn/middle/006sEhQkly1i5z4qo00vvj30u01hc767.jpg",
+            "hit_score_new": 59.179688,
+            "doc_score": 4381,
+            "img_pid": "006sEhQkly1i5z4qo00vvj30u01hc767",
+            "user_name": "Pendlers",
+            "click_rate": 0,
+            "click_num": 0,
+            "hit_score_final": 60.707809,
+            "video_url": "https://video.weibo.com/show?fid=1034:5217656685658167",
+            "cur_mid": "5217657047745667",
+            "user_avatar": "https://tvax2.sinaimg.cn/crop.0.0.511.511.50/006sEhQkly8h6mfa4mcz7j30e70e7aa3.jpg?KID=imgbed,tva&Expires=1762327382&ssig=o6dBniTE3Z",
+            "h": 1920,
+            "type": "v",
+            "vtype": 0
+          },
+          {
+            "w": 1242,
+            "scheme": "sinaweibo://multimedia?mix_mid=5217706477619882&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=0&multi_count=0",
+            "img": "http://wx1.sinaimg.cn/middle/008gS7KBgy1i5zaexlmejj30yi1a445e.jpg",
+            "hit_score_new": 84.326172,
+            "doc_score": 3432,
+            "img_pid": "008gS7KBgy1i5zaexlmejj30yi1a445e",
+            "user_name": "乂斯命",
+            "click_rate": 0.06,
+            "click_num": 0,
+            "hit_score_final": 73.795708,
+            "video_url": "",
+            "cur_mid": "5217706477619882",
+            "user_avatar": "https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/008gS7KBly8i6xzq9sm78j30u00u0q4r.jpg?KID=imgbed,tva&Expires=1762327382&ssig=wDZJlxmm2n",
+            "h": 1660,
+            "type": "p",
+            "vtype": 0
+          }
+        ]
+      },
+      "share_text": "#微信式恋爱#的相关内容，来智搜看看",
+      "basemodel": "实验组4",
+      "scheme": "sinaweibo://cardlist?containerid=100103type%3D225%26q%3D%23%E5%BE%AE%E4%BF%A1%E5%BC%8F%E6%81%8B%E7%88%B1%23%26t%3D&extparam=ai_model%3Ddeepseek%26ori_ai_title%3D%E5%8F%82%E8%80%83%E5%8D%9A%E6%96%87%26material_version%3D1762316582",
+      "msg_json": "{}",
+      "loop_times": 200,
+      "unify_md5": "1fbb9e94a69a350e39fb89a69f877ac3",
+      "share_card_multimodal": {
+        "w": 1242,
+        "scheme": "sinaweibo://multimedia?mix_mid=5217706477619882&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=0&multi_count=0",
+        "img": "http://wx1.sinaimg.cn/middle/008gS7KBgy1i5zaexlmejj30yi1a445e.jpg",
+        "hit_score_new": 84.326172,
+        "doc_score": 3432,
+        "img_pid": "008gS7KBgy1i5zaexlmejj30yi1a445e",
+        "user_name": "乂斯命",
+        "click_rate": 0.06,
+        "click_num": 0,
+        "hit_score_final": 73.795708,
+        "video_url": "",
+        "cur_mid": "5217706477619882",
+        "user_avatar": "https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/008gS7KBly8i6xzq9sm78j30u00u0q4r.jpg?KID=imgbed,tva&Expires=1762327382&ssig=wDZJlxmm2n",
+        "h": 1660,
+        "type": "p",
+        "vtype": 0
+      },
+      "cot": 1,
+      "msg": "<think><br>嗯，用户想了解\"微信式恋爱\"的相关信息，我需要整理搜索结果中的核心观点和讨论。从42条结果来看，这个话题在社交媒体上被广泛讨论，主要集中在情感模式的定义、争议和解决方案上。<br><br>首先定义部分，和都明确提到，微信式恋爱是依赖线上交流但缺乏现实行动的情感模式，典型表现是下雨时只提醒带伞却不来接，生病时只说多喝热水却不陪去医院。这种\"语言代替行动\"的特征在多条内容中被反复强调。<br><br>关于争议点，的分析最全面：批判派认为这是\"情感懒惰\"或\"养鱼手段\"；认同派觉得适合事业型/回避型人格；中立派强调工具无罪但需警惕关系降级。还补充了心理学视角，指出这种模式会形成\"亲密错觉\"。<br><br>有意思的是，有内容提到性别差异。指出73%女性批判但41%男性反感的比例缺乏权威依据，但确实反映了社会对男性行动力的隐性期待。还提到焦虑型依恋者会通过秒回消息获取安全感，而回避型则会用微信保持距离。<br><br>特别值得注意的现实案例在，琳的故事生动展示了虚拟关怀的无力感——急性肠胃炎时收到红包却更崩溃，因为\"要的不是钱而是有人递杯温水\"。的咨询案例也印证了\"文字幻觉\"如何掩盖真实疏离。<br><br>解决方案上，提供了可操作建议：约定微信只聊日常，强制每周见面；则哲学化地指出\"爱需要全息体验\"。都强调异地恋可以突破局限，比如生病时远程点外卖送药，用行动填补距离。<br><br>最后的研究特别有价值：伴侣间\"废话\"比例越高越幸福，因为能激活镜像神经元同步。但作者也提醒，这不能替代线下共同解决问题建立的信任。<br><br></think><br>### 💬 一、核心定义与特征  <br>**微信式恋爱**指亲密关系高度依赖线上文字交流（如微信聊天），但缺乏现实行动与陪伴的情感模式，本质是数字时代的情感异化现象。其核心特征包括：```wbCustomBlock{\"type\": \"quoted\", \"index\": 2, \"data\": {\"num\": [1, 3, 9], \"version\": 2, \"quote_list\": [{\"name\": \"Pendlers\", \"scheme\": \"sinaweibo://detail?mblogid=5217657047745667\", \"index\": 3, \"label\": \"大v\"}, {\"name\": \"表演系人格\", \"scheme\": \"sinaweibo://detail?mblogid=5229562583583571\", \"index\": 1, \"label\": \"\"}, {\"name\": \"剧小桃\", \"scheme\": \"sinaweibo://detail?mblogid=5198963252135944\", \"index\": 9, \"label\": \"\"}], \"name\": \"Pendlers\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.511.511.50/006sEhQkly8h6mfa4mcz7j30e70e7aa3.jpg?KID=imgbed,tva&Expires=1762327382&ssig=o6dBniTE3Z\", \"scheme\": \"sinaweibo://detail?mblogid=5217657047745667\", \"vType\": 0}}```  <br>1. **语言代替行动**：仅有虚拟关怀（如“多喝热水”“记得带伞”），无实际付出（如送药、接送）。```wbCustomBlock{\"type\": \"quoted\", \"index\": 3, \"data\": {\"num\": [4, 9, 11], \"version\": 2, \"quote_list\": [{\"name\": \"饭煎蛋\", \"scheme\": \"sinaweibo://detail?mblogid=4903280687712600\", \"index\": 4, \"label\": \"\"}, {\"name\": \"剧小桃\", \"scheme\": \"sinaweibo://detail?mblogid=5198963252135944\", \"index\": 9, \"label\": \"\"}, {\"name\": \"乂斯命\", \"scheme\": \"sinaweibo://detail?mblogid=5217706477619882\", \"index\": 11, \"label\": \"\"}]}}```  <br>2. **低成本维系**：以“早安/晚安”、表情包、游戏组队为主要互动，看似高频实则深度不足。```wbCustomBlock{\"type\": \"quoted\", \"index\": 4, \"data\": {\"num\": [9, 25, 39], \"version\": 2, \"quote_list\": [{\"name\": \"喵星君大大\", \"scheme\": \"sinaweibo://detail?mblogid=5229595773373573\", \"index\": 25, \"label\": \"大v\"}, {\"name\": \"剧小桃\", \"scheme\": \"sinaweibo://detail?mblogid=5198963252135944\", \"index\": 9, \"label\": \"\"}, {\"name\": \"四宝妈mindy\", \"scheme\": \"sinaweibo://detail?mblogid=5217768322109110\", \"index\": 39, \"label\": \"\"}], \"name\": \"喵星君大大\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.1006.1006.50/56e37ff2ly8fo0wzcvv6fj20ry0ry416.jpg?KID=imgbed,tva&Expires=1762327382&ssig=IyNMa6Zo07\", \"scheme\": \"sinaweibo://detail?mblogid=5229595773373573\", \"vType\": 0}}```  <br>3. **回避现实责任**：以忙碌、距离为借口拒绝见面，关键需求（如生病陪伴、矛盾解决）被悬置。```wbCustomBlock{\"type\": \"quoted\", \"index\": 5, \"data\": {\"num\": [5, 7, 21], \"version\": 2, \"quote_list\": [{\"name\": \"晓生\", \"scheme\": \"sinaweibo://detail?mblogid=5229594865042999\", \"index\": 21, \"label\": \"大v\"}, {\"name\": \"罗文清forever\", \"scheme\": \"sinaweibo://detail?mblogid=5198969770082799\", \"index\": 5, \"label\": \"\"}, {\"name\": \"资本大事纪\", \"scheme\": \"sinaweibo://detail?mblogid=5217708241322185\", \"index\": 7, \"label\": \"\"}], \"name\": \"晓生\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.1024.1024.50/a125a017ly8hbl61fkjgcj20sg0sgq3s.jpg?KID=imgbed,tva&Expires=1762327382&ssig=j5HWn5OdAc\", \"scheme\": \"sinaweibo://detail?mblogid=5229594865042999\", \"vType\": 0}}```  <br>4. **情感割裂**：线上热聊，线下见面无话可说或尴尬冷淡。```wbCustomBlock{\"type\": \"quoted\", \"index\": 6, \"data\": {\"num\": [8, 47], \"version\": 2, \"quote_list\": [{\"name\": \"呆梦酱吖\", \"scheme\": \"sinaweibo://detail?mblogid=5217715070703388\", \"index\": 47, \"label\": \"大v\"}, {\"name\": \"味道食\", \"scheme\": \"sinaweibo://detail?mblogid=5198959872316006\", \"index\": 8, \"label\": \"\"}], \"name\": \"呆梦酱吖\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/008A8sMaly8hoj8s0ey6ij30u00u0acf.jpg?KID=imgbed,tva&Expires=1762327382&ssig=3b7bx8nx7i\", \"scheme\": \"sinaweibo://detail?mblogid=5217715070703388\", \"vType\": 0}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5217706477619882&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=0&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/008gS7KBly8i6xzq9sm78j30u00u0q4r.jpg?KID=imgbed,tva&Expires=1762327382&ssig=wDZJlxmm2n) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">乂斯命</span><img src=\"http://wx1.sinaimg.cn/middle/008gS7KBgy1i5zaexlmejj30yi1a445e.jpg\" data-width=1660 data-height=1242></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5217715070703388&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=0&multi_count=1\"><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/008A8sMaly8hoj8s0ey6ij30u00u0acf.jpg?KID=imgbed,tva&Expires=1762327382&ssig=3b7bx8nx7i) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">呆梦酱吖</span><img src=\"http://wx1.sinaimg.cn/middle/008A8sMaly1i5zbdmy9ljj30wr17eai0.jpg\" data-width=1562 data-height=1179></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5217657047745667&multi_paragraph=0&multi_count=2\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.511.511.50/006sEhQkly8h6mfa4mcz7j30e70e7aa3.jpg?KID=imgbed,tva&Expires=1762327382&ssig=o6dBniTE3Z) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">Pendlers</span><img src=\"http://wx4.sinaimg.cn/middle/006sEhQkly1i5z4qo00vvj30u01hc767.jpg\" data-width=1920 data-height=1080></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5198963252135944&multi_paragraph=0&multi_count=3\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.512.512.50/006S4J1nly8i2sosg149kj30e80e8aan.jpg?KID=imgbed,tva&Expires=1762327382&ssig=yvVn7WVMqE) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">剧小桃</span><img src=\"http://wx4.sinaimg.cn/middle/006S4J1nly1i4bhs85hgej30k00zkt9w.jpg\" data-width=1280 data-height=720></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5198969770082799&multi_paragraph=0&multi_count=4\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.512.512.50/0067bniQly8hu4r44jx67j30e80e8gmi.jpg?KID=imgbed,tva&Expires=1762327382&ssig=AC133PvSAu) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">罗文清forever</span><img src=\"http://wx1.sinaimg.cn/middle/0067bniQly1i4biidc8mzj31hc0u0dh2.jpg\" data-width=1080 data-height=1920></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5217708241322185&multi_paragraph=0&multi_count=5\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.996.996.50/0084LG9uly8gfi9y95dlyj30ro0ron0o.jpg?KID=imgbed,tva&Expires=1762327382&ssig=m6xYGbqMWF) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">资本大事纪</span><img src=\"http://wx1.sinaimg.cn/middle/0084LG9uly1i5zaljehpmj31hc0u00tv.jpg\" data-width=1080 data-height=1920></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5198959872316006&multi_paragraph=0&multi_count=6\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.700.700.50/006DJNfkly8hafya2ub1jj30jg0jgq40.jpg?KID=imgbed,tva&Expires=1762327382&ssig=eqNiEOwfd0) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">味道食</span><img src=\"http://wx4.sinaimg.cn/middle/006DJNfkly1i4bhef7chxj30u01hcmyh.jpg\" data-width=1920 data-height=1080></div></media-block><br>### ⚖️ 二、争议与多元观点  <br>不同群体对微信式恋爱的态度存在显著分化：  <br>1. **批判派（主流声音）**：  <br>   - 认为本质是“情感懒惰”或“养鱼手段”，缺乏行动的爱实为不够爱。```wbCustomBlock{\"type\": \"quoted\", \"index\": 10, \"data\": {\"num\": [3, 6, 13], \"version\": 2, \"quote_list\": [{\"name\": \"娮可\", \"scheme\": \"sinaweibo://detail?mblogid=5217692149876806\", \"index\": 13, \"label\": \"大v\"}, {\"name\": \"Pendlers\", \"scheme\": \"sinaweibo://detail?mblogid=5217657047745667\", \"index\": 3, \"label\": \"\"}, {\"name\": \"资本大事纪\", \"scheme\": \"sinaweibo://detail?mblogid=5198981178067406\", \"index\": 6, \"label\": \"\"}], \"name\": \"娮可\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.1024.1024.50/c9e2a728ly8hz8rh2etcyj20sg0sgace.jpg?KID=imgbed,tva&Expires=1762327382&ssig=nWk4nl2ozI\", \"scheme\": \"sinaweibo://detail?mblogid=5217692149876806\", \"vType\": 0}}```  <br>   - 揭露套路化操作：部分人通过置顶秒回、朋友圈秀恩爱、节日红包等低成本行为维系多个暧昧对象，称为“养鱼经济”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 11, \"data\": {\"num\": [2, 7, 9], \"version\": 2, \"quote_list\": [{\"name\": \"a无小邪\", \"scheme\": \"sinaweibo://detail?mblogid=5198961952693192\", \"index\": 2, \"label\": \"\"}, {\"name\": \"资本大事纪\", \"scheme\": \"sinaweibo://detail?mblogid=5217708241322185\", \"index\": 7, \"label\": \"\"}, {\"name\": \"剧小桃\", \"scheme\": \"sinaweibo://detail?mblogid=5198963252135944\", \"index\": 9, \"label\": \"\"}]}}```  <br>2. **认同派**：  <br>   - 契合事业型、回避型人格需求，提供低压力情感支持，尤其适合异地或高压人群。```wbCustomBlock{\"type\": \"quoted\", \"index\": 13, \"data\": {\"num\": [6, 36, 45], \"version\": 2, \"quote_list\": [{\"name\": \"资本大事纪\", \"scheme\": \"sinaweibo://detail?mblogid=5198981178067406\", \"index\": 6, \"label\": \"\"}, {\"name\": \"檀总请颖兒吃火锅\", \"scheme\": \"sinaweibo://detail?mblogid=5223032840260097\", \"index\": 36, \"label\": \"\"}, {\"name\": \"·莎莉叶·\", \"scheme\": \"sinaweibo://detail?mblogid=5198973723738356\", \"index\": 45, \"label\": \"\"}]}}```  <br>3. **中立反思派**：  <br>   - 工具本身无错，但需警惕“关系降级”：若双方达成共识且满意现状，模式可存续；反之需协调或止损。```wbCustomBlock{\"type\": \"quoted\", \"index\": 15, \"data\": {\"num\": [6, 40, 48], \"version\": 2, \"quote_list\": [{\"name\": \"资本大事纪\", \"scheme\": \"sinaweibo://detail?mblogid=5198981178067406\", \"index\": 6, \"label\": \"\"}, {\"name\": \"吃白象的少年\", \"scheme\": \"sinaweibo://detail?mblogid=5217701322034745\", \"index\": 40, \"label\": \"\"}, {\"name\": \"快快快快198110\", \"scheme\": \"sinaweibo://detail?mblogid=5217713758669167\", \"index\": 48, \"label\": \"\"}]}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5217692149876806&multi_paragraph=1&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.1024.1024.50/c9e2a728ly8hz8rh2etcyj20sg0sgace.jpg?KID=imgbed,tva&Expires=1762327382&ssig=nWk4nl2ozI) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">娮可</span><img src=\"http://wx3.sinaimg.cn/middle/c9e2a728ly1i5z8s0fl6xj20u00gxaeb.jpg\" data-width=609 data-height=1080></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5198981178067406&multi_paragraph=1&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.996.996.50/0084LG9uly8gfi9y95dlyj30ro0ron0o.jpg?KID=imgbed,tva&Expires=1762327382&ssig=m6xYGbqMWF) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">资本大事纪</span><img src=\"http://wx1.sinaimg.cn/middle/0084LG9uly1i4bjuik9t0j30u01hcgo2.jpg\" data-width=1920 data-height=1080></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5198961952693192&multi_paragraph=1&multi_count=2\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.1002.1002.50/006b9yL0ly8gtixc8xycaj30ru0rudi0.jpg?KID=imgbed,tva&Expires=1762327382&ssig=J3zMBOFZnB) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">a无小邪</span><img src=\"http://wx4.sinaimg.cn/middle/006b9yL0gy1i4bhm9cxztj30mi0u0gnm.jpg\" data-width=1080 data-height=810></div></media-block><br>### ⚠️ 三、潜在风险与问题  <br>1. **情感虚假性**：  <br>   - 大脑易将“收到关心”误判为真实互动，形成“亲密错觉”。长期依赖导致现实情感能力退化，如线下不会哄人或解决矛盾。```wbCustomBlock{\"type\": \"quoted\", \"index\": 19, \"data\": {\"num\": [7, 21, 25, 39, 46], \"version\": 2, \"quote_list\": [{\"name\": \"同事回收站\", \"scheme\": \"sinaweibo://detail?mblogid=5198965797815019\", \"index\": 46, \"label\": \"大v\"}, {\"name\": \"资本大事纪\", \"scheme\": \"sinaweibo://detail?mblogid=5217708241322185\", \"index\": 7, \"label\": \"\"}, {\"name\": \"晓生\", \"scheme\": \"sinaweibo://detail?mblogid=5229594865042999\", \"index\": 21, \"label\": \"\"}, {\"name\": \"喵星君大大\", \"scheme\": \"sinaweibo://detail?mblogid=5229595773373573\", \"index\": 25, \"label\": \"\"}, {\"name\": \"四宝妈mindy\", \"scheme\": \"sinaweibo://detail?mblogid=5217768322109110\", \"index\": 39, \"label\": \"\"}], \"name\": \"同事回收站\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.512.512.50/0076R5S1ly8h0qpjqzkwtj30e80e8dgc.jpg?KID=imgbed,tva&Expires=1762327382&ssig=kWfhB9JbsP\", \"scheme\": \"sinaweibo://detail?mblogid=5198965797815019\", \"vType\": 0}}```  <br>2. **性别差异矛盾**：  <br>   - 多数女性批判此模式（期待行动力），而男性反感比例较低，反映社会对性别角色的隐性期待。```wbCustomBlock{\"type\": \"reliability\", \"data\": {\"tag_name\": \"存疑\", \"tag_normal_color\": \"#EF8B00\", \"tag_dark_color\": \"#D77D00\", \"tips\": \"性别比例数据缺乏权威研究支持，实际比例可能因调查样本和方法不同而浮动。\"}}``````wbCustomBlock{\"type\": \"quoted\", \"index\": 21, \"data\": {\"num\": [6], \"version\": 2, \"quote_list\": [{\"name\": \"资本大事纪\", \"scheme\": \"sinaweibo://detail?mblogid=5198981178067406\", \"index\": 6, \"label\": \"\"}]}}```  <br>3. **法律与安全感缺失**：  <br>   - 仅靠文字难以建立信任，易引发诈骗（如伪造病历骗取钱财）或情感纠纷。```wbCustomBlock{\"type\": \"quoted\", \"index\": 23, \"data\": {\"num\": [7, 24], \"version\": 2, \"quote_list\": [{\"name\": \"南粤女声\", \"scheme\": \"sinaweibo://detail?mblogid=5229596077461298\", \"index\": 24, \"label\": \"大v\"}, {\"name\": \"资本大事纪\", \"scheme\": \"sinaweibo://detail?mblogid=5217708241322185\", \"index\": 7, \"label\": \"\"}], \"name\": \"南粤女声\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.511.511.50/007z7pOtly8h8vhf66jp0j30e70e7wel.jpg?KID=imgbed,tva&Expires=1762327382&ssig=n9CjpCbbZn\", \"scheme\": \"sinaweibo://detail?mblogid=5229596077461298\", \"vType\": 1}}```<br>### 🌟 四、健康关系的破局之道  <br>1. **行动验证爱情**：  <br>   - 将“多喝热水”转化为送药上门，“注意安全”替换为“接你下班”，用现实痕迹（如共同朋友、家中留物）证明真心。```wbCustomBlock{\"type\": \"quoted\", \"index\": 27, \"data\": {\"num\": [4, 7, 14], \"version\": 2, \"quote_list\": [{\"name\": \"林诗文\", \"scheme\": \"sinaweibo://detail?mblogid=5217701791797021\", \"index\": 14, \"label\": \"大v\"}, {\"name\": \"饭煎蛋\", \"scheme\": \"sinaweibo://detail?mblogid=4903280687712600\", \"index\": 4, \"label\": \"\"}, {\"name\": \"资本大事纪\", \"scheme\": \"sinaweibo://detail?mblogid=5217708241322185\", \"index\": 7, \"label\": \"\"}], \"name\": \"林诗文\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.1016.1016.50/007hLINOly8hbrkugh1wqj30s80s8my6.jpg?KID=imgbed,tva&Expires=1762327382&ssig=2n7U7cypy5\", \"scheme\": \"sinaweibo://detail?mblogid=5217701791797021\", \"vType\": 0}}```  <br>2. **明确关系共识**：  <br>   - 若追求烟火相伴，需协商线下投入；若接受柏拉图式交流，需确保双方目标一致。```wbCustomBlock{\"type\": \"quoted\", \"index\": 29, \"data\": {\"num\": [6, 36, 48], \"version\": 2, \"quote_list\": [{\"name\": \"资本大事纪\", \"scheme\": \"sinaweibo://detail?mblogid=5198981178067406\", \"index\": 6, \"label\": \"\"}, {\"name\": \"檀总请颖兒吃火锅\", \"scheme\": \"sinaweibo://detail?mblogid=5223032840260097\", \"index\": 36, \"label\": \"\"}, {\"name\": \"快快快快198110\", \"scheme\": \"sinaweibo://detail?mblogid=5217713758669167\", \"index\": 48, \"label\": \"\"}]}}```  <br>3. **平衡线上与线下**：  <br>   - 线上“废话”可提升幸福感（激活镜像神经元同步），但需搭配现实共同经历（如旅行、解决矛盾）深化信任。```wbCustomBlock{\"type\": \"quoted\", \"index\": 31, \"data\": {\"num\": [46, 48], \"version\": 2, \"quote_list\": [{\"name\": \"同事回收站\", \"scheme\": \"sinaweibo://detail?mblogid=5198965797815019\", \"index\": 46, \"label\": \"\"}, {\"name\": \"快快快快198110\", \"scheme\": \"sinaweibo://detail?mblogid=5217713758669167\", \"index\": 48, \"label\": \"\"}]}}```  <br>4. **异地恋突破局限**：  <br>   - 善用科技但不依赖：生病时远程订外卖送药，失落时安排视频陪伴，重要日子制造见面机会。```wbCustomBlock{\"type\": \"quoted\", \"index\": 33, \"data\": {\"num\": [36, 45], \"version\": 2, \"quote_list\": [{\"name\": \"檀总请颖兒吃火锅\", \"scheme\": \"sinaweibo://detail?mblogid=5223032840260097\", \"index\": 36, \"label\": \"\"}, {\"name\": \"·莎莉叶·\", \"scheme\": \"sinaweibo://detail?mblogid=5198973723738356\", \"index\": 45, \"label\": \"\"}]}}```<br>### 💎 五、本质总结  <br>微信式恋爱是数字时代亲密关系的缩影，其价值取决于双方共识。科技可缩短距离，但爱情需落地生根——再多的“抱抱”表情包，不如迷路时对方出现在身边。真正的亲密感来自体温交换、眼神交汇和共同经历的风雨，而非滤镜修饰的虚拟仪式。```wbCustomBlock{\"type\": \"quoted\", \"index\": 35, \"data\": {\"num\": [6, 12, 14, 39, 44, 48], \"version\": 2, \"quote_list\": [{\"name\": \"孔玮老师\", \"scheme\": \"sinaweibo://detail?mblogid=5199117756404024\", \"index\": 44, \"label\": \"大v\"}, {\"name\": \"资本大事纪\", \"scheme\": \"sinaweibo://detail?mblogid=5198981178067406\", \"index\": 6, \"label\": \"\"}, {\"name\": \"恬静的微笑2016\", \"scheme\": \"sinaweibo://detail?mblogid=5217842041456303\", \"index\": 12, \"label\": \"\"}, {\"name\": \"林诗文\", \"scheme\": \"sinaweibo://detail?mblogid=5217701791797021\", \"index\": 14, \"label\": \"\"}, {\"name\": \"四宝妈mindy\", \"scheme\": \"sinaweibo://detail?mblogid=5217768322109110\", \"index\": 39, \"label\": \"\"}, {\"name\": \"快快快快198110\", \"scheme\": \"sinaweibo://detail?mblogid=5217713758669167\", \"index\": 48, \"label\": \"\"}], \"name\": \"孔玮老师\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/498ae5a0ly8h5xy3usq58j20u00u0myu.jpg?KID=imgbed,tva&Expires=1762327382&ssig=yBDk05DsEX\", \"scheme\": \"sinaweibo://detail?mblogid=5199117756404024\", \"vType\": 0}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5217842041456303&multi_paragraph=4&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.11.490.490.50/006zZLt7ly8hsp2hmm3ocj30dm0e8dg7.jpg?KID=imgbed,tva&Expires=1762327382&ssig=hGaPgSZxHS) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">恬静的微笑2016</span><img src=\"http://wx3.sinaimg.cn/middle/006zZLt7gy1i5zpyv2j3nj30u01hcwlq.jpg\" data-width=1920 data-height=1080></div></media-block><br>",
+      "abtest_info": {
+        "chat_entrance": 1
+      },
+      "q_attr": {
+        "from_uid": "",
+        "comment_from_type": "",
+        "from_request_id": "",
+        "reply_cid": "",
+        "mid": ""
+      },
+      "status": 2,
+      "user_info": {},
+      "page_id": "2329642350c8f581ec7fa1e45c4d777300a5bb",
+      "chat_status_stage": 1,
+      "share_info": {
+        "page_id": "2329642350c8f581ec7fa1e45c4d777300a5bb",
+        "unify_md5": "1fbb9e94a69a350e39fb89a69f877ac3",
+        "status": 3,
+        "tips": "#微信式恋爱#的相关内容，来智搜看看",
+        "display_name": "#微信式恋爱#",
+        "comment_content": "",
+        "url": "http://t.cn/A6sJKjGu"
+      },
+      "ab_suffix": "default",
+      "analysis_time": 1762316827,
+      "wenda": {
+        "forward_gen": 0
+      }
+    }
+  },
+  "links": [
+    "sinaweibo://detail?mblogid=5229562583583571",
+    "sinaweibo://detail?mblogid=5198961952693192",
+    "sinaweibo://detail?mblogid=5217657047745667",
+    "sinaweibo://detail?mblogid=4903280687712600",
+    "sinaweibo://detail?mblogid=5198969770082799",
+    "sinaweibo://detail?mblogid=5198981178067406",
+    "sinaweibo://detail?mblogid=5217708241322185",
+    "sinaweibo://detail?mblogid=5198959872316006",
+    "sinaweibo://detail?mblogid=5198963252135944",
+    "sinaweibo://detail?mblogid=5217704910786727",
+    "sinaweibo://detail?mblogid=5217706477619882",
+    "sinaweibo://detail?mblogid=5217842041456303",
+    "sinaweibo://detail?mblogid=5217692149876806",
+    "sinaweibo://detail?mblogid=5217701791797021",
+    "https://baike.baidu.com/item/%E5%BE%AE%E4%BF%A1%E7%88%B1%E6%83%85%E6%95%85%E4%BA%8B/24310189?fromModule=search-result_lemma",
+    "broadsocial_res://",
+    "broadsocial_res://",
+    "historyweibo://5226465564036989",
+    "historyweibo://5226373396303094",
+    "historyweibo://5226112049480034",
+    "sinaweibo://detail?mblogid=5229594865042999",
+    "sinaweibo://detail?mblogid=5229595520401843",
+    "sinaweibo://detail?mblogid=5229596389676463",
+    "sinaweibo://detail?mblogid=5229596077461298",
+    "sinaweibo://detail?mblogid=5229595773373573",
+    "sinaweibo://detail?mblogid=5229595563394113",
+    "sinaweibo://detail?mblogid=5229595471123185",
+    "sinaweibo://detail?mblogid=5229592801709750",
+    "sinaweibo://detail?mblogid=5229592428414241",
+    "sinaweibo://detail?mblogid=5229592245177574",
+    "sinaweibo://detail?mblogid=5229592151589874",
+    "sinaweibo://detail?mblogid=5229591238282715",
+    "sinaweibo://detail?mblogid=5228127175578008",
+    "sinaweibo://detail?mblogid=5225718013233900",
+    "sinaweibo://detail?mblogid=5225329406510465",
+    "sinaweibo://detail?mblogid=5223032840260097",
+    "sinaweibo://detail?mblogid=5219103242982649",
+    "sinaweibo://detail?mblogid=5218891879685951",
+    "sinaweibo://detail?mblogid=5217768322109110",
+    "sinaweibo://detail?mblogid=5217701322034745",
+    "sinaweibo://detail?mblogid=5093822682103916",
+    "sinaweibo://detail?mblogid=5020216490988257",
+    "sinaweibo://detail?mblogid=5046027536564742",
+    "sinaweibo://detail?mblogid=5199117756404024",
+    "sinaweibo://detail?mblogid=5198973723738356",
+    "sinaweibo://detail?mblogid=5198965797815019",
+    "sinaweibo://detail?mblogid=5217715070703388",
+    "sinaweibo://detail?mblogid=5217713758669167",
+    "sinaweibo://detail?mblogid=5020213252984684",
+    "sinaweibo://detail?mblogid=5217786326685695",
+    "sinaweibo://detail?mblogid=5217698478294201",
+    "sinaweibo://detail?mblogid=5020217107808762"
+  ],
+  "media": [
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/008gS7KBgy1i5zaexlmejj30yi1a445e.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/008gS7KBgy1i5zaexlmejj30yi1a445e.jpg",
+      "alt": "乂斯命",
+      "width": 1660,
+      "height": 1242,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/008gS7KBgy1i5zaexlmejj30yi1a445e.jpg"
+      ],
+      "user": "乂斯命"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/008A8sMaly1i5zbdmy9ljj30wr17eai0.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/008A8sMaly1i5zbdmy9ljj30wr17eai0.jpg",
+      "alt": "呆梦酱吖",
+      "width": 1562,
+      "height": 1179,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/008A8sMaly1i5zbdmy9ljj30wr17eai0.jpg"
+      ],
+      "user": "呆梦酱吖"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/006sEhQkly1i5z4qo00vvj30u01hc767.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/006sEhQkly1i5z4qo00vvj30u01hc767.jpg",
+      "alt": "Pendlers",
+      "width": 1920,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/006sEhQkly1i5z4qo00vvj30u01hc767.jpg"
+      ],
+      "user": "Pendlers"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/006S4J1nly1i4bhs85hgej30k00zkt9w.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/006S4J1nly1i4bhs85hgej30k00zkt9w.jpg",
+      "alt": "剧小桃",
+      "width": 1280,
+      "height": 720,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx4.sinaimg.cn/large/006S4J1nly1i4bhs85hgej30k00zkt9w.jpg"
+      ],
+      "user": "剧小桃"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/0067bniQly1i4biidc8mzj31hc0u0dh2.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/0067bniQly1i4biidc8mzj31hc0u0dh2.jpg",
+      "alt": "罗文清forever",
+      "width": 1080,
+      "height": 1920,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/0067bniQly1i4biidc8mzj31hc0u0dh2.jpg"
+      ],
+      "user": "罗文清forever"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/0084LG9uly1i5zaljehpmj31hc0u00tv.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/0084LG9uly1i5zaljehpmj31hc0u00tv.jpg",
+      "alt": "资本大事纪",
+      "width": 1080,
+      "height": 1920,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/0084LG9uly1i5zaljehpmj31hc0u00tv.jpg"
+      ],
+      "user": "资本大事纪"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/006DJNfkly1i4bhef7chxj30u01hcmyh.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/006DJNfkly1i4bhef7chxj30u01hcmyh.jpg",
+      "alt": "味道食",
+      "width": 1920,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/006DJNfkly1i4bhef7chxj30u01hcmyh.jpg"
+      ],
+      "user": "味道食"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/c9e2a728ly1i5z8s0fl6xj20u00gxaeb.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/c9e2a728ly1i5z8s0fl6xj20u00gxaeb.jpg",
+      "alt": "娮可",
+      "width": 609,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/c9e2a728ly1i5z8s0fl6xj20u00gxaeb.jpg"
+      ],
+      "user": "娮可"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/0084LG9uly1i4bjuik9t0j30u01hcgo2.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/0084LG9uly1i4bjuik9t0j30u01hcgo2.jpg",
+      "alt": "资本大事纪",
+      "width": 1920,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/0084LG9uly1i4bjuik9t0j30u01hcgo2.jpg"
+      ],
+      "user": "资本大事纪"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/006b9yL0gy1i4bhm9cxztj30mi0u0gnm.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/006b9yL0gy1i4bhm9cxztj30mi0u0gnm.jpg",
+      "alt": "a无小邪",
+      "width": 1080,
+      "height": 810,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/006b9yL0gy1i4bhm9cxztj30mi0u0gnm.jpg"
+      ],
+      "user": "a无小邪"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/006zZLt7gy1i5zpyv2j3nj30u01hcwlq.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/006zZLt7gy1i5zpyv2j3nj30u01hcwlq.jpg",
+      "alt": "恬静的微笑2016",
+      "width": 1920,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/006zZLt7gy1i5zpyv2j3nj30u01hcwlq.jpg"
+      ],
+      "user": "恬静的微笑2016"
+    }
+  ],
+  "html_path": "data/aicard/hourly/2025-11-05/12/topic-1fbb9e94.html"
+}

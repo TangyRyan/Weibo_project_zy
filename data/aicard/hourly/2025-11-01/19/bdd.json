@@ -1,0 +1,322 @@
+{
+  "meta": {
+    "query": "#BDD冲击首冠#",
+    "status_code": 200,
+    "fetched_at": "2025-11-01T19:26:51+08:00",
+    "response": {
+      "scheme": "sinaweibo://cardlist?containerid=100103type%3D225%26q%3D%23bdd%E5%86%B2%E5%87%BB%E9%A6%96%E5%86%A0%23%26t%3D&extparam=ai_model%3Ddeepseek%26ori_ai_title%3D%E5%8F%82%E8%80%83%E5%8D%9A%E6%96%87%26material_version%3D1761995939",
+      "sorted_material_list": null,
+      "loop_times": 200,
+      "page_id": "2329641289d834877ca2cfcd9acf05e8ea595b",
+      "query": "#BDD冲击首冠#",
+      "status": 2,
+      "unify_md5": "dbe8ed43c9edb5174975593ed514e06d",
+      "news_analyze": {},
+      "analysis_time": 1761996138,
+      "abtest_info": {
+        "chat_entrance": 1
+      },
+      "q_attr": {
+        "reply_cid": "",
+        "comment_from_type": "",
+        "from_uid": "",
+        "from_request_id": "",
+        "mid": ""
+      },
+      "mid_list": null,
+      "reference_num": 30,
+      "query_category": "Ip",
+      "status_stage": 4,
+      "link_list": [
+        "sinaweibo://detail?mblogid=5228235678024476",
+        "sinaweibo://detail?mblogid=5228226893059147",
+        "sinaweibo://detail?mblogid=5228209773742464",
+        "sinaweibo://detail?mblogid=5228203151199968",
+        "sinaweibo://detail?mblogid=5228203699344306",
+        "sinaweibo://detail?mblogid=5228215991800506",
+        "sinaweibo://detail?mblogid=5228230592433370",
+        "sinaweibo://detail?mblogid=5228214381183796",
+        "sinaweibo://detail?mblogid=5228208024716220",
+        "sinaweibo://detail?mblogid=5228206426688894",
+        "broadsocial_res://",
+        "historyweibo://4958600180010186",
+        "sinaweibo://detail?mblogid=5228237769672846",
+        "sinaweibo://detail?mblogid=5228238439714992",
+        "sinaweibo://detail?mblogid=5228217192420968",
+        "sinaweibo://detail?mblogid=5228229306352423",
+        "sinaweibo://detail?mblogid=5228207457960417",
+        "sinaweibo://detail?mblogid=5228252102395303",
+        "sinaweibo://detail?mblogid=5228251865680906",
+        "sinaweibo://detail?mblogid=5228247711485093",
+        "sinaweibo://detail?mblogid=5228230773837768",
+        "sinaweibo://detail?mblogid=5228248730700551",
+        "sinaweibo://detail?mblogid=5228243725847921",
+        "sinaweibo://detail?mblogid=5228232951464131",
+        "sinaweibo://detail?mblogid=5228230879478003",
+        "sinaweibo://detail?mblogid=5228247421288888",
+        "sinaweibo://detail?mblogid=5228232276444196",
+        "sinaweibo://detail?mblogid=5228246049228379",
+        "sinaweibo://detail?mblogid=5228233223309478",
+        "sinaweibo://detail?mblogid=5228231511773284",
+        "sinaweibo://detail?mblogid=5228247917003983",
+        "sinaweibo://detail?mblogid=5228250999295525",
+        "https://m.sohu.com/a/948345723_122418842/?pvid=000115_3w_a",
+        "https://m.163.com/dy/article/KCOM4F170556C0UA.html"
+      ],
+      "top_quote_list": {},
+      "card_multimodal": {
+        "type": "mediablock",
+        "data": [
+          {
+            "user_avatar": "https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/008xCJoDly8hrq6l9fi5wj30u00u03yx.jpg?KID=imgbed,tva&Expires=1762006739&ssig=UG3zyUAELP",
+            "scheme": "sinaweibo://multimedia?mix_mid=5228209773742464&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=1&multi_count=0",
+            "img": "http://wx4.sinaimg.cn/middle/008xCJoDly1i6wsozimlpj30r80f17fl.jpg",
+            "w": 980,
+            "doc_score": 6340,
+            "img_pid": "008xCJoDly1i6wsozimlpj30r80f17fl",
+            "click_rate": 0.073657927590512,
+            "h": 541,
+            "vtype": 0,
+            "hit_score_new": 91.162109,
+            "cur_mid": "5228209773742464",
+            "type": "p",
+            "video_url": "",
+            "user_name": "小野的瓜田",
+            "hit_score_final": 86.697266
+          },
+          {
+            "user_avatar": "https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/008xCJoDly8hrq6l9fi5wj30u00u03yx.jpg?KID=imgbed,tva&Expires=1762006739&ssig=UG3zyUAELP",
+            "scheme": "sinaweibo://multimedia?mix_mid=5228203699344306&from=search&content_show=1&mix_index=2&hide_index=1&multi_paragraph=1&multi_count=1",
+            "img": "http://wx1.sinaimg.cn/middle/008xCJoDly1i6wryttbw1j30ri0f57kd.jpg",
+            "w": 990,
+            "doc_score": 6282,
+            "img_pid": "008xCJoDly1i6wryttbw1j30ri0f57kd",
+            "click_rate": 0.060082304526749,
+            "h": 545,
+            "vtype": 0,
+            "hit_score_new": 92.822266,
+            "cur_mid": "5228203699344306",
+            "type": "p",
+            "video_url": "",
+            "user_name": "小野的瓜田",
+            "hit_score_final": 87.693359
+          },
+          {
+            "user_avatar": "https://tvax2.sinaimg.cn/crop.16.21.551.551.50/96542c59ly8geqtawegnej20gr0gq0to.jpg?KID=imgbed,tva&Expires=1762006739&ssig=0aBf60%2FtNJ",
+            "scheme": "sinaweibo://multimedia?mix_mid=5228230592433370&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=1&multi_count=2",
+            "img": "http://wx1.sinaimg.cn/middle/96542c59gy1i6wv3ovybnj20zk0k0442.jpg",
+            "w": 1280,
+            "doc_score": 6968,
+            "img_pid": "96542c59gy1i6wv3ovybnj20zk0k0442",
+            "click_rate": 0.06,
+            "h": 720,
+            "vtype": 0,
+            "hit_score_new": 95.947266,
+            "cur_mid": "5228230592433370",
+            "type": "p",
+            "video_url": "",
+            "user_name": "召唤师Park",
+            "hit_score_final": 89.568359
+          },
+          {
+            "user_avatar": "https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/008xCJoDly8hrq6l9fi5wj30u00u03yx.jpg?KID=imgbed,tva&Expires=1762006739&ssig=UG3zyUAELP",
+            "scheme": "sinaweibo://multimedia?mix_mid=5228209773742464&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=1&multi_count=0",
+            "img": "http://wx4.sinaimg.cn/middle/008xCJoDly1i6wsozimlpj30r80f17fl.jpg",
+            "w": 980,
+            "doc_score": 6340,
+            "img_pid": "008xCJoDly1i6wsozimlpj30r80f17fl",
+            "click_rate": 0.073657927590512,
+            "h": 541,
+            "vtype": 0,
+            "hit_score_new": 91.162109,
+            "cur_mid": "5228209773742464",
+            "type": "p",
+            "video_url": "",
+            "user_name": "小野的瓜田",
+            "hit_score_final": 86.697266
+          }
+        ]
+      },
+      "share_card_multimodal": {
+        "user_avatar": "https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/008xCJoDly8hrq6l9fi5wj30u00u03yx.jpg?KID=imgbed,tva&Expires=1762006739&ssig=UG3zyUAELP",
+        "scheme": "sinaweibo://multimedia?mix_mid=5228209773742464&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=1&multi_count=0",
+        "img": "http://wx4.sinaimg.cn/middle/008xCJoDly1i6wsozimlpj30r80f17fl.jpg",
+        "w": 980,
+        "doc_score": 6340,
+        "img_pid": "008xCJoDly1i6wsozimlpj30r80f17fl",
+        "click_rate": 0.073657927590512,
+        "h": 541,
+        "vtype": 0,
+        "hit_score_new": 91.162109,
+        "cur_mid": "5228209773742464",
+        "type": "p",
+        "video_url": "",
+        "user_name": "小野的瓜田",
+        "hit_score_final": 86.697266
+      },
+      "msg_json": "{}",
+      "basemodel": "实验组10",
+      "wenda": {
+        "forward_gen": 0
+      },
+      "zs_risk_control": {
+        "think_text_close": 0,
+        "land_button_close": 0
+      },
+      "msg": "<think><br>嗯，用户查询的是\"bdd冲击首冠\"，我需要从搜索结果中整理相关信息。首先看时效性，今天是2025年11月1日，大部分结果都是当天的内容，很新鲜。<br><br>从结果11看到关键信息：KT战队在S15半决赛以3-1击败GEN，BDD带队晋级决赛，这是他职业生涯首次进入全球总决赛决赛。这是核心事实。<br><br>再看比赛细节：<br>BDD使用永恩在首局完成补刀压制并配合队友击杀Chovy，第三局用沙皇单杀Chovy并主宰比赛；决胜局的蛇女表现也极为亮眼。这些操作被多个大V账号形容为\"燃尽\"\"MVP级\"。<br><br>关于历史意义：<br>BDD此前从未获得过全球总决赛冠军，这次被描述为\"十年磨一剑\"、\"此生仅有的机会\"。有用户提到他S8时曾接近冠军，现在终于突破四强魔咒。<br><br>对手情况也值得注意：<br>GEN作为LCK头号种子赛前被看好，但Chovy状态异常，未交技能就被单杀；KT整体战术主动性强，配合紧密。<br><br>情感因素很突出：<br>粉丝用\"眼神充满渴望\"、\"老中单的魄力\"等描述；赛后有人提到他季后赛时热泪盈眶的对比，氛围渲染很强。<br><br>决赛展望方面：<br>若KT夺冠将创造队史，但部分用户担心T1可能\"捡便宜\"；也有中国观众期待TES阻击LCK队伍。<br><br>需要排除干扰项：<br>结果33-34关于斯诺克的内容显然无关；结果12提到的2023年JDG比赛也应跳过。<br><br>综合看，最权威的是结果11的赛事结果通报，配合多个大V的实时战报和粉丝反应，能完整还原事件全貌。媒体账号的标签认证和优质搜索结果标记可交叉验证可信度。<br><br></think><br>以下是关于\"BDD冲击首冠\"事件的完整梳理，综合赛事进程、选手表现及舆论反响等关键信息：<br>### ⚔️ **核心赛况：KT力克GEN晋级S15决赛**<br>1. **历史性突破**  <br>   KT战队在2025年11月1日举行的S15半决赛中，以**3-1总比分击败夺冠热门GEN**，成功晋级全球总决赛决赛。此役不仅是KT队史的重大突破，更是中单选手BDD职业生涯首次闯入全球总决赛决赛舞台。```wbCustomBlock{\"type\": \"quoted\", \"index\": 4, \"data\": {\"num\": [20], \"version\": 2, \"quote_list\": [{\"name\": \"丶涵艺\", \"scheme\": \"sinaweibo://detail?mblogid=5228247711485093\", \"index\": 20, \"label\": \"大v\"}], \"name\": \"丶涵艺\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.600.600.50/76c0dacdly8hey0qr5bjnj20go0got9u.jpg?KID=imgbed,tva&Expires=1762006739&ssig=KwPYSq9Y9N\", \"scheme\": \"sinaweibo://detail?mblogid=5228247711485093\", \"vType\": 0}}```<br><br>2. **BDD封神级表现**  <br>   - **对线压制**：BDD连续三局压制GEN核心中单Chovy，使用永恩完成线上单杀并扩大补刀优势，中期凭借开团能力接管比赛；沙皇局更以精准操作撕碎GEN防线。```wbCustomBlock{\"type\": \"quoted\", \"index\": 6, \"data\": {\"num\": [1, 4, 5, 7], \"version\": 2, \"quote_list\": [{\"name\": \"召唤师Park\", \"scheme\": \"sinaweibo://detail?mblogid=5228235678024476\", \"index\": 1, \"label\": \"大v\"}, {\"name\": \"召唤师Park\", \"scheme\": \"sinaweibo://detail?mblogid=5228203151199968\", \"index\": 4, \"label\": \"\"}, {\"name\": \"小野的瓜田\", \"scheme\": \"sinaweibo://detail?mblogid=5228203699344306\", \"index\": 5, \"label\": \"\"}, {\"name\": \"召唤师Park\", \"scheme\": \"sinaweibo://detail?mblogid=5228230592433370\", \"index\": 7, \"label\": \"\"}], \"name\": \"召唤师Park\", \"img\": \"https://tvax2.sinaimg.cn/crop.16.21.551.551.50/96542c59ly8geqtawegnej20gr0gq0to.jpg?KID=imgbed,tva&Expires=1762006739&ssig=0aBf60%2FtNJ\", \"scheme\": \"sinaweibo://detail?mblogid=5228235678024476\", \"vType\": 0}}```  <br>   - **关键决策**：在劣势局中，BDD永恩闪现R技能强开GEN女警锁定胜局，蛇女决胜局团战输出拉满，成为团队绝对核心。```wbCustomBlock{\"type\": \"quoted\", \"index\": 7, \"data\": {\"num\": [1, 3, 23], \"version\": 2, \"quote_list\": [{\"name\": \"小野的瓜田\", \"scheme\": \"sinaweibo://detail?mblogid=5228209773742464\", \"index\": 3, \"label\": \"大v\"}, {\"name\": \"召唤师Park\", \"scheme\": \"sinaweibo://detail?mblogid=5228235678024476\", \"index\": 1, \"label\": \"\"}, {\"name\": \"玲的纯白曲\", \"scheme\": \"sinaweibo://detail?mblogid=5228243725847921\", \"index\": 23, \"label\": \"\"}], \"name\": \"小野的瓜田\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/008xCJoDly8hrq6l9fi5wj30u00u03yx.jpg?KID=imgbed,tva&Expires=1762006739&ssig=UG3zyUAELP\", \"scheme\": \"sinaweibo://detail?mblogid=5228209773742464\", \"vType\": 0}}```  <br>   - **双MVP加冕**：官方确认BDD包揽两局MVP，成为KT晋级的最大功臣。```wbCustomBlock{\"type\": \"quoted\", \"index\": 8, \"data\": {\"num\": [27], \"version\": 2, \"quote_list\": [{\"name\": \"Lyon财\", \"scheme\": \"sinaweibo://detail?mblogid=5228232276444196\", \"index\": 27, \"label\": \"\"}]}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5228209773742464&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=1&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/008xCJoDly8hrq6l9fi5wj30u00u03yx.jpg?KID=imgbed,tva&Expires=1762006739&ssig=UG3zyUAELP) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">小野的瓜田</span><img src=\"http://wx4.sinaimg.cn/middle/008xCJoDly1i6wsozimlpj30r80f17fl.jpg\" data-width=541 data-height=980></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5228203699344306&from=search&content_show=1&mix_index=2&hide_index=1&multi_paragraph=1&multi_count=1\"><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/008xCJoDly8hrq6l9fi5wj30u00u03yx.jpg?KID=imgbed,tva&Expires=1762006739&ssig=UG3zyUAELP) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">小野的瓜田</span><img src=\"http://wx1.sinaimg.cn/middle/008xCJoDly1i6wryttbw1j30ri0f57kd.jpg\" data-width=545 data-height=990></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5228230592433370&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=1&multi_count=2\"><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.16.21.551.551.50/96542c59ly8geqtawegnej20gr0gq0to.jpg?KID=imgbed,tva&Expires=1762006739&ssig=0aBf60%2FtNJ) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">召唤师Park</span><img src=\"http://wx1.sinaimg.cn/middle/96542c59gy1i6wv3ovybnj20zk0k0442.jpg\" data-width=720 data-height=1280></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5228232276444196&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=3\"><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.607.607.50/0071AN0jly8i521plwm6vj30gv0gvq3n.jpg?KID=imgbed,tva&Expires=1762006739&ssig=dgtJUjT%2BeY) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">Lyon财</span><img src=\"http://wx4.sinaimg.cn/middle/0071AN0jgy1i6wvadkg57j31z00wr7wh.jpg\" data-width=1179 data-height=2556></div><div data-type=\"v\" data-scheme=\"sinaweibo://multimedia?mix_mid=5228235678024476&mix_index=0&multi_paragraph=1&multi_count=4\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.16.21.551.551.50/96542c59ly8geqtawegnej20gr0gq0to.jpg?KID=imgbed,tva&Expires=1762006739&ssig=0aBf60%2FtNJ) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">召唤师Park</span><img src=\"http://wx2.sinaimg.cn/middle/96542c59ly1i6wvm72dkjj20rc0f8myq.jpg\" data-width=548 data-height=984></div></media-block><br>### 🔥 **舆论焦点：十年坚守与冠军渴望**<br>1. **选手生涯背景**  <br>   BDD作为LCK赛区老将，曾被称为\"Faker接班人\"，但此前始终未获全球总决赛冠军。本次赛事被粉丝视为\"十年磨一剑\"的终极机会，其淘汰赛阶段\"热泪盈眶到狂喜\"的情绪转变引发广泛共鸣。```wbCustomBlock{\"type\": \"quoted\", \"index\": 11, \"data\": {\"num\": [19, 28], \"version\": 2, \"quote_list\": [{\"name\": \"来份兔糕TT\", \"scheme\": \"sinaweibo://detail?mblogid=5228251865680906\", \"index\": 19, \"label\": \"\"}, {\"name\": \"Hana_Rhul\", \"scheme\": \"sinaweibo://detail?mblogid=5228246049228379\", \"index\": 28, \"label\": \"\"}]}}```<br><br>2. **战术价值与心理战**  <br>   - **GEN的溃败根源**：Chovy状态异常，多次未交技能遭单杀，GEN整体陷入决策混乱；```wbCustomBlock{\"type\": \"quoted\", \"index\": 13, \"data\": {\"num\": [2, 28], \"version\": 2, \"quote_list\": [{\"name\": \"召唤师Park\", \"scheme\": \"sinaweibo://detail?mblogid=5228226893059147\", \"index\": 2, \"label\": \"\"}, {\"name\": \"Hana_Rhul\", \"scheme\": \"sinaweibo://detail?mblogid=5228246049228379\", \"index\": 28, \"label\": \"\"}]}}```  <br>   - **KT的韧性进化**：BDD率队展现极强抓失误能力，经济落后时仍通过资源控制（如争夺土龙魂）逆转战局。```wbCustomBlock{\"type\": \"quoted\", \"index\": 14, \"data\": {\"num\": [5, 10], \"version\": 2, \"quote_list\": [{\"name\": \"幼儿园园一莎弥拉\", \"scheme\": \"sinaweibo://detail?mblogid=5228206426688894\", \"index\": 10, \"label\": \"大v\"}, {\"name\": \"小野的瓜田\", \"scheme\": \"sinaweibo://detail?mblogid=5228203699344306\", \"index\": 5, \"label\": \"\"}], \"name\": \"幼儿园园一莎弥拉\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.746.746.50/adb62afdly8hzgjj8wnmij20kq0kqdhi.jpg?KID=imgbed,tva&Expires=1762006739&ssig=FFh5Cl0Gae\", \"scheme\": \"sinaweibo://detail?mblogid=5228206426688894\", \"vType\": 0}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5228226893059147&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=2&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.16.21.551.551.50/96542c59ly8geqtawegnej20gr0gq0to.jpg?KID=imgbed,tva&Expires=1762006739&ssig=0aBf60%2FtNJ) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">召唤师Park</span><img src=\"http://wx4.sinaimg.cn/middle/96542c59gy1i6wuoebm52j20zk0k00xe.jpg\" data-width=720 data-height=1280></div></media-block><br>### 🌍 **赛事影响与未来展望**<br>1. **LCK格局震动**  <br>   KT的胜利打破\"GEN/T1统治论\"，多账号指出LCK四强（GEN、HLE、KT、T1）展现的英雄池深度与团战运营已显\"冠军相\"。若KT最终夺冠，将是队史首座全球总决赛奖杯。```wbCustomBlock{\"type\": \"quoted\", \"index\": 17, \"data\": {\"num\": [8, 15, 20], \"version\": 2, \"quote_list\": [{\"name\": \"召唤师Park\", \"scheme\": \"sinaweibo://detail?mblogid=5228214381183796\", \"index\": 8, \"label\": \"\"}, {\"name\": \"丶涵艺\", \"scheme\": \"sinaweibo://detail?mblogid=5228217192420968\", \"index\": 15, \"label\": \"\"}, {\"name\": \"丶涵艺\", \"scheme\": \"sinaweibo://detail?mblogid=5228247711485093\", \"index\": 20, \"label\": \"\"}]}}```<br><br>2. **决赛悬念**  <br>   - **BDD的终极目标**：粉丝呼吁其把握\"此生仅有的机会\"冲击首冠；```wbCustomBlock{\"type\": \"quoted\", \"index\": 19, \"data\": {\"num\": [26, 32], \"version\": 2, \"quote_list\": [{\"name\": \"LetheFreeandeasy\", \"scheme\": \"sinaweibo://detail?mblogid=5228247421288888\", \"index\": 26, \"label\": \"\"}, {\"name\": \"泡芙小奶猪\", \"scheme\": \"sinaweibo://detail?mblogid=5228250999295525\", \"index\": 32, \"label\": \"\"}]}}```  <br>   - **潜在对手博弈**：若决赛对阵T1，将形成\"BDD首冠 vs Faker三连冠\"的历史性对决；若对阵TES，则面临LPL队伍的狙击。```wbCustomBlock{\"type\": \"quoted\", \"index\": 20, \"data\": {\"num\": [6, 29, 31], \"version\": 2, \"quote_list\": [{\"name\": \"游叔\", \"scheme\": \"sinaweibo://detail?mblogid=5228215991800506\", \"index\": 6, \"label\": \"大v\"}, {\"name\": \"愿往后日子滚烫温暖又明亮\", \"scheme\": \"sinaweibo://detail?mblogid=5228233223309478\", \"index\": 29, \"label\": \"\"}, {\"name\": \"砉然破禅关\", \"scheme\": \"sinaweibo://detail?mblogid=5228247917003983\", \"index\": 31, \"label\": \"\"}], \"name\": \"游叔\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/8972f4d7ly8i6hqww3pj8j20u00u0dif.jpg?KID=imgbed,tva&Expires=1762006739&ssig=opRA%2Bf3XcS\", \"scheme\": \"sinaweibo://detail?mblogid=5228215991800506\", \"vType\": 0}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5228215991800506&multi_paragraph=3&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/8972f4d7ly8i6hqww3pj8j20u00u0dif.jpg?KID=imgbed,tva&Expires=1762006739&ssig=opRA%2Bf3XcS) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">游叔</span><img src=\"http://wx1.sinaimg.cn/middle/8972f4d7ly1i6wtf0mjzzj21hc0u0t9u.jpg\" data-width=1080 data-height=1920></div></media-block><br>### 💎 总结  <br>BDD以巅峰状态率KT掀翻GEN，其个人操作（单杀Chovy）与团队领导力（劣势翻盘）成为核心引擎。此战不仅实现其职业生涯重大突破，更将S15决赛推向\"新王诞生或王朝延续\"的史诗级叙事。最终决战将于11月上演，BDD能否圆梦首冠，已成为全球电竞观众的核心悬念。```wbCustomBlock{\"type\": \"quoted\", \"index\": 22, \"data\": {\"num\": [20, 23, 27, 31], \"version\": 2, \"quote_list\": [{\"name\": \"丶涵艺\", \"scheme\": \"sinaweibo://detail?mblogid=5228247711485093\", \"index\": 20, \"label\": \"\"}, {\"name\": \"玲的纯白曲\", \"scheme\": \"sinaweibo://detail?mblogid=5228243725847921\", \"index\": 23, \"label\": \"\"}, {\"name\": \"Lyon财\", \"scheme\": \"sinaweibo://detail?mblogid=5228232276444196\", \"index\": 27, \"label\": \"\"}, {\"name\": \"砉然破禅关\", \"scheme\": \"sinaweibo://detail?mblogid=5228247917003983\", \"index\": 31, \"label\": \"\"}]}}```<br>",
+      "short_url": "http://t.cn/AXAxxwEO",
+      "qs_status_info": "{\"qs_q_status\":0,\"qs_c_status\":8388608,\"qs_r_status\":0,\"ab_lab\":{},\"qs_u_status\":0,\"qs_status\":0}",
+      "share_text": "#BDD冲击首冠#的相关内容，来智搜看看",
+      "version": "2025-11-01 19:18:59.025000-7927",
+      "msg_format": "markdown",
+      "chat_status_stage": 1,
+      "model": "deepseek",
+      "uid": "",
+      "cot": 1,
+      "ext_show": {},
+      "query_field": "47",
+      "share_info": {
+        "status": 3,
+        "unify_md5": "dbe8ed43c9edb5174975593ed514e06d",
+        "comment_content": "",
+        "tips": "#BDD冲击首冠#的相关内容，来智搜看看",
+        "url": "http://t.cn/AXAxpHfl",
+        "page_id": "2329641289d834877ca2cfcd9acf05e8ea595b",
+        "display_name": "#BDD冲击首冠#"
+      },
+      "reliable_tips": "{\"gold_orange_v_mids\": [\"5228247711485093\", \"5228235678024476\", \"5228203151199968\", \"5228203699344306\", \"5228230592433370\", \"5228209773742464\", \"5228243725847921\", \"5228232276444196\", \"5228226893059147\", \"5228206426688894\", \"5228214381183796\", \"5228217192420968\", \"5228215991800506\", \"5228208024716220\", \"5228237769672846\", \"5228238439714992\", \"5228229306352423\", \"5228207457960417\", \"5228252102395303\", \"5228230773837768\", \"5228248730700551\", \"5228232951464131\", \"5228231511773284\"], \"gold_orange_v_ratio\": \"77%\", \"media_mids\": [], \"media_ratio\": \"0%\", \"verified_mids\": [], \"verified_ratio\": \"0%\", \"normal_mids\": [\"5228251865680906\", \"5228246049228379\", \"5228247421288888\", \"5228250999295525\", \"5228233223309478\", \"5228247917003983\", \"5228230879478003\"], \"normal_ratio\": \"23%\", \"ref_mid_rank\": {\"5228247711485093\": {\"rank\": 20}, \"5228235678024476\": {\"rank\": 1}, \"5228203151199968\": {\"rank\": 4}, \"5228203699344306\": {\"rank\": 5}, \"5228230592433370\": {\"rank\": 7}, \"5228209773742464\": {\"rank\": 3}, \"5228243725847921\": {\"rank\": 23}, \"5228232276444196\": {\"rank\": 27}, \"5228251865680906\": {\"rank\": 19}, \"5228246049228379\": {\"rank\": 28}, \"5228226893059147\": {\"rank\": 2}, \"5228206426688894\": {\"rank\": 10}, \"5228214381183796\": {\"rank\": 8}, \"5228217192420968\": {\"rank\": 15}, \"5228247421288888\": {\"rank\": 26}, \"5228250999295525\": {\"rank\": 32}, \"5228215991800506\": {\"rank\": 6}, \"5228233223309478\": {\"rank\": 29}, \"5228247917003983\": {\"rank\": 31}, \"5228208024716220\": {\"rank\": 9}, \"5228237769672846\": {\"rank\": 13}, \"5228238439714992\": {\"rank\": 14}, \"5228229306352423\": {\"rank\": 16}, \"5228207457960417\": {\"rank\": 17}, \"5228252102395303\": {\"rank\": 18}, \"5228230773837768\": {\"rank\": 21}, \"5228248730700551\": {\"rank\": 22}, \"5228232951464131\": {\"rank\": 24}, \"5228230879478003\": {\"rank\": 25}, \"5228231511773284\": {\"rank\": 30}}}",
+      "current_time": 1761996411,
+      "profile_image_url": "",
+      "user_info": {},
+      "qs_status": 0,
+      "show_ctrl": {
+        "quote": {}
+      },
+      "ab_suffix": "default",
+      "comment_info": {}
+    }
+  },
+  "links": [
+    "sinaweibo://detail?mblogid=5228235678024476",
+    "sinaweibo://detail?mblogid=5228226893059147",
+    "sinaweibo://detail?mblogid=5228209773742464",
+    "sinaweibo://detail?mblogid=5228203151199968",
+    "sinaweibo://detail?mblogid=5228203699344306",
+    "sinaweibo://detail?mblogid=5228215991800506",
+    "sinaweibo://detail?mblogid=5228230592433370",
+    "sinaweibo://detail?mblogid=5228214381183796",
+    "sinaweibo://detail?mblogid=5228208024716220",
+    "sinaweibo://detail?mblogid=5228206426688894",
+    "broadsocial_res://",
+    "historyweibo://4958600180010186",
+    "sinaweibo://detail?mblogid=5228237769672846",
+    "sinaweibo://detail?mblogid=5228238439714992",
+    "sinaweibo://detail?mblogid=5228217192420968",
+    "sinaweibo://detail?mblogid=5228229306352423",
+    "sinaweibo://detail?mblogid=5228207457960417",
+    "sinaweibo://detail?mblogid=5228252102395303",
+    "sinaweibo://detail?mblogid=5228251865680906",
+    "sinaweibo://detail?mblogid=5228247711485093",
+    "sinaweibo://detail?mblogid=5228230773837768",
+    "sinaweibo://detail?mblogid=5228248730700551",
+    "sinaweibo://detail?mblogid=5228243725847921",
+    "sinaweibo://detail?mblogid=5228232951464131",
+    "sinaweibo://detail?mblogid=5228230879478003",
+    "sinaweibo://detail?mblogid=5228247421288888",
+    "sinaweibo://detail?mblogid=5228232276444196",
+    "sinaweibo://detail?mblogid=5228246049228379",
+    "sinaweibo://detail?mblogid=5228233223309478",
+    "sinaweibo://detail?mblogid=5228231511773284",
+    "sinaweibo://detail?mblogid=5228247917003983",
+    "sinaweibo://detail?mblogid=5228250999295525",
+    "https://m.sohu.com/a/948345723_122418842/?pvid=000115_3w_a",
+    "https://m.163.com/dy/article/KCOM4F170556C0UA.html"
+  ],
+  "media": [
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/008xCJoDly1i6wsozimlpj30r80f17fl.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/008xCJoDly1i6wsozimlpj30r80f17fl.jpg",
+      "alt": "小野的瓜田",
+      "width": 541,
+      "height": 980,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/008xCJoDly1i6wsozimlpj30r80f17fl.jpg"
+      ],
+      "user": "小野的瓜田"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/008xCJoDly1i6wryttbw1j30ri0f57kd.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/008xCJoDly1i6wryttbw1j30ri0f57kd.jpg",
+      "alt": "小野的瓜田",
+      "width": 545,
+      "height": 990,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/008xCJoDly1i6wryttbw1j30ri0f57kd.jpg"
+      ],
+      "user": "小野的瓜田"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/96542c59gy1i6wv3ovybnj20zk0k0442.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/96542c59gy1i6wv3ovybnj20zk0k0442.jpg",
+      "alt": "召唤师Park",
+      "width": 720,
+      "height": 1280,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/96542c59gy1i6wv3ovybnj20zk0k0442.jpg"
+      ],
+      "user": "召唤师Park"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/0071AN0jgy1i6wvadkg57j31z00wr7wh.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/0071AN0jgy1i6wvadkg57j31z00wr7wh.jpg",
+      "alt": "Lyon财",
+      "width": 1179,
+      "height": 2556,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx4.sinaimg.cn/large/0071AN0jgy1i6wvadkg57j31z00wr7wh.jpg"
+      ],
+      "user": "Lyon财"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/96542c59ly1i6wvm72dkjj20rc0f8myq.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/96542c59ly1i6wvm72dkjj20rc0f8myq.jpg",
+      "alt": "召唤师Park",
+      "width": 548,
+      "height": 984,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/96542c59ly1i6wvm72dkjj20rc0f8myq.jpg"
+      ],
+      "user": "召唤师Park"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/96542c59gy1i6wuoebm52j20zk0k00xe.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/96542c59gy1i6wuoebm52j20zk0k00xe.jpg",
+      "alt": "召唤师Park",
+      "width": 720,
+      "height": 1280,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/96542c59gy1i6wuoebm52j20zk0k00xe.jpg"
+      ],
+      "user": "召唤师Park"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/8972f4d7ly1i6wtf0mjzzj21hc0u0t9u.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/8972f4d7ly1i6wtf0mjzzj21hc0u0t9u.jpg",
+      "alt": "游叔",
+      "width": 1080,
+      "height": 1920,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/8972f4d7ly1i6wtf0mjzzj21hc0u0t9u.jpg"
+      ],
+      "user": "游叔"
+    }
+  ],
+  "html_path": "data/aicard/hourly/2025-11-01/19/bdd.html"
+}

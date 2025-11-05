@@ -1,0 +1,43 @@
+{
+  "meta": {
+    "query": "#2025APEC领导人庆州宣言#",
+    "status_code": 200,
+    "fetched_at": "2025-11-01T18:35:31+08:00",
+    "response": {
+      "abtest_info": {
+        "chat_entrance": 1
+      },
+      "model": "",
+      "wenda": {
+        "forward_gen": 0
+      },
+      "status": 3,
+      "msg": "抱歉，这个问题我暂时无法回答，换个问题试试吧",
+      "ab_suffix": "default",
+      "comment_info": {},
+      "loop_times": 200,
+      "qs_status": 2,
+      "share_info": {
+        "page_id": "",
+        "display_name": "#2025APEC领导人庆州宣言#",
+        "unify_md5": "3a716fed863e4b2d71bdeb3a309d21d7",
+        "url": "http://t.cn/AXAM56dq",
+        "tips": "#2025APEC领导人庆州宣言#的相关内容，来智搜看看",
+        "status": 1,
+        "comment_content": ""
+      },
+      "uid": "",
+      "zs_risk_control": {
+        "may_be_ask_show": 0
+      },
+      "query": "#2025APEC领导人庆州宣言#",
+      "analysis_time": 0,
+      "ext_show": {},
+      "cot": 1,
+      "qs_status_info": "{\"qs_u_status\":0,\"qs_q_status\":2,\"qs_status\":2,\"qs_c_status\":0,\"qs_r_status\":0,\"ab_lab\":{}}"
+    }
+  },
+  "links": [],
+  "media": [],
+  "html_path": "data/aicard/hourly/2025-11-01/18/2025apec.html"
+}

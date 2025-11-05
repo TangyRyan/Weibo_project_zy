@@ -1,0 +1,244 @@
+{
+  "meta": {
+    "query": "#集市上花二十块钱买的小狗#",
+    "status_code": 200,
+    "fetched_at": "2025-11-03T08:49:58+08:00",
+    "response": {
+      "wenda": {
+        "forward_gen": 0
+      },
+      "loop_times": 200,
+      "ab_suffix": "default",
+      "mid_list": null,
+      "reference_num": 19,
+      "qs_status": 0,
+      "status_stage": 4,
+      "link_list": [
+        "sinaweibo://detail?mblogid=5228684669882031",
+        "sinaweibo://detail?mblogid=5228814701693864",
+        "sinaweibo://detail?mblogid=5228813327798951",
+        "sinaweibo://detail?mblogid=5228804962257262",
+        "sinaweibo://detail?mblogid=5228689555982119",
+        "sinaweibo://detail?mblogid=5178197318829120",
+        "sinaweibo://detail?mblogid=5100211066634630",
+        "sinaweibo://detail?mblogid=4797743140964420",
+        "sinaweibo://detail?mblogid=5143830589079980",
+        "sinaweibo://detail?mblogid=5135824463072988",
+        "sinaweibo://detail?mblogid=5191452801631046",
+        "sinaweibo://detail?mblogid=5033117245244515",
+        "sinaweibo://detail?mblogid=4789043465820979",
+        "sinaweibo://detail?mblogid=5018054868077878",
+        "sinaweibo://detail?mblogid=5158678354988515",
+        "sinaweibo://detail?mblogid=4872977945202199",
+        "sinaweibo://detail?mblogid=4796528449291720",
+        "sinaweibo://detail?mblogid=4820192963594494",
+        "sinaweibo://detail?mblogid=4480272353602782"
+      ],
+      "top_quote_list": {},
+      "short_url": "http://t.cn/AXA9ysqD",
+      "card_multimodal": {
+        "type": "mediablock",
+        "data": [
+          {
+            "video_url": "",
+            "vtype": 0,
+            "scheme": "sinaweibo://multimedia?mix_mid=5178197318829120&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=0",
+            "hit_score_new": 57.03125,
+            "hit_score_final": 54.618752,
+            "w": 1080,
+            "type": "p",
+            "img": "http://wx2.sinaimg.cn/middle/77327e8dgy1i2h8uyo1m5j20u011mtcy.jpg",
+            "h": 1354,
+            "cur_mid": "5178197318829120",
+            "click_rate": 0.06,
+            "user_name": "吕培乔",
+            "doc_score": 3834,
+            "user_avatar": "https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/77327e8dly8h0c1a4db2bj20u00u0dhh.jpg?KID=imgbed,tva&Expires=1762141199&ssig=rBMQge9IVf",
+            "img_pid": "77327e8dgy1i2h8uyo1m5j20u011mtcy"
+          },
+          {
+            "video_url": "https://video.weibo.com/show?fid=1034:4796524841074776",
+            "vtype": 7,
+            "scheme": "sinaweibo://video/vvs?mid=4796528449291720&multi_paragraph=1&multi_count=1",
+            "hit_score_new": 93.115234,
+            "hit_score_final": 81.069145,
+            "w": 607,
+            "type": "v",
+            "img": "http://wx2.sinaimg.cn/middle/005WMQK7ly1h4nmdz4h7fj30gv0m3mz0.jpg",
+            "h": 795,
+            "cur_mid": "4796528449291720",
+            "click_rate": 0,
+            "user_name": "天天正能量",
+            "doc_score": 2538,
+            "user_avatar": "https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/83f4cee4ly8h870d6txnjj20u00u03zj.jpg?KID=imgbed,tva&Expires=1762141199&ssig=Ga06Ee27ri",
+            "img_pid": "005WMQK7ly1h4nmdz4h7fj30gv0m3mz0"
+          },
+          {
+            "video_url": "https://video.weibo.com/show?fid=1034:4788976142450724",
+            "vtype": -1,
+            "scheme": "sinaweibo://video/vvs?mid=4789043465820979&multi_paragraph=3&multi_count=0",
+            "hit_score_new": 96.337891,
+            "hit_score_final": 84.202736,
+            "w": 540,
+            "type": "v",
+            "img": "http://wx4.sinaimg.cn/middle/006GmOv6ly1h3zjfbnk8ej30f00qoacq.jpg",
+            "h": 960,
+            "cur_mid": "4789043465820979",
+            "click_rate": 0,
+            "user_name": "萌星人宠物日记",
+            "doc_score": 3190,
+            "user_avatar": "https://tvax2.sinaimg.cn/crop.0.0.512.512.50/006GmOv6ly8h0dyvrtq1bj30e80e874j.jpg?KID=imgbed,tva&Expires=1762141199&ssig=wD9WhPVJ8N",
+            "img_pid": "006GmOv6ly1h3zjfbnk8ej30f00qoacq"
+          },
+          {
+            "video_url": "",
+            "vtype": 0,
+            "scheme": "sinaweibo://multimedia?mix_mid=5178197318829120&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=0",
+            "hit_score_new": 57.03125,
+            "hit_score_final": 54.618752,
+            "w": 1080,
+            "type": "p",
+            "img": "http://wx2.sinaimg.cn/middle/77327e8dgy1i2h8uyo1m5j20u011mtcy.jpg",
+            "h": 1354,
+            "cur_mid": "5178197318829120",
+            "click_rate": 0.06,
+            "user_name": "吕培乔",
+            "doc_score": 3834,
+            "user_avatar": "https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/77327e8dly8h0c1a4db2bj20u00u0dhh.jpg?KID=imgbed,tva&Expires=1762141199&ssig=rBMQge9IVf",
+            "img_pid": "77327e8dgy1i2h8uyo1m5j20u011mtcy"
+          }
+        ]
+      },
+      "model": "deepseek",
+      "profile_image_url": "",
+      "basemodel": "实验组5",
+      "msg_format": "markdown",
+      "msg_json": "{}",
+      "cot": 1,
+      "msg": "<think><br>嗯，用户让我分析关于\"集市上花二十块钱买的小狗\"的搜索结果，并整理成回答。用户提供了19条搜索结果，我需要从中提取有用信息。<br><br>先看看最相关的几条信息。结果1是置顶微博，用户\"全是狗狗啊\"直接提到了\"集市上花二十块钱买的小狗\"这个关键词。结果6有个详细的故事，用户\"吕培乔\"讲述花50元买狗的经历，其中大爷最初只要20元。其他结果虽然提到集市买狗，但价格不太符合，比如结果7是100元买的\"蜜蜂狗\"，结果10是30元买的小土狗。<br><br>注意到时效性问题，今天是2025年11月3日，而最相关的结果1发布于昨天（11月2日），结果2-5都是今天发布的，都带有话题标签#集市上花二十块钱买的小狗#。其他结果发布时间较早，可能不太新鲜。<br><br>关于集市买狗的可信度，结果2用户质疑\"集市上真的可以买到狗吗\"，说明存在不确定性。结果4提到小狗在集市\"装可怜博同情\"，回家就显露调皮本性。结果6的故事中大爷提到收款码是儿子的，暗示可能有经济困难。<br><br>从账号类型看，结果1、6是认证账号，结果4也是认证账号但内容较主观。媒体账号结果7和10虽然可信但价格不符。<br><br>用户可能的需求：想了解集市低价买狗的真实性？还是想分享类似经历？根据多个用户参与话题讨论看，应该是想了解现象背后的故事和注意事项。<br><br>安全方面要提醒：结果6提到\"纯土狗不止这些钱\"，暗示可能存在健康风险。结果9显示小狗被摔，结果13提到给狗穿衣服保暖，都说明集市交易可能缺乏规范。<br><br>考虑分四个部分回答：真实经历与价格、近期话题讨论、相关现象观察、注意事项。重点突出最新话题动态和真实案例，用加粗强调关键点，最后补充安全提示。<br><br></think><br>根据搜索结果中关于\"集市上花二十块钱买的小狗\"的相关信息，结合时效性和可信度分析，主要信息如下：<br>### 一、真实交易案例与故事<br>1. **老人卖狗温情事件**  <br>   有用户分享亲身经历：在集市遇到近80岁老人卖狗，其中一只小狗主动亲近。老人称有缘只需20元，但因老人无收款码（仅有儿子的二维码），买家兑换50元现金支付。老人感动落泪，表示\"只要能找到对小狗好的人，白送都可以\"。买家事后反思纯种土狗价值应高于此价。```wbCustomBlock{\"type\": \"quoted\", \"index\": 3, \"data\": {\"num\": [6], \"version\": 2, \"quote_list\": [{\"name\": \"吕培乔\", \"scheme\": \"sinaweibo://detail?mblogid=5178197318829120\", \"index\": 6, \"label\": \"大v\"}], \"name\": \"吕培乔\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/77327e8dly8h0c1a4db2bj20u00u0dhh.jpg?KID=imgbed,tva&Expires=1762141199&ssig=rBMQge9IVf\", \"scheme\": \"sinaweibo://detail?mblogid=5178197318829120\", \"vType\": 0}}```<br><br>2. **低价交易的普遍性**  <br>   多个案例显示集市小狗交易价格在20-50元区间，例如：<br>   - 网友称在乡镇大集花30元买小土狗，用塑料袋装回家。```wbCustomBlock{\"type\": \"quoted\", \"index\": 5, \"data\": {\"num\": [10], \"version\": 2, \"quote_list\": [{\"name\": \"今日张店\", \"scheme\": \"sinaweibo://detail?mblogid=5135824463072988\", \"index\": 10, \"label\": \"大v\"}], \"name\": \"今日张店\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/dcc1a87cly8hj1igtvkfaj20u00u0n1w.jpg?KID=imgbed,tva&Expires=1762141199&ssig=HOIUDBHvyH\", \"scheme\": \"sinaweibo://detail?mblogid=5135824463072988\", \"vType\": 1}}```<br>   - 七旬老人为解孤独在集市买狗作伴，\"当亲人一样对待\"。```wbCustomBlock{\"type\": \"quoted\", \"index\": 6, \"data\": {\"num\": [17], \"version\": 2, \"quote_list\": [{\"name\": \"天天正能量\", \"scheme\": \"sinaweibo://detail?mblogid=4796528449291720\", \"index\": 17, \"label\": \"\"}]}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5178197318829120&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/77327e8dly8h0c1a4db2bj20u00u0dhh.jpg?KID=imgbed,tva&Expires=1762141199&ssig=rBMQge9IVf) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">吕培乔</span><img src=\"http://wx2.sinaimg.cn/middle/77327e8dgy1i2h8uyo1m5j20u011mtcy.jpg\" data-width=1354 data-height=1080></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=4796528449291720&multi_paragraph=1&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/83f4cee4ly8h870d6txnjj20u00u03zj.jpg?KID=imgbed,tva&Expires=1762141199&ssig=Ga06Ee27ri) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">天天正能量</span><img src=\"http://wx2.sinaimg.cn/middle/005WMQK7ly1h4nmdz4h7fj30gv0m3mz0.jpg\" data-width=795 data-height=607></div></media-block><br>### 二、近期热议话题  <br>1. **主题讨论热度上升**  <br>   **2025年11月2日-3日**，微博出现话题#集市上花二十块钱买的小狗#，引发多角度讨论：<br>   - 认证账号\"梓笑嫣然xz\"描述小狗在集市\"装可怜博同情\"，回家后显露调皮本性。```wbCustomBlock{\"type\": \"quoted\", \"index\": 9, \"data\": {\"num\": [4], \"version\": 2, \"quote_list\": [{\"name\": \"梓笑嫣然xz\", \"scheme\": \"sinaweibo://detail?mblogid=5228804962257262\", \"index\": 4, \"label\": \"\"}]}}```<br>   - \"紫啧漫漫\"质疑集市卖狗的普遍性，表示从未亲眼见过。```wbCustomBlock{\"type\": \"quoted\", \"index\": 10, \"data\": {\"num\": [2], \"version\": 2, \"quote_list\": [{\"name\": \"紫啧漫漫\", \"scheme\": \"sinaweibo://detail?mblogid=5228814701693864\", \"index\": 2, \"label\": \"\"}]}}```<br>   - 普通账号\"快乐小狗4356\"等也参与话题互动。```wbCustomBlock{\"type\": \"quoted\", \"index\": 11, \"data\": {\"num\": [3, 5], \"version\": 2, \"quote_list\": [{\"name\": \"渝人红\", \"scheme\": \"sinaweibo://detail?mblogid=5228813327798951\", \"index\": 3, \"label\": \"\"}, {\"name\": \"快乐小狗4356\", \"scheme\": \"sinaweibo://detail?mblogid=5228689555982119\", \"index\": 5, \"label\": \"\"}]}}```<br>### 三、相关现象观察<br>1. **集市卖狗的特殊场景**  <br>   - 有商贩通过给小狗穿花衣保暖来吸引买家。```wbCustomBlock{\"type\": \"quoted\", \"index\": 14, \"data\": {\"num\": [13], \"version\": 2, \"quote_list\": [{\"name\": \"萌星人宠物日记\", \"scheme\": \"sinaweibo://detail?mblogid=4789043465820979\", \"index\": 13, \"label\": \"\"}]}}```<br>   - 大爷卖狗时小狗骑玩具的趣事，以及小狗被意外摔下摊位引发老人心疼的画面。```wbCustomBlock{\"type\": \"quoted\", \"index\": 15, \"data\": {\"num\": [9, 11], \"version\": 2, \"quote_list\": [{\"name\": \"喂小鸨\", \"scheme\": \"sinaweibo://detail?mblogid=5143830589079980\", \"index\": 9, \"label\": \"\"}, {\"name\": \"谷海小霸王\", \"scheme\": \"sinaweibo://detail?mblogid=5191452801631046\", \"index\": 11, \"label\": \"\"}]}}```<br><br>2. **价格差异与争议**  <br>   - 河北一案例中，母亲花100元在集市购入\"蜜蜂狗\"（黑黄条纹小狗），被家人误认成异物。```wbCustomBlock{\"type\": \"quoted\", \"index\": 17, \"data\": {\"num\": [7], \"version\": 2, \"quote_list\": [{\"name\": \"热度新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5100211066634630\", \"index\": 7, \"label\": \"大v\"}], \"name\": \"热度新闻\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/92aeec11ly8hlwg775m3ej20u00u0wgf.jpg?KID=imgbed,tva&Expires=1762141199&ssig=4w8%2Bo66Xts\", \"scheme\": \"sinaweibo://detail?mblogid=5100211066634630\", \"vType\": 3}}```<br>   - 部分用户对低价狗的健康和来源存疑，认为纯种土狗价值应更高。```wbCustomBlock{\"type\": \"quoted\", \"index\": 18, \"data\": {\"num\": [6], \"version\": 2, \"quote_list\": [{\"name\": \"吕培乔\", \"scheme\": \"sinaweibo://detail?mblogid=5178197318829120\", \"index\": 6, \"label\": \"\"}]}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=4789043465820979&multi_paragraph=3&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.512.512.50/006GmOv6ly8h0dyvrtq1bj30e80e874j.jpg?KID=imgbed,tva&Expires=1762141199&ssig=wD9WhPVJ8N) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">萌星人宠物日记</span><img src=\"http://wx4.sinaimg.cn/middle/006GmOv6ly1h3zjfbnk8ej30f00qoacq.jpg\" data-width=960 data-height=540></div></media-block><br>### 四、注意事项与风险提示<br>1. **交易风险**  <br>   - 现金支付需求常见（如老人无收款码），需提前准备现金。```wbCustomBlock{\"type\": \"quoted\", \"index\": 21, \"data\": {\"num\": [6], \"version\": 2, \"quote_list\": [{\"name\": \"吕培乔\", \"scheme\": \"sinaweibo://detail?mblogid=5178197318829120\", \"index\": 6, \"label\": \"\"}]}}```<br>   - 低价狗可能存在未检疫、健康隐患等问题，需现场观察小狗精神状态及卫生条件。<br><br>2. **情感价值凸显**  <br>   买家多强调\"缘分\"（如小狗主动亲近）和情感需求（如陪伴老人），实际花费常高于标价。```wbCustomBlock{\"type\": \"quoted\", \"index\": 23, \"data\": {\"num\": [6, 17], \"version\": 2, \"quote_list\": [{\"name\": \"吕培乔\", \"scheme\": \"sinaweibo://detail?mblogid=5178197318829120\", \"index\": 6, \"label\": \"\"}, {\"name\": \"天天正能量\", \"scheme\": \"sinaweibo://detail?mblogid=4796528449291720\", \"index\": 17, \"label\": \"\"}]}}```<br><br>---<br><br>**总结**：集市上20元买小狗的案例真实存在，近期因话题标签引发热议。交易多伴随温情故事，但需注意健康风险及支付方式。购买时建议确认小狗来源，优先考虑检疫证明齐全的渠道。<br>",
+      "scheme": "sinaweibo://cardlist?containerid=100103type%3D225%26q%3D%23%E9%9B%86%E5%B8%82%E4%B8%8A%E8%8A%B1%E4%BA%8C%E5%8D%81%E5%9D%97%E9%92%B1%E4%B9%B0%E7%9A%84%E5%B0%8F%E7%8B%97%23%26t%3D&extparam=ai_model%3Ddeepseek%26ori_ai_title%3D%E5%8F%82%E8%80%83%E5%8D%9A%E6%96%87%26material_version%3D1762130399",
+      "query_field": "0",
+      "reliable_tips": "{\"gold_orange_v_mids\": [\"5178197318829120\", \"5228804962257262\", \"5228814701693864\", \"5143830589079980\", \"5228684669882031\", \"5033117245244515\", \"5018054868077878\", \"5158678354988515\"], \"gold_orange_v_ratio\": \"42%\", \"media_mids\": [\"5100211066634630\"], \"media_ratio\": \"5%\", \"verified_mids\": [\"5135824463072988\", \"4796528449291720\", \"5191452801631046\", \"4797743140964420\", \"4480272353602782\"], \"verified_ratio\": \"27%\", \"normal_mids\": [\"5228813327798951\", \"5228689555982119\", \"4789043465820979\", \"4872977945202199\", \"4820192963594494\"], \"normal_ratio\": \"26%\", \"ref_mid_rank\": {\"5178197318829120\": {\"rank\": 6}, \"5135824463072988\": {\"rank\": 10}, \"4796528449291720\": {\"rank\": 17}, \"5228804962257262\": {\"rank\": 4}, \"5228814701693864\": {\"rank\": 2}, \"5228813327798951\": {\"rank\": 3}, \"5228689555982119\": {\"rank\": 5}, \"4789043465820979\": {\"rank\": 13}, \"5143830589079980\": {\"rank\": 9}, \"5191452801631046\": {\"rank\": 11}, \"5100211066634630\": {\"rank\": 7}, \"5228684669882031\": {\"rank\": 1}, \"4797743140964420\": {\"rank\": 8}, \"5033117245244515\": {\"rank\": 12}, \"5018054868077878\": {\"rank\": 14}, \"5158678354988515\": {\"rank\": 15}, \"4872977945202199\": {\"rank\": 16}, \"4820192963594494\": {\"rank\": 18}, \"4480272353602782\": {\"rank\": 19}}, \"reliable_summary\": \"集市上花二十块钱买小狗的核心事件可靠度较低，信息主要来源于社交媒体用户的个人分享和讨论，缺乏权威验证，可能存在主观美化或个体差异，无法代表普遍真实性。\"}",
+      "sorted_material_list": null,
+      "query": "#集市上花二十块钱买的小狗#",
+      "q_attr": {
+        "reply_cid": "",
+        "comment_from_type": "",
+        "from_uid": "",
+        "from_request_id": "",
+        "mid": ""
+      },
+      "unify_md5": "40b39c8fd97f354dd104eaa49ef09082",
+      "qs_status_info": "{\"ab_lab\":{},\"qs_status\":0,\"qs_c_status\":8388608,\"qs_r_status\":0,\"qs_u_status\":0,\"qs_q_status\":0}",
+      "zs_risk_control": {
+        "think_text_close": 0,
+        "land_button_close": 0
+      },
+      "status": 2,
+      "abtest_info": {
+        "chat_entrance": 1
+      },
+      "share_card_multimodal": {
+        "video_url": "",
+        "vtype": 0,
+        "scheme": "sinaweibo://multimedia?mix_mid=5178197318829120&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=0",
+        "hit_score_new": 57.03125,
+        "hit_score_final": 54.618752,
+        "w": 1080,
+        "type": "p",
+        "img": "http://wx2.sinaimg.cn/middle/77327e8dgy1i2h8uyo1m5j20u011mtcy.jpg",
+        "h": 1354,
+        "cur_mid": "5178197318829120",
+        "click_rate": 0.06,
+        "user_name": "吕培乔",
+        "doc_score": 3834,
+        "user_avatar": "https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/77327e8dly8h0c1a4db2bj20u00u0dhh.jpg?KID=imgbed,tva&Expires=1762141199&ssig=rBMQge9IVf",
+        "img_pid": "77327e8dgy1i2h8uyo1m5j20u011mtcy"
+      },
+      "analysis_time": 1762130602,
+      "share_text": "#集市上花二十块钱买的小狗#的相关内容，来智搜看看",
+      "chat_status_stage": 1,
+      "share_info": {
+        "tips": "#集市上花二十块钱买的小狗#的相关内容，来智搜看看",
+        "url": "http://t.cn/AXA9HQY1",
+        "status": 3,
+        "unify_md5": "40b39c8fd97f354dd104eaa49ef09082",
+        "page_id": "232964bf566634efca57c39f00d4d81c895e9a",
+        "display_name": "#集市上花二十块钱买的小狗#",
+        "comment_content": ""
+      },
+      "current_time": 1762130998,
+      "user_info": {},
+      "show_ctrl": {
+        "quote": {}
+      },
+      "page_id": "232964bf566634efca57c39f00d4d81c895e9a",
+      "version": "2025-11-03 08:39:59.012000-8571",
+      "news_analyze": {},
+      "comment_info": {},
+      "uid": "",
+      "ext_show": {},
+      "query_category": "Ip"
+    }
+  },
+  "links": [
+    "sinaweibo://detail?mblogid=5228684669882031",
+    "sinaweibo://detail?mblogid=5228814701693864",
+    "sinaweibo://detail?mblogid=5228813327798951",
+    "sinaweibo://detail?mblogid=5228804962257262",
+    "sinaweibo://detail?mblogid=5228689555982119",
+    "sinaweibo://detail?mblogid=5178197318829120",
+    "sinaweibo://detail?mblogid=5100211066634630",
+    "sinaweibo://detail?mblogid=4797743140964420",
+    "sinaweibo://detail?mblogid=5143830589079980",
+    "sinaweibo://detail?mblogid=5135824463072988",
+    "sinaweibo://detail?mblogid=5191452801631046",
+    "sinaweibo://detail?mblogid=5033117245244515",
+    "sinaweibo://detail?mblogid=4789043465820979",
+    "sinaweibo://detail?mblogid=5018054868077878",
+    "sinaweibo://detail?mblogid=5158678354988515",
+    "sinaweibo://detail?mblogid=4872977945202199",
+    "sinaweibo://detail?mblogid=4796528449291720",
+    "sinaweibo://detail?mblogid=4820192963594494",
+    "sinaweibo://detail?mblogid=4480272353602782"
+  ],
+  "media": [
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/77327e8dgy1i2h8uyo1m5j20u011mtcy.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/77327e8dgy1i2h8uyo1m5j20u011mtcy.jpg",
+      "alt": "吕培乔",
+      "width": 1354,
+      "height": 1080,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/77327e8dgy1i2h8uyo1m5j20u011mtcy.jpg"
+      ],
+      "user": "吕培乔"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/005WMQK7ly1h4nmdz4h7fj30gv0m3mz0.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/005WMQK7ly1h4nmdz4h7fj30gv0m3mz0.jpg",
+      "alt": "天天正能量",
+      "width": 795,
+      "height": 607,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/005WMQK7ly1h4nmdz4h7fj30gv0m3mz0.jpg"
+      ],
+      "user": "天天正能量"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/006GmOv6ly1h3zjfbnk8ej30f00qoacq.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/006GmOv6ly1h3zjfbnk8ej30f00qoacq.jpg",
+      "alt": "萌星人宠物日记",
+      "width": 960,
+      "height": 540,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/006GmOv6ly1h3zjfbnk8ej30f00qoacq.jpg"
+      ],
+      "user": "萌星人宠物日记"
+    }
+  ],
+  "html_path": "data/aicard/hourly/2025-11-03/08/topic-40b39c8f.html"
+}

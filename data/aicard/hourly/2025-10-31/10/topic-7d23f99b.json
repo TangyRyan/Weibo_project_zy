@@ -1,0 +1,372 @@
+{
+  "meta": {
+    "query": "#北京地铁#",
+    "status_code": 200,
+    "fetched_at": "2025-10-31T22:31:30+08:00",
+    "response": {
+      "card_multimodal": {
+        "type": "mediablock",
+        "data": [
+          {
+            "cur_mid": "5227448673501501",
+            "hit_score_final": 60,
+            "user_name": "北京地铁",
+            "user_avatar": "https://tvax4.sinaimg.cn/crop.0.0.827.827.50/00321qItly8h8vi3rucm0j60mz0mzt9v02.jpg?KID=imgbed,tva&Expires=1761924245&ssig=i%2BWJJa7f7n",
+            "w": 2551,
+            "vtype": 1,
+            "hit_score_new": 98.925781,
+            "doc_score": 2991,
+            "img_pid": "00321qItly1i6uda6uyf2j61yv1m3gx702",
+            "scheme": "sinaweibo://multimedia?mix_mid=5227448673501501&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=0",
+            "type": "p",
+            "h": 2091,
+            "video_url": "",
+            "img": "http://wx2.sinaimg.cn/middle/00321qItly1i6uda6uyf2j61yv1m3gx702.jpg",
+            "click_rate": 0
+          },
+          {
+            "cur_mid": "5227788455642325",
+            "hit_score_final": 100,
+            "user_name": "北京交通大作战",
+            "user_avatar": "https://tvax2.sinaimg.cn/crop.0.0.600.600.50/892027d1ly8h8uh7aq4dbj20go0goacr.jpg?KID=imgbed,tva&Expires=1761924245&ssig=fP9Rn1HN0K",
+            "w": 690,
+            "vtype": 0,
+            "hit_score_new": 0,
+            "doc_score": 5206,
+            "img_pid": "892027d1ly1i6vfwvndicj20j60eejxn",
+            "scheme": "sinaweibo://multimedia?mix_mid=5227788455642325&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=2&multi_count=0",
+            "type": "p",
+            "h": 518,
+            "video_url": "",
+            "img": "http://wx1.sinaimg.cn/middle/892027d1ly1i6vfwvndicj20j60eejxn.jpg",
+            "click_rate": 0
+          },
+          {
+            "cur_mid": "5196570433947438",
+            "hit_score_final": 89,
+            "user_name": "北京日报",
+            "user_avatar": "https://tvax4.sinaimg.cn/crop.0.0.600.600.50/0024aA4lly8i51bp1z4bcj60go0goq3g02.jpg?KID=imgbed,tva&Expires=1761924245&ssig=kWn%2FrGNV1L",
+            "w": 1080,
+            "vtype": 3,
+            "hit_score_new": 0,
+            "doc_score": 3307,
+            "img_pid": "0024aA4lly1i43uytj625j60u01hc41c02",
+            "scheme": "sinaweibo://video/vvs?mid=5196570433947438&multi_paragraph=3&multi_count=0",
+            "type": "v",
+            "h": 1920,
+            "video_url": "https://video.weibo.com/show?fid=1034:5196569784549409",
+            "img": "http://wx1.sinaimg.cn/middle/0024aA4lly1i43uytj625j60u01hc41c02.jpg",
+            "click_rate": 0
+          },
+          {
+            "cur_mid": "5227448673501501",
+            "hit_score_final": 60,
+            "user_name": "北京地铁",
+            "user_avatar": "https://tvax4.sinaimg.cn/crop.0.0.827.827.50/00321qItly8h8vi3rucm0j60mz0mzt9v02.jpg?KID=imgbed,tva&Expires=1761924245&ssig=i%2BWJJa7f7n",
+            "w": 2551,
+            "vtype": 1,
+            "hit_score_new": 98.925781,
+            "doc_score": 2991,
+            "img_pid": "00321qItly1i6uda6uyf2j61yv1m3gx702",
+            "scheme": "sinaweibo://multimedia?mix_mid=5227448673501501&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=0",
+            "type": "p",
+            "h": 2091,
+            "video_url": "",
+            "img": "http://wx2.sinaimg.cn/middle/00321qItly1i6uda6uyf2j61yv1m3gx702.jpg",
+            "click_rate": 0
+          }
+        ]
+      },
+      "share_card_multimodal": {
+        "cur_mid": "5227448673501501",
+        "hit_score_final": 60,
+        "user_name": "北京地铁",
+        "user_avatar": "https://tvax4.sinaimg.cn/crop.0.0.827.827.50/00321qItly8h8vi3rucm0j60mz0mzt9v02.jpg?KID=imgbed,tva&Expires=1761924245&ssig=i%2BWJJa7f7n",
+        "w": 2551,
+        "vtype": 1,
+        "hit_score_new": 98.925781,
+        "doc_score": 2991,
+        "img_pid": "00321qItly1i6uda6uyf2j61yv1m3gx702",
+        "scheme": "sinaweibo://multimedia?mix_mid=5227448673501501&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=0",
+        "type": "p",
+        "h": 2091,
+        "video_url": "",
+        "img": "http://wx2.sinaimg.cn/middle/00321qItly1i6uda6uyf2j61yv1m3gx702.jpg",
+        "click_rate": 0
+      },
+      "basemodel": "实验组8",
+      "cot": 1,
+      "model": "deepseek",
+      "reference_num": 37,
+      "query_category": "Ip",
+      "status_stage": 4,
+      "share_text": "#北京地铁#的相关内容，来智搜看看",
+      "ext_show": {},
+      "comment_info": {},
+      "reliable_tips": "{\"gold_orange_v_mids\": [\"5227757785319671\", \"5227760790278201\", \"5227788455642325\", \"5227791561785367\", \"5227395298362559\", \"5227750958564052\", \"5227203893661649\", \"5227439920775455\", \"5205437743105482\", \"5227140607380407\", \"5227350488778407\", \"5196978952082184\", \"5206471542309083\", \"5227175429015602\", \"5227829735981397\", \"5227364293542079\", \"5227462107598130\", \"5227678242177679\", \"5227406577108938\", \"5227440923741182\", \"5227725879248921\", \"5227137443564175\", \"5227456383421216\", \"5227419042580200\"], \"gold_orange_v_ratio\": \"65%\", \"media_mids\": [\"5227742023126928\", \"5227760014065848\", \"5196570433947438\", \"5205833529170849\", \"5205650256694007\", \"5208570188007775\"], \"media_ratio\": \"16%\", \"verified_mids\": [\"5227448673501501\", \"5227061536884976\", \"5211951367194218\", \"5227019793338081\", \"5227419487437274\", \"5227053675711379\"], \"verified_ratio\": \"16%\", \"normal_mids\": [\"5227728145482544\"], \"normal_ratio\": \"3%\", \"ref_mid_rank\": {\"5227728145482544\": {\"rank\": 1}, \"5227742023126928\": {\"rank\": 9}, \"5227757785319671\": {\"rank\": 17}, \"5227760790278201\": {\"rank\": 26}, \"5227448673501501\": {\"rank\": 21}, \"5227760014065848\": {\"rank\": 11}, \"5227788455642325\": {\"rank\": 32}, \"5227791561785367\": {\"rank\": 33}, \"5227395298362559\": {\"rank\": 29}, \"5196570433947438\": {\"rank\": 6}, \"5227750958564052\": {\"rank\": 22}, \"5205833529170849\": {\"rank\": 3}, \"5205650256694007\": {\"rank\": 24}, \"5227203893661649\": {\"rank\": 30}, \"5227439920775455\": {\"rank\": 19}, \"5227061536884976\": {\"rank\": 41}, \"5205437743105482\": {\"rank\": 4}, \"5208570188007775\": {\"rank\": 5}, \"5227140607380407\": {\"rank\": 31}, \"5227350488778407\": {\"rank\": 2}, \"5196978952082184\": {\"rank\": 7}, \"5206471542309083\": {\"rank\": 8}, \"5227175429015602\": {\"rank\": 10}, \"5227829735981397\": {\"rank\": 16}, \"5227364293542079\": {\"rank\": 18}, \"5227462107598130\": {\"rank\": 20}, \"5227678242177679\": {\"rank\": 23}, \"5211951367194218\": {\"rank\": 25}, \"5227406577108938\": {\"rank\": 27}, \"5227440923741182\": {\"rank\": 28}, \"5227019793338081\": {\"rank\": 34}, \"5227725879248921\": {\"rank\": 35}, \"5227137443564175\": {\"rank\": 36}, \"5227456383421216\": {\"rank\": 37}, \"5227419042580200\": {\"rank\": 38}, \"5227419487437274\": {\"rank\": 39}, \"5227053675711379\": {\"rank\": 40}}}",
+      "query": "#北京地铁#",
+      "qs_status": 0,
+      "chat_status_stage": 1,
+      "profile_image_url": "",
+      "show_ctrl": {
+        "quote": {}
+      },
+      "query_field": "23",
+      "unify_md5": "7d23f99be24b6e3bb17983379582b135",
+      "analysis_time": 1761913519,
+      "ab_suffix": "default",
+      "news_analyze": {},
+      "zs_risk_control": {
+        "land_button_close": 0,
+        "think_text_close": 0
+      },
+      "qs_status_info": "{\"qs_u_status\":0,\"ab_lab\":{},\"qs_status\":0,\"qs_q_status\":0,\"qs_c_status\":8388608,\"qs_r_status\":0}",
+      "msg_format": "markdown",
+      "loop_times": 200,
+      "q_attr": {
+        "comment_from_type": "",
+        "mid": "",
+        "from_request_id": "",
+        "from_uid": "",
+        "reply_cid": ""
+      },
+      "share_info": {
+        "url": "http://t.cn/A6kvETgH",
+        "unify_md5": "7d23f99be24b6e3bb17983379582b135",
+        "status": 3,
+        "page_id": "23296436c6c39566176ea5e1486ae008673be4",
+        "tips": "#北京地铁#的相关内容，来智搜看看",
+        "comment_content": "",
+        "display_name": "#北京地铁#"
+      },
+      "mid_list": null,
+      "abtest_info": {
+        "chat_entrance": 1
+      },
+      "current_time": 1761921090,
+      "msg_json": "{}",
+      "user_info": {},
+      "version": "2025-10-31 20:24:05.017999-4838",
+      "msg": "<think><br>嗯，用户想要了解北京地铁的最新情况，我需要从搜索结果中整理出有用的信息。用户没有具体说明关注点，所以得全面覆盖多个方面。<br><br>看到今天（10月31日）的搜索结果中有不少实时信息。6号线早上出现设备故障导致延误，有乘客反映等了5趟车都上不去。这个信息来自普通乘客的微博抱怨，结合北京地铁官方发布的延误致歉声明，说明情况确实存在。<br><br>客流量方面很有意思，10月29日全网客流量达到862.63万人次，这数据是北京地铁公司自己发布的，应该很准确。1号线和6号线这些骨干线路长期超负荷运行，难怪节假日前夕经常出现拥堵现象。9月底1号线王府井站就因为信号故障导致严重乘客积压。<br><br>说到服务创新，国贸站今天新开了北京地铁首家瑞幸咖啡店。这个挺有创意的，把闲置的售票亭改造利用，还提供\"网订站取\"的快捷服务模式。这种\"嵌入式\"商业改造是个新思路。<br><br>最让人头疼的是二里沟站，这个6号线和16号线的换乘站被乘客戏称为\"比西直门桥还复杂\"的迷宫。媒体专门做了报道，建议乘客一定要看清指示标志。<br><br>无障碍设施问题依然存在，有认证用户指出6号线车公庄站北口缺乏电梯，对老年人和残疾人很不友好。这个批评挺中肯的。<br><br>意外发现地铁空间还被用作国防教育平台。8月底19号线开通了\"伟大胜利\"主题专列，第七节车厢是福建舰主题涂装。这种宣传方式挺新颖的。<br><br>9月初抗战胜利纪念活动期间的交通管制信息很详细，多条线路分时段停运，还提供了详细的替代出行方案。这些资料类信息很实用。<br><br>哦对了，还有个小花絮挺温馨的，有女生给地铁民警送零食后\"撒腿就跑\"，民警说\"被可爱到了\"。这种警民互动的小故事挺暖心的。<br><br>最后注意到13号线正在进行扩建工程，特别是13A线暗挖段施工难度很大，周围都是营业线路。这种基础建设信息对通勤族可能不太重要，但体现了城市发展的动态。<br><br></think><br>以下是关于北京地铁的当前动态与关注焦点整理：<br>### 🚇 **一、近期重点事件**<br>1. **6号线延误故障（10月31日）**  <br>   早高峰因设备故障导致多趟列车延误，部分站点乘客滞留超15分钟，连续5趟列车满载无法登车。北京地铁已发布致歉声明，但乘客质疑故障信息广播不及时。```wbCustomBlock{\"type\": \"quoted\", \"index\": 3, \"data\": {\"num\": [1, 9, 17, 26], \"version\": 2, \"quote_list\": [{\"name\": \"北京日报\", \"scheme\": \"sinaweibo://detail?mblogid=5227742023126928\", \"index\": 9, \"label\": \"大v\"}, {\"name\": \"1岁半的姑凉\", \"scheme\": \"sinaweibo://detail?mblogid=5227728145482544\", \"index\": 1, \"label\": \"\"}, {\"name\": \"游戏投投机\", \"scheme\": \"sinaweibo://detail?mblogid=5227757785319671\", \"index\": 17, \"label\": \"\"}, {\"name\": \"苏玛雅-\", \"scheme\": \"sinaweibo://detail?mblogid=5227760790278201\", \"index\": 26, \"label\": \"\"}], \"name\": \"北京日报\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.600.600.50/0024aA4lly8i51bp1z4bcj60go0goq3g02.jpg?KID=imgbed,tva&Expires=1761924245&ssig=kWn%2FrGNV1L\", \"scheme\": \"sinaweibo://detail?mblogid=5227742023126928\", \"vType\": 3}}```<br><br>2. **客流压力持续高位**  <br>   - 10月29日全网客流量达862.63万人次，1号线、6号线等骨干线路长期超负荷运行。```wbCustomBlock{\"type\": \"quoted\", \"index\": 5, \"data\": {\"num\": [17, 21], \"version\": 2, \"quote_list\": [{\"name\": \"北京地铁\", \"scheme\": \"sinaweibo://detail?mblogid=5227448673501501\", \"index\": 21, \"label\": \"大v\"}, {\"name\": \"游戏投投机\", \"scheme\": \"sinaweibo://detail?mblogid=5227757785319671\", \"index\": 17, \"label\": \"\"}], \"name\": \"北京地铁\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.827.827.50/00321qItly8h8vi3rucm0j60mz0mzt9v02.jpg?KID=imgbed,tva&Expires=1761924245&ssig=i%2BWJJa7f7n\", \"scheme\": \"sinaweibo://detail?mblogid=5227448673501501\", \"vType\": 1}}```  <br>   - 9月30日1号线王府井站曾因信号故障引发严重乘客积压，故障波及天安门东站、四惠东站等多站。<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5227448673501501&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.827.827.50/00321qItly8h8vi3rucm0j60mz0mzt9v02.jpg?KID=imgbed,tva&Expires=1761924245&ssig=i%2BWJJa7f7n) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">北京地铁</span><img src=\"http://wx2.sinaimg.cn/middle/00321qItly1i6uda6uyf2j61yv1m3gx702.jpg\" data-width=2091 data-height=2551></div></media-block><br>### 🚧 **二、服务优化与创新**<br>1. **商业便民服务升级**  <br>   - **首家地铁咖啡店开业**：10月31日，瑞幸咖啡入驻1号线国贸站，利用闲置售票亭改造，提供“网订站取”服务，契合通勤快节奏。```wbCustomBlock{\"type\": \"quoted\", \"index\": 10, \"data\": {\"num\": [11, 32, 33], \"version\": 2, \"quote_list\": [{\"name\": \"北京交通大作战\", \"scheme\": \"sinaweibo://detail?mblogid=5227788455642325\", \"index\": 32, \"label\": \"大v\"}, {\"name\": \"北京日报\", \"scheme\": \"sinaweibo://detail?mblogid=5227760014065848\", \"index\": 11, \"label\": \"\"}, {\"name\": \"北京大峰峰\", \"scheme\": \"sinaweibo://detail?mblogid=5227791561785367\", \"index\": 33, \"label\": \"\"}], \"name\": \"北京交通大作战\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.600.600.50/892027d1ly8h8uh7aq4dbj20go0goacr.jpg?KID=imgbed,tva&Expires=1761924245&ssig=fP9Rn1HN0K\", \"scheme\": \"sinaweibo://detail?mblogid=5227788455642325\", \"vType\": 0}}```  <br>   - **多元商业生态**：全路网已布局便利店、自助设备等便民设施274处，前三季度服务乘客超1747万人次，同比增长24.4%。```wbCustomBlock{\"type\": \"quoted\", \"index\": 11, \"data\": {\"num\": [11], \"version\": 2, \"quote_list\": [{\"name\": \"北京日报\", \"scheme\": \"sinaweibo://detail?mblogid=5227760014065848\", \"index\": 11, \"label\": \"\"}]}}```<br><br>2. **无障碍设施争议**  <br>   6号线车公庄站北口缺乏电梯，仅设台阶，老年人与残疾人通行不便，引发对“以人为本”设计的质疑。```wbCustomBlock{\"type\": \"quoted\", \"index\": 12, \"data\": {\"num\": [29], \"version\": 2, \"quote_list\": [{\"name\": \"翟德芳\", \"scheme\": \"sinaweibo://detail?mblogid=5227395298362559\", \"index\": 29, \"label\": \"大v\"}], \"name\": \"翟德芳\", \"img\": \"https://tva3.sinaimg.cn/crop.0.0.180.180.50/76ccea42jw1e8qgp5bmzyj2050050aa8.jpg?KID=imgbed,tva&Expires=1761924245&ssig=%2BLcB%2Bl2NZi\", \"scheme\": \"sinaweibo://detail?mblogid=5227395298362559\", \"vType\": 0}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5227788455642325&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=2&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.600.600.50/892027d1ly8h8uh7aq4dbj20go0goacr.jpg?KID=imgbed,tva&Expires=1761924245&ssig=fP9Rn1HN0K) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">北京交通大作战</span><img src=\"http://wx1.sinaimg.cn/middle/892027d1ly1i6vfwvndicj20j60eejxn.jpg\" data-width=518 data-height=690></div></media-block><br>### 🗺️ **三、乘车痛点与应对**<br>1. **换乘复杂性突出**  <br>   - 6号线与16号线换乘站 **二里沟站** 因双侧式站台设计被称“换乘迷宫”，乘客需严格按指示通行，否则易绕行。```wbCustomBlock{\"type\": \"quoted\", \"index\": 16, \"data\": {\"num\": [6], \"version\": 2, \"quote_list\": [{\"name\": \"北京日报\", \"scheme\": \"sinaweibo://detail?mblogid=5196570433947438\", \"index\": 6, \"label\": \"\"}]}}```  <br>   - 建议：关注站内彩带标识与示意图，或求助工作人员。```wbCustomBlock{\"type\": \"quoted\", \"index\": 17, \"data\": {\"num\": [6], \"version\": 2, \"quote_list\": [{\"name\": \"北京日报\", \"scheme\": \"sinaweibo://detail?mblogid=5196570433947438\", \"index\": 6, \"label\": \"\"}]}}```<br><br>2. **不文明行为管理**  <br>   10月30日有乘客在地铁车厢内嗑瓜子并乱扔垃圾。北京地铁回应：禁食规定明确，可向乘务管理员举报此类行为。```wbCustomBlock{\"type\": \"quoted\", \"index\": 18, \"data\": {\"num\": [22], \"version\": 2, \"quote_list\": [{\"name\": \"北京大峰峰\", \"scheme\": \"sinaweibo://detail?mblogid=5227750958564052\", \"index\": 22, \"label\": \"大v\"}], \"name\": \"北京大峰峰\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.663.663.50/006lC1pDly8h2ppyxzztdj30if0ifjs5.jpg?KID=imgbed,tva&Expires=1761924245&ssig=r4JIocm%2BfV\", \"scheme\": \"sinaweibo://detail?mblogid=5227750958564052\", \"vType\": 0}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5196570433947438&multi_paragraph=3&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.600.600.50/0024aA4lly8i51bp1z4bcj60go0goq3g02.jpg?KID=imgbed,tva&Expires=1761924245&ssig=kWn%2FrGNV1L) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">北京日报</span><img src=\"http://wx1.sinaimg.cn/middle/0024aA4lly1i43uytj625j60u01hc41c02.jpg\" data-width=1920 data-height=1080></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5227750958564052&multi_paragraph=3&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.663.663.50/006lC1pDly8h2ppyxzztdj30if0ifjs5.jpg?KID=imgbed,tva&Expires=1761924245&ssig=r4JIocm%2BfV) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">北京大峰峰</span><img src=\"http://wx4.sinaimg.cn/middle/6ac579bfly1i6uivseb93j20u0140k9p.jpg\" data-width=1440 data-height=1080></div></media-block><br>### 🎭 **四、文化与社会热点**<br>1. **国防主题宣传**  <br>   为纪念抗战胜利80周年，19号线开通“伟大胜利”主题专列，第七节车厢展示福建舰涂装，细节丰富。```wbCustomBlock{\"type\": \"quoted\", \"index\": 21, \"data\": {\"num\": [3, 24, 30], \"version\": 2, \"quote_list\": [{\"name\": \"人民日报\", \"scheme\": \"sinaweibo://detail?mblogid=5205833529170849\", \"index\": 3, \"label\": \"大v\"}, {\"name\": \"中国军号\", \"scheme\": \"sinaweibo://detail?mblogid=5205650256694007\", \"index\": 24, \"label\": \"\"}, {\"name\": \"V闪闪\", \"scheme\": \"sinaweibo://detail?mblogid=5227203893661649\", \"index\": 30, \"label\": \"\"}], \"name\": \"人民日报\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.1018.1018.50/0033ImPzly8h8vgemh8kxj60sa0sadgw02.jpg?KID=imgbed,tva&Expires=1761924245&ssig=2IfQAWy6Al\", \"scheme\": \"sinaweibo://detail?mblogid=5205833529170849\", \"vType\": 3}}```<br><br>2. **民间互助暖心事**  <br>   - 北京地铁存在义务指路的“热心大爷”，36年无偿服务特殊群体（如农民工、老年人），获赞“指路之神”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 23, \"data\": {\"num\": [19], \"version\": 2, \"quote_list\": [{\"name\": \"京城数码爷\", \"scheme\": \"sinaweibo://detail?mblogid=5227439920775455\", \"index\": 19, \"label\": \"大v\"}], \"name\": \"京城数码爷\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/005I0Ecvly8h2igakcf64j30u00u040x.jpg?KID=imgbed,tva&Expires=1761924245&ssig=biRJLLGSM2\", \"scheme\": \"sinaweibo://detail?mblogid=5227439920775455\", \"vType\": 0}}```  <br>   - 乘客向民警赠送零食后“撒腿就跑”的趣事，展现警民温情互动。```wbCustomBlock{\"type\": \"quoted\", \"index\": 24, \"data\": {\"num\": [41], \"version\": 2, \"quote_list\": [{\"name\": \"中国长安网\", \"scheme\": \"sinaweibo://detail?mblogid=5227061536884976\", \"index\": 41, \"label\": \"大v\"}], \"name\": \"中国长安网\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.600.600.50/00688ubUly8h8v2rycn9fj60go0goaaz02.jpg?KID=imgbed,tva&Expires=1761924245&ssig=3w2DEoX91f\", \"scheme\": \"sinaweibo://detail?mblogid=5227061536884976\", \"vType\": 1}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5205833529170849&multi_paragraph=4&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.1018.1018.50/0033ImPzly8h8vgemh8kxj60sa0sadgw02.jpg?KID=imgbed,tva&Expires=1761924245&ssig=2IfQAWy6Al) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">人民日报</span><img src=\"http://wx3.sinaimg.cn/middle/0033ImPzly1i4xetisp7zj61hc0u0adm02.jpg\" data-width=1080 data-height=1920></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5205650256694007&multi_paragraph=4&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.478.478.50/008rKb6ply8h8vgdqmh1oj30da0da0t6.jpg?KID=imgbed,tva&Expires=1761924245&ssig=%2FkpIeqNfyo) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">中国军号</span><img src=\"http://wx1.sinaimg.cn/middle/008rKb6ply1i4wtr7kyqsj31em0she81.jpg\" data-width=1025 data-height=1822></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5227203893661649&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=4&multi_count=2\"><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/460462c1ly8ggrxlu0430j20u00u0q3i.jpg?KID=imgbed,tva&Expires=1761924245&ssig=XG%2FDFAIRfi) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">V闪闪</span><img src=\"http://wx3.sinaimg.cn/middle/460462c1ly1i6tl5rjciqj24eo3b0kjn.jpg\" data-width=4284 data-height=5712></div></media-block><br>### ⚠️ **五、历史调度与韧性经验**<br>1. **大型活动交通管控（9月3日）**  <br>   为保障抗战胜利纪念活动：  <br>   - 1号线八通线、8号线 **首班车至13:30全线停运**；  <br>   - 5号线早高峰分段运行（北段天通苑北↔和平里北街，南段天坛东门↔宋家庄）。```wbCustomBlock{\"type\": \"quoted\", \"index\": 29, \"data\": {\"num\": [4], \"version\": 2, \"quote_list\": [{\"name\": \"资本大事纪\", \"scheme\": \"sinaweibo://detail?mblogid=5205437743105482\", \"index\": 4, \"label\": \"\"}]}}```  <br>   - **替代方案**：推荐使用6号线、10号线、14号线绕行，或骑行共享单车短途接驳。```wbCustomBlock{\"type\": \"quoted\", \"index\": 30, \"data\": {\"num\": [4], \"version\": 2, \"quote_list\": [{\"name\": \"资本大事纪\", \"scheme\": \"sinaweibo://detail?mblogid=5205437743105482\", \"index\": 4, \"label\": \"\"}]}}```<br><br>2. **疏散能力验证**  <br>   纪念活动期间，北京地铁精准调度143趟专列，完成2万余名观礼人员疏散，实现“秒级指挥、一人不落”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 31, \"data\": {\"num\": [5], \"version\": 2, \"quote_list\": [{\"name\": \"北京新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5208570188007775\", \"index\": 5, \"label\": \"大v\"}], \"name\": \"北京新闻\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.512.512.50/006VR6Kxly8h8vgqjs0scj30e80e8aa6.jpg?KID=imgbed,tva&Expires=1761924245&ssig=q2KodMr3Ty\", \"scheme\": \"sinaweibo://detail?mblogid=5208570188007775\", \"vType\": 3}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5205437743105482&multi_paragraph=5&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.996.996.50/0084LG9uly8gfi9y95dlyj30ro0ron0o.jpg?KID=imgbed,tva&Expires=1761924245&ssig=NDepICaq5L) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">资本大事纪</span><img src=\"http://wx3.sinaimg.cn/middle/0084LG9uly1i4w5db3rzbj30k00zk0to.jpg\" data-width=1280 data-height=720></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5208570188007775&multi_paragraph=5&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.512.512.50/006VR6Kxly8h8vgqjs0scj30e80e8aa6.jpg?KID=imgbed,tva&Expires=1761924245&ssig=q2KodMr3Ty) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">北京新闻</span><img src=\"http://wx1.sinaimg.cn/middle/006VR6Kxly1i56545x392j31hc0u0779.jpg\" data-width=1080 data-height=1920></div></media-block><br>### 🔮 **六、未来规划**<br>1. **13号线扩能工程推进**  <br>   10月22日，13A线暗挖段启动施工，下穿既有地铁变电所（最小净距5.494米），技术难度高。```wbCustomBlock{\"type\": \"quoted\", \"index\": 34, \"data\": {\"num\": [31], \"version\": 2, \"quote_list\": [{\"name\": \"北京交通大作战\", \"scheme\": \"sinaweibo://detail?mblogid=5227140607380407\", \"index\": 31, \"label\": \"\"}]}}```<br><br>2. **商业空间探索**  <br>   目前商业设施以改造闲置空间（如客服中心）或伪装移动设备为主，暂未永久占用站厅空地。```wbCustomBlock{\"type\": \"quoted\", \"index\": 35, \"data\": {\"num\": [32], \"version\": 2, \"quote_list\": [{\"name\": \"北京交通大作战\", \"scheme\": \"sinaweibo://detail?mblogid=5227788455642325\", \"index\": 32, \"label\": \"\"}]}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5227140607380407&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=6&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.600.600.50/892027d1ly8h8uh7aq4dbj20go0goacr.jpg?KID=imgbed,tva&Expires=1761924245&ssig=fP9Rn1HN0K) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">北京交通大作战</span><img src=\"http://wx2.sinaimg.cn/middle/892027d1ly1i6tdvdrhc2j20u00iutka.jpg\" data-width=678 data-height=1080></div></media-block><br>### 💎 **总结**  <br>北京地铁在超负荷运载与设备老化压力下（如1号线1969年开通），正通过商业创新、文化传播提升服务体验，但换乘复杂性、无障碍短板仍需优化。乘客需结合实时信息（“北京交通”APP）灵活应对故障与管控，同时参与监督不文明行为，共同维护出行环境。<br>",
+      "status": 2,
+      "wenda": {
+        "forward_gen": 0
+      },
+      "sorted_material_list": "[{\"mid\": \"5205437743105482\", \"rank\": 3, \"type\": \"weibo\"}, {\"mid\": \"5206125421005452\", \"rank\": 5, \"type\": \"weibo\"}, {\"mid\": \"5205795983068287\", \"rank\": 12, \"type\": \"weibo\"}, {\"mid\": \"5205833529170849\", \"rank\": 1, \"type\": \"weibo\"}, {\"mid\": \"5205662629366922\", \"rank\": 4, \"type\": \"weibo\"}, {\"mid\": \"5206454604926589\", \"rank\": 11, \"type\": \"weibo\"}, {\"mid\": \"5205650256694007\", \"rank\": 25, \"type\": \"weibo\"}, {\"mid\": \"5206374918917097\", \"rank\": 66, \"type\": \"weibo\"}, {\"mid\": \"5205666098317379\", \"rank\": 61, \"type\": \"weibo\"}, {\"mid\": \"5206435560686185\", \"rank\": 65, \"type\": \"weibo\"}, {\"mid\": \"5205631195940287\", \"rank\": 67, \"type\": \"weibo\"}, {\"mid\": \"5205779633930550\", \"rank\": 32, \"type\": \"weibo\"}, {\"mid\": \"5206457463344932\", \"rank\": 74, \"type\": \"weibo\"}, {\"mid\": \"5206445035622283\", \"rank\": 59, \"type\": \"weibo\"}, {\"mid\": \"5202514816270396\", \"rank\": 10, \"type\": \"weibo\"}, {\"mid\": \"5204693422704266\", \"rank\": 7, \"type\": \"weibo\"}, {\"mid\": \"5206121448472938\", \"rank\": 2, \"type\": \"weibo\"}, {\"mid\": \"5205311673597994\", \"rank\": 6, \"type\": \"weibo\"}, {\"mid\": \"5182269074967601\", \"rank\": 8, \"type\": \"weibo\"}, {\"mid\": \"5192051315967332\", \"rank\": 9, \"type\": \"weibo\"}, {\"mid\": \"5205335000222080\", \"rank\": 14, \"type\": \"weibo\"}, {\"mid\": \"5193461638890783\", \"rank\": 15, \"type\": \"weibo\"}, {\"mid\": \"5177819610747106\", \"rank\": 16, \"type\": \"weibo\"}, {\"mid\": \"5205824739481747\", \"rank\": 17, \"type\": \"weibo\"}, {\"mid\": \"5206471542309083\", \"rank\": 18, \"type\": \"weibo\"}, {\"mid\": \"5206449136337423\", \"rank\": 19, \"type\": \"weibo\"}, {\"mid\": \"5181504699498538\", \"rank\": 20, \"type\": \"weibo\"}, {\"mid\": \"5192254645865255\", \"rank\": 21, \"type\": \"weibo\"}, {\"mid\": \"5206415398404405\", \"rank\": 22, \"type\": \"weibo\"}, {\"mid\": \"5205701196779456\", \"rank\": 23, \"type\": \"weibo\"}, {\"mid\": \"5205782288139576\", \"rank\": 24, \"type\": \"weibo\"}, {\"mid\": \"5206436827105788\", \"rank\": 26, \"type\": \"weibo\"}, {\"mid\": \"5206127059146674\", \"rank\": 27, \"type\": \"weibo\"}, {\"mid\": \"5206051231892723\", \"rank\": 28, \"type\": \"weibo\"}, {\"mid\": \"5206166806463527\", \"rank\": 29, \"type\": \"weibo\"}, {\"mid\": \"5206176368427277\", \"rank\": 30, \"type\": \"weibo\"}, {\"mid\": \"5205963196075357\", \"rank\": 31, \"type\": \"weibo\"}, {\"mid\": \"5205761916405446\", \"rank\": 33, \"type\": \"weibo\"}, {\"mid\": \"5205679600304264\", \"rank\": 34, \"type\": \"weibo\"}, {\"mid\": \"5205447839320974\", \"rank\": 35, \"type\": \"weibo\"}, {\"mid\": \"5206491093272606\", \"rank\": 36, \"type\": \"weibo\"}, {\"mid\": \"5206468212821237\", \"rank\": 37, \"type\": \"weibo\"}, {\"mid\": \"5206027442326282\", \"rank\": 38, \"type\": \"weibo\"}, {\"mid\": \"5205480232191907\", \"rank\": 39, \"type\": \"weibo\"}, {\"mid\": \"5206106284757362\", \"rank\": 40, \"type\": \"weibo\"}, {\"mid\": \"5205782610051274\", \"rank\": 41, \"type\": \"weibo\"}, {\"mid\": \"5206351367373114\", \"rank\": 42, \"type\": \"weibo\"}, {\"mid\": \"5206205560524676\", \"rank\": 43, \"type\": \"weibo\"}, {\"mid\": \"5205705583757768\", \"rank\": 44, \"type\": \"weibo\"}, {\"mid\": \"5206130810684628\", \"rank\": 45, \"type\": \"weibo\"}, {\"mid\": \"5205975005136222\", \"rank\": 46, \"type\": \"weibo\"}, {\"mid\": \"5205794553074697\", \"rank\": 47, \"type\": \"weibo\"}, {\"mid\": \"5206006441181287\", \"rank\": 48, \"type\": \"weibo\"}, {\"mid\": \"5205706745841186\", \"rank\": 49, \"type\": \"weibo\"}, {\"mid\": \"5205450716087643\", \"rank\": 50, \"type\": \"weibo\"}, {\"mid\": \"5206000795649736\", \"rank\": 51, \"type\": \"weibo\"}, {\"mid\": \"5206021032380407\", \"rank\": 52, \"type\": \"weibo\"}, {\"mid\": \"5205839193572936\", \"rank\": 53, \"type\": \"weibo\"}, {\"mid\": \"5205835827645349\", \"rank\": 54, \"type\": \"weibo\"}, {\"mid\": \"5206368627199234\", \"rank\": 55, \"type\": \"weibo\"}, {\"mid\": \"5206390643887546\", \"rank\": 56, \"type\": \"weibo\"}, {\"mid\": \"5206356384548294\", \"rank\": 57, \"type\": \"weibo\"}, {\"mid\": \"5206463079514518\", \"rank\": 58, \"type\": \"weibo\"}, {\"mid\": \"5205990838633830\", \"rank\": 60, \"type\": \"weibo\"}, {\"mid\": \"5205665812579910\", \"rank\": 62, \"type\": \"weibo\"}, {\"mid\": \"5206456221303946\", \"rank\": 63, \"type\": \"weibo\"}, {\"mid\": \"5205734226660123\", \"rank\": 64, \"type\": \"weibo\"}, {\"mid\": \"5205637832378445\", \"rank\": 68, \"type\": \"weibo\"}, {\"mid\": \"5205753717850129\", \"rank\": 69, \"type\": \"weibo\"}, {\"mid\": \"5206028582651838\", \"rank\": 70, \"type\": \"weibo\"}, {\"mid\": \"5205698956756362\", \"rank\": 71, \"type\": \"weibo\"}, {\"mid\": \"5205647194065585\", \"rank\": 72, \"type\": \"weibo\"}, {\"mid\": \"5205853780575810\", \"rank\": 73, \"type\": \"weibo\"}, {\"mid\": \"5206346028811689\", \"rank\": 75, \"type\": \"weibo\"}, {\"mid\": \"5206108056848632\", \"rank\": 76, \"type\": \"weibo\"}, {\"mid\": \"5205749241744731\", \"rank\": 77, \"type\": \"weibo\"}, {\"mid\": \"5205729837583709\", \"rank\": 78, \"type\": \"weibo\"}, {\"mid\": \"5205730525447614\", \"rank\": 79, \"type\": \"weibo\"}, {\"mid\": \"5205749932496576\", \"rank\": 80, \"type\": \"weibo\"}, {\"mid\": \"5206219130406491\", \"rank\": 81, \"type\": \"weibo\"}, {\"mid\": \"5205604562111666\", \"rank\": 82, \"type\": \"weibo\"}, {\"mid\": \"5206514865537802\", \"rank\": 83, \"type\": \"weibo\"}, {\"mid\": \"5206036136856139\", \"rank\": 84, \"type\": \"weibo\"}, {\"mid\": \"5206173695608984\", \"rank\": 85, \"type\": \"weibo\"}, {\"mid\": \"5206435057108089\", \"rank\": 86, \"type\": \"weibo\"}, {\"mid\": \"5206424527570534\", \"rank\": 87, \"type\": \"weibo\"}, {\"mid\": \"5205642018294329\", \"rank\": 88, \"type\": \"weibo\"}]",
+      "scheme": "sinaweibo://cardlist?containerid=100103type%3D225%26q%3D%23%E5%8C%97%E4%BA%AC%E5%9C%B0%E9%93%81%23%26t%3D&extparam=ai_model%3Ddeepseek%26ori_ai_title%3D%E5%8F%82%E8%80%83%E5%8D%9A%E6%96%87%26material_version%3D1761913445",
+      "page_id": "23296436c6c39566176ea5e1486ae008673be4",
+      "link_list": [
+        "sinaweibo://detail?mblogid=5227728145482544",
+        "sinaweibo://detail?mblogid=5227350488778407",
+        "sinaweibo://detail?mblogid=5205833529170849",
+        "sinaweibo://detail?mblogid=5205437743105482",
+        "sinaweibo://detail?mblogid=5208570188007775",
+        "sinaweibo://detail?mblogid=5196570433947438",
+        "sinaweibo://detail?mblogid=5196978952082184",
+        "sinaweibo://detail?mblogid=5206471542309083",
+        "sinaweibo://detail?mblogid=5227742023126928",
+        "sinaweibo://detail?mblogid=5227175429015602",
+        "sinaweibo://detail?mblogid=5227760014065848",
+        "https://baike.baidu.com/item/%E5%8C%97%E4%BA%AC%E5%9C%B0%E9%93%81/19255713?fromModule=search-result_lemma",
+        "historyweibo://5216530889705926",
+        "historyweibo://5205251497919194",
+        "historyweibo://5205251497919194",
+        "sinaweibo://detail?mblogid=5227829735981397",
+        "sinaweibo://detail?mblogid=5227757785319671",
+        "sinaweibo://detail?mblogid=5227364293542079",
+        "sinaweibo://detail?mblogid=5227439920775455",
+        "sinaweibo://detail?mblogid=5227462107598130",
+        "sinaweibo://detail?mblogid=5227448673501501",
+        "sinaweibo://detail?mblogid=5227750958564052",
+        "sinaweibo://detail?mblogid=5227678242177679",
+        "sinaweibo://detail?mblogid=5205650256694007",
+        "sinaweibo://detail?mblogid=5211951367194218",
+        "sinaweibo://detail?mblogid=5227760790278201",
+        "sinaweibo://detail?mblogid=5227406577108938",
+        "sinaweibo://detail?mblogid=5227440923741182",
+        "sinaweibo://detail?mblogid=5227395298362559",
+        "sinaweibo://detail?mblogid=5227203893661649",
+        "sinaweibo://detail?mblogid=5227140607380407",
+        "sinaweibo://detail?mblogid=5227788455642325",
+        "sinaweibo://detail?mblogid=5227791561785367",
+        "sinaweibo://detail?mblogid=5227019793338081",
+        "sinaweibo://detail?mblogid=5227725879248921",
+        "sinaweibo://detail?mblogid=5227137443564175",
+        "sinaweibo://detail?mblogid=5227456383421216",
+        "sinaweibo://detail?mblogid=5227419042580200",
+        "sinaweibo://detail?mblogid=5227419487437274",
+        "sinaweibo://detail?mblogid=5227053675711379",
+        "sinaweibo://detail?mblogid=5227061536884976"
+      ],
+      "uid": "",
+      "top_quote_list": {},
+      "short_url": "http://t.cn/A6kS6VJr"
+    }
+  },
+  "links": [
+    "sinaweibo://detail?mblogid=5227728145482544",
+    "sinaweibo://detail?mblogid=5227350488778407",
+    "sinaweibo://detail?mblogid=5205833529170849",
+    "sinaweibo://detail?mblogid=5205437743105482",
+    "sinaweibo://detail?mblogid=5208570188007775",
+    "sinaweibo://detail?mblogid=5196570433947438",
+    "sinaweibo://detail?mblogid=5196978952082184",
+    "sinaweibo://detail?mblogid=5206471542309083",
+    "sinaweibo://detail?mblogid=5227742023126928",
+    "sinaweibo://detail?mblogid=5227175429015602",
+    "sinaweibo://detail?mblogid=5227760014065848",
+    "https://baike.baidu.com/item/%E5%8C%97%E4%BA%AC%E5%9C%B0%E9%93%81/19255713?fromModule=search-result_lemma",
+    "historyweibo://5216530889705926",
+    "historyweibo://5205251497919194",
+    "historyweibo://5205251497919194",
+    "sinaweibo://detail?mblogid=5227829735981397",
+    "sinaweibo://detail?mblogid=5227757785319671",
+    "sinaweibo://detail?mblogid=5227364293542079",
+    "sinaweibo://detail?mblogid=5227439920775455",
+    "sinaweibo://detail?mblogid=5227462107598130",
+    "sinaweibo://detail?mblogid=5227448673501501",
+    "sinaweibo://detail?mblogid=5227750958564052",
+    "sinaweibo://detail?mblogid=5227678242177679",
+    "sinaweibo://detail?mblogid=5205650256694007",
+    "sinaweibo://detail?mblogid=5211951367194218",
+    "sinaweibo://detail?mblogid=5227760790278201",
+    "sinaweibo://detail?mblogid=5227406577108938",
+    "sinaweibo://detail?mblogid=5227440923741182",
+    "sinaweibo://detail?mblogid=5227395298362559",
+    "sinaweibo://detail?mblogid=5227203893661649",
+    "sinaweibo://detail?mblogid=5227140607380407",
+    "sinaweibo://detail?mblogid=5227788455642325",
+    "sinaweibo://detail?mblogid=5227791561785367",
+    "sinaweibo://detail?mblogid=5227019793338081",
+    "sinaweibo://detail?mblogid=5227725879248921",
+    "sinaweibo://detail?mblogid=5227137443564175",
+    "sinaweibo://detail?mblogid=5227456383421216",
+    "sinaweibo://detail?mblogid=5227419042580200",
+    "sinaweibo://detail?mblogid=5227419487437274",
+    "sinaweibo://detail?mblogid=5227053675711379",
+    "sinaweibo://detail?mblogid=5227061536884976"
+  ],
+  "media": [
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/00321qItly1i6uda6uyf2j61yv1m3gx702.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/00321qItly1i6uda6uyf2j61yv1m3gx702.jpg",
+      "alt": "北京地铁",
+      "width": 2091,
+      "height": 2551,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/00321qItly1i6uda6uyf2j61yv1m3gx702.jpg"
+      ],
+      "user": "北京地铁"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/892027d1ly1i6vfwvndicj20j60eejxn.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/892027d1ly1i6vfwvndicj20j60eejxn.jpg",
+      "alt": "北京交通大作战",
+      "width": 518,
+      "height": 690,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/892027d1ly1i6vfwvndicj20j60eejxn.jpg"
+      ],
+      "user": "北京交通大作战"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/0024aA4lly1i43uytj625j60u01hc41c02.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/0024aA4lly1i43uytj625j60u01hc41c02.jpg",
+      "alt": "北京日报",
+      "width": 1920,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/0024aA4lly1i43uytj625j60u01hc41c02.jpg"
+      ],
+      "user": "北京日报"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/6ac579bfly1i6uivseb93j20u0140k9p.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/6ac579bfly1i6uivseb93j20u0140k9p.jpg",
+      "alt": "北京大峰峰",
+      "width": 1440,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/6ac579bfly1i6uivseb93j20u0140k9p.jpg"
+      ],
+      "user": "北京大峰峰"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/0033ImPzly1i4xetisp7zj61hc0u0adm02.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/0033ImPzly1i4xetisp7zj61hc0u0adm02.jpg",
+      "alt": "人民日报",
+      "width": 1080,
+      "height": 1920,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/0033ImPzly1i4xetisp7zj61hc0u0adm02.jpg"
+      ],
+      "user": "人民日报"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/008rKb6ply1i4wtr7kyqsj31em0she81.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/008rKb6ply1i4wtr7kyqsj31em0she81.jpg",
+      "alt": "中国军号",
+      "width": 1025,
+      "height": 1822,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/008rKb6ply1i4wtr7kyqsj31em0she81.jpg"
+      ],
+      "user": "中国军号"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/460462c1ly1i6tl5rjciqj24eo3b0kjn.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/460462c1ly1i6tl5rjciqj24eo3b0kjn.jpg",
+      "alt": "V闪闪",
+      "width": 4284,
+      "height": 5712,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/460462c1ly1i6tl5rjciqj24eo3b0kjn.jpg"
+      ],
+      "user": "V闪闪"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/0084LG9uly1i4w5db3rzbj30k00zk0to.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/0084LG9uly1i4w5db3rzbj30k00zk0to.jpg",
+      "alt": "资本大事纪",
+      "width": 1280,
+      "height": 720,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/0084LG9uly1i4w5db3rzbj30k00zk0to.jpg"
+      ],
+      "user": "资本大事纪"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/006VR6Kxly1i56545x392j31hc0u0779.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/006VR6Kxly1i56545x392j31hc0u0779.jpg",
+      "alt": "北京新闻",
+      "width": 1080,
+      "height": 1920,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/006VR6Kxly1i56545x392j31hc0u0779.jpg"
+      ],
+      "user": "北京新闻"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/892027d1ly1i6tdvdrhc2j20u00iutka.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/892027d1ly1i6tdvdrhc2j20u00iutka.jpg",
+      "alt": "北京交通大作战",
+      "width": 678,
+      "height": 1080,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/892027d1ly1i6tdvdrhc2j20u00iutka.jpg"
+      ],
+      "user": "北京交通大作战"
+    }
+  ],
+  "html_path": "data/aicard/hourly/2025-10-31/10/topic-7d23f99b.html"
+}

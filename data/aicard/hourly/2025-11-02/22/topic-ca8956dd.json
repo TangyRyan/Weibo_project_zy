@@ -1,0 +1,562 @@
+{
+  "meta": {
+    "query": "#狼队赢了#",
+    "status_code": 200,
+    "fetched_at": "2025-11-02T22:25:18+08:00",
+    "response": {
+      "top_quote_list": {},
+      "card_multimodal": {
+        "data": [
+          {
+            "click_rate": 0.27400768245839,
+            "hit_score_final": 78.699219,
+            "user_avatar": "https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/008qO2iqly8i6jr6xu33bj30u00u0wht.jpg?KID=imgbed,tva&Expires=1762104116&ssig=%2FoBBftNE9Q",
+            "w": 1920,
+            "cur_mid": "5228314987333709",
+            "type": "p",
+            "user_name": "狼队樱花",
+            "scheme": "sinaweibo://multimedia?mix_mid=5228314987333709&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=0",
+            "img": "http://wx4.sinaimg.cn/middle/008qO2iqgy1i6x45gc7kfj31hc0u0ql8.jpg",
+            "vtype": 0,
+            "video_url": "",
+            "hit_score_new": 77.832031,
+            "doc_score": 4977,
+            "h": 1080,
+            "img_pid": "008qO2iqgy1i6x45gc7kfj31hc0u0ql8"
+          },
+          {
+            "click_rate": 0.06,
+            "hit_score_final": 81.21875,
+            "user_avatar": "https://tvax2.sinaimg.cn/crop.0.0.940.940.50/006lXlcWly8ho8bdid29nj30q40q4ju9.jpg?KID=imgbed,tva&Expires=1762104116&ssig=43uFLJHJmm",
+            "w": 1387,
+            "cur_mid": "5228308600196101",
+            "type": "p",
+            "user_name": "帅白白了个白",
+            "scheme": "sinaweibo://multimedia?mix_mid=5228308600196101&from=search&content_show=1&mix_index=2&hide_index=1&multi_paragraph=1&multi_count=1",
+            "img": "http://wx1.sinaimg.cn/middle/006lXlcWgy1i6x423plsaj312j0lxh2j.jpg",
+            "vtype": 0,
+            "video_url": "",
+            "hit_score_new": 82.03125,
+            "doc_score": 3493,
+            "h": 789,
+            "img_pid": "006lXlcWgy1i6x423plsaj312j0lxh2j"
+          },
+          {
+            "click_rate": 0.033469195798715,
+            "hit_score_final": 69.755081,
+            "user_avatar": "https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/0073KQ0ply8i34hhre6gdj30u00u0dip.jpg?KID=imgbed,tva&Expires=1762104116&ssig=%2F0NreJtGjk",
+            "w": 1912,
+            "cur_mid": "5228313994070836",
+            "type": "v",
+            "user_name": "游戏投投机",
+            "scheme": "sinaweibo://video/vvs?mid=5228313994070836&multi_paragraph=1&multi_count=2",
+            "img": "http://wx4.sinaimg.cn/middle/0073KQ0ply1i6x4o0svgaj31h40u0405.jpg",
+            "vtype": 0,
+            "video_url": "https://video.weibo.com/show?fid=1034:5228313652953138",
+            "hit_score_new": 81.591797,
+            "doc_score": 3712,
+            "h": 1080,
+            "img_pid": "0073KQ0ply1i6x4o0svgaj31h40u0405"
+          },
+          {
+            "click_rate": 0.27400768245839,
+            "hit_score_final": 78.699219,
+            "user_avatar": "https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/008qO2iqly8i6jr6xu33bj30u00u0wht.jpg?KID=imgbed,tva&Expires=1762104116&ssig=%2FoBBftNE9Q",
+            "w": 1920,
+            "cur_mid": "5228314987333709",
+            "type": "p",
+            "user_name": "狼队樱花",
+            "scheme": "sinaweibo://multimedia?mix_mid=5228314987333709&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=0",
+            "img": "http://wx4.sinaimg.cn/middle/008qO2iqgy1i6x45gc7kfj31hc0u0ql8.jpg",
+            "vtype": 0,
+            "video_url": "",
+            "hit_score_new": 77.832031,
+            "doc_score": 4977,
+            "h": 1080,
+            "img_pid": "008qO2iqgy1i6x45gc7kfj31hc0u0ql8"
+          }
+        ],
+        "type": "mediablock"
+      },
+      "share_card_multimodal": {
+        "click_rate": 0.27400768245839,
+        "hit_score_final": 78.699219,
+        "user_avatar": "https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/008qO2iqly8i6jr6xu33bj30u00u0wht.jpg?KID=imgbed,tva&Expires=1762104116&ssig=%2FoBBftNE9Q",
+        "w": 1920,
+        "cur_mid": "5228314987333709",
+        "type": "p",
+        "user_name": "狼队樱花",
+        "scheme": "sinaweibo://multimedia?mix_mid=5228314987333709&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=0",
+        "img": "http://wx4.sinaimg.cn/middle/008qO2iqgy1i6x45gc7kfj31hc0u0ql8.jpg",
+        "vtype": 0,
+        "video_url": "",
+        "hit_score_new": 77.832031,
+        "doc_score": 4977,
+        "h": 1080,
+        "img_pid": "008qO2iqgy1i6x45gc7kfj31hc0u0ql8"
+      },
+      "profile_image_url": "",
+      "user_info": {},
+      "query_field": "47",
+      "sorted_material_list": null,
+      "chat_status_stage": 1,
+      "zs_risk_control": {
+        "think_text_close": 0,
+        "land_button_close": 0
+      },
+      "qs_status_info": "{\"ab_lab\":{},\"qs_r_status\":0,\"qs_u_status\":0,\"qs_status\":0,\"qs_c_status\":8388608,\"qs_q_status\":0}",
+      "version": "2025-11-02 22:21:56.017999-4134",
+      "loop_times": 200,
+      "reliable_tips": "{\"gold_orange_v_mids\": [\"5228313994070836\", \"5228313110904982\", \"5228310629193313\", \"5228519690076328\", \"5228308600196101\", \"5228314987333709\", \"5228310798014687\", \"5228653630725524\", \"5228654525156546\", \"5228658679613366\", \"5228654281622641\", \"5228639480448682\", \"5227779457028076\", \"5228313914380191\", \"5228314862293318\", \"5227563389551225\", \"5228594706254523\", \"5228606188160180\", \"5227763281690837\", \"5227599792178478\", \"5228309853766933\", \"5228316957082297\", \"5228327214519576\", \"5228309998997943\", \"5227565193367316\", \"5220356197450183\", \"5224649690714079\", \"5204390550180724\", \"5217662974037521\", \"5022101264665951\", \"5159827812391300\", \"5228302971175750\", \"5228633837802986\", \"5228359518783214\", \"5228630105657032\", \"5228308384973862\", \"5227580496286373\", \"5228631221079507\", \"5223196009955854\", \"5228338084841699\", \"5216025005523705\", \"5228262071473732\", \"5220475087095404\", \"5227521491600965\", \"5220685180045444\", \"5223443663949491\", \"5200026909284252\", \"5200395515202645\"], \"gold_orange_v_ratio\": \"67%\", \"media_mids\": [], \"media_ratio\": \"0%\", \"verified_mids\": [\"5228657821095449\", \"5228655416444142\", \"5219259431257699\", \"5228243968853323\", \"5228314421101848\", \"5222798528093092\", \"5222788835312609\", \"5218494582358477\", \"5227854461143960\", \"5218496910463298\", \"5177936928048733\", \"5215933949807078\", \"5228310331396304\", \"5228497074655761\", \"5215953148189263\", \"5227398213930514\", \"5215951347782739\", \"5216312977786963\"], \"verified_ratio\": \"25%\", \"normal_mids\": [\"5228304057766030\", \"5228635419056085\", \"5228355659762125\", \"5228441678907343\", \"5228067524182640\", \"5228317742989935\"], \"normal_ratio\": \"8%\", \"ref_mid_rank\": {\"5228313994070836\": {\"rank\": 1}, \"5228313110904982\": {\"rank\": 43}, \"5228310629193313\": {\"rank\": 45}, \"5228519690076328\": {\"rank\": 15}, \"5228308600196101\": {\"rank\": 32}, \"5228314987333709\": {\"rank\": 36}, \"5228304057766030\": {\"rank\": 39}, \"5228310798014687\": {\"rank\": 46}, \"5228653630725524\": {\"rank\": 21}, \"5228657821095449\": {\"rank\": 23}, \"5228654525156546\": {\"rank\": 35}, \"5228658679613366\": {\"rank\": 67}, \"5228655416444142\": {\"rank\": 50}, \"5228654281622641\": {\"rank\": 40}, \"5228639480448682\": {\"rank\": 41}, \"5227779457028076\": {\"rank\": 57}, \"5219259431257699\": {\"rank\": 8}, \"5228313914380191\": {\"rank\": 33}, \"5228243968853323\": {\"rank\": 9}, \"5228314862293318\": {\"rank\": 37}, \"5227563389551225\": {\"rank\": 60}, \"5228314421101848\": {\"rank\": 55}, \"5228594706254523\": {\"rank\": 4}, \"5228606188160180\": {\"rank\": 24}, \"5222798528093092\": {\"rank\": 63}, \"5222788835312609\": {\"rank\": 54}, \"5218494582358477\": {\"rank\": 61}, \"5227854461143960\": {\"rank\": 62}, \"5218496910463298\": {\"rank\": 70}, \"5177936928048733\": {\"rank\": 52}, \"5215933949807078\": {\"rank\": 68}, \"5227763281690837\": {\"rank\": 16}, \"5227599792178478\": {\"rank\": 30}, \"5228309853766933\": {\"rank\": 28}, \"5228316957082297\": {\"rank\": 38}, \"5228327214519576\": {\"rank\": 2}, \"5228309998997943\": {\"rank\": 3}, \"5227565193367316\": {\"rank\": 5}, \"5220356197450183\": {\"rank\": 6}, \"5228310331396304\": {\"rank\": 7}, \"5224649690714079\": {\"rank\": 10}, \"5204390550180724\": {\"rank\": 11}, \"5217662974037521\": {\"rank\": 12}, \"5022101264665951\": {\"rank\": 13}, \"5159827812391300\": {\"rank\": 14}, \"5228635419056085\": {\"rank\": 22}, \"5228355659762125\": {\"rank\": 25}, \"5228302971175750\": {\"rank\": 26}, \"5228633837802986\": {\"rank\": 27}, \"5228441678907343\": {\"rank\": 29}, \"5228067524182640\": {\"rank\": 31}, \"5228359518783214\": {\"rank\": 34}, \"5228630105657032\": {\"rank\": 42}, \"5228308384973862\": {\"rank\": 44}, \"5228317742989935\": {\"rank\": 47}, \"5227580496286373\": {\"rank\": 48}, \"5228631221079507\": {\"rank\": 49}, \"5223196009955854\": {\"rank\": 51}, \"5228497074655761\": {\"rank\": 53}, \"5215953148189263\": {\"rank\": 56}, \"5228338084841699\": {\"rank\": 58}, \"5216025005523705\": {\"rank\": 59}, \"5228262071473732\": {\"rank\": 64}, \"5227398213930514\": {\"rank\": 65}, \"5215951347782739\": {\"rank\": 66}, \"5216312977786963\": {\"rank\": 69}, \"5220475087095404\": {\"rank\": 71}, \"5227521491600965\": {\"rank\": 72}, \"5220685180045444\": {\"rank\": 73}, \"5223443663949491\": {\"rank\": 74}, \"5200026909284252\": {\"rank\": 75}, \"5200395515202645\": {\"rank\": 76}}}",
+      "q_attr": {
+        "reply_cid": "",
+        "comment_from_type": "",
+        "mid": "",
+        "from_uid": "",
+        "from_request_id": ""
+      },
+      "query_category": "",
+      "cot": 1,
+      "msg_json": "{}",
+      "analysis_time": 1762093447,
+      "uid": "",
+      "qs_status": 0,
+      "share_info": {
+        "display_name": "#狼队赢了#",
+        "status": 3,
+        "comment_content": "",
+        "tips": "#狼队赢了#的相关内容，来智搜看看",
+        "page_id": "2329648f903a80b10dd4e23f2eeb8628cfc316",
+        "url": "http://t.cn/AXAK906s",
+        "unify_md5": "ca8956dd094d29a24266e31259d2e30c"
+      },
+      "ext_show": {},
+      "share_text": "#狼队赢了#的相关内容，来智搜看看",
+      "show_ctrl": {
+        "quote": {}
+      },
+      "scheme": "sinaweibo://cardlist?containerid=100103type%3D225%26q%3D%23%E7%8B%BC%E9%98%9F%E8%B5%A2%E4%BA%86%23%26t%3D&extparam=ai_model%3Ddeepseek%26ori_ai_title%3D%E5%8F%82%E8%80%83%E5%8D%9A%E6%96%87%26material_version%3D1762093316",
+      "wenda": {
+        "forward_gen": 0
+      },
+      "link_list": [
+        "sinaweibo://detail?mblogid=5228313994070836",
+        "sinaweibo://detail?mblogid=5228327214519576",
+        "sinaweibo://detail?mblogid=5228309998997943",
+        "sinaweibo://detail?mblogid=5228594706254523",
+        "sinaweibo://detail?mblogid=5227565193367316",
+        "sinaweibo://detail?mblogid=5220356197450183",
+        "sinaweibo://detail?mblogid=5228310331396304",
+        "sinaweibo://detail?mblogid=5219259431257699",
+        "sinaweibo://detail?mblogid=5228243968853323",
+        "sinaweibo://detail?mblogid=5224649690714079",
+        "sinaweibo://detail?mblogid=5204390550180724",
+        "sinaweibo://detail?mblogid=5217662974037521",
+        "sinaweibo://detail?mblogid=5022101264665951",
+        "sinaweibo://detail?mblogid=5159827812391300",
+        "sinaweibo://detail?mblogid=5228519690076328",
+        "sinaweibo://detail?mblogid=5227763281690837",
+        "https://baike.baidu.com/item/%E4%BC%8D%E5%B0%94%E5%BC%97%E6%B1%89%E6%99%AE%E9%A1%BF%E6%B5%81%E6%B5%AA%E8%80%85%E8%B6%B3%E7%90%83%E4%BF%B1%E4%B9%90%E9%83%A8/10770442?fromtitle=%E7%8B%BC%E9%98%9F&fromid=1330654",
+        "historyweibo://5203622767368068",
+        "historyweibo://5119047549327712",
+        "historyweibo://5228311527031523",
+        "sinaweibo://detail?mblogid=5228653630725524",
+        "sinaweibo://detail?mblogid=5228635419056085",
+        "sinaweibo://detail?mblogid=5228657821095449",
+        "sinaweibo://detail?mblogid=5228606188160180",
+        "sinaweibo://detail?mblogid=5228355659762125",
+        "sinaweibo://detail?mblogid=5228302971175750",
+        "sinaweibo://detail?mblogid=5228633837802986",
+        "sinaweibo://detail?mblogid=5228309853766933",
+        "sinaweibo://detail?mblogid=5228441678907343",
+        "sinaweibo://detail?mblogid=5227599792178478",
+        "sinaweibo://detail?mblogid=5228067524182640",
+        "sinaweibo://detail?mblogid=5228308600196101",
+        "sinaweibo://detail?mblogid=5228313914380191",
+        "sinaweibo://detail?mblogid=5228359518783214",
+        "sinaweibo://detail?mblogid=5228654525156546",
+        "sinaweibo://detail?mblogid=5228314987333709",
+        "sinaweibo://detail?mblogid=5228314862293318",
+        "sinaweibo://detail?mblogid=5228316957082297",
+        "sinaweibo://detail?mblogid=5228304057766030",
+        "sinaweibo://detail?mblogid=5228654281622641",
+        "sinaweibo://detail?mblogid=5228639480448682",
+        "sinaweibo://detail?mblogid=5228630105657032",
+        "sinaweibo://detail?mblogid=5228313110904982",
+        "sinaweibo://detail?mblogid=5228308384973862",
+        "sinaweibo://detail?mblogid=5228310629193313",
+        "sinaweibo://detail?mblogid=5228310798014687",
+        "sinaweibo://detail?mblogid=5228317742989935",
+        "sinaweibo://detail?mblogid=5227580496286373",
+        "sinaweibo://detail?mblogid=5228631221079507",
+        "sinaweibo://detail?mblogid=5228655416444142",
+        "sinaweibo://detail?mblogid=5223196009955854",
+        "sinaweibo://detail?mblogid=5177936928048733",
+        "sinaweibo://detail?mblogid=5228497074655761",
+        "sinaweibo://detail?mblogid=5222788835312609",
+        "sinaweibo://detail?mblogid=5228314421101848",
+        "sinaweibo://detail?mblogid=5215953148189263",
+        "sinaweibo://detail?mblogid=5227779457028076",
+        "sinaweibo://detail?mblogid=5228338084841699",
+        "sinaweibo://detail?mblogid=5216025005523705",
+        "sinaweibo://detail?mblogid=5227563389551225",
+        "sinaweibo://detail?mblogid=5218494582358477",
+        "sinaweibo://detail?mblogid=5227854461143960",
+        "sinaweibo://detail?mblogid=5222798528093092",
+        "sinaweibo://detail?mblogid=5228262071473732",
+        "sinaweibo://detail?mblogid=5227398213930514",
+        "sinaweibo://detail?mblogid=5215951347782739",
+        "sinaweibo://detail?mblogid=5228658679613366",
+        "sinaweibo://detail?mblogid=5215933949807078",
+        "sinaweibo://detail?mblogid=5216312977786963",
+        "sinaweibo://detail?mblogid=5218496910463298",
+        "sinaweibo://detail?mblogid=5220475087095404",
+        "sinaweibo://detail?mblogid=5227521491600965",
+        "sinaweibo://detail?mblogid=5220685180045444",
+        "sinaweibo://detail?mblogid=5223443663949491",
+        "sinaweibo://detail?mblogid=5200026909284252",
+        "sinaweibo://detail?mblogid=5200395515202645"
+      ],
+      "abtest_info": {
+        "chat_entrance": 1
+      },
+      "ab_suffix": "default",
+      "status": 2,
+      "unify_md5": "ca8956dd094d29a24266e31259d2e30c",
+      "query": "#狼队赢了#",
+      "basemodel": "实验组7",
+      "page_id": "2329648f903a80b10dd4e23f2eeb8628cfc316",
+      "model": "deepseek",
+      "current_time": 1762093520,
+      "msg_format": "markdown",
+      "short_url": "http://t.cn/A6DdJV1M",
+      "msg": "<think><br><br>嗯，用户输入了\"/query：“狼队赢了”的搜索结果\"，需要整理关于狼队获胜的信息。首先，我需要分析搜索结果中的关键内容，找出狼队在不同比赛中的表现和结果。<br><br>注意到搜索结果中有多个赛事，包括KPL年度总决赛、第五人格IVL秋季赛等。时间上，最近的比赛是2025年11月1日和2日的KPL淘汰赛，狼队战胜了DRG和WB。特别是结果21提到狼队赢了，晋级鸟巢总决赛，这应该是用户最关心的近期事件。同时，结果20详细描述了狼队与DRG的七局对决，紫幻和道崽的关键表现值得强调。<br><br>另外，结果50提到狼队在11月2日战胜了WB，鬼谷子的战术作用明显。结果23提到九号电动抽奖活动，说明狼队晋级决赛的商业合作，需要提及。第五人格分部的胜利在结果24和63中出现，但日期是10月17日，可能时效性较低，但用户可能也关心其他分部的情况，所以简要提一下。<br><br>历史战绩方面，结果18提到第五人格IVL夏季赛夺冠和QQ飞车亚洲杯的成就，这些可以作为补充信息。同时，结果71提到JDG战胜狼队的爆冷，说明狼队并非全胜，但用户查询的是\"赢了\"，所以可能次要。<br><br>需要检查时间线，确保优先呈现最近的比赛。比如11月2日的比赛结果比10月的更相关。同时，引用优质搜索结果，如结果21、23、50都有优质标签，信息更可靠。<br><br>还要注意避免重复引用同一内容，比如多个结果提到狼队战胜DRG，需整合信息。最后，组织信息时按赛事和时间顺序，确保逻辑清晰，重点突出最近的KPL晋级鸟巢决赛。<br><br></think><br>🏆 狼队近期在多个电竞赛事中取得关键胜利，尤其在 **2025年KPL年度总决赛淘汰赛** 中表现突出，成功晋级北京鸟巢总决赛。以下是核心信息梳理：<br>### ⚔️ **一、KPL王者荣耀赛事：败者组逆袭晋级总决赛**  <br>1. **战胜佛山DRG（2025年11月1日）**  <br>   - **比分**：重庆狼队 **4:3** 佛山DRG（巅峰对决决胜）。```wbCustomBlock{\"type\": \"quoted\", \"index\": 5, \"data\": {\"num\": [1, 43, 45], \"version\": 2, \"quote_list\": [{\"name\": \"王者小刀口\", \"scheme\": \"sinaweibo://detail?mblogid=5228310629193313\", \"index\": 45, \"label\": \"大v\"}, {\"name\": \"游戏投投机\", \"scheme\": \"sinaweibo://detail?mblogid=5228313994070836\", \"index\": 1, \"label\": \"\"}, {\"name\": \"邻家鹿鹿初长成\", \"scheme\": \"sinaweibo://detail?mblogid=5228313110904982\", \"index\": 43, \"label\": \"\"}], \"name\": \"王者小刀口\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/006vR4PMly8i4ja4q12q9j30u00u0tal.jpg?KID=imgbed,tva&Expires=1762104116&ssig=YcdV8YvqcA\", \"scheme\": \"sinaweibo://detail?mblogid=5228310629193313\", \"vType\": 0}}```  <br>   - **关键局**：  <br>     - **第六局**：DRG一度领先7000经济，但因中单选手“早点”操作失误（海月空技能被女娲反杀），狼队紫幻（女娲）双杀救世，道崽（百里守约）极限操作翻盘。```wbCustomBlock{\"type\": \"quoted\", \"index\": 7, \"data\": {\"num\": [15, 32], \"version\": 2, \"quote_list\": [{\"name\": \"帅白白了个白\", \"scheme\": \"sinaweibo://detail?mblogid=5228308600196101\", \"index\": 32, \"label\": \"大v\"}, {\"name\": \"峡谷干饭小萌妹\", \"scheme\": \"sinaweibo://detail?mblogid=5228519690076328\", \"index\": 15, \"label\": \"\"}], \"name\": \"帅白白了个白\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.940.940.50/006lXlcWly8ho8bdid29nj30q40q4ju9.jpg?KID=imgbed,tva&Expires=1762104116&ssig=43uFLJHJmm\", \"scheme\": \"sinaweibo://detail?mblogid=5228308600196101\", \"vType\": 0}}```  <br>     - **第七局**：狼队以“狄仁杰+盾山”阵容破解DRG“父子体系”，道崽黄牌命中率超90%，樱花（马超）单骑切后，全程压制对手。```wbCustomBlock{\"type\": \"quoted\", \"index\": 8, \"data\": {\"num\": [36, 39], \"version\": 2, \"quote_list\": [{\"name\": \"狼队樱花\", \"scheme\": \"sinaweibo://detail?mblogid=5228314987333709\", \"index\": 36, \"label\": \"\"}, {\"name\": \"阿美莉卡亚裔女\", \"scheme\": \"sinaweibo://detail?mblogid=5228304057766030\", \"index\": 39, \"label\": \"\"}]}}```  <br>   - **里程碑**：终结DRG对其1381天BO7不败纪录，完成败者组“一穿三”逆袭。```wbCustomBlock{\"type\": \"quoted\", \"index\": 9, \"data\": {\"num\": [43, 46], \"version\": 2, \"quote_list\": [{\"name\": \"游戏刺客乔\", \"scheme\": \"sinaweibo://detail?mblogid=5228310798014687\", \"index\": 46, \"label\": \"大v\"}, {\"name\": \"邻家鹿鹿初长成\", \"scheme\": \"sinaweibo://detail?mblogid=5228313110904982\", \"index\": 43, \"label\": \"\"}], \"name\": \"游戏刺客乔\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/005uLVdLly8gq5irl0bf9j30u00u0gnj.jpg?KID=imgbed,tva&Expires=1762104116&ssig=iMXN%2BWkXv%2B\", \"scheme\": \"sinaweibo://detail?mblogid=5228310798014687\", \"vType\": 0}}```<br><br>2. **战胜北京WB（2025年11月2日）**  <br>   - **比分**：重庆狼队 **4:2** 北京WB，晋级总决赛。```wbCustomBlock{\"type\": \"quoted\", \"index\": 11, \"data\": {\"num\": [21, 23, 35, 67], \"version\": 2, \"quote_list\": [{\"name\": \"久爱吃瓜\", \"scheme\": \"sinaweibo://detail?mblogid=5228654525156546\", \"index\": 35, \"label\": \"大v\"}, {\"name\": \"摇铃唤小白鹿\", \"scheme\": \"sinaweibo://detail?mblogid=5228653630725524\", \"index\": 21, \"label\": \"\"}, {\"name\": \"九号电动\", \"scheme\": \"sinaweibo://detail?mblogid=5228657821095449\", \"index\": 23, \"label\": \"\"}, {\"name\": \"游戏吐槽酱\", \"scheme\": \"sinaweibo://detail?mblogid=5228658679613366\", \"index\": 67, \"label\": \"\"}], \"name\": \"久爱吃瓜\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.1024.1024.50/6ae32b7cly8h8p7f3ab6qj20sg0sgaav.jpg?KID=imgbed,tva&Expires=1762104116&ssig=P6atOg61lh\", \"scheme\": \"sinaweibo://detail?mblogid=5228654525156546\", \"vType\": 0}}```  <br>   - **战术亮点**：  <br>     - 一笙（鬼谷子）奔狼开团精准控场，10分钟龙团控资源奠定优势。```wbCustomBlock{\"type\": \"quoted\", \"index\": 13, \"data\": {\"num\": [50], \"version\": 2, \"quote_list\": [{\"name\": \"狼队王者荣耀分部\", \"scheme\": \"sinaweibo://detail?mblogid=5228655416444142\", \"index\": 50, \"label\": \"大v\"}], \"name\": \"狼队王者荣耀分部\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/006Kf4xYly8i5ayl32y9mj30u00u075g.jpg?KID=imgbed,tva&Expires=1762104116&ssig=VGXdTV10oK\", \"scheme\": \"sinaweibo://detail?mblogid=5228655416444142\", \"vType\": 7}}```  <br>     - 樱花（关羽）肉装抗压，20分钟风暴龙王团反打，鬼谷子闪现拉四人终结比赛。```wbCustomBlock{\"type\": \"quoted\", \"index\": 14, \"data\": {\"num\": [35, 50], \"version\": 2, \"quote_list\": [{\"name\": \"久爱吃瓜\", \"scheme\": \"sinaweibo://detail?mblogid=5228654525156546\", \"index\": 35, \"label\": \"\"}, {\"name\": \"狼队王者荣耀分部\", \"scheme\": \"sinaweibo://detail?mblogid=5228655416444142\", \"index\": 50, \"label\": \"\"}]}}```  <br>   - **选手宣言**：道崽称“目标直指鸟巢”，全队剑指冠军。```wbCustomBlock{\"type\": \"quoted\", \"index\": 15, \"data\": {\"num\": [45, 67], \"version\": 2, \"quote_list\": [{\"name\": \"游戏吐槽酱\", \"scheme\": \"sinaweibo://detail?mblogid=5228658679613366\", \"index\": 67, \"label\": \"大v\"}, {\"name\": \"王者小刀口\", \"scheme\": \"sinaweibo://detail?mblogid=5228310629193313\", \"index\": 45, \"label\": \"\"}], \"name\": \"游戏吐槽酱\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/006i0g4Oly8gmu38evnatj30u00u0acx.jpg?KID=imgbed,tva&Expires=1762104116&ssig=2NSPaQhyaJ\", \"scheme\": \"sinaweibo://detail?mblogid=5228658679613366\", \"vType\": 0}}```<br><br>3. **后续赛程**  <br>   - **总决赛**：11月8日，重庆狼队 vs AG超玩会（北京鸟巢）。```wbCustomBlock{\"type\": \"quoted\", \"index\": 17, \"data\": {\"num\": [23, 40], \"version\": 2, \"quote_list\": [{\"name\": \"九号电动\", \"scheme\": \"sinaweibo://detail?mblogid=5228657821095449\", \"index\": 23, \"label\": \"\"}, {\"name\": \"白开水宇宙\", \"scheme\": \"sinaweibo://detail?mblogid=5228654281622641\", \"index\": 40, \"label\": \"\"}]}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5228314987333709&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/008qO2iqly8i6jr6xu33bj30u00u0wht.jpg?KID=imgbed,tva&Expires=1762104116&ssig=%2FoBBftNE9Q) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">狼队樱花</span><img src=\"http://wx4.sinaimg.cn/middle/008qO2iqgy1i6x45gc7kfj31hc0u0ql8.jpg\" data-width=1080 data-height=1920></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5228308600196101&from=search&content_show=1&mix_index=2&hide_index=1&multi_paragraph=1&multi_count=1\"><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.940.940.50/006lXlcWly8ho8bdid29nj30q40q4ju9.jpg?KID=imgbed,tva&Expires=1762104116&ssig=43uFLJHJmm) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">帅白白了个白</span><img src=\"http://wx1.sinaimg.cn/middle/006lXlcWgy1i6x423plsaj312j0lxh2j.jpg\" data-width=789 data-height=1387></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5228313994070836&multi_paragraph=1&multi_count=2\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/0073KQ0ply8i34hhre6gdj30u00u0dip.jpg?KID=imgbed,tva&Expires=1762104116&ssig=%2F0NreJtGjk) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">游戏投投机</span><img src=\"http://wx4.sinaimg.cn/middle/0073KQ0ply1i6x4o0svgaj31h40u0405.jpg\" data-width=1080 data-height=1912></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5228310629193313&multi_paragraph=1&multi_count=3\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/006vR4PMly8i4ja4q12q9j30u00u0tal.jpg?KID=imgbed,tva&Expires=1762104116&ssig=YcdV8YvqcA) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">王者小刀口</span><img src=\"http://wx4.sinaimg.cn/middle/006vR4PMly1i6x4afpnllj31hc0u0q5c.jpg\" data-width=1080 data-height=1920></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5228313110904982&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=4\"><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.817.817.50/006hwXTqly8hmezir3i3yj30mp0mp402.jpg?KID=imgbed,tva&Expires=1762104116&ssig=A4JN8Bw1Ir) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">邻家鹿鹿初长成</span><img src=\"http://wx3.sinaimg.cn/middle/006hwXTqgy1i6x4kr4z88j312k0lxwxo.jpg\" data-width=789 data-height=1388></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5228658679613366&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=5\"><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/006i0g4Oly8gmu38evnatj30u00u0acx.jpg?KID=imgbed,tva&Expires=1762104116&ssig=2NSPaQhyaJ) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">游戏吐槽酱</span><img src=\"http://wx3.sinaimg.cn/middle/006i0g4Ogy1i6y89ml9wzj31hc0u0npd.jpg\" data-width=1080 data-height=1920></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5228655416444142&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=6\"><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/006Kf4xYly8i5ayl32y9mj30u00u075g.jpg?KID=imgbed,tva&Expires=1762104116&ssig=VGXdTV10oK) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">狼队王者荣耀分部</span><img src=\"http://wx2.sinaimg.cn/middle/006Kf4xYgy1i6y883ynspj31tk10pnfs.jpg\" data-width=1321 data-height=2360></div></media-block><br>### 🌟 **二、选手高光与团队表现**  <br>1. **核心选手**：  <br>   - **紫幻（中单）**：女娲救世翻盘、西施预判拉人，获两局MVP。```wbCustomBlock{\"type\": \"quoted\", \"index\": 21, \"data\": {\"num\": [32, 41, 57], \"version\": 2, \"quote_list\": [{\"name\": \"帅白白了个白\", \"scheme\": \"sinaweibo://detail?mblogid=5228308600196101\", \"index\": 32, \"label\": \"\"}, {\"name\": \"帅白白了个白\", \"scheme\": \"sinaweibo://detail?mblogid=5228639480448682\", \"index\": 41, \"label\": \"\"}, {\"name\": \"王者小刀口\", \"scheme\": \"sinaweibo://detail?mblogid=5227779457028076\", \"index\": 57, \"label\": \"\"}]}}```  <br>   - **道崽（射手）**：狄仁杰巅峰对决压制力拉满，公孙离曾伪五杀。```wbCustomBlock{\"type\": \"quoted\", \"index\": 22, \"data\": {\"num\": [8, 33], \"version\": 2, \"quote_list\": [{\"name\": \"KPL王者荣耀职业联赛\", \"scheme\": \"sinaweibo://detail?mblogid=5219259431257699\", \"index\": 8, \"label\": \"大v\"}, {\"name\": \"温柔一辉ovo\", \"scheme\": \"sinaweibo://detail?mblogid=5228313914380191\", \"index\": 33, \"label\": \"\"}], \"name\": \"KPL王者荣耀职业联赛\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.600.600.50/6f0b57d3ly8hpxak2a0r3j20go0got9r.jpg?KID=imgbed,tva&Expires=1762104116&ssig=Ff%2B8crHQ%2BR\", \"scheme\": \"sinaweibo://detail?mblogid=5219259431257699\", \"vType\": 7}}```  <br>   - **樱花（对抗路）**：马超切后、曹操连体压制，被赞“有大将之风”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 23, \"data\": {\"num\": [9, 36, 43], \"version\": 2, \"quote_list\": [{\"name\": \"KPL王者荣耀职业联赛\", \"scheme\": \"sinaweibo://detail?mblogid=5228243968853323\", \"index\": 9, \"label\": \"\"}, {\"name\": \"狼队樱花\", \"scheme\": \"sinaweibo://detail?mblogid=5228314987333709\", \"index\": 36, \"label\": \"\"}, {\"name\": \"邻家鹿鹿初长成\", \"scheme\": \"sinaweibo://detail?mblogid=5228313110904982\", \"index\": 43, \"label\": \"\"}]}}```  <br>   - **一笙（辅助）**：鬼谷子开团发动机，空空儿首局0换3奠定节奏。```wbCustomBlock{\"type\": \"quoted\", \"index\": 24, \"data\": {\"num\": [9, 37, 50], \"version\": 2, \"quote_list\": [{\"name\": \"狼队一笙\", \"scheme\": \"sinaweibo://detail?mblogid=5228314862293318\", \"index\": 37, \"label\": \"大v\"}, {\"name\": \"KPL王者荣耀职业联赛\", \"scheme\": \"sinaweibo://detail?mblogid=5228243968853323\", \"index\": 9, \"label\": \"\"}, {\"name\": \"狼队王者荣耀分部\", \"scheme\": \"sinaweibo://detail?mblogid=5228655416444142\", \"index\": 50, \"label\": \"\"}], \"name\": \"狼队一笙\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.720.720.50/008r9G5Kly8i1s4u5wapmj30k00k0aan.jpg?KID=imgbed,tva&Expires=1762104116&ssig=h3jhCLreuI\", \"scheme\": \"sinaweibo://detail?mblogid=5228314862293318\", \"vType\": 0}}```<br><br>2. **团队韧性**：  <br>   - 从败者组一路“一穿四”（连斩JDG、KSG、DRG、WB），打破“BO7胜率低”质疑。```wbCustomBlock{\"type\": \"quoted\", \"index\": 26, \"data\": {\"num\": [46, 60, 67], \"version\": 2, \"quote_list\": [{\"name\": \"游喜君\", \"scheme\": \"sinaweibo://detail?mblogid=5227563389551225\", \"index\": 60, \"label\": \"大v\"}, {\"name\": \"游戏刺客乔\", \"scheme\": \"sinaweibo://detail?mblogid=5228310798014687\", \"index\": 46, \"label\": \"\"}, {\"name\": \"游戏吐槽酱\", \"scheme\": \"sinaweibo://detail?mblogid=5228658679613366\", \"index\": 67, \"label\": \"\"}], \"name\": \"游喜君\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/c298be4dly8i6dwrelb17j20u00u0dkk.jpg?KID=imgbed,tva&Expires=1762104116&ssig=uxXSVNpzow\", \"scheme\": \"sinaweibo://detail?mblogid=5227563389551225\", \"vType\": 0}}```  <br>   - 教练组战术灵活，如巅峰对决“盾曹体系”克制对手阵容。```wbCustomBlock{\"type\": \"quoted\", \"index\": 27, \"data\": {\"num\": [55], \"version\": 2, \"quote_list\": [{\"name\": \"KPL王者荣耀职业联赛\", \"scheme\": \"sinaweibo://detail?mblogid=5228314421101848\", \"index\": 55, \"label\": \"\"}]}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5228314421101848&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=2&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.600.600.50/6f0b57d3ly8hpxak2a0r3j20go0got9r.jpg?KID=imgbed,tva&Expires=1762104116&ssig=Ff%2B8crHQ%2BR) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">KPL王者荣耀职业联赛</span><img src=\"http://wx1.sinaimg.cn/middle/006D5nCUly1i6x4nktadhj31hc0u0kjl.jpg\" data-width=1080 data-height=1920></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5227779457028076&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=2&multi_count=1\"><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/006vR4PMly8i4ja4q12q9j30u00u0tal.jpg?KID=imgbed,tva&Expires=1762104116&ssig=YcdV8YvqcA) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">王者小刀口</span><img src=\"http://wx4.sinaimg.cn/middle/006vR4PMly1i6vcwz4q18j30j60y3q8g.jpg\" data-width=1227 data-height=690></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5228639480448682&from=search&content_show=1&mix_index=3&hide_index=1&multi_paragraph=2&multi_count=2\"><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.940.940.50/006lXlcWly8ho8bdid29nj30q40q4ju9.jpg?KID=imgbed,tva&Expires=1762104116&ssig=43uFLJHJmm) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">帅白白了个白</span><img src=\"http://wx4.sinaimg.cn/middle/006lXlcWgy1i6y61yx3zmj31270li14m.jpg\" data-width=774 data-height=1375></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5219259431257699&multi_paragraph=2&multi_count=3\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.600.600.50/6f0b57d3ly8hpxak2a0r3j20go0got9r.jpg?KID=imgbed,tva&Expires=1762104116&ssig=Ff%2B8crHQ%2BR) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">KPL王者荣耀职业联赛</span><img src=\"http://wx4.sinaimg.cn/middle/006D5nCUly1i648qs0hs7j31hc0u0gq7.jpg\" data-width=1080 data-height=1920></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5228314862293318&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=2&multi_count=4\"><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.720.720.50/008r9G5Kly8i1s4u5wapmj30k00k0aan.jpg?KID=imgbed,tva&Expires=1762104116&ssig=h3jhCLreuI) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">狼队一笙</span><img src=\"http://wx1.sinaimg.cn/middle/008r9G5Kgy1i6x4jwre8ij32c0340npd.jpg\" data-width=4032 data-height=3024></div></media-block><br>### 🎮 **三、其他分部赛事动态**  <br>1. **第五人格IVL秋季赛（2025年10月）**  <br>   - 狼队电竞分部战胜FPX.ZQ、DOU5，宠爱（监管者）地下室三抓、小明（求生者）指挥协作亮眼。```wbCustomBlock{\"type\": \"quoted\", \"index\": 31, \"data\": {\"num\": [4, 24, 63], \"version\": 2, \"quote_list\": [{\"name\": \"第五人格超凡君\", \"scheme\": \"sinaweibo://detail?mblogid=5228594706254523\", \"index\": 4, \"label\": \"大v\"}, {\"name\": \"狼队小添\", \"scheme\": \"sinaweibo://detail?mblogid=5228606188160180\", \"index\": 24, \"label\": \"\"}, {\"name\": \"狼队电竞第五人格分部\", \"scheme\": \"sinaweibo://detail?mblogid=5222798528093092\", \"index\": 63, \"label\": \"\"}], \"name\": \"第五人格超凡君\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.512.512.50/006dmbKZly8h8v1mu8brjj30e80e8jry.jpg?KID=imgbed,tva&Expires=1762104116&ssig=lBcFlca11w\", \"scheme\": \"sinaweibo://detail?mblogid=5228594706254523\", \"vType\": 0}}```  <br>   - **历史荣誉**：2025年夏季赛曾“一穿四”夺冠，创联赛纪录。<br><br>2. **QQ飞车手游S联赛（2025年10月）**  <br>   - 狼队飞车分部战胜KZ、RSG、AG，shen（沈俊文）个人竞速赛全胜。```wbCustomBlock{\"type\": \"quoted\", \"index\": 34, \"data\": {\"num\": [54, 61, 62, 70], \"version\": 2, \"quote_list\": [{\"name\": \"狼队电竞飞车分部\", \"scheme\": \"sinaweibo://detail?mblogid=5222788835312609\", \"index\": 54, \"label\": \"\"}, {\"name\": \"狼队电竞飞车分部\", \"scheme\": \"sinaweibo://detail?mblogid=5218494582358477\", \"index\": 61, \"label\": \"\"}, {\"name\": \"狼队电竞飞车分部\", \"scheme\": \"sinaweibo://detail?mblogid=5227854461143960\", \"index\": 62, \"label\": \"\"}, {\"name\": \"QQ飞车手游官方赛事\", \"scheme\": \"sinaweibo://detail?mblogid=5218496910463298\", \"index\": 70, \"label\": \"\"}], \"name\": \"狼队电竞飞车分部\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.500.500.50/0079iZo4ly8i5ayndb20vj30dw0dw3yy.jpg?KID=imgbed,tva&Expires=1762104117&ssig=Fq4kNd3yDD\", \"scheme\": \"sinaweibo://detail?mblogid=5222788835312609\", \"vType\": 7}}```  <br>   - **亚洲杯成就**：shen于2025年8月成为狼队分部第二位“亚洲车神”。<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5222788835312609&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=3&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.500.500.50/0079iZo4ly8i5ayndb20vj30dw0dw3yy.jpg?KID=imgbed,tva&Expires=1762104117&ssig=Fq4kNd3yDD) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">狼队电竞飞车分部</span><img src=\"http://wx1.sinaimg.cn/middle/0079iZo4gy1i6fi4bjfr4j31z00wre81.jpg\" data-width=1179 data-height=2556></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5218496910463298&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=3&multi_count=1\"><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.1023.1023.50/0079NSNPly8i5nh36s9fzj30sg0sf40g.jpg?KID=imgbed,tva&Expires=1762104117&ssig=Sgr4BCv%2F2K) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">QQ飞车手游官方赛事</span><img src=\"http://wx1.sinaimg.cn/middle/0079NSNPgy1i61t7cpglcj30wx0ihx0y.jpg\" data-width=665 data-height=1185></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5227854461143960&from=search&content_show=1&mix_index=5&hide_index=1&multi_paragraph=3&multi_count=2\"><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.500.500.50/0079iZo4ly8i5ayndb20vj30dw0dw3yy.jpg?KID=imgbed,tva&Expires=1762104116&ssig=HUQsO3kLc5) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">狼队电竞飞车分部</span><img src=\"http://wx2.sinaimg.cn/middle/0079iZo4gy1i6vnwitn03j31z00wr4qp.jpg\" data-width=1179 data-height=2556></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5228594706254523&multi_paragraph=3&multi_count=3\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.512.512.50/006dmbKZly8h8v1mu8brjj30e80e8jry.jpg?KID=imgbed,tva&Expires=1762104116&ssig=lBcFlca11w) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">第五人格超凡君</span><img src=\"http://wx3.sinaimg.cn/middle/006dmbKZly1i6y0skhejbj30ru0foq56.jpg\" data-width=564 data-height=1002></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5222798528093092&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=3&multi_count=4\"><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/008ckP52ly8i5aymji8hxj30u00u040b.jpg?KID=imgbed,tva&Expires=1762104117&ssig=OXzuzYoJIw) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">狼队电竞第五人格分部</span><img src=\"http://wx3.sinaimg.cn/middle/008ckP52gy1i6fj7tdzgej335s2dcnpe.jpg\" data-width=3072 data-height=4096></div></media-block><br>### 📊 **四、历史战绩与舆论焦点**  <br>1. **赛季高光**：  <br>   - **KPL十冠王**：2024年成为KPL首支十冠战队，小胖（打野）获FMVP。  <br>   - **2025夏季赛**：四连胜锁定S组，归期（边路）影天秀三杀。```wbCustomBlock{\"type\": \"quoted\", \"index\": 40, \"data\": {\"num\": [52, 68], \"version\": 2, \"quote_list\": [{\"name\": \"狼队王者荣耀分部\", \"scheme\": \"sinaweibo://detail?mblogid=5177936928048733\", \"index\": 52, \"label\": \"\"}, {\"name\": \"狼队王者荣耀分部\", \"scheme\": \"sinaweibo://detail?mblogid=5215933949807078\", \"index\": 68, \"label\": \"\"}]}}```<br><br>2. **争议事件**：  <br>   - **暂停风波**：10月31日对战KSG时两次暂停，被质疑影响对手节奏。```wbCustomBlock{\"type\": \"quoted\", \"index\": 42, \"data\": {\"num\": [16, 30], \"version\": 2, \"quote_list\": [{\"name\": \"盼雨无眠\", \"scheme\": \"sinaweibo://detail?mblogid=5227599792178478\", \"index\": 30, \"label\": \"\"}, {\"name\": \"皇族驾到y\", \"scheme\": \"sinaweibo://detail?mblogid=5227763281690837\", \"index\": 16, \"label\": \"\"}], \"name\": \"盼雨无眠\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.828.828.50/007ha0FKly8h7jwrwdmogj30n00n075o.jpg?KID=imgbed,tva&Expires=1762104116&ssig=SVibi9oKUO\", \"scheme\": \"sinaweibo://detail?mblogid=5227599792178478\", \"vType\": 0}}```  <br>   - **玄学打破**：赛前预测普遍不看好狼队，最终以实力逆转舆论。```wbCustomBlock{\"type\": \"quoted\", \"index\": 43, \"data\": {\"num\": [28, 38], \"version\": 2, \"quote_list\": [{\"name\": \"盼雨无眠\", \"scheme\": \"sinaweibo://detail?mblogid=5228309853766933\", \"index\": 28, \"label\": \"\"}, {\"name\": \"白开水宇宙\", \"scheme\": \"sinaweibo://detail?mblogid=5228316957082297\", \"index\": 38, \"label\": \"\"}]}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5215933949807078&from=search&content_show=1&mix_index=2&hide_index=1&multi_paragraph=4&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/006Kf4xYly8i5ayl32y9mj30u00u075g.jpg?KID=imgbed,tva&Expires=1762104116&ssig=VGXdTV10oK) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">狼队王者荣耀分部</span><img src=\"http://wx3.sinaimg.cn/middle/006Kf4xYgy1i5tmu07egtj31tk10p46g.jpg\" data-width=1321 data-height=2360></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5177936928048733&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=4&multi_count=1\"><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/006Kf4xYly8i5ayl32y9mj30u00u075g.jpg?KID=imgbed,tva&Expires=1762104116&ssig=VGXdTV10oK) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">狼队王者荣耀分部</span><img src=\"http://wx3.sinaimg.cn/middle/006Kf4xYgy1i2geyd00poj31hc0u0hdu.jpg\" data-width=1080 data-height=1920></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5227763281690837&multi_paragraph=4&multi_count=2\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.1024.1024.50/008xdrzOly8hwxhsqkz2qj30sg0sg408.jpg?KID=imgbed,tva&Expires=1762104116&ssig=ukq8%2B3h%2BwB) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">皇族驾到y</span><img src=\"http://wx2.sinaimg.cn/middle/008xdrzOly1i6v33jvrgtj30qo0k075d.jpg\" data-width=720 data-height=960></div></media-block><br>### 💎 **总结**  <br>狼队以“败者组逆袭”的姿态彰显 **“群狼精神”**：紫幻救世操作、道崽稳定输出、樱花切后锋芒、一笙开团魄力，共同织就了通往鸟巢的传奇之路。11月8日，他们将在总决赛迎战AG超玩会，向队史第11冠发起冲击。```wbCustomBlock{\"type\": \"quoted\", \"index\": 45, \"data\": {\"num\": [23, 40, 67], \"version\": 2, \"quote_list\": [{\"name\": \"九号电动\", \"scheme\": \"sinaweibo://detail?mblogid=5228657821095449\", \"index\": 23, \"label\": \"\"}, {\"name\": \"白开水宇宙\", \"scheme\": \"sinaweibo://detail?mblogid=5228654281622641\", \"index\": 40, \"label\": \"\"}, {\"name\": \"游戏吐槽酱\", \"scheme\": \"sinaweibo://detail?mblogid=5228658679613366\", \"index\": 67, \"label\": \"\"}]}}```  <br><br>> **“绝处逢生，把勇气带到更高的战场。”**  <br>> ——狼队赛后感言```wbCustomBlock{\"type\": \"quoted\", \"index\": 47, \"data\": {\"num\": [46], \"version\": 2, \"quote_list\": [{\"name\": \"游戏刺客乔\", \"scheme\": \"sinaweibo://detail?mblogid=5228310798014687\", \"index\": 46, \"label\": \"\"}]}}```<br>",
+      "news_analyze": {},
+      "mid_list": null,
+      "reference_num": 72,
+      "status_stage": 4,
+      "comment_info": {}
+    }
+  },
+  "links": [
+    "sinaweibo://detail?mblogid=5228313994070836",
+    "sinaweibo://detail?mblogid=5228327214519576",
+    "sinaweibo://detail?mblogid=5228309998997943",
+    "sinaweibo://detail?mblogid=5228594706254523",
+    "sinaweibo://detail?mblogid=5227565193367316",
+    "sinaweibo://detail?mblogid=5220356197450183",
+    "sinaweibo://detail?mblogid=5228310331396304",
+    "sinaweibo://detail?mblogid=5219259431257699",
+    "sinaweibo://detail?mblogid=5228243968853323",
+    "sinaweibo://detail?mblogid=5224649690714079",
+    "sinaweibo://detail?mblogid=5204390550180724",
+    "sinaweibo://detail?mblogid=5217662974037521",
+    "sinaweibo://detail?mblogid=5022101264665951",
+    "sinaweibo://detail?mblogid=5159827812391300",
+    "sinaweibo://detail?mblogid=5228519690076328",
+    "sinaweibo://detail?mblogid=5227763281690837",
+    "https://baike.baidu.com/item/%E4%BC%8D%E5%B0%94%E5%BC%97%E6%B1%89%E6%99%AE%E9%A1%BF%E6%B5%81%E6%B5%AA%E8%80%85%E8%B6%B3%E7%90%83%E4%BF%B1%E4%B9%90%E9%83%A8/10770442?fromtitle=%E7%8B%BC%E9%98%9F&fromid=1330654",
+    "historyweibo://5203622767368068",
+    "historyweibo://5119047549327712",
+    "historyweibo://5228311527031523",
+    "sinaweibo://detail?mblogid=5228653630725524",
+    "sinaweibo://detail?mblogid=5228635419056085",
+    "sinaweibo://detail?mblogid=5228657821095449",
+    "sinaweibo://detail?mblogid=5228606188160180",
+    "sinaweibo://detail?mblogid=5228355659762125",
+    "sinaweibo://detail?mblogid=5228302971175750",
+    "sinaweibo://detail?mblogid=5228633837802986",
+    "sinaweibo://detail?mblogid=5228309853766933",
+    "sinaweibo://detail?mblogid=5228441678907343",
+    "sinaweibo://detail?mblogid=5227599792178478",
+    "sinaweibo://detail?mblogid=5228067524182640",
+    "sinaweibo://detail?mblogid=5228308600196101",
+    "sinaweibo://detail?mblogid=5228313914380191",
+    "sinaweibo://detail?mblogid=5228359518783214",
+    "sinaweibo://detail?mblogid=5228654525156546",
+    "sinaweibo://detail?mblogid=5228314987333709",
+    "sinaweibo://detail?mblogid=5228314862293318",
+    "sinaweibo://detail?mblogid=5228316957082297",
+    "sinaweibo://detail?mblogid=5228304057766030",
+    "sinaweibo://detail?mblogid=5228654281622641",
+    "sinaweibo://detail?mblogid=5228639480448682",
+    "sinaweibo://detail?mblogid=5228630105657032",
+    "sinaweibo://detail?mblogid=5228313110904982",
+    "sinaweibo://detail?mblogid=5228308384973862",
+    "sinaweibo://detail?mblogid=5228310629193313",
+    "sinaweibo://detail?mblogid=5228310798014687",
+    "sinaweibo://detail?mblogid=5228317742989935",
+    "sinaweibo://detail?mblogid=5227580496286373",
+    "sinaweibo://detail?mblogid=5228631221079507",
+    "sinaweibo://detail?mblogid=5228655416444142",
+    "sinaweibo://detail?mblogid=5223196009955854",
+    "sinaweibo://detail?mblogid=5177936928048733",
+    "sinaweibo://detail?mblogid=5228497074655761",
+    "sinaweibo://detail?mblogid=5222788835312609",
+    "sinaweibo://detail?mblogid=5228314421101848",
+    "sinaweibo://detail?mblogid=5215953148189263",
+    "sinaweibo://detail?mblogid=5227779457028076",
+    "sinaweibo://detail?mblogid=5228338084841699",
+    "sinaweibo://detail?mblogid=5216025005523705",
+    "sinaweibo://detail?mblogid=5227563389551225",
+    "sinaweibo://detail?mblogid=5218494582358477",
+    "sinaweibo://detail?mblogid=5227854461143960",
+    "sinaweibo://detail?mblogid=5222798528093092",
+    "sinaweibo://detail?mblogid=5228262071473732",
+    "sinaweibo://detail?mblogid=5227398213930514",
+    "sinaweibo://detail?mblogid=5215951347782739",
+    "sinaweibo://detail?mblogid=5228658679613366",
+    "sinaweibo://detail?mblogid=5215933949807078",
+    "sinaweibo://detail?mblogid=5216312977786963",
+    "sinaweibo://detail?mblogid=5218496910463298",
+    "sinaweibo://detail?mblogid=5220475087095404",
+    "sinaweibo://detail?mblogid=5227521491600965",
+    "sinaweibo://detail?mblogid=5220685180045444",
+    "sinaweibo://detail?mblogid=5223443663949491",
+    "sinaweibo://detail?mblogid=5200026909284252",
+    "sinaweibo://detail?mblogid=5200395515202645"
+  ],
+  "media": [
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/008qO2iqgy1i6x45gc7kfj31hc0u0ql8.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/008qO2iqgy1i6x45gc7kfj31hc0u0ql8.jpg",
+      "alt": "狼队樱花",
+      "width": 1080,
+      "height": 1920,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/008qO2iqgy1i6x45gc7kfj31hc0u0ql8.jpg"
+      ],
+      "user": "狼队樱花"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/006lXlcWgy1i6x423plsaj312j0lxh2j.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/006lXlcWgy1i6x423plsaj312j0lxh2j.jpg",
+      "alt": "帅白白了个白",
+      "width": 789,
+      "height": 1387,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/006lXlcWgy1i6x423plsaj312j0lxh2j.jpg"
+      ],
+      "user": "帅白白了个白"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/0073KQ0ply1i6x4o0svgaj31h40u0405.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/0073KQ0ply1i6x4o0svgaj31h40u0405.jpg",
+      "alt": "游戏投投机",
+      "width": 1080,
+      "height": 1912,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/0073KQ0ply1i6x4o0svgaj31h40u0405.jpg"
+      ],
+      "user": "游戏投投机"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/006vR4PMly1i6x4afpnllj31hc0u0q5c.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/006vR4PMly1i6x4afpnllj31hc0u0q5c.jpg",
+      "alt": "王者小刀口",
+      "width": 1080,
+      "height": 1920,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx4.sinaimg.cn/large/006vR4PMly1i6x4afpnllj31hc0u0q5c.jpg"
+      ],
+      "user": "王者小刀口"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/006hwXTqgy1i6x4kr4z88j312k0lxwxo.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/006hwXTqgy1i6x4kr4z88j312k0lxwxo.jpg",
+      "alt": "邻家鹿鹿初长成",
+      "width": 789,
+      "height": 1388,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/006hwXTqgy1i6x4kr4z88j312k0lxwxo.jpg"
+      ],
+      "user": "邻家鹿鹿初长成"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/006i0g4Ogy1i6y89ml9wzj31hc0u0npd.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/006i0g4Ogy1i6y89ml9wzj31hc0u0npd.jpg",
+      "alt": "游戏吐槽酱",
+      "width": 1080,
+      "height": 1920,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/006i0g4Ogy1i6y89ml9wzj31hc0u0npd.jpg"
+      ],
+      "user": "游戏吐槽酱"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/006Kf4xYgy1i6y883ynspj31tk10pnfs.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/006Kf4xYgy1i6y883ynspj31tk10pnfs.jpg",
+      "alt": "狼队王者荣耀分部",
+      "width": 1321,
+      "height": 2360,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/006Kf4xYgy1i6y883ynspj31tk10pnfs.jpg"
+      ],
+      "user": "狼队王者荣耀分部"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/006D5nCUly1i6x4nktadhj31hc0u0kjl.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/006D5nCUly1i6x4nktadhj31hc0u0kjl.jpg",
+      "alt": "KPL王者荣耀职业联赛",
+      "width": 1080,
+      "height": 1920,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/006D5nCUly1i6x4nktadhj31hc0u0kjl.jpg"
+      ],
+      "user": "KPL王者荣耀职业联赛"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/006vR4PMly1i6vcwz4q18j30j60y3q8g.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/006vR4PMly1i6vcwz4q18j30j60y3q8g.jpg",
+      "alt": "王者小刀口",
+      "width": 1227,
+      "height": 690,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/006vR4PMly1i6vcwz4q18j30j60y3q8g.jpg"
+      ],
+      "user": "王者小刀口"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/006lXlcWgy1i6y61yx3zmj31270li14m.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/006lXlcWgy1i6y61yx3zmj31270li14m.jpg",
+      "alt": "帅白白了个白",
+      "width": 774,
+      "height": 1375,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/006lXlcWgy1i6y61yx3zmj31270li14m.jpg"
+      ],
+      "user": "帅白白了个白"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/006D5nCUly1i648qs0hs7j31hc0u0gq7.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/006D5nCUly1i648qs0hs7j31hc0u0gq7.jpg",
+      "alt": "KPL王者荣耀职业联赛",
+      "width": 1080,
+      "height": 1920,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx4.sinaimg.cn/large/006D5nCUly1i648qs0hs7j31hc0u0gq7.jpg"
+      ],
+      "user": "KPL王者荣耀职业联赛"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/008r9G5Kgy1i6x4jwre8ij32c0340npd.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/008r9G5Kgy1i6x4jwre8ij32c0340npd.jpg",
+      "alt": "狼队一笙",
+      "width": 4032,
+      "height": 3024,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/008r9G5Kgy1i6x4jwre8ij32c0340npd.jpg"
+      ],
+      "user": "狼队一笙"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/0079iZo4gy1i6fi4bjfr4j31z00wre81.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/0079iZo4gy1i6fi4bjfr4j31z00wre81.jpg",
+      "alt": "狼队电竞飞车分部",
+      "width": 1179,
+      "height": 2556,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/0079iZo4gy1i6fi4bjfr4j31z00wre81.jpg"
+      ],
+      "user": "狼队电竞飞车分部"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/0079NSNPgy1i61t7cpglcj30wx0ihx0y.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/0079NSNPgy1i61t7cpglcj30wx0ihx0y.jpg",
+      "alt": "QQ飞车手游官方赛事",
+      "width": 665,
+      "height": 1185,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/0079NSNPgy1i61t7cpglcj30wx0ihx0y.jpg"
+      ],
+      "user": "QQ飞车手游官方赛事"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/0079iZo4gy1i6vnwitn03j31z00wr4qp.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/0079iZo4gy1i6vnwitn03j31z00wr4qp.jpg",
+      "alt": "狼队电竞飞车分部",
+      "width": 1179,
+      "height": 2556,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/0079iZo4gy1i6vnwitn03j31z00wr4qp.jpg"
+      ],
+      "user": "狼队电竞飞车分部"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/006dmbKZly1i6y0skhejbj30ru0foq56.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/006dmbKZly1i6y0skhejbj30ru0foq56.jpg",
+      "alt": "第五人格超凡君",
+      "width": 564,
+      "height": 1002,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx4.sinaimg.cn/large/006dmbKZly1i6y0skhejbj30ru0foq56.jpg"
+      ],
+      "user": "第五人格超凡君"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/008ckP52gy1i6fj7tdzgej335s2dcnpe.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/008ckP52gy1i6fj7tdzgej335s2dcnpe.jpg",
+      "alt": "狼队电竞第五人格分部",
+      "width": 3072,
+      "height": 4096,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/008ckP52gy1i6fj7tdzgej335s2dcnpe.jpg"
+      ],
+      "user": "狼队电竞第五人格分部"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/006Kf4xYgy1i5tmu07egtj31tk10p46g.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/006Kf4xYgy1i5tmu07egtj31tk10p46g.jpg",
+      "alt": "狼队王者荣耀分部",
+      "width": 1321,
+      "height": 2360,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/006Kf4xYgy1i5tmu07egtj31tk10p46g.jpg"
+      ],
+      "user": "狼队王者荣耀分部"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/006Kf4xYgy1i2geyd00poj31hc0u0hdu.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/006Kf4xYgy1i2geyd00poj31hc0u0hdu.jpg",
+      "alt": "狼队王者荣耀分部",
+      "width": 1080,
+      "height": 1920,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/006Kf4xYgy1i2geyd00poj31hc0u0hdu.jpg"
+      ],
+      "user": "狼队王者荣耀分部"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/008xdrzOly1i6v33jvrgtj30qo0k075d.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/008xdrzOly1i6v33jvrgtj30qo0k075d.jpg",
+      "alt": "皇族驾到y",
+      "width": 720,
+      "height": 960,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/008xdrzOly1i6v33jvrgtj30qo0k075d.jpg"
+      ],
+      "user": "皇族驾到y"
+    }
+  ],
+  "html_path": "data/aicard/hourly/2025-11-02/22/topic-ca8956dd.html"
+}

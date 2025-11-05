@@ -1,0 +1,520 @@
+{
+  "meta": {
+    "query": "#奶皮子冰糖葫芦#",
+    "status_code": 200,
+    "fetched_at": "2025-10-31T22:35:08+08:00",
+    "response": {
+      "zs_risk_control": {
+        "think_text_close": 0,
+        "land_button_close": 0
+      },
+      "uid": "",
+      "status": 2,
+      "abtest_info": {
+        "chat_entrance": 1
+      },
+      "msg_format": "markdown",
+      "scheme": "sinaweibo://cardlist?containerid=100103type%3D225%26q%3D%23%E5%A5%B6%E7%9A%AE%E5%AD%90%E5%86%B0%E7%B3%96%E8%91%AB%E8%8A%A6%23%26t%3D&extparam=ai_model%3Ddeepseek%26ori_ai_title%3D%E5%8F%82%E8%80%83%E5%8D%9A%E6%96%87%26material_version%3D1761914719",
+      "model": "deepseek",
+      "qs_status_info": "{\"qs_status\":0,\"qs_c_status\":8388608,\"qs_r_status\":0,\"qs_u_status\":0,\"ab_lab\":{},\"qs_q_status\":0}",
+      "query_field": "7",
+      "reliable_tips": "{\"gold_orange_v_mids\": [\"5227808147115028\", \"5227468799607199\", \"5224564043022691\", \"5227519701161691\", \"5226857001128609\", \"5227486821485774\", \"5226863406351918\", \"5227435244131687\", \"5227474109858846\", \"5226829686243577\", \"5226843076299986\", \"5227840794529489\", \"5227443217502020\", \"5227854495221862\", \"5227342291272126\", \"5226806538146483\", \"5227492315240506\", \"5226816258179999\", \"5227013940183824\", \"5227048437810032\", \"5227905241061945\", \"5227891841043970\", \"5226818317847714\", \"5227607479813444\", \"5227809134089182\", \"5227050535224963\", \"5226058426615611\", \"5224543019075297\", \"5226781458044503\", \"5225546715758935\", \"5224548800659599\", \"5227541891913055\", \"5227895971644670\", \"5225021376039885\", \"5227167010785431\", \"5227888585478405\", \"5227386783403625\", \"5226842119218092\", \"5227542204127174\", \"5227202053678602\", \"5226829281757100\", \"5227904255922734\", \"5226715703936054\", \"5227860851953123\"], \"gold_orange_v_ratio\": \"65%\", \"media_mids\": [\"5226653569516787\", \"5226663893796553\", \"5227022189333117\"], \"media_ratio\": \"4%\", \"verified_mids\": [\"5226744483416875\", \"5227911524390443\", \"5227072726501443\", \"5227820931612959\", \"5226907038646496\", \"5226799346751282\", \"5226753464730556\", \"5226848195710311\"], \"verified_ratio\": \"12%\", \"normal_mids\": [\"5226806018839132\", \"5227550819223824\", \"5227834494687925\", \"5226879780129722\", \"5227904406395530\", \"5227537485793092\", \"5227133930835222\", \"5227886388446935\", \"5227078010276211\", \"5227544280039740\", \"5227837776986487\", \"5226481024503277\", \"5226899087032554\"], \"normal_ratio\": \"19%\", \"ref_mid_rank\": {\"5227808147115028\": {\"rank\": 1}, \"5227468799607199\": {\"rank\": 7}, \"5226653569516787\": {\"rank\": 21}, \"5224564043022691\": {\"rank\": 22}, \"5227519701161691\": {\"rank\": 63}, \"5226857001128609\": {\"rank\": 74}, \"5226663893796553\": {\"rank\": 3}, \"5227486821485774\": {\"rank\": 17}, \"5226863406351918\": {\"rank\": 40}, \"5227435244131687\": {\"rank\": 53}, \"5227474109858846\": {\"rank\": 62}, \"5226744483416875\": {\"rank\": 2}, \"5226806018839132\": {\"rank\": 37}, \"5227022189333117\": {\"rank\": 4}, \"5226829686243577\": {\"rank\": 15}, \"5226843076299986\": {\"rank\": 19}, \"5227840794529489\": {\"rank\": 35}, \"5227443217502020\": {\"rank\": 45}, \"5227911524390443\": {\"rank\": 55}, \"5227854495221862\": {\"rank\": 59}, \"5227342291272126\": {\"rank\": 6}, \"5226806538146483\": {\"rank\": 73}, \"5227492315240506\": {\"rank\": 26}, \"5226816258179999\": {\"rank\": 36}, \"5227013940183824\": {\"rank\": 46}, \"5227048437810032\": {\"rank\": 49}, \"5227905241061945\": {\"rank\": 57}, \"5227891841043970\": {\"rank\": 58}, \"5226818317847714\": {\"rank\": 5}, \"5227550819223824\": {\"rank\": 8}, \"5227834494687925\": {\"rank\": 9}, \"5226879780129722\": {\"rank\": 10}, \"5227607479813444\": {\"rank\": 11}, \"5227809134089182\": {\"rank\": 12}, \"5227050535224963\": {\"rank\": 13}, \"5226058426615611\": {\"rank\": 14}, \"5224543019075297\": {\"rank\": 16}, \"5226781458044503\": {\"rank\": 18}, \"5225546715758935\": {\"rank\": 20}, \"5224548800659599\": {\"rank\": 23}, \"5227904406395530\": {\"rank\": 24}, \"5227537485793092\": {\"rank\": 25}, \"5227541891913055\": {\"rank\": 33}, \"5227895971644670\": {\"rank\": 34}, \"5225021376039885\": {\"rank\": 38}, \"5227167010785431\": {\"rank\": 39}, \"5227072726501443\": {\"rank\": 41}, \"5227820931612959\": {\"rank\": 42}, \"5227888585478405\": {\"rank\": 43}, \"5227386783403625\": {\"rank\": 44}, \"5227133930835222\": {\"rank\": 47}, \"5226842119218092\": {\"rank\": 48}, \"5226907038646496\": {\"rank\": 50}, \"5227542204127174\": {\"rank\": 51}, \"5227202053678602\": {\"rank\": 52}, \"5226829281757100\": {\"rank\": 54}, \"5227904255922734\": {\"rank\": 56}, \"5226715703936054\": {\"rank\": 60}, \"5226799346751282\": {\"rank\": 61}, \"5227886388446935\": {\"rank\": 64}, \"5226753464730556\": {\"rank\": 65}, \"5227860851953123\": {\"rank\": 66}, \"5227078010276211\": {\"rank\": 67}, \"5227544280039740\": {\"rank\": 68}, \"5227837776986487\": {\"rank\": 69}, \"5226481024503277\": {\"rank\": 70}, \"5226899087032554\": {\"rank\": 71}, \"5226848195710311\": {\"rank\": 72}}}",
+      "query": "#奶皮子冰糖葫芦#",
+      "cot": 1,
+      "qs_status": 0,
+      "show_ctrl": {
+        "quote": {}
+      },
+      "page_id": "2329642b596ad9503be21934e38cc397c78e4b",
+      "share_info": {
+        "url": "http://t.cn/AXAVSGTw",
+        "page_id": "2329642b596ad9503be21934e38cc397c78e4b",
+        "status": 3,
+        "unify_md5": "e4f20cdf8e25a89eab4a74f546bc2145",
+        "comment_content": "",
+        "display_name": "#奶皮子冰糖葫芦#",
+        "tips": "#奶皮子冰糖葫芦#的相关内容，来智搜看看"
+      },
+      "current_time": 1761921308,
+      "profile_image_url": "",
+      "user_info": {},
+      "analysis_time": 1761914918,
+      "ext_show": {},
+      "news_analyze": {},
+      "wenda": {
+        "forward_gen": 0
+      },
+      "msg": "<think><br><br>首先，用户查询是“奶皮子冰糖葫芦”，我从搜索结果中梳理出关键信息。搜索结果覆盖了多方面内容：奶皮子冰糖葫芦的定义、起源、制作工艺、口感体验、价格争议、爆火现象、消费者评价、健康影响以及自制方法等。<br><br>从时效性考虑，今天（2025年10月31日）的最新信息很重要。例如，结果1显示大V“深夜徐老师”在10月31日分享了首次品尝体验，结果33提到成都购买难的问题，这些都是近期的用户关注点。<br><br>接下来组织回答结构。考虑分成几个核心部分：产品介绍（包含定义与特色）、走红原因分析、价格与争议、购买建议（含自制方法）以及健康提示。这样能覆盖用户可能关心的各方面需求。<br><br>产品特色部分将聚焦奶皮子冰糖葫芦的独特口感。综合结果7、22、74的消费者描述，它有三重口感：外层糖衣的酥脆、中层奶皮子的绵密奶香、内层水果的酸甜。这种层次感是传统糖葫芦的升级版，引用结果32中“草原奶香+市井烟火气”的定位能强化产品文化内涵。<br><br>关于起源，结果28、78显示存在争议：内蒙古包头商家王长青被广泛认为是首创者，但结果31提到2024年底已有类似产品出现，因此采用“内蒙古起源，2025年风靡全国”的表述更稳妥，并引用结果61的“返场”说法暗示其持续热度。<br><br>爆火原因分析将结合社交传播和产品特性。结果3、21、76显示全国排队盛况，杭州店日销4000串；结果30指出相关话题阅读量超3亿，Z世代将其视为“社交货币”。同时引用结果78中年轻创业者的创新故事，强调微创新（如加入炒米、冷萃酸奶）降低消费者接受门槛。<br><br>价格争议部分需客观呈现。结果2、4、75显示基础款15-30元，高阶水果款达40-98元；结果29解释成本因素：奶皮子周涨300%（23元/张）、草莓短缺、商圈租金。消费者吐槽集中在结果19、45、59，而结果51、71则给予好评，表明口碑两极分化。<br><br>对于购买建议，优先推荐基础款山楂口味，价格约25元，错峰购买可减少排队时间（结果30提到工作日下午5点前）。若本地无售，结果6、26、73提供自制教程，强调微波炉法10分钟完成的便捷性，成本仅8元/串。<br><br>健康方面，结果55是重要补充：山楂果胶与奶皮子蛋白质结合可能加重胃负担，建议肠胃不适者少量食用并避免空腹。同时提供替代方案如山楂糕。<br><br>最后检查引用是否合理分布。产品介绍部分引用结果7、22、32等；价格引用结果2、4、29；自制方法引用结果6、30、73。确保每项信息都有搜索结果支撑，且引用编号[^X]直接标注在相关内容后。整体保持客观，避免偏向性表述，同时突出关键数据如“日销4000串”“话题热度3亿”增强说服力。<br><br></think><br>### 🍡 **奶皮子冰糖葫芦：冬日网红美食全解析**  <br>奶皮子冰糖葫芦是2025年秋冬爆火的创意小吃，将内蒙古传统奶皮子与糖葫芦结合，形成“脆糖壳+绵密奶香+酸甜果肉”的三重口感体验。其基础款以山楂为主，裹入奶皮子后挂糖；进阶版则融合草莓、晴王葡萄、冷萃酸奶等元素，甚至加入炒米增加酥脆感。一口咬下，糖衣的清脆、奶皮的醇厚、水果的爆汁在口中层层递进，被网友称为“冬日幸福感担当”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 2, \"data\": {\"num\": [1, 7, 21, 22, 63, 74], \"version\": 2, \"quote_list\": [{\"name\": \"浙江经视\", \"scheme\": \"sinaweibo://detail?mblogid=5226653569516787\", \"index\": 21, \"label\": \"大v\"}, {\"name\": \"深夜徐老师\", \"scheme\": \"sinaweibo://detail?mblogid=5227808147115028\", \"index\": 1, \"label\": \"\"}, {\"name\": \"溜了个猪\", \"scheme\": \"sinaweibo://detail?mblogid=5227468799607199\", \"index\": 7, \"label\": \"\"}, {\"name\": \"小学笑长小温温\", \"scheme\": \"sinaweibo://detail?mblogid=5224564043022691\", \"index\": 22, \"label\": \"\"}, {\"name\": \"贾星星还是那颗星星\", \"scheme\": \"sinaweibo://detail?mblogid=5227519701161691\", \"index\": 63, \"label\": \"\"}, {\"name\": \"雨墨cc\", \"scheme\": \"sinaweibo://detail?mblogid=5226857001128609\", \"index\": 74, \"label\": \"\"}], \"name\": \"浙江经视\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.600.600.50/532f80ebly8hcoorptl3xj20go0gojs1.jpg?KID=imgbed,tva&Expires=1761925520&ssig=Ge7MZk8%2Bob\", \"scheme\": \"sinaweibo://detail?mblogid=5226653569516787\", \"vType\": 3}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5227519701161691&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=0&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/0081sudsly8gkebemfwftj30u00u0myg.jpg?KID=imgbed,tva&Expires=1761925520&ssig=BxXsiHitQ%2F) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">贾星星还是那颗星星</span><img src=\"http://wx3.sinaimg.cn/middle/0081sudsly1i6ulce76ipj32c0340e81.jpg\" data-width=4032 data-height=3024></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5226653569516787&multi_paragraph=0&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.600.600.50/532f80ebly8hcoorptl3xj20go0gojs1.jpg?KID=imgbed,tva&Expires=1761925520&ssig=Ge7MZk8%2Bob) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">浙江经视</span><img src=\"http://wx3.sinaimg.cn/middle/532f80ebly1i6rtyf3nw0j20zk0k0acl.jpg\" data-width=720 data-height=1280></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5227468799607199&multi_paragraph=0&multi_count=2\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/7e27af89ly8i3hcrce04uj20u00u176w.jpg?KID=imgbed,tva&Expires=1761925520&ssig=cZOd6M3YrL) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">溜了个猪</span><img src=\"http://wx3.sinaimg.cn/middle/7e27af89gy1i6uflvd863j20u01417iy.jpg\" data-width=1441 data-height=1080></div></media-block><br>### 🔥 **爆红原因：社交属性+微创新**  <br>1. **口感革命与文化融合**  <br>   - 奶皮子选用内蒙古非遗工艺，约12斤鲜奶熬制1张，浓缩奶香赋予糖葫芦草原风味；糖衣则保留传统冰糖工艺，形成“草原奶香撞上市井烟火”的国潮符号。  <br>   - 创新变体如冷萃酸奶夹心、榴莲果肉款，满足年轻人猎奇心理，颜值高且适合拍照打卡。```wbCustomBlock{\"type\": \"quoted\", \"index\": 7, \"data\": {\"num\": [3, 17, 40], \"version\": 2, \"quote_list\": [{\"name\": \"齐鲁晚报\", \"scheme\": \"sinaweibo://detail?mblogid=5226663893796553\", \"index\": 3, \"label\": \"大v\"}, {\"name\": \"菜菜柠檬萌\", \"scheme\": \"sinaweibo://detail?mblogid=5227486821485774\", \"index\": 17, \"label\": \"\"}, {\"name\": \"合肥看点\", \"scheme\": \"sinaweibo://detail?mblogid=5226863406351918\", \"index\": 40, \"label\": \"\"}], \"name\": \"齐鲁晚报\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.590.590.50/002c6guQly8hksm8b8b64j60ge0geaal02.jpg?KID=imgbed,tva&Expires=1761925519&ssig=Wut4RpLiD7\", \"scheme\": \"sinaweibo://detail?mblogid=5226663893796553\", \"vType\": 3}}```  <br><br>2. **社交媒体助推**  <br>   - 抖音、小红书相关话题播放量超**3亿**，制作视频中“蘸糖-粘奶皮”的瞬间成为流量触发器。```wbCustomBlock{\"type\": \"quoted\", \"index\": 9, \"data\": {\"num\": [21], \"version\": 2, \"quote_list\": [{\"name\": \"浙江经视\", \"scheme\": \"sinaweibo://detail?mblogid=5226653569516787\", \"index\": 21, \"label\": \"\"}]}}```  <br>   - 明星效应加持：如阚清子孕晚期排队2小时购买晴王款，引发粉丝跟风。```wbCustomBlock{\"type\": \"quoted\", \"index\": 10, \"data\": {\"num\": [53, 62], \"version\": 2, \"quote_list\": [{\"name\": \"静顔浅忆\", \"scheme\": \"sinaweibo://detail?mblogid=5227435244131687\", \"index\": 53, \"label\": \"大v\"}, {\"name\": \"阚清子\", \"scheme\": \"sinaweibo://detail?mblogid=5227474109858846\", \"index\": 62, \"label\": \"\"}], \"name\": \"静顔浅忆\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.674.674.50/aa107b0agy1hrl6n9oyyuj20iq0iqwfp.jpg?KID=imgbed,tva&Expires=1761925519&ssig=EVTqeJDgW7\", \"scheme\": \"sinaweibo://detail?mblogid=5227435244131687\", \"vType\": 0}}```  <br><br>3. **地域扩散与饥饿营销**  <br>   - 从内蒙古起源，席卷哈尔滨、杭州、上海等城市，杭州门店日销**4000串**，排队长达1.5小时。```wbCustomBlock{\"type\": \"quoted\", \"index\": 12, \"data\": {\"num\": [21], \"version\": 2, \"quote_list\": [{\"name\": \"浙江经视\", \"scheme\": \"sinaweibo://detail?mblogid=5226653569516787\", \"index\": 21, \"label\": \"\"}]}}```  <br>   - 原料短缺加剧热潮：奶皮子周涨300%（7.6元→23元/张），草莓缺货致高价款频现，黄牛加价倒卖。```wbCustomBlock{\"type\": \"quoted\", \"index\": 13, \"data\": {\"num\": [2, 37], \"version\": 2, \"quote_list\": [{\"name\": \"梨视频\", \"scheme\": \"sinaweibo://detail?mblogid=5226744483416875\", \"index\": 2, \"label\": \"大v\"}, {\"name\": \"Tuliip1_1\", \"scheme\": \"sinaweibo://detail?mblogid=5226806018839132\", \"index\": 37, \"label\": \"\"}], \"name\": \"梨视频\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.600.600.50/006yllNVly8h8wegdfz5fj30go0gojru.jpg?KID=imgbed,tva&Expires=1761925519&ssig=ciAC9BncyS\", \"scheme\": \"sinaweibo://detail?mblogid=5226744483416875\", \"vType\": 3}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5227435244131687&from=search&content_show=1&mix_index=2&hide_index=1&multi_paragraph=1&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.674.674.50/aa107b0agy1hrl6n9oyyuj20iq0iqwfp.jpg?KID=imgbed,tva&Expires=1761925519&ssig=EVTqeJDgW7) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">静顔浅忆</span><img src=\"http://wx1.sinaimg.cn/middle/aa107b0agy1i6ubmvhodrj20p10y5tcc.jpg\" data-width=1229 data-height=901></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5227474109858846&multi_paragraph=1&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/001FiPczly8hwyb6napszj60u00u0di802.jpg?KID=imgbed,tva&Expires=1761925520&ssig=nlU7LTif%2F1) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">阚清子</span><img src=\"http://wx1.sinaimg.cn/middle/001FiPczly1i6ug5hxbwzj60u013omzw02.jpg\" data-width=1428 data-height=1080></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5226863406351918&multi_paragraph=1&multi_count=2\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.180.180.50/ae3f50f0ly8gdk1luwpd5j2050050746.jpg?KID=imgbed,tva&Expires=1761925519&ssig=8eiOUpcEwi) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">合肥看点</span><img src=\"http://wx4.sinaimg.cn/middle/ae3f50f0ly1i6si2s1vd2j20k00zkac3.jpg\" data-width=1280 data-height=720></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5227486821485774&multi_paragraph=1&multi_count=3\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/9b72d2fdly8i69jkv0m6uj20u00u0dil.jpg?KID=imgbed,tva&Expires=1761925520&ssig=x95VuwE8Jx) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">菜菜柠檬萌</span><img src=\"http://wx1.sinaimg.cn/middle/9b72d2fdly1i6uhl3ksl1j20u01hc0w5.jpg\" data-width=1920 data-height=1080></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5226663893796553&multi_paragraph=1&multi_count=4\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.590.590.50/002c6guQly8hksm8b8b64j60ge0geaal02.jpg?KID=imgbed,tva&Expires=1761925519&ssig=Wut4RpLiD7) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">齐鲁晚报</span><img src=\"http://wx1.sinaimg.cn/middle/002c6guQly1i6rv5vvobzj60k00zkgni02.jpg\" data-width=1280 data-height=720></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5226744483416875&multi_paragraph=1&multi_count=5\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.600.600.50/006yllNVly8h8wegdfz5fj30go0gojru.jpg?KID=imgbed,tva&Expires=1761925519&ssig=ciAC9BncyS) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">梨视频</span><img src=\"http://wx2.sinaimg.cn/middle/006yllNVly1i6s4f4avwrj30k00zkq4u.jpg\" data-width=1280 data-height=720></div></media-block><br>### ⚠️ **争议焦点：价格虚高与口感两极**  <br>| **争议点**         | **详情**                                                                 | **消费者反馈**                     |  <br>|---------------------|--------------------------------------------------------------------------|-----------------------------------|  <br>| **价格泡沫**        | 基础款15-30元/串，草莓/晴王款达40-98元。上海某店线上定价98元（含配送溢价），线下同款49元。 | “算完成本，溢价够买三串传统的” |  <br>| **口感落差**        | 部分门店奶皮遇热融化，糖浆过厚导致甜腻；新鲜度不足时奶腥味明显。 | “死贵还不好吃，纯诈骗”       |  <br>| **跟风消费**        | 有人排队3小时仅为社交打卡，实际体验不如预期，“换包装的传统小吃”。 | “买的是参与感，不是糖葫芦”   |<br><br>```wbCustomBlock{\"type\": \"quoted\", \"index\": 15, \"data\": {\"num\": [2, 4, 15, 19, 35, 45, 55, 59], \"version\": 2, \"quote_list\": [{\"name\": \"贵港反邪\", \"scheme\": \"sinaweibo://detail?mblogid=5227911524390443\", \"index\": 55, \"label\": \"大v\"}, {\"name\": \"梨视频\", \"scheme\": \"sinaweibo://detail?mblogid=5226744483416875\", \"index\": 2, \"label\": \"\"}, {\"name\": \"向阳视频\", \"scheme\": \"sinaweibo://detail?mblogid=5227022189333117\", \"index\": 4, \"label\": \"\"}, {\"name\": \"徠来努力努力再努力\", \"scheme\": \"sinaweibo://detail?mblogid=5226829686243577\", \"index\": 15, \"label\": \"\"}, {\"name\": \"稚兔梦境\", \"scheme\": \"sinaweibo://detail?mblogid=5226843076299986\", \"index\": 19, \"label\": \"\"}, {\"name\": \"北海辣妹\", \"scheme\": \"sinaweibo://detail?mblogid=5227840794529489\", \"index\": 35, \"label\": \"\"}, {\"name\": \"啤酒小猫__\", \"scheme\": \"sinaweibo://detail?mblogid=5227443217502020\", \"index\": 45, \"label\": \"\"}, {\"name\": \"CHAT_Frank\", \"scheme\": \"sinaweibo://detail?mblogid=5227854495221862\", \"index\": 59, \"label\": \"\"}], \"name\": \"贵港反邪\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.232.232.50/006tCsAsly8h8vg9ifuwjj306g06g0sv.jpg?KID=imgbed,tva&Expires=1761925519&ssig=W5RHDVP7bs\", \"scheme\": \"sinaweibo://detail?mblogid=5227911524390443\", \"vType\": 1}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5227022189333117&multi_paragraph=2&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.512.512.50/6ac579bfly8hqmuovqvlnj20e80e8q35.jpg?KID=imgbed,tva&Expires=1761925519&ssig=XNOBOL6aps) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">向阳视频</span><img src=\"http://wx1.sinaimg.cn/middle/6ac579bfly1i6t0as8iokj20u01404ik.jpg\" data-width=1440 data-height=1080></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5227840794529489&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=2&multi_count=1\"><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/adbe2e58ly8i38299y09yj20u00u00vm.jpg?KID=imgbed,tva&Expires=1761925519&ssig=m%2Fdu2p%2BlVQ) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">北海辣妹</span><img src=\"http://wx4.sinaimg.cn/middle/adbe2e58ly1i6vmc1nt86j20zu1kg491.jpg\" data-width=2032 data-height=1290></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5226843076299986&multi_paragraph=2&multi_count=2\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/006nllfsly8hwh96louusj30u00u0ac3.jpg?KID=imgbed,tva&Expires=1761925520&ssig=ZhKTIpukeV) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">稚兔梦境</span><img src=\"http://wx3.sinaimg.cn/middle/006nllfsly1i6sfps2qqxj30u01hcaci.jpg\" data-width=1920 data-height=1080></div></media-block><br>### 🛒 **理性购买指南**  <br>1. **优选基础款**  <br>   - 山楂+奶皮子组合（约25元）性价比最高，酸甜平衡不易腻；避开高价水果款（如40元/4颗草莓）。```wbCustomBlock{\"type\": \"quoted\", \"index\": 19, \"data\": {\"num\": [2, 63], \"version\": 2, \"quote_list\": [{\"name\": \"贾星星还是那颗星星\", \"scheme\": \"sinaweibo://detail?mblogid=5227519701161691\", \"index\": 63, \"label\": \"大v\"}, {\"name\": \"梨视频\", \"scheme\": \"sinaweibo://detail?mblogid=5226744483416875\", \"index\": 2, \"label\": \"\"}], \"name\": \"贾星星还是那颗星星\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/0081sudsly8gkebemfwftj30u00u0myg.jpg?KID=imgbed,tva&Expires=1761925520&ssig=BxXsiHitQ%2F\", \"scheme\": \"sinaweibo://detail?mblogid=5227519701161691\", \"vType\": 0}}```  <br>   - **错峰购买**：工作日下午5点前，排队时间减少20分钟。  <br><br>2. **自制复刻（成本低至8元/串）**  <br>   **懒人微波炉法**：```wbCustomBlock{\"type\": \"quoted\", \"index\": 21, \"data\": {\"num\": [6, 73], \"version\": 2, \"quote_list\": [{\"name\": \"小紫菜稳稳瘦\", \"scheme\": \"sinaweibo://detail?mblogid=5227342291272126\", \"index\": 6, \"label\": \"\"}, {\"name\": \"October乱讲话\", \"scheme\": \"sinaweibo://detail?mblogid=5226806538146483\", \"index\": 73, \"label\": \"\"}]}}```  <br>   - 原料：草莓/晴王葡萄、奶贝（奶皮子平替）、白砂糖80g+清水30g。  <br>   - 步骤：水果擦干→塞入奶贝→糖水微波60秒至冒大泡→裹糖冷却。  <br>   **传统熬糖法**：```wbCustomBlock{\"type\": \"quoted\", \"index\": 23, \"data\": {\"num\": [26, 36], \"version\": 2, \"quote_list\": [{\"name\": \"冰美式不加加加加糖\", \"scheme\": \"sinaweibo://detail?mblogid=5227492315240506\", \"index\": 26, \"label\": \"\"}, {\"name\": \"谁有恋萌癖\", \"scheme\": \"sinaweibo://detail?mblogid=5226816258179999\", \"index\": 36, \"label\": \"\"}]}}```  <br>   - 糖水比例2:1，熬至118℃（滴冷水变脆），串好的水果裹糖后滚奶皮子碎，冷冻定型。  <br><br>3. **城市购买地图**  <br>   - 正宗店：内蒙古包头乌兰道商业街、北京鼓楼小吃店、哈尔滨中央大街摊位。  <br>   - 替代选择：本地老字号糖葫芦店常有类似款，如济南李记（大观园店）、南京“草莓熊”移动摊。```wbCustomBlock{\"type\": \"quoted\", \"index\": 27, \"data\": {\"num\": [3, 46, 49], \"version\": 2, \"quote_list\": [{\"name\": \"齐鲁晚报\", \"scheme\": \"sinaweibo://detail?mblogid=5226663893796553\", \"index\": 3, \"label\": \"\"}, {\"name\": \"济南吃货小组\", \"scheme\": \"sinaweibo://detail?mblogid=5227013940183824\", \"index\": 46, \"label\": \"\"}, {\"name\": \"AAA猪肉炖粉条批发\", \"scheme\": \"sinaweibo://detail?mblogid=5227048437810032\", \"index\": 49, \"label\": \"\"}]}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5226816258179999&from=search&content_show=1&mix_index=2&hide_index=1&multi_paragraph=3&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.183.1080.1080.50/007Q94rlly8hw3m61t9udj30u01460vb.jpg?KID=imgbed,tva&Expires=1761925519&ssig=ceO%2FIRTJta) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">谁有恋萌癖</span><img src=\"http://wx1.sinaimg.cn/middle/007Q94rlgy1i6sckdufxjj30xc1jwe81.jpg\" data-width=2012 data-height=1200></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5227342291272126&multi_paragraph=3&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/005PvxAYly8i4s6da9a8vj30u00u0dik.jpg?KID=imgbed,tva&Expires=1761925519&ssig=bJC51Y2DNj) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">小紫菜稳稳瘦</span><img src=\"http://wx4.sinaimg.cn/middle/005PvxAYly1i6u10y1ymkj30u01hctbk.jpg\" data-width=1920 data-height=1080></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5227492315240506&multi_paragraph=3&multi_count=2\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.1.1078.1078.50/b0e3b1bfly8i6ufaq2aazj20ty0u076t.jpg?KID=imgbed,tva&Expires=1761925520&ssig=nRdEX2mfFk) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">冰美式不加加加加糖</span><img src=\"http://wx2.sinaimg.cn/middle/b0e3b1bfgy1i6ui9mt93dj20k00zkmy2.jpg\" data-width=1280 data-height=720></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5226806538146483&multi_paragraph=3&multi_count=3\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/008gh3ZSly8i5qxo130rej30u00u0jt5.jpg?KID=imgbed,tva&Expires=1761925520&ssig=hy395JjUar) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">October乱讲话</span><img src=\"http://wx2.sinaimg.cn/middle/008gh3ZSgy1i6sbjk40w8j30k00qpai8.jpg\" data-width=961 data-height=720></div></media-block><br>### ❗ **健康提示**  <br>- 山楂果胶与奶皮子蛋白质结合可能形成难消化团块，加重胃负担。肠胃脆弱者建议每次食用≤3颗，避免空腹。```wbCustomBlock{\"type\": \"quoted\", \"index\": 30, \"data\": {\"num\": [55], \"version\": 2, \"quote_list\": [{\"name\": \"贵港反邪\", \"scheme\": \"sinaweibo://detail?mblogid=5227911524390443\", \"index\": 55, \"label\": \"\"}]}}```  <br>- 家庭自制可控制糖量，用代糖或减糖30%降低甜腻感。```wbCustomBlock{\"type\": \"quoted\", \"index\": 31, \"data\": {\"num\": [26, 73], \"version\": 2, \"quote_list\": [{\"name\": \"冰美式不加加加加糖\", \"scheme\": \"sinaweibo://detail?mblogid=5227492315240506\", \"index\": 26, \"label\": \"\"}, {\"name\": \"October乱讲话\", \"scheme\": \"sinaweibo://detail?mblogid=5226806538146483\", \"index\": 73, \"label\": \"\"}]}}```<br>### 💎 **总结：网红滤镜下的真实价值**  <br>奶皮子冰糖葫芦的爆火，本质是“地域文化符号+微创新+社交裂变”的共同结果。其口感创新值得尝试，但不必神化——**基础款尝鲜即可，自制乐趣大于排队受罪**。若热度退潮后仍能坚守品质（如优化奶皮工艺、稳定定价），或可成为长效冬季IP；否则恐重蹈“昙花一现”的网红宿命。```wbCustomBlock{\"type\": \"quoted\", \"index\": 33, \"data\": {\"num\": [57, 58], \"version\": 2, \"quote_list\": [{\"name\": \"祈雪灵笙\", \"scheme\": \"sinaweibo://detail?mblogid=5227905241061945\", \"index\": 57, \"label\": \"\"}, {\"name\": \"萌栀瑞酱\", \"scheme\": \"sinaweibo://detail?mblogid=5227891841043970\", \"index\": 58, \"label\": \"\"}]}}```<br>",
+      "ab_suffix": "default",
+      "link_list": [
+        "sinaweibo://detail?mblogid=5227808147115028",
+        "sinaweibo://detail?mblogid=5226744483416875",
+        "sinaweibo://detail?mblogid=5226663893796553",
+        "sinaweibo://detail?mblogid=5227022189333117",
+        "sinaweibo://detail?mblogid=5226818317847714",
+        "sinaweibo://detail?mblogid=5227342291272126",
+        "sinaweibo://detail?mblogid=5227468799607199",
+        "sinaweibo://detail?mblogid=5227550819223824",
+        "sinaweibo://detail?mblogid=5227834494687925",
+        "sinaweibo://detail?mblogid=5226879780129722",
+        "sinaweibo://detail?mblogid=5227607479813444",
+        "sinaweibo://detail?mblogid=5227809134089182",
+        "sinaweibo://detail?mblogid=5227050535224963",
+        "sinaweibo://detail?mblogid=5226058426615611",
+        "sinaweibo://detail?mblogid=5226829686243577",
+        "sinaweibo://detail?mblogid=5224543019075297",
+        "sinaweibo://detail?mblogid=5227486821485774",
+        "sinaweibo://detail?mblogid=5226781458044503",
+        "sinaweibo://detail?mblogid=5226843076299986",
+        "sinaweibo://detail?mblogid=5225546715758935",
+        "sinaweibo://detail?mblogid=5226653569516787",
+        "sinaweibo://detail?mblogid=5224564043022691",
+        "sinaweibo://detail?mblogid=5224548800659599",
+        "sinaweibo://detail?mblogid=5227904406395530",
+        "sinaweibo://detail?mblogid=5227537485793092",
+        "sinaweibo://detail?mblogid=5227492315240506",
+        "https://m.toutiao.com/article/7566050810719912494/",
+        "https://cn.bing.com/search?q=%E8%B0%81%E7%A0%94%E7%A9%B6%E5%87%BA%E6%9D%A5%E7%9A%84%E5%A5%B6%E7%9A%AE%E5%AD%90%E7%B3%96%E8%91%AB%E8%8A%A6&rdr=1&rdrig=L44180LOYN47W3261W63G2HE7633R13G&first=1",
+        "broadsocial_res://",
+        "historyweibo://5226663893796553",
+        "historyweibo://5224928521749530",
+        "historyweibo://5223130122684004",
+        "sinaweibo://detail?mblogid=5227541891913055",
+        "sinaweibo://detail?mblogid=5227895971644670",
+        "sinaweibo://detail?mblogid=5227840794529489",
+        "sinaweibo://detail?mblogid=5226816258179999",
+        "sinaweibo://detail?mblogid=5226806018839132",
+        "sinaweibo://detail?mblogid=5225021376039885",
+        "sinaweibo://detail?mblogid=5227167010785431",
+        "sinaweibo://detail?mblogid=5226863406351918",
+        "sinaweibo://detail?mblogid=5227072726501443",
+        "sinaweibo://detail?mblogid=5227820931612959",
+        "sinaweibo://detail?mblogid=5227888585478405",
+        "sinaweibo://detail?mblogid=5227386783403625",
+        "sinaweibo://detail?mblogid=5227443217502020",
+        "sinaweibo://detail?mblogid=5227013940183824",
+        "sinaweibo://detail?mblogid=5227133930835222",
+        "sinaweibo://detail?mblogid=5226842119218092",
+        "sinaweibo://detail?mblogid=5227048437810032",
+        "sinaweibo://detail?mblogid=5226907038646496",
+        "sinaweibo://detail?mblogid=5227542204127174",
+        "sinaweibo://detail?mblogid=5227202053678602",
+        "sinaweibo://detail?mblogid=5227435244131687",
+        "sinaweibo://detail?mblogid=5226829281757100",
+        "sinaweibo://detail?mblogid=5227911524390443",
+        "sinaweibo://detail?mblogid=5227904255922734",
+        "sinaweibo://detail?mblogid=5227905241061945",
+        "sinaweibo://detail?mblogid=5227891841043970",
+        "sinaweibo://detail?mblogid=5227854495221862",
+        "sinaweibo://detail?mblogid=5226715703936054",
+        "sinaweibo://detail?mblogid=5226799346751282",
+        "sinaweibo://detail?mblogid=5227474109858846",
+        "sinaweibo://detail?mblogid=5227519701161691",
+        "sinaweibo://detail?mblogid=5227886388446935",
+        "sinaweibo://detail?mblogid=5226753464730556",
+        "sinaweibo://detail?mblogid=5227860851953123",
+        "sinaweibo://detail?mblogid=5227078010276211",
+        "sinaweibo://detail?mblogid=5227544280039740",
+        "sinaweibo://detail?mblogid=5227837776986487",
+        "sinaweibo://detail?mblogid=5226481024503277",
+        "sinaweibo://detail?mblogid=5226899087032554",
+        "sinaweibo://detail?mblogid=5226848195710311",
+        "sinaweibo://detail?mblogid=5226806538146483",
+        "sinaweibo://detail?mblogid=5226857001128609",
+        "https://k.sina.cn/article_2147113173_m7ffa58d503301awhi.html?wm=3049_0032",
+        "https://www.163.com/dy/article/KD1F02V10556F2A6.html",
+        "https://k.sina.cn/article_2011075080_m77de920803301l67w.html?from=food&wm=3049_0032",
+        "https://baijiahao.baidu.com/s?id=1847193094123964350",
+        "https://baijiahao.baidu.com/s?id=1847215940844565005"
+      ],
+      "top_quote_list": {},
+      "loop_times": 200,
+      "mid_list": null,
+      "reference_num": 68,
+      "query_category": "",
+      "status_stage": 4,
+      "sorted_material_list": null,
+      "basemodel": "实验组2",
+      "msg_json": "{}",
+      "short_url": "http://t.cn/AXwGesoU",
+      "card_multimodal": {
+        "type": "mediablock",
+        "data": [
+          {
+            "cur_mid": "5227519701161691",
+            "scheme": "sinaweibo://multimedia?mix_mid=5227519701161691&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=0&multi_count=0",
+            "user_name": "贾星星还是那颗星星",
+            "img": "http://wx3.sinaimg.cn/middle/0081sudsly1i6ulce76ipj32c0340e81.jpg",
+            "user_avatar": "https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/0081sudsly8gkebemfwftj30u00u0myg.jpg?KID=imgbed,tva&Expires=1761925520&ssig=BxXsiHitQ%2F",
+            "type": "p",
+            "video_url": "",
+            "hit_score_new": 76.074219,
+            "doc_score": 2889,
+            "img_pid": "0081sudsly1i6ulce76ipj32c0340e81",
+            "hit_score_final": 75.644531,
+            "click_rate": 0.096153846153846,
+            "vtype": 0,
+            "h": 4032,
+            "w": 3024
+          },
+          {
+            "cur_mid": "5226653569516787",
+            "scheme": "sinaweibo://video/vvs?mid=5226653569516787&multi_paragraph=0&multi_count=1",
+            "user_name": "浙江经视",
+            "img": "http://wx3.sinaimg.cn/middle/532f80ebly1i6rtyf3nw0j20zk0k0acl.jpg",
+            "user_avatar": "https://tvax4.sinaimg.cn/crop.0.0.600.600.50/532f80ebly8hcoorptl3xj20go0gojs1.jpg?KID=imgbed,tva&Expires=1761925520&ssig=Ge7MZk8%2Bob",
+            "type": "v",
+            "video_url": "https://video.weibo.com/show?fid=1034:5226653261955091",
+            "hit_score_new": 99.023438,
+            "doc_score": 3783,
+            "img_pid": "532f80ebly1i6rtyf3nw0j20zk0k0acl",
+            "hit_score_final": 85.654068,
+            "click_rate": 0.012840118879303,
+            "vtype": 3,
+            "h": 720,
+            "w": 1280
+          },
+          {
+            "cur_mid": "5227468799607199",
+            "scheme": "sinaweibo://video/vvs?mid=5227468799607199&multi_paragraph=0&multi_count=2",
+            "user_name": "溜了个猪",
+            "img": "http://wx3.sinaimg.cn/middle/7e27af89gy1i6uflvd863j20u01417iy.jpg",
+            "user_avatar": "https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/7e27af89ly8i3hcrce04uj20u00u176w.jpg?KID=imgbed,tva&Expires=1761925520&ssig=cZOd6M3YrL",
+            "type": "v",
+            "video_url": "https://video.weibo.com/show?fid=1034:5227468551028771",
+            "hit_score_new": 99.023438,
+            "doc_score": 5229,
+            "img_pid": "7e27af89gy1i6uflvd863j20u01417iy",
+            "hit_score_final": 88.214066,
+            "click_rate": 0,
+            "vtype": 0,
+            "h": 1441,
+            "w": 1080
+          },
+          {
+            "cur_mid": "5227519701161691",
+            "scheme": "sinaweibo://multimedia?mix_mid=5227519701161691&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=0&multi_count=0",
+            "user_name": "贾星星还是那颗星星",
+            "img": "http://wx3.sinaimg.cn/middle/0081sudsly1i6ulce76ipj32c0340e81.jpg",
+            "user_avatar": "https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/0081sudsly8gkebemfwftj30u00u0myg.jpg?KID=imgbed,tva&Expires=1761925520&ssig=BxXsiHitQ%2F",
+            "type": "p",
+            "video_url": "",
+            "hit_score_new": 76.074219,
+            "doc_score": 2889,
+            "img_pid": "0081sudsly1i6ulce76ipj32c0340e81",
+            "hit_score_final": 75.644531,
+            "click_rate": 0.096153846153846,
+            "vtype": 0,
+            "h": 4032,
+            "w": 3024
+          }
+        ]
+      },
+      "share_card_multimodal": {
+        "cur_mid": "5227519701161691",
+        "scheme": "sinaweibo://multimedia?mix_mid=5227519701161691&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=0&multi_count=0",
+        "user_name": "贾星星还是那颗星星",
+        "img": "http://wx3.sinaimg.cn/middle/0081sudsly1i6ulce76ipj32c0340e81.jpg",
+        "user_avatar": "https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/0081sudsly8gkebemfwftj30u00u0myg.jpg?KID=imgbed,tva&Expires=1761925520&ssig=BxXsiHitQ%2F",
+        "type": "p",
+        "video_url": "",
+        "hit_score_new": 76.074219,
+        "doc_score": 2889,
+        "img_pid": "0081sudsly1i6ulce76ipj32c0340e81",
+        "hit_score_final": 75.644531,
+        "click_rate": 0.096153846153846,
+        "vtype": 0,
+        "h": 4032,
+        "w": 3024
+      },
+      "unify_md5": "e4f20cdf8e25a89eab4a74f546bc2145",
+      "q_attr": {
+        "mid": "",
+        "comment_from_type": "",
+        "from_request_id": "",
+        "from_uid": "",
+        "reply_cid": ""
+      },
+      "chat_status_stage": 1,
+      "version": "2025-10-31 20:45:19.013999-2331",
+      "share_text": "#奶皮子冰糖葫芦#的相关内容，来智搜看看",
+      "comment_info": {}
+    }
+  },
+  "links": [
+    "sinaweibo://detail?mblogid=5227808147115028",
+    "sinaweibo://detail?mblogid=5226744483416875",
+    "sinaweibo://detail?mblogid=5226663893796553",
+    "sinaweibo://detail?mblogid=5227022189333117",
+    "sinaweibo://detail?mblogid=5226818317847714",
+    "sinaweibo://detail?mblogid=5227342291272126",
+    "sinaweibo://detail?mblogid=5227468799607199",
+    "sinaweibo://detail?mblogid=5227550819223824",
+    "sinaweibo://detail?mblogid=5227834494687925",
+    "sinaweibo://detail?mblogid=5226879780129722",
+    "sinaweibo://detail?mblogid=5227607479813444",
+    "sinaweibo://detail?mblogid=5227809134089182",
+    "sinaweibo://detail?mblogid=5227050535224963",
+    "sinaweibo://detail?mblogid=5226058426615611",
+    "sinaweibo://detail?mblogid=5226829686243577",
+    "sinaweibo://detail?mblogid=5224543019075297",
+    "sinaweibo://detail?mblogid=5227486821485774",
+    "sinaweibo://detail?mblogid=5226781458044503",
+    "sinaweibo://detail?mblogid=5226843076299986",
+    "sinaweibo://detail?mblogid=5225546715758935",
+    "sinaweibo://detail?mblogid=5226653569516787",
+    "sinaweibo://detail?mblogid=5224564043022691",
+    "sinaweibo://detail?mblogid=5224548800659599",
+    "sinaweibo://detail?mblogid=5227904406395530",
+    "sinaweibo://detail?mblogid=5227537485793092",
+    "sinaweibo://detail?mblogid=5227492315240506",
+    "https://m.toutiao.com/article/7566050810719912494/",
+    "https://cn.bing.com/search?q=%E8%B0%81%E7%A0%94%E7%A9%B6%E5%87%BA%E6%9D%A5%E7%9A%84%E5%A5%B6%E7%9A%AE%E5%AD%90%E7%B3%96%E8%91%AB%E8%8A%A6&rdr=1&rdrig=L44180LOYN47W3261W63G2HE7633R13G&first=1",
+    "broadsocial_res://",
+    "historyweibo://5226663893796553",
+    "historyweibo://5224928521749530",
+    "historyweibo://5223130122684004",
+    "sinaweibo://detail?mblogid=5227541891913055",
+    "sinaweibo://detail?mblogid=5227895971644670",
+    "sinaweibo://detail?mblogid=5227840794529489",
+    "sinaweibo://detail?mblogid=5226816258179999",
+    "sinaweibo://detail?mblogid=5226806018839132",
+    "sinaweibo://detail?mblogid=5225021376039885",
+    "sinaweibo://detail?mblogid=5227167010785431",
+    "sinaweibo://detail?mblogid=5226863406351918",
+    "sinaweibo://detail?mblogid=5227072726501443",
+    "sinaweibo://detail?mblogid=5227820931612959",
+    "sinaweibo://detail?mblogid=5227888585478405",
+    "sinaweibo://detail?mblogid=5227386783403625",
+    "sinaweibo://detail?mblogid=5227443217502020",
+    "sinaweibo://detail?mblogid=5227013940183824",
+    "sinaweibo://detail?mblogid=5227133930835222",
+    "sinaweibo://detail?mblogid=5226842119218092",
+    "sinaweibo://detail?mblogid=5227048437810032",
+    "sinaweibo://detail?mblogid=5226907038646496",
+    "sinaweibo://detail?mblogid=5227542204127174",
+    "sinaweibo://detail?mblogid=5227202053678602",
+    "sinaweibo://detail?mblogid=5227435244131687",
+    "sinaweibo://detail?mblogid=5226829281757100",
+    "sinaweibo://detail?mblogid=5227911524390443",
+    "sinaweibo://detail?mblogid=5227904255922734",
+    "sinaweibo://detail?mblogid=5227905241061945",
+    "sinaweibo://detail?mblogid=5227891841043970",
+    "sinaweibo://detail?mblogid=5227854495221862",
+    "sinaweibo://detail?mblogid=5226715703936054",
+    "sinaweibo://detail?mblogid=5226799346751282",
+    "sinaweibo://detail?mblogid=5227474109858846",
+    "sinaweibo://detail?mblogid=5227519701161691",
+    "sinaweibo://detail?mblogid=5227886388446935",
+    "sinaweibo://detail?mblogid=5226753464730556",
+    "sinaweibo://detail?mblogid=5227860851953123",
+    "sinaweibo://detail?mblogid=5227078010276211",
+    "sinaweibo://detail?mblogid=5227544280039740",
+    "sinaweibo://detail?mblogid=5227837776986487",
+    "sinaweibo://detail?mblogid=5226481024503277",
+    "sinaweibo://detail?mblogid=5226899087032554",
+    "sinaweibo://detail?mblogid=5226848195710311",
+    "sinaweibo://detail?mblogid=5226806538146483",
+    "sinaweibo://detail?mblogid=5226857001128609",
+    "https://k.sina.cn/article_2147113173_m7ffa58d503301awhi.html?wm=3049_0032",
+    "https://www.163.com/dy/article/KD1F02V10556F2A6.html",
+    "https://k.sina.cn/article_2011075080_m77de920803301l67w.html?from=food&wm=3049_0032",
+    "https://baijiahao.baidu.com/s?id=1847193094123964350",
+    "https://baijiahao.baidu.com/s?id=1847215940844565005"
+  ],
+  "media": [
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/0081sudsly1i6ulce76ipj32c0340e81.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/0081sudsly1i6ulce76ipj32c0340e81.jpg",
+      "alt": "贾星星还是那颗星星",
+      "width": 4032,
+      "height": 3024,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/0081sudsly1i6ulce76ipj32c0340e81.jpg"
+      ],
+      "user": "贾星星还是那颗星星"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/532f80ebly1i6rtyf3nw0j20zk0k0acl.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/532f80ebly1i6rtyf3nw0j20zk0k0acl.jpg",
+      "alt": "浙江经视",
+      "width": 720,
+      "height": 1280,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/532f80ebly1i6rtyf3nw0j20zk0k0acl.jpg"
+      ],
+      "user": "浙江经视"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/7e27af89gy1i6uflvd863j20u01417iy.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/7e27af89gy1i6uflvd863j20u01417iy.jpg",
+      "alt": "溜了个猪",
+      "width": 1441,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/7e27af89gy1i6uflvd863j20u01417iy.jpg"
+      ],
+      "user": "溜了个猪"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/aa107b0agy1i6ubmvhodrj20p10y5tcc.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/aa107b0agy1i6ubmvhodrj20p10y5tcc.jpg",
+      "alt": "静顔浅忆",
+      "width": 1229,
+      "height": 901,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/aa107b0agy1i6ubmvhodrj20p10y5tcc.jpg"
+      ],
+      "user": "静顔浅忆"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/001FiPczly1i6ug5hxbwzj60u013omzw02.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/001FiPczly1i6ug5hxbwzj60u013omzw02.jpg",
+      "alt": "阚清子",
+      "width": 1428,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/001FiPczly1i6ug5hxbwzj60u013omzw02.jpg"
+      ],
+      "user": "阚清子"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/ae3f50f0ly1i6si2s1vd2j20k00zkac3.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/ae3f50f0ly1i6si2s1vd2j20k00zkac3.jpg",
+      "alt": "合肥看点",
+      "width": 1280,
+      "height": 720,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/ae3f50f0ly1i6si2s1vd2j20k00zkac3.jpg"
+      ],
+      "user": "合肥看点"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/9b72d2fdly1i6uhl3ksl1j20u01hc0w5.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/9b72d2fdly1i6uhl3ksl1j20u01hc0w5.jpg",
+      "alt": "菜菜柠檬萌",
+      "width": 1920,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx4.sinaimg.cn/large/9b72d2fdly1i6uhl3ksl1j20u01hc0w5.jpg"
+      ],
+      "user": "菜菜柠檬萌"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/002c6guQly1i6rv5vvobzj60k00zkgni02.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/002c6guQly1i6rv5vvobzj60k00zkgni02.jpg",
+      "alt": "齐鲁晚报",
+      "width": 1280,
+      "height": 720,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/002c6guQly1i6rv5vvobzj60k00zkgni02.jpg"
+      ],
+      "user": "齐鲁晚报"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/006yllNVly1i6s4f4avwrj30k00zkq4u.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/006yllNVly1i6s4f4avwrj30k00zkq4u.jpg",
+      "alt": "梨视频",
+      "width": 1280,
+      "height": 720,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/006yllNVly1i6s4f4avwrj30k00zkq4u.jpg"
+      ],
+      "user": "梨视频"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/6ac579bfly1i6t0as8iokj20u01404ik.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/6ac579bfly1i6t0as8iokj20u01404ik.jpg",
+      "alt": "向阳视频",
+      "width": 1440,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/6ac579bfly1i6t0as8iokj20u01404ik.jpg"
+      ],
+      "user": "向阳视频"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/adbe2e58ly1i6vmc1nt86j20zu1kg491.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/adbe2e58ly1i6vmc1nt86j20zu1kg491.jpg",
+      "alt": "北海辣妹",
+      "width": 2032,
+      "height": 1290,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/adbe2e58ly1i6vmc1nt86j20zu1kg491.jpg"
+      ],
+      "user": "北海辣妹"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/006nllfsly1i6sfps2qqxj30u01hcaci.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/006nllfsly1i6sfps2qqxj30u01hcaci.jpg",
+      "alt": "稚兔梦境",
+      "width": 1920,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/006nllfsly1i6sfps2qqxj30u01hcaci.jpg"
+      ],
+      "user": "稚兔梦境"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/007Q94rlgy1i6sckdufxjj30xc1jwe81.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/007Q94rlgy1i6sckdufxjj30xc1jwe81.jpg",
+      "alt": "谁有恋萌癖",
+      "width": 2012,
+      "height": 1200,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/007Q94rlgy1i6sckdufxjj30xc1jwe81.jpg"
+      ],
+      "user": "谁有恋萌癖"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/005PvxAYly1i6u10y1ymkj30u01hctbk.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/005PvxAYly1i6u10y1ymkj30u01hctbk.jpg",
+      "alt": "小紫菜稳稳瘦",
+      "width": 1920,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/005PvxAYly1i6u10y1ymkj30u01hctbk.jpg"
+      ],
+      "user": "小紫菜稳稳瘦"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/b0e3b1bfgy1i6ui9mt93dj20k00zkmy2.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/b0e3b1bfgy1i6ui9mt93dj20k00zkmy2.jpg",
+      "alt": "冰美式不加加加加糖",
+      "width": 1280,
+      "height": 720,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/b0e3b1bfgy1i6ui9mt93dj20k00zkmy2.jpg"
+      ],
+      "user": "冰美式不加加加加糖"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/008gh3ZSgy1i6sbjk40w8j30k00qpai8.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/008gh3ZSgy1i6sbjk40w8j30k00qpai8.jpg",
+      "alt": "October乱讲话",
+      "width": 961,
+      "height": 720,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx4.sinaimg.cn/large/008gh3ZSgy1i6sbjk40w8j30k00qpai8.jpg"
+      ],
+      "user": "October乱讲话"
+    }
+  ],
+  "html_path": "data/aicard/hourly/2025-10-31/19/topic-e4f20cdf.html"
+}

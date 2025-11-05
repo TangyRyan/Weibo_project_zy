@@ -1,0 +1,351 @@
+{
+  "meta": {
+    "query": "#曾辉韩雨彤公主抱#",
+    "status_code": 200,
+    "fetched_at": "2025-11-04T00:43:23+08:00",
+    "response": {
+      "status": 2,
+      "query_category": "",
+      "status_stage": 4,
+      "link_list": [
+        "sinaweibo://detail?mblogid=5228963745759660",
+        "sinaweibo://detail?mblogid=5228951376759360",
+        "sinaweibo://detail?mblogid=5228967340278471",
+        "sinaweibo://detail?mblogid=5215215287273684",
+        "sinaweibo://detail?mblogid=5228910763836036",
+        "broadsocial_res://",
+        "historyweibo://5228967818696187",
+        "historyweibo://5046932759645567",
+        "historyweibo://5022455234299939",
+        "sinaweibo://detail?mblogid=5227794503567304",
+        "sinaweibo://detail?mblogid=5228997130585735",
+        "sinaweibo://detail?mblogid=5228966476518886",
+        "sinaweibo://detail?mblogid=5228977553937971",
+        "sinaweibo://detail?mblogid=5228893403614347",
+        "sinaweibo://detail?mblogid=5228969789490968",
+        "sinaweibo://detail?mblogid=5228963939224107",
+        "sinaweibo://detail?mblogid=5228918446757217",
+        "sinaweibo://detail?mblogid=5228964600874324",
+        "sinaweibo://detail?mblogid=5228981322515156",
+        "sinaweibo://detail?mblogid=5228972160059537",
+        "sinaweibo://detail?mblogid=5228964916234292",
+        "sinaweibo://detail?mblogid=5228967818696187",
+        "sinaweibo://detail?mblogid=5228968460422349",
+        "sinaweibo://detail?mblogid=5229056510397085",
+        "sinaweibo://detail?mblogid=5228981699741711",
+        "sinaweibo://detail?mblogid=5228985879628748",
+        "sinaweibo://detail?mblogid=5228967969164855",
+        "sinaweibo://detail?mblogid=5229040976007850",
+        "sinaweibo://detail?mblogid=5228990809768629",
+        "sinaweibo://detail?mblogid=5228993756271918",
+        "sinaweibo://detail?mblogid=5229041784196299",
+        "sinaweibo://detail?mblogid=5229056711987260",
+        "sinaweibo://detail?mblogid=5228994989659874",
+        "sinaweibo://detail?mblogid=5229040334015741"
+      ],
+      "comment_info": {},
+      "top_quote_list": {},
+      "model": "deepseek",
+      "card_multimodal": {
+        "data": [
+          {
+            "scheme": "sinaweibo://multimedia?mix_mid=5228981699741711&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=0",
+            "h": 1499,
+            "user_avatar": "https://tvax1.sinaimg.cn/crop.0.0.640.640.50/005FofHGly8hyj651aga7j30hs0hs3zj.jpg?KID=imgbed,tva&Expires=1762198771&ssig=JBIGYKH92Q",
+            "type": "p",
+            "video_url": "",
+            "hit_score_new": 93.945312,
+            "w": 960,
+            "vtype": 0,
+            "img": "http://wx3.sinaimg.cn/middle/005FofHGly1i6z9d57w7vj30qo15nadg.jpg",
+            "click_rate": 0.14851485148515,
+            "click_num": 0,
+            "doc_score": 3530,
+            "user_name": "娱音少年",
+            "hit_score_final": 86.367188,
+            "cur_mid": "5228981699741711",
+            "img_pid": "005FofHGly1i6z9d57w7vj30qo15nadg"
+          },
+          {
+            "scheme": "sinaweibo://multimedia?mix_mid=5228985879628748&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=1",
+            "h": 1561,
+            "user_avatar": "https://tvax1.sinaimg.cn/crop.0.0.996.996.50/006KgP1Sly8ghkdub76vhj30ro0roacx.jpg?KID=imgbed,tva&Expires=1762198771&ssig=wzXmT72wGp",
+            "type": "p",
+            "video_url": "",
+            "hit_score_new": 92.578125,
+            "w": 1015,
+            "vtype": 0,
+            "img": "http://wx2.sinaimg.cn/middle/006KgP1Sgy1i6z9u7flpmj30s717dadg.jpg",
+            "click_rate": 0.1231884057971,
+            "click_num": 0,
+            "doc_score": 3290,
+            "user_name": "娱念昕",
+            "hit_score_final": 87.546875,
+            "cur_mid": "5228985879628748",
+            "img_pid": "006KgP1Sgy1i6z9u7flpmj30s717dadg"
+          },
+          {
+            "scheme": "sinaweibo://video/vvs?mid=5228910763836036&multi_paragraph=1&multi_count=2",
+            "h": 1280,
+            "user_avatar": "https://tvax1.sinaimg.cn/crop.0.0.600.600.50/7e7c5e25ly8hgbptejhohj20go0godgr.jpg?KID=imgbed,tva&Expires=1762198771&ssig=lo0mTwFX5F",
+            "type": "v",
+            "video_url": "https://video.weibo.com/show?fid=1034:5228910535704598",
+            "hit_score_new": 72.412109,
+            "w": 720,
+            "vtype": 7,
+            "img": "http://wx1.sinaimg.cn/middle/7e7c5e25ly1i6z17nfpn6j20k00zk405.jpg",
+            "click_rate": 0.085460599334073,
+            "click_num": 0,
+            "doc_score": 4645,
+            "user_name": "娱乐第一浪",
+            "hit_score_final": 69.047264,
+            "cur_mid": "5228910763836036",
+            "img_pid": "7e7c5e25ly1i6z17nfpn6j20k00zk405"
+          },
+          {
+            "scheme": "sinaweibo://multimedia?mix_mid=5228981699741711&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=0",
+            "h": 1499,
+            "user_avatar": "https://tvax1.sinaimg.cn/crop.0.0.640.640.50/005FofHGly8hyj651aga7j30hs0hs3zj.jpg?KID=imgbed,tva&Expires=1762198771&ssig=JBIGYKH92Q",
+            "type": "p",
+            "video_url": "",
+            "hit_score_new": 93.945312,
+            "w": 960,
+            "vtype": 0,
+            "img": "http://wx3.sinaimg.cn/middle/005FofHGly1i6z9d57w7vj30qo15nadg.jpg",
+            "click_rate": 0.14851485148515,
+            "click_num": 0,
+            "doc_score": 3530,
+            "user_name": "娱音少年",
+            "hit_score_final": 86.367188,
+            "cur_mid": "5228981699741711",
+            "img_pid": "005FofHGly1i6z9d57w7vj30qo15nadg"
+          }
+        ],
+        "type": "mediablock"
+      },
+      "share_card_multimodal": {
+        "scheme": "sinaweibo://multimedia?mix_mid=5228981699741711&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=0",
+        "h": 1499,
+        "user_avatar": "https://tvax1.sinaimg.cn/crop.0.0.640.640.50/005FofHGly8hyj651aga7j30hs0hs3zj.jpg?KID=imgbed,tva&Expires=1762198771&ssig=JBIGYKH92Q",
+        "type": "p",
+        "video_url": "",
+        "hit_score_new": 93.945312,
+        "w": 960,
+        "vtype": 0,
+        "img": "http://wx3.sinaimg.cn/middle/005FofHGly1i6z9d57w7vj30qo15nadg.jpg",
+        "click_rate": 0.14851485148515,
+        "click_num": 0,
+        "doc_score": 3530,
+        "user_name": "娱音少年",
+        "hit_score_final": 86.367188,
+        "cur_mid": "5228981699741711",
+        "img_pid": "005FofHGly1i6z9d57w7vj30qo15nadg"
+      },
+      "basemodel": "实验组3",
+      "analysis_time": 1762188144,
+      "chat_status_stage": 1,
+      "news_analyze": {},
+      "reliable_tips": "{\"gold_orange_v_mids\": [\"5228997130585735\", \"5228964600874324\", \"5229056711987260\", \"5228981322515156\", \"5228981699741711\", \"5228985879628748\", \"5228993756271918\", \"5228994989659874\", \"5215215287273684\", \"5228972160059537\", \"5228963745759660\", \"5228990809768629\", \"5229041784196299\", \"5228967818696187\", \"5228964916234292\", \"5228918446757217\", \"5228967969164855\", \"5228967340278471\", \"5228969789490968\", \"5228968460422349\"], \"gold_orange_v_ratio\": \"67%\", \"media_mids\": [], \"media_ratio\": \"0%\", \"verified_mids\": [\"5228966476518886\", \"5228910763836036\", \"5228963939224107\", \"5228893403614347\", \"5229040976007850\", \"5229040334015741\", \"5229056510397085\", \"5227794503567304\", \"5228977553937971\"], \"verified_ratio\": \"30%\", \"normal_mids\": [\"5228951376759360\"], \"normal_ratio\": \"3%\", \"ref_mid_rank\": {\"5228997130585735\": {\"rank\": 11}, \"5228966476518886\": {\"rank\": 12}, \"5228964600874324\": {\"rank\": 18}, \"5229056711987260\": {\"rank\": 32}, \"5228981322515156\": {\"rank\": 19}, \"5228981699741711\": {\"rank\": 25}, \"5228985879628748\": {\"rank\": 26}, \"5228993756271918\": {\"rank\": 30}, \"5228994989659874\": {\"rank\": 33}, \"5228910763836036\": {\"rank\": 5}, \"5228963939224107\": {\"rank\": 16}, \"5228893403614347\": {\"rank\": 14}, \"5215215287273684\": {\"rank\": 4}, \"5228972160059537\": {\"rank\": 20}, \"5228963745759660\": {\"rank\": 1}, \"5228990809768629\": {\"rank\": 29}, \"5229040976007850\": {\"rank\": 28}, \"5229041784196299\": {\"rank\": 31}, \"5228967818696187\": {\"rank\": 22}, \"5229040334015741\": {\"rank\": 34}, \"5228951376759360\": {\"rank\": 2}, \"5228964916234292\": {\"rank\": 21}, \"5229056510397085\": {\"rank\": 24}, \"5228918446757217\": {\"rank\": 17}, \"5228967969164855\": {\"rank\": 27}, \"5228967340278471\": {\"rank\": 3}, \"5227794503567304\": {\"rank\": 10}, \"5228977553937971\": {\"rank\": 13}, \"5228969789490968\": {\"rank\": 15}, \"5228968460422349\": {\"rank\": 23}}}",
+      "cot": 1,
+      "profile_image_url": "",
+      "user_info": {},
+      "abtest_info": {
+        "chat_entrance": 1
+      },
+      "zs_risk_control": {
+        "think_text_close": 0,
+        "land_button_close": 0
+      },
+      "msg": "<think><br>嗯，用户想了解\"曾辉韩雨彤公主抱\"的具体情况。从搜索结果来看，这应该是2025年11月3日在微博视界大会发生的事件，引起了不小反响。<br><br>这些搜索结果很有意思。从这些内容可以看出，曾辉和韩雨彤在微博视界大会内场环节表演了单手公主抱的动作。这个动作是他们主演的短剧《好一个乖乖女》（也叫《只为占有你》）里的经典场景。曾辉单手轻松托抱起穿礼服的韩雨彤，动作很利落稳定，韩雨彤则低头浅笑，轻轻扶着曾辉的肩膀。<br><br>这个互动引发了现场很大反响。杨幂的反应特别有趣，镜头切到她时，她捂着脸害羞，眼睛发亮，被网友称为\"藏不住的姨母笑\"。导播这个镜头切换被赞为\"神级切镜\"。还有人说童瑶和马思纯笑到后仰，王鹤棣、白鹿偷偷模仿这个动作，不过也有资料显示童瑶和马思纯的大笑可能是不实信息。<br><br>网友们的讨论非常热烈。很多人提到曾辉的动作特别绅士，一手护着韩雨彤的背，一手托住腿弯，还轻轻调整怕她下滑。韩雨彤笑出小梨涡的细节也被多次提及。两人被粉丝称为\"落日雨辉\"CP，这个话题直接冲上热搜。还有账号提到他们11月8日有古装轻喜剧《千金谋》要上线。<br><br>用户可能是CP粉，想了解这个互动细节；或者是娱乐新闻爱好者，想追热点。从搜索结果看，这件事确实很有话题性，甜蜜互动、明星反应、幕后细节都很有看点。最核心的是他们在活动中复刻剧集名场面的行为，以及引发的连锁反应。<br><br>这个回答需要突出几点：事件的核心事实（时间、地点、动作）、背后的故事（剧集关联）、现场反应（杨幂等明星）、网友反馈和后续影响（新剧宣传）。可以综合多个搜索结果的信息来呈现一个完整的画面。<br><br></think><br>以下是关于“曾辉韩雨彤公主抱”事件的完整梳理与分析，基于2025年11月3日“微博视界大会”现场的公开信息整理：<br>### 🌟 **事件核心经过**<br>1. **名场面复刻**  <br>   在2025年11月3日“微博视界大会”内场环节，短剧演员曾辉与韩雨彤为还原其主演作品《好一个乖乖女》（又名《只为占有你》）的经典桥段，现场表演“单手公主抱”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 4, \"data\": {\"num\": [11, 12], \"version\": 2, \"quote_list\": [{\"name\": \"娱乐鲜报\", \"scheme\": \"sinaweibo://detail?mblogid=5228997130585735\", \"index\": 11, \"label\": \"大v\"}, {\"name\": \"娱理\", \"scheme\": \"sinaweibo://detail?mblogid=5228966476518886\", \"index\": 12, \"label\": \"\"}], \"name\": \"娱乐鲜报\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.663.663.50/6ab9a2f6ly8h8v7r1olrdj20if0if75l.jpg?KID=imgbed,tva&Expires=1762198771&ssig=1qN7WRh7it\", \"scheme\": \"sinaweibo://detail?mblogid=5228997130585735\", \"vType\": 0}}```  <br>   - **互动细节**：  <br>     - 曾辉单手轻松托抱起身穿礼服的韩雨彤，动作利落且稳定。```wbCustomBlock{\"type\": \"quoted\", \"index\": 6, \"data\": {\"num\": [18, 32], \"version\": 2, \"quote_list\": [{\"name\": \"新娱\", \"scheme\": \"sinaweibo://detail?mblogid=5228964600874324\", \"index\": 18, \"label\": \"大v\"}, {\"name\": \"圆子酱酱饱\", \"scheme\": \"sinaweibo://detail?mblogid=5229056711987260\", \"index\": 32, \"label\": \"\"}], \"name\": \"新娱\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.600.600.50/a5dc5be4ly8hx6d7d1g26j20go0gowf5.jpg?KID=imgbed,tva&Expires=1762198771&ssig=h5v4YQ1CCb\", \"scheme\": \"sinaweibo://detail?mblogid=5228964600874324\", \"vType\": 0}}```  <br>     - 韩雨彤低头浅笑，轻扶曾辉肩膀，两人甜蜜对视引发全场尖叫。```wbCustomBlock{\"type\": \"quoted\", \"index\": 7, \"data\": {\"num\": [19, 25], \"version\": 2, \"quote_list\": [{\"name\": \"说倾城\", \"scheme\": \"sinaweibo://detail?mblogid=5228981322515156\", \"index\": 19, \"label\": \"大v\"}, {\"name\": \"娱音少年\", \"scheme\": \"sinaweibo://detail?mblogid=5228981699741711\", \"index\": 25, \"label\": \"\"}], \"name\": \"说倾城\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.511.511.50/007aAoUaly8huf9dd1t08j30e70e7t92.jpg?KID=imgbed,tva&Expires=1762198771&ssig=Z3TP3orvDE\", \"scheme\": \"sinaweibo://detail?mblogid=5228981322515156\", \"vType\": 0}}```  <br>     - 曾辉全程护住韩雨彤背部与腿弯，被赞“绅士满分”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 8, \"data\": {\"num\": [26, 30, 33], \"version\": 2, \"quote_list\": [{\"name\": \"娱念昕\", \"scheme\": \"sinaweibo://detail?mblogid=5228985879628748\", \"index\": 26, \"label\": \"大v\"}, {\"name\": \"爱娱小妹\", \"scheme\": \"sinaweibo://detail?mblogid=5228993756271918\", \"index\": 30, \"label\": \"\"}, {\"name\": \"暖剧系\", \"scheme\": \"sinaweibo://detail?mblogid=5228994989659874\", \"index\": 33, \"label\": \"\"}], \"name\": \"娱念昕\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.996.996.50/006KgP1Sly8ghkdub76vhj30ro0roacx.jpg?KID=imgbed,tva&Expires=1762198771&ssig=wzXmT72wGp\", \"scheme\": \"sinaweibo://detail?mblogid=5228985879628748\", \"vType\": 0}}```<br><br>2. **延伸互动与细节**  <br>   - **红毯环节**：曾辉主动为韩雨彤整理裙摆，被镜头捕捉到自然搂腰动作，话题#曾辉帮韩雨彤整理裙摆#同步登上热搜。```wbCustomBlock{\"type\": \"quoted\", \"index\": 10, \"data\": {\"num\": [5, 16], \"version\": 2, \"quote_list\": [{\"name\": \"娱乐第一浪\", \"scheme\": \"sinaweibo://detail?mblogid=5228910763836036\", \"index\": 5, \"label\": \"\"}, {\"name\": \"娱乐小浪花er\", \"scheme\": \"sinaweibo://detail?mblogid=5228963939224107\", \"index\": 16, \"label\": \"\"}]}}```  <br>   - **创意互动**：两人现场参与“咕卡”游戏（互相装饰对方照片），韩雨彤要求曾辉“弄好看点”，趣味互动萌翻观众。```wbCustomBlock{\"type\": \"quoted\", \"index\": 11, \"data\": {\"num\": [14], \"version\": 2, \"quote_list\": [{\"name\": \"新浪电视\", \"scheme\": \"sinaweibo://detail?mblogid=5228893403614347\", \"index\": 14, \"label\": \"\"}]}}```  <br>   - **CP标签**：两人因多次合作被粉丝称为“落日雨辉”，本次公主抱进一步强化CP热度。```wbCustomBlock{\"type\": \"quoted\", \"index\": 12, \"data\": {\"num\": [4, 20], \"version\": 2, \"quote_list\": [{\"name\": \"静静的崽崽们\", \"scheme\": \"sinaweibo://detail?mblogid=5215215287273684\", \"index\": 4, \"label\": \"\"}, {\"name\": \"娱乐课代表\", \"scheme\": \"sinaweibo://detail?mblogid=5228972160059537\", \"index\": 20, \"label\": \"\"}]}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5228981699741711&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.640.640.50/005FofHGly8hyj651aga7j30hs0hs3zj.jpg?KID=imgbed,tva&Expires=1762198771&ssig=JBIGYKH92Q) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">娱音少年</span><img src=\"http://wx3.sinaimg.cn/middle/005FofHGly1i6z9d57w7vj30qo15nadg.jpg\" data-width=1499 data-height=960></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5228985879628748&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=1\"><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.996.996.50/006KgP1Sly8ghkdub76vhj30ro0roacx.jpg?KID=imgbed,tva&Expires=1762198771&ssig=wzXmT72wGp) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">娱念昕</span><img src=\"http://wx2.sinaimg.cn/middle/006KgP1Sgy1i6z9u7flpmj30s717dadg.jpg\" data-width=1561 data-height=1015></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5228910763836036&multi_paragraph=1&multi_count=2\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.600.600.50/7e7c5e25ly8hgbptejhohj20go0godgr.jpg?KID=imgbed,tva&Expires=1762198771&ssig=lo0mTwFX5F) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">娱乐第一浪</span><img src=\"http://wx1.sinaimg.cn/middle/7e7c5e25ly1i6z17nfpn6j20k00zk405.jpg\" data-width=1280 data-height=720></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5215215287273684&multi_paragraph=1&multi_count=3\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/006PtEbsly8i3xlp9kp1qj30u00u00vm.jpg?KID=imgbed,tva&Expires=1762198771&ssig=XiYic1xOKC) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">静静的崽崽们</span><img src=\"http://wx2.sinaimg.cn/middle/006PtEbsgy1i5rcac5dn1j30mh0u0n0d.jpg\" data-width=1080 data-height=809></div></media-block><br>### 📌 **现场反响与明星反应**<br>1. **引爆全网热议**  <br>   - 话题#曾辉韩雨彤公主抱#、#落日雨辉单手抱#等占据热搜前列，单条视频播放量超24.8万。```wbCustomBlock{\"type\": \"quoted\", \"index\": 16, \"data\": {\"num\": [1, 29], \"version\": 2, \"quote_list\": [{\"name\": \"传媒小娱\", \"scheme\": \"sinaweibo://detail?mblogid=5228963745759660\", \"index\": 1, \"label\": \"大v\"}, {\"name\": \"时尚音浪花小娱\", \"scheme\": \"sinaweibo://detail?mblogid=5228990809768629\", \"index\": 29, \"label\": \"\"}], \"name\": \"传媒小娱\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.830.830.50/7e2d2eeely8fr37yjadtaj20n20n2q3q.jpg?KID=imgbed,tva&Expires=1762198771&ssig=ZlR4v9ZLVM\", \"scheme\": \"sinaweibo://detail?mblogid=5228963745759660\", \"vType\": 0}}```  <br>   - 网友形容互动“甜到心坎里”“糖分过载”，反复回看截图。```wbCustomBlock{\"type\": \"quoted\", \"index\": 17, \"data\": {\"num\": [28, 31], \"version\": 2, \"quote_list\": [{\"name\": \"漫酱在冲浪\", \"scheme\": \"sinaweibo://detail?mblogid=5229041784196299\", \"index\": 31, \"label\": \"大v\"}, {\"name\": \"宋建科技\", \"scheme\": \"sinaweibo://detail?mblogid=5229040976007850\", \"index\": 28, \"label\": \"\"}], \"name\": \"漫酱在冲浪\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/007oZ3Kdly8huf8tp5zzqj30u00u0ad7.jpg?KID=imgbed,tva&Expires=1762198771&ssig=%2Bo04Iu2sVc\", \"scheme\": \"sinaweibo://detail?mblogid=5229041784196299\", \"vType\": 0}}```<br><br>2. **明星“嗑糖”名场面**  <br>   - **杨幂**：当曾辉抱起韩雨彤时，导播切至杨幂镜头，捕捉到她捂脸害羞、眼睛发亮的“姨母笑”，话题#杨幂reaction曾辉单手抱韩雨彤#出圈。```wbCustomBlock{\"type\": \"quoted\", \"index\": 19, \"data\": {\"num\": [22], \"version\": 2, \"quote_list\": [{\"name\": \"橘子娱乐\", \"scheme\": \"sinaweibo://detail?mblogid=5228967818696187\", \"index\": 22, \"label\": \"大v\"}], \"name\": \"橘子娱乐\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.811.811.50/005M7XdTly8h8vnv7l2aij30mj0mj3yz.jpg?KID=imgbed,tva&Expires=1762198771&ssig=rzyJ2KyPLO\", \"scheme\": \"sinaweibo://detail?mblogid=5228967818696187\", \"vType\": 0}}```  <br>   - **其他艺人**：童瑶、马思纯被传“笑到后仰”，王鹤棣、白鹿被指偷偷模仿动作。<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5228967818696187&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=2&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.811.811.50/005M7XdTly8h8vnv7l2aij30mj0mj3yz.jpg?KID=imgbed,tva&Expires=1762198771&ssig=rzyJ2KyPLO) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">橘子娱乐</span><img src=\"http://wx4.sinaimg.cn/middle/005M7XdTgy1i6z7th5d44j31o02yo4qp.jpg\" data-width=3840 data-height=2160></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5228990809768629&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=2&multi_count=1\"><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.300.300.50/006BrzXfly8hgfg5nev0hj308c08cq2w.jpg?KID=imgbed,tva&Expires=1762198771&ssig=9FG5q0QyUm) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">时尚音浪花小娱</span><img src=\"http://wx2.sinaimg.cn/middle/006BrzXfgy1i6zaerx4ezj30y02307kj.jpg\" data-width=2700 data-height=1224></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5228963745759660&multi_paragraph=2&multi_count=2\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.830.830.50/7e2d2eeely8fr37yjadtaj20n20n2q3q.jpg?KID=imgbed,tva&Expires=1762198771&ssig=ZlR4v9ZLVM) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">传媒小娱</span><img src=\"http://wx1.sinaimg.cn/middle/7e2d2eeely1i6z79cjjgrj20mh0u0ack.jpg\" data-width=1080 data-height=809></div></media-block><br>### 💎 **背景与延伸意义**<br>1. **关联作品与CP热度**  <br>   - “单手抱”源自两人主演短剧《好一个乖乖女》，此前已是“短剧名场面”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 24, \"data\": {\"num\": [34], \"version\": 2, \"quote_list\": [{\"name\": \"锅包肉酱鱼-7\", \"scheme\": \"sinaweibo://detail?mblogid=5229040334015741\", \"index\": 34, \"label\": \"\"}]}}```  <br>   - 两人凭借该剧获“年度优秀微剧”奖，本次复刻为领奖后特别环节。```wbCustomBlock{\"type\": \"quoted\", \"index\": 25, \"data\": {\"num\": [12, 18], \"version\": 2, \"quote_list\": [{\"name\": \"娱理\", \"scheme\": \"sinaweibo://detail?mblogid=5228966476518886\", \"index\": 12, \"label\": \"\"}, {\"name\": \"新娱\", \"scheme\": \"sinaweibo://detail?mblogid=5228964600874324\", \"index\": 18, \"label\": \"\"}]}}```<br><br>2. **短剧演员的破圈效应**  <br>   - 曾辉、韩雨彤作为竖屏短剧代表演员，通过互动向主流舞台展示短剧影响力。```wbCustomBlock{\"type\": \"quoted\", \"index\": 27, \"data\": {\"num\": [2, 11], \"version\": 2, \"quote_list\": [{\"name\": \"一条炸油条_\", \"scheme\": \"sinaweibo://detail?mblogid=5228951376759360\", \"index\": 2, \"label\": \"\"}, {\"name\": \"娱乐鲜报\", \"scheme\": \"sinaweibo://detail?mblogid=5228997130585735\", \"index\": 11, \"label\": \"\"}]}}```  <br>   - 网友调侃“短剧演员贴脸给内娱一些震撼”，凸显行业新势力崛起。```wbCustomBlock{\"type\": \"quoted\", \"index\": 28, \"data\": {\"num\": [11, 21], \"version\": 2, \"quote_list\": [{\"name\": \"会火\", \"scheme\": \"sinaweibo://detail?mblogid=5228964916234292\", \"index\": 21, \"label\": \"大v\"}, {\"name\": \"娱乐鲜报\", \"scheme\": \"sinaweibo://detail?mblogid=5228997130585735\", \"index\": 11, \"label\": \"\"}], \"name\": \"会火\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/00448XYOly8hr3sojtj9ej60u00u0aau02.jpg?KID=imgbed,tva&Expires=1762198771&ssig=x4uS4pbG4P\", \"scheme\": \"sinaweibo://detail?mblogid=5228964916234292\", \"vType\": 0}}```<br><br>3. **后续动态**  <br>   - 两人主演的古装轻喜剧《千金谋》将于11月8日上线，公主抱事件为新剧预热。```wbCustomBlock{\"type\": \"quoted\", \"index\": 30, \"data\": {\"num\": [24], \"version\": 2, \"quote_list\": [{\"name\": \"初夏呓兔町\", \"scheme\": \"sinaweibo://detail?mblogid=5229056510397085\", \"index\": 24, \"label\": \"\"}]}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5228964916234292&multi_paragraph=3&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/00448XYOly8hr3sojtj9ej60u00u0aau02.jpg?KID=imgbed,tva&Expires=1762198771&ssig=x4uS4pbG4P) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">会火</span><img src=\"http://wx4.sinaimg.cn/middle/00448XYOly1i6z7c66il7j60u01hcgnc02.jpg\" data-width=1920 data-height=1080></div></media-block><br>### ⚠️ **争议澄清**  <br>- 网传“童瑶、马思纯笑到后仰”缺乏现场画面证据，主流报道均未提及两人对该事件有明显反应。<br>### 💬 **网友热评精选**<br>> *“曾辉托腿弯还轻轻调整怕她下滑，韩雨彤笑出小梨涡——这细节控甜度超标了！”* ```wbCustomBlock{\"type\": \"quoted\", \"index\": 36, \"data\": {\"num\": [30], \"version\": 2, \"quote_list\": [{\"name\": \"爱娱小妹\", \"scheme\": \"sinaweibo://detail?mblogid=5228993756271918\", \"index\": 30, \"label\": \"\"}]}}```  <br>> *“导播切杨幂镜头是懂收视率的！互联网嘴替实锤！”* ```wbCustomBlock{\"type\": \"quoted\", \"index\": 37, \"data\": {\"num\": [22], \"version\": 2, \"quote_list\": [{\"name\": \"橘子娱乐\", \"scheme\": \"sinaweibo://detail?mblogid=5228967818696187\", \"index\": 22, \"label\": \"\"}]}}```  <br>> *“短剧CP大方发糖，比偶像剧还敢拍！”* ```wbCustomBlock{\"type\": \"quoted\", \"index\": 38, \"data\": {\"num\": [17, 27], \"version\": 2, \"quote_list\": [{\"name\": \"吃瓜姐妹社\", \"scheme\": \"sinaweibo://detail?mblogid=5228967969164855\", \"index\": 27, \"label\": \"大v\"}, {\"name\": \"是炸娱呀\", \"scheme\": \"sinaweibo://detail?mblogid=5228918446757217\", \"index\": 17, \"label\": \"\"}], \"name\": \"吃瓜姐妹社\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.480.480.50/8ba25d25ly8hz7bgqpza4j20dc0dc0sz.jpg?KID=imgbed,tva&Expires=1762198771&ssig=clsZ79IOfm\", \"scheme\": \"sinaweibo://detail?mblogid=5228967969164855\", \"vType\": 0}}```  <br><br>---  <br>**注**：事件完整视频可搜索“微博视界大会曾辉韩雨彤”观看官方直播回放。<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5228967969164855&multi_paragraph=5&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.480.480.50/8ba25d25ly8hz7bgqpza4j20dc0dc0sz.jpg?KID=imgbed,tva&Expires=1762198771&ssig=clsZ79IOfm) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">吃瓜姐妹社</span><img src=\"http://wx3.sinaimg.cn/middle/8ba25d25gy1i6z7r0d0ihj217u0oodrn.jpg\" data-width=888 data-height=1578></div></media-block><br>",
+      "qs_status_info": "{\"qs_status\":0,\"qs_c_status\":8388608,\"qs_r_status\":0,\"qs_u_status\":0,\"qs_q_status\":0,\"ab_lab\":{}}",
+      "page_id": "232964914f35901c6c8b526c51fc6705017775",
+      "show_ctrl": {
+        "quote": {}
+      },
+      "q_attr": {
+        "comment_from_type": "",
+        "from_request_id": "",
+        "reply_cid": "",
+        "mid": "",
+        "from_uid": ""
+      },
+      "ext_show": {},
+      "qs_status": 0,
+      "ab_suffix": "default",
+      "current_time": 1762188204,
+      "version": "2025-11-04 00:39:31.015000-3829",
+      "query_field": "1",
+      "uid": "",
+      "short_url": "http://t.cn/AXA0UqsE",
+      "wenda": {
+        "forward_gen": 0
+      },
+      "loop_times": 200,
+      "reference_num": 30,
+      "unify_md5": "fc3dc03ac5ad37259c0d9c14202519f8",
+      "share_text": "#曾辉韩雨彤公主抱#的相关内容，来智搜看看",
+      "msg_json": "{}",
+      "scheme": "sinaweibo://cardlist?containerid=100103type%3D225%26q%3D%23%E6%9B%BE%E8%BE%89%E9%9F%A9%E9%9B%A8%E5%BD%A4%E5%85%AC%E4%B8%BB%E6%8A%B1%23%26t%3D&extparam=ai_model%3Ddeepseek%26ori_ai_title%3D%E5%8F%82%E8%80%83%E5%8D%9A%E6%96%87%26material_version%3D1762187971",
+      "sorted_material_list": null,
+      "msg_format": "markdown",
+      "query": "#曾辉韩雨彤公主抱#",
+      "share_info": {
+        "status": 3,
+        "url": "http://t.cn/AXA0bnkr",
+        "unify_md5": "fc3dc03ac5ad37259c0d9c14202519f8",
+        "tips": "#曾辉韩雨彤公主抱#的相关内容，来智搜看看",
+        "comment_content": "",
+        "display_name": "#曾辉韩雨彤公主抱#",
+        "page_id": "232964914f35901c6c8b526c51fc6705017775"
+      },
+      "mid_list": null
+    }
+  },
+  "links": [
+    "sinaweibo://detail?mblogid=5228963745759660",
+    "sinaweibo://detail?mblogid=5228951376759360",
+    "sinaweibo://detail?mblogid=5228967340278471",
+    "sinaweibo://detail?mblogid=5215215287273684",
+    "sinaweibo://detail?mblogid=5228910763836036",
+    "broadsocial_res://",
+    "historyweibo://5228967818696187",
+    "historyweibo://5046932759645567",
+    "historyweibo://5022455234299939",
+    "sinaweibo://detail?mblogid=5227794503567304",
+    "sinaweibo://detail?mblogid=5228997130585735",
+    "sinaweibo://detail?mblogid=5228966476518886",
+    "sinaweibo://detail?mblogid=5228977553937971",
+    "sinaweibo://detail?mblogid=5228893403614347",
+    "sinaweibo://detail?mblogid=5228969789490968",
+    "sinaweibo://detail?mblogid=5228963939224107",
+    "sinaweibo://detail?mblogid=5228918446757217",
+    "sinaweibo://detail?mblogid=5228964600874324",
+    "sinaweibo://detail?mblogid=5228981322515156",
+    "sinaweibo://detail?mblogid=5228972160059537",
+    "sinaweibo://detail?mblogid=5228964916234292",
+    "sinaweibo://detail?mblogid=5228967818696187",
+    "sinaweibo://detail?mblogid=5228968460422349",
+    "sinaweibo://detail?mblogid=5229056510397085",
+    "sinaweibo://detail?mblogid=5228981699741711",
+    "sinaweibo://detail?mblogid=5228985879628748",
+    "sinaweibo://detail?mblogid=5228967969164855",
+    "sinaweibo://detail?mblogid=5229040976007850",
+    "sinaweibo://detail?mblogid=5228990809768629",
+    "sinaweibo://detail?mblogid=5228993756271918",
+    "sinaweibo://detail?mblogid=5229041784196299",
+    "sinaweibo://detail?mblogid=5229056711987260",
+    "sinaweibo://detail?mblogid=5228994989659874",
+    "sinaweibo://detail?mblogid=5229040334015741"
+  ],
+  "media": [
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/005FofHGly1i6z9d57w7vj30qo15nadg.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/005FofHGly1i6z9d57w7vj30qo15nadg.jpg",
+      "alt": "娱音少年",
+      "width": 1499,
+      "height": 960,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/005FofHGly1i6z9d57w7vj30qo15nadg.jpg"
+      ],
+      "user": "娱音少年"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/006KgP1Sgy1i6z9u7flpmj30s717dadg.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/006KgP1Sgy1i6z9u7flpmj30s717dadg.jpg",
+      "alt": "娱念昕",
+      "width": 1561,
+      "height": 1015,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/006KgP1Sgy1i6z9u7flpmj30s717dadg.jpg"
+      ],
+      "user": "娱念昕"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/7e7c5e25ly1i6z17nfpn6j20k00zk405.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/7e7c5e25ly1i6z17nfpn6j20k00zk405.jpg",
+      "alt": "娱乐第一浪",
+      "width": 1280,
+      "height": 720,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/7e7c5e25ly1i6z17nfpn6j20k00zk405.jpg"
+      ],
+      "user": "娱乐第一浪"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/006PtEbsgy1i5rcac5dn1j30mh0u0n0d.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/006PtEbsgy1i5rcac5dn1j30mh0u0n0d.jpg",
+      "alt": "静静的崽崽们",
+      "width": 1080,
+      "height": 809,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx4.sinaimg.cn/large/006PtEbsgy1i5rcac5dn1j30mh0u0n0d.jpg"
+      ],
+      "user": "静静的崽崽们"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/005M7XdTgy1i6z7th5d44j31o02yo4qp.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/005M7XdTgy1i6z7th5d44j31o02yo4qp.jpg",
+      "alt": "橘子娱乐",
+      "width": 3840,
+      "height": 2160,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/005M7XdTgy1i6z7th5d44j31o02yo4qp.jpg"
+      ],
+      "user": "橘子娱乐"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/006BrzXfgy1i6zaerx4ezj30y02307kj.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/006BrzXfgy1i6zaerx4ezj30y02307kj.jpg",
+      "alt": "时尚音浪花小娱",
+      "width": 2700,
+      "height": 1224,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/006BrzXfgy1i6zaerx4ezj30y02307kj.jpg"
+      ],
+      "user": "时尚音浪花小娱"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/7e2d2eeely1i6z79cjjgrj20mh0u0ack.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/7e2d2eeely1i6z79cjjgrj20mh0u0ack.jpg",
+      "alt": "传媒小娱",
+      "width": 1080,
+      "height": 809,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/7e2d2eeely1i6z79cjjgrj20mh0u0ack.jpg"
+      ],
+      "user": "传媒小娱"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/00448XYOly1i6z7c66il7j60u01hcgnc02.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/00448XYOly1i6z7c66il7j60u01hcgnc02.jpg",
+      "alt": "会火",
+      "width": 1920,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/00448XYOly1i6z7c66il7j60u01hcgnc02.jpg"
+      ],
+      "user": "会火"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/8ba25d25gy1i6z7r0d0ihj217u0oodrn.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/8ba25d25gy1i6z7r0d0ihj217u0oodrn.jpg",
+      "alt": "吃瓜姐妹社",
+      "width": 888,
+      "height": 1578,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/8ba25d25gy1i6z7r0d0ihj217u0oodrn.jpg"
+      ],
+      "user": "吃瓜姐妹社"
+    }
+  ],
+  "html_path": "data/aicard/hourly/2025-11-04/00/topic-fc3dc03a.html"
+}

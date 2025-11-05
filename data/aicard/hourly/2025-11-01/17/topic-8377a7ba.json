@@ -1,0 +1,332 @@
+{
+  "meta": {
+    "query": "#出行得流感怎么办#",
+    "status_code": 200,
+    "fetched_at": "2025-11-01T17:33:50+08:00",
+    "response": {
+      "current_time": 1761989630,
+      "user_info": {},
+      "zs_risk_control": {
+        "think_text_close": 0,
+        "land_button_close": 0
+      },
+      "unify_md5": "8377a7bac83aa23b8ded4b406ac157e6",
+      "msg_format": "markdown",
+      "loop_times": 200,
+      "page_id": "2329641823ee0be584a4d55761f9fe1ac1facc",
+      "msg_json": "{}",
+      "query_field": "50",
+      "profile_image_url": "",
+      "mid_list": null,
+      "reference_num": 33,
+      "news_analyze": {},
+      "reliable_tips": "{\"gold_orange_v_mids\": [\"5228187107983539\", \"5228187337621905\", \"5228187090682969\", \"5228187765178956\", \"5228187094876205\", \"5228191368872332\", \"5228187321634291\", \"5228188185133586\", \"5228187589804472\", \"5228187094878521\", \"5228187678413105\", \"5228189607264490\", \"5228187224375941\", \"5228187157791343\", \"5228187090683120\", \"5228187090420743\", \"5228187089897278\", \"5228187089896523\", \"5228187131838948\", \"5228195085550320\", \"5228194819998123\", \"5228187090684048\", \"5228187845656992\", \"5228187593212280\", \"5228187089896460\", \"5227544150545820\"], \"gold_orange_v_ratio\": \"79%\", \"media_mids\": [\"5228101526356443\"], \"media_ratio\": \"3%\", \"verified_mids\": [\"5228199673071106\", \"5228193382138242\", \"5228199002769342\", \"5228125442015412\", \"5227950395885523\"], \"verified_ratio\": \"15%\", \"normal_mids\": [\"5228126735176810\"], \"normal_ratio\": \"3%\", \"ref_mid_rank\": {\"5228187107983539\": {\"rank\": 6}, \"5228187337621905\": {\"rank\": 7}, \"5228199673071106\": {\"rank\": 15}, \"5228187090682969\": {\"rank\": 11}, \"5228187765178956\": {\"rank\": 23}, \"5228187094876205\": {\"rank\": 8}, \"5228191368872332\": {\"rank\": 12}, \"5228193382138242\": {\"rank\": 1}, \"5228199002769342\": {\"rank\": 4}, \"5228187321634291\": {\"rank\": 13}, \"5228188185133586\": {\"rank\": 17}, \"5228187589804472\": {\"rank\": 14}, \"5228187094878521\": {\"rank\": 21}, \"5228187678413105\": {\"rank\": 9}, \"5228189607264490\": {\"rank\": 27}, \"5228187224375941\": {\"rank\": 19}, \"5228187157791343\": {\"rank\": 5}, \"5228187090683120\": {\"rank\": 25}, \"5228125442015412\": {\"rank\": 32}, \"5227950395885523\": {\"rank\": 31}, \"5228187090420743\": {\"rank\": 10}, \"5228187089897278\": {\"rank\": 28}, \"5228187089896523\": {\"rank\": 16}, \"5228187131838948\": {\"rank\": 22}, \"5228195085550320\": {\"rank\": 2}, \"5228194819998123\": {\"rank\": 3}, \"5228187090684048\": {\"rank\": 18}, \"5228187845656992\": {\"rank\": 20}, \"5228187593212280\": {\"rank\": 24}, \"5228187089896460\": {\"rank\": 26}, \"5228126735176810\": {\"rank\": 29}, \"5228101526356443\": {\"rank\": 30}, \"5227544150545820\": {\"rank\": 33}}}",
+      "top_quote_list": {},
+      "model": "deepseek",
+      "share_card_multimodal": {
+        "user_name": "於食记",
+        "img_pid": "006d0XWTly1i6ue1w8sx1j32c0340qvb",
+        "img": "http://wx1.sinaimg.cn/middle/006d0XWTly1i6ue1w8sx1j32c0340qvb.jpg",
+        "w": 3024,
+        "video_url": "",
+        "hit_score_new": 91.601562,
+        "doc_score": 6061,
+        "hit_score_final": 86.960938,
+        "user_avatar": "https://tvax1.sinaimg.cn/crop.0.0.656.656.50/006d0XWTly8gjormj8nbmj30i80i93zx.jpg?KID=imgbed,tva&Expires=1761999753&ssig=Uqw8CsqFeJ",
+        "click_rate": 0,
+        "h": 4032,
+        "scheme": "sinaweibo://multimedia?mix_mid=5228187107983539&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=0",
+        "vtype": 0,
+        "type": "p",
+        "cur_mid": "5228187107983539"
+      },
+      "cot": 1,
+      "comment_info": {},
+      "wenda": {
+        "forward_gen": 0
+      },
+      "version": "2025-11-01 17:22:33.019000-1025",
+      "scheme": "sinaweibo://cardlist?containerid=100103type%3D225%26q%3D%23%E5%87%BA%E8%A1%8C%E5%BE%97%E6%B5%81%E6%84%9F%E6%80%8E%E4%B9%88%E5%8A%9E%23%26t%3D&extparam=ai_model%3Ddeepseek%26ori_ai_title%3D%E5%8F%82%E8%80%83%E5%8D%9A%E6%96%87%26material_version%3D1761988953",
+      "qs_status": 0,
+      "share_text": "#出行得流感怎么办#的相关内容，来智搜看看",
+      "ext_show": {},
+      "query": "#出行得流感怎么办#",
+      "status": 2,
+      "sorted_material_list": null,
+      "ab_suffix": "default",
+      "abtest_info": {
+        "chat_entrance": 1
+      },
+      "analysis_time": 1761989162,
+      "basemodel": "实验组1",
+      "chat_status_stage": 1,
+      "short_url": "http://t.cn/AXAZFkK4",
+      "status_stage": 4,
+      "link_list": [
+        "sinaweibo://detail?mblogid=5228193382138242",
+        "sinaweibo://detail?mblogid=5228195085550320",
+        "sinaweibo://detail?mblogid=5228194819998123",
+        "sinaweibo://detail?mblogid=5228199002769342",
+        "sinaweibo://detail?mblogid=5228187157791343",
+        "sinaweibo://detail?mblogid=5228187107983539",
+        "sinaweibo://detail?mblogid=5228187337621905",
+        "sinaweibo://detail?mblogid=5228187094876205",
+        "sinaweibo://detail?mblogid=5228187678413105",
+        "sinaweibo://detail?mblogid=5228187090420743",
+        "sinaweibo://detail?mblogid=5228187090682969",
+        "sinaweibo://detail?mblogid=5228191368872332",
+        "sinaweibo://detail?mblogid=5228187321634291",
+        "sinaweibo://detail?mblogid=5228187589804472",
+        "sinaweibo://detail?mblogid=5228199673071106",
+        "sinaweibo://detail?mblogid=5228187089896523",
+        "sinaweibo://detail?mblogid=5228188185133586",
+        "sinaweibo://detail?mblogid=5228187090684048",
+        "sinaweibo://detail?mblogid=5228187224375941",
+        "sinaweibo://detail?mblogid=5228187845656992",
+        "sinaweibo://detail?mblogid=5228187094878521",
+        "sinaweibo://detail?mblogid=5228187131838948",
+        "sinaweibo://detail?mblogid=5228187765178956",
+        "sinaweibo://detail?mblogid=5228187593212280",
+        "sinaweibo://detail?mblogid=5228187090683120",
+        "sinaweibo://detail?mblogid=5228187089896460",
+        "sinaweibo://detail?mblogid=5228189607264490",
+        "sinaweibo://detail?mblogid=5228187089897278",
+        "sinaweibo://detail?mblogid=5228126735176810",
+        "sinaweibo://detail?mblogid=5228101526356443",
+        "sinaweibo://detail?mblogid=5227950395885523",
+        "sinaweibo://detail?mblogid=5228125442015412",
+        "sinaweibo://detail?mblogid=5227544150545820"
+      ],
+      "uid": "",
+      "q_attr": {
+        "reply_cid": "",
+        "comment_from_type": "",
+        "from_uid": "",
+        "from_request_id": "",
+        "mid": ""
+      },
+      "msg": "<think><br>嗯，用户问的是\"出行得流感怎么办\"，这是一个关于旅行健康防护的实际问题。从搜索内容看，用户可能在计划出行或已在旅途中，担心流感影响行程。这类用户通常需要快速获取可操作的建议，同时隐含了对行程中断的焦虑。<br><br>搜索结果很丰富，主要是2025年11月发布的公益活动信息和实用贴士，集中在流感高发季的防护要点。最值得关注的是多个账号反复强调的\"黄金48小时\"概念，以及多位旅行博主分享的亲身经历。这些内容时效性强，且包含具体药物名称和应急方案。<br><br>分析时需要特别注意医疗风险：虽然结果中提到奥司他韦等处方药，但必须强调遵医嘱使用。另外用户没有说明出行场景（国内/国际），需兼顾两种情况的差异。第21条来自医生账号的信息特别重要，提到机舱等密闭空间风险，这是普通用户容易忽视的专业建议。<br><br>信息整理上，发现几个核心模块反复出现：预防措施（疫苗/卫生习惯）、应急药箱清单、症状识别、48小时干预。这些刚好形成逻辑链条：预防-准备-识别-应对。用户可能最关心\"病了怎么办\"，所以要把应急处理放在黄金48小时详细展开。<br><br>注意到不同身份发布者的侧重点：公益账号强调疫苗和公益行动，旅行博主侧重行程中断的应对，医生关注药物使用规范。需要融合这些视角，既要实用也要专业。例如第19条提到国外买药困难，第6条详细列出药箱物品，都是用户急需的干货。<br><br>最后在风险提示上，要特别标注：虽然列出药物名称，但必须由医生诊断后使用。这个医疗建议的免责声明不可或缺。<br><br></think><br>以下是针对“出行得流感怎么办”的全面解决方案，综合权威建议和旅行经验，分步骤指导预防、识别与应对：<br>### 🛡️ **一、出行前预防准备**<br>1. **提前接种流感疫苗**  <br>   - **最佳时间**：出发前2周完成接种（疫苗生效需7-14天）。```wbCustomBlock{\"type\": \"quoted\", \"index\": 5, \"data\": {\"num\": [6, 7, 15], \"version\": 2, \"quote_list\": [{\"name\": \"於食记\", \"scheme\": \"sinaweibo://detail?mblogid=5228187107983539\", \"index\": 6, \"label\": \"大v\"}, {\"name\": \"丁丁科技说\", \"scheme\": \"sinaweibo://detail?mblogid=5228187337621905\", \"index\": 7, \"label\": \"\"}, {\"name\": \"新浪爱问医生\", \"scheme\": \"sinaweibo://detail?mblogid=5228199673071106\", \"index\": 15, \"label\": \"\"}], \"name\": \"於食记\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.656.656.50/006d0XWTly8gjormj8nbmj30i80i93zx.jpg?KID=imgbed,tva&Expires=1761999753&ssig=Uqw8CsqFeJ\", \"scheme\": \"sinaweibo://detail?mblogid=5228187107983539\", \"vType\": 0}}```  <br>   - **重点人群**：老人、儿童、慢性病患者优先接种（重症风险高）。```wbCustomBlock{\"type\": \"quoted\", \"index\": 6, \"data\": {\"num\": [11, 23], \"version\": 2, \"quote_list\": [{\"name\": \"旅游约吗\", \"scheme\": \"sinaweibo://detail?mblogid=5228187765178956\", \"index\": 23, \"label\": \"大v\"}, {\"name\": \"公益人王磊\", \"scheme\": \"sinaweibo://detail?mblogid=5228187090682969\", \"index\": 11, \"label\": \"\"}], \"name\": \"旅游约吗\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/002lL0RNly8hdit7ancmjj60u00u0acb02.jpg?KID=imgbed,tva&Expires=1761999753&ssig=s0gVnOGr0P\", \"scheme\": \"sinaweibo://detail?mblogid=5228187765178956\", \"vType\": 0}}```  <br>   - **疫苗选择**：覆盖当年流行毒株（如2025年以甲型H3N2为主）。```wbCustomBlock{\"type\": \"quoted\", \"index\": 7, \"data\": {\"num\": [8, 12], \"version\": 2, \"quote_list\": [{\"name\": \"是喵王呀\", \"scheme\": \"sinaweibo://detail?mblogid=5228187094876205\", \"index\": 8, \"label\": \"大v\"}, {\"name\": \"学霸课长\", \"scheme\": \"sinaweibo://detail?mblogid=5228191368872332\", \"index\": 12, \"label\": \"\"}], \"name\": \"是喵王呀\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.512.512.50/005GjHZwly8hbxf7awj49j30e80e80t1.jpg?KID=imgbed,tva&Expires=1761999753&ssig=TLyLXtGR1K\", \"scheme\": \"sinaweibo://detail?mblogid=5228187094876205\", \"vType\": 0}}```<br><br>2. **目的地流感趋势查询**  <br>   - 通过WHO官网或当地卫生部门查询目的地流感指数，避开高发区域。```wbCustomBlock{\"type\": \"quoted\", \"index\": 9, \"data\": {\"num\": [1, 15], \"version\": 2, \"quote_list\": [{\"name\": \"中国人口福利基金会\", \"scheme\": \"sinaweibo://detail?mblogid=5228193382138242\", \"index\": 1, \"label\": \"\"}, {\"name\": \"新浪爱问医生\", \"scheme\": \"sinaweibo://detail?mblogid=5228199673071106\", \"index\": 15, \"label\": \"\"}]}}```  <br>   - 扫描公益海报二维码获取实时数据（如“流感季全球出行守护行动”提供20国流感指数）。```wbCustomBlock{\"type\": \"quoted\", \"index\": 10, \"data\": {\"num\": [4, 15], \"version\": 2, \"quote_list\": [{\"name\": \"新浪公益\", \"scheme\": \"sinaweibo://detail?mblogid=5228199002769342\", \"index\": 4, \"label\": \"\"}, {\"name\": \"新浪爱问医生\", \"scheme\": \"sinaweibo://detail?mblogid=5228199673071106\", \"index\": 15, \"label\": \"\"}]}}```<br><br>3. **健康包必备清单**  <br>   | 类别 | 物品 |<br>   |---|---|<br>   | 防护用品 | N95口罩、消毒湿巾、免洗洗手液（酒精>60%） |<br>   | 检测工具 | 流感抗原试剂（快速自查） |<br>   | 应急药品 | 退烧药（布洛芬）、抗病毒药（奥司他韦/玛巴洛沙韦） |<br>   | 基础物资 | 体温计、维生素C泡腾片、创可贴 |<br><br>```wbCustomBlock{\"type\": \"quoted\", \"index\": 11, \"data\": {\"num\": [6, 13, 17], \"version\": 2, \"quote_list\": [{\"name\": \"柯柯旅行记\", \"scheme\": \"sinaweibo://detail?mblogid=5228187321634291\", \"index\": 13, \"label\": \"大v\"}, {\"name\": \"於食记\", \"scheme\": \"sinaweibo://detail?mblogid=5228187107983539\", \"index\": 6, \"label\": \"\"}, {\"name\": \"张佳ZHJ\", \"scheme\": \"sinaweibo://detail?mblogid=5228188185133586\", \"index\": 17, \"label\": \"\"}], \"name\": \"柯柯旅行记\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/006VRgohly8i60bzim6pyj30u00u0q52.jpg?KID=imgbed,tva&Expires=1761999753&ssig=%2BxMO9tVqrM\", \"scheme\": \"sinaweibo://detail?mblogid=5228187321634291\", \"vType\": 0}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5228187107983539&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.656.656.50/006d0XWTly8gjormj8nbmj30i80i93zx.jpg?KID=imgbed,tva&Expires=1761999753&ssig=Uqw8CsqFeJ) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">於食记</span><img src=\"http://wx1.sinaimg.cn/middle/006d0XWTly1i6ue1w8sx1j32c0340qvb.jpg\" data-width=4032 data-height=3024></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5228187090682969&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=1\"><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.942.942.50/006jx71bly8hubolfhzklj30q60q6wgj.jpg?KID=imgbed,tva&Expires=1761999753&ssig=%2BEHQgBg86P) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">公益人王磊</span><img src=\"http://wx3.sinaimg.cn/middle/006jx71bgy1i6u83k6jibj30u00sfmz2.jpg\" data-width=1023 data-height=1080></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5228191368872332&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=2\"><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.512.512.50/a64bd601ly8h96xp2o6hej20e80e83yq.jpg?KID=imgbed,tva&Expires=1761999753&ssig=gXxtZkneC8) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">学霸课长</span><img src=\"http://wx4.sinaimg.cn/middle/a64bd601ly1i6ualr1dwej20u0140k04.jpg\" data-width=1440 data-height=1080></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5228193382138242&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=3\"><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.996.996.50/80b83b61ly8gdi6fxrmjoj20ro0roabf.jpg?KID=imgbed,tva&Expires=1761999753&ssig=X%2FDvR9bhEM) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">中国人口福利基金会</span><img src=\"http://wx3.sinaimg.cn/middle/80b83b61ly1i6vahkj1gsj20wz1hc1ky.jpg\" data-width=1920 data-height=1187></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5228199002769342&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=4\"><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.200.200.50/6f0b57d3ly8h8vd8ahw8cj205k05kwei.jpg?KID=imgbed,tva&Expires=1761999753&ssig=Dd1lucf%2BCh) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">新浪公益</span><img src=\"http://wx1.sinaimg.cn/middle/4faacabdgy1i6wrh0alnij23n85gvb2u.jpg\" data-width=7087 data-height=4724></div></media-block><br>### ⚠️ **二、旅途中防护要点**<br>1. **降低感染风险**  <br>   - 密闭空间（机舱、高铁）全程戴口罩，每4小时更换一次。```wbCustomBlock{\"type\": \"quoted\", \"index\": 15, \"data\": {\"num\": [14, 21], \"version\": 2, \"quote_list\": [{\"name\": \"帽帽moer\", \"scheme\": \"sinaweibo://detail?mblogid=5228187589804472\", \"index\": 14, \"label\": \"大v\"}, {\"name\": \"成都下水道\", \"scheme\": \"sinaweibo://detail?mblogid=5228187094878521\", \"index\": 21, \"label\": \"\"}], \"name\": \"帽帽moer\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/7115e7d5ly8hgfaqb32d5j20u00u040o.jpg?KID=imgbed,tva&Expires=1761999753&ssig=aqF5F1BNph\", \"scheme\": \"sinaweibo://detail?mblogid=5228187589804472\", \"vType\": 0}}```  <br>   - 避免触摸眼鼻口，触碰公共设施后立即消毒双手。```wbCustomBlock{\"type\": \"quoted\", \"index\": 16, \"data\": {\"num\": [9, 27], \"version\": 2, \"quote_list\": [{\"name\": \"蘸盐\", \"scheme\": \"sinaweibo://detail?mblogid=5228189607264490\", \"index\": 27, \"label\": \"大v\"}, {\"name\": \"爱玩的喵喵小沫\", \"scheme\": \"sinaweibo://detail?mblogid=5228187678413105\", \"index\": 9, \"label\": \"\"}], \"name\": \"蘸盐\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.996.996.50/00336wGHly8h8v7pmqno1j60ro0rojy102.jpg?KID=imgbed,tva&Expires=1761999753&ssig=wR%2B3WPGf9%2F\", \"scheme\": \"sinaweibo://detail?mblogid=5228189607264490\", \"vType\": 0}}```  <br>   - 住宿时每日通风30分钟，减少空调使用。```wbCustomBlock{\"type\": \"quoted\", \"index\": 17, \"data\": {\"num\": [6, 19], \"version\": 2, \"quote_list\": [{\"name\": \"痴史\", \"scheme\": \"sinaweibo://detail?mblogid=5228187224375941\", \"index\": 19, \"label\": \"大v\"}, {\"name\": \"於食记\", \"scheme\": \"sinaweibo://detail?mblogid=5228187107983539\", \"index\": 6, \"label\": \"\"}], \"name\": \"痴史\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.512.512.50/007DM5Ywly8i077iv7up0j30e80e80tn.jpg?KID=imgbed,tva&Expires=1761999753&ssig=mYjtsVkZ%2FM\", \"scheme\": \"sinaweibo://detail?mblogid=5228187224375941\", \"vType\": 0}}```<br><br>2. **保持免疫力**  <br>   - 避免“特种兵行程”，保证每日7-8小时睡眠。```wbCustomBlock{\"type\": \"quoted\", \"index\": 19, \"data\": {\"num\": [5, 25], \"version\": 2, \"quote_list\": [{\"name\": \"抬头看风景nono\", \"scheme\": \"sinaweibo://detail?mblogid=5228187157791343\", \"index\": 5, \"label\": \"大v\"}, {\"name\": \"古怪也很好\", \"scheme\": \"sinaweibo://detail?mblogid=5228187090683120\", \"index\": 25, \"label\": \"\"}], \"name\": \"抬头看风景nono\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.1242.1242.50/74e84d68ly8fje6grd2k9j20yi0yidiq.jpg?KID=imgbed,tva&Expires=1761999753&ssig=rUpJR%2F7Lyf\", \"scheme\": \"sinaweibo://detail?mblogid=5228187157791343\", \"vType\": 0}}```  <br>   - 饮食均衡，补充蛋白质和维生素（如橙子、猕猴桃）。```wbCustomBlock{\"type\": \"quoted\", \"index\": 20, \"data\": {\"num\": [9, 32], \"version\": 2, \"quote_list\": [{\"name\": \"爱玩的喵喵小沫\", \"scheme\": \"sinaweibo://detail?mblogid=5228187678413105\", \"index\": 9, \"label\": \"大v\"}, {\"name\": \"Hello小小不-\", \"scheme\": \"sinaweibo://detail?mblogid=5228125442015412\", \"index\": 32, \"label\": \"\"}], \"name\": \"爱玩的喵喵小沫\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/573b4bedly8i4tuvlhm40j20u00u041i.jpg?KID=imgbed,tva&Expires=1761999753&ssig=I6WzV%2BhbA9\", \"scheme\": \"sinaweibo://detail?mblogid=5228187678413105\", \"vType\": 0}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5228187589804472&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=2&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/7115e7d5ly8hgfaqb32d5j20u00u040o.jpg?KID=imgbed,tva&Expires=1761999753&ssig=aqF5F1BNph) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">帽帽moer</span><img src=\"http://wx4.sinaimg.cn/middle/7115e7d5gy1i6ulpqwdb1j21kw1kwked.jpg\" data-width=2048 data-height=2048></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5228187224375941&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=2&multi_count=1\"><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.512.512.50/007DM5Ywly8i077iv7up0j30e80e80tn.jpg?KID=imgbed,tva&Expires=1761999753&ssig=mYjtsVkZ%2FM) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">痴史</span><img src=\"http://wx2.sinaimg.cn/middle/007DM5Ywly1i6vqo57yh5j30zk0np416.jpg\" data-width=853 data-height=1280></div></media-block><br>### 🚨 **三、流感症状识别与应急处理**<br>1. **区分流感与普通感冒**  <br>   | 症状       | 流感（甲型/乙型） | 普通感冒 |<br>   |------------|------------------|----------|<br>   | 发热       | 突发高热（39-40℃） | 低热或无 |<br>   | 全身症状   | 头痛、肌肉酸痛、乏力 | 轻微     |<br>   | 病程       | 7-10天           | 3-5天    |<br>   | 传染性     | 强（1人可传11人） | 弱       |<br><br>   *注：流感常伴寒颤、食欲减退，儿童可能呕吐腹泻。*```wbCustomBlock{\"type\": \"quoted\", \"index\": 23, \"data\": {\"num\": [8, 17], \"version\": 2, \"quote_list\": [{\"name\": \"张佳ZHJ\", \"scheme\": \"sinaweibo://detail?mblogid=5228188185133586\", \"index\": 17, \"label\": \"大v\"}, {\"name\": \"是喵王呀\", \"scheme\": \"sinaweibo://detail?mblogid=5228187094876205\", \"index\": 8, \"label\": \"\"}], \"name\": \"张佳ZHJ\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/007bPoe5ly8hyjbqruyjfj30u00u1wfr.jpg?KID=imgbed,tva&Expires=1761999753&ssig=o4FAvp0mPh\", \"scheme\": \"sinaweibo://detail?mblogid=5228188185133586\", \"vType\": 0}}```<br><br>2. **抓住“黄金48小时”**  <br>   - **立即行动**：出现症状后24-48小时内病毒复制达峰值，需快速干预。```wbCustomBlock{\"type\": \"quoted\", \"index\": 25, \"data\": {\"num\": [11, 17], \"version\": 2, \"quote_list\": [{\"name\": \"公益人王磊\", \"scheme\": \"sinaweibo://detail?mblogid=5228187090682969\", \"index\": 11, \"label\": \"\"}, {\"name\": \"张佳ZHJ\", \"scheme\": \"sinaweibo://detail?mblogid=5228188185133586\", \"index\": 17, \"label\": \"\"}], \"name\": \"公益人王磊\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.942.942.50/006jx71bly8hubolfhzklj30q60q6wgj.jpg?KID=imgbed,tva&Expires=1761999753&ssig=%2BEHQgBg86P\", \"scheme\": \"sinaweibo://detail?mblogid=5228187090682969\", \"vType\": 0}}```  <br>   - **用药原则**：  <br>     - 抗原自测阳性后，**遵医嘱**服用抗病毒药（如玛巴洛沙韦全程仅需1次，奥司他韦需连服5天）。```wbCustomBlock{\"type\": \"quoted\", \"index\": 27, \"data\": {\"num\": [13, 21, 31], \"version\": 2, \"quote_list\": [{\"name\": \"成都下水道\", \"scheme\": \"sinaweibo://detail?mblogid=5228187094878521\", \"index\": 21, \"label\": \"\"}, {\"name\": \"柯柯旅行记\", \"scheme\": \"sinaweibo://detail?mblogid=5228187321634291\", \"index\": 13, \"label\": \"\"}, {\"name\": \"美团买药\", \"scheme\": \"sinaweibo://detail?mblogid=5227950395885523\", \"index\": 31, \"label\": \"\"}], \"name\": \"成都下水道\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/4cfa49d8ly8gdhipbtnggj20u00u0765.jpg?KID=imgbed,tva&Expires=1761999753&ssig=c3qyIYfrAF\", \"scheme\": \"sinaweibo://detail?mblogid=5228187094878521\", \"vType\": 0}}```  <br>     - 儿童按体重调整剂量（如奥司他韦需≥2周龄，玛巴洛沙韦≥5岁）。```wbCustomBlock{\"type\": \"quoted\", \"index\": 28, \"data\": {\"num\": [15, 17], \"version\": 2, \"quote_list\": [{\"name\": \"新浪爱问医生\", \"scheme\": \"sinaweibo://detail?mblogid=5228199673071106\", \"index\": 15, \"label\": \"\"}, {\"name\": \"张佳ZHJ\", \"scheme\": \"sinaweibo://detail?mblogid=5228188185133586\", \"index\": 17, \"label\": \"\"}]}}```  <br>   - **隔离保护**：佩戴口罩避免传染同行者，联系酒店安排单独房间。```wbCustomBlock{\"type\": \"quoted\", \"index\": 29, \"data\": {\"num\": [10, 19], \"version\": 2, \"quote_list\": [{\"name\": \"章佳明\", \"scheme\": \"sinaweibo://detail?mblogid=5228187090420743\", \"index\": 10, \"label\": \"\"}, {\"name\": \"痴史\", \"scheme\": \"sinaweibo://detail?mblogid=5228187224375941\", \"index\": 19, \"label\": \"\"}], \"name\": \"章佳明\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.720.720.50/007k8n9zly8hxhhixtxs8j30k00k0js2.jpg?KID=imgbed,tva&Expires=1761999753&ssig=k9ui3VCtEU\", \"scheme\": \"sinaweibo://detail?mblogid=5228187090420743\", \"vType\": 0}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5228187090420743&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=3&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.720.720.50/007k8n9zly8hxhhixtxs8j30k00k0js2.jpg?KID=imgbed,tva&Expires=1761999753&ssig=k9ui3VCtEU) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">章佳明</span><img src=\"http://wx2.sinaimg.cn/middle/007k8n9zgy1i6udbob0d3j30u0140aos.jpg\" data-width=1440 data-height=1080></div></media-block><br>### 🆘 **四、不同场景应对方案**<br>1. **境内旅行**  <br>   - 就近就医，出示抗原结果缩短诊断时间。```wbCustomBlock{\"type\": \"quoted\", \"index\": 33, \"data\": {\"num\": [13], \"version\": 2, \"quote_list\": [{\"name\": \"柯柯旅行记\", \"scheme\": \"sinaweibo://detail?mblogid=5228187321634291\", \"index\": 13, \"label\": \"\"}]}}```  <br>   - 通过美团买药等平台即时购药（30分钟送达）。```wbCustomBlock{\"type\": \"quoted\", \"index\": 34, \"data\": {\"num\": [31], \"version\": 2, \"quote_list\": [{\"name\": \"美团买药\", \"scheme\": \"sinaweibo://detail?mblogid=5227950395885523\", \"index\": 31, \"label\": \"\"}]}}```<br><br>2. **境外旅行**  <br>   - 提前查好当地诊所/药店位置，保存紧急联系方式。```wbCustomBlock{\"type\": \"quoted\", \"index\": 36, \"data\": {\"num\": [19, 28], \"version\": 2, \"quote_list\": [{\"name\": \"数码王小机\", \"scheme\": \"sinaweibo://detail?mblogid=5228187089897278\", \"index\": 28, \"label\": \"\"}, {\"name\": \"痴史\", \"scheme\": \"sinaweibo://detail?mblogid=5228187224375941\", \"index\": 19, \"label\": \"\"}], \"name\": \"数码王小机\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/6be38c31ly8gy7v4chhiij20u00u0ac0.jpg?KID=imgbed,tva&Expires=1761999753&ssig=a9gRpOH160\", \"scheme\": \"sinaweibo://detail?mblogid=5228187089897278\", \"vType\": 0}}```  <br>   - 向酒店求助（前台可协助叫车或翻译）。```wbCustomBlock{\"type\": \"quoted\", \"index\": 37, \"data\": {\"num\": [19], \"version\": 2, \"quote_list\": [{\"name\": \"痴史\", \"scheme\": \"sinaweibo://detail?mblogid=5228187224375941\", \"index\": 19, \"label\": \"\"}]}}```  <br>   - 购买含医疗责任的旅行保险，覆盖海外就诊费用。```wbCustomBlock{\"type\": \"quoted\", \"index\": 38, \"data\": {\"num\": [25], \"version\": 2, \"quote_list\": [{\"name\": \"古怪也很好\", \"scheme\": \"sinaweibo://detail?mblogid=5228187090683120\", \"index\": 25, \"label\": \"\"}], \"name\": \"古怪也很好\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/006zUtB0ly8hpckvd00qrj30u00u0jx3.jpg?KID=imgbed,tva&Expires=1761999753&ssig=lG80g9yYpr\", \"scheme\": \"sinaweibo://detail?mblogid=5228187090683120\", \"vType\": 0}}```<br>### ⚠️ **关键风险提示**<br>1. **用药警示**  <br>   - **抗生素无效**：流感是病毒引起，头孢等抗生素无法治疗。```wbCustomBlock{\"type\": \"quoted\", \"index\": 42, \"data\": {\"num\": [31], \"version\": 2, \"quote_list\": [{\"name\": \"美团买药\", \"scheme\": \"sinaweibo://detail?mblogid=5227950395885523\", \"index\": 31, \"label\": \"\"}]}}```  <br>   - **处方药限制**：奥司他韦/玛巴洛沙韦需医生处方，勿自行用药。```wbCustomBlock{\"type\": \"quoted\", \"index\": 43, \"data\": {\"num\": [16, 21], \"version\": 2, \"quote_list\": [{\"name\": \"小刚CSG\", \"scheme\": \"sinaweibo://detail?mblogid=5228187089896523\", \"index\": 16, \"label\": \"\"}, {\"name\": \"成都下水道\", \"scheme\": \"sinaweibo://detail?mblogid=5228187094878521\", \"index\": 21, \"label\": \"\"}], \"name\": \"小刚CSG\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/861c8161ly8i03s4bzdt5j20u00u0n01.jpg?KID=imgbed,tva&Expires=1761999753&ssig=kt7784lJB0\", \"scheme\": \"sinaweibo://detail?mblogid=5228187089896523\", \"vType\": 0}}```<br><br>2. **高危人群并发症**  <br>   老人、慢性病患者感染后可能引发肺炎、心肌炎，若出现呼吸困难、胸痛立即急诊。```wbCustomBlock{\"type\": \"quoted\", \"index\": 44, \"data\": {\"num\": [11, 22], \"version\": 2, \"quote_list\": [{\"name\": \"程诗然\", \"scheme\": \"sinaweibo://detail?mblogid=5228187131838948\", \"index\": 22, \"label\": \"\"}, {\"name\": \"公益人王磊\", \"scheme\": \"sinaweibo://detail?mblogid=5228187090682969\", \"index\": 11, \"label\": \"\"}], \"name\": \"程诗然\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.888.888.50/54176374ly8fso803zcbyj20oo0oot9p.jpg?KID=imgbed,tva&Expires=1761999753&ssig=csNRgWCAmb\", \"scheme\": \"sinaweibo://detail?mblogid=5228187131838948\", \"vType\": 0}}```<br>### 💡 **出行后建议**<br>- **症状持续**：退烧后乏力咳嗽可能持续1-2周，避免劳累。```wbCustomBlock{\"type\": \"quoted\", \"index\": 47, \"data\": {\"num\": [17], \"version\": 2, \"quote_list\": [{\"name\": \"张佳ZHJ\", \"scheme\": \"sinaweibo://detail?mblogid=5228188185133586\", \"index\": 17, \"label\": \"\"}]}}```  <br>- **全家防护**：感染者痊愈后，全家消毒随身物品（行李箱、手机）。```wbCustomBlock{\"type\": \"quoted\", \"index\": 48, \"data\": {\"num\": [23], \"version\": 2, \"quote_list\": [{\"name\": \"旅游约吗\", \"scheme\": \"sinaweibo://detail?mblogid=5228187765178956\", \"index\": 23, \"label\": \"\"}]}}```  <br>- **反馈机制**：向公益组织（如```wbCustomBlock{\"type\": \"midquoted\", \"index\": \"2159557473_1\", \"data\": {\"name\": \"中国人口福利基金会\", \"scheme\": \"https://weibo.com/u/2159557473\"}}```）报告行程中流感风险，助他人避险。```wbCustomBlock{\"type\": \"quoted\", \"index\": 49, \"data\": {\"num\": [1, 4], \"version\": 2, \"quote_list\": [{\"name\": \"中国人口福利基金会\", \"scheme\": \"sinaweibo://detail?mblogid=5228193382138242\", \"index\": 1, \"label\": \"\"}, {\"name\": \"新浪公益\", \"scheme\": \"sinaweibo://detail?mblogid=5228199002769342\", \"index\": 4, \"label\": \"\"}]}}```<br><br>> 🌟 **核心总结**：预防靠疫苗+健康包，途中重防护，发病48小时内科学用药是关键。健康是旅途的底色，提前准备方能畅行无忧。<br>",
+      "query_category": "Medical",
+      "qs_status_info": "{\"qs_q_status\":0,\"ab_lab\":{},\"qs_u_status\":0,\"qs_status\":0,\"qs_c_status\":8388608,\"qs_r_status\":0}",
+      "card_multimodal": {
+        "type": "mediablock",
+        "data": [
+          {
+            "user_name": "於食记",
+            "img_pid": "006d0XWTly1i6ue1w8sx1j32c0340qvb",
+            "img": "http://wx1.sinaimg.cn/middle/006d0XWTly1i6ue1w8sx1j32c0340qvb.jpg",
+            "w": 3024,
+            "video_url": "",
+            "hit_score_new": 91.601562,
+            "doc_score": 6061,
+            "hit_score_final": 86.960938,
+            "user_avatar": "https://tvax1.sinaimg.cn/crop.0.0.656.656.50/006d0XWTly8gjormj8nbmj30i80i93zx.jpg?KID=imgbed,tva&Expires=1761999753&ssig=Uqw8CsqFeJ",
+            "click_rate": 0,
+            "h": 4032,
+            "scheme": "sinaweibo://multimedia?mix_mid=5228187107983539&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=0",
+            "vtype": 0,
+            "type": "p",
+            "cur_mid": "5228187107983539"
+          },
+          {
+            "user_name": "公益人王磊",
+            "img_pid": "006jx71bgy1i6u83k6jibj30u00sfmz2",
+            "img": "http://wx3.sinaimg.cn/middle/006jx71bgy1i6u83k6jibj30u00sfmz2.jpg",
+            "w": 1080,
+            "video_url": "",
+            "hit_score_new": 91.113281,
+            "doc_score": 5733,
+            "hit_score_final": 83.06797,
+            "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.942.942.50/006jx71bly8hubolfhzklj30q60q6wgj.jpg?KID=imgbed,tva&Expires=1761999753&ssig=%2BEHQgBg86P",
+            "click_rate": 0,
+            "h": 1023,
+            "scheme": "sinaweibo://multimedia?mix_mid=5228187090682969&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=1",
+            "vtype": 0,
+            "type": "p",
+            "cur_mid": "5228187090682969"
+          },
+          {
+            "user_name": "学霸课长",
+            "img_pid": "a64bd601ly1i6ualr1dwej20u0140k04",
+            "img": "http://wx4.sinaimg.cn/middle/a64bd601ly1i6ualr1dwej20u0140k04.jpg",
+            "w": 1080,
+            "video_url": "",
+            "hit_score_new": 91.601562,
+            "doc_score": 5663,
+            "hit_score_final": 82.560944,
+            "user_avatar": "https://tvax1.sinaimg.cn/crop.0.0.512.512.50/a64bd601ly8h96xp2o6hej20e80e83yq.jpg?KID=imgbed,tva&Expires=1761999753&ssig=gXxtZkneC8",
+            "click_rate": 0,
+            "h": 1440,
+            "scheme": "sinaweibo://multimedia?mix_mid=5228191368872332&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=2",
+            "vtype": 0,
+            "type": "p",
+            "cur_mid": "5228191368872332"
+          },
+          {
+            "user_name": "於食记",
+            "img_pid": "006d0XWTly1i6ue1w8sx1j32c0340qvb",
+            "img": "http://wx1.sinaimg.cn/middle/006d0XWTly1i6ue1w8sx1j32c0340qvb.jpg",
+            "w": 3024,
+            "video_url": "",
+            "hit_score_new": 91.601562,
+            "doc_score": 6061,
+            "hit_score_final": 86.960938,
+            "user_avatar": "https://tvax1.sinaimg.cn/crop.0.0.656.656.50/006d0XWTly8gjormj8nbmj30i80i93zx.jpg?KID=imgbed,tva&Expires=1761999753&ssig=Uqw8CsqFeJ",
+            "click_rate": 0,
+            "h": 4032,
+            "scheme": "sinaweibo://multimedia?mix_mid=5228187107983539&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=0",
+            "vtype": 0,
+            "type": "p",
+            "cur_mid": "5228187107983539"
+          }
+        ]
+      },
+      "show_ctrl": {
+        "quote": {}
+      },
+      "share_info": {
+        "url": "http://t.cn/AXAqkYVO",
+        "unify_md5": "8377a7bac83aa23b8ded4b406ac157e6",
+        "tips": "#出行得流感怎么办#的相关内容，来智搜看看",
+        "display_name": "#出行得流感怎么办#",
+        "comment_content": "",
+        "page_id": "2329641823ee0be584a4d55761f9fe1ac1facc",
+        "status": 3
+      }
+    }
+  },
+  "links": [
+    "sinaweibo://detail?mblogid=5228193382138242",
+    "sinaweibo://detail?mblogid=5228195085550320",
+    "sinaweibo://detail?mblogid=5228194819998123",
+    "sinaweibo://detail?mblogid=5228199002769342",
+    "sinaweibo://detail?mblogid=5228187157791343",
+    "sinaweibo://detail?mblogid=5228187107983539",
+    "sinaweibo://detail?mblogid=5228187337621905",
+    "sinaweibo://detail?mblogid=5228187094876205",
+    "sinaweibo://detail?mblogid=5228187678413105",
+    "sinaweibo://detail?mblogid=5228187090420743",
+    "sinaweibo://detail?mblogid=5228187090682969",
+    "sinaweibo://detail?mblogid=5228191368872332",
+    "sinaweibo://detail?mblogid=5228187321634291",
+    "sinaweibo://detail?mblogid=5228187589804472",
+    "sinaweibo://detail?mblogid=5228199673071106",
+    "sinaweibo://detail?mblogid=5228187089896523",
+    "sinaweibo://detail?mblogid=5228188185133586",
+    "sinaweibo://detail?mblogid=5228187090684048",
+    "sinaweibo://detail?mblogid=5228187224375941",
+    "sinaweibo://detail?mblogid=5228187845656992",
+    "sinaweibo://detail?mblogid=5228187094878521",
+    "sinaweibo://detail?mblogid=5228187131838948",
+    "sinaweibo://detail?mblogid=5228187765178956",
+    "sinaweibo://detail?mblogid=5228187593212280",
+    "sinaweibo://detail?mblogid=5228187090683120",
+    "sinaweibo://detail?mblogid=5228187089896460",
+    "sinaweibo://detail?mblogid=5228189607264490",
+    "sinaweibo://detail?mblogid=5228187089897278",
+    "sinaweibo://detail?mblogid=5228126735176810",
+    "sinaweibo://detail?mblogid=5228101526356443",
+    "sinaweibo://detail?mblogid=5227950395885523",
+    "sinaweibo://detail?mblogid=5228125442015412",
+    "sinaweibo://detail?mblogid=5227544150545820"
+  ],
+  "media": [
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/006d0XWTly1i6ue1w8sx1j32c0340qvb.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/006d0XWTly1i6ue1w8sx1j32c0340qvb.jpg",
+      "alt": "於食记",
+      "width": 4032,
+      "height": 3024,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/006d0XWTly1i6ue1w8sx1j32c0340qvb.jpg"
+      ],
+      "user": "於食记"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/006jx71bgy1i6u83k6jibj30u00sfmz2.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/006jx71bgy1i6u83k6jibj30u00sfmz2.jpg",
+      "alt": "公益人王磊",
+      "width": 1023,
+      "height": 1080,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/006jx71bgy1i6u83k6jibj30u00sfmz2.jpg"
+      ],
+      "user": "公益人王磊"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/a64bd601ly1i6ualr1dwej20u0140k04.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/a64bd601ly1i6ualr1dwej20u0140k04.jpg",
+      "alt": "学霸课长",
+      "width": 1440,
+      "height": 1080,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/a64bd601ly1i6ualr1dwej20u0140k04.jpg"
+      ],
+      "user": "学霸课长"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/80b83b61ly1i6vahkj1gsj20wz1hc1ky.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/80b83b61ly1i6vahkj1gsj20wz1hc1ky.jpg",
+      "alt": "中国人口福利基金会",
+      "width": 1920,
+      "height": 1187,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx4.sinaimg.cn/large/80b83b61ly1i6vahkj1gsj20wz1hc1ky.jpg"
+      ],
+      "user": "中国人口福利基金会"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/4faacabdgy1i6wrh0alnij23n85gvb2u.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/4faacabdgy1i6wrh0alnij23n85gvb2u.jpg",
+      "alt": "新浪公益",
+      "width": 7087,
+      "height": 4724,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/4faacabdgy1i6wrh0alnij23n85gvb2u.jpg"
+      ],
+      "user": "新浪公益"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/7115e7d5gy1i6ulpqwdb1j21kw1kwked.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/7115e7d5gy1i6ulpqwdb1j21kw1kwked.jpg",
+      "alt": "帽帽moer",
+      "width": 2048,
+      "height": 2048,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/7115e7d5gy1i6ulpqwdb1j21kw1kwked.jpg"
+      ],
+      "user": "帽帽moer"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/007DM5Ywly1i6vqo57yh5j30zk0np416.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/007DM5Ywly1i6vqo57yh5j30zk0np416.jpg",
+      "alt": "痴史",
+      "width": 853,
+      "height": 1280,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/007DM5Ywly1i6vqo57yh5j30zk0np416.jpg"
+      ],
+      "user": "痴史"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/007k8n9zgy1i6udbob0d3j30u0140aos.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/007k8n9zgy1i6udbob0d3j30u0140aos.jpg",
+      "alt": "章佳明",
+      "width": 1440,
+      "height": 1080,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/007k8n9zgy1i6udbob0d3j30u0140aos.jpg"
+      ],
+      "user": "章佳明"
+    }
+  ],
+  "html_path": "data/aicard/hourly/2025-11-01/17/topic-8377a7ba.html"
+}

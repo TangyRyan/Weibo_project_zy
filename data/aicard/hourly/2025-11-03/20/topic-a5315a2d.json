@@ -1,0 +1,350 @@
+{
+  "meta": {
+    "query": "#关注第八届进博会#",
+    "status_code": 200,
+    "fetched_at": "2025-11-03T20:47:25+08:00",
+    "response": {
+      "wenda": {
+        "forward_gen": 0
+      },
+      "msg_format": "markdown",
+      "current_time": 1762174046,
+      "profile_image_url": "",
+      "user_info": {},
+      "msg_json": "{}",
+      "mid_list": null,
+      "reference_num": 31,
+      "query_category": "",
+      "status_stage": 4,
+      "link_list": [
+        "sinaweibo://detail?mblogid=5228421137039460",
+        "sinaweibo://detail?mblogid=5228811282022955",
+        "sinaweibo://detail?mblogid=5228915636306559",
+        "sinaweibo://detail?mblogid=5228807745178226",
+        "sinaweibo://detail?mblogid=5228534383247555",
+        "sinaweibo://detail?mblogid=5228079228126901",
+        "sinaweibo://detail?mblogid=5228975547745258",
+        "sinaweibo://detail?mblogid=5227719010551606",
+        "sinaweibo://detail?mblogid=5228822742175493",
+        "sinaweibo://detail?mblogid=5228591458553169",
+        "broadsocial_res://",
+        "broadsocial_res://",
+        "historyweibo://5228811282022955",
+        "historyweibo://5226660800501876",
+        "historyweibo://4963198782933459",
+        "sinaweibo://detail?mblogid=5228935120160383",
+        "sinaweibo://detail?mblogid=5228966475989435",
+        "sinaweibo://detail?mblogid=5228939937055888",
+        "sinaweibo://detail?mblogid=5228917505918879",
+        "sinaweibo://detail?mblogid=5228943072035059",
+        "sinaweibo://detail?mblogid=5228942284033778",
+        "sinaweibo://detail?mblogid=5228828767028902",
+        "sinaweibo://detail?mblogid=5228681029225676",
+        "sinaweibo://detail?mblogid=5228664260395711",
+        "sinaweibo://detail?mblogid=5228997165452992",
+        "sinaweibo://detail?mblogid=5228997042504466",
+        "sinaweibo://detail?mblogid=5228996388461049",
+        "sinaweibo://detail?mblogid=5228995763503328",
+        "sinaweibo://detail?mblogid=5228995714224625",
+        "sinaweibo://detail?mblogid=5228994317258047",
+        "sinaweibo://detail?mblogid=5228837232968232",
+        "sinaweibo://detail?mblogid=5228849442586633",
+        "sinaweibo://detail?mblogid=5228851472367666",
+        "sinaweibo://detail?mblogid=5228907062366122",
+        "sinaweibo://detail?mblogid=5228835865101748",
+        "sinaweibo://detail?mblogid=5228911871134473"
+      ],
+      "top_quote_list": {},
+      "page_id": "232964da9b8d0763ee9825dfeb2814b0b11746",
+      "share_card_multimodal": {
+        "doc_score": 4243,
+        "img_pid": "aafc85c3gy1i6ysrumenzj20ku0vo7g2",
+        "vtype": 3,
+        "w": 750,
+        "h": 1140,
+        "img": "http://wx3.sinaimg.cn/middle/aafc85c3gy1i6ysrumenzj20ku0vo7g2.jpg",
+        "scheme": "sinaweibo://multimedia?mix_mid=5228837232968232&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=0",
+        "click_rate": 0.14285714285714,
+        "user_name": "财联社APP",
+        "type": "p",
+        "user_avatar": "https://tvax4.sinaimg.cn/crop.0.0.180.180.50/aafc85c3ly8h8vg6ezotfj2050050dfn.jpg?KID=imgbed,tva&Expires=1762184368&ssig=wasVmfzOr3",
+        "cur_mid": "5228837232968232",
+        "video_url": "",
+        "hit_score_new": 98.828125,
+        "hit_score_final": 84.896881
+      },
+      "basemodel": "实验组10",
+      "query_field": "60",
+      "chat_status_stage": 1,
+      "unify_md5": "a5315a2d148a415282de703ef2ed4c1d",
+      "news_analyze": {},
+      "reliable_tips": "{\"gold_orange_v_mids\": [\"5228939937055888\", \"5228664260395711\", \"5227719010551606\", \"5228917505918879\", \"5228828767028902\", \"5228996388461049\", \"5228995714224625\", \"5228994317258047\"], \"gold_orange_v_ratio\": \"26%\", \"media_mids\": [\"5228811282022955\", \"5228837232968232\", \"5228421137039460\", \"5228822742175493\", \"5228975547745258\", \"5228915636306559\", \"5228591458553169\", \"5228079228126901\"], \"media_ratio\": \"26%\", \"verified_mids\": [\"5228807745178226\", \"5228849442586633\", \"5228935120160383\", \"5228907062366122\", \"5228835865101748\", \"5228942284033778\", \"5228534383247555\", \"5228966475989435\", \"5228943072035059\", \"5228681029225676\", \"5228997165452992\", \"5228995763503328\", \"5228851472367666\", \"5228911871134473\"], \"verified_ratio\": \"45%\", \"normal_mids\": [\"5228997042504466\"], \"normal_ratio\": \"3%\", \"ref_mid_rank\": {\"5228811282022955\": {\"rank\": 2}, \"5228837232968232\": {\"rank\": 31}, \"5228421137039460\": {\"rank\": 1}, \"5228807745178226\": {\"rank\": 4}, \"5228849442586633\": {\"rank\": 32}, \"5228935120160383\": {\"rank\": 16}, \"5228939937055888\": {\"rank\": 18}, \"5228822742175493\": {\"rank\": 9}, \"5228975547745258\": {\"rank\": 7}, \"5228915636306559\": {\"rank\": 3}, \"5228907062366122\": {\"rank\": 34}, \"5228835865101748\": {\"rank\": 35}, \"5228591458553169\": {\"rank\": 10}, \"5228942284033778\": {\"rank\": 21}, \"5228664260395711\": {\"rank\": 24}, \"5228534383247555\": {\"rank\": 5}, \"5228079228126901\": {\"rank\": 6}, \"5227719010551606\": {\"rank\": 8}, \"5228966475989435\": {\"rank\": 17}, \"5228917505918879\": {\"rank\": 19}, \"5228943072035059\": {\"rank\": 20}, \"5228828767028902\": {\"rank\": 22}, \"5228681029225676\": {\"rank\": 23}, \"5228997165452992\": {\"rank\": 25}, \"5228997042504466\": {\"rank\": 26}, \"5228996388461049\": {\"rank\": 27}, \"5228995763503328\": {\"rank\": 28}, \"5228995714224625\": {\"rank\": 29}, \"5228994317258047\": {\"rank\": 30}, \"5228851472367666\": {\"rank\": 33}, \"5228911871134473\": {\"rank\": 36}}}",
+      "ext_show": {},
+      "short_url": "http://t.cn/AXA6sKZC",
+      "share_info": {
+        "tips": "#关注第八届进博会#的相关内容，来智搜看看",
+        "unify_md5": "a5315a2d148a415282de703ef2ed4c1d",
+        "status": 3,
+        "url": "http://t.cn/AXAay821",
+        "page_id": "232964da9b8d0763ee9825dfeb2814b0b11746",
+        "display_name": "#关注第八届进博会#",
+        "comment_content": ""
+      },
+      "share_text": "#关注第八届进博会#的相关内容，来智搜看看",
+      "comment_info": {},
+      "zs_risk_control": {
+        "think_text_close": 0,
+        "land_button_close": 0
+      },
+      "query": "#关注第八届进博会#",
+      "q_attr": {
+        "from_uid": "",
+        "comment_from_type": "",
+        "from_request_id": "",
+        "mid": "",
+        "reply_cid": ""
+      },
+      "status": 2,
+      "qs_status": 0,
+      "model": "deepseek",
+      "ab_suffix": "default",
+      "sorted_material_list": "[{\"mid\": \"5228811282022955\", \"rank\": 2, \"type\": \"weibo\"}, {\"mid\": \"5228837232968232\", \"rank\": 31, \"type\": \"weibo\"}, {\"mid\": \"5228421137039460\", \"rank\": 1, \"type\": \"weibo\"}, {\"mid\": \"5228807745178226\", \"rank\": 4, \"type\": \"weibo\"}, {\"mid\": \"5228849442586633\", \"rank\": 32, \"type\": \"weibo\"}, {\"mid\": \"5228935120160383\", \"rank\": 16, \"type\": \"weibo\"}, {\"mid\": \"5228939937055888\", \"rank\": 18, \"type\": \"weibo\"}, {\"mid\": \"5228822742175493\", \"rank\": 9, \"type\": \"weibo\"}, {\"mid\": \"5228975547745258\", \"rank\": 7, \"type\": \"weibo\"}, {\"mid\": \"5228915636306559\", \"rank\": 3, \"type\": \"weibo\"}, {\"mid\": \"5228907062366122\", \"rank\": 34, \"type\": \"weibo\"}, {\"mid\": \"5228835865101748\", \"rank\": 35, \"type\": \"weibo\"}, {\"mid\": \"5228591458553169\", \"rank\": 10, \"type\": \"weibo\"}, {\"mid\": \"5228942284033778\", \"rank\": 21, \"type\": \"weibo\"}, {\"mid\": \"5228664260395711\", \"rank\": 24, \"type\": \"weibo\"}, {\"mid\": \"5228534383247555\", \"rank\": 5, \"type\": \"weibo\"}, {\"mid\": \"5228079228126901\", \"rank\": 6, \"type\": \"weibo\"}, {\"mid\": \"5227719010551606\", \"rank\": 8, \"type\": \"weibo\"}, {\"mid\": \"5228966475989435\", \"rank\": 17, \"type\": \"weibo\"}, {\"mid\": \"5228917505918879\", \"rank\": 19, \"type\": \"weibo\"}, {\"mid\": \"5228943072035059\", \"rank\": 20, \"type\": \"weibo\"}, {\"mid\": \"5228828767028902\", \"rank\": 22, \"type\": \"weibo\"}, {\"mid\": \"5228681029225676\", \"rank\": 23, \"type\": \"weibo\"}, {\"mid\": \"5228997165452992\", \"rank\": 25, \"type\": \"weibo\"}, {\"mid\": \"5228997042504466\", \"rank\": 26, \"type\": \"weibo\"}, {\"mid\": \"5228996388461049\", \"rank\": 27, \"type\": \"weibo\"}, {\"mid\": \"5228995763503328\", \"rank\": 28, \"type\": \"weibo\"}, {\"mid\": \"5228995714224625\", \"rank\": 29, \"type\": \"weibo\"}, {\"mid\": \"5228994317258047\", \"rank\": 30, \"type\": \"weibo\"}, {\"mid\": \"5228851472367666\", \"rank\": 33, \"type\": \"weibo\"}, {\"mid\": \"5228911871134473\", \"rank\": 36, \"type\": \"weibo\"}]",
+      "card_multimodal": {
+        "type": "mediablock",
+        "data": [
+          {
+            "doc_score": 4243,
+            "img_pid": "aafc85c3gy1i6ysrumenzj20ku0vo7g2",
+            "vtype": 3,
+            "w": 750,
+            "h": 1140,
+            "img": "http://wx3.sinaimg.cn/middle/aafc85c3gy1i6ysrumenzj20ku0vo7g2.jpg",
+            "scheme": "sinaweibo://multimedia?mix_mid=5228837232968232&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=0",
+            "click_rate": 0.14285714285714,
+            "user_name": "财联社APP",
+            "type": "p",
+            "user_avatar": "https://tvax4.sinaimg.cn/crop.0.0.180.180.50/aafc85c3ly8h8vg6ezotfj2050050dfn.jpg?KID=imgbed,tva&Expires=1762184368&ssig=wasVmfzOr3",
+            "cur_mid": "5228837232968232",
+            "video_url": "",
+            "hit_score_new": 98.828125,
+            "hit_score_final": 84.896881
+          },
+          {
+            "doc_score": 0,
+            "img_pid": "0034c2ttly1i6wyzfafkkj63gz29zb2a02",
+            "vtype": 3,
+            "w": 4499,
+            "h": 2951,
+            "img": "http://wx1.sinaimg.cn/middle/0034c2ttly1i6wyzfafkkj63gz29zb2a02.jpg",
+            "scheme": "sinaweibo://multimedia?mix_mid=5228421137039460&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=1&multi_count=1",
+            "click_rate": 0.12382591412054,
+            "user_name": "新华网",
+            "type": "p",
+            "user_avatar": "https://tvax3.sinaimg.cn/crop.8.11.119.119.50/0034c2ttly8h8vg8d8h2ij6046046q2t02.jpg?KID=imgbed,tva&Expires=1762184368&ssig=2RjcOZrenv",
+            "cur_mid": "5228421137039460",
+            "video_url": "",
+            "hit_score_new": 0,
+            "hit_score_final": 0
+          },
+          {
+            "doc_score": 4197,
+            "img_pid": "005sq2Yvly1i6yu638emjj618g0p00yf02",
+            "vtype": 1,
+            "w": 1600,
+            "h": 900,
+            "img": "http://wx4.sinaimg.cn/middle/005sq2Yvly1i6yu638emjj618g0p00yf02.jpg",
+            "scheme": "sinaweibo://multimedia?mix_mid=5228849442586633&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=2",
+            "click_rate": 0.092436974789916,
+            "user_name": "中国政府网",
+            "type": "p",
+            "user_avatar": "https://tvax4.sinaimg.cn/crop.0.0.600.600.50/005sq2Yvly8i0e78n4z19j60go0gota602.jpg?KID=imgbed,tva&Expires=1762184368&ssig=fSy%2F%2FQapLU",
+            "cur_mid": "5228849442586633",
+            "video_url": "",
+            "hit_score_new": 89.648438,
+            "hit_score_final": 80.189064
+          },
+          {
+            "doc_score": 4243,
+            "img_pid": "aafc85c3gy1i6ysrumenzj20ku0vo7g2",
+            "vtype": 3,
+            "w": 750,
+            "h": 1140,
+            "img": "http://wx3.sinaimg.cn/middle/aafc85c3gy1i6ysrumenzj20ku0vo7g2.jpg",
+            "scheme": "sinaweibo://multimedia?mix_mid=5228837232968232&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=0",
+            "click_rate": 0.14285714285714,
+            "user_name": "财联社APP",
+            "type": "p",
+            "user_avatar": "https://tvax4.sinaimg.cn/crop.0.0.180.180.50/aafc85c3ly8h8vg6ezotfj2050050dfn.jpg?KID=imgbed,tva&Expires=1762184368&ssig=wasVmfzOr3",
+            "cur_mid": "5228837232968232",
+            "video_url": "",
+            "hit_score_new": 98.828125,
+            "hit_score_final": 84.896881
+          }
+        ]
+      },
+      "uid": "",
+      "scheme": "sinaweibo://cardlist?containerid=100103type%3D225%26q%3D%23%E5%85%B3%E6%B3%A8%E7%AC%AC%E5%85%AB%E5%B1%8A%E8%BF%9B%E5%8D%9A%E4%BC%9A%23%26t%3D&extparam=ai_model%3Ddeepseek%26ori_ai_title%3D%E5%8F%82%E8%80%83%E5%8D%9A%E6%96%87%26material_version%3D1762173568",
+      "msg": "<think><br><br>嗯，用户让我关注\"第八届进博会\"，我需要从这些搜索结果中整理相关信息。首先，看看进博会的基本情况。开幕时间是11月5日至10日在上海举办，李强总理将出席开幕式并发表演讲。展览面积超过43万平方米，创历史新高，有155个国家、地区和国际组织参与，参展企业达4108家，其中290家是世界500强和龙头企业。<br><br>规模方面，前七届累计意向成交额超过5000亿美元，今年预计会有更多突破。专业采购商有44.95万人，比去年增长。非洲企业参展数量同比增加了80%，另外首次设立最不发达国家产品专区，提供零关税优惠，但仅限联合国认定的国家，如马里、乍得，并非所有非洲建交国都能享受。<br><br>亮点展品方面，特斯拉将展示无人驾驶出租车Cybercab，这是亚太首秀。大众汽车带来8款车型，包括3款为中国市场设计的纯电概念车。首发新品有461项，技术装备展区占比较高。还有来自厄瓜多尔的红皮蕉、泰国的椰子蛋等水果的中国首秀。<br><br>配套活动方面，虹桥论坛有33场分论坛，新增全球南方农业可持续发展论坛。交通方面，上海地铁建议避开2号线，推荐10号线转17号线。此外，进博会100%使用绿电，连续三年实现全绿电办展。<br><br>志愿者方面，3865名\"小叶子\"志愿者参与服务。香港特首李家超将率团参观。中国银行作为唯一战略合作伙伴，提供金融服务。<br><br>还有一些花絮，比如三星的打卡活动，益海嘉里展示健康美食等。不过要注意，某些内容如结果27涉及巴以冲突，与进博会无关，应该忽略。<br><br></think><br>以下是关于第八届中国国际进口博览会（进博会）的核心信息整理：<br>### 🔥 **一、基础信息**  <br>1. **时间与地点**  <br>   - 举办时间：**2025年11月5日至10日**（本周三至下周一）。```wbCustomBlock{\"type\": \"quoted\", \"index\": 4, \"data\": {\"num\": [2, 31], \"version\": 2, \"quote_list\": [{\"name\": \"人民日报\", \"scheme\": \"sinaweibo://detail?mblogid=5228811282022955\", \"index\": 2, \"label\": \"大v\"}, {\"name\": \"财联社APP\", \"scheme\": \"sinaweibo://detail?mblogid=5228837232968232\", \"index\": 31, \"label\": \"\"}], \"name\": \"人民日报\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.1018.1018.50/0033ImPzly8h8vgemh8kxj60sa0sadgw02.jpg?KID=imgbed,tva&Expires=1762184368&ssig=ubecDXwpJC\", \"scheme\": \"sinaweibo://detail?mblogid=5228811282022955\", \"vType\": 3}}```  <br>   - 举办地点：上海国家会展中心（“四叶草”）。```wbCustomBlock{\"type\": \"quoted\", \"index\": 5, \"data\": {\"num\": [1, 4], \"version\": 2, \"quote_list\": [{\"name\": \"新华网\", \"scheme\": \"sinaweibo://detail?mblogid=5228421137039460\", \"index\": 1, \"label\": \"大v\"}, {\"name\": \"上海地铁shmetro\", \"scheme\": \"sinaweibo://detail?mblogid=5228807745178226\", \"index\": 4, \"label\": \"\"}], \"name\": \"新华网\", \"img\": \"https://tvax3.sinaimg.cn/crop.8.11.119.119.50/0034c2ttly8h8vg8d8h2ij6046046q2t02.jpg?KID=imgbed,tva&Expires=1762184368&ssig=2RjcOZrenv\", \"scheme\": \"sinaweibo://detail?mblogid=5228421137039460\", \"vType\": 3}}```  <br>   - 开幕式：国务院总理李强将出席并发表主旨演讲。```wbCustomBlock{\"type\": \"quoted\", \"index\": 6, \"data\": {\"num\": [31, 32], \"version\": 2, \"quote_list\": [{\"name\": \"财联社APP\", \"scheme\": \"sinaweibo://detail?mblogid=5228837232968232\", \"index\": 31, \"label\": \"大v\"}, {\"name\": \"中国政府网\", \"scheme\": \"sinaweibo://detail?mblogid=5228849442586633\", \"index\": 32, \"label\": \"\"}], \"name\": \"财联社APP\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.180.180.50/aafc85c3ly8h8vg6ezotfj2050050dfn.jpg?KID=imgbed,tva&Expires=1762184368&ssig=wasVmfzOr3\", \"scheme\": \"sinaweibo://detail?mblogid=5228837232968232\", \"vType\": 3}}```  <br><br>2. **规模与参与度**  <br>   - **展览面积**：超43万平方米（历届新高）。```wbCustomBlock{\"type\": \"quoted\", \"index\": 8, \"data\": {\"num\": [2], \"version\": 2, \"quote_list\": [{\"name\": \"人民日报\", \"scheme\": \"sinaweibo://detail?mblogid=5228811282022955\", \"index\": 2, \"label\": \"\"}]}}```  <br>   - **参展方**：155个国家/地区和国际组织参与，4108家境外企业参展。```wbCustomBlock{\"type\": \"quoted\", \"index\": 9, \"data\": {\"num\": [2], \"version\": 2, \"quote_list\": [{\"name\": \"人民日报\", \"scheme\": \"sinaweibo://detail?mblogid=5228811282022955\", \"index\": 2, \"label\": \"\"}]}}```  <br>   - **全勤企业**：170家连续8年参展（如大众、拜耳）。  <br>   - **专业采购商**：44.95万人（同比持续增长）。<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5228837232968232&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.180.180.50/aafc85c3ly8h8vg6ezotfj2050050dfn.jpg?KID=imgbed,tva&Expires=1762184368&ssig=wasVmfzOr3) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">财联社APP</span><img src=\"http://wx3.sinaimg.cn/middle/aafc85c3gy1i6ysrumenzj20ku0vo7g2.jpg\" data-width=1140 data-height=750></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5228421137039460&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=1&multi_count=1\"><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.8.11.119.119.50/0034c2ttly8h8vg8d8h2ij6046046q2t02.jpg?KID=imgbed,tva&Expires=1762184368&ssig=2RjcOZrenv) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">新华网</span><img src=\"http://wx1.sinaimg.cn/middle/0034c2ttly1i6wyzfafkkj63gz29zb2a02.jpg\" data-width=2951 data-height=4499></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5228849442586633&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=2\"><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.600.600.50/005sq2Yvly8i0e78n4z19j60go0gota602.jpg?KID=imgbed,tva&Expires=1762184368&ssig=fSy%2F%2FQapLU) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">中国政府网</span><img src=\"http://wx4.sinaimg.cn/middle/005sq2Yvly1i6yu638emjj618g0p00yf02.jpg\" data-width=900 data-height=1600></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5228811282022955&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=1&multi_count=3\"><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.1018.1018.50/0033ImPzly8h8vgemh8kxj60sa0sadgw02.jpg?KID=imgbed,tva&Expires=1762184368&ssig=ubecDXwpJC) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">人民日报</span><img src=\"http://wx3.sinaimg.cn/middle/0033ImPzly1i6ypqzglyzj60p00vg77w02.jpg\" data-width=1132 data-height=900></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5228807745178226&multi_paragraph=1&multi_count=4\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.800.800.50/001TXoFzly8h8uz4lk48jj60m80m8q6102.jpg?KID=imgbed,tva&Expires=1762184368&ssig=uZxlmTCW3m) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">上海地铁shmetro</span><img src=\"http://wx1.sinaimg.cn/middle/001TXoFzgy1i6ypcx19gtj61hc0u0qv502.jpg\" data-width=1080 data-height=1920></div></media-block><br>### 🌟 **二、核心亮点**<br>#### **展区与展品创新**  <br>1. **全球新品首发**  <br>   - **461项首发新品**：技术装备展区占比最高。  <br>   - **特色展品**：  <br>     - 特斯拉无人驾驶出租车 **Cybercab**（亚太首秀）；```wbCustomBlock{\"type\": \"quoted\", \"index\": 18, \"data\": {\"num\": [16, 18], \"version\": 2, \"quote_list\": [{\"name\": \"魔都新鲜事-新闻晨报\", \"scheme\": \"sinaweibo://detail?mblogid=5228935120160383\", \"index\": 16, \"label\": \"大v\"}, {\"name\": \"电动车公社哔哔机\", \"scheme\": \"sinaweibo://detail?mblogid=5228939937055888\", \"index\": 18, \"label\": \"\"}], \"name\": \"魔都新鲜事-新闻晨报\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/006p0wSLly8go5by2c8fmj30u00u0tb8.jpg?KID=imgbed,tva&Expires=1762184368&ssig=cTndIIUwHf\", \"scheme\": \"sinaweibo://detail?mblogid=5228935120160383\", \"vType\": 3}}```  <br>     - 大众ID.EVO等 **3款纯电概念车**（专为中国设计）；```wbCustomBlock{\"type\": \"quoted\", \"index\": 19, \"data\": {\"num\": [9], \"version\": 2, \"quote_list\": [{\"name\": \"中国汽车报\", \"scheme\": \"sinaweibo://detail?mblogid=5228822742175493\", \"index\": 9, \"label\": \"\"}]}}```  <br>     - 厄瓜多尔红皮蕉、泰国椰子蛋等 **异国水果中国首秀**。```wbCustomBlock{\"type\": \"quoted\", \"index\": 20, \"data\": {\"num\": [7], \"version\": 2, \"quote_list\": [{\"name\": \"新华社\", \"scheme\": \"sinaweibo://detail?mblogid=5228975547745258\", \"index\": 7, \"label\": \"大v\"}], \"name\": \"新华社\", \"img\": \"https://tvax2.sinaimg.cn/crop.58.61.875.875.50/001R0E0aly8h8vg6xx3srj60rs0rsdko02.jpg?KID=imgbed,tva&Expires=1762184368&ssig=tR75P4we3Z\", \"scheme\": \"sinaweibo://detail?mblogid=5228975547745258\", \"vType\": 3}}```  <br><br>2. **专区升级**  <br>   - **最不发达国家产品专区**：首次设立，为联合国认定的国家（如马里、乍得）提供零关税政策。  <br>   - **非洲产品专区**：参展企业数同比增80%。<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5228822742175493&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=3&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.551.551.50/77e67aealy8h8w1un45p8j20fb0fbwev.jpg?KID=imgbed,tva&Expires=1762184368&ssig=3YmawZMJmV) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">中国汽车报</span><img src=\"http://wx1.sinaimg.cn/middle/77e67aealy1i6yr3ud6kqj20u01pedni.jpg\" data-width=2210 data-height=1080></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5228975547745258&multi_paragraph=3&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.58.61.875.875.50/001R0E0aly8h8vg6xx3srj60rs0rsdko02.jpg?KID=imgbed,tva&Expires=1762184368&ssig=tR75P4we3Z) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">新华社</span><img src=\"http://wx3.sinaimg.cn/middle/001R0E0aly1i6z8nnkdzlj61hc0u0jv202.jpg\" data-width=1080 data-height=1920></div></media-block><br>#### **国家展与科技展示**  <br>- **中国馆亮点**：CR450动车模型、月球土壤、6G应用等前沿科技。  <br>- **国际参与**：67国与国际组织参展，含6大主宾国。格鲁吉亚总理、塞尔维亚总理等多国政要将出席开幕式。```wbCustomBlock{\"type\": \"quoted\", \"index\": 26, \"data\": {\"num\": [3, 34], \"version\": 2, \"quote_list\": [{\"name\": \"中国新闻网\", \"scheme\": \"sinaweibo://detail?mblogid=5228915636306559\", \"index\": 3, \"label\": \"大v\"}, {\"name\": \"香港政府新聞網\", \"scheme\": \"sinaweibo://detail?mblogid=5228907062366122\", \"index\": 34, \"label\": \"\"}], \"name\": \"中国新闻网\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.300.300.50/001WLsZ7ly8h8vgjl2u01j608c08caa302.jpg?KID=imgbed,tva&Expires=1762184368&ssig=eKO5VrXftp\", \"scheme\": \"sinaweibo://detail?mblogid=5228915636306559\", \"vType\": 3}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5228915636306559&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=4&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.300.300.50/001WLsZ7ly8h8vgjl2u01j608c08caa302.jpg?KID=imgbed,tva&Expires=1762184368&ssig=eKO5VrXftp) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">中国新闻网</span><img src=\"http://wx3.sinaimg.cn/middle/001WLsZ7ly1i6z1rr5vw3j61590mnn9t02.jpg\" data-width=815 data-height=1485></div></media-block><br>#### **绿色与数字化实践**  <br>- **100%绿电办展**：连续三年实现全绿电供应，采购绿电800万千瓦时。```wbCustomBlock{\"type\": \"quoted\", \"index\": 28, \"data\": {\"num\": [35], \"version\": 2, \"quote_list\": [{\"name\": \"潍坊环保\", \"scheme\": \"sinaweibo://detail?mblogid=5228835865101748\", \"index\": 35, \"label\": \"大v\"}], \"name\": \"潍坊环保\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.512.512.50/d45405ably8h8vgdbn04nj20e80e874r.jpg?KID=imgbed,tva&Expires=1762184368&ssig=5i7%2BvdDnmF\", \"scheme\": \"sinaweibo://detail?mblogid=5228835865101748\", \"vType\": 1}}```  <br>- **金融科技**：中国银行作为唯一战略合作伙伴，提供跨境支付、离境退税“掌上办”等数字化服务。```wbCustomBlock{\"type\": \"quoted\", \"index\": 29, \"data\": {\"num\": [10], \"version\": 2, \"quote_list\": [{\"name\": \"东方财经\", \"scheme\": \"sinaweibo://detail?mblogid=5228591458553169\", \"index\": 10, \"label\": \"大v\"}], \"name\": \"东方财经\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/006ckfnZly8hiy2p0p8fqj30u00u040d.jpg?KID=imgbed,tva&Expires=1762184368&ssig=kzZT0d2%2BAi\", \"scheme\": \"sinaweibo://detail?mblogid=5228591458553169\", \"vType\": 3}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5228591458553169&multi_paragraph=5&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/006ckfnZly8hiy2p0p8fqj30u00u040d.jpg?KID=imgbed,tva&Expires=1762184368&ssig=kzZT0d2%2BAi) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">东方财经</span><img src=\"http://wx3.sinaimg.cn/middle/006ckfnZly1i6y0ibbafwj31hc0u0afq.jpg\" data-width=1080 data-height=1920></div></media-block><br>### 🚇 **三、服务与保障**  <br>1. **交通优化**  <br>   - **地铁分流**：避开2号线，推荐 **10号线→虹桥火车站站→换乘17号线**至国家会展中心站。```wbCustomBlock{\"type\": \"quoted\", \"index\": 33, \"data\": {\"num\": [4], \"version\": 2, \"quote_list\": [{\"name\": \"上海地铁shmetro\", \"scheme\": \"sinaweibo://detail?mblogid=5228807745178226\", \"index\": 4, \"label\": \"大v\"}], \"name\": \"上海地铁shmetro\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.800.800.50/001TXoFzly8h8uz4lk48jj60m80m8q6102.jpg?KID=imgbed,tva&Expires=1762184368&ssig=uZxlmTCW3m\", \"scheme\": \"sinaweibo://detail?mblogid=5228807745178226\", \"vType\": 1}}```  <br>   - **新增站点**：蟠祥路·国家会计学院站与虹桥2号航站楼站分流客流。```wbCustomBlock{\"type\": \"quoted\", \"index\": 34, \"data\": {\"num\": [4], \"version\": 2, \"quote_list\": [{\"name\": \"上海地铁shmetro\", \"scheme\": \"sinaweibo://detail?mblogid=5228807745178226\", \"index\": 4, \"label\": \"\"}]}}```  <br><br>2. **城市配套**  <br>   - **外籍便利化**：首创电子口岸签证，支持全程网办入境。  <br>   - **多语种服务**：新增志愿者覆盖小语种需求。  <br><br>3. **志愿者与安保**  <br>   - **“小叶子”志愿者**：3865名青年志愿者服务展馆。```wbCustomBlock{\"type\": \"quoted\", \"index\": 39, \"data\": {\"num\": [21], \"version\": 2, \"quote_list\": [{\"name\": \"青春上海\", \"scheme\": \"sinaweibo://detail?mblogid=5228942284033778\", \"index\": 21, \"label\": \"大v\"}], \"name\": \"青春上海\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.1024.1024.50/7519b8b5ly8h8vgjaxlhvj20sg0sgdgm.jpg?KID=imgbed,tva&Expires=1762184368&ssig=MRSUHJIH%2FH\", \"scheme\": \"sinaweibo://detail?mblogid=5228942284033778\", \"vType\": 1}}```  <br>   - **证件复用**：第五至七届进博会证件可复用，简化注册流程。<br>### 💎 **四、延伸影响**  <br>- **历史成交额**：前七届累计意向成交超5000亿美元。```wbCustomBlock{\"type\": \"quoted\", \"index\": 43, \"data\": {\"num\": [2], \"version\": 2, \"quote_list\": [{\"name\": \"人民日报\", \"scheme\": \"sinaweibo://detail?mblogid=5228811282022955\", \"index\": 2, \"label\": \"\"}]}}```  <br>- **溢出效应**：  <br>  - **“展品变商品”**：2800+展商入驻365天展贸平台；  <br>  - **“展商变投资商”**：青浦区精准对接280家重点企业推动落地。  <br>- **香港参与**：特首李家超率团参展，设立香港展示区。```wbCustomBlock{\"type\": \"quoted\", \"index\": 47, \"data\": {\"num\": [34], \"version\": 2, \"quote_list\": [{\"name\": \"香港政府新聞網\", \"scheme\": \"sinaweibo://detail?mblogid=5228907062366122\", \"index\": 34, \"label\": \"\"}], \"name\": \"香港政府新聞網\", \"img\": \"https://tva3.sinaimg.cn/crop.4.4.495.495.50/6969cdd9jw8ey66gq8pfmj20dw0dw0tj.jpg?KID=imgbed,tva&Expires=1762184368&ssig=rLT8%2FHyLe1\", \"scheme\": \"sinaweibo://detail?mblogid=5228907062366122\", \"vType\": 1}}```  <br><br>> 📌 **一句话总结**：第八届进博会以 **“确定性应对全球不确定性”** 为基调，通过扩容规模、首发经济、绿色实践与数字化服务，彰显中国高水平开放的决心。```wbCustomBlock{\"type\": \"quoted\", \"index\": 48, \"data\": {\"num\": [24], \"version\": 2, \"quote_list\": [{\"name\": \"菟汱\", \"scheme\": \"sinaweibo://detail?mblogid=5228664260395711\", \"index\": 24, \"label\": \"\"}]}}```<br>",
+      "abtest_info": {
+        "chat_entrance": 1
+      },
+      "version": "2025-11-03 20:39:28.094000-7144",
+      "qs_status_info": "{\"ab_lab\":{},\"qs_q_status\":0,\"qs_status\":0,\"qs_c_status\":8388614,\"qs_r_status\":0,\"qs_u_status\":0}",
+      "show_ctrl": {
+        "quote": {}
+      },
+      "loop_times": 200,
+      "analysis_time": 1762173907,
+      "cot": 1
+    }
+  },
+  "links": [
+    "sinaweibo://detail?mblogid=5228421137039460",
+    "sinaweibo://detail?mblogid=5228811282022955",
+    "sinaweibo://detail?mblogid=5228915636306559",
+    "sinaweibo://detail?mblogid=5228807745178226",
+    "sinaweibo://detail?mblogid=5228534383247555",
+    "sinaweibo://detail?mblogid=5228079228126901",
+    "sinaweibo://detail?mblogid=5228975547745258",
+    "sinaweibo://detail?mblogid=5227719010551606",
+    "sinaweibo://detail?mblogid=5228822742175493",
+    "sinaweibo://detail?mblogid=5228591458553169",
+    "broadsocial_res://",
+    "broadsocial_res://",
+    "historyweibo://5228811282022955",
+    "historyweibo://5226660800501876",
+    "historyweibo://4963198782933459",
+    "sinaweibo://detail?mblogid=5228935120160383",
+    "sinaweibo://detail?mblogid=5228966475989435",
+    "sinaweibo://detail?mblogid=5228939937055888",
+    "sinaweibo://detail?mblogid=5228917505918879",
+    "sinaweibo://detail?mblogid=5228943072035059",
+    "sinaweibo://detail?mblogid=5228942284033778",
+    "sinaweibo://detail?mblogid=5228828767028902",
+    "sinaweibo://detail?mblogid=5228681029225676",
+    "sinaweibo://detail?mblogid=5228664260395711",
+    "sinaweibo://detail?mblogid=5228997165452992",
+    "sinaweibo://detail?mblogid=5228997042504466",
+    "sinaweibo://detail?mblogid=5228996388461049",
+    "sinaweibo://detail?mblogid=5228995763503328",
+    "sinaweibo://detail?mblogid=5228995714224625",
+    "sinaweibo://detail?mblogid=5228994317258047",
+    "sinaweibo://detail?mblogid=5228837232968232",
+    "sinaweibo://detail?mblogid=5228849442586633",
+    "sinaweibo://detail?mblogid=5228851472367666",
+    "sinaweibo://detail?mblogid=5228907062366122",
+    "sinaweibo://detail?mblogid=5228835865101748",
+    "sinaweibo://detail?mblogid=5228911871134473"
+  ],
+  "media": [
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/aafc85c3gy1i6ysrumenzj20ku0vo7g2.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/aafc85c3gy1i6ysrumenzj20ku0vo7g2.jpg",
+      "alt": "财联社APP",
+      "width": 1140,
+      "height": 750,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/aafc85c3gy1i6ysrumenzj20ku0vo7g2.jpg"
+      ],
+      "user": "财联社APP"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/0034c2ttly1i6wyzfafkkj63gz29zb2a02.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/0034c2ttly1i6wyzfafkkj63gz29zb2a02.jpg",
+      "alt": "新华网",
+      "width": 2951,
+      "height": 4499,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/0034c2ttly1i6wyzfafkkj63gz29zb2a02.jpg"
+      ],
+      "user": "新华网"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/005sq2Yvly1i6yu638emjj618g0p00yf02.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/005sq2Yvly1i6yu638emjj618g0p00yf02.jpg",
+      "alt": "中国政府网",
+      "width": 900,
+      "height": 1600,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/005sq2Yvly1i6yu638emjj618g0p00yf02.jpg"
+      ],
+      "user": "中国政府网"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/0033ImPzly1i6ypqzglyzj60p00vg77w02.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/0033ImPzly1i6ypqzglyzj60p00vg77w02.jpg",
+      "alt": "人民日报",
+      "width": 1132,
+      "height": 900,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx4.sinaimg.cn/large/0033ImPzly1i6ypqzglyzj60p00vg77w02.jpg"
+      ],
+      "user": "人民日报"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/001TXoFzgy1i6ypcx19gtj61hc0u0qv502.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/001TXoFzgy1i6ypcx19gtj61hc0u0qv502.jpg",
+      "alt": "上海地铁shmetro",
+      "width": 1080,
+      "height": 1920,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/001TXoFzgy1i6ypcx19gtj61hc0u0qv502.jpg"
+      ],
+      "user": "上海地铁shmetro"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/77e67aealy1i6yr3ud6kqj20u01pedni.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/77e67aealy1i6yr3ud6kqj20u01pedni.jpg",
+      "alt": "中国汽车报",
+      "width": 2210,
+      "height": 1080,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/77e67aealy1i6yr3ud6kqj20u01pedni.jpg"
+      ],
+      "user": "中国汽车报"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/001R0E0aly1i6z8nnkdzlj61hc0u0jv202.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/001R0E0aly1i6z8nnkdzlj61hc0u0jv202.jpg",
+      "alt": "新华社",
+      "width": 1080,
+      "height": 1920,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/001R0E0aly1i6z8nnkdzlj61hc0u0jv202.jpg"
+      ],
+      "user": "新华社"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/001WLsZ7ly1i6z1rr5vw3j61590mnn9t02.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/001WLsZ7ly1i6z1rr5vw3j61590mnn9t02.jpg",
+      "alt": "中国新闻网",
+      "width": 815,
+      "height": 1485,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/001WLsZ7ly1i6z1rr5vw3j61590mnn9t02.jpg"
+      ],
+      "user": "中国新闻网"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/006ckfnZly1i6y0ibbafwj31hc0u0afq.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/006ckfnZly1i6y0ibbafwj31hc0u0afq.jpg",
+      "alt": "东方财经",
+      "width": 1080,
+      "height": 1920,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/006ckfnZly1i6y0ibbafwj31hc0u0afq.jpg"
+      ],
+      "user": "东方财经"
+    }
+  ],
+  "html_path": "data/aicard/hourly/2025-11-03/20/topic-a5315a2d.html"
+}

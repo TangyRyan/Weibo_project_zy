@@ -1,0 +1,47 @@
+{
+  "meta": {
+    "query": "#习近平同韩国总统李在明举行会谈#",
+    "status_code": 200,
+    "fetched_at": "2025-11-02T01:25:33+08:00",
+    "response": {
+      "abtest_info": {
+        "chat_entrance": 1
+      },
+      "query": "#习近平同韩国总统李在明举行会谈#",
+      "zs_risk_control": {
+        "share": 1,
+        "ban_chat_enterance": 1,
+        "may_be_ask_show": 0,
+        "think_text_close": 1,
+        "land_button_close": 1
+      },
+      "qs_status": 10,
+      "msg": "抱歉，这个问题我暂时无法回答，换个问题试试吧",
+      "comment_info": {},
+      "qs_status_info": "{\"ab_lab\":{},\"qs_u_status\":0,\"qs_r_status\":0,\"qs_q_status\":8218,\"qs_c_status\":0,\"qs_status\":10}",
+      "loop_times": 200,
+      "ab_suffix": "default",
+      "wenda": {
+        "forward_gen": 0
+      },
+      "ext_show": {},
+      "model": "",
+      "uid": "",
+      "status": 3,
+      "analysis_time": 0,
+      "share_info": {
+        "tips": "#习近平同韩国总统李在明举行会谈#的相关内容，来智搜看看",
+        "url": "http://t.cn/AXAiWXbx",
+        "status": 1,
+        "comment_content": "",
+        "display_name": "#习近平同韩国总统李在明举行会谈#",
+        "page_id": "",
+        "unify_md5": "aee0a1066ac96251a9896c029a2e0dd5"
+      },
+      "cot": 1
+    }
+  },
+  "links": [],
+  "media": [],
+  "html_path": "data/aicard/hourly/2025-11-02/01/topic-aee0a106.html"
+}

@@ -1,0 +1,379 @@
+{
+  "meta": {
+    "query": "#女子用筋膜枪按摩眼睛突发白内障#",
+    "status_code": 200,
+    "fetched_at": "2025-10-29T06:37:32+08:00",
+    "response": {
+      "model": "deepseek",
+      "analysis_time": 1761690969,
+      "cot": 1,
+      "query_category": "Medical",
+      "zs_risk_control": {
+        "think_text_close": 0,
+        "land_button_close": 0
+      },
+      "msg_format": "markdown",
+      "chat_status_stage": 1,
+      "abtest_info": {
+        "chat_entrance": 1
+      },
+      "query_field": "50",
+      "reliable_tips": "{\"gold_orange_v_mids\": [\"5226881823015546\", \"4874174616574293\", \"5226860764205438\", \"5226881429537844\", \"5226908784002601\", \"5226855402837094\", \"5226862490157264\", \"5226878057316671\", \"5226954929209407\", \"5226968387682352\", \"5078978999878107\", \"5226850718320879\", \"5226971862926037\", \"5226971816526228\", \"4949858950321072\", \"5226863788032842\", \"5226879258987588\", \"5226967122837765\", \"4874213905137722\", \"5078964460586206\", \"5078955952703777\"], \"gold_orange_v_ratio\": \"44%\", \"media_mids\": [\"5226817772064004\", \"5223751677116712\", \"5223056790261704\", \"5081672397619716\", \"5078888415494833\", \"4874131004722886\", \"5079868036875474\", \"4923797058621640\", \"5102193134538273\", \"5011363385312543\", \"5010359728998131\", \"5011008544311517\", \"5011120048049552\"], \"media_ratio\": \"27%\", \"verified_mids\": [\"5081382128717304\", \"4874161648042414\", \"4921171546474445\", \"5094056902528390\", \"5079178008072537\", \"5226905196298737\", \"5223855502132489\", \"5223935884920844\", \"4874173741270471\", \"4874154286777250\"], \"verified_ratio\": \"21%\", \"normal_mids\": [\"5226964117882181\", \"5226944365068542\", \"5226908091417454\", \"5226893789365450\"], \"normal_ratio\": \"8%\", \"ref_mid_rank\": {\"5226817772064004\": {\"rank\": 1}, \"5223751677116712\": {\"rank\": 6}, \"5223056790261704\": {\"rank\": 31}, \"5081672397619716\": {\"rank\": 4}, \"5081382128717304\": {\"rank\": 9}, \"5078888415494833\": {\"rank\": 35}, \"4874131004722886\": {\"rank\": 3}, \"4874161648042414\": {\"rank\": 44}, \"5226881823015546\": {\"rank\": 7}, \"4921171546474445\": {\"rank\": 36}, \"5094056902528390\": {\"rank\": 12}, \"5079868036875474\": {\"rank\": 53}, \"4874174616574293\": {\"rank\": 8}, \"5226860764205438\": {\"rank\": 30}, \"5079178008072537\": {\"rank\": 51}, \"5226881429537844\": {\"rank\": 22}, \"5226908784002601\": {\"rank\": 45}, \"5226855402837094\": {\"rank\": 21}, \"5226862490157264\": {\"rank\": 29}, \"5226878057316671\": {\"rank\": 20}, \"5226954929209407\": {\"rank\": 2}, \"4923797058621640\": {\"rank\": 5}, \"5226968387682352\": {\"rank\": 10}, \"5226905196298737\": {\"rank\": 11}, \"5078978999878107\": {\"rank\": 13}, \"5226850718320879\": {\"rank\": 19}, \"5226971862926037\": {\"rank\": 23}, \"5226971816526228\": {\"rank\": 24}, \"5226964117882181\": {\"rank\": 25}, \"5226944365068542\": {\"rank\": 26}, \"5226908091417454\": {\"rank\": 27}, \"5226893789365450\": {\"rank\": 28}, \"5102193134538273\": {\"rank\": 32}, \"5011363385312543\": {\"rank\": 33}, \"5010359728998131\": {\"rank\": 34}, \"4949858950321072\": {\"rank\": 37}, \"5226863788032842\": {\"rank\": 38}, \"5226879258987588\": {\"rank\": 39}, \"5011008544311517\": {\"rank\": 40}, \"5223855502132489\": {\"rank\": 41}, \"5011120048049552\": {\"rank\": 42}, \"5223935884920844\": {\"rank\": 43}, \"4874173741270471\": {\"rank\": 46}, \"5226967122837765\": {\"rank\": 47}, \"4874213905137722\": {\"rank\": 48}, \"5078964460586206\": {\"rank\": 49}, \"4874154286777250\": {\"rank\": 50}, \"5078955952703777\": {\"rank\": 52}}}",
+      "sorted_material_list": null,
+      "status": 2,
+      "profile_image_url": "",
+      "user_info": {},
+      "wenda": {
+        "forward_gen": 0
+      },
+      "scheme": "sinaweibo://cardlist?containerid=100103type%3D225%26q%3D%23%E5%A5%B3%E5%AD%90%E7%94%A8%E7%AD%8B%E8%86%9C%E6%9E%AA%E6%8C%89%E6%91%A9%E7%9C%BC%E7%9D%9B%E7%AA%81%E5%8F%91%E7%99%BD%E5%86%85%E9%9A%9C%23%26t%3D&extparam=ai_model%3Ddeepseek%26ori_ai_title%3D%E5%8F%82%E8%80%83%E5%8D%9A%E6%96%87%26material_version%3D1761690784",
+      "uid": "",
+      "q_attr": {
+        "from_uid": "",
+        "from_request_id": ""
+      },
+      "reference_num": 48,
+      "query": "#女子用筋膜枪按摩眼睛突发白内障#",
+      "link_list": [
+        "sinaweibo://detail?mblogid=5226817772064004",
+        "sinaweibo://detail?mblogid=5226954929209407",
+        "sinaweibo://detail?mblogid=4874131004722886",
+        "sinaweibo://detail?mblogid=5081672397619716",
+        "sinaweibo://detail?mblogid=4923797058621640",
+        "sinaweibo://detail?mblogid=5223751677116712",
+        "sinaweibo://detail?mblogid=5226881823015546",
+        "sinaweibo://detail?mblogid=4874174616574293",
+        "sinaweibo://detail?mblogid=5081382128717304",
+        "sinaweibo://detail?mblogid=5226968387682352",
+        "sinaweibo://detail?mblogid=5226905196298737",
+        "sinaweibo://detail?mblogid=5094056902528390",
+        "sinaweibo://detail?mblogid=5078978999878107",
+        "broadsocial_res://",
+        "broadsocial_res://",
+        "historyweibo://5226817772064004",
+        "historyweibo://5165524653703347",
+        "historyweibo://5162885379784716",
+        "sinaweibo://detail?mblogid=5226850718320879",
+        "sinaweibo://detail?mblogid=5226878057316671",
+        "sinaweibo://detail?mblogid=5226855402837094",
+        "sinaweibo://detail?mblogid=5226881429537844",
+        "sinaweibo://detail?mblogid=5226971862926037",
+        "sinaweibo://detail?mblogid=5226971816526228",
+        "sinaweibo://detail?mblogid=5226964117882181",
+        "sinaweibo://detail?mblogid=5226944365068542",
+        "sinaweibo://detail?mblogid=5226908091417454",
+        "sinaweibo://detail?mblogid=5226893789365450",
+        "sinaweibo://detail?mblogid=5226862490157264",
+        "sinaweibo://detail?mblogid=5226860764205438",
+        "sinaweibo://detail?mblogid=5223056790261704",
+        "sinaweibo://detail?mblogid=5102193134538273",
+        "sinaweibo://detail?mblogid=5011363385312543",
+        "sinaweibo://detail?mblogid=5010359728998131",
+        "sinaweibo://detail?mblogid=5078888415494833",
+        "sinaweibo://detail?mblogid=4921171546474445",
+        "sinaweibo://detail?mblogid=4949858950321072",
+        "sinaweibo://detail?mblogid=5226863788032842",
+        "sinaweibo://detail?mblogid=5226879258987588",
+        "sinaweibo://detail?mblogid=5011008544311517",
+        "sinaweibo://detail?mblogid=5223855502132489",
+        "sinaweibo://detail?mblogid=5011120048049552",
+        "sinaweibo://detail?mblogid=5223935884920844",
+        "sinaweibo://detail?mblogid=4874161648042414",
+        "sinaweibo://detail?mblogid=5226908784002601",
+        "sinaweibo://detail?mblogid=4874173741270471",
+        "sinaweibo://detail?mblogid=5226967122837765",
+        "sinaweibo://detail?mblogid=4874213905137722",
+        "sinaweibo://detail?mblogid=5078964460586206",
+        "sinaweibo://detail?mblogid=4874154286777250",
+        "sinaweibo://detail?mblogid=5079178008072537",
+        "sinaweibo://detail?mblogid=5078955952703777",
+        "sinaweibo://detail?mblogid=5079868036875474"
+      ],
+      "current_time": 1761691053,
+      "card_multimodal": {
+        "type": "mediablock",
+        "data": [
+          {
+            "scheme": "sinaweibo://multimedia?mix_mid=5094056902528390&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=0",
+            "cur_mid": "5094056902528390",
+            "img": "http://wx3.sinaimg.cn/middle/c547f14egy1htyw9xnapaj20uo0k3alh.jpg",
+            "user_name": "健康成都官微",
+            "user_avatar": "https://tvax1.sinaimg.cn/crop.0.0.996.996.50/c547f14ely8gvx1d0zh92j20ro0roadp.jpg?KID=imgbed,tva&Expires=1761701584&ssig=RGFdT1bXuj",
+            "w": 1104,
+            "video_url": "",
+            "click_rate": 0.06,
+            "hit_score_new": 92.578125,
+            "doc_score": 3350,
+            "img_pid": "c547f14egy1htyw9xnapaj20uo0k3alh",
+            "vtype": 1,
+            "hit_score_final": 83.946877,
+            "type": "p",
+            "h": 723
+          },
+          {
+            "scheme": "sinaweibo://multimedia?mix_mid=5079868036875474&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=1",
+            "cur_mid": "5079868036875474",
+            "img": "http://wx3.sinaimg.cn/middle/c7ab8f4cly1htrjoduodrj20u01kigvf.jpg",
+            "user_name": "国家应急广播",
+            "user_avatar": "https://tvax2.sinaimg.cn/crop.0.0.600.600.50/c7ab8f4cly8hmd561td4zj20go0go0tm.jpg?KID=imgbed,tva&Expires=1761701584&ssig=SvFbdygTOy",
+            "w": 1080,
+            "video_url": "",
+            "click_rate": 0.06,
+            "hit_score_new": 96.582031,
+            "doc_score": 2298,
+            "img_pid": "c7ab8f4cly1htrjoduodrj20u01kigvf",
+            "vtype": 3,
+            "hit_score_final": 86.429222,
+            "type": "p",
+            "h": 2034
+          },
+          {
+            "scheme": "sinaweibo://video/vvs?mid=5226817772064004&multi_paragraph=1&multi_count=2",
+            "cur_mid": "5226817772064004",
+            "img": "http://wx3.sinaimg.cn/middle/001SsZ0Mly1i6scu7x68fj60u01hcgpm02.jpg",
+            "user_name": "极目新闻",
+            "user_avatar": "https://tvax4.sinaimg.cn/crop.111.343.857.857.50/001SsZ0Mly8h8vhiw5c7tj60u016w0us02.jpg?KID=imgbed,tva&Expires=1761701584&ssig=NjSsJYwLX8",
+            "w": 1080,
+            "video_url": "https://video.weibo.com/show?fid=1034:5226817595047989",
+            "click_rate": 0,
+            "hit_score_new": 0,
+            "doc_score": 0,
+            "img_pid": "001SsZ0Mly1i6scu7x68fj60u01hcgpm02",
+            "vtype": 3,
+            "hit_score_final": 0,
+            "type": "v",
+            "h": 1920
+          },
+          {
+            "scheme": "sinaweibo://multimedia?mix_mid=5094056902528390&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=0",
+            "cur_mid": "5094056902528390",
+            "img": "http://wx3.sinaimg.cn/middle/c547f14egy1htyw9xnapaj20uo0k3alh.jpg",
+            "user_name": "健康成都官微",
+            "user_avatar": "https://tvax1.sinaimg.cn/crop.0.0.996.996.50/c547f14ely8gvx1d0zh92j20ro0roadp.jpg?KID=imgbed,tva&Expires=1761701584&ssig=RGFdT1bXuj",
+            "w": 1104,
+            "video_url": "",
+            "click_rate": 0.06,
+            "hit_score_new": 92.578125,
+            "doc_score": 3350,
+            "img_pid": "c547f14egy1htyw9xnapaj20uo0k3alh",
+            "vtype": 1,
+            "hit_score_final": 83.946877,
+            "type": "p",
+            "h": 723
+          }
+        ]
+      },
+      "share_card_multimodal": {
+        "scheme": "sinaweibo://multimedia?mix_mid=5094056902528390&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=0",
+        "cur_mid": "5094056902528390",
+        "img": "http://wx3.sinaimg.cn/middle/c547f14egy1htyw9xnapaj20uo0k3alh.jpg",
+        "user_name": "健康成都官微",
+        "user_avatar": "https://tvax1.sinaimg.cn/crop.0.0.996.996.50/c547f14ely8gvx1d0zh92j20ro0roadp.jpg?KID=imgbed,tva&Expires=1761701584&ssig=RGFdT1bXuj",
+        "w": 1104,
+        "video_url": "",
+        "click_rate": 0.06,
+        "hit_score_new": 92.578125,
+        "doc_score": 3350,
+        "img_pid": "c547f14egy1htyw9xnapaj20uo0k3alh",
+        "vtype": 1,
+        "hit_score_final": 83.946877,
+        "type": "p",
+        "h": 723
+      },
+      "status_stage": 4,
+      "version": "2025-10-29 06:33:04.013000-2141",
+      "ext_show": {},
+      "ab_suffix": "default",
+      "news_analyze": {},
+      "basemodel": "实验组7",
+      "page_id": "2329643aaf5be2363fc04cf2f1e4713d3b2c3b",
+      "msg": "<think><br><br>嗯，用户让我整理关于\"女子用筋膜枪按摩眼睛突发白内障\"的搜索结果。首先，我需要仔细分析所有相关结果，找出关键信息和共同点。首先看多个案例，比如结果1中的吴女士、结果3的李同学、结果4的叶先生等，这些案例显示用筋膜枪按摩眼部导致视力急剧下降，诊断多为白内障或晶状体脱位。这些案例的时间跨度从2023年到2025年，说明这个问题持续发生，值得注意。<br><br>接下来，我需要理清损伤机制。根据结果6和结果7，筋膜枪的高频振动（每分钟达3000次）会干扰晶状体代谢，导致细胞凋亡，房水渗入，晶状体浑浊。结果14和15提到，这种损伤属于外伤性晶状体混浊，而非典型的年龄相关性白内障，进展迅速，需要手术干预。这点很重要，因为用户可能误解为普通白内障，实际是机械损伤。<br><br>然后看禁忌部位和正确使用方式。结果8和结果12指出，除了眼部，颈部、关节、胸腹等部位也不宜使用筋膜枪。结果30提到应沿肌肉纹理使用，避免骨性结构。这些信息需要整合到注意事项中，帮助用户正确使用产品。<br><br>关于正确护眼方法，结果6和结果7推荐的20-20-20法则、热敷、人工泪液等方法应重点强调。同时，来自医生账号的结果10和结果51的建议更具权威性，需优先引用。<br><br>还需要注意风险提示。医疗建议部分必须加入警示，如结果53提到的及时就医信号（视物变形、眼痛等），以及结果51强调的专业机构咨询。这点关系到用户安全，必须明确。<br><br>最后，整合所有信息时要区分外伤性损伤与典型白内障，避免误导。结果14和15的专业资料说明两者病理机制不同，需在回答中澄清，防止公众混淆。<br><br>在组织结构上，分机制、案例、禁忌、护眼方法、风险提示等部分，每部分引用相关结果，确保权威性。例如，在讲损伤机制时引用结果6、7、14、15；案例部分引用结果1、3、4、35；禁忌部位引用结果8、9、12、30。同时，结果16的综合分析可作为大纲参考，但需整合其他细节。<br><br>需要检查时效性，优先2025年的结果，如结果1、6、7，但较早案例如结果3、4仍有价值，说明问题长期存在。此外，医生账号的内容可信度高，应重点采用。<br><br>最后，确保回答避免医疗建议的绝对化，强调及时就医和专业指导，符合风险控制要求。同时，语言要通俗，结构清晰，关键点突出，比如用加粗强调禁忌部位和正确方法，帮助用户快速获取要点。<br><br></think><br>以下是关于“女子用筋膜枪按摩眼睛突发白内障”事件的综合分析，结合医学原理、真实案例及专业建议整理：<br>### ⚠️ **核心案例与损伤机制**  <br>1. **典型病例**  <br>   - **武汉吴女士（2025年10月）**：因刷短视频眼疲劳，用筋膜枪按摩眼眶，次日右眼失明。医生诊断为“晶状体后囊下浑浊型白内障”，系筋膜枪高频震动（3000次/分钟）导致晶状体囊膜细胞凋亡、房水渗入引发浑浊。术后视力恢复至0.8，但医生警告此类操作可能引发晶状体脱位。```wbCustomBlock{\"type\": \"quoted\", \"index\": 5, \"data\": {\"num\": [1, 6, 31], \"version\": 2, \"quote_list\": [{\"name\": \"极目新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5226817772064004\", \"index\": 1, \"label\": \"大v\"}, {\"name\": \"荔枝新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5223751677116712\", \"index\": 6, \"label\": \"\"}, {\"name\": \"经视直播\", \"scheme\": \"sinaweibo://detail?mblogid=5223056790261704\", \"index\": 31, \"label\": \"\"}], \"name\": \"极目新闻\", \"img\": \"https://tvax4.sinaimg.cn/crop.111.343.857.857.50/001SsZ0Mly8h8vhiw5c7tj60u016w0us02.jpg?KID=imgbed,tva&Expires=1761701584&ssig=NjSsJYwLX8\", \"scheme\": \"sinaweibo://detail?mblogid=5226817772064004\", \"vType\": 3}}```  <br>   - **浙江叶先生（2024年9月）**：长期用筋膜枪按摩眼周缓解头痛，导致双眼视力降至0.1，确诊白内障合并晶状体脱位。高频振动损伤了固定晶状体的悬韧带。```wbCustomBlock{\"type\": \"quoted\", \"index\": 6, \"data\": {\"num\": [4, 9, 35], \"version\": 2, \"quote_list\": [{\"name\": \"央视新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5081672397619716\", \"index\": 4, \"label\": \"大v\"}, {\"name\": \"zfw平安浦城\", \"scheme\": \"sinaweibo://detail?mblogid=5081382128717304\", \"index\": 9, \"label\": \"\"}, {\"name\": \"中国蓝新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5078888415494833\", \"index\": 35, \"label\": \"\"}], \"name\": \"央视新闻\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.690.690.50/002TLsr9ly8i653ifvwbtj60j60j6aai02.jpg?KID=imgbed,tva&Expires=1761701584&ssig=3h9unPkDGf\", \"scheme\": \"sinaweibo://detail?mblogid=5081672397619716\", \"vType\": 3}}```  <br>   - **山东高中生（2023年2月）**：持续半年用筋膜枪按摩眼球追求“平整感”，最终引发外伤性白内障需手术治疗。```wbCustomBlock{\"type\": \"quoted\", \"index\": 7, \"data\": {\"num\": [3, 44], \"version\": 2, \"quote_list\": [{\"name\": \"山海视频\", \"scheme\": \"sinaweibo://detail?mblogid=4874131004722886\", \"index\": 3, \"label\": \"大v\"}, {\"name\": \"知未科技\", \"scheme\": \"sinaweibo://detail?mblogid=4874161648042414\", \"index\": 44, \"label\": \"\"}], \"name\": \"山海视频\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.512.512.50/008hHg1Aly8h8vhxwnvchj30e80e8wej.jpg?KID=imgbed,tva&Expires=1761701584&ssig=bEapuSjwOj\", \"scheme\": \"sinaweibo://detail?mblogid=4874131004722886\", \"vType\": 3}}```  <br><br>2. **医学原理：为何筋膜枪伤眼？**  <br>   - **晶状体损伤**：高频震动干扰晶状体代谢，致囊膜下细胞死亡，晶状体迅速浑浊。```wbCustomBlock{\"type\": \"quoted\", \"index\": 9, \"data\": {\"num\": [6, 7], \"version\": 2, \"quote_list\": [{\"name\": \"荔枝新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5223751677116712\", \"index\": 6, \"label\": \"大v\"}, {\"name\": \"姃千花\", \"scheme\": \"sinaweibo://detail?mblogid=5226881823015546\", \"index\": 7, \"label\": \"\"}], \"name\": \"荔枝新闻\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.600.600.50/6b0e1e9dly8i5r6s6bgzlj20go0go40f.jpg?KID=imgbed,tva&Expires=1761701584&ssig=Xo%2BXxjPiSb\", \"scheme\": \"sinaweibo://detail?mblogid=5223751677116712\", \"vType\": 3}}```  <br>   - **悬韧带断裂**：固定晶状体的微细悬韧带因振动松弛或断裂，引发脱位。```wbCustomBlock{\"type\": \"quoted\", \"index\": 10, \"data\": {\"num\": [4, 9, 36], \"version\": 2, \"quote_list\": [{\"name\": \"zfw平安浦城\", \"scheme\": \"sinaweibo://detail?mblogid=5081382128717304\", \"index\": 9, \"label\": \"大v\"}, {\"name\": \"央视新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5081672397619716\", \"index\": 4, \"label\": \"\"}, {\"name\": \"一手Video\", \"scheme\": \"sinaweibo://detail?mblogid=4921171546474445\", \"index\": 36, \"label\": \"\"}], \"name\": \"zfw平安浦城\", \"img\": \"https://tva1.sinaimg.cn/crop.0.0.482.482.50/0069hKlvjw8et8akn0w6yj30df0dfgmd.jpg?KID=imgbed,tva&Expires=1761701584&ssig=3BEoM7iqHG\", \"scheme\": \"sinaweibo://detail?mblogid=5081382128717304\", \"vType\": 1}}```  <br>   - **视网膜脱离风险**：外力震动可能导致视网膜从眼球后壁脱离，造成永久失明。```wbCustomBlock{\"type\": \"quoted\", \"index\": 11, \"data\": {\"num\": [12, 53], \"version\": 2, \"quote_list\": [{\"name\": \"国家应急广播\", \"scheme\": \"sinaweibo://detail?mblogid=5079868036875474\", \"index\": 53, \"label\": \"大v\"}, {\"name\": \"健康成都官微\", \"scheme\": \"sinaweibo://detail?mblogid=5094056902528390\", \"index\": 12, \"label\": \"\"}], \"name\": \"国家应急广播\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.600.600.50/c7ab8f4cly8hmd561td4zj20go0go0tm.jpg?KID=imgbed,tva&Expires=1761701584&ssig=SvFbdygTOy\", \"scheme\": \"sinaweibo://detail?mblogid=5079868036875474\", \"vType\": 3}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5094056902528390&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.996.996.50/c547f14ely8gvx1d0zh92j20ro0roadp.jpg?KID=imgbed,tva&Expires=1761701584&ssig=RGFdT1bXuj) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">健康成都官微</span><img src=\"http://wx3.sinaimg.cn/middle/c547f14egy1htyw9xnapaj20uo0k3alh.jpg\" data-width=723 data-height=1104></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5079868036875474&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=1\"><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.600.600.50/c7ab8f4cly8hmd561td4zj20go0go0tm.jpg?KID=imgbed,tva&Expires=1761701584&ssig=SvFbdygTOy) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">国家应急广播</span><img src=\"http://wx3.sinaimg.cn/middle/c7ab8f4cly1htrjoduodrj20u01kigvf.jpg\" data-width=2034 data-height=1080></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5226817772064004&multi_paragraph=1&multi_count=2\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.111.343.857.857.50/001SsZ0Mly8h8vhiw5c7tj60u016w0us02.jpg?KID=imgbed,tva&Expires=1761701584&ssig=NjSsJYwLX8) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">极目新闻</span><img src=\"http://wx3.sinaimg.cn/middle/001SsZ0Mly1i6scu7x68fj60u01hcgpm02.jpg\" data-width=1920 data-height=1080></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5223751677116712&multi_paragraph=1&multi_count=3\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.600.600.50/6b0e1e9dly8i5r6s6bgzlj20go0go40f.jpg?KID=imgbed,tva&Expires=1761701584&ssig=Xo%2BXxjPiSb) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">荔枝新闻</span><img src=\"http://wx1.sinaimg.cn/middle/6b0e1e9dly8i6i9ghz22jj21hc0u0449.jpg\" data-width=1080 data-height=1920></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5081672397619716&multi_paragraph=1&multi_count=4\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.690.690.50/002TLsr9ly8i653ifvwbtj60j60j6aai02.jpg?KID=imgbed,tva&Expires=1761701584&ssig=3h9unPkDGf) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">央视新闻</span><img src=\"http://wx3.sinaimg.cn/middle/002TLsr9ly1htxb3ft99sj62131547wh02.jpg\" data-width=1480 data-height=2631></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5081382128717304&multi_paragraph=1&multi_count=5\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tva1.sinaimg.cn/crop.0.0.482.482.50/0069hKlvjw8et8akn0w6yj30df0dfgmd.jpg?KID=imgbed,tva&Expires=1761701584&ssig=3BEoM7iqHG) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">zfw平安浦城</span><img src=\"http://wx4.sinaimg.cn/middle/002sRokily1htwdihycbbj61hc0u0dil02.jpg\" data-width=1080 data-height=1920></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=4874131004722886&multi_paragraph=1&multi_count=6\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.512.512.50/008hHg1Aly8h8vhxwnvchj30e80e8wej.jpg?KID=imgbed,tva&Expires=1761701584&ssig=bEapuSjwOj) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">山海视频</span><img src=\"http://wx3.sinaimg.cn/middle/008hHg1Aly1hbj78sfnzhj30ke0r6tq9.jpg\" data-width=978 data-height=734></div></media-block><br>### 🔬 **专业区分：外伤性损伤 vs. 典型白内障**  <br>| **类型**          | **机制与特点**                                                                 |  <br>|-------------------|------------------------------------------------------------------------------|  <br>| **筋膜枪所致损伤** | 属**机械性外力创伤**（如悬韧带断裂、囊膜破裂），症状突发、进展快，需紧急手术干预。 |  <br>| **典型白内障**     | 与年龄、代谢病相关，进展缓慢，早期可通过药物或观察管理。              |<br><br>  <br><br>> 💡 **关键提示**：媒体报道中“诱发白内障”的表述不严谨，实际是外力导致的**外伤性晶状体混浊**，与退行性病变病理不同。<br>### ❌ **筋膜枪绝对禁忌部位（医生警示）**  <br>| **部位**          | **风险**                                                                 |  <br>|-------------------|--------------------------------------------------------------------------|  <br>| **眼部及眼周**    | 晶状体混浊/脱位、视网膜脱离。 |  <br>| **颈部/腋下**     | 损伤淋巴、神经，导致麻木或炎症。 |  <br>| **胸腹/关节**     | 震动波及内脏；损伤骨膜或软骨。 |  <br>| **脊柱/动脉**     | 冲击脊椎神经；血管壁损伤可能引发血栓。 |<br><br>```wbCustomBlock{\"type\": \"quoted\", \"index\": 16, \"data\": {\"num\": [1, 4, 8, 9, 12, 30, 31, 53], \"version\": 2, \"quote_list\": [{\"name\": \"经视直播\", \"scheme\": \"sinaweibo://detail?mblogid=5223056790261704\", \"index\": 31, \"label\": \"大v\"}, {\"name\": \"极目新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5226817772064004\", \"index\": 1, \"label\": \"\"}, {\"name\": \"央视新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5081672397619716\", \"index\": 4, \"label\": \"\"}, {\"name\": \"运动康复陈老师\", \"scheme\": \"sinaweibo://detail?mblogid=4874174616574293\", \"index\": 8, \"label\": \"\"}, {\"name\": \"zfw平安浦城\", \"scheme\": \"sinaweibo://detail?mblogid=5081382128717304\", \"index\": 9, \"label\": \"\"}, {\"name\": \"健康成都官微\", \"scheme\": \"sinaweibo://detail?mblogid=5094056902528390\", \"index\": 12, \"label\": \"\"}, {\"name\": \"财火旺\", \"scheme\": \"sinaweibo://detail?mblogid=5226860764205438\", \"index\": 30, \"label\": \"\"}, {\"name\": \"国家应急广播\", \"scheme\": \"sinaweibo://detail?mblogid=5079868036875474\", \"index\": 53, \"label\": \"\"}], \"name\": \"经视直播\", \"img\": \"https://tvax4.sinaimg.cn/crop.10.0.621.621.50/6b354636ly8h8vg0a9gl2j20hk0hkaau.jpg?KID=imgbed,tva&Expires=1761701584&ssig=Zmo3MAkoGY\", \"scheme\": \"sinaweibo://detail?mblogid=5223056790261704\", \"vType\": 3}}```  <br><br>> 特殊人群（孕妇、糖尿病患者等）禁用筋膜枪。```wbCustomBlock{\"type\": \"quoted\", \"index\": 17, \"data\": {\"num\": [12, 51], \"version\": 2, \"quote_list\": [{\"name\": \"健康成都官微\", \"scheme\": \"sinaweibo://detail?mblogid=5094056902528390\", \"index\": 12, \"label\": \"大v\"}, {\"name\": \"深圳卫健委\", \"scheme\": \"sinaweibo://detail?mblogid=5079178008072537\", \"index\": 51, \"label\": \"\"}], \"name\": \"健康成都官微\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.996.996.50/c547f14ely8gvx1d0zh92j20ro0roadp.jpg?KID=imgbed,tva&Expires=1761701584&ssig=RGFdT1bXuj\", \"scheme\": \"sinaweibo://detail?mblogid=5094056902528390\", \"vType\": 1}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5079178008072537&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=3&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.600.600.50/a8bfee30ly8hzqqd2d2q8j20go0godhm.jpg?KID=imgbed,tva&Expires=1761701584&ssig=IPCZcSDA%2Fm) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">深圳卫健委</span><img src=\"http://wx4.sinaimg.cn/middle/a8bfee30gy1htpcndla2zj20sa0rr78u.jpg\" data-width=999 data-height=1018></div></media-block><br>### ✅ **科学缓解眼疲劳方法**  <br>1. **20-20-20法则**：每用眼20分钟，远眺6米外20秒，调节睫状肌。```wbCustomBlock{\"type\": \"quoted\", \"index\": 20, \"data\": {\"num\": [6, 7, 22], \"version\": 2, \"quote_list\": [{\"name\": \"姃千花\", \"scheme\": \"sinaweibo://detail?mblogid=5226881823015546\", \"index\": 7, \"label\": \"大v\"}, {\"name\": \"荔枝新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5223751677116712\", \"index\": 6, \"label\": \"\"}, {\"name\": \"夜雪潇月-何以倾城\", \"scheme\": \"sinaweibo://detail?mblogid=5226881429537844\", \"index\": 22, \"label\": \"\"}], \"name\": \"姃千花\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.1023.1023.50/005Mwk2Zly8hzpu4d1kfcj30sf0sfwhe.jpg?KID=imgbed,tva&Expires=1761701584&ssig=e3GMPCBXD5\", \"scheme\": \"sinaweibo://detail?mblogid=5226881823015546\", \"vType\": 0}}```  <br>2. **温敷法**：40℃温毛巾闭眼热敷10分钟，促进血液循环（避免直接按压眼球）。```wbCustomBlock{\"type\": \"quoted\", \"index\": 21, \"data\": {\"num\": [6, 7, 51], \"version\": 2, \"quote_list\": [{\"name\": \"深圳卫健委\", \"scheme\": \"sinaweibo://detail?mblogid=5079178008072537\", \"index\": 51, \"label\": \"大v\"}, {\"name\": \"荔枝新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5223751677116712\", \"index\": 6, \"label\": \"\"}, {\"name\": \"姃千花\", \"scheme\": \"sinaweibo://detail?mblogid=5226881823015546\", \"index\": 7, \"label\": \"\"}], \"name\": \"深圳卫健委\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.600.600.50/a8bfee30ly8hzqqd2d2q8j20go0godhm.jpg?KID=imgbed,tva&Expires=1761701584&ssig=IPCZcSDA%2Fm\", \"scheme\": \"sinaweibo://detail?mblogid=5079178008072537\", \"vType\": 1}}```  <br>3. **人工泪液**：干涩时使用无防腐剂人工泪液短期缓解。```wbCustomBlock{\"type\": \"quoted\", \"index\": 22, \"data\": {\"num\": [7, 45], \"version\": 2, \"quote_list\": [{\"name\": \"姃千花\", \"scheme\": \"sinaweibo://detail?mblogid=5226881823015546\", \"index\": 7, \"label\": \"\"}, {\"name\": \"拾锤\", \"scheme\": \"sinaweibo://detail?mblogid=5226908784002601\", \"index\": 45, \"label\": \"\"}]}}```  <br>4. **专业仪器**：如需按摩，选择医院正规低频脉冲仪，**禁用家用器械**。```wbCustomBlock{\"type\": \"quoted\", \"index\": 23, \"data\": {\"num\": [51], \"version\": 2, \"quote_list\": [{\"name\": \"深圳卫健委\", \"scheme\": \"sinaweibo://detail?mblogid=5079178008072537\", \"index\": 51, \"label\": \"\"}]}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5226908784002601&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=4&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/0062IWvrly8i679al3u1pj30u00u00tm.jpg?KID=imgbed,tva&Expires=1761701584&ssig=6Eg2JhewjE) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">拾锤</span><img src=\"http://wx3.sinaimg.cn/middle/0062IWvrgy1i6sna0tlylj30pf0p3q75.jpg\" data-width=903 data-height=915></div></media-block><br>### ⚠️ **重要提醒**  <br>1. **勿混淆产品功能**：筋膜枪仅适用于大肌群（如大腿、臀部），非精密器官。```wbCustomBlock{\"type\": \"quoted\", \"index\": 26, \"data\": {\"num\": [21, 29, 30], \"version\": 2, \"quote_list\": [{\"name\": \"奔跑的油泼擀面皮\", \"scheme\": \"sinaweibo://detail?mblogid=5226862490157264\", \"index\": 29, \"label\": \"\"}, {\"name\": \"财小颖\", \"scheme\": \"sinaweibo://detail?mblogid=5226855402837094\", \"index\": 21, \"label\": \"\"}, {\"name\": \"财火旺\", \"scheme\": \"sinaweibo://detail?mblogid=5226860764205438\", \"index\": 30, \"label\": \"\"}], \"name\": \"奔跑的油泼擀面皮\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.960.960.50/006Gsrwhly8hvzqt8rcvkj30qo0qo417.jpg?KID=imgbed,tva&Expires=1761701584&ssig=kVJU30Ic7L\", \"scheme\": \"sinaweibo://detail?mblogid=5226862490157264\", \"vType\": 0}}```  <br>2. **及时就医信号**：若误用后出现视力模糊、眼痛、视野缺损、视物变形，需立即就诊。```wbCustomBlock{\"type\": \"quoted\", \"index\": 27, \"data\": {\"num\": [53], \"version\": 2, \"quote_list\": [{\"name\": \"国家应急广播\", \"scheme\": \"sinaweibo://detail?mblogid=5079868036875474\", \"index\": 53, \"label\": \"\"}]}}```  <br>3. **风险提示**：  <br>   > 本文内容仅供参考，眼部健康问题请咨询专业医疗机构。筋膜枪与眼睛的关系只有一种：**绝不能共存**。护眼需科学，莫让“自疗”变“自伤”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 29, \"data\": {\"num\": [1, 20], \"version\": 2, \"quote_list\": [{\"name\": \"极目新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5226817772064004\", \"index\": 1, \"label\": \"\"}, {\"name\": \"Cathy的悦星球\", \"scheme\": \"sinaweibo://detail?mblogid=5226878057316671\", \"index\": 20, \"label\": \"\"}]}}```  <br><br>**权威来源**：武汉大学附属爱尔眼科医院、台州医院、深圳市眼科医院等医疗机构。```wbCustomBlock{\"type\": \"quoted\", \"index\": 30, \"data\": {\"num\": [1, 4, 51], \"version\": 2, \"quote_list\": [{\"name\": \"极目新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5226817772064004\", \"index\": 1, \"label\": \"\"}, {\"name\": \"央视新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5081672397619716\", \"index\": 4, \"label\": \"\"}, {\"name\": \"深圳卫健委\", \"scheme\": \"sinaweibo://detail?mblogid=5079178008072537\", \"index\": 51, \"label\": \"\"}]}}```<br>",
+      "show_ctrl": {
+        "quote": {}
+      },
+      "qs_status": 0,
+      "msg_json": "{}",
+      "share_text": "#女子用筋膜枪按摩眼睛突发白内障#的相关内容，来智搜看看",
+      "top_quote_list": {},
+      "loop_times": 200,
+      "share_info": {
+        "url": "http://t.cn/AXA7srWa",
+        "page_id": "2329643aaf5be2363fc04cf2f1e4713d3b2c3b",
+        "status": 3,
+        "tips": "#女子用筋膜枪按摩眼睛突发白内障#的相关内容，来智搜看看",
+        "unify_md5": "55ef2510073746d2a3f2c7eb8521692a",
+        "display_name": "#女子用筋膜枪按摩眼睛突发白内障#"
+      },
+      "mid_list": null,
+      "qs_status_info": "{\"qs_r_status\":0,\"ab_lab\":{},\"qs_u_status\":0,\"qs_q_status\":0,\"qs_status\":0,\"qs_c_status\":8388608}",
+      "unify_md5": "55ef2510073746d2a3f2c7eb8521692a",
+      "short_url": "http://t.cn/AXA7KEm0"
+    }
+  },
+  "links": [
+    "sinaweibo://detail?mblogid=5226817772064004",
+    "sinaweibo://detail?mblogid=5226954929209407",
+    "sinaweibo://detail?mblogid=4874131004722886",
+    "sinaweibo://detail?mblogid=5081672397619716",
+    "sinaweibo://detail?mblogid=4923797058621640",
+    "sinaweibo://detail?mblogid=5223751677116712",
+    "sinaweibo://detail?mblogid=5226881823015546",
+    "sinaweibo://detail?mblogid=4874174616574293",
+    "sinaweibo://detail?mblogid=5081382128717304",
+    "sinaweibo://detail?mblogid=5226968387682352",
+    "sinaweibo://detail?mblogid=5226905196298737",
+    "sinaweibo://detail?mblogid=5094056902528390",
+    "sinaweibo://detail?mblogid=5078978999878107",
+    "broadsocial_res://",
+    "broadsocial_res://",
+    "historyweibo://5226817772064004",
+    "historyweibo://5165524653703347",
+    "historyweibo://5162885379784716",
+    "sinaweibo://detail?mblogid=5226850718320879",
+    "sinaweibo://detail?mblogid=5226878057316671",
+    "sinaweibo://detail?mblogid=5226855402837094",
+    "sinaweibo://detail?mblogid=5226881429537844",
+    "sinaweibo://detail?mblogid=5226971862926037",
+    "sinaweibo://detail?mblogid=5226971816526228",
+    "sinaweibo://detail?mblogid=5226964117882181",
+    "sinaweibo://detail?mblogid=5226944365068542",
+    "sinaweibo://detail?mblogid=5226908091417454",
+    "sinaweibo://detail?mblogid=5226893789365450",
+    "sinaweibo://detail?mblogid=5226862490157264",
+    "sinaweibo://detail?mblogid=5226860764205438",
+    "sinaweibo://detail?mblogid=5223056790261704",
+    "sinaweibo://detail?mblogid=5102193134538273",
+    "sinaweibo://detail?mblogid=5011363385312543",
+    "sinaweibo://detail?mblogid=5010359728998131",
+    "sinaweibo://detail?mblogid=5078888415494833",
+    "sinaweibo://detail?mblogid=4921171546474445",
+    "sinaweibo://detail?mblogid=4949858950321072",
+    "sinaweibo://detail?mblogid=5226863788032842",
+    "sinaweibo://detail?mblogid=5226879258987588",
+    "sinaweibo://detail?mblogid=5011008544311517",
+    "sinaweibo://detail?mblogid=5223855502132489",
+    "sinaweibo://detail?mblogid=5011120048049552",
+    "sinaweibo://detail?mblogid=5223935884920844",
+    "sinaweibo://detail?mblogid=4874161648042414",
+    "sinaweibo://detail?mblogid=5226908784002601",
+    "sinaweibo://detail?mblogid=4874173741270471",
+    "sinaweibo://detail?mblogid=5226967122837765",
+    "sinaweibo://detail?mblogid=4874213905137722",
+    "sinaweibo://detail?mblogid=5078964460586206",
+    "sinaweibo://detail?mblogid=4874154286777250",
+    "sinaweibo://detail?mblogid=5079178008072537",
+    "sinaweibo://detail?mblogid=5078955952703777",
+    "sinaweibo://detail?mblogid=5079868036875474"
+  ],
+  "media": [
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/c547f14egy1htyw9xnapaj20uo0k3alh.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/c547f14egy1htyw9xnapaj20uo0k3alh.jpg",
+      "alt": "健康成都官微",
+      "width": 723,
+      "height": 1104,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/c547f14egy1htyw9xnapaj20uo0k3alh.jpg"
+      ],
+      "user": "健康成都官微"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/c7ab8f4cly1htrjoduodrj20u01kigvf.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/c7ab8f4cly1htrjoduodrj20u01kigvf.jpg",
+      "alt": "国家应急广播",
+      "width": 2034,
+      "height": 1080,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/c7ab8f4cly1htrjoduodrj20u01kigvf.jpg"
+      ],
+      "user": "国家应急广播"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/001SsZ0Mly1i6scu7x68fj60u01hcgpm02.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/001SsZ0Mly1i6scu7x68fj60u01hcgpm02.jpg",
+      "alt": "极目新闻",
+      "width": 1920,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/001SsZ0Mly1i6scu7x68fj60u01hcgpm02.jpg"
+      ],
+      "user": "极目新闻"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/6b0e1e9dly8i6i9ghz22jj21hc0u0449.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/6b0e1e9dly8i6i9ghz22jj21hc0u0449.jpg",
+      "alt": "荔枝新闻",
+      "width": 1080,
+      "height": 1920,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx4.sinaimg.cn/large/6b0e1e9dly8i6i9ghz22jj21hc0u0449.jpg"
+      ],
+      "user": "荔枝新闻"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/002TLsr9ly1htxb3ft99sj62131547wh02.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/002TLsr9ly1htxb3ft99sj62131547wh02.jpg",
+      "alt": "央视新闻",
+      "width": 1480,
+      "height": 2631,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/002TLsr9ly1htxb3ft99sj62131547wh02.jpg"
+      ],
+      "user": "央视新闻"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/002sRokily1htwdihycbbj61hc0u0dil02.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/002sRokily1htwdihycbbj61hc0u0dil02.jpg",
+      "alt": "zfw平安浦城",
+      "width": 1080,
+      "height": 1920,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/002sRokily1htwdihycbbj61hc0u0dil02.jpg"
+      ],
+      "user": "zfw平安浦城"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/008hHg1Aly1hbj78sfnzhj30ke0r6tq9.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/008hHg1Aly1hbj78sfnzhj30ke0r6tq9.jpg",
+      "alt": "山海视频",
+      "width": 978,
+      "height": 734,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/008hHg1Aly1hbj78sfnzhj30ke0r6tq9.jpg"
+      ],
+      "user": "山海视频"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/a8bfee30gy1htpcndla2zj20sa0rr78u.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/a8bfee30gy1htpcndla2zj20sa0rr78u.jpg",
+      "alt": "深圳卫健委",
+      "width": 999,
+      "height": 1018,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/a8bfee30gy1htpcndla2zj20sa0rr78u.jpg"
+      ],
+      "user": "深圳卫健委"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/0062IWvrgy1i6sna0tlylj30pf0p3q75.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/0062IWvrgy1i6sna0tlylj30pf0p3q75.jpg",
+      "alt": "拾锤",
+      "width": 903,
+      "height": 915,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/0062IWvrgy1i6sna0tlylj30pf0p3q75.jpg"
+      ],
+      "user": "拾锤"
+    }
+  ],
+  "html_path": "data/aicard/hourly/2025-10-29/06/topic-55ef2510.html"
+}

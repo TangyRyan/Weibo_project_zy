@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "query": "#关于十五五规划建议的说明#",
+    "status_code": 200,
+    "fetched_at": "2025-10-29T07:29:18+08:00",
+    "response": {
+      "query": "#关于十五五规划建议的说明#",
+      "abtest_info": {
+        "chat_entrance": 1
+      },
+      "ext_show": {},
+      "zs_risk_control": {
+        "ban_chat_enterance": 1,
+        "may_be_ask_show": 0
+      },
+      "ab_suffix": "default",
+      "qs_status_info": "{\"qs_c_status\":0,\"qs_status\":2,\"qs_q_status\":258,\"ab_lab\":{},\"qs_r_status\":0,\"qs_u_status\":0}",
+      "loop_times": 200,
+      "share_info": {
+        "unify_md5": "2f7379527e880e01b7eb7724eb2ececc",
+        "url": "http://t.cn/AXAPltbG",
+        "tips": "#关于十五五规划建议的说明#的相关内容，来智搜看看",
+        "display_name": "#关于十五五规划建议的说明#",
+        "page_id": "",
+        "status": 1
+      },
+      "wenda": {
+        "forward_gen": 0
+      },
+      "msg": "抱歉，这个问题我暂时无法回答，换个问题试试吧",
+      "model": "",
+      "qs_status": 2,
+      "uid": "",
+      "analysis_time": 0,
+      "cot": 1,
+      "status": 3
+    }
+  },
+  "links": [],
+  "media": [],
+  "html_path": "data/aicard/hourly/2025-10-29/07/topic-2f737952.html"
+}

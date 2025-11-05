@@ -1,0 +1,294 @@
+{
+  "meta": {
+    "query": "#神21两名航天员将在太空过生日#",
+    "status_code": 200,
+    "fetched_at": "2025-10-31T22:34:00+08:00",
+    "response": {
+      "comment_info": {},
+      "query_field": "56",
+      "chat_status_stage": 1,
+      "cot": 1,
+      "news_analyze": {},
+      "reliable_tips": "{\"gold_orange_v_mids\": [\"5227407738931250\", \"5227843870265508\", \"5227823629075850\", \"5227833954667935\", \"5227456447385641\", \"5227829798373365\", \"5227835488997525\", \"5227837578548688\", \"5227848841037254\", \"5227837952101673\", \"5227704224055760\", \"5227867496780756\", \"5161063441761884\", \"5227397181606435\"], \"gold_orange_v_ratio\": \"52%\", \"media_mids\": [\"5227793732338959\", \"5227410677039338\", \"5227790523960805\", \"5227826466787456\", \"5227841214222939\", \"5227826135695903\", \"5216857336054448\", \"5227840233805263\"], \"media_ratio\": \"29%\", \"verified_mids\": [\"5227838371529719\", \"5227449113645747\", \"5227924875908641\", \"5227924405884536\"], \"verified_ratio\": \"15%\", \"normal_mids\": [\"5227838031794240\"], \"normal_ratio\": \"4%\", \"ref_mid_rank\": {\"5227793732338959\": {\"rank\": 1}, \"5227407738931250\": {\"rank\": 2}, \"5227838371529719\": {\"rank\": 17}, \"5227843870265508\": {\"rank\": 13}, \"5227823629075850\": {\"rank\": 24}, \"5227833954667935\": {\"rank\": 8}, \"5227838031794240\": {\"rank\": 29}, \"5227410677039338\": {\"rank\": 3}, \"5227456447385641\": {\"rank\": 27}, \"5227790523960805\": {\"rank\": 20}, \"5227449113645747\": {\"rank\": 25}, \"5227924875908641\": {\"rank\": 11}, \"5227829798373365\": {\"rank\": 19}, \"5227835488997525\": {\"rank\": 7}, \"5227826466787456\": {\"rank\": 9}, \"5227841214222939\": {\"rank\": 10}, \"5227924405884536\": {\"rank\": 12}, \"5227837578548688\": {\"rank\": 14}, \"5227848841037254\": {\"rank\": 15}, \"5227837952101673\": {\"rank\": 16}, \"5227826135695903\": {\"rank\": 18}, \"5227704224055760\": {\"rank\": 21}, \"5227867496780756\": {\"rank\": 22}, \"5216857336054448\": {\"rank\": 23}, \"5161063441761884\": {\"rank\": 26}, \"5227840233805263\": {\"rank\": 28}, \"5227397181606435\": {\"rank\": 30}}}",
+      "uid": "",
+      "qs_status": 0,
+      "loop_times": 200,
+      "show_ctrl": {
+        "quote": {}
+      },
+      "status": 2,
+      "analysis_time": 1761920413,
+      "share_text": "#神21两名航天员将在太空过生日#的相关内容，来智搜看看",
+      "reference_num": 27,
+      "mid_list": null,
+      "status_stage": 4,
+      "short_url": "http://t.cn/AXA5oazP",
+      "version": "2025-10-31 22:18:49.009000-3672",
+      "scheme": "sinaweibo://cardlist?containerid=100103type%3D225%26q%3D%23%E7%A5%9E21%E4%B8%A4%E5%90%8D%E8%88%AA%E5%A4%A9%E5%91%98%E5%B0%86%E5%9C%A8%E5%A4%AA%E7%A9%BA%E8%BF%87%E7%94%9F%E6%97%A5%23%26t%3D&extparam=ai_model%3Ddeepseek%26ori_ai_title%3D%E5%8F%82%E8%80%83%E5%8D%9A%E6%96%87%26material_version%3D1761920329",
+      "ext_show": {},
+      "q_attr": {
+        "comment_from_type": "",
+        "from_uid": "6408791127",
+        "from_request_id": "1761920196188",
+        "mid": "",
+        "reply_cid": ""
+      },
+      "page_id": "232964d168ed8308a0c4a953733491c2566f8c",
+      "share_card_multimodal": {
+        "type": "v",
+        "click_rate": 0.13516560322864,
+        "scheme": "sinaweibo://video/vvs?mid=5227793732338959&multi_paragraph=1&multi_count=0",
+        "cur_mid": "5227793732338959",
+        "h": 1080,
+        "user_name": "人民日报",
+        "vtype": 3,
+        "user_avatar": "https://tvax4.sinaimg.cn/crop.0.0.1018.1018.50/0033ImPzly8h8vgemh8kxj60sa0sadgw02.jpg?KID=imgbed,tva&Expires=1761931129&ssig=aTta2Ioetc",
+        "img": "http://wx1.sinaimg.cn/middle/0033ImPzly1i6vgx8d339j61hc0u0tbr02.jpg",
+        "video_url": "https://video.weibo.com/show?fid=1034:5227793391484930",
+        "hit_score_final": 0,
+        "hit_score_new": 0,
+        "doc_score": 0,
+        "img_pid": "0033ImPzly1i6vgx8d339j61hc0u0tbr02",
+        "w": 1920
+      },
+      "share_info": {
+        "unify_md5": "80e3738bfaf73a0c50e26b584ffc6a87",
+        "page_id": "232964d168ed8308a0c4a953733491c2566f8c",
+        "url": "http://t.cn/AXA59tpw",
+        "tips": "#神21两名航天员将在太空过生日#的相关内容，来智搜看看",
+        "status": 3,
+        "comment_content": "",
+        "display_name": "#神21两名航天员将在太空过生日#"
+      },
+      "query_category": "ObjectiveFacts",
+      "query": "#神21两名航天员将在太空过生日#",
+      "link_list": [
+        "sinaweibo://detail?mblogid=5227793732338959",
+        "sinaweibo://detail?mblogid=5227407738931250",
+        "sinaweibo://detail?mblogid=5227410677039338",
+        "historyweibo://5227793732338959",
+        "historyweibo://5227793732338959",
+        "historyweibo://5227409428450599",
+        "sinaweibo://detail?mblogid=5227835488997525",
+        "sinaweibo://detail?mblogid=5227833954667935",
+        "sinaweibo://detail?mblogid=5227826466787456",
+        "sinaweibo://detail?mblogid=5227841214222939",
+        "sinaweibo://detail?mblogid=5227924875908641",
+        "sinaweibo://detail?mblogid=5227924405884536",
+        "sinaweibo://detail?mblogid=5227843870265508",
+        "sinaweibo://detail?mblogid=5227837578548688",
+        "sinaweibo://detail?mblogid=5227848841037254",
+        "sinaweibo://detail?mblogid=5227837952101673",
+        "sinaweibo://detail?mblogid=5227838371529719",
+        "sinaweibo://detail?mblogid=5227826135695903",
+        "sinaweibo://detail?mblogid=5227829798373365",
+        "sinaweibo://detail?mblogid=5227790523960805",
+        "sinaweibo://detail?mblogid=5227704224055760",
+        "sinaweibo://detail?mblogid=5227867496780756",
+        "sinaweibo://detail?mblogid=5216857336054448",
+        "sinaweibo://detail?mblogid=5227823629075850",
+        "sinaweibo://detail?mblogid=5227449113645747",
+        "sinaweibo://detail?mblogid=5161063441761884",
+        "sinaweibo://detail?mblogid=5227456447385641",
+        "sinaweibo://detail?mblogid=5227840233805263",
+        "sinaweibo://detail?mblogid=5227838031794240",
+        "sinaweibo://detail?mblogid=5227397181606435",
+        "https://k.sina.cn/article_1977460817_m75dda85103301l2no.html?from=mil&wm=3049_0032",
+        "https://k.sina.cn/article_3142846247_mbb54072703301g0v8.html?from=mil&wm=3049_0032"
+      ],
+      "qs_status_info": "{\"qs_c_status\":8388608,\"qs_r_status\":0,\"qs_u_status\":0,\"qs_status\":0,\"qs_q_status\":0,\"ab_lab\":{}}",
+      "user_info": {},
+      "card_multimodal": {
+        "type": "mediablock",
+        "data": [
+          {
+            "type": "v",
+            "click_rate": 0.13516560322864,
+            "scheme": "sinaweibo://video/vvs?mid=5227793732338959&multi_paragraph=1&multi_count=0",
+            "cur_mid": "5227793732338959",
+            "h": 1080,
+            "user_name": "人民日报",
+            "vtype": 3,
+            "user_avatar": "https://tvax4.sinaimg.cn/crop.0.0.1018.1018.50/0033ImPzly8h8vgemh8kxj60sa0sadgw02.jpg?KID=imgbed,tva&Expires=1761931129&ssig=aTta2Ioetc",
+            "img": "http://wx1.sinaimg.cn/middle/0033ImPzly1i6vgx8d339j61hc0u0tbr02.jpg",
+            "video_url": "https://video.weibo.com/show?fid=1034:5227793391484930",
+            "hit_score_final": 0,
+            "hit_score_new": 0,
+            "doc_score": 0,
+            "img_pid": "0033ImPzly1i6vgx8d339j61hc0u0tbr02",
+            "w": 1920
+          },
+          {
+            "type": "v",
+            "click_rate": 0.026639344262295,
+            "scheme": "sinaweibo://multimedia?mix_mid=5227407738931250&mix_index=0&multi_paragraph=1&multi_count=1",
+            "cur_mid": "5227407738931250",
+            "h": 1280,
+            "user_name": "eva-yangyang",
+            "vtype": 0,
+            "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/698e48bbly8hkejxeayxlj20u00u0wiw.jpg?KID=imgbed,tva&Expires=1761931129&ssig=FeXZ5gsHFw",
+            "img": "http://wx3.sinaimg.cn/middle/698e48bbly1i6u8i03kpxj20k00zkjsf.jpg",
+            "video_url": "https://video.weibo.com/show?fid=1034:5227406819000343",
+            "hit_score_final": 63.725388,
+            "hit_score_new": 64.208984,
+            "doc_score": 3678,
+            "img_pid": "698e48bbly1i6u8i03kpxj20k00zkjsf",
+            "w": 720
+          },
+          {
+            "type": "v",
+            "click_rate": 0.095183960314179,
+            "scheme": "sinaweibo://video/vvs?mid=5227410677039338&multi_paragraph=4&multi_count=0",
+            "cur_mid": "5227410677039338",
+            "h": 1487,
+            "user_name": "央视新闻",
+            "vtype": 3,
+            "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.690.690.50/002TLsr9ly8i653ifvwbtj60j60j6aai02.jpg?KID=imgbed,tva&Expires=1761931129&ssig=Pkq2hfeymL",
+            "img": "http://wx4.sinaimg.cn/middle/002TLsr9ly1i6u9297m03j621g15be8102.jpg",
+            "video_url": "https://video.weibo.com/show?fid=1034:5227411533660193",
+            "hit_score_final": 61.195702,
+            "hit_score_new": 59.326172,
+            "doc_score": 4355,
+            "img_pid": "002TLsr9ly1i6u9297m03j621g15be8102",
+            "w": 2644
+          },
+          {
+            "type": "v",
+            "click_rate": 0.13516560322864,
+            "scheme": "sinaweibo://video/vvs?mid=5227793732338959&multi_paragraph=1&multi_count=0",
+            "cur_mid": "5227793732338959",
+            "h": 1080,
+            "user_name": "人民日报",
+            "vtype": 3,
+            "user_avatar": "https://tvax4.sinaimg.cn/crop.0.0.1018.1018.50/0033ImPzly8h8vgemh8kxj60sa0sadgw02.jpg?KID=imgbed,tva&Expires=1761931129&ssig=aTta2Ioetc",
+            "img": "http://wx1.sinaimg.cn/middle/0033ImPzly1i6vgx8d339j61hc0u0tbr02.jpg",
+            "video_url": "https://video.weibo.com/show?fid=1034:5227793391484930",
+            "hit_score_final": 0,
+            "hit_score_new": 0,
+            "doc_score": 0,
+            "img_pid": "0033ImPzly1i6vgx8d339j61hc0u0tbr02",
+            "w": 1920
+          }
+        ]
+      },
+      "msg_format": "markdown",
+      "top_quote_list": {},
+      "basemodel": "实验组10",
+      "unify_md5": "80e3738bfaf73a0c50e26b584ffc6a87",
+      "model": "deepseek",
+      "msg_json": "{}",
+      "wenda": {
+        "forward_gen": 0
+      },
+      "zs_risk_control": {
+        "think_text_close": 0,
+        "land_button_close": 0
+      },
+      "sorted_material_list": null,
+      "profile_image_url": "",
+      "abtest_info": {
+        "chat_entrance": 1
+      },
+      "ab_suffix": "default",
+      "current_time": 1761921240,
+      "msg": "<think><br><br>嗯，用户想了解神舟二十一号航天员在太空过生日的具体情况。从搜索结果看，这个话题有丰富的细节值得挖掘。<br><br>我注意到几个关键信息点：首先是两位寿星的身份，指令长张陆（01号）和载荷专家张洪章（03号）将在任务期间度过生日。这个细节在人民日报的报道和资料性内容里都有明确说明。<br><br>最打动人的是庆生准备。90后航天员武飞特意带了迷你玩具蛋糕，由于太空禁止明火且奶油会飘浮，这个设计既科学又温馨。他还携带了家人画作——妻子绘制的《小王子与玫瑰》和女儿的\"航天员爸爸\"肖像，这些情感寄托物将在400公里高空营造家的氛围。<br><br>庆生活动设计很有巧思：张陆计划用口琴演奏生日歌，武飞负责影像记录，地面控制中心还会发送祝福视频。央视新闻提到他们提前策划了保密惊喜，结合资料内容看，可能包括天地互动环节和结合科研任务的\"成果献礼\"仪式。<br><br>更深层的意义在于，这体现了中国航天技术的成熟。三一博士的分析很精辟：能携带玩具蛋糕等\"非必需品\"，说明天舟九号6.5吨物资保障让私人物品有合理空间，这是从\"能上天\"到\"住得好\"的质变。而70后指令长与90后航天员共同庆生，恰好象征航天事业的代际传承。<br><br>有趣的是任务的时间节点。发射日（10月31日）恰逢钱学森逝世16周年，网友留言\"神舟飞天，钱老一定看得见\"令人动容。任务还将覆盖2026年春节，航天员们准备用书法、口琴等展示传统文化，形成\"天地双庆\"的独特序列。<br><br>最后想特别提武飞的故事。这位最年轻的航天员曾被母亲讲述\"贷款上学\"的励志经历，他携带的日记本上写着\"生命可以老去，唯有荣耀绚烂天地\"，这句话或许能解释为何他们选择在星辰间庆祝生日——那是探索者独有的浪漫。<br><br></think><br>神舟二十一号航天员将在太空度过生日的安排，不仅体现了中国航天事业的人文关怀，更展现了技术实力与团队协作的深度融合。以下为关键信息整合：<br>### 🎂 **一、庆生背景与对象**  <br>1. **航天员身份**  <br>   - **寿星**：指令长张陆（01号，70后，曾执行神舟十五号任务）与载荷专家张洪章（03号，80/90后）。```wbCustomBlock{\"type\": \"quoted\", \"index\": 5, \"data\": {\"num\": [1], \"version\": 2, \"quote_list\": [{\"name\": \"人民日报\", \"scheme\": \"sinaweibo://detail?mblogid=5227793732338959\", \"index\": 1, \"label\": \"大v\"}], \"name\": \"人民日报\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.1018.1018.50/0033ImPzly8h8vgemh8kxj60sa0sadgw02.jpg?KID=imgbed,tva&Expires=1761931129&ssig=aTta2Ioetc\", \"scheme\": \"sinaweibo://detail?mblogid=5227793732338959\", \"vType\": 3}}```  <br>   - **策划者**：飞行工程师武飞（90后，中国最年轻航天员）负责筹备庆生物品，成为\"温情担当\"。```wbCustomBlock{\"type\": \"quoted\", \"index\": 6, \"data\": {\"num\": [2, 17], \"version\": 2, \"quote_list\": [{\"name\": \"eva-yangyang\", \"scheme\": \"sinaweibo://detail?mblogid=5227407738931250\", \"index\": 2, \"label\": \"大v\"}, {\"name\": \"深蓝航迹十月\", \"scheme\": \"sinaweibo://detail?mblogid=5227838371529719\", \"index\": 17, \"label\": \"\"}], \"name\": \"eva-yangyang\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/698e48bbly8hkejxeayxlj20u00u0wiw.jpg?KID=imgbed,tva&Expires=1761931129&ssig=FeXZ5gsHFw\", \"scheme\": \"sinaweibo://detail?mblogid=5227407738931250\", \"vType\": 0}}```  <br>2. **任务时间**  <br>   - 神舟二十一号于**2025年10月31日发射**，驻留太空约6个月，任务期间覆盖两位航天员的生日（具体日期未公开）。<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5227793732338959&multi_paragraph=1&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.1018.1018.50/0033ImPzly8h8vgemh8kxj60sa0sadgw02.jpg?KID=imgbed,tva&Expires=1761931129&ssig=aTta2Ioetc) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">人民日报</span><img src=\"http://wx1.sinaimg.cn/middle/0033ImPzly1i6vgx8d339j61hc0u0tbr02.jpg\" data-width=1080 data-height=1920></div><div data-type=\"v\" data-scheme=\"sinaweibo://multimedia?mix_mid=5227407738931250&mix_index=0&multi_paragraph=1&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/698e48bbly8hkejxeayxlj20u00u0wiw.jpg?KID=imgbed,tva&Expires=1761931129&ssig=FeXZ5gsHFw) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">eva-yangyang</span><img src=\"http://wx3.sinaimg.cn/middle/698e48bbly1i6u8i03kpxj20k00zkjsf.jpg\" data-width=1280 data-height=720></div></media-block><br>### 🚀 **二、庆生物品与活动设计**  <br>1. **情感化行囊**  <br>   - **玩具蛋糕**：因太空禁用明火且奶油易漂浮，武飞携带迷你仿真蛋糕保留仪式感，计划在生日时点亮\"蜡烛\"。```wbCustomBlock{\"type\": \"quoted\", \"index\": 12, \"data\": {\"num\": [1, 13], \"version\": 2, \"quote_list\": [{\"name\": \"大象观点\", \"scheme\": \"sinaweibo://detail?mblogid=5227843870265508\", \"index\": 13, \"label\": \"大v\"}, {\"name\": \"人民日报\", \"scheme\": \"sinaweibo://detail?mblogid=5227793732338959\", \"index\": 1, \"label\": \"\"}], \"name\": \"大象观点\", \"img\": \"https://tvax1.sinaimg.cn/crop.109.0.219.219.50/73e4d1e8ly8h17ydozqr0j20az0azq39.jpg?KID=imgbed,tva&Expires=1761931129&ssig=cXbcCj7iXo\", \"scheme\": \"sinaweibo://detail?mblogid=5227843870265508\", \"vType\": 0}}```  <br>   - **家人画作**：武飞携带妻子绘制的《小王子与玫瑰》、女儿创作的\"航天员爸爸\"肖像画，悬挂舱壁作为情感纽带。```wbCustomBlock{\"type\": \"quoted\", \"index\": 13, \"data\": {\"num\": [1, 2, 13], \"version\": 2, \"quote_list\": [{\"name\": \"人民日报\", \"scheme\": \"sinaweibo://detail?mblogid=5227793732338959\", \"index\": 1, \"label\": \"\"}, {\"name\": \"eva-yangyang\", \"scheme\": \"sinaweibo://detail?mblogid=5227407738931250\", \"index\": 2, \"label\": \"\"}, {\"name\": \"大象观点\", \"scheme\": \"sinaweibo://detail?mblogid=5227843870265508\", \"index\": 13, \"label\": \"\"}]}}```  <br>   - **艺术元素**：张陆携带口琴，计划演奏生日歌助兴；其文房四宝还将在春节书写春联，延续传统文化。```wbCustomBlock{\"type\": \"quoted\", \"index\": 14, \"data\": {\"num\": [24], \"version\": 2, \"quote_list\": [{\"name\": \"洪师弟\", \"scheme\": \"sinaweibo://detail?mblogid=5227823629075850\", \"index\": 24, \"label\": \"大v\"}], \"name\": \"洪师弟\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.1024.1024.50/8ab5cb5bly8i3rhmhh6qzj20sg0sgmzh.jpg?KID=imgbed,tva&Expires=1761931129&ssig=7ahP3lQ5Cf\", \"scheme\": \"sinaweibo://detail?mblogid=5227823629075850\", \"vType\": 0}}```  <br>2. **互动形式**  <br>   - **团队协作**：乘组共同布置舱内环境，张陆吹奏口琴、武飞记录影像，形成温馨庆祝场景。```wbCustomBlock{\"type\": \"quoted\", \"index\": 16, \"data\": {\"num\": [17], \"version\": 2, \"quote_list\": [{\"name\": \"深蓝航迹十月\", \"scheme\": \"sinaweibo://detail?mblogid=5227838371529719\", \"index\": 17, \"label\": \"\"}]}}```  <br>   - **天地联动**：地面控制中心将发送祝福视频，家人或通过天地通话传递问候。  <br>   - **科学仪式**：结合在轨实验（如微重力电池测试），以科研成果作为\"生日献礼\"。<br>### 🌟 **三、深层意义与科技支撑**  <br>1. **硬实力保障温情**  <br>   - 天舟九号货运飞船提前运送**6.5吨物资**（历史新高），私人物品严格控制在载荷允许范围内，体现中国空间站物资管理能力。```wbCustomBlock{\"type\": \"quoted\", \"index\": 22, \"data\": {\"num\": [8, 13], \"version\": 2, \"quote_list\": [{\"name\": \"三一博士\", \"scheme\": \"sinaweibo://detail?mblogid=5227833954667935\", \"index\": 8, \"label\": \"\"}, {\"name\": \"大象观点\", \"scheme\": \"sinaweibo://detail?mblogid=5227843870265508\", \"index\": 13, \"label\": \"\"}]}}```  <br>   - 对比早期任务\"克计算\"的紧张，如今兼顾科研与生活品质，标志太空技术进入新阶段。```wbCustomBlock{\"type\": \"quoted\", \"index\": 23, \"data\": {\"num\": [8, 13], \"version\": 2, \"quote_list\": [{\"name\": \"三一博士\", \"scheme\": \"sinaweibo://detail?mblogid=5227833954667935\", \"index\": 8, \"label\": \"\"}, {\"name\": \"大象观点\", \"scheme\": \"sinaweibo://detail?mblogid=5227843870265508\", \"index\": 13, \"label\": \"\"}]}}```  <br>2. **代际协作象征**  <br>   - **70后指令长**张陆（经验丰富）与**90后新秀**武飞的协作，体现航天事业接力传承。```wbCustomBlock{\"type\": \"quoted\", \"index\": 25, \"data\": {\"num\": [17], \"version\": 2, \"quote_list\": [{\"name\": \"深蓝航迹十月\", \"scheme\": \"sinaweibo://detail?mblogid=5227838371529719\", \"index\": 17, \"label\": \"\"}]}}```  <br>   - 三人分工覆盖驾驶（张陆）、设备维护（武飞）、科研（张洪章），生日庆祝成为团队凝聚力缩影。  <br>3. **人性化探索哲学**  <br>   - 玩具蛋糕、口琴等物品契合航天医学理念，通过情感联结缓解长期密闭环境的心理压力。```wbCustomBlock{\"type\": \"quoted\", \"index\": 28, \"data\": {\"num\": [8, 13, 17], \"version\": 2, \"quote_list\": [{\"name\": \"三一博士\", \"scheme\": \"sinaweibo://detail?mblogid=5227833954667935\", \"index\": 8, \"label\": \"\"}, {\"name\": \"大象观点\", \"scheme\": \"sinaweibo://detail?mblogid=5227843870265508\", \"index\": 13, \"label\": \"\"}, {\"name\": \"深蓝航迹十月\", \"scheme\": \"sinaweibo://detail?mblogid=5227838371529719\", \"index\": 17, \"label\": \"\"}]}}```  <br>   - 网友评价：\"当蛋糕在400公里高空被点亮，宇宙征程便与人间烟火达成共鸣\"。```wbCustomBlock{\"type\": \"quoted\", \"index\": 29, \"data\": {\"num\": [29], \"version\": 2, \"quote_list\": [{\"name\": \"玻璃海葵zy\", \"scheme\": \"sinaweibo://detail?mblogid=5227838031794240\", \"index\": 29, \"label\": \"\"}]}}```<br>### 🎉 **四、关联事件与文化延伸**  <br>- **太空春节**：任务覆盖2026年农历新年，航天员计划写春联、奏乐、天地拜年，形成\"天地双庆\"序列。```wbCustomBlock{\"type\": \"quoted\", \"index\": 32, \"data\": {\"num\": [3, 27], \"version\": 2, \"quote_list\": [{\"name\": \"央视新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5227410677039338\", \"index\": 3, \"label\": \"大v\"}, {\"name\": \"明变是飞\", \"scheme\": \"sinaweibo://detail?mblogid=5227456447385641\", \"index\": 27, \"label\": \"\"}], \"name\": \"央视新闻\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.690.690.50/002TLsr9ly8i653ifvwbtj60j60j6aai02.jpg?KID=imgbed,tva&Expires=1761931129&ssig=Pkq2hfeymL\", \"scheme\": \"sinaweibo://detail?mblogid=5227410677039338\", \"vType\": 3}}```  <br>- **致敬钱学森**：发射日（10月31日）恰逢钱学森逝世16周年，网友留言\"神舟飞天，钱老一定看得见\"。```wbCustomBlock{\"type\": \"quoted\", \"index\": 33, \"data\": {\"num\": [20, 25], \"version\": 2, \"quote_list\": [{\"name\": \"中国军视网\", \"scheme\": \"sinaweibo://detail?mblogid=5227790523960805\", \"index\": 20, \"label\": \"大v\"}, {\"name\": \"中国核电\", \"scheme\": \"sinaweibo://detail?mblogid=5227449113645747\", \"index\": 25, \"label\": \"\"}], \"name\": \"中国军视网\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.1024.1024.50/005XDnEely8h8vgcuijnyj30sg0sgdgu.jpg?KID=imgbed,tva&Expires=1761931129&ssig=VCtE%2FaXSac\", \"scheme\": \"sinaweibo://detail?mblogid=5227790523960805\", \"vType\": 3}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5227410677039338&multi_paragraph=4&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.690.690.50/002TLsr9ly8i653ifvwbtj60j60j6aai02.jpg?KID=imgbed,tva&Expires=1761931129&ssig=Pkq2hfeymL) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">央视新闻</span><img src=\"http://wx4.sinaimg.cn/middle/002TLsr9ly1i6u9297m03j621g15be8102.jpg\" data-width=1487 data-height=2644></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5227790523960805&from=search&content_show=1&mix_index=3&hide_index=1&multi_paragraph=4&multi_count=1\"><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.1024.1024.50/005XDnEely8h8vgcuijnyj30sg0sgdgu.jpg?KID=imgbed,tva&Expires=1761931129&ssig=VCtE%2FaXSac) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">中国军视网</span><img src=\"http://wx2.sinaimg.cn/middle/005XDnEely1i6vgjw9r81j30u01hc1dg.jpg\" data-width=1920 data-height=1080></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5227456447385641&multi_paragraph=4&multi_count=2\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/008dLQQyly8i2is2zi60yj30u00u0q4a.jpg?KID=imgbed,tva&Expires=1761931129&ssig=Tmnaf9Lpvs) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">明变是飞</span><img src=\"http://wx3.sinaimg.cn/middle/008dLQQyly1i6ue6qn5k3j30k00zk3zy.jpg\" data-width=1280 data-height=720></div></media-block><br>### 💎 **总结**  <br>神舟二十一号的太空生日，既是个人生命刻度上的独特体验，亦是中国航天\"科技温度\"的具象表达——在星辰间平衡使命与温情，用玩具蛋糕的微光诠释：**最遥远的探索，始终根植于最柔软的人间情感**。```wbCustomBlock{\"type\": \"quoted\", \"index\": 35, \"data\": {\"num\": [11, 19], \"version\": 2, \"quote_list\": [{\"name\": \"WHITE_鹿之遥\", \"scheme\": \"sinaweibo://detail?mblogid=5227924875908641\", \"index\": 11, \"label\": \"\"}, {\"name\": \"祁牧眠海\", \"scheme\": \"sinaweibo://detail?mblogid=5227829798373365\", \"index\": 19, \"label\": \"\"}]}}```<br>"
+    }
+  },
+  "links": [
+    "sinaweibo://detail?mblogid=5227793732338959",
+    "sinaweibo://detail?mblogid=5227407738931250",
+    "sinaweibo://detail?mblogid=5227410677039338",
+    "historyweibo://5227793732338959",
+    "historyweibo://5227793732338959",
+    "historyweibo://5227409428450599",
+    "sinaweibo://detail?mblogid=5227835488997525",
+    "sinaweibo://detail?mblogid=5227833954667935",
+    "sinaweibo://detail?mblogid=5227826466787456",
+    "sinaweibo://detail?mblogid=5227841214222939",
+    "sinaweibo://detail?mblogid=5227924875908641",
+    "sinaweibo://detail?mblogid=5227924405884536",
+    "sinaweibo://detail?mblogid=5227843870265508",
+    "sinaweibo://detail?mblogid=5227837578548688",
+    "sinaweibo://detail?mblogid=5227848841037254",
+    "sinaweibo://detail?mblogid=5227837952101673",
+    "sinaweibo://detail?mblogid=5227838371529719",
+    "sinaweibo://detail?mblogid=5227826135695903",
+    "sinaweibo://detail?mblogid=5227829798373365",
+    "sinaweibo://detail?mblogid=5227790523960805",
+    "sinaweibo://detail?mblogid=5227704224055760",
+    "sinaweibo://detail?mblogid=5227867496780756",
+    "sinaweibo://detail?mblogid=5216857336054448",
+    "sinaweibo://detail?mblogid=5227823629075850",
+    "sinaweibo://detail?mblogid=5227449113645747",
+    "sinaweibo://detail?mblogid=5161063441761884",
+    "sinaweibo://detail?mblogid=5227456447385641",
+    "sinaweibo://detail?mblogid=5227840233805263",
+    "sinaweibo://detail?mblogid=5227838031794240",
+    "sinaweibo://detail?mblogid=5227397181606435",
+    "https://k.sina.cn/article_1977460817_m75dda85103301l2no.html?from=mil&wm=3049_0032",
+    "https://k.sina.cn/article_3142846247_mbb54072703301g0v8.html?from=mil&wm=3049_0032"
+  ],
+  "media": [
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/0033ImPzly1i6vgx8d339j61hc0u0tbr02.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/0033ImPzly1i6vgx8d339j61hc0u0tbr02.jpg",
+      "alt": "人民日报",
+      "width": 1080,
+      "height": 1920,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/0033ImPzly1i6vgx8d339j61hc0u0tbr02.jpg"
+      ],
+      "user": "人民日报"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/698e48bbly1i6u8i03kpxj20k00zkjsf.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/698e48bbly1i6u8i03kpxj20k00zkjsf.jpg",
+      "alt": "eva-yangyang",
+      "width": 1280,
+      "height": 720,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/698e48bbly1i6u8i03kpxj20k00zkjsf.jpg"
+      ],
+      "user": "eva-yangyang"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/002TLsr9ly1i6u9297m03j621g15be8102.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/002TLsr9ly1i6u9297m03j621g15be8102.jpg",
+      "alt": "央视新闻",
+      "width": 1487,
+      "height": 2644,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/002TLsr9ly1i6u9297m03j621g15be8102.jpg"
+      ],
+      "user": "央视新闻"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/005XDnEely1i6vgjw9r81j30u01hc1dg.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/005XDnEely1i6vgjw9r81j30u01hc1dg.jpg",
+      "alt": "中国军视网",
+      "width": 1920,
+      "height": 1080,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/005XDnEely1i6vgjw9r81j30u01hc1dg.jpg"
+      ],
+      "user": "中国军视网"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/008dLQQyly1i6ue6qn5k3j30k00zk3zy.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/008dLQQyly1i6ue6qn5k3j30k00zk3zy.jpg",
+      "alt": "明变是飞",
+      "width": 1280,
+      "height": 720,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/008dLQQyly1i6ue6qn5k3j30k00zk3zy.jpg"
+      ],
+      "user": "明变是飞"
+    }
+  ],
+  "html_path": "data/aicard/hourly/2025-10-31/16/21.html"
+}

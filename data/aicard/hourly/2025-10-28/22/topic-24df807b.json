@@ -1,0 +1,413 @@
+{
+  "meta": {
+    "query": "#张馨予 红毯定海神针#",
+    "status_code": 200,
+    "fetched_at": "2025-10-28T22:36:46+08:00",
+    "response": {
+      "cot": 1,
+      "qs_status_info": "{\"qs_status\":0,\"qs_q_status\":0,\"qs_u_status\":0,\"qs_c_status\":8388608,\"qs_r_status\":0,\"ab_lab\":{}}",
+      "scheme": "sinaweibo://cardlist?containerid=100103type%3D225%26q%3D%23%E5%BC%A0%E9%A6%A8%E4%BA%88%20%E7%BA%A2%E6%AF%AF%E5%AE%9A%E6%B5%B7%E7%A5%9E%E9%92%88%23%26t%3D&extparam=ai_model%3Ddeepseek%26ori_ai_title%3D%E5%8F%82%E8%80%83%E5%8D%9A%E6%96%87%26material_version%3D1761661632",
+      "short_url": "http://t.cn/AXAhPfZI",
+      "share_text": "#张馨予 红毯定海神针#的相关内容，来智搜看看",
+      "query": "#张馨予 红毯定海神针#",
+      "wenda": {
+        "forward_gen": 0
+      },
+      "mid_list": null,
+      "reference_num": 48,
+      "status_stage": 4,
+      "unify_md5": "24df807b41ec2172e7798ca168f1e2df",
+      "abtest_info": {
+        "chat_entrance": 1
+      },
+      "current_time": 1761662206,
+      "card_multimodal": {
+        "type": "mediablock",
+        "data": [
+          {
+            "cur_mid": "5226777053497152",
+            "h": 5392,
+            "user_name": "娱乐有饭",
+            "vtype": 7,
+            "user_avatar": "https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/00249OSzly8h8v3wogxe8j60u00u0dia02.jpg?KID=imgbed,tva&Expires=1761672432&ssig=wTpn%2BO93yG",
+            "video_url": "",
+            "click_rate": 0.41304347826087,
+            "w": 3592,
+            "doc_score": 3207,
+            "type": "p",
+            "scheme": "sinaweibo://multimedia?mix_mid=5226777053497152&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=1&multi_count=0",
+            "hit_score_final": 83.364456,
+            "hit_score_new": 97.607422,
+            "img": "http://wx1.sinaimg.cn/middle/00249OSzly1i6s84tfeogj62rs45skjn02.jpg",
+            "img_pid": "00249OSzly1i6s84tfeogj62rs45skjn02"
+          },
+          {
+            "cur_mid": "5226781666970016",
+            "h": 1712,
+            "user_name": "逍遥珊33",
+            "vtype": 0,
+            "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.512.512.50/aa930d9aly8h5xc0hhlvxj20e80e8753.jpg?KID=imgbed,tva&Expires=1761672432&ssig=qCLy5wq5HP",
+            "video_url": "",
+            "click_rate": 0.40296740749811,
+            "w": 1284,
+            "doc_score": 6672,
+            "type": "p",
+            "scheme": "sinaweibo://multimedia?mix_mid=5226781666970016&from=search&content_show=1&mix_index=2&hide_index=1&multi_paragraph=1&multi_count=1",
+            "hit_score_final": 85.014069,
+            "hit_score_new": 99.023438,
+            "img": "http://wx3.sinaimg.cn/middle/aa930d9agy1i6s8n95a1ij20zo1bkgp1.jpg",
+            "img_pid": "aa930d9agy1i6s8n95a1ij20zo1bkgp1"
+          },
+          {
+            "cur_mid": "5226808071161903",
+            "h": 1920,
+            "user_name": "娱圈咖啡喵",
+            "vtype": 0,
+            "user_avatar": "https://tvax4.sinaimg.cn/crop.0.0.512.512.50/bb02f265ly8hgtapzedocj20e80e8mxg.jpg?KID=imgbed,tva&Expires=1761672432&ssig=R0g5HP0wbP",
+            "video_url": "https://video.weibo.com/show?fid=1034:5226804454293511",
+            "click_rate": 0,
+            "w": 1080,
+            "doc_score": 3579,
+            "type": "v",
+            "scheme": "sinaweibo://video/vvs?mid=5226808071161903&multi_paragraph=1&multi_count=2",
+            "hit_score_final": 79.214455,
+            "hit_score_new": 91.357422,
+            "img": "http://wx2.sinaimg.cn/middle/bb02f265ly1i6sbbi5be5j20u01hc3zr.jpg",
+            "img_pid": "bb02f265ly1i6sbbi5be5j20u01hc3zr"
+          },
+          {
+            "cur_mid": "5226777053497152",
+            "h": 5392,
+            "user_name": "娱乐有饭",
+            "vtype": 7,
+            "user_avatar": "https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/00249OSzly8h8v3wogxe8j60u00u0dia02.jpg?KID=imgbed,tva&Expires=1761672432&ssig=wTpn%2BO93yG",
+            "video_url": "",
+            "click_rate": 0.41304347826087,
+            "w": 3592,
+            "doc_score": 3207,
+            "type": "p",
+            "scheme": "sinaweibo://multimedia?mix_mid=5226777053497152&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=1&multi_count=0",
+            "hit_score_final": 83.364456,
+            "hit_score_new": 97.607422,
+            "img": "http://wx1.sinaimg.cn/middle/00249OSzly1i6s84tfeogj62rs45skjn02.jpg",
+            "img_pid": "00249OSzly1i6s84tfeogj62rs45skjn02"
+          }
+        ]
+      },
+      "user_info": {},
+      "ext_show": {},
+      "basemodel": "实验组6",
+      "query_category": "Gossip",
+      "show_ctrl": {
+        "quote": {}
+      },
+      "status": 2,
+      "analysis_time": 1761661801,
+      "sorted_material_list": null,
+      "loop_times": 200,
+      "share_info": {
+        "url": "http://t.cn/AXAhhbTl",
+        "tips": "#张馨予 红毯定海神针#的相关内容，来智搜看看",
+        "unify_md5": "24df807b41ec2172e7798ca168f1e2df",
+        "display_name": "#张馨予 红毯定海神针#",
+        "page_id": "2329641b1574d071b10f72fe38a8103ecf9c31",
+        "status": 3
+      },
+      "qs_status": 0,
+      "news_analyze": {},
+      "model": "deepseek",
+      "msg_json": "{}",
+      "link_list": [
+        "sinaweibo://detail?mblogid=5226774079737097",
+        "sinaweibo://detail?mblogid=5226802702189780",
+        "sinaweibo://detail?mblogid=5226800385101483",
+        "sinaweibo://detail?mblogid=5226808624812764",
+        "sinaweibo://detail?mblogid=5226781666970016",
+        "sinaweibo://detail?mblogid=5226382263058939",
+        "sinaweibo://detail?mblogid=5226813844619646",
+        "sinaweibo://detail?mblogid=5226808071161903",
+        "sinaweibo://detail?mblogid=5226793533445136",
+        "sinaweibo://detail?mblogid=5226777053497152",
+        "sinaweibo://detail?mblogid=5072790646424782",
+        "broadsocial_res://",
+        "historyweibo://5226781666970016",
+        "historyweibo://5226774079737097",
+        "historyweibo://5226822075679196",
+        "sinaweibo://detail?mblogid=5226798477479342",
+        "sinaweibo://detail?mblogid=5226815045502452",
+        "sinaweibo://detail?mblogid=5226793838580394",
+        "sinaweibo://detail?mblogid=5226785820121346",
+        "sinaweibo://detail?mblogid=5226811287409767",
+        "sinaweibo://detail?mblogid=5226792588675918",
+        "sinaweibo://detail?mblogid=5226814926755023",
+        "sinaweibo://detail?mblogid=5226817982042269",
+        "sinaweibo://detail?mblogid=5226783301437135",
+        "sinaweibo://detail?mblogid=5226810133972027",
+        "sinaweibo://detail?mblogid=5226836101174242",
+        "sinaweibo://detail?mblogid=5226819043462903",
+        "sinaweibo://detail?mblogid=5226822780322370",
+        "sinaweibo://detail?mblogid=5226811331971974",
+        "sinaweibo://detail?mblogid=5226818345111755",
+        "sinaweibo://detail?mblogid=5226822166908341",
+        "sinaweibo://detail?mblogid=5226734806893810",
+        "sinaweibo://detail?mblogid=5226833985408170",
+        "sinaweibo://detail?mblogid=5226850005553405",
+        "sinaweibo://detail?mblogid=5226849525564727",
+        "sinaweibo://detail?mblogid=5226849397641400",
+        "sinaweibo://detail?mblogid=5226849336823042",
+        "sinaweibo://detail?mblogid=5226848444485948",
+        "sinaweibo://detail?mblogid=5226847887165452",
+        "sinaweibo://detail?mblogid=5226847073735617",
+        "sinaweibo://detail?mblogid=5226846954458218",
+        "sinaweibo://detail?mblogid=5040409539777371",
+        "sinaweibo://detail?mblogid=5226805609105498",
+        "sinaweibo://detail?mblogid=5226788089496647",
+        "sinaweibo://detail?mblogid=5040376635722374",
+        "sinaweibo://detail?mblogid=5226838487730343",
+        "sinaweibo://detail?mblogid=5226804023661572",
+        "sinaweibo://detail?mblogid=5226803724550821",
+        "sinaweibo://detail?mblogid=5226806799241309",
+        "sinaweibo://detail?mblogid=5226398773939755",
+        "sinaweibo://detail?mblogid=5226808511042052",
+        "sinaweibo://detail?mblogid=5226809361958515"
+      ],
+      "profile_image_url": "",
+      "msg": "<think><br><br>嗯，用户搜索的关键词是“张馨予 红毯定海神针”，看起来是想了解张馨予在红毯上的表现以及这个称号的由来。这个查询时效性很强，主要集中在2025年10月28日ELLE红毯事件，所以需要重点分析当天的情况。<br><br>浏览搜索结果后发现，核心信息来自10月28日的ELLE风尚大典。张馨予身穿25斤重的礼服亮相引发全网热议。这件礼服的设计很有特点：半透视蕾丝连衣裙搭配超长羽毛披肩，形成“又纯又欲”的反差美感。最惊人的是她穿着12厘米高跟鞋在三亚海风中稳健行走的表现，被媒体形容为“定海神针”。<br><br>注意到多个权威账号都强调了她对25斤礼服的驾驭能力。资料类结果显示，这相当于手提两桶饮用水，而她不仅步履从容，还能优雅地配合多角度拍摄。这种专业素养应该是“定海神针”称号的核心来源。<br><br>化妆造型也是重要因素。她的常用化妆师袁帅设计的“千年狐妖妆”很出圈，通过冷调修容突出骨相，搭配复古红唇，与礼服主题高度契合。有意思的是张馨予本人调侃说“千万别火”，反而让化妆师更受关注。<br><br>翻看舆论反响时发现有趣的两极评价。多数认证账号盛赞她“重新定义红毯标准”，但也有普通账号质疑营销痕迹。不过主流声音集中在她的转型——从早期戛纳“东北花袄”争议到现在的实力派认可。<br><br>补充注意到三个细节：一是她因起床晚没拍出发图，反而增加了红毯悬念感；二是25斤的重量最初被误传为25公斤，后来经媒体澄清；三是她军婚背景仍被部分网友提及，但更多讨论聚焦在专业表现上。<br><br>最后整理时间线：10月27日预告礼服重量，28日红毯引爆话题，当天相关话题阅读量破亿。综合来看，“定海神针”的称号既是对这次25斤礼服驾驭能力的即时评价，也是对她多年来红毯表现的综合肯定。<br><br></think><br>张馨予在2025年10月28日ELLE风尚大典红毯上的表现被全网誉为“红毯定海神针”，其核心亮点与深层意义解析如下：<br>### 💎 **一、称号核心来源：25斤礼服的颠覆性演绎**  <br>1. **设计突破与重量挑战**  <br>   - 礼服由**半透视蕾丝连衣裙**与**三米长纯白羽毛披肩**组成，重达25斤（约12.5公斤），因高密度刺绣、金属装饰及多层堆叠面料所致。```wbCustomBlock{\"type\": \"quoted\", \"index\": 4, \"data\": {\"num\": [24, 27], \"version\": 2, \"quote_list\": [{\"name\": \"潇湘晨报\", \"scheme\": \"sinaweibo://detail?mblogid=5226783301437135\", \"index\": 24, \"label\": \"大v\"}, {\"name\": \"热爱生活热爱你呦\", \"scheme\": \"sinaweibo://detail?mblogid=5226819043462903\", \"index\": 27, \"label\": \"\"}], \"name\": \"潇湘晨报\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.826.826.50/001O24LNly8h8viu4nck1j60my0myq3m02.jpg?KID=imgbed,tva&Expires=1761672432&ssig=aManh%2BxwGN\", \"scheme\": \"sinaweibo://detail?mblogid=5226783301437135\", \"vType\": 3}}```  <br>   - 蕾丝的性感透视与羽毛的圣洁飘逸形成“又纯又欲”的视觉冲击，黑色与白色的碰撞强化了刚柔并济的美学。```wbCustomBlock{\"type\": \"quoted\", \"index\": 5, \"data\": {\"num\": [7, 8, 10], \"version\": 2, \"quote_list\": [{\"name\": \"娱圈咖啡喵\", \"scheme\": \"sinaweibo://detail?mblogid=5226808071161903\", \"index\": 8, \"label\": \"大v\"}, {\"name\": \"海咪梅丽号\", \"scheme\": \"sinaweibo://detail?mblogid=5226813844619646\", \"index\": 7, \"label\": \"\"}, {\"name\": \"娱乐有饭\", \"scheme\": \"sinaweibo://detail?mblogid=5226777053497152\", \"index\": 10, \"label\": \"\"}], \"name\": \"娱圈咖啡喵\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.512.512.50/bb02f265ly8hgtapzedocj20e80e8mxg.jpg?KID=imgbed,tva&Expires=1761672432&ssig=R0g5HP0wbP\", \"scheme\": \"sinaweibo://detail?mblogid=5226808071161903\", \"vType\": 0}}```<br><br>2. **职业素养的极致展现**  <br>   - 在三亚强风环境下，她脚踩12厘米高跟鞋，手提25斤拖尾（相当于两桶饮用水重量）仍步履稳健，精准配合多角度拍摄。```wbCustomBlock{\"type\": \"quoted\", \"index\": 7, \"data\": {\"num\": [5, 27], \"version\": 2, \"quote_list\": [{\"name\": \"逍遥珊33\", \"scheme\": \"sinaweibo://detail?mblogid=5226781666970016\", \"index\": 5, \"label\": \"大v\"}, {\"name\": \"热爱生活热爱你呦\", \"scheme\": \"sinaweibo://detail?mblogid=5226819043462903\", \"index\": 27, \"label\": \"\"}], \"name\": \"逍遥珊33\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.512.512.50/aa930d9aly8h5xc0hhlvxj20e80e8753.jpg?KID=imgbed,tva&Expires=1761672432&ssig=qCLy5wq5HP\", \"scheme\": \"sinaweibo://detail?mblogid=5226781666970016\", \"vType\": 0}}```  <br>   - 主动环顾三侧媒体，从容引导镜头，被赞“出场即控场”，主持人多次调度走位也未露怯态。```wbCustomBlock{\"type\": \"quoted\", \"index\": 8, \"data\": {\"num\": [9], \"version\": 2, \"quote_list\": [{\"name\": \"新新想事成\", \"scheme\": \"sinaweibo://detail?mblogid=5226793533445136\", \"index\": 9, \"label\": \"大v\"}], \"name\": \"新新想事成\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.768.768.50/e576d77dly8i591w7038oj20lc0lcgnl.jpg?KID=imgbed,tva&Expires=1761672432&ssig=FbmN9eTKa0\", \"scheme\": \"sinaweibo://detail?mblogid=5226793533445136\", \"vType\": 0}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5226777053497152&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=1&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/00249OSzly8h8v3wogxe8j60u00u0dia02.jpg?KID=imgbed,tva&Expires=1761672432&ssig=wTpn%2BO93yG) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">娱乐有饭</span><img src=\"http://wx1.sinaimg.cn/middle/00249OSzly1i6s84tfeogj62rs45skjn02.jpg\" data-width=5392 data-height=3592></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5226781666970016&from=search&content_show=1&mix_index=2&hide_index=1&multi_paragraph=1&multi_count=1\"><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.512.512.50/aa930d9aly8h5xc0hhlvxj20e80e8753.jpg?KID=imgbed,tva&Expires=1761672432&ssig=qCLy5wq5HP) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">逍遥珊33</span><img src=\"http://wx3.sinaimg.cn/middle/aa930d9agy1i6s8n95a1ij20zo1bkgp1.jpg\" data-width=1712 data-height=1284></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5226808071161903&multi_paragraph=1&multi_count=2\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.512.512.50/bb02f265ly8hgtapzedocj20e80e8mxg.jpg?KID=imgbed,tva&Expires=1761672432&ssig=R0g5HP0wbP) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">娱圈咖啡喵</span><img src=\"http://wx2.sinaimg.cn/middle/bb02f265ly1i6sbbi5be5j20u01hc3zr.jpg\" data-width=1920 data-height=1080></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5226813844619646&multi_paragraph=1&multi_count=3\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.1075.1075.50/006VN1nJly8hyy61pt661j30tv0tvmz4.jpg?KID=imgbed,tva&Expires=1761672432&ssig=YjeAtYKaZT) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">海咪梅丽号</span><img src=\"http://wx1.sinaimg.cn/middle/006VN1nJly1i6scds2iywj30q00k00t0.jpg\" data-width=720 data-height=936></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5226793533445136&multi_paragraph=1&multi_count=4\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.768.768.50/e576d77dly8i591w7038oj20lc0lcgnl.jpg?KID=imgbed,tva&Expires=1761672432&ssig=FbmN9eTKa0) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">新新想事成</span><img src=\"http://wx2.sinaimg.cn/middle/e576d77dgy1i6sa0p4w7wj21401hdtn3.jpg\" data-width=1921 data-height=1440></div></media-block><br>### 💄 **二、妆造与细节加持**  <br>1. **千年狐妖主题妆容**  <br>   - 化妆师**袁帅（袁大帅ONTIME）**设计哑光底妆突出骨相立体感，冷调修容强化眉骨，搭配狐系上扬眼线与复古红唇，呼应礼服“仙气与妖媚交融”的主题。```wbCustomBlock{\"type\": \"quoted\", \"index\": 11, \"data\": {\"num\": [2, 22], \"version\": 2, \"quote_list\": [{\"name\": \"袁大帅ONTIME\", \"scheme\": \"sinaweibo://detail?mblogid=5226814926755023\", \"index\": 22, \"label\": \"大v\"}, {\"name\": \"张馨予\", \"scheme\": \"sinaweibo://detail?mblogid=5226802702189780\", \"index\": 2, \"label\": \"\"}], \"name\": \"袁大帅ONTIME\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/72e900efly8he0e56kzhnj20u00u00vq.jpg?KID=imgbed,tva&Expires=1761672432&ssig=95z9Rm%2FltF\", \"scheme\": \"sinaweibo://detail?mblogid=5226814926755023\", \"vType\": 0}}```  <br>   - 高盘发凸显修长脖颈线条，进一步放大礼服肩颈设计的华丽感。```wbCustomBlock{\"type\": \"quoted\", \"index\": 12, \"data\": {\"num\": [8, 47], \"version\": 2, \"quote_list\": [{\"name\": \"娱圈咖啡喵\", \"scheme\": \"sinaweibo://detail?mblogid=5226808071161903\", \"index\": 8, \"label\": \"\"}, {\"name\": \"张张只喝粥\", \"scheme\": \"sinaweibo://detail?mblogid=5226804023661572\", \"index\": 47, \"label\": \"\"}]}}```<br><br>2. **意外悬念增加热度**  <br>   - 因起床过晚未拍摄出发图，红毯成为造型首次曝光，悬念感拉满关注度。```wbCustomBlock{\"type\": \"quoted\", \"index\": 14, \"data\": {\"num\": [9, 32], \"version\": 2, \"quote_list\": [{\"name\": \"新新想事成\", \"scheme\": \"sinaweibo://detail?mblogid=5226793533445136\", \"index\": 9, \"label\": \"\"}, {\"name\": \"瘟流同期\", \"scheme\": \"sinaweibo://detail?mblogid=5226734806893810\", \"index\": 32, \"label\": \"\"}]}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5226802702189780&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=2&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/001UqFPjly8hj5j6s5k48j60u00u0tbl02.jpg?KID=imgbed,tva&Expires=1761672432&ssig=n9rNAtfkcd) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">张馨予</span><img src=\"http://wx1.sinaimg.cn/middle/001UqFPjgy1i6sasfsaydj65xc4g0u1502.jpg\" data-width=5760 data-height=7680></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5226814926755023&from=search&content_show=1&mix_index=7&hide_index=1&multi_paragraph=2&multi_count=1\"><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/72e900efly8he0e56kzhnj20u00u00vq.jpg?KID=imgbed,tva&Expires=1761672432&ssig=95z9Rm%2FltF) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">袁大帅ONTIME</span><img src=\"http://wx3.sinaimg.cn/middle/72e900efgy1i6sbxbe13jj24g05xce85.jpg\" data-width=7680 data-height=5760></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5226804023661572&multi_paragraph=2&multi_count=2\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/006CCEgMly8i5mvaeejd4j30u00u0dhz.jpg?KID=imgbed,tva&Expires=1761672432&ssig=OLE01hAo2R) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">张张只喝粥</span><img src=\"http://wx1.sinaimg.cn/middle/006CCEgMly1i6scp6burpj30k00zkabz.jpg\" data-width=1280 data-height=720></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5226734806893810&multi_paragraph=2&multi_count=3\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/007CEpbUly8i6jw4t7v73j30u00u0wi0.jpg?KID=imgbed,tva&Expires=1761672432&ssig=3xCD0mgfGX) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">瘟流同期</span><img src=\"http://wx4.sinaimg.cn/middle/007CEpbUly1i6s3b2azgxj30k00qot9n.jpg\" data-width=960 data-height=720></div></media-block><br>### 🌊 **三、舆论反响与符号化意义**  <br>1. **全网热议与行业认可**  <br>   - 话题#张馨予出场秒了#、#张馨予红毯定海神针#单日阅读量破亿，ELLE官方发文称赞：“出现的第一秒，就知道这个生日不简单”。  <br>   - 对比同场女星的柔美海洋风（如贝壳裙），她以“暗黑女王”风格脱颖而出，生图刷屏各大平台。```wbCustomBlock{\"type\": \"quoted\", \"index\": 18, \"data\": {\"num\": [49], \"version\": 2, \"quote_list\": [{\"name\": \"Mioki_\", \"scheme\": \"sinaweibo://detail?mblogid=5226806799241309\", \"index\": 49, \"label\": \"\"}]}}```<br><br>2. **形象进阶的里程碑**  <br>   - **早期争议转型**：从2014年戛纳“东北花袄”的争议，到军婚、田园生活扭转口碑，此次以实力驾驭非主流设计，完成“话题女王→红毯标杆”的蜕变。```wbCustomBlock{\"type\": \"quoted\", \"index\": 20, \"data\": {\"num\": [16, 28], \"version\": 2, \"quote_list\": [{\"name\": \"石泉人在东莞\", \"scheme\": \"sinaweibo://detail?mblogid=5226822780322370\", \"index\": 28, \"label\": \"大v\"}, {\"name\": \"楼上_万能小黑君\", \"scheme\": \"sinaweibo://detail?mblogid=5226798477479342\", \"index\": 16, \"label\": \"\"}], \"name\": \"石泉人在东莞\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/9b36bcf9ly8hq3q22p4uxj20u00u041b.jpg?KID=imgbed,tva&Expires=1761672432&ssig=qU5GHn%2FyQG\", \"scheme\": \"sinaweibo://detail?mblogid=5226822780322370\", \"vType\": 0}}```  <br>   - **公众评价两极**：  <br>     - 赞誉方认证其“重新定义红毯女王标准”，将重量转化为气场的硬核实力；```wbCustomBlock{\"type\": \"quoted\", \"index\": 22, \"data\": {\"num\": [8, 43, 48], \"version\": 2, \"quote_list\": [{\"name\": \"娱念昕\", \"scheme\": \"sinaweibo://detail?mblogid=5226803724550821\", \"index\": 48, \"label\": \"大v\"}, {\"name\": \"娱圈咖啡喵\", \"scheme\": \"sinaweibo://detail?mblogid=5226808071161903\", \"index\": 8, \"label\": \"\"}, {\"name\": \"茶多酚糕兽_\", \"scheme\": \"sinaweibo://detail?mblogid=5226805609105498\", \"index\": 43, \"label\": \"\"}], \"name\": \"娱念昕\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.996.996.50/006KgP1Sly8ghkdub76vhj30ro0roacx.jpg?KID=imgbed,tva&Expires=1761672432&ssig=5PJhLSWqCB\", \"scheme\": \"sinaweibo://detail?mblogid=5226803724550821\", \"vType\": 0}}```  <br>     - 部分声音质疑营销痕迹，但主流肯定其职业素养。```wbCustomBlock{\"type\": \"quoted\", \"index\": 23, \"data\": {\"num\": [37], \"version\": 2, \"quote_list\": [{\"name\": \"________________00000\", \"scheme\": \"sinaweibo://detail?mblogid=5226849336823042\", \"index\": 37, \"label\": \"\"}]}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5226822780322370&multi_paragraph=3&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/9b36bcf9ly8hq3q22p4uxj20u00u041b.jpg?KID=imgbed,tva&Expires=1761672432&ssig=qU5GHn%2FyQG) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">石泉人在东莞</span><img src=\"http://wx1.sinaimg.cn/middle/9b36bcf9gy1i6sdeyua1lj20k00qm3zc.jpg\" data-width=958 data-height=720></div></media-block><br>### 🔥 **四、“定海神针”的深层内涵**  <br>1. **体能美学的双重突破**  <br>   25斤负重需核心力量维持动态优雅，凸显演员职业的隐性门槛——普通人手提已显吃力，她却能演绎飘逸灵动。```wbCustomBlock{\"type\": \"quoted\", \"index\": 25, \"data\": {\"num\": [27], \"version\": 2, \"quote_list\": [{\"name\": \"热爱生活热爱你呦\", \"scheme\": \"sinaweibo://detail?mblogid=5226819043462903\", \"index\": 27, \"label\": \"\"}]}}```<br><br>2. **冲突美学的胜利**  <br>   礼服融合性感与霸气，打破红毯安全牌审美，呼应现代女性“柔中带刚”的精神内核。```wbCustomBlock{\"type\": \"quoted\", \"index\": 26, \"data\": {\"num\": [7], \"version\": 2, \"quote_list\": [{\"name\": \"海咪梅丽号\", \"scheme\": \"sinaweibo://detail?mblogid=5226813844619646\", \"index\": 7, \"label\": \"\"}]}}```<br><br>3. **十年口碑的集中爆发**  <br>   近年屡以红毯封神（如2024年GQ盛典“暗黑女王”），骨相优势支撑多元风格，奠定“脸在江山在”的认知。```wbCustomBlock{\"type\": \"quoted\", \"index\": 27, \"data\": {\"num\": [45, 46], \"version\": 2, \"quote_list\": [{\"name\": \"生图星赏\", \"scheme\": \"sinaweibo://detail?mblogid=5040376635722374\", \"index\": 45, \"label\": \"\"}, {\"name\": \"夏夜入梦前\", \"scheme\": \"sinaweibo://detail?mblogid=5226838487730343\", \"index\": 46, \"label\": \"\"}]}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5040376635722374&from=search&content_show=1&mix_index=4&hide_index=1&multi_paragraph=4&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.512.512.50/0083oJfKly8i24rvxeydhj30e80e83yq.jpg?KID=imgbed,tva&Expires=1761672432&ssig=y7Cz1o%2Bt0b) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">生图星赏</span><img src=\"http://wx2.sinaimg.cn/middle/0083oJfKly1hq9kd80r7uj30u0190113.jpg\" data-width=1620 data-height=1080></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5226838487730343&multi_paragraph=4&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.427.427.50/006CoiuFly8hpj82vmxmfj30bv0bvaah.jpg?KID=imgbed,tva&Expires=1761672432&ssig=djw70TIYxC) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">夏夜入梦前</span><img src=\"http://wx2.sinaimg.cn/middle/006CoiuFly1i6sf794c5pj31hc0u0ju6.jpg\" data-width=1080 data-height=1920></div></media-block><br>### 💎 **总结：从重量到气场的符号进阶**  <br>张馨予以25斤礼服为媒介，实现三重突破：  <br>- **视觉革新**：挑战材质冲突，打破单一审美；  <br>- **专业认证**：负重下的稳健仪态印证硬核实力；  <br>- **符号沉淀**：从“被讨论”到“被仰望”，重塑内娱红毯标杆。```wbCustomBlock{\"type\": \"quoted\", \"index\": 31, \"data\": {\"num\": [49], \"version\": 2, \"quote_list\": [{\"name\": \"Mioki_\", \"scheme\": \"sinaweibo://detail?mblogid=5226806799241309\", \"index\": 49, \"label\": \"\"}]}}```  <br>> 正如网友所言：“真正的星光，既能承载重量，亦能照亮全场。”✨<br>",
+      "share_card_multimodal": {
+        "cur_mid": "5226777053497152",
+        "h": 5392,
+        "user_name": "娱乐有饭",
+        "vtype": 7,
+        "user_avatar": "https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/00249OSzly8h8v3wogxe8j60u00u0dia02.jpg?KID=imgbed,tva&Expires=1761672432&ssig=wTpn%2BO93yG",
+        "video_url": "",
+        "click_rate": 0.41304347826087,
+        "w": 3592,
+        "doc_score": 3207,
+        "type": "p",
+        "scheme": "sinaweibo://multimedia?mix_mid=5226777053497152&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=1&multi_count=0",
+        "hit_score_final": 83.364456,
+        "hit_score_new": 97.607422,
+        "img": "http://wx1.sinaimg.cn/middle/00249OSzly1i6s84tfeogj62rs45skjn02.jpg",
+        "img_pid": "00249OSzly1i6s84tfeogj62rs45skjn02"
+      },
+      "top_quote_list": {},
+      "page_id": "2329641b1574d071b10f72fe38a8103ecf9c31",
+      "q_attr": {
+        "from_uid": "",
+        "from_request_id": ""
+      },
+      "query_field": "1",
+      "chat_status_stage": 1,
+      "zs_risk_control": {
+        "think_text_close": 0,
+        "land_button_close": 0
+      },
+      "msg_format": "markdown",
+      "uid": "",
+      "version": "2025-10-28 22:27:12.019999-1082",
+      "reliable_tips": "{\"gold_orange_v_mids\": [\"5226819043462903\", \"5226813844619646\", \"5226808071161903\", \"5226781666970016\", \"5226793533445136\", \"5226802702189780\", \"5226814926755023\", \"5226804023661572\", \"5226734806893810\", \"5226806799241309\", \"5226798477479342\", \"5226822780322370\", \"5226805609105498\", \"5226803724550821\", \"5040376635722374\", \"5226838487730343\", \"5226774079737097\", \"5226800385101483\", \"5226808624812764\", \"5226382263058939\", \"5226815045502452\", \"5226793838580394\", \"5226785820121346\", \"5226811287409767\", \"5226792588675918\", \"5226817982042269\", \"5226810133972027\", \"5226836101174242\", \"5226818345111755\", \"5226822166908341\", \"5226833985408170\", \"5226849397641400\", \"5226846954458218\", \"5040409539777371\", \"5226788089496647\", \"5226398773939755\", \"5226808511042052\", \"5226809361958515\"], \"gold_orange_v_ratio\": \"79%\", \"media_mids\": [\"5226783301437135\"], \"media_ratio\": \"2%\", \"verified_mids\": [\"5226777053497152\", \"5072790646424782\", \"5226849525564727\"], \"verified_ratio\": \"6%\", \"normal_mids\": [\"5226849336823042\", \"5226811331971974\", \"5226850005553405\", \"5226848444485948\", \"5226847887165452\", \"5226847073735617\"], \"normal_ratio\": \"13%\", \"ref_mid_rank\": {\"5226783301437135\": {\"rank\": 24}, \"5226819043462903\": {\"rank\": 27}, \"5226813844619646\": {\"rank\": 7}, \"5226808071161903\": {\"rank\": 8}, \"5226777053497152\": {\"rank\": 10}, \"5226781666970016\": {\"rank\": 5}, \"5226793533445136\": {\"rank\": 9}, \"5226802702189780\": {\"rank\": 2}, \"5226814926755023\": {\"rank\": 22}, \"5226804023661572\": {\"rank\": 47}, \"5226734806893810\": {\"rank\": 32}, \"5226806799241309\": {\"rank\": 49}, \"5226798477479342\": {\"rank\": 16}, \"5226822780322370\": {\"rank\": 28}, \"5226805609105498\": {\"rank\": 43}, \"5226803724550821\": {\"rank\": 48}, \"5226849336823042\": {\"rank\": 37}, \"5040376635722374\": {\"rank\": 45}, \"5226838487730343\": {\"rank\": 46}, \"5226774079737097\": {\"rank\": 1}, \"5226800385101483\": {\"rank\": 3}, \"5226808624812764\": {\"rank\": 4}, \"5226382263058939\": {\"rank\": 6}, \"5072790646424782\": {\"rank\": 11}, \"5226815045502452\": {\"rank\": 17}, \"5226793838580394\": {\"rank\": 18}, \"5226785820121346\": {\"rank\": 19}, \"5226811287409767\": {\"rank\": 20}, \"5226792588675918\": {\"rank\": 21}, \"5226817982042269\": {\"rank\": 23}, \"5226810133972027\": {\"rank\": 25}, \"5226836101174242\": {\"rank\": 26}, \"5226811331971974\": {\"rank\": 29}, \"5226818345111755\": {\"rank\": 30}, \"5226822166908341\": {\"rank\": 31}, \"5226833985408170\": {\"rank\": 33}, \"5226850005553405\": {\"rank\": 34}, \"5226849525564727\": {\"rank\": 35}, \"5226849397641400\": {\"rank\": 36}, \"5226848444485948\": {\"rank\": 38}, \"5226847887165452\": {\"rank\": 39}, \"5226847073735617\": {\"rank\": 40}, \"5226846954458218\": {\"rank\": 41}, \"5040409539777371\": {\"rank\": 42}, \"5226788089496647\": {\"rank\": 44}, \"5226398773939755\": {\"rank\": 50}, \"5226808511042052\": {\"rank\": 51}, \"5226809361958515\": {\"rank\": 52}}}",
+      "ab_suffix": "default"
+    }
+  },
+  "links": [
+    "sinaweibo://detail?mblogid=5226774079737097",
+    "sinaweibo://detail?mblogid=5226802702189780",
+    "sinaweibo://detail?mblogid=5226800385101483",
+    "sinaweibo://detail?mblogid=5226808624812764",
+    "sinaweibo://detail?mblogid=5226781666970016",
+    "sinaweibo://detail?mblogid=5226382263058939",
+    "sinaweibo://detail?mblogid=5226813844619646",
+    "sinaweibo://detail?mblogid=5226808071161903",
+    "sinaweibo://detail?mblogid=5226793533445136",
+    "sinaweibo://detail?mblogid=5226777053497152",
+    "sinaweibo://detail?mblogid=5072790646424782",
+    "broadsocial_res://",
+    "historyweibo://5226781666970016",
+    "historyweibo://5226774079737097",
+    "historyweibo://5226822075679196",
+    "sinaweibo://detail?mblogid=5226798477479342",
+    "sinaweibo://detail?mblogid=5226815045502452",
+    "sinaweibo://detail?mblogid=5226793838580394",
+    "sinaweibo://detail?mblogid=5226785820121346",
+    "sinaweibo://detail?mblogid=5226811287409767",
+    "sinaweibo://detail?mblogid=5226792588675918",
+    "sinaweibo://detail?mblogid=5226814926755023",
+    "sinaweibo://detail?mblogid=5226817982042269",
+    "sinaweibo://detail?mblogid=5226783301437135",
+    "sinaweibo://detail?mblogid=5226810133972027",
+    "sinaweibo://detail?mblogid=5226836101174242",
+    "sinaweibo://detail?mblogid=5226819043462903",
+    "sinaweibo://detail?mblogid=5226822780322370",
+    "sinaweibo://detail?mblogid=5226811331971974",
+    "sinaweibo://detail?mblogid=5226818345111755",
+    "sinaweibo://detail?mblogid=5226822166908341",
+    "sinaweibo://detail?mblogid=5226734806893810",
+    "sinaweibo://detail?mblogid=5226833985408170",
+    "sinaweibo://detail?mblogid=5226850005553405",
+    "sinaweibo://detail?mblogid=5226849525564727",
+    "sinaweibo://detail?mblogid=5226849397641400",
+    "sinaweibo://detail?mblogid=5226849336823042",
+    "sinaweibo://detail?mblogid=5226848444485948",
+    "sinaweibo://detail?mblogid=5226847887165452",
+    "sinaweibo://detail?mblogid=5226847073735617",
+    "sinaweibo://detail?mblogid=5226846954458218",
+    "sinaweibo://detail?mblogid=5040409539777371",
+    "sinaweibo://detail?mblogid=5226805609105498",
+    "sinaweibo://detail?mblogid=5226788089496647",
+    "sinaweibo://detail?mblogid=5040376635722374",
+    "sinaweibo://detail?mblogid=5226838487730343",
+    "sinaweibo://detail?mblogid=5226804023661572",
+    "sinaweibo://detail?mblogid=5226803724550821",
+    "sinaweibo://detail?mblogid=5226806799241309",
+    "sinaweibo://detail?mblogid=5226398773939755",
+    "sinaweibo://detail?mblogid=5226808511042052",
+    "sinaweibo://detail?mblogid=5226809361958515"
+  ],
+  "media": [
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/00249OSzly1i6s84tfeogj62rs45skjn02.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/00249OSzly1i6s84tfeogj62rs45skjn02.jpg",
+      "alt": "娱乐有饭",
+      "width": 5392,
+      "height": 3592,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/00249OSzly1i6s84tfeogj62rs45skjn02.jpg"
+      ],
+      "user": "娱乐有饭"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/aa930d9agy1i6s8n95a1ij20zo1bkgp1.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/aa930d9agy1i6s8n95a1ij20zo1bkgp1.jpg",
+      "alt": "逍遥珊33",
+      "width": 1712,
+      "height": 1284,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/aa930d9agy1i6s8n95a1ij20zo1bkgp1.jpg"
+      ],
+      "user": "逍遥珊33"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/bb02f265ly1i6sbbi5be5j20u01hc3zr.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/bb02f265ly1i6sbbi5be5j20u01hc3zr.jpg",
+      "alt": "娱圈咖啡喵",
+      "width": 1920,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/bb02f265ly1i6sbbi5be5j20u01hc3zr.jpg"
+      ],
+      "user": "娱圈咖啡喵"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/006VN1nJly1i6scds2iywj30q00k00t0.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/006VN1nJly1i6scds2iywj30q00k00t0.jpg",
+      "alt": "海咪梅丽号",
+      "width": 720,
+      "height": 936,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx4.sinaimg.cn/large/006VN1nJly1i6scds2iywj30q00k00t0.jpg"
+      ],
+      "user": "海咪梅丽号"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/e576d77dgy1i6sa0p4w7wj21401hdtn3.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/e576d77dgy1i6sa0p4w7wj21401hdtn3.jpg",
+      "alt": "新新想事成",
+      "width": 1921,
+      "height": 1440,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/e576d77dgy1i6sa0p4w7wj21401hdtn3.jpg"
+      ],
+      "user": "新新想事成"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/001UqFPjgy1i6sasfsaydj65xc4g0u1502.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/001UqFPjgy1i6sasfsaydj65xc4g0u1502.jpg",
+      "alt": "张馨予",
+      "width": 5760,
+      "height": 7680,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/001UqFPjgy1i6sasfsaydj65xc4g0u1502.jpg"
+      ],
+      "user": "张馨予"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/72e900efgy1i6sbxbe13jj24g05xce85.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/72e900efgy1i6sbxbe13jj24g05xce85.jpg",
+      "alt": "袁大帅ONTIME",
+      "width": 7680,
+      "height": 5760,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/72e900efgy1i6sbxbe13jj24g05xce85.jpg"
+      ],
+      "user": "袁大帅ONTIME"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/006CCEgMly1i6scp6burpj30k00zkabz.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/006CCEgMly1i6scp6burpj30k00zkabz.jpg",
+      "alt": "张张只喝粥",
+      "width": 1280,
+      "height": 720,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/006CCEgMly1i6scp6burpj30k00zkabz.jpg"
+      ],
+      "user": "张张只喝粥"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/007CEpbUly1i6s3b2azgxj30k00qot9n.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/007CEpbUly1i6s3b2azgxj30k00qot9n.jpg",
+      "alt": "瘟流同期",
+      "width": 960,
+      "height": 720,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx4.sinaimg.cn/large/007CEpbUly1i6s3b2azgxj30k00qot9n.jpg"
+      ],
+      "user": "瘟流同期"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/9b36bcf9gy1i6sdeyua1lj20k00qm3zc.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/9b36bcf9gy1i6sdeyua1lj20k00qm3zc.jpg",
+      "alt": "石泉人在东莞",
+      "width": 958,
+      "height": 720,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/9b36bcf9gy1i6sdeyua1lj20k00qm3zc.jpg"
+      ],
+      "user": "石泉人在东莞"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/0083oJfKly1hq9kd80r7uj30u0190113.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/0083oJfKly1hq9kd80r7uj30u0190113.jpg",
+      "alt": "生图星赏",
+      "width": 1620,
+      "height": 1080,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/0083oJfKly1hq9kd80r7uj30u0190113.jpg"
+      ],
+      "user": "生图星赏"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/006CoiuFly1i6sf794c5pj31hc0u0ju6.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/006CoiuFly1i6sf794c5pj31hc0u0ju6.jpg",
+      "alt": "夏夜入梦前",
+      "width": 1080,
+      "height": 1920,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/006CoiuFly1i6sf794c5pj31hc0u0ju6.jpg"
+      ],
+      "user": "夏夜入梦前"
+    }
+  ],
+  "html_path": "data/aicard/hourly/2025-10-28/22/topic-24df807b.html"
+}

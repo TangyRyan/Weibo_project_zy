@@ -1,0 +1,47 @@
+{
+  "meta": {
+    "query": "#习主席这些话亮明中国态度#",
+    "status_code": 200,
+    "fetched_at": "2025-10-31T22:28:09+08:00",
+    "response": {
+      "abtest_info": {
+        "chat_entrance": 1
+      },
+      "ext_show": {},
+      "status": 3,
+      "analysis_time": 0,
+      "qs_status": 10,
+      "query": "#习主席这些话亮明中国态度#",
+      "comment_info": {},
+      "ab_suffix": "default",
+      "msg": "抱歉，这个问题我暂时无法回答，换个问题试试吧",
+      "wenda": {
+        "forward_gen": 0
+      },
+      "model": "",
+      "qs_status_info": "{\"qs_status\":10,\"qs_q_status\":8218,\"qs_u_status\":0,\"qs_c_status\":0,\"ab_lab\":{},\"qs_r_status\":0}",
+      "share_info": {
+        "page_id": "",
+        "url": "http://t.cn/AXA4lphS",
+        "unify_md5": "4b6bf353016d15a2d46949be9b6e516f",
+        "comment_content": "",
+        "tips": "#习主席这些话亮明中国态度#的相关内容，来智搜看看",
+        "display_name": "#习主席这些话亮明中国态度#",
+        "status": 1
+      },
+      "cot": 1,
+      "zs_risk_control": {
+        "land_button_close": 1,
+        "ban_chat_enterance": 1,
+        "may_be_ask_show": 0,
+        "think_text_close": 1,
+        "share": 1
+      },
+      "uid": "",
+      "loop_times": 200
+    }
+  },
+  "links": [],
+  "media": [],
+  "html_path": "data/aicard/hourly/2025-10-31/02/topic-4b6bf353.html"
+}

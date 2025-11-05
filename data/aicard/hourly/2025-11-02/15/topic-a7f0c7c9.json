@@ -1,0 +1,358 @@
+{
+  "meta": {
+    "query": "#李隼采访太可爱了#",
+    "status_code": 200,
+    "fetched_at": "2025-11-02T15:35:45+08:00",
+    "response": {
+      "abtest_info": {
+        "chat_entrance": 1
+      },
+      "model": "deepseek",
+      "show_ctrl": {
+        "quote": {}
+      },
+      "cot": 1,
+      "uid": "",
+      "loop_times": 200,
+      "chat_status_stage": 1,
+      "qs_status": 0,
+      "zs_risk_control": {
+        "land_button_close": 0,
+        "think_text_close": 0
+      },
+      "msg_format": "markdown",
+      "query_field": "1",
+      "reliable_tips": "{\"gold_orange_v_mids\": [\"5228515813228986\", \"5228537175869238\", \"5228543508220240\", \"5228542561879470\", \"5228544558632394\", \"5228550967263280\", \"5228548957672857\", \"5190085129537726\", \"5228542948541775\", \"5194398478109492\", \"5228553898820263\", \"5226118992366014\", \"5228536667573017\", \"5228549441323337\", \"5228536065426664\", \"5228551414486538\", \"5200479892275634\", \"5228549092147913\"], \"gold_orange_v_ratio\": \"45%\", \"media_mids\": [\"5228504179543174\", \"5189878660998146\", \"5228497623843848\", \"5190081256098097\"], \"media_ratio\": \"10%\", \"verified_mids\": [\"5001804328734832\"], \"verified_ratio\": \"3%\", \"normal_mids\": [\"5228550614420697\", \"5228544000528377\", \"5228541945841733\", \"5144093839854569\", \"5228551926187491\", \"5228549923147880\", \"5228546944404031\", \"5228542872784394\", \"5228542273257560\", \"5228542132753692\", \"5228541293630231\", \"5228539857339845\", \"5228538760270045\", \"5228538741392656\", \"5228537503548756\", \"5228537378505541\", \"5228547394505623\"], \"normal_ratio\": \"42%\", \"ref_mid_rank\": {\"5228515813228986\": {\"rank\": 1}, \"5228537175869238\": {\"rank\": 10}, \"5228543508220240\": {\"rank\": 11}, \"5228504179543174\": {\"rank\": 34}, \"5228542561879470\": {\"rank\": 19}, \"5228544558632394\": {\"rank\": 30}, \"5228550967263280\": {\"rank\": 35}, \"5228548957672857\": {\"rank\": 36}, \"5190085129537726\": {\"rank\": 4}, \"5228542948541775\": {\"rank\": 32}, \"5189878660998146\": {\"rank\": 5}, \"5194398478109492\": {\"rank\": 38}, \"5228550614420697\": {\"rank\": 13}, \"5228544000528377\": {\"rank\": 17}, \"5228541945841733\": {\"rank\": 22}, \"5228553898820263\": {\"rank\": 33}, \"5226118992366014\": {\"rank\": 2}, \"5228497623843848\": {\"rank\": 3}, \"5190081256098097\": {\"rank\": 6}, \"5144093839854569\": {\"rank\": 7}, \"5001804328734832\": {\"rank\": 8}, \"5228536667573017\": {\"rank\": 9}, \"5228551926187491\": {\"rank\": 12}, \"5228549923147880\": {\"rank\": 14}, \"5228549441323337\": {\"rank\": 15}, \"5228546944404031\": {\"rank\": 16}, \"5228542872784394\": {\"rank\": 18}, \"5228542273257560\": {\"rank\": 20}, \"5228542132753692\": {\"rank\": 21}, \"5228541293630231\": {\"rank\": 23}, \"5228539857339845\": {\"rank\": 24}, \"5228538760270045\": {\"rank\": 25}, \"5228538741392656\": {\"rank\": 26}, \"5228537503548756\": {\"rank\": 27}, \"5228537378505541\": {\"rank\": 28}, \"5228536065426664\": {\"rank\": 29}, \"5228551414486538\": {\"rank\": 31}, \"5200479892275634\": {\"rank\": 37}, \"5228549092147913\": {\"rank\": 39}, \"5228547394505623\": {\"rank\": 40}}}",
+      "ab_suffix": "default",
+      "msg_json": "{}",
+      "status": 2,
+      "short_url": "http://t.cn/AXAa58On",
+      "qs_status_info": "{\"qs_r_status\":0,\"qs_u_status\":0,\"qs_q_status\":0,\"qs_status\":0,\"ab_lab\":{},\"qs_c_status\":8388608}",
+      "analysis_time": 1762068049,
+      "scheme": "sinaweibo://cardlist?containerid=100103type%3D225%26q%3D%23%E6%9D%8E%E9%9A%BC%E9%87%87%E8%AE%BF%E5%A4%AA%E5%8F%AF%E7%88%B1%E4%BA%86%23%26t%3D&extparam=ai_model%3Ddeepseek%26ori_ai_title%3D%E5%8F%82%E8%80%83%E5%8D%9A%E6%96%87%26material_version%3D1762067877",
+      "wenda": {
+        "forward_gen": 0
+      },
+      "version": "2025-11-02 15:17:57.013000-1815",
+      "page_id": "2329645fe01911cff264dd388b2759b7217949",
+      "q_attr": {
+        "mid": "",
+        "reply_cid": "",
+        "from_uid": "",
+        "comment_from_type": "",
+        "from_request_id": ""
+      },
+      "msg": "<think><br>嗯，用户查询的是\"李隼采访太可爱了\"，看起来是想了解乒乓球教练李隼在采访中展现的可爱瞬间。用户可能是乒乓球爱好者，或者被李隼教练的反差萌吸引，想收集相关趣闻。<br><br>从搜索结果看，这个话题在2025年11月2日集中爆发，主要围绕李隼担任全运会火炬手时的表现。最核心的可爱点体现在：<br>1. 他传递火炬时说\"约等于见完王楚钦和孙颖莎\"，这种幽默类比把球迷梗融入正式场合<br>2. 第一次当火炬手紧张到提前彩排，60多岁功勋教练像新人一样认真<br>3. 受访时把\"培养年轻选手\"的严肃话题说得充满人情味<br><br>有趣的是，用户可能没意识到这些\"可爱\"背后有深层价值：李隼严格教练形象的反差（比如他罚孙颖莎跑一万米）让这种幽默更具感染力。不过要注意过滤部分账号的负面评论，优先选用媒体和大V的正面描述。<br><br>我决定用三个维度组织回复：幽默表达、认真态度、师徒互动，最后补充专业背景。这样既满足娱乐需求，又让内容有厚度。时间线上聚焦11月2日的火炬传递事件，其他时期事例作为补充佐证。<br><br></think><br>关于李隼教练采访中展现的可爱特质，综合最新信息整理如下：<br>### 🌟 一、幽默风趣的互动瞬间<br>1. **巧妙比喻引欢笑**  <br>   担任全运会火炬手时，李隼笑称传递火炬\"约等于见完王楚钦和孙颖莎了\"，用弟子人气调侃自己，瞬间点燃现场气氛。```wbCustomBlock{\"type\": \"quoted\", \"index\": 3, \"data\": {\"num\": [1, 10], \"version\": 2, \"quote_list\": [{\"name\": \"体圈领路人\", \"scheme\": \"sinaweibo://detail?mblogid=5228515813228986\", \"index\": 1, \"label\": \"大v\"}, {\"name\": \"Mountain自由风\", \"scheme\": \"sinaweibo://detail?mblogid=5228537175869238\", \"index\": 10, \"label\": \"\"}], \"name\": \"体圈领路人\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/00664U2Zly8hohctbmmwyj30u00u0dgt.jpg?KID=imgbed,tva&Expires=1762078677&ssig=AXiJNST9K1\", \"scheme\": \"sinaweibo://detail?mblogid=5228515813228986\", \"vType\": 0}}```  <br>2. **自我调侃显反差萌**  <br>   首次担任火炬手坦言紧张，特意认真彩排，将资深教练的严谨与新手般的忐忑形成有趣反差。```wbCustomBlock{\"type\": \"quoted\", \"index\": 4, \"data\": {\"num\": [11, 34], \"version\": 2, \"quote_list\": [{\"name\": \"第一现场\", \"scheme\": \"sinaweibo://detail?mblogid=5228504179543174\", \"index\": 34, \"label\": \"大v\"}, {\"name\": \"体圈星酱\", \"scheme\": \"sinaweibo://detail?mblogid=5228543508220240\", \"index\": 11, \"label\": \"\"}], \"name\": \"第一现场\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/6aac5fealy8i1pd5xbxk3j20u00u0q3a.jpg?KID=imgbed,tva&Expires=1762078677&ssig=W80qyY70Yc\", \"scheme\": \"sinaweibo://detail?mblogid=5228504179543174\", \"vType\": 3}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5228515813228986&multi_paragraph=1&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/00664U2Zly8hohctbmmwyj30u00u0dgt.jpg?KID=imgbed,tva&Expires=1762078677&ssig=AXiJNST9K1) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">体圈领路人</span><img src=\"http://wx4.sinaimg.cn/middle/00664U2Zgy1i6xrtzup2gj30u00gvq4n.jpg\" data-width=607 data-height=1080></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5228543508220240&multi_paragraph=1&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.400.400.50/d1af46bdly8hbbh7fxlsqj20b40b4weq.jpg?KID=imgbed,tva&Expires=1762078677&ssig=iSFVHk2KS3) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">体圈星酱</span><img src=\"http://wx4.sinaimg.cn/middle/d1af46bdly1i6xv12i1laj20k00k03zc.jpg\" data-width=720 data-height=720></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5228504179543174&multi_paragraph=1&multi_count=2\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/6aac5fealy8i1pd5xbxk3j20u00u0q3a.jpg?KID=imgbed,tva&Expires=1762078677&ssig=W80qyY70Yc) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">第一现场</span><img src=\"http://wx4.sinaimg.cn/middle/6aac5feagy1i6xqinzg77j20u01hcgom.jpg\" data-width=1920 data-height=1080></div></media-block><br>### 🌱 二、自然流露的赤诚态度<br>1. **真挚表达使命感**  <br>   受访时强调\"希望年轻选手通过奥运会打出来\"，眼中闪烁对新生代的殷切期待，网友评价\"牵挂都写在脸上\"。```wbCustomBlock{\"type\": \"quoted\", \"index\": 6, \"data\": {\"num\": [19, 30], \"version\": 2, \"quote_list\": [{\"name\": \"灵鹿Sunshine\", \"scheme\": \"sinaweibo://detail?mblogid=5228544558632394\", \"index\": 30, \"label\": \"大v\"}, {\"name\": \"星眠曲-\", \"scheme\": \"sinaweibo://detail?mblogid=5228542561879470\", \"index\": 19, \"label\": \"\"}], \"name\": \"灵鹿Sunshine\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.962.962.50/9fab13a7ly8hu75seqgbhj20qq0qqq58.jpg?KID=imgbed,tva&Expires=1762078677&ssig=hYLNAgnimn\", \"scheme\": \"sinaweibo://detail?mblogid=5228544558632394\", \"vType\": 0}}```  <br>2. **老帅的可爱执着**  <br>   谈及全运会水平超过奥运会时，反复用历年女队\"奥运冠军次年夺全运\"的实例佐证，认真科普的模样被称\"萌感与热血并存\"。```wbCustomBlock{\"type\": \"quoted\", \"index\": 7, \"data\": {\"num\": [35, 36], \"version\": 2, \"quote_list\": [{\"name\": \"糖诗時\", \"scheme\": \"sinaweibo://detail?mblogid=5228550967263280\", \"index\": 35, \"label\": \"大v\"}, {\"name\": \"无心人对落花风\", \"scheme\": \"sinaweibo://detail?mblogid=5228548957672857\", \"index\": 36, \"label\": \"\"}], \"name\": \"糖诗時\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.1000.1000.50/6b39d3dfly8hr8w4qqyy9j20rs0rs76w.jpg?KID=imgbed,tva&Expires=1762078677&ssig=5GY1WldFI3\", \"scheme\": \"sinaweibo://detail?mblogid=5228550967263280\", \"vType\": 0}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5228550967263280&multi_paragraph=2&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.1000.1000.50/6b39d3dfly8hr8w4qqyy9j20rs0rs76w.jpg?KID=imgbed,tva&Expires=1762078677&ssig=5GY1WldFI3) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">糖诗時</span><img src=\"http://wx1.sinaimg.cn/middle/6b39d3dfgy1i6xvr3qqv5j20k00qognd.jpg\" data-width=960 data-height=720></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5228548957672857&multi_paragraph=2&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/006DQT62ly8i3osw1ydhaj30u00u0mzg.jpg?KID=imgbed,tva&Expires=1762078677&ssig=bjbT8p4fD6) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">无心人对落花风</span><img src=\"http://wx3.sinaimg.cn/middle/006DQT62ly1i6xvn4kbzsj30i40a0gmf.jpg\" data-width=360 data-height=652></div></media-block><br>### 🏓 三、师徒情谊的温情镜头<br>1. **揭秘孙颖莎训练趣事**  <br>   回顾执教细节时，透露孙颖莎被罚跑一万米仍坚持加练，形容她\"表面笑呵呵可爱，实际难对付\"，言语间满是教练的宠溺。```wbCustomBlock{\"type\": \"quoted\", \"index\": 9, \"data\": {\"num\": [4, 32], \"version\": 2, \"quote_list\": [{\"name\": \"界外编辑部\", \"scheme\": \"sinaweibo://detail?mblogid=5190085129537726\", \"index\": 4, \"label\": \"大v\"}, {\"name\": \"扶着雪雁闯红灯\", \"scheme\": \"sinaweibo://detail?mblogid=5228542948541775\", \"index\": 32, \"label\": \"\"}], \"name\": \"界外编辑部\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.690.690.50/007unxg2ly8h0pbq8jwrqj30j60j63yn.jpg?KID=imgbed,tva&Expires=1762078677&ssig=6xZZ9yuLkT\", \"scheme\": \"sinaweibo://detail?mblogid=5190085129537726\", \"vType\": 0}}```  <br>2. **铁血教头的柔软面**  <br>   提到疫情期间秘密特训孙颖莎专攻伊藤美诚，要求每天精准完成100个落点球，严苛背后藏着为国育才的深情。```wbCustomBlock{\"type\": \"quoted\", \"index\": 10, \"data\": {\"num\": [5, 38], \"version\": 2, \"quote_list\": [{\"name\": \"现代快报\", \"scheme\": \"sinaweibo://detail?mblogid=5189878660998146\", \"index\": 5, \"label\": \"大v\"}, {\"name\": \"拾光里的月亮\", \"scheme\": \"sinaweibo://detail?mblogid=5194398478109492\", \"index\": 38, \"label\": \"\"}], \"name\": \"现代快报\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.800.800.50/001O7v94ly8i32vyvssrkj60m80m8js002.jpg?KID=imgbed,tva&Expires=1762078677&ssig=YA0jtGElz9\", \"scheme\": \"sinaweibo://detail?mblogid=5189878660998146\", \"vType\": 3}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5190085129537726&multi_paragraph=3&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.690.690.50/007unxg2ly8h0pbq8jwrqj30j60j63yn.jpg?KID=imgbed,tva&Expires=1762078677&ssig=6xZZ9yuLkT) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">界外编辑部</span><img src=\"http://wx3.sinaimg.cn/middle/0024aA4lgy1i3ilo4gkgpj60k00qowln02.jpg\" data-width=960 data-height=720></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5228542948541775&multi_paragraph=3&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.1072.1072.50/a445887ely8hm7vip0jw2j20ts0tswhq.jpg?KID=imgbed,tva&Expires=1762078677&ssig=RjXogpC%2FUi) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">扶着雪雁闯红灯</span><img src=\"http://wx3.sinaimg.cn/middle/a445887ely1i6xuypsaefj20zk0k0q4d.jpg\" data-width=720 data-height=1280></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5189878660998146&multi_paragraph=3&multi_count=2\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.800.800.50/001O7v94ly8i32vyvssrkj60m80m8js002.jpg?KID=imgbed,tva&Expires=1762078677&ssig=YA0jtGElz9) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">现代快报</span><img src=\"http://wx3.sinaimg.cn/middle/001O7v94gy1i3iibkyylqj60zk0k0k5l02.jpg\" data-width=720 data-height=1280></div></media-block><br>### 📌 四、公众反响与延伸解读<br>- **全网热议可爱瞬间**  <br>  \"李隼采访太可爱了\"话题下，超20个认证账号及网友同步发布相关片段，关键词包括\"萌物\"、\"逗趣\"、\"可爱暴击\"。```wbCustomBlock{\"type\": \"quoted\", \"index\": 12, \"data\": {\"num\": [13, 17, 22], \"version\": 2, \"quote_list\": [{\"name\": \"陈太帅607\", \"scheme\": \"sinaweibo://detail?mblogid=5228550614420697\", \"index\": 13, \"label\": \"\"}, {\"name\": \"蘑菇馅饺子包\", \"scheme\": \"sinaweibo://detail?mblogid=5228544000528377\", \"index\": 17, \"label\": \"\"}, {\"name\": \"小椿铭岛\", \"scheme\": \"sinaweibo://detail?mblogid=5228541945841733\", \"index\": 22, \"label\": \"\"}]}}```  <br>- **专业底蕴支撑亲和力**  <br>   网友指出其可爱源于\"身经百战仍保持纯粹\"，60岁老帅首次当火炬手的笨拙真诚更显珍贵。```wbCustomBlock{\"type\": \"quoted\", \"index\": 13, \"data\": {\"num\": [33, 36], \"version\": 2, \"quote_list\": [{\"name\": \"大哥大体育\", \"scheme\": \"sinaweibo://detail?mblogid=5228553898820263\", \"index\": 33, \"label\": \"\"}, {\"name\": \"无心人对落花风\", \"scheme\": \"sinaweibo://detail?mblogid=5228548957672857\", \"index\": 36, \"label\": \"\"}]}}```<br><br>> 💡 **背景延伸**：李隼作为培养出王楠、张怡宁等大满贯的功勋教练，一贯以严格著称。此次采访展现的反差萌，恰是资深体育人不忘初心的生动写照。```wbCustomBlock{\"type\": \"quoted\", \"index\": 14, \"data\": {\"num\": [4, 38], \"version\": 2, \"quote_list\": [{\"name\": \"界外编辑部\", \"scheme\": \"sinaweibo://detail?mblogid=5190085129537726\", \"index\": 4, \"label\": \"\"}, {\"name\": \"拾光里的月亮\", \"scheme\": \"sinaweibo://detail?mblogid=5194398478109492\", \"index\": 38, \"label\": \"\"}]}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5228553898820263&multi_paragraph=4&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/007VX1Ozly8hw7v41e8u8j30u00u0jsu.jpg?KID=imgbed,tva&Expires=1762078677&ssig=iwdDQIccg8) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">大哥大体育</span><img src=\"http://wx3.sinaimg.cn/middle/007VX1Ozly1i6xw7ljl3dj30k00zkdii.jpg\" data-width=1280 data-height=720></div></media-block><br>",
+      "share_text": "#李隼采访太可爱了#的相关内容，来智搜看看",
+      "query": "#李隼采访太可爱了#",
+      "news_analyze": {},
+      "comment_info": {},
+      "current_time": 1762068946,
+      "profile_image_url": "",
+      "mid_list": null,
+      "reference_num": 40,
+      "status_stage": 4,
+      "sorted_material_list": null,
+      "query_category": "",
+      "top_quote_list": {},
+      "card_multimodal": {
+        "type": "mediablock",
+        "data": [
+          {
+            "type": "v",
+            "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/00664U2Zly8hohctbmmwyj30u00u0dgt.jpg?KID=imgbed,tva&Expires=1762078677&ssig=AXiJNST9K1",
+            "user_name": "体圈领路人",
+            "vtype": 0,
+            "hit_score_final": 0,
+            "scheme": "sinaweibo://video/vvs?mid=5228515813228986&multi_paragraph=1&multi_count=0",
+            "doc_score": 0,
+            "img_pid": "00664U2Zgy1i6xrtzup2gj30u00gvq4n",
+            "img": "http://wx4.sinaimg.cn/middle/00664U2Zgy1i6xrtzup2gj30u00gvq4n.jpg",
+            "click_rate": 0.038167938931298,
+            "w": 1080,
+            "video_url": "https://video.weibo.com/show?fid=1034:5228515323215927",
+            "h": 607,
+            "cur_mid": "5228515813228986",
+            "hit_score_new": 0
+          },
+          {
+            "type": "v",
+            "user_avatar": "https://tvax2.sinaimg.cn/crop.0.0.400.400.50/d1af46bdly8hbbh7fxlsqj20b40b4weq.jpg?KID=imgbed,tva&Expires=1762078677&ssig=iSFVHk2KS3",
+            "user_name": "体圈星酱",
+            "vtype": 0,
+            "hit_score_final": 88.614067,
+            "scheme": "sinaweibo://video/vvs?mid=5228543508220240&multi_paragraph=1&multi_count=1",
+            "doc_score": 5159,
+            "img_pid": "d1af46bdly1i6xv12i1laj20k00k03zc",
+            "img": "http://wx4.sinaimg.cn/middle/d1af46bdly1i6xv12i1laj20k00k03zc.jpg",
+            "click_rate": 0,
+            "w": 720,
+            "video_url": "https://video.weibo.com/show?fid=1034:5228543341166634",
+            "h": 720,
+            "cur_mid": "5228543508220240",
+            "hit_score_new": 99.023438
+          },
+          {
+            "type": "v",
+            "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/6aac5fealy8i1pd5xbxk3j20u00u0q3a.jpg?KID=imgbed,tva&Expires=1762078677&ssig=W80qyY70Yc",
+            "user_name": "第一现场",
+            "vtype": 3,
+            "hit_score_final": 79.855392,
+            "scheme": "sinaweibo://video/vvs?mid=5228504179543174&multi_paragraph=1&multi_count=2",
+            "doc_score": 4245,
+            "img_pid": "6aac5feagy1i6xqinzg77j20u01hcgom",
+            "img": "http://wx4.sinaimg.cn/middle/6aac5feagy1i6xqinzg77j20u01hcgom.jpg",
+            "click_rate": 0,
+            "w": 1080,
+            "video_url": "https://video.weibo.com/show?fid=1034:5228503944069134",
+            "h": 1920,
+            "cur_mid": "5228504179543174",
+            "hit_score_new": 82.958984
+          },
+          {
+            "type": "v",
+            "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/00664U2Zly8hohctbmmwyj30u00u0dgt.jpg?KID=imgbed,tva&Expires=1762078677&ssig=AXiJNST9K1",
+            "user_name": "体圈领路人",
+            "vtype": 0,
+            "hit_score_final": 0,
+            "scheme": "sinaweibo://video/vvs?mid=5228515813228986&multi_paragraph=1&multi_count=0",
+            "doc_score": 0,
+            "img_pid": "00664U2Zgy1i6xrtzup2gj30u00gvq4n",
+            "img": "http://wx4.sinaimg.cn/middle/00664U2Zgy1i6xrtzup2gj30u00gvq4n.jpg",
+            "click_rate": 0.038167938931298,
+            "w": 1080,
+            "video_url": "https://video.weibo.com/show?fid=1034:5228515323215927",
+            "h": 607,
+            "cur_mid": "5228515813228986",
+            "hit_score_new": 0
+          }
+        ]
+      },
+      "share_card_multimodal": {
+        "type": "v",
+        "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/00664U2Zly8hohctbmmwyj30u00u0dgt.jpg?KID=imgbed,tva&Expires=1762078677&ssig=AXiJNST9K1",
+        "user_name": "体圈领路人",
+        "vtype": 0,
+        "hit_score_final": 0,
+        "scheme": "sinaweibo://video/vvs?mid=5228515813228986&multi_paragraph=1&multi_count=0",
+        "doc_score": 0,
+        "img_pid": "00664U2Zgy1i6xrtzup2gj30u00gvq4n",
+        "img": "http://wx4.sinaimg.cn/middle/00664U2Zgy1i6xrtzup2gj30u00gvq4n.jpg",
+        "click_rate": 0.038167938931298,
+        "w": 1080,
+        "video_url": "https://video.weibo.com/show?fid=1034:5228515323215927",
+        "h": 607,
+        "cur_mid": "5228515813228986",
+        "hit_score_new": 0
+      },
+      "unify_md5": "a7f0c7c9467f5321703377bd5c69d541",
+      "basemodel": "实验组2",
+      "link_list": [
+        "sinaweibo://detail?mblogid=5228515813228986",
+        "sinaweibo://detail?mblogid=5226118992366014",
+        "sinaweibo://detail?mblogid=5228497623843848",
+        "sinaweibo://detail?mblogid=5190085129537726",
+        "sinaweibo://detail?mblogid=5189878660998146",
+        "sinaweibo://detail?mblogid=5190081256098097",
+        "sinaweibo://detail?mblogid=5144093839854569",
+        "sinaweibo://detail?mblogid=5001804328734832",
+        "sinaweibo://detail?mblogid=5228536667573017",
+        "sinaweibo://detail?mblogid=5228537175869238",
+        "sinaweibo://detail?mblogid=5228543508220240",
+        "sinaweibo://detail?mblogid=5228551926187491",
+        "sinaweibo://detail?mblogid=5228550614420697",
+        "sinaweibo://detail?mblogid=5228549923147880",
+        "sinaweibo://detail?mblogid=5228549441323337",
+        "sinaweibo://detail?mblogid=5228546944404031",
+        "sinaweibo://detail?mblogid=5228544000528377",
+        "sinaweibo://detail?mblogid=5228542872784394",
+        "sinaweibo://detail?mblogid=5228542561879470",
+        "sinaweibo://detail?mblogid=5228542273257560",
+        "sinaweibo://detail?mblogid=5228542132753692",
+        "sinaweibo://detail?mblogid=5228541945841733",
+        "sinaweibo://detail?mblogid=5228541293630231",
+        "sinaweibo://detail?mblogid=5228539857339845",
+        "sinaweibo://detail?mblogid=5228538760270045",
+        "sinaweibo://detail?mblogid=5228538741392656",
+        "sinaweibo://detail?mblogid=5228537503548756",
+        "sinaweibo://detail?mblogid=5228537378505541",
+        "sinaweibo://detail?mblogid=5228536065426664",
+        "sinaweibo://detail?mblogid=5228544558632394",
+        "sinaweibo://detail?mblogid=5228551414486538",
+        "sinaweibo://detail?mblogid=5228542948541775",
+        "sinaweibo://detail?mblogid=5228553898820263",
+        "sinaweibo://detail?mblogid=5228504179543174",
+        "sinaweibo://detail?mblogid=5228550967263280",
+        "sinaweibo://detail?mblogid=5228548957672857",
+        "sinaweibo://detail?mblogid=5200479892275634",
+        "sinaweibo://detail?mblogid=5194398478109492",
+        "sinaweibo://detail?mblogid=5228549092147913",
+        "sinaweibo://detail?mblogid=5228547394505623"
+      ],
+      "share_info": {
+        "page_id": "2329645fe01911cff264dd388b2759b7217949",
+        "status": 3,
+        "tips": "#李隼采访太可爱了#的相关内容，来智搜看看",
+        "comment_content": "",
+        "display_name": "#李隼采访太可爱了#",
+        "unify_md5": "a7f0c7c9467f5321703377bd5c69d541",
+        "url": "http://t.cn/AXAaMVy6"
+      },
+      "ext_show": {},
+      "user_info": {}
+    }
+  },
+  "links": [
+    "sinaweibo://detail?mblogid=5228515813228986",
+    "sinaweibo://detail?mblogid=5226118992366014",
+    "sinaweibo://detail?mblogid=5228497623843848",
+    "sinaweibo://detail?mblogid=5190085129537726",
+    "sinaweibo://detail?mblogid=5189878660998146",
+    "sinaweibo://detail?mblogid=5190081256098097",
+    "sinaweibo://detail?mblogid=5144093839854569",
+    "sinaweibo://detail?mblogid=5001804328734832",
+    "sinaweibo://detail?mblogid=5228536667573017",
+    "sinaweibo://detail?mblogid=5228537175869238",
+    "sinaweibo://detail?mblogid=5228543508220240",
+    "sinaweibo://detail?mblogid=5228551926187491",
+    "sinaweibo://detail?mblogid=5228550614420697",
+    "sinaweibo://detail?mblogid=5228549923147880",
+    "sinaweibo://detail?mblogid=5228549441323337",
+    "sinaweibo://detail?mblogid=5228546944404031",
+    "sinaweibo://detail?mblogid=5228544000528377",
+    "sinaweibo://detail?mblogid=5228542872784394",
+    "sinaweibo://detail?mblogid=5228542561879470",
+    "sinaweibo://detail?mblogid=5228542273257560",
+    "sinaweibo://detail?mblogid=5228542132753692",
+    "sinaweibo://detail?mblogid=5228541945841733",
+    "sinaweibo://detail?mblogid=5228541293630231",
+    "sinaweibo://detail?mblogid=5228539857339845",
+    "sinaweibo://detail?mblogid=5228538760270045",
+    "sinaweibo://detail?mblogid=5228538741392656",
+    "sinaweibo://detail?mblogid=5228537503548756",
+    "sinaweibo://detail?mblogid=5228537378505541",
+    "sinaweibo://detail?mblogid=5228536065426664",
+    "sinaweibo://detail?mblogid=5228544558632394",
+    "sinaweibo://detail?mblogid=5228551414486538",
+    "sinaweibo://detail?mblogid=5228542948541775",
+    "sinaweibo://detail?mblogid=5228553898820263",
+    "sinaweibo://detail?mblogid=5228504179543174",
+    "sinaweibo://detail?mblogid=5228550967263280",
+    "sinaweibo://detail?mblogid=5228548957672857",
+    "sinaweibo://detail?mblogid=5200479892275634",
+    "sinaweibo://detail?mblogid=5194398478109492",
+    "sinaweibo://detail?mblogid=5228549092147913",
+    "sinaweibo://detail?mblogid=5228547394505623"
+  ],
+  "media": [
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/00664U2Zgy1i6xrtzup2gj30u00gvq4n.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/00664U2Zgy1i6xrtzup2gj30u00gvq4n.jpg",
+      "alt": "体圈领路人",
+      "width": 607,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/00664U2Zgy1i6xrtzup2gj30u00gvq4n.jpg"
+      ],
+      "user": "体圈领路人"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/d1af46bdly1i6xv12i1laj20k00k03zc.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/d1af46bdly1i6xv12i1laj20k00k03zc.jpg",
+      "alt": "体圈星酱",
+      "width": 720,
+      "height": 720,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/d1af46bdly1i6xv12i1laj20k00k03zc.jpg"
+      ],
+      "user": "体圈星酱"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/6aac5feagy1i6xqinzg77j20u01hcgom.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/6aac5feagy1i6xqinzg77j20u01hcgom.jpg",
+      "alt": "第一现场",
+      "width": 1920,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/6aac5feagy1i6xqinzg77j20u01hcgom.jpg"
+      ],
+      "user": "第一现场"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/6b39d3dfgy1i6xvr3qqv5j20k00qognd.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/6b39d3dfgy1i6xvr3qqv5j20k00qognd.jpg",
+      "alt": "糖诗時",
+      "width": 960,
+      "height": 720,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/6b39d3dfgy1i6xvr3qqv5j20k00qognd.jpg"
+      ],
+      "user": "糖诗時"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/006DQT62ly1i6xvn4kbzsj30i40a0gmf.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/006DQT62ly1i6xvn4kbzsj30i40a0gmf.jpg",
+      "alt": "无心人对落花风",
+      "width": 360,
+      "height": 652,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/006DQT62ly1i6xvn4kbzsj30i40a0gmf.jpg"
+      ],
+      "user": "无心人对落花风"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/0024aA4lgy1i3ilo4gkgpj60k00qowln02.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/0024aA4lgy1i3ilo4gkgpj60k00qowln02.jpg",
+      "alt": "界外编辑部",
+      "width": 960,
+      "height": 720,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/0024aA4lgy1i3ilo4gkgpj60k00qowln02.jpg"
+      ],
+      "user": "界外编辑部"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/a445887ely1i6xuypsaefj20zk0k0q4d.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/a445887ely1i6xuypsaefj20zk0k0q4d.jpg",
+      "alt": "扶着雪雁闯红灯",
+      "width": 720,
+      "height": 1280,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/a445887ely1i6xuypsaefj20zk0k0q4d.jpg"
+      ],
+      "user": "扶着雪雁闯红灯"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/001O7v94gy1i3iibkyylqj60zk0k0k5l02.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/001O7v94gy1i3iibkyylqj60zk0k0k5l02.jpg",
+      "alt": "现代快报",
+      "width": 720,
+      "height": 1280,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/001O7v94gy1i3iibkyylqj60zk0k0k5l02.jpg"
+      ],
+      "user": "现代快报"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/007VX1Ozly1i6xw7ljl3dj30k00zkdii.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/007VX1Ozly1i6xw7ljl3dj30k00zkdii.jpg",
+      "alt": "大哥大体育",
+      "width": 1280,
+      "height": 720,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/007VX1Ozly1i6xw7ljl3dj30k00zkdii.jpg"
+      ],
+      "user": "大哥大体育"
+    }
+  ],
+  "html_path": "data/aicard/hourly/2025-11-02/15/topic-a7f0c7c9.html"
+}

@@ -1,0 +1,376 @@
+{
+  "meta": {
+    "query": "#总领馆提醒日本旅游注意防熊#",
+    "status_code": 200,
+    "fetched_at": "2025-11-03T09:51:29+08:00",
+    "response": {
+      "uid": "",
+      "status": 2,
+      "scheme": "sinaweibo://cardlist?containerid=100103type%3D225%26q%3D%23%E6%80%BB%E9%A2%86%E9%A6%86%E6%8F%90%E9%86%92%E6%97%A5%E6%9C%AC%E6%97%85%E6%B8%B8%E6%B3%A8%E6%84%8F%E9%98%B2%E7%86%8A%23%26t%3D&extparam=ai_model%3Ddeepseek%26ori_ai_title%3D%E5%8F%82%E8%80%83%E5%8D%9A%E6%96%87%26material_version%3D1762134364",
+      "chat_status_stage": 1,
+      "msg": "<think><br>嗯，用户让我整理关于\"总领馆提醒日本旅游注意防熊\"的信息，需要从搜索结果中提取关键内容并结构化呈现。这个查询明显是旅行安全警示类需求，用户可能是计划赴日旅游或关心在日亲友安全的中国公民。<br><br>先看时间背景，今天是2025年11月3日，而搜索结果里最新数据提到\"截至10月30日熊害死亡12人\"，还有英国政府10月30日发布旅行警告，说明事件正在持续发酵。<br><br>核心信息点需要梳理清楚：<br>关于危机现状，搜索结果显示2025年4-10月熊袭致死12-13人（不同信源），创历史新高，且袭击范围从山林扩展到超市、居民区遛狗场景。特别值得注意的是京都市区景点岚山也连续三天出现熊踪，这打破了一般游客对城市安全的认知。<br><br>原因分析方面，多个结果指向生态失衡：食物短缺（山毛榉果实歉收）、栖息地因弃耕地增加而模糊化，以及暖冬打乱熊的冬眠规律。结果还提到当地削减猎人经费导致防控体系崩溃的深层管理问题。<br><br>防熊措施需要重点整理专业建议：<br>预防层面，驻札幌总领馆强调避开警示区域，携带熊铃/收音机等发声装置，仙台市官方还特别提醒避免清晨傍晚出行。有趣的是日本推广的\"空塑料瓶驱熊\"法被专家质疑缺乏科学依据。<br><br>应急处理部分存在信息冲突需要谨慎处理：结果明确说\"切忌装死\"，但结果引用环境省研究指出针对防御性攻击的熊，蜷缩装死确能减少致命伤。这个矛盾点必须区分场景说明——对捕食状态的熊装死无效，对受惊自卫的熊可能有效。<br><br>企业响应也值得提及，罗森便利店已推出《防熊指南》，包括给高风险地区门店配发防熊喷雾，这说明连城市商业设施都受到威胁。<br><br>最后整理领事资源：<br>总领馆的联系方式在等多处出现，需突出24小时热线+86-10-12308和札幌馆内电话+81-11-513-5335，并提醒保存日本报警110/急救119等本地救援渠道。<br><br>风险提示点在于部分游客可能低估城市区域的熊袭风险，以及网上流传的塑料瓶驱熊法等无效措施的传播。需要强调岚山、若草山等常规景区同样存在目击报告。<br><br>整体采用\"危机现状→原因→预防→应急→求助\"的逻辑框架，在应急部分用场景分类法化解装死策略的矛盾表述，结尾用加粗强调核心求救渠道。数据采用最新信源（11月3日央视新闻），对网传的非专业信息标注风险提示。<br><br></think><br>以下是关于日本熊害事件及旅游防范要点的综合整理，结合中国驻日总领馆提醒和最新事件信息：<br>### 一、事件严重性与范围<br>1. **伤亡数据创新高**  <br>   2025年4月至10月30日，日本因熊袭击死亡人数达**12人**（截至10月30日），部分地区统计死亡人数达**13人**（截至10月28日）。10月单月至少**78人伤亡**，涉及北海道、青森县、秋田县等中国驻札幌总领馆领区。  <br>   *注：秋田县、延首县等地为重灾区，部分遇难者遗体疑似遭熊啃食。*```wbCustomBlock{\"type\": \"quoted\", \"index\": 3, \"data\": {\"num\": [1, 8, 20, 21, 33], \"version\": 2, \"quote_list\": [{\"name\": \"央视新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5228807080641722\", \"index\": 1, \"label\": \"大v\"}, {\"name\": \"大皖新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5227919074394560\", \"index\": 8, \"label\": \"\"}, {\"name\": \"TuTiieu有时呆\", \"scheme\": \"sinaweibo://detail?mblogid=5227117740033014\", \"index\": 20, \"label\": \"\"}, {\"name\": \"珠江新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5227110836997563\", \"index\": 21, \"label\": \"\"}, {\"name\": \"中国环境\", \"scheme\": \"sinaweibo://detail?mblogid=5228832594067788\", \"index\": 33, \"label\": \"\"}], \"name\": \"央视新闻\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.690.690.50/002TLsr9ly8i653ifvwbtj60j60j6aai02.jpg?KID=imgbed,tva&Expires=1762145164&ssig=RJiqFbxYNb\", \"scheme\": \"sinaweibo://detail?mblogid=5228807080641722\", \"vType\": 3}}```<br><br>2. **袭击地点扩散**  <br>   - **居民生活区**：超市（群马县）、住宅区遛狗时、校园周边均发生袭击```wbCustomBlock{\"type\": \"quoted\", \"index\": 5, \"data\": {\"num\": [1, 32], \"version\": 2, \"quote_list\": [{\"name\": \"吉林共青团\", \"scheme\": \"sinaweibo://detail?mblogid=5228828831776910\", \"index\": 32, \"label\": \"大v\"}, {\"name\": \"央视新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5228807080641722\", \"index\": 1, \"label\": \"\"}], \"name\": \"吉林共青团\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.1000.1000.50/0030YOrYly8hn5d31dp43j60rs0rs79502.jpg?KID=imgbed,tva&Expires=1762145164&ssig=e%2BK0D8Gktz\", \"scheme\": \"sinaweibo://detail?mblogid=5228828831776910\", \"vType\": 1}}```  <br>   - **热门景区**：京都岚山连续3天报告熊踪，奈良若草山等景点出现目击```wbCustomBlock{\"type\": \"quoted\", \"index\": 6, \"data\": {\"num\": [2, 7, 31], \"version\": 2, \"quote_list\": [{\"name\": \"lzjapan北京人在大阪\", \"scheme\": \"sinaweibo://detail?mblogid=5227785620817725\", \"index\": 7, \"label\": \"大v\"}, {\"name\": \"我与指南共侍一妻\", \"scheme\": \"sinaweibo://detail?mblogid=5227107873722596\", \"index\": 2, \"label\": \"\"}, {\"name\": \"Titi又胖了\", \"scheme\": \"sinaweibo://detail?mblogid=5227149412009811\", \"index\": 31, \"label\": \"\"}], \"name\": \"lzjapan北京人在大阪\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.512.512.50/cbe80d36ly8gdj9w6401lj20e80e8my9.jpg?KID=imgbed,tva&Expires=1762145164&ssig=P2vRUpYDaU\", \"scheme\": \"sinaweibo://detail?mblogid=5227785620817725\", \"vType\": 0}}```  <br>   - **城市公共场所**：机场、铁路线受熊出没影响，致航班取消、列车延误```wbCustomBlock{\"type\": \"quoted\", \"index\": 7, \"data\": {\"num\": [1], \"version\": 2, \"quote_list\": [{\"name\": \"央视新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5228807080641722\", \"index\": 1, \"label\": \"\"}]}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5227785620817725&from=search&content_show=1&mix_index=4&hide_index=1&multi_paragraph=1&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.512.512.50/cbe80d36ly8gdj9w6401lj20e80e8my9.jpg?KID=imgbed,tva&Expires=1762145164&ssig=P2vRUpYDaU) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">lzjapan北京人在大阪</span><img src=\"http://wx2.sinaimg.cn/middle/cbe80d36gy1i6vfyn6merj20ku0drgmn.jpg\" data-width=495 data-height=750></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5227919074394560&multi_paragraph=1&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.1023.1023.50/001Uy0Wgly8hbemb0m53cj60sg0sfmy202.jpg?KID=imgbed,tva&Expires=1762145164&ssig=xBebQqJuLM) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">大皖新闻</span><img src=\"http://wx2.sinaimg.cn/middle/003z5L7fly1i6vrlik2k5j61hc0u0jti02.jpg\" data-width=1080 data-height=1920></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5227107873722596&multi_paragraph=1&multi_count=2\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/006IGbybly8i6r0trh79ij30u00u0mz8.jpg?KID=imgbed,tva&Expires=1762145164&ssig=78GAVIM7EU) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">我与指南共侍一妻</span><img src=\"http://wx3.sinaimg.cn/middle/006IGbybly1i6ta4ur1ydj31hc0u0wie.jpg\" data-width=1080 data-height=1920></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5228807080641722&multi_paragraph=1&multi_count=3\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.690.690.50/002TLsr9ly8i653ifvwbtj60j60j6aai02.jpg?KID=imgbed,tva&Expires=1762145164&ssig=RJiqFbxYNb) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">央视新闻</span><img src=\"http://wx4.sinaimg.cn/middle/002TLsr9ly1i6yp754c4sj61qf0z4qv502.jpg\" data-width=1264 data-height=2247></div></media-block><br>### 二、熊害频发原因<br>- **食物短缺**：山毛榉等熊类主食歉收，迫使熊进入人类区域觅食```wbCustomBlock{\"type\": \"quoted\", \"index\": 10, \"data\": {\"num\": [10, 35], \"version\": 2, \"quote_list\": [{\"name\": \"东营网官方微博\", \"scheme\": \"sinaweibo://detail?mblogid=5227440671556597\", \"index\": 35, \"label\": \"大v\"}, {\"name\": \"日本仙台市\", \"scheme\": \"sinaweibo://detail?mblogid=5222816968346489\", \"index\": 10, \"label\": \"\"}], \"name\": \"东营网官方微博\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.500.500.50/73662ff6ly8h8vgrvey8ej20dw0dwgm2.jpg?KID=imgbed,tva&Expires=1762145164&ssig=wxGI4WNDCl\", \"scheme\": \"sinaweibo://detail?mblogid=5227440671556597\", \"vType\": 3}}```  <br>- **栖息地重叠**：弃耕土地增加导致森林与居住区界限模糊化```wbCustomBlock{\"type\": \"quoted\", \"index\": 11, \"data\": {\"num\": [8, 17], \"version\": 2, \"quote_list\": [{\"name\": \"大皖新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5227919074394560\", \"index\": 8, \"label\": \"大v\"}, {\"name\": \"大河报\", \"scheme\": \"sinaweibo://detail?mblogid=5227850594519374\", \"index\": 17, \"label\": \"\"}], \"name\": \"大皖新闻\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.1023.1023.50/001Uy0Wgly8hbemb0m53cj60sg0sfmy202.jpg?KID=imgbed,tva&Expires=1762145164&ssig=xBebQqJuLM\", \"scheme\": \"sinaweibo://detail?mblogid=5227919074394560\", \"vType\": 3}}```  <br>- **气候异常**：暖冬扰乱冬眠周期，秋季觅食需求激增```wbCustomBlock{\"type\": \"quoted\", \"index\": 12, \"data\": {\"num\": [9, 29], \"version\": 2, \"quote_list\": [{\"name\": \"唯爱美人的渔乐\", \"scheme\": \"sinaweibo://detail?mblogid=5227861654635288\", \"index\": 9, \"label\": \"\"}, {\"name\": \"小雀饲养手册_\", \"scheme\": \"sinaweibo://detail?mblogid=5227113244266932\", \"index\": 29, \"label\": \"\"}]}}```  <br>- **防控削弱**：部分地区削减猎人经费，导致熊群失控繁殖```wbCustomBlock{\"type\": \"quoted\", \"index\": 13, \"data\": {\"num\": [29], \"version\": 2, \"quote_list\": [{\"name\": \"小雀饲养手册_\", \"scheme\": \"sinaweibo://detail?mblogid=5227113244266932\", \"index\": 29, \"label\": \"\"}]}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5227850594519374&multi_paragraph=2&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.600.600.50/001TnUG6ly8hxc1n2gcu6j60go0go0td02.jpg?KID=imgbed,tva&Expires=1762145164&ssig=yeHmJVYrqM) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">大河报</span><img src=\"http://wx3.sinaimg.cn/middle/001TnUG6ly1i6vngisgd0j60u01hctbf02.jpg\" data-width=1920 data-height=1080></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5227113244266932&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=2&multi_count=1\"><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/006AX6Pmly8i5ff6z9dmvj30u00u0tas.jpg?KID=imgbed,tva&Expires=1762145164&ssig=Bewr6iRMIn) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">小雀饲养手册_</span><img src=\"http://wx2.sinaimg.cn/middle/006AX6Pmgy1i6taqhqezkj30ql1kwwlo.jpg\" data-width=2048 data-height=957></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5222816968346489&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=2&multi_count=2\"><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.512.512.50/9dcbd9fbly8geor84c8ioj20e80e8t92.jpg?KID=imgbed,tva&Expires=1762145164&ssig=EmKQENDXyY) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">日本仙台市</span><img src=\"http://wx1.sinaimg.cn/middle/9dcbd9fbgy1i6fla12fdcj21jk11679c.jpg\" data-width=1338 data-height=2000></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5227861654635288&multi_paragraph=2&multi_count=3\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/006DjWnoly8hlnpu1wkttj30u00u0wgd.jpg?KID=imgbed,tva&Expires=1762145164&ssig=nkF4UYbfo8) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">唯爱美人的渔乐</span><img src=\"http://wx4.sinaimg.cn/middle/006DjWnoly1i6vonskfiqj30u01hcmzt.jpg\" data-width=1920 data-height=1080></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5227440671556597&multi_paragraph=2&multi_count=4\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.500.500.50/73662ff6ly8h8vgrvey8ej20dw0dwgm2.jpg?KID=imgbed,tva&Expires=1762145164&ssig=wxGI4WNDCl) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">东营网官方微博</span><img src=\"http://wx3.sinaimg.cn/middle/001Q8zQmly1i6u48bbtz6j60u01hcwid02.jpg\" data-width=1920 data-height=1080></div></media-block><br>### 三、官方防护指南<br>#### ▶ 预防措施（出行前必看）  <br>1. **装备携带**  <br>   - 熊铃、收音机、哨子（持续发声警示）```wbCustomBlock{\"type\": \"quoted\", \"index\": 18, \"data\": {\"num\": [10], \"version\": 2, \"quote_list\": [{\"name\": \"日本仙台市\", \"scheme\": \"sinaweibo://detail?mblogid=5222816968346489\", \"index\": 10, \"label\": \"\"}]}}```  <br>   - 防熊喷雾（优先选择专业喷雾，非塑料瓶）```wbCustomBlock{\"type\": \"quoted\", \"index\": 19, \"data\": {\"num\": [5], \"version\": 2, \"quote_list\": [{\"name\": \"国家应急广播\", \"scheme\": \"sinaweibo://detail?mblogid=5228826197492489\", \"index\": 5, \"label\": \"大v\"}], \"name\": \"国家应急广播\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.600.600.50/c7ab8f4cly8hmd561td4zj20go0go0tm.jpg?KID=imgbed,tva&Expires=1762145164&ssig=OXRwTJYPq9\", \"scheme\": \"sinaweibo://detail?mblogid=5228826197492489\", \"vType\": 3}}```  <br>   - 鲜艳衣物（增强可见性，避免隐蔽接近）```wbCustomBlock{\"type\": \"quoted\", \"index\": 20, \"data\": {\"num\": [22], \"version\": 2, \"quote_list\": [{\"name\": \"新京报评论\", \"scheme\": \"sinaweibo://detail?mblogid=5165859178812090\", \"index\": 22, \"label\": \"大v\"}], \"name\": \"新京报评论\", \"img\": \"https://tvax1.sinaimg.cn/crop.64.51.552.552.50/5f9d87c8ly8gdinhdy445j20hs0hsjs3.jpg?KID=imgbed,tva&Expires=1762145164&ssig=Gc5duoR6B9\", \"scheme\": \"sinaweibo://detail?mblogid=5165859178812090\", \"vType\": -1}}```  <br><br>2. **行程规划**  <br>   - 避开警示牌区域及邻近山林地带```wbCustomBlock{\"type\": \"quoted\", \"index\": 22, \"data\": {\"num\": [32], \"version\": 2, \"quote_list\": [{\"name\": \"吉林共青团\", \"scheme\": \"sinaweibo://detail?mblogid=5228828831776910\", \"index\": 32, \"label\": \"\"}]}}```  <br>   - 避免清晨/傍晚出行（熊活跃高峰）```wbCustomBlock{\"type\": \"quoted\", \"index\": 23, \"data\": {\"num\": [10, 21], \"version\": 2, \"quote_list\": [{\"name\": \"珠江新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5227110836997563\", \"index\": 21, \"label\": \"大v\"}, {\"name\": \"日本仙台市\", \"scheme\": \"sinaweibo://detail?mblogid=5222816968346489\", \"index\": 10, \"label\": \"\"}], \"name\": \"珠江新闻\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.600.600.50/9114955dly8hjvkix12ptj20go0got9o.jpg?KID=imgbed,tva&Expires=1762145164&ssig=Llq0A%2BLqgv\", \"scheme\": \"sinaweibo://detail?mblogid=5227110836997563\", \"vType\": 3}}```  <br>   - 结伴行动，勿单独进入未开放林区```wbCustomBlock{\"type\": \"quoted\", \"index\": 24, \"data\": {\"num\": [22], \"version\": 2, \"quote_list\": [{\"name\": \"新京报评论\", \"scheme\": \"sinaweibo://detail?mblogid=5165859178812090\", \"index\": 22, \"label\": \"\"}]}}```  <br><br>3. **环境管理**  <br>   - 不遗留食物残渣或垃圾（避免吸引熊）```wbCustomBlock{\"type\": \"quoted\", \"index\": 26, \"data\": {\"num\": [10, 30], \"version\": 2, \"quote_list\": [{\"name\": \"日本仙台市\", \"scheme\": \"sinaweibo://detail?mblogid=5222816968346489\", \"index\": 10, \"label\": \"\"}, {\"name\": \"凤翅金盔泛妖光\", \"scheme\": \"sinaweibo://detail?mblogid=5223072044422647\", \"index\": 30, \"label\": \"\"}]}}```  <br>   - 远离熊脚印、粪便等痕迹，立即折返```wbCustomBlock{\"type\": \"quoted\", \"index\": 27, \"data\": {\"num\": [10, 32], \"version\": 2, \"quote_list\": [{\"name\": \"日本仙台市\", \"scheme\": \"sinaweibo://detail?mblogid=5222816968346489\", \"index\": 10, \"label\": \"\"}, {\"name\": \"吉林共青团\", \"scheme\": \"sinaweibo://detail?mblogid=5228828831776910\", \"index\": 32, \"label\": \"\"}]}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5228826197492489&multi_paragraph=4&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.600.600.50/c7ab8f4cly8hmd561td4zj20go0go0tm.jpg?KID=imgbed,tva&Expires=1762145164&ssig=OXRwTJYPq9) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">国家应急广播</span><img src=\"http://wx2.sinaimg.cn/middle/c7ab8f4cly1i6yri060hxj20zk0k0jsz.jpg\" data-width=720 data-height=1280></div></media-block><br>#### ▶ 紧急应对（遭遇熊时）  <br>| 场景 | 正确做法 | 禁忌行为 |  <br>|-------|----------|----------|  <br>| **远距离发现（>50米）** | 安静后退，不拍照逗留 | 尖叫、奔跑（触发捕猎本能） |  <br>| **近距离遭遇（<10米）** | 举包/衣物显高大，缓慢后退并低沉发声 | 对视（视为挑衅） |  <br>| **熊发动攻击** | 护住头颈部俯卧，背包护背 | 装死（仅对防御性熊有效，捕食性熊更危险） |  <br>| **携带防具时** | 用喷雾喷熊面部，或攻击其口鼻 | 盲目使用塑料瓶（无科学依据） |<br><br>```wbCustomBlock{\"type\": \"quoted\", \"index\": 28, \"data\": {\"num\": [5, 9, 10, 11, 18, 30], \"version\": 2, \"quote_list\": [{\"name\": \"诸城公安\", \"scheme\": \"sinaweibo://detail?mblogid=5228832711774872\", \"index\": 18, \"label\": \"大v\"}, {\"name\": \"国家应急广播\", \"scheme\": \"sinaweibo://detail?mblogid=5228826197492489\", \"index\": 5, \"label\": \"\"}, {\"name\": \"唯爱美人的渔乐\", \"scheme\": \"sinaweibo://detail?mblogid=5227861654635288\", \"index\": 9, \"label\": \"\"}, {\"name\": \"日本仙台市\", \"scheme\": \"sinaweibo://detail?mblogid=5222816968346489\", \"index\": 10, \"label\": \"\"}, {\"name\": \"某非洲酋长2\", \"scheme\": \"sinaweibo://detail?mblogid=5227910245122493\", \"index\": 11, \"label\": \"\"}, {\"name\": \"凤翅金盔泛妖光\", \"scheme\": \"sinaweibo://detail?mblogid=5223072044422647\", \"index\": 30, \"label\": \"\"}], \"name\": \"诸城公安\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.500.500.50/9056280dly1h8w6jnlnp7j20dw0dwab7.jpg?KID=imgbed,tva&Expires=1762145164&ssig=j9eN9HD67k\", \"scheme\": \"sinaweibo://detail?mblogid=5228832711774872\", \"vType\": 1}}```<br>### 四、旅游注意事项<br>1. **高风险区域**：  <br>   ⚠️ 北海道、秋田县、青森县（死亡事件集中）  <br>   ⚠️ 京都岚山、奈良若草山（近期频现熊踪）```wbCustomBlock{\"type\": \"quoted\", \"index\": 31, \"data\": {\"num\": [2, 7, 8, 20], \"version\": 2, \"quote_list\": [{\"name\": \"我与指南共侍一妻\", \"scheme\": \"sinaweibo://detail?mblogid=5227107873722596\", \"index\": 2, \"label\": \"\"}, {\"name\": \"lzjapan北京人在大阪\", \"scheme\": \"sinaweibo://detail?mblogid=5227785620817725\", \"index\": 7, \"label\": \"\"}, {\"name\": \"大皖新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5227919074394560\", \"index\": 8, \"label\": \"\"}, {\"name\": \"TuTiieu有时呆\", \"scheme\": \"sinaweibo://detail?mblogid=5227117740033014\", \"index\": 20, \"label\": \"\"}]}}```  <br><br>2. **企业应对参考**：  <br>   - 罗森便利店发布《防熊指南》，高风险区配喷雾```wbCustomBlock{\"type\": \"quoted\", \"index\": 33, \"data\": {\"num\": [34], \"version\": 2, \"quote_list\": [{\"name\": \"日本通微博\", \"scheme\": \"sinaweibo://detail?mblogid=5228549478548609\", \"index\": 34, \"label\": \"\"}]}}```  <br>   - 部分景区安装低频驱熊设备，留意最新通知```wbCustomBlock{\"type\": \"quoted\", \"index\": 34, \"data\": {\"num\": [34], \"version\": 2, \"quote_list\": [{\"name\": \"日本通微博\", \"scheme\": \"sinaweibo://detail?mblogid=5228549478548609\", \"index\": 34, \"label\": \"\"}]}}```  <br><br>3. **领事保护资源**：  <br>   - 日本报警电话：**110**（警察）、**119**（急救）  <br>   - 驻札幌总领馆领事保护电话：**+81-11-513-5335**  <br>   - 外交部全球领事保护热线：**+86-10-12308**（24小时）```wbCustomBlock{\"type\": \"quoted\", \"index\": 38, \"data\": {\"num\": [22, 32], \"version\": 2, \"quote_list\": [{\"name\": \"新京报评论\", \"scheme\": \"sinaweibo://detail?mblogid=5165859178812090\", \"index\": 22, \"label\": \"\"}, {\"name\": \"吉林共青团\", \"scheme\": \"sinaweibo://detail?mblogid=5228828831776910\", \"index\": 32, \"label\": \"\"}]}}```  <br><br>> **风险提示**：日本推广的“塑料瓶驱熊法”缺乏科学验证，专家指出饥饿熊可能被激怒。建议优先使用专业防熊设备，并关注政府实时预警（如宫城县“熊出没警报”持续中）。```wbCustomBlock{\"type\": \"quoted\", \"index\": 39, \"data\": {\"num\": [10, 11], \"version\": 2, \"quote_list\": [{\"name\": \"某非洲酋长2\", \"scheme\": \"sinaweibo://detail?mblogid=5227910245122493\", \"index\": 11, \"label\": \"大v\"}, {\"name\": \"日本仙台市\", \"scheme\": \"sinaweibo://detail?mblogid=5222816968346489\", \"index\": 10, \"label\": \"\"}], \"name\": \"某非洲酋长2\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.512.512.50/008BmKOely8hqfezr65bpj30e80e8gm3.jpg?KID=imgbed,tva&Expires=1762145164&ssig=kXIqEoQ2EP\", \"scheme\": \"sinaweibo://detail?mblogid=5227910245122493\", \"vType\": 0}}```  <br><br>建议计划赴日游客暂避山林密集区域，城市行程也需保持警惕。遭遇紧急情况立即联系上述救援渠道，并留存现场证据便于后续处理。```wbCustomBlock{\"type\": \"quoted\", \"index\": 40, \"data\": {\"num\": [32], \"version\": 2, \"quote_list\": [{\"name\": \"吉林共青团\", \"scheme\": \"sinaweibo://detail?mblogid=5228828831776910\", \"index\": 32, \"label\": \"\"}]}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5228549478548609&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=6&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.800.800.50/7e31b83cly1g95f9i7p2aj20m80m8wky.jpg?KID=imgbed,tva&Expires=1762145164&ssig=BDZ2I8G%2Fxa) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">日本通微博</span><img src=\"http://wx2.sinaimg.cn/middle/7e31b83cgy1i6x4w3sp0pj217010m4qp.jpg\" data-width=1318 data-height=1548></div></media-block><br>",
+      "query": "#总领馆提醒日本旅游注意防熊#",
+      "query_field": "60",
+      "qs_status": 0,
+      "ext_show": {},
+      "share_text": "#总领馆提醒日本旅游注意防熊#的相关内容，来智搜看看",
+      "zs_risk_control": {
+        "think_text_close": 0,
+        "land_button_close": 0
+      },
+      "current_time": 1762134689,
+      "profile_image_url": "",
+      "user_info": {},
+      "loop_times": 200,
+      "show_ctrl": {
+        "quote": {}
+      },
+      "abtest_info": {
+        "chat_entrance": 1
+      },
+      "share_info": {
+        "url": "http://t.cn/AXA9ss7m",
+        "unify_md5": "4af55c0a6b5bdc1090ca21a1afe527c9",
+        "status": 3,
+        "display_name": "#总领馆提醒日本旅游注意防熊#",
+        "page_id": "232964097c36fde1fdfc9f7fe0626c8c6b01fe",
+        "tips": "#总领馆提醒日本旅游注意防熊#的相关内容，来智搜看看",
+        "comment_content": ""
+      },
+      "unify_md5": "4af55c0a6b5bdc1090ca21a1afe527c9",
+      "ab_suffix": "default",
+      "analysis_time": 1762134587,
+      "version": "2025-11-03 09:46:04.029000-9482",
+      "basemodel": "实验组10",
+      "q_attr": {
+        "from_request_id": "",
+        "from_uid": "",
+        "comment_from_type": "",
+        "reply_cid": "",
+        "mid": ""
+      },
+      "news_analyze": {},
+      "wenda": {
+        "forward_gen": 0
+      },
+      "query_category": "",
+      "msg_format": "markdown",
+      "mid_list": null,
+      "cot": 1,
+      "msg_json": "{}",
+      "reference_num": 33,
+      "sorted_material_list": null,
+      "status_stage": 4,
+      "link_list": [
+        "sinaweibo://detail?mblogid=5228807080641722",
+        "sinaweibo://detail?mblogid=5227107873722596",
+        "sinaweibo://detail?mblogid=5227507621037302",
+        "sinaweibo://detail?mblogid=5223071826581213",
+        "sinaweibo://detail?mblogid=5228826197492489",
+        "sinaweibo://detail?mblogid=5200583986517433",
+        "sinaweibo://detail?mblogid=5227785620817725",
+        "sinaweibo://detail?mblogid=5227919074394560",
+        "sinaweibo://detail?mblogid=5227861654635288",
+        "sinaweibo://detail?mblogid=5222816968346489",
+        "sinaweibo://detail?mblogid=5227910245122493",
+        "broadsocial_res://",
+        "historyweibo://5165823081842889",
+        "historyweibo://5165823081842889",
+        "historyweibo://5165823081842889",
+        "sinaweibo://detail?mblogid=5228815040120249",
+        "sinaweibo://detail?mblogid=5227850594519374",
+        "sinaweibo://detail?mblogid=5228832711774872",
+        "sinaweibo://detail?mblogid=5228821079135372",
+        "sinaweibo://detail?mblogid=5227117740033014",
+        "sinaweibo://detail?mblogid=5227110836997563",
+        "sinaweibo://detail?mblogid=5165859178812090",
+        "sinaweibo://detail?mblogid=5165833010810459",
+        "sinaweibo://detail?mblogid=5165797106516339",
+        "sinaweibo://detail?mblogid=5165796892869615",
+        "sinaweibo://detail?mblogid=5165780426032322",
+        "sinaweibo://detail?mblogid=5227112832698390",
+        "sinaweibo://detail?mblogid=5165772122360364",
+        "sinaweibo://detail?mblogid=5227113244266932",
+        "sinaweibo://detail?mblogid=5223072044422647",
+        "sinaweibo://detail?mblogid=5227149412009811",
+        "sinaweibo://detail?mblogid=5228828831776910",
+        "sinaweibo://detail?mblogid=5228832594067788",
+        "sinaweibo://detail?mblogid=5228549478548609",
+        "sinaweibo://detail?mblogid=5227440671556597",
+        "sinaweibo://detail?mblogid=5227101604026207",
+        "sinaweibo://detail?mblogid=5165789184000014"
+      ],
+      "short_url": "http://t.cn/AXA91fua",
+      "top_quote_list": {},
+      "share_card_multimodal": {
+        "w": 750,
+        "img_pid": "cbe80d36gy1i6vfyn6merj20ku0drgmn",
+        "click_rate": 0.11764705882353,
+        "doc_score": 3194,
+        "vtype": 0,
+        "type": "p",
+        "cur_mid": "5227785620817725",
+        "img": "http://wx2.sinaimg.cn/middle/cbe80d36gy1i6vfyn6merj20ku0drgmn.jpg",
+        "user_avatar": "https://tvax1.sinaimg.cn/crop.0.0.512.512.50/cbe80d36ly8gdj9w6401lj20e80e8my9.jpg?KID=imgbed,tva&Expires=1762145164&ssig=P2vRUpYDaU",
+        "hit_score_final": 76.95977,
+        "scheme": "sinaweibo://multimedia?mix_mid=5227785620817725&from=search&content_show=1&mix_index=4&hide_index=1&multi_paragraph=1&multi_count=0",
+        "h": 495,
+        "user_name": "lzjapan北京人在大阪",
+        "video_url": "",
+        "hit_score_new": 89.599609
+      },
+      "card_multimodal": {
+        "type": "mediablock",
+        "data": [
+          {
+            "w": 750,
+            "img_pid": "cbe80d36gy1i6vfyn6merj20ku0drgmn",
+            "click_rate": 0.11764705882353,
+            "doc_score": 3194,
+            "vtype": 0,
+            "type": "p",
+            "cur_mid": "5227785620817725",
+            "img": "http://wx2.sinaimg.cn/middle/cbe80d36gy1i6vfyn6merj20ku0drgmn.jpg",
+            "user_avatar": "https://tvax1.sinaimg.cn/crop.0.0.512.512.50/cbe80d36ly8gdj9w6401lj20e80e8my9.jpg?KID=imgbed,tva&Expires=1762145164&ssig=P2vRUpYDaU",
+            "hit_score_final": 76.95977,
+            "scheme": "sinaweibo://multimedia?mix_mid=5227785620817725&from=search&content_show=1&mix_index=4&hide_index=1&multi_paragraph=1&multi_count=0",
+            "h": 495,
+            "user_name": "lzjapan北京人在大阪",
+            "video_url": "",
+            "hit_score_new": 89.599609
+          },
+          {
+            "w": 1920,
+            "img_pid": "003z5L7fly1i6vrlik2k5j61hc0u0jti02",
+            "click_rate": 0.056603773584906,
+            "doc_score": 3641,
+            "vtype": 3,
+            "type": "v",
+            "cur_mid": "5227919074394560",
+            "img": "http://wx2.sinaimg.cn/middle/003z5L7fly1i6vrlik2k5j61hc0u0jti02.jpg",
+            "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.1023.1023.50/001Uy0Wgly8hbemb0m53cj60sg0sfmy202.jpg?KID=imgbed,tva&Expires=1762145164&ssig=xBebQqJuLM",
+            "hit_score_final": 70.495316,
+            "scheme": "sinaweibo://video/vvs?mid=5227919074394560&multi_paragraph=1&multi_count=1",
+            "h": 1080,
+            "user_name": "大皖新闻",
+            "video_url": "https://video.weibo.com/show?fid=1034:5227886567686221",
+            "hit_score_new": 79.492188
+          },
+          {
+            "w": 1920,
+            "img_pid": "006IGbybly1i6ta4ur1ydj31hc0u0wie",
+            "click_rate": 0.017302955665025,
+            "doc_score": 4232,
+            "vtype": 0,
+            "type": "v",
+            "cur_mid": "5227107873722596",
+            "img": "http://wx3.sinaimg.cn/middle/006IGbybly1i6ta4ur1ydj31hc0u0wie.jpg",
+            "user_avatar": "https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/006IGbybly8i6r0trh79ij30u00u0mz8.jpg?KID=imgbed,tva&Expires=1762145164&ssig=78GAVIM7EU",
+            "hit_score_final": 76.667969,
+            "scheme": "sinaweibo://video/vvs?mid=5227107873722596&multi_paragraph=1&multi_count=2",
+            "h": 1080,
+            "user_name": "我与指南共侍一妻",
+            "video_url": "https://video.weibo.com/show?fid=1034:5227107543089208",
+            "hit_score_new": 91.113281
+          },
+          {
+            "w": 750,
+            "img_pid": "cbe80d36gy1i6vfyn6merj20ku0drgmn",
+            "click_rate": 0.11764705882353,
+            "doc_score": 3194,
+            "vtype": 0,
+            "type": "p",
+            "cur_mid": "5227785620817725",
+            "img": "http://wx2.sinaimg.cn/middle/cbe80d36gy1i6vfyn6merj20ku0drgmn.jpg",
+            "user_avatar": "https://tvax1.sinaimg.cn/crop.0.0.512.512.50/cbe80d36ly8gdj9w6401lj20e80e8my9.jpg?KID=imgbed,tva&Expires=1762145164&ssig=P2vRUpYDaU",
+            "hit_score_final": 76.95977,
+            "scheme": "sinaweibo://multimedia?mix_mid=5227785620817725&from=search&content_show=1&mix_index=4&hide_index=1&multi_paragraph=1&multi_count=0",
+            "h": 495,
+            "user_name": "lzjapan北京人在大阪",
+            "video_url": "",
+            "hit_score_new": 89.599609
+          }
+        ]
+      },
+      "page_id": "232964097c36fde1fdfc9f7fe0626c8c6b01fe",
+      "model": "deepseek",
+      "qs_status_info": "{\"qs_c_status\":8388608,\"qs_u_status\":0,\"ab_lab\":{},\"qs_r_status\":0,\"qs_status\":0,\"qs_q_status\":0}",
+      "reliable_tips": "{\"gold_orange_v_mids\": [\"5227107873722596\", \"5227785620817725\", \"5227149412009811\", \"5227861654635288\", \"5227113244266932\", \"5223072044422647\", \"5227910245122493\", \"5227507621037302\", \"5223071826581213\", \"5200583986517433\", \"5227112832698390\", \"5227101604026207\", \"5165789184000014\"], \"gold_orange_v_ratio\": \"40%\", \"media_mids\": [\"5228807080641722\", \"5227919074394560\", \"5227110836997563\", \"5228832594067788\", \"5227440671556597\", \"5227850594519374\", \"5228826197492489\", \"5165833010810459\", \"5165796892869615\", \"5165772122360364\"], \"media_ratio\": \"30%\", \"verified_mids\": [\"5227117740033014\", \"5228828831776910\", \"5222816968346489\", \"5228832711774872\", \"5228549478548609\", \"5228815040120249\", \"5228821079135372\", \"5165780426032322\"], \"verified_ratio\": \"24%\", \"normal_mids\": [\"5165859178812090\", \"5165797106516339\"], \"normal_ratio\": \"6%\", \"ref_mid_rank\": {\"5228807080641722\": {\"rank\": 1}, \"5227919074394560\": {\"rank\": 8}, \"5227117740033014\": {\"rank\": 20}, \"5227110836997563\": {\"rank\": 21}, \"5228832594067788\": {\"rank\": 33}, \"5228828831776910\": {\"rank\": 32}, \"5227107873722596\": {\"rank\": 2}, \"5227785620817725\": {\"rank\": 7}, \"5227149412009811\": {\"rank\": 31}, \"5222816968346489\": {\"rank\": 10}, \"5227440671556597\": {\"rank\": 35}, \"5227850594519374\": {\"rank\": 17}, \"5227861654635288\": {\"rank\": 9}, \"5227113244266932\": {\"rank\": 29}, \"5228826197492489\": {\"rank\": 5}, \"5165859178812090\": {\"rank\": 22}, \"5223072044422647\": {\"rank\": 30}, \"5227910245122493\": {\"rank\": 11}, \"5228832711774872\": {\"rank\": 18}, \"5228549478548609\": {\"rank\": 34}, \"5227507621037302\": {\"rank\": 3}, \"5223071826581213\": {\"rank\": 4}, \"5200583986517433\": {\"rank\": 6}, \"5228815040120249\": {\"rank\": 16}, \"5228821079135372\": {\"rank\": 19}, \"5165833010810459\": {\"rank\": 23}, \"5165797106516339\": {\"rank\": 24}, \"5165796892869615\": {\"rank\": 25}, \"5165780426032322\": {\"rank\": 26}, \"5227112832698390\": {\"rank\": 27}, \"5165772122360364\": {\"rank\": 28}, \"5227101604026207\": {\"rank\": 36}, \"5165789184000014\": {\"rank\": 37}}}",
+      "comment_info": {}
+    }
+  },
+  "links": [
+    "sinaweibo://detail?mblogid=5228807080641722",
+    "sinaweibo://detail?mblogid=5227107873722596",
+    "sinaweibo://detail?mblogid=5227507621037302",
+    "sinaweibo://detail?mblogid=5223071826581213",
+    "sinaweibo://detail?mblogid=5228826197492489",
+    "sinaweibo://detail?mblogid=5200583986517433",
+    "sinaweibo://detail?mblogid=5227785620817725",
+    "sinaweibo://detail?mblogid=5227919074394560",
+    "sinaweibo://detail?mblogid=5227861654635288",
+    "sinaweibo://detail?mblogid=5222816968346489",
+    "sinaweibo://detail?mblogid=5227910245122493",
+    "broadsocial_res://",
+    "historyweibo://5165823081842889",
+    "historyweibo://5165823081842889",
+    "historyweibo://5165823081842889",
+    "sinaweibo://detail?mblogid=5228815040120249",
+    "sinaweibo://detail?mblogid=5227850594519374",
+    "sinaweibo://detail?mblogid=5228832711774872",
+    "sinaweibo://detail?mblogid=5228821079135372",
+    "sinaweibo://detail?mblogid=5227117740033014",
+    "sinaweibo://detail?mblogid=5227110836997563",
+    "sinaweibo://detail?mblogid=5165859178812090",
+    "sinaweibo://detail?mblogid=5165833010810459",
+    "sinaweibo://detail?mblogid=5165797106516339",
+    "sinaweibo://detail?mblogid=5165796892869615",
+    "sinaweibo://detail?mblogid=5165780426032322",
+    "sinaweibo://detail?mblogid=5227112832698390",
+    "sinaweibo://detail?mblogid=5165772122360364",
+    "sinaweibo://detail?mblogid=5227113244266932",
+    "sinaweibo://detail?mblogid=5223072044422647",
+    "sinaweibo://detail?mblogid=5227149412009811",
+    "sinaweibo://detail?mblogid=5228828831776910",
+    "sinaweibo://detail?mblogid=5228832594067788",
+    "sinaweibo://detail?mblogid=5228549478548609",
+    "sinaweibo://detail?mblogid=5227440671556597",
+    "sinaweibo://detail?mblogid=5227101604026207",
+    "sinaweibo://detail?mblogid=5165789184000014"
+  ],
+  "media": [
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/cbe80d36gy1i6vfyn6merj20ku0drgmn.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/cbe80d36gy1i6vfyn6merj20ku0drgmn.jpg",
+      "alt": "lzjapan北京人在大阪",
+      "width": 495,
+      "height": 750,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/cbe80d36gy1i6vfyn6merj20ku0drgmn.jpg"
+      ],
+      "user": "lzjapan北京人在大阪"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/003z5L7fly1i6vrlik2k5j61hc0u0jti02.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/003z5L7fly1i6vrlik2k5j61hc0u0jti02.jpg",
+      "alt": "大皖新闻",
+      "width": 1080,
+      "height": 1920,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/003z5L7fly1i6vrlik2k5j61hc0u0jti02.jpg"
+      ],
+      "user": "大皖新闻"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/006IGbybly1i6ta4ur1ydj31hc0u0wie.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/006IGbybly1i6ta4ur1ydj31hc0u0wie.jpg",
+      "alt": "我与指南共侍一妻",
+      "width": 1080,
+      "height": 1920,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/006IGbybly1i6ta4ur1ydj31hc0u0wie.jpg"
+      ],
+      "user": "我与指南共侍一妻"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/002TLsr9ly1i6yp754c4sj61qf0z4qv502.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/002TLsr9ly1i6yp754c4sj61qf0z4qv502.jpg",
+      "alt": "央视新闻",
+      "width": 1264,
+      "height": 2247,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx4.sinaimg.cn/large/002TLsr9ly1i6yp754c4sj61qf0z4qv502.jpg"
+      ],
+      "user": "央视新闻"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/001TnUG6ly1i6vngisgd0j60u01hctbf02.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/001TnUG6ly1i6vngisgd0j60u01hctbf02.jpg",
+      "alt": "大河报",
+      "width": 1920,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/001TnUG6ly1i6vngisgd0j60u01hctbf02.jpg"
+      ],
+      "user": "大河报"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/006AX6Pmgy1i6taqhqezkj30ql1kwwlo.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/006AX6Pmgy1i6taqhqezkj30ql1kwwlo.jpg",
+      "alt": "小雀饲养手册_",
+      "width": 2048,
+      "height": 957,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/006AX6Pmgy1i6taqhqezkj30ql1kwwlo.jpg"
+      ],
+      "user": "小雀饲养手册_"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/9dcbd9fbgy1i6fla12fdcj21jk11679c.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/9dcbd9fbgy1i6fla12fdcj21jk11679c.jpg",
+      "alt": "日本仙台市",
+      "width": 1338,
+      "height": 2000,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/9dcbd9fbgy1i6fla12fdcj21jk11679c.jpg"
+      ],
+      "user": "日本仙台市"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/006DjWnoly1i6vonskfiqj30u01hcmzt.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/006DjWnoly1i6vonskfiqj30u01hcmzt.jpg",
+      "alt": "唯爱美人的渔乐",
+      "width": 1920,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx4.sinaimg.cn/large/006DjWnoly1i6vonskfiqj30u01hcmzt.jpg"
+      ],
+      "user": "唯爱美人的渔乐"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/001Q8zQmly1i6u48bbtz6j60u01hcwid02.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/001Q8zQmly1i6u48bbtz6j60u01hcwid02.jpg",
+      "alt": "东营网官方微博",
+      "width": 1920,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/001Q8zQmly1i6u48bbtz6j60u01hcwid02.jpg"
+      ],
+      "user": "东营网官方微博"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/c7ab8f4cly1i6yri060hxj20zk0k0jsz.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/c7ab8f4cly1i6yri060hxj20zk0k0jsz.jpg",
+      "alt": "国家应急广播",
+      "width": 720,
+      "height": 1280,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/c7ab8f4cly1i6yri060hxj20zk0k0jsz.jpg"
+      ],
+      "user": "国家应急广播"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/7e31b83cgy1i6x4w3sp0pj217010m4qp.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/7e31b83cgy1i6x4w3sp0pj217010m4qp.jpg",
+      "alt": "日本通微博",
+      "width": 1318,
+      "height": 1548,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/7e31b83cgy1i6x4w3sp0pj217010m4qp.jpg"
+      ],
+      "user": "日本通微博"
+    }
+  ],
+  "html_path": "data/aicard/hourly/2025-11-03/09/topic-4af55c0a.html"
+}

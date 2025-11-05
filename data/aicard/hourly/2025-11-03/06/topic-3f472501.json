@@ -1,0 +1,342 @@
+{
+  "meta": {
+    "query": "#全红婵被观众的娃娃雨淹没了#",
+    "status_code": 200,
+    "fetched_at": "2025-11-03T06:26:41+08:00",
+    "response": {
+      "top_quote_list": {},
+      "card_multimodal": {
+        "data": [
+          {
+            "vtype": 3,
+            "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.512.512.50/67f865afly8h8vg6w30czj20e80e8t92.jpg?KID=imgbed,tva&Expires=1762132997&ssig=IBY5arQI0G",
+            "hit_score_final": 0,
+            "user_name": "钱江视频",
+            "hit_score_new": 0,
+            "doc_score": 0,
+            "img_pid": "67f865afly1i6y8dgx6rqj20u01hcacu",
+            "h": 1920,
+            "click_rate": 0.15753188104719,
+            "w": 1080,
+            "type": "v",
+            "video_url": "https://video.weibo.com/show?fid=1034:5228659410403443",
+            "img": "http://wx1.sinaimg.cn/middle/67f865afly1i6y8dgx6rqj20u01hcacu.jpg",
+            "cur_mid": "5228659673664390",
+            "scheme": "sinaweibo://video/vvs?mid=5228659673664390&multi_paragraph=1&multi_count=0"
+          },
+          {
+            "vtype": 3,
+            "user_avatar": "https://tvax1.sinaimg.cn/crop.0.0.600.600.50/0035keCIly8haj757owo1j60go0go75f02.jpg?KID=imgbed,tva&Expires=1762132997&ssig=svKfiEsoLC",
+            "hit_score_final": 82.422501,
+            "user_name": "湖北日报",
+            "hit_score_new": 98.4375,
+            "doc_score": 4692,
+            "img_pid": "0035keCIly1i6y8jwaxexj60u01hc42i02",
+            "h": 1920,
+            "click_rate": 0.077244258872651,
+            "w": 1080,
+            "type": "v",
+            "video_url": "https://video.weibo.com/show?fid=1034:5228661071347789",
+            "img": "http://wx1.sinaimg.cn/middle/0035keCIly1i6y8jwaxexj60u01hc42i02.jpg",
+            "cur_mid": "5228661185976545",
+            "scheme": "sinaweibo://video/vvs?mid=5228661185976545&multi_paragraph=1&multi_count=1"
+          },
+          {
+            "vtype": 3,
+            "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.600.600.50/00212gD7ly8hc6ajtq5srj60go0go0u602.jpg?KID=imgbed,tva&Expires=1762132997&ssig=Adx3FZSimf",
+            "hit_score_final": 57.857029,
+            "user_name": "都市快报",
+            "hit_score_new": 55.761719,
+            "doc_score": 3440,
+            "img_pid": "00212gD7ly1i6y95ltpbdj60k00zkta702",
+            "h": 1280,
+            "click_rate": 0.1978021978022,
+            "w": 720,
+            "type": "v",
+            "video_url": "https://video.weibo.com/show?fid=1034:5228666087735361",
+            "img": "http://wx2.sinaimg.cn/middle/00212gD7ly1i6y95ltpbdj60k00zkta702.jpg",
+            "cur_mid": "5228666440390214",
+            "scheme": "sinaweibo://video/vvs?mid=5228666440390214&multi_paragraph=2&multi_count=0"
+          },
+          {
+            "vtype": 3,
+            "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.512.512.50/67f865afly8h8vg6w30czj20e80e8t92.jpg?KID=imgbed,tva&Expires=1762132997&ssig=IBY5arQI0G",
+            "hit_score_final": 0,
+            "user_name": "钱江视频",
+            "hit_score_new": 0,
+            "doc_score": 0,
+            "img_pid": "67f865afly1i6y8dgx6rqj20u01hcacu",
+            "h": 1920,
+            "click_rate": 0.15753188104719,
+            "w": 1080,
+            "type": "v",
+            "video_url": "https://video.weibo.com/show?fid=1034:5228659410403443",
+            "img": "http://wx1.sinaimg.cn/middle/67f865afly1i6y8dgx6rqj20u01hcacu.jpg",
+            "cur_mid": "5228659673664390",
+            "scheme": "sinaweibo://video/vvs?mid=5228659673664390&multi_paragraph=1&multi_count=0"
+          }
+        ],
+        "type": "mediablock"
+      },
+      "share_card_multimodal": {
+        "vtype": 3,
+        "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.512.512.50/67f865afly8h8vg6w30czj20e80e8t92.jpg?KID=imgbed,tva&Expires=1762132997&ssig=IBY5arQI0G",
+        "hit_score_final": 0,
+        "user_name": "钱江视频",
+        "hit_score_new": 0,
+        "doc_score": 0,
+        "img_pid": "67f865afly1i6y8dgx6rqj20u01hcacu",
+        "h": 1920,
+        "click_rate": 0.15753188104719,
+        "w": 1080,
+        "type": "v",
+        "video_url": "https://video.weibo.com/show?fid=1034:5228659410403443",
+        "img": "http://wx1.sinaimg.cn/middle/67f865afly1i6y8dgx6rqj20u01hcacu.jpg",
+        "cur_mid": "5228659673664390",
+        "scheme": "sinaweibo://video/vvs?mid=5228659673664390&multi_paragraph=1&multi_count=0"
+      },
+      "basemodel": "实验组6",
+      "current_time": 1762122402,
+      "status": 2,
+      "msg": "<think><br>嗯，用户给我发送了一个查询：“全红婵被观众的娃娃雨淹没了”，并且提供了相当多的搜索结果。让我先仔细看看这些搜索结果中提供了哪些相关信息。<br><br>用户提供的查询是关于跳水运动员全红婵在赛后收到大量玩偶的事件。看起来这是一个发生在2025年11月2日的事件，发生在广州举办的第十五届全运会跳水比赛之后。<br><br>根据结果1（钱江视频的微博）和结果19（都市快报的微博），我看到全红婵在伤愈复出后首次亮相比赛，搭档王伟莹参加了女子团体双人10米跳台比赛，并以第一名成绩帮助广东队夺冠。<br><br>多个搜索结果描述了比赛结束后发生的“娃娃雨”场景。结果1、3、10、11等显示观众从看台向全红婵抛掷了大量毛绒玩偶。全红婵一边跑着捡拾这些娃娃，一边向观众挥手致意，工作人员最后用麻袋帮忙装载这些玩偶。<br><br>结果2是很有意思的当事人微博，全红婵自己发了三个字：“我真棒”，表达了她夺冠后的喜悦心情。<br><br>从结果7的资料内容来看，这并非第一次发生“娃娃雨”现象。类似互动曾在2024年世锦赛、2025年跳水世界杯等赛事中出现过，已成为全红婵比赛的标志性场景。全红婵曾提到自己喜欢公仔，结果6中提到她的妈妈解释了为什么她喜欢公仔。<br><br>结果33和41描述了在2025年4月13日跳水世界杯上，观众抛掷玩偶时曾有玩偶砸中全红婵和她的教练陈若琳的事件，陈若琳立即保护全红婵并向观众喊话“别扔了”。<br><br>现在我要组织一个清晰、有吸引力的回答，突出这次事件的几个关键方面：比赛背景和结果、“娃娃雨”的现场场景、背后的情感意义、全红婵的健康复出情况以及这种现象的演变。<br><br>我会用几个小标题来组织内容：赛事荣耀时刻、温暖互动瞬间、现象背后的意义、健康复出故事和标志性符号的演变。在每个部分我会结合多个搜索结果，确保信息全面准确。<br><br>最后，我会用一个简洁的总结句来捕捉全红婵作为“娃娃收割机”的独特魅力和“娃娃雨”象征的意义。<br><br></think><br>根据2025年11月2日第十五届全运会跳水比赛现场信息，全红婵与搭档王伟莹在女子团体双人10米跳台比赛中以总分235.86分夺冠，助力广东队夺得团体金牌。赛后出现标志性的“娃娃雨”场景，相关细节如下：<br>### 🏅 一、赛事背景与夺冠意义  <br>1. **复出首秀告捷**：此次比赛是**全红婵因伤病暂别赛场180天后的首次复出**。她在比赛中展现出色状态，首跳即获全场最高分，最终与王伟莹默契配合锁定冠军。```wbCustomBlock{\"type\": \"quoted\", \"index\": 3, \"data\": {\"num\": [1, 3, 13, 14], \"version\": 2, \"quote_list\": [{\"name\": \"钱江视频\", \"scheme\": \"sinaweibo://detail?mblogid=5228659673664390\", \"index\": 1, \"label\": \"大v\"}, {\"name\": \"湖北日报\", \"scheme\": \"sinaweibo://detail?mblogid=5228661185976545\", \"index\": 3, \"label\": \"\"}, {\"name\": \"人民日报\", \"scheme\": \"sinaweibo://detail?mblogid=5228632851351360\", \"index\": 13, \"label\": \"\"}, {\"name\": \"中国蓝新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5228641594114673\", \"index\": 14, \"label\": \"\"}], \"name\": \"钱江视频\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.512.512.50/67f865afly8h8vg6w30czj20e80e8t92.jpg?KID=imgbed,tva&Expires=1762132997&ssig=IBY5arQI0G\", \"scheme\": \"sinaweibo://detail?mblogid=5228659673664390\", \"vType\": 3}}```  <br>2. **团队贡献**：此次夺冠是广东队女子团体项目总分第一的关键助力，教练何威仪激动握手庆祝，全红婵与搭档赛后紧紧拥抱。```wbCustomBlock{\"type\": \"quoted\", \"index\": 4, \"data\": {\"num\": [14, 26], \"version\": 2, \"quote_list\": [{\"name\": \"中国蓝新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5228641594114673\", \"index\": 14, \"label\": \"大v\"}, {\"name\": \"冯陈布布\", \"scheme\": \"sinaweibo://detail?mblogid=5228664388060670\", \"index\": 26, \"label\": \"\"}], \"name\": \"中国蓝新闻\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.1000.1000.50/8842ff52ly8heqfusvnwbj20rs0rsmxx.jpg?KID=imgbed,tva&Expires=1762132997&ssig=qAdq32PfI3\", \"scheme\": \"sinaweibo://detail?mblogid=5228641594114673\", \"vType\": 3}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5228659673664390&multi_paragraph=1&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.512.512.50/67f865afly8h8vg6w30czj20e80e8t92.jpg?KID=imgbed,tva&Expires=1762132997&ssig=IBY5arQI0G) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">钱江视频</span><img src=\"http://wx1.sinaimg.cn/middle/67f865afly1i6y8dgx6rqj20u01hcacu.jpg\" data-width=1920 data-height=1080></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5228661185976545&multi_paragraph=1&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.600.600.50/0035keCIly8haj757owo1j60go0go75f02.jpg?KID=imgbed,tva&Expires=1762132997&ssig=svKfiEsoLC) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">湖北日报</span><img src=\"http://wx1.sinaimg.cn/middle/0035keCIly1i6y8jwaxexj60u01hc42i02.jpg\" data-width=1920 data-height=1080></div></media-block><br>### 🧸 二、“娃娃雨”现场细节  <br>1. **温馨互动盛况**：比赛结束后，**观众从看台抛掷大量毛绒玩偶**，形成密集的“娃娃雨”。玩偶种类多样（如兔子、乌龟等），全红婵全程奔跑捡拾，并向观众挥手致意。```wbCustomBlock{\"type\": \"quoted\", \"index\": 6, \"data\": {\"num\": [1, 3, 10, 15], \"version\": 2, \"quote_list\": [{\"name\": \"湖北日报\", \"scheme\": \"sinaweibo://detail?mblogid=5228661185976545\", \"index\": 3, \"label\": \"大v\"}, {\"name\": \"钱江视频\", \"scheme\": \"sinaweibo://detail?mblogid=5228659673664390\", \"index\": 1, \"label\": \"\"}, {\"name\": \"音节片语\", \"scheme\": \"sinaweibo://detail?mblogid=5228685169005046\", \"index\": 10, \"label\": \"\"}, {\"name\": \"三分球与高马尾\", \"scheme\": \"sinaweibo://detail?mblogid=5228678510544658\", \"index\": 15, \"label\": \"\"}], \"name\": \"湖北日报\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.600.600.50/0035keCIly8haj757owo1j60go0go75f02.jpg?KID=imgbed,tva&Expires=1762132997&ssig=svKfiEsoLC\", \"scheme\": \"sinaweibo://detail?mblogid=5228661185976545\", \"vType\": 3}}```  <br>2. **趣味场景**：  <br>    - 她边捡边小跑，记者跟拍记录，被调侃“捡不完根本捡不完！”；```wbCustomBlock{\"type\": \"quoted\", \"index\": 8, \"data\": {\"num\": [1, 12, 15], \"version\": 2, \"quote_list\": [{\"name\": \"TT体坛风行者\", \"scheme\": \"sinaweibo://detail?mblogid=5228675068335052\", \"index\": 12, \"label\": \"大v\"}, {\"name\": \"钱江视频\", \"scheme\": \"sinaweibo://detail?mblogid=5228659673664390\", \"index\": 1, \"label\": \"\"}, {\"name\": \"三分球与高马尾\", \"scheme\": \"sinaweibo://detail?mblogid=5228678510544658\", \"index\": 15, \"label\": \"\"}], \"name\": \"TT体坛风行者\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/0067MZFily8i2a9j0xxjxj30u00u0wk6.jpg?KID=imgbed,tva&Expires=1762132997&ssig=d0xxhXDDaL\", \"scheme\": \"sinaweibo://detail?mblogid=5228675068335052\", \"vType\": 0}}```  <br>    - **工作人员用麻袋协助装载**玩偶，现场宛如“粉丝见面会”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 9, \"data\": {\"num\": [12, 31], \"version\": 2, \"quote_list\": [{\"name\": \"国球人生\", \"scheme\": \"sinaweibo://detail?mblogid=5228656731095516\", \"index\": 31, \"label\": \"大v\"}, {\"name\": \"TT体坛风行者\", \"scheme\": \"sinaweibo://detail?mblogid=5228675068335052\", \"index\": 12, \"label\": \"\"}], \"name\": \"国球人生\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.600.600.50/006ehHTSly8gxz64icyxoj30go0go75c.jpg?KID=imgbed,tva&Expires=1762132997&ssig=IFrzTcf3TH\", \"scheme\": \"sinaweibo://detail?mblogid=5228656731095516\", \"vType\": 0}}```  <br>3. **全红婵的回应**：她**发布微博“我真棒”庆祝胜利**，并积极互动彰显亲和力。```wbCustomBlock{\"type\": \"quoted\", \"index\": 10, \"data\": {\"num\": [2, 19], \"version\": 2, \"quote_list\": [{\"name\": \"都市快报\", \"scheme\": \"sinaweibo://detail?mblogid=5228666440390214\", \"index\": 19, \"label\": \"大v\"}, {\"name\": \"全红婵\", \"scheme\": \"sinaweibo://detail?mblogid=5228653866389641\", \"index\": 2, \"label\": \"\"}], \"name\": \"都市快报\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.600.600.50/00212gD7ly8hc6ajtq5srj60go0go0u602.jpg?KID=imgbed,tva&Expires=1762132997&ssig=Adx3FZSimf\", \"scheme\": \"sinaweibo://detail?mblogid=5228666440390214\", \"vType\": 3}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5228666440390214&multi_paragraph=2&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.600.600.50/00212gD7ly8hc6ajtq5srj60go0go0u602.jpg?KID=imgbed,tva&Expires=1762132997&ssig=Adx3FZSimf) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">都市快报</span><img src=\"http://wx2.sinaimg.cn/middle/00212gD7ly1i6y95ltpbdj60k00zkta702.jpg\" data-width=1280 data-height=720></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5228656731095516&multi_paragraph=2&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.600.600.50/006ehHTSly8gxz64icyxoj30go0go75c.jpg?KID=imgbed,tva&Expires=1762132997&ssig=IFrzTcf3TH) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">国球人生</span><img src=\"http://wx4.sinaimg.cn/middle/006ehHTSly1i6y812cpjpj30g00sg3zd.jpg\" data-width=1024 data-height=576></div></media-block><br>### 💞 三、现象背后的情感联结  <br>1. **粉丝表达喜爱的方式**：观众通过抛掷玩偶传递支持，而全红婵认真捡拾的行为被视为**对观众心意的尊重**，形成“荣耀与宠爱的双向奔赴”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 12, \"data\": {\"num\": [10, 11, 16], \"version\": 2, \"quote_list\": [{\"name\": \"体界小宇宙\", \"scheme\": \"sinaweibo://detail?mblogid=5228693565473172\", \"index\": 11, \"label\": \"大v\"}, {\"name\": \"音节片语\", \"scheme\": \"sinaweibo://detail?mblogid=5228685169005046\", \"index\": 10, \"label\": \"\"}, {\"name\": \"I毅世-淇缘\", \"scheme\": \"sinaweibo://detail?mblogid=5228691154012359\", \"index\": 16, \"label\": \"\"}], \"name\": \"体界小宇宙\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.864.864.50/005PUraIly8i6pqaomsoaj30o00o0q4k.jpg?KID=imgbed,tva&Expires=1762132997&ssig=qv8%2F%2BIDblB\", \"scheme\": \"sinaweibo://detail?mblogid=5228693565473172\", \"vType\": 0}}```  <br>2. **公众人物特质**：全红婵因纯真性格和拼搏精神广受喜爱，此前报道提及她为给母亲治病选择跳水，其故事激励众多青少年。```wbCustomBlock{\"type\": \"quoted\", \"index\": 13, \"data\": {\"num\": [36], \"version\": 2, \"quote_list\": [{\"name\": \"手捧星星的追夢人\", \"scheme\": \"sinaweibo://detail?mblogid=5170975601853102\", \"index\": 36, \"label\": \"大v\"}], \"name\": \"手捧星星的追夢人\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/cf5cc4fely8i2x0eczgamj20u00u0ad3.jpg?KID=imgbed,tva&Expires=1762132997&ssig=FQta9YFBND\", \"scheme\": \"sinaweibo://detail?mblogid=5170975601853102\", \"vType\": 0}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5170975601853102&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=3&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/cf5cc4fely8i2x0eczgamj20u00u0ad3.jpg?KID=imgbed,tva&Expires=1762132997&ssig=FQta9YFBND) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">手捧星星的追夢人</span><img src=\"http://wx2.sinaimg.cn/middle/cf5cc4fegy1i1u7fdjhgtj20wi10ywqz.jpg\" data-width=1330 data-height=1170></div></media-block><br>### 🏥 四、健康与复出关注点  <br>1. **身体状况讨论**：复出时部分网友注意到她身形变化（“发福”），但实际她拥有**“8块腹肌”**，且技术发挥未受影响。  <br>2. **安全提醒**：有粉丝呼吁检查玩偶安全性（如是否含录音设备），避免潜在隐患。```wbCustomBlock{\"type\": \"quoted\", \"index\": 16, \"data\": {\"num\": [24], \"version\": 2, \"quote_list\": [{\"name\": \"Moon_两抹晨光\", \"scheme\": \"sinaweibo://detail?mblogid=5228771226681813\", \"index\": 24, \"label\": \"\"}]}}```<br>### ⏳ 五、“娃娃雨”成为标志性符号的演变  <br>1. **历史渊源**：该场景**始于2023-2024年国际赛事**（如世界杯、世锦赛），观众因其喜欢公仔而形成传统。```wbCustomBlock{\"type\": \"quoted\", \"index\": 18, \"data\": {\"num\": [5, 6, 42], \"version\": 2, \"quote_list\": [{\"name\": \"杭州日报\", \"scheme\": \"sinaweibo://detail?mblogid=5152382321952328\", \"index\": 42, \"label\": \"大v\"}, {\"name\": \"苏酿酿呀\", \"scheme\": \"sinaweibo://detail?mblogid=5073412487909805\", \"index\": 5, \"label\": \"\"}, {\"name\": \"浅川晴鸢\", \"scheme\": \"sinaweibo://detail?mblogid=5064683488807228\", \"index\": 6, \"label\": \"\"}], \"name\": \"杭州日报\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.300.300.50/6202ecc3ly8h8vg9153vuj208c08cmx7.jpg?KID=imgbed,tva&Expires=1762132997&ssig=UOSeNlqgGJ\", \"scheme\": \"sinaweibo://detail?mblogid=5152382321952328\", \"vType\": 3}}```  <br>2. **争议事件**：2025年4月跳水世界杯中，玩偶曾砸中全红婵头部，教练陈若琳**立即护住她并喊话“别扔了”**，引发对安全规范的讨论。```wbCustomBlock{\"type\": \"quoted\", \"index\": 19, \"data\": {\"num\": [33, 35, 37], \"version\": 2, \"quote_list\": [{\"name\": \"小球闲谈\", \"scheme\": \"sinaweibo://detail?mblogid=5155405978406710\", \"index\": 35, \"label\": \"大v\"}, {\"name\": \"纵情球场\", \"scheme\": \"sinaweibo://detail?mblogid=5155404855379006\", \"index\": 33, \"label\": \"\"}, {\"name\": \"体育产业评论\", \"scheme\": \"sinaweibo://detail?mblogid=5155403461563610\", \"index\": 37, \"label\": \"\"}], \"name\": \"小球闲谈\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.1.1078.1078.50/005wF7kZly8i59wgrl5y8j30ty0u03z6.jpg?KID=imgbed,tva&Expires=1762132997&ssig=bsIqsMmdBt\", \"scheme\": \"sinaweibo://detail?mblogid=5155405978406710\", \"vType\": 0}}```  <br>3. **文化意义**：玩偶雨既是观众情感的载体，也折射社会对体育精神的集体致敬，巩固了全红婵作为“体坛新生代偶像”的地位。```wbCustomBlock{\"type\": \"quoted\", \"index\": 20, \"data\": {\"num\": [36], \"version\": 2, \"quote_list\": [{\"name\": \"手捧星星的追夢人\", \"scheme\": \"sinaweibo://detail?mblogid=5170975601853102\", \"index\": 36, \"label\": \"\"}]}}```<br><br>---<br><br>全红婵以“娃娃收割机”的可爱形象与赛场王者实力交织，让“捡不完的娃娃雨”成为竞技体育中一道独特的情感风景线🌧️🧸，也是观众与运动员之间无需言语的温暖对话。<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5073412487909805&multi_paragraph=5&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/008vRt2cly8h7vmdhp7l3j30u00u076a.jpg?KID=imgbed,tva&Expires=1762132997&ssig=jGxkkt4JLj) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">苏酿酿呀</span><img src=\"http://wx2.sinaimg.cn/middle/008vRt2cgy1ht6ycyl4kkj30oo1hc0yi.jpg\" data-width=1920 data-height=888></div><div data-type=\"v\" data-scheme=\"sinaweibo://multimedia?mix_mid=5064683488807228&mix_index=0&multi_paragraph=5&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/006UFOwAly8i3yn2zojdtj30u00u0jtz.jpg?KID=imgbed,tva&Expires=1762132997&ssig=Bf3KajDmvv) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">浅川晴鸢</span><img src=\"http://wx3.sinaimg.cn/middle/006UFOwAgy1hsf3z44ut9j30u00gw76v.jpg\" data-width=608 data-height=1080></div></media-block><br>",
+      "model": "deepseek",
+      "cot": 1,
+      "page_id": "2329646531863021a8c4a2f6f11a01bcbcfd15",
+      "msg_format": "markdown",
+      "qs_status": 0,
+      "query_field": "20",
+      "msg_json": "{}",
+      "unify_md5": "3f472501b43fc6e99aedd7b10eeb99a9",
+      "loop_times": 200,
+      "query": "#全红婵被观众的娃娃雨淹没了#",
+      "zs_risk_control": {
+        "think_text_close": 0,
+        "land_button_close": 0
+      },
+      "chat_status_stage": 1,
+      "reliable_tips": "{\"gold_orange_v_mids\": [\"5228664388060670\", \"5228685169005046\", \"5228678510544658\", \"5228675068335052\", \"5228656731095516\", \"5228653866389641\", \"5228693565473172\", \"5228691154012359\", \"5170975601853102\", \"5073412487909805\", \"5064683488807228\", \"5155404855379006\", \"5155405978406710\", \"5155403461563610\", \"5228680298629717\", \"5228687417148404\", \"5228673605305052\", \"5228691311299789\", \"5228678755385420\", \"5155422193584718\", \"5170567687964911\", \"5228677475340541\", \"5152474894175856\"], \"gold_orange_v_ratio\": \"56%\", \"media_mids\": [\"5228659673664390\", \"5228661185976545\", \"5228632851351360\", \"5228641594114673\", \"5228666440390214\", \"5152382321952328\", \"5228778695688761\", \"5161898569106475\", \"5228658282991853\", \"5155273023422998\"], \"media_ratio\": \"24%\", \"verified_mids\": [\"5155255605527158\", \"5228781021168854\", \"5155407635416041\", \"5162573651251814\"], \"verified_ratio\": \"10%\", \"normal_mids\": [\"5228771226681813\", \"5228780311544764\", \"5228775352827966\", \"5228708878353320\"], \"normal_ratio\": \"10%\", \"ref_mid_rank\": {\"5228659673664390\": {\"rank\": 1}, \"5228661185976545\": {\"rank\": 3}, \"5228632851351360\": {\"rank\": 13}, \"5228641594114673\": {\"rank\": 14}, \"5228664388060670\": {\"rank\": 26}, \"5228685169005046\": {\"rank\": 10}, \"5228678510544658\": {\"rank\": 15}, \"5228675068335052\": {\"rank\": 12}, \"5228656731095516\": {\"rank\": 31}, \"5228653866389641\": {\"rank\": 2}, \"5228666440390214\": {\"rank\": 19}, \"5228693565473172\": {\"rank\": 11}, \"5228691154012359\": {\"rank\": 16}, \"5170975601853102\": {\"rank\": 36}, \"5228771226681813\": {\"rank\": 24}, \"5073412487909805\": {\"rank\": 5}, \"5064683488807228\": {\"rank\": 6}, \"5152382321952328\": {\"rank\": 42}, \"5155404855379006\": {\"rank\": 33}, \"5155405978406710\": {\"rank\": 35}, \"5155403461563610\": {\"rank\": 37}, \"5155255605527158\": {\"rank\": 4}, \"5228680298629717\": {\"rank\": 17}, \"5228687417148404\": {\"rank\": 18}, \"5228781021168854\": {\"rank\": 20}, \"5228780311544764\": {\"rank\": 21}, \"5228778695688761\": {\"rank\": 22}, \"5228775352827966\": {\"rank\": 23}, \"5228708878353320\": {\"rank\": 25}, \"5228673605305052\": {\"rank\": 27}, \"5228691311299789\": {\"rank\": 28}, \"5228678755385420\": {\"rank\": 29}, \"5155407635416041\": {\"rank\": 30}, \"5162573651251814\": {\"rank\": 32}, \"5155422193584718\": {\"rank\": 34}, \"5170567687964911\": {\"rank\": 38}, \"5161898569106475\": {\"rank\": 39}, \"5228658282991853\": {\"rank\": 40}, \"5155273023422998\": {\"rank\": 41}, \"5228677475340541\": {\"rank\": 43}, \"5152474894175856\": {\"rank\": 44}}}",
+      "share_info": {
+        "status": 3,
+        "url": "http://t.cn/AXAKYkXu",
+        "comment_content": "",
+        "unify_md5": "3f472501b43fc6e99aedd7b10eeb99a9",
+        "page_id": "2329646531863021a8c4a2f6f11a01bcbcfd15",
+        "tips": "#全红婵被观众的娃娃雨淹没了#的相关内容，来智搜看看",
+        "display_name": "#全红婵被观众的娃娃雨淹没了#"
+      },
+      "reference_num": 41,
+      "profile_image_url": "",
+      "sorted_material_list": null,
+      "share_text": "#全红婵被观众的娃娃雨淹没了#的相关内容，来智搜看看",
+      "news_analyze": {},
+      "user_info": {},
+      "scheme": "sinaweibo://cardlist?containerid=100103type%3D225%26q%3D%23%E5%85%A8%E7%BA%A2%E5%A9%B5%E8%A2%AB%E8%A7%82%E4%BC%97%E7%9A%84%E5%A8%83%E5%A8%83%E9%9B%A8%E6%B7%B9%E6%B2%A1%E4%BA%86%23%26t%3D&extparam=ai_model%3Ddeepseek%26ori_ai_title%3D%E5%8F%82%E8%80%83%E5%8D%9A%E6%96%87%26material_version%3D1762122197",
+      "query_category": "Ip",
+      "short_url": "http://t.cn/AXAKTN50",
+      "q_attr": {
+        "comment_from_type": "",
+        "mid": "",
+        "from_uid": "1740549393",
+        "from_request_id": "1762122196075",
+        "reply_cid": ""
+      },
+      "ab_suffix": "default",
+      "link_list": [
+        "sinaweibo://detail?mblogid=5228659673664390",
+        "sinaweibo://detail?mblogid=5228653866389641",
+        "sinaweibo://detail?mblogid=5228661185976545",
+        "sinaweibo://detail?mblogid=5155255605527158",
+        "sinaweibo://detail?mblogid=5073412487909805",
+        "sinaweibo://detail?mblogid=5064683488807228",
+        "historyweibo://5228653866389641",
+        "historyweibo://5062328737339925",
+        "historyweibo://4952863798725005",
+        "sinaweibo://detail?mblogid=5228685169005046",
+        "sinaweibo://detail?mblogid=5228693565473172",
+        "sinaweibo://detail?mblogid=5228675068335052",
+        "sinaweibo://detail?mblogid=5228632851351360",
+        "sinaweibo://detail?mblogid=5228641594114673",
+        "sinaweibo://detail?mblogid=5228678510544658",
+        "sinaweibo://detail?mblogid=5228691154012359",
+        "sinaweibo://detail?mblogid=5228680298629717",
+        "sinaweibo://detail?mblogid=5228687417148404",
+        "sinaweibo://detail?mblogid=5228666440390214",
+        "sinaweibo://detail?mblogid=5228781021168854",
+        "sinaweibo://detail?mblogid=5228780311544764",
+        "sinaweibo://detail?mblogid=5228778695688761",
+        "sinaweibo://detail?mblogid=5228775352827966",
+        "sinaweibo://detail?mblogid=5228771226681813",
+        "sinaweibo://detail?mblogid=5228708878353320",
+        "sinaweibo://detail?mblogid=5228664388060670",
+        "sinaweibo://detail?mblogid=5228673605305052",
+        "sinaweibo://detail?mblogid=5228691311299789",
+        "sinaweibo://detail?mblogid=5228678755385420",
+        "sinaweibo://detail?mblogid=5155407635416041",
+        "sinaweibo://detail?mblogid=5228656731095516",
+        "sinaweibo://detail?mblogid=5162573651251814",
+        "sinaweibo://detail?mblogid=5155404855379006",
+        "sinaweibo://detail?mblogid=5155422193584718",
+        "sinaweibo://detail?mblogid=5155405978406710",
+        "sinaweibo://detail?mblogid=5170975601853102",
+        "sinaweibo://detail?mblogid=5155403461563610",
+        "sinaweibo://detail?mblogid=5170567687964911",
+        "sinaweibo://detail?mblogid=5161898569106475",
+        "sinaweibo://detail?mblogid=5228658282991853",
+        "sinaweibo://detail?mblogid=5155273023422998",
+        "sinaweibo://detail?mblogid=5152382321952328",
+        "sinaweibo://detail?mblogid=5228677475340541",
+        "sinaweibo://detail?mblogid=5152474894175856"
+      ],
+      "ext_show": {},
+      "uid": "",
+      "status_stage": 4,
+      "show_ctrl": {
+        "quote": {}
+      },
+      "wenda": {
+        "forward_gen": 0
+      },
+      "mid_list": null,
+      "comment_info": {},
+      "version": "2025-11-03 06:23:17.028000-5965",
+      "abtest_info": {
+        "chat_entrance": 1
+      },
+      "analysis_time": 1762122257,
+      "qs_status_info": "{\"qs_c_status\":8388608,\"ab_lab\":{},\"qs_u_status\":0,\"qs_q_status\":0,\"qs_status\":0,\"qs_r_status\":0}"
+    }
+  },
+  "links": [
+    "sinaweibo://detail?mblogid=5228659673664390",
+    "sinaweibo://detail?mblogid=5228653866389641",
+    "sinaweibo://detail?mblogid=5228661185976545",
+    "sinaweibo://detail?mblogid=5155255605527158",
+    "sinaweibo://detail?mblogid=5073412487909805",
+    "sinaweibo://detail?mblogid=5064683488807228",
+    "historyweibo://5228653866389641",
+    "historyweibo://5062328737339925",
+    "historyweibo://4952863798725005",
+    "sinaweibo://detail?mblogid=5228685169005046",
+    "sinaweibo://detail?mblogid=5228693565473172",
+    "sinaweibo://detail?mblogid=5228675068335052",
+    "sinaweibo://detail?mblogid=5228632851351360",
+    "sinaweibo://detail?mblogid=5228641594114673",
+    "sinaweibo://detail?mblogid=5228678510544658",
+    "sinaweibo://detail?mblogid=5228691154012359",
+    "sinaweibo://detail?mblogid=5228680298629717",
+    "sinaweibo://detail?mblogid=5228687417148404",
+    "sinaweibo://detail?mblogid=5228666440390214",
+    "sinaweibo://detail?mblogid=5228781021168854",
+    "sinaweibo://detail?mblogid=5228780311544764",
+    "sinaweibo://detail?mblogid=5228778695688761",
+    "sinaweibo://detail?mblogid=5228775352827966",
+    "sinaweibo://detail?mblogid=5228771226681813",
+    "sinaweibo://detail?mblogid=5228708878353320",
+    "sinaweibo://detail?mblogid=5228664388060670",
+    "sinaweibo://detail?mblogid=5228673605305052",
+    "sinaweibo://detail?mblogid=5228691311299789",
+    "sinaweibo://detail?mblogid=5228678755385420",
+    "sinaweibo://detail?mblogid=5155407635416041",
+    "sinaweibo://detail?mblogid=5228656731095516",
+    "sinaweibo://detail?mblogid=5162573651251814",
+    "sinaweibo://detail?mblogid=5155404855379006",
+    "sinaweibo://detail?mblogid=5155422193584718",
+    "sinaweibo://detail?mblogid=5155405978406710",
+    "sinaweibo://detail?mblogid=5170975601853102",
+    "sinaweibo://detail?mblogid=5155403461563610",
+    "sinaweibo://detail?mblogid=5170567687964911",
+    "sinaweibo://detail?mblogid=5161898569106475",
+    "sinaweibo://detail?mblogid=5228658282991853",
+    "sinaweibo://detail?mblogid=5155273023422998",
+    "sinaweibo://detail?mblogid=5152382321952328",
+    "sinaweibo://detail?mblogid=5228677475340541",
+    "sinaweibo://detail?mblogid=5152474894175856"
+  ],
+  "media": [
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/67f865afly1i6y8dgx6rqj20u01hcacu.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/67f865afly1i6y8dgx6rqj20u01hcacu.jpg",
+      "alt": "钱江视频",
+      "width": 1920,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/67f865afly1i6y8dgx6rqj20u01hcacu.jpg"
+      ],
+      "user": "钱江视频"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/0035keCIly1i6y8jwaxexj60u01hc42i02.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/0035keCIly1i6y8jwaxexj60u01hc42i02.jpg",
+      "alt": "湖北日报",
+      "width": 1920,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/0035keCIly1i6y8jwaxexj60u01hc42i02.jpg"
+      ],
+      "user": "湖北日报"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/00212gD7ly1i6y95ltpbdj60k00zkta702.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/00212gD7ly1i6y95ltpbdj60k00zkta702.jpg",
+      "alt": "都市快报",
+      "width": 1280,
+      "height": 720,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/00212gD7ly1i6y95ltpbdj60k00zkta702.jpg"
+      ],
+      "user": "都市快报"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/006ehHTSly1i6y812cpjpj30g00sg3zd.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/006ehHTSly1i6y812cpjpj30g00sg3zd.jpg",
+      "alt": "国球人生",
+      "width": 1024,
+      "height": 576,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/006ehHTSly1i6y812cpjpj30g00sg3zd.jpg"
+      ],
+      "user": "国球人生"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/cf5cc4fegy1i1u7fdjhgtj20wi10ywqz.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/cf5cc4fegy1i1u7fdjhgtj20wi10ywqz.jpg",
+      "alt": "手捧星星的追夢人",
+      "width": 1330,
+      "height": 1170,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/cf5cc4fegy1i1u7fdjhgtj20wi10ywqz.jpg"
+      ],
+      "user": "手捧星星的追夢人"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/008vRt2cgy1ht6ycyl4kkj30oo1hc0yi.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/008vRt2cgy1ht6ycyl4kkj30oo1hc0yi.jpg",
+      "alt": "苏酿酿呀",
+      "width": 1920,
+      "height": 888,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/008vRt2cgy1ht6ycyl4kkj30oo1hc0yi.jpg"
+      ],
+      "user": "苏酿酿呀"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/006UFOwAgy1hsf3z44ut9j30u00gw76v.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/006UFOwAgy1hsf3z44ut9j30u00gw76v.jpg",
+      "alt": "浅川晴鸢",
+      "width": 608,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/006UFOwAgy1hsf3z44ut9j30u00gw76v.jpg"
+      ],
+      "user": "浅川晴鸢"
+    }
+  ],
+  "html_path": "data/aicard/hourly/2025-11-03/06/topic-3f472501.html"
+}

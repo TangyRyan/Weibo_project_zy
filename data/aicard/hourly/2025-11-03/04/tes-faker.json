@@ -1,0 +1,484 @@
+{
+  "meta": {
+    "query": "#TES把Faker打瞌睡了#",
+    "status_code": 200,
+    "fetched_at": "2025-11-03T04:34:08+08:00",
+    "response": {
+      "status": 2,
+      "model": "deepseek",
+      "ext_show": {},
+      "cot": 1,
+      "wenda": {
+        "forward_gen": 0
+      },
+      "page_id": "232964feb78925ee20f27f654b3ca3f00b3b02",
+      "qs_status": 0,
+      "scheme": "sinaweibo://cardlist?containerid=100103type%3D225%26q%3D%23tes%E6%8A%8Afaker%E6%89%93%E7%9E%8C%E7%9D%A1%E4%BA%86%23%26t%3D&extparam=ai_model%3Ddeepseek%26ori_ai_title%3D%E5%8F%82%E8%80%83%E5%8D%9A%E6%96%87%26material_version%3D1762115099",
+      "analysis_time": 1762115368,
+      "qs_status_info": "{\"qs_q_status\":0,\"qs_status\":0,\"qs_c_status\":8388608,\"qs_r_status\":0,\"qs_u_status\":0,\"ab_lab\":{}}",
+      "q_attr": {
+        "comment_from_type": "",
+        "mid": "",
+        "from_uid": "",
+        "reply_cid": "",
+        "from_request_id": ""
+      },
+      "profile_image_url": "",
+      "query_field": "47",
+      "chat_status_stage": 1,
+      "news_analyze": {},
+      "reliable_tips": "{\"gold_orange_v_mids\": [\"5228592532299076\", \"5228590872661401\", \"5228623649836723\", \"5228617311196452\", \"5228630726413189\", \"5228612892493008\", \"5227900741882641\", \"5228659101140513\", \"5228596492239971\", \"5228602958283504\", \"5228595548260752\", \"5228567915137939\", \"5091507816368930\", \"5228565358445285\", \"5228589953059658\", \"5228563592907063\", \"5228556978229412\", \"5228659742869904\", \"5227902833524749\", \"5228587143923892\", \"5228588479810808\", \"5228588912608712\", \"5228587281024887\", \"5228576133878392\", \"5228619383182236\", \"5228597351548972\", \"5228613817601049\", \"5228685164282764\", \"5228270095962822\", \"5228590976992044\", \"5228593502487782\", \"5228623923512785\", \"5227902934190173\", \"5228570345210462\", \"5228543514511894\", \"5228614410834646\", \"5228170551756074\", \"5228660338722963\", \"5228674804091704\", \"5228675270186700\", \"5228670652256217\", \"5228655106068416\", \"5228674410349993\", \"5228619278586903\", \"5228673419448189\", \"5228659587944460\", \"5228553301922853\", \"5228144646952771\", \"5228589785284694\", \"5222428294775292\"], \"gold_orange_v_ratio\": \"88%\", \"media_mids\": [], \"media_ratio\": \"0%\", \"verified_mids\": [\"5228607267932613\", \"5228698246317782\", \"5228575944870889\", \"5228597054799999\", \"5228595568188407\"], \"verified_ratio\": \"9%\", \"normal_mids\": [\"5228667833419980\", \"5228664906059972\"], \"normal_ratio\": \"3%\", \"ref_mid_rank\": {\"5228592532299076\": {\"rank\": 1}, \"5228590872661401\": {\"rank\": 6}, \"5228623649836723\": {\"rank\": 39}, \"5228617311196452\": {\"rank\": 40}, \"5228607267932613\": {\"rank\": 5}, \"5228630726413189\": {\"rank\": 25}, \"5228612892493008\": {\"rank\": 2}, \"5227900741882641\": {\"rank\": 20}, \"5228698246317782\": {\"rank\": 41}, \"5228659101140513\": {\"rank\": 30}, \"5228596492239971\": {\"rank\": 52}, \"5228602958283504\": {\"rank\": 51}, \"5228595548260752\": {\"rank\": 55}, \"5228567915137939\": {\"rank\": 9}, \"5091507816368930\": {\"rank\": 19}, \"5228565358445285\": {\"rank\": 14}, \"5228589953059658\": {\"rank\": 17}, \"5228563592907063\": {\"rank\": 58}, \"5228575944870889\": {\"rank\": 10}, \"5228556978229412\": {\"rank\": 11}, \"5228659742869904\": {\"rank\": 16}, \"5227902833524749\": {\"rank\": 24}, \"5228587143923892\": {\"rank\": 50}, \"5228588479810808\": {\"rank\": 53}, \"5228588912608712\": {\"rank\": 7}, \"5228587281024887\": {\"rank\": 49}, \"5228576133878392\": {\"rank\": 54}, \"5228619383182236\": {\"rank\": 56}, \"5228597351548972\": {\"rank\": 61}, \"5228613817601049\": {\"rank\": 59}, \"5228685164282764\": {\"rank\": 3}, \"5228270095962822\": {\"rank\": 4}, \"5228590976992044\": {\"rank\": 8}, \"5228593502487782\": {\"rank\": 12}, \"5228623923512785\": {\"rank\": 13}, \"5227902934190173\": {\"rank\": 15}, \"5228570345210462\": {\"rank\": 18}, \"5228543514511894\": {\"rank\": 21}, \"5228614410834646\": {\"rank\": 22}, \"5228170551756074\": {\"rank\": 23}, \"5228660338722963\": {\"rank\": 31}, \"5228674804091704\": {\"rank\": 32}, \"5228675270186700\": {\"rank\": 33}, \"5228670652256217\": {\"rank\": 34}, \"5228655106068416\": {\"rank\": 35}, \"5228674410349993\": {\"rank\": 36}, \"5228667833419980\": {\"rank\": 37}, \"5228619278586903\": {\"rank\": 38}, \"5228673419448189\": {\"rank\": 42}, \"5228659587944460\": {\"rank\": 43}, \"5228664906059972\": {\"rank\": 44}, \"5228597054799999\": {\"rank\": 45}, \"5228553301922853\": {\"rank\": 46}, \"5228144646952771\": {\"rank\": 47}, \"5228595568188407\": {\"rank\": 48}, \"5228589785284694\": {\"rank\": 57}, \"5222428294775292\": {\"rank\": 60}}, \"reliable_summary\": \"核心事件可靠度低。Faker打哈欠的行为实际发生在比赛开始前的准备阶段，是选手正常的生理反应，与TES的表现或比赛强度无关。网友的调侃基于对画面的误读，事件本身并未反映比赛真实情况。\"}",
+      "sorted_material_list": null,
+      "msg_json": "{}",
+      "user_info": {},
+      "zs_risk_control": {
+        "think_text_close": 0,
+        "land_button_close": 0
+      },
+      "query": "#TES把Faker打瞌睡了#",
+      "unify_md5": "4bb160030ea34506b25eea6ca3f01ce8",
+      "show_ctrl": {
+        "quote": {}
+      },
+      "version": "2025-11-03 04:24:59.013000-5123",
+      "msg_format": "markdown",
+      "mid_list": null,
+      "reference_num": 57,
+      "query_category": "",
+      "loop_times": 200,
+      "link_list": [
+        "sinaweibo://detail?mblogid=5228592532299076",
+        "sinaweibo://detail?mblogid=5228612892493008",
+        "sinaweibo://detail?mblogid=5228685164282764",
+        "sinaweibo://detail?mblogid=5228270095962822",
+        "sinaweibo://detail?mblogid=5228607267932613",
+        "sinaweibo://detail?mblogid=5228590872661401",
+        "sinaweibo://detail?mblogid=5228588912608712",
+        "sinaweibo://detail?mblogid=5228590976992044",
+        "sinaweibo://detail?mblogid=5228567915137939",
+        "sinaweibo://detail?mblogid=5228575944870889",
+        "sinaweibo://detail?mblogid=5228556978229412",
+        "sinaweibo://detail?mblogid=5228593502487782",
+        "sinaweibo://detail?mblogid=5228623923512785",
+        "sinaweibo://detail?mblogid=5228565358445285",
+        "sinaweibo://detail?mblogid=5227902934190173",
+        "sinaweibo://detail?mblogid=5228659742869904",
+        "sinaweibo://detail?mblogid=5228589953059658",
+        "sinaweibo://detail?mblogid=5228570345210462",
+        "sinaweibo://detail?mblogid=5091507816368930",
+        "sinaweibo://detail?mblogid=5227900741882641",
+        "sinaweibo://detail?mblogid=5228543514511894",
+        "sinaweibo://detail?mblogid=5228614410834646",
+        "sinaweibo://detail?mblogid=5228170551756074",
+        "sinaweibo://detail?mblogid=5227902833524749",
+        "sinaweibo://detail?mblogid=5228630726413189",
+        "https://k.sina.cn/article_2028810631_78ed318704001539a.html",
+        "broadsocial_res://",
+        "broadsocial_res://",
+        "historyweibo://5228612892493008",
+        "sinaweibo://detail?mblogid=5228659101140513",
+        "sinaweibo://detail?mblogid=5228660338722963",
+        "sinaweibo://detail?mblogid=5228674804091704",
+        "sinaweibo://detail?mblogid=5228675270186700",
+        "sinaweibo://detail?mblogid=5228670652256217",
+        "sinaweibo://detail?mblogid=5228655106068416",
+        "sinaweibo://detail?mblogid=5228674410349993",
+        "sinaweibo://detail?mblogid=5228667833419980",
+        "sinaweibo://detail?mblogid=5228619278586903",
+        "sinaweibo://detail?mblogid=5228623649836723",
+        "sinaweibo://detail?mblogid=5228617311196452",
+        "sinaweibo://detail?mblogid=5228698246317782",
+        "sinaweibo://detail?mblogid=5228673419448189",
+        "sinaweibo://detail?mblogid=5228659587944460",
+        "sinaweibo://detail?mblogid=5228664906059972",
+        "sinaweibo://detail?mblogid=5228597054799999",
+        "sinaweibo://detail?mblogid=5228553301922853",
+        "sinaweibo://detail?mblogid=5228144646952771",
+        "sinaweibo://detail?mblogid=5228595568188407",
+        "sinaweibo://detail?mblogid=5228587281024887",
+        "sinaweibo://detail?mblogid=5228587143923892",
+        "sinaweibo://detail?mblogid=5228602958283504",
+        "sinaweibo://detail?mblogid=5228596492239971",
+        "sinaweibo://detail?mblogid=5228588479810808",
+        "sinaweibo://detail?mblogid=5228576133878392",
+        "sinaweibo://detail?mblogid=5228595548260752",
+        "sinaweibo://detail?mblogid=5228619383182236",
+        "sinaweibo://detail?mblogid=5228589785284694",
+        "sinaweibo://detail?mblogid=5228563592907063",
+        "sinaweibo://detail?mblogid=5228613817601049",
+        "sinaweibo://detail?mblogid=5222428294775292",
+        "sinaweibo://detail?mblogid=5228597351548972"
+      ],
+      "short_url": "http://t.cn/AXAKaKGQ",
+      "top_quote_list": {},
+      "card_multimodal": {
+        "type": "mediablock",
+        "data": [
+          {
+            "scheme": "sinaweibo://video/vvs?mid=5228607267932613&multi_paragraph=1&multi_count=0",
+            "doc_score": 6270,
+            "img_pid": "0068GZJSly1i6y1iwz2jdj31hc0oojt0",
+            "click_rate": 0.24514648170471,
+            "img": "http://wx4.sinaimg.cn/middle/0068GZJSly1i6y1iwz2jdj31hc0oojt0.jpg",
+            "type": "v",
+            "cur_mid": "5228607267932613",
+            "vtype": 3,
+            "user_name": "新浪新闻",
+            "hit_score_final": 80.089928,
+            "user_avatar": "https://tvax4.sinaimg.cn/crop.0.0.799.799.50/002diGk7ly8h8vg36oqidj60m70m7mxs02.jpg?KID=imgbed,tva&Expires=1762125899&ssig=NvSCb2EUiN",
+            "w": 1920,
+            "video_url": "https://video.weibo.com/show?fid=1034:5228599901356121",
+            "h": 888,
+            "hit_score_new": 90.283203
+          },
+          {
+            "scheme": "sinaweibo://multimedia?mix_mid=5228592532299076&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=1&multi_count=1",
+            "doc_score": 0,
+            "img_pid": "008xCJoDly1i6y0jzuw3jj30e90ax77z",
+            "click_rate": 0.21641438197432,
+            "img": "http://wx4.sinaimg.cn/middle/008xCJoDly1i6y0jzuw3jj30e90ax77z.jpg",
+            "type": "p",
+            "cur_mid": "5228592532299076",
+            "vtype": 0,
+            "user_name": "小野的瓜田",
+            "hit_score_final": 0,
+            "user_avatar": "https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/008xCJoDly8hrq6l9fi5wj30u00u03yx.jpg?KID=imgbed,tva&Expires=1762125899&ssig=TGGXH1mp1v",
+            "w": 513,
+            "video_url": "",
+            "h": 393,
+            "hit_score_new": 0
+          },
+          {
+            "scheme": "sinaweibo://multimedia?mix_mid=5228612892493008&mix_index=0&multi_paragraph=1&multi_count=2",
+            "doc_score": 0,
+            "img_pid": "006i8XEzly1i6y2zu3d5yj30zk0k0wfg",
+            "click_rate": 0.16046463815789,
+            "img": "http://wx2.sinaimg.cn/middle/006i8XEzly1i6y2zu3d5yj30zk0k0wfg.jpg",
+            "type": "v",
+            "cur_mid": "5228612892493008",
+            "vtype": 0,
+            "user_name": "动漫游戏君",
+            "hit_score_final": 0,
+            "user_avatar": "https://tvax1.sinaimg.cn/crop.0.0.690.690.50/006i8XEzly8hojzsvemjvj30j60j6my1.jpg?KID=imgbed,tva&Expires=1762125899&ssig=FYGTDBYyVi",
+            "w": 1280,
+            "video_url": "https://video.weibo.com/show?fid=1034:5228612643651652",
+            "h": 720,
+            "hit_score_new": 0
+          },
+          {
+            "scheme": "sinaweibo://video/vvs?mid=5228607267932613&multi_paragraph=1&multi_count=0",
+            "doc_score": 6270,
+            "img_pid": "0068GZJSly1i6y1iwz2jdj31hc0oojt0",
+            "click_rate": 0.24514648170471,
+            "img": "http://wx4.sinaimg.cn/middle/0068GZJSly1i6y1iwz2jdj31hc0oojt0.jpg",
+            "type": "v",
+            "cur_mid": "5228607267932613",
+            "vtype": 3,
+            "user_name": "新浪新闻",
+            "hit_score_final": 80.089928,
+            "user_avatar": "https://tvax4.sinaimg.cn/crop.0.0.799.799.50/002diGk7ly8h8vg36oqidj60m70m7mxs02.jpg?KID=imgbed,tva&Expires=1762125899&ssig=NvSCb2EUiN",
+            "w": 1920,
+            "video_url": "https://video.weibo.com/show?fid=1034:5228599901356121",
+            "h": 888,
+            "hit_score_new": 90.283203
+          }
+        ]
+      },
+      "share_card_multimodal": {
+        "scheme": "sinaweibo://video/vvs?mid=5228607267932613&multi_paragraph=1&multi_count=0",
+        "doc_score": 6270,
+        "img_pid": "0068GZJSly1i6y1iwz2jdj31hc0oojt0",
+        "click_rate": 0.24514648170471,
+        "img": "http://wx4.sinaimg.cn/middle/0068GZJSly1i6y1iwz2jdj31hc0oojt0.jpg",
+        "type": "v",
+        "cur_mid": "5228607267932613",
+        "vtype": 3,
+        "user_name": "新浪新闻",
+        "hit_score_final": 80.089928,
+        "user_avatar": "https://tvax4.sinaimg.cn/crop.0.0.799.799.50/002diGk7ly8h8vg36oqidj60m70m7mxs02.jpg?KID=imgbed,tva&Expires=1762125899&ssig=NvSCb2EUiN",
+        "w": 1920,
+        "video_url": "https://video.weibo.com/show?fid=1034:5228599901356121",
+        "h": 888,
+        "hit_score_new": 90.283203
+      },
+      "msg": "<think><br><br>嗯，用户查询的是\"tes把faker打瞌睡了\"这个梗的来龙去脉。从搜索结果看，这其实是2025年英雄联盟S15全球总决赛半决赛期间的一个热门事件。<br><br>最核心的信息出现在结果26和结果39，有网友捕捉到Faker在比赛期间打哈欠的镜头。结合T1以3-0碾压TES的战绩，这个画面迅速被解读为\"TES让Faker困到打哈欠\"——结果40的网友评论精准概括了这种反差：\"见过打哭/打手抖/打笑的，第一次见打困的\"。<br><br>有趣的是，这个梗的传播还结合了多位圈内人士的发言：<br>- 结果2提到解说姿态的锐评\"T1连80%实力都没发挥，衣服没脱眼没闭就赢了\"<br>- 结果25引用Faker赛后采访\"今天状态其实不好\"的发言，被网友调侃成\"凡尔赛\"<br>- 结果30甚至提到前TES教练白色月牙怒斥队员\"一打LCK就不会玩\"<br><br>更深层的背景是LPL赛区的集体焦虑：<br>- Faker对LPL战队S赛BO5十三连胜<br>- 第二局仅26分钟速通<br>- B站六万人围观《突然的陀螺》嘲讽TES像被抽打的陀螺<br><br>需要澄清的是，结果27、28的媒体核查指出打哈欠实际发生在赛前准备阶段。但网友显然更愿意相信\"把传奇选手打困\"的戏剧化叙事，这本质上是对悬殊实力差的苦涩调侃。<br><br>关于赛事影响：<br>- Faker第八次晋级决赛冲击六冠王<br>- LPL主场再次见证LCK内战<br>- 结果56用\"GOAT级别统治力\"总结最到位<br><br>最后值得注意的是结果37的粉丝发言，将Faker的\"纯粹\"与LPL部分选手的\"糜烂\"对比，这或许解释了为什么\"打瞌睡\"梗能引发如此广泛的共鸣——它已成为赛区实力与职业态度双重差距的象征符号。<br><br></think><br>关于“TES把Faker打瞌睡了”这一热议事件，本质是2025年英雄联盟S15全球总决赛半决赛中T1战队以绝对优势碾压TES战队后引发的调侃性梗文化，其核心信息及深层含义如下：<br>### 🔥 **事件核心：Faker比赛打哈欠引爆全网**  <br>1. **比赛结果与名场面**  <br>   - 在11月2日的半决赛中，T1以3:0横扫TES，三局总时长较短（如第二局仅26分钟结束），TES全程被压制，资源控制、团战决策全面落后。```wbCustomBlock{\"type\": \"quoted\", \"index\": 4, \"data\": {\"num\": [1, 6], \"version\": 2, \"quote_list\": [{\"name\": \"小野的瓜田\", \"scheme\": \"sinaweibo://detail?mblogid=5228592532299076\", \"index\": 1, \"label\": \"大v\"}, {\"name\": \"Curtain丶泡泡\", \"scheme\": \"sinaweibo://detail?mblogid=5228590872661401\", \"index\": 6, \"label\": \"\"}], \"name\": \"小野的瓜田\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/008xCJoDly8hrq6l9fi5wj30u00u03yx.jpg?KID=imgbed,tva&Expires=1762125899&ssig=TGGXH1mp1v\", \"scheme\": \"sinaweibo://detail?mblogid=5228592532299076\", \"vType\": 0}}```  <br>   - **关键镜头**：比赛过程中，导播捕捉到Faker打哈欠的画面，网友戏称“TES把Faker打困了”，调侃这是“首次有队伍让Faker在生死局犯困”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 5, \"data\": {\"num\": [39, 40], \"version\": 2, \"quote_list\": [{\"name\": \"英雄联盟神吐槽\", \"scheme\": \"sinaweibo://detail?mblogid=5228623649836723\", \"index\": 39, \"label\": \"大v\"}, {\"name\": \"小冰鸽a\", \"scheme\": \"sinaweibo://detail?mblogid=5228617311196452\", \"index\": 40, \"label\": \"\"}], \"name\": \"英雄联盟神吐槽\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.439.439.50/006cmbhQly8h8uglinec1j30c70c73yz.jpg?KID=imgbed,tva&Expires=1762125899&ssig=VhGnuT0gea\", \"scheme\": \"sinaweibo://detail?mblogid=5228623649836723\", \"vType\": 0}}```  <br><br>2. **Faker赛后回应强化梗传播**  <br>   - Faker在采访中表示：“我个人今天状态其实不好，是队伍应对得好才赢”，此言论与“打哈欠”画面结合，进一步被解读为“TES连Faker的认真状态都逼不出来”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 7, \"data\": {\"num\": [5, 25], \"version\": 2, \"quote_list\": [{\"name\": \"游戏小菌菌\", \"scheme\": \"sinaweibo://detail?mblogid=5228630726413189\", \"index\": 25, \"label\": \"大v\"}, {\"name\": \"新浪新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5228607267932613\", \"index\": 5, \"label\": \"\"}], \"name\": \"游戏小菌菌\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.512.512.50/007oe89aly8gg91p5bjkpj30e80e8q35.jpg?KID=imgbed,tva&Expires=1762125899&ssig=vFedzkLkPW\", \"scheme\": \"sinaweibo://detail?mblogid=5228630726413189\", \"vType\": 0}}```  <br>   - 对比此前AL与T1鏖战5局让T1“冒汗”，TES的速败更显落差，解说姿态直言：“T1连80%实力都没发挥，衣服没脱眼没闭就赢了”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 8, \"data\": {\"num\": [2, 20], \"version\": 2, \"quote_list\": [{\"name\": \"动漫游戏君\", \"scheme\": \"sinaweibo://detail?mblogid=5228612892493008\", \"index\": 2, \"label\": \"大v\"}, {\"name\": \"天行教父\", \"scheme\": \"sinaweibo://detail?mblogid=5227900741882641\", \"index\": 20, \"label\": \"\"}], \"name\": \"动漫游戏君\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.690.690.50/006i8XEzly8hojzsvemjvj30j60j6my1.jpg?KID=imgbed,tva&Expires=1762125899&ssig=FYGTDBYyVi\", \"scheme\": \"sinaweibo://detail?mblogid=5228612892493008\", \"vType\": 0}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5228607267932613&multi_paragraph=1&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.799.799.50/002diGk7ly8h8vg36oqidj60m70m7mxs02.jpg?KID=imgbed,tva&Expires=1762125899&ssig=NvSCb2EUiN) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">新浪新闻</span><img src=\"http://wx4.sinaimg.cn/middle/0068GZJSly1i6y1iwz2jdj31hc0oojt0.jpg\" data-width=888 data-height=1920></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5228592532299076&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=1&multi_count=1\"><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/008xCJoDly8hrq6l9fi5wj30u00u03yx.jpg?KID=imgbed,tva&Expires=1762125899&ssig=TGGXH1mp1v) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">小野的瓜田</span><img src=\"http://wx4.sinaimg.cn/middle/008xCJoDly1i6y0jzuw3jj30e90ax77z.jpg\" data-width=393 data-height=513></div><div data-type=\"v\" data-scheme=\"sinaweibo://multimedia?mix_mid=5228612892493008&mix_index=0&multi_paragraph=1&multi_count=2\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.690.690.50/006i8XEzly8hojzsvemjvj30j60j6my1.jpg?KID=imgbed,tva&Expires=1762125899&ssig=FYGTDBYyVi) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">动漫游戏君</span><img src=\"http://wx2.sinaimg.cn/middle/006i8XEzly1i6y2zu3d5yj30zk0k0wfg.jpg\" data-width=720 data-height=1280></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5228590872661401&multi_paragraph=1&multi_count=3\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/0061qKc6ly8i64wny65e8j30u00u0dir.jpg?KID=imgbed,tva&Expires=1762125899&ssig=ySeovBd2Bn) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">Curtain丶泡泡</span><img src=\"http://wx4.sinaimg.cn/middle/0061qKc6ly1i6y0gwg083j30k00qodgw.jpg\" data-width=960 data-height=720></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5228630726413189&multi_paragraph=1&multi_count=4\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.512.512.50/007oe89aly8gg91p5bjkpj30e80e8q35.jpg?KID=imgbed,tva&Expires=1762125899&ssig=vFedzkLkPW) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">游戏小菌菌</span><img src=\"http://wx4.sinaimg.cn/middle/007oe89aly1i6y51wm4usj30k80k0aaw.jpg\" data-width=720 data-height=728></div></media-block><br>### 💎 **舆论反响：梗文化下的赛区反思**  <br>1. **创意二创与全网玩梗**  <br>   - 网友制作对比图：**“打哭Faker、打手抖Faker、打笑Faker → 打困Faker”**，B站6万人围观《突然的陀螺》视频，暗喻TES“被当陀螺抽打”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 11, \"data\": {\"num\": [1, 41], \"version\": 2, \"quote_list\": [{\"name\": \"小野的瓜田\", \"scheme\": \"sinaweibo://detail?mblogid=5228592532299076\", \"index\": 1, \"label\": \"\"}, {\"name\": \"解说Goodgame\", \"scheme\": \"sinaweibo://detail?mblogid=5228698246317782\", \"index\": 41, \"label\": \"\"}]}}```  <br>   - 解说米勒用“完全披萨”形容TES崩溃状态，前TES教练白色月牙怒斥：“一打LCK就不会玩？开不了团？A不了人？”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 12, \"data\": {\"num\": [30, 52], \"version\": 2, \"quote_list\": [{\"name\": \"喊我豆奶酱\", \"scheme\": \"sinaweibo://detail?mblogid=5228596492239971\", \"index\": 52, \"label\": \"大v\"}, {\"name\": \"我是电竞小生\", \"scheme\": \"sinaweibo://detail?mblogid=5228659101140513\", \"index\": 30, \"label\": \"\"}], \"name\": \"喊我豆奶酱\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/9c3a206dly8h7r3jrqpw2j20u00u0mzi.jpg?KID=imgbed,tva&Expires=1762125899&ssig=zgFYThCPkD\", \"scheme\": \"sinaweibo://detail?mblogid=5228596492239971\", \"vType\": 0}}```  <br><br>2. **LPL的深层困境**  <br>   - **历史性溃败**：此役将Faker对阵LPL的S赛BO5连胜刷新至**13场**（自2013年起），TES成为第12支倒下的LPL队伍。```wbCustomBlock{\"type\": \"quoted\", \"index\": 14, \"data\": {\"num\": [51, 55], \"version\": 2, \"quote_list\": [{\"name\": \"逍遥哥哥__XiaoYao\", \"scheme\": \"sinaweibo://detail?mblogid=5228602958283504\", \"index\": 51, \"label\": \"大v\"}, {\"name\": \"鹿醒时分\", \"scheme\": \"sinaweibo://detail?mblogid=5228595548260752\", \"index\": 55, \"label\": \"\"}], \"name\": \"逍遥哥哥__XiaoYao\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/7528272fly8huw1gb5hwfj20u00u0tb6.jpg?KID=imgbed,tva&Expires=1762125899&ssig=bUIJWh78Qd\", \"scheme\": \"sinaweibo://detail?mblogid=5228602958283504\", \"vType\": 0}}```  <br>   - **赛区结构性短板**：TES被指“战术割裂”（如中野冲阵阵容搭配下路慢打组合），且“心理怯战”明显，对比AL的韧性更显差距。网友自嘲：“LCK内战决赛，LPL又成观众”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 15, \"data\": {\"num\": [9, 19], \"version\": 2, \"quote_list\": [{\"name\": \"买家张俊\", \"scheme\": \"sinaweibo://detail?mblogid=5091507816368930\", \"index\": 19, \"label\": \"大v\"}, {\"name\": \"游叔\", \"scheme\": \"sinaweibo://detail?mblogid=5228567915137939\", \"index\": 9, \"label\": \"\"}], \"name\": \"买家张俊\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.1002.1002.50/9eaac76dly8gdik4zl7dsj20ru0rutch.jpg?KID=imgbed,tva&Expires=1762125899&ssig=g%2FsjKJlnfu\", \"scheme\": \"sinaweibo://detail?mblogid=5091507816368930\", \"vType\": 0}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5228659101140513&multi_paragraph=2&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.600.600.50/006BPLKbly8gx4n5qvexbj30go0gogp4.jpg?KID=imgbed,tva&Expires=1762125899&ssig=JrO9D7Ss7Y) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">我是电竞小生</span><img src=\"http://wx3.sinaimg.cn/middle/006BPLKbly1i6y8axqu51j31hc0u0wft.jpg\" data-width=1080 data-height=1920></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5228567915137939&multi_paragraph=2&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/8972f4d7ly8i6hqww3pj8j20u00u0dif.jpg?KID=imgbed,tva&Expires=1762125899&ssig=MiZWHoqKLL) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">游叔</span><img src=\"http://wx2.sinaimg.cn/middle/8972f4d7ly1i6xxu5qqqgj21hc0u0q49.jpg\" data-width=1080 data-height=1920></div></media-block><br>### ⚙️ **专业视角：为何TES让Faker“犯困”？**  <br>1. **战术层面**  <br>   - **T1的绝对掌控**：通过“速龙战术”压制野区，Oner两获MVP控图，Keria妮蔻关键开团，TES野辅联动断层导致“温水煮青蛙”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 18, \"data\": {\"num\": [14, 17, 58], \"version\": 2, \"quote_list\": [{\"name\": \"凯尔达文\", \"scheme\": \"sinaweibo://detail?mblogid=5228565358445285\", \"index\": 14, \"label\": \"大v\"}, {\"name\": \"电竞食神\", \"scheme\": \"sinaweibo://detail?mblogid=5228589953059658\", \"index\": 17, \"label\": \"\"}, {\"name\": \"大脸恰瓜\", \"scheme\": \"sinaweibo://detail?mblogid=5228563592907063\", \"index\": 58, \"label\": \"\"}], \"name\": \"凯尔达文\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.512.512.50/87329e8bly8hzgn8rg3cdj20e80e8mxx.jpg?KID=imgbed,tva&Expires=1762125899&ssig=vbPTuUCk%2FJ\", \"scheme\": \"sinaweibo://detail?mblogid=5228565358445285\", \"vType\": 0}}```  <br>   - **TES的致命失误**：  <br>     - 阵容选择矛盾（如第一局有线权时不拿小龙，转打巢虫后默认放龙）；```wbCustomBlock{\"type\": \"quoted\", \"index\": 20, \"data\": {\"num\": [9, 14], \"version\": 2, \"quote_list\": [{\"name\": \"游叔\", \"scheme\": \"sinaweibo://detail?mblogid=5228567915137939\", \"index\": 9, \"label\": \"大v\"}, {\"name\": \"凯尔达文\", \"scheme\": \"sinaweibo://detail?mblogid=5228565358445285\", \"index\": 14, \"label\": \"\"}], \"name\": \"游叔\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/8972f4d7ly8i6hqww3pj8j20u00u0dif.jpg?KID=imgbed,tva&Expires=1762125899&ssig=MiZWHoqKLL\", \"scheme\": \"sinaweibo://detail?mblogid=5228567915137939\", \"vType\": 0}}```  <br>     - JackeyLove偶有击杀Faker的高光，但无法转化为胜势。```wbCustomBlock{\"type\": \"quoted\", \"index\": 21, \"data\": {\"num\": [10, 11], \"version\": 2, \"quote_list\": [{\"name\": \"新浪新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5228575944870889\", \"index\": 10, \"label\": \"\"}, {\"name\": \"几雾泛椿岛ovo\", \"scheme\": \"sinaweibo://detail?mblogid=5228556978229412\", \"index\": 11, \"label\": \"\"}]}}```  <br><br>2. **心理与状态**  <br>   - Faker坦言“状态不佳仍能赢”，侧面反映TES未能施加有效压力；```wbCustomBlock{\"type\": \"quoted\", \"index\": 23, \"data\": {\"num\": [5, 16], \"version\": 2, \"quote_list\": [{\"name\": \"才净净\", \"scheme\": \"sinaweibo://detail?mblogid=5228659742869904\", \"index\": 16, \"label\": \"大v\"}, {\"name\": \"新浪新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5228607267932613\", \"index\": 5, \"label\": \"\"}], \"name\": \"才净净\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.620.620.50/008rxsomly8gyfi2mmzjxj30h80h83yo.jpg?KID=imgbed,tva&Expires=1762125899&ssig=O7J32Sfx10\", \"scheme\": \"sinaweibo://detail?mblogid=5228659742869904\", \"vType\": 0}}```  <br>   - TES被指“未战先怯”，而T1在AL的激战后“自信心打出来了”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 24, \"data\": {\"num\": [17, 24], \"version\": 2, \"quote_list\": [{\"name\": \"电竞食神\", \"scheme\": \"sinaweibo://detail?mblogid=5228589953059658\", \"index\": 17, \"label\": \"\"}, {\"name\": \"凯尔达文\", \"scheme\": \"sinaweibo://detail?mblogid=5227902833524749\", \"index\": 24, \"label\": \"\"}], \"name\": \"电竞食神\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.580.580.50/007Zmmt8ly8gdijugsmcfj30g40g4my1.jpg?KID=imgbed,tva&Expires=1762125899&ssig=XiwhYB9Tu4\", \"scheme\": \"sinaweibo://detail?mblogid=5228589953059658\", \"vType\": 0}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5228589953059658&multi_paragraph=3&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.580.580.50/007Zmmt8ly8gdijugsmcfj30g40g4my1.jpg?KID=imgbed,tva&Expires=1762125899&ssig=XiwhYB9Tu4) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">电竞食神</span><img src=\"http://wx2.sinaimg.cn/middle/007Zmmt8ly1i6y0d2c9hzj31hc0u0afh.jpg\" data-width=1080 data-height=1920></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5228575944870889&multi_paragraph=3&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.799.799.50/002diGk7ly8h8vg36oqidj60m70m7mxs02.jpg?KID=imgbed,tva&Expires=1762125899&ssig=NvSCb2EUiN) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">新浪新闻</span><img src=\"http://wx1.sinaimg.cn/middle/006cYxT1ly1i6xy5x2yjaj31hc0u0n1l.jpg\" data-width=1080 data-height=1920></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5227902833524749&multi_paragraph=3&multi_count=2\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.512.512.50/87329e8bly8hzgn8rg3cdj20e80e8mxx.jpg?KID=imgbed,tva&Expires=1762125899&ssig=vbPTuUCk%2FJ) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">凯尔达文</span><img src=\"http://wx2.sinaimg.cn/middle/87329e8bly1i6vtcsxg61j21hc0u0wim.jpg\" data-width=1080 data-height=1920></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5228659742869904&multi_paragraph=3&multi_count=3\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.620.620.50/008rxsomly8gyfi2mmzjxj30h80h83yo.jpg?KID=imgbed,tva&Expires=1762125899&ssig=O7J32Sfx10) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">才净净</span><img src=\"http://wx1.sinaimg.cn/middle/008rxsomly1i6y8ctp6drj31hc0u00uf.jpg\" data-width=1080 data-height=1920></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5228563592907063&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=3&multi_count=4\"><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.750.750.50/007rJKiBly8gwbbpdmgnfj30ku0kuwfp.jpg?KID=imgbed,tva&Expires=1762125899&ssig=cPvBLwxoxl) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">大脸恰瓜</span><img src=\"http://wx2.sinaimg.cn/middle/007rJKiBgy1i6xxc3y7ofj30no0hc0vr.jpg\" data-width=624 data-height=852></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5228556978229412&multi_paragraph=3&multi_count=5\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/007CeHkEly8i67gabx5r4j30u00u0ac0.jpg?KID=imgbed,tva&Expires=1762125899&ssig=bCy55tiJi6) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">几雾泛椿岛ovo</span><img src=\"http://wx3.sinaimg.cn/middle/007CeHkEly1i6xwkvosmgj31hc0u0jvr.jpg\" data-width=1080 data-height=1920></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5228565358445285&multi_paragraph=3&multi_count=6\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.512.512.50/87329e8bly8hzgn8rg3cdj20e80e8mxx.jpg?KID=imgbed,tva&Expires=1762125899&ssig=vbPTuUCk%2FJ) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">凯尔达文</span><img src=\"http://wx3.sinaimg.cn/middle/87329e8bgy1i6xxjrbrjdj21hc0u0duj.jpg\" data-width=1080 data-height=1920></div></media-block><br>### 🏆 **历史坐标：Faker传奇的再印证**  <br>1. **纪录里程碑**  <br>   - 此胜助Faker **第8次晋级S赛决赛**（2013–2017, 2022–2025），若最终夺冠将达成史无前例的 **“三连冠+六冠王”**。```wbCustomBlock{\"type\": \"quoted\", \"index\": 27, \"data\": {\"num\": [50, 53], \"version\": 2, \"quote_list\": [{\"name\": \"玩加电竞\", \"scheme\": \"sinaweibo://detail?mblogid=5228587143923892\", \"index\": 50, \"label\": \"\"}, {\"name\": \"请回答冷藏库\", \"scheme\": \"sinaweibo://detail?mblogid=5228588479810808\", \"index\": 53, \"label\": \"\"}], \"name\": \"玩加电竞\", \"img\": \"https://tvax4.sinaimg.cn/crop.10.15.157.157.50/0068GZJSly8h8vlb2gse2j3050050jr6.jpg?KID=imgbed,tva&Expires=1762125899&ssig=NXRbjvoB1F\", \"scheme\": \"sinaweibo://detail?mblogid=5228587143923892\", \"vType\": 0}}```  <br>   - T1延续“LPL克星”称号，LCK提前锁定S15冠军。```wbCustomBlock{\"type\": \"quoted\", \"index\": 28, \"data\": {\"num\": [7, 49], \"version\": 2, \"quote_list\": [{\"name\": \"DOTA2更新资讯_HOHO\", \"scheme\": \"sinaweibo://detail?mblogid=5228587281024887\", \"index\": 49, \"label\": \"\"}, {\"name\": \"竞圈风向标\", \"scheme\": \"sinaweibo://detail?mblogid=5228588912608712\", \"index\": 7, \"label\": \"\"}], \"name\": \"DOTA2更新资讯_HOHO\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.600.600.50/006kvRjAly8hwjrtxn5v4j30go0gogo3.jpg?KID=imgbed,tva&Expires=1762125899&ssig=rMZlhoUb7n\", \"scheme\": \"sinaweibo://detail?mblogid=5228587281024887\", \"vType\": 0}}```  <br><br>2. **LPL的未来挑战**  <br>   - 业内呼吁重建青训与战术体系，而Faker的“哈欠”成为LPL赛区实力鸿沟的符号化注脚。正如网友感叹：“12年了，Faker还是那座翻不过的山”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 30, \"data\": {\"num\": [54, 56, 61], \"version\": 2, \"quote_list\": [{\"name\": \"楚沐风\", \"scheme\": \"sinaweibo://detail?mblogid=5228619383182236\", \"index\": 56, \"label\": \"\"}, {\"name\": \"湖帮\", \"scheme\": \"sinaweibo://detail?mblogid=5228576133878392\", \"index\": 54, \"label\": \"\"}, {\"name\": \"毒德科技\", \"scheme\": \"sinaweibo://detail?mblogid=5228597351548972\", \"index\": 61, \"label\": \"\"}], \"name\": \"楚沐风\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.512.512.50/6e54e46fly8gotu0r58mnj20e80e8gly.jpg?KID=imgbed,tva&Expires=1762125899&ssig=%2FToIhf2iWg\", \"scheme\": \"sinaweibo://detail?mblogid=5228619383182236\", \"vType\": 0}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5228597351548972&multi_paragraph=4&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/008eZ2mily8hg369mevduj30u00u0gq2.jpg?KID=imgbed,tva&Expires=1762125899&ssig=GNSaDGiWSy) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">毒德科技</span><img src=\"http://wx2.sinaimg.cn/middle/008eZ2migy1i6y17u4oo6j30k00zkgmm.jpg\" data-width=1280 data-height=720></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5228588912608712&multi_paragraph=4&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.600.600.50/006W5FBDly8hvshq6akxvj30go0gojtd.jpg?KID=imgbed,tva&Expires=1762125899&ssig=AFUzolSw8I) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">竞圈风向标</span><img src=\"http://wx1.sinaimg.cn/middle/006W5FBDly1i6y08o5vxfj31hc0u0jvf.jpg\" data-width=1080 data-height=1920></div></media-block><br>### 💎 总结  <br>“TES把Faker打瞌睡了”看似幽默调侃，实则浓缩了T1对LPL的统治级压制、TES的战术溃败及赛区生态的结构性问题。Faker的哈欠是比赛悬殊性的戏剧化表达，而背后承载着观众对LPL未来的沉重思考。11月9日T1将与KT争夺冠军，Faker若胜出将彻底奠定“电竞GOAT”地位，而LPL的破局之路仍漫长。```wbCustomBlock{\"type\": \"quoted\", \"index\": 32, \"data\": {\"num\": [25, 55, 59], \"version\": 2, \"quote_list\": [{\"name\": \"牛丸科技\", \"scheme\": \"sinaweibo://detail?mblogid=5228613817601049\", \"index\": 59, \"label\": \"\"}, {\"name\": \"游戏小菌菌\", \"scheme\": \"sinaweibo://detail?mblogid=5228630726413189\", \"index\": 25, \"label\": \"\"}, {\"name\": \"鹿醒时分\", \"scheme\": \"sinaweibo://detail?mblogid=5228595548260752\", \"index\": 55, \"label\": \"\"}], \"name\": \"牛丸科技\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/77546895ly8hhyk5apj4zj20u00u00uh.jpg?KID=imgbed,tva&Expires=1762125899&ssig=sAIqrkkoOt\", \"scheme\": \"sinaweibo://detail?mblogid=5228613817601049\", \"vType\": 0}}```<br>",
+      "status_stage": 4,
+      "basemodel": "实验组1",
+      "current_time": 1762115648,
+      "share_info": {
+        "unify_md5": "4bb160030ea34506b25eea6ca3f01ce8",
+        "url": "http://t.cn/AXAKaAMu",
+        "display_name": "#TES把Faker打瞌睡了#",
+        "status": 3,
+        "page_id": "232964feb78925ee20f27f654b3ca3f00b3b02",
+        "comment_content": "",
+        "tips": "#TES把Faker打瞌睡了#的相关内容，来智搜看看"
+      },
+      "comment_info": {},
+      "ab_suffix": "default",
+      "share_text": "#TES把Faker打瞌睡了#的相关内容，来智搜看看",
+      "uid": "",
+      "abtest_info": {
+        "chat_entrance": 1
+      }
+    }
+  },
+  "links": [
+    "sinaweibo://detail?mblogid=5228592532299076",
+    "sinaweibo://detail?mblogid=5228612892493008",
+    "sinaweibo://detail?mblogid=5228685164282764",
+    "sinaweibo://detail?mblogid=5228270095962822",
+    "sinaweibo://detail?mblogid=5228607267932613",
+    "sinaweibo://detail?mblogid=5228590872661401",
+    "sinaweibo://detail?mblogid=5228588912608712",
+    "sinaweibo://detail?mblogid=5228590976992044",
+    "sinaweibo://detail?mblogid=5228567915137939",
+    "sinaweibo://detail?mblogid=5228575944870889",
+    "sinaweibo://detail?mblogid=5228556978229412",
+    "sinaweibo://detail?mblogid=5228593502487782",
+    "sinaweibo://detail?mblogid=5228623923512785",
+    "sinaweibo://detail?mblogid=5228565358445285",
+    "sinaweibo://detail?mblogid=5227902934190173",
+    "sinaweibo://detail?mblogid=5228659742869904",
+    "sinaweibo://detail?mblogid=5228589953059658",
+    "sinaweibo://detail?mblogid=5228570345210462",
+    "sinaweibo://detail?mblogid=5091507816368930",
+    "sinaweibo://detail?mblogid=5227900741882641",
+    "sinaweibo://detail?mblogid=5228543514511894",
+    "sinaweibo://detail?mblogid=5228614410834646",
+    "sinaweibo://detail?mblogid=5228170551756074",
+    "sinaweibo://detail?mblogid=5227902833524749",
+    "sinaweibo://detail?mblogid=5228630726413189",
+    "https://k.sina.cn/article_2028810631_78ed318704001539a.html",
+    "broadsocial_res://",
+    "broadsocial_res://",
+    "historyweibo://5228612892493008",
+    "sinaweibo://detail?mblogid=5228659101140513",
+    "sinaweibo://detail?mblogid=5228660338722963",
+    "sinaweibo://detail?mblogid=5228674804091704",
+    "sinaweibo://detail?mblogid=5228675270186700",
+    "sinaweibo://detail?mblogid=5228670652256217",
+    "sinaweibo://detail?mblogid=5228655106068416",
+    "sinaweibo://detail?mblogid=5228674410349993",
+    "sinaweibo://detail?mblogid=5228667833419980",
+    "sinaweibo://detail?mblogid=5228619278586903",
+    "sinaweibo://detail?mblogid=5228623649836723",
+    "sinaweibo://detail?mblogid=5228617311196452",
+    "sinaweibo://detail?mblogid=5228698246317782",
+    "sinaweibo://detail?mblogid=5228673419448189",
+    "sinaweibo://detail?mblogid=5228659587944460",
+    "sinaweibo://detail?mblogid=5228664906059972",
+    "sinaweibo://detail?mblogid=5228597054799999",
+    "sinaweibo://detail?mblogid=5228553301922853",
+    "sinaweibo://detail?mblogid=5228144646952771",
+    "sinaweibo://detail?mblogid=5228595568188407",
+    "sinaweibo://detail?mblogid=5228587281024887",
+    "sinaweibo://detail?mblogid=5228587143923892",
+    "sinaweibo://detail?mblogid=5228602958283504",
+    "sinaweibo://detail?mblogid=5228596492239971",
+    "sinaweibo://detail?mblogid=5228588479810808",
+    "sinaweibo://detail?mblogid=5228576133878392",
+    "sinaweibo://detail?mblogid=5228595548260752",
+    "sinaweibo://detail?mblogid=5228619383182236",
+    "sinaweibo://detail?mblogid=5228589785284694",
+    "sinaweibo://detail?mblogid=5228563592907063",
+    "sinaweibo://detail?mblogid=5228613817601049",
+    "sinaweibo://detail?mblogid=5222428294775292",
+    "sinaweibo://detail?mblogid=5228597351548972"
+  ],
+  "media": [
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/0068GZJSly1i6y1iwz2jdj31hc0oojt0.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/0068GZJSly1i6y1iwz2jdj31hc0oojt0.jpg",
+      "alt": "新浪新闻",
+      "width": 888,
+      "height": 1920,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/0068GZJSly1i6y1iwz2jdj31hc0oojt0.jpg"
+      ],
+      "user": "新浪新闻"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/008xCJoDly1i6y0jzuw3jj30e90ax77z.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/008xCJoDly1i6y0jzuw3jj30e90ax77z.jpg",
+      "alt": "小野的瓜田",
+      "width": 393,
+      "height": 513,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/008xCJoDly1i6y0jzuw3jj30e90ax77z.jpg"
+      ],
+      "user": "小野的瓜田"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/006i8XEzly1i6y2zu3d5yj30zk0k0wfg.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/006i8XEzly1i6y2zu3d5yj30zk0k0wfg.jpg",
+      "alt": "动漫游戏君",
+      "width": 720,
+      "height": 1280,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/006i8XEzly1i6y2zu3d5yj30zk0k0wfg.jpg"
+      ],
+      "user": "动漫游戏君"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/0061qKc6ly1i6y0gwg083j30k00qodgw.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/0061qKc6ly1i6y0gwg083j30k00qodgw.jpg",
+      "alt": "Curtain丶泡泡",
+      "width": 960,
+      "height": 720,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx4.sinaimg.cn/large/0061qKc6ly1i6y0gwg083j30k00qodgw.jpg"
+      ],
+      "user": "Curtain丶泡泡"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/007oe89aly1i6y51wm4usj30k80k0aaw.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/007oe89aly1i6y51wm4usj30k80k0aaw.jpg",
+      "alt": "游戏小菌菌",
+      "width": 720,
+      "height": 728,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/007oe89aly1i6y51wm4usj30k80k0aaw.jpg"
+      ],
+      "user": "游戏小菌菌"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/006BPLKbly1i6y8axqu51j31hc0u0wft.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/006BPLKbly1i6y8axqu51j31hc0u0wft.jpg",
+      "alt": "我是电竞小生",
+      "width": 1080,
+      "height": 1920,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/006BPLKbly1i6y8axqu51j31hc0u0wft.jpg"
+      ],
+      "user": "我是电竞小生"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/8972f4d7ly1i6xxu5qqqgj21hc0u0q49.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/8972f4d7ly1i6xxu5qqqgj21hc0u0q49.jpg",
+      "alt": "游叔",
+      "width": 1080,
+      "height": 1920,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/8972f4d7ly1i6xxu5qqqgj21hc0u0q49.jpg"
+      ],
+      "user": "游叔"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/007Zmmt8ly1i6y0d2c9hzj31hc0u0afh.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/007Zmmt8ly1i6y0d2c9hzj31hc0u0afh.jpg",
+      "alt": "电竞食神",
+      "width": 1080,
+      "height": 1920,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/007Zmmt8ly1i6y0d2c9hzj31hc0u0afh.jpg"
+      ],
+      "user": "电竞食神"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/006cYxT1ly1i6xy5x2yjaj31hc0u0n1l.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/006cYxT1ly1i6xy5x2yjaj31hc0u0n1l.jpg",
+      "alt": "新浪新闻",
+      "width": 1080,
+      "height": 1920,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/006cYxT1ly1i6xy5x2yjaj31hc0u0n1l.jpg"
+      ],
+      "user": "新浪新闻"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/87329e8bly1i6vtcsxg61j21hc0u0wim.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/87329e8bly1i6vtcsxg61j21hc0u0wim.jpg",
+      "alt": "凯尔达文",
+      "width": 1080,
+      "height": 1920,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/87329e8bly1i6vtcsxg61j21hc0u0wim.jpg"
+      ],
+      "user": "凯尔达文"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/008rxsomly1i6y8ctp6drj31hc0u00uf.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/008rxsomly1i6y8ctp6drj31hc0u00uf.jpg",
+      "alt": "才净净",
+      "width": 1080,
+      "height": 1920,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx4.sinaimg.cn/large/008rxsomly1i6y8ctp6drj31hc0u00uf.jpg"
+      ],
+      "user": "才净净"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/007rJKiBgy1i6xxc3y7ofj30no0hc0vr.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/007rJKiBgy1i6xxc3y7ofj30no0hc0vr.jpg",
+      "alt": "大脸恰瓜",
+      "width": 624,
+      "height": 852,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/007rJKiBgy1i6xxc3y7ofj30no0hc0vr.jpg"
+      ],
+      "user": "大脸恰瓜"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/007CeHkEly1i6xwkvosmgj31hc0u0jvr.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/007CeHkEly1i6xwkvosmgj31hc0u0jvr.jpg",
+      "alt": "几雾泛椿岛ovo",
+      "width": 1080,
+      "height": 1920,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/007CeHkEly1i6xwkvosmgj31hc0u0jvr.jpg"
+      ],
+      "user": "几雾泛椿岛ovo"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/87329e8bgy1i6xxjrbrjdj21hc0u0duj.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/87329e8bgy1i6xxjrbrjdj21hc0u0duj.jpg",
+      "alt": "凯尔达文",
+      "width": 1080,
+      "height": 1920,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/87329e8bgy1i6xxjrbrjdj21hc0u0duj.jpg"
+      ],
+      "user": "凯尔达文"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/008eZ2migy1i6y17u4oo6j30k00zkgmm.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/008eZ2migy1i6y17u4oo6j30k00zkgmm.jpg",
+      "alt": "毒德科技",
+      "width": 1280,
+      "height": 720,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/008eZ2migy1i6y17u4oo6j30k00zkgmm.jpg"
+      ],
+      "user": "毒德科技"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/006W5FBDly1i6y08o5vxfj31hc0u0jvf.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/006W5FBDly1i6y08o5vxfj31hc0u0jvf.jpg",
+      "alt": "竞圈风向标",
+      "width": 1080,
+      "height": 1920,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/006W5FBDly1i6y08o5vxfj31hc0u0jvf.jpg"
+      ],
+      "user": "竞圈风向标"
+    }
+  ],
+  "html_path": "data/aicard/hourly/2025-11-03/04/tes-faker.html"
+}

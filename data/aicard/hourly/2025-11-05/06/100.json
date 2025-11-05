@@ -1,0 +1,293 @@
+{
+  "meta": {
+    "query": "#原来这就是100大卡的概念#",
+    "status_code": 200,
+    "fetched_at": "2025-11-05T06:36:35+08:00",
+    "response": {
+      "scheme": "sinaweibo://cardlist?containerid=100103type%3D225%26q%3D%23%E5%8E%9F%E6%9D%A5%E8%BF%99%E5%B0%B1%E6%98%AF100%E5%A4%A7%E5%8D%A1%E7%9A%84%E6%A6%82%E5%BF%B5%23%26t%3D&extparam=ai_model%3Ddeepseek%26ori_ai_title%3D%E5%8F%82%E8%80%83%E5%8D%9A%E6%96%87%26material_version%3D1762295157",
+      "mid_list": null,
+      "reference_num": 25,
+      "query_category": "",
+      "query": "#原来这就是100大卡的概念#",
+      "link_list": [
+        "sinaweibo://detail?mblogid=5228914567021716",
+        "sinaweibo://detail?mblogid=4758207795038395",
+        "broadsocial_res://",
+        "broadsocial_res://",
+        "historyweibo://5228914567021716",
+        "historyweibo://5228914567021716",
+        "sinaweibo://detail?mblogid=5229261327696165",
+        "sinaweibo://detail?mblogid=5229272652319577",
+        "sinaweibo://detail?mblogid=5229280544165611",
+        "sinaweibo://detail?mblogid=5229244624143057",
+        "sinaweibo://detail?mblogid=5229250804450934",
+        "sinaweibo://detail?mblogid=5229254952354458",
+        "sinaweibo://detail?mblogid=5229315296073585",
+        "sinaweibo://detail?mblogid=5229306654756124",
+        "sinaweibo://detail?mblogid=5229366590046377",
+        "sinaweibo://detail?mblogid=5229268862767831",
+        "sinaweibo://detail?mblogid=5229248849119405",
+        "sinaweibo://detail?mblogid=5229312154009957",
+        "sinaweibo://detail?mblogid=5229252191717152",
+        "sinaweibo://detail?mblogid=5229498673922087",
+        "sinaweibo://detail?mblogid=5229281533759426",
+        "sinaweibo://detail?mblogid=5229265392238737",
+        "sinaweibo://detail?mblogid=5229254000511888",
+        "sinaweibo://detail?mblogid=5229252367878709",
+        "sinaweibo://detail?mblogid=5229237440349037",
+        "sinaweibo://detail?mblogid=5229236019004187",
+        "sinaweibo://detail?mblogid=5154640980870286",
+        "sinaweibo://detail?mblogid=4325078172546886",
+        "sinaweibo://detail?mblogid=5227084600575471"
+      ],
+      "msg_json": "{}",
+      "top_quote_list": {},
+      "profile_image_url": "",
+      "share_card_multimodal": {
+        "type": "p",
+        "scheme": "sinaweibo://multimedia?mix_mid=5229268862767831&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=1&multi_count=0",
+        "h": 1343,
+        "video_url": "",
+        "vtype": 0,
+        "doc_score": 3835,
+        "img_pid": "6a413b5cgy1i706a3iv6fj20u011b789",
+        "w": 1080,
+        "click_rate": 0.16363636363636,
+        "click_num": 0,
+        "cur_mid": "5229268862767831",
+        "hit_score_new": 99.023438,
+        "user_avatar": "https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/6a413b5cly8i5btpt1swjj20u00u077a.jpg?KID=imgbed,tva&Expires=1762305957&ssig=2C%2FZvz36ab",
+        "hit_score_final": 91.414062,
+        "img": "http://wx1.sinaimg.cn/middle/6a413b5cgy1i706a3iv6fj20u011b789.jpg",
+        "user_name": "不就是那谁"
+      },
+      "basemodel": "实验组1",
+      "zs_risk_control": {
+        "think_text_close": 0,
+        "land_button_close": 0
+      },
+      "current_time": 1762295796,
+      "user_info": {},
+      "unify_md5": "2a455b4ea45da3bbe3801cffca896122",
+      "chat_status_stage": 1,
+      "news_analyze": {},
+      "reliable_tips": "{\"gold_orange_v_mids\": [\"5229254952354458\", \"5229268862767831\", \"5229315296073585\", \"5229244624143057\", \"5229272652319577\", \"5154640980870286\", \"5227084600575471\", \"5228914567021716\", \"5229498673922087\", \"5229306654756124\", \"5229250804450934\", \"5229366590046377\", \"5229248849119405\", \"5229312154009957\"], \"gold_orange_v_ratio\": \"56%\", \"media_mids\": [], \"media_ratio\": \"0%\", \"verified_mids\": [\"4758207795038395\", \"5229261327696165\", \"5229280544165611\", \"5229237440349037\", \"4325078172546886\"], \"verified_ratio\": \"20%\", \"normal_mids\": [\"5229252191717152\", \"5229281533759426\", \"5229265392238737\", \"5229254000511888\", \"5229252367878709\", \"5229236019004187\"], \"normal_ratio\": \"24%\", \"ref_mid_rank\": {\"4758207795038395\": {\"rank\": 2}, \"5229254952354458\": {\"rank\": 12}, \"5229268862767831\": {\"rank\": 16}, \"5229315296073585\": {\"rank\": 13}, \"5229244624143057\": {\"rank\": 10}, \"5229272652319577\": {\"rank\": 8}, \"5154640980870286\": {\"rank\": 27}, \"5227084600575471\": {\"rank\": 29}, \"5229252191717152\": {\"rank\": 19}, \"5228914567021716\": {\"rank\": 1}, \"5229498673922087\": {\"rank\": 20}, \"5229306654756124\": {\"rank\": 14}, \"5229261327696165\": {\"rank\": 7}, \"5229280544165611\": {\"rank\": 9}, \"5229250804450934\": {\"rank\": 11}, \"5229366590046377\": {\"rank\": 15}, \"5229248849119405\": {\"rank\": 17}, \"5229312154009957\": {\"rank\": 18}, \"5229281533759426\": {\"rank\": 21}, \"5229265392238737\": {\"rank\": 22}, \"5229254000511888\": {\"rank\": 23}, \"5229252367878709\": {\"rank\": 24}, \"5229237440349037\": {\"rank\": 25}, \"5229236019004187\": {\"rank\": 26}, \"4325078172546886\": {\"rank\": 28}}}",
+      "short_url": "http://t.cn/AXAl7FZE",
+      "uid": "",
+      "q_attr": {
+        "from_request_id": "",
+        "from_uid": "",
+        "reply_cid": "",
+        "comment_from_type": "",
+        "mid": ""
+      },
+      "comment_info": {},
+      "show_ctrl": {
+        "quote": {}
+      },
+      "share_text": "#原来这就是100大卡的概念#的相关内容，来智搜看看",
+      "model": "deepseek",
+      "cot": 1,
+      "ab_suffix": "default",
+      "wenda": {
+        "forward_gen": 0
+      },
+      "status_stage": 4,
+      "msg": "<think><br><br>首先，用户查询是“原来这就是100大卡的概念”，这是一个热点话题。搜索结果显示，这是一个关于热量概念的热门讨论，涉及食物热量与运动消耗的对比。<br><br>从搜索结果看，内容围绕着100大卡的食物分量和运动消耗进行可视化对比，目的是帮助人们直观理解热量管理。关键点包括：<br>- 不同食物100大卡对应的分量差异巨大：高热量零食（如薯片几片）、主食（如米饭一拳）、低卡蔬果（如西瓜一大块）。<br>- 消耗100大卡的运动量：如慢跑40分钟、爬楼梯20层，与食物热量对比。<br>- 常见误区：如网传的“半根香蕉消耗慢跑40分钟”被纠正为不准确。<br>- 健康建议：强调营养密度、均衡饮食，而非极端节食。<br><br>搜索结果中有多个微博和资料，最新日期是2025年11月05日（今天），包括结果3、4、5等，提供了最新信息。内容涉及多个账号的分享，其中结果5是一个详细的资料整理，非常全面。<br><br>用户需求分析：用户可能是在寻找解释“100大卡概念”的科普内容，融汇热点话题。回答需要突出视觉化对比、科学纠正错误信息、并给出实用建议。<br><br>结构化回答：<br>1. **开头引人入胜**：用情感共鸣或关键词开头，如“100大卡可能决定你一天的减肥成败”或简单介绍概念。<br>2. **核心内容组织**：<br>   - **食物分量对比**：列举高热量、主食、低卡食物例子。<br>   - **运动消耗对比**：展示常见运动消耗100大卡所需时间。<br>   - **误区澄清**：纠正网传错误，如结果3和4的纠正。<br>   - **健康管理建议**：基于结果10、16等，强调营养密度和平衡。<br>3. **结尾积极**：总结理念，鼓励健康生活。<br><br>引用要求：每部分内容必须引用相关搜索结果编号，如食物例子引用，运动对比引用。避免集中引用，分散在内容中。<br><br>风险控制：避免传播错误信息，如结果3和4纠正了搜索中的错误，应强调正确数据。例如，慢跑40分钟消耗远不止50大卡。<br><br>生成要求：<br>- 语言保持一致：中文。<br>- 内容详细：基于结果，整合知识。<br>- 格式美观：使用分段、加粗、列表等，但Markdown限于加粗、引用等。<br><br>大纲回答：<br>- **引言**：简述100大卡概念和热点。<br>- **食物部分**：用列表或描述展示不同食物100大卡分量。<br>- **运动部分**：对比消耗100大卡的运动。<br>- **误区与真相**：澄清错误。<br>- **健康建议**：实用贴士。<br>- **总结**：积极鼓励。<br><br>确保引用精准：例如，结果5是综合资料，可多次引用；结果1有用户讨论，引用相关部分。<br><br>最终输出：以吸引人的开头开始，逐步展开。<br><br></think><br>以下是关于“原来这就是100大卡的概念”的详细解析，结合热点话题和科学知识，帮助您直观理解热量管理的核心意义。内容基于最新讨论（2025年11月更新）和权威信息整合，涵盖食物分量、运动消耗对比、常见误区及健康建议，力求通俗易懂且实用。<br>### 🔍 **一、100大卡的食物分量：视觉冲击一览**<br>100大卡在不同食物中的体积差异巨大，高热量食物“小而猛”，天然食材“大而饱”：<br>- **高热量零食（少量即超标）**：  <br>  - 薯片：仅7-8片（约25克）```wbCustomBlock{\"type\": \"quoted\", \"index\": 4, \"data\": {\"num\": [2], \"version\": 2, \"quote_list\": [{\"name\": \"体重管理师惠子\", \"scheme\": \"sinaweibo://detail?mblogid=4758207795038395\", \"index\": 2, \"label\": \"\"}]}}```  <br>  - 烤肠：半根（约40克，实际100-150大卡，网传“200大卡”夸大）  <br>  - 蛋黄派：1个（约22克）```wbCustomBlock{\"type\": \"quoted\", \"index\": 6, \"data\": {\"num\": [2], \"version\": 2, \"quote_list\": [{\"name\": \"体重管理师惠子\", \"scheme\": \"sinaweibo://detail?mblogid=4758207795038395\", \"index\": 2, \"label\": \"\"}]}}```  <br>  - 沙拉酱：25克（两汤匙）```wbCustomBlock{\"type\": \"quoted\", \"index\": 7, \"data\": {\"num\": [2], \"version\": 2, \"quote_list\": [{\"name\": \"体重管理师惠子\", \"scheme\": \"sinaweibo://detail?mblogid=4758207795038395\", \"index\": 2, \"label\": \"\"}]}}```  <br>- **日常主食（饱腹感较强）**：  <br>  - 米饭/杂粮饭：一拳大小（约80克）```wbCustomBlock{\"type\": \"quoted\", \"index\": 9, \"data\": {\"num\": [12, 16], \"version\": 2, \"quote_list\": [{\"name\": \"碧潭捞月\", \"scheme\": \"sinaweibo://detail?mblogid=5229254952354458\", \"index\": 12, \"label\": \"\"}, {\"name\": \"不就是那谁\", \"scheme\": \"sinaweibo://detail?mblogid=5229268862767831\", \"index\": 16, \"label\": \"\"}]}}```  <br>  - 红薯：中等大小1/3个（约90克）```wbCustomBlock{\"type\": \"quoted\", \"index\": 10, \"data\": {\"num\": [2], \"version\": 2, \"quote_list\": [{\"name\": \"体重管理师惠子\", \"scheme\": \"sinaweibo://detail?mblogid=4758207795038395\", \"index\": 2, \"label\": \"\"}]}}```  <br>  - 燕麦片：4勺（干重30克）```wbCustomBlock{\"type\": \"quoted\", \"index\": 11, \"data\": {\"num\": [13], \"version\": 2, \"quote_list\": [{\"name\": \"采个小福猫99\", \"scheme\": \"sinaweibo://detail?mblogid=5229315296073585\", \"index\": 13, \"label\": \"\"}]}}```  <br>- **低卡蔬果（吃到满足）**：  <br>  - 西瓜：325克（两大块）```wbCustomBlock{\"type\": \"quoted\", \"index\": 13, \"data\": {\"num\": [13, 16], \"version\": 2, \"quote_list\": [{\"name\": \"采个小福猫99\", \"scheme\": \"sinaweibo://detail?mblogid=5229315296073585\", \"index\": 13, \"label\": \"\"}, {\"name\": \"不就是那谁\", \"scheme\": \"sinaweibo://detail?mblogid=5229268862767831\", \"index\": 16, \"label\": \"\"}]}}```  <br>  - 小番茄：400克（约40颗）```wbCustomBlock{\"type\": \"quoted\", \"index\": 14, \"data\": {\"num\": [2, 13], \"version\": 2, \"quote_list\": [{\"name\": \"体重管理师惠子\", \"scheme\": \"sinaweibo://detail?mblogid=4758207795038395\", \"index\": 2, \"label\": \"\"}, {\"name\": \"采个小福猫99\", \"scheme\": \"sinaweibo://detail?mblogid=5229315296073585\", \"index\": 13, \"label\": \"\"}]}}```  <br>  - 魔芋：950克（几乎零热量负担）```wbCustomBlock{\"type\": \"quoted\", \"index\": 15, \"data\": {\"num\": [2], \"version\": 2, \"quote_list\": [{\"name\": \"体重管理师惠子\", \"scheme\": \"sinaweibo://detail?mblogid=4758207795038395\", \"index\": 2, \"label\": \"\"}]}}```  <br><br>**关键点**：食物选择决定饱腹感和营养密度。100大卡的鸡蛋（1个，含优质蛋白）比同等热量的薯片更抗饿且营养丰富。```wbCustomBlock{\"type\": \"quoted\", \"index\": 16, \"data\": {\"num\": [10, 16], \"version\": 2, \"quote_list\": [{\"name\": \"吴佳营养健康\", \"scheme\": \"sinaweibo://detail?mblogid=5229244624143057\", \"index\": 10, \"label\": \"大v\"}, {\"name\": \"不就是那谁\", \"scheme\": \"sinaweibo://detail?mblogid=5229268862767831\", \"index\": 16, \"label\": \"\"}], \"name\": \"吴佳营养健康\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/620089ddly8gxr10533yfj20u00u00tw.jpg?KID=imgbed,tva&Expires=1762305957&ssig=%2Bxb3ClR0sd\", \"scheme\": \"sinaweibo://detail?mblogid=5229244624143057\", \"vType\": 0}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5229268862767831&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=1&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/6a413b5cly8i5btpt1swjj20u00u077a.jpg?KID=imgbed,tva&Expires=1762305957&ssig=2C%2FZvz36ab) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">不就是那谁</span><img src=\"http://wx1.sinaimg.cn/middle/6a413b5cgy1i706a3iv6fj20u011b789.jpg\" data-width=1343 data-height=1080></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5229315296073585&multi_paragraph=1&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/a2263b62ly8i3h2oypr0yj20u00u0q6a.jpg?KID=imgbed,tva&Expires=1762305957&ssig=wvvCyVaM6A) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">采个小福猫99</span><img src=\"http://wx1.sinaimg.cn/middle/a2263b62ly1i70bl43rnwj20k00zkjsd.jpg\" data-width=1280 data-height=720></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=4758207795038395&multi_paragraph=1&multi_count=2\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/008q4O8ply8gvko1jww0oj60u00u0gom02.jpg?KID=imgbed,tva&Expires=1762305957&ssig=s33uSLGiO4) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">体重管理师惠子</span><img src=\"http://wx2.sinaimg.cn/middle/008q4O8ply1h198yp0d5hj30u0140tat.jpg\" data-width=1440 data-height=1080></div></media-block><br>### 🏃 **二、消耗100大卡的运动量：汗水与食物的残酷对比**<br>运动需持续努力，但摄入只需瞬间：<br>- **爬楼梯**：爬20层楼≈40大卡（实际测试中，10分钟爬20层仅消耗40大卡），爬100层楼≈200-300大卡（相当于一根半烤肠的热量）。```wbCustomBlock{\"type\": \"quoted\", \"index\": 18, \"data\": {\"num\": [8], \"version\": 2, \"quote_list\": [{\"name\": \"幸肉肉\", \"scheme\": \"sinaweibo://detail?mblogid=5229272652319577\", \"index\": 8, \"label\": \"\"}]}}```  <br>- **慢跑**：40分钟≈200-400大卡（取决于体重和速度），远超网传“半根香蕉（50大卡）”的误导。  <br>- **日常活动**：步行3公里、跳绳10分钟或游泳15分钟≈100大卡。  <br><br>**案例**：健身课消耗500大卡（约2000千焦），可能被一包饼干（2100千焦）瞬间抵消。```wbCustomBlock{\"type\": \"quoted\", \"index\": 21, \"data\": {\"num\": [27], \"version\": 2, \"quote_list\": [{\"name\": \"猴大宝\", \"scheme\": \"sinaweibo://detail?mblogid=5154640980870286\", \"index\": 27, \"label\": \"大v\"}], \"name\": \"猴大宝\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.480.480.50/5434fd39ly8hz5ekac03mj20dc0dc0sw.jpg?KID=imgbed,tva&Expires=1762305957&ssig=AZ4mj%2B6WmA\", \"scheme\": \"sinaweibo://detail?mblogid=5154640980870286\", \"vType\": 0}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5154640980870286&from=search&content_show=1&mix_index=5&hide_index=1&multi_paragraph=2&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.480.480.50/5434fd39ly8hz5ekac03mj20dc0dc0sw.jpg?KID=imgbed,tva&Expires=1762305957&ssig=AZ4mj%2B6WmA) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">猴大宝</span><img src=\"http://wx1.sinaimg.cn/middle/5434fd39ly1i0f73hfar9j235s2dc7wj.jpg\" data-width=3072 data-height=4096></div></media-block><br>### ⚠️ **三、常见误区澄清：别再被这些坑骗了！**<br>1. **热量计算陷阱**：  <br>   - 网传“慢跑40分钟消耗半根香蕉”错误：实际消耗200-400大卡，香蕉仅50大卡。  <br>   - 烤肠热量夸大：半根实际100-150大卡（非200大卡），一根烤肠≈爬100层楼的消耗。  <br>   - 手环或APP可能低估运动消耗、高估食物热量。  <br>2. **营养比热量更重要**：  <br>   - 低卡≠健康，如沙拉酱热量密集；天然食材（蔬菜、水果）高纤维、高水分，饱腹感强。```wbCustomBlock{\"type\": \"quoted\", \"index\": 28, \"data\": {\"num\": [10, 16], \"version\": 2, \"quote_list\": [{\"name\": \"吴佳营养健康\", \"scheme\": \"sinaweibo://detail?mblogid=5229244624143057\", \"index\": 10, \"label\": \"\"}, {\"name\": \"不就是那谁\", \"scheme\": \"sinaweibo://detail?mblogid=5229268862767831\", \"index\": 16, \"label\": \"\"}]}}```  <br>   - 极端节食（如只吃柚子）易致营养不良，需均衡搭配蛋白质和碳水。```wbCustomBlock{\"type\": \"quoted\", \"index\": 29, \"data\": {\"num\": [29], \"version\": 2, \"quote_list\": [{\"name\": \"财说养生\", \"scheme\": \"sinaweibo://detail?mblogid=5227084600575471\", \"index\": 29, \"label\": \"\"}]}}```<br>### 💡 **四、健康管理核心建议：平衡才是王道**<br>- **吃对顺序**：先蔬菜（增加饱腹感），再蛋白质（如鸡胸肉、鸡蛋），最后碳水（控制分量）。```wbCustomBlock{\"type\": \"quoted\", \"index\": 31, \"data\": {\"num\": [16, 19], \"version\": 2, \"quote_list\": [{\"name\": \"不就是那谁\", \"scheme\": \"sinaweibo://detail?mblogid=5229268862767831\", \"index\": 16, \"label\": \"\"}, {\"name\": \"梅筱兰1971\", \"scheme\": \"sinaweibo://detail?mblogid=5229252191717152\", \"index\": 19, \"label\": \"\"}]}}```  <br>- **戒掉零食**：正常三餐+戒加工零食，可月瘦6-7斤，反弹风险低。```wbCustomBlock{\"type\": \"quoted\", \"index\": 32, \"data\": {\"num\": [1, 10], \"version\": 2, \"quote_list\": [{\"name\": \"曝猛\", \"scheme\": \"sinaweibo://detail?mblogid=5228914567021716\", \"index\": 1, \"label\": \"大v\"}, {\"name\": \"吴佳营养健康\", \"scheme\": \"sinaweibo://detail?mblogid=5229244624143057\", \"index\": 10, \"label\": \"\"}], \"name\": \"曝猛\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.512.512.50/6e1fa92cly8h0nnhbc8v4j20e80e8dge.jpg?KID=imgbed,tva&Expires=1762305957&ssig=xKE5cmQJ8E\", \"scheme\": \"sinaweibo://detail?mblogid=5228914567021716\", \"vType\": 0}}```  <br>- **拒绝焦虑**：  <br>  - 用“拳头法”估算：一拳主食≈150大卡，一掌心蛋白≈150大卡。```wbCustomBlock{\"type\": \"quoted\", \"index\": 34, \"data\": {\"num\": [16, 20], \"version\": 2, \"quote_list\": [{\"name\": \"叮铃铃uu\", \"scheme\": \"sinaweibo://detail?mblogid=5229498673922087\", \"index\": 20, \"label\": \"大v\"}, {\"name\": \"不就是那谁\", \"scheme\": \"sinaweibo://detail?mblogid=5229268862767831\", \"index\": 16, \"label\": \"\"}], \"name\": \"叮铃铃uu\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.1024.1024.50/69d94059ly8hyhej0y1v5j20sg0sgdle.jpg?KID=imgbed,tva&Expires=1762305957&ssig=7gis95xPnm\", \"scheme\": \"sinaweibo://detail?mblogid=5229498673922087\", \"vType\": 0}}```  <br>  - 运动后补充能量可选低卡饮品（如122大卡的橙C美式）。  <br>- **长期心态**：减肥需每日300-500大卡热量缺口，优先高营养密度食物（如全谷物、蔬果）结合碎片运动（多走路、爬楼梯）。```wbCustomBlock{\"type\": \"quoted\", \"index\": 36, \"data\": {\"num\": [14], \"version\": 2, \"quote_list\": [{\"name\": \"晓涵不才\", \"scheme\": \"sinaweibo://detail?mblogid=5229306654756124\", \"index\": 14, \"label\": \"\"}]}}```<br><br>> **💎 终极总结**：100大卡是微小却关键的能量单位——它教会我们：**别为半根烤肠爬100层楼，而为营养均衡迈出一小步！** 通过智慧选择食物（多吃天然、少加工）和适度运动，让健康减脂融入生活，而非对抗本能。```wbCustomBlock{\"type\": \"quoted\", \"index\": 37, \"data\": {\"num\": [14], \"version\": 2, \"quote_list\": [{\"name\": \"晓涵不才\", \"scheme\": \"sinaweibo://detail?mblogid=5229306654756124\", \"index\": 14, \"label\": \"\"}]}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5228914567021716&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=4&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.512.512.50/6e1fa92cly8h0nnhbc8v4j20e80e8dge.jpg?KID=imgbed,tva&Expires=1762305957&ssig=xKE5cmQJ8E) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">曝猛</span><img src=\"http://wx1.sinaimg.cn/middle/6e1fa92cgy1i6z1mfxe6vj210o0hsjsw.jpg\" data-width=640 data-height=1320></div></media-block><br>",
+      "sorted_material_list": null,
+      "abtest_info": {
+        "chat_entrance": 1
+      },
+      "card_multimodal": {
+        "type": "mediablock",
+        "data": [
+          {
+            "type": "p",
+            "scheme": "sinaweibo://multimedia?mix_mid=5229268862767831&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=1&multi_count=0",
+            "h": 1343,
+            "video_url": "",
+            "vtype": 0,
+            "doc_score": 3835,
+            "img_pid": "6a413b5cgy1i706a3iv6fj20u011b789",
+            "w": 1080,
+            "click_rate": 0.16363636363636,
+            "click_num": 0,
+            "cur_mid": "5229268862767831",
+            "hit_score_new": 99.023438,
+            "user_avatar": "https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/6a413b5cly8i5btpt1swjj20u00u077a.jpg?KID=imgbed,tva&Expires=1762305957&ssig=2C%2FZvz36ab",
+            "hit_score_final": 91.414062,
+            "img": "http://wx1.sinaimg.cn/middle/6a413b5cgy1i706a3iv6fj20u011b789.jpg",
+            "user_name": "不就是那谁"
+          },
+          {
+            "type": "v",
+            "scheme": "sinaweibo://video/vvs?mid=5229315296073585&multi_paragraph=1&multi_count=1",
+            "h": 1280,
+            "video_url": "https://video.weibo.com/show?fid=1034:5229314464219141",
+            "vtype": 0,
+            "doc_score": 4336,
+            "img_pid": "a2263b62ly1i70bl43rnwj20k00zkjsd",
+            "w": 720,
+            "click_rate": 0.05607476635514,
+            "click_num": 0,
+            "cur_mid": "5229315296073585",
+            "hit_score_new": 98.193359,
+            "user_avatar": "https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/a2263b62ly8i3h2oypr0yj20u00u0q6a.jpg?KID=imgbed,tva&Expires=1762305957&ssig=wvvCyVaM6A",
+            "hit_score_final": 90.916016,
+            "img": "http://wx1.sinaimg.cn/middle/a2263b62ly1i70bl43rnwj20k00zkjsd.jpg",
+            "user_name": "采个小福猫99"
+          },
+          {
+            "type": "v",
+            "scheme": "sinaweibo://video/vvs?mid=4758207795038395&multi_paragraph=1&multi_count=2",
+            "h": 1440,
+            "video_url": "https://video.weibo.com/show?fid=1034:4758165942894712",
+            "vtype": 0,
+            "doc_score": 2790,
+            "img_pid": "008q4O8ply1h198yp0d5hj30u0140tat",
+            "w": 1080,
+            "click_rate": 0,
+            "click_num": 0,
+            "cur_mid": "4758207795038395",
+            "hit_score_new": 63.623047,
+            "user_avatar": "https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/008q4O8ply8gvko1jww0oj60u00u0gom02.jpg?KID=imgbed,tva&Expires=1762305957&ssig=s33uSLGiO4",
+            "hit_score_final": 64.573822,
+            "img": "http://wx2.sinaimg.cn/middle/008q4O8ply1h198yp0d5hj30u0140tat.jpg",
+            "user_name": "体重管理师惠子"
+          },
+          {
+            "type": "p",
+            "scheme": "sinaweibo://multimedia?mix_mid=5229268862767831&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=1&multi_count=0",
+            "h": 1343,
+            "video_url": "",
+            "vtype": 0,
+            "doc_score": 3835,
+            "img_pid": "6a413b5cgy1i706a3iv6fj20u011b789",
+            "w": 1080,
+            "click_rate": 0.16363636363636,
+            "click_num": 0,
+            "cur_mid": "5229268862767831",
+            "hit_score_new": 99.023438,
+            "user_avatar": "https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/6a413b5cly8i5btpt1swjj20u00u077a.jpg?KID=imgbed,tva&Expires=1762305957&ssig=2C%2FZvz36ab",
+            "hit_score_final": 91.414062,
+            "img": "http://wx1.sinaimg.cn/middle/6a413b5cgy1i706a3iv6fj20u011b789.jpg",
+            "user_name": "不就是那谁"
+          }
+        ]
+      },
+      "qs_status": 0,
+      "ext_show": {},
+      "version": "2025-11-05 06:25:57.010999-9415",
+      "page_id": "232964bba8691feeb6182eec588cb84db313e7",
+      "analysis_time": 1762295424,
+      "query_field": "51",
+      "msg_format": "markdown",
+      "qs_status_info": "{\"qs_r_status\":0,\"qs_u_status\":0,\"ab_lab\":{},\"qs_status\":0,\"qs_q_status\":0,\"qs_c_status\":8388608}",
+      "status": 2,
+      "loop_times": 200,
+      "share_info": {
+        "page_id": "232964bba8691feeb6182eec588cb84db313e7",
+        "comment_content": "",
+        "tips": "#原来这就是100大卡的概念#的相关内容，来智搜看看",
+        "display_name": "#原来这就是100大卡的概念#",
+        "unify_md5": "2a455b4ea45da3bbe3801cffca896122",
+        "status": 3,
+        "url": "http://t.cn/AXAlV8VZ"
+      }
+    }
+  },
+  "links": [
+    "sinaweibo://detail?mblogid=5228914567021716",
+    "sinaweibo://detail?mblogid=4758207795038395",
+    "broadsocial_res://",
+    "broadsocial_res://",
+    "historyweibo://5228914567021716",
+    "historyweibo://5228914567021716",
+    "sinaweibo://detail?mblogid=5229261327696165",
+    "sinaweibo://detail?mblogid=5229272652319577",
+    "sinaweibo://detail?mblogid=5229280544165611",
+    "sinaweibo://detail?mblogid=5229244624143057",
+    "sinaweibo://detail?mblogid=5229250804450934",
+    "sinaweibo://detail?mblogid=5229254952354458",
+    "sinaweibo://detail?mblogid=5229315296073585",
+    "sinaweibo://detail?mblogid=5229306654756124",
+    "sinaweibo://detail?mblogid=5229366590046377",
+    "sinaweibo://detail?mblogid=5229268862767831",
+    "sinaweibo://detail?mblogid=5229248849119405",
+    "sinaweibo://detail?mblogid=5229312154009957",
+    "sinaweibo://detail?mblogid=5229252191717152",
+    "sinaweibo://detail?mblogid=5229498673922087",
+    "sinaweibo://detail?mblogid=5229281533759426",
+    "sinaweibo://detail?mblogid=5229265392238737",
+    "sinaweibo://detail?mblogid=5229254000511888",
+    "sinaweibo://detail?mblogid=5229252367878709",
+    "sinaweibo://detail?mblogid=5229237440349037",
+    "sinaweibo://detail?mblogid=5229236019004187",
+    "sinaweibo://detail?mblogid=5154640980870286",
+    "sinaweibo://detail?mblogid=4325078172546886",
+    "sinaweibo://detail?mblogid=5227084600575471"
+  ],
+  "media": [
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/6a413b5cgy1i706a3iv6fj20u011b789.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/6a413b5cgy1i706a3iv6fj20u011b789.jpg",
+      "alt": "不就是那谁",
+      "width": 1343,
+      "height": 1080,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/6a413b5cgy1i706a3iv6fj20u011b789.jpg"
+      ],
+      "user": "不就是那谁"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/a2263b62ly1i70bl43rnwj20k00zkjsd.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/a2263b62ly1i70bl43rnwj20k00zkjsd.jpg",
+      "alt": "采个小福猫99",
+      "width": 1280,
+      "height": 720,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/a2263b62ly1i70bl43rnwj20k00zkjsd.jpg"
+      ],
+      "user": "采个小福猫99"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/008q4O8ply1h198yp0d5hj30u0140tat.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/008q4O8ply1h198yp0d5hj30u0140tat.jpg",
+      "alt": "体重管理师惠子",
+      "width": 1440,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/008q4O8ply1h198yp0d5hj30u0140tat.jpg"
+      ],
+      "user": "体重管理师惠子"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/5434fd39ly1i0f73hfar9j235s2dc7wj.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/5434fd39ly1i0f73hfar9j235s2dc7wj.jpg",
+      "alt": "猴大宝",
+      "width": 3072,
+      "height": 4096,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/5434fd39ly1i0f73hfar9j235s2dc7wj.jpg"
+      ],
+      "user": "猴大宝"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/6e1fa92cgy1i6z1mfxe6vj210o0hsjsw.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/6e1fa92cgy1i6z1mfxe6vj210o0hsjsw.jpg",
+      "alt": "曝猛",
+      "width": 640,
+      "height": 1320,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/6e1fa92cgy1i6z1mfxe6vj210o0hsjsw.jpg"
+      ],
+      "user": "曝猛"
+    }
+  ],
+  "html_path": "data/aicard/hourly/2025-11-05/06/100.html"
+}

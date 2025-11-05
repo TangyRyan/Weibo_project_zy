@@ -1,0 +1,324 @@
+{
+  "meta": {
+    "query": "#出现5个症状说明血糖高了#",
+    "status_code": 200,
+    "fetched_at": "2025-11-03T01:29:41+08:00",
+    "response": {
+      "wenda": {
+        "forward_gen": 0
+      },
+      "ab_suffix": "default",
+      "abtest_info": {
+        "chat_entrance": 1
+      },
+      "status": 2,
+      "query_field": "50",
+      "reliable_tips": "{\"gold_orange_v_mids\": [\"5228703505188095\", \"5228689631481097\", \"5228686817101781\", \"5228706672672976\", \"5004646091329218\", \"5228693947416798\", \"5143362346161430\", \"5202427428997847\", \"5228694265663633\", \"5228692848771848\", \"5228687827141581\", \"5227117974653688\", \"5227385281578400\", \"5048857539119561\", \"5228690657248939\", \"5228690910741619\", \"5228686733476100\", \"5228706159396341\", \"5228705259718234\", \"5228702183983141\", \"5228696761535674\", \"5228696656677063\"], \"gold_orange_v_ratio\": \"71%\", \"media_mids\": [\"5228605835576286\", \"5228137764880887\", \"5228598797534024\"], \"media_ratio\": \"10%\", \"verified_mids\": [\"5228690071881698\", \"5113623837676580\", \"5228704674613953\", \"5228704176540502\"], \"verified_ratio\": \"13%\", \"normal_mids\": [\"5228699808958665\", \"4796971543693932\"], \"normal_ratio\": \"6%\", \"ref_mid_rank\": {\"5228703505188095\": {\"rank\": 27}, \"5228689631481097\": {\"rank\": 18}, \"5228686817101781\": {\"rank\": 21}, \"5228706672672976\": {\"rank\": 22}, \"5004646091329218\": {\"rank\": 35}, \"5228693947416798\": {\"rank\": 32}, \"5228605835576286\": {\"rank\": 1}, \"5228137764880887\": {\"rank\": 3}, \"5143362346161430\": {\"rank\": 4}, \"5228598797534024\": {\"rank\": 17}, \"5202427428997847\": {\"rank\": 8}, \"5228694265663633\": {\"rank\": 20}, \"5228692848771848\": {\"rank\": 14}, \"5228687827141581\": {\"rank\": 16}, \"5228690071881698\": {\"rank\": 33}, \"5227117974653688\": {\"rank\": 7}, \"5227385281578400\": {\"rank\": 2}, \"5048857539119561\": {\"rank\": 5}, \"5113623837676580\": {\"rank\": 6}, \"5228690657248939\": {\"rank\": 13}, \"5228690910741619\": {\"rank\": 15}, \"5228686733476100\": {\"rank\": 19}, \"5228706159396341\": {\"rank\": 23}, \"5228705259718234\": {\"rank\": 24}, \"5228704674613953\": {\"rank\": 25}, \"5228704176540502\": {\"rank\": 26}, \"5228702183983141\": {\"rank\": 28}, \"5228699808958665\": {\"rank\": 29}, \"5228696761535674\": {\"rank\": 30}, \"5228696656677063\": {\"rank\": 31}, \"4796971543693932\": {\"rank\": 34}}}",
+      "analysis_time": 1762104424,
+      "basemodel": "实验组1",
+      "q_attr": {
+        "from_request_id": "",
+        "mid": "",
+        "reply_cid": "",
+        "comment_from_type": "",
+        "from_uid": ""
+      },
+      "page_id": "232964db32bf6b09bd1f2408669e173177478e",
+      "profile_image_url": "",
+      "user_info": {},
+      "reference_num": 31,
+      "cot": 1,
+      "status_stage": 4,
+      "share_info": {
+        "status": 3,
+        "url": "http://t.cn/AXAoUB2A",
+        "unify_md5": "ccbf0938f4b34c5cf2f220f055692ede",
+        "display_name": "#出现5个症状说明血糖高了#",
+        "tips": "#出现5个症状说明血糖高了#的相关内容，来智搜看看",
+        "comment_content": "",
+        "page_id": "232964db32bf6b09bd1f2408669e173177478e"
+      },
+      "top_quote_list": {},
+      "chat_status_stage": 1,
+      "share_card_multimodal": {
+        "video_url": "",
+        "hit_score_new": 99.023438,
+        "w": 1439,
+        "vtype": 0,
+        "click_rate": 0.06,
+        "h": 1924,
+        "doc_score": 5390,
+        "scheme": "sinaweibo://multimedia?mix_mid=5228689631481097&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=0",
+        "img": "http://wx3.sinaimg.cn/middle/0062pvhygy1i6ybt34m6tj313z1hgqo3.jpg",
+        "cur_mid": "5228689631481097",
+        "type": "p",
+        "user_name": "小沐舟吖",
+        "img_pid": "0062pvhygy1i6ybt34m6tj313z1hgqo3",
+        "user_avatar": "https://tvax2.sinaimg.cn/crop.0.0.908.908.50/0062pvhyly8hcv5jjls18j30p80p841b.jpg?KID=imgbed,tva&Expires=1762115096&ssig=%2Bcw3SH223F",
+        "hit_score_final": 91.414062
+      },
+      "news_analyze": {},
+      "short_url": "http://t.cn/AXAoG7rb",
+      "current_time": 1762104583,
+      "query": "#出现5个症状说明血糖高了#",
+      "card_multimodal": {
+        "data": [
+          {
+            "video_url": "",
+            "hit_score_new": 99.023438,
+            "w": 1439,
+            "vtype": 0,
+            "click_rate": 0.06,
+            "h": 1924,
+            "doc_score": 5390,
+            "scheme": "sinaweibo://multimedia?mix_mid=5228689631481097&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=0",
+            "img": "http://wx3.sinaimg.cn/middle/0062pvhygy1i6ybt34m6tj313z1hgqo3.jpg",
+            "cur_mid": "5228689631481097",
+            "type": "p",
+            "user_name": "小沐舟吖",
+            "img_pid": "0062pvhygy1i6ybt34m6tj313z1hgqo3",
+            "user_avatar": "https://tvax2.sinaimg.cn/crop.0.0.908.908.50/0062pvhyly8hcv5jjls18j30p80p841b.jpg?KID=imgbed,tva&Expires=1762115096&ssig=%2Bcw3SH223F",
+            "hit_score_final": 91.414062
+          },
+          {
+            "video_url": "",
+            "hit_score_new": 54.101562,
+            "w": 398,
+            "vtype": 0,
+            "click_rate": 0.06,
+            "h": 184,
+            "doc_score": 2223,
+            "scheme": "sinaweibo://multimedia?mix_mid=5004646091329218&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=1",
+            "img": "http://wx1.sinaimg.cn/middle/68daa069ly1hn3krxizdvj20b2054tal.jpg",
+            "cur_mid": "5004646091329218",
+            "type": "p",
+            "user_name": "养生长寿V",
+            "img_pid": "68daa069ly1hn3krxizdvj20b2054tal",
+            "user_avatar": "https://tvax3.sinaimg.cn/crop.50.137.444.444.50/68daa069ly8gasqwk5e12j20et0m8dgs.jpg?KID=imgbed,tva&Expires=1762115096&ssig=OJ62a7E6ui",
+            "hit_score_final": 57.260937
+          },
+          {
+            "video_url": "",
+            "hit_score_new": 88.574219,
+            "w": 332,
+            "vtype": 3,
+            "click_rate": 0.06,
+            "h": 302,
+            "doc_score": 3816,
+            "scheme": "sinaweibo://multimedia?mix_mid=5228137764880887&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=2&multi_count=0",
+            "img": "http://wx1.sinaimg.cn/middle/001W3LkXly1i6wgog9n4zj609808emx502.jpg",
+            "cur_mid": "5228137764880887",
+            "type": "p",
+            "user_name": "生命时报",
+            "img_pid": "001W3LkXly1i6wgog9n4zj609808emx502",
+            "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.512.512.50/001W3LkXly8h8w4pp4azmj60e80e8q3b02.jpg?KID=imgbed,tva&Expires=1762115096&ssig=iiQNH1STDQ",
+            "hit_score_final": 66.584534
+          },
+          {
+            "video_url": "",
+            "hit_score_new": 99.023438,
+            "w": 1439,
+            "vtype": 0,
+            "click_rate": 0.06,
+            "h": 1924,
+            "doc_score": 5390,
+            "scheme": "sinaweibo://multimedia?mix_mid=5228689631481097&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=0",
+            "img": "http://wx3.sinaimg.cn/middle/0062pvhygy1i6ybt34m6tj313z1hgqo3.jpg",
+            "cur_mid": "5228689631481097",
+            "type": "p",
+            "user_name": "小沐舟吖",
+            "img_pid": "0062pvhygy1i6ybt34m6tj313z1hgqo3",
+            "user_avatar": "https://tvax2.sinaimg.cn/crop.0.0.908.908.50/0062pvhyly8hcv5jjls18j30p80p841b.jpg?KID=imgbed,tva&Expires=1762115096&ssig=%2Bcw3SH223F",
+            "hit_score_final": 91.414062
+          }
+        ],
+        "type": "mediablock"
+      },
+      "qs_status": 0,
+      "msg": "<think><br><br>嗯，用户查询的是\"出现5个症状说明血糖高了\"，我需要从搜索结果中整理出相关症状信息。先浏览所有搜索结果，找出权威来源提到的五个关键症状。<br><br>首先看结果1和结果17（来自环球时报和生命时报），它们都提到了腿脚症状：伤口不易愈合、瘙痒、麻木、糖斑（胫前褐色斑块）、皮肤皲裂。这些属于下肢特异性表现，具有较高参考价值。结果4中DrX医生补充了水疱和溃疡的症状。<br><br>结果12的资料归纳了代谢性症状（\"三多一少\"）：异常口渴/多饮、多尿、多食易饥、体重下降、持续性疲劳。这与结果27和结果19的微博内容一致。<br><br>结果3和结果10提到皮肤信号：顽固性瘙痒（尤其夜间）、褶皱处变黑（黑棘皮症）、反复感染等。结果6中张友平医生强调了睡眠异常：夜尿频多、夜间口渴、睡前饥饿感、盗汗。<br><br>关于特异性症状，结果8和结果4都指出对称性手脚麻木是神经病变的典型信号，而结果7提到视力模糊与高血糖相关。<br><br>需要特别注意结果10的警示：单一症状不足以诊断糖尿病，必须通过静脉血糖检测确认。结果12也强调\"三多一少\"出现两项就应72小时内就医。<br><br>最后要补充风险提示：糖尿病前期可逆转，但确诊需医疗诊断，避免用户自我误诊。同时引用结果32的筛查建议：35岁以上每3年检测糖化血红蛋白。<br><br>我会整合为三类症状群（代谢/皮肤/神经），并强调就医指征和可逆期干预，用分段加粗标题提高可读性。医疗建议处添加警示符号。<br><br></think><br>以下是血糖升高的五个典型症状及相关健康提示，结合医学机制和权威资料整理：<br>### 🔍 **五大核心症状**<br>1. **异常口渴与多饮**  <br>   - **表现**：频繁口干，日饮水量超3升仍不解渴，夜间加重。  <br>   - **机制**：高血糖导致血浆渗透压升高，刺激大脑口渴中枢。```wbCustomBlock{\"type\": \"quoted\", \"index\": 6, \"data\": {\"num\": [27], \"version\": 2, \"quote_list\": [{\"name\": \"麦兜的浅兜兜\", \"scheme\": \"sinaweibo://detail?mblogid=5228703505188095\", \"index\": 27, \"label\": \"大v\"}], \"name\": \"麦兜的浅兜兜\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.400.400.50/adf0db81ly8hz05mqm41oj20b40b4t8r.jpg?KID=imgbed,tva&Expires=1762115096&ssig=Fq5KnDznyd\", \"scheme\": \"sinaweibo://detail?mblogid=5228703505188095\", \"vType\": 0}}```<br>   - **风险提示**：需与单纯缺水区分，若持续存在需排查血糖问题。<br><br>2. **尿频与夜尿增多**  <br>   - **表现**：排尿次数≥10次/天（尤其**夜间≥3次**），尿量增大、尿液颜色浅。  <br>   - **机制**：高血糖引发渗透性利尿，肾脏需排出多余糖分。```wbCustomBlock{\"type\": \"quoted\", \"index\": 10, \"data\": {\"num\": [18, 21], \"version\": 2, \"quote_list\": [{\"name\": \"小沐舟吖\", \"scheme\": \"sinaweibo://detail?mblogid=5228689631481097\", \"index\": 18, \"label\": \"大v\"}, {\"name\": \"旧梦可待成追忆\", \"scheme\": \"sinaweibo://detail?mblogid=5228686817101781\", \"index\": 21, \"label\": \"\"}], \"name\": \"小沐舟吖\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.908.908.50/0062pvhyly8hcv5jjls18j30p80p841b.jpg?KID=imgbed,tva&Expires=1762115096&ssig=%2Bcw3SH223F\", \"scheme\": \"sinaweibo://detail?mblogid=5228689631481097\", \"vType\": 0}}```<br>   - **典型场景**：无大量饮水却频繁起夜。<br><br>3. **饥饿感与多食**  <br>   - **表现**：餐后1-2小时即饿，食量增加但饥饿感持续，甚至伴心慌手抖。  <br>   - **机制**：胰岛素抵抗/缺乏导致葡萄糖无法进入细胞供能。```wbCustomBlock{\"type\": \"quoted\", \"index\": 14, \"data\": {\"num\": [22, 35], \"version\": 2, \"quote_list\": [{\"name\": \"中娱日记\", \"scheme\": \"sinaweibo://detail?mblogid=5228706672672976\", \"index\": 22, \"label\": \"大v\"}, {\"name\": \"养生长寿V\", \"scheme\": \"sinaweibo://detail?mblogid=5004646091329218\", \"index\": 35, \"label\": \"\"}], \"name\": \"中娱日记\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.1023.1023.50/005YyJdOly8hzd182ae8lj30sg0sfq5l.jpg?KID=imgbed,tva&Expires=1762115096&ssig=WgkILSMezN\", \"scheme\": \"sinaweibo://detail?mblogid=5228706672672976\", \"vType\": 0}}```<br>   - **易混淆情况**：甲亢、胃病等需排除。<br><br>4. **不明原因体重下降**  <br>   - **表现**：1-3个月内体重降幅＞5%（无刻意减肥），肌肉流失明显。  <br>   - **机制**：身体分解脂肪/蛋白质代偿供能。```wbCustomBlock{\"type\": \"quoted\", \"index\": 18, \"data\": {\"num\": [22, 32], \"version\": 2, \"quote_list\": [{\"name\": \"中娱日记\", \"scheme\": \"sinaweibo://detail?mblogid=5228706672672976\", \"index\": 22, \"label\": \"\"}, {\"name\": \"梧桐黎茶\", \"scheme\": \"sinaweibo://detail?mblogid=5228693947416798\", \"index\": 32, \"label\": \"\"}]}}```<br>   - **警示点**：短期内体重骤降是糖尿病恶化信号。<br><br>5. **持续性疲劳乏力**  <br>   - **表现**：精神萎靡、轻微活动即虚脱，休息难缓解。  <br>   - **机制**：葡萄糖利用障碍致能量供应不足，常伴视力模糊。```wbCustomBlock{\"type\": \"quoted\", \"index\": 22, \"data\": {\"num\": [18, 21], \"version\": 2, \"quote_list\": [{\"name\": \"小沐舟吖\", \"scheme\": \"sinaweibo://detail?mblogid=5228689631481097\", \"index\": 18, \"label\": \"\"}, {\"name\": \"旧梦可待成追忆\", \"scheme\": \"sinaweibo://detail?mblogid=5228686817101781\", \"index\": 21, \"label\": \"\"}]}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5228689631481097&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.908.908.50/0062pvhyly8hcv5jjls18j30p80p841b.jpg?KID=imgbed,tva&Expires=1762115096&ssig=%2Bcw3SH223F) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">小沐舟吖</span><img src=\"http://wx3.sinaimg.cn/middle/0062pvhygy1i6ybt34m6tj313z1hgqo3.jpg\" data-width=1924 data-height=1439></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5004646091329218&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=1\"><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.50.137.444.444.50/68daa069ly8gasqwk5e12j20et0m8dgs.jpg?KID=imgbed,tva&Expires=1762115096&ssig=OJ62a7E6ui) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">养生长寿V</span><img src=\"http://wx1.sinaimg.cn/middle/68daa069ly1hn3krxizdvj20b2054tal.jpg\" data-width=184 data-height=398></div></media-block><br>### ⚠️ **需警惕的伴随症状（提示并发症风险）**<br>- **皮肤病变**  <br>  - 顽固瘙痒（尤其手脚夜间\"蚁爬感\"）、色素沉着（颈部/腋窝发黑）、小腿胫前褐色\"糖斑\"；```wbCustomBlock{\"type\": \"quoted\", \"index\": 26, \"data\": {\"num\": [1, 3], \"version\": 2, \"quote_list\": [{\"name\": \"环球时报\", \"scheme\": \"sinaweibo://detail?mblogid=5228605835576286\", \"index\": 1, \"label\": \"大v\"}, {\"name\": \"生命时报\", \"scheme\": \"sinaweibo://detail?mblogid=5228137764880887\", \"index\": 3, \"label\": \"\"}], \"name\": \"环球时报\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.600.600.50/0029D7FZly8h8vg4kqwr4j60go0got9i02.jpg?KID=imgbed,tva&Expires=1762115096&ssig=uRbd7Af9KA\", \"scheme\": \"sinaweibo://detail?mblogid=5228605835576286\", \"vType\": 3}}```  <br>  - 伤口迁延不愈（如蚊虫叮咬后两周未愈），反复感染。```wbCustomBlock{\"type\": \"quoted\", \"index\": 27, \"data\": {\"num\": [4, 17], \"version\": 2, \"quote_list\": [{\"name\": \"生命时报\", \"scheme\": \"sinaweibo://detail?mblogid=5228598797534024\", \"index\": 17, \"label\": \"大v\"}, {\"name\": \"DrX说\", \"scheme\": \"sinaweibo://detail?mblogid=5143362346161430\", \"index\": 4, \"label\": \"\"}], \"name\": \"生命时报\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.512.512.50/001W3LkXly8h8w4pp4azmj60e80e8q3b02.jpg?KID=imgbed,tva&Expires=1762115096&ssig=iiQNH1STDQ\", \"scheme\": \"sinaweibo://detail?mblogid=5228598797534024\", \"vType\": 3}}```<br>- **神经损伤**  <br>  - 对称性手脚麻木、针刺感，下肢明显，寒冷/灼热感交替；```wbCustomBlock{\"type\": \"quoted\", \"index\": 29, \"data\": {\"num\": [4, 8, 17], \"version\": 2, \"quote_list\": [{\"name\": \"厚恩投资张延昆\", \"scheme\": \"sinaweibo://detail?mblogid=5202427428997847\", \"index\": 8, \"label\": \"大v\"}, {\"name\": \"DrX说\", \"scheme\": \"sinaweibo://detail?mblogid=5143362346161430\", \"index\": 4, \"label\": \"\"}, {\"name\": \"生命时报\", \"scheme\": \"sinaweibo://detail?mblogid=5228598797534024\", \"index\": 17, \"label\": \"\"}], \"name\": \"厚恩投资张延昆\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/404cdd30ly8gdih9m7oraj20u00u0whj.jpg?KID=imgbed,tva&Expires=1762115096&ssig=j96K8tcoLG\", \"scheme\": \"sinaweibo://detail?mblogid=5202427428997847\", \"vType\": 0}}```  <br>  - 足部对冷热不敏感，易受伤（糖尿病足前兆）。```wbCustomBlock{\"type\": \"quoted\", \"index\": 30, \"data\": {\"num\": [17, 32], \"version\": 2, \"quote_list\": [{\"name\": \"生命时报\", \"scheme\": \"sinaweibo://detail?mblogid=5228598797534024\", \"index\": 17, \"label\": \"\"}, {\"name\": \"梧桐黎茶\", \"scheme\": \"sinaweibo://detail?mblogid=5228693947416798\", \"index\": 32, \"label\": \"\"}]}}```<br>- **突发急症信号**  <br>  呼气带烂苹果味（酮症酸中毒）、严重脱水伴意识模糊（高渗昏迷），需**立即就医**。```wbCustomBlock{\"type\": \"quoted\", \"index\": 31, \"data\": {\"num\": [20], \"version\": 2, \"quote_list\": [{\"name\": \"DJ八花的公主_鲸落\", \"scheme\": \"sinaweibo://detail?mblogid=5228694265663633\", \"index\": 20, \"label\": \"\"}]}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5228137764880887&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=2&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.512.512.50/001W3LkXly8h8w4pp4azmj60e80e8q3b02.jpg?KID=imgbed,tva&Expires=1762115096&ssig=iiQNH1STDQ) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">生命时报</span><img src=\"http://wx1.sinaimg.cn/middle/001W3LkXly1i6wgog9n4zj609808emx502.jpg\" data-width=302 data-height=332></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5143362346161430&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=2&multi_count=1\"><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/006oFCBvly8hp3e4ibjaxj30u00u0ac2.jpg?KID=imgbed,tva&Expires=1762115096&ssig=0dQZn0neCA) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">DrX说</span><img src=\"http://wx1.sinaimg.cn/middle/006oFCBvly1hze44929fmj30xc0hvgs4.jpg\" data-width=643 data-height=1200></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5202427428997847&multi_paragraph=2&multi_count=2\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/404cdd30ly8gdih9m7oraj20u00u0whj.jpg?KID=imgbed,tva&Expires=1762115096&ssig=j96K8tcoLG) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">厚恩投资张延昆</span><img src=\"http://wx1.sinaimg.cn/middle/404cdd30ly1i4mjl9a3maj20f00qot9g.jpg\" data-width=960 data-height=540></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5228694265663633&multi_paragraph=2&multi_count=3\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.1.1078.1078.50/006RBstMly8i68mndiao6j30ty0u0n19.jpg?KID=imgbed,tva&Expires=1762115096&ssig=KeQIyxIPK5) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">DJ八花的公主_鲸落</span><img src=\"http://wx1.sinaimg.cn/middle/006RBstMly1i6ycbsm82kj30k00zkq4r.jpg\" data-width=1280 data-height=720></div></media-block><br>### 🩺 **何时需立即检测血糖？**<br>符合以下任一情况建议**72小时内就医**：  <br>① 上述\"三多一少\"症状中≥2项并存；  <br>② 下肢麻木/伤口不愈+餐前心慌手抖（低血糖反应）；  <br>③ 体重骤降伴持续性口渴。```wbCustomBlock{\"type\": \"quoted\", \"index\": 33, \"data\": {\"num\": [32], \"version\": 2, \"quote_list\": [{\"name\": \"梧桐黎茶\", \"scheme\": \"sinaweibo://detail?mblogid=5228693947416798\", \"index\": 32, \"label\": \"\"}]}}```  <br>> 📌 **诊断金标准**：静脉血检测空腹血糖≥7.0mmol/L或餐后2小时血糖≥11.1mmol/L。<br>### 💡 **重要健康提示**<br>1. **无症状隐匿期**  <br>   约50%糖尿病患者早期无不适，**≥35岁人群**每3年应查：空腹血糖+糖化血红蛋白（HbA1c）。```wbCustomBlock{\"type\": \"quoted\", \"index\": 37, \"data\": {\"num\": [32], \"version\": 2, \"quote_list\": [{\"name\": \"梧桐黎茶\", \"scheme\": \"sinaweibo://detail?mblogid=5228693947416798\", \"index\": 32, \"label\": \"\"}]}}```<br>2. **糖尿病前期可逆转**  <br>   - **临界值**：空腹血糖5.6-6.9mmol/L或HbA1c 5.7%-6.4%；```wbCustomBlock{\"type\": \"quoted\", \"index\": 39, \"data\": {\"num\": [32], \"version\": 2, \"quote_list\": [{\"name\": \"梧桐黎茶\", \"scheme\": \"sinaweibo://detail?mblogid=5228693947416798\", \"index\": 32, \"label\": \"\"}]}}```  <br>   - **干预措施**：减重5%-7%、每日运动30分钟（快走/游泳）、主食替换为糙米/燕麦（GI值更低），逆转率可达58%。```wbCustomBlock{\"type\": \"quoted\", \"index\": 40, \"data\": {\"num\": [4, 14], \"version\": 2, \"quote_list\": [{\"name\": \"瓜瓜灵光一闪\", \"scheme\": \"sinaweibo://detail?mblogid=5228692848771848\", \"index\": 14, \"label\": \"大v\"}, {\"name\": \"DrX说\", \"scheme\": \"sinaweibo://detail?mblogid=5143362346161430\", \"index\": 4, \"label\": \"\"}], \"name\": \"瓜瓜灵光一闪\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/005HWKuLly8i6szlq2k77j30u00u0dj3.jpg?KID=imgbed,tva&Expires=1762115096&ssig=8BdDFOpdGf\", \"scheme\": \"sinaweibo://detail?mblogid=5228692848771848\", \"vType\": 0}}```<br>3. **控糖核心策略**  <br>   - **降波动**：同日最高与最低血糖差值≤4.4mmol/L（如空腹5.6，餐后≤10）；```wbCustomBlock{\"type\": \"quoted\", \"index\": 42, \"data\": {\"num\": [1, 17], \"version\": 2, \"quote_list\": [{\"name\": \"环球时报\", \"scheme\": \"sinaweibo://detail?mblogid=5228605835576286\", \"index\": 1, \"label\": \"\"}, {\"name\": \"生命时报\", \"scheme\": \"sinaweibo://detail?mblogid=5228598797534024\", \"index\": 17, \"label\": \"\"}]}}```  <br>   - **护血管**：先吃蔬菜→再吃肉蛋→最后吃主食，餐后血糖峰值降30%。```wbCustomBlock{\"type\": \"quoted\", \"index\": 43, \"data\": {\"num\": [4, 17, 32], \"version\": 2, \"quote_list\": [{\"name\": \"DrX说\", \"scheme\": \"sinaweibo://detail?mblogid=5143362346161430\", \"index\": 4, \"label\": \"\"}, {\"name\": \"生命时报\", \"scheme\": \"sinaweibo://detail?mblogid=5228598797534024\", \"index\": 17, \"label\": \"\"}, {\"name\": \"梧桐黎茶\", \"scheme\": \"sinaweibo://detail?mblogid=5228693947416798\", \"index\": 32, \"label\": \"\"}]}}```<br>### ⚕️ **风险警示**<br>- 以上症状仅为预警信号，**不能替代医学诊断**。自我对照后勿过度焦虑，但需及时检测。```wbCustomBlock{\"type\": \"quoted\", \"index\": 46, \"data\": {\"num\": [16, 33], \"version\": 2, \"quote_list\": [{\"name\": \"moonsstarss\", \"scheme\": \"sinaweibo://detail?mblogid=5228687827141581\", \"index\": 16, \"label\": \"大v\"}, {\"name\": \"小聆百利甜\", \"scheme\": \"sinaweibo://detail?mblogid=5228690071881698\", \"index\": 33, \"label\": \"\"}], \"name\": \"moonsstarss\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/006VP9A3ly8hw2cd35vjqj30u00u0q64.jpg?KID=imgbed,tva&Expires=1762115096&ssig=NNw2mdcP%2Fq\", \"scheme\": \"sinaweibo://detail?mblogid=5228687827141581\", \"vType\": 0}}```  <br>- 老年/并发症患者控糖目标需个体化（如空腹7-8mmol/L），严防低血糖（伤害以秒计）。  <br>- 中医调理（如降糖明目饮）仅作辅助，**不可替代降糖药/胰岛素**。```wbCustomBlock{\"type\": \"quoted\", \"index\": 48, \"data\": {\"num\": [7], \"version\": 2, \"quote_list\": [{\"name\": \"中医眼科宋立\", \"scheme\": \"sinaweibo://detail?mblogid=5227117974653688\", \"index\": 7, \"label\": \"\"}]}}```  <br><br>> 🌟 **关键事实**：我国约1.41亿糖尿病患者，近半数不知情。早发现（尤其糖尿病前期）干预可显著降低截肢、肾衰等风险。```wbCustomBlock{\"type\": \"quoted\", \"index\": 49, \"data\": {\"num\": [1, 17], \"version\": 2, \"quote_list\": [{\"name\": \"环球时报\", \"scheme\": \"sinaweibo://detail?mblogid=5228605835576286\", \"index\": 1, \"label\": \"\"}, {\"name\": \"生命时报\", \"scheme\": \"sinaweibo://detail?mblogid=5228598797534024\", \"index\": 17, \"label\": \"\"}]}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5227117974653688&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=5&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/008BL4d2ly8hkal4tlou7j30u00u0dho.jpg?KID=imgbed,tva&Expires=1762115096&ssig=2XcmthsmmZ) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">中医眼科宋立</span><img src=\"http://wx2.sinaimg.cn/middle/008BL4d2ly1i6tbbe21wbj30sg0iz48j.jpg\" data-width=683 data-height=1024></div></media-block><br>",
+      "zs_risk_control": {
+        "think_text_close": 0,
+        "land_button_close": 0
+      },
+      "msg_json": "{}",
+      "mid_list": null,
+      "comment_info": {},
+      "share_text": "#出现5个症状说明血糖高了#的相关内容，来智搜看看",
+      "query_category": "Medical",
+      "scheme": "sinaweibo://cardlist?containerid=100103type%3D225%26q%3D%23%E5%87%BA%E7%8E%B05%E4%B8%AA%E7%97%87%E7%8A%B6%E8%AF%B4%E6%98%8E%E8%A1%80%E7%B3%96%E9%AB%98%E4%BA%86%23%26t%3D&extparam=ai_model%3Ddeepseek%26ori_ai_title%3D%E5%8F%82%E8%80%83%E5%8D%9A%E6%96%87%26material_version%3D1762104296",
+      "model": "deepseek",
+      "version": "2025-11-03 01:24:56.009999-5983",
+      "link_list": [
+        "sinaweibo://detail?mblogid=5228605835576286",
+        "sinaweibo://detail?mblogid=5227385281578400",
+        "sinaweibo://detail?mblogid=5228137764880887",
+        "sinaweibo://detail?mblogid=5143362346161430",
+        "sinaweibo://detail?mblogid=5048857539119561",
+        "sinaweibo://detail?mblogid=5113623837676580",
+        "sinaweibo://detail?mblogid=5227117974653688",
+        "sinaweibo://detail?mblogid=5202427428997847",
+        "https://baike.baidu.com/item/%E8%A1%80%E7%B3%96?fromModule=search-result_lemma",
+        "historyweibo://5210343640924522",
+        "historyweibo://5176104262568309",
+        "historyweibo://5227385281578400",
+        "sinaweibo://detail?mblogid=5228690657248939",
+        "sinaweibo://detail?mblogid=5228692848771848",
+        "sinaweibo://detail?mblogid=5228690910741619",
+        "sinaweibo://detail?mblogid=5228687827141581",
+        "sinaweibo://detail?mblogid=5228598797534024",
+        "sinaweibo://detail?mblogid=5228689631481097",
+        "sinaweibo://detail?mblogid=5228686733476100",
+        "sinaweibo://detail?mblogid=5228694265663633",
+        "sinaweibo://detail?mblogid=5228686817101781",
+        "sinaweibo://detail?mblogid=5228706672672976",
+        "sinaweibo://detail?mblogid=5228706159396341",
+        "sinaweibo://detail?mblogid=5228705259718234",
+        "sinaweibo://detail?mblogid=5228704674613953",
+        "sinaweibo://detail?mblogid=5228704176540502",
+        "sinaweibo://detail?mblogid=5228703505188095",
+        "sinaweibo://detail?mblogid=5228702183983141",
+        "sinaweibo://detail?mblogid=5228699808958665",
+        "sinaweibo://detail?mblogid=5228696761535674",
+        "sinaweibo://detail?mblogid=5228696656677063",
+        "sinaweibo://detail?mblogid=5228693947416798",
+        "sinaweibo://detail?mblogid=5228690071881698",
+        "sinaweibo://detail?mblogid=4796971543693932",
+        "sinaweibo://detail?mblogid=5004646091329218"
+      ],
+      "msg_format": "markdown",
+      "qs_status_info": "{\"qs_c_status\":8388608,\"qs_r_status\":0,\"qs_q_status\":0,\"ab_lab\":{},\"qs_status\":0,\"qs_u_status\":0}",
+      "show_ctrl": {
+        "quote": {}
+      },
+      "unify_md5": "ccbf0938f4b34c5cf2f220f055692ede",
+      "uid": "",
+      "sorted_material_list": null,
+      "loop_times": 200,
+      "ext_show": {}
+    }
+  },
+  "links": [
+    "sinaweibo://detail?mblogid=5228605835576286",
+    "sinaweibo://detail?mblogid=5227385281578400",
+    "sinaweibo://detail?mblogid=5228137764880887",
+    "sinaweibo://detail?mblogid=5143362346161430",
+    "sinaweibo://detail?mblogid=5048857539119561",
+    "sinaweibo://detail?mblogid=5113623837676580",
+    "sinaweibo://detail?mblogid=5227117974653688",
+    "sinaweibo://detail?mblogid=5202427428997847",
+    "https://baike.baidu.com/item/%E8%A1%80%E7%B3%96?fromModule=search-result_lemma",
+    "historyweibo://5210343640924522",
+    "historyweibo://5176104262568309",
+    "historyweibo://5227385281578400",
+    "sinaweibo://detail?mblogid=5228690657248939",
+    "sinaweibo://detail?mblogid=5228692848771848",
+    "sinaweibo://detail?mblogid=5228690910741619",
+    "sinaweibo://detail?mblogid=5228687827141581",
+    "sinaweibo://detail?mblogid=5228598797534024",
+    "sinaweibo://detail?mblogid=5228689631481097",
+    "sinaweibo://detail?mblogid=5228686733476100",
+    "sinaweibo://detail?mblogid=5228694265663633",
+    "sinaweibo://detail?mblogid=5228686817101781",
+    "sinaweibo://detail?mblogid=5228706672672976",
+    "sinaweibo://detail?mblogid=5228706159396341",
+    "sinaweibo://detail?mblogid=5228705259718234",
+    "sinaweibo://detail?mblogid=5228704674613953",
+    "sinaweibo://detail?mblogid=5228704176540502",
+    "sinaweibo://detail?mblogid=5228703505188095",
+    "sinaweibo://detail?mblogid=5228702183983141",
+    "sinaweibo://detail?mblogid=5228699808958665",
+    "sinaweibo://detail?mblogid=5228696761535674",
+    "sinaweibo://detail?mblogid=5228696656677063",
+    "sinaweibo://detail?mblogid=5228693947416798",
+    "sinaweibo://detail?mblogid=5228690071881698",
+    "sinaweibo://detail?mblogid=4796971543693932",
+    "sinaweibo://detail?mblogid=5004646091329218"
+  ],
+  "media": [
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/0062pvhygy1i6ybt34m6tj313z1hgqo3.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/0062pvhygy1i6ybt34m6tj313z1hgqo3.jpg",
+      "alt": "小沐舟吖",
+      "width": 1924,
+      "height": 1439,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/0062pvhygy1i6ybt34m6tj313z1hgqo3.jpg"
+      ],
+      "user": "小沐舟吖"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/68daa069ly1hn3krxizdvj20b2054tal.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/68daa069ly1hn3krxizdvj20b2054tal.jpg",
+      "alt": "养生长寿V",
+      "width": 184,
+      "height": 398,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/68daa069ly1hn3krxizdvj20b2054tal.jpg"
+      ],
+      "user": "养生长寿V"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/001W3LkXly1i6wgog9n4zj609808emx502.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/001W3LkXly1i6wgog9n4zj609808emx502.jpg",
+      "alt": "生命时报",
+      "width": 302,
+      "height": 332,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/001W3LkXly1i6wgog9n4zj609808emx502.jpg"
+      ],
+      "user": "生命时报"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/006oFCBvly1hze44929fmj30xc0hvgs4.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/006oFCBvly1hze44929fmj30xc0hvgs4.jpg",
+      "alt": "DrX说",
+      "width": 643,
+      "height": 1200,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/006oFCBvly1hze44929fmj30xc0hvgs4.jpg"
+      ],
+      "user": "DrX说"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/404cdd30ly1i4mjl9a3maj20f00qot9g.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/404cdd30ly1i4mjl9a3maj20f00qot9g.jpg",
+      "alt": "厚恩投资张延昆",
+      "width": 960,
+      "height": 540,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/404cdd30ly1i4mjl9a3maj20f00qot9g.jpg"
+      ],
+      "user": "厚恩投资张延昆"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/006RBstMly1i6ycbsm82kj30k00zkq4r.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/006RBstMly1i6ycbsm82kj30k00zkq4r.jpg",
+      "alt": "DJ八花的公主_鲸落",
+      "width": 1280,
+      "height": 720,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx4.sinaimg.cn/large/006RBstMly1i6ycbsm82kj30k00zkq4r.jpg"
+      ],
+      "user": "DJ八花的公主_鲸落"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/008BL4d2ly1i6tbbe21wbj30sg0iz48j.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/008BL4d2ly1i6tbbe21wbj30sg0iz48j.jpg",
+      "alt": "中医眼科宋立",
+      "width": 683,
+      "height": 1024,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/008BL4d2ly1i6tbbe21wbj30sg0iz48j.jpg"
+      ],
+      "user": "中医眼科宋立"
+    }
+  ],
+  "html_path": "data/aicard/hourly/2025-11-03/01/5.html"
+}

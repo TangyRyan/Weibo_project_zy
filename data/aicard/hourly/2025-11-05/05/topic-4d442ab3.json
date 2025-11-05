@@ -1,0 +1,441 @@
+{
+  "meta": {
+    "query": "#这周五就立冬了#",
+    "status_code": 200,
+    "fetched_at": "2025-11-05T05:35:13+08:00",
+    "response": {
+      "reference_num": 56,
+      "profile_image_url": "",
+      "cot": 1,
+      "scheme": "sinaweibo://cardlist?containerid=100103type%3D225%26q%3D%23%E8%BF%99%E5%91%A8%E4%BA%94%E5%B0%B1%E7%AB%8B%E5%86%AC%E4%BA%86%23%26t%3D&extparam=ai_model%3Ddeepseek%26ori_ai_title%3D%E5%8F%82%E8%80%83%E5%8D%9A%E6%96%87%26material_version%3D1762291399",
+      "abtest_info": {
+        "chat_entrance": 1
+      },
+      "analysis_time": 1762291616,
+      "msg_format": "markdown",
+      "model": "deepseek",
+      "qs_status_info": "{\"qs_q_status\":0,\"qs_u_status\":0,\"ab_lab\":{},\"qs_r_status\":0,\"qs_status\":0,\"qs_c_status\":8388608}",
+      "uid": "",
+      "current_time": 1762292114,
+      "user_info": {},
+      "query_category": "",
+      "wenda": {
+        "forward_gen": 0
+      },
+      "version": "2025-11-05 05:23:19.003000-6090",
+      "q_attr": {
+        "from_uid": "",
+        "from_request_id": "",
+        "reply_cid": "",
+        "comment_from_type": "",
+        "mid": ""
+      },
+      "query": "#这周五就立冬了#",
+      "zs_risk_control": {
+        "think_text_close": 0,
+        "land_button_close": 0
+      },
+      "qs_status": 0,
+      "reliable_tips": "{\"gold_orange_v_mids\": [\"5229450467999765\", \"5229019996097438\", \"5229213382872074\", \"5229215382765915\", \"5229327907554173\", \"5229187176333403\", \"5223953296525673\", \"5228180811024091\", \"5228223283855702\", \"5227798777039544\", \"5229207657121355\", \"5228867872885035\", \"5229269179173839\", \"5227295209422865\", \"5226783949462323\", \"5228085645413004\", \"5224709325324722\", \"5224823548544953\", \"5205317219779258\", \"5229410648332736\", \"5229252878533164\", \"5229279053089795\", \"5229315727036160\", \"5229250476769389\", \"5228426287907497\", \"5229062629099445\", \"5229339591312371\", \"5229430972875904\", \"5200710155373847\", \"5224822605090901\", \"5224869235264024\", \"5227734500638884\", \"5228975874116406\"], \"gold_orange_v_ratio\": \"59%\", \"media_mids\": [\"5229351060900556\", \"5229234773820489\", \"5229145913296070\", \"5228783519926718\", \"5228051194447132\"], \"media_ratio\": \"9%\", \"verified_mids\": [\"5229202767089166\", \"5229289352992589\", \"5227749259348076\", \"5229448884651136\", \"5229207031385907\", \"5228560156721688\", \"5228841046117733\", \"5229012529186810\"], \"verified_ratio\": \"14%\", \"normal_mids\": [\"5229425861856173\", \"5229441472004237\", \"5229434745127353\", \"5229313512180593\", \"5229414621119642\", \"5229440595919556\", \"5229439786942925\", \"5229434849723565\", \"4435410379506512\", \"5097807505789224\"], \"normal_ratio\": \"18%\", \"ref_mid_rank\": {\"5229351060900556\": {\"rank\": 1}, \"5229450467999765\": {\"rank\": 24}, \"5229019996097438\": {\"rank\": 9}, \"5229202767089166\": {\"rank\": 36}, \"5229289352992589\": {\"rank\": 35}, \"5229425861856173\": {\"rank\": 31}, \"5229234773820489\": {\"rank\": 39}, \"5229213382872074\": {\"rank\": 52}, \"5229215382765915\": {\"rank\": 53}, \"5229327907554173\": {\"rank\": 10}, \"5229187176333403\": {\"rank\": 54}, \"5223953296525673\": {\"rank\": 12}, \"5228180811024091\": {\"rank\": 14}, \"5228223283855702\": {\"rank\": 60}, \"5227749259348076\": {\"rank\": 3}, \"5227798777039544\": {\"rank\": 46}, \"5229207657121355\": {\"rank\": 43}, \"5229441472004237\": {\"rank\": 26}, \"5229434745127353\": {\"rank\": 30}, \"5229313512180593\": {\"rank\": 33}, \"5228867872885035\": {\"rank\": 23}, \"5229448884651136\": {\"rank\": 25}, \"5229414621119642\": {\"rank\": 32}, \"5229269179173839\": {\"rank\": 48}, \"5227295209422865\": {\"rank\": 6}, \"5226783949462323\": {\"rank\": 15}, \"5228085645413004\": {\"rank\": 41}, \"5229207031385907\": {\"rank\": 45}, \"5229145913296070\": {\"rank\": 2}, \"5224709325324722\": {\"rank\": 4}, \"5228560156721688\": {\"rank\": 5}, \"5228783519926718\": {\"rank\": 7}, \"5228051194447132\": {\"rank\": 8}, \"5224823548544953\": {\"rank\": 11}, \"5205317219779258\": {\"rank\": 13}, \"5229410648332736\": {\"rank\": 21}, \"5228841046117733\": {\"rank\": 22}, \"5229440595919556\": {\"rank\": 27}, \"5229439786942925\": {\"rank\": 28}, \"5229434849723565\": {\"rank\": 29}, \"4435410379506512\": {\"rank\": 34}, \"5229252878533164\": {\"rank\": 37}, \"5229279053089795\": {\"rank\": 38}, \"5229315727036160\": {\"rank\": 40}, \"5229250476769389\": {\"rank\": 42}, \"5228426287907497\": {\"rank\": 44}, \"5229062629099445\": {\"rank\": 47}, \"5229339591312371\": {\"rank\": 49}, \"5229430972875904\": {\"rank\": 50}, \"5200710155373847\": {\"rank\": 51}, \"5224822605090901\": {\"rank\": 55}, \"5097807505789224\": {\"rank\": 56}, \"5224869235264024\": {\"rank\": 57}, \"5227734500638884\": {\"rank\": 58}, \"5228975874116406\": {\"rank\": 59}, \"5229012529186810\": {\"rank\": 61}}}",
+      "ab_suffix": "default",
+      "status": 2,
+      "share_info": {
+        "display_name": "#这周五就立冬了#",
+        "status": 3,
+        "url": "http://t.cn/AXAHUbMB",
+        "page_id": "23296457b4fa495396979cf30018f461e557d4",
+        "comment_content": "",
+        "unify_md5": "4d442ab3cb904f107b9199cd09b9ac49",
+        "tips": "#这周五就立冬了#的相关内容，来智搜看看"
+      },
+      "msg": "<think><br><br>嗯，用户查询“这周五就立冬了”，需要整理全面的立冬信息。今天是2025年11月5日，立冬就在11月7日（周五）中午12:03:48。先梳理核心信息维度：<br><br>**时间与气候**：立冬准确时间是7日12:03:48，冷空气4日夜间已开始影响全国，北方降温显著（乌鲁木齐7日预计-1℃），但江南可能出现“小阳春”回暖（南昌7日达26℃），华南仍较暖（福州29℃）。这种南北温差导致“短袖与羽绒服同框”的奇特现象。<br><br>**地域习俗**：北方必吃饺子，南方差异明显——江苏咸肉菜饭、南京吃生葱、绍兴酿黄酒。养生方面，中医强调早睡晚起，温补食材分体质：阳虚选羊肉桂圆，阴虚选鸭肉银耳。<br><br>**健康防护**：需重点防范呼吸道疾病（流感高发期）和心脑血管风险（老年人避免晨间外出）。腿部保暖尤为重要，膝关节受寒易引发疼痛。<br><br>**特色活动**：河南许昌有《第五人格》立冬线下活动（8-9日），完成游戏可得节气头像；北京798同期举办薛继业西藏主题画展。<br><br>**网络热议**：年轻人吐槽“秋装还没买就入冬”，华南用户感叹“开空调度立冬”。同时气象部门辟谣“凭立冬天气预测整个冬季”的说法，强调气候预测需综合大气环流等复杂因素。<br><br>最后补充两个趣味点：民间生肖运势称虎兔羊本月运势佳，而淘宝推出“火锅免单卡”营销。信息整合时需注意南北差异的对比呈现，并将严谨数据（如降温幅度）与趣味话题（如秋裤之争）平衡编排。<br><br></think><br>### ⏰ 一、立冬时间与气候特点  <br>1. **准确时间**：2025年立冬时间为 **11月7日（周五）12:03:48**，标志冬季正式开启。```wbCustomBlock{\"type\": \"quoted\", \"index\": 3, \"data\": {\"num\": [1, 24], \"version\": 2, \"quote_list\": [{\"name\": \"人民日报\", \"scheme\": \"sinaweibo://detail?mblogid=5229351060900556\", \"index\": 1, \"label\": \"大v\"}, {\"name\": \"ID热爱展览馆\", \"scheme\": \"sinaweibo://detail?mblogid=5229450467999765\", \"index\": 24, \"label\": \"\"}], \"name\": \"人民日报\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.1018.1018.50/0033ImPzly8h8vgemh8kxj60sa0sadgw02.jpg?KID=imgbed,tva&Expires=1762302199&ssig=lKoy7arxwp\", \"scheme\": \"sinaweibo://detail?mblogid=5229351060900556\", \"vType\": 3}}```  <br>2. **南北气候差异**：  <br>   - **北方**：昼夜温差超15℃，立冬后可能迎来初雪，需备羽绒服、厚靴防寒。```wbCustomBlock{\"type\": \"quoted\", \"index\": 5, \"data\": {\"num\": [9, 24, 36], \"version\": 2, \"quote_list\": [{\"name\": \"weatherman_信欣\", \"scheme\": \"sinaweibo://detail?mblogid=5229019996097438\", \"index\": 9, \"label\": \"大v\"}, {\"name\": \"ID热爱展览馆\", \"scheme\": \"sinaweibo://detail?mblogid=5229450467999765\", \"index\": 24, \"label\": \"\"}, {\"name\": \"央证公开课\", \"scheme\": \"sinaweibo://detail?mblogid=5229202767089166\", \"index\": 36, \"label\": \"\"}], \"name\": \"weatherman_信欣\", \"img\": \"https://tva4.sinaimg.cn/crop.0.0.180.180.50/7272f34djw1e8qgp5bmzyj2050050aa8.jpg?KID=imgbed,tva&Expires=1762302199&ssig=USp0nDPiX%2B\", \"scheme\": \"sinaweibo://detail?mblogid=5229019996097438\", \"vType\": 0}}```  <br>   - **江南**：可能出现短暂“小阳春”（如南昌7日最高26℃），但随后转阴雨寒冻，需防潮保暖。```wbCustomBlock{\"type\": \"quoted\", \"index\": 6, \"data\": {\"num\": [35], \"version\": 2, \"quote_list\": [{\"name\": \"南昌天气\", \"scheme\": \"sinaweibo://detail?mblogid=5229289352992589\", \"index\": 35, \"label\": \"大v\"}], \"name\": \"南昌天气\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.739.739.50/8ebfe122ly8h8w2x6iyyzj20kj0kj3zt.jpg?KID=imgbed,tva&Expires=1762302199&ssig=exRbapVkz0\", \"scheme\": \"sinaweibo://detail?mblogid=5229289352992589\", \"vType\": 1}}```  <br>   - **华南**（如福州）：气温仍达29℃左右，12月后才渐凉，薄衫加外套即可。```wbCustomBlock{\"type\": \"quoted\", \"index\": 7, \"data\": {\"num\": [24, 31], \"version\": 2, \"quote_list\": [{\"name\": \"ID热爱展览馆\", \"scheme\": \"sinaweibo://detail?mblogid=5229450467999765\", \"index\": 24, \"label\": \"\"}, {\"name\": \"想吃柚柚zi\", \"scheme\": \"sinaweibo://detail?mblogid=5229425861856173\", \"index\": 31, \"label\": \"\"}]}}```  <br>3. **冷空气动态**：11月4日起较强冷空气自西向东影响全国，北方局地降温超10℃。```wbCustomBlock{\"type\": \"quoted\", \"index\": 8, \"data\": {\"num\": [36, 39], \"version\": 2, \"quote_list\": [{\"name\": \"大皖新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5229234773820489\", \"index\": 39, \"label\": \"大v\"}, {\"name\": \"央证公开课\", \"scheme\": \"sinaweibo://detail?mblogid=5229202767089166\", \"index\": 36, \"label\": \"\"}], \"name\": \"大皖新闻\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.1023.1023.50/001Uy0Wgly8hbemb0m53cj60sg0sfmy202.jpg?KID=imgbed,tva&Expires=1762302199&ssig=suIELynMXF\", \"scheme\": \"sinaweibo://detail?mblogid=5229234773820489\", \"vType\": 3}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5229019996097438&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=0&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tva4.sinaimg.cn/crop.0.0.180.180.50/7272f34djw1e8qgp5bmzyj2050050aa8.jpg?KID=imgbed,tva&Expires=1762302199&ssig=USp0nDPiX%2B) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">weatherman_信欣</span><img src=\"http://wx3.sinaimg.cn/middle/7272f34dly1i6zdhl1uzfj20xd0p07wh.jpg\" data-width=900 data-height=1201></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5229289352992589&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=0&multi_count=1\"><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.739.739.50/8ebfe122ly8h8w2x6iyyzj20kj0kj3zt.jpg?KID=imgbed,tva&Expires=1762302199&ssig=exRbapVkz0) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">南昌天气</span><img src=\"http://wx1.sinaimg.cn/middle/8ebfe122gy1i707ho4km5j21dz0nkn8d.jpg\" data-width=848 data-height=1799></div><div data-type=\"v\" data-scheme=\"sinaweibo://multimedia?mix_mid=5229351060900556&mix_index=0&multi_paragraph=0&multi_count=2\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.1018.1018.50/0033ImPzly8h8vgemh8kxj60sa0sadgw02.jpg?KID=imgbed,tva&Expires=1762302199&ssig=lKoy7arxwp) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">人民日报</span><img src=\"http://wx2.sinaimg.cn/middle/0033ImPzly1i70fs3ty1rj60k00zkq3x02.jpg\" data-width=1280 data-height=720></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5229234773820489&multi_paragraph=0&multi_count=3\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.1023.1023.50/001Uy0Wgly8hbemb0m53cj60sg0sfmy202.jpg?KID=imgbed,tva&Expires=1762302199&ssig=suIELynMXF) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">大皖新闻</span><img src=\"http://wx2.sinaimg.cn/middle/001Uy0Wgly1i702cf7do5j60k00zk0uc02.jpg\" data-width=1280 data-height=720></div></media-block><br>### 🥟 二、传统习俗与饮食文化  <br>1. **地域习俗**：  <br>   - **北方**：必吃饺子（“交子之时”寓意秋冬交替），囤白菜、萝卜。```wbCustomBlock{\"type\": \"quoted\", \"index\": 12, \"data\": {\"num\": [52], \"version\": 2, \"quote_list\": [{\"name\": \"塔上小南瓜\", \"scheme\": \"sinaweibo://detail?mblogid=5229213382872074\", \"index\": 52, \"label\": \"\"}]}}```  <br>   - **南方**：  <br>     - 江苏吃咸肉菜饭（秋菜+腊肉新米蒸制）；```wbCustomBlock{\"type\": \"quoted\", \"index\": 14, \"data\": {\"num\": [53], \"version\": 2, \"quote_list\": [{\"name\": \"螺蛳粉哥\", \"scheme\": \"sinaweibo://detail?mblogid=5229215382765915\", \"index\": 53, \"label\": \"大v\"}], \"name\": \"螺蛳粉哥\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.664.664.50/a03f52ealy8gdi5qnz4iej20ig0igjs2.jpg?KID=imgbed,tva&Expires=1762302199&ssig=SATPrz6mGa\", \"scheme\": \"sinaweibo://detail?mblogid=5229215382765915\", \"vType\": 0}}```  <br>     - 南京食生葱（“一日半根葱，入冬腿带风”）；  <br>     - 绍兴酿黄酒（低温发酵风味更佳）。  <br>2. **暖心食谱**：推荐羊肉汤、萝卜炖牛腩驱寒；黑米粥、芝麻补肾；忌食螃蟹、西瓜等寒凉食物。```wbCustomBlock{\"type\": \"quoted\", \"index\": 17, \"data\": {\"num\": [10, 54], \"version\": 2, \"quote_list\": [{\"name\": \"山東_赵军\", \"scheme\": \"sinaweibo://detail?mblogid=5229327907554173\", \"index\": 10, \"label\": \"大v\"}, {\"name\": \"梦济南\", \"scheme\": \"sinaweibo://detail?mblogid=5229187176333403\", \"index\": 54, \"label\": \"\"}], \"name\": \"山東_赵军\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.1002.1002.50/003m7nQlly8guye24laoyj60ru0ruab602.jpg?KID=imgbed,tva&Expires=1762302199&ssig=KDhwG%2BADKq\", \"scheme\": \"sinaweibo://detail?mblogid=5229327907554173\", \"vType\": 0}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5229327907554173&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.1002.1002.50/003m7nQlly8guye24laoyj60ru0ruab602.jpg?KID=imgbed,tva&Expires=1762302199&ssig=KDhwG%2BADKq) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">山東_赵军</span><img src=\"http://wx1.sinaimg.cn/middle/b74c67d1ly1i70d4jzvgjj20u00mgae4.jpg\" data-width=808 data-height=1080></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5229213382872074&multi_paragraph=1&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/008kFVJlly8i5zxcjevypj30u00u0dkf.jpg?KID=imgbed,tva&Expires=1762302199&ssig=H3xM3Rlhln) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">塔上小南瓜</span><img src=\"http://wx4.sinaimg.cn/middle/008kFVJlly1i6zzylvrthj30k00zk0ug.jpg\" data-width=1280 data-height=720></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5229215382765915&multi_paragraph=1&multi_count=2\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.664.664.50/a03f52ealy8gdi5qnz4iej20ig0igjs2.jpg?KID=imgbed,tva&Expires=1762302199&ssig=SATPrz6mGa) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">螺蛳粉哥</span><img src=\"http://wx2.sinaimg.cn/middle/a03f52eagy1i7006uh0toj20k00qnq5p.jpg\" data-width=959 data-height=720></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5229187176333403&multi_paragraph=1&multi_count=3\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.22.5.2025.2025.50/94898261ly8ff8090o0quj21kw1kwwwd.jpg?KID=imgbed,tva&Expires=1762302199&ssig=8i0DiQ0juL) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">梦济南</span><img src=\"http://wx4.sinaimg.cn/middle/94898261ly1i6zwxmsw9uj20k00zkmz0.jpg\" data-width=1280 data-height=720></div></media-block><br>### ❄️ 三、健康防护与养生重点  <br>1. **防寒关键部位**：  <br>   - **头颈**：围巾/帽子防风邪入侵；  <br>   - **腰腹**：暖宝宝贴关元穴防受凉腹痛；  <br>   - **膝关节**：及时穿秋裤，寒冷易引发疼痛。```wbCustomBlock{\"type\": \"quoted\", \"index\": 23, \"data\": {\"num\": [12], \"version\": 2, \"quote_list\": [{\"name\": \"脑洞科技妹\", \"scheme\": \"sinaweibo://detail?mblogid=5223953296525673\", \"index\": 12, \"label\": \"大v\"}], \"name\": \"脑洞科技妹\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.827.827.50/ec264fc7ly8hxlmntmj96j20mz0mzacs.jpg?KID=imgbed,tva&Expires=1762302199&ssig=oJ8yhGfjPK\", \"scheme\": \"sinaweibo://detail?mblogid=5223953296525673\", \"vType\": 0}}```  <br>2. **呼吸道疾病高发**：  <br>   - 流感季来临，出现高热、全身酸痛需48小时内就医用药；```wbCustomBlock{\"type\": \"quoted\", \"index\": 25, \"data\": {\"num\": [14], \"version\": 2, \"quote_list\": [{\"name\": \"李青大夫\", \"scheme\": \"sinaweibo://detail?mblogid=5228180811024091\", \"index\": 14, \"label\": \"大v\"}], \"name\": \"李青大夫\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/53a678d3ly8gdiksiya5dj20u00u0dif.jpg?KID=imgbed,tva&Expires=1762302199&ssig=GlazBNQ3vg\", \"scheme\": \"sinaweibo://detail?mblogid=5228180811024091\", \"vType\": 0}}```  <br>   - 北方供暖区注意加湿，南方防“骤冷骤热”引发感冒。  <br>3. **起居调整**：早睡晚起（尽量22:30前入睡），避免清晨剧烈运动，老年人需监测血压。```wbCustomBlock{\"type\": \"quoted\", \"index\": 27, \"data\": {\"num\": [60], \"version\": 2, \"quote_list\": [{\"name\": \"选择中医__董洪涛\", \"scheme\": \"sinaweibo://detail?mblogid=5228223283855702\", \"index\": 60, \"label\": \"大v\"}], \"name\": \"选择中医__董洪涛\", \"img\": \"https://tva3.sinaimg.cn/crop.0.0.180.180.50/55fe2b65jw1e8qgp5bmzyj2050050aa8.jpg?KID=imgbed,tva&Expires=1762302199&ssig=CrCGSgc2WQ\", \"scheme\": \"sinaweibo://detail?mblogid=5228223283855702\", \"vType\": 0}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5228180811024091&from=search&content_show=1&mix_index=5&hide_index=1&multi_paragraph=2&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/53a678d3ly8gdiksiya5dj20u00u0dif.jpg?KID=imgbed,tva&Expires=1762302199&ssig=GlazBNQ3vg) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">李青大夫</span><img src=\"http://wx3.sinaimg.cn/middle/008cQUM9ly8i6w14qsuf4j30u01hc7mj.jpg\" data-width=1920 data-height=1080></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5223953296525673&multi_paragraph=2&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.827.827.50/ec264fc7ly8hxlmntmj96j20mz0mzacs.jpg?KID=imgbed,tva&Expires=1762302199&ssig=oJ8yhGfjPK) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">脑洞科技妹</span><img src=\"http://wx2.sinaimg.cn/middle/ec264fc7gy1i6j7udlam8j20zk0k0q49.jpg\" data-width=720 data-height=1280></div></media-block><br>### 🎪 四、特色活动预告  <br>1. **河南许昌**：《第五人格》立冬主题线下活动（11月8日-9日），参与互动游戏可获节气头像、限定徽章（需提前报名，游戏对局≥1000场）。```wbCustomBlock{\"type\": \"quoted\", \"index\": 30, \"data\": {\"num\": [3], \"version\": 2, \"quote_list\": [{\"name\": \"网易第五人格\", \"scheme\": \"sinaweibo://detail?mblogid=5227749259348076\", \"index\": 3, \"label\": \"大v\"}], \"name\": \"网易第五人格\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.512.512.50/006HyQKGly8hzijvllo2pj30e80e8abg.jpg?KID=imgbed,tva&Expires=1762302199&ssig=XiRFYeKW8k\", \"scheme\": \"sinaweibo://detail?mblogid=5227749259348076\", \"vType\": 7}}```  <br>2. **北京**：薛继业“山外”西藏主题画展（11月7日开幕，798艺术区）。```wbCustomBlock{\"type\": \"quoted\", \"index\": 31, \"data\": {\"num\": [46], \"version\": 2, \"quote_list\": [{\"name\": \"薛继业\", \"scheme\": \"sinaweibo://detail?mblogid=5227798777039544\", \"index\": 46, \"label\": \"\"}], \"name\": \"薛继业\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.1.1360.1360.50/005BHmQ1ly8h6f6yw31m9j30u00u0n0u.jpg?KID=imgbed,tva&Expires=1762302199&ssig=JqS0l7wezI\", \"scheme\": \"sinaweibo://detail?mblogid=5227798777039544\", \"vType\": 0}}```  <br>3. **线上福利**：淘宝搜“闪购火锅”，抢30元火锅免单卡（11月2日-7日）。```wbCustomBlock{\"type\": \"quoted\", \"index\": 32, \"data\": {\"num\": [43], \"version\": 2, \"quote_list\": [{\"name\": \"唯一纯白的茉莉花儿\", \"scheme\": \"sinaweibo://detail?mblogid=5229207657121355\", \"index\": 43, \"label\": \"\"}], \"name\": \"唯一纯白的茉莉花儿\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.914.914.50/006y3coPly8hy0y41p3q9j30pe0pewgs.jpg?KID=imgbed,tva&Expires=1762302199&ssig=GDpCup%2BPAA\", \"scheme\": \"sinaweibo://detail?mblogid=5229207657121355\", \"vType\": 0}}```<br>### 💬 五、网友热议与趣味话题  <br>1. **南北温差梗**：  <br>   - 北方网友：“已供暖” vs 华南网友：“谁懂我还在开空调”；```wbCustomBlock{\"type\": \"quoted\", \"index\": 36, \"data\": {\"num\": [26, 30], \"version\": 2, \"quote_list\": [{\"name\": \"荔枝球yu\", \"scheme\": \"sinaweibo://detail?mblogid=5229441472004237\", \"index\": 26, \"label\": \"\"}, {\"name\": \"Mayonnaise_pink\", \"scheme\": \"sinaweibo://detail?mblogid=5229434745127353\", \"index\": 30, \"label\": \"\"}]}}```  <br>   - 网友调侃：“上周穿短袖，这周立冬，秋装还没买到！”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 37, \"data\": {\"num\": [33], \"version\": 2, \"quote_list\": [{\"name\": \"一条快乐咸鱼王\", \"scheme\": \"sinaweibo://detail?mblogid=5229313512180593\", \"index\": 33, \"label\": \"\"}]}}```  <br>2. **冬日仪式感**：  <br>   - 与朋友吃火锅、泡面，围炉煮茶，静候初雪。```wbCustomBlock{\"type\": \"quoted\", \"index\": 39, \"data\": {\"num\": [23, 25, 32, 48, 52], \"version\": 2, \"quote_list\": [{\"name\": \"明道易\", \"scheme\": \"sinaweibo://detail?mblogid=5228867872885035\", \"index\": 23, \"label\": \"\"}, {\"name\": \"眼泪也很重要\", \"scheme\": \"sinaweibo://detail?mblogid=5229448884651136\", \"index\": 25, \"label\": \"\"}, {\"name\": \"久伴不乖\", \"scheme\": \"sinaweibo://detail?mblogid=5229414621119642\", \"index\": 32, \"label\": \"\"}, {\"name\": \"展丞_心动启明站\", \"scheme\": \"sinaweibo://detail?mblogid=5229269179173839\", \"index\": 48, \"label\": \"\"}, {\"name\": \"塔上小南瓜\", \"scheme\": \"sinaweibo://detail?mblogid=5229213382872074\", \"index\": 52, \"label\": \"\"}], \"name\": \"明道易\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/6427f34fly8hyrbtke4ygj20u00u042r.jpg?KID=imgbed,tva&Expires=1762302199&ssig=P5CXyNGKAH\", \"scheme\": \"sinaweibo://detail?mblogid=5228867872885035\", \"vType\": 0}}```  <br>3. **民间运势参考**：  <br>   - 丁亥月（11.7-12.6）易现工作变动，建议冷静处理争端；  <br>   - 红榜生肖：虎、兔、羊（人缘佳）；需谨慎生肖：蛇、猴、猪（防琐事纠纷）。```wbCustomBlock{\"type\": \"quoted\", \"index\": 42, \"data\": {\"num\": [6, 15, 41], \"version\": 2, \"quote_list\": [{\"name\": \"千江意\", \"scheme\": \"sinaweibo://detail?mblogid=5226783949462323\", \"index\": 15, \"label\": \"\"}, {\"name\": \"凌霄子02\", \"scheme\": \"sinaweibo://detail?mblogid=5227295209422865\", \"index\": 6, \"label\": \"\"}, {\"name\": \"云柒好运\", \"scheme\": \"sinaweibo://detail?mblogid=5228085645413004\", \"index\": 41, \"label\": \"\"}], \"name\": \"千江意\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/0073WfYely8gerayeolcpj30u00u0myi.jpg?KID=imgbed,tva&Expires=1762302199&ssig=4rQ%2BDXlZLS\", \"scheme\": \"sinaweibo://detail?mblogid=5226783949462323\", \"vType\": 0}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5228867872885035&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=4&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/6427f34fly8hyrbtke4ygj20u00u042r.jpg?KID=imgbed,tva&Expires=1762302199&ssig=P5CXyNGKAH) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">明道易</span><img src=\"http://wx2.sinaimg.cn/middle/6427f34fly1i6ywa340igj22bc3h04qr.jpg\" data-width=4500 data-height=3000></div></media-block><br>### ⚠️ 六、辟谣与科学提醒  <br>- **误区**：“凭立冬当天天气预测整个冬季”不科学！气象部门强调，气候预测需综合大气环流、海洋温度等复杂因素，单日天气无参考性。```wbCustomBlock{\"type\": \"quoted\", \"index\": 45, \"data\": {\"num\": [39], \"version\": 2, \"quote_list\": [{\"name\": \"大皖新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5229234773820489\", \"index\": 39, \"label\": \"\"}]}}```  <br>- **取暖安全**：电暖器远离易燃物，电热毯勿彻夜使用，心脑血管患者避免清晨外出。```wbCustomBlock{\"type\": \"quoted\", \"index\": 46, \"data\": {\"num\": [45], \"version\": 2, \"quote_list\": [{\"name\": \"昆明交警\", \"scheme\": \"sinaweibo://detail?mblogid=5229207031385907\", \"index\": 45, \"label\": \"\"}], \"name\": \"昆明交警\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/67640903ly8h8vj1ky9lfj20u00u00v3.jpg?KID=imgbed,tva&Expires=1762302199&ssig=G4uFUWsVKR\", \"scheme\": \"sinaweibo://detail?mblogid=5229207031385907\", \"vType\": 1}}```  <br><br>> ❄️ **小结**：立冬是沉淀蓄力的开端，顺应“冬藏”之道——备暖衣、煮热汤、养身心，静候初雪降临。<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5229207031385907&multi_paragraph=5&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/67640903ly8h8vj1ky9lfj20u00u00v3.jpg?KID=imgbed,tva&Expires=1762302199&ssig=G4uFUWsVKR) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">昆明交警</span><img src=\"http://wx1.sinaimg.cn/middle/67640903gy1i6zz8i5j71j20mh0u0q5r.jpg\" data-width=1080 data-height=809></div></media-block><br>",
+      "page_id": "23296457b4fa495396979cf30018f461e557d4",
+      "mid_list": null,
+      "msg_json": "{}",
+      "link_list": [
+        "sinaweibo://detail?mblogid=5229351060900556",
+        "sinaweibo://detail?mblogid=5229145913296070",
+        "sinaweibo://detail?mblogid=5227749259348076",
+        "sinaweibo://detail?mblogid=5224709325324722",
+        "sinaweibo://detail?mblogid=5228560156721688",
+        "sinaweibo://detail?mblogid=5227295209422865",
+        "sinaweibo://detail?mblogid=5228783519926718",
+        "sinaweibo://detail?mblogid=5228051194447132",
+        "sinaweibo://detail?mblogid=5229019996097438",
+        "sinaweibo://detail?mblogid=5229327907554173",
+        "sinaweibo://detail?mblogid=5224823548544953",
+        "sinaweibo://detail?mblogid=5223953296525673",
+        "sinaweibo://detail?mblogid=5205317219779258",
+        "sinaweibo://detail?mblogid=5228180811024091",
+        "sinaweibo://detail?mblogid=5226783949462323",
+        "broadsocial_res://",
+        "broadsocial_res://",
+        "historyweibo://5228079228126901",
+        "historyweibo://5229145913296070",
+        "historyweibo://5224815321416369",
+        "sinaweibo://detail?mblogid=5229410648332736",
+        "sinaweibo://detail?mblogid=5228841046117733",
+        "sinaweibo://detail?mblogid=5228867872885035",
+        "sinaweibo://detail?mblogid=5229450467999765",
+        "sinaweibo://detail?mblogid=5229448884651136",
+        "sinaweibo://detail?mblogid=5229441472004237",
+        "sinaweibo://detail?mblogid=5229440595919556",
+        "sinaweibo://detail?mblogid=5229439786942925",
+        "sinaweibo://detail?mblogid=5229434849723565",
+        "sinaweibo://detail?mblogid=5229434745127353",
+        "sinaweibo://detail?mblogid=5229425861856173",
+        "sinaweibo://detail?mblogid=5229414621119642",
+        "sinaweibo://detail?mblogid=5229313512180593",
+        "sinaweibo://detail?mblogid=4435410379506512",
+        "sinaweibo://detail?mblogid=5229289352992589",
+        "sinaweibo://detail?mblogid=5229202767089166",
+        "sinaweibo://detail?mblogid=5229252878533164",
+        "sinaweibo://detail?mblogid=5229279053089795",
+        "sinaweibo://detail?mblogid=5229234773820489",
+        "sinaweibo://detail?mblogid=5229315727036160",
+        "sinaweibo://detail?mblogid=5228085645413004",
+        "sinaweibo://detail?mblogid=5229250476769389",
+        "sinaweibo://detail?mblogid=5229207657121355",
+        "sinaweibo://detail?mblogid=5228426287907497",
+        "sinaweibo://detail?mblogid=5229207031385907",
+        "sinaweibo://detail?mblogid=5227798777039544",
+        "sinaweibo://detail?mblogid=5229062629099445",
+        "sinaweibo://detail?mblogid=5229269179173839",
+        "sinaweibo://detail?mblogid=5229339591312371",
+        "sinaweibo://detail?mblogid=5229430972875904",
+        "sinaweibo://detail?mblogid=5200710155373847",
+        "sinaweibo://detail?mblogid=5229213382872074",
+        "sinaweibo://detail?mblogid=5229215382765915",
+        "sinaweibo://detail?mblogid=5229187176333403",
+        "sinaweibo://detail?mblogid=5224822605090901",
+        "sinaweibo://detail?mblogid=5097807505789224",
+        "sinaweibo://detail?mblogid=5224869235264024",
+        "sinaweibo://detail?mblogid=5227734500638884",
+        "sinaweibo://detail?mblogid=5228975874116406",
+        "sinaweibo://detail?mblogid=5228223283855702",
+        "sinaweibo://detail?mblogid=5229012529186810"
+      ],
+      "status_stage": 4,
+      "basemodel": "实验组4",
+      "top_quote_list": {},
+      "sorted_material_list": null,
+      "short_url": "http://t.cn/AXAHU706",
+      "card_multimodal": {
+        "type": "mediablock",
+        "data": [
+          {
+            "user_avatar": "https://tva4.sinaimg.cn/crop.0.0.180.180.50/7272f34djw1e8qgp5bmzyj2050050aa8.jpg?KID=imgbed,tva&Expires=1762302199&ssig=USp0nDPiX%2B",
+            "cur_mid": "5229019996097438",
+            "video_url": "",
+            "h": 900,
+            "hit_score_new": 62.060547,
+            "doc_score": 3742,
+            "img_pid": "7272f34dly1i6zdhl1uzfj20xd0p07wh",
+            "vtype": 0,
+            "click_rate": 0.06,
+            "click_num": 0,
+            "user_name": "weatherman_信欣",
+            "w": 1201,
+            "hit_score_final": 69.236328,
+            "type": "p",
+            "scheme": "sinaweibo://multimedia?mix_mid=5229019996097438&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=0&multi_count=0",
+            "img": "http://wx3.sinaimg.cn/middle/7272f34dly1i6zdhl1uzfj20xd0p07wh.jpg"
+          },
+          {
+            "user_avatar": "https://tvax1.sinaimg.cn/crop.0.0.739.739.50/8ebfe122ly8h8w2x6iyyzj20kj0kj3zt.jpg?KID=imgbed,tva&Expires=1762302199&ssig=exRbapVkz0",
+            "cur_mid": "5229289352992589",
+            "video_url": "",
+            "h": 848,
+            "hit_score_new": 94.042969,
+            "doc_score": 3798,
+            "img_pid": "8ebfe122gy1i707ho4km5j21dz0nkn8d",
+            "vtype": 1,
+            "click_rate": 0.06,
+            "click_num": 0,
+            "user_name": "南昌天气",
+            "w": 1799,
+            "hit_score_final": 88.425781,
+            "type": "p",
+            "scheme": "sinaweibo://multimedia?mix_mid=5229289352992589&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=0&multi_count=1",
+            "img": "http://wx1.sinaimg.cn/middle/8ebfe122gy1i707ho4km5j21dz0nkn8d.jpg"
+          },
+          {
+            "user_avatar": "https://tvax4.sinaimg.cn/crop.0.0.1018.1018.50/0033ImPzly8h8vgemh8kxj60sa0sadgw02.jpg?KID=imgbed,tva&Expires=1762302199&ssig=lKoy7arxwp",
+            "cur_mid": "5229351060900556",
+            "video_url": "https://video.weibo.com/show?fid=1034:5229346861023285",
+            "h": 1280,
+            "hit_score_new": 0,
+            "doc_score": 0,
+            "img_pid": "0033ImPzly1i70fs3ty1rj60k00zkq3x02",
+            "vtype": 3,
+            "click_rate": 0.042328042328042,
+            "click_num": 0,
+            "user_name": "人民日报",
+            "w": 720,
+            "hit_score_final": 0,
+            "type": "v",
+            "scheme": "sinaweibo://multimedia?mix_mid=5229351060900556&mix_index=0&multi_paragraph=0&multi_count=2",
+            "img": "http://wx2.sinaimg.cn/middle/0033ImPzly1i70fs3ty1rj60k00zkq3x02.jpg"
+          },
+          {
+            "user_avatar": "https://tva4.sinaimg.cn/crop.0.0.180.180.50/7272f34djw1e8qgp5bmzyj2050050aa8.jpg?KID=imgbed,tva&Expires=1762302199&ssig=USp0nDPiX%2B",
+            "cur_mid": "5229019996097438",
+            "video_url": "",
+            "h": 900,
+            "hit_score_new": 62.060547,
+            "doc_score": 3742,
+            "img_pid": "7272f34dly1i6zdhl1uzfj20xd0p07wh",
+            "vtype": 0,
+            "click_rate": 0.06,
+            "click_num": 0,
+            "user_name": "weatherman_信欣",
+            "w": 1201,
+            "hit_score_final": 69.236328,
+            "type": "p",
+            "scheme": "sinaweibo://multimedia?mix_mid=5229019996097438&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=0&multi_count=0",
+            "img": "http://wx3.sinaimg.cn/middle/7272f34dly1i6zdhl1uzfj20xd0p07wh.jpg"
+          }
+        ]
+      },
+      "share_card_multimodal": {
+        "user_avatar": "https://tva4.sinaimg.cn/crop.0.0.180.180.50/7272f34djw1e8qgp5bmzyj2050050aa8.jpg?KID=imgbed,tva&Expires=1762302199&ssig=USp0nDPiX%2B",
+        "cur_mid": "5229019996097438",
+        "video_url": "",
+        "h": 900,
+        "hit_score_new": 62.060547,
+        "doc_score": 3742,
+        "img_pid": "7272f34dly1i6zdhl1uzfj20xd0p07wh",
+        "vtype": 0,
+        "click_rate": 0.06,
+        "click_num": 0,
+        "user_name": "weatherman_信欣",
+        "w": 1201,
+        "hit_score_final": 69.236328,
+        "type": "p",
+        "scheme": "sinaweibo://multimedia?mix_mid=5229019996097438&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=0&multi_count=0",
+        "img": "http://wx3.sinaimg.cn/middle/7272f34dly1i6zdhl1uzfj20xd0p07wh.jpg"
+      },
+      "query_field": "0",
+      "share_text": "#这周五就立冬了#的相关内容，来智搜看看",
+      "show_ctrl": {
+        "quote": {}
+      },
+      "loop_times": 200,
+      "ext_show": {},
+      "chat_status_stage": 1,
+      "news_analyze": {},
+      "comment_info": {},
+      "unify_md5": "4d442ab3cb904f107b9199cd09b9ac49"
+    }
+  },
+  "links": [
+    "sinaweibo://detail?mblogid=5229351060900556",
+    "sinaweibo://detail?mblogid=5229145913296070",
+    "sinaweibo://detail?mblogid=5227749259348076",
+    "sinaweibo://detail?mblogid=5224709325324722",
+    "sinaweibo://detail?mblogid=5228560156721688",
+    "sinaweibo://detail?mblogid=5227295209422865",
+    "sinaweibo://detail?mblogid=5228783519926718",
+    "sinaweibo://detail?mblogid=5228051194447132",
+    "sinaweibo://detail?mblogid=5229019996097438",
+    "sinaweibo://detail?mblogid=5229327907554173",
+    "sinaweibo://detail?mblogid=5224823548544953",
+    "sinaweibo://detail?mblogid=5223953296525673",
+    "sinaweibo://detail?mblogid=5205317219779258",
+    "sinaweibo://detail?mblogid=5228180811024091",
+    "sinaweibo://detail?mblogid=5226783949462323",
+    "broadsocial_res://",
+    "broadsocial_res://",
+    "historyweibo://5228079228126901",
+    "historyweibo://5229145913296070",
+    "historyweibo://5224815321416369",
+    "sinaweibo://detail?mblogid=5229410648332736",
+    "sinaweibo://detail?mblogid=5228841046117733",
+    "sinaweibo://detail?mblogid=5228867872885035",
+    "sinaweibo://detail?mblogid=5229450467999765",
+    "sinaweibo://detail?mblogid=5229448884651136",
+    "sinaweibo://detail?mblogid=5229441472004237",
+    "sinaweibo://detail?mblogid=5229440595919556",
+    "sinaweibo://detail?mblogid=5229439786942925",
+    "sinaweibo://detail?mblogid=5229434849723565",
+    "sinaweibo://detail?mblogid=5229434745127353",
+    "sinaweibo://detail?mblogid=5229425861856173",
+    "sinaweibo://detail?mblogid=5229414621119642",
+    "sinaweibo://detail?mblogid=5229313512180593",
+    "sinaweibo://detail?mblogid=4435410379506512",
+    "sinaweibo://detail?mblogid=5229289352992589",
+    "sinaweibo://detail?mblogid=5229202767089166",
+    "sinaweibo://detail?mblogid=5229252878533164",
+    "sinaweibo://detail?mblogid=5229279053089795",
+    "sinaweibo://detail?mblogid=5229234773820489",
+    "sinaweibo://detail?mblogid=5229315727036160",
+    "sinaweibo://detail?mblogid=5228085645413004",
+    "sinaweibo://detail?mblogid=5229250476769389",
+    "sinaweibo://detail?mblogid=5229207657121355",
+    "sinaweibo://detail?mblogid=5228426287907497",
+    "sinaweibo://detail?mblogid=5229207031385907",
+    "sinaweibo://detail?mblogid=5227798777039544",
+    "sinaweibo://detail?mblogid=5229062629099445",
+    "sinaweibo://detail?mblogid=5229269179173839",
+    "sinaweibo://detail?mblogid=5229339591312371",
+    "sinaweibo://detail?mblogid=5229430972875904",
+    "sinaweibo://detail?mblogid=5200710155373847",
+    "sinaweibo://detail?mblogid=5229213382872074",
+    "sinaweibo://detail?mblogid=5229215382765915",
+    "sinaweibo://detail?mblogid=5229187176333403",
+    "sinaweibo://detail?mblogid=5224822605090901",
+    "sinaweibo://detail?mblogid=5097807505789224",
+    "sinaweibo://detail?mblogid=5224869235264024",
+    "sinaweibo://detail?mblogid=5227734500638884",
+    "sinaweibo://detail?mblogid=5228975874116406",
+    "sinaweibo://detail?mblogid=5228223283855702",
+    "sinaweibo://detail?mblogid=5229012529186810"
+  ],
+  "media": [
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/7272f34dly1i6zdhl1uzfj20xd0p07wh.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/7272f34dly1i6zdhl1uzfj20xd0p07wh.jpg",
+      "alt": "weatherman_信欣",
+      "width": 900,
+      "height": 1201,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/7272f34dly1i6zdhl1uzfj20xd0p07wh.jpg"
+      ],
+      "user": "weatherman_信欣"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/8ebfe122gy1i707ho4km5j21dz0nkn8d.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/8ebfe122gy1i707ho4km5j21dz0nkn8d.jpg",
+      "alt": "南昌天气",
+      "width": 848,
+      "height": 1799,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/8ebfe122gy1i707ho4km5j21dz0nkn8d.jpg"
+      ],
+      "user": "南昌天气"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/0033ImPzly1i70fs3ty1rj60k00zkq3x02.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/0033ImPzly1i70fs3ty1rj60k00zkq3x02.jpg",
+      "alt": "人民日报",
+      "width": 1280,
+      "height": 720,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/0033ImPzly1i70fs3ty1rj60k00zkq3x02.jpg"
+      ],
+      "user": "人民日报"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/001Uy0Wgly1i702cf7do5j60k00zk0uc02.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/001Uy0Wgly1i702cf7do5j60k00zk0uc02.jpg",
+      "alt": "大皖新闻",
+      "width": 1280,
+      "height": 720,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx4.sinaimg.cn/large/001Uy0Wgly1i702cf7do5j60k00zk0uc02.jpg"
+      ],
+      "user": "大皖新闻"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/b74c67d1ly1i70d4jzvgjj20u00mgae4.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/b74c67d1ly1i70d4jzvgjj20u00mgae4.jpg",
+      "alt": "山東_赵军",
+      "width": 808,
+      "height": 1080,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/b74c67d1ly1i70d4jzvgjj20u00mgae4.jpg"
+      ],
+      "user": "山東_赵军"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/008kFVJlly1i6zzylvrthj30k00zk0ug.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/008kFVJlly1i6zzylvrthj30k00zk0ug.jpg",
+      "alt": "塔上小南瓜",
+      "width": 1280,
+      "height": 720,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/008kFVJlly1i6zzylvrthj30k00zk0ug.jpg"
+      ],
+      "user": "塔上小南瓜"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/a03f52eagy1i7006uh0toj20k00qnq5p.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/a03f52eagy1i7006uh0toj20k00qnq5p.jpg",
+      "alt": "螺蛳粉哥",
+      "width": 959,
+      "height": 720,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/a03f52eagy1i7006uh0toj20k00qnq5p.jpg"
+      ],
+      "user": "螺蛳粉哥"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/94898261ly1i6zwxmsw9uj20k00zkmz0.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/94898261ly1i6zwxmsw9uj20k00zkmz0.jpg",
+      "alt": "梦济南",
+      "width": 1280,
+      "height": 720,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx4.sinaimg.cn/large/94898261ly1i6zwxmsw9uj20k00zkmz0.jpg"
+      ],
+      "user": "梦济南"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/008cQUM9ly8i6w14qsuf4j30u01hc7mj.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/008cQUM9ly8i6w14qsuf4j30u01hc7mj.jpg",
+      "alt": "李青大夫",
+      "width": 1920,
+      "height": 1080,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/008cQUM9ly8i6w14qsuf4j30u01hc7mj.jpg"
+      ],
+      "user": "李青大夫"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/ec264fc7gy1i6j7udlam8j20zk0k0q49.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/ec264fc7gy1i6j7udlam8j20zk0k0q49.jpg",
+      "alt": "脑洞科技妹",
+      "width": 720,
+      "height": 1280,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/ec264fc7gy1i6j7udlam8j20zk0k0q49.jpg"
+      ],
+      "user": "脑洞科技妹"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/6427f34fly1i6ywa340igj22bc3h04qr.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/6427f34fly1i6ywa340igj22bc3h04qr.jpg",
+      "alt": "明道易",
+      "width": 4500,
+      "height": 3000,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/6427f34fly1i6ywa340igj22bc3h04qr.jpg"
+      ],
+      "user": "明道易"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/67640903gy1i6zz8i5j71j20mh0u0q5r.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/67640903gy1i6zz8i5j71j20mh0u0q5r.jpg",
+      "alt": "昆明交警",
+      "width": 1080,
+      "height": 809,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/67640903gy1i6zz8i5j71j20mh0u0q5r.jpg"
+      ],
+      "user": "昆明交警"
+    }
+  ],
+  "html_path": "data/aicard/hourly/2025-11-05/05/topic-4d442ab3.html"
+}

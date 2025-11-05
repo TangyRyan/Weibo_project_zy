@@ -1,0 +1,130 @@
+{
+  "meta": {
+    "query": "#贵阳辟谣出租车起步价下调7元#",
+    "status_code": 200,
+    "fetched_at": "2025-10-28T20:54:44+08:00",
+    "response": {
+      "current_time": 1761656085,
+      "profile_image_url": "",
+      "zs_risk_control": {
+        "ban_chat_enterance": 1,
+        "think_text_close": 0,
+        "land_button_close": 0
+      },
+      "analysis_time": 1761655579,
+      "status": 2,
+      "qs_status_info": "{\"qs_q_status\":256,\"qs_c_status\":8388608,\"ab_lab\":{},\"qs_u_status\":0,\"qs_r_status\":0,\"qs_status\":0}",
+      "share_text": "#贵阳辟谣出租车起步价下调7元#的相关内容，来智搜看看",
+      "reference_num": 6,
+      "query_category": "",
+      "status_stage": 4,
+      "link_list": [
+        "sinaweibo://detail?mblogid=5225680595849186",
+        "sinaweibo://detail?mblogid=5226670286181268",
+        "sinaweibo://detail?mblogid=5225601072105969",
+        "sinaweibo://detail?mblogid=5225593172919550",
+        "sinaweibo://detail?mblogid=5225899885855645",
+        "sinaweibo://detail?mblogid=5225601188759674"
+      ],
+      "ext_show": {},
+      "top_quote_list": {},
+      "short_url": "http://t.cn/AXwnwdbB",
+      "card_multimodal": {},
+      "model": "deepseek",
+      "msg": "<think><br><br>首先，用户查询是基于\"贵阳辟谣出租车起步价下调7元\"的搜索结果，我需要根据这些结果来回答。所有搜索结果都围绕着贵阳辟谣出租车起步价下调的谣言。<br><br>关键点从搜索结果中提取：<br>- 结果1、3、5、6显示：网传“贵阳出租车起步价下调7元”是不实的。官方（贵阳市城市客运出租汽车行业协会）在2025年10月24日发布通知澄清。<br>- 结果2提供了更多细节：贵阳市主城区出租车仍执行原有运价，白天10元、夜间12元。<br>- 运价调整需经法定程序，包括听证会，最终以贵阳市发改委、市交委发布的红头文件为准。<br>- 官方呼吁不信谣、不传谣。<br>- 同时，强调提升服务质量和安全运营。<br><br>今天的日期是2025年10月28日，所以结果都是最近发布的，时效性较高。<br><br>任务要求：<br>- 在答案中引用搜索结果，使用[^X]格式，X是结果索引（1到6）。引用要放在相关部分的末尾。<br>- 避免使用如“根据搜索结果...”的表述；直接陈述事实。<br>- 综合多个结果，不能只重复一个。<br>- 回答开头要吸引用户，例如凸显关键词或勾起好奇心。<br>- 结构：因为这是辟谣信息，我可以组织成清晰的部分。<br>- 语言：用户查询是中文，所以回答用中文。<br><br>用户需求：用户发送的是/query：\"贵阳辟谣出租车起步价下调7元\"，表明用户想了解这个事件的真相。所以，我需要提供准确、清晰的澄清。<br><br>结构化回答：<br>1. **开头**：吸引用户注意力，直接点出谣言已被辟谣。例如：\"近日，网传贵阳出租车起步价将下调至7元，但官方已正式辟谣！\"<br>2. **核心事实**：<br>   - 谣言是什么。<br>   - 官方辟谣信息：谁发布的、何时发布的、内容是什么。<br>   - 当前实际运价。<br>   - 运价调整的程序。<br>3. **附加信息**：从结果中，官方还强调了服务质量和安全运营。<br>4. **结尾**：提醒用户以官方信息为准。<br><br>引用管理：<br>- 每当提到一个事实，引用相关的搜索结果。例如：<br>  - 提到辟谣发布时，引用（因为这些结果都包含协会的通知）。<br>  - 提到当前运价，引用。<br>  - 提到法定程序，引用。<br><br>避免简单罗列账号；综合信息。<br><br>风险控制：信息来自官方媒体账号（如贵州日报官微、百姓关注等），都是可信来源，不需要额外风险提示。<br><br>内容组织：<br>- 用标题或小标题分段，确保可读。<br>- 控制在合理长度；不要点列太多。<br><br>最终回答框架：<br>- 开头：吸引人，总结关键。<br>- 正文：<br>  - 谣言与辟谣概述。<br>  - 辟谣详情。<br>  - 当前运价标准。<br>  - 官方建议。<br>- 引用自然嵌入。<br><br></think><br>近日，网络上疯传“贵阳出租车起步价将下调至7元”的消息，引发市民和驾驶员广泛关注。但官方已迅速行动，正式辟谣这一传言！以下是事件的核心事实和最新进展，帮助您了解真相。<br>### 🚫 一、谣言已被官方明确否定<br>- **谣言内容**：近期，多个社交平台传播“贵阳市出租车起步价将下调至7元”的信息，声称这会是新政策。<br>- **辟谣发布**：贵阳市城市客运出租汽车行业协会在2025年10月24日发布正式通知，明确指出此消息不实。协会强调，该传言缺乏官方依据，纯属虚假信息，并呼吁公众不信谣、不传谣。```wbCustomBlock{\"type\": \"quoted\", \"index\": 4, \"data\": {\"num\": [1, 3, 5, 6], \"version\": 2, \"quote_list\": [{\"name\": \"贵州日报官微\", \"scheme\": \"sinaweibo://detail?mblogid=5225680595849186\", \"index\": 1, \"label\": \"大v\"}, {\"name\": \"贵阳交通广播\", \"scheme\": \"sinaweibo://detail?mblogid=5225601072105969\", \"index\": 3, \"label\": \"\"}, {\"name\": \"动静新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5225899885855645\", \"index\": 5, \"label\": \"\"}, {\"name\": \"贵阳交警\", \"scheme\": \"sinaweibo://detail?mblogid=5225601188759674\", \"index\": 6, \"label\": \"\"}], \"name\": \"贵州日报官微\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.450.450.50/005DIjE0ly1h8vge3hi4uj30ci0ci0tf.jpg?KID=imgbed,tva&Expires=1761666301&ssig=kNbE%2Be3di1\", \"scheme\": \"sinaweibo://detail?mblogid=5225680595849186\", \"vType\": 3}}```<br>- **辟谣依据**：行业协会已第一时间联系贵阳市发改委、市交委等职能部门核实，确认当前无任何关于起步价下调的政策文件或调价计划。网传信息未经任何官方渠道发布。```wbCustomBlock{\"type\": \"quoted\", \"index\": 5, \"data\": {\"num\": [2, 6], \"version\": 2, \"quote_list\": [{\"name\": \"百姓关注\", \"scheme\": \"sinaweibo://detail?mblogid=5226670286181268\", \"index\": 2, \"label\": \"大v\"}, {\"name\": \"贵阳交警\", \"scheme\": \"sinaweibo://detail?mblogid=5225601188759674\", \"index\": 6, \"label\": \"\"}], \"name\": \"百姓关注\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.600.600.50/622e6e3bly8h8vikrfgjrj20go0gojrz.jpg?KID=imgbed,tva&Expires=1761666301&ssig=CMYD99ojx3\", \"scheme\": \"sinaweibo://detail?mblogid=5226670286181268\", \"vType\": 3}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5225680595849186&multi_paragraph=1&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.450.450.50/005DIjE0ly1h8vge3hi4uj30ci0ci0tf.jpg?KID=imgbed,tva&Expires=1761666301&ssig=kNbE%2Be3di1) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">贵州日报官微</span><img src=\"http://wx3.sinaimg.cn/middle/005DIjE0gy1i6oq7kndgmj30u01hcjvr.jpg\" data-width=1920 data-height=1080></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5226670286181268&multi_paragraph=1&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.600.600.50/622e6e3bly8h8vikrfgjrj20go0gojrz.jpg?KID=imgbed,tva&Expires=1761666301&ssig=CMYD99ojx3) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">百姓关注</span><img src=\"http://wx3.sinaimg.cn/middle/622e6e3bgy1i6rvui76ypj21hc0u00x5.jpg\" data-width=1080 data-height=1920></div></media-block><br>### ⚖️ 二、运价调整需严格法定程序，当前运价维持不变<br>- **法定程序要求**：出租车运价属于重要民生领域，调整必须履行严格的法定流程，包括价格调查、成本监审、专家论证、市民听证会等环节。最终政策以贵阳市发改委和市交委联合发布的红头文件为准，非官方渠道消息均无效。```wbCustomBlock{\"type\": \"quoted\", \"index\": 7, \"data\": {\"num\": [1, 2, 3, 6], \"version\": 2, \"quote_list\": [{\"name\": \"贵阳交通广播\", \"scheme\": \"sinaweibo://detail?mblogid=5225601072105969\", \"index\": 3, \"label\": \"大v\"}, {\"name\": \"贵州日报官微\", \"scheme\": \"sinaweibo://detail?mblogid=5225680595849186\", \"index\": 1, \"label\": \"\"}, {\"name\": \"百姓关注\", \"scheme\": \"sinaweibo://detail?mblogid=5226670286181268\", \"index\": 2, \"label\": \"\"}, {\"name\": \"贵阳交警\", \"scheme\": \"sinaweibo://detail?mblogid=5225601188759674\", \"index\": 6, \"label\": \"\"}], \"name\": \"贵阳交通广播\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.995.995.50/685435a8ly8h8vgzut7frj20rn0rnq5r.jpg?KID=imgbed,tva&Expires=1761666301&ssig=v1YRADUzBy\", \"scheme\": \"sinaweibo://detail?mblogid=5225601072105969\", \"vType\": 3}}```<br>- **当前实际运价**：截至2025年10月28日，贵阳市主城区出租车仍执行原有标准：<br>  - **白天时段（6:30-22:00）**：起步价10元，起步里程3公里。<br>  - **夜间时段（22:00-次日6:30）**：起步价12元，起步里程3公里。<br>  - 超出里程后按原标准累加计费。这一运价方案未做任何调整。```wbCustomBlock{\"type\": \"quoted\", \"index\": 11, \"data\": {\"num\": [2], \"version\": 2, \"quote_list\": [{\"name\": \"百姓关注\", \"scheme\": \"sinaweibo://detail?mblogid=5226670286181268\", \"index\": 2, \"label\": \"\"}]}}```<br>### 🛡️ 三、官方呼吁聚焦行业规范与服务提升<br>在辟谣的同时，行业协会强化了对出租车行业的管理要求：<br>- **服务质量提升**：驾驶员需规范服务流程，如使用文明用语、保持车辆整洁、主动提供帮助，以维护贵阳出租车行业的良好形象。```wbCustomBlock{\"type\": \"quoted\", \"index\": 13, \"data\": {\"num\": [3, 6], \"version\": 2, \"quote_list\": [{\"name\": \"贵阳交警\", \"scheme\": \"sinaweibo://detail?mblogid=5225601188759674\", \"index\": 6, \"label\": \"大v\"}, {\"name\": \"贵阳交通广播\", \"scheme\": \"sinaweibo://detail?mblogid=5225601072105969\", \"index\": 3, \"label\": \"\"}], \"name\": \"贵阳交警\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.995.995.50/7d7e6b6bly8h8w4v7kuy3j20rn0rn0tl.jpg?KID=imgbed,tva&Expires=1761666301&ssig=Z3%2BxHBTwKM\", \"scheme\": \"sinaweibo://detail?mblogid=5225601188759674\", \"vType\": 1}}```<br>- **安全运营强化**：严格遵守交通法规，杜绝超速、疲劳驾驶、分心驾驶等违规行为，并定期检查车辆安全，确保乘客出行安全。<br>协会要求各企业传达这些要求，确保行业稳定有序发展。公众如需了解运价动态，应通过贵阳市发改委或市交委的官方通知获取权威信息。```wbCustomBlock{\"type\": \"quoted\", \"index\": 14, \"data\": {\"num\": [2, 3, 6], \"version\": 2, \"quote_list\": [{\"name\": \"百姓关注\", \"scheme\": \"sinaweibo://detail?mblogid=5226670286181268\", \"index\": 2, \"label\": \"\"}, {\"name\": \"贵阳交通广播\", \"scheme\": \"sinaweibo://detail?mblogid=5225601072105969\", \"index\": 3, \"label\": \"\"}, {\"name\": \"贵阳交警\", \"scheme\": \"sinaweibo://detail?mblogid=5225601188759674\", \"index\": 6, \"label\": \"\"}]}}```<br><br>请广大市民和驾驶员以官方发布为准，避免传播未经核实的信息。如有政策变动，官方将第一时间通过正规渠道通告。<br>",
+      "basemodel": "实验组2",
+      "query": "#贵阳辟谣出租车起步价下调7元#",
+      "page_id": "232964fb1a38e2ca0ae2b2c82a2babd4ffcdb5",
+      "show_ctrl": {
+        "quote": {}
+      },
+      "sorted_material_list": null,
+      "cot": 1,
+      "loop_times": 200,
+      "share_info": {
+        "status": 3,
+        "display_name": "#贵阳辟谣出租车起步价下调7元#",
+        "url": "http://t.cn/AXA74B8l",
+        "unify_md5": "6f5fa859f643db5617f7a021593663cd",
+        "tips": "#贵阳辟谣出租车起步价下调7元#的相关内容，来智搜看看",
+        "page_id": "232964fb1a38e2ca0ae2b2c82a2babd4ffcdb5"
+      },
+      "msg_format": "markdown",
+      "wenda": {
+        "forward_gen": 0
+      },
+      "msg_json": "{}",
+      "ab_suffix": "default",
+      "uid": "",
+      "scheme": "sinaweibo://cardlist?containerid=100103type%3D225%26q%3D%23%E8%B4%B5%E9%98%B3%E8%BE%9F%E8%B0%A3%E5%87%BA%E7%A7%9F%E8%BD%A6%E8%B5%B7%E6%AD%A5%E4%BB%B7%E4%B8%8B%E8%B0%837%E5%85%83%23%26t%3D&extparam=ai_model%3Ddeepseek%26ori_ai_title%3D%E5%8F%82%E8%80%83%E5%8D%9A%E6%96%87%26material_version%3D1761655501",
+      "q_attr": {
+        "from_uid": "",
+        "from_request_id": ""
+      },
+      "version": "2025-10-28 20:45:01.013999-1043",
+      "share_card_multimodal": {
+        "h": 1920,
+        "scheme": "sinaweibo://video/vvs?mid=5225680595849186&multi_paragraph=1&multi_count=0",
+        "img": "http://wx3.sinaimg.cn/middle/005DIjE0gy1i6oq7kndgmj30u01hcjvr.jpg",
+        "cur_mid": "5225680595849186",
+        "vtype": 3,
+        "user_name": "贵州日报官微",
+        "w": 1080,
+        "user_avatar": "https://tvax4.sinaimg.cn/crop.0.0.450.450.50/005DIjE0ly1h8vge3hi4uj30ci0ci0tf.jpg?KID=imgbed,tva&Expires=1761666301&ssig=kNbE%2Be3di1",
+        "hit_score_final": 0,
+        "video_url": "https://video.weibo.com/show?fid=1034:5225680296673308",
+        "type": "v",
+        "click_rate": 0,
+        "hit_score_new": 0,
+        "doc_score": 0,
+        "img_pid": "005DIjE0gy1i6oq7kndgmj30u01hcjvr"
+      },
+      "unify_md5": "6f5fa859f643db5617f7a021593663cd",
+      "mid_list": null,
+      "query_field": "60",
+      "chat_status_stage": 1,
+      "user_info": {},
+      "qs_status": 0,
+      "abtest_info": {
+        "chat_entrance": 1
+      },
+      "news_analyze": {},
+      "reliable_tips": "{\"gold_orange_v_mids\": [], \"gold_orange_v_ratio\": \"0%\", \"media_mids\": [\"5225680595849186\", \"5225601072105969\", \"5225899885855645\", \"5226670286181268\", \"5225593172919550\"], \"media_ratio\": \"83%\", \"verified_mids\": [\"5225601188759674\"], \"verified_ratio\": \"17%\", \"normal_mids\": [], \"normal_ratio\": \"0%\", \"ref_mid_rank\": {\"5225680595849186\": {\"rank\": 1}, \"5225601072105969\": {\"rank\": 3}, \"5225899885855645\": {\"rank\": 5}, \"5225601188759674\": {\"rank\": 6}, \"5226670286181268\": {\"rank\": 2}, \"5225593172919550\": {\"rank\": 4}}}"
+    }
+  },
+  "links": [
+    "sinaweibo://detail?mblogid=5225680595849186",
+    "sinaweibo://detail?mblogid=5226670286181268",
+    "sinaweibo://detail?mblogid=5225601072105969",
+    "sinaweibo://detail?mblogid=5225593172919550",
+    "sinaweibo://detail?mblogid=5225899885855645",
+    "sinaweibo://detail?mblogid=5225601188759674"
+  ],
+  "media": [
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/005DIjE0gy1i6oq7kndgmj30u01hcjvr.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/005DIjE0gy1i6oq7kndgmj30u01hcjvr.jpg",
+      "alt": "贵州日报官微",
+      "width": 1920,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/005DIjE0gy1i6oq7kndgmj30u01hcjvr.jpg"
+      ],
+      "user": "贵州日报官微"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/622e6e3bgy1i6rvui76ypj21hc0u00x5.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/622e6e3bgy1i6rvui76ypj21hc0u00x5.jpg",
+      "alt": "百姓关注",
+      "width": 1080,
+      "height": 1920,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/622e6e3bgy1i6rvui76ypj21hc0u00x5.jpg"
+      ],
+      "user": "百姓关注"
+    }
+  ],
+  "html_path": "data/aicard/hourly/2025-10-28/20/7.html"
+}

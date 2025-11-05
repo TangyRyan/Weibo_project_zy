@@ -1,0 +1,179 @@
+{
+  "meta": {
+    "query": "#曝小米汽车成立架构部#",
+    "status_code": 200,
+    "fetched_at": "2025-10-28T18:41:37+08:00",
+    "response": {
+      "msg_format": "markdown",
+      "basemodel": "实验组7",
+      "chat_status_stage": 1,
+      "news_analyze": {},
+      "reliable_tips": "{\"gold_orange_v_mids\": [\"5226735585200939\", \"5226751958977347\", \"5226742341700364\", \"5226742799140063\", \"5226748614541649\", \"5226751449891586\", \"5226738605101373\", \"5226030320060502\", \"5080736715246144\", \"5180080180953680\", \"5215129940791752\"], \"gold_orange_v_ratio\": \"39%\", \"media_mids\": [\"5226736732081943\"], \"media_ratio\": \"4%\", \"verified_mids\": [\"5226737547873999\", \"5226761194308134\", \"5226750503813243\", \"5226739722879650\", \"5226748772089974\", \"5226742493217232\", \"5080683821143621\", \"5080677703745636\", \"4677442519963011\", \"5226788659398532\", \"5226747308278535\", \"5226743297474769\", \"5226741517779095\", \"4577785555720629\", \"5226741949793318\"], \"verified_ratio\": \"53%\", \"normal_mids\": [\"5226760771210369\"], \"normal_ratio\": \"4%\", \"ref_mid_rank\": {\"5226737547873999\": {\"rank\": 1}, \"5226735585200939\": {\"rank\": 6}, \"5226761194308134\": {\"rank\": 7}, \"5226751958977347\": {\"rank\": 11}, \"5226750503813243\": {\"rank\": 17}, \"5226739722879650\": {\"rank\": 8}, \"5226736732081943\": {\"rank\": 14}, \"5226742341700364\": {\"rank\": 9}, \"5226748772089974\": {\"rank\": 18}, \"5226742493217232\": {\"rank\": 21}, \"5226742799140063\": {\"rank\": 12}, \"5080683821143621\": {\"rank\": 28}, \"5080677703745636\": {\"rank\": 31}, \"4677442519963011\": {\"rank\": 2}, \"5226748614541649\": {\"rank\": 10}, \"5226751449891586\": {\"rank\": 13}, \"5226788659398532\": {\"rank\": 15}, \"5226760771210369\": {\"rank\": 16}, \"5226747308278535\": {\"rank\": 19}, \"5226743297474769\": {\"rank\": 20}, \"5226741517779095\": {\"rank\": 22}, \"5226738605101373\": {\"rank\": 23}, \"5226030320060502\": {\"rank\": 24}, \"5080736715246144\": {\"rank\": 25}, \"5180080180953680\": {\"rank\": 26}, \"5215129940791752\": {\"rank\": 27}, \"4577785555720629\": {\"rank\": 29}, \"5226741949793318\": {\"rank\": 30}}}",
+      "model": "deepseek",
+      "msg_json": "{}",
+      "status": 2,
+      "q_attr": {
+        "from_uid": "",
+        "from_request_id": ""
+      },
+      "qs_status": 0,
+      "msg": "<think><br><br>嗯，用户查询的是\"曝小米汽车成立架构部\"相关的最新信息。从搜索结果看，今天（2025年10月28日）多家媒体报道了小米汽车的组织架构调整，重点是新设立的\"架构部\"。<br><br>先梳理核心事实：根据36氪等权威信源，这个新部门被定位为一级部门，直接向雷军汇报。成员包括整车研发负责人崔强等核心骨干，崔强的原职位由电动力负责人王振锁接替。这种汇报层级很特殊——通常行业里类似职能属于二级部门（向CTO汇报），小米将其提升到战略高度。<br><br>关于该部门的使命，综合信息可知它负责\"智能电动汽车下一代技术架构的思考定调\"。关键点在于\"下一代\"这个时间维度：汽车平台周期长达3-5年，技术决策需提前5-8年布局。比如2019年行业快充普遍100kW时，就要决策2025年主攻800kW超快充还是固态电池。<br><br>这次调整的背景也值得分析。小米汽车当前主力平台是\"摩德纳\"，已支撑SU7和YU7两款车型。成立专门架构部门，标志从小规模\"造好车\"转向体系化\"造好一批车\"。行业专家提到，类似大众MQB、吉利SEA的架构化路线，才是多车型协同开发与成本控制的关键。<br><br>另外注意到战略关联点：9月雷军在年度演讲中首次披露，2021年小米同步启动造车和造芯时\"押上十年家底\"。本次雷军亲自带队架构部，呼应了他\"构建技术护城河\"的长期主义。而近期SU7因智驾缺陷召回11万辆的事件，更凸显技术预研的重要性。<br><br>最后补充行业横向对比：理想汽车2024年宣布转型人工智能公司，华为智驾已进化到ADS 3.0。小米在智驾领域虽加速追赶（三年半实现城区NOA），但仍落后第一梯队。此时成立架构部，或是应对技术同质化、寻求差异化突破的关键落子。<br><br></think><br>以下是关于小米汽车成立架构部的核心信息整合与分析，综合多源信息及行业背景呈现：<br>### 🏗️ 一、组织架构调整核心事实  <br>1. **新部门定位与职能**  <br>   - 小米汽车成立全新**一级部门“架构部”**，直接向CEO雷军汇报。```wbCustomBlock{\"type\": \"quoted\", \"index\": 5, \"data\": {\"num\": [1, 6, 7], \"version\": 2, \"quote_list\": [{\"name\": \"财经网科技\", \"scheme\": \"sinaweibo://detail?mblogid=5226737547873999\", \"index\": 1, \"label\": \"大v\"}, {\"name\": \"AutoLab评测官\", \"scheme\": \"sinaweibo://detail?mblogid=5226735585200939\", \"index\": 6, \"label\": \"\"}, {\"name\": \"ZEALER\", \"scheme\": \"sinaweibo://detail?mblogid=5226761194308134\", \"index\": 7, \"label\": \"\"}], \"name\": \"财经网科技\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/005wwp68ly8h8w81y0m1yj30u00u0myj.jpg?KID=imgbed,tva&Expires=1761658289&ssig=mOQp7f8KP2\", \"scheme\": \"sinaweibo://detail?mblogid=5226737547873999\", \"vType\": 3}}```  <br>   - **核心使命**：负责智能电动汽车**下一代技术架构的思考与定调**，包括前瞻技术路线规划（如超快充、固态电池、线控底盘等）。```wbCustomBlock{\"type\": \"quoted\", \"index\": 6, \"data\": {\"num\": [6, 11, 17], \"version\": 2, \"quote_list\": [{\"name\": \"AutoLab评测官\", \"scheme\": \"sinaweibo://detail?mblogid=5226735585200939\", \"index\": 6, \"label\": \"大v\"}, {\"name\": \"神店通缉令\", \"scheme\": \"sinaweibo://detail?mblogid=5226751958977347\", \"index\": 11, \"label\": \"\"}, {\"name\": \"太平洋汽车网\", \"scheme\": \"sinaweibo://detail?mblogid=5226750503813243\", \"index\": 17, \"label\": \"\"}], \"name\": \"AutoLab评测官\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/c12e51f4ly8hr1hjzu1x7j20u00u0aam.jpg?KID=imgbed,tva&Expires=1761658289&ssig=L8lsD%2B50A4\", \"scheme\": \"sinaweibo://detail?mblogid=5226735585200939\", \"vType\": 0}}```  <br><br>2. **人事变动**  <br>   - **崔强**（原整车研发负责人）调入架构部，**王振锁**（原电动力负责人）接任整车研发。```wbCustomBlock{\"type\": \"quoted\", \"index\": 8, \"data\": {\"num\": [1, 8, 14], \"version\": 2, \"quote_list\": [{\"name\": \"东方财经\", \"scheme\": \"sinaweibo://detail?mblogid=5226736732081943\", \"index\": 14, \"label\": \"大v\"}, {\"name\": \"财经网科技\", \"scheme\": \"sinaweibo://detail?mblogid=5226737547873999\", \"index\": 1, \"label\": \"\"}, {\"name\": \"Vista看天下\", \"scheme\": \"sinaweibo://detail?mblogid=5226739722879650\", \"index\": 8, \"label\": \"\"}], \"name\": \"东方财经\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/006ckfnZly8hiy2p0p8fqj30u00u040d.jpg?KID=imgbed,tva&Expires=1761658289&ssig=PnPkn5ZpSl\", \"scheme\": \"sinaweibo://detail?mblogid=5226736732081943\", \"vType\": 3}}```  <br>   - 部门成员由各研发板块负责人与核心骨干组成，强化跨领域协作。```wbCustomBlock{\"type\": \"quoted\", \"index\": 9, \"data\": {\"num\": [9, 17], \"version\": 2, \"quote_list\": [{\"name\": \"Blood旌旗\", \"scheme\": \"sinaweibo://detail?mblogid=5226742341700364\", \"index\": 9, \"label\": \"大v\"}, {\"name\": \"太平洋汽车网\", \"scheme\": \"sinaweibo://detail?mblogid=5226750503813243\", \"index\": 17, \"label\": \"\"}], \"name\": \"Blood旌旗\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.500.500.50/8a7924aaly8gqtkq5b579j20dw0dwgof.jpg?KID=imgbed,tva&Expires=1761658289&ssig=48pheXeuGw\", \"scheme\": \"sinaweibo://detail?mblogid=5226742341700364\", \"vType\": 0}}```  <br><br>3. **战略权重升级**  <br>   - 行业通行做法中，技术架构职能多属二级部门（向CTO汇报），小米将其提升至一级部门并由雷军直管，凸显战略优先级。```wbCustomBlock{\"type\": \"quoted\", \"index\": 11, \"data\": {\"num\": [6, 9, 18], \"version\": 2, \"quote_list\": [{\"name\": \"AutoLab评测官\", \"scheme\": \"sinaweibo://detail?mblogid=5226735585200939\", \"index\": 6, \"label\": \"\"}, {\"name\": \"Blood旌旗\", \"scheme\": \"sinaweibo://detail?mblogid=5226742341700364\", \"index\": 9, \"label\": \"\"}, {\"name\": \"上海汽车报\", \"scheme\": \"sinaweibo://detail?mblogid=5226748772089974\", \"index\": 18, \"label\": \"\"}]}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5226736732081943&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/006ckfnZly8hiy2p0p8fqj30u00u040d.jpg?KID=imgbed,tva&Expires=1761658289&ssig=PnPkn5ZpSl) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">东方财经</span><img src=\"http://wx2.sinaimg.cn/middle/006ckfnZgy1i6s3m3f0k5j31jk1jk7oz.jpg\" data-width=2000 data-height=2000></div></media-block><br>### 🔍 二、成立背景与战略意图  <br>1. **应对技术迭代的不确定性**  <br>   - 汽车平台生命周期长达3-5年，技术定调需提前5-8年布局。例如：2019年行业普遍采用100kW快充时，需决策2025年主攻800kW超快充还是固态电池。```wbCustomBlock{\"type\": \"quoted\", \"index\": 15, \"data\": {\"num\": [6, 11, 18], \"version\": 2, \"quote_list\": [{\"name\": \"神店通缉令\", \"scheme\": \"sinaweibo://detail?mblogid=5226751958977347\", \"index\": 11, \"label\": \"大v\"}, {\"name\": \"AutoLab评测官\", \"scheme\": \"sinaweibo://detail?mblogid=5226735585200939\", \"index\": 6, \"label\": \"\"}, {\"name\": \"上海汽车报\", \"scheme\": \"sinaweibo://detail?mblogid=5226748772089974\", \"index\": 18, \"label\": \"\"}], \"name\": \"神店通缉令\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.1.1078.1078.50/002HKXa5ly8i6lifptf18j60ty0u0whp02.jpg?KID=imgbed,tva&Expires=1761658289&ssig=Blro%2FIns6N\", \"scheme\": \"sinaweibo://detail?mblogid=5226751958977347\", \"vType\": 0}}```  <br>   - 当前行业面临路线分歧：电动化（超充 vs 固态电池）、智能化（L3商业化路径）、底盘技术（线控转向成本高企）。```wbCustomBlock{\"type\": \"quoted\", \"index\": 16, \"data\": {\"num\": [6, 21], \"version\": 2, \"quote_list\": [{\"name\": \"AutoLab评测官\", \"scheme\": \"sinaweibo://detail?mblogid=5226735585200939\", \"index\": 6, \"label\": \"\"}, {\"name\": \"西瓜的科技笔记\", \"scheme\": \"sinaweibo://detail?mblogid=5226742493217232\", \"index\": 21, \"label\": \"\"}]}}```  <br><br>2. **告别“配置内卷”，转向架构竞争**  <br>   - 小米首款车SU7及SUV车型YU7均基于“摩德纳平台”，但车型矩阵扩张需架构化支撑。```wbCustomBlock{\"type\": \"quoted\", \"index\": 18, \"data\": {\"num\": [11, 18], \"version\": 2, \"quote_list\": [{\"name\": \"神店通缉令\", \"scheme\": \"sinaweibo://detail?mblogid=5226751958977347\", \"index\": 11, \"label\": \"\"}, {\"name\": \"上海汽车报\", \"scheme\": \"sinaweibo://detail?mblogid=5226748772089974\", \"index\": 18, \"label\": \"\"}]}}```  <br>   - 架构部旨在实现**平台化开发**（如大众MQB、吉利SEA），控制成本并加速多车型协同。```wbCustomBlock{\"type\": \"quoted\", \"index\": 19, \"data\": {\"num\": [18, 21], \"version\": 2, \"quote_list\": [{\"name\": \"上海汽车报\", \"scheme\": \"sinaweibo://detail?mblogid=5226748772089974\", \"index\": 18, \"label\": \"\"}, {\"name\": \"西瓜的科技笔记\", \"scheme\": \"sinaweibo://detail?mblogid=5226742493217232\", \"index\": 21, \"label\": \"\"}]}}```  <br><br>3. **技术护城河构建**  <br>   - 雷军多次强调技术投入决心（如自研电机助SU7 Ultra刷新纽北纪录）。```wbCustomBlock{\"type\": \"quoted\", \"index\": 21, \"data\": {\"num\": [6, 12], \"version\": 2, \"quote_list\": [{\"name\": \"机海风云\", \"scheme\": \"sinaweibo://detail?mblogid=5226742799140063\", \"index\": 12, \"label\": \"大v\"}, {\"name\": \"AutoLab评测官\", \"scheme\": \"sinaweibo://detail?mblogid=5226735585200939\", \"index\": 6, \"label\": \"\"}], \"name\": \"机海风云\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/91295f60ly8i4orc9m867j20u00u0wgh.jpg?KID=imgbed,tva&Expires=1761658289&ssig=LBmLDdj9wC\", \"scheme\": \"sinaweibo://detail?mblogid=5226742799140063\", \"vType\": 0}}```  <br>   - 结合小米“押注十年家底”造车造芯的战略，新部门是长期技术闭环的关键落子。<br>### ⚙️ 三、对小米汽车的潜在影响  <br>1. **产品竞争力重塑**  <br>   - 下一代技术架构将决定2028-2030年产品基调，影响市场占位与毛利率。```wbCustomBlock{\"type\": \"quoted\", \"index\": 26, \"data\": {\"num\": [6, 17], \"version\": 2, \"quote_list\": [{\"name\": \"太平洋汽车网\", \"scheme\": \"sinaweibo://detail?mblogid=5226750503813243\", \"index\": 17, \"label\": \"大v\"}, {\"name\": \"AutoLab评测官\", \"scheme\": \"sinaweibo://detail?mblogid=5226735585200939\", \"index\": 6, \"label\": \"\"}], \"name\": \"太平洋汽车网\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.600.600.50/002vzGiRly8i29by5rkjij60go0gogma02.jpg?KID=imgbed,tva&Expires=1761658289&ssig=SJ7nbGx1iC\", \"scheme\": \"sinaweibo://detail?mblogid=5226750503813243\", \"vType\": 3}}```  <br>   - 避免同质化竞争（如堆砌屏幕/座椅），转向底层技术创新（如48V线控系统预研）。```wbCustomBlock{\"type\": \"quoted\", \"index\": 27, \"data\": {\"num\": [7, 12, 18], \"version\": 2, \"quote_list\": [{\"name\": \"ZEALER\", \"scheme\": \"sinaweibo://detail?mblogid=5226761194308134\", \"index\": 7, \"label\": \"大v\"}, {\"name\": \"机海风云\", \"scheme\": \"sinaweibo://detail?mblogid=5226742799140063\", \"index\": 12, \"label\": \"\"}, {\"name\": \"上海汽车报\", \"scheme\": \"sinaweibo://detail?mblogid=5226748772089974\", \"index\": 18, \"label\": \"\"}], \"name\": \"ZEALER\", \"img\": \"https://tva4.sinaimg.cn/crop.0.0.179.179.50/b89e3f89gw1em7zadajvwj20500500sk.jpg?KID=imgbed,tva&Expires=1761658289&ssig=hBpVJvebNy\", \"scheme\": \"sinaweibo://detail?mblogid=5226761194308134\", \"vType\": 3}}```  <br><br>2. **组织能力升级**  <br>   - 整合研发骨干资源，缩短技术预研到量产的转化周期。```wbCustomBlock{\"type\": \"quoted\", \"index\": 29, \"data\": {\"num\": [9, 21], \"version\": 2, \"quote_list\": [{\"name\": \"Blood旌旗\", \"scheme\": \"sinaweibo://detail?mblogid=5226742341700364\", \"index\": 9, \"label\": \"\"}, {\"name\": \"西瓜的科技笔记\", \"scheme\": \"sinaweibo://detail?mblogid=5226742493217232\", \"index\": 21, \"label\": \"\"}]}}```  <br>   - 呼应9月智驾团队“感知-规控合并为端到端部门”的提速尝试。```wbCustomBlock{\"type\": \"quoted\", \"index\": 30, \"data\": {\"num\": [28, 31], \"version\": 2, \"quote_list\": [{\"name\": \"知未科技\", \"scheme\": \"sinaweibo://detail?mblogid=5080683821143621\", \"index\": 28, \"label\": \"大v\"}, {\"name\": \"新浪科技\", \"scheme\": \"sinaweibo://detail?mblogid=5080677703745636\", \"index\": 31, \"label\": \"\"}], \"name\": \"知未科技\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.690.690.50/007wkUAqly8h8w6fmobeyj30j60j6ab0.jpg?KID=imgbed,tva&Expires=1761658289&ssig=F6bPMnV1c3\", \"scheme\": \"sinaweibo://detail?mblogid=5080683821143621\", \"vType\": 3}}```  <br><br>3. **风险与挑战**  <br>   - 技术前瞻性需平衡成本与落地可行性（如全固态电池量产节点未知）。```wbCustomBlock{\"type\": \"quoted\", \"index\": 32, \"data\": {\"num\": [6, 18], \"version\": 2, \"quote_list\": [{\"name\": \"AutoLab评测官\", \"scheme\": \"sinaweibo://detail?mblogid=5226735585200939\", \"index\": 6, \"label\": \"\"}, {\"name\": \"上海汽车报\", \"scheme\": \"sinaweibo://detail?mblogid=5226748772089974\", \"index\": 18, \"label\": \"\"}]}}```  <br>   - 行业竞品同步变革：理想转型AI企业，华为智驾迭代至ADS 3.0。```wbCustomBlock{\"type\": \"quoted\", \"index\": 33, \"data\": {\"num\": [18, 28, 31], \"version\": 2, \"quote_list\": [{\"name\": \"上海汽车报\", \"scheme\": \"sinaweibo://detail?mblogid=5226748772089974\", \"index\": 18, \"label\": \"\"}, {\"name\": \"知未科技\", \"scheme\": \"sinaweibo://detail?mblogid=5080683821143621\", \"index\": 28, \"label\": \"\"}, {\"name\": \"新浪科技\", \"scheme\": \"sinaweibo://detail?mblogid=5080677703745636\", \"index\": 31, \"label\": \"\"}]}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5080677703745636&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=3&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.436.436.50/001Nakaoly8h8vh6pbz8ij60c60c4q3602.jpg?KID=imgbed,tva&Expires=1761658289&ssig=tVq9KBBN66) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">新浪科技</span><img src=\"http://wx4.sinaimg.cn/middle/001Nakaoly1htu4w2d7iyj60j609idiw02.jpg\" data-width=342 data-height=690></div></media-block><br>### 💎 四、行业启示  <br>小米此举标志**从“单品爆款”到“体系化技术定义”** 的转型：  <br>- **短期看**：应对SU7被动召回事件（L2智驾缺陷）后的技术信任重建；```wbCustomBlock{\"type\": \"quoted\", \"index\": 36, \"data\": {\"num\": [18], \"version\": 2, \"quote_list\": [{\"name\": \"上海汽车报\", \"scheme\": \"sinaweibo://detail?mblogid=5226748772089974\", \"index\": 18, \"label\": \"\"}]}}```  <br>- **长期看**：以架构确定性对冲行业内卷，为“人车家全生态”铺路。```wbCustomBlock{\"type\": \"quoted\", \"index\": 37, \"data\": {\"num\": [12], \"version\": 2, \"quote_list\": [{\"name\": \"机海风云\", \"scheme\": \"sinaweibo://detail?mblogid=5226742799140063\", \"index\": 12, \"label\": \"\"}]}}```  <br><br>> 雷军亲掌架构部，既是技术豪赌的延续，亦是小米从互联网公司迈向硬核科技的关键一跃。<br>",
+      "page_id": "232964cd5021d9023d576d625314585c86318a",
+      "zs_risk_control": {
+        "think_text_close": 0,
+        "land_button_close": 0
+      },
+      "version": "2025-10-28 18:31:29.019000-4641",
+      "cot": 1,
+      "scheme": "sinaweibo://cardlist?containerid=100103type%3D225%26q%3D%23%E6%9B%9D%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E6%88%90%E7%AB%8B%E6%9E%B6%E6%9E%84%E9%83%A8%23%26t%3D&extparam=ai_model%3Ddeepseek%26ori_ai_title%3D%E5%8F%82%E8%80%83%E5%8D%9A%E6%96%87%26material_version%3D1761647489",
+      "ab_suffix": "default",
+      "query": "#曝小米汽车成立架构部#",
+      "profile_image_url": "",
+      "current_time": 1761648098,
+      "user_info": {},
+      "share_text": "#曝小米汽车成立架构部#的相关内容，来智搜看看",
+      "wenda": {
+        "forward_gen": 0
+      },
+      "query_field": "5",
+      "qs_status_info": "{\"qs_u_status\":0,\"qs_c_status\":8388608,\"qs_r_status\":0,\"qs_status\":0,\"qs_q_status\":0,\"ab_lab\":{}}",
+      "analysis_time": 1761647673,
+      "ext_show": {},
+      "sorted_material_list": null,
+      "query_category": "",
+      "top_quote_list": {},
+      "link_list": [
+        "sinaweibo://detail?mblogid=5226737547873999",
+        "sinaweibo://detail?mblogid=4677442519963011",
+        "historyweibo://5214311414238177",
+        "historyweibo://5214311414238177",
+        "historyweibo://5213072731935906",
+        "sinaweibo://detail?mblogid=5226735585200939",
+        "sinaweibo://detail?mblogid=5226761194308134",
+        "sinaweibo://detail?mblogid=5226739722879650",
+        "sinaweibo://detail?mblogid=5226742341700364",
+        "sinaweibo://detail?mblogid=5226748614541649",
+        "sinaweibo://detail?mblogid=5226751958977347",
+        "sinaweibo://detail?mblogid=5226742799140063",
+        "sinaweibo://detail?mblogid=5226751449891586",
+        "sinaweibo://detail?mblogid=5226736732081943",
+        "sinaweibo://detail?mblogid=5226788659398532",
+        "sinaweibo://detail?mblogid=5226760771210369",
+        "sinaweibo://detail?mblogid=5226750503813243",
+        "sinaweibo://detail?mblogid=5226748772089974",
+        "sinaweibo://detail?mblogid=5226747308278535",
+        "sinaweibo://detail?mblogid=5226743297474769",
+        "sinaweibo://detail?mblogid=5226742493217232",
+        "sinaweibo://detail?mblogid=5226741517779095",
+        "sinaweibo://detail?mblogid=5226738605101373",
+        "sinaweibo://detail?mblogid=5226030320060502",
+        "sinaweibo://detail?mblogid=5080736715246144",
+        "sinaweibo://detail?mblogid=5180080180953680",
+        "sinaweibo://detail?mblogid=5215129940791752",
+        "sinaweibo://detail?mblogid=5080683821143621",
+        "sinaweibo://detail?mblogid=4577785555720629",
+        "sinaweibo://detail?mblogid=5226741949793318",
+        "sinaweibo://detail?mblogid=5080677703745636"
+      ],
+      "show_ctrl": {
+        "quote": {}
+      },
+      "abtest_info": {
+        "chat_entrance": 1
+      },
+      "reference_num": 28,
+      "mid_list": null,
+      "loop_times": 200,
+      "share_info": {
+        "display_name": "#曝小米汽车成立架构部#",
+        "tips": "#曝小米汽车成立架构部#的相关内容，来智搜看看",
+        "url": "http://t.cn/AXAv17gP",
+        "unify_md5": "56ce7f1cafcfdff5dcb799259d074b3e",
+        "page_id": "232964cd5021d9023d576d625314585c86318a",
+        "status": 3
+      },
+      "status_stage": 4,
+      "uid": "",
+      "short_url": "http://t.cn/AXAvnrc4",
+      "unify_md5": "56ce7f1cafcfdff5dcb799259d074b3e",
+      "card_multimodal": {},
+      "share_card_multimodal": {
+        "h": 2000,
+        "cur_mid": "5226736732081943",
+        "type": "p",
+        "user_name": "东方财经",
+        "user_avatar": "https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/006ckfnZly8hiy2p0p8fqj30u00u040d.jpg?KID=imgbed,tva&Expires=1761658289&ssig=PnPkn5ZpSl",
+        "vtype": 3,
+        "w": 2000,
+        "scheme": "sinaweibo://multimedia?mix_mid=5226736732081943&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=0",
+        "video_url": "",
+        "click_rate": 0.06,
+        "hit_score_new": 0,
+        "hit_score_final": 80,
+        "doc_score": 4333,
+        "img_pid": "006ckfnZgy1i6s3m3f0k5j31jk1jk7oz",
+        "img": "http://wx2.sinaimg.cn/middle/006ckfnZgy1i6s3m3f0k5j31jk1jk7oz.jpg"
+      }
+    }
+  },
+  "links": [
+    "sinaweibo://detail?mblogid=5226737547873999",
+    "sinaweibo://detail?mblogid=4677442519963011",
+    "historyweibo://5214311414238177",
+    "historyweibo://5214311414238177",
+    "historyweibo://5213072731935906",
+    "sinaweibo://detail?mblogid=5226735585200939",
+    "sinaweibo://detail?mblogid=5226761194308134",
+    "sinaweibo://detail?mblogid=5226739722879650",
+    "sinaweibo://detail?mblogid=5226742341700364",
+    "sinaweibo://detail?mblogid=5226748614541649",
+    "sinaweibo://detail?mblogid=5226751958977347",
+    "sinaweibo://detail?mblogid=5226742799140063",
+    "sinaweibo://detail?mblogid=5226751449891586",
+    "sinaweibo://detail?mblogid=5226736732081943",
+    "sinaweibo://detail?mblogid=5226788659398532",
+    "sinaweibo://detail?mblogid=5226760771210369",
+    "sinaweibo://detail?mblogid=5226750503813243",
+    "sinaweibo://detail?mblogid=5226748772089974",
+    "sinaweibo://detail?mblogid=5226747308278535",
+    "sinaweibo://detail?mblogid=5226743297474769",
+    "sinaweibo://detail?mblogid=5226742493217232",
+    "sinaweibo://detail?mblogid=5226741517779095",
+    "sinaweibo://detail?mblogid=5226738605101373",
+    "sinaweibo://detail?mblogid=5226030320060502",
+    "sinaweibo://detail?mblogid=5080736715246144",
+    "sinaweibo://detail?mblogid=5180080180953680",
+    "sinaweibo://detail?mblogid=5215129940791752",
+    "sinaweibo://detail?mblogid=5080683821143621",
+    "sinaweibo://detail?mblogid=4577785555720629",
+    "sinaweibo://detail?mblogid=5226741949793318",
+    "sinaweibo://detail?mblogid=5080677703745636"
+  ],
+  "media": [
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/006ckfnZgy1i6s3m3f0k5j31jk1jk7oz.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/006ckfnZgy1i6s3m3f0k5j31jk1jk7oz.jpg",
+      "alt": "东方财经",
+      "width": 2000,
+      "height": 2000,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/006ckfnZgy1i6s3m3f0k5j31jk1jk7oz.jpg"
+      ],
+      "user": "东方财经"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/001Nakaoly1htu4w2d7iyj60j609idiw02.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/001Nakaoly1htu4w2d7iyj60j609idiw02.jpg",
+      "alt": "新浪科技",
+      "width": 342,
+      "height": 690,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/001Nakaoly1htu4w2d7iyj60j609idiw02.jpg"
+      ],
+      "user": "新浪科技"
+    }
+  ],
+  "html_path": "data/aicard/hourly/2025-10-28/18/topic-56ce7f1c.html"
+}

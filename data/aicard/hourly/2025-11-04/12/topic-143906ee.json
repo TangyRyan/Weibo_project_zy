@@ -1,0 +1,379 @@
+{
+  "meta": {
+    "query": "#庆生也要拼出仪式感#",
+    "status_code": 200,
+    "fetched_at": "2025-11-04T12:40:38+08:00",
+    "response": {
+      "card_multimodal": {
+        "type": "mediablock",
+        "data": [
+          {
+            "type": "p",
+            "video_url": "",
+            "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.512.512.50/008gE3ssly8i02wouqxxvj30e80e8jrg.jpg?KID=imgbed,tva&Expires=1762240638&ssig=nmiT0xd4fl",
+            "doc_score": 0,
+            "vtype": 3,
+            "hit_score_new": 0,
+            "hit_score_final": 0,
+            "h": 1706,
+            "user_name": "白鹿视频",
+            "click_rate": 0,
+            "click_num": 0,
+            "w": 2858,
+            "img": "http://wx3.sinaimg.cn/middle/008gE3ssly8i6z1xwwn8oj327e1be4qp.jpg",
+            "img_pid": "008gE3ssly8i6z1xwwn8oj327e1be4qp",
+            "cur_mid": "5229191214662319",
+            "scheme": "sinaweibo://multimedia?mix_mid=5229191214662319&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=0"
+          },
+          {
+            "type": "p",
+            "video_url": "",
+            "user_avatar": "https://tvax4.sinaimg.cn/crop.0.0.512.512.50/b356b7c3ly8h8pgsx401ij20e80e83yy.jpg?KID=imgbed,tva&Expires=1762240638&ssig=HiajOUIMoj",
+            "doc_score": 3522,
+            "vtype": 0,
+            "hit_score_new": 86.328125,
+            "hit_score_final": 60.596878,
+            "h": 2278,
+            "user_name": "小桃心十四",
+            "click_rate": 0,
+            "click_num": 0,
+            "w": 1280,
+            "img": "http://wx4.sinaimg.cn/middle/b356b7c3gy1i5mjwunil4j20zk1raam2.jpg",
+            "img_pid": "b356b7c3gy1i5mjwunil4j20zk1raam2",
+            "cur_mid": "5213714333568607",
+            "scheme": "sinaweibo://multimedia?mix_mid=5213714333568607&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=1"
+          },
+          {
+            "type": "v",
+            "video_url": "https://video.weibo.com/show?fid=1034:5159412935884846",
+            "user_avatar": "https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/989d17dbly8h71hftyexuj20u00u0q5d.jpg?KID=imgbed,tva&Expires=1762240638&ssig=mPZRGWgDR8",
+            "doc_score": 2316,
+            "vtype": 7,
+            "hit_score_new": 75.195312,
+            "hit_score_final": 52.317188,
+            "h": 1440,
+            "user_name": "财经评论",
+            "click_rate": 0,
+            "click_num": 0,
+            "w": 1080,
+            "img": "http://wx1.sinaimg.cn/middle/0033ImPzly1i0tbjh7jngj60u0140nnx02.jpg",
+            "img_pid": "0033ImPzly1i0tbjh7jngj60u0140nnx02",
+            "cur_mid": "5177787590901940",
+            "scheme": "sinaweibo://video/vvs?mid=5177787590901940&multi_paragraph=1&multi_count=2"
+          },
+          {
+            "type": "p",
+            "video_url": "",
+            "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.512.512.50/008gE3ssly8i02wouqxxvj30e80e8jrg.jpg?KID=imgbed,tva&Expires=1762240638&ssig=nmiT0xd4fl",
+            "doc_score": 0,
+            "vtype": 3,
+            "hit_score_new": 0,
+            "hit_score_final": 0,
+            "h": 1706,
+            "user_name": "白鹿视频",
+            "click_rate": 0,
+            "click_num": 0,
+            "w": 2858,
+            "img": "http://wx3.sinaimg.cn/middle/008gE3ssly8i6z1xwwn8oj327e1be4qp.jpg",
+            "img_pid": "008gE3ssly8i6z1xwwn8oj327e1be4qp",
+            "cur_mid": "5229191214662319",
+            "scheme": "sinaweibo://multimedia?mix_mid=5229191214662319&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=0"
+          }
+        ]
+      },
+      "share_card_multimodal": {
+        "type": "p",
+        "video_url": "",
+        "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.512.512.50/008gE3ssly8i02wouqxxvj30e80e8jrg.jpg?KID=imgbed,tva&Expires=1762240638&ssig=nmiT0xd4fl",
+        "doc_score": 0,
+        "vtype": 3,
+        "hit_score_new": 0,
+        "hit_score_final": 0,
+        "h": 1706,
+        "user_name": "白鹿视频",
+        "click_rate": 0,
+        "click_num": 0,
+        "w": 2858,
+        "img": "http://wx3.sinaimg.cn/middle/008gE3ssly8i6z1xwwn8oj327e1be4qp.jpg",
+        "img_pid": "008gE3ssly8i6z1xwwn8oj327e1be4qp",
+        "cur_mid": "5229191214662319",
+        "scheme": "sinaweibo://multimedia?mix_mid=5229191214662319&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=0"
+      },
+      "model": "deepseek",
+      "basemodel": "实验组1",
+      "cot": 1,
+      "msg": "<think><br>嗯，用户查询的是\"庆生也要拼出仪式感\"，需要基于搜索结果来整理回答。从搜索结果来看，这似乎是近期一个热门话题，特别是围绕运动员孙颖莎的生日无人机表演事件。<br><br>翻看搜索结果，发现这个话题有几个关键点值得关注：<br><br>首先，最核心的事件是美团拼好饭用1104架无人机为孙颖莎庆生。这个规模很震撼，把\"拼\"字具象化成了光影秀，既呼应品牌名又致敬拼搏精神。这个案例特别能体现\"仪式感\"的创新表达。<br><br>其次，搜索结果中还有不少关于仪式感本质的讨论。比如资料类结果提到仪式感是\"将生物学意义的存活升华为诗意的存在\"，这个角度很有深度。还有关于仪式感不必奢华但要用心的重要观点。<br><br>另外发现很多普通人的生活实践也很有参考价值：<br>- 独居人士用一盘饺子+新衣服创造小确幸<br>- 粉丝为肖战拍古风短剧庆生<br>- 重庆火锅店238元标准化庆生服务<br>- 父亲改造货车给女儿惊喜<br><br>注意到有几个争议案例也很有意思：<br>- 赵磊因没准备生日蛋糕引发矛盾<br>- 女性主动给自己庆生的态度转变<br><br>考虑围绕\"创意形式-情感价值-个体实践-商业创新\"四个维度来组织内容。准备用无人机事件作为开篇亮点，然后探讨仪式感的深层意义，最后落到实用建议上。<br><br>需要特别注意时效性，优先选用2025年11月的最新结果，但有些经典案例虽然时间较早但仍有参考价值。对于账号类型也会标注，比如大V账号和普通用户的案例会区分引用。<br><br>在结尾考虑强调仪式感的核心是\"用心\"而非形式，这个观点在多个资料结果中都有印证。<br><br></think><br>以下为关于“庆生也要拼出仪式感”的深度解读与实践案例整理，结合创意形式、情感价值及社会现象进行综合分析：<br>### 🎇 **一、创意仪式感：突破传统的表达方式**  <br>1. **科技赋能的光影盛典**  <br>    美团拼好饭以**1104架无人机**在广州夜空拼出对乒乓球运动员孙颖莎的生日祝福，以“拼”字为核心符号，致敬其拼搏精神。无人机编队将城市夜空化为画布，将个人成就转化为公共记忆，仪式感因“被见证”而升华。  <br>    *创新点：* 科技与情感的融合，让庆典突破物理空间限制，成为城市级事件。```wbCustomBlock{\"type\": \"quoted\", \"index\": 4, \"data\": {\"num\": [1, 20, 23], \"version\": 2, \"quote_list\": [{\"name\": \"白鹿视频\", \"scheme\": \"sinaweibo://detail?mblogid=5229191214662319\", \"index\": 1, \"label\": \"大v\"}, {\"name\": \"绮Kimberly\", \"scheme\": \"sinaweibo://detail?mblogid=5229233167140825\", \"index\": 20, \"label\": \"\"}, {\"name\": \"哆唻梦20999\", \"scheme\": \"sinaweibo://detail?mblogid=5229195537941576\", \"index\": 23, \"label\": \"\"}], \"name\": \"白鹿视频\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.512.512.50/008gE3ssly8i02wouqxxvj30e80e8jrg.jpg?KID=imgbed,tva&Expires=1762240638&ssig=nmiT0xd4fl\", \"scheme\": \"sinaweibo://detail?mblogid=5229191214662319\", \"vType\": 3}}```<br><br>2. **沉浸式主题创作**  <br>    - 粉丝为肖战拍摄古风短剧《锦绣·岁华章》，通过汉服剧照与剧情复刻历史场景；```wbCustomBlock{\"type\": \"quoted\", \"index\": 6, \"data\": {\"num\": [3], \"version\": 2, \"quote_list\": [{\"name\": \"小桃心十四\", \"scheme\": \"sinaweibo://detail?mblogid=5213714333568607\", \"index\": 3, \"label\": \"大v\"}], \"name\": \"小桃心十四\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.512.512.50/b356b7c3ly8h8pgsx401ij20e80e83yy.jpg?KID=imgbed,tva&Expires=1762240638&ssig=HiajOUIMoj\", \"scheme\": \"sinaweibo://detail?mblogid=5213714333568607\", \"vType\": 0}}```  <br>    - 欧阳娜娜以巨型蛋糕阵列打造“甜蜜宇宙”，虚实结合布景营造梦幻感；```wbCustomBlock{\"type\": \"quoted\", \"index\": 7, \"data\": {\"num\": [46], \"version\": 2, \"quote_list\": [{\"name\": \"吖吖娱乐\", \"scheme\": \"sinaweibo://detail?mblogid=5177604996596693\", \"index\": 46, \"label\": \"\"}]}}```  <br>    - 杭州父亲**改造货车车厢**为移动公主房，赋予日常工具童话色彩。  <br>    *本质逻辑：* 仪式感源于“打破日常”，通过场景重构创造脱离庸常的异质时空。```wbCustomBlock{\"type\": \"quoted\", \"index\": 8, \"data\": {\"num\": [44], \"version\": 2, \"quote_list\": [{\"name\": \"财经评论\", \"scheme\": \"sinaweibo://detail?mblogid=5177787590901940\", \"index\": 44, \"label\": \"\"}]}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5229191214662319&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.512.512.50/008gE3ssly8i02wouqxxvj30e80e8jrg.jpg?KID=imgbed,tva&Expires=1762240638&ssig=nmiT0xd4fl) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">白鹿视频</span><img src=\"http://wx3.sinaimg.cn/middle/008gE3ssly8i6z1xwwn8oj327e1be4qp.jpg\" data-width=1706 data-height=2858></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5213714333568607&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=1\"><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.512.512.50/b356b7c3ly8h8pgsx401ij20e80e83yy.jpg?KID=imgbed,tva&Expires=1762240638&ssig=HiajOUIMoj) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">小桃心十四</span><img src=\"http://wx4.sinaimg.cn/middle/b356b7c3gy1i5mjwunil4j20zk1raam2.jpg\" data-width=2278 data-height=1280></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5177787590901940&multi_paragraph=1&multi_count=2\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/989d17dbly8h71hftyexuj20u00u0q5d.jpg?KID=imgbed,tva&Expires=1762240638&ssig=mPZRGWgDR8) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">财经评论</span><img src=\"http://wx1.sinaimg.cn/middle/0033ImPzly1i0tbjh7jngj60u0140nnx02.jpg\" data-width=1440 data-height=1080></div></media-block><br>### ❤️ **二、情感联结：仪式感的核心价值**  <br>1. **群体共振的力量**  <br>    30岁集体庆生被形容为“随时有回应，永远有底气”的浪漫。朋友定制专属气球、跨时区延续对话、深夜抱团痛哭等行为，让生日成为**情感锚点**，在成年人世界中构建安全感。  <br>    *深层需求：* 对抗孤独感，确认“我值得被爱”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 11, \"data\": {\"num\": [40], \"version\": 2, \"quote_list\": [{\"name\": \"今天喝奶茶了吗hh-\", \"scheme\": \"sinaweibo://detail?mblogid=5228674463830334\", \"index\": 40, \"label\": \"\"}]}}```<br><br>2. **代际传承的温度**  <br>    - 成都大叔**连续27年**送妻子手写信与鲜花，细数家庭付出；  <br>    - 山西家庭生日必吃吉祥油糕，以味觉传递家族记忆；  <br>    - 年轻一代反哺：孙子为3岁妹妹策划惊喜，子女为父母补办海底捞婚礼。  <br>    *文化密码：* 一束花、一碗面皆可成为岁月的符号载体。<br>### 🛠️ **三、个体实践：自我赋权的仪式重构**  <br>1. **向内求的仪式哲学**  <br>    - 独居者用一盘饺子+新衣服庆生，宣称“仪式感可自给自足”；```wbCustomBlock{\"type\": \"quoted\", \"index\": 19, \"data\": {\"num\": [5, 10], \"version\": 2, \"quote_list\": [{\"name\": \"彩彩-ing\", \"scheme\": \"sinaweibo://detail?mblogid=5227417326849826\", \"index\": 5, \"label\": \"大v\"}, {\"name\": \"森野小树\", \"scheme\": \"sinaweibo://detail?mblogid=5200188098742380\", \"index\": 10, \"label\": \"\"}], \"name\": \"彩彩-ing\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/005Jzveily8i5uz23eiq3j30u00u079r.jpg?KID=imgbed,tva&Expires=1762240638&ssig=XPDNpp7aV%2F\", \"scheme\": \"sinaweibo://detail?mblogid=5227417326849826\", \"vType\": 0}}```  <br>    - 抑郁者坚持每日买5元鲜花，以微小仪式重获生活掌控感；  <br>    - 浙大学生在食堂用蜡烛摆年龄数字，抽象化传递祝福。  <br>    *价值转向：* 从依赖他者到自我滋养，仪式感成为对抗麻木的精神武器。```wbCustomBlock{\"type\": \"quoted\", \"index\": 21, \"data\": {\"num\": [27, 33], \"version\": 2, \"quote_list\": [{\"name\": \"班草陈皮皮\", \"scheme\": \"sinaweibo://detail?mblogid=5224183533666997\", \"index\": 27, \"label\": \"大v\"}, {\"name\": \"斯坦福辣妹\", \"scheme\": \"sinaweibo://detail?mblogid=5224299181116785\", \"index\": 33, \"label\": \"\"}], \"name\": \"班草陈皮皮\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/006CXrEjly8i3o5w7zsimj30u00u00uz.jpg?KID=imgbed,tva&Expires=1762240638&ssig=U4CEzkYO2w\", \"scheme\": \"sinaweibo://detail?mblogid=5224183533666997\", \"vType\": 0}}```<br><br>2. **实用主义浪漫的兴起**  <br>    - 年轻人为父母送健康腰带、血压仪，将关怀融入实用礼物；  <br>    - 重庆火锅店推出**238元庆生套餐**，标准化服务包含即兴舞蹈、致辞合影，让仪式感“可购买”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 24, \"data\": {\"num\": [45], \"version\": 2, \"quote_list\": [{\"name\": \"水雾同学_DrEV\", \"scheme\": \"sinaweibo://detail?mblogid=5037696408360023\", \"index\": 45, \"label\": \"大v\"}], \"name\": \"水雾同学_DrEV\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.1023.1023.50/c183613bly8hxtd0c3lbdj20sg0sfdhe.jpg?KID=imgbed,tva&Expires=1762240638&ssig=h4HALJwjrG\", \"scheme\": \"sinaweibo://detail?mblogid=5037696408360023\", \"vType\": 0}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5200188098742380&multi_paragraph=3&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.512.512.50/6b0be56fly8i2qoeq4pgzj20e80e8q3s.jpg?KID=imgbed,tva&Expires=1762240638&ssig=OOfdF1qH%2FW) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">森野小树</span><img src=\"http://wx4.sinaimg.cn/middle/6b0be56fly1i4fe6rraffj20u01hcgom.jpg\" data-width=1920 data-height=1080></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5224183533666997&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=3&multi_count=1\"><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/006CXrEjly8i3o5w7zsimj30u00u00uz.jpg?KID=imgbed,tva&Expires=1762240638&ssig=U4CEzkYO2w) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">班草陈皮皮</span><img src=\"http://wx2.sinaimg.cn/middle/006CXrEjly1i6jyaxdms0j30zk1bejye.jpg\" data-width=1706 data-height=1280></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5224299181116785&multi_paragraph=3&multi_count=2\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.960.960.50/008tJ8jOly8h3eok1tkicj30qo0qo40d.jpg?KID=imgbed,tva&Expires=1762240638&ssig=Qdb6THKXKH) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">斯坦福辣妹</span><img src=\"http://wx3.sinaimg.cn/middle/008tJ8jOly1i6kbk4tznaj30u01hcn0a.jpg\" data-width=1920 data-height=1080></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5037696408360023&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=3&multi_count=3\"><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.1023.1023.50/c183613bly8hxtd0c3lbdj20sg0sfdhe.jpg?KID=imgbed,tva&Expires=1762240638&ssig=h4HALJwjrG) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">水雾同学_DrEV</span><img src=\"http://wx1.sinaimg.cn/middle/c183613bgy1hq107nm49bj21400u0gsv.jpg\" data-width=1080 data-height=1440></div></media-block><br>### ⚠️ **四、争议与反思：避免仪式感异化**  <br>1. **形式与本质的辩证**  <br>    - 赵磊因忽略女友生日蛋糕引发矛盾，核心矛盾在于“情感可见度”的缺失；```wbCustomBlock{\"type\": \"quoted\", \"index\": 28, \"data\": {\"num\": [7, 12], \"version\": 2, \"quote_list\": [{\"name\": \"娱圈桃花仙\", \"scheme\": \"sinaweibo://detail?mblogid=5218334935352164\", \"index\": 12, \"label\": \"大v\"}, {\"name\": \"桃花雨落心\", \"scheme\": \"sinaweibo://detail?mblogid=5218112288852428\", \"index\": 7, \"label\": \"\"}], \"name\": \"娱圈桃花仙\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.500.500.50/005Bo53Kly8hfr16eniejj30dw0dwaas.jpg?KID=imgbed,tva&Expires=1762240638&ssig=O8UkqKNF8q\", \"scheme\": \"sinaweibo://detail?mblogid=5218334935352164\", \"vType\": 0}}```  <br>    - 另一女性却因“一碗饺子+新衣”的简约庆祝感到满足，关键在于仪式是否承载“被重视”的实证。<br><br>2. **代际和解的创新**  <br>    - 00后接受父母“送保健品而非鲜花”的实用浪漫；  <br>    - 理解长辈用手写信替代社交媒体祝福的情感厚度。  <br>    *共识：* 仪式感需尊重个体差异，拒绝表演性内卷。<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5218334935352164&multi_paragraph=4&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.500.500.50/005Bo53Kly8hfr16eniejj30dw0dwaas.jpg?KID=imgbed,tva&Expires=1762240638&ssig=O8UkqKNF8q) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">娱圈桃花仙</span><img src=\"http://wx1.sinaimg.cn/middle/005Bo53Kly1i61allhk8gj30sg0g0jrz.jpg\" data-width=576 data-height=1024></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5218112288852428&multi_paragraph=4&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.816.816.50/006MkvBsly8hyhl25zk76j30mo0mognc.jpg?KID=imgbed,tva&Expires=1762240638&ssig=TFlIkRJAGE) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">桃花雨落心</span><img src=\"http://wx1.sinaimg.cn/middle/006MkvBsgy1i60l0rg8bij30g00sgab2.jpg\" data-width=1024 data-height=576></div></media-block><br>### 💎 **结语：仪式感的终极意义**  <br>生日仪式感的本质，是将生物学意义的存活升华为诗意的存在。它不必奢华，却需用心——无论是千架无人机的光影盛宴，还是独享饺子的安静时刻，只要赋予这一天“脱离庸常”的微光，便是对生命最温柔的致敬。  <br>> 正如《小王子》所言：**“仪式使某个日子区别于其他日子，某个时刻不同于其他时刻。”** 🌌<br>",
+      "share_text": "#庆生也要拼出仪式感#的相关内容，来智搜看看",
+      "zs_risk_control": {
+        "think_text_close": 0,
+        "land_button_close": 0
+      },
+      "qs_status": 0,
+      "ext_show": {},
+      "qs_status_info": "{\"qs_r_status\":0,\"qs_u_status\":0,\"ab_lab\":{},\"qs_q_status\":0,\"qs_status\":0,\"qs_c_status\":8388608}",
+      "user_info": {},
+      "chat_status_stage": 1,
+      "show_ctrl": {
+        "quote": {}
+      },
+      "news_analyze": {},
+      "reliable_tips": "{\"gold_orange_v_mids\": [\"5229233167140825\", \"5213714333568607\", \"5227417326849826\", \"5200188098742380\", \"5224183533666997\", \"5224299181116785\", \"5037696408360023\", \"5218112288852428\", \"5218334935352164\", \"5229199125122208\", \"5211620608579623\", \"5220243586941410\", \"5229193835318980\", \"5229194902765972\", \"5229193806743045\", \"5229193627175534\", \"5229232982069755\", \"5229197925811645\", \"5219924882492955\", \"5229028655239588\", \"5177120901042625\", \"5228615306577935\", \"5184630626978384\", \"5228937232781968\", \"5229190720522201\", \"5195507803881990\", \"5171005116908582\", \"5170144632636015\", \"5174389986295960\", \"5213963500913115\", \"5221368654466429\"], \"gold_orange_v_ratio\": \"69%\", \"media_mids\": [\"5229191214662319\"], \"media_ratio\": \"2%\", \"verified_mids\": [\"5177604996596693\", \"5177787590901940\", \"5227501988351113\", \"4949472322520640\", \"5196645018376193\", \"5226859102995298\", \"5225983150129576\"], \"verified_ratio\": \"16%\", \"normal_mids\": [\"5229195537941576\", \"5228674463830334\", \"5229218952907021\", \"5228849911563357\", \"5228995486685745\", \"5228987895778650\"], \"normal_ratio\": \"13%\", \"ref_mid_rank\": {\"5229191214662319\": {\"rank\": 1}, \"5229233167140825\": {\"rank\": 20}, \"5229195537941576\": {\"rank\": 23}, \"5213714333568607\": {\"rank\": 3}, \"5177604996596693\": {\"rank\": 46}, \"5177787590901940\": {\"rank\": 44}, \"5228674463830334\": {\"rank\": 40}, \"5227417326849826\": {\"rank\": 5}, \"5200188098742380\": {\"rank\": 10}, \"5224183533666997\": {\"rank\": 27}, \"5224299181116785\": {\"rank\": 33}, \"5037696408360023\": {\"rank\": 45}, \"5218112288852428\": {\"rank\": 7}, \"5218334935352164\": {\"rank\": 12}, \"5229199125122208\": {\"rank\": 2}, \"5227501988351113\": {\"rank\": 4}, \"4949472322520640\": {\"rank\": 6}, \"5211620608579623\": {\"rank\": 8}, \"5220243586941410\": {\"rank\": 9}, \"5196645018376193\": {\"rank\": 11}, \"5229193835318980\": {\"rank\": 16}, \"5229194902765972\": {\"rank\": 17}, \"5229193806743045\": {\"rank\": 18}, \"5229193627175534\": {\"rank\": 19}, \"5229232982069755\": {\"rank\": 21}, \"5229218952907021\": {\"rank\": 22}, \"5229197925811645\": {\"rank\": 24}, \"5219924882492955\": {\"rank\": 25}, \"5229028655239588\": {\"rank\": 26}, \"5177120901042625\": {\"rank\": 28}, \"5228615306577935\": {\"rank\": 29}, \"5184630626978384\": {\"rank\": 30}, \"5228937232781968\": {\"rank\": 31}, \"5229190720522201\": {\"rank\": 32}, \"5195507803881990\": {\"rank\": 34}, \"5228849911563357\": {\"rank\": 35}, \"5226859102995298\": {\"rank\": 36}, \"5225983150129576\": {\"rank\": 37}, \"5228995486685745\": {\"rank\": 38}, \"5228987895778650\": {\"rank\": 39}, \"5171005116908582\": {\"rank\": 41}, \"5170144632636015\": {\"rank\": 42}, \"5174389986295960\": {\"rank\": 43}, \"5213963500913115\": {\"rank\": 47}, \"5221368654466429\": {\"rank\": 48}}}",
+      "loop_times": 200,
+      "comment_info": {},
+      "ab_suffix": "default",
+      "short_url": "http://t.cn/AXAvXmdP",
+      "wenda": {
+        "forward_gen": 0
+      },
+      "scheme": "sinaweibo://cardlist?containerid=100103type%3D225%26q%3D%23%E5%BA%86%E7%94%9F%E4%B9%9F%E8%A6%81%E6%8B%BC%E5%87%BA%E4%BB%AA%E5%BC%8F%E6%84%9F%23%26t%3D&extparam=ai_model%3Ddeepseek%26ori_ai_title%3D%E5%8F%82%E8%80%83%E5%8D%9A%E6%96%87%26material_version%3D1762229838",
+      "status": 2,
+      "msg_json": "{}",
+      "q_attr": {
+        "from_uid": "",
+        "from_request_id": "",
+        "reply_cid": "",
+        "comment_from_type": "",
+        "mid": ""
+      },
+      "analysis_time": 1762229944,
+      "page_id": "2329643a1d4e071d93495b6b6c23160b20ba95",
+      "sorted_material_list": null,
+      "query": "#庆生也要拼出仪式感#",
+      "uid": "",
+      "profile_image_url": "",
+      "abtest_info": {
+        "chat_entrance": 1
+      },
+      "query_field": "0",
+      "share_info": {
+        "unify_md5": "143906eeeb152772c15efd7d303a6a6c",
+        "display_name": "#庆生也要拼出仪式感#",
+        "url": "http://t.cn/AXAlvsZW",
+        "page_id": "2329643a1d4e071d93495b6b6c23160b20ba95",
+        "status": 3,
+        "tips": "#庆生也要拼出仪式感#的相关内容，来智搜看看",
+        "comment_content": ""
+      },
+      "version": "2025-11-04 12:17:18.029999-8362",
+      "current_time": 1762231240,
+      "msg_format": "markdown",
+      "mid_list": null,
+      "reference_num": 45,
+      "query_category": "Ip",
+      "status_stage": 4,
+      "link_list": [
+        "sinaweibo://detail?mblogid=5229191214662319",
+        "sinaweibo://detail?mblogid=5229199125122208",
+        "sinaweibo://detail?mblogid=5213714333568607",
+        "sinaweibo://detail?mblogid=5227501988351113",
+        "sinaweibo://detail?mblogid=5227417326849826",
+        "sinaweibo://detail?mblogid=4949472322520640",
+        "sinaweibo://detail?mblogid=5218112288852428",
+        "sinaweibo://detail?mblogid=5211620608579623",
+        "sinaweibo://detail?mblogid=5220243586941410",
+        "sinaweibo://detail?mblogid=5200188098742380",
+        "sinaweibo://detail?mblogid=5196645018376193",
+        "sinaweibo://detail?mblogid=5218334935352164",
+        "historyweibo://5229191214662319",
+        "historyweibo://5227498537230144",
+        "historyweibo://5165456059795201",
+        "sinaweibo://detail?mblogid=5229193835318980",
+        "sinaweibo://detail?mblogid=5229194902765972",
+        "sinaweibo://detail?mblogid=5229193806743045",
+        "sinaweibo://detail?mblogid=5229193627175534",
+        "sinaweibo://detail?mblogid=5229233167140825",
+        "sinaweibo://detail?mblogid=5229232982069755",
+        "sinaweibo://detail?mblogid=5229218952907021",
+        "sinaweibo://detail?mblogid=5229195537941576",
+        "sinaweibo://detail?mblogid=5229197925811645",
+        "sinaweibo://detail?mblogid=5219924882492955",
+        "sinaweibo://detail?mblogid=5229028655239588",
+        "sinaweibo://detail?mblogid=5224183533666997",
+        "sinaweibo://detail?mblogid=5177120901042625",
+        "sinaweibo://detail?mblogid=5228615306577935",
+        "sinaweibo://detail?mblogid=5184630626978384",
+        "sinaweibo://detail?mblogid=5228937232781968",
+        "sinaweibo://detail?mblogid=5229190720522201",
+        "sinaweibo://detail?mblogid=5224299181116785",
+        "sinaweibo://detail?mblogid=5195507803881990",
+        "sinaweibo://detail?mblogid=5228849911563357",
+        "sinaweibo://detail?mblogid=5226859102995298",
+        "sinaweibo://detail?mblogid=5225983150129576",
+        "sinaweibo://detail?mblogid=5228995486685745",
+        "sinaweibo://detail?mblogid=5228987895778650",
+        "sinaweibo://detail?mblogid=5228674463830334",
+        "sinaweibo://detail?mblogid=5171005116908582",
+        "sinaweibo://detail?mblogid=5170144632636015",
+        "sinaweibo://detail?mblogid=5174389986295960",
+        "sinaweibo://detail?mblogid=5177787590901940",
+        "sinaweibo://detail?mblogid=5037696408360023",
+        "sinaweibo://detail?mblogid=5177604996596693",
+        "sinaweibo://detail?mblogid=5213963500913115",
+        "sinaweibo://detail?mblogid=5221368654466429"
+      ],
+      "unify_md5": "143906eeeb152772c15efd7d303a6a6c",
+      "top_quote_list": {}
+    }
+  },
+  "links": [
+    "sinaweibo://detail?mblogid=5229191214662319",
+    "sinaweibo://detail?mblogid=5229199125122208",
+    "sinaweibo://detail?mblogid=5213714333568607",
+    "sinaweibo://detail?mblogid=5227501988351113",
+    "sinaweibo://detail?mblogid=5227417326849826",
+    "sinaweibo://detail?mblogid=4949472322520640",
+    "sinaweibo://detail?mblogid=5218112288852428",
+    "sinaweibo://detail?mblogid=5211620608579623",
+    "sinaweibo://detail?mblogid=5220243586941410",
+    "sinaweibo://detail?mblogid=5200188098742380",
+    "sinaweibo://detail?mblogid=5196645018376193",
+    "sinaweibo://detail?mblogid=5218334935352164",
+    "historyweibo://5229191214662319",
+    "historyweibo://5227498537230144",
+    "historyweibo://5165456059795201",
+    "sinaweibo://detail?mblogid=5229193835318980",
+    "sinaweibo://detail?mblogid=5229194902765972",
+    "sinaweibo://detail?mblogid=5229193806743045",
+    "sinaweibo://detail?mblogid=5229193627175534",
+    "sinaweibo://detail?mblogid=5229233167140825",
+    "sinaweibo://detail?mblogid=5229232982069755",
+    "sinaweibo://detail?mblogid=5229218952907021",
+    "sinaweibo://detail?mblogid=5229195537941576",
+    "sinaweibo://detail?mblogid=5229197925811645",
+    "sinaweibo://detail?mblogid=5219924882492955",
+    "sinaweibo://detail?mblogid=5229028655239588",
+    "sinaweibo://detail?mblogid=5224183533666997",
+    "sinaweibo://detail?mblogid=5177120901042625",
+    "sinaweibo://detail?mblogid=5228615306577935",
+    "sinaweibo://detail?mblogid=5184630626978384",
+    "sinaweibo://detail?mblogid=5228937232781968",
+    "sinaweibo://detail?mblogid=5229190720522201",
+    "sinaweibo://detail?mblogid=5224299181116785",
+    "sinaweibo://detail?mblogid=5195507803881990",
+    "sinaweibo://detail?mblogid=5228849911563357",
+    "sinaweibo://detail?mblogid=5226859102995298",
+    "sinaweibo://detail?mblogid=5225983150129576",
+    "sinaweibo://detail?mblogid=5228995486685745",
+    "sinaweibo://detail?mblogid=5228987895778650",
+    "sinaweibo://detail?mblogid=5228674463830334",
+    "sinaweibo://detail?mblogid=5171005116908582",
+    "sinaweibo://detail?mblogid=5170144632636015",
+    "sinaweibo://detail?mblogid=5174389986295960",
+    "sinaweibo://detail?mblogid=5177787590901940",
+    "sinaweibo://detail?mblogid=5037696408360023",
+    "sinaweibo://detail?mblogid=5177604996596693",
+    "sinaweibo://detail?mblogid=5213963500913115",
+    "sinaweibo://detail?mblogid=5221368654466429"
+  ],
+  "media": [
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/008gE3ssly8i6z1xwwn8oj327e1be4qp.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/008gE3ssly8i6z1xwwn8oj327e1be4qp.jpg",
+      "alt": "白鹿视频",
+      "width": 1706,
+      "height": 2858,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/008gE3ssly8i6z1xwwn8oj327e1be4qp.jpg"
+      ],
+      "user": "白鹿视频"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/b356b7c3gy1i5mjwunil4j20zk1raam2.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/b356b7c3gy1i5mjwunil4j20zk1raam2.jpg",
+      "alt": "小桃心十四",
+      "width": 2278,
+      "height": 1280,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/b356b7c3gy1i5mjwunil4j20zk1raam2.jpg"
+      ],
+      "user": "小桃心十四"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/0033ImPzly1i0tbjh7jngj60u0140nnx02.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/0033ImPzly1i0tbjh7jngj60u0140nnx02.jpg",
+      "alt": "财经评论",
+      "width": 1440,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/0033ImPzly1i0tbjh7jngj60u0140nnx02.jpg"
+      ],
+      "user": "财经评论"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/6b0be56fly1i4fe6rraffj20u01hcgom.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/6b0be56fly1i4fe6rraffj20u01hcgom.jpg",
+      "alt": "森野小树",
+      "width": 1920,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/6b0be56fly1i4fe6rraffj20u01hcgom.jpg"
+      ],
+      "user": "森野小树"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/006CXrEjly1i6jyaxdms0j30zk1bejye.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/006CXrEjly1i6jyaxdms0j30zk1bejye.jpg",
+      "alt": "班草陈皮皮",
+      "width": 1706,
+      "height": 1280,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/006CXrEjly1i6jyaxdms0j30zk1bejye.jpg"
+      ],
+      "user": "班草陈皮皮"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/008tJ8jOly1i6kbk4tznaj30u01hcn0a.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/008tJ8jOly1i6kbk4tznaj30u01hcn0a.jpg",
+      "alt": "斯坦福辣妹",
+      "width": 1920,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/008tJ8jOly1i6kbk4tznaj30u01hcn0a.jpg"
+      ],
+      "user": "斯坦福辣妹"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/c183613bgy1hq107nm49bj21400u0gsv.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/c183613bgy1hq107nm49bj21400u0gsv.jpg",
+      "alt": "水雾同学_DrEV",
+      "width": 1080,
+      "height": 1440,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx4.sinaimg.cn/large/c183613bgy1hq107nm49bj21400u0gsv.jpg"
+      ],
+      "user": "水雾同学_DrEV"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/005Bo53Kly1i61allhk8gj30sg0g0jrz.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/005Bo53Kly1i61allhk8gj30sg0g0jrz.jpg",
+      "alt": "娱圈桃花仙",
+      "width": 576,
+      "height": 1024,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/005Bo53Kly1i61allhk8gj30sg0g0jrz.jpg"
+      ],
+      "user": "娱圈桃花仙"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/006MkvBsgy1i60l0rg8bij30g00sgab2.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/006MkvBsgy1i60l0rg8bij30g00sgab2.jpg",
+      "alt": "桃花雨落心",
+      "width": 1024,
+      "height": 576,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/006MkvBsgy1i60l0rg8bij30g00sgab2.jpg"
+      ],
+      "user": "桃花雨落心"
+    }
+  ],
+  "html_path": "data/aicard/hourly/2025-11-04/12/topic-143906ee.html"
+}

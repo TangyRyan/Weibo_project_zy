@@ -1,0 +1,171 @@
+{
+  "meta": {
+    "query": "#京东双11在沙漠造了条星河#",
+    "status_code": 200,
+    "fetched_at": "2025-11-05T05:35:14+08:00",
+    "response": {
+      "version": "2025-11-05 05:25:57.005000-1989",
+      "profile_image_url": "",
+      "unify_md5": "0a22bf5f2b5a7f1f369dc65c0e8278f7",
+      "qs_status_info": "{\"ab_lab\":{},\"qs_q_status\":0,\"qs_u_status\":0,\"qs_status\":0,\"qs_c_status\":8388608,\"qs_r_status\":0}",
+      "comment_info": {},
+      "loop_times": 200,
+      "zs_risk_control": {
+        "think_text_close": 0,
+        "land_button_close": 0
+      },
+      "share_text": "#京东双11在沙漠造了条星河#的相关内容，来智搜看看",
+      "q_attr": {
+        "from_uid": "",
+        "from_request_id": "",
+        "reply_cid": "",
+        "comment_from_type": "",
+        "mid": ""
+      },
+      "status": 2,
+      "mid_list": null,
+      "reference_num": 24,
+      "query_category": "",
+      "status_stage": 4,
+      "link_list": [
+        "sinaweibo://detail?mblogid=5229349756470293",
+        "sinaweibo://detail?mblogid=5227777645351316",
+        "sinaweibo://detail?mblogid=5224250655115550",
+        "sinaweibo://detail?mblogid=5227778162294807",
+        "sinaweibo://detail?mblogid=5227776896141393",
+        "sinaweibo://detail?mblogid=5229419318479041",
+        "sinaweibo://detail?mblogid=5224250655905896",
+        "sinaweibo://detail?mblogid=5229412263395338",
+        "sinaweibo://detail?mblogid=5229414201691574",
+        "sinaweibo://detail?mblogid=5224250657213650",
+        "sinaweibo://detail?mblogid=5224899935472934",
+        "sinaweibo://detail?mblogid=5224548112533270",
+        "sinaweibo://detail?mblogid=5229420669305544",
+        "sinaweibo://detail?mblogid=5229411013756444",
+        "sinaweibo://detail?mblogid=5229430901312191",
+        "sinaweibo://detail?mblogid=5223970062205200",
+        "sinaweibo://detail?mblogid=5224126085073631",
+        "sinaweibo://detail?mblogid=5224125350020460",
+        "sinaweibo://detail?mblogid=5224115283691351",
+        "sinaweibo://detail?mblogid=5224127859525506",
+        "sinaweibo://detail?mblogid=5229491225887678",
+        "sinaweibo://detail?mblogid=5224117784807931",
+        "sinaweibo://detail?mblogid=5229426989599695",
+        "sinaweibo://detail?mblogid=5226312648360260"
+      ],
+      "top_quote_list": {},
+      "card_multimodal": {},
+      "share_card_multimodal": {
+        "cur_mid": "5224250655115550",
+        "click_rate": 0,
+        "click_num": 0,
+        "vtype": 0,
+        "type": "p",
+        "h": 2240,
+        "hit_score_final": 67.095703,
+        "w": 3984,
+        "user_name": "顶尖创意家居",
+        "scheme": "sinaweibo://multimedia?mix_mid=5224250655115550&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=2&multi_count=0",
+        "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.962.962.50/002T8SGXly8i58dia6bqpj60qq0qqtbi02.jpg?KID=imgbed,tva&Expires=1762302357&ssig=0m591I08IZ",
+        "hit_score_new": 71.826172,
+        "video_url": "",
+        "img": "http://wx3.sinaimg.cn/middle/008Iw8Gzly8i6jsjwp19hj332o1q84fe.jpg",
+        "doc_score": 4889,
+        "img_pid": "008Iw8Gzly8i6jsjwp19hj332o1q84fe"
+      },
+      "model": "deepseek",
+      "basemodel": "实验组4",
+      "cot": 1,
+      "ab_suffix": "default",
+      "qs_status": 0,
+      "msg_format": "markdown",
+      "scheme": "sinaweibo://cardlist?containerid=100103type%3D225%26q%3D%23%E4%BA%AC%E4%B8%9C%E5%8F%8C11%E5%9C%A8%E6%B2%99%E6%BC%A0%E9%80%A0%E4%BA%86%E6%9D%A1%E6%98%9F%E6%B2%B3%23%26t%3D&extparam=ai_model%3Ddeepseek%26ori_ai_title%3D%E5%8F%82%E8%80%83%E5%8D%9A%E6%96%87%26material_version%3D1762291557",
+      "analysis_time": 1762291751,
+      "msg_json": "{}",
+      "show_ctrl": {
+        "quote": {}
+      },
+      "query": "#京东双11在沙漠造了条星河#",
+      "wenda": {
+        "forward_gen": 0
+      },
+      "reliable_tips": "{\"gold_orange_v_mids\": [\"5227778162294807\", \"5227777645351316\", \"5229419318479041\", \"5224250655905896\", \"5223970062205200\", \"5224117784807931\", \"5229420669305544\", \"5229491225887678\", \"5229412263395338\", \"5229414201691574\", \"5224250657213650\", \"5224126085073631\", \"5224125350020460\", \"5224115283691351\", \"5224127859525506\", \"5229426989599695\"], \"gold_orange_v_ratio\": \"67%\", \"media_mids\": [], \"media_ratio\": \"0%\", \"verified_mids\": [\"5229349756470293\", \"5224899935472934\", \"5224250655115550\", \"5224548112533270\", \"5227776896141393\", \"5226312648360260\", \"5229430901312191\"], \"verified_ratio\": \"29%\", \"normal_mids\": [\"5229411013756444\"], \"normal_ratio\": \"4%\", \"ref_mid_rank\": {\"5229349756470293\": {\"rank\": 1}, \"5227778162294807\": {\"rank\": 4}, \"5224899935472934\": {\"rank\": 11}, \"5227777645351316\": {\"rank\": 2}, \"5229419318479041\": {\"rank\": 6}, \"5224250655115550\": {\"rank\": 3}, \"5224250655905896\": {\"rank\": 7}, \"5224548112533270\": {\"rank\": 12}, \"5227776896141393\": {\"rank\": 5}, \"5226312648360260\": {\"rank\": 24}, \"5223970062205200\": {\"rank\": 16}, \"5224117784807931\": {\"rank\": 22}, \"5229420669305544\": {\"rank\": 13}, \"5229491225887678\": {\"rank\": 21}, \"5229412263395338\": {\"rank\": 8}, \"5229414201691574\": {\"rank\": 9}, \"5224250657213650\": {\"rank\": 10}, \"5229411013756444\": {\"rank\": 14}, \"5229430901312191\": {\"rank\": 15}, \"5224126085073631\": {\"rank\": 17}, \"5224125350020460\": {\"rank\": 18}, \"5224115283691351\": {\"rank\": 19}, \"5224127859525506\": {\"rank\": 20}, \"5229426989599695\": {\"rank\": 23}}}",
+      "msg": "<think><br><br>嗯，用户想了解京东在2025年双11期间于沙漠打造\"星河\"艺术项目的详情。从搜索结果看，这确实是京东精心策划的营销活动，结合了天文奇观与高端家电产品。<br><br>最核心的信息源来自京东官方账号：他们在甘肃武威沙漠雕塑公园用实体家电搭建了一条\"星河\"，把TCL电视比作猎户座星云、海尔空调比作风车星系、芝华士沙发比作半人马座，每件产品都对应一个星座。这种创意呈现确实震撼，连普通网友都说晚上看像外星飞船降临。<br><br>注意到两个关键细节：一是产品选择，所有参展家电都强调\"星际标准\"，比如Leader洗衣机的漩涡洗护对应银元星系；二是线下联动，北京、上海等地的京东MALL同步展出同款产品，上海新天地还做了星系主题快闪。<br><br>用户可能还关心促销信息。从认证账号发布内容看，活动期间搜\"高端家电家居1111\"可享国家补贴8折起，部分大牌有1元抽奖。这些优惠和沙漠艺术展强绑定，形成营销闭环。<br><br>有趣的是，部分网友提到体验感受：\"晚上很美\"这类朴素评价反而更显真实。不过需要提醒的是，所有促销信息都来自京东关联账号，优惠力度需以实际页面为准。<br><br></think><br>京东2025年双11期间在甘肃省武威沙漠雕塑公园打造的\"星河\"艺术项目，是一次融合天文奇观与高端家电的沉浸式创意营销。以下是核心信息整合：<br>### 🌌 一、核心创意与场景<br>1. **沙漠星河装置**  <br>   在甘肃武威沙漠雕塑公园，京东将高端家电家居产品转化为\"星辰\"，复刻猎户座星云、风车星系等天文景观：  <br>   - TCL极景电饰电视对应**猎户座星云**的绚烂色彩```wbCustomBlock{\"type\": \"quoted\", \"index\": 4, \"data\": {\"num\": [1], \"version\": 2, \"quote_list\": [{\"name\": \"京东家电家居\", \"scheme\": \"sinaweibo://detail?mblogid=5229349756470293\", \"index\": 1, \"label\": \"\"}]}}```  <br>   - 海尔麦浪空调模拟**风车星系**的轻盈环抱送风```wbCustomBlock{\"type\": \"quoted\", \"index\": 5, \"data\": {\"num\": [1, 4], \"version\": 2, \"quote_list\": [{\"name\": \"京东家电家居\", \"scheme\": \"sinaweibo://detail?mblogid=5229349756470293\", \"index\": 1, \"label\": \"\"}, {\"name\": \"致尚生活Style\", \"scheme\": \"sinaweibo://detail?mblogid=5227778162294807\", \"index\": 4, \"label\": \"\"}]}}```  <br>   - 芝华士头等舱沙发呈现**半人马座**的悬浮承托感```wbCustomBlock{\"type\": \"quoted\", \"index\": 6, \"data\": {\"num\": [1], \"version\": 2, \"quote_list\": [{\"name\": \"京东家电家居\", \"scheme\": \"sinaweibo://detail?mblogid=5229349756470293\", \"index\": 1, \"label\": \"\"}]}}```  <br>   - Leader洗衣机以漩涡洗护呼应**银元星系**的纯净漩涡```wbCustomBlock{\"type\": \"quoted\", \"index\": 7, \"data\": {\"num\": [1, 11], \"version\": 2, \"quote_list\": [{\"name\": \"京东家电家居\", \"scheme\": \"sinaweibo://detail?mblogid=5229349756470293\", \"index\": 1, \"label\": \"\"}, {\"name\": \"阿季亲笔信\", \"scheme\": \"sinaweibo://detail?mblogid=5224899935472934\", \"index\": 11, \"label\": \"\"}]}}```<br><br>2. **沉浸式体验设计**  <br>   夜晚灯光点亮后，家电组成的星河在沙漠中形成\"手可摘星辰\"的视觉效果，被网友形容为\"外星飞船降临般的震撼\"。```wbCustomBlock{\"type\": \"quoted\", \"index\": 8, \"data\": {\"num\": [2, 6], \"version\": 2, \"quote_list\": [{\"name\": \"美景收集\", \"scheme\": \"sinaweibo://detail?mblogid=5227777645351316\", \"index\": 2, \"label\": \"大v\"}, {\"name\": \"纯粹的lummf\", \"scheme\": \"sinaweibo://detail?mblogid=5229419318479041\", \"index\": 6, \"label\": \"\"}], \"name\": \"美景收集\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.600.600.50/9ba0f5a7ly8hvmwkgaevkj20go0gotdc.jpg?KID=imgbed,tva&Expires=1762302357&ssig=zJFDawQv19\", \"scheme\": \"sinaweibo://detail?mblogid=5227777645351316\", \"vType\": 0}}```<br>### 🛋️ 二、联动线下体验<br>1. **城市快闪延伸**  <br>   - 上海新天地同步举办**高端家电星系主题展**，通过星图匹配产品功能（如索尼电视对应星云色彩）```wbCustomBlock{\"type\": \"quoted\", \"index\": 11, \"data\": {\"num\": [3, 7, 12], \"version\": 2, \"quote_list\": [{\"name\": \"顶尖创意家居\", \"scheme\": \"sinaweibo://detail?mblogid=5224250655115550\", \"index\": 3, \"label\": \"\"}, {\"name\": \"全球创意搜罗榜\", \"scheme\": \"sinaweibo://detail?mblogid=5224250655905896\", \"index\": 7, \"label\": \"\"}, {\"name\": \"京东家电家居\", \"scheme\": \"sinaweibo://detail?mblogid=5224548112533270\", \"index\": 12, \"label\": \"\"}]}}```  <br>   - 北京、广州、重庆等地京东MALL陈列同款\"星河\"产品，提供一站式购物场景```wbCustomBlock{\"type\": \"quoted\", \"index\": 12, \"data\": {\"num\": [4, 5], \"version\": 2, \"quote_list\": [{\"name\": \"致尚生活Style\", \"scheme\": \"sinaweibo://detail?mblogid=5227778162294807\", \"index\": 4, \"label\": \"\"}, {\"name\": \"生活家张彤彤\", \"scheme\": \"sinaweibo://detail?mblogid=5227776896141393\", \"index\": 5, \"label\": \"\"}]}}```<br><br>2. **明星互动加持**  <br>   歌手刘恋在京东\"1111惊喜之夜\"分享创作时依赖**海尔静音空调**的经历，强化\"家电提升生活品质\"理念。```wbCustomBlock{\"type\": \"quoted\", \"index\": 13, \"data\": {\"num\": [24], \"version\": 2, \"quote_list\": [{\"name\": \"京东家电家居\", \"scheme\": \"sinaweibo://detail?mblogid=5226312648360260\", \"index\": 24, \"label\": \"\"}]}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5224250655115550&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=2&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.962.962.50/002T8SGXly8i58dia6bqpj60qq0qqtbi02.jpg?KID=imgbed,tva&Expires=1762302357&ssig=0m591I08IZ) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">顶尖创意家居</span><img src=\"http://wx3.sinaimg.cn/middle/008Iw8Gzly8i6jsjwp19hj332o1q84fe.jpg\" data-width=2240 data-height=3984></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5224548112533270&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=2&multi_count=1\"><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/002mJ6S7ly8hwrj6rxzhwj60u00u0js802.jpg?KID=imgbed,tva&Expires=1762302357&ssig=Wjc2pUh%2FfE) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">京东家电家居</span><img src=\"http://wx3.sinaimg.cn/middle/002mJ6S7ly1i6kyrzampuj6334222u0z02.jpg\" data-width=2666 data-height=4000></div></media-block><br>### 💡 三、营销策略亮点<br>1. **宇宙美学共鸣**  <br>   将产品技术参数转化为天文意象：如洗衣机\"漩涡洗护\"对应星系漩涡，空调送风比拟星云环抱，用诗意语言连接科技与生活向往。```wbCustomBlock{\"type\": \"quoted\", \"index\": 15, \"data\": {\"num\": [1, 4], \"version\": 2, \"quote_list\": [{\"name\": \"京东家电家居\", \"scheme\": \"sinaweibo://detail?mblogid=5229349756470293\", \"index\": 1, \"label\": \"\"}, {\"name\": \"致尚生活Style\", \"scheme\": \"sinaweibo://detail?mblogid=5227778162294807\", \"index\": 4, \"label\": \"\"}]}}```<br><br>2. **双11优惠联动**  <br>   活动期间搜索 **「高端家电家居1111」** 可享：  <br>   - 国家补贴**8折起**，部分爆款**5折**```wbCustomBlock{\"type\": \"quoted\", \"index\": 17, \"data\": {\"num\": [1, 16], \"version\": 2, \"quote_list\": [{\"name\": \"京东家电家居\", \"scheme\": \"sinaweibo://detail?mblogid=5229349756470293\", \"index\": 1, \"label\": \"\"}, {\"name\": \"影娱使者程霜霜\", \"scheme\": \"sinaweibo://detail?mblogid=5223970062205200\", \"index\": 16, \"label\": \"\"}]}}```  <br>   - 大牌家电**1元抽奖**机会（如Leader洗衣机、卡萨帝油烟机）```wbCustomBlock{\"type\": \"quoted\", \"index\": 18, \"data\": {\"num\": [2, 11], \"version\": 2, \"quote_list\": [{\"name\": \"美景收集\", \"scheme\": \"sinaweibo://detail?mblogid=5227777645351316\", \"index\": 2, \"label\": \"\"}, {\"name\": \"阿季亲笔信\", \"scheme\": \"sinaweibo://detail?mblogid=5224899935472934\", \"index\": 11, \"label\": \"\"}]}}```  <br>   - 部分地区叠加**政府补贴+9折券**，如容声冰箱补贴后低至¥2599```wbCustomBlock{\"type\": \"quoted\", \"index\": 19, \"data\": {\"num\": [11, 22], \"version\": 2, \"quote_list\": [{\"name\": \"阿季亲笔信\", \"scheme\": \"sinaweibo://detail?mblogid=5224899935472934\", \"index\": 11, \"label\": \"\"}, {\"name\": \"特价少女淇淇\", \"scheme\": \"sinaweibo://detail?mblogid=5224117784807931\", \"index\": 22, \"label\": \"\"}]}}```<br>### 📊 四、用户反馈与影响<br>- **社交热议**：话题#这辈子你有没有这样追过星#引发情感共鸣，网友称\"把家电选购变成追星之旅\"```wbCustomBlock{\"type\": \"quoted\", \"index\": 21, \"data\": {\"num\": [2, 5], \"version\": 2, \"quote_list\": [{\"name\": \"美景收集\", \"scheme\": \"sinaweibo://detail?mblogid=5227777645351316\", \"index\": 2, \"label\": \"\"}, {\"name\": \"生活家张彤彤\", \"scheme\": \"sinaweibo://detail?mblogid=5227776896141393\", \"index\": 5, \"label\": \"\"}]}}```  <br>- **场景化营销突破**：沙漠装置打破传统卖场逻辑，用极致环境凸显产品性能（如沙漠中的冰箱保鲜、空调恒温）。```wbCustomBlock{\"type\": \"quoted\", \"index\": 22, \"data\": {\"num\": [13, 21], \"version\": 2, \"quote_list\": [{\"name\": \"财遇遇\", \"scheme\": \"sinaweibo://detail?mblogid=5229491225887678\", \"index\": 21, \"label\": \"大v\"}, {\"name\": \"这个米米\", \"scheme\": \"sinaweibo://detail?mblogid=5229420669305544\", \"index\": 13, \"label\": \"\"}], \"name\": \"财遇遇\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.1023.1023.50/005DXz0qly8hyrblhq98rj30sg0sfaeq.jpg?KID=imgbed,tva&Expires=1762302357&ssig=77JQ8RtwdT\", \"scheme\": \"sinaweibo://detail?mblogid=5229491225887678\", \"vType\": 0}}```<br><br>> 💎 这场\"大地上的星河\"本质是**消费体验的升维**——京东通过将家电符号化为星辰，让高端科技从功能参数蜕变为可触摸的生活诗意，在双11促销洪流中开辟出独特的品牌记忆点。<br>",
+      "uid": "",
+      "current_time": 1762292114,
+      "short_url": "http://t.cn/AXwG83Yo",
+      "page_id": "23296489cd327922d1ce07881f1f3a5f3d79ea",
+      "share_info": {
+        "url": "http://t.cn/AXwivVLy",
+        "status": 3,
+        "unify_md5": "0a22bf5f2b5a7f1f369dc65c0e8278f7",
+        "comment_content": "",
+        "page_id": "23296489cd327922d1ce07881f1f3a5f3d79ea",
+        "display_name": "#京东双11在沙漠造了条星河#",
+        "tips": "#京东双11在沙漠造了条星河#的相关内容，来智搜看看"
+      },
+      "abtest_info": {
+        "chat_entrance": 1
+      },
+      "query_field": "42",
+      "chat_status_stage": 1,
+      "ext_show": {},
+      "sorted_material_list": null,
+      "user_info": {},
+      "news_analyze": {}
+    }
+  },
+  "links": [
+    "sinaweibo://detail?mblogid=5229349756470293",
+    "sinaweibo://detail?mblogid=5227777645351316",
+    "sinaweibo://detail?mblogid=5224250655115550",
+    "sinaweibo://detail?mblogid=5227778162294807",
+    "sinaweibo://detail?mblogid=5227776896141393",
+    "sinaweibo://detail?mblogid=5229419318479041",
+    "sinaweibo://detail?mblogid=5224250655905896",
+    "sinaweibo://detail?mblogid=5229412263395338",
+    "sinaweibo://detail?mblogid=5229414201691574",
+    "sinaweibo://detail?mblogid=5224250657213650",
+    "sinaweibo://detail?mblogid=5224899935472934",
+    "sinaweibo://detail?mblogid=5224548112533270",
+    "sinaweibo://detail?mblogid=5229420669305544",
+    "sinaweibo://detail?mblogid=5229411013756444",
+    "sinaweibo://detail?mblogid=5229430901312191",
+    "sinaweibo://detail?mblogid=5223970062205200",
+    "sinaweibo://detail?mblogid=5224126085073631",
+    "sinaweibo://detail?mblogid=5224125350020460",
+    "sinaweibo://detail?mblogid=5224115283691351",
+    "sinaweibo://detail?mblogid=5224127859525506",
+    "sinaweibo://detail?mblogid=5229491225887678",
+    "sinaweibo://detail?mblogid=5224117784807931",
+    "sinaweibo://detail?mblogid=5229426989599695",
+    "sinaweibo://detail?mblogid=5226312648360260"
+  ],
+  "media": [
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/008Iw8Gzly8i6jsjwp19hj332o1q84fe.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/008Iw8Gzly8i6jsjwp19hj332o1q84fe.jpg",
+      "alt": "顶尖创意家居",
+      "width": 2240,
+      "height": 3984,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/008Iw8Gzly8i6jsjwp19hj332o1q84fe.jpg"
+      ],
+      "user": "顶尖创意家居"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/002mJ6S7ly1i6kyrzampuj6334222u0z02.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/002mJ6S7ly1i6kyrzampuj6334222u0z02.jpg",
+      "alt": "京东家电家居",
+      "width": 2666,
+      "height": 4000,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/002mJ6S7ly1i6kyrzampuj6334222u0z02.jpg"
+      ],
+      "user": "京东家电家居"
+    }
+  ],
+  "html_path": "data/aicard/hourly/2025-11-05/05/11.html"
+}

@@ -1,0 +1,402 @@
+{
+  "meta": {
+    "query": "#荷兰安世半导体无中生有恶意抹黑#",
+    "status_code": 200,
+    "fetched_at": "2025-11-02T11:49:59+08:00",
+    "response": {
+      "page_id": "232964e101157799c9a96b9a8c7ce0aabc66fb",
+      "q_attr": {
+        "from_request_id": "",
+        "mid": "",
+        "from_uid": "",
+        "reply_cid": "",
+        "comment_from_type": ""
+      },
+      "model": "deepseek",
+      "msg_format": "markdown",
+      "cot": 1,
+      "ab_suffix": "default",
+      "scheme": "sinaweibo://cardlist?containerid=100103type%3D225%26q%3D%23%E8%8D%B7%E5%85%B0%E5%AE%89%E4%B8%96%E5%8D%8A%E5%AF%BC%E4%BD%93%E6%97%A0%E4%B8%AD%E7%94%9F%E6%9C%89%E6%81%B6%E6%84%8F%E6%8A%B9%E9%BB%91%23%26t%3D&extparam=ai_model%3Ddeepseek%26ori_ai_title%3D%E5%8F%82%E8%80%83%E5%8D%9A%E6%96%87%26material_version%3D1762054821",
+      "show_ctrl": {
+        "quote": {}
+      },
+      "qs_status": 0,
+      "query_field": "12",
+      "query": "#荷兰安世半导体无中生有恶意抹黑#",
+      "status_stage": 4,
+      "analysis_time": 1762054983,
+      "current_time": 1762055400,
+      "profile_image_url": "",
+      "user_info": {},
+      "short_url": "http://t.cn/AXAXbX6S",
+      "version": "2025-11-02 11:40:21.016999-9543",
+      "loop_times": 200,
+      "wenda": {
+        "forward_gen": 0
+      },
+      "uid": "",
+      "top_quote_list": {},
+      "sorted_material_list": null,
+      "comment_info": {},
+      "reference_num": 56,
+      "mid_list": null,
+      "query_category": "Ip",
+      "news_analyze": {},
+      "reliable_tips": "{\"gold_orange_v_mids\": [\"5228496676718276\", \"5228465709386285\", \"5228484983260696\", \"5228477752020016\", \"5228480432441870\", \"5228481556254406\", \"5223859894357111\", \"5228091735539847\", \"5227039485331517\", \"5227458616100012\", \"5223058600364149\", \"5223509560657446\", \"5222295774953715\", \"5222781479813747\", \"5225045458684217\", \"5224166098731072\", \"5225779056348499\", \"5227182453950649\", \"5224156427190813\", \"5225700883698298\", \"5224178174657618\", \"5225991752649485\", \"5228106327786107\", \"5228464924789692\", \"5228197092262709\", \"5222461102363766\", \"5224895307842185\", \"5228132941435348\", \"5228475778597868\", \"5228471208904090\", \"5228093969009880\", \"5228491643553792\", \"5228474723206687\", \"5228471069969864\", \"5227190019949582\", \"5228483519448776\", \"5228478946608798\", \"5228486563988560\", \"5225317299913733\", \"5228451206008582\", \"5228486591513177\", \"5225399846179643\"], \"gold_orange_v_ratio\": \"75%\", \"media_mids\": [\"5228444300348343\", \"5228442398491094\", \"5228476547727562\", \"5228450081146331\", \"5228453557439691\", \"5222414302055598\", \"5228476539602337\"], \"media_ratio\": \"12%\", \"verified_mids\": [\"5228486567396374\", \"5228481207599476\", \"5228482503641620\", \"5228475845970988\", \"5225165920930605\"], \"verified_ratio\": \"9%\", \"normal_mids\": [\"5223126122366608\", \"5228438538944611\"], \"normal_ratio\": \"4%\", \"ref_mid_rank\": {\"5228444300348343\": {\"rank\": 1}, \"5228442398491094\": {\"rank\": 25}, \"5228496676718276\": {\"rank\": 30}, \"5228465709386285\": {\"rank\": 12}, \"5228476547727562\": {\"rank\": 34}, \"5228450081146331\": {\"rank\": 41}, \"5228484983260696\": {\"rank\": 3}, \"5228477752020016\": {\"rank\": 27}, \"5228486567396374\": {\"rank\": 31}, \"5228481207599476\": {\"rank\": 33}, \"5228480432441870\": {\"rank\": 26}, \"5228481556254406\": {\"rank\": 43}, \"5223859894357111\": {\"rank\": 17}, \"5228091735539847\": {\"rank\": 20}, \"5227039485331517\": {\"rank\": 5}, \"5227458616100012\": {\"rank\": 8}, \"5223058600364149\": {\"rank\": 44}, \"5223509560657446\": {\"rank\": 18}, \"5222295774953715\": {\"rank\": 56}, \"5222781479813747\": {\"rank\": 24}, \"5223126122366608\": {\"rank\": 16}, \"5225045458684217\": {\"rank\": 14}, \"5224166098731072\": {\"rank\": 6}, \"5225779056348499\": {\"rank\": 23}, \"5227182453950649\": {\"rank\": 52}, \"5224156427190813\": {\"rank\": 50}, \"5225700883698298\": {\"rank\": 13}, \"5224178174657618\": {\"rank\": 9}, \"5225991752649485\": {\"rank\": 10}, \"5228106327786107\": {\"rank\": 15}, \"5228464924789692\": {\"rank\": 42}, \"5228197092262709\": {\"rank\": 46}, \"5228482503641620\": {\"rank\": 54}, \"5228475845970988\": {\"rank\": 51}, \"5228453557439691\": {\"rank\": 2}, \"5222461102363766\": {\"rank\": 4}, \"5225165920930605\": {\"rank\": 7}, \"5224895307842185\": {\"rank\": 11}, \"5228132941435348\": {\"rank\": 19}, \"5228475778597868\": {\"rank\": 21}, \"5222414302055598\": {\"rank\": 22}, \"5228471208904090\": {\"rank\": 28}, \"5228093969009880\": {\"rank\": 29}, \"5228491643553792\": {\"rank\": 32}, \"5228476539602337\": {\"rank\": 35}, \"5228474723206687\": {\"rank\": 36}, \"5228471069969864\": {\"rank\": 37}, \"5228438538944611\": {\"rank\": 38}, \"5227190019949582\": {\"rank\": 39}, \"5228483519448776\": {\"rank\": 40}, \"5228478946608798\": {\"rank\": 45}, \"5228486563988560\": {\"rank\": 47}, \"5225317299913733\": {\"rank\": 48}, \"5228451206008582\": {\"rank\": 49}, \"5228486591513177\": {\"rank\": 53}, \"5225399846179643\": {\"rank\": 55}}}",
+      "share_info": {
+        "tips": "#荷兰安世半导体无中生有恶意抹黑#的相关内容，来智搜看看",
+        "page_id": "232964e101157799c9a96b9a8c7ce0aabc66fb",
+        "status": 3,
+        "unify_md5": "bb537481c87e2e11bf3b7ece3e7b55a3",
+        "url": "http://t.cn/AXAXbUdY",
+        "comment_content": "",
+        "display_name": "#荷兰安世半导体无中生有恶意抹黑#"
+      },
+      "msg": "<think><br><br>嗯，用户查询的是关于\"荷兰安世半导体无中生有恶意抹黑\"的搜索结果，需要我整合信息并撰写回答。看了一下，有56条搜索结果，都是微博内容，发布时间集中在2025年10月中旬到11月初。<br><br>用户可能是个关注国际商业纠纷或半导体行业的读者，想了解中荷企业冲突的真相。从搜索结果看，事件核心是荷兰安世半导体突然停止向中国东莞工厂供应晶圆，并指控中方违约；而安世中国发声明反驳说这完全是恶意抹黑，反而荷兰欠款10亿人民币。<br><br>让我梳理关键信息点：<br>1 安世中国的四大声明明确指出荷兰方的指控是\"无中生有\"，反而揭露对方拖欠货款。这个信息来自北京日报等权威媒体，可信度高。<br>2 商业博弈背后有地缘政治因素：美国9月29日出台\"穿透性制裁规则\"，荷兰次日就接管安世半导体，时间点太巧合。荷兰高管可能想借政治局势谋私利。<br>3 产业链现状：东莞工厂占安世全球70%封测产能，欧洲车企库存告急。安世中国已储备足够库存到年底，正在验证国产晶圆产能替代方案。<br>4 国际反应：欧美网友普遍批评荷兰\"愚蠢\"，欧洲汽车协会警告停产风险，荷兰政府正紧急寻求谈判。<br><br>需要特别注意时效性——今天是2025年11月2日，最新进展是安世中国凌晨发布的声明。对于矛盾焦点\"谁违约\"，搜索结果里安世中国提供了具体数据（欠款10亿），而荷兰方只有模糊指控，这一点很关键。<br><br>有些信息需要交叉验证：比如荷兰引用1952年法律接管企业的程序瑕疵，以及中方反制措施如稀土管制等，多个信源表述一致。<br><br>回答结构可以按冲突脉络展开：先交代事件核心矛盾，再分析深层原因，最后说明现状和影响。重点突出安世中国的四点声明，用加粗强调\"无中生有\"\"欠款10亿\"等关键词。结尾点明事件折射的全球产业链重组趋势，呼应半导体国产化背景。<br><br></think><br>### 🔍事件核心矛盾  <br>1. **指控与反诉**  <br>   - **荷兰安世声明**（10月26日）：单方面停止向东莞封装测试工厂（ATGD）供应晶圆，理由为“ATGD管理层未遵守合同付款条件”💢。  <br>   - **安世中国驳斥**（11月2日）：  <br>     - 荷兰方指控系“无中生有、恶意抹黑”，安世中国不存在任何违约行为。```wbCustomBlock{\"type\": \"quoted\", \"index\": 6, \"data\": {\"num\": [1, 25, 30], \"version\": 2, \"quote_list\": [{\"name\": \"北京日报\", \"scheme\": \"sinaweibo://detail?mblogid=5228444300348343\", \"index\": 1, \"label\": \"大v\"}, {\"name\": \"北京日报\", \"scheme\": \"sinaweibo://detail?mblogid=5228442398491094\", \"index\": 25, \"label\": \"\"}, {\"name\": \"态度岛\", \"scheme\": \"sinaweibo://detail?mblogid=5228496676718276\", \"index\": 30, \"label\": \"\"}], \"name\": \"北京日报\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.600.600.50/0024aA4lly8i51bp1z4bcj60go0goq3g02.jpg?KID=imgbed,tva&Expires=1762065621&ssig=kxVvUfrdFH\", \"scheme\": \"sinaweibo://detail?mblogid=5228444300348343\", \"vType\": 3}}```  <br>     - **反向揭露欠款事实**：荷兰安世拖欠ATGD货款高达10亿元人民币。```wbCustomBlock{\"type\": \"quoted\", \"index\": 7, \"data\": {\"num\": [12, 34, 41], \"version\": 2, \"quote_list\": [{\"name\": \"上海证券报\", \"scheme\": \"sinaweibo://detail?mblogid=5228476547727562\", \"index\": 34, \"label\": \"大v\"}, {\"name\": \"科技犬建哥\", \"scheme\": \"sinaweibo://detail?mblogid=5228465709386285\", \"index\": 12, \"label\": \"\"}, {\"name\": \"每日经济新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5228450081146331\", \"index\": 41, \"label\": \"\"}], \"name\": \"上海证券报\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.600.600.50/7195952ely8hpvqhncwsfj20go0go766.jpg?KID=imgbed,tva&Expires=1762065621&ssig=oNYkkT2rRd\", \"scheme\": \"sinaweibo://detail?mblogid=5228476547727562\", \"vType\": 3}}```  <br>     - 谴责荷兰管理层“严重失职”，将个人利益凌驾于公司整体利益之上。```wbCustomBlock{\"type\": \"quoted\", \"index\": 8, \"data\": {\"num\": [3, 27], \"version\": 2, \"quote_list\": [{\"name\": \"马力AI和商业思维\", \"scheme\": \"sinaweibo://detail?mblogid=5228484983260696\", \"index\": 3, \"label\": \"\"}, {\"name\": \"踏浪揽财\", \"scheme\": \"sinaweibo://detail?mblogid=5228477752020016\", \"index\": 27, \"label\": \"\"}]}}```  <br><br>2. **供应链博弈**  <br>   - 荷兰断供晶圆后，安世中国宣布：  <br>     - **库存充足**：成品与在制品库存可满足客户直至年底及更长时间订单需求。```wbCustomBlock{\"type\": \"quoted\", \"index\": 11, \"data\": {\"num\": [1, 31, 33], \"version\": 2, \"quote_list\": [{\"name\": \"观察者网\", \"scheme\": \"sinaweibo://detail?mblogid=5228486567396374\", \"index\": 31, \"label\": \"大v\"}, {\"name\": \"北京日报\", \"scheme\": \"sinaweibo://detail?mblogid=5228444300348343\", \"index\": 1, \"label\": \"\"}, {\"name\": \"风闻社区\", \"scheme\": \"sinaweibo://detail?mblogid=5228481207599476\", \"index\": 33, \"label\": \"\"}], \"name\": \"观察者网\", \"img\": \"https://tvax3.sinaimg.cn/crop.6.8.591.591.50/707e96d5ly8h8vg9v0hpjj20go0gowf6.jpg?KID=imgbed,tva&Expires=1762065621&ssig=D9V%2BNFEdDB\", \"scheme\": \"sinaweibo://detail?mblogid=5228486567396374\", \"vType\": 3}}```  <br>     - **国产替代预案**：已启动多套方案，加紧验证新晶圆产能，计划2026年起无缝衔接供应。```wbCustomBlock{\"type\": \"quoted\", \"index\": 12, \"data\": {\"num\": [26, 30, 43], \"version\": 2, \"quote_list\": [{\"name\": \"疯狂大象\", \"scheme\": \"sinaweibo://detail?mblogid=5228480432441870\", \"index\": 26, \"label\": \"大v\"}, {\"name\": \"态度岛\", \"scheme\": \"sinaweibo://detail?mblogid=5228496676718276\", \"index\": 30, \"label\": \"\"}, {\"name\": \"萝卜叔叔的车\", \"scheme\": \"sinaweibo://detail?mblogid=5228481556254406\", \"index\": 43, \"label\": \"\"}], \"name\": \"疯狂大象\", \"img\": \"https://tva2.sinaimg.cn/crop.0.0.750.750.50/69084fa9jw8f3o0zoikd7j20ku0ku3zw.jpg?KID=imgbed,tva&Expires=1762065621&ssig=vpSi9Zco%2FC\", \"scheme\": \"sinaweibo://detail?mblogid=5228480432441870\", \"vType\": 0}}```  <br>   - **产业链优势对比**：  <br>     - 安世中国掌握全球70%封测产能（东莞工厂），欧洲车企库存告急（仅存数周）。```wbCustomBlock{\"type\": \"quoted\", \"index\": 14, \"data\": {\"num\": [17, 20], \"version\": 2, \"quote_list\": [{\"name\": \"厚恩投资张延昆\", \"scheme\": \"sinaweibo://detail?mblogid=5228091735539847\", \"index\": 20, \"label\": \"大v\"}, {\"name\": \"52赫兹实验室\", \"scheme\": \"sinaweibo://detail?mblogid=5223859894357111\", \"index\": 17, \"label\": \"\"}], \"name\": \"厚恩投资张延昆\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/404cdd30ly8gdih9m7oraj20u00u0whj.jpg?KID=imgbed,tva&Expires=1762065621&ssig=g88cYw7Xfq\", \"scheme\": \"sinaweibo://detail?mblogid=5228091735539847\", \"vType\": 0}}```  <br>     - 荷兰晶圆厂（德国汉堡、英国曼彻斯特）因失去中国封测支持，产能利用率骤降1/3。```wbCustomBlock{\"type\": \"quoted\", \"index\": 15, \"data\": {\"num\": [20, 26], \"version\": 2, \"quote_list\": [{\"name\": \"厚恩投资张延昆\", \"scheme\": \"sinaweibo://detail?mblogid=5228091735539847\", \"index\": 20, \"label\": \"\"}, {\"name\": \"疯狂大象\", \"scheme\": \"sinaweibo://detail?mblogid=5228480432441870\", \"index\": 26, \"label\": \"\"}]}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5228091735539847&multi_paragraph=0&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/404cdd30ly8gdih9m7oraj20u00u0whj.jpg?KID=imgbed,tva&Expires=1762065621&ssig=g88cYw7Xfq) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">厚恩投资张延昆</span><img src=\"http://wx4.sinaimg.cn/middle/404cdd30ly1i6wf58xz4uj20k00zkgnu.jpg\" data-width=1280 data-height=720></div></media-block><br>### 🕵️‍♂️深层动因：政治裹挟商业  <br>1. **荷兰政府强行接管**  <br>   - **法律程序争议**：  <br>     - 引用1952年战时法律，未经庭审即冻结中方资产、撤换CEO张学政。```wbCustomBlock{\"type\": \"quoted\", \"index\": 20, \"data\": {\"num\": [5, 8, 44], \"version\": 2, \"quote_list\": [{\"name\": \"向小田\", \"scheme\": \"sinaweibo://detail?mblogid=5227039485331517\", \"index\": 5, \"label\": \"大v\"}, {\"name\": \"魏叔胡侃ws\", \"scheme\": \"sinaweibo://detail?mblogid=5227458616100012\", \"index\": 8, \"label\": \"\"}, {\"name\": \"卢克文\", \"scheme\": \"sinaweibo://detail?mblogid=5223058600364149\", \"index\": 44, \"label\": \"\"}], \"name\": \"向小田\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.1002.1002.50/62f2ccbcly8gccdx1t54wj20ru0rumyr.jpg?KID=imgbed,tva&Expires=1762065621&ssig=HiL47b2y89\", \"scheme\": \"sinaweibo://detail?mblogid=5227039485331517\", \"vType\": 0}}```  <br>     - 荷兰经济部长声称“不知情”，但法院判决与美政策发布时间高度重合（美9月29日发布制裁，荷9月30日行动）。```wbCustomBlock{\"type\": \"quoted\", \"index\": 21, \"data\": {\"num\": [18, 56], \"version\": 2, \"quote_list\": [{\"name\": \"看边关月\", \"scheme\": \"sinaweibo://detail?mblogid=5223509560657446\", \"index\": 18, \"label\": \"\"}, {\"name\": \"前HR随笔\", \"scheme\": \"sinaweibo://detail?mblogid=5222295774953715\", \"index\": 56, \"label\": \"\"}]}}```  <br>   - **真实目的**：配合美国“穿透性制裁”，试图将安世半导体强制出售给欧洲公司。```wbCustomBlock{\"type\": \"quoted\", \"index\": 22, \"data\": {\"num\": [3, 24], \"version\": 2, \"quote_list\": [{\"name\": \"张捷观察-谁是谁非任评说\", \"scheme\": \"sinaweibo://detail?mblogid=5222781479813747\", \"index\": 24, \"label\": \"大v\"}, {\"name\": \"马力AI和商业思维\", \"scheme\": \"sinaweibo://detail?mblogid=5228484983260696\", \"index\": 3, \"label\": \"\"}], \"name\": \"张捷观察-谁是谁非任评说\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/49c1101dly8gyb1wwh3xaj20u00u0dhq.jpg?KID=imgbed,tva&Expires=1762065621&ssig=cyuaSIX%2F%2F2\", \"scheme\": \"sinaweibo://detail?mblogid=5222781479813747\", \"vType\": 0}}```  <br><br>2. **高管利益驱动**  <br>   - 荷兰籍高管为保职位及个人利益，配合政府操作，切断中国区系统权限、停发员工薪资。```wbCustomBlock{\"type\": \"quoted\", \"index\": 24, \"data\": {\"num\": [16, 44], \"version\": 2, \"quote_list\": [{\"name\": \"卢克文\", \"scheme\": \"sinaweibo://detail?mblogid=5223058600364149\", \"index\": 44, \"label\": \"大v\"}, {\"name\": \"股市刀锋\", \"scheme\": \"sinaweibo://detail?mblogid=5223126122366608\", \"index\": 16, \"label\": \"\"}], \"name\": \"卢克文\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/6fc6b552ly8hdrfkljnbfj20u00u0ahf.jpg?KID=imgbed,tva&Expires=1762065621&ssig=IrrWOM4jE6\", \"scheme\": \"sinaweibo://detail?mblogid=5223058600364149\", \"vType\": 0}}```  <br>   - 安世中国紧急声明“荷兰总部指令在华无效”，并独立发放薪酬。```wbCustomBlock{\"type\": \"quoted\", \"index\": 25, \"data\": {\"num\": [14, 17], \"version\": 2, \"quote_list\": [{\"name\": \"52赫兹实验室\", \"scheme\": \"sinaweibo://detail?mblogid=5223859894357111\", \"index\": 17, \"label\": \"大v\"}, {\"name\": \"老手看盘\", \"scheme\": \"sinaweibo://detail?mblogid=5225045458684217\", \"index\": 14, \"label\": \"\"}], \"name\": \"52赫兹实验室\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.996.996.50/005SxUsjly8gc5j0o5yc5j30ro0roaas.jpg?KID=imgbed,tva&Expires=1762065621&ssig=7%2F9kMPJZeu\", \"scheme\": \"sinaweibo://detail?mblogid=5223859894357111\", \"vType\": 0}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5223509560657446&multi_paragraph=1&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/8ce12e1dly8i2y9983mh8j20u00u0acv.jpg?KID=imgbed,tva&Expires=1762065621&ssig=pnWI7I%2FTKU) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">看边关月</span><img src=\"http://wx3.sinaimg.cn/middle/8ce12e1dly1i6hsvo6691j21hc0u0q5a.jpg\" data-width=1080 data-height=1920></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5222295774953715&multi_paragraph=1&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/006K6Bl7ly8hk179dhamlj30u00u0q3w.jpg?KID=imgbed,tva&Expires=1762065621&ssig=JrXwb%2BVIc1) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">前HR随笔</span><img src=\"http://wx1.sinaimg.cn/middle/006K6Bl7gy1i6ddg8dfkwj30a00hs74x.jpg\" data-width=640 data-height=360></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5222781479813747&multi_paragraph=1&multi_count=2\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/49c1101dly8gyb1wwh3xaj20u00u0dhq.jpg?KID=imgbed,tva&Expires=1762065621&ssig=cyuaSIX%2F%2F2) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">张捷观察-谁是谁非任评说</span><img src=\"http://wx3.sinaimg.cn/middle/49c1101dgy1i6f7hcpb6ej218t0p7b29.jpg\" data-width=907 data-height=1613></div></media-block><br>### 🌐全球影响与反制  <br>1. **产业链震荡**  <br>   - **欧洲车企陷停产危机**：大众、宝马等因芯片断供面临产线停工，替代供应商认证需6个月以上。```wbCustomBlock{\"type\": \"quoted\", \"index\": 29, \"data\": {\"num\": [6, 20, 23], \"version\": 2, \"quote_list\": [{\"name\": \"小凡好摄\", \"scheme\": \"sinaweibo://detail?mblogid=5225779056348499\", \"index\": 23, \"label\": \"大v\"}, {\"name\": \"战刀007\", \"scheme\": \"sinaweibo://detail?mblogid=5224166098731072\", \"index\": 6, \"label\": \"\"}, {\"name\": \"厚恩投资张延昆\", \"scheme\": \"sinaweibo://detail?mblogid=5228091735539847\", \"index\": 20, \"label\": \"\"}], \"name\": \"小凡好摄\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/62eff6aely8h0vmre31cnj20u00u0tba.jpg?KID=imgbed,tva&Expires=1762065621&ssig=0Sk%2BGZ4VK6\", \"scheme\": \"sinaweibo://detail?mblogid=5225779056348499\", \"vType\": 0}}```  <br>   - **日本/巴西波及**：本田墨西哥工厂停产，巴西车企库存告急。```wbCustomBlock{\"type\": \"quoted\", \"index\": 30, \"data\": {\"num\": [20, 52], \"version\": 2, \"quote_list\": [{\"name\": \"无心简影\", \"scheme\": \"sinaweibo://detail?mblogid=5227182453950649\", \"index\": 52, \"label\": \"\"}, {\"name\": \"厚恩投资张延昆\", \"scheme\": \"sinaweibo://detail?mblogid=5228091735539847\", \"index\": 20, \"label\": \"\"}], \"name\": \"无心简影\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/0064BRSPly8g0cfvaho4dj30u00u0dgz.jpg?KID=imgbed,tva&Expires=1762065621&ssig=lazg3Oile1\", \"scheme\": \"sinaweibo://detail?mblogid=5227182453950649\", \"vType\": 0}}```  <br><br>2. **中方精准反制**  <br>   - **出口管制**：禁止安世特定元件出口，切断荷兰总部供应链。```wbCustomBlock{\"type\": \"quoted\", \"index\": 32, \"data\": {\"num\": [6, 50], \"version\": 2, \"quote_list\": [{\"name\": \"战刀007\", \"scheme\": \"sinaweibo://detail?mblogid=5224166098731072\", \"index\": 6, \"label\": \"\"}, {\"name\": \"趣闻趣事拖拉机\", \"scheme\": \"sinaweibo://detail?mblogid=5224156427190813\", \"index\": 50, \"label\": \"\"}], \"name\": \"战刀007\", \"img\": \"https://tva3.sinaimg.cn/crop.72.13.195.195.50/60cf4323jw8eplmh6kdggj209s064mx4.jpg?KID=imgbed,tva&Expires=1762065621&ssig=Vxo7GGDXY5\", \"scheme\": \"sinaweibo://detail?mblogid=5224166098731072\", \"vType\": 0}}```  <br>   - **稀土反制**：将光刻机所需17种矿产纳入出口许可管理，打击ASML等荷兰企业。```wbCustomBlock{\"type\": \"quoted\", \"index\": 33, \"data\": {\"num\": [6, 13], \"version\": 2, \"quote_list\": [{\"name\": \"战刀007\", \"scheme\": \"sinaweibo://detail?mblogid=5224166098731072\", \"index\": 6, \"label\": \"\"}, {\"name\": \"品茶说酒\", \"scheme\": \"sinaweibo://detail?mblogid=5225700883698298\", \"index\": 13, \"label\": \"\"}]}}```  <br>   - **国际舆论支持**：欧美网友批评荷兰“殖民心态”“自毁信誉”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 34, \"data\": {\"num\": [9, 10, 52], \"version\": 2, \"quote_list\": [{\"name\": \"前HR本人\", \"scheme\": \"sinaweibo://detail?mblogid=5224178174657618\", \"index\": 9, \"label\": \"\"}, {\"name\": \"品茶说酒\", \"scheme\": \"sinaweibo://detail?mblogid=5225991752649485\", \"index\": 10, \"label\": \"\"}, {\"name\": \"无心简影\", \"scheme\": \"sinaweibo://detail?mblogid=5227182453950649\", \"index\": 52, \"label\": \"\"}], \"name\": \"前HR本人\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.996.996.50/d827c8d6ly8g0f588zk9hj20ro0romy6.jpg?KID=imgbed,tva&Expires=1762065621&ssig=qwp9m3HofT\", \"scheme\": \"sinaweibo://detail?mblogid=5224178174657618\", \"vType\": 0}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5225991752649485&multi_paragraph=2&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/007DjmVwly8hs6ir1dkqsj30u00u0juj.jpg?KID=imgbed,tva&Expires=1762065621&ssig=HahuFWmSHH) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">品茶说酒</span><img src=\"http://wx4.sinaimg.cn/middle/007DjmVwgy1i6ppyfvl0dj30zk0k00uk.jpg\" data-width=720 data-height=1280></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5225779056348499&multi_paragraph=2&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/62eff6aely8h0vmre31cnj20u00u0tba.jpg?KID=imgbed,tva&Expires=1762065621&ssig=0Sk%2BGZ4VK6) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">小凡好摄</span><img src=\"http://wx2.sinaimg.cn/middle/62eff6aely1i6p1jaqqi0j21hc0u0419.jpg\" data-width=1080 data-height=1920></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5225700883698298&multi_paragraph=2&multi_count=2\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/007DjmVwly8hs6ir1dkqsj30u00u0juj.jpg?KID=imgbed,tva&Expires=1762065621&ssig=HahuFWmSHH) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">品茶说酒</span><img src=\"http://wx2.sinaimg.cn/middle/007DjmVwgy1i6oskebf3tj30o00di0t7.jpg\" data-width=486 data-height=864></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5224156427190813&multi_paragraph=2&multi_count=3\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/007WyY6fly8i3ohn3kktsj30u00u0gns.jpg?KID=imgbed,tva&Expires=1762065621&ssig=pwI67dpj%2Fk) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">趣闻趣事拖拉机</span><img src=\"http://wx2.sinaimg.cn/middle/007WyY6fly1i6jv6an3zaj30k00zkgms.jpg\" data-width=1280 data-height=720></div></media-block><br>### 💡未来走向  <br>- **荷兰陷入被动**：  <br>  - 美国暂停“穿透性制裁”一年，荷兰行动失去借口。```wbCustomBlock{\"type\": \"quoted\", \"index\": 38, \"data\": {\"num\": [15, 42], \"version\": 2, \"quote_list\": [{\"name\": \"买家张俊\", \"scheme\": \"sinaweibo://detail?mblogid=5228106327786107\", \"index\": 15, \"label\": \"\"}, {\"name\": \"心若向往必有所成\", \"scheme\": \"sinaweibo://detail?mblogid=5228464924789692\", \"index\": 42, \"label\": \"\"}], \"name\": \"买家张俊\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.1002.1002.50/9eaac76dly8gdik4zl7dsj20ru0rutch.jpg?KID=imgbed,tva&Expires=1762065621&ssig=X1kq19PCFe\", \"scheme\": \"sinaweibo://detail?mblogid=5228106327786107\", \"vType\": 0}}```  <br>  - 经济大臣紧急寻求与中方谈判，但未承诺归还控制权。```wbCustomBlock{\"type\": \"quoted\", \"index\": 39, \"data\": {\"num\": [9, 46], \"version\": 2, \"quote_list\": [{\"name\": \"前HR本人\", \"scheme\": \"sinaweibo://detail?mblogid=5224178174657618\", \"index\": 9, \"label\": \"\"}, {\"name\": \"财经女侠云疏\", \"scheme\": \"sinaweibo://detail?mblogid=5228197092262709\", \"index\": 46, \"label\": \"\"}]}}```  <br>- **安世中国独立运营**：  <br>  - 改用人民币结算，对接国内晶圆供应商，重构产业链闭环。```wbCustomBlock{\"type\": \"quoted\", \"index\": 41, \"data\": {\"num\": [26, 43], \"version\": 2, \"quote_list\": [{\"name\": \"萝卜叔叔的车\", \"scheme\": \"sinaweibo://detail?mblogid=5228481556254406\", \"index\": 43, \"label\": \"\"}, {\"name\": \"疯狂大象\", \"scheme\": \"sinaweibo://detail?mblogid=5228480432441870\", \"index\": 26, \"label\": \"\"}], \"name\": \"萝卜叔叔的车\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.701.701.50/57b40991ly8hsqzvjdtm3j20jh0jh0uf.jpg?KID=imgbed,tva&Expires=1762065621&ssig=xHp3omFxBY\", \"scheme\": \"sinaweibo://detail?mblogid=5228481556254406\", \"vType\": 0}}```  <br>  - 技术层面：安世产品为28纳米功率芯片，国产替代性强（华虹、斯达半导等可承接）。```wbCustomBlock{\"type\": \"quoted\", \"index\": 42, \"data\": {\"num\": [26, 54], \"version\": 2, \"quote_list\": [{\"name\": \"疯狂大象\", \"scheme\": \"sinaweibo://detail?mblogid=5228480432441870\", \"index\": 26, \"label\": \"\"}, {\"name\": \"寻找一颗星\", \"scheme\": \"sinaweibo://detail?mblogid=5228482503641620\", \"index\": 54, \"label\": \"\"}]}}```  <br><br>> **💎事件本质**：  <br>> 荷兰试图以“规则武器化”争夺半导体主导权，却忽视中国在产能、市场、资源端的反制能力。这场博弈加速了全球产业链从“技术单极”向“产能-市场平衡”的结构性重构。```wbCustomBlock{\"type\": \"quoted\", \"index\": 44, \"data\": {\"num\": [3, 51], \"version\": 2, \"quote_list\": [{\"name\": \"马力AI和商业思维\", \"scheme\": \"sinaweibo://detail?mblogid=5228484983260696\", \"index\": 3, \"label\": \"\"}, {\"name\": \"小祎可不e\", \"scheme\": \"sinaweibo://detail?mblogid=5228475845970988\", \"index\": 51, \"label\": \"\"}]}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5228106327786107&multi_paragraph=3&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.1002.1002.50/9eaac76dly8gdik4zl7dsj20ru0rutch.jpg?KID=imgbed,tva&Expires=1762065621&ssig=X1kq19PCFe) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">买家张俊</span><img src=\"http://wx1.sinaimg.cn/middle/9eaac76dgy1i6wgth53m0j20zk0k0tfb.jpg\" data-width=720 data-height=1280></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5228197092262709&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=3&multi_count=1\"><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.51.0.427.427.50/006iMKpqly8g4126au56fj30hs0bvq2y.jpg?KID=imgbed,tva&Expires=1762065621&ssig=SbyxF52v4u) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">财经女侠云疏</span><img src=\"http://wx2.sinaimg.cn/middle/006iMKpqgy1i6wr94q8y9j30u00i9n2n.jpg\" data-width=657 data-height=1080></div></media-block><br>",
+      "ext_show": {},
+      "link_list": [
+        "sinaweibo://detail?mblogid=5228444300348343",
+        "sinaweibo://detail?mblogid=5228453557439691",
+        "sinaweibo://detail?mblogid=5228484983260696",
+        "sinaweibo://detail?mblogid=5222461102363766",
+        "sinaweibo://detail?mblogid=5227039485331517",
+        "sinaweibo://detail?mblogid=5224166098731072",
+        "sinaweibo://detail?mblogid=5225165920930605",
+        "sinaweibo://detail?mblogid=5227458616100012",
+        "sinaweibo://detail?mblogid=5224178174657618",
+        "sinaweibo://detail?mblogid=5225991752649485",
+        "sinaweibo://detail?mblogid=5224895307842185",
+        "sinaweibo://detail?mblogid=5228465709386285",
+        "sinaweibo://detail?mblogid=5225700883698298",
+        "sinaweibo://detail?mblogid=5225045458684217",
+        "sinaweibo://detail?mblogid=5228106327786107",
+        "sinaweibo://detail?mblogid=5223126122366608",
+        "sinaweibo://detail?mblogid=5223859894357111",
+        "sinaweibo://detail?mblogid=5223509560657446",
+        "sinaweibo://detail?mblogid=5228132941435348",
+        "sinaweibo://detail?mblogid=5228091735539847",
+        "sinaweibo://detail?mblogid=5228475778597868",
+        "sinaweibo://detail?mblogid=5222414302055598",
+        "sinaweibo://detail?mblogid=5225779056348499",
+        "sinaweibo://detail?mblogid=5222781479813747",
+        "sinaweibo://detail?mblogid=5228442398491094",
+        "sinaweibo://detail?mblogid=5228480432441870",
+        "sinaweibo://detail?mblogid=5228477752020016",
+        "sinaweibo://detail?mblogid=5228471208904090",
+        "sinaweibo://detail?mblogid=5228093969009880",
+        "sinaweibo://detail?mblogid=5228496676718276",
+        "sinaweibo://detail?mblogid=5228486567396374",
+        "sinaweibo://detail?mblogid=5228491643553792",
+        "sinaweibo://detail?mblogid=5228481207599476",
+        "sinaweibo://detail?mblogid=5228476547727562",
+        "sinaweibo://detail?mblogid=5228476539602337",
+        "sinaweibo://detail?mblogid=5228474723206687",
+        "sinaweibo://detail?mblogid=5228471069969864",
+        "sinaweibo://detail?mblogid=5228438538944611",
+        "sinaweibo://detail?mblogid=5227190019949582",
+        "sinaweibo://detail?mblogid=5228483519448776",
+        "sinaweibo://detail?mblogid=5228450081146331",
+        "sinaweibo://detail?mblogid=5228464924789692",
+        "sinaweibo://detail?mblogid=5228481556254406",
+        "sinaweibo://detail?mblogid=5223058600364149",
+        "sinaweibo://detail?mblogid=5228478946608798",
+        "sinaweibo://detail?mblogid=5228197092262709",
+        "sinaweibo://detail?mblogid=5228486563988560",
+        "sinaweibo://detail?mblogid=5225317299913733",
+        "sinaweibo://detail?mblogid=5228451206008582",
+        "sinaweibo://detail?mblogid=5224156427190813",
+        "sinaweibo://detail?mblogid=5228475845970988",
+        "sinaweibo://detail?mblogid=5227182453950649",
+        "sinaweibo://detail?mblogid=5228486591513177",
+        "sinaweibo://detail?mblogid=5228482503641620",
+        "sinaweibo://detail?mblogid=5225399846179643",
+        "sinaweibo://detail?mblogid=5222295774953715"
+      ],
+      "msg_json": "{}",
+      "share_card_multimodal": {
+        "doc_score": 3930,
+        "type": "v",
+        "click_rate": 0.085817524841915,
+        "img": "http://wx4.sinaimg.cn/middle/404cdd30ly1i6wf58xz4uj20k00zkgnu.jpg",
+        "cur_mid": "5228091735539847",
+        "hit_score_final": 71.458588,
+        "h": 1280,
+        "scheme": "sinaweibo://video/vvs?mid=5228091735539847&multi_paragraph=0&multi_count=0",
+        "user_name": "厚恩投资张延昆",
+        "w": 720,
+        "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/404cdd30ly8gdih9m7oraj20u00u0whj.jpg?KID=imgbed,tva&Expires=1762065621&ssig=g88cYw7Xfq",
+        "vtype": 0,
+        "video_url": "https://video.weibo.com/show?fid=1034:5228091597848597",
+        "img_pid": "404cdd30ly1i6wf58xz4uj20k00zkgnu",
+        "hit_score_new": 75.097656
+      },
+      "zs_risk_control": {
+        "think_text_close": 0,
+        "land_button_close": 0
+      },
+      "card_multimodal": {
+        "type": "mediablock",
+        "data": [
+          {
+            "doc_score": 3930,
+            "type": "v",
+            "click_rate": 0.085817524841915,
+            "img": "http://wx4.sinaimg.cn/middle/404cdd30ly1i6wf58xz4uj20k00zkgnu.jpg",
+            "cur_mid": "5228091735539847",
+            "hit_score_final": 71.458588,
+            "h": 1280,
+            "scheme": "sinaweibo://video/vvs?mid=5228091735539847&multi_paragraph=0&multi_count=0",
+            "user_name": "厚恩投资张延昆",
+            "w": 720,
+            "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/404cdd30ly8gdih9m7oraj20u00u0whj.jpg?KID=imgbed,tva&Expires=1762065621&ssig=g88cYw7Xfq",
+            "vtype": 0,
+            "video_url": "https://video.weibo.com/show?fid=1034:5228091597848597",
+            "img_pid": "404cdd30ly1i6wf58xz4uj20k00zkgnu",
+            "hit_score_new": 75.097656
+          },
+          {
+            "doc_score": 3308,
+            "type": "v",
+            "click_rate": 0,
+            "img": "http://wx3.sinaimg.cn/middle/8ce12e1dly1i6hsvo6691j21hc0u0q5a.jpg",
+            "cur_mid": "5223509560657446",
+            "hit_score_final": 66.849998,
+            "h": 1080,
+            "scheme": "sinaweibo://video/vvs?mid=5223509560657446&multi_paragraph=1&multi_count=0",
+            "user_name": "看边关月",
+            "w": 1920,
+            "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/8ce12e1dly8i2y9983mh8j20u00u0acv.jpg?KID=imgbed,tva&Expires=1762065621&ssig=pnWI7I%2FTKU",
+            "vtype": 0,
+            "video_url": "https://video.weibo.com/show?fid=1034:5223509295824904",
+            "img_pid": "8ce12e1dly1i6hsvo6691j21hc0u0q5a",
+            "hit_score_new": 68.75
+          },
+          {
+            "doc_score": 3455,
+            "type": "v",
+            "click_rate": 0,
+            "img": "http://wx1.sinaimg.cn/middle/006K6Bl7gy1i6ddg8dfkwj30a00hs74x.jpg",
+            "cur_mid": "5222295774953715",
+            "hit_score_final": 67.533981,
+            "h": 640,
+            "scheme": "sinaweibo://video/vvs?mid=5222295774953715&multi_paragraph=1&multi_count=1",
+            "user_name": "前HR随笔",
+            "w": 360,
+            "user_avatar": "https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/006K6Bl7ly8hk179dhamlj30u00u0q3w.jpg?KID=imgbed,tva&Expires=1762065621&ssig=JrXwb%2BVIc1",
+            "vtype": 0,
+            "video_url": "https://video.weibo.com/show?fid=1034:5222118200115236",
+            "img_pid": "006K6Bl7gy1i6ddg8dfkwj30a00hs74x",
+            "hit_score_new": 70.556641
+          },
+          {
+            "doc_score": 3930,
+            "type": "v",
+            "click_rate": 0.085817524841915,
+            "img": "http://wx4.sinaimg.cn/middle/404cdd30ly1i6wf58xz4uj20k00zkgnu.jpg",
+            "cur_mid": "5228091735539847",
+            "hit_score_final": 71.458588,
+            "h": 1280,
+            "scheme": "sinaweibo://video/vvs?mid=5228091735539847&multi_paragraph=0&multi_count=0",
+            "user_name": "厚恩投资张延昆",
+            "w": 720,
+            "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/404cdd30ly8gdih9m7oraj20u00u0whj.jpg?KID=imgbed,tva&Expires=1762065621&ssig=g88cYw7Xfq",
+            "vtype": 0,
+            "video_url": "https://video.weibo.com/show?fid=1034:5228091597848597",
+            "img_pid": "404cdd30ly1i6wf58xz4uj20k00zkgnu",
+            "hit_score_new": 75.097656
+          }
+        ]
+      },
+      "unify_md5": "bb537481c87e2e11bf3b7ece3e7b55a3",
+      "status": 2,
+      "chat_status_stage": 1,
+      "share_text": "#荷兰安世半导体无中生有恶意抹黑#的相关内容，来智搜看看",
+      "basemodel": "实验组10",
+      "abtest_info": {
+        "chat_entrance": 1
+      },
+      "qs_status_info": "{\"qs_q_status\":0,\"qs_c_status\":8388608,\"qs_status\":0,\"qs_u_status\":0,\"qs_r_status\":0,\"ab_lab\":{}}"
+    }
+  },
+  "links": [
+    "sinaweibo://detail?mblogid=5228444300348343",
+    "sinaweibo://detail?mblogid=5228453557439691",
+    "sinaweibo://detail?mblogid=5228484983260696",
+    "sinaweibo://detail?mblogid=5222461102363766",
+    "sinaweibo://detail?mblogid=5227039485331517",
+    "sinaweibo://detail?mblogid=5224166098731072",
+    "sinaweibo://detail?mblogid=5225165920930605",
+    "sinaweibo://detail?mblogid=5227458616100012",
+    "sinaweibo://detail?mblogid=5224178174657618",
+    "sinaweibo://detail?mblogid=5225991752649485",
+    "sinaweibo://detail?mblogid=5224895307842185",
+    "sinaweibo://detail?mblogid=5228465709386285",
+    "sinaweibo://detail?mblogid=5225700883698298",
+    "sinaweibo://detail?mblogid=5225045458684217",
+    "sinaweibo://detail?mblogid=5228106327786107",
+    "sinaweibo://detail?mblogid=5223126122366608",
+    "sinaweibo://detail?mblogid=5223859894357111",
+    "sinaweibo://detail?mblogid=5223509560657446",
+    "sinaweibo://detail?mblogid=5228132941435348",
+    "sinaweibo://detail?mblogid=5228091735539847",
+    "sinaweibo://detail?mblogid=5228475778597868",
+    "sinaweibo://detail?mblogid=5222414302055598",
+    "sinaweibo://detail?mblogid=5225779056348499",
+    "sinaweibo://detail?mblogid=5222781479813747",
+    "sinaweibo://detail?mblogid=5228442398491094",
+    "sinaweibo://detail?mblogid=5228480432441870",
+    "sinaweibo://detail?mblogid=5228477752020016",
+    "sinaweibo://detail?mblogid=5228471208904090",
+    "sinaweibo://detail?mblogid=5228093969009880",
+    "sinaweibo://detail?mblogid=5228496676718276",
+    "sinaweibo://detail?mblogid=5228486567396374",
+    "sinaweibo://detail?mblogid=5228491643553792",
+    "sinaweibo://detail?mblogid=5228481207599476",
+    "sinaweibo://detail?mblogid=5228476547727562",
+    "sinaweibo://detail?mblogid=5228476539602337",
+    "sinaweibo://detail?mblogid=5228474723206687",
+    "sinaweibo://detail?mblogid=5228471069969864",
+    "sinaweibo://detail?mblogid=5228438538944611",
+    "sinaweibo://detail?mblogid=5227190019949582",
+    "sinaweibo://detail?mblogid=5228483519448776",
+    "sinaweibo://detail?mblogid=5228450081146331",
+    "sinaweibo://detail?mblogid=5228464924789692",
+    "sinaweibo://detail?mblogid=5228481556254406",
+    "sinaweibo://detail?mblogid=5223058600364149",
+    "sinaweibo://detail?mblogid=5228478946608798",
+    "sinaweibo://detail?mblogid=5228197092262709",
+    "sinaweibo://detail?mblogid=5228486563988560",
+    "sinaweibo://detail?mblogid=5225317299913733",
+    "sinaweibo://detail?mblogid=5228451206008582",
+    "sinaweibo://detail?mblogid=5224156427190813",
+    "sinaweibo://detail?mblogid=5228475845970988",
+    "sinaweibo://detail?mblogid=5227182453950649",
+    "sinaweibo://detail?mblogid=5228486591513177",
+    "sinaweibo://detail?mblogid=5228482503641620",
+    "sinaweibo://detail?mblogid=5225399846179643",
+    "sinaweibo://detail?mblogid=5222295774953715"
+  ],
+  "media": [
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/404cdd30ly1i6wf58xz4uj20k00zkgnu.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/404cdd30ly1i6wf58xz4uj20k00zkgnu.jpg",
+      "alt": "厚恩投资张延昆",
+      "width": 1280,
+      "height": 720,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/404cdd30ly1i6wf58xz4uj20k00zkgnu.jpg"
+      ],
+      "user": "厚恩投资张延昆"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/8ce12e1dly1i6hsvo6691j21hc0u0q5a.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/8ce12e1dly1i6hsvo6691j21hc0u0q5a.jpg",
+      "alt": "看边关月",
+      "width": 1080,
+      "height": 1920,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/8ce12e1dly1i6hsvo6691j21hc0u0q5a.jpg"
+      ],
+      "user": "看边关月"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/006K6Bl7gy1i6ddg8dfkwj30a00hs74x.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/006K6Bl7gy1i6ddg8dfkwj30a00hs74x.jpg",
+      "alt": "前HR随笔",
+      "width": 640,
+      "height": 360,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/006K6Bl7gy1i6ddg8dfkwj30a00hs74x.jpg"
+      ],
+      "user": "前HR随笔"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/49c1101dgy1i6f7hcpb6ej218t0p7b29.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/49c1101dgy1i6f7hcpb6ej218t0p7b29.jpg",
+      "alt": "张捷观察-谁是谁非任评说",
+      "width": 907,
+      "height": 1613,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/49c1101dgy1i6f7hcpb6ej218t0p7b29.jpg"
+      ],
+      "user": "张捷观察-谁是谁非任评说"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/007DjmVwgy1i6ppyfvl0dj30zk0k00uk.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/007DjmVwgy1i6ppyfvl0dj30zk0k00uk.jpg",
+      "alt": "品茶说酒",
+      "width": 720,
+      "height": 1280,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/007DjmVwgy1i6ppyfvl0dj30zk0k00uk.jpg"
+      ],
+      "user": "品茶说酒"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/62eff6aely1i6p1jaqqi0j21hc0u0419.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/62eff6aely1i6p1jaqqi0j21hc0u0419.jpg",
+      "alt": "小凡好摄",
+      "width": 1080,
+      "height": 1920,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/62eff6aely1i6p1jaqqi0j21hc0u0419.jpg"
+      ],
+      "user": "小凡好摄"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/007DjmVwgy1i6oskebf3tj30o00di0t7.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/007DjmVwgy1i6oskebf3tj30o00di0t7.jpg",
+      "alt": "品茶说酒",
+      "width": 486,
+      "height": 864,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/007DjmVwgy1i6oskebf3tj30o00di0t7.jpg"
+      ],
+      "user": "品茶说酒"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/007WyY6fly1i6jv6an3zaj30k00zkgms.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/007WyY6fly1i6jv6an3zaj30k00zkgms.jpg",
+      "alt": "趣闻趣事拖拉机",
+      "width": 1280,
+      "height": 720,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx4.sinaimg.cn/large/007WyY6fly1i6jv6an3zaj30k00zkgms.jpg"
+      ],
+      "user": "趣闻趣事拖拉机"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/9eaac76dgy1i6wgth53m0j20zk0k0tfb.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/9eaac76dgy1i6wgth53m0j20zk0k0tfb.jpg",
+      "alt": "买家张俊",
+      "width": 720,
+      "height": 1280,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/9eaac76dgy1i6wgth53m0j20zk0k0tfb.jpg"
+      ],
+      "user": "买家张俊"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/006iMKpqgy1i6wr94q8y9j30u00i9n2n.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/006iMKpqgy1i6wr94q8y9j30u00i9n2n.jpg",
+      "alt": "财经女侠云疏",
+      "width": 657,
+      "height": 1080,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/006iMKpqgy1i6wr94q8y9j30u00i9n2n.jpg"
+      ],
+      "user": "财经女侠云疏"
+    }
+  ],
+  "html_path": "data/aicard/hourly/2025-11-02/11/topic-bb537481.html"
+}

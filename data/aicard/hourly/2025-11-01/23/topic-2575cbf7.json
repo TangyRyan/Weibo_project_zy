@@ -1,0 +1,376 @@
+{
+  "meta": {
+    "query": "#南通唯一输的一场是决赛#",
+    "status_code": 200,
+    "fetched_at": "2025-11-01T23:32:23+08:00",
+    "response": {
+      "top_quote_list": {},
+      "card_multimodal": {
+        "type": "mediablock",
+        "data": [
+          {
+            "click_rate": 0.06,
+            "type": "p",
+            "w": 1284,
+            "scheme": "sinaweibo://multimedia?mix_mid=5228304277705029&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=0",
+            "cur_mid": "5228304277705029",
+            "img": "http://wx4.sinaimg.cn/middle/5e1731f1gy1i6x3epkpyoj20zo0ha11k.jpg",
+            "user_name": "小葵同学aoi",
+            "h": 622,
+            "user_avatar": "https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/5e1731f1ly8hnfhasnvjxj20u00u0n1y.jpg?KID=imgbed,tva&Expires=1762021727&ssig=XKCs960aI9",
+            "vtype": 0,
+            "video_url": "",
+            "hit_score_final": 85.977348,
+            "hit_score_new": 94.628906,
+            "doc_score": 3188,
+            "img_pid": "5e1731f1gy1i6x3epkpyoj20zo0ha11k"
+          },
+          {
+            "click_rate": 0.06,
+            "type": "p",
+            "w": 720,
+            "scheme": "sinaweibo://multimedia?mix_mid=5228308170021946&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=1",
+            "cur_mid": "5228308170021946",
+            "img": "http://wx1.sinaimg.cn/middle/008eStbfgy1i6x40fzzyqj30k00c9tar.jpg",
+            "user_name": "定有趣",
+            "h": 441,
+            "user_avatar": "https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/008eStbfly8hvyuzjmvv0j30u00u0adi.jpg?KID=imgbed,tva&Expires=1762021727&ssig=GEnGS1u7bd",
+            "vtype": 0,
+            "video_url": "",
+            "hit_score_final": 84.893364,
+            "hit_score_new": 92.822266,
+            "doc_score": 3058,
+            "img_pid": "008eStbfgy1i6x40fzzyqj30k00c9tar"
+          },
+          {
+            "click_rate": 0,
+            "type": "v",
+            "w": 1080,
+            "scheme": "sinaweibo://video/vvs?mid=5228296456379903&multi_paragraph=1&multi_count=2",
+            "cur_mid": "5228296456379903",
+            "img": "http://wx1.sinaimg.cn/middle/6b0e1e9dly8i6x2n6cjzlj20u01hch0x.jpg",
+            "user_name": "荔枝新闻",
+            "h": 1920,
+            "user_avatar": "https://tvax4.sinaimg.cn/crop.0.0.600.600.50/6b0e1e9dly8i5r6s6bgzlj20go0go40f.jpg?KID=imgbed,tva&Expires=1762021727&ssig=d5F%2FppYJ25",
+            "vtype": 3,
+            "video_url": "https://video.weibo.com/show?fid=1034:5228296259174492",
+            "hit_score_final": 0,
+            "hit_score_new": 0,
+            "doc_score": 0,
+            "img_pid": "6b0e1e9dly8i6x2n6cjzlj20u01hch0x"
+          },
+          {
+            "click_rate": 0.06,
+            "type": "p",
+            "w": 1284,
+            "scheme": "sinaweibo://multimedia?mix_mid=5228304277705029&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=0",
+            "cur_mid": "5228304277705029",
+            "img": "http://wx4.sinaimg.cn/middle/5e1731f1gy1i6x3epkpyoj20zo0ha11k.jpg",
+            "user_name": "小葵同学aoi",
+            "h": 622,
+            "user_avatar": "https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/5e1731f1ly8hnfhasnvjxj20u00u0n1y.jpg?KID=imgbed,tva&Expires=1762021727&ssig=XKCs960aI9",
+            "vtype": 0,
+            "video_url": "",
+            "hit_score_final": 85.977348,
+            "hit_score_new": 94.628906,
+            "doc_score": 3188,
+            "img_pid": "5e1731f1gy1i6x3epkpyoj20zo0ha11k"
+          }
+        ]
+      },
+      "share_card_multimodal": {
+        "click_rate": 0.06,
+        "type": "p",
+        "w": 1284,
+        "scheme": "sinaweibo://multimedia?mix_mid=5228304277705029&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=0",
+        "cur_mid": "5228304277705029",
+        "img": "http://wx4.sinaimg.cn/middle/5e1731f1gy1i6x3epkpyoj20zo0ha11k.jpg",
+        "user_name": "小葵同学aoi",
+        "h": 622,
+        "user_avatar": "https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/5e1731f1ly8hnfhasnvjxj20u00u0n1y.jpg?KID=imgbed,tva&Expires=1762021727&ssig=XKCs960aI9",
+        "vtype": 0,
+        "video_url": "",
+        "hit_score_final": 85.977348,
+        "hit_score_new": 94.628906,
+        "doc_score": 3188,
+        "img_pid": "5e1731f1gy1i6x3epkpyoj20zo0ha11k"
+      },
+      "scheme": "sinaweibo://cardlist?containerid=100103type%3D225%26q%3D%23%E5%8D%97%E9%80%9A%E5%94%AF%E4%B8%80%E8%BE%93%E7%9A%84%E4%B8%80%E5%9C%BA%E6%98%AF%E5%86%B3%E8%B5%9B%23%26t%3D&extparam=ai_model%3Ddeepseek%26ori_ai_title%3D%E5%8F%82%E8%80%83%E5%8D%9A%E6%96%87%26material_version%3D1762010927",
+      "basemodel": "实验组10",
+      "qs_status": 0,
+      "news_analyze": {},
+      "uid": "",
+      "query": "#南通唯一输的一场是决赛#",
+      "share_info": {
+        "unify_md5": "2575cbf7e66be300843088a5988e5321",
+        "display_name": "#南通唯一输的一场是决赛#",
+        "tips": "#南通唯一输的一场是决赛#的相关内容，来智搜看看",
+        "status": 3,
+        "page_id": "2329648ee1795be5f8d346cf7f4db76487d7c4",
+        "url": "http://t.cn/AXAiEK3t",
+        "comment_content": ""
+      },
+      "current_time": 1762011143,
+      "profile_image_url": "",
+      "user_info": {},
+      "zs_risk_control": {
+        "land_button_close": 0,
+        "think_text_close": 0
+      },
+      "msg_json": "{}",
+      "share_text": "#南通唯一输的一场是决赛#的相关内容，来智搜看看",
+      "unify_md5": "2575cbf7e66be300843088a5988e5321",
+      "loop_times": 200,
+      "version": "2025-11-01 23:28:47.086999-1139",
+      "q_attr": {
+        "reply_cid": "",
+        "comment_from_type": "",
+        "from_uid": "",
+        "from_request_id": "",
+        "mid": ""
+      },
+      "status": 2,
+      "page_id": "2329648ee1795be5f8d346cf7f4db76487d7c4",
+      "ab_suffix": "default",
+      "mid_list": null,
+      "sorted_material_list": null,
+      "status_stage": 4,
+      "show_ctrl": {
+        "quote": {}
+      },
+      "reference_num": 40,
+      "analysis_time": 1762011045,
+      "short_url": "http://t.cn/AXAi1x2s",
+      "qs_status_info": "{\"ab_lab\":{},\"qs_u_status\":0,\"qs_r_status\":0,\"qs_c_status\":8388608,\"qs_q_status\":0,\"qs_status\":0}",
+      "model": "deepseek",
+      "chat_status_stage": 1,
+      "query_field": "20",
+      "msg": "<think><br>嗯，用户查询的是\"南通唯一输的一场是决赛\"，看起来是想了解2025年苏超联赛决赛的情况。用户可能是个足球迷，或者对江苏地区的体育新闻感兴趣，尤其是南通队的表现。从搜索结果来看，这场比赛确实很有戏剧性。<br><br>用户可能不只是想知道比赛结果，更想了解整个事件的细节和背后的故事。南通队整个赛季不败却输掉决赛，这种反差太强烈了。用户可能还想知道这场失利对球队、球员和球迷的影响。<br><br>从搜索结果看，这场比赛发生在2025年11月1日，就是今天。信息很新鲜。最核心的信息在结果1、2、4、5、6、12、30这些优质搜索结果里。我来整理几个关键点：<br><br>比赛过程很戏剧性。常规时间90分钟双方0:0打平，南通队控球占优但就是进不了球。点球大战时，南通队长李贤成罚丢了关键点球，当场就哭了。泰州队门将扑出这个点球后疯狂庆祝。最终泰州4:3赢了。<br><br>南通队这个赛季表现堪称完美。常规赛10胜2平不败，攻防数据都是联赛第一。淘汰赛阶段也没在常规时间输过。结果唯一一场失利就是决赛，这种反差太残酷了。<br><br>泰州队是超级黑马。他们常规赛只排第六，之前还0:4惨败给南通。但淘汰赛阶段连续三场点球大战获胜，先后淘汰了徐州、南京，最后干掉南通夺冠，名副其实的\"点球之神\"。<br><br>这场失利对南通打击很大。队员和球迷都很难过。但很多人认为他们\"虽败犹荣\"，是\"无冕之王\"。队长李贤成虽然罚丢点球，但他整个赛季表现优异，还获得最佳教练员奖。<br><br>球迷反应很有温度。虽然失望但更多是鼓励。有人说这是\"南通赢了整个赛季输掉一场决赛\"，也有人用高考来比喻\"一路清北分数最后考了大专\"。很多人在喊\"南通不哭，明年再战\"。<br><br>还有一些有趣的细节。这是全球首次用机器狗转播的足球赛。冠军奖励很特别，包括城市名在地图上放大三号字、市民享受省内景区免票等特权。<br><br>用户可能还想知道后续影响。南通队表示明年会再战。而泰州的胜利创造了历史，成为首支击败南通的球队。<br><br>这个回答要突出戏剧性和情感冲击。开头可以用反差强烈的表述吸引注意，中间按\"完美赛季-决赛失利-黑马逆袭-各方反应\"的逻辑展开。最后用鼓励的话语收尾，呼应\"南通不哭\"的球迷呼声。关键数据和引文要标注清楚来源。<br><br></think><br>以下是关于南通队在2025年苏超联赛中唯一失利即决赛的详细梳理，结合赛况、背景及各方反响综合呈现：<br>### ⚽ **决赛关键赛况与结果**<br>1. **戏剧性点球决胜**  <br>   - 2025年11月1日苏超决赛，南通队与泰州队在常规90分钟内战成0:0平局。南通队全场控球率占优且射门次数更多，但始终未能攻破泰州队防线。```wbCustomBlock{\"type\": \"quoted\", \"index\": 5, \"data\": {\"num\": [26, 30, 32, 33, 34], \"version\": 2, \"quote_list\": [{\"name\": \"请灿烂的生活吧\", \"scheme\": \"sinaweibo://detail?mblogid=5228309505114761\", \"index\": 26, \"label\": \"大v\"}, {\"name\": \"用一片麵包解決你的不安\", \"scheme\": \"sinaweibo://detail?mblogid=5228308029769065\", \"index\": 30, \"label\": \"\"}, {\"name\": \"祎片面包_kiku\", \"scheme\": \"sinaweibo://detail?mblogid=5228312739971970\", \"index\": 32, \"label\": \"\"}, {\"name\": \"十里承欢-玺\", \"scheme\": \"sinaweibo://detail?mblogid=5228312603400593\", \"index\": 33, \"label\": \"\"}, {\"name\": \"Linnunratata_候鸟\", \"scheme\": \"sinaweibo://detail?mblogid=5228311301063603\", \"index\": 34, \"label\": \"\"}], \"name\": \"请灿烂的生活吧\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/0076M3Byly8i6rhvflhd4j30u00u0jtj.jpg?KID=imgbed,tva&Expires=1762021727&ssig=%2BxRIJiV2zV\", \"scheme\": \"sinaweibo://detail?mblogid=5228309505114761\", \"vType\": 0}}```  <br>   - **点球大战**：泰州队凭借点球经验（此前淘汰赛连续点球胜徐州、南京）以4:3获胜。南通队长李贤成射失关键点球后掩面痛哭，成为全场转折点。泰州门将扑出此球后狂奔庆祝，被球迷称为“点球的神”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 6, \"data\": {\"num\": [1, 6, 15, 30], \"version\": 2, \"quote_list\": [{\"name\": \"荔枝新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5228296456379903\", \"index\": 1, \"label\": \"大v\"}, {\"name\": \"话道君\", \"scheme\": \"sinaweibo://detail?mblogid=5228313746604174\", \"index\": 6, \"label\": \"\"}, {\"name\": \"KH_椰\", \"scheme\": \"sinaweibo://detail?mblogid=5228289035868252\", \"index\": 15, \"label\": \"\"}, {\"name\": \"用一片麵包解決你的不安\", \"scheme\": \"sinaweibo://detail?mblogid=5228308029769065\", \"index\": 30, \"label\": \"\"}], \"name\": \"荔枝新闻\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.600.600.50/6b0e1e9dly8i5r6s6bgzlj20go0go40f.jpg?KID=imgbed,tva&Expires=1762021727&ssig=d5F%2FppYJ25\", \"scheme\": \"sinaweibo://detail?mblogid=5228296456379903\", \"vType\": 3}}```<br><br>2. **南通赛季唯一败绩**  <br>   - 南通队整个赛季（常规赛+淘汰赛）共13场比赛，唯一失利即决赛。```wbCustomBlock{\"type\": \"quoted\", \"index\": 8, \"data\": {\"num\": [2, 4, 7, 37], \"version\": 2, \"quote_list\": [{\"name\": \"孙雨轩\", \"scheme\": \"sinaweibo://detail?mblogid=5228303201600081\", \"index\": 4, \"label\": \"大v\"}, {\"name\": \"荔枝新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5228289213599106\", \"index\": 2, \"label\": \"\"}, {\"name\": \"vizwnyulnn\", \"scheme\": \"sinaweibo://detail?mblogid=5228304686385400\", \"index\": 7, \"label\": \"\"}, {\"name\": \"Gouves\", \"scheme\": \"sinaweibo://detail?mblogid=5228306305908903\", \"index\": 37, \"label\": \"\"}], \"name\": \"孙雨轩\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.675.675.50/5083f48dly8i1xg1vyz0yj20ir0ir755.jpg?KID=imgbed,tva&Expires=1762021727&ssig=LwN6ezGbCJ\", \"scheme\": \"sinaweibo://detail?mblogid=5228303201600081\", \"vType\": 0}}```  <br>   - **此前战绩**：常规赛10胜2平保持不败（进43球失6球，攻防数据联赛第一）；淘汰赛阶段未在常规时间输球（半决赛点球淘汰无锡队）。```wbCustomBlock{\"type\": \"quoted\", \"index\": 9, \"data\": {\"num\": [26, 33, 34, 39], \"version\": 2, \"quote_list\": [{\"name\": \"十里承欢-玺\", \"scheme\": \"sinaweibo://detail?mblogid=5228312603400593\", \"index\": 33, \"label\": \"大v\"}, {\"name\": \"请灿烂的生活吧\", \"scheme\": \"sinaweibo://detail?mblogid=5228309505114761\", \"index\": 26, \"label\": \"\"}, {\"name\": \"Linnunratata_候鸟\", \"scheme\": \"sinaweibo://detail?mblogid=5228311301063603\", \"index\": 34, \"label\": \"\"}, {\"name\": \"碎雨预报\", \"scheme\": \"sinaweibo://detail?mblogid=5228308375540813\", \"index\": 39, \"label\": \"\"}], \"name\": \"十里承欢-玺\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/0069nhYYly8i0i3noztofj30u00u0mze.jpg?KID=imgbed,tva&Expires=1762021727&ssig=zB%2FzOeUMOx\", \"scheme\": \"sinaweibo://detail?mblogid=5228312603400593\", \"vType\": 0}}```<br><br>3. **泰州黑马逆袭**  <br>   - 泰州队作为常规赛第六名（“黑马”），成为苏超首支击败南通队的球队，也是唯一每场均经点球晋级的队伍。此前南通曾在常规赛4:0大胜泰州，但决赛泰州完成“从惨败到夺冠”的逆袭。```wbCustomBlock{\"type\": \"quoted\", \"index\": 11, \"data\": {\"num\": [2, 5, 6, 29, 42], \"version\": 2, \"quote_list\": [{\"name\": \"扬子晚报\", \"scheme\": \"sinaweibo://detail?mblogid=5228292568252735\", \"index\": 5, \"label\": \"大v\"}, {\"name\": \"荔枝新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5228289213599106\", \"index\": 2, \"label\": \"\"}, {\"name\": \"话道君\", \"scheme\": \"sinaweibo://detail?mblogid=5228313746604174\", \"index\": 6, \"label\": \"\"}, {\"name\": \"小葵同学aoi\", \"scheme\": \"sinaweibo://detail?mblogid=5228304277705029\", \"index\": 29, \"label\": \"\"}, {\"name\": \"定有趣\", \"scheme\": \"sinaweibo://detail?mblogid=5228308170021946\", \"index\": 42, \"label\": \"\"}], \"name\": \"扬子晚报\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.500.500.50/6f0b57d3ly8hwk84x7yhwj20dw0dwwf7.jpg?KID=imgbed,tva&Expires=1762021727&ssig=oI%2BbGPRq6w\", \"scheme\": \"sinaweibo://detail?mblogid=5228292568252735\", \"vType\": 3}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5228304277705029&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/5e1731f1ly8hnfhasnvjxj20u00u0n1y.jpg?KID=imgbed,tva&Expires=1762021727&ssig=XKCs960aI9) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">小葵同学aoi</span><img src=\"http://wx4.sinaimg.cn/middle/5e1731f1gy1i6x3epkpyoj20zo0ha11k.jpg\" data-width=622 data-height=1284></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5228308170021946&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=1\"><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/008eStbfly8hvyuzjmvv0j30u00u0adi.jpg?KID=imgbed,tva&Expires=1762021727&ssig=GEnGS1u7bd) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">定有趣</span><img src=\"http://wx1.sinaimg.cn/middle/008eStbfgy1i6x40fzzyqj30k00c9tar.jpg\" data-width=441 data-height=720></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5228296456379903&multi_paragraph=1&multi_count=2\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.600.600.50/6b0e1e9dly8i5r6s6bgzlj20go0go40f.jpg?KID=imgbed,tva&Expires=1762021727&ssig=d5F%2FppYJ25) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">荔枝新闻</span><img src=\"http://wx1.sinaimg.cn/middle/6b0e1e9dly8i6x2n6cjzlj20u01hch0x.jpg\" data-width=1920 data-height=1080></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5228313746604174&multi_paragraph=1&multi_count=3\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/008hfE7Dly8i0is2qem7uj30u00u0jsm.jpg?KID=imgbed,tva&Expires=1762021727&ssig=Ar1IIfpzAg) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">话道君</span><img src=\"http://wx4.sinaimg.cn/middle/008hfE7Dly1i6x4mwhju2j30u01hcact.jpg\" data-width=1920 data-height=1080></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5228303201600081&multi_paragraph=1&multi_count=4\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.675.675.50/5083f48dly8i1xg1vyz0yj20ir0ir755.jpg?KID=imgbed,tva&Expires=1762021727&ssig=LwN6ezGbCJ) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">孙雨轩</span><img src=\"http://wx4.sinaimg.cn/middle/5083f48dly1i6x3f8wg3dj20u01hcwil.jpg\" data-width=1920 data-height=1080></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5228304686385400&multi_paragraph=1&multi_count=5\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.500.500.50/008BJXPWly8i6uaxv1svrj30dw0dwwfp.jpg?KID=imgbed,tva&Expires=1762021727&ssig=FaAobdlFeW) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">vizwnyulnn</span><img src=\"http://wx4.sinaimg.cn/middle/008BJXPWly1i6x3lkiudsj31000k0aca.jpg\" data-width=720 data-height=1296></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5228292568252735&multi_paragraph=1&multi_count=6\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.500.500.50/6f0b57d3ly8hwk84x7yhwj20dw0dwwf7.jpg?KID=imgbed,tva&Expires=1762021727&ssig=oI%2BbGPRq6w) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">扬子晚报</span><img src=\"http://wx2.sinaimg.cn/middle/001NUlVxly1i6x2eheb6xj60u01hcn0h02.jpg\" data-width=1920 data-height=1080></div></media-block><br>### 📊 **南通队赛季表现回顾**<br>1. **统治级常规赛发挥**  <br>   - **青训体系支撑**：39名球员中35人来自南通本土青训俱乐部“珂缔缘”，队长李贤成（留洋德国第四级联赛）领衔射手榜前三，点球命中率曾达100%。  <br>   - **文化现象**：因车牌“苏F”被球迷解读为“First”，与南京争夺“南哥”称号，形成地域文化竞争。<br><br>2. **全民支持的“学霸”形象**  <br>   - 南通市曾设34处户外观赛点满足球迷需求，单场超10万人参与。  <br>   - 球迷称其“赢了整个赛季”，舆论将其比作“平时成绩全优，高考却失利”的学霸。```wbCustomBlock{\"type\": \"quoted\", \"index\": 19, \"data\": {\"num\": [2, 19, 22], \"version\": 2, \"quote_list\": [{\"name\": \"荔枝新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5228289213599106\", \"index\": 2, \"label\": \"\"}, {\"name\": \"财家西西\", \"scheme\": \"sinaweibo://detail?mblogid=5228292090629889\", \"index\": 19, \"label\": \"\"}, {\"name\": \"落叶乔木丿\", \"scheme\": \"sinaweibo://detail?mblogid=5228314978682598\", \"index\": 22, \"label\": \"\"}]}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5228292090629889&multi_paragraph=2&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.512.512.50/3c09ac09ly8i1dnyqs34nj20e80e8dgc.jpg?KID=imgbed,tva&Expires=1762021727&ssig=tVA7cPQVxL) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">财家西西</span><img src=\"http://wx3.sinaimg.cn/middle/3c09ac09ly1i6x2c7vd4lj20za0k0wfb.jpg\" data-width=720 data-height=1270></div></media-block><br>### 💬 **各方反响与深层影响**<br>1. **球员与球迷情绪**  <br>   - 李贤成泪洒赛场引发全网心疼，但南通球迷高呼“虽败犹荣”“明年再战”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 23, \"data\": {\"num\": [13, 18, 21], \"version\": 2, \"quote_list\": [{\"name\": \"郑郑郑小七\", \"scheme\": \"sinaweibo://detail?mblogid=5228312389748045\", \"index\": 18, \"label\": \"大v\"}, {\"name\": \"不会做梦的小鱼\", \"scheme\": \"sinaweibo://detail?mblogid=5228306282579983\", \"index\": 13, \"label\": \"\"}, {\"name\": \"抱着星星与月亮\", \"scheme\": \"sinaweibo://detail?mblogid=5228315083540533\", \"index\": 21, \"label\": \"\"}], \"name\": \"郑郑郑小七\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.512.512.50/006ixuGRly8gohxxvmq9vj30e80e8weq.jpg?KID=imgbed,tva&Expires=1762021727&ssig=XK4yl08xSp\", \"scheme\": \"sinaweibo://detail?mblogid=5228312389748045\", \"vType\": 0}}```  <br>   - 泰州球迷则以“一黑到底”庆祝逆袭，网友调侃常州队（曾1:1平泰州）“四舍五入也是冠军”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 24, \"data\": {\"num\": [27, 29], \"version\": 2, \"quote_list\": [{\"name\": \"一碗荤豆花\", \"scheme\": \"sinaweibo://detail?mblogid=5228311483781467\", \"index\": 27, \"label\": \"大v\"}, {\"name\": \"小葵同学aoi\", \"scheme\": \"sinaweibo://detail?mblogid=5228304277705029\", \"index\": 29, \"label\": \"\"}], \"name\": \"一碗荤豆花\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.512.512.50/c06602e3ly8gvw55cu671j20e80e83za.jpg?KID=imgbed,tva&Expires=1762021727&ssig=f12Smd4nJo\", \"scheme\": \"sinaweibo://detail?mblogid=5228311483781467\", \"vType\": 0}}```<br><br>2. **赛事意义与未来展望**  <br>   - **创新转播**：全球首次启用机器狗摄像师+世界杯同款“飞猫”系统，提升观赛体验。```wbCustomBlock{\"type\": \"quoted\", \"index\": 26, \"data\": {\"num\": [3], \"version\": 2, \"quote_list\": [{\"name\": \"荔枝新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5228257584089397\", \"index\": 3, \"label\": \"\"}]}}```  <br>   - **冠军福利**：泰州获城市名全省地图放大三字号、市民享其他参赛城市景区免票等特权。```wbCustomBlock{\"type\": \"quoted\", \"index\": 27, \"data\": {\"num\": [11], \"version\": 2, \"quote_list\": [{\"name\": \"喊我豆奶酱\", \"scheme\": \"sinaweibo://detail?mblogid=5228307558701166\", \"index\": 11, \"label\": \"大v\"}], \"name\": \"喊我豆奶酱\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/9c3a206dly8h7r3jrqpw2j20u00u0mzi.jpg?KID=imgbed,tva&Expires=1762021727&ssig=5aQUhbyst0\", \"scheme\": \"sinaweibo://detail?mblogid=5228307558701166\", \"vType\": 0}}```  <br>   - 南通主帅鲁强仍获“最佳教练员奖”，肯定其常规赛不败战绩。```wbCustomBlock{\"type\": \"quoted\", \"index\": 28, \"data\": {\"num\": [12], \"version\": 2, \"quote_list\": [{\"name\": \"荔枝新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5228299606565219\", \"index\": 12, \"label\": \"\"}]}}```<br><br>3. **体育精神诠释**  <br>   - 媒体评价南通“在星辰与尘土间跋涉未抵终点，但奋不顾身已是壮举”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 30, \"data\": {\"num\": [20, 23], \"version\": 2, \"quote_list\": [{\"name\": \"太阳当空照花儿笑笑笑\", \"scheme\": \"sinaweibo://detail?mblogid=5228315083544753\", \"index\": 20, \"label\": \"\"}, {\"name\": \"一段路111\", \"scheme\": \"sinaweibo://detail?mblogid=5228314911836333\", \"index\": 23, \"label\": \"\"}]}}```  <br>   - 网友共鸣：“生活没什么可怕，前提是不执着结果”——南通队的拼搏远比冠军更珍贵。```wbCustomBlock{\"type\": \"quoted\", \"index\": 31, \"data\": {\"num\": [23, 43], \"version\": 2, \"quote_list\": [{\"name\": \"一段路111\", \"scheme\": \"sinaweibo://detail?mblogid=5228314911836333\", \"index\": 23, \"label\": \"\"}, {\"name\": \"不特立独行的人\", \"scheme\": \"sinaweibo://detail?mblogid=5228307186714026\", \"index\": 43, \"label\": \"\"}]}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5228257584089397&multi_paragraph=3&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.600.600.50/6b0e1e9dly8i5r6s6bgzlj20go0go40f.jpg?KID=imgbed,tva&Expires=1762021727&ssig=d5F%2FppYJ25) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">荔枝新闻</span><img src=\"http://wx4.sinaimg.cn/middle/6b0e1e9dly8i6wy6jx87qj20u01hcqaz.jpg\" data-width=1920 data-height=1080></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5228312389748045&multi_paragraph=3&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.512.512.50/006ixuGRly8gohxxvmq9vj30e80e8weq.jpg?KID=imgbed,tva&Expires=1762021727&ssig=XK4yl08xSp) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">郑郑郑小七</span><img src=\"http://wx4.sinaimg.cn/middle/006ixuGRly1i6x4hij7d2j30nw0dc74v.jpg\" data-width=480 data-height=860></div></media-block><br>### 💎 **总结**  <br>南通队以近乎完美的赛季表现铸就“无冕之王”形象，却在终极一战因点球大战的残酷性与泰州队的坚韧而憾失冠军。这场“唯一败局”的戏剧性，既折射竞技体育的不可预测性，亦彰显了足球运动中拼搏精神的永恒价值。正如球迷所言：“烟火人间，南通请别停留，往前走！”```wbCustomBlock{\"type\": \"quoted\", \"index\": 33, \"data\": {\"num\": [14, 19, 20, 21], \"version\": 2, \"quote_list\": [{\"name\": \"阿笨汽车观察\", \"scheme\": \"sinaweibo://detail?mblogid=5228312264970244\", \"index\": 14, \"label\": \"大v\"}, {\"name\": \"财家西西\", \"scheme\": \"sinaweibo://detail?mblogid=5228292090629889\", \"index\": 19, \"label\": \"\"}, {\"name\": \"太阳当空照花儿笑笑笑\", \"scheme\": \"sinaweibo://detail?mblogid=5228315083544753\", \"index\": 20, \"label\": \"\"}, {\"name\": \"抱着星星与月亮\", \"scheme\": \"sinaweibo://detail?mblogid=5228315083540533\", \"index\": 21, \"label\": \"\"}], \"name\": \"阿笨汽车观察\", \"img\": \"https://tva3.sinaimg.cn/crop.82.1.275.275.50/62e16eebjw8evfzhwme3pj20ci07r751.jpg?KID=imgbed,tva&Expires=1762021727&ssig=P7IHXMuD2M\", \"scheme\": \"sinaweibo://detail?mblogid=5228312264970244\", \"vType\": 0}}```<br>",
+      "wenda": {
+        "forward_gen": 0
+      },
+      "comment_info": {},
+      "reliable_tips": "{\"gold_orange_v_mids\": [\"5228308029769065\", \"5228312739971970\", \"5228312603400593\", \"5228311301063603\", \"5228313746604174\", \"5228289035868252\", \"5228303201600081\", \"5228304686385400\", \"5228306305908903\", \"5228308375540813\", \"5228304277705029\", \"5228292090629889\", \"5228306282579983\", \"5228312389748045\", \"5228311483781467\", \"5228307558701166\", \"5228312264970244\", \"5228288857347162\", \"5228310005288775\", \"5228313518016521\", \"5228308296894987\", \"5228312435891307\", \"5228305755669615\", \"5223582239295656\", \"5228304262235941\", \"5228312913777940\"], \"gold_orange_v_ratio\": \"65%\", \"media_mids\": [\"5228296456379903\", \"5228289213599106\", \"5228292568252735\", \"5228257584089397\", \"5228299606565219\"], \"media_ratio\": \"13%\", \"verified_mids\": [\"5228309505114761\", \"5228308170021946\"], \"verified_ratio\": \"5%\", \"normal_mids\": [\"5228314978682598\", \"5228315083540533\", \"5228315083544753\", \"5228314911836333\", \"5228307186714026\", \"5228289150947857\", \"5228301635290960\"], \"normal_ratio\": \"17%\", \"ref_mid_rank\": {\"5228309505114761\": {\"rank\": 26}, \"5228308029769065\": {\"rank\": 30}, \"5228312739971970\": {\"rank\": 32}, \"5228312603400593\": {\"rank\": 33}, \"5228311301063603\": {\"rank\": 34}, \"5228296456379903\": {\"rank\": 1}, \"5228313746604174\": {\"rank\": 6}, \"5228289035868252\": {\"rank\": 15}, \"5228289213599106\": {\"rank\": 2}, \"5228303201600081\": {\"rank\": 4}, \"5228304686385400\": {\"rank\": 7}, \"5228306305908903\": {\"rank\": 37}, \"5228308375540813\": {\"rank\": 39}, \"5228292568252735\": {\"rank\": 5}, \"5228304277705029\": {\"rank\": 29}, \"5228308170021946\": {\"rank\": 42}, \"5228292090629889\": {\"rank\": 19}, \"5228314978682598\": {\"rank\": 22}, \"5228306282579983\": {\"rank\": 13}, \"5228312389748045\": {\"rank\": 18}, \"5228315083540533\": {\"rank\": 21}, \"5228311483781467\": {\"rank\": 27}, \"5228257584089397\": {\"rank\": 3}, \"5228307558701166\": {\"rank\": 11}, \"5228299606565219\": {\"rank\": 12}, \"5228315083544753\": {\"rank\": 20}, \"5228314911836333\": {\"rank\": 23}, \"5228307186714026\": {\"rank\": 43}, \"5228312264970244\": {\"rank\": 14}, \"5228289150947857\": {\"rank\": 16}, \"5228288857347162\": {\"rank\": 17}, \"5228310005288775\": {\"rank\": 24}, \"5228313518016521\": {\"rank\": 25}, \"5228308296894987\": {\"rank\": 28}, \"5228312435891307\": {\"rank\": 31}, \"5228305755669615\": {\"rank\": 35}, \"5228301635290960\": {\"rank\": 36}, \"5223582239295656\": {\"rank\": 38}, \"5228304262235941\": {\"rank\": 40}, \"5228312913777940\": {\"rank\": 41}}}",
+      "msg_format": "markdown",
+      "ext_show": {},
+      "abtest_info": {
+        "chat_entrance": 1
+      },
+      "query_category": "",
+      "cot": 1,
+      "link_list": [
+        "sinaweibo://detail?mblogid=5228296456379903",
+        "sinaweibo://detail?mblogid=5228289213599106",
+        "sinaweibo://detail?mblogid=5228257584089397",
+        "sinaweibo://detail?mblogid=5228303201600081",
+        "sinaweibo://detail?mblogid=5228292568252735",
+        "sinaweibo://detail?mblogid=5228313746604174",
+        "sinaweibo://detail?mblogid=5228304686385400",
+        "historyweibo://5185165661570147",
+        "historyweibo://5182876958328405",
+        "historyweibo://5182984848152921",
+        "sinaweibo://detail?mblogid=5228307558701166",
+        "sinaweibo://detail?mblogid=5228299606565219",
+        "sinaweibo://detail?mblogid=5228306282579983",
+        "sinaweibo://detail?mblogid=5228312264970244",
+        "sinaweibo://detail?mblogid=5228289035868252",
+        "sinaweibo://detail?mblogid=5228289150947857",
+        "sinaweibo://detail?mblogid=5228288857347162",
+        "sinaweibo://detail?mblogid=5228312389748045",
+        "sinaweibo://detail?mblogid=5228292090629889",
+        "sinaweibo://detail?mblogid=5228315083544753",
+        "sinaweibo://detail?mblogid=5228315083540533",
+        "sinaweibo://detail?mblogid=5228314978682598",
+        "sinaweibo://detail?mblogid=5228314911836333",
+        "sinaweibo://detail?mblogid=5228310005288775",
+        "sinaweibo://detail?mblogid=5228313518016521",
+        "sinaweibo://detail?mblogid=5228309505114761",
+        "sinaweibo://detail?mblogid=5228311483781467",
+        "sinaweibo://detail?mblogid=5228308296894987",
+        "sinaweibo://detail?mblogid=5228304277705029",
+        "sinaweibo://detail?mblogid=5228308029769065",
+        "sinaweibo://detail?mblogid=5228312435891307",
+        "sinaweibo://detail?mblogid=5228312739971970",
+        "sinaweibo://detail?mblogid=5228312603400593",
+        "sinaweibo://detail?mblogid=5228311301063603",
+        "sinaweibo://detail?mblogid=5228305755669615",
+        "sinaweibo://detail?mblogid=5228301635290960",
+        "sinaweibo://detail?mblogid=5228306305908903",
+        "sinaweibo://detail?mblogid=5223582239295656",
+        "sinaweibo://detail?mblogid=5228308375540813",
+        "sinaweibo://detail?mblogid=5228304262235941",
+        "sinaweibo://detail?mblogid=5228312913777940",
+        "sinaweibo://detail?mblogid=5228308170021946",
+        "sinaweibo://detail?mblogid=5228307186714026"
+      ]
+    }
+  },
+  "links": [
+    "sinaweibo://detail?mblogid=5228296456379903",
+    "sinaweibo://detail?mblogid=5228289213599106",
+    "sinaweibo://detail?mblogid=5228257584089397",
+    "sinaweibo://detail?mblogid=5228303201600081",
+    "sinaweibo://detail?mblogid=5228292568252735",
+    "sinaweibo://detail?mblogid=5228313746604174",
+    "sinaweibo://detail?mblogid=5228304686385400",
+    "historyweibo://5185165661570147",
+    "historyweibo://5182876958328405",
+    "historyweibo://5182984848152921",
+    "sinaweibo://detail?mblogid=5228307558701166",
+    "sinaweibo://detail?mblogid=5228299606565219",
+    "sinaweibo://detail?mblogid=5228306282579983",
+    "sinaweibo://detail?mblogid=5228312264970244",
+    "sinaweibo://detail?mblogid=5228289035868252",
+    "sinaweibo://detail?mblogid=5228289150947857",
+    "sinaweibo://detail?mblogid=5228288857347162",
+    "sinaweibo://detail?mblogid=5228312389748045",
+    "sinaweibo://detail?mblogid=5228292090629889",
+    "sinaweibo://detail?mblogid=5228315083544753",
+    "sinaweibo://detail?mblogid=5228315083540533",
+    "sinaweibo://detail?mblogid=5228314978682598",
+    "sinaweibo://detail?mblogid=5228314911836333",
+    "sinaweibo://detail?mblogid=5228310005288775",
+    "sinaweibo://detail?mblogid=5228313518016521",
+    "sinaweibo://detail?mblogid=5228309505114761",
+    "sinaweibo://detail?mblogid=5228311483781467",
+    "sinaweibo://detail?mblogid=5228308296894987",
+    "sinaweibo://detail?mblogid=5228304277705029",
+    "sinaweibo://detail?mblogid=5228308029769065",
+    "sinaweibo://detail?mblogid=5228312435891307",
+    "sinaweibo://detail?mblogid=5228312739971970",
+    "sinaweibo://detail?mblogid=5228312603400593",
+    "sinaweibo://detail?mblogid=5228311301063603",
+    "sinaweibo://detail?mblogid=5228305755669615",
+    "sinaweibo://detail?mblogid=5228301635290960",
+    "sinaweibo://detail?mblogid=5228306305908903",
+    "sinaweibo://detail?mblogid=5223582239295656",
+    "sinaweibo://detail?mblogid=5228308375540813",
+    "sinaweibo://detail?mblogid=5228304262235941",
+    "sinaweibo://detail?mblogid=5228312913777940",
+    "sinaweibo://detail?mblogid=5228308170021946",
+    "sinaweibo://detail?mblogid=5228307186714026"
+  ],
+  "media": [
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/5e1731f1gy1i6x3epkpyoj20zo0ha11k.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/5e1731f1gy1i6x3epkpyoj20zo0ha11k.jpg",
+      "alt": "小葵同学aoi",
+      "width": 622,
+      "height": 1284,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/5e1731f1gy1i6x3epkpyoj20zo0ha11k.jpg"
+      ],
+      "user": "小葵同学aoi"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/008eStbfgy1i6x40fzzyqj30k00c9tar.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/008eStbfgy1i6x40fzzyqj30k00c9tar.jpg",
+      "alt": "定有趣",
+      "width": 441,
+      "height": 720,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/008eStbfgy1i6x40fzzyqj30k00c9tar.jpg"
+      ],
+      "user": "定有趣"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/6b0e1e9dly8i6x2n6cjzlj20u01hch0x.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/6b0e1e9dly8i6x2n6cjzlj20u01hch0x.jpg",
+      "alt": "荔枝新闻",
+      "width": 1920,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/6b0e1e9dly8i6x2n6cjzlj20u01hch0x.jpg"
+      ],
+      "user": "荔枝新闻"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/008hfE7Dly1i6x4mwhju2j30u01hcact.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/008hfE7Dly1i6x4mwhju2j30u01hcact.jpg",
+      "alt": "话道君",
+      "width": 1920,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx4.sinaimg.cn/large/008hfE7Dly1i6x4mwhju2j30u01hcact.jpg"
+      ],
+      "user": "话道君"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/5083f48dly1i6x3f8wg3dj20u01hcwil.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/5083f48dly1i6x3f8wg3dj20u01hcwil.jpg",
+      "alt": "孙雨轩",
+      "width": 1920,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/5083f48dly1i6x3f8wg3dj20u01hcwil.jpg"
+      ],
+      "user": "孙雨轩"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/008BJXPWly1i6x3lkiudsj31000k0aca.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/008BJXPWly1i6x3lkiudsj31000k0aca.jpg",
+      "alt": "vizwnyulnn",
+      "width": 720,
+      "height": 1296,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/008BJXPWly1i6x3lkiudsj31000k0aca.jpg"
+      ],
+      "user": "vizwnyulnn"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/001NUlVxly1i6x2eheb6xj60u01hcn0h02.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/001NUlVxly1i6x2eheb6xj60u01hcn0h02.jpg",
+      "alt": "扬子晚报",
+      "width": 1920,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/001NUlVxly1i6x2eheb6xj60u01hcn0h02.jpg"
+      ],
+      "user": "扬子晚报"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/3c09ac09ly1i6x2c7vd4lj20za0k0wfb.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/3c09ac09ly1i6x2c7vd4lj20za0k0wfb.jpg",
+      "alt": "财家西西",
+      "width": 720,
+      "height": 1270,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/3c09ac09ly1i6x2c7vd4lj20za0k0wfb.jpg"
+      ],
+      "user": "财家西西"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/6b0e1e9dly8i6wy6jx87qj20u01hcqaz.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/6b0e1e9dly8i6wy6jx87qj20u01hcqaz.jpg",
+      "alt": "荔枝新闻",
+      "width": 1920,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/6b0e1e9dly8i6wy6jx87qj20u01hcqaz.jpg"
+      ],
+      "user": "荔枝新闻"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/006ixuGRly1i6x4hij7d2j30nw0dc74v.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/006ixuGRly1i6x4hij7d2j30nw0dc74v.jpg",
+      "alt": "郑郑郑小七",
+      "width": 480,
+      "height": 860,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/006ixuGRly1i6x4hij7d2j30nw0dc74v.jpg"
+      ],
+      "user": "郑郑郑小七"
+    }
+  ],
+  "html_path": "data/aicard/hourly/2025-11-01/23/topic-2575cbf7.html"
+}

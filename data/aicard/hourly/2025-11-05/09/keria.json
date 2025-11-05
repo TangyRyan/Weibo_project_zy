@@ -1,0 +1,321 @@
+{
+  "meta": {
+    "query": "#Keria都叫大哥了 那还能说啥#",
+    "status_code": 200,
+    "fetched_at": "2025-11-05T09:51:02+08:00",
+    "response": {
+      "loop_times": 200,
+      "version": "2025-11-05 09:36:59.017999-5571",
+      "abtest_info": {
+        "chat_entrance": 1
+      },
+      "page_id": "2329645cdadbec4b812c785bb8b7aaf096b820",
+      "unify_md5": "c64ddf688d28310379662eb170393323",
+      "msg_json": "{}",
+      "model": "deepseek",
+      "basemodel": "实验组2",
+      "cot": 1,
+      "uid": "",
+      "show_ctrl": {
+        "quote": {}
+      },
+      "profile_image_url": "",
+      "wenda": {
+        "forward_gen": 0
+      },
+      "share_card_multimodal": {
+        "w": 1280,
+        "scheme": "sinaweibo://video/vvs?mid=5229400945592182&multi_paragraph=1&multi_count=0",
+        "click_num": 0,
+        "cur_mid": "5229400945592182",
+        "hit_score_final": 0,
+        "vtype": 0,
+        "user_name": "吃瓜的空白",
+        "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.512.512.50/007ZlrToly8hvw4k0pisuj30e80e8q2p.jpg?KID=imgbed,tva&Expires=1762317419&ssig=WcTr0uwkNK",
+        "type": "v",
+        "img": "http://wx2.sinaimg.cn/middle/007ZlrToly1i70li7emmyj30zk0k0abn.jpg",
+        "video_url": "https://video.weibo.com/show?fid=1034:5229400799772698",
+        "hit_score_new": 0,
+        "doc_score": 0,
+        "img_pid": "007ZlrToly1i70li7emmyj30zk0k0abn",
+        "h": 720,
+        "click_rate": 0.027229438534101
+      },
+      "zs_risk_control": {
+        "think_text_close": 0,
+        "land_button_close": 0
+      },
+      "ext_show": {},
+      "qs_status": 0,
+      "share_text": "#Keria都叫大哥了 那还能说啥#的相关内容，来智搜看看",
+      "query_field": "47",
+      "chat_status_stage": 1,
+      "link_list": [
+        "sinaweibo://detail?mblogid=5229400945592182",
+        "sinaweibo://detail?mblogid=5229549483725068",
+        "sinaweibo://detail?mblogid=5229550256784493",
+        "broadsocial_res://",
+        "historyweibo://5229400945592182",
+        "sinaweibo://detail?mblogid=5229546350578977",
+        "sinaweibo://detail?mblogid=5229538004173239",
+        "sinaweibo://detail?mblogid=5229546425027391",
+        "sinaweibo://detail?mblogid=5229553871229470",
+        "sinaweibo://detail?mblogid=5229553853401456",
+        "sinaweibo://detail?mblogid=5229548092261153",
+        "sinaweibo://detail?mblogid=5229547994745159",
+        "sinaweibo://detail?mblogid=5229547773231609",
+        "sinaweibo://detail?mblogid=5229547483305400",
+        "sinaweibo://detail?mblogid=5229547068851720",
+        "sinaweibo://detail?mblogid=5229546974740680",
+        "sinaweibo://detail?mblogid=5229542157585325",
+        "sinaweibo://detail?mblogid=5229389031932632",
+        "sinaweibo://detail?mblogid=5229546695560970",
+        "sinaweibo://detail?mblogid=5229548603183180",
+        "sinaweibo://detail?mblogid=5229550080364391",
+        "sinaweibo://detail?mblogid=5229548812636659",
+        "sinaweibo://detail?mblogid=5229549061410275",
+        "sinaweibo://detail?mblogid=5229548938463981",
+        "sinaweibo://detail?mblogid=5229549287902958",
+        "https://m.sohu.com/a/754734430_120556587/?pvid=000115_3w_a",
+        "https://csgo.5eplay.com/article/240731ptlzbw",
+        "https://baijiahao.baidu.com/s?id=1840060157242404682",
+        "https://lol.qq.com/news/space-detail.shtml?docid=12314744061525258486",
+        "https://lol.qq.com/news/detail.shtml?docid=13836101896976136386",
+        "https://m.sohu.com/a/635311733_120501344/?pvid=000115_3w_a"
+      ],
+      "current_time": 1762307462,
+      "sorted_material_list": null,
+      "news_analyze": {},
+      "reliable_tips": "{\"gold_orange_v_mids\": [\"5229400945592182\", \"5229389031932632\", \"5229549483725068\", \"5229546350578977\", \"5229542157585325\", \"5229546695560970\", \"5229548092261153\", \"5229547773231609\", \"5229546974740680\", \"5229549287902958\", \"5229553871229470\", \"5229550080364391\", \"5229549061410275\", \"5229553853401456\", \"5229547068851720\", \"5229550256784493\", \"5229538004173239\", \"5229546425027391\", \"5229547483305400\", \"5229548603183180\", \"5229548812636659\", \"5229548938463981\"], \"gold_orange_v_ratio\": \"96%\", \"media_mids\": [], \"media_ratio\": \"0%\", \"verified_mids\": [], \"verified_ratio\": \"0%\", \"normal_mids\": [\"5229547994745159\"], \"normal_ratio\": \"4%\", \"ref_mid_rank\": {\"5229400945592182\": {\"rank\": 1}, \"5229389031932632\": {\"rank\": 18}, \"5229549483725068\": {\"rank\": 2}, \"5229546350578977\": {\"rank\": 6}, \"5229542157585325\": {\"rank\": 17}, \"5229546695560970\": {\"rank\": 19}, \"5229548092261153\": {\"rank\": 11}, \"5229547773231609\": {\"rank\": 13}, \"5229546974740680\": {\"rank\": 16}, \"5229549287902958\": {\"rank\": 25}, \"5229553871229470\": {\"rank\": 9}, \"5229550080364391\": {\"rank\": 21}, \"5229549061410275\": {\"rank\": 23}, \"5229553853401456\": {\"rank\": 10}, \"5229547068851720\": {\"rank\": 15}, \"5229550256784493\": {\"rank\": 3}, \"5229538004173239\": {\"rank\": 7}, \"5229546425027391\": {\"rank\": 8}, \"5229547994745159\": {\"rank\": 12}, \"5229547483305400\": {\"rank\": 14}, \"5229548603183180\": {\"rank\": 20}, \"5229548812636659\": {\"rank\": 22}, \"5229548938463981\": {\"rank\": 24}}}",
+      "qs_status_info": "{\"qs_q_status\":0,\"ab_lab\":{},\"qs_status\":0,\"qs_r_status\":0,\"qs_u_status\":0,\"qs_c_status\":8388608}",
+      "reference_num": 23,
+      "scheme": "sinaweibo://cardlist?containerid=100103type%3D225%26q%3D%23keria%E9%83%BD%E5%8F%AB%E5%A4%A7%E5%93%A5%E4%BA%86%20%E9%82%A3%E8%BF%98%E8%83%BD%E8%AF%B4%E5%95%A5%23%26t%3D&extparam=ai_model%3Ddeepseek%26ori_ai_title%3D%E5%8F%82%E8%80%83%E5%8D%9A%E6%96%87%26material_version%3D1762306619",
+      "msg": "<think><br>嗯，用户想了解关于\"keria都叫大哥了 那还能说啥\"这句话的背景和含义。这句话在电竞圈应该是个有趣的梗，需要我整理相关信息。<br><br>我看到了很多关于韩国电竞选手Keria的搜索结果。在2025年S15全球总决赛期间，Keria在接受CGTN专访时说了\"中国粉丝很善良\"，还表示最想学的中文词是\"大哥\"，觉得这个词既有趣又亲切。中国粉丝们被他的这种称呼打动，在社交媒体上幽默回应说\"你都叫大哥了，那还能说啥，这冠军你拿去呗\"，这句话迅速成为热门话题。<br><br>Keria和中国粉丝的这种互动其实有长达五年的基础。从2020年他第一次参加在上海举办的S赛开始，当时还不太有名的他每次比赛后都能在场馆外听到中国粉丝喊\"Keria加油\"。这些支持给他留下了深刻印象，后来他多次在直播中用中文打招呼，收藏中国粉丝的画作，甚至在2024年MSI前直播时还说过\"成都见，中国粉丝很善良\"。这种真诚的交流让粉丝们觉得特别亲切。<br><br>现在很多粉丝在讨论S15比赛内容时总会带上这个话题标签。Keria在比赛中的表现确实很出色，特别是他使用妮蔻的那场比赛，通过真假分身骗过对方多人，帮助队伍完成0换4。还有人对比了他在2022年失利后痛哭和现在的从容表现，认为他心态成熟了很多。<br><br>这个梗能火起来，本质上是Keria用一句接地气的\"大哥\"打破了文化隔阂。就像有网友说的，其他国际选手也可以学学这种亲切的交流方式。而且从搜索结果来看，Keria在队里确实叫Faker\"大哥\"，这可能是他学这个词的原因之一。<br><br>目前这个话题在微博上热度很高，多个认证账号和大V都在讨论。甚至S15决赛开幕式的宣传也带上了这个标签。不过我也注意到有个别普通用户可能是想蹭热度求关注，这类内容不太相关。<br><br>整体来看，粉丝们对Keria的称呼反应这么热烈，是因为这代表了五年来真诚的双向互动。他用实际行动表达了对中国粉丝的尊重和感激，而粉丝们则用幽默的方式回应了这份心意。<br><br></think><br>“Keria都叫大哥了，那还能说啥”是2025年英雄联盟S15全球总决赛期间引发热议的梗，源于韩国T1战队辅助选手Keria（柳岷析）对中国粉丝的真诚互动。以下综合背景、事件脉络及影响进行说明：<br>### 一、**事件起源：Keria的“大哥”称呼引爆热搜**  <br>1. **专访中的中文互动**  <br>   - 在S15期间接受CGTN专访时，Keria主动用中文说“中国粉丝很善良”，并透露最想学的中文词是“大哥”，认为这个词既有趣又亲切。```wbCustomBlock{\"type\": \"quoted\", \"index\": 5, \"data\": {\"num\": [1, 18], \"version\": 2, \"quote_list\": [{\"name\": \"吃瓜的空白\", \"scheme\": \"sinaweibo://detail?mblogid=5229400945592182\", \"index\": 1, \"label\": \"大v\"}, {\"name\": \"请回答冷藏库\", \"scheme\": \"sinaweibo://detail?mblogid=5229389031932632\", \"index\": 18, \"label\": \"\"}], \"name\": \"吃瓜的空白\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.512.512.50/007ZlrToly8hvw4k0pisuj30e80e8q2p.jpg?KID=imgbed,tva&Expires=1762317419&ssig=WcTr0uwkNK\", \"scheme\": \"sinaweibo://detail?mblogid=5229400945592182\", \"vType\": 0}}```  <br>   - 当被问及夺冠后想对中国粉丝说什么时，他诚恳地用中文回应：“谢谢！”。<br><br>2. **粉丝幽默接梗**  <br>   - 中国粉丝迅速以“你都叫大哥了，冠军不给你说不过去”“这冠军你拿去呗”等调侃回应，话题#Keria都叫大哥了 那还能说啥#冲上热搜。```wbCustomBlock{\"type\": \"quoted\", \"index\": 8, \"data\": {\"num\": [1, 2, 6], \"version\": 2, \"quote_list\": [{\"name\": \"吃瓜的空白\", \"scheme\": \"sinaweibo://detail?mblogid=5229400945592182\", \"index\": 1, \"label\": \"\"}, {\"name\": \"电竞可云\", \"scheme\": \"sinaweibo://detail?mblogid=5229549483725068\", \"index\": 2, \"label\": \"\"}, {\"name\": \"妍依馨\", \"scheme\": \"sinaweibo://detail?mblogid=5229546350578977\", \"index\": 6, \"label\": \"\"}]}}```  <br>   - 部分网友调侃：“大哥都叫了，还能说啥？直接颁奖！”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 9, \"data\": {\"num\": [6, 17], \"version\": 2, \"quote_list\": [{\"name\": \"妍依馨\", \"scheme\": \"sinaweibo://detail?mblogid=5229546350578977\", \"index\": 6, \"label\": \"\"}, {\"name\": \"偲赋\", \"scheme\": \"sinaweibo://detail?mblogid=5229542157585325\", \"index\": 17, \"label\": \"\"}]}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5229400945592182&multi_paragraph=1&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.512.512.50/007ZlrToly8hvw4k0pisuj30e80e8q2p.jpg?KID=imgbed,tva&Expires=1762317419&ssig=WcTr0uwkNK) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">吃瓜的空白</span><img src=\"http://wx2.sinaimg.cn/middle/007ZlrToly1i70li7emmyj30zk0k0abn.jpg\" data-width=720 data-height=1280></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5229549483725068&multi_paragraph=1&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.1070.1070.50/006lWknWly8hh6wj6ze06j30tq0tqq5r.jpg?KID=imgbed,tva&Expires=1762317419&ssig=0xbnIM8A53) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">电竞可云</span><img src=\"http://wx2.sinaimg.cn/middle/006lWknWly1i712kco3nzj30k00zkmyd.jpg\" data-width=1280 data-height=720></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5229546350578977&multi_paragraph=1&multi_count=2\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/006Ro4Bqly8i5y2tf38xmj30u00u00vc.jpg?KID=imgbed,tva&Expires=1762317419&ssig=IvTPo4vhNT) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">妍依馨</span><img src=\"http://wx1.sinaimg.cn/middle/006Ro4Bqly1i7127h7ei8j30k80k0t9p.jpg\" data-width=720 data-height=728></div></media-block><br>### 二、**为何“叫大哥”引发强烈共鸣？**  <br>1. **五年双向奔赴的情感积淀**  <br>   - **2020年上海S赛**：新人Keria初登国际赛场时，中国粉丝每场赛后在场馆外高喊“Keria加油”，令他多次提及：“这些呐喊给了我巨大鼓舞，记忆深印心中”。  <br>   - **长期互动**：  <br>     - 2023年MSI前发布中文问候视频：“想在中国见面心情特别强烈”；  <br>     - 2024年MSI直播称“成都见，中国粉丝很善良”；  <br>     - 收藏中国粉丝画作（其母在Ins晒出），圣诞用中文感谢礼物。<br><br>2. **文化破圈的真诚表达**  <br>   - Keria主动学习中文词汇（如“晚上好”“可爱”），直播中多次向LPL选手刘青松（Crisp）喊话“LPL加油”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 19, \"data\": {\"num\": [19], \"version\": 2, \"quote_list\": [{\"name\": \"游戏林妹妹\", \"scheme\": \"sinaweibo://detail?mblogid=5229546695560970\", \"index\": 19, \"label\": \"大v\"}], \"name\": \"游戏林妹妹\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/006lZSEqly8hbuyzqglz6j30u00u0go8.jpg?KID=imgbed,tva&Expires=1762317419&ssig=XvrGRlX9jk\", \"scheme\": \"sinaweibo://detail?mblogid=5229546695560970\", \"vType\": 0}}```  <br>   - 粉丝评价：“他中文生涩却努力，这份诚意比语言更重要”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 20, \"data\": {\"num\": [17], \"version\": 2, \"quote_list\": [{\"name\": \"偲赋\", \"scheme\": \"sinaweibo://detail?mblogid=5229542157585325\", \"index\": 17, \"label\": \"\"}]}}```<br><br>3. **对比极端个案的理性态度**  <br>   - 2024年他曾遭遇中国私生饭骚扰（编造恋爱小说），但明确区分极端个体与整体粉丝群体：“中国粉丝很善良”。<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5229546695560970&multi_paragraph=2&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/006lZSEqly8hbuyzqglz6j30u00u0go8.jpg?KID=imgbed,tva&Expires=1762317419&ssig=XvrGRlX9jk) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">游戏林妹妹</span><img src=\"http://wx1.sinaimg.cn/middle/006lZSEqly1i71293hu9tj31400u00u7.jpg\" data-width=1080 data-height=1440></div></media-block><br>### 三、**梗的延伸：赛场表现与粉丝心态**  <br>1. **赛场高光助推话题**  <br>   - S15淘汰赛中，Keria的妮蔻凭借“真假分身戏耍三人”的神级开团登上官方TOP1操作，网友玩梗：“大哥都叫了，操作能不秀吗？”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 26, \"data\": {\"num\": [11, 13, 16, 25], \"version\": 2, \"quote_list\": [{\"name\": \"电竞可达鸭\", \"scheme\": \"sinaweibo://detail?mblogid=5229548092261153\", \"index\": 11, \"label\": \"大v\"}, {\"name\": \"竞圈锋行者\", \"scheme\": \"sinaweibo://detail?mblogid=5229547773231609\", \"index\": 13, \"label\": \"\"}, {\"name\": \"电竞圈一哥\", \"scheme\": \"sinaweibo://detail?mblogid=5229546974740680\", \"index\": 16, \"label\": \"\"}, {\"name\": \"竞圈萧玄\", \"scheme\": \"sinaweibo://detail?mblogid=5229549287902958\", \"index\": 25, \"label\": \"\"}], \"name\": \"电竞可达鸭\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.512.512.50/006lXjUGly8hlbr5dpsvtj30e80e8js1.jpg?KID=imgbed,tva&Expires=1762317419&ssig=fDE9Zcs0jj\", \"scheme\": \"sinaweibo://detail?mblogid=5229548092261153\", \"vType\": 0}}```  <br>   - 粉丝对比他2022年决赛失利痛哭与如今的从容，感叹：“大哥心态成熟了！”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 27, \"data\": {\"num\": [9, 21, 23], \"version\": 2, \"quote_list\": [{\"name\": \"电竞山大王\", \"scheme\": \"sinaweibo://detail?mblogid=5229553871229470\", \"index\": 9, \"label\": \"大v\"}, {\"name\": \"电竞刺头哥\", \"scheme\": \"sinaweibo://detail?mblogid=5229550080364391\", \"index\": 21, \"label\": \"\"}, {\"name\": \"游戏意难平\", \"scheme\": \"sinaweibo://detail?mblogid=5229549061410275\", \"index\": 23, \"label\": \"\"}], \"name\": \"电竞山大王\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.1024.1024.50/006lWkKYly8h8e6tbq4mzj30sg0sggnf.jpg?KID=imgbed,tva&Expires=1762317419&ssig=c%2FFgnmUXQq\", \"scheme\": \"sinaweibo://detail?mblogid=5229553871229470\", \"vType\": 0}}```<br><br>2. **决赛前的集体玩梗**  <br>   - T1晋级决赛后，中国粉丝在相关话题下刷屏：“大哥都开口了，奖杯直接快递到T1基地”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 29, \"data\": {\"num\": [10, 15], \"version\": 2, \"quote_list\": [{\"name\": \"竞圈先锋官\", \"scheme\": \"sinaweibo://detail?mblogid=5229547068851720\", \"index\": 15, \"label\": \"大v\"}, {\"name\": \"游叔\", \"scheme\": \"sinaweibo://detail?mblogid=5229553853401456\", \"index\": 10, \"label\": \"\"}], \"name\": \"竞圈先锋官\", \"img\": \"https://tvax2.sinaimg.cn/crop.39.0.1001.1001.50/006m1YBYly8hbuz2g6pmej30u00rtdht.jpg?KID=imgbed,tva&Expires=1762317419&ssig=EV5hV%2FPiSm\", \"scheme\": \"sinaweibo://detail?mblogid=5229547068851720\", \"vType\": 0}}```  <br>   - 电竞博主分析：“一句接地气的‘大哥’打破文化隔阂，这是跨国电竞友谊的完美诠释”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 30, \"data\": {\"num\": [17], \"version\": 2, \"quote_list\": [{\"name\": \"偲赋\", \"scheme\": \"sinaweibo://detail?mblogid=5229542157585325\", \"index\": 17, \"label\": \"\"}]}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5229549287902958&multi_paragraph=3&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/006lYHyHly8hmhe7kyh44j30u00u0q5w.jpg?KID=imgbed,tva&Expires=1762317419&ssig=ETepHgOxHx) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">竞圈萧玄</span><img src=\"http://wx2.sinaimg.cn/middle/006lYHyHly1i712jlhle7j30u01hcdhq.jpg\" data-width=1920 data-height=1080></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5229550080364391&multi_paragraph=3&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/006lWwYJly8hbuscowkbsj30u00u041g.jpg?KID=imgbed,tva&Expires=1762317419&ssig=tmOC4GU8bX) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">电竞刺头哥</span><img src=\"http://wx2.sinaimg.cn/middle/006lWwYJly1i712n1m32yj30k00k0q3j.jpg\" data-width=720 data-height=720></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5229549061410275&multi_paragraph=3&multi_count=2\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/006lYF5Zly8hmhe2fbzs5j30u00u0acp.jpg?KID=imgbed,tva&Expires=1762317419&ssig=edm5gJ2Yli) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">游戏意难平</span><img src=\"http://wx2.sinaimg.cn/middle/006lYF5Zly1i712ivvd8gj30qo0k0jst.jpg\" data-width=720 data-height=960></div></media-block><br>### 四、**总结：为何“叫大哥”吸粉无数？**  <br>- **情感价值 > 竞技输赢**：粉丝更看重Keria五年如一日的真诚，而非单纯支持T1夺冠。```wbCustomBlock{\"type\": \"quoted\", \"index\": 33, \"data\": {\"num\": [17], \"version\": 2, \"quote_list\": [{\"name\": \"偲赋\", \"scheme\": \"sinaweibo://detail?mblogid=5229542157585325\", \"index\": 17, \"label\": \"\"}]}}```  <br>- **梗的文化穿透力**：用中文俚语拉近距离，提供其他国际选手“破圈模板”（如网友建议：“下次学‘兄弟们，火锅我请！’”）。```wbCustomBlock{\"type\": \"quoted\", \"index\": 34, \"data\": {\"num\": [17], \"version\": 2, \"quote_list\": [{\"name\": \"偲赋\", \"scheme\": \"sinaweibo://detail?mblogid=5229542157585325\", \"index\": 17, \"label\": \"\"}]}}```  <br>- **电竞精神缩影**：选手与粉丝的平等互动、相互尊重，成为S15“跨文化共鸣”的典型案例。<br><br>此梗本质是**以幽默包裹深情**的回应——当Keria用最朴素的词汇表达善意时，中国粉丝选择用最“江湖”的方式接住这份心意。<br>",
+      "query": "#Keria都叫大哥了 那还能说啥#",
+      "analysis_time": 1762306791,
+      "q_attr": {
+        "from_uid": "",
+        "from_request_id": "",
+        "comment_from_type": "",
+        "mid": "",
+        "reply_cid": ""
+      },
+      "ab_suffix": "default",
+      "mid_list": null,
+      "comment_info": {},
+      "query_category": "",
+      "status_stage": 4,
+      "user_info": {},
+      "share_info": {
+        "page_id": "2329645cdadbec4b812c785bb8b7aaf096b820",
+        "tips": "#Keria都叫大哥了 那还能说啥#的相关内容，来智搜看看",
+        "display_name": "#Keria都叫大哥了 那还能说啥#",
+        "comment_content": "",
+        "url": "http://t.cn/AXAHkxUO",
+        "status": 3,
+        "unify_md5": "c64ddf688d28310379662eb170393323"
+      },
+      "top_quote_list": {},
+      "card_multimodal": {
+        "type": "mediablock",
+        "data": [
+          {
+            "w": 1280,
+            "scheme": "sinaweibo://video/vvs?mid=5229400945592182&multi_paragraph=1&multi_count=0",
+            "click_num": 0,
+            "cur_mid": "5229400945592182",
+            "hit_score_final": 0,
+            "vtype": 0,
+            "user_name": "吃瓜的空白",
+            "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.512.512.50/007ZlrToly8hvw4k0pisuj30e80e8q2p.jpg?KID=imgbed,tva&Expires=1762317419&ssig=WcTr0uwkNK",
+            "type": "v",
+            "img": "http://wx2.sinaimg.cn/middle/007ZlrToly1i70li7emmyj30zk0k0abn.jpg",
+            "video_url": "https://video.weibo.com/show?fid=1034:5229400799772698",
+            "hit_score_new": 0,
+            "doc_score": 0,
+            "img_pid": "007ZlrToly1i70li7emmyj30zk0k0abn",
+            "h": 720,
+            "click_rate": 0.027229438534101
+          },
+          {
+            "w": 720,
+            "scheme": "sinaweibo://video/vvs?mid=5229549483725068&multi_paragraph=1&multi_count=1",
+            "click_num": 0,
+            "cur_mid": "5229549483725068",
+            "hit_score_final": 75.972656,
+            "vtype": 0,
+            "user_name": "电竞可云",
+            "user_avatar": "https://tvax4.sinaimg.cn/crop.0.0.1070.1070.50/006lWknWly8hh6wj6ze06j30tq0tqq5r.jpg?KID=imgbed,tva&Expires=1762317419&ssig=0xbnIM8A53",
+            "type": "v",
+            "img": "http://wx2.sinaimg.cn/middle/006lWknWly1i712kco3nzj30k00zkmyd.jpg",
+            "video_url": "https://video.weibo.com/show?fid=1034:5229549353369647",
+            "hit_score_new": 86.621094,
+            "doc_score": 2575,
+            "img_pid": "006lWknWly1i712kco3nzj30k00zkmyd",
+            "h": 1280,
+            "click_rate": 0
+          },
+          {
+            "w": 728,
+            "scheme": "sinaweibo://video/vvs?mid=5229546350578977&multi_paragraph=1&multi_count=2",
+            "click_num": 0,
+            "cur_mid": "5229546350578977",
+            "hit_score_final": 72.810547,
+            "vtype": 0,
+            "user_name": "妍依馨",
+            "user_avatar": "https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/006Ro4Bqly8i5y2tf38xmj30u00u00vc.jpg?KID=imgbed,tva&Expires=1762317419&ssig=IvTPo4vhNT",
+            "type": "v",
+            "img": "http://wx1.sinaimg.cn/middle/006Ro4Bqly1i7127h7ei8j30k80k0t9p.jpg",
+            "video_url": "https://video.weibo.com/show?fid=1034:5229546224680981",
+            "hit_score_new": 68.017578,
+            "doc_score": 4314,
+            "img_pid": "006Ro4Bqly1i7127h7ei8j30k80k0t9p",
+            "h": 720,
+            "click_rate": 0
+          },
+          {
+            "w": 1280,
+            "scheme": "sinaweibo://video/vvs?mid=5229400945592182&multi_paragraph=1&multi_count=0",
+            "click_num": 0,
+            "cur_mid": "5229400945592182",
+            "hit_score_final": 0,
+            "vtype": 0,
+            "user_name": "吃瓜的空白",
+            "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.512.512.50/007ZlrToly8hvw4k0pisuj30e80e8q2p.jpg?KID=imgbed,tva&Expires=1762317419&ssig=WcTr0uwkNK",
+            "type": "v",
+            "img": "http://wx2.sinaimg.cn/middle/007ZlrToly1i70li7emmyj30zk0k0abn.jpg",
+            "video_url": "https://video.weibo.com/show?fid=1034:5229400799772698",
+            "hit_score_new": 0,
+            "doc_score": 0,
+            "img_pid": "007ZlrToly1i70li7emmyj30zk0k0abn",
+            "h": 720,
+            "click_rate": 0.027229438534101
+          }
+        ]
+      },
+      "status": 2,
+      "msg_format": "markdown",
+      "short_url": "http://t.cn/AXAHBucm"
+    }
+  },
+  "links": [
+    "sinaweibo://detail?mblogid=5229400945592182",
+    "sinaweibo://detail?mblogid=5229549483725068",
+    "sinaweibo://detail?mblogid=5229550256784493",
+    "broadsocial_res://",
+    "historyweibo://5229400945592182",
+    "sinaweibo://detail?mblogid=5229546350578977",
+    "sinaweibo://detail?mblogid=5229538004173239",
+    "sinaweibo://detail?mblogid=5229546425027391",
+    "sinaweibo://detail?mblogid=5229553871229470",
+    "sinaweibo://detail?mblogid=5229553853401456",
+    "sinaweibo://detail?mblogid=5229548092261153",
+    "sinaweibo://detail?mblogid=5229547994745159",
+    "sinaweibo://detail?mblogid=5229547773231609",
+    "sinaweibo://detail?mblogid=5229547483305400",
+    "sinaweibo://detail?mblogid=5229547068851720",
+    "sinaweibo://detail?mblogid=5229546974740680",
+    "sinaweibo://detail?mblogid=5229542157585325",
+    "sinaweibo://detail?mblogid=5229389031932632",
+    "sinaweibo://detail?mblogid=5229546695560970",
+    "sinaweibo://detail?mblogid=5229548603183180",
+    "sinaweibo://detail?mblogid=5229550080364391",
+    "sinaweibo://detail?mblogid=5229548812636659",
+    "sinaweibo://detail?mblogid=5229549061410275",
+    "sinaweibo://detail?mblogid=5229548938463981",
+    "sinaweibo://detail?mblogid=5229549287902958",
+    "https://m.sohu.com/a/754734430_120556587/?pvid=000115_3w_a",
+    "https://csgo.5eplay.com/article/240731ptlzbw",
+    "https://baijiahao.baidu.com/s?id=1840060157242404682",
+    "https://lol.qq.com/news/space-detail.shtml?docid=12314744061525258486",
+    "https://lol.qq.com/news/detail.shtml?docid=13836101896976136386",
+    "https://m.sohu.com/a/635311733_120501344/?pvid=000115_3w_a"
+  ],
+  "media": [
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/007ZlrToly1i70li7emmyj30zk0k0abn.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/007ZlrToly1i70li7emmyj30zk0k0abn.jpg",
+      "alt": "吃瓜的空白",
+      "width": 720,
+      "height": 1280,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/007ZlrToly1i70li7emmyj30zk0k0abn.jpg"
+      ],
+      "user": "吃瓜的空白"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/006lWknWly1i712kco3nzj30k00zkmyd.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/006lWknWly1i712kco3nzj30k00zkmyd.jpg",
+      "alt": "电竞可云",
+      "width": 1280,
+      "height": 720,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/006lWknWly1i712kco3nzj30k00zkmyd.jpg"
+      ],
+      "user": "电竞可云"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/006Ro4Bqly1i7127h7ei8j30k80k0t9p.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/006Ro4Bqly1i7127h7ei8j30k80k0t9p.jpg",
+      "alt": "妍依馨",
+      "width": 720,
+      "height": 728,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/006Ro4Bqly1i7127h7ei8j30k80k0t9p.jpg"
+      ],
+      "user": "妍依馨"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/006lZSEqly1i71293hu9tj31400u00u7.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/006lZSEqly1i71293hu9tj31400u00u7.jpg",
+      "alt": "游戏林妹妹",
+      "width": 1080,
+      "height": 1440,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/006lZSEqly1i71293hu9tj31400u00u7.jpg"
+      ],
+      "user": "游戏林妹妹"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/006lYHyHly1i712jlhle7j30u01hcdhq.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/006lYHyHly1i712jlhle7j30u01hcdhq.jpg",
+      "alt": "竞圈萧玄",
+      "width": 1920,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/006lYHyHly1i712jlhle7j30u01hcdhq.jpg"
+      ],
+      "user": "竞圈萧玄"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/006lWwYJly1i712n1m32yj30k00k0q3j.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/006lWwYJly1i712n1m32yj30k00k0q3j.jpg",
+      "alt": "电竞刺头哥",
+      "width": 720,
+      "height": 720,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/006lWwYJly1i712n1m32yj30k00k0q3j.jpg"
+      ],
+      "user": "电竞刺头哥"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/006lYF5Zly1i712ivvd8gj30qo0k0jst.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/006lYF5Zly1i712ivvd8gj30qo0k0jst.jpg",
+      "alt": "游戏意难平",
+      "width": 720,
+      "height": 960,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/006lYF5Zly1i712ivvd8gj30qo0k0jst.jpg"
+      ],
+      "user": "游戏意难平"
+    }
+  ],
+  "html_path": "data/aicard/hourly/2025-11-05/09/keria.html"
+}

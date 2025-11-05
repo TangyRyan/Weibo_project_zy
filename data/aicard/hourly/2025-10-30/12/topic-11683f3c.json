@@ -1,0 +1,348 @@
+{
+  "meta": {
+    "query": "#杨瀚森勾手得分#",
+    "status_code": 200,
+    "fetched_at": "2025-10-31T22:41:44+08:00",
+    "response": {
+      "zs_risk_control": {
+        "think_text_close": 0,
+        "land_button_close": 0
+      },
+      "msg_format": "markdown",
+      "link_list": [
+        "sinaweibo://detail?mblogid=5227381306427177",
+        "sinaweibo://detail?mblogid=5227379213730572",
+        "sinaweibo://detail?mblogid=5227378936908584",
+        "sinaweibo://detail?mblogid=5227391213111214",
+        "sinaweibo://detail?mblogid=5225028478304284",
+        "sinaweibo://detail?mblogid=5227419772387758",
+        "sinaweibo://detail?mblogid=5227389132210479",
+        "historyweibo://5227413598374828",
+        "historyweibo://5227381306427177",
+        "historyweibo://5227423803115041",
+        "sinaweibo://detail?mblogid=5227415448325430",
+        "sinaweibo://detail?mblogid=5227381368816308",
+        "sinaweibo://detail?mblogid=5227379355289267",
+        "sinaweibo://detail?mblogid=5227411701760850",
+        "sinaweibo://detail?mblogid=5227416436085289",
+        "sinaweibo://detail?mblogid=5227392693437719",
+        "sinaweibo://detail?mblogid=5227417779572801",
+        "sinaweibo://detail?mblogid=5227385755534135",
+        "sinaweibo://detail?mblogid=5227408653288526",
+        "sinaweibo://detail?mblogid=5227389882992886",
+        "sinaweibo://detail?mblogid=5227389450715846",
+        "sinaweibo://detail?mblogid=5227463824900335",
+        "sinaweibo://detail?mblogid=5227424570149611",
+        "sinaweibo://detail?mblogid=5227759091057413",
+        "sinaweibo://detail?mblogid=5227424470276115",
+        "sinaweibo://detail?mblogid=5227424033019360",
+        "sinaweibo://detail?mblogid=5227384765941581",
+        "sinaweibo://detail?mblogid=5227397825692139",
+        "sinaweibo://detail?mblogid=5227408476605525",
+        "sinaweibo://detail?mblogid=5227382747432195",
+        "sinaweibo://detail?mblogid=5227453942860146",
+        "sinaweibo://detail?mblogid=5227428034904282",
+        "sinaweibo://detail?mblogid=5222422462858266",
+        "https://m.toutiao.com/a7565845423852683786/",
+        "https://www.sohu.com/a/944732372_122241877"
+      ],
+      "status": 2,
+      "short_url": "http://t.cn/AXAyaZUZ",
+      "qs_status_info": "{\"ab_lab\":{},\"qs_q_status\":0,\"qs_c_status\":8388608,\"qs_r_status\":0,\"qs_u_status\":0,\"qs_status\":0}",
+      "loop_times": 200,
+      "status_stage": 4,
+      "page_id": "2329647543cd6d82b73cb203124ec8fa7a2d2e",
+      "unify_md5": "11683f3c9937420ab3ca932e00b62d41",
+      "model": "deepseek",
+      "cot": 1,
+      "analysis_time": 1761888647,
+      "uid": "",
+      "q_attr": {
+        "reply_cid": "",
+        "comment_from_type": "",
+        "from_uid": "",
+        "from_request_id": "",
+        "mid": ""
+      },
+      "qs_status": 0,
+      "ext_show": {},
+      "top_quote_list": {},
+      "version": "2025-10-31 13:29:39.007999-8627",
+      "card_multimodal": {
+        "type": "mediablock",
+        "data": [
+          {
+            "user_name": "虎扑篮球",
+            "w": 1074,
+            "hit_score_final": 64.087112,
+            "video_url": "",
+            "scheme": "sinaweibo://multimedia?mix_mid=5227419772387758&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=0",
+            "hit_score_new": 65.478516,
+            "doc_score": 3197,
+            "type": "p",
+            "user_avatar": "https://tvax1.sinaimg.cn/crop.0.0.768.768.50/001N8TbXly8i0vjozk7qqj60lc0lcaak02.jpg?KID=imgbed,tva&Expires=1761899379&ssig=2lqvY3XlR%2B",
+            "h": 3102,
+            "click_rate": 0.13665218843969,
+            "img": "http://wx4.sinaimg.cn/middle/001N8TbXgy1i6u9zar9mgj60tu2e6na702.jpg",
+            "vtype": 3,
+            "cur_mid": "5227419772387758",
+            "img_pid": "001N8TbXgy1i6u9zar9mgj60tu2e6na702"
+          },
+          {
+            "user_name": "咪咕篮球",
+            "w": 1920,
+            "hit_score_final": 0,
+            "video_url": "https://video.weibo.com/show?fid=1034:5227378822021178",
+            "scheme": "sinaweibo://video/vvs?mid=5227378936908584&multi_paragraph=1&multi_count=1",
+            "hit_score_new": 0,
+            "doc_score": 0,
+            "type": "v",
+            "user_avatar": "https://tvax2.sinaimg.cn/crop.0.0.179.179.50/006WIDKBly8h8vhbzsq26j304z04z3yd.jpg?KID=imgbed,tva&Expires=1761899379&ssig=DExf%2FLE%2FVQ",
+            "h": 1080,
+            "click_rate": 0,
+            "img": "http://wx3.sinaimg.cn/middle/006WIDKBly1i6u5aemyqoj31hc0u0go6.jpg",
+            "vtype": 3,
+            "cur_mid": "5227378936908584",
+            "img_pid": "006WIDKBly1i6u5aemyqoj31hc0u0go6"
+          },
+          {
+            "user_name": "央视体育",
+            "w": 720,
+            "hit_score_final": 89.365547,
+            "video_url": "https://video.weibo.com/show?fid=1034:5227415862181932",
+            "scheme": "sinaweibo://video/vvs?mid=5227416436085289&multi_paragraph=1&multi_count=2",
+            "hit_score_new": 96.142578,
+            "doc_score": 3829,
+            "type": "v",
+            "user_avatar": "https://tvax1.sinaimg.cn/crop.0.0.600.600.50/b2664ecdly8gdi6oss5r8j20go0gomxb.jpg?KID=imgbed,tva&Expires=1761899379&ssig=Z%2F1KVQIp4Y",
+            "h": 1136,
+            "click_rate": 0,
+            "img": "http://wx2.sinaimg.cn/middle/003gywQBly1i6u9lc2kxcj60k00vk0tw02.jpg",
+            "vtype": 3,
+            "cur_mid": "5227416436085289",
+            "img_pid": "003gywQBly1i6u9lc2kxcj60k00vk0tw02"
+          },
+          {
+            "user_name": "虎扑篮球",
+            "w": 1074,
+            "hit_score_final": 64.087112,
+            "video_url": "",
+            "scheme": "sinaweibo://multimedia?mix_mid=5227419772387758&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=0",
+            "hit_score_new": 65.478516,
+            "doc_score": 3197,
+            "type": "p",
+            "user_avatar": "https://tvax1.sinaimg.cn/crop.0.0.768.768.50/001N8TbXly8i0vjozk7qqj60lc0lcaak02.jpg?KID=imgbed,tva&Expires=1761899379&ssig=2lqvY3XlR%2B",
+            "h": 3102,
+            "click_rate": 0.13665218843969,
+            "img": "http://wx4.sinaimg.cn/middle/001N8TbXgy1i6u9zar9mgj60tu2e6na702.jpg",
+            "vtype": 3,
+            "cur_mid": "5227419772387758",
+            "img_pid": "001N8TbXgy1i6u9zar9mgj60tu2e6na702"
+          }
+        ]
+      },
+      "share_text": "#杨瀚森勾手得分#的相关内容，来智搜看看",
+      "wenda": {
+        "forward_gen": 0
+      },
+      "comment_info": {},
+      "chat_status_stage": 1,
+      "news_analyze": {},
+      "reliable_tips": "{\"gold_orange_v_mids\": [\"5227381368816308\", \"5227392693437719\", \"5227415448325430\", \"5227453942860146\", \"5225028478304284\", \"5227382747432195\", \"5227417779572801\", \"5227424470276115\", \"5227389132210479\", \"5227424570149611\", \"5227424033019360\", \"5227408653288526\", \"5227759091057413\", \"5227389450715846\", \"5227379213730572\", \"5227391213111214\", \"5227411701760850\", \"5227389882992886\", \"5227397825692139\", \"5227408476605525\", \"5227428034904282\", \"5222422462858266\"], \"gold_orange_v_ratio\": \"73%\", \"media_mids\": [\"5227416436085289\"], \"media_ratio\": \"4%\", \"verified_mids\": [\"5227381306427177\", \"5227378936908584\", \"5227379355289267\", \"5227419772387758\", \"5227384765941581\", \"5227463824900335\"], \"verified_ratio\": \"20%\", \"normal_mids\": [\"5227385755534135\"], \"normal_ratio\": \"3%\", \"ref_mid_rank\": {\"5227381306427177\": {\"rank\": 1}, \"5227378936908584\": {\"rank\": 3}, \"5227379355289267\": {\"rank\": 13}, \"5227416436085289\": {\"rank\": 15}, \"5227381368816308\": {\"rank\": 12}, \"5227392693437719\": {\"rank\": 16}, \"5227419772387758\": {\"rank\": 6}, \"5227384765941581\": {\"rank\": 27}, \"5227415448325430\": {\"rank\": 11}, \"5227453942860146\": {\"rank\": 31}, \"5225028478304284\": {\"rank\": 5}, \"5227382747432195\": {\"rank\": 30}, \"5227417779572801\": {\"rank\": 17}, \"5227424470276115\": {\"rank\": 25}, \"5227385755534135\": {\"rank\": 18}, \"5227389132210479\": {\"rank\": 7}, \"5227424570149611\": {\"rank\": 23}, \"5227424033019360\": {\"rank\": 26}, \"5227408653288526\": {\"rank\": 19}, \"5227759091057413\": {\"rank\": 24}, \"5227389450715846\": {\"rank\": 21}, \"5227379213730572\": {\"rank\": 2}, \"5227391213111214\": {\"rank\": 4}, \"5227411701760850\": {\"rank\": 14}, \"5227389882992886\": {\"rank\": 20}, \"5227463824900335\": {\"rank\": 22}, \"5227397825692139\": {\"rank\": 28}, \"5227408476605525\": {\"rank\": 29}, \"5227428034904282\": {\"rank\": 32}, \"5222422462858266\": {\"rank\": 33}}}",
+      "user_info": {},
+      "ab_suffix": "default",
+      "show_ctrl": {
+        "quote": {}
+      },
+      "mid_list": null,
+      "msg_json": "{}",
+      "share_info": {
+        "tips": "#杨瀚森勾手得分#的相关内容，来智搜看看",
+        "display_name": "#杨瀚森勾手得分#",
+        "url": "http://t.cn/AXAyoqkG",
+        "comment_content": "",
+        "status": 3,
+        "page_id": "2329647543cd6d82b73cb203124ec8fa7a2d2e",
+        "unify_md5": "11683f3c9937420ab3ca932e00b62d41"
+      },
+      "query_category": "Ip",
+      "scheme": "sinaweibo://cardlist?containerid=100103type%3D225%26q%3D%23%E6%9D%A8%E7%80%9A%E6%A3%AE%E5%8B%BE%E6%89%8B%E5%BE%97%E5%88%86%23%26t%3D&extparam=ai_model%3Ddeepseek%26ori_ai_title%3D%E5%8F%82%E8%80%83%E5%8D%9A%E6%96%87%26material_version%3D1761888579",
+      "msg": "<think><br>嗯，我收到了用户关于\"杨瀚森勾手得分\"的查询请求，现在需要分析搜索结果并组织回答。首先查看这些搜索结果，发现信息集中在2025年10月30日开拓者对阵爵士的比赛中，杨瀚森在首节替补登场3分47秒，利用勾手得分的技术特点完成了一次得分。<br><br>在这些搜索结果中，勾手得分的具体细节很清晰：面对爵士防守悍将凯斯勒（2023年盖帽榜前四球员）的贴身防守，杨瀚森接队友卡马拉传球，用右手完成勾手投篮。这个进球被多个权威账号如开拓者官方、央视体育等称赞为\"强硬对抗\"的表现。特别注意到这是杨瀚森NBA生涯首个非垃圾时间的运动战进球，具有里程碑意义。<br><br>关于技术价值分析，资料类结果提供了专业视角：身高2.18米的杨瀚森正是利用臂展优势（2.30米）结合柔和手感，规避了凯斯勒的封盖威胁。这种技术其实在CBA时期就已成熟，比如2023-24赛季对阵宁波单场17分15篮板时就多次使用。但NBA级别的对抗也暴露其核心力量不足的问题，进球时身体明显倾斜。<br><br>球员现状和舆论评价部分存在多角度信息：<br>- 球队定位上，开拓者内线竞争激烈，顺位是克林根（首发）> 里斯 > 杨瀚森 > 罗威（伤愈）。当场比赛里斯12分钟得9分，三分球3中3，挤压了杨瀚森的时间。<br>- 专业评价呈现两极：虎扑球迷评分5.7认为\"经验不足但进步可见\"，而巩晓彬等名宿指出其\"性格佛系需提升好胜心\"。<br>- 争议点在于：得2分上热搜引发\"捧杀\"担忧，还有对其私生活的议论（带女友聚餐、饮食问题）。<br><br>未来发展建议方面，结合教练组策略和球员短板，防守端急需提升挡拆换防能力（首节因移动慢被针对导致-4正负值），进攻端需开发三分威胁（赛前训练显示已在加强）。球队助教斯普利特的\"小步快跑\"培养模式要求杨瀚森\"每次触球都要证明价值\"。<br><br>考虑到回答的可读性，准备将信息结构化呈现：比赛场景还原作为\"钩子\"吸引注意，技术价值部分用专业数据支撑，现状争议部分保持客观平衡，未来展望强调可行路径。引用上确保每个信息点都有搜索结果依据，特别关注时效性强（10月30日）和信源可靠的结果（官方账号、专业资料）。对于争议性内容如私生活议论，会谨慎表述并提示多方观点。<br><br></think><br>### 🏀 **杨瀚森勾手得分：关键细节与多维解读**  <br>以下综合比赛实况、技术价值、舆论反响及球员发展前景，分四部分解析：<br>#### **一、勾手得分场景与技术价值**  <br>1. **关键进球还原**  <br>   - **时间与对手**：2025年10月30日开拓者对阵爵士的首节比赛（剩余6分06秒），杨瀚森替补登场，接队友卡马拉传球后直面爵士中锋凯斯勒（上赛季盖帽榜前四球员），通过身体对抗完成**右手勾手命中**，拿下本场唯一运动战得分。```wbCustomBlock{\"type\": \"quoted\", \"index\": 6, \"data\": {\"num\": [1, 3, 13, 15], \"version\": 2, \"quote_list\": [{\"name\": \"央视体育\", \"scheme\": \"sinaweibo://detail?mblogid=5227416436085289\", \"index\": 15, \"label\": \"大v\"}, {\"name\": \"波特兰开拓者\", \"scheme\": \"sinaweibo://detail?mblogid=5227381306427177\", \"index\": 1, \"label\": \"\"}, {\"name\": \"咪咕篮球\", \"scheme\": \"sinaweibo://detail?mblogid=5227378936908584\", \"index\": 3, \"label\": \"\"}, {\"name\": \"波特兰开拓者\", \"scheme\": \"sinaweibo://detail?mblogid=5227379355289267\", \"index\": 13, \"label\": \"\"}], \"name\": \"央视体育\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.600.600.50/b2664ecdly8gdi6oss5r8j20go0gomxb.jpg?KID=imgbed,tva&Expires=1761899379&ssig=Z%2F1KVQIp4Y\", \"scheme\": \"sinaweibo://detail?mblogid=5227416436085289\", \"vType\": 3}}```  <br>   - **技术亮点**：面对身高2.11米的护筐型内线凯斯勒，杨瀚森利用身高优势（2.18米）和柔和手感，以勾手规避封盖风险，展现低位终结技巧的成熟度。凯斯勒赛后坦言“低估了他的对抗技巧”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 7, \"data\": {\"num\": [12, 16], \"version\": 2, \"quote_list\": [{\"name\": \"篮球热点\", \"scheme\": \"sinaweibo://detail?mblogid=5227381368816308\", \"index\": 12, \"label\": \"大v\"}, {\"name\": \"团团爱看足球\", \"scheme\": \"sinaweibo://detail?mblogid=5227392693437719\", \"index\": 16, \"label\": \"\"}], \"name\": \"篮球热点\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/819cc17dly8h8njvcv84aj20u00u0dgu.jpg?KID=imgbed,tva&Expires=1761899379&ssig=fm4SEjUTgX\", \"scheme\": \"sinaweibo://detail?mblogid=5227381368816308\", \"vType\": 0}}```<br><br>2. **里程碑意义**  <br>   - 此球为杨瀚森NBA生涯**首个非垃圾时间的常规赛运动战进球**（此前对勇士的扣篮发生于末节垃圾时间），标志其逐步适应高强度对抗节奏。```wbCustomBlock{\"type\": \"quoted\", \"index\": 9, \"data\": {\"num\": [6, 27], \"version\": 2, \"quote_list\": [{\"name\": \"虎扑篮球\", \"scheme\": \"sinaweibo://detail?mblogid=5227419772387758\", \"index\": 6, \"label\": \"大v\"}, {\"name\": \"新浪体育\", \"scheme\": \"sinaweibo://detail?mblogid=5227384765941581\", \"index\": 27, \"label\": \"\"}], \"name\": \"虎扑篮球\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.768.768.50/001N8TbXly8i0vjozk7qqj60lc0lcaak02.jpg?KID=imgbed,tva&Expires=1761899379&ssig=2lqvY3XlR%2B\", \"scheme\": \"sinaweibo://detail?mblogid=5227419772387758\", \"vType\": 3}}```  <br>   - 延续个人纪录：开季连续4场常规赛均有得分进账，场均出场不足7分钟仍保持进攻效率。```wbCustomBlock{\"type\": \"quoted\", \"index\": 10, \"data\": {\"num\": [11, 31], \"version\": 2, \"quote_list\": [{\"name\": \"导演我躺哪_basketball\", \"scheme\": \"sinaweibo://detail?mblogid=5227415448325430\", \"index\": 11, \"label\": \"大v\"}, {\"name\": \"爱读书的糕糕手\", \"scheme\": \"sinaweibo://detail?mblogid=5227453942860146\", \"index\": 31, \"label\": \"\"}], \"name\": \"导演我躺哪_basketball\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/658cfe41ly8i560pvesitj20u00u03zl.jpg?KID=imgbed,tva&Expires=1761899379&ssig=LBDg8F2Rem\", \"scheme\": \"sinaweibo://detail?mblogid=5227415448325430\", \"vType\": 0}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5227419772387758&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.768.768.50/001N8TbXly8i0vjozk7qqj60lc0lcaak02.jpg?KID=imgbed,tva&Expires=1761899379&ssig=2lqvY3XlR%2B) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">虎扑篮球</span><img src=\"http://wx4.sinaimg.cn/middle/001N8TbXgy1i6u9zar9mgj60tu2e6na702.jpg\" data-width=3102 data-height=1074></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5227378936908584&multi_paragraph=1&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.179.179.50/006WIDKBly8h8vhbzsq26j304z04z3yd.jpg?KID=imgbed,tva&Expires=1761899379&ssig=DExf%2FLE%2FVQ) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">咪咕篮球</span><img src=\"http://wx3.sinaimg.cn/middle/006WIDKBly1i6u5aemyqoj31hc0u0go6.jpg\" data-width=1080 data-height=1920></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5227416436085289&multi_paragraph=1&multi_count=2\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.600.600.50/b2664ecdly8gdi6oss5r8j20go0gomxb.jpg?KID=imgbed,tva&Expires=1761899379&ssig=Z%2F1KVQIp4Y) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">央视体育</span><img src=\"http://wx2.sinaimg.cn/middle/003gywQBly1i6u9lc2kxcj60k00vk0tw02.jpg\" data-width=1136 data-height=720></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5227381306427177&multi_paragraph=1&multi_count=3\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.400.400.50/e286c40bly8i6pphbprt1j20b40b4t94.jpg?KID=imgbed,tva&Expires=1761899379&ssig=pkAi3GWR64) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">波特兰开拓者</span><img src=\"http://wx4.sinaimg.cn/middle/0023uzJ9ly1i6u5dusk68j618g0p04m602.jpg\" data-width=900 data-height=1600></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5227381368816308&multi_paragraph=1&multi_count=4\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/819cc17dly8h8njvcv84aj20u00u0dgu.jpg?KID=imgbed,tva&Expires=1761899379&ssig=fm4SEjUTgX) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">篮球热点</span><img src=\"http://wx2.sinaimg.cn/middle/819cc17dly1i6u5kccua9j20u00gwdlt.jpg\" data-width=608 data-height=1080></div></media-block><br>#### **二、技术传承与当前短板**  <br>1. **技术沿革与适配性**  <br>   - **勾手技能渊源**：早在CBA时期（2023-24赛季），杨瀚森已频繁使用勾手得分（如对阵宁波单场17分15篮板）。NBA环境下，此技术成为其规避后卫切球、发挥身高优势的核心手段。  <br>   - **对比前辈**：舆论将其勾手动作与姚明类比，视为中国内线技术传承的体现。```wbCustomBlock{\"type\": \"quoted\", \"index\": 15, \"data\": {\"num\": [5], \"version\": 2, \"quote_list\": [{\"name\": \"楚人头帝\", \"scheme\": \"sinaweibo://detail?mblogid=5225028478304284\", \"index\": 5, \"label\": \"\"}]}}```<br><br>2. **亟需突破的短板**  <br>   - **对抗稳定性**：本次进球时身体明显倾斜，暴露核心力量不足（凯斯勒对抗后仍能保持平衡）。  <br>   - **防守适配性**：首节因防挡拆移动慢被对手针对（多次被爵士后卫中投得分），导致正负值-4，随后因传球失误被换下。```wbCustomBlock{\"type\": \"quoted\", \"index\": 18, \"data\": {\"num\": [6, 30], \"version\": 2, \"quote_list\": [{\"name\": \"爱国足的大学魏老师\", \"scheme\": \"sinaweibo://detail?mblogid=5227382747432195\", \"index\": 30, \"label\": \"大v\"}, {\"name\": \"虎扑篮球\", \"scheme\": \"sinaweibo://detail?mblogid=5227419772387758\", \"index\": 6, \"label\": \"\"}], \"name\": \"爱国足的大学魏老师\", \"img\": \"https://tvax3.sinaimg.cn/crop.170.0.683.683.50/0080jqGhly1g90zxthvz5j30sg0iz45h.jpg?KID=imgbed,tva&Expires=1761899379&ssig=TN1L8VmyAx\", \"scheme\": \"sinaweibo://detail?mblogid=5227382747432195\", \"vType\": 0}}```  <br>   - **轮换危机**：同场替补内线里斯12分钟内命中3记三分得9分，更适配开拓者小个阵容，挤压杨瀚森出场时间。```wbCustomBlock{\"type\": \"quoted\", \"index\": 19, \"data\": {\"num\": [17, 25], \"version\": 2, \"quote_list\": [{\"name\": \"体域\", \"scheme\": \"sinaweibo://detail?mblogid=5227424470276115\", \"index\": 25, \"label\": \"大v\"}, {\"name\": \"篮球实战指南\", \"scheme\": \"sinaweibo://detail?mblogid=5227417779572801\", \"index\": 17, \"label\": \"\"}], \"name\": \"体域\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.607.607.50/008s2FnTgy1i10cmh8wkij30gv0gvq4g.jpg?KID=imgbed,tva&Expires=1761899379&ssig=NDORB3kLBY\", \"scheme\": \"sinaweibo://detail?mblogid=5227424470276115\", \"vType\": 0}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5225028478304284&multi_paragraph=2&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/008vwmz2ly8i1l3g8gaz5j30u00u0tas.jpg?KID=imgbed,tva&Expires=1761899379&ssig=5IRnACVu60) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">楚人头帝</span><img src=\"http://wx1.sinaimg.cn/middle/008vwmz2ly1i6mnc45739j30qo0k0766.jpg\" data-width=720 data-height=960></div><div data-type=\"v\" data-scheme=\"sinaweibo://multimedia?mix_mid=5227417779572801&mix_index=0&multi_paragraph=2&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/6dccc53dly8i69xrkzke2j20u00u03yr.jpg?KID=imgbed,tva&Expires=1761899379&ssig=YxNQugo0yF) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">篮球实战指南</span><img src=\"http://wx3.sinaimg.cn/middle/6dccc53dly1i6u9lnz45dj20k00tmdgx.jpg\" data-width=1066 data-height=720></div></media-block><br>#### **三、舆论反响与争议焦点**  <br>1. **正面肯定**  <br>   - **球队官方背书**：开拓者账号两度发文称赞“默契配合，对抗强硬打进”，咪咕篮球、央视体育等聚焦技术细节，肯定其终结能力。```wbCustomBlock{\"type\": \"quoted\", \"index\": 23, \"data\": {\"num\": [1, 3, 13, 15], \"version\": 2, \"quote_list\": [{\"name\": \"咪咕篮球\", \"scheme\": \"sinaweibo://detail?mblogid=5227378936908584\", \"index\": 3, \"label\": \"大v\"}, {\"name\": \"波特兰开拓者\", \"scheme\": \"sinaweibo://detail?mblogid=5227381306427177\", \"index\": 1, \"label\": \"\"}, {\"name\": \"波特兰开拓者\", \"scheme\": \"sinaweibo://detail?mblogid=5227379355289267\", \"index\": 13, \"label\": \"\"}, {\"name\": \"央视体育\", \"scheme\": \"sinaweibo://detail?mblogid=5227416436085289\", \"index\": 15, \"label\": \"\"}], \"name\": \"咪咕篮球\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.179.179.50/006WIDKBly8h8vhbzsq26j304z04z3yd.jpg?KID=imgbed,tva&Expires=1761899379&ssig=DExf%2FLE%2FVQ\", \"scheme\": \"sinaweibo://detail?mblogid=5227378936908584\", \"vType\": 3}}```  <br>   - **媒体视角**：资深记者Sean Highkin强调此球为“非垃圾时间进球的突破”，虎扑球迷评分5.7分中肯定其“挡拆意识和篮板积极性进步”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 24, \"data\": {\"num\": [6, 27], \"version\": 2, \"quote_list\": [{\"name\": \"虎扑篮球\", \"scheme\": \"sinaweibo://detail?mblogid=5227419772387758\", \"index\": 6, \"label\": \"\"}, {\"name\": \"新浪体育\", \"scheme\": \"sinaweibo://detail?mblogid=5227384765941581\", \"index\": 27, \"label\": \"\"}]}}```<br><br>2. **争议与反思**  <br>   - **过度吹捧质疑**：部分球迷认为“得2分上热搜”反映舆论环境浮躁，易导致捧杀风险。```wbCustomBlock{\"type\": \"quoted\", \"index\": 26, \"data\": {\"num\": [18, 25], \"version\": 2, \"quote_list\": [{\"name\": \"半醉看夕阳1816\", \"scheme\": \"sinaweibo://detail?mblogid=5227385755534135\", \"index\": 18, \"label\": \"\"}, {\"name\": \"体域\", \"scheme\": \"sinaweibo://detail?mblogid=5227424470276115\", \"index\": 25, \"label\": \"\"}]}}```  <br>   - **私生活争议**：网友质疑其“频繁聚餐影响训练态度”“带女友随行分散精力”，前男篮名宿巩晓彬指出其“性格佛系，需强化好胜心”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 27, \"data\": {\"num\": [7, 23, 25, 26], \"version\": 2, \"quote_list\": [{\"name\": \"韦德不打球\", \"scheme\": \"sinaweibo://detail?mblogid=5227424570149611\", \"index\": 23, \"label\": \"大v\"}, {\"name\": \"水花之声\", \"scheme\": \"sinaweibo://detail?mblogid=5227389132210479\", \"index\": 7, \"label\": \"\"}, {\"name\": \"体域\", \"scheme\": \"sinaweibo://detail?mblogid=5227424470276115\", \"index\": 25, \"label\": \"\"}, {\"name\": \"篮球实战指南\", \"scheme\": \"sinaweibo://detail?mblogid=5227424033019360\", \"index\": 26, \"label\": \"\"}], \"name\": \"韦德不打球\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.600.600.50/005Vew9yly8h9814q5vcfj30go0go40x.jpg?KID=imgbed,tva&Expires=1761899379&ssig=iFt%2BDkwGqa\", \"scheme\": \"sinaweibo://detail?mblogid=5227424570149611\", \"vType\": 0}}```  <br>   - **发展路径争论**：舆论分化为两派——建议下放发展联盟磨练 vs. 认为替补出场价值高于低级别联赛。```wbCustomBlock{\"type\": \"quoted\", \"index\": 28, \"data\": {\"num\": [17, 19, 24], \"version\": 2, \"quote_list\": [{\"name\": \"篮球实战指南\", \"scheme\": \"sinaweibo://detail?mblogid=5227417779572801\", \"index\": 17, \"label\": \"大v\"}, {\"name\": \"游历丁丁\", \"scheme\": \"sinaweibo://detail?mblogid=5227408653288526\", \"index\": 19, \"label\": \"\"}, {\"name\": \"生姜头Paul\", \"scheme\": \"sinaweibo://detail?mblogid=5227759091057413\", \"index\": 24, \"label\": \"\"}], \"name\": \"篮球实战指南\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/6dccc53dly8i69xrkzke2j20u00u03yr.jpg?KID=imgbed,tva&Expires=1761899379&ssig=YxNQugo0yF\", \"scheme\": \"sinaweibo://detail?mblogid=5227417779572801\", \"vType\": 0}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5227389132210479&multi_paragraph=3&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.512.512.50/ae1e8d93ly8i2sodpxk3ij20e80e8aax.jpg?KID=imgbed,tva&Expires=1761899379&ssig=u1hbDzP81P) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">水花之声</span><img src=\"http://wx2.sinaimg.cn/middle/ae1e8d93gy1i6u6f25rxaj21hc0u040w.jpg\" data-width=1080 data-height=1920></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5227408653288526&multi_paragraph=3&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/e92ae12aly8hcb36xim6lj20u00u0dnm.jpg?KID=imgbed,tva&Expires=1761899379&ssig=CP1fZpIezv) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">游历丁丁</span><img src=\"http://wx2.sinaimg.cn/middle/e92ae12aly1i6u8p0ieu9j20u01hc760.jpg\" data-width=1920 data-height=1080></div></media-block><br>#### **四、未来挑战与发展建议**  <br>1. **竞争压力分析**  <br>   - 开拓者内线顺位：克林根（首发）> 里斯（空间型内线）> 杨瀚森 > 罗威（伤愈）。```wbCustomBlock{\"type\": \"quoted\", \"index\": 32, \"data\": {\"num\": [17, 25], \"version\": 2, \"quote_list\": [{\"name\": \"篮球实战指南\", \"scheme\": \"sinaweibo://detail?mblogid=5227417779572801\", \"index\": 17, \"label\": \"\"}, {\"name\": \"体域\", \"scheme\": \"sinaweibo://detail?mblogid=5227424470276115\", \"index\": 25, \"label\": \"\"}]}}```  <br>   - 里斯三分命中率更适配现代篮球，杨瀚森需提升远投能力（季前赛三分命中率40%）以争夺轮换席位。```wbCustomBlock{\"type\": \"quoted\", \"index\": 33, \"data\": {\"num\": [21], \"version\": 2, \"quote_list\": [{\"name\": \"小杨的球迷大本营\", \"scheme\": \"sinaweibo://detail?mblogid=5227389450715846\", \"index\": 21, \"label\": \"\"}]}}```<br><br>2. **突破方向**  <br>   - **短期目标**：  <br>     - 优化防挡拆站位，减少无谓犯规（体脂率需降至12%以下）。```wbCustomBlock{\"type\": \"quoted\", \"index\": 36, \"data\": {\"num\": [30], \"version\": 2, \"quote_list\": [{\"name\": \"爱国足的大学魏老师\", \"scheme\": \"sinaweibo://detail?mblogid=5227382747432195\", \"index\": 30, \"label\": \"\"}]}}```  <br>     - 延续勾手终结稳定性，开发三分威胁（赛前训练已加强远投）。```wbCustomBlock{\"type\": \"quoted\", \"index\": 37, \"data\": {\"num\": [21], \"version\": 2, \"quote_list\": [{\"name\": \"小杨的球迷大本营\", \"scheme\": \"sinaweibo://detail?mblogid=5227389450715846\", \"index\": 21, \"label\": \"\"}]}}```  <br>   - **长期策略**：  <br>     - 借鉴姚明新秀期增肌经验，提升核心力量对抗NBA级内线。```wbCustomBlock{\"type\": \"quoted\", \"index\": 39, \"data\": {\"num\": [5], \"version\": 2, \"quote_list\": [{\"name\": \"楚人头帝\", \"scheme\": \"sinaweibo://detail?mblogid=5225028478304284\", \"index\": 5, \"label\": \"\"}]}}```  <br>     - 适应助教斯普利特“小步快跑”培养模式，以高效终结争取信任（如本场100%命中率）。```wbCustomBlock{\"type\": \"quoted\", \"index\": 40, \"data\": {\"num\": [25], \"version\": 2, \"quote_list\": [{\"name\": \"体域\", \"scheme\": \"sinaweibo://detail?mblogid=5227424470276115\", \"index\": 25, \"label\": \"\"}]}}```<br>### 💎 **总结：一步一印的成长逻辑**  <br>杨瀚森的勾手得分虽仅2分，却是技术适配NBA的具象化体现——从“垃圾时间扣篮”到“常规时段勾手”，证明其具备高强度对抗下的终结能力。然而，防守短板、轮换危机及舆论压力构成三重挑战。若能在有限时间内延续高效输出，并针对性补强挡拆防守与远投稳定性，有望在11月赛程中争取稳定轮换席位。年轻中锋的成长需时间与耐心，正如球迷所言：“没有谁的23分是轻松的，但总有人愿为下一个23分拼尽全力。”<br>",
+      "basemodel": "实验组10",
+      "query_field": "20",
+      "reference_num": 30,
+      "sorted_material_list": null,
+      "share_card_multimodal": {
+        "user_name": "虎扑篮球",
+        "w": 1074,
+        "hit_score_final": 64.087112,
+        "video_url": "",
+        "scheme": "sinaweibo://multimedia?mix_mid=5227419772387758&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=0",
+        "hit_score_new": 65.478516,
+        "doc_score": 3197,
+        "type": "p",
+        "user_avatar": "https://tvax1.sinaimg.cn/crop.0.0.768.768.50/001N8TbXly8i0vjozk7qqj60lc0lcaak02.jpg?KID=imgbed,tva&Expires=1761899379&ssig=2lqvY3XlR%2B",
+        "h": 3102,
+        "click_rate": 0.13665218843969,
+        "img": "http://wx4.sinaimg.cn/middle/001N8TbXgy1i6u9zar9mgj60tu2e6na702.jpg",
+        "vtype": 3,
+        "cur_mid": "5227419772387758",
+        "img_pid": "001N8TbXgy1i6u9zar9mgj60tu2e6na702"
+      },
+      "query": "#杨瀚森勾手得分#",
+      "current_time": 1761921703,
+      "profile_image_url": "",
+      "abtest_info": {
+        "chat_entrance": 1
+      }
+    }
+  },
+  "links": [
+    "sinaweibo://detail?mblogid=5227381306427177",
+    "sinaweibo://detail?mblogid=5227379213730572",
+    "sinaweibo://detail?mblogid=5227378936908584",
+    "sinaweibo://detail?mblogid=5227391213111214",
+    "sinaweibo://detail?mblogid=5225028478304284",
+    "sinaweibo://detail?mblogid=5227419772387758",
+    "sinaweibo://detail?mblogid=5227389132210479",
+    "historyweibo://5227413598374828",
+    "historyweibo://5227381306427177",
+    "historyweibo://5227423803115041",
+    "sinaweibo://detail?mblogid=5227415448325430",
+    "sinaweibo://detail?mblogid=5227381368816308",
+    "sinaweibo://detail?mblogid=5227379355289267",
+    "sinaweibo://detail?mblogid=5227411701760850",
+    "sinaweibo://detail?mblogid=5227416436085289",
+    "sinaweibo://detail?mblogid=5227392693437719",
+    "sinaweibo://detail?mblogid=5227417779572801",
+    "sinaweibo://detail?mblogid=5227385755534135",
+    "sinaweibo://detail?mblogid=5227408653288526",
+    "sinaweibo://detail?mblogid=5227389882992886",
+    "sinaweibo://detail?mblogid=5227389450715846",
+    "sinaweibo://detail?mblogid=5227463824900335",
+    "sinaweibo://detail?mblogid=5227424570149611",
+    "sinaweibo://detail?mblogid=5227759091057413",
+    "sinaweibo://detail?mblogid=5227424470276115",
+    "sinaweibo://detail?mblogid=5227424033019360",
+    "sinaweibo://detail?mblogid=5227384765941581",
+    "sinaweibo://detail?mblogid=5227397825692139",
+    "sinaweibo://detail?mblogid=5227408476605525",
+    "sinaweibo://detail?mblogid=5227382747432195",
+    "sinaweibo://detail?mblogid=5227453942860146",
+    "sinaweibo://detail?mblogid=5227428034904282",
+    "sinaweibo://detail?mblogid=5222422462858266",
+    "https://m.toutiao.com/a7565845423852683786/",
+    "https://www.sohu.com/a/944732372_122241877"
+  ],
+  "media": [
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/001N8TbXgy1i6u9zar9mgj60tu2e6na702.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/001N8TbXgy1i6u9zar9mgj60tu2e6na702.jpg",
+      "alt": "虎扑篮球",
+      "width": 3102,
+      "height": 1074,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/001N8TbXgy1i6u9zar9mgj60tu2e6na702.jpg"
+      ],
+      "user": "虎扑篮球"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/006WIDKBly1i6u5aemyqoj31hc0u0go6.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/006WIDKBly1i6u5aemyqoj31hc0u0go6.jpg",
+      "alt": "咪咕篮球",
+      "width": 1080,
+      "height": 1920,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/006WIDKBly1i6u5aemyqoj31hc0u0go6.jpg"
+      ],
+      "user": "咪咕篮球"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/003gywQBly1i6u9lc2kxcj60k00vk0tw02.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/003gywQBly1i6u9lc2kxcj60k00vk0tw02.jpg",
+      "alt": "央视体育",
+      "width": 1136,
+      "height": 720,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/003gywQBly1i6u9lc2kxcj60k00vk0tw02.jpg"
+      ],
+      "user": "央视体育"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/0023uzJ9ly1i6u5dusk68j618g0p04m602.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/0023uzJ9ly1i6u5dusk68j618g0p04m602.jpg",
+      "alt": "波特兰开拓者",
+      "width": 900,
+      "height": 1600,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx4.sinaimg.cn/large/0023uzJ9ly1i6u5dusk68j618g0p04m602.jpg"
+      ],
+      "user": "波特兰开拓者"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/819cc17dly1i6u5kccua9j20u00gwdlt.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/819cc17dly1i6u5kccua9j20u00gwdlt.jpg",
+      "alt": "篮球热点",
+      "width": 608,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/819cc17dly1i6u5kccua9j20u00gwdlt.jpg"
+      ],
+      "user": "篮球热点"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/008vwmz2ly1i6mnc45739j30qo0k0766.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/008vwmz2ly1i6mnc45739j30qo0k0766.jpg",
+      "alt": "楚人头帝",
+      "width": 720,
+      "height": 960,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/008vwmz2ly1i6mnc45739j30qo0k0766.jpg"
+      ],
+      "user": "楚人头帝"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/6dccc53dly1i6u9lnz45dj20k00tmdgx.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/6dccc53dly1i6u9lnz45dj20k00tmdgx.jpg",
+      "alt": "篮球实战指南",
+      "width": 1066,
+      "height": 720,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/6dccc53dly1i6u9lnz45dj20k00tmdgx.jpg"
+      ],
+      "user": "篮球实战指南"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/ae1e8d93gy1i6u6f25rxaj21hc0u040w.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/ae1e8d93gy1i6u6f25rxaj21hc0u040w.jpg",
+      "alt": "水花之声",
+      "width": 1080,
+      "height": 1920,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/ae1e8d93gy1i6u6f25rxaj21hc0u040w.jpg"
+      ],
+      "user": "水花之声"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/e92ae12aly1i6u8p0ieu9j20u01hc760.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/e92ae12aly1i6u8p0ieu9j20u01hc760.jpg",
+      "alt": "游历丁丁",
+      "width": 1920,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/e92ae12aly1i6u8p0ieu9j20u01hc760.jpg"
+      ],
+      "user": "游历丁丁"
+    }
+  ],
+  "html_path": "data/aicard/hourly/2025-10-30/12/topic-11683f3c.html"
+}

@@ -1,0 +1,44 @@
+{
+  "meta": {
+    "query": "#中美元首釜山会晤#",
+    "status_code": 200,
+    "fetched_at": "2025-10-31T22:40:35+08:00",
+    "response": {
+      "wenda": {
+        "forward_gen": 0
+      },
+      "qs_status": 2,
+      "abtest_info": {
+        "chat_entrance": 1
+      },
+      "zs_risk_control": {
+        "ban_chat_enterance": 1,
+        "may_be_ask_show": 0
+      },
+      "msg": "抱歉，这个问题我暂时无法回答，换个问题试试吧",
+      "loop_times": 200,
+      "cot": 1,
+      "share_info": {
+        "status": 1,
+        "display_name": "#中美元首釜山会晤#",
+        "unify_md5": "03b023d4440b3eda5df0145beaa9cb38",
+        "tips": "#中美元首釜山会晤#的相关内容，来智搜看看",
+        "page_id": "",
+        "url": "http://t.cn/AXAwwqcL",
+        "comment_content": ""
+      },
+      "model": "",
+      "comment_info": {},
+      "analysis_time": 0,
+      "qs_status_info": "{\"qs_c_status\":0,\"ab_lab\":{},\"qs_u_status\":0,\"qs_status\":2,\"qs_q_status\":258,\"qs_r_status\":0}",
+      "ext_show": {},
+      "query": "#中美元首釜山会晤#",
+      "ab_suffix": "default",
+      "status": 3,
+      "uid": ""
+    }
+  },
+  "links": [],
+  "media": [],
+  "html_path": "data/aicard/hourly/2025-10-30/10/topic-03b023d4.html"
+}

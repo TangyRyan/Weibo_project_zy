@@ -1,0 +1,256 @@
+{
+  "meta": {
+    "query": "#女子眼睛一按就咯吱响#",
+    "status_code": 200,
+    "fetched_at": "2025-11-03T10:12:48+08:00",
+    "response": {
+      "cot": 1,
+      "abtest_info": {
+        "chat_entrance": 1
+      },
+      "msg_format": "markdown",
+      "uid": "",
+      "version": "2025-11-03 10:07:19.013000-6769",
+      "model": "deepseek",
+      "zs_risk_control": {
+        "think_text_close": 0,
+        "land_button_close": 0
+      },
+      "ab_suffix": "default",
+      "chat_status_stage": 1,
+      "qs_status_info": "{\"qs_status\":0,\"qs_r_status\":0,\"qs_u_status\":0,\"qs_q_status\":0,\"ab_lab\":{},\"qs_c_status\":8388608}",
+      "query_field": "60",
+      "q_attr": {
+        "from_uid": "",
+        "reply_cid": "",
+        "comment_from_type": "",
+        "mid": "",
+        "from_request_id": ""
+      },
+      "reliable_tips": "{\"gold_orange_v_mids\": [\"5228821332102462\", \"5228830701912656\", \"5228806946423860\", \"5228779716477239\", \"5228837608620410\", \"5228814753862234\", \"5228829691874232\", \"5228713278441304\", \"5228835712797395\", \"5228836763206087\", \"5228798728995301\", \"5228755078611065\", \"5228834607859321\", \"5228833751433928\", \"5228800797313124\", \"5001404723235608\"], \"gold_orange_v_ratio\": \"64%\", \"media_mids\": [\"5228527030897770\", \"5228828664267726\"], \"media_ratio\": \"8%\", \"verified_mids\": [\"5228833353761545\", \"5228801606288144\", \"5046615672884235\"], \"verified_ratio\": \"12%\", \"normal_mids\": [\"5228729263194270\", \"5228708134912094\", \"5228693272398014\", \"5017388742083791\"], \"normal_ratio\": \"16%\", \"ref_mid_rank\": {\"5228821332102462\": {\"rank\": 2}, \"5228830701912656\": {\"rank\": 8}, \"5228806946423860\": {\"rank\": 15}, \"5228527030897770\": {\"rank\": 1}, \"5228779716477239\": {\"rank\": 7}, \"5228837608620410\": {\"rank\": 9}, \"5228828664267726\": {\"rank\": 13}, \"5228814753862234\": {\"rank\": 14}, \"5228829691874232\": {\"rank\": 12}, \"5228713278441304\": {\"rank\": 20}, \"5228835712797395\": {\"rank\": 3}, \"5228836763206087\": {\"rank\": 4}, \"5228798728995301\": {\"rank\": 5}, \"5228755078611065\": {\"rank\": 18}, \"5228834607859321\": {\"rank\": 6}, \"5228833751433928\": {\"rank\": 10}, \"5228833353761545\": {\"rank\": 11}, \"5228801606288144\": {\"rank\": 16}, \"5228800797313124\": {\"rank\": 17}, \"5228729263194270\": {\"rank\": 19}, \"5228708134912094\": {\"rank\": 21}, \"5228693272398014\": {\"rank\": 22}, \"5046615672884235\": {\"rank\": 23}, \"5001404723235608\": {\"rank\": 24}, \"5017388742083791\": {\"rank\": 25}}}",
+      "current_time": 1762135968,
+      "user_info": {},
+      "analysis_time": 1762135783,
+      "page_id": "232964ae90466d3a09cb43e5b1186e0e4c41d8",
+      "loop_times": 200,
+      "wenda": {
+        "forward_gen": 0
+      },
+      "scheme": "sinaweibo://cardlist?containerid=100103type%3D225%26q%3D%23%E5%A5%B3%E5%AD%90%E7%9C%BC%E7%9D%9B%E4%B8%80%E6%8C%89%E5%B0%B1%E5%92%AF%E5%90%B1%E5%93%8D%23%26t%3D&extparam=ai_model%3Ddeepseek%26ori_ai_title%3D%E5%8F%82%E8%80%83%E5%8D%9A%E6%96%87%26material_version%3D1762135639",
+      "query_category": "Ip",
+      "share_text": "#女子眼睛一按就咯吱响#的相关内容，来智搜看看",
+      "mid_list": null,
+      "reference_num": 25,
+      "status_stage": 4,
+      "link_list": [
+        "sinaweibo://detail?mblogid=5228527030897770",
+        "sinaweibo://detail?mblogid=5228821332102462",
+        "sinaweibo://detail?mblogid=5228835712797395",
+        "sinaweibo://detail?mblogid=5228836763206087",
+        "sinaweibo://detail?mblogid=5228798728995301",
+        "sinaweibo://detail?mblogid=5228834607859321",
+        "sinaweibo://detail?mblogid=5228779716477239",
+        "sinaweibo://detail?mblogid=5228830701912656",
+        "sinaweibo://detail?mblogid=5228837608620410",
+        "sinaweibo://detail?mblogid=5228833751433928",
+        "sinaweibo://detail?mblogid=5228833353761545",
+        "sinaweibo://detail?mblogid=5228829691874232",
+        "sinaweibo://detail?mblogid=5228828664267726",
+        "sinaweibo://detail?mblogid=5228814753862234",
+        "sinaweibo://detail?mblogid=5228806946423860",
+        "sinaweibo://detail?mblogid=5228801606288144",
+        "sinaweibo://detail?mblogid=5228800797313124",
+        "sinaweibo://detail?mblogid=5228755078611065",
+        "sinaweibo://detail?mblogid=5228729263194270",
+        "sinaweibo://detail?mblogid=5228713278441304",
+        "sinaweibo://detail?mblogid=5228708134912094",
+        "sinaweibo://detail?mblogid=5228693272398014",
+        "sinaweibo://detail?mblogid=5046615672884235",
+        "sinaweibo://detail?mblogid=5001404723235608",
+        "sinaweibo://detail?mblogid=5017388742083791"
+      ],
+      "query": "#女子眼睛一按就咯吱响#",
+      "top_quote_list": {},
+      "short_url": "http://t.cn/AXAa5fNu",
+      "share_card_multimodal": {
+        "user_name": "医疗圈那点事",
+        "user_avatar": "https://tva4.sinaimg.cn/crop.0.0.640.640.50/559368bdjw8eh3hz2z2d6j20hs0hswgh.jpg?KID=imgbed,tva&Expires=1762146439&ssig=GR2q1Ahuao",
+        "vtype": 0,
+        "video_url": "https://video.weibo.com/show?fid=1034:5228821084045322",
+        "type": "v",
+        "img": "http://wx3.sinaimg.cn/middle/559368bdly1i6yqxb7yjvj20k00zkgmj.jpg",
+        "scheme": "sinaweibo://video/vvs?mid=5228821332102462&multi_paragraph=1&multi_count=0",
+        "w": 720,
+        "h": 1280,
+        "click_rate": 0,
+        "hit_score_new": 94.384766,
+        "hit_score_final": 84.230865,
+        "doc_score": 3015,
+        "cur_mid": "5228821332102462",
+        "img_pid": "559368bdly1i6yqxb7yjvj20k00zkgmj"
+      },
+      "msg": "<think><br>嗯，用户查询的是\"女子眼睛一按就咯吱响\"现象，这看起来是个关于眼部健康的生理现象问题。用户可能是在按压自己眼睛时发现了类似情况，想了解是否正常或是否需要就医。<br><br>翻看搜索结果，发现这个话题在2025年11月初成为微博热点。媒体账号如\"都市频道\"和\"合肥交通广播\"都发布了权威提醒，提到这种现象通常无需特殊处理，但伴随疼痛等症状时应就医。医疗类账号\"医疗圈那点事\"则从解剖学角度解释是空气进入泪道系统产生的混合声，这个解释很专业。<br><br>注意到很多普通用户也分享了亲身经历：有人表示时有时无，有人认为正常，还有人惊慌失措。这种反应差异很有意思，说明公众对这类生理现象认知不足。认证账号\"梦诺2016\"的详细科普很实用，她将机制比喻成\"捏软管\"，还清晰列出了就医警示信号。<br><br>专业解释方面，多个账号提到泪小管、睑板腺内的空气或分泌物被挤压发声，属于生理性弹响。特别值得注意的是\"迷彩梦话\"的提醒：虽然多数情况无害，但现代人过度用眼可能加剧眼部问题，这个观点很有公共卫生意义。<br><br>需要警惕的是结果24提到的\"女子眼睛被炮击伤\"，这明显是无关内容，可能是关键词匹配错误。结果11的电梯安全知识也完全跑题了，这些都不能采用。<br><br>综合判断，回答应该聚焦三个维度：科学解释机制、区分正常与异常的标准、日常护眼建议。尤其要强调\"无不适则观察，有症状即就医\"的原则，避免用户因无知恐慌或延误治疗（如结果14提到的视力下降案例）。<br><br>最后注意到结果23显示类似讨论早在2024年6月就出现过，但最新舆情集中在2025年11月初，说明这是周期性出现的健康咨询热点，回答需侧重时效性更强的医学建议。<br></think><br>关于按压眼睛出现“咯吱”声的现象，综合医学解释和常见情况，具体分析如下：<br>### ⚙️ 一、主要成因（生理性）<br>1. **泪道内气液混合**  <br>   揉眼或按压眼角时，空气通过泪点进入泪道系统，与泪液混合产生气泡，挤压时发出类似捏软管的声音。此为最常见原因。```wbCustomBlock{\"type\": \"quoted\", \"index\": 3, \"data\": {\"num\": [2, 8, 15], \"version\": 2, \"quote_list\": [{\"name\": \"医疗圈那点事\", \"scheme\": \"sinaweibo://detail?mblogid=5228821332102462\", \"index\": 2, \"label\": \"大v\"}, {\"name\": \"纸枼\", \"scheme\": \"sinaweibo://detail?mblogid=5228830701912656\", \"index\": 8, \"label\": \"\"}, {\"name\": \"老公要吃堡-Angel\", \"scheme\": \"sinaweibo://detail?mblogid=5228806946423860\", \"index\": 15, \"label\": \"\"}], \"name\": \"医疗圈那点事\", \"img\": \"https://tva4.sinaimg.cn/crop.0.0.640.640.50/559368bdjw8eh3hz2z2d6j20hs0hswgh.jpg?KID=imgbed,tva&Expires=1762146439&ssig=GR2q1Ahuao\", \"scheme\": \"sinaweibo://detail?mblogid=5228821332102462\", \"vType\": 0}}```<br>2. **眼周组织摩擦**  <br>   眼睑筋膜、肌腱等软组织在压力下发生摩擦，产生弹响，类似关节活动时的声响。```wbCustomBlock{\"type\": \"quoted\", \"index\": 4, \"data\": {\"num\": [8], \"version\": 2, \"quote_list\": [{\"name\": \"纸枼\", \"scheme\": \"sinaweibo://detail?mblogid=5228830701912656\", \"index\": 8, \"label\": \"\"}]}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5228821332102462&multi_paragraph=1&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tva4.sinaimg.cn/crop.0.0.640.640.50/559368bdjw8eh3hz2z2d6j20hs0hswgh.jpg?KID=imgbed,tva&Expires=1762146439&ssig=GR2q1Ahuao) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">医疗圈那点事</span><img src=\"http://wx3.sinaimg.cn/middle/559368bdly1i6yqxb7yjvj20k00zkgmj.jpg\" data-width=1280 data-height=720></div></media-block><br>### 🚨 二、需警惕的异常情况（病理性信号）<br>若伴随以下症状，可能提示眼部疾病，建议及时就医：<br>- **疼痛或红肿**：可能为睑板腺炎症、结膜炎或泪囊炎；```wbCustomBlock{\"type\": \"quoted\", \"index\": 6, \"data\": {\"num\": [1, 7, 9], \"version\": 2, \"quote_list\": [{\"name\": \"都市频道\", \"scheme\": \"sinaweibo://detail?mblogid=5228527030897770\", \"index\": 1, \"label\": \"大v\"}, {\"name\": \"梦诺2016\", \"scheme\": \"sinaweibo://detail?mblogid=5228779716477239\", \"index\": 7, \"label\": \"\"}, {\"name\": \"迷彩梦话\", \"scheme\": \"sinaweibo://detail?mblogid=5228837608620410\", \"index\": 9, \"label\": \"\"}], \"name\": \"都市频道\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.200.200.50/612e48ffly8h8vgm73642j205k05ka9y.jpg?KID=imgbed,tva&Expires=1762146439&ssig=dlPjytIS9U\", \"scheme\": \"sinaweibo://detail?mblogid=5228527030897770\", \"vType\": 3}}```<br>- **视力下降或视物模糊**：需排除角膜损伤、青光眼等；```wbCustomBlock{\"type\": \"quoted\", \"index\": 7, \"data\": {\"num\": [1, 13], \"version\": 2, \"quote_list\": [{\"name\": \"合肥交通广播\", \"scheme\": \"sinaweibo://detail?mblogid=5228828664267726\", \"index\": 13, \"label\": \"大v\"}, {\"name\": \"都市频道\", \"scheme\": \"sinaweibo://detail?mblogid=5228527030897770\", \"index\": 1, \"label\": \"\"}], \"name\": \"合肥交通广播\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/6854478cly8hldbkby769j20u00u0q48.jpg?KID=imgbed,tva&Expires=1762146439&ssig=MD%2Bkx6FyQE\", \"scheme\": \"sinaweibo://detail?mblogid=5228828664267726\", \"vType\": 3}}```<br>- **分泌物增多或持续流泪**：可能为感染或泪道阻塞；```wbCustomBlock{\"type\": \"quoted\", \"index\": 8, \"data\": {\"num\": [7, 9, 14], \"version\": 2, \"quote_list\": [{\"name\": \"梦诺2016\", \"scheme\": \"sinaweibo://detail?mblogid=5228779716477239\", \"index\": 7, \"label\": \"\"}, {\"name\": \"迷彩梦话\", \"scheme\": \"sinaweibo://detail?mblogid=5228837608620410\", \"index\": 9, \"label\": \"\"}, {\"name\": \"幸韫数字是小七\", \"scheme\": \"sinaweibo://detail?mblogid=5228814753862234\", \"index\": 14, \"label\": \"\"}]}}```<br>- **异物感或干涩加剧**：或与干眼症、睑板腺功能障碍相关。```wbCustomBlock{\"type\": \"quoted\", \"index\": 9, \"data\": {\"num\": [9, 14], \"version\": 2, \"quote_list\": [{\"name\": \"迷彩梦话\", \"scheme\": \"sinaweibo://detail?mblogid=5228837608620410\", \"index\": 9, \"label\": \"\"}, {\"name\": \"幸韫数字是小七\", \"scheme\": \"sinaweibo://detail?mblogid=5228814753862234\", \"index\": 14, \"label\": \"\"}]}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5228527030897770&multi_paragraph=2&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.200.200.50/612e48ffly8h8vgm73642j205k05ka9y.jpg?KID=imgbed,tva&Expires=1762146439&ssig=dlPjytIS9U) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">都市频道</span><img src=\"http://wx1.sinaimg.cn/middle/612e48ffly1i6xt5ag9zrj20u01hc40i.jpg\" data-width=1920 data-height=1080></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5228837608620410&multi_paragraph=2&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/008gMdNNly8h7ovbopc90j30u00u0jz0.jpg?KID=imgbed,tva&Expires=1762146439&ssig=m84MDQJlrP) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">迷彩梦话</span><img src=\"http://wx2.sinaimg.cn/middle/008gMdNNly1i6ystb66hzj30u014075r.jpg\" data-width=1440 data-height=1080></div></media-block><br>### 💡 三、日常处理建议<br>1. **无需干预的情况**  <br>   仅偶尔出现声响，无其他不适，属正常生理现象，避免刻意按压即可。```wbCustomBlock{\"type\": \"quoted\", \"index\": 11, \"data\": {\"num\": [1, 7, 12], \"version\": 2, \"quote_list\": [{\"name\": \"都市频道\", \"scheme\": \"sinaweibo://detail?mblogid=5228527030897770\", \"index\": 1, \"label\": \"\"}, {\"name\": \"梦诺2016\", \"scheme\": \"sinaweibo://detail?mblogid=5228779716477239\", \"index\": 7, \"label\": \"\"}, {\"name\": \"圈内橙子\", \"scheme\": \"sinaweibo://detail?mblogid=5228829691874232\", \"index\": 12, \"label\": \"\"}]}}```<br>2. **护眼措施**  <br>   - 减少揉眼，尤其手部未清洁时；<br>   - 长期用眼者定时休息，缓解眼疲劳；```wbCustomBlock{\"type\": \"quoted\", \"index\": 14, \"data\": {\"num\": [14, 20], \"version\": 2, \"quote_list\": [{\"name\": \"幸韫数字是小七\", \"scheme\": \"sinaweibo://detail?mblogid=5228814753862234\", \"index\": 14, \"label\": \"\"}, {\"name\": \"Angela诺宝-第一排见到丁禹兮版\", \"scheme\": \"sinaweibo://detail?mblogid=5228713278441304\", \"index\": 20, \"label\": \"\"}]}}```<br>   - 卸妆时彻底清洁眼周，避免化学品残留。```wbCustomBlock{\"type\": \"quoted\", \"index\": 15, \"data\": {\"num\": [9], \"version\": 2, \"quote_list\": [{\"name\": \"迷彩梦话\", \"scheme\": \"sinaweibo://detail?mblogid=5228837608620410\", \"index\": 9, \"label\": \"\"}]}}```<br>3. **及时就医指征**  <br>   声响频繁且合并前述任一异常症状，需眼科检查明确病因（如泪道造影、眼压检测等）。```wbCustomBlock{\"type\": \"quoted\", \"index\": 16, \"data\": {\"num\": [1, 7, 13], \"version\": 2, \"quote_list\": [{\"name\": \"都市频道\", \"scheme\": \"sinaweibo://detail?mblogid=5228527030897770\", \"index\": 1, \"label\": \"\"}, {\"name\": \"梦诺2016\", \"scheme\": \"sinaweibo://detail?mblogid=5228779716477239\", \"index\": 7, \"label\": \"\"}, {\"name\": \"合肥交通广播\", \"scheme\": \"sinaweibo://detail?mblogid=5228828664267726\", \"index\": 13, \"label\": \"\"}]}}```<br>### 💎 四、案例共识<br>多数用户反馈按压眼角偶有声响但无不适，这与泪道生理结构相关（如结果5提及泪腺与鼻腔相通性）。部分人因个体差异（如泪道宽窄不同）可能表现不一，无需过度焦虑。```wbCustomBlock{\"type\": \"quoted\", \"index\": 17, \"data\": {\"num\": [3, 4, 5, 18], \"version\": 2, \"quote_list\": [{\"name\": \"叮铃铃uu\", \"scheme\": \"sinaweibo://detail?mblogid=5228755078611065\", \"index\": 18, \"label\": \"大v\"}, {\"name\": \"丝ssgirl\", \"scheme\": \"sinaweibo://detail?mblogid=5228835712797395\", \"index\": 3, \"label\": \"\"}, {\"name\": \"Word麻鸭_vv\", \"scheme\": \"sinaweibo://detail?mblogid=5228836763206087\", \"index\": 4, \"label\": \"\"}, {\"name\": \"为峻霖祈愿\", \"scheme\": \"sinaweibo://detail?mblogid=5228798728995301\", \"index\": 5, \"label\": \"\"}], \"name\": \"叮铃铃uu\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.1024.1024.50/69d94059ly8hyhej0y1v5j20sg0sgdle.jpg?KID=imgbed,tva&Expires=1762146439&ssig=g2LH3wIfb6\", \"scheme\": \"sinaweibo://detail?mblogid=5228755078611065\", \"vType\": 0}}```<br><br>> 📌 **关键总结**：眼睛“咯吱响”多数是泪道气液作用的无害现象，如同捏压湿润软管。但身体不会无故报警——当响声搭档疼痛、视力模糊等异常时，请48小时内就医排查。日常记住：指尖远离眼眶，屏幕距离40cm，每用眼1小时望20秒远方绿植。```wbCustomBlock{\"type\": \"quoted\", \"index\": 18, \"data\": {\"num\": [9, 20], \"version\": 2, \"quote_list\": [{\"name\": \"迷彩梦话\", \"scheme\": \"sinaweibo://detail?mblogid=5228837608620410\", \"index\": 9, \"label\": \"\"}, {\"name\": \"Angela诺宝-第一排见到丁禹兮版\", \"scheme\": \"sinaweibo://detail?mblogid=5228713278441304\", \"index\": 20, \"label\": \"\"}]}}```<br>",
+      "unify_md5": "e69d0a77deaaadc1c9eaccbadb1e2fa0",
+      "sorted_material_list": null,
+      "status": 2,
+      "share_info": {
+        "comment_content": "",
+        "tips": "#女子眼睛一按就咯吱响#的相关内容，来智搜看看",
+        "unify_md5": "e69d0a77deaaadc1c9eaccbadb1e2fa0",
+        "status": 3,
+        "page_id": "232964ae90466d3a09cb43e5b1186e0e4c41d8",
+        "display_name": "#女子眼睛一按就咯吱响#",
+        "url": "http://t.cn/AXAafBRO"
+      },
+      "show_ctrl": {
+        "quote": {}
+      },
+      "qs_status": 0,
+      "card_multimodal": {
+        "data": [
+          {
+            "user_name": "医疗圈那点事",
+            "user_avatar": "https://tva4.sinaimg.cn/crop.0.0.640.640.50/559368bdjw8eh3hz2z2d6j20hs0hswgh.jpg?KID=imgbed,tva&Expires=1762146439&ssig=GR2q1Ahuao",
+            "vtype": 0,
+            "video_url": "https://video.weibo.com/show?fid=1034:5228821084045322",
+            "type": "v",
+            "img": "http://wx3.sinaimg.cn/middle/559368bdly1i6yqxb7yjvj20k00zkgmj.jpg",
+            "scheme": "sinaweibo://video/vvs?mid=5228821332102462&multi_paragraph=1&multi_count=0",
+            "w": 720,
+            "h": 1280,
+            "click_rate": 0,
+            "hit_score_new": 94.384766,
+            "hit_score_final": 84.230865,
+            "doc_score": 3015,
+            "cur_mid": "5228821332102462",
+            "img_pid": "559368bdly1i6yqxb7yjvj20k00zkgmj"
+          },
+          {
+            "user_name": "都市频道",
+            "user_avatar": "https://tvax1.sinaimg.cn/crop.0.0.200.200.50/612e48ffly8h8vgm73642j205k05ka9y.jpg?KID=imgbed,tva&Expires=1762146439&ssig=dlPjytIS9U",
+            "vtype": 3,
+            "video_url": "https://video.weibo.com/show?fid=1034:5228526790705219",
+            "type": "v",
+            "img": "http://wx1.sinaimg.cn/middle/612e48ffly1i6xt5ag9zrj20u01hc40i.jpg",
+            "scheme": "sinaweibo://video/vvs?mid=5228527030897770&multi_paragraph=2&multi_count=0",
+            "w": 1080,
+            "h": 1920,
+            "click_rate": 0.22140567905771,
+            "hit_score_new": 0,
+            "hit_score_final": 0,
+            "doc_score": 0,
+            "cur_mid": "5228527030897770",
+            "img_pid": "612e48ffly1i6xt5ag9zrj20u01hc40i"
+          },
+          {
+            "user_name": "迷彩梦话",
+            "user_avatar": "https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/008gMdNNly8h7ovbopc90j30u00u0jz0.jpg?KID=imgbed,tva&Expires=1762146439&ssig=m84MDQJlrP",
+            "vtype": 0,
+            "video_url": "https://video.weibo.com/show?fid=1034:5228837538300022",
+            "type": "v",
+            "img": "http://wx2.sinaimg.cn/middle/008gMdNNly1i6ystb66hzj30u014075r.jpg",
+            "scheme": "sinaweibo://video/vvs?mid=5228837608620410&multi_paragraph=2&multi_count=1",
+            "w": 1080,
+            "h": 1440,
+            "click_rate": 0,
+            "hit_score_new": 99.023438,
+            "hit_score_final": 91.414062,
+            "doc_score": 5202,
+            "cur_mid": "5228837608620410",
+            "img_pid": "008gMdNNly1i6ystb66hzj30u014075r"
+          },
+          {
+            "user_name": "医疗圈那点事",
+            "user_avatar": "https://tva4.sinaimg.cn/crop.0.0.640.640.50/559368bdjw8eh3hz2z2d6j20hs0hswgh.jpg?KID=imgbed,tva&Expires=1762146439&ssig=GR2q1Ahuao",
+            "vtype": 0,
+            "video_url": "https://video.weibo.com/show?fid=1034:5228821084045322",
+            "type": "v",
+            "img": "http://wx3.sinaimg.cn/middle/559368bdly1i6yqxb7yjvj20k00zkgmj.jpg",
+            "scheme": "sinaweibo://video/vvs?mid=5228821332102462&multi_paragraph=1&multi_count=0",
+            "w": 720,
+            "h": 1280,
+            "click_rate": 0,
+            "hit_score_new": 94.384766,
+            "hit_score_final": 84.230865,
+            "doc_score": 3015,
+            "cur_mid": "5228821332102462",
+            "img_pid": "559368bdly1i6yqxb7yjvj20k00zkgmj"
+          }
+        ],
+        "type": "mediablock"
+      },
+      "msg_json": "{}",
+      "basemodel": "实验组1",
+      "news_analyze": {},
+      "ext_show": {},
+      "profile_image_url": "",
+      "comment_info": {}
+    }
+  },
+  "links": [
+    "sinaweibo://detail?mblogid=5228527030897770",
+    "sinaweibo://detail?mblogid=5228821332102462",
+    "sinaweibo://detail?mblogid=5228835712797395",
+    "sinaweibo://detail?mblogid=5228836763206087",
+    "sinaweibo://detail?mblogid=5228798728995301",
+    "sinaweibo://detail?mblogid=5228834607859321",
+    "sinaweibo://detail?mblogid=5228779716477239",
+    "sinaweibo://detail?mblogid=5228830701912656",
+    "sinaweibo://detail?mblogid=5228837608620410",
+    "sinaweibo://detail?mblogid=5228833751433928",
+    "sinaweibo://detail?mblogid=5228833353761545",
+    "sinaweibo://detail?mblogid=5228829691874232",
+    "sinaweibo://detail?mblogid=5228828664267726",
+    "sinaweibo://detail?mblogid=5228814753862234",
+    "sinaweibo://detail?mblogid=5228806946423860",
+    "sinaweibo://detail?mblogid=5228801606288144",
+    "sinaweibo://detail?mblogid=5228800797313124",
+    "sinaweibo://detail?mblogid=5228755078611065",
+    "sinaweibo://detail?mblogid=5228729263194270",
+    "sinaweibo://detail?mblogid=5228713278441304",
+    "sinaweibo://detail?mblogid=5228708134912094",
+    "sinaweibo://detail?mblogid=5228693272398014",
+    "sinaweibo://detail?mblogid=5046615672884235",
+    "sinaweibo://detail?mblogid=5001404723235608",
+    "sinaweibo://detail?mblogid=5017388742083791"
+  ],
+  "media": [
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/559368bdly1i6yqxb7yjvj20k00zkgmj.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/559368bdly1i6yqxb7yjvj20k00zkgmj.jpg",
+      "alt": "医疗圈那点事",
+      "width": 1280,
+      "height": 720,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/559368bdly1i6yqxb7yjvj20k00zkgmj.jpg"
+      ],
+      "user": "医疗圈那点事"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/612e48ffly1i6xt5ag9zrj20u01hc40i.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/612e48ffly1i6xt5ag9zrj20u01hc40i.jpg",
+      "alt": "都市频道",
+      "width": 1920,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/612e48ffly1i6xt5ag9zrj20u01hc40i.jpg"
+      ],
+      "user": "都市频道"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/008gMdNNly1i6ystb66hzj30u014075r.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/008gMdNNly1i6ystb66hzj30u014075r.jpg",
+      "alt": "迷彩梦话",
+      "width": 1440,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/008gMdNNly1i6ystb66hzj30u014075r.jpg"
+      ],
+      "user": "迷彩梦话"
+    }
+  ],
+  "html_path": "data/aicard/hourly/2025-11-03/10/topic-e69d0a77.html"
+}

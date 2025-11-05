@@ -1,0 +1,340 @@
+{
+  "meta": {
+    "query": "#妻子去世获136万赔偿父女闹翻#",
+    "status_code": 200,
+    "fetched_at": "2025-10-31T22:27:58+08:00",
+    "response": {
+      "query_field": "60",
+      "chat_status_stage": 1,
+      "current_time": 1761920878,
+      "profile_image_url": "",
+      "user_info": {},
+      "sorted_material_list": null,
+      "model": "deepseek",
+      "status_stage": 4,
+      "cot": 1,
+      "top_quote_list": {},
+      "card_multimodal": {
+        "type": "mediablock",
+        "data": [
+          {
+            "vtype": 3,
+            "h": 1920,
+            "hit_score_new": 0,
+            "hit_score_final": 0,
+            "w": 1080,
+            "img_pid": "6974193bly1i6uexzgyvuj20u01hctel",
+            "doc_score": 0,
+            "click_rate": 0,
+            "img": "http://wx4.sinaimg.cn/middle/6974193bly1i6uexzgyvuj20u01hctel.jpg",
+            "video_url": "https://video.weibo.com/show?fid=1034:5227462943244339",
+            "cur_mid": "5227463216727438",
+            "type": "v",
+            "user_name": "小莉帮忙",
+            "scheme": "sinaweibo://video/vvs?mid=5227463216727438&multi_paragraph=1&multi_count=0",
+            "user_avatar": "https://tvax2.sinaimg.cn/crop.0.0.272.272.50/6974193bly8h8w6a0mzbmj207k07kdg4.jpg?KID=imgbed,tva&Expires=1761930308&ssig=ve6sE6wuiC"
+          },
+          {
+            "vtype": 3,
+            "h": 1080,
+            "hit_score_new": 99.023438,
+            "hit_score_final": 91.414062,
+            "w": 1920,
+            "img_pid": "6974193bly1i6uf1l6o4yj21hc0u040d",
+            "doc_score": 4962,
+            "click_rate": 0,
+            "img": "http://wx2.sinaimg.cn/middle/6974193bly1i6uf1l6o4yj21hc0u040d.jpg",
+            "video_url": "https://video.weibo.com/show?fid=1034:5227463228194864",
+            "cur_mid": "5227464743717939",
+            "type": "v",
+            "user_name": "小莉帮忙",
+            "scheme": "sinaweibo://video/vvs?mid=5227464743717939&multi_paragraph=1&multi_count=1",
+            "user_avatar": "https://tvax2.sinaimg.cn/crop.0.0.272.272.50/6974193bly8h8w6a0mzbmj207k07kdg4.jpg?KID=imgbed,tva&Expires=1761930308&ssig=ve6sE6wuiC"
+          },
+          {
+            "vtype": 3,
+            "h": 1080,
+            "hit_score_new": 99.023438,
+            "hit_score_final": 83.414062,
+            "w": 1920,
+            "img_pid": "6974193bly1i6uf6agjdpj21hc0u0n05",
+            "doc_score": 5191,
+            "click_rate": 0,
+            "img": "http://wx1.sinaimg.cn/middle/6974193bly1i6uf6agjdpj21hc0u0n05.jpg",
+            "video_url": "https://video.weibo.com/show?fid=1034:5227464461582372",
+            "cur_mid": "5227465490304742",
+            "type": "v",
+            "user_name": "小莉帮忙",
+            "scheme": "sinaweibo://video/vvs?mid=5227465490304742&multi_paragraph=1&multi_count=2",
+            "user_avatar": "https://tvax2.sinaimg.cn/crop.0.0.272.272.50/6974193bly8h8w6a0mzbmj207k07kdg4.jpg?KID=imgbed,tva&Expires=1761930308&ssig=ve6sE6wuiC"
+          },
+          {
+            "vtype": 3,
+            "h": 1920,
+            "hit_score_new": 0,
+            "hit_score_final": 0,
+            "w": 1080,
+            "img_pid": "6974193bly1i6uexzgyvuj20u01hctel",
+            "doc_score": 0,
+            "click_rate": 0,
+            "img": "http://wx4.sinaimg.cn/middle/6974193bly1i6uexzgyvuj20u01hctel.jpg",
+            "video_url": "https://video.weibo.com/show?fid=1034:5227462943244339",
+            "cur_mid": "5227463216727438",
+            "type": "v",
+            "user_name": "小莉帮忙",
+            "scheme": "sinaweibo://video/vvs?mid=5227463216727438&multi_paragraph=1&multi_count=0",
+            "user_avatar": "https://tvax2.sinaimg.cn/crop.0.0.272.272.50/6974193bly8h8w6a0mzbmj207k07kdg4.jpg?KID=imgbed,tva&Expires=1761930308&ssig=ve6sE6wuiC"
+          }
+        ]
+      },
+      "share_card_multimodal": {
+        "vtype": 3,
+        "h": 1920,
+        "hit_score_new": 0,
+        "hit_score_final": 0,
+        "w": 1080,
+        "img_pid": "6974193bly1i6uexzgyvuj20u01hctel",
+        "doc_score": 0,
+        "click_rate": 0,
+        "img": "http://wx4.sinaimg.cn/middle/6974193bly1i6uexzgyvuj20u01hctel.jpg",
+        "video_url": "https://video.weibo.com/show?fid=1034:5227462943244339",
+        "cur_mid": "5227463216727438",
+        "type": "v",
+        "user_name": "小莉帮忙",
+        "scheme": "sinaweibo://video/vvs?mid=5227463216727438&multi_paragraph=1&multi_count=0",
+        "user_avatar": "https://tvax2.sinaimg.cn/crop.0.0.272.272.50/6974193bly8h8w6a0mzbmj207k07kdg4.jpg?KID=imgbed,tva&Expires=1761930308&ssig=ve6sE6wuiC"
+      },
+      "share_text": "#妻子去世获136万赔偿父女闹翻#的相关内容，来智搜看看",
+      "comment_info": {},
+      "qs_status": 0,
+      "share_info": {
+        "page_id": "232964b0c445cad47321652a0a93bba9b8314e",
+        "display_name": "#妻子去世获136万赔偿父女闹翻#",
+        "tips": "#妻子去世获136万赔偿父女闹翻#的相关内容，来智搜看看",
+        "unify_md5": "d5c7bd237187ed5dd17e3c057c3fb5dd",
+        "comment_content": "",
+        "status": 3,
+        "url": "http://t.cn/AXAUrAph"
+      },
+      "show_ctrl": {
+        "quote": {}
+      },
+      "uid": "",
+      "scheme": "sinaweibo://cardlist?containerid=100103type%3D225%26q%3D%23%E5%A6%BB%E5%AD%90%E5%8E%BB%E4%B8%96%E8%8E%B7136%E4%B8%87%E8%B5%94%E5%81%BF%E7%88%B6%E5%A5%B3%E9%97%B9%E7%BF%BB%23%26t%3D&extparam=ai_model%3Ddeepseek%26ori_ai_title%3D%E5%8F%82%E8%80%83%E5%8D%9A%E6%96%87%26material_version%3D1761919508",
+      "abtest_info": {
+        "chat_entrance": 1
+      },
+      "query": "#妻子去世获136万赔偿父女闹翻#",
+      "wenda": {
+        "forward_gen": 0
+      },
+      "ab_suffix": "default",
+      "query_category": "",
+      "q_attr": {
+        "mid": "",
+        "reply_cid": "",
+        "comment_from_type": "",
+        "from_uid": "7953807932",
+        "from_request_id": "1761919501817"
+      },
+      "reliable_tips": "{\"gold_orange_v_mids\": [\"5227539173999972\", \"5227624068547639\", \"5227545809390983\", \"5227535021640377\", \"5227576965733119\", \"5227534736165138\", \"5227539836705170\", \"5227539829884582\", \"5227563313274587\", \"5227574034173980\", \"5227680660193673\", \"5227610369163616\", \"5227729540879847\", \"5227738763887003\", \"5227730507661648\", \"5227732209241229\", \"5227571206687870\", \"5227535388377573\", \"5135043548938466\", \"5227544242558409\", \"5227725822626240\", \"5227535878588184\", \"5227558887229294\", \"5227723066968390\", \"5227534749795547\", \"5227617160528288\"], \"gold_orange_v_ratio\": \"84%\", \"media_mids\": [\"5227463216727438\", \"5227464743717939\", \"5227465490304742\", \"5227805828186536\"], \"media_ratio\": \"13%\", \"verified_mids\": [], \"verified_ratio\": \"0%\", \"normal_mids\": [\"5227600264038783\"], \"normal_ratio\": \"3%\", \"ref_mid_rank\": {\"5227463216727438\": {\"rank\": 1}, \"5227464743717939\": {\"rank\": 3}, \"5227465490304742\": {\"rank\": 6}, \"5227539173999972\": {\"rank\": 5}, \"5227624068547639\": {\"rank\": 29}, \"5227545809390983\": {\"rank\": 35}, \"5227535021640377\": {\"rank\": 4}, \"5227576965733119\": {\"rank\": 7}, \"5227534736165138\": {\"rank\": 36}, \"5227539836705170\": {\"rank\": 23}, \"5227539829884582\": {\"rank\": 33}, \"5227563313274587\": {\"rank\": 22}, \"5227574034173980\": {\"rank\": 24}, \"5227680660193673\": {\"rank\": 18}, \"5227610369163616\": {\"rank\": 34}, \"5227729540879847\": {\"rank\": 8}, \"5227738763887003\": {\"rank\": 19}, \"5227730507661648\": {\"rank\": 28}, \"5227732209241229\": {\"rank\": 31}, \"5227571206687870\": {\"rank\": 9}, \"5227535388377573\": {\"rank\": 2}, \"5135043548938466\": {\"rank\": 10}, \"5227544242558409\": {\"rank\": 20}, \"5227725822626240\": {\"rank\": 21}, \"5227535878588184\": {\"rank\": 25}, \"5227558887229294\": {\"rank\": 26}, \"5227723066968390\": {\"rank\": 27}, \"5227805828186536\": {\"rank\": 30}, \"5227534749795547\": {\"rank\": 32}, \"5227617160528288\": {\"rank\": 37}, \"5227600264038783\": {\"rank\": 38}}}",
+      "link_list": [
+        "sinaweibo://detail?mblogid=5227463216727438",
+        "sinaweibo://detail?mblogid=5227535388377573",
+        "sinaweibo://detail?mblogid=5227464743717939",
+        "sinaweibo://detail?mblogid=5227535021640377",
+        "sinaweibo://detail?mblogid=5227539173999972",
+        "sinaweibo://detail?mblogid=5227465490304742",
+        "sinaweibo://detail?mblogid=5227576965733119",
+        "sinaweibo://detail?mblogid=5227729540879847",
+        "sinaweibo://detail?mblogid=5227571206687870",
+        "sinaweibo://detail?mblogid=5135043548938466",
+        "https://m.toutiao.com/a1847418791848000/",
+        "https://3g.china.com/act/news/10000169/20251030/48949822.html",
+        "https://m.toutiao.com/article/7566965577579823631/",
+        "https://m.toutiao.com/article/7566971278800732722/",
+        "historyweibo://5227740938899407",
+        "historyweibo://5227463216727438",
+        "historyweibo://5227463216727438",
+        "sinaweibo://detail?mblogid=5227680660193673",
+        "sinaweibo://detail?mblogid=5227738763887003",
+        "sinaweibo://detail?mblogid=5227544242558409",
+        "sinaweibo://detail?mblogid=5227725822626240",
+        "sinaweibo://detail?mblogid=5227563313274587",
+        "sinaweibo://detail?mblogid=5227539836705170",
+        "sinaweibo://detail?mblogid=5227574034173980",
+        "sinaweibo://detail?mblogid=5227535878588184",
+        "sinaweibo://detail?mblogid=5227558887229294",
+        "sinaweibo://detail?mblogid=5227723066968390",
+        "sinaweibo://detail?mblogid=5227730507661648",
+        "sinaweibo://detail?mblogid=5227624068547639",
+        "sinaweibo://detail?mblogid=5227805828186536",
+        "sinaweibo://detail?mblogid=5227732209241229",
+        "sinaweibo://detail?mblogid=5227534749795547",
+        "sinaweibo://detail?mblogid=5227539829884582",
+        "sinaweibo://detail?mblogid=5227610369163616",
+        "sinaweibo://detail?mblogid=5227545809390983",
+        "sinaweibo://detail?mblogid=5227534736165138",
+        "sinaweibo://detail?mblogid=5227617160528288",
+        "sinaweibo://detail?mblogid=5227600264038783",
+        "https://k.sina.cn/article_5787187353_v158f1789902001zoli.html?from=news&subch=onews&wm=3049_0032",
+        "https://k.sina.cn/article_1769216315_m6974193b033019vr0.html?from=society&wm=3049_0032",
+        "https://www.toutiao.com/a1847369457055820/",
+        "https://www.toutiao.com/a1847372380137674/",
+        "https://mparticle.uc.cn/article.html?uc_param_str=frdnsnpfvecpntnwprdssskt#!wm_aid=c19674aa901a7ec162b8a6478ed25edb!!wm_id=1d924cd4b2b1447797277935ad4c31d2"
+      ],
+      "qs_status_info": "{\"qs_c_status\":8388608,\"qs_r_status\":0,\"qs_status\":0,\"qs_u_status\":0,\"ab_lab\":{},\"qs_q_status\":0}",
+      "msg": "<think><br><br>嗯，用户让我整理关于\"妻子去世获136万赔偿父女闹翻\"的事件分析。这个问题涉及家庭纠纷和法律问题，需要仔细梳理。<br><br>从搜索结果来看，这是发生在河南濮阳的真实事件。石先生的妻子2021年因交通事故去世，家属获得136万元赔偿款。这笔钱本是抚慰金，却引发了家庭矛盾。<br><br>先看事件核心脉络：赔偿款最初由父亲石先生保管，他计划用69万元给大儿子买房，剩余67万元交由小女儿管理。但随后父亲指控女儿\"私自转走资金\"，特别指出有三笔各5万元转入女儿账户。<br><br>然而在调解现场出现反转：女儿出示法院判决书和银行流水等证据，反驳称资金只是经她账户\"过账\"。真实情况是父亲因欠外债，为避免账户被冻结才通过女儿账户周转。更关键的是，法院终审判决确认女儿对45万元的处置属于家庭共同流转，并非个人侵占。<br><br>更令人意外的是，法院还判决父亲需赔偿女儿19.65万元，因为女儿曾替父亲偿还多笔债务。面对这些证据，父亲以\"手机充电\"为由离开现场并关机。<br><br>深入分析争议焦点发现：首先是资金分配明显失衡。大儿子独得69万元(超总额50%)，而父亲承诺的\"每人分点\"并未落实。若公平分配，四名继承人各应得约34万元。<br><br>其次是父亲的诬陷行为。当资金短缺无法向儿子交代时，他选择公开指控女儿，被网友批评\"为交差转嫁责任\"。这种不信任女儿却让其管钱的做法也遭质疑。<br><br>法律层面要注意：死亡赔偿金不同于遗产，分配应考虑抚养依赖程度。但此案中父亲将半数以上款项给儿子购房，已显失公平。女儿因完整保留财务凭证最终胜诉，这提醒人们经济往来中证据的重要性。<br><br>舆论几乎一边倒谴责父亲，认为暴露了\"重男轻女\"问题。有网友尖锐指出：\"母亲的命成了丈量儿女价值的尺子\"。更悲哀的是，在女儿胜诉后未追讨19万元赔偿，试图保全亲情，但父亲回避责任的态度使关系难以修复。<br><br>最终启示很深刻：金钱本应是逝者对生者的抚慰，却成了亲情的试金石。当算计取代了坦诚，至亲也会变陌路。或许正如某位网友所言：\"别让冰冷的数字，寒了逝者的心\"。<br><br></think><br>关于河南濮阳“妻子去世获136万赔偿父女闹翻”事件，核心事实、争议焦点及社会反思如下：<br>### ⚖️ 一、事件核心脉络与法院判决  <br>1. **赔偿款来源与初步分配**  <br>   - 2021年，石先生的妻子因交通事故去世，家属获赔136万元。石先生（有两儿一女）计划用69万元为大儿子购房，剩余67万元由小女儿保管银行卡。```wbCustomBlock{\"type\": \"quoted\", \"index\": 5, \"data\": {\"num\": [1, 3], \"version\": 2, \"quote_list\": [{\"name\": \"小莉帮忙\", \"scheme\": \"sinaweibo://detail?mblogid=5227463216727438\", \"index\": 1, \"label\": \"大v\"}, {\"name\": \"小莉帮忙\", \"scheme\": \"sinaweibo://detail?mblogid=5227464743717939\", \"index\": 3, \"label\": \"\"}], \"name\": \"小莉帮忙\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.272.272.50/6974193bly8h8w6a0mzbmj207k07kdg4.jpg?KID=imgbed,tva&Expires=1761930308&ssig=ve6sE6wuiC\", \"scheme\": \"sinaweibo://detail?mblogid=5227463216727438\", \"vType\": 3}}```  <br>   - 购房后，房产登记于大儿子名下，但石先生发现账户资金频繁转出，其中三笔各5万元转入女儿账户，遂指控女儿“偷取赔偿款”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 6, \"data\": {\"num\": [3], \"version\": 2, \"quote_list\": [{\"name\": \"小莉帮忙\", \"scheme\": \"sinaweibo://detail?mblogid=5227464743717939\", \"index\": 3, \"label\": \"\"}]}}```<br><br>2. **女儿反驳与法院终审结果**  <br>   - 女儿否认私吞资金，出示证据称：父亲因欠外债，以“做生意”为由多次自行取款，资金仅经其账户中转，最终用于还债及家庭开支。```wbCustomBlock{\"type\": \"quoted\", \"index\": 8, \"data\": {\"num\": [1, 6], \"version\": 2, \"quote_list\": [{\"name\": \"小莉帮忙\", \"scheme\": \"sinaweibo://detail?mblogid=5227463216727438\", \"index\": 1, \"label\": \"\"}, {\"name\": \"小莉帮忙\", \"scheme\": \"sinaweibo://detail?mblogid=5227465490304742\", \"index\": 6, \"label\": \"\"}]}}```  <br>   - **法院终审判决（2025年）**：  <br>     - 女儿对45万元款项的处置属家庭共同流转（含还债、生活支出等），非个人侵占；```wbCustomBlock{\"type\": \"quoted\", \"index\": 10, \"data\": {\"num\": [1], \"version\": 2, \"quote_list\": [{\"name\": \"小莉帮忙\", \"scheme\": \"sinaweibo://detail?mblogid=5227463216727438\", \"index\": 1, \"label\": \"\"}]}}```  <br>     - 反转裁定：石先生需赔偿女儿19.65万元（女儿曾代其偿还债务）。```wbCustomBlock{\"type\": \"quoted\", \"index\": 11, \"data\": {\"num\": [6], \"version\": 2, \"quote_list\": [{\"name\": \"小莉帮忙\", \"scheme\": \"sinaweibo://detail?mblogid=5227465490304742\", \"index\": 6, \"label\": \"\"}]}}```  <br>   - 调解现场，女儿出示银行流水、账目凭证后，石先生以“手机充电”为由离场并失联。```wbCustomBlock{\"type\": \"quoted\", \"index\": 12, \"data\": {\"num\": [6], \"version\": 2, \"quote_list\": [{\"name\": \"小莉帮忙\", \"scheme\": \"sinaweibo://detail?mblogid=5227465490304742\", \"index\": 6, \"label\": \"\"}]}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5227463216727438&multi_paragraph=1&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.272.272.50/6974193bly8h8w6a0mzbmj207k07kdg4.jpg?KID=imgbed,tva&Expires=1761930308&ssig=ve6sE6wuiC) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">小莉帮忙</span><img src=\"http://wx4.sinaimg.cn/middle/6974193bly1i6uexzgyvuj20u01hctel.jpg\" data-width=1920 data-height=1080></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5227464743717939&multi_paragraph=1&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.272.272.50/6974193bly8h8w6a0mzbmj207k07kdg4.jpg?KID=imgbed,tva&Expires=1761930308&ssig=ve6sE6wuiC) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">小莉帮忙</span><img src=\"http://wx2.sinaimg.cn/middle/6974193bly1i6uf1l6o4yj21hc0u040d.jpg\" data-width=1080 data-height=1920></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5227465490304742&multi_paragraph=1&multi_count=2\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.272.272.50/6974193bly8h8w6a0mzbmj207k07kdg4.jpg?KID=imgbed,tva&Expires=1761930308&ssig=ve6sE6wuiC) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">小莉帮忙</span><img src=\"http://wx1.sinaimg.cn/middle/6974193bly1i6uf6agjdpj21hc0u0n05.jpg\" data-width=1080 data-height=1920></div></media-block><br>### 🔍 二、四大争议焦点与证据分析  <br>1. **资金真实去向**  <br>   - 女儿提供转账记录显示：父亲操作取款，资金流向债权人及家庭开销；法院核查确认三笔5万元为代父取现。```wbCustomBlock{\"type\": \"quoted\", \"index\": 16, \"data\": {\"num\": [5, 29], \"version\": 2, \"quote_list\": [{\"name\": \"三月的绝版L\", \"scheme\": \"sinaweibo://detail?mblogid=5227539173999972\", \"index\": 5, \"label\": \"\"}, {\"name\": \"有狐噢狐狐\", \"scheme\": \"sinaweibo://detail?mblogid=5227624068547639\", \"index\": 29, \"label\": \"\"}]}}```  <br>   - 父亲未提供“做生意”证据，债务问题由女儿代偿记录佐证。<br><br>2. **分配公平性质疑**  <br>   - **比例失衡**：大儿子独享69万元（占总额50.7%），剩余款项未按承诺“每人分点”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 19, \"data\": {\"num\": [35], \"version\": 2, \"quote_list\": [{\"name\": \"荣荣和飞\", \"scheme\": \"sinaweibo://detail?mblogid=5227545809390983\", \"index\": 35, \"label\": \"大v\"}], \"name\": \"荣荣和飞\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/a802a0e7ly8hld9g15zdqj20u00u0tbs.jpg?KID=imgbed,tva&Expires=1761930308&ssig=DptWA24qGW\", \"scheme\": \"sinaweibo://detail?mblogid=5227545809390983\", \"vType\": 0}}```  <br>   - 舆论批评：若公平分配，子女应各得约34万元，但父亲明显倾向儿子。```wbCustomBlock{\"type\": \"quoted\", \"index\": 20, \"data\": {\"num\": [4, 7, 36], \"version\": 2, \"quote_list\": [{\"name\": \"美丽carefree\", \"scheme\": \"sinaweibo://detail?mblogid=5227534736165138\", \"index\": 36, \"label\": \"大v\"}, {\"name\": \"雪意深\", \"scheme\": \"sinaweibo://detail?mblogid=5227535021640377\", \"index\": 4, \"label\": \"\"}, {\"name\": \"诗的第118页\", \"scheme\": \"sinaweibo://detail?mblogid=5227576965733119\", \"index\": 7, \"label\": \"\"}], \"name\": \"美丽carefree\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/74474923ly8hq5343fkx9j20u00u0mz6.jpg?KID=imgbed,tva&Expires=1761930308&ssig=PDjGRjWGIb\", \"scheme\": \"sinaweibo://detail?mblogid=5227534736165138\", \"vType\": 0}}```<br><br>3. **诬陷与信任崩塌**  <br>   - 父亲公开指控女儿“偷钱”，被法院证据驳斥，舆论谴责其“为向儿子交差转嫁责任”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 22, \"data\": {\"num\": [4, 23, 33], \"version\": 2, \"quote_list\": [{\"name\": \"优佳80\", \"scheme\": \"sinaweibo://detail?mblogid=5227539836705170\", \"index\": 23, \"label\": \"大v\"}, {\"name\": \"雪意深\", \"scheme\": \"sinaweibo://detail?mblogid=5227535021640377\", \"index\": 4, \"label\": \"\"}, {\"name\": \"Hedy薇薇123霓22\", \"scheme\": \"sinaweibo://detail?mblogid=5227539829884582\", \"index\": 33, \"label\": \"\"}], \"name\": \"优佳80\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/005zeBIEly8hpgv2l6hl5j30u00u0774.jpg?KID=imgbed,tva&Expires=1761930308&ssig=uKmGd5Ra6l\", \"scheme\": \"sinaweibo://detail?mblogid=5227539836705170\", \"vType\": 0}}```  <br>   - 女儿哽咽回应：“替他还债反被称‘白眼狼’”，亲情彻底破裂。```wbCustomBlock{\"type\": \"quoted\", \"index\": 23, \"data\": {\"num\": [6, 22], \"version\": 2, \"quote_list\": [{\"name\": \"刘筱颖\", \"scheme\": \"sinaweibo://detail?mblogid=5227563313274587\", \"index\": 22, \"label\": \"大v\"}, {\"name\": \"小莉帮忙\", \"scheme\": \"sinaweibo://detail?mblogid=5227465490304742\", \"index\": 6, \"label\": \"\"}], \"name\": \"刘筱颖\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.576.576.50/5b13ca66ly8hxsu0wfnk1j20g00g0abp.jpg?KID=imgbed,tva&Expires=1761930308&ssig=g8dCiKwqmZ\", \"scheme\": \"sinaweibo://detail?mblogid=5227563313274587\", \"vType\": 0}}```<br><br>4. **法律性质界定**  <br>   - 死亡赔偿金非遗产，分配需综合抚养依赖、共同生活状况，不适用均分原则。  <br>   - 女儿因保留完整流水及账目胜诉，凸显经济往来中凭证的必要性。```wbCustomBlock{\"type\": \"quoted\", \"index\": 26, \"data\": {\"num\": [24], \"version\": 2, \"quote_list\": [{\"name\": \"此间的山羊\", \"scheme\": \"sinaweibo://detail?mblogid=5227574034173980\", \"index\": 24, \"label\": \"大v\"}], \"name\": \"此间的山羊\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.855.855.50/49a536e6ly8fscvc5eympj20nr0nrmz1.jpg?KID=imgbed,tva&Expires=1761930308&ssig=AWWje2lJCo\", \"scheme\": \"sinaweibo://detail?mblogid=5227574034173980\", \"vType\": 0}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://multimedia?mix_mid=5227539173999972&mix_index=0&multi_paragraph=2&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/008AgClgly8i6r0gnygomj30u00u077v.jpg?KID=imgbed,tva&Expires=1761930308&ssig=HrcTcnCOU1) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">三月的绝版L</span><img src=\"http://wx3.sinaimg.cn/middle/008AgClgly1i6unn9yhmqj31hc0u00u3.jpg\" data-width=1080 data-height=1920></div><div data-type=\"v\" data-scheme=\"sinaweibo://multimedia?mix_mid=5227535021640377&mix_index=0&multi_paragraph=2&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/008dwrk4ly8i6ted8pg8ej30u00u0ju5.jpg?KID=imgbed,tva&Expires=1761930308&ssig=ZyxXFu5yYP) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">雪意深</span><img src=\"http://wx2.sinaimg.cn/middle/008dwrk4gy1i6un6itllcj30u01hcn02.jpg\" data-width=1920 data-height=1080></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5227563313274587&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=2&multi_count=2\"><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.576.576.50/5b13ca66ly8hxsu0wfnk1j20g00g0abp.jpg?KID=imgbed,tva&Expires=1761930308&ssig=g8dCiKwqmZ) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">刘筱颖</span><img src=\"http://wx1.sinaimg.cn/middle/5b13ca66gy1i6uobwlzl5j20w01kwdpj.jpg\" data-width=2048 data-height=1152></div></media-block><br>### 💔 三、社会反思与警示  <br>1. **重男轻女的隐性伤害**  <br>   - 儿子获房产、女儿担债务，暴露传统家庭资源分配不公。网友痛斥：“母亲的命成了丈量儿女价值的尺子”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 30, \"data\": {\"num\": [18, 34], \"version\": 2, \"quote_list\": [{\"name\": \"快乐的60后小胖子\", \"scheme\": \"sinaweibo://detail?mblogid=5227680660193673\", \"index\": 18, \"label\": \"大v\"}, {\"name\": \"绑娜娜\", \"scheme\": \"sinaweibo://detail?mblogid=5227610369163616\", \"index\": 34, \"label\": \"\"}], \"name\": \"快乐的60后小胖子\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/c1333fc6ly8hvq8mmln9ej20u00u0gql.jpg?KID=imgbed,tva&Expires=1761930308&ssig=wvYyDXN0OF\", \"scheme\": \"sinaweibo://detail?mblogid=5227680660193673\", \"vType\": 0}}```  <br>   - 父亲将亲情异化为“自私者的武器”，利用舆论抹黑女儿。```wbCustomBlock{\"type\": \"quoted\", \"index\": 31, \"data\": {\"num\": [8, 35], \"version\": 2, \"quote_list\": [{\"name\": \"友阁大掌柜\", \"scheme\": \"sinaweibo://detail?mblogid=5227729540879847\", \"index\": 8, \"label\": \"\"}, {\"name\": \"荣荣和飞\", \"scheme\": \"sinaweibo://detail?mblogid=5227545809390983\", \"index\": 35, \"label\": \"\"}]}}```<br><br>2. **亲情修复的可能性**  <br>   - 父亲回避责任、拒绝沟通，信任难重建；女儿胜诉后未追讨19万元赔偿，试图保全亲情未果。```wbCustomBlock{\"type\": \"quoted\", \"index\": 33, \"data\": {\"num\": [19, 28], \"version\": 2, \"quote_list\": [{\"name\": \"召召与木木的26年\", \"scheme\": \"sinaweibo://detail?mblogid=5227738763887003\", \"index\": 19, \"label\": \"大v\"}, {\"name\": \"长春这噶儿\", \"scheme\": \"sinaweibo://detail?mblogid=5227730507661648\", \"index\": 28, \"label\": \"\"}], \"name\": \"召召与木木的26年\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.768.768.50/563623b6ly8hoq501uw09j20lc0lcwg6.jpg?KID=imgbed,tva&Expires=1761930308&ssig=l6kctBHi9Q\", \"scheme\": \"sinaweibo://detail?mblogid=5227738763887003\", \"vType\": 0}}```  <br>   - 调解呼吁“亲情重于金钱”未能奏效，家庭裂痕持续扩大。```wbCustomBlock{\"type\": \"quoted\", \"index\": 34, \"data\": {\"num\": [6, 31], \"version\": 2, \"quote_list\": [{\"name\": \"第一球迷胖哥\", \"scheme\": \"sinaweibo://detail?mblogid=5227732209241229\", \"index\": 31, \"label\": \"大v\"}, {\"name\": \"小莉帮忙\", \"scheme\": \"sinaweibo://detail?mblogid=5227465490304742\", \"index\": 6, \"label\": \"\"}], \"name\": \"第一球迷胖哥\", \"img\": \"https://tva2.sinaimg.cn/crop.0.0.996.996.50/4b526c86jw8fb0zpbfklwj20ro0rojuj.jpg?KID=imgbed,tva&Expires=1761930308&ssig=%2FZDYBwjV6r\", \"scheme\": \"sinaweibo://detail?mblogid=5227732209241229\", \"vType\": 0}}```<br><br>3. **普适性警示**  <br>   - **证据意识**：家庭大额资金往来需保留凭证，避免无据纠纷。```wbCustomBlock{\"type\": \"quoted\", \"index\": 36, \"data\": {\"num\": [24], \"version\": 2, \"quote_list\": [{\"name\": \"此间的山羊\", \"scheme\": \"sinaweibo://detail?mblogid=5227574034173980\", \"index\": 24, \"label\": \"\"}]}}```  <br>   - **逝者遗愿的背离**：赔偿款本为抚慰生者，却成亲情撕裂的导火索。```wbCustomBlock{\"type\": \"quoted\", \"index\": 37, \"data\": {\"num\": [19, 28], \"version\": 2, \"quote_list\": [{\"name\": \"长春这噶儿\", \"scheme\": \"sinaweibo://detail?mblogid=5227730507661648\", \"index\": 28, \"label\": \"大v\"}, {\"name\": \"召召与木木的26年\", \"scheme\": \"sinaweibo://detail?mblogid=5227738763887003\", \"index\": 19, \"label\": \"\"}], \"name\": \"长春这噶儿\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.373.373.50/7a2d7344ly8gz8sp07lyjj20ad0adgm0.jpg?KID=imgbed,tva&Expires=1761930308&ssig=aNsUDoMJoI\", \"scheme\": \"sinaweibo://detail?mblogid=5227730507661648\", \"vType\": 0}}```  <br>   - **法律底线**：诬陷行为浪费司法资源，需承担法律责任（如《民事诉讼法》对虚假陈述的惩戒）。```wbCustomBlock{\"type\": \"quoted\", \"index\": 38, \"data\": {\"num\": [8, 9], \"version\": 2, \"quote_list\": [{\"name\": \"法者青锋\", \"scheme\": \"sinaweibo://detail?mblogid=5227571206687870\", \"index\": 9, \"label\": \"\"}, {\"name\": \"友阁大掌柜\", \"scheme\": \"sinaweibo://detail?mblogid=5227729540879847\", \"index\": 8, \"label\": \"\"}], \"name\": \"法者青锋\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.896.896.50/49637064ly8i108fe35b1j20ow0ow0ts.jpg?KID=imgbed,tva&Expires=1761930308&ssig=S57QgwxcZm\", \"scheme\": \"sinaweibo://detail?mblogid=5227571206687870\", \"vType\": 0}}```<br><br>> **此案揭示的核心矛盾已超出金钱纠纷，成为人性与亲情的残酷试金石**。逝者用生命换来的补偿，唯有以透明、担当和公平对待，方能告慰其灵。<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5227729540879847&multi_paragraph=3&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/007cNPTkly8i49w4rx4uwj30u00u0gp9.jpg?KID=imgbed,tva&Expires=1761930308&ssig=6H361jdsj%2B) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">友阁大掌柜</span><img src=\"http://wx4.sinaimg.cn/middle/007cNPTkly1i6v9j43krvj30sg0g0wf0.jpg\" data-width=576 data-height=1024></div></media-block><br>",
+      "news_analyze": {},
+      "version": "2025-10-31 22:05:08.019999-3720",
+      "page_id": "232964b0c445cad47321652a0a93bba9b8314e",
+      "unify_md5": "d5c7bd237187ed5dd17e3c057c3fb5dd",
+      "reference_num": 31,
+      "zs_risk_control": {
+        "think_text_close": 0,
+        "land_button_close": 0
+      },
+      "short_url": "http://t.cn/AXAUH5bg",
+      "ext_show": {},
+      "msg_format": "markdown",
+      "loop_times": 200,
+      "analysis_time": 1761919604,
+      "msg_json": "{}",
+      "basemodel": "实验组4",
+      "mid_list": null,
+      "status": 2
+    }
+  },
+  "links": [
+    "sinaweibo://detail?mblogid=5227463216727438",
+    "sinaweibo://detail?mblogid=5227535388377573",
+    "sinaweibo://detail?mblogid=5227464743717939",
+    "sinaweibo://detail?mblogid=5227535021640377",
+    "sinaweibo://detail?mblogid=5227539173999972",
+    "sinaweibo://detail?mblogid=5227465490304742",
+    "sinaweibo://detail?mblogid=5227576965733119",
+    "sinaweibo://detail?mblogid=5227729540879847",
+    "sinaweibo://detail?mblogid=5227571206687870",
+    "sinaweibo://detail?mblogid=5135043548938466",
+    "https://m.toutiao.com/a1847418791848000/",
+    "https://3g.china.com/act/news/10000169/20251030/48949822.html",
+    "https://m.toutiao.com/article/7566965577579823631/",
+    "https://m.toutiao.com/article/7566971278800732722/",
+    "historyweibo://5227740938899407",
+    "historyweibo://5227463216727438",
+    "historyweibo://5227463216727438",
+    "sinaweibo://detail?mblogid=5227680660193673",
+    "sinaweibo://detail?mblogid=5227738763887003",
+    "sinaweibo://detail?mblogid=5227544242558409",
+    "sinaweibo://detail?mblogid=5227725822626240",
+    "sinaweibo://detail?mblogid=5227563313274587",
+    "sinaweibo://detail?mblogid=5227539836705170",
+    "sinaweibo://detail?mblogid=5227574034173980",
+    "sinaweibo://detail?mblogid=5227535878588184",
+    "sinaweibo://detail?mblogid=5227558887229294",
+    "sinaweibo://detail?mblogid=5227723066968390",
+    "sinaweibo://detail?mblogid=5227730507661648",
+    "sinaweibo://detail?mblogid=5227624068547639",
+    "sinaweibo://detail?mblogid=5227805828186536",
+    "sinaweibo://detail?mblogid=5227732209241229",
+    "sinaweibo://detail?mblogid=5227534749795547",
+    "sinaweibo://detail?mblogid=5227539829884582",
+    "sinaweibo://detail?mblogid=5227610369163616",
+    "sinaweibo://detail?mblogid=5227545809390983",
+    "sinaweibo://detail?mblogid=5227534736165138",
+    "sinaweibo://detail?mblogid=5227617160528288",
+    "sinaweibo://detail?mblogid=5227600264038783",
+    "https://k.sina.cn/article_5787187353_v158f1789902001zoli.html?from=news&subch=onews&wm=3049_0032",
+    "https://k.sina.cn/article_1769216315_m6974193b033019vr0.html?from=society&wm=3049_0032",
+    "https://www.toutiao.com/a1847369457055820/",
+    "https://www.toutiao.com/a1847372380137674/",
+    "https://mparticle.uc.cn/article.html?uc_param_str=frdnsnpfvecpntnwprdssskt#!wm_aid=c19674aa901a7ec162b8a6478ed25edb!!wm_id=1d924cd4b2b1447797277935ad4c31d2"
+  ],
+  "media": [
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/6974193bly1i6uexzgyvuj20u01hctel.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/6974193bly1i6uexzgyvuj20u01hctel.jpg",
+      "alt": "小莉帮忙",
+      "width": 1920,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/6974193bly1i6uexzgyvuj20u01hctel.jpg"
+      ],
+      "user": "小莉帮忙"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/6974193bly1i6uf1l6o4yj21hc0u040d.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/6974193bly1i6uf1l6o4yj21hc0u040d.jpg",
+      "alt": "小莉帮忙",
+      "width": 1080,
+      "height": 1920,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/6974193bly1i6uf1l6o4yj21hc0u040d.jpg"
+      ],
+      "user": "小莉帮忙"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/6974193bly1i6uf6agjdpj21hc0u0n05.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/6974193bly1i6uf6agjdpj21hc0u0n05.jpg",
+      "alt": "小莉帮忙",
+      "width": 1080,
+      "height": 1920,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/6974193bly1i6uf6agjdpj21hc0u0n05.jpg"
+      ],
+      "user": "小莉帮忙"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/008AgClgly1i6unn9yhmqj31hc0u00u3.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/008AgClgly1i6unn9yhmqj31hc0u00u3.jpg",
+      "alt": "三月的绝版L",
+      "width": 1080,
+      "height": 1920,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/008AgClgly1i6unn9yhmqj31hc0u00u3.jpg"
+      ],
+      "user": "三月的绝版L"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/008dwrk4gy1i6un6itllcj30u01hcn02.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/008dwrk4gy1i6un6itllcj30u01hcn02.jpg",
+      "alt": "雪意深",
+      "width": 1920,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/008dwrk4gy1i6un6itllcj30u01hcn02.jpg"
+      ],
+      "user": "雪意深"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/5b13ca66gy1i6uobwlzl5j20w01kwdpj.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/5b13ca66gy1i6uobwlzl5j20w01kwdpj.jpg",
+      "alt": "刘筱颖",
+      "width": 2048,
+      "height": 1152,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/5b13ca66gy1i6uobwlzl5j20w01kwdpj.jpg"
+      ],
+      "user": "刘筱颖"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/007cNPTkly1i6v9j43krvj30sg0g0wf0.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/007cNPTkly1i6v9j43krvj30sg0g0wf0.jpg",
+      "alt": "友阁大掌柜",
+      "width": 576,
+      "height": 1024,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/007cNPTkly1i6v9j43krvj30sg0g0wf0.jpg"
+      ],
+      "user": "友阁大掌柜"
+    }
+  ],
+  "html_path": "data/aicard/hourly/2025-10-31/02/136.html"
+}

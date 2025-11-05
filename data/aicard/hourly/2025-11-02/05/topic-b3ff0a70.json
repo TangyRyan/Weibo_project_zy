@@ -1,0 +1,132 @@
+{
+  "meta": {
+    "query": "#泰州女主帅踢过世界杯#",
+    "status_code": 200,
+    "fetched_at": "2025-11-02T05:31:03+08:00",
+    "response": {
+      "status": 2,
+      "user_info": {},
+      "uid": "",
+      "loop_times": 200,
+      "analysis_time": 1762032348,
+      "page_id": "23296456ca743756e5c899bc0ba5ee2ed145e3",
+      "model": "deepseek",
+      "unify_md5": "b3ff0a7013524ba5c464043342c067ba",
+      "mid_list": null,
+      "reference_num": 7,
+      "status_stage": 4,
+      "link_list": [
+        "sinaweibo://detail?mblogid=5228307655164322",
+        "broadsocial_res://",
+        "historyweibo://5228307655164322",
+        "historyweibo://5153269953336111",
+        "historyweibo://4951789848232575",
+        "sinaweibo://detail?mblogid=5228315284870871",
+        "sinaweibo://detail?mblogid=5228377889833497",
+        "sinaweibo://detail?mblogid=5228376453547031",
+        "sinaweibo://detail?mblogid=5228357626365246",
+        "sinaweibo://detail?mblogid=5228341558774697",
+        "sinaweibo://detail?mblogid=5228323362842287"
+      ],
+      "ext_show": {},
+      "top_quote_list": {},
+      "card_multimodal": {},
+      "share_card_multimodal": {
+        "user_name": "扬子晚报",
+        "user_avatar": "https://tvax1.sinaimg.cn/crop.0.0.500.500.50/6f0b57d3ly8hwk84x7yhwj20dw0dwwf7.jpg?KID=imgbed,tva&Expires=1762042999&ssig=HYt977G1Ii",
+        "w": 1080,
+        "video_url": "https://video.weibo.com/show?fid=1034:5197420943048801",
+        "type": "v",
+        "doc_score": 0,
+        "img_pid": "001NUlVxly1i46ko69wkwj60u01hcacf02",
+        "img": "http://wx2.sinaimg.cn/middle/001NUlVxly1i46ko69wkwj60u01hcacf02.jpg",
+        "click_rate": 0.12318972170518,
+        "vtype": 3,
+        "scheme": "sinaweibo://video/vvs?mid=5228307655164322&multi_paragraph=0&multi_count=0",
+        "hit_score_new": 0,
+        "h": 1920,
+        "cur_mid": "5228307655164322",
+        "hit_score_final": 0
+      },
+      "msg_format": "markdown",
+      "query_category": "",
+      "zs_risk_control": {
+        "think_text_close": 0,
+        "land_button_close": 0
+      },
+      "msg_json": "{}",
+      "query_field": "20",
+      "chat_status_stage": 1,
+      "news_analyze": {},
+      "scheme": "sinaweibo://cardlist?containerid=100103type%3D225%26q%3D%23%E6%B3%B0%E5%B7%9E%E5%A5%B3%E4%B8%BB%E5%B8%85%E8%B8%A2%E8%BF%87%E4%B8%96%E7%95%8C%E6%9D%AF%23%26t%3D&extparam=ai_model%3Ddeepseek%26ori_ai_title%3D%E5%8F%82%E8%80%83%E5%8D%9A%E6%96%87%26material_version%3D1762032199",
+      "qs_status_info": "{\"qs_c_status\":8388608,\"qs_status\":0,\"qs_q_status\":0,\"ab_lab\":{},\"qs_u_status\":0,\"qs_r_status\":0}",
+      "current_time": 1762032664,
+      "cot": 1,
+      "ab_suffix": "default",
+      "show_ctrl": {
+        "quote": {}
+      },
+      "comment_info": {},
+      "query": "#泰州女主帅踢过世界杯#",
+      "reliable_tips": "{\"gold_orange_v_mids\": [\"5228376453547031\", \"5228357626365246\"], \"gold_orange_v_ratio\": \"29%\", \"media_mids\": [\"5228307655164322\", \"5228315284870871\"], \"media_ratio\": \"29%\", \"verified_mids\": [\"5228323362842287\", \"5228377889833497\"], \"verified_ratio\": \"28%\", \"normal_mids\": [\"5228341558774697\"], \"normal_ratio\": \"14%\", \"ref_mid_rank\": {\"5228307655164322\": {\"rank\": 1}, \"5228315284870871\": {\"rank\": 6}, \"5228376453547031\": {\"rank\": 8}, \"5228323362842287\": {\"rank\": 11}, \"5228377889833497\": {\"rank\": 7}, \"5228357626365246\": {\"rank\": 9}, \"5228341558774697\": {\"rank\": 10}}}",
+      "profile_image_url": "",
+      "msg": "<think><br><br>首先，用户查询是“泰州女主帅踢过世界杯”，意思是“泰州女主帅踢过世界杯”。我需要基于搜索结果来回答这个问题。<br><br>搜索结果概述：<br>- 结果1：微博，来自扬子晚报，内容详细介绍了周高萍作为泰州队主教练的背景。她是前中国女足队员，2007年参加了女足世界杯，帮助球队打进八强。还有其他执教经历和理念。<br>- 结果2：资料，讨论了泰州队的背景，强调周高萍的执教成就。<br>- 结果3：资料，综合了周高萍的核心身份、足球生涯、执教理念、社会影响和争议澄清。确认她参加了2007年世界杯。<br>- 结果4：资料，关于中国女足2025年4月8日的比赛，与泰州女主帅无关。<br>- 结果5：资料，关于2023年中国女足vs泰国女足，无关。<br>- 结果6：微博，扬子晚报，简要介绍夺冠后回应。<br>- 结果7：微博，用户评论，称赞周高萍。<br>- 结果8：微博，用户评论，再次确认她是唯一女主帅。<br>- 结果9：微博，内容为空，无效。<br>- 结果10：微博，用户讨论“玄学”庆祝，被澄清为不实。<br>- 结果11：微博，热搜电台，概述周高萍的经历和成就。<br><br>关键信息：<br>- 周高萍是泰州队主教练。<br>- 她踢过世界杯：2007年9月随中国女足参加世界杯，司职左后卫，帮助球队打进八强。<br>- 证据：结果1、3、8、11都明确提到。<br>- 其他信息：她的执教经历、理念、夺冠等。<br><br>用户需求：用户想知道泰州女主帅（周高萍）是否踢过世界杯。回答应该直接、准确、简洁。<br><br>任务要求：<br>- 引用格式：在答案中对应部分使用[^X]引用结果编号。<br>- 避免在开头或结尾说“根据搜索结果”，直接整合信息。<br>- 如果使用自身知识，但不能与搜索结果冲突。搜索结果支持她的世界杯经历，所以无需额外知识。<br>- 语言：与查询一致，用户是中文查询，所以用中文回答。<br>- 结构：开头吸引注意力，然后呈现关键内容。<br>- 长度：保持简洁，因为问题是事实性的。<br>- 风险控制：信息可信，来自媒体账号如扬子晚报，资料结果也可靠。用户评论如结果10有争议内容，但已被澄清，应避免或谨慎处理。<br>- 内容组织：既然问题简单，不需要长段落；可以简洁回答。<br><br>生成回答步骤：<br>1. **开头**：吸引注意力，直接点明关键事实。例如，突出她确实踢过世界杯。<br>2. **主体**：简要介绍她的背景、世界杯经历、当前成就（因为相关）。<br>3. **结尾**：自然结束，无需总结。<br>4. **引用**：在相关句子末尾添加引用，如。<br><br>完整回答大纲：<br>- 开头：是的，泰州女主帅周高萍踢过世界杯。<br>- 细节：她作为前中国女足队员，在2007年世界杯上场，帮助球队进八强。<br>- 扩展：现在她是苏超唯一女主帅，并率队夺冠。<br>- 引用：在事实处引用。<br><br>确保引用：<br>- 世界杯经历：引用结果1、3、8、11。<br>- 执教成就：引用结果1、6、3等。<br><br>最终回答结构：<br>- 第一句确认事实。<br>- 第二句展开世界杯细节。<br>- 第三句简介当前角色。<br>- 适当引用。<br><br></think><br>是的，泰州女主帅周高萍确实踢过世界杯。她是前中国国家女子足球队队员，司职左后卫，于2007年9月随中国女足参加了女足世界杯，并帮助球队打入八强，展现了出色的竞技水平。作为江苏泰州足球队的主教练，她在2025年11月1日率领球队夺得“苏超”（江苏省足球超级联赛）冠军，成为中国草根足球领域首位执教男足职业梯队并夺冠的女性主帅，其从世界杯国脚到冠军教练的转型，体现了足球领域的突破与成长。```wbCustomBlock{\"type\": \"quoted\", \"index\": 1, \"data\": {\"num\": [1, 6, 8, 11], \"version\": 2, \"quote_list\": [{\"name\": \"扬子晚报\", \"scheme\": \"sinaweibo://detail?mblogid=5228307655164322\", \"index\": 1, \"label\": \"大v\"}, {\"name\": \"扬子晚报\", \"scheme\": \"sinaweibo://detail?mblogid=5228315284870871\", \"index\": 6, \"label\": \"\"}, {\"name\": \"月亮不鸣\", \"scheme\": \"sinaweibo://detail?mblogid=5228376453547031\", \"index\": 8, \"label\": \"\"}, {\"name\": \"热搜电台\", \"scheme\": \"sinaweibo://detail?mblogid=5228323362842287\", \"index\": 11, \"label\": \"\"}], \"name\": \"扬子晚报\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.500.500.50/6f0b57d3ly8hwk84x7yhwj20dw0dwwf7.jpg?KID=imgbed,tva&Expires=1762042999&ssig=HYt977G1Ii\", \"scheme\": \"sinaweibo://detail?mblogid=5228307655164322\", \"vType\": 3}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5228307655164322&multi_paragraph=0&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.500.500.50/6f0b57d3ly8hwk84x7yhwj20dw0dwwf7.jpg?KID=imgbed,tva&Expires=1762042999&ssig=HYt977G1Ii) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">扬子晚报</span><img src=\"http://wx2.sinaimg.cn/middle/001NUlVxly1i46ko69wkwj60u01hcacf02.jpg\" data-width=1920 data-height=1080></div></media-block><br>",
+      "basemodel": "实验组1",
+      "short_url": "http://t.cn/AXA6zmxV",
+      "version": "2025-11-02 05:23:19.009999-2100",
+      "qs_status": 0,
+      "wenda": {
+        "forward_gen": 0
+      },
+      "share_text": "#泰州女主帅踢过世界杯#的相关内容，来智搜看看",
+      "share_info": {
+        "page_id": "23296456ca743756e5c899bc0ba5ee2ed145e3",
+        "status": 3,
+        "display_name": "#泰州女主帅踢过世界杯#",
+        "tips": "#泰州女主帅踢过世界杯#的相关内容，来智搜看看",
+        "comment_content": "",
+        "unify_md5": "b3ff0a7013524ba5c464043342c067ba",
+        "url": "http://t.cn/AXA6zZVS"
+      },
+      "sorted_material_list": null,
+      "q_attr": {
+        "from_uid": "",
+        "reply_cid": "",
+        "comment_from_type": "",
+        "from_request_id": "",
+        "mid": ""
+      },
+      "abtest_info": {
+        "chat_entrance": 1
+      }
+    }
+  },
+  "links": [
+    "sinaweibo://detail?mblogid=5228307655164322",
+    "broadsocial_res://",
+    "historyweibo://5228307655164322",
+    "historyweibo://5153269953336111",
+    "historyweibo://4951789848232575",
+    "sinaweibo://detail?mblogid=5228315284870871",
+    "sinaweibo://detail?mblogid=5228377889833497",
+    "sinaweibo://detail?mblogid=5228376453547031",
+    "sinaweibo://detail?mblogid=5228357626365246",
+    "sinaweibo://detail?mblogid=5228341558774697",
+    "sinaweibo://detail?mblogid=5228323362842287"
+  ],
+  "media": [
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/001NUlVxly1i46ko69wkwj60u01hcacf02.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/001NUlVxly1i46ko69wkwj60u01hcacf02.jpg",
+      "alt": "扬子晚报",
+      "width": 1920,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/001NUlVxly1i46ko69wkwj60u01hcacf02.jpg"
+      ],
+      "user": "扬子晚报"
+    }
+  ],
+  "html_path": "data/aicard/hourly/2025-11-02/05/topic-b3ff0a70.html"
+}

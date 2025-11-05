@@ -1,0 +1,323 @@
+{
+  "meta": {
+    "query": "#发现台独线索可举报#",
+    "status_code": 200,
+    "fetched_at": "2025-10-28T17:48:02+08:00",
+    "response": {
+      "version": "2025-10-28 17:22:44.009000-4074",
+      "ab_suffix": "default",
+      "news_analyze": {},
+      "reliable_tips": "{\"gold_orange_v_mids\": [\"5226689262262228\", \"5226729119417943\", \"5226675013946896\", \"5220858434159886\", \"5226719838996303\", \"5226675009749171\", \"5226703529968024\", \"5226666113894435\", \"5226689941471383\", \"5226709452328584\", \"5226697105869829\", \"5226772780289289\", \"5226736939698270\", \"5226719183374690\", \"5226705359737255\", \"5226684806595905\", \"5226691476589738\", \"5226688595364668\", \"5226683579764499\", \"5226742307622751\"], \"gold_orange_v_ratio\": \"63%\", \"media_mids\": [\"5226662687671198\", \"5226667595530273\", \"5224543078845916\", \"5220600520114902\", \"5226669279548069\", \"5226689422165615\", \"5226737593746914\", \"5226681306188348\", \"5226726789744047\", \"5226728220005129\"], \"media_ratio\": \"31%\", \"verified_mids\": [\"5226662041227900\", \"5226738293933693\"], \"verified_ratio\": \"6%\", \"normal_mids\": [], \"normal_ratio\": \"0%\", \"ref_mid_rank\": {\"5226662687671198\": {\"rank\": 1}, \"5226662041227900\": {\"rank\": 2}, \"5226667595530273\": {\"rank\": 8}, \"5224543078845916\": {\"rank\": 36}, \"5220600520114902\": {\"rank\": 11}, \"5226689262262228\": {\"rank\": 19}, \"5226729119417943\": {\"rank\": 23}, \"5226675013946896\": {\"rank\": 20}, \"5226669279548069\": {\"rank\": 33}, \"5220858434159886\": {\"rank\": 10}, \"5226719838996303\": {\"rank\": 32}, \"5226675009749171\": {\"rank\": 7}, \"5226689422165615\": {\"rank\": 3}, \"5226737593746914\": {\"rank\": 4}, \"5226703529968024\": {\"rank\": 5}, \"5226666113894435\": {\"rank\": 6}, \"5226689941471383\": {\"rank\": 9}, \"5226709452328584\": {\"rank\": 12}, \"5226697105869829\": {\"rank\": 17}, \"5226681306188348\": {\"rank\": 18}, \"5226772780289289\": {\"rank\": 21}, \"5226738293933693\": {\"rank\": 22}, \"5226726789744047\": {\"rank\": 24}, \"5226736939698270\": {\"rank\": 25}, \"5226719183374690\": {\"rank\": 26}, \"5226728220005129\": {\"rank\": 27}, \"5226705359737255\": {\"rank\": 28}, \"5226684806595905\": {\"rank\": 29}, \"5226691476589738\": {\"rank\": 30}, \"5226688595364668\": {\"rank\": 31}, \"5226683579764499\": {\"rank\": 34}, \"5226742307622751\": {\"rank\": 35}}}",
+      "q_attr": {
+        "from_request_id": "",
+        "from_uid": ""
+      },
+      "share_text": "#发现台独线索可举报#的相关内容，来智搜看看",
+      "unify_md5": "766d1f11164b6cfe13b627f0a78fa51d",
+      "analysis_time": 1761643554,
+      "query": "#发现台独线索可举报#",
+      "mid_list": null,
+      "reference_num": 32,
+      "status_stage": 4,
+      "uid": "",
+      "top_quote_list": {},
+      "card_multimodal": {
+        "type": "mediablock",
+        "data": [
+          {
+            "doc_score": 0,
+            "img_pid": "0060couvly1i6rrj9oll7j31o02yo4qp",
+            "w": 2160,
+            "h": 3840,
+            "vtype": 1,
+            "img": "http://wx3.sinaimg.cn/middle/0060couvly1i6rrj9oll7j31o02yo4qp.jpg",
+            "cur_mid": "5226662041227900",
+            "type": "p",
+            "user_name": "平安重庆",
+            "hit_score_final": 0,
+            "user_avatar": "https://tvax1.sinaimg.cn/crop.0.0.512.512.50/0060couvly8h8vjnn60bgj30e80e8wfj.jpg?KID=imgbed,tva&Expires=1761654164&ssig=TfB%2FjXZ%2Fgz",
+            "scheme": "sinaweibo://multimedia?mix_mid=5226662041227900&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=0",
+            "video_url": "",
+            "click_rate": 0.36841303584792,
+            "hit_score_new": 0
+          },
+          {
+            "doc_score": 5835,
+            "img_pid": "0033ImPzly1i68isd39gyj60j60u546q02",
+            "w": 690,
+            "h": 1085,
+            "vtype": 3,
+            "img": "http://wx1.sinaimg.cn/middle/0033ImPzly1i68isd39gyj60j60u546q02.jpg",
+            "cur_mid": "5220600520114902",
+            "type": "p",
+            "user_name": "人民日报",
+            "hit_score_final": 82.807816,
+            "user_avatar": "https://tvax4.sinaimg.cn/crop.0.0.1018.1018.50/0033ImPzly8h8vgemh8kxj60sa0sadgw02.jpg?KID=imgbed,tva&Expires=1761654164&ssig=qhKgIUErZ7",
+            "scheme": "sinaweibo://multimedia?mix_mid=5220600520114902&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=1",
+            "video_url": "",
+            "click_rate": 0.23262839879154,
+            "hit_score_new": 96.679688
+          },
+          {
+            "doc_score": 3998,
+            "img_pid": "006wFUKngy1i6ry2yg6qoj30qo0ro42s",
+            "w": 960,
+            "h": 996,
+            "vtype": 0,
+            "img": "http://wx4.sinaimg.cn/middle/006wFUKngy1i6ry2yg6qoj30qo0ro42s.jpg",
+            "cur_mid": "5226689262262228",
+            "type": "p",
+            "user_name": "五桶工坊",
+            "hit_score_final": 67.706642,
+            "user_avatar": "https://tvax2.sinaimg.cn/crop.0.0.996.996.50/006wFUKnly8fxr8jmd8bwj30ro0ro42a.jpg?KID=imgbed,tva&Expires=1761654164&ssig=nzyArnNTSq",
+            "scheme": "sinaweibo://multimedia?mix_mid=5226689262262228&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=1&multi_count=2",
+            "video_url": "",
+            "click_rate": 0.11702014281147,
+            "hit_score_new": 82.177734
+          },
+          {
+            "doc_score": 0,
+            "img_pid": "0060couvly1i6rrj9oll7j31o02yo4qp",
+            "w": 2160,
+            "h": 3840,
+            "vtype": 1,
+            "img": "http://wx3.sinaimg.cn/middle/0060couvly1i6rrj9oll7j31o02yo4qp.jpg",
+            "cur_mid": "5226662041227900",
+            "type": "p",
+            "user_name": "平安重庆",
+            "hit_score_final": 0,
+            "user_avatar": "https://tvax1.sinaimg.cn/crop.0.0.512.512.50/0060couvly8h8vjnn60bgj30e80e8wfj.jpg?KID=imgbed,tva&Expires=1761654164&ssig=TfB%2FjXZ%2Fgz",
+            "scheme": "sinaweibo://multimedia?mix_mid=5226662041227900&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=0",
+            "video_url": "",
+            "click_rate": 0.36841303584792,
+            "hit_score_new": 0
+          }
+        ]
+      },
+      "share_card_multimodal": {
+        "doc_score": 0,
+        "img_pid": "0060couvly1i6rrj9oll7j31o02yo4qp",
+        "w": 2160,
+        "h": 3840,
+        "vtype": 1,
+        "img": "http://wx3.sinaimg.cn/middle/0060couvly1i6rrj9oll7j31o02yo4qp.jpg",
+        "cur_mid": "5226662041227900",
+        "type": "p",
+        "user_name": "平安重庆",
+        "hit_score_final": 0,
+        "user_avatar": "https://tvax1.sinaimg.cn/crop.0.0.512.512.50/0060couvly8h8vjnn60bgj30e80e8wfj.jpg?KID=imgbed,tva&Expires=1761654164&ssig=TfB%2FjXZ%2Fgz",
+        "scheme": "sinaweibo://multimedia?mix_mid=5226662041227900&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=0",
+        "video_url": "",
+        "click_rate": 0.36841303584792,
+        "hit_score_new": 0
+      },
+      "model": "deepseek",
+      "msg_format": "markdown",
+      "abtest_info": {
+        "chat_entrance": 1
+      },
+      "ext_show": {},
+      "status": 2,
+      "zs_risk_control": {
+        "think_text_close": 0,
+        "land_button_close": 0
+      },
+      "profile_image_url": "",
+      "msg": "<think><br><br>嗯，用户查询的是关于\"发现台独线索可举报\"的相关信息。从搜索结果来看，这个话题在2025年10月28日成为热点，主要与重庆市公安局对台独分子沈伯洋立案侦查的事件有关。<br><br>用户可能是一位关心国家统一的热心公民，想了解如何举报台独线索的具体流程和渠道。我需要从搜索结果中整理出最核心、最实用的举报信息。<br><br>在这些搜索结果中，都明确提供了重庆市公安局的举报渠道：邮箱CQGACTD@163.com和电话023-65697660。这是针对沈伯洋案件设立的专项举报通道。还补充了国台办的统一举报邮箱jubao@suremail.cn，这个渠道从2025年3月就已开通，累计收到超6000封举报邮件。<br><br>关于举报对象，详细列出了三类重点对象：核心顽固分子(如沈伯洋)、分裂组织(如\"黑熊学院\")、以及为台独提供资金或舆论支持的公职人员和网红。提到部分台湾艺人的模糊立场问题，这提醒我需要在注意事项中强调举报必须基于确凿证据。<br><br>法律依据方面，都提到主要依据是《刑法》和2024年发布的《关于依法惩治\"台独\"顽固分子分裂国家、煽动分裂国家犯罪的意见》。还补充说明诬告需承担法律责任的重要提示。<br><br>提到的厦门市公安局悬赏案例特别有价值，这个案例源于台湾民众举报，生动说明了两岸民众共同反独的协作模式。我可以将此作为社会意义的典型案例。<br><br>最后注意到关于举报数量的数据差异，需要谨慎处理。国台办公布的是累计6000余封，避免引用未经证实的\"3000封\"说法。<br><br>准备在回复时突出四个维度：举报渠道要具体清晰，举报对象要明确分类，法律依据要简明扼要，社会意义要强调全民参与。特别要用警告符号标注诬告的法律风险，这是保障举报机制健康运行的关键。<br><br></think><br>以下是关于“发现台独线索可举报”的完整指南，整合官方政策、举报渠道及操作要点：<br>### 🔍 **一、举报重点对象与范围**  <br>1. **核心顽固分子**  <br>   - 如沈伯洋（“黑熊学院”创始人）、曹兴诚等已被纳入国台办“台独顽固分子清单”者。```wbCustomBlock{\"type\": \"quoted\", \"index\": 5, \"data\": {\"num\": [1, 2, 8], \"version\": 2, \"quote_list\": [{\"name\": \"央视新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5226662687671198\", \"index\": 1, \"label\": \"大v\"}, {\"name\": \"平安重庆\", \"scheme\": \"sinaweibo://detail?mblogid=5226662041227900\", \"index\": 2, \"label\": \"\"}, {\"name\": \"央视新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5226667595530273\", \"index\": 8, \"label\": \"\"}], \"name\": \"央视新闻\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.690.690.50/002TLsr9ly8i653ifvwbtj60j60j6aai02.jpg?KID=imgbed,tva&Expires=1761654164&ssig=8FgXmUJNBt\", \"scheme\": \"sinaweibo://detail?mblogid=5226662687671198\", \"vType\": 3}}```  <br>   - 行为包括建立分裂组织（如“黑熊学院”）、宣扬“台独”谬论、煽动分裂国家。```wbCustomBlock{\"type\": \"quoted\", \"index\": 6, \"data\": {\"num\": [2], \"version\": 2, \"quote_list\": [{\"name\": \"平安重庆\", \"scheme\": \"sinaweibo://detail?mblogid=5226662041227900\", \"index\": 2, \"label\": \"大v\"}], \"name\": \"平安重庆\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.512.512.50/0060couvly8h8vjnn60bgj30e80e8wfj.jpg?KID=imgbed,tva&Expires=1761654164&ssig=TfB%2FjXZ%2Fgz\", \"scheme\": \"sinaweibo://detail?mblogid=5226662041227900\", \"vType\": 1}}```  <br><br>2. **分裂组织及其帮凶**  <br>   - **组织**：“黑熊学院”“台军心战大队”等策划分裂活动的团体。```wbCustomBlock{\"type\": \"quoted\", \"index\": 8, \"data\": {\"num\": [36], \"version\": 2, \"quote_list\": [{\"name\": \"参考消息\", \"scheme\": \"sinaweibo://detail?mblogid=5224543078845916\", \"index\": 36, \"label\": \"大v\"}], \"name\": \"参考消息\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.512.512.50/002AJCr1ly8h8vh2ucc4tj60e80e8q3602.jpg?KID=imgbed,tva&Expires=1761654164&ssig=VjxAe7Ka9p\", \"scheme\": \"sinaweibo://detail?mblogid=5224543078845916\", \"vType\": 3}}```  <br>   - **支持者**：为“台独”提供资金、舆论支持的公职人员、网红及关联机构（如台军“心战大队”18名核心骨干）。```wbCustomBlock{\"type\": \"quoted\", \"index\": 9, \"data\": {\"num\": [11], \"version\": 2, \"quote_list\": [{\"name\": \"人民日报\", \"scheme\": \"sinaweibo://detail?mblogid=5220600520114902\", \"index\": 11, \"label\": \"大v\"}], \"name\": \"人民日报\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.1018.1018.50/0033ImPzly8h8vgemh8kxj60sa0sadgw02.jpg?KID=imgbed,tva&Expires=1761654164&ssig=qhKgIUErZ7\", \"scheme\": \"sinaweibo://detail?mblogid=5220600520114902\", \"vType\": 3}}```  <br><br>3. **具体违法行为**  <br>   - 架设反动网站、制作分裂内容（如游戏、影音）。```wbCustomBlock{\"type\": \"quoted\", \"index\": 11, \"data\": {\"num\": [11], \"version\": 2, \"quote_list\": [{\"name\": \"人民日报\", \"scheme\": \"sinaweibo://detail?mblogid=5220600520114902\", \"index\": 11, \"label\": \"\"}]}}```  <br>   - 接受外部势力资助（如沈伯洋被曝收受美国资金）。```wbCustomBlock{\"type\": \"quoted\", \"index\": 12, \"data\": {\"num\": [19, 23], \"version\": 2, \"quote_list\": [{\"name\": \"小凡好摄\", \"scheme\": \"sinaweibo://detail?mblogid=5226729119417943\", \"index\": 23, \"label\": \"大v\"}, {\"name\": \"五桶工坊\", \"scheme\": \"sinaweibo://detail?mblogid=5226689262262228\", \"index\": 19, \"label\": \"\"}], \"name\": \"小凡好摄\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/62eff6aely8h0vmre31cnj20u00u0tba.jpg?KID=imgbed,tva&Expires=1761654164&ssig=Lvr2vuQb3V\", \"scheme\": \"sinaweibo://detail?mblogid=5226729119417943\", \"vType\": 0}}```  <br>   - 迫害大陆配偶、统派人士或煽动“仇中”情绪。```wbCustomBlock{\"type\": \"quoted\", \"index\": 13, \"data\": {\"num\": [20], \"version\": 2, \"quote_list\": [{\"name\": \"厚恩投资张延昆\", \"scheme\": \"sinaweibo://detail?mblogid=5226675013946896\", \"index\": 20, \"label\": \"大v\"}], \"name\": \"厚恩投资张延昆\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/404cdd30ly8gdih9m7oraj20u00u0whj.jpg?KID=imgbed,tva&Expires=1761654164&ssig=%2BdwFfS8i4U\", \"scheme\": \"sinaweibo://detail?mblogid=5226675013946896\", \"vType\": 0}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5226662041227900&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.512.512.50/0060couvly8h8vjnn60bgj30e80e8wfj.jpg?KID=imgbed,tva&Expires=1761654164&ssig=TfB%2FjXZ%2Fgz) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">平安重庆</span><img src=\"http://wx3.sinaimg.cn/middle/0060couvly1i6rrj9oll7j31o02yo4qp.jpg\" data-width=3840 data-height=2160></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5220600520114902&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=1\"><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.1018.1018.50/0033ImPzly8h8vgemh8kxj60sa0sadgw02.jpg?KID=imgbed,tva&Expires=1761654164&ssig=qhKgIUErZ7) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">人民日报</span><img src=\"http://wx1.sinaimg.cn/middle/0033ImPzly1i68isd39gyj60j60u546q02.jpg\" data-width=1085 data-height=690></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5226689262262228&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=1&multi_count=2\"><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.996.996.50/006wFUKnly8fxr8jmd8bwj30ro0ro42a.jpg?KID=imgbed,tva&Expires=1761654164&ssig=nzyArnNTSq) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">五桶工坊</span><img src=\"http://wx4.sinaimg.cn/middle/006wFUKngy1i6ry2yg6qoj30qo0ro42s.jpg\" data-width=996 data-height=960></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5224543078845916&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=3\"><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.512.512.50/002AJCr1ly8h8vh2ucc4tj60e80e8q3602.jpg?KID=imgbed,tva&Expires=1761654164&ssig=VjxAe7Ka9p) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">参考消息</span><img src=\"http://wx1.sinaimg.cn/middle/002AJCr1ly1i6l33cnco4j62nm1riqv502.jpg\" data-width=2286 data-height=3442></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5226675013946896&multi_paragraph=1&multi_count=4\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/404cdd30ly8gdih9m7oraj20u00u0whj.jpg?KID=imgbed,tva&Expires=1761654164&ssig=%2BdwFfS8i4U) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">厚恩投资张延昆</span><img src=\"http://wx4.sinaimg.cn/middle/404cdd30ly1i6rwfwasyoj20sg0g0dgc.jpg\" data-width=576 data-height=1024></div></media-block><br>### 📮 **二、官方举报渠道**  <br>1. **专项案件通道**  <br>   - **重庆市公安局**（针对沈伯洋及“黑熊学院”）：<br>     - 邮箱：**CQGACTD@163.com**  <br>     - 电话：**023-65697660**（严格保密举报人信息）。```wbCustomBlock{\"type\": \"quoted\", \"index\": 19, \"data\": {\"num\": [1, 2, 33], \"version\": 2, \"quote_list\": [{\"name\": \"央视军事\", \"scheme\": \"sinaweibo://detail?mblogid=5226669279548069\", \"index\": 33, \"label\": \"大v\"}, {\"name\": \"央视新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5226662687671198\", \"index\": 1, \"label\": \"\"}, {\"name\": \"平安重庆\", \"scheme\": \"sinaweibo://detail?mblogid=5226662041227900\", \"index\": 2, \"label\": \"\"}], \"name\": \"央视军事\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.858.858.50/006KQV1Aly8h8vgacooavj30nu0nu75z.jpg?KID=imgbed,tva&Expires=1761654164&ssig=uXsLBTE2X6\", \"scheme\": \"sinaweibo://detail?mblogid=5226669279548069\", \"vType\": 3}}```  <br>   - **厦门市公安局**（针对“心战大队”）：  <br>     - 电话：**0592-110**（悬赏征集18名核心骨干线索，最高奖励1万元）。```wbCustomBlock{\"type\": \"quoted\", \"index\": 21, \"data\": {\"num\": [10, 11], \"version\": 2, \"quote_list\": [{\"name\": \"麋鹿s不迷路\", \"scheme\": \"sinaweibo://detail?mblogid=5220858434159886\", \"index\": 10, \"label\": \"\"}, {\"name\": \"人民日报\", \"scheme\": \"sinaweibo://detail?mblogid=5220600520114902\", \"index\": 11, \"label\": \"\"}]}}```  <br><br>2. **国台办统一举报专栏**  <br>   - 邮箱：**jubao@suremail.cn**  <br>   - 受理范围：迫害台湾同胞的“台独”组织、公职人员及网红。```wbCustomBlock{\"type\": \"quoted\", \"index\": 24, \"data\": {\"num\": [20], \"version\": 2, \"quote_list\": [{\"name\": \"厚恩投资张延昆\", \"scheme\": \"sinaweibo://detail?mblogid=5226675013946896\", \"index\": 20, \"label\": \"\"}]}}```  <br>   - **数据**：截至2025年10月累计收到举报邮件超6000封，核查后对证据确凿者依法追责。```wbCustomBlock{\"type\": \"quoted\", \"index\": 25, \"data\": {\"num\": [20], \"version\": 2, \"quote_list\": [{\"name\": \"厚恩投资张延昆\", \"scheme\": \"sinaweibo://detail?mblogid=5226675013946896\", \"index\": 20, \"label\": \"\"}]}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5220858434159886&multi_paragraph=2&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.928.928.50/008AvtQnly8i1glklvjhoj30ps0psgoa.jpg?KID=imgbed,tva&Expires=1761654164&ssig=PZjBt%2Bkqud) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">麋鹿s不迷路</span><img src=\"http://wx2.sinaimg.cn/middle/008AvtQnly1i69cevooqdj30k00zk0ua.jpg\" data-width=1280 data-height=720></div></media-block><br>### ⚠️ **三、举报注意事项**  <br>1. **需提供有效证据**  <br>   - 举报内容需具体，如分裂活动时间、地点、资金流向等，避免空泛指控（例如仅因艺人未表态反“台独”即举报可能构成诬告）。```wbCustomBlock{\"type\": \"quoted\", \"index\": 29, \"data\": {\"num\": [20], \"version\": 2, \"quote_list\": [{\"name\": \"厚恩投资张延昆\", \"scheme\": \"sinaweibo://detail?mblogid=5226675013946896\", \"index\": 20, \"label\": \"\"}]}}```  <br>   - **诬告后果**：恶意举报需承担法律责任。  <br><br>2. **保密与安全保障**  <br>   - 公安机关承诺严格保护举报人身份，打击报复行为将依法严惩。```wbCustomBlock{\"type\": \"quoted\", \"index\": 32, \"data\": {\"num\": [1], \"version\": 2, \"quote_list\": [{\"name\": \"央视新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5226662687671198\", \"index\": 1, \"label\": \"\"}]}}```<br>### ⚖️ **四、法律依据与惩戒措施**  <br>1. **核心法律法规**  <br>   - 《中华人民共和国刑法》：分裂国家罪、煽动分裂国家罪，最高可判无期徒刑或死刑。```wbCustomBlock{\"type\": \"quoted\", \"index\": 36, \"data\": {\"num\": [1, 8], \"version\": 2, \"quote_list\": [{\"name\": \"央视新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5226662687671198\", \"index\": 1, \"label\": \"\"}, {\"name\": \"央视新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5226667595530273\", \"index\": 8, \"label\": \"\"}]}}```  <br>   - 《依法惩治“台独”顽固分子意见》：明确跨境追责机制，终身追究刑责。```wbCustomBlock{\"type\": \"quoted\", \"index\": 37, \"data\": {\"num\": [8], \"version\": 2, \"quote_list\": [{\"name\": \"央视新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5226667595530273\", \"index\": 8, \"label\": \"\"}]}}```  <br><br>2. **惩戒手段**  <br>   - 对顽固分子：禁止其本人及家属进入大陆及港澳，冻结境内资产，限制关联机构与大陆合作。  <br>   - 对组织：制裁关联企业，切断资金链（如“黑熊学院”被禁止在大陆谋利）。```wbCustomBlock{\"type\": \"quoted\", \"index\": 40, \"data\": {\"num\": [19, 23], \"version\": 2, \"quote_list\": [{\"name\": \"五桶工坊\", \"scheme\": \"sinaweibo://detail?mblogid=5226689262262228\", \"index\": 19, \"label\": \"大v\"}, {\"name\": \"小凡好摄\", \"scheme\": \"sinaweibo://detail?mblogid=5226729119417943\", \"index\": 23, \"label\": \"\"}], \"name\": \"五桶工坊\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.996.996.50/006wFUKnly8fxr8jmd8bwj30ro0ro42a.jpg?KID=imgbed,tva&Expires=1761654164&ssig=nzyArnNTSq\", \"scheme\": \"sinaweibo://detail?mblogid=5226689262262228\", \"vType\": 0}}```<br>### 🌍 **五、社会意义与两岸协作**  <br>- **全民反“独”防线**：举报机制将反分裂力量从官方延伸至民间，形成“官方+民众”监督网络。```wbCustomBlock{\"type\": \"quoted\", \"index\": 43, \"data\": {\"num\": [32], \"version\": 2, \"quote_list\": [{\"name\": \"友阁大掌柜\", \"scheme\": \"sinaweibo://detail?mblogid=5226719838996303\", \"index\": 32, \"label\": \"\"}]}}```  <br>- **两岸协作案例**：厦门市公安局悬赏行动源于台湾民众主动举报“心战大队”，反映“台独”不得人心。```wbCustomBlock{\"type\": \"quoted\", \"index\": 44, \"data\": {\"num\": [10, 11], \"version\": 2, \"quote_list\": [{\"name\": \"麋鹿s不迷路\", \"scheme\": \"sinaweibo://detail?mblogid=5220858434159886\", \"index\": 10, \"label\": \"\"}, {\"name\": \"人民日报\", \"scheme\": \"sinaweibo://detail?mblogid=5220600520114902\", \"index\": 11, \"label\": \"\"}]}}```  <br>- **震慑效果**：公开通缉分裂分子（如公布身份证号、照片）强化法律威慑。```wbCustomBlock{\"type\": \"quoted\", \"index\": 45, \"data\": {\"num\": [11], \"version\": 2, \"quote_list\": [{\"name\": \"人民日报\", \"scheme\": \"sinaweibo://detail?mblogid=5220600520114902\", \"index\": 11, \"label\": \"\"}]}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5226719838996303&multi_paragraph=5&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/007cNPTkly8i49w4rx4uwj30u00u0gp9.jpg?KID=imgbed,tva&Expires=1761654164&ssig=%2BxoCXqtT%2Fd) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">友阁大掌柜</span><img src=\"http://wx2.sinaimg.cn/middle/007cNPTkly1i6s1knn2y6j30no0dc3z5.jpg\" data-width=480 data-height=852></div></media-block><br>### 💎 **总结建议**  <br>1. **优先专项通道**：针对具体案件选择重庆/厦门公安局或国台办邮箱，确保线索直达办案部门。  <br>2. **聚焦实质证据**：避免主观猜测，需结合公开分裂言行再举报。```wbCustomBlock{\"type\": \"quoted\", \"index\": 49, \"data\": {\"num\": [7], \"version\": 2, \"quote_list\": [{\"name\": \"V闪闪\", \"scheme\": \"sinaweibo://detail?mblogid=5226675009749171\", \"index\": 7, \"label\": \"大v\"}], \"name\": \"V闪闪\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/460462c1ly8ggrxlu0430j20u00u0q3i.jpg?KID=imgbed,tva&Expires=1761654164&ssig=2%2FCi5qzaND\", \"scheme\": \"sinaweibo://detail?mblogid=5226675009749171\", \"vType\": 0}}```  <br>3. **关注官方通报**：以司法机关结论为准（如沈伯洋涉美资金链需等待调查结果）。```wbCustomBlock{\"type\": \"quoted\", \"index\": 50, \"data\": {\"num\": [1], \"version\": 2, \"quote_list\": [{\"name\": \"央视新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5226662687671198\", \"index\": 1, \"label\": \"\"}]}}```  <br><br>此举彰显中国依法维护国家统一的决心，任何分裂行径终将付出法律代价。```wbCustomBlock{\"type\": \"quoted\", \"index\": 51, \"data\": {\"num\": [8], \"version\": 2, \"quote_list\": [{\"name\": \"央视新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5226667595530273\", \"index\": 8, \"label\": \"\"}]}}```<br>",
+      "query_category": "Gossip",
+      "current_time": 1761644882,
+      "user_info": {},
+      "chat_status_stage": 1,
+      "wenda": {
+        "forward_gen": 0
+      },
+      "qs_status_info": "{\"qs_status\":0,\"qs_c_status\":8388608,\"qs_r_status\":0,\"ab_lab\":{},\"qs_u_status\":0,\"qs_q_status\":0}",
+      "query_field": "45",
+      "cot": 1,
+      "link_list": [
+        "sinaweibo://detail?mblogid=5226662687671198",
+        "sinaweibo://detail?mblogid=5226662041227900",
+        "sinaweibo://detail?mblogid=5226689422165615",
+        "sinaweibo://detail?mblogid=5226737593746914",
+        "sinaweibo://detail?mblogid=5226703529968024",
+        "sinaweibo://detail?mblogid=5226666113894435",
+        "sinaweibo://detail?mblogid=5226675009749171",
+        "sinaweibo://detail?mblogid=5226667595530273",
+        "sinaweibo://detail?mblogid=5226689941471383",
+        "sinaweibo://detail?mblogid=5220858434159886",
+        "sinaweibo://detail?mblogid=5220600520114902",
+        "sinaweibo://detail?mblogid=5226709452328584",
+        "broadsocial_res://",
+        "historyweibo://5226662687671198",
+        "historyweibo://5226662125898841",
+        "historyweibo://5226667595530273",
+        "sinaweibo://detail?mblogid=5226697105869829",
+        "sinaweibo://detail?mblogid=5226681306188348",
+        "sinaweibo://detail?mblogid=5226689262262228",
+        "sinaweibo://detail?mblogid=5226675013946896",
+        "sinaweibo://detail?mblogid=5226772780289289",
+        "sinaweibo://detail?mblogid=5226738293933693",
+        "sinaweibo://detail?mblogid=5226729119417943",
+        "sinaweibo://detail?mblogid=5226726789744047",
+        "sinaweibo://detail?mblogid=5226736939698270",
+        "sinaweibo://detail?mblogid=5226719183374690",
+        "sinaweibo://detail?mblogid=5226728220005129",
+        "sinaweibo://detail?mblogid=5226705359737255",
+        "sinaweibo://detail?mblogid=5226684806595905",
+        "sinaweibo://detail?mblogid=5226691476589738",
+        "sinaweibo://detail?mblogid=5226688595364668",
+        "sinaweibo://detail?mblogid=5226719838996303",
+        "sinaweibo://detail?mblogid=5226669279548069",
+        "sinaweibo://detail?mblogid=5226683579764499",
+        "sinaweibo://detail?mblogid=5226742307622751",
+        "sinaweibo://detail?mblogid=5224543078845916",
+        "https://finance.sina.cn/2025-10-28/detail-infvmezr4400208.d.html?wm=3049_0032"
+      ],
+      "basemodel": "实验组4",
+      "short_url": "http://t.cn/AXwsRn5Y",
+      "scheme": "sinaweibo://cardlist?containerid=100103type%3D225%26q%3D%23%E5%8F%91%E7%8E%B0%E5%8F%B0%E7%8B%AC%E7%BA%BF%E7%B4%A2%E5%8F%AF%E4%B8%BE%E6%8A%A5%23%26t%3D&extparam=ai_model%3Ddeepseek%26ori_ai_title%3D%E5%8F%82%E8%80%83%E5%8D%9A%E6%96%87%26material_version%3D1761643364",
+      "sorted_material_list": null,
+      "show_ctrl": {
+        "quote": {}
+      },
+      "page_id": "2329644c9eb057990e7da9be8d79a12ec34ceb",
+      "qs_status": 0,
+      "msg_json": "{}",
+      "loop_times": 200,
+      "share_info": {
+        "status": 3,
+        "page_id": "2329644c9eb057990e7da9be8d79a12ec34ceb",
+        "tips": "#发现台独线索可举报#的相关内容，来智搜看看",
+        "url": "http://t.cn/AXwsEnEv",
+        "display_name": "#发现台独线索可举报#",
+        "unify_md5": "766d1f11164b6cfe13b627f0a78fa51d"
+      }
+    }
+  },
+  "links": [
+    "sinaweibo://detail?mblogid=5226662687671198",
+    "sinaweibo://detail?mblogid=5226662041227900",
+    "sinaweibo://detail?mblogid=5226689422165615",
+    "sinaweibo://detail?mblogid=5226737593746914",
+    "sinaweibo://detail?mblogid=5226703529968024",
+    "sinaweibo://detail?mblogid=5226666113894435",
+    "sinaweibo://detail?mblogid=5226675009749171",
+    "sinaweibo://detail?mblogid=5226667595530273",
+    "sinaweibo://detail?mblogid=5226689941471383",
+    "sinaweibo://detail?mblogid=5220858434159886",
+    "sinaweibo://detail?mblogid=5220600520114902",
+    "sinaweibo://detail?mblogid=5226709452328584",
+    "broadsocial_res://",
+    "historyweibo://5226662687671198",
+    "historyweibo://5226662125898841",
+    "historyweibo://5226667595530273",
+    "sinaweibo://detail?mblogid=5226697105869829",
+    "sinaweibo://detail?mblogid=5226681306188348",
+    "sinaweibo://detail?mblogid=5226689262262228",
+    "sinaweibo://detail?mblogid=5226675013946896",
+    "sinaweibo://detail?mblogid=5226772780289289",
+    "sinaweibo://detail?mblogid=5226738293933693",
+    "sinaweibo://detail?mblogid=5226729119417943",
+    "sinaweibo://detail?mblogid=5226726789744047",
+    "sinaweibo://detail?mblogid=5226736939698270",
+    "sinaweibo://detail?mblogid=5226719183374690",
+    "sinaweibo://detail?mblogid=5226728220005129",
+    "sinaweibo://detail?mblogid=5226705359737255",
+    "sinaweibo://detail?mblogid=5226684806595905",
+    "sinaweibo://detail?mblogid=5226691476589738",
+    "sinaweibo://detail?mblogid=5226688595364668",
+    "sinaweibo://detail?mblogid=5226719838996303",
+    "sinaweibo://detail?mblogid=5226669279548069",
+    "sinaweibo://detail?mblogid=5226683579764499",
+    "sinaweibo://detail?mblogid=5226742307622751",
+    "sinaweibo://detail?mblogid=5224543078845916",
+    "https://finance.sina.cn/2025-10-28/detail-infvmezr4400208.d.html?wm=3049_0032"
+  ],
+  "media": [
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/0060couvly1i6rrj9oll7j31o02yo4qp.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/0060couvly1i6rrj9oll7j31o02yo4qp.jpg",
+      "alt": "平安重庆",
+      "width": 3840,
+      "height": 2160,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/0060couvly1i6rrj9oll7j31o02yo4qp.jpg"
+      ],
+      "user": "平安重庆"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/0033ImPzly1i68isd39gyj60j60u546q02.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/0033ImPzly1i68isd39gyj60j60u546q02.jpg",
+      "alt": "人民日报",
+      "width": 1085,
+      "height": 690,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/0033ImPzly1i68isd39gyj60j60u546q02.jpg"
+      ],
+      "user": "人民日报"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/006wFUKngy1i6ry2yg6qoj30qo0ro42s.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/006wFUKngy1i6ry2yg6qoj30qo0ro42s.jpg",
+      "alt": "五桶工坊",
+      "width": 996,
+      "height": 960,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/006wFUKngy1i6ry2yg6qoj30qo0ro42s.jpg"
+      ],
+      "user": "五桶工坊"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/002AJCr1ly1i6l33cnco4j62nm1riqv502.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/002AJCr1ly1i6l33cnco4j62nm1riqv502.jpg",
+      "alt": "参考消息",
+      "width": 2286,
+      "height": 3442,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx4.sinaimg.cn/large/002AJCr1ly1i6l33cnco4j62nm1riqv502.jpg"
+      ],
+      "user": "参考消息"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/404cdd30ly1i6rwfwasyoj20sg0g0dgc.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/404cdd30ly1i6rwfwasyoj20sg0g0dgc.jpg",
+      "alt": "厚恩投资张延昆",
+      "width": 576,
+      "height": 1024,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/404cdd30ly1i6rwfwasyoj20sg0g0dgc.jpg"
+      ],
+      "user": "厚恩投资张延昆"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/008AvtQnly1i69cevooqdj30k00zk0ua.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/008AvtQnly1i69cevooqdj30k00zk0ua.jpg",
+      "alt": "麋鹿s不迷路",
+      "width": 1280,
+      "height": 720,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/008AvtQnly1i69cevooqdj30k00zk0ua.jpg"
+      ],
+      "user": "麋鹿s不迷路"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/007cNPTkly1i6s1knn2y6j30no0dc3z5.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/007cNPTkly1i6s1knn2y6j30no0dc3z5.jpg",
+      "alt": "友阁大掌柜",
+      "width": 480,
+      "height": 852,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/007cNPTkly1i6s1knn2y6j30no0dc3z5.jpg"
+      ],
+      "user": "友阁大掌柜"
+    }
+  ],
+  "html_path": "data/aicard/hourly/2025-10-28/13/topic-766d1f11.html"
+}

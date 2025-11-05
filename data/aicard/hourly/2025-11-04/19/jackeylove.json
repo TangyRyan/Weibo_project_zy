@@ -1,0 +1,341 @@
+{
+  "meta": {
+    "query": "#JackeyLove谈身体伤病#",
+    "status_code": 200,
+    "fetched_at": "2025-11-04T19:30:39+08:00",
+    "response": {
+      "ab_suffix": "default",
+      "query": "#JackeyLove谈身体伤病#",
+      "version": "2025-11-04 19:27:24.013999-3696",
+      "abtest_info": {
+        "chat_entrance": 1
+      },
+      "page_id": "2329644675e254c4515a8f9ee6ecbbef06ccb8",
+      "analysis_time": 1762255796,
+      "unify_md5": "b5b18ed8b18f013538e1d42aae7ae85b",
+      "short_url": "http://t.cn/AXAjQfYq",
+      "msg_format": "markdown",
+      "query_field": "47",
+      "msg_json": "{}",
+      "profile_image_url": "",
+      "reliable_tips": "{\"gold_orange_v_mids\": [\"5229297292809941\", \"5229302229504233\", \"5229300187927631\", \"5229325058311442\", \"5229303310849299\", \"5229300384793063\", \"5229309351954946\", \"5227781878450241\", \"5218873697895657\", \"5205716555009371\", \"5206029076792717\", \"5205684274599724\", \"5229340300150698\", \"5229297024632394\", \"5229326637206141\", \"5205604131668016\", \"5229306445566049\", \"5227783316048925\", \"5205625434277816\", \"5206830176798616\", \"5144418974959270\", \"5229313017251190\", \"5224657651505208\", \"5205507793223700\"], \"gold_orange_v_ratio\": \"78%\", \"media_mids\": [], \"media_ratio\": \"0%\", \"verified_mids\": [\"5227770235325734\"], \"verified_ratio\": \"3%\", \"normal_mids\": [\"5229328906587489\", \"5229329090872486\", \"5229337663766734\", \"5229329613062739\", \"5229332525748583\", \"5229332416692704\"], \"normal_ratio\": \"19%\", \"ref_mid_rank\": {\"5229297292809941\": {\"rank\": 1}, \"5229302229504233\": {\"rank\": 3}, \"5229300187927631\": {\"rank\": 6}, \"5229325058311442\": {\"rank\": 2}, \"5229303310849299\": {\"rank\": 26}, \"5229328906587489\": {\"rank\": 29}, \"5229329090872486\": {\"rank\": 30}, \"5229300384793063\": {\"rank\": 27}, \"5229309351954946\": {\"rank\": 20}, \"5227781878450241\": {\"rank\": 11}, \"5218873697895657\": {\"rank\": 12}, \"5205716555009371\": {\"rank\": 33}, \"5206029076792717\": {\"rank\": 14}, \"5205684274599724\": {\"rank\": 15}, \"5229340300150698\": {\"rank\": 22}, \"5229337663766734\": {\"rank\": 23}, \"5229329613062739\": {\"rank\": 28}, \"5229297024632394\": {\"rank\": 4}, \"5229326637206141\": {\"rank\": 5}, \"5205604131668016\": {\"rank\": 7}, \"5229306445566049\": {\"rank\": 8}, \"5227783316048925\": {\"rank\": 9}, \"5205625434277816\": {\"rank\": 10}, \"5227770235325734\": {\"rank\": 13}, \"5206830176798616\": {\"rank\": 16}, \"5144418974959270\": {\"rank\": 17}, \"5229313017251190\": {\"rank\": 21}, \"5229332525748583\": {\"rank\": 24}, \"5229332416692704\": {\"rank\": 25}, \"5224657651505208\": {\"rank\": 31}, \"5205507793223700\": {\"rank\": 32}}}",
+      "comment_info": {},
+      "top_quote_list": {},
+      "card_multimodal": {
+        "type": "mediablock",
+        "data": [
+          {
+            "doc_score": 5227,
+            "img_pid": "871d9fb0ly1i709xpac31j20zk0k0aam",
+            "vtype": 0,
+            "click_rate": 0.14655172413793,
+            "click_num": 0,
+            "img": "http://wx4.sinaimg.cn/middle/871d9fb0ly1i709xpac31j20zk0k0aam.jpg",
+            "type": "v",
+            "w": 1280,
+            "user_avatar": "https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/871d9fb0ly8gxb0xe3wdqj20u00u0mzf.jpg?KID=imgbed,tva&Expires=1762266444&ssig=kS4fXJGcfR",
+            "user_name": "恋恋红茶_244",
+            "scheme": "sinaweibo://video/vvs?mid=5229300187927631&multi_paragraph=0&multi_count=0",
+            "h": 720,
+            "cur_mid": "5229300187927631",
+            "video_url": "https://video.weibo.com/show?fid=1034:5229300065173601",
+            "hit_score_final": 73.59726,
+            "hit_score_new": 78.662109
+          },
+          {
+            "doc_score": 5188,
+            "img_pid": "007Zmmt8ly1i70a69yxonj31hc0u00ua",
+            "vtype": 0,
+            "click_rate": 0,
+            "click_num": 0,
+            "img": "http://wx1.sinaimg.cn/middle/007Zmmt8ly1i70a69yxonj31hc0u00ua.jpg",
+            "type": "v",
+            "w": 1920,
+            "user_avatar": "https://tvax2.sinaimg.cn/crop.0.0.580.580.50/007Zmmt8ly8gdijugsmcfj30g40g4my1.jpg?KID=imgbed,tva&Expires=1762266444&ssig=ssPHAh2Jgv",
+            "user_name": "电竞食神",
+            "scheme": "sinaweibo://video/vvs?mid=5229302229504233&multi_paragraph=0&multi_count=1",
+            "h": 1080,
+            "cur_mid": "5229302229504233",
+            "video_url": "https://video.weibo.com/show?fid=1034:5229302002942016",
+            "hit_score_final": 77.849609,
+            "hit_score_new": 76.416016
+          },
+          {
+            "doc_score": 6181,
+            "img_pid": "8972f4d7ly1i70cs25pckj21hc0u0myl",
+            "vtype": 0,
+            "click_rate": 0,
+            "click_num": 0,
+            "img": "http://wx3.sinaimg.cn/middle/8972f4d7ly1i70cs25pckj21hc0u0myl.jpg",
+            "type": "v",
+            "w": 1920,
+            "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/8972f4d7ly8i6hqww3pj8j20u00u0dif.jpg?KID=imgbed,tva&Expires=1762266444&ssig=UMN3pw2DYX",
+            "user_name": "游叔",
+            "scheme": "sinaweibo://video/vvs?mid=5229325058311442&multi_paragraph=0&multi_count=2",
+            "h": 1080,
+            "cur_mid": "5229325058311442",
+            "video_url": "https://video.weibo.com/show?fid=1034:5229324807372897",
+            "hit_score_final": 89.539062,
+            "hit_score_new": 95.898438
+          },
+          {
+            "doc_score": 5227,
+            "img_pid": "871d9fb0ly1i709xpac31j20zk0k0aam",
+            "vtype": 0,
+            "click_rate": 0.14655172413793,
+            "click_num": 0,
+            "img": "http://wx4.sinaimg.cn/middle/871d9fb0ly1i709xpac31j20zk0k0aam.jpg",
+            "type": "v",
+            "w": 1280,
+            "user_avatar": "https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/871d9fb0ly8gxb0xe3wdqj20u00u0mzf.jpg?KID=imgbed,tva&Expires=1762266444&ssig=kS4fXJGcfR",
+            "user_name": "恋恋红茶_244",
+            "scheme": "sinaweibo://video/vvs?mid=5229300187927631&multi_paragraph=0&multi_count=0",
+            "h": 720,
+            "cur_mid": "5229300187927631",
+            "video_url": "https://video.weibo.com/show?fid=1034:5229300065173601",
+            "hit_score_final": 73.59726,
+            "hit_score_new": 78.662109
+          }
+        ]
+      },
+      "share_card_multimodal": {
+        "doc_score": 5227,
+        "img_pid": "871d9fb0ly1i709xpac31j20zk0k0aam",
+        "vtype": 0,
+        "click_rate": 0.14655172413793,
+        "click_num": 0,
+        "img": "http://wx4.sinaimg.cn/middle/871d9fb0ly1i709xpac31j20zk0k0aam.jpg",
+        "type": "v",
+        "w": 1280,
+        "user_avatar": "https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/871d9fb0ly8gxb0xe3wdqj20u00u0mzf.jpg?KID=imgbed,tva&Expires=1762266444&ssig=kS4fXJGcfR",
+        "user_name": "恋恋红茶_244",
+        "scheme": "sinaweibo://video/vvs?mid=5229300187927631&multi_paragraph=0&multi_count=0",
+        "h": 720,
+        "cur_mid": "5229300187927631",
+        "video_url": "https://video.weibo.com/show?fid=1034:5229300065173601",
+        "hit_score_final": 73.59726,
+        "hit_score_new": 78.662109
+      },
+      "show_ctrl": {
+        "quote": {}
+      },
+      "basemodel": "实验组10",
+      "status": 2,
+      "zs_risk_control": {
+        "think_text_close": 0,
+        "land_button_close": 0
+      },
+      "wenda": {
+        "forward_gen": 0
+      },
+      "model": "deepseek",
+      "current_time": 1762255839,
+      "cot": 1,
+      "uid": "",
+      "mid_list": null,
+      "news_analyze": {},
+      "reference_num": 31,
+      "query_category": "",
+      "q_attr": {
+        "from_uid": "",
+        "from_request_id": "",
+        "comment_from_type": "",
+        "mid": "",
+        "reply_cid": ""
+      },
+      "scheme": "sinaweibo://cardlist?containerid=100103type%3D225%26q%3D%23jackeylove%E8%B0%88%E8%BA%AB%E4%BD%93%E4%BC%A4%E7%97%85%23%26t%3D&extparam=ai_model%3Ddeepseek%26ori_ai_title%3D%E5%8F%82%E8%80%83%E5%8D%9A%E6%96%87%26material_version%3D1762255644",
+      "qs_status": 0,
+      "qs_status_info": "{\"qs_c_status\":8388608,\"qs_r_status\":0,\"qs_q_status\":0,\"qs_status\":0,\"ab_lab\":{},\"qs_u_status\":0}",
+      "user_info": {},
+      "loop_times": 200,
+      "status_stage": 4,
+      "sorted_material_list": null,
+      "ext_show": {},
+      "msg": "<think><br><br>嗯，用户搜索了“jackeylove谈身体伤病”，看来是想了解英雄联盟选手JackeyLove近期关于自己身体状况的讨论。从搜索结果看，这个话题在2025年11月4日有大量新鲜资讯，正好是今天的热点。<br><br>用户可能是JackeyLove的粉丝，或者关注电竞选手健康状况的观众。这些搜索结果主要来自微博，时间集中在最近几个小时，信息时效性强。我需要重点梳理他透露的伤病细节、治疗计划和职业规划。<br><br>翻看结果发现几个关键点：首先是耳鸣问题很严重，他提到听力已经减弱，甚至习惯了嗡嗡声，但担心继续拖下去会聋。这个细节很揪心，说明职业病积累到危险程度了。其次是治疗转机，有位纪录片导演推荐了医生，让他从原本“放弃治疗”的状态重燃希望，准备本月就去尝试。这个心理转变很真实——从“看到有人十几年没治好觉得人生无望”到“有一点用也得试试”的挣扎。<br><br>关于职业生涯，他多次强调“明年打不打不确定”，这和身体评估直接相关。值得注意的是转会制度变化，新推出的“选手池”机制会让队友组成充满未知，可能影响他的决定。不过结果18显示他10月31日刚否认过退役传闻，强调只是需要休养，所以目前更可能是观望状态。<br><br>还发现两个延伸信息：一是他全年身体情况其实比往年好，二是耳疾根源与职业特性冲突——医生建议少戴耳机少熬夜，但训练比赛必须长期佩戴耳机。这种根本矛盾也解释了为什么伤病难根治。<br><br>粉丝反应很暖心，很多留言说“比冠军更希望你健康”。圈内爆料提到TES可能面临续约竞争，如果JackeyLove进入自由市场会被“疯抢”，说明商业价值仍在。<br><br>最后决定把内容分成三块：先是伤病现状和治疗计划（突出紧迫性和新转机），再分析伤病与职业生涯的关联（结合制度变化和本人表态），最后补充行业背景（职业病普遍性）和舆论反应。会在关键数据处加粗，比如“听力减弱”“本月就医”这些用户最关心的信息点。<br><br></think><br>### 🎧 JackeyLove身体伤病现状及治疗计划  <br>1. **耳鸣与听力损伤加剧**  <br>   - **当前症状**：长期耳鸣伴随持续“嗡嗡声”，已导致**听力明显减弱**，日常训练和生活受到影响。本人坦言“习惯嗡嗡声”，但担忧恶化致聋。```wbCustomBlock{\"type\": \"quoted\", \"index\": 4, \"data\": {\"num\": [1, 3, 6], \"version\": 2, \"quote_list\": [{\"name\": \"竞圈风向标\", \"scheme\": \"sinaweibo://detail?mblogid=5229297292809941\", \"index\": 1, \"label\": \"大v\"}, {\"name\": \"电竞食神\", \"scheme\": \"sinaweibo://detail?mblogid=5229302229504233\", \"index\": 3, \"label\": \"\"}, {\"name\": \"恋恋红茶_244\", \"scheme\": \"sinaweibo://detail?mblogid=5229300187927631\", \"index\": 6, \"label\": \"\"}], \"name\": \"竞圈风向标\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.600.600.50/006W5FBDly8hvshq6akxvj30go0gojtd.jpg?KID=imgbed,tva&Expires=1762266444&ssig=UdosmqB0gX\", \"scheme\": \"sinaweibo://detail?mblogid=5229297292809941\", \"vType\": 0}}```  <br>   - **就医紧迫性**：本月（2025年11月）将暂停直播等事务，优先就医。计划尝试纪录片导演推荐的医生，若治疗有效则延长停留时间。```wbCustomBlock{\"type\": \"quoted\", \"index\": 5, \"data\": {\"num\": [2, 26], \"version\": 2, \"quote_list\": [{\"name\": \"游叔\", \"scheme\": \"sinaweibo://detail?mblogid=5229325058311442\", \"index\": 2, \"label\": \"大v\"}, {\"name\": \"LOL电竞小胖\", \"scheme\": \"sinaweibo://detail?mblogid=5229303310849299\", \"index\": 26, \"label\": \"\"}], \"name\": \"游叔\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/8972f4d7ly8i6hqww3pj8j20u00u0dif.jpg?KID=imgbed,tva&Expires=1762266444&ssig=UMN3pw2DYX\", \"scheme\": \"sinaweibo://detail?mblogid=5229325058311442\", \"vType\": 0}}```  <br><br>2. **治疗转机与心态变化**  <br>   - 此前因“网上有人十几年未治愈”几乎放弃，近期因导演成功案例重燃希望：“有一点用也得试试，万一好了呢？”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 7, \"data\": {\"num\": [2, 29, 30], \"version\": 2, \"quote_list\": [{\"name\": \"游叔\", \"scheme\": \"sinaweibo://detail?mblogid=5229325058311442\", \"index\": 2, \"label\": \"\"}, {\"name\": \"开朗小秋葵做辣酱\", \"scheme\": \"sinaweibo://detail?mblogid=5229328906587489\", \"index\": 29, \"label\": \"\"}, {\"name\": \"YANFAN2潘\", \"scheme\": \"sinaweibo://detail?mblogid=5229329090872486\", \"index\": 30, \"label\": \"\"}]}}```  <br>   - 2025年整体身体状况优于往年，为治疗提供更好基础。```wbCustomBlock{\"type\": \"quoted\", \"index\": 8, \"data\": {\"num\": [2], \"version\": 2, \"quote_list\": [{\"name\": \"游叔\", \"scheme\": \"sinaweibo://detail?mblogid=5229325058311442\", \"index\": 2, \"label\": \"\"}]}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5229300187927631&multi_paragraph=0&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/871d9fb0ly8gxb0xe3wdqj20u00u0mzf.jpg?KID=imgbed,tva&Expires=1762266444&ssig=kS4fXJGcfR) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">恋恋红茶_244</span><img src=\"http://wx4.sinaimg.cn/middle/871d9fb0ly1i709xpac31j20zk0k0aam.jpg\" data-width=720 data-height=1280></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5229302229504233&multi_paragraph=0&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.580.580.50/007Zmmt8ly8gdijugsmcfj30g40g4my1.jpg?KID=imgbed,tva&Expires=1762266444&ssig=ssPHAh2Jgv) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">电竞食神</span><img src=\"http://wx1.sinaimg.cn/middle/007Zmmt8ly1i70a69yxonj31hc0u00ua.jpg\" data-width=1080 data-height=1920></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5229325058311442&multi_paragraph=0&multi_count=2\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/8972f4d7ly8i6hqww3pj8j20u00u0dif.jpg?KID=imgbed,tva&Expires=1762266444&ssig=UMN3pw2DYX) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">游叔</span><img src=\"http://wx3.sinaimg.cn/middle/8972f4d7ly1i70cs25pckj21hc0u0myl.jpg\" data-width=1080 data-height=1920></div></media-block><br>### ⚖️ 伤病对职业生涯的影响  <br>1. **明年参赛不确定性强**  <br>   - 是否继续征战2026赛季尚未决定，需根据**耳朵治疗结果**和转会期安排综合评估。```wbCustomBlock{\"type\": \"quoted\", \"index\": 12, \"data\": {\"num\": [3, 6, 27], \"version\": 2, \"quote_list\": [{\"name\": \"电竞食神\", \"scheme\": \"sinaweibo://detail?mblogid=5229302229504233\", \"index\": 3, \"label\": \"大v\"}, {\"name\": \"恋恋红茶_244\", \"scheme\": \"sinaweibo://detail?mblogid=5229300187927631\", \"index\": 6, \"label\": \"\"}, {\"name\": \"LOL电竞小胖\", \"scheme\": \"sinaweibo://detail?mblogid=5229300384793063\", \"index\": 27, \"label\": \"\"}], \"name\": \"电竞食神\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.580.580.50/007Zmmt8ly8gdijugsmcfj30g40g4my1.jpg?KID=imgbed,tva&Expires=1762266444&ssig=ssPHAh2Jgv\", \"scheme\": \"sinaweibo://detail?mblogid=5229302229504233\", \"vType\": 0}}```  <br>   - 合同临近到期，若续约失败可能进入“选手池”自由市场，但新模式下无法预知队友阵容。```wbCustomBlock{\"type\": \"quoted\", \"index\": 13, \"data\": {\"num\": [20, 27], \"version\": 2, \"quote_list\": [{\"name\": \"丶涵艺\", \"scheme\": \"sinaweibo://detail?mblogid=5229309351954946\", \"index\": 20, \"label\": \"大v\"}, {\"name\": \"LOL电竞小胖\", \"scheme\": \"sinaweibo://detail?mblogid=5229300384793063\", \"index\": 27, \"label\": \"\"}], \"name\": \"丶涵艺\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.600.600.50/76c0dacdly8hey0qr5bjnj20go0got9u.jpg?KID=imgbed,tva&Expires=1762266444&ssig=sN7Jy2Qn4I\", \"scheme\": \"sinaweibo://detail?mblogid=5229309351954946\", \"vType\": 0}}```  <br><br>2. **伤病的职业冲突根源**  <br>   - **病因溯源**：长期训练需佩戴耳机导致耳疾，医生建议“少熬夜、少戴耳机”无法与职业要求兼容。```wbCustomBlock{\"type\": \"quoted\", \"index\": 15, \"data\": {\"num\": [11, 12, 33], \"version\": 2, \"quote_list\": [{\"name\": \"W云之铃\", \"scheme\": \"sinaweibo://detail?mblogid=5227781878450241\", \"index\": 11, \"label\": \"大v\"}, {\"name\": \"临平路瑶妹\", \"scheme\": \"sinaweibo://detail?mblogid=5218873697895657\", \"index\": 12, \"label\": \"\"}, {\"name\": \"电竞系学长\", \"scheme\": \"sinaweibo://detail?mblogid=5205716555009371\", \"index\": 33, \"label\": \"\"}], \"name\": \"W云之铃\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/a3c6c499ly8hvxmiwqbi4j20u00u0jug.jpg?KID=imgbed,tva&Expires=1762266444&ssig=73RkHLdREh\", \"scheme\": \"sinaweibo://detail?mblogid=5227781878450241\", \"vType\": 0}}```  <br>   - **行业普遍性**：Wayward等选手指出“没几个病都不敢说努力”，AD位置尤其累手，健康损耗已成职业常态。```wbCustomBlock{\"type\": \"quoted\", \"index\": 16, \"data\": {\"num\": [14, 15], \"version\": 2, \"quote_list\": [{\"name\": \"英雄联盟神吐槽\", \"scheme\": \"sinaweibo://detail?mblogid=5206029076792717\", \"index\": 14, \"label\": \"大v\"}, {\"name\": \"英雄联盟菌\", \"scheme\": \"sinaweibo://detail?mblogid=5205684274599724\", \"index\": 15, \"label\": \"\"}], \"name\": \"英雄联盟神吐槽\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.439.439.50/006cmbhQly8h8uglinec1j30c70c73yz.jpg?KID=imgbed,tva&Expires=1762266444&ssig=5Wc1I0ix9q\", \"scheme\": \"sinaweibo://detail?mblogid=5206029076792717\", \"vType\": 0}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5227781878450241&multi_paragraph=1&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/a3c6c499ly8hvxmiwqbi4j20u00u0jug.jpg?KID=imgbed,tva&Expires=1762266444&ssig=73RkHLdREh) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">W云之铃</span><img src=\"http://wx1.sinaimg.cn/middle/a3c6c499gy1i6vfjrnwr7j20u00gvjsl.jpg\" data-width=607 data-height=1080></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5218873697895657&multi_paragraph=1&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.828.828.50/006m0rUbly8gqw15387c6j30n00n0dhb.jpg?KID=imgbed,tva&Expires=1762266444&ssig=7BBn4sXtOe) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">临平路瑶妹</span><img src=\"http://wx4.sinaimg.cn/middle/006m0rUbly1i630h0aykwj31400u0wfw.jpg\" data-width=1080 data-height=1440></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5205716555009371&multi_paragraph=1&multi_count=2\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/008vVosWly8hrbabqsdmoj30u00u0wgu.jpg?KID=imgbed,tva&Expires=1762266444&ssig=w7O8toXgv3) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">电竞系学长</span><img src=\"http://wx4.sinaimg.cn/middle/008vVosWly1i4x1ebd4d9j30k00zk3ze.jpg\" data-width=1280 data-height=720></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5206029076792717&multi_paragraph=1&multi_count=3\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.439.439.50/006cmbhQly8h8uglinec1j30c70c73yz.jpg?KID=imgbed,tva&Expires=1762266444&ssig=5Wc1I0ix9q) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">英雄联盟神吐槽</span><img src=\"http://wx1.sinaimg.cn/middle/006cmbhQly1i4y1aeng41j30zi0i60u4.jpg\" data-width=654 data-height=1278></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5205684274599724&multi_paragraph=1&multi_count=4\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/006tiAQply8h8uglwwfkfj30u00u0wgp.jpg?KID=imgbed,tva&Expires=1762266444&ssig=9ee6iEGuBy) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">英雄联盟菌</span><img src=\"http://wx1.sinaimg.cn/middle/006tiAQpgy1i4wxoc8p06j30u00gvmym.jpg\" data-width=607 data-height=1080></div></media-block><br>### 💬 公众与业内人士反应  <br>- **粉丝关切**：舆论聚焦“健康优先于成绩”，大量留言呼吁“比冠军更希望你健康”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 19, \"data\": {\"num\": [22, 23, 28], \"version\": 2, \"quote_list\": [{\"name\": \"薑羡\", \"scheme\": \"sinaweibo://detail?mblogid=5229340300150698\", \"index\": 22, \"label\": \"\"}, {\"name\": \"柴柴好好rua\", \"scheme\": \"sinaweibo://detail?mblogid=5229337663766734\", \"index\": 23, \"label\": \"\"}, {\"name\": \"笔言君\", \"scheme\": \"sinaweibo://detail?mblogid=5229329613062739\", \"index\": 28, \"label\": \"\"}]}}```  <br>- **圈内动态**：知名爆料人涵艺透露，若JackeyLove进入转会市场将引多队争夺，但续约TES仍是可能性之一。```wbCustomBlock{\"type\": \"quoted\", \"index\": 20, \"data\": {\"num\": [20], \"version\": 2, \"quote_list\": [{\"name\": \"丶涵艺\", \"scheme\": \"sinaweibo://detail?mblogid=5229309351954946\", \"index\": 20, \"label\": \"\"}]}}```<br>### 📌 关键时间线与决策节点  <br>| 时间        | 事件                     | 关联信息                     |  <br>|-------------|--------------------------|------------------------------|  <br>| **2025.11月** | 完成直播任务后就医       | 治疗耳鸣，评估听力恢复可能 |  <br>| **2025年底**  | 转会期开启               | 决定是否续约TES或进入选手池 |  <br>| **2026年初**  | 身体评估后确认参赛意向   | 以健康为首要前提       |<br><br>```wbCustomBlock{\"type\": \"quoted\", \"index\": 22, \"data\": {\"num\": [3, 11, 26, 27], \"version\": 2, \"quote_list\": [{\"name\": \"LOL电竞小胖\", \"scheme\": \"sinaweibo://detail?mblogid=5229303310849299\", \"index\": 26, \"label\": \"大v\"}, {\"name\": \"电竞食神\", \"scheme\": \"sinaweibo://detail?mblogid=5229302229504233\", \"index\": 3, \"label\": \"\"}, {\"name\": \"W云之铃\", \"scheme\": \"sinaweibo://detail?mblogid=5227781878450241\", \"index\": 11, \"label\": \"\"}, {\"name\": \"LOL电竞小胖\", \"scheme\": \"sinaweibo://detail?mblogid=5229300384793063\", \"index\": 27, \"label\": \"\"}], \"name\": \"LOL电竞小胖\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/008hQ91rly8gpjmgs8z03j30u00u00v6.jpg?KID=imgbed,tva&Expires=1762266444&ssig=9EbIyswSjd\", \"scheme\": \"sinaweibo://detail?mblogid=5229303310849299\", \"vType\": 0}}```  <br><br>---<br><br>> 💎 **总结**：JackeyLove的职业生涯正面临健康与竞技的双重考验。**耳鸣治疗成效**将成为决定其去留的核心因素，而电竞行业普遍的职业病困境（如作息冲突、设备依赖）也在此事件中凸显。无论最终选择如何，选手对健康的坦诚与粉丝的理性支持，正推动行业更关注选手长期福祉。```wbCustomBlock{\"type\": \"quoted\", \"index\": 24, \"data\": {\"num\": [33], \"version\": 2, \"quote_list\": [{\"name\": \"电竞系学长\", \"scheme\": \"sinaweibo://detail?mblogid=5205716555009371\", \"index\": 33, \"label\": \"大v\"}], \"name\": \"电竞系学长\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/008vVosWly8hrbabqsdmoj30u00u0wgu.jpg?KID=imgbed,tva&Expires=1762266444&ssig=w7O8toXgv3\", \"scheme\": \"sinaweibo://detail?mblogid=5205716555009371\", \"vType\": 0}}```<br>",
+      "share_info": {
+        "url": "http://t.cn/AXAj34Kh",
+        "status": 3,
+        "unify_md5": "b5b18ed8b18f013538e1d42aae7ae85b",
+        "tips": "#JackeyLove谈身体伤病#的相关内容，来智搜看看",
+        "display_name": "#JackeyLove谈身体伤病#",
+        "comment_content": "",
+        "page_id": "2329644675e254c4515a8f9ee6ecbbef06ccb8"
+      },
+      "link_list": [
+        "sinaweibo://detail?mblogid=5229297292809941",
+        "sinaweibo://detail?mblogid=5229325058311442",
+        "sinaweibo://detail?mblogid=5229302229504233",
+        "sinaweibo://detail?mblogid=5229297024632394",
+        "sinaweibo://detail?mblogid=5229326637206141",
+        "sinaweibo://detail?mblogid=5229300187927631",
+        "sinaweibo://detail?mblogid=5205604131668016",
+        "sinaweibo://detail?mblogid=5229306445566049",
+        "sinaweibo://detail?mblogid=5227783316048925",
+        "sinaweibo://detail?mblogid=5205625434277816",
+        "sinaweibo://detail?mblogid=5227781878450241",
+        "sinaweibo://detail?mblogid=5218873697895657",
+        "sinaweibo://detail?mblogid=5227770235325734",
+        "sinaweibo://detail?mblogid=5206029076792717",
+        "sinaweibo://detail?mblogid=5205684274599724",
+        "sinaweibo://detail?mblogid=5206830176798616",
+        "sinaweibo://detail?mblogid=5144418974959270",
+        "historyweibo://5227574290549510",
+        "historyweibo://4650597213279609",
+        "sinaweibo://detail?mblogid=5229309351954946",
+        "sinaweibo://detail?mblogid=5229313017251190",
+        "sinaweibo://detail?mblogid=5229340300150698",
+        "sinaweibo://detail?mblogid=5229337663766734",
+        "sinaweibo://detail?mblogid=5229332525748583",
+        "sinaweibo://detail?mblogid=5229332416692704",
+        "sinaweibo://detail?mblogid=5229303310849299",
+        "sinaweibo://detail?mblogid=5229300384793063",
+        "sinaweibo://detail?mblogid=5229329613062739",
+        "sinaweibo://detail?mblogid=5229328906587489",
+        "sinaweibo://detail?mblogid=5229329090872486",
+        "sinaweibo://detail?mblogid=5224657651505208",
+        "sinaweibo://detail?mblogid=5205507793223700",
+        "sinaweibo://detail?mblogid=5205716555009371",
+        "https://k.sina.cn/article_1785289531_m6a695b3b03301hqks.html?from=game&subch=ogame&wm=3049_0032",
+        "https://t.cj.sina.cn/articles/view/5061229888/m12dac3d4003301jvfy?from=game&subch=ogame&wm=3049_0032"
+      ],
+      "chat_status_stage": 1,
+      "share_text": "#JackeyLove谈身体伤病#的相关内容，来智搜看看"
+    }
+  },
+  "links": [
+    "sinaweibo://detail?mblogid=5229297292809941",
+    "sinaweibo://detail?mblogid=5229325058311442",
+    "sinaweibo://detail?mblogid=5229302229504233",
+    "sinaweibo://detail?mblogid=5229297024632394",
+    "sinaweibo://detail?mblogid=5229326637206141",
+    "sinaweibo://detail?mblogid=5229300187927631",
+    "sinaweibo://detail?mblogid=5205604131668016",
+    "sinaweibo://detail?mblogid=5229306445566049",
+    "sinaweibo://detail?mblogid=5227783316048925",
+    "sinaweibo://detail?mblogid=5205625434277816",
+    "sinaweibo://detail?mblogid=5227781878450241",
+    "sinaweibo://detail?mblogid=5218873697895657",
+    "sinaweibo://detail?mblogid=5227770235325734",
+    "sinaweibo://detail?mblogid=5206029076792717",
+    "sinaweibo://detail?mblogid=5205684274599724",
+    "sinaweibo://detail?mblogid=5206830176798616",
+    "sinaweibo://detail?mblogid=5144418974959270",
+    "historyweibo://5227574290549510",
+    "historyweibo://4650597213279609",
+    "sinaweibo://detail?mblogid=5229309351954946",
+    "sinaweibo://detail?mblogid=5229313017251190",
+    "sinaweibo://detail?mblogid=5229340300150698",
+    "sinaweibo://detail?mblogid=5229337663766734",
+    "sinaweibo://detail?mblogid=5229332525748583",
+    "sinaweibo://detail?mblogid=5229332416692704",
+    "sinaweibo://detail?mblogid=5229303310849299",
+    "sinaweibo://detail?mblogid=5229300384793063",
+    "sinaweibo://detail?mblogid=5229329613062739",
+    "sinaweibo://detail?mblogid=5229328906587489",
+    "sinaweibo://detail?mblogid=5229329090872486",
+    "sinaweibo://detail?mblogid=5224657651505208",
+    "sinaweibo://detail?mblogid=5205507793223700",
+    "sinaweibo://detail?mblogid=5205716555009371",
+    "https://k.sina.cn/article_1785289531_m6a695b3b03301hqks.html?from=game&subch=ogame&wm=3049_0032",
+    "https://t.cj.sina.cn/articles/view/5061229888/m12dac3d4003301jvfy?from=game&subch=ogame&wm=3049_0032"
+  ],
+  "media": [
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/871d9fb0ly1i709xpac31j20zk0k0aam.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/871d9fb0ly1i709xpac31j20zk0k0aam.jpg",
+      "alt": "恋恋红茶_244",
+      "width": 720,
+      "height": 1280,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/871d9fb0ly1i709xpac31j20zk0k0aam.jpg"
+      ],
+      "user": "恋恋红茶_244"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/007Zmmt8ly1i70a69yxonj31hc0u00ua.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/007Zmmt8ly1i70a69yxonj31hc0u00ua.jpg",
+      "alt": "电竞食神",
+      "width": 1080,
+      "height": 1920,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/007Zmmt8ly1i70a69yxonj31hc0u00ua.jpg"
+      ],
+      "user": "电竞食神"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/8972f4d7ly1i70cs25pckj21hc0u0myl.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/8972f4d7ly1i70cs25pckj21hc0u0myl.jpg",
+      "alt": "游叔",
+      "width": 1080,
+      "height": 1920,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/8972f4d7ly1i70cs25pckj21hc0u0myl.jpg"
+      ],
+      "user": "游叔"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/a3c6c499gy1i6vfjrnwr7j20u00gvjsl.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/a3c6c499gy1i6vfjrnwr7j20u00gvjsl.jpg",
+      "alt": "W云之铃",
+      "width": 607,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/a3c6c499gy1i6vfjrnwr7j20u00gvjsl.jpg"
+      ],
+      "user": "W云之铃"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/006m0rUbly1i630h0aykwj31400u0wfw.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/006m0rUbly1i630h0aykwj31400u0wfw.jpg",
+      "alt": "临平路瑶妹",
+      "width": 1080,
+      "height": 1440,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/006m0rUbly1i630h0aykwj31400u0wfw.jpg"
+      ],
+      "user": "临平路瑶妹"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/008vVosWly1i4x1ebd4d9j30k00zk3ze.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/008vVosWly1i4x1ebd4d9j30k00zk3ze.jpg",
+      "alt": "电竞系学长",
+      "width": 1280,
+      "height": 720,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/008vVosWly1i4x1ebd4d9j30k00zk3ze.jpg"
+      ],
+      "user": "电竞系学长"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/006cmbhQly1i4y1aeng41j30zi0i60u4.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/006cmbhQly1i4y1aeng41j30zi0i60u4.jpg",
+      "alt": "英雄联盟神吐槽",
+      "width": 654,
+      "height": 1278,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx4.sinaimg.cn/large/006cmbhQly1i4y1aeng41j30zi0i60u4.jpg"
+      ],
+      "user": "英雄联盟神吐槽"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/006tiAQpgy1i4wxoc8p06j30u00gvmym.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/006tiAQpgy1i4wxoc8p06j30u00gvmym.jpg",
+      "alt": "英雄联盟菌",
+      "width": 607,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/006tiAQpgy1i4wxoc8p06j30u00gvmym.jpg"
+      ],
+      "user": "英雄联盟菌"
+    }
+  ],
+  "html_path": "data/aicard/hourly/2025-11-04/19/jackeylove.html"
+}

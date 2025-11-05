@@ -1,0 +1,254 @@
+{
+  "meta": {
+    "query": "#给TES送考#",
+    "status_code": 200,
+    "fetched_at": "2025-11-01T21:39:47+08:00",
+    "response": {
+      "qs_status": 0,
+      "reliable_tips": "{\"gold_orange_v_mids\": [\"5228285001998008\", \"5228252322862915\", \"5228269670498931\", \"5228270385630347\", \"5228283609225859\", \"5228272108439833\", \"5228273179298362\", \"5228282675201850\", \"5228266298540916\", \"5228266530019679\", \"5228263905431984\", \"5228264731706233\"], \"gold_orange_v_ratio\": \"50%\", \"media_mids\": [\"5228283429653914\", \"5228280153901503\"], \"media_ratio\": \"8%\", \"verified_mids\": [\"5228282377407741\", \"5228285760111576\", \"5228284997538306\"], \"verified_ratio\": \"13%\", \"normal_mids\": [\"5228275680940066\", \"5228284329599187\", \"5228284086322318\", \"5228277398504442\", \"5228284402732861\", \"5228273369874677\", \"5228285405168915\"], \"normal_ratio\": \"29%\", \"ref_mid_rank\": {\"5228285001998008\": {\"rank\": 6}, \"5228252322862915\": {\"rank\": 1}, \"5228269670498931\": {\"rank\": 2}, \"5228270385630347\": {\"rank\": 3}, \"5228283609225859\": {\"rank\": 11}, \"5228275680940066\": {\"rank\": 20}, \"5228283429653914\": {\"rank\": 21}, \"5228272108439833\": {\"rank\": 14}, \"5228282377407741\": {\"rank\": 22}, \"5228273179298362\": {\"rank\": 17}, \"5228284329599187\": {\"rank\": 9}, \"5228284086322318\": {\"rank\": 10}, \"5228277398504442\": {\"rank\": 18}, \"5228284402732861\": {\"rank\": 8}, \"5228273369874677\": {\"rank\": 16}, \"5228282675201850\": {\"rank\": 15}, \"5228280153901503\": {\"rank\": 24}, \"5228285405168915\": {\"rank\": 5}, \"5228285760111576\": {\"rank\": 4}, \"5228284997538306\": {\"rank\": 7}, \"5228266298540916\": {\"rank\": 12}, \"5228266530019679\": {\"rank\": 13}, \"5228263905431984\": {\"rank\": 19}, \"5228264731706233\": {\"rank\": 23}}}",
+      "cot": 1,
+      "query_field": "47",
+      "chat_status_stage": 1,
+      "query_category": "",
+      "status_stage": 4,
+      "link_list": [
+        "sinaweibo://detail?mblogid=5228252322862915",
+        "sinaweibo://detail?mblogid=5228269670498931",
+        "sinaweibo://detail?mblogid=5228270385630347",
+        "sinaweibo://detail?mblogid=5228285760111576",
+        "sinaweibo://detail?mblogid=5228285405168915",
+        "sinaweibo://detail?mblogid=5228285001998008",
+        "sinaweibo://detail?mblogid=5228284997538306",
+        "sinaweibo://detail?mblogid=5228284402732861",
+        "sinaweibo://detail?mblogid=5228284329599187",
+        "sinaweibo://detail?mblogid=5228284086322318",
+        "sinaweibo://detail?mblogid=5228283609225859",
+        "sinaweibo://detail?mblogid=5228266298540916",
+        "sinaweibo://detail?mblogid=5228266530019679",
+        "sinaweibo://detail?mblogid=5228272108439833",
+        "sinaweibo://detail?mblogid=5228282675201850",
+        "sinaweibo://detail?mblogid=5228273369874677",
+        "sinaweibo://detail?mblogid=5228273179298362",
+        "sinaweibo://detail?mblogid=5228277398504442",
+        "sinaweibo://detail?mblogid=5228263905431984",
+        "sinaweibo://detail?mblogid=5228275680940066",
+        "sinaweibo://detail?mblogid=5228283429653914",
+        "sinaweibo://detail?mblogid=5228282377407741",
+        "sinaweibo://detail?mblogid=5228264731706233",
+        "sinaweibo://detail?mblogid=5228280153901503"
+      ],
+      "news_analyze": {},
+      "top_quote_list": {},
+      "share_info": {
+        "unify_md5": "4775ceb37250bc765e86ec99747ee1e2",
+        "tips": "#给TES送考#的相关内容，来智搜看看",
+        "status": 3,
+        "page_id": "2329643f05b0180ec1d7a47bff100d8c12a212",
+        "display_name": "#给TES送考#",
+        "comment_content": "",
+        "url": "http://t.cn/AXAixR6a"
+      },
+      "share_card_multimodal": {
+        "h": 972,
+        "click_rate": 0.06,
+        "vtype": 0,
+        "cur_mid": "5228269670498931",
+        "type": "p",
+        "img": "http://wx4.sinaimg.cn/middle/007bPoe5gy1i6wzgxvkyvj31c80r0k1e.jpg",
+        "w": 1736,
+        "user_name": "张佳ZHJ",
+        "scheme": "sinaweibo://multimedia?mix_mid=5228269670498931&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=0",
+        "user_avatar": "https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/007bPoe5ly8hyjbqruyjfj30u00u1wfr.jpg?KID=imgbed,tva&Expires=1762014963&ssig=9K2WXph23m",
+        "hit_score_final": 70.113281,
+        "video_url": "",
+        "hit_score_new": 76.855469,
+        "doc_score": 4688,
+        "img_pid": "007bPoe5gy1i6wzgxvkyvj31c80r0k1e"
+      },
+      "basemodel": "实验组9",
+      "comment_info": {},
+      "version": "2025-11-01 21:36:03.036000-9981",
+      "model": "deepseek",
+      "current_time": 1762004387,
+      "profile_image_url": "",
+      "user_info": {},
+      "short_url": "http://t.cn/AXAiJXYK",
+      "uid": "",
+      "loop_times": 200,
+      "abtest_info": {
+        "chat_entrance": 1
+      },
+      "zs_risk_control": {
+        "think_text_close": 0,
+        "land_button_close": 0
+      },
+      "status": 2,
+      "show_ctrl": {
+        "quote": {}
+      },
+      "reference_num": 24,
+      "msg_json": "{}",
+      "mid_list": null,
+      "ab_suffix": "default",
+      "share_text": "#给TES送考#的相关内容，来智搜看看",
+      "scheme": "sinaweibo://cardlist?containerid=100103type%3D225%26q%3D%23%E7%BB%99tes%E9%80%81%E8%80%83%23%26t%3D&extparam=ai_model%3Ddeepseek%26ori_ai_title%3D%E5%8F%82%E8%80%83%E5%8D%9A%E6%96%87%26material_version%3D1762004163",
+      "msg": "<think><br>嗯，用户查询的是\"给tes送考\"，看起来是电竞相关的梗。从搜索结果来看，这应该是2025年英雄联盟S15全球总决赛期间出现的网络热词。用户可能是想了解这个梗的含义和背景。<br><br>翻看搜索结果发现主要涉及几个关键点：首先，给出最精准的定义，指出这是LPL观众在KT爆冷战胜GEN后对TES的特殊应援文化，包含\"抗韩破咒\"的使命感和\"享受比赛\"的豁达心态。这个定义被多个结果印证。<br><br>时间线上，所有微博都集中在2025年11月1日，正是半决赛期间。KT在当天意外击败夺冠热门GEN晋级决赛，导致LPL仅剩的独苗TES成为全村希望。有趣的是提到朱开等解说认为KT的爆冷反而提升了TES的夺冠可能性。<br><br>关于网民态度呈现两极：乐观派如期待阿水重现S8辉煌；悲观派如指出TES对LCK战队历史胜率堪忧。但主流情绪是表现的\"降低预期\"——\"赢一把就算赢\"\"打成啥样都接受\"。<br><br>还发现这个梗有衍生文化：比如玩TES\"欠冠军\"的梗，用\"转支持IG\"表达无奈。而则聚焦选手情怀，希望Faker\"送冠军\"给老将BDD。<br><br>需要特别注意出现的干扰信息，里面\"给TES送考\"是误植的手游赛事内容，判断为无关噪音。主要选取带#给TES送考#话题的18条有效结果。<br><br>最后决定用三部分回应：先精确定义梗的含义，再还原赛事背景，最后展开分析网民心态光谱。准备在开头用emoji增加传播感，结尾点出这种应援反映的电竞文化变迁。<br><br></think><br>“给TES送考”是2025年英雄联盟S15全球总决赛半决赛期间，LPL赛区观众对参赛战队滔搏电子竞技俱乐部（TES）衍生出的一种特殊应援文化，其核心内涵和背景如下：<br>### ⭐ 一、**核心定义与象征意义**<br>1. **双重心态的融合**  <br>   “送考”比喻将TES送上对战T1的赛场，既承载着LPL观众对战胜韩国强队（“抗韩破咒”）的赛区使命寄托，又包含着降低心理预期、强调“享受比赛过程”的豁达心态。这反映了观众对TES既寄予厚望又不敢过度施压的矛盾心理。```wbCustomBlock{\"type\": \"quoted\", \"index\": 4, \"data\": {\"num\": [6], \"version\": 2, \"quote_list\": [{\"name\": \"Angela_羽悸颖\", \"scheme\": \"sinaweibo://detail?mblogid=5228285001998008\", \"index\": 6, \"label\": \"\"}]}}```<br><br>2. **赛事转折的产物**  <br>   该词爆发的直接导火索是：**KT在11月1日半决赛中爆冷以3:1击败夺冠热门GEN**（此前GEN全年仅输2个BO5且均败于KT）。这一结果使TES成为LPL赛区“全村最后的希望”，但对手是历史战绩压制LPL的T1战队，观众因此以“送考”表达对硬仗的清醒认知。```wbCustomBlock{\"type\": \"quoted\", \"index\": 5, \"data\": {\"num\": [1, 2, 3, 11, 20, 21], \"version\": 2, \"quote_list\": [{\"name\": \"今视频长天新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5228283429653914\", \"index\": 21, \"label\": \"大v\"}, {\"name\": \"召唤师Park\", \"scheme\": \"sinaweibo://detail?mblogid=5228252322862915\", \"index\": 1, \"label\": \"\"}, {\"name\": \"张佳ZHJ\", \"scheme\": \"sinaweibo://detail?mblogid=5228269670498931\", \"index\": 2, \"label\": \"\"}, {\"name\": \"我是电竞小生\", \"scheme\": \"sinaweibo://detail?mblogid=5228270385630347\", \"index\": 3, \"label\": \"\"}, {\"name\": \"游叔\", \"scheme\": \"sinaweibo://detail?mblogid=5228283609225859\", \"index\": 11, \"label\": \"\"}, {\"name\": \"暖阳当空照啊\", \"scheme\": \"sinaweibo://detail?mblogid=5228275680940066\", \"index\": 20, \"label\": \"\"}], \"name\": \"今视频长天新闻\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.600.600.50/001pc7tEly8i1trdqpgroj60go0gogm502.jpg?KID=imgbed,tva&Expires=1762014963&ssig=iKw%2Bq0Sd0h\", \"scheme\": \"sinaweibo://detail?mblogid=5228283429653914\", \"vType\": 3}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5228269670498931&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/007bPoe5ly8hyjbqruyjfj30u00u1wfr.jpg?KID=imgbed,tva&Expires=1762014963&ssig=9K2WXph23m) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">张佳ZHJ</span><img src=\"http://wx4.sinaimg.cn/middle/007bPoe5gy1i6wzgxvkyvj31c80r0k1e.jpg\" data-width=972 data-height=1736></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5228270385630347&multi_paragraph=1&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.600.600.50/006BPLKbly8gx4n5qvexbj30go0gogp4.jpg?KID=imgbed,tva&Expires=1762014963&ssig=LGXONlbV5u) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">我是电竞小生</span><img src=\"http://wx1.sinaimg.cn/middle/006BPLKbly1i6wzj1gnjaj31hc0ok75u.jpg\" data-width=884 data-height=1920></div></media-block><br>### 💥 二、**赛事背景与社区情绪**<br>1. **对战格局剧变**  <br>   - KT战胜GEN后，决赛等待的将是**TES与T1的胜者**，形成“KT vs TES/T1”的对局。```wbCustomBlock{\"type\": \"quoted\", \"index\": 9, \"data\": {\"num\": [3, 14], \"version\": 2, \"quote_list\": [{\"name\": \"兔玩游戏\", \"scheme\": \"sinaweibo://detail?mblogid=5228272108439833\", \"index\": 14, \"label\": \"大v\"}, {\"name\": \"我是电竞小生\", \"scheme\": \"sinaweibo://detail?mblogid=5228270385630347\", \"index\": 3, \"label\": \"\"}], \"name\": \"兔玩游戏\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.400.400.50/005vhJLPly8haiwm7o7qbj30b40b4jrg.jpg?KID=imgbed,tva&Expires=1762014963&ssig=PKTuNCSs13\", \"scheme\": \"sinaweibo://detail?mblogid=5228272108439833\", \"vType\": 0}}```  <br>   - TES此前对LCK强队胜率不佳，而T1素有“LPL杀手”称号，赛前普遍认为TES处于劣势。```wbCustomBlock{\"type\": \"quoted\", \"index\": 10, \"data\": {\"num\": [22], \"version\": 2, \"quote_list\": [{\"name\": \"煎饼大师\", \"scheme\": \"sinaweibo://detail?mblogid=5228282377407741\", \"index\": 22, \"label\": \"\"}]}}```<br><br>2. **观众态度的分化**  <br>   - **乐观派**：认为KT的爆冷证明“一切皆有可能”，部分解说（如朱开）甚至表示若TES战胜T1则夺冠概率大增。```wbCustomBlock{\"type\": \"quoted\", \"index\": 12, \"data\": {\"num\": [11, 17], \"version\": 2, \"quote_list\": [{\"name\": \"游叔\", \"scheme\": \"sinaweibo://detail?mblogid=5228283609225859\", \"index\": 11, \"label\": \"大v\"}, {\"name\": \"小野的瓜田\", \"scheme\": \"sinaweibo://detail?mblogid=5228273179298362\", \"index\": 17, \"label\": \"\"}], \"name\": \"游叔\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/8972f4d7ly8i6hqww3pj8j20u00u0dif.jpg?KID=imgbed,tva&Expires=1762014963&ssig=YRxQs98Wo5\", \"scheme\": \"sinaweibo://detail?mblogid=5228283609225859\", \"vType\": 0}}```  <br>   - **现实派**：强调“打出风采即可”，输赢都可接受，避免给选手施加压力。```wbCustomBlock{\"type\": \"quoted\", \"index\": 13, \"data\": {\"num\": [1, 9, 10, 18], \"version\": 2, \"quote_list\": [{\"name\": \"召唤师Park\", \"scheme\": \"sinaweibo://detail?mblogid=5228252322862915\", \"index\": 1, \"label\": \"大v\"}, {\"name\": \"阳光没有桃\", \"scheme\": \"sinaweibo://detail?mblogid=5228284329599187\", \"index\": 9, \"label\": \"\"}, {\"name\": \"for_StudyLOGs\", \"scheme\": \"sinaweibo://detail?mblogid=5228284086322318\", \"index\": 10, \"label\": \"\"}, {\"name\": \"是花花熊鸭\", \"scheme\": \"sinaweibo://detail?mblogid=5228277398504442\", \"index\": 18, \"label\": \"\"}], \"name\": \"召唤师Park\", \"img\": \"https://tvax2.sinaimg.cn/crop.16.21.551.551.50/96542c59ly8geqtawegnej20gr0gq0to.jpg?KID=imgbed,tva&Expires=1762014963&ssig=QUwOSmDM4U\", \"scheme\": \"sinaweibo://detail?mblogid=5228252322862915\", \"vType\": 0}}```  <br>   - **玩梗派**：借用“送考”调侃TES“欠冠军”的宿命感，或戏称若T1再夺冠则“转投IG”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 14, \"data\": {\"num\": [8, 16], \"version\": 2, \"quote_list\": [{\"name\": \"爱蜜莉雅碳激推\", \"scheme\": \"sinaweibo://detail?mblogid=5228284402732861\", \"index\": 8, \"label\": \"\"}, {\"name\": \"随遇而安的曼\", \"scheme\": \"sinaweibo://detail?mblogid=5228273369874677\", \"index\": 16, \"label\": \"\"}]}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5228273179298362&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=2&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/008xCJoDly8hrq6l9fi5wj30u00u03yx.jpg?KID=imgbed,tva&Expires=1762014963&ssig=xWVQZvilEU) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">小野的瓜田</span><img src=\"http://wx1.sinaimg.cn/middle/008xCJoDgy1i6wzxv9j8rj30lc0e5gn0.jpg\" data-width=509 data-height=768></div></media-block><br>### 🌈 三、**文化延伸与社区共识**<br>1. **解构胜负的集体表达**  <br>   通过“送考”这一符号，观众将紧张赛事转化为情感共鸣：  <br>   - 为老将BDD（KT中单）冲击首冠而热血；```wbCustomBlock{\"type\": \"quoted\", \"index\": 18, \"data\": {\"num\": [1, 15, 24], \"version\": 2, \"quote_list\": [{\"name\": \"日天刺客SoloKing\", \"scheme\": \"sinaweibo://detail?mblogid=5228282675201850\", \"index\": 15, \"label\": \"大v\"}, {\"name\": \"召唤师Park\", \"scheme\": \"sinaweibo://detail?mblogid=5228252322862915\", \"index\": 1, \"label\": \"\"}, {\"name\": \"今视频长天新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5228280153901503\", \"index\": 24, \"label\": \"\"}], \"name\": \"日天刺客SoloKing\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/86df0a63ly8i523qsg20bj20u00u0myt.jpg?KID=imgbed,tva&Expires=1762014963&ssig=s41X7tu%2Fbj\", \"scheme\": \"sinaweibo://detail?mblogid=5228282675201850\", \"vType\": 0}}```  <br>   - 对GEN核心Chovy、Ruler的失利表达惋惜；```wbCustomBlock{\"type\": \"quoted\", \"index\": 19, \"data\": {\"num\": [3, 21], \"version\": 2, \"quote_list\": [{\"name\": \"我是电竞小生\", \"scheme\": \"sinaweibo://detail?mblogid=5228270385630347\", \"index\": 3, \"label\": \"大v\"}, {\"name\": \"今视频长天新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5228283429653914\", \"index\": 21, \"label\": \"\"}], \"name\": \"我是电竞小生\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.600.600.50/006BPLKbly8gx4n5qvexbj30go0gogp4.jpg?KID=imgbed,tva&Expires=1762014963&ssig=LGXONlbV5u\", \"scheme\": \"sinaweibo://detail?mblogid=5228270385630347\", \"vType\": 0}}```  <br>   - 呼吁无论结果如何“别喷选手”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 20, \"data\": {\"num\": [5, 9, 18], \"version\": 2, \"quote_list\": [{\"name\": \"暮烟媞媞\", \"scheme\": \"sinaweibo://detail?mblogid=5228285405168915\", \"index\": 5, \"label\": \"\"}, {\"name\": \"阳光没有桃\", \"scheme\": \"sinaweibo://detail?mblogid=5228284329599187\", \"index\": 9, \"label\": \"\"}, {\"name\": \"是花花熊鸭\", \"scheme\": \"sinaweibo://detail?mblogid=5228277398504442\", \"index\": 18, \"label\": \"\"}]}}```<br><br>2. **电竞精神的具象化**  <br>   最终“送考”超越应援范畴，成为S15赛事中观众对“竞技不确定性”的集体注解——正如用户```wbCustomBlock{\"type\": \"midquoted\", \"index\": \"7795858987_1\", \"data\": {\"name\": \"Angela_羽悸颖\", \"scheme\": \"https://weibo.com/u/7795858987\"}}```总结：  <br>   > “这场由爆冷与情怀交织的社区盛宴，已构成电竞史上的鲜活注脚。”```wbCustomBlock{\"type\": \"quoted\", \"index\": 22, \"data\": {\"num\": [6], \"version\": 2, \"quote_list\": [{\"name\": \"Angela_羽悸颖\", \"scheme\": \"sinaweibo://detail?mblogid=5228285001998008\", \"index\": 6, \"label\": \"\"}]}}```<br>### 💎 总结<br>“给TES送考”是LPL观众在S15半决赛戏剧性转折（KT淘汰GEN）后，对孤军奋战的TES所创造的情感载体。它既是对抗强敌的赛区动员，亦是化解压力的心理策略，本质是电竞文化中“理想与现实碰撞”的生动缩影。无论TES最终胜负，这种兼具使命感与豁达感的应援方式，已为赛事赋予了超越胜负的人文温度。<br>",
+      "q_attr": {
+        "comment_from_type": "",
+        "from_uid": "",
+        "from_request_id": "",
+        "mid": "",
+        "reply_cid": ""
+      },
+      "qs_status_info": "{\"qs_status\":0,\"qs_q_status\":0,\"ab_lab\":{},\"qs_c_status\":8388608,\"qs_r_status\":0,\"qs_u_status\":0}",
+      "unify_md5": "4775ceb37250bc765e86ec99747ee1e2",
+      "sorted_material_list": null,
+      "wenda": {
+        "forward_gen": 0
+      },
+      "msg_format": "markdown",
+      "query": "#给TES送考#",
+      "page_id": "2329643f05b0180ec1d7a47bff100d8c12a212",
+      "ext_show": {},
+      "card_multimodal": {
+        "type": "mediablock",
+        "data": [
+          {
+            "h": 972,
+            "click_rate": 0.06,
+            "vtype": 0,
+            "cur_mid": "5228269670498931",
+            "type": "p",
+            "img": "http://wx4.sinaimg.cn/middle/007bPoe5gy1i6wzgxvkyvj31c80r0k1e.jpg",
+            "w": 1736,
+            "user_name": "张佳ZHJ",
+            "scheme": "sinaweibo://multimedia?mix_mid=5228269670498931&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=0",
+            "user_avatar": "https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/007bPoe5ly8hyjbqruyjfj30u00u1wfr.jpg?KID=imgbed,tva&Expires=1762014963&ssig=9K2WXph23m",
+            "hit_score_final": 70.113281,
+            "video_url": "",
+            "hit_score_new": 76.855469,
+            "doc_score": 4688,
+            "img_pid": "007bPoe5gy1i6wzgxvkyvj31c80r0k1e"
+          },
+          {
+            "h": 884,
+            "click_rate": 0,
+            "vtype": 0,
+            "cur_mid": "5228270385630347",
+            "type": "v",
+            "img": "http://wx1.sinaimg.cn/middle/006BPLKbly1i6wzj1gnjaj31hc0ok75u.jpg",
+            "w": 1920,
+            "user_name": "我是电竞小生",
+            "scheme": "sinaweibo://video/vvs?mid=5228270385630347&multi_paragraph=1&multi_count=1",
+            "user_avatar": "https://tvax1.sinaimg.cn/crop.0.0.600.600.50/006BPLKbly8gx4n5qvexbj30go0gogp4.jpg?KID=imgbed,tva&Expires=1762014963&ssig=LGXONlbV5u",
+            "hit_score_final": 52.286133,
+            "video_url": "https://video.weibo.com/show?fid=1034:5228269050724372",
+            "hit_score_new": 47.143555,
+            "doc_score": 3328,
+            "img_pid": "006BPLKbly1i6wzj1gnjaj31hc0ok75u"
+          },
+          {
+            "h": 509,
+            "click_rate": 0.06,
+            "vtype": 0,
+            "cur_mid": "5228273179298362",
+            "type": "p",
+            "img": "http://wx1.sinaimg.cn/middle/008xCJoDgy1i6wzxv9j8rj30lc0e5gn0.jpg",
+            "w": 768,
+            "user_name": "小野的瓜田",
+            "scheme": "sinaweibo://multimedia?mix_mid=5228273179298362&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=2&multi_count=0",
+            "user_avatar": "https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/008xCJoDly8hrq6l9fi5wj30u00u03yx.jpg?KID=imgbed,tva&Expires=1762014963&ssig=xWVQZvilEU",
+            "hit_score_final": 68.095314,
+            "video_url": "",
+            "hit_score_new": 79.492188,
+            "doc_score": 3727,
+            "img_pid": "008xCJoDgy1i6wzxv9j8rj30lc0e5gn0"
+          },
+          {
+            "h": 972,
+            "click_rate": 0.06,
+            "vtype": 0,
+            "cur_mid": "5228269670498931",
+            "type": "p",
+            "img": "http://wx4.sinaimg.cn/middle/007bPoe5gy1i6wzgxvkyvj31c80r0k1e.jpg",
+            "w": 1736,
+            "user_name": "张佳ZHJ",
+            "scheme": "sinaweibo://multimedia?mix_mid=5228269670498931&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=0",
+            "user_avatar": "https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/007bPoe5ly8hyjbqruyjfj30u00u1wfr.jpg?KID=imgbed,tva&Expires=1762014963&ssig=9K2WXph23m",
+            "hit_score_final": 70.113281,
+            "video_url": "",
+            "hit_score_new": 76.855469,
+            "doc_score": 4688,
+            "img_pid": "007bPoe5gy1i6wzgxvkyvj31c80r0k1e"
+          }
+        ]
+      },
+      "analysis_time": 1762004305
+    }
+  },
+  "links": [
+    "sinaweibo://detail?mblogid=5228252322862915",
+    "sinaweibo://detail?mblogid=5228269670498931",
+    "sinaweibo://detail?mblogid=5228270385630347",
+    "sinaweibo://detail?mblogid=5228285760111576",
+    "sinaweibo://detail?mblogid=5228285405168915",
+    "sinaweibo://detail?mblogid=5228285001998008",
+    "sinaweibo://detail?mblogid=5228284997538306",
+    "sinaweibo://detail?mblogid=5228284402732861",
+    "sinaweibo://detail?mblogid=5228284329599187",
+    "sinaweibo://detail?mblogid=5228284086322318",
+    "sinaweibo://detail?mblogid=5228283609225859",
+    "sinaweibo://detail?mblogid=5228266298540916",
+    "sinaweibo://detail?mblogid=5228266530019679",
+    "sinaweibo://detail?mblogid=5228272108439833",
+    "sinaweibo://detail?mblogid=5228282675201850",
+    "sinaweibo://detail?mblogid=5228273369874677",
+    "sinaweibo://detail?mblogid=5228273179298362",
+    "sinaweibo://detail?mblogid=5228277398504442",
+    "sinaweibo://detail?mblogid=5228263905431984",
+    "sinaweibo://detail?mblogid=5228275680940066",
+    "sinaweibo://detail?mblogid=5228283429653914",
+    "sinaweibo://detail?mblogid=5228282377407741",
+    "sinaweibo://detail?mblogid=5228264731706233",
+    "sinaweibo://detail?mblogid=5228280153901503"
+  ],
+  "media": [
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/007bPoe5gy1i6wzgxvkyvj31c80r0k1e.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/007bPoe5gy1i6wzgxvkyvj31c80r0k1e.jpg",
+      "alt": "张佳ZHJ",
+      "width": 972,
+      "height": 1736,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/007bPoe5gy1i6wzgxvkyvj31c80r0k1e.jpg"
+      ],
+      "user": "张佳ZHJ"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/006BPLKbly1i6wzj1gnjaj31hc0ok75u.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/006BPLKbly1i6wzj1gnjaj31hc0ok75u.jpg",
+      "alt": "我是电竞小生",
+      "width": 884,
+      "height": 1920,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/006BPLKbly1i6wzj1gnjaj31hc0ok75u.jpg"
+      ],
+      "user": "我是电竞小生"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/008xCJoDgy1i6wzxv9j8rj30lc0e5gn0.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/008xCJoDgy1i6wzxv9j8rj30lc0e5gn0.jpg",
+      "alt": "小野的瓜田",
+      "width": 509,
+      "height": 768,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/008xCJoDgy1i6wzxv9j8rj30lc0e5gn0.jpg"
+      ],
+      "user": "小野的瓜田"
+    }
+  ],
+  "html_path": "data/aicard/hourly/2025-11-01/21/tes.html"
+}

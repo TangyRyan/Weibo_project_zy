@@ -1,0 +1,329 @@
+{
+  "meta": {
+    "query": "#威少说掘金不想让他留队#",
+    "status_code": 200,
+    "fetched_at": "2025-11-04T18:39:19+08:00",
+    "response": {
+      "sorted_material_list": null,
+      "query_field": "20",
+      "q_attr": {
+        "from_uid": "",
+        "from_request_id": "",
+        "reply_cid": "",
+        "comment_from_type": "",
+        "mid": ""
+      },
+      "status": 2,
+      "cot": 1,
+      "show_ctrl": {
+        "quote": {}
+      },
+      "ab_suffix": "default",
+      "version": "2025-11-04 18:36:03.023000-1355",
+      "analysis_time": 1762252727,
+      "chat_status_stage": 1,
+      "news_analyze": {},
+      "uid": "",
+      "reference_num": 29,
+      "query_category": "Ip",
+      "status_stage": 4,
+      "link_list": [
+        "sinaweibo://detail?mblogid=5229247158555270",
+        "sinaweibo://detail?mblogid=5229268569165807",
+        "sinaweibo://detail?mblogid=5222294726641599",
+        "sinaweibo://detail?mblogid=5229268030456721",
+        "sinaweibo://detail?mblogid=5229267296195315",
+        "sinaweibo://detail?mblogid=5229283641397032",
+        "sinaweibo://detail?mblogid=5229271595355562",
+        "sinaweibo://detail?mblogid=5229237583216905",
+        "sinaweibo://detail?mblogid=5229270894380805",
+        "sinaweibo://detail?mblogid=5229271779379100",
+        "sinaweibo://detail?mblogid=5229265697376641",
+        "sinaweibo://detail?mblogid=5229295736718417",
+        "sinaweibo://detail?mblogid=5229326394199869",
+        "sinaweibo://detail?mblogid=5229317835462061",
+        "sinaweibo://detail?mblogid=5229314376207935",
+        "sinaweibo://detail?mblogid=5229313302989476",
+        "sinaweibo://detail?mblogid=5229304380130414",
+        "sinaweibo://detail?mblogid=5229269345374940",
+        "sinaweibo://detail?mblogid=5229261224939942",
+        "sinaweibo://detail?mblogid=5204870920929825",
+        "sinaweibo://detail?mblogid=5168096696598785",
+        "sinaweibo://detail?mblogid=5167996793784576",
+        "sinaweibo://detail?mblogid=5214908937404628",
+        "sinaweibo://detail?mblogid=5154200305797069",
+        "sinaweibo://detail?mblogid=5161085313222684",
+        "sinaweibo://detail?mblogid=5229293850067719",
+        "sinaweibo://detail?mblogid=5229269005633761",
+        "sinaweibo://detail?mblogid=5220136794980741",
+        "sinaweibo://detail?mblogid=5217571196633461"
+      ],
+      "top_quote_list": {},
+      "short_url": "http://t.cn/AXAlp1AV",
+      "card_multimodal": {
+        "type": "mediablock",
+        "data": [
+          {
+            "video_url": "",
+            "img": "http://wx1.sinaimg.cn/middle/006WIDKBly1i5yulgw05mj31900u0q9e.jpg",
+            "vtype": 3,
+            "hit_score_new": 66.259766,
+            "cur_mid": "5217571196633461",
+            "img_pid": "006WIDKBly1i5yulgw05mj31900u0q9e",
+            "user_name": "咪咕篮球",
+            "scheme": "sinaweibo://multimedia?mix_mid=5217571196633461&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=0",
+            "click_num": 0,
+            "hit_score_final": 66.155853,
+            "w": 1620,
+            "doc_score": 1912,
+            "type": "p",
+            "h": 1080,
+            "click_rate": 0.07843137254902,
+            "user_avatar": "https://tvax2.sinaimg.cn/crop.0.0.179.179.50/006WIDKBly8h8vhbzsq26j304z04z3yd.jpg?KID=imgbed,tva&Expires=1762263363&ssig=toHvwPZ6tj"
+          },
+          {
+            "video_url": "",
+            "img": "http://wx4.sinaimg.cn/middle/6e06bde9gy1i4uc9ixazsj20jp0own03.jpg",
+            "vtype": 0,
+            "hit_score_new": 78.808594,
+            "cur_mid": "5204870920929825",
+            "img_pid": "6e06bde9gy1i4uc9ixazsj20jp0own03",
+            "user_name": "黎双富",
+            "scheme": "sinaweibo://multimedia?mix_mid=5204870920929825&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=1",
+            "click_num": 0,
+            "hit_score_final": 75.285156,
+            "w": 709,
+            "doc_score": 2479,
+            "type": "p",
+            "h": 896,
+            "click_rate": 0.06,
+            "user_avatar": "https://tvax2.sinaimg.cn/crop.0.0.512.512.50/6e06bde9ly8i3821xmydxj20e80e8jrl.jpg?KID=imgbed,tva&Expires=1762263363&ssig=ZSIMoy%2FlEX"
+          },
+          {
+            "video_url": "",
+            "img": "http://wx3.sinaimg.cn/middle/82be6f9egy1i1l0sj8e7lj20xc15otih.jpg",
+            "vtype": 7,
+            "hit_score_new": 71.044922,
+            "cur_mid": "5168096696598785",
+            "img_pid": "82be6f9egy1i1l0sj8e7lj20xc15otih",
+            "user_name": "詹姆斯吧官方微博",
+            "scheme": "sinaweibo://multimedia?mix_mid=5168096696598785&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=2",
+            "click_num": 0,
+            "hit_score_final": 69.82695,
+            "w": 1200,
+            "doc_score": 3519,
+            "type": "p",
+            "h": 1500,
+            "click_rate": 0.06,
+            "user_avatar": "https://tvax2.sinaimg.cn/crop.0.0.512.512.50/82be6f9ely8gjrnfl21pnj20e80e8mxm.jpg?KID=imgbed,tva&Expires=1762263363&ssig=sMtMbGcNvV"
+          },
+          {
+            "video_url": "",
+            "img": "http://wx1.sinaimg.cn/middle/006WIDKBly1i5yulgw05mj31900u0q9e.jpg",
+            "vtype": 3,
+            "hit_score_new": 66.259766,
+            "cur_mid": "5217571196633461",
+            "img_pid": "006WIDKBly1i5yulgw05mj31900u0q9e",
+            "user_name": "咪咕篮球",
+            "scheme": "sinaweibo://multimedia?mix_mid=5217571196633461&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=0",
+            "click_num": 0,
+            "hit_score_final": 66.155853,
+            "w": 1620,
+            "doc_score": 1912,
+            "type": "p",
+            "h": 1080,
+            "click_rate": 0.07843137254902,
+            "user_avatar": "https://tvax2.sinaimg.cn/crop.0.0.179.179.50/006WIDKBly8h8vhbzsq26j304z04z3yd.jpg?KID=imgbed,tva&Expires=1762263363&ssig=toHvwPZ6tj"
+          }
+        ]
+      },
+      "share_card_multimodal": {
+        "video_url": "",
+        "img": "http://wx1.sinaimg.cn/middle/006WIDKBly1i5yulgw05mj31900u0q9e.jpg",
+        "vtype": 3,
+        "hit_score_new": 66.259766,
+        "cur_mid": "5217571196633461",
+        "img_pid": "006WIDKBly1i5yulgw05mj31900u0q9e",
+        "user_name": "咪咕篮球",
+        "scheme": "sinaweibo://multimedia?mix_mid=5217571196633461&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=0",
+        "click_num": 0,
+        "hit_score_final": 66.155853,
+        "w": 1620,
+        "doc_score": 1912,
+        "type": "p",
+        "h": 1080,
+        "click_rate": 0.07843137254902,
+        "user_avatar": "https://tvax2.sinaimg.cn/crop.0.0.179.179.50/006WIDKBly8h8vhbzsq26j304z04z3yd.jpg?KID=imgbed,tva&Expires=1762263363&ssig=toHvwPZ6tj"
+      },
+      "scheme": "sinaweibo://cardlist?containerid=100103type%3D225%26q%3D%23%E5%A8%81%E5%B0%91%E8%AF%B4%E6%8E%98%E9%87%91%E4%B8%8D%E6%83%B3%E8%AE%A9%E4%BB%96%E7%95%99%E9%98%9F%23%26t%3D&extparam=ai_model%3Ddeepseek%26ori_ai_title%3D%E5%8F%82%E8%80%83%E5%8D%9A%E6%96%87%26material_version%3D1762252563",
+      "basemodel": "实验组4",
+      "profile_image_url": "",
+      "user_info": {},
+      "wenda": {
+        "forward_gen": 0
+      },
+      "comment_info": {},
+      "query": "#威少说掘金不想让他留队#",
+      "share_text": "#威少说掘金不想让他留队#的相关内容，来智搜看看",
+      "msg": "<think><br><br>嗯，我看到了很多关于威少离开掘金的搜索结果，需要整理出一个清晰的回答。用户想要了解\"威少说掘金不想让他留队\"的具体情况。<br><br>从搜索结果看，多个大V账号和认证账号在2025年11月4日发布了相关内容。威少在赛后采访中明确表示：\"事实是他们不希望我回归，这不是我能决定的\"，还说\"他们让我别执行球员选项\"。有账号提到威少补充说\"我不会去任何不欢迎我的地方\"。<br><br>关于威少的状态，他在对阵掘金的比赛中表现很出色，17投10中拿下26分12篮板6助攻，三分命中率达到39.4%创职业生涯新高。他现在的合同是国王队的一年360万美元无保障底薪。<br><br>有分析认为掘金阵容没有威少的位置，除非他接受低于小哈达威、瓦兰等人的轮换顺序。丹尼·格林在播客中透露掘金根本没打算让威少上场，甚至要把他排在部分球员之后。<br><br>对于离开原因，威少强调是掘金方面主动告知不要执行选项。但他仍感激掘金球迷，表示\"这里的球迷就非常棒\"。他最后加盟了国王队，寻求更多出场时间。<br><br>有些争议性评论，比如有用户质疑威少\"离开哪个队就说哪个队的坏话\"，但小波特曾辟谣威少破坏更衣室的传闻。<br><br>在回答结构上，考虑首先说明威少离开的直接原因和过程，然后分析背后的球队考量，再补充威少加盟国王的情况和他对掘金球迷的态度。最后可以谈谈他当前的表现状态。<br><br></think><br>关于威少声称掘金不想让其留队一事，综合多方信息及威少本人表态，核心事实如下：<br>### 🔍 一、离队核心原因：掘金明确拒绝其回归  <br>1. **主动告知不执行选项**  <br>   威少在2025年11月4日对阵掘金的赛后采访中多次强调：掘金管理层明确要求他不要执行球员选项（原合同为一年350万美元），并直接表示“不希望他回归”。威少称：“主动权不在我这，他们不需要我，我不会去任何不欢迎我的地方。”  <br>   *补充背景*：其球员选项截止日为2025年6月底，最终威少选择跳出合同成为自由球员。```wbCustomBlock{\"type\": \"quoted\", \"index\": 3, \"data\": {\"num\": [1, 4, 6, 12, 14, 19, 20, 21], \"version\": 2, \"quote_list\": [{\"name\": \"黎双富\", \"scheme\": \"sinaweibo://detail?mblogid=5204870920929825\", \"index\": 20, \"label\": \"大v\"}, {\"name\": \"演曼巴\", \"scheme\": \"sinaweibo://detail?mblogid=5229247158555270\", \"index\": 1, \"label\": \"\"}, {\"name\": \"雷霆中文网\", \"scheme\": \"sinaweibo://detail?mblogid=5229268030456721\", \"index\": 4, \"label\": \"\"}, {\"name\": \"篮球实战指南\", \"scheme\": \"sinaweibo://detail?mblogid=5229283641397032\", \"index\": 6, \"label\": \"\"}, {\"name\": \"冷门-张书生\", \"scheme\": \"sinaweibo://detail?mblogid=5229295736718417\", \"index\": 12, \"label\": \"\"}, {\"name\": \"吃西瓜的电竞宅妹\", \"scheme\": \"sinaweibo://detail?mblogid=5229317835462061\", \"index\": 14, \"label\": \"\"}, {\"name\": \"NuggetsHome\", \"scheme\": \"sinaweibo://detail?mblogid=5229261224939942\", \"index\": 19, \"label\": \"\"}, {\"name\": \"詹姆斯吧官方微博\", \"scheme\": \"sinaweibo://detail?mblogid=5168096696598785\", \"index\": 21, \"label\": \"\"}], \"name\": \"黎双富\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.512.512.50/6e06bde9ly8i3821xmydxj20e80e8jrl.jpg?KID=imgbed,tva&Expires=1762263363&ssig=ZSIMoy%2FlEX\", \"scheme\": \"sinaweibo://detail?mblogid=5204870920929825\", \"vType\": 0}}```<br><br>2. **球队战术地位考量**  <br>   - 据掘金跟队账号分析，球队阵容中威少可能需接受低于小哈达威、沃特森等人的轮换顺位（第9-10人），与其预期角色不符。```wbCustomBlock{\"type\": \"quoted\", \"index\": 5, \"data\": {\"num\": [7], \"version\": 2, \"quote_list\": [{\"name\": \"5280号掘金小矿车\", \"scheme\": \"sinaweibo://detail?mblogid=5229271595355562\", \"index\": 7, \"label\": \"\"}]}}```  <br>   - 前NBA球员丹尼·格林在播客中透露，掘金新赛季计划将威少排除在轮换阵容之外，甚至安排在部分年轻球员之后，这导致威少拒绝留队。```wbCustomBlock{\"type\": \"quoted\", \"index\": 6, \"data\": {\"num\": [28, 29], \"version\": 2, \"quote_list\": [{\"name\": \"虎扑篮球\", \"scheme\": \"sinaweibo://detail?mblogid=5220136794980741\", \"index\": 28, \"label\": \"大v\"}, {\"name\": \"咪咕篮球\", \"scheme\": \"sinaweibo://detail?mblogid=5217571196633461\", \"index\": 29, \"label\": \"\"}], \"name\": \"虎扑篮球\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.768.768.50/001N8TbXly8i0vjozk7qqj60lc0lcaak02.jpg?KID=imgbed,tva&Expires=1762263363&ssig=HXR22ihjPq\", \"scheme\": \"sinaweibo://detail?mblogid=5220136794980741\", \"vType\": 3}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5217571196633461&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.179.179.50/006WIDKBly8h8vhbzsq26j304z04z3yd.jpg?KID=imgbed,tva&Expires=1762263363&ssig=toHvwPZ6tj) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">咪咕篮球</span><img src=\"http://wx1.sinaimg.cn/middle/006WIDKBly1i5yulgw05mj31900u0q9e.jpg\" data-width=1080 data-height=1620></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5204870920929825&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=1\"><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.512.512.50/6e06bde9ly8i3821xmydxj20e80e8jrl.jpg?KID=imgbed,tva&Expires=1762263363&ssig=ZSIMoy%2FlEX) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">黎双富</span><img src=\"http://wx4.sinaimg.cn/middle/6e06bde9gy1i4uc9ixazsj20jp0own03.jpg\" data-width=896 data-height=709></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5168096696598785&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=2\"><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.512.512.50/82be6f9ely8gjrnfl21pnj20e80e8mxm.jpg?KID=imgbed,tva&Expires=1762263363&ssig=sMtMbGcNvV) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">詹姆斯吧官方微博</span><img src=\"http://wx3.sinaimg.cn/middle/82be6f9egy1i1l0sj8e7lj20xc15otih.jpg\" data-width=1500 data-height=1200></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5229295736718417&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=3\"><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.958.958.50/007QUjPWly8hxi1lbdgc1j30qm0qmdic.jpg?KID=imgbed,tva&Expires=1762263363&ssig=u5G913REnl) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">冷门-张书生</span><img src=\"http://wx1.sinaimg.cn/middle/007QUjPWgy1i709fjyt3oj30f40cswfy.jpg\" data-width=460 data-height=544></div></media-block><br>### 🧩 二、威少的回应与现状  <br>1. **态度与选择**  <br>   威少表示尊重掘金决定，但强调自己“不会赖着不走”，并称“总会有需要我的地方”。他对掘金球迷表达了感谢，称球迷的支持“非常棒”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 8, \"data\": {\"num\": [12, 19], \"version\": 2, \"quote_list\": [{\"name\": \"冷门-张书生\", \"scheme\": \"sinaweibo://detail?mblogid=5229295736718417\", \"index\": 12, \"label\": \"\"}, {\"name\": \"NuggetsHome\", \"scheme\": \"sinaweibo://detail?mblogid=5229261224939942\", \"index\": 19, \"label\": \"\"}]}}```<br><br>2. **加盟国王队详情**  <br>   - **合同**：一年360万美元老将底薪（无保障）。```wbCustomBlock{\"type\": \"quoted\", \"index\": 10, \"data\": {\"num\": [3, 26], \"version\": 2, \"quote_list\": [{\"name\": \"超级圈圈呀\", \"scheme\": \"sinaweibo://detail?mblogid=5222294726641599\", \"index\": 3, \"label\": \"\"}, {\"name\": \"篮球大玩家\", \"scheme\": \"sinaweibo://detail?mblogid=5229293850067719\", \"index\": 26, \"label\": \"\"}]}}```  <br>   - **动机**：追求更多出场时间及战术地位，而非争冠优先级。```wbCustomBlock{\"type\": \"quoted\", \"index\": 11, \"data\": {\"num\": [3, 18], \"version\": 2, \"quote_list\": [{\"name\": \"超级圈圈呀\", \"scheme\": \"sinaweibo://detail?mblogid=5222294726641599\", \"index\": 3, \"label\": \"\"}, {\"name\": \"趣球A段\", \"scheme\": \"sinaweibo://detail?mblogid=5229269345374940\", \"index\": 18, \"label\": \"\"}]}}```  <br>   - **表现**：  <br>     - 效力国王后状态回升，近5战场均16.8分6.8篮板6助攻1.8抢断，三分命中率41.4%。```wbCustomBlock{\"type\": \"quoted\", \"index\": 13, \"data\": {\"num\": [2], \"version\": 2, \"quote_list\": [{\"name\": \"库里精选Curry\", \"scheme\": \"sinaweibo://detail?mblogid=5229268569165807\", \"index\": 2, \"label\": \"大v\"}], \"name\": \"库里精选Curry\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.888.888.50/0070PPkbly8gql13lflvxj30oo0oodl6.jpg?KID=imgbed,tva&Expires=1762263363&ssig=QQ4VUzuh%2FH\", \"scheme\": \"sinaweibo://detail?mblogid=5229268569165807\", \"vType\": 0}}```  <br>     - 对阵掘金一役，首发出战37分钟砍下26分12篮板6助攻2抢断，三分6中3。```wbCustomBlock{\"type\": \"quoted\", \"index\": 14, \"data\": {\"num\": [2, 8, 9], \"version\": 2, \"quote_list\": [{\"name\": \"咪咕篮球\", \"scheme\": \"sinaweibo://detail?mblogid=5229237583216905\", \"index\": 8, \"label\": \"大v\"}, {\"name\": \"库里精选Curry\", \"scheme\": \"sinaweibo://detail?mblogid=5229268569165807\", \"index\": 2, \"label\": \"\"}, {\"name\": \"篮球大历史\", \"scheme\": \"sinaweibo://detail?mblogid=5229270894380805\", \"index\": 9, \"label\": \"\"}], \"name\": \"咪咕篮球\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.179.179.50/006WIDKBly8h8vhbzsq26j304z04z3yd.jpg?KID=imgbed,tva&Expires=1762263363&ssig=toHvwPZ6tj\", \"scheme\": \"sinaweibo://detail?mblogid=5229237583216905\", \"vType\": 3}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5229268569165807&multi_paragraph=2&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.888.888.50/0070PPkbly8gql13lflvxj30oo0oodl6.jpg?KID=imgbed,tva&Expires=1762263363&ssig=QQ4VUzuh%2FH) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">库里精选Curry</span><img src=\"http://wx2.sinaimg.cn/middle/0070PPkbgy1i706a39jb7j30u00gvwjz.jpg\" data-width=607 data-height=1080></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5222294726641599&multi_paragraph=2&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.956.956.50/007Z9CVyly8i4rokx7eojj30qk0qktaf.jpg?KID=imgbed,tva&Expires=1762263363&ssig=eh%2FFVEvjhb) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">超级圈圈呀</span><img src=\"http://wx1.sinaimg.cn/middle/007Z9CVygy1i6dxcybhm6j31400mjgsl.jpg\" data-width=811 data-height=1440></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5229293850067719&multi_paragraph=2&multi_count=2\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.945.945.50/007yPqBYly8hsn7x6gzdrj30q90q9gmn.jpg?KID=imgbed,tva&Expires=1762263363&ssig=u67QS4DHBy) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">篮球大玩家</span><img src=\"http://wx2.sinaimg.cn/middle/007yPqBYgy1i7096s9j8fj30ty13y16c.jpg\" data-width=1438 data-height=1078></div></media-block><br>### 🏀 三、争议与背景补充  <br>1. **更衣室传闻澄清**  <br>   前队友小波特曾辟谣“威少破坏掘金更衣室”的说法，称其“充满正能量”，矛盾仅为赛季正常波动。```wbCustomBlock{\"type\": \"quoted\", \"index\": 16, \"data\": {\"num\": [23], \"version\": 2, \"quote_list\": [{\"name\": \"是丹佛的雪\", \"scheme\": \"sinaweibo://detail?mblogid=5214908937404628\", \"index\": 23, \"label\": \"\"}]}}```<br><br>2. **球迷与舆论分化**  <br>   - 部分球迷质疑威少“离开即抱怨”，认为其是“球队毒瘤”；```wbCustomBlock{\"type\": \"quoted\", \"index\": 18, \"data\": {\"num\": [17], \"version\": 2, \"quote_list\": [{\"name\": \"下雪吃火锅i\", \"scheme\": \"sinaweibo://detail?mblogid=5229304380130414\", \"index\": 17, \"label\": \"\"}]}}```  <br>   - 亦有观点肯定其职业态度，称其“底薪干顶薪的活”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 19, \"data\": {\"num\": [8, 26], \"version\": 2, \"quote_list\": [{\"name\": \"咪咕篮球\", \"scheme\": \"sinaweibo://detail?mblogid=5229237583216905\", \"index\": 8, \"label\": \"\"}, {\"name\": \"篮球大玩家\", \"scheme\": \"sinaweibo://detail?mblogid=5229293850067719\", \"index\": 26, \"label\": \"\"}]}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5214908937404628&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=3&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.512.512.50/ae450045ly8i2xlglorjhj20e80e80u6.jpg?KID=imgbed,tva&Expires=1762263363&ssig=m926qPS5Ay) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">是丹佛的雪</span><img src=\"http://wx4.sinaimg.cn/middle/ae450045gy1i5qd2bxha0j21jc0t4tdv.jpg\" data-width=1048 data-height=1992></div></media-block><br>### 💎 四、总结  <br>威少离队本质是掘金基于阵容规划作出的主动取舍，而威少则坚持“需要被需要”的原则转投国王，并以高性价比表现回应质疑。双方分歧集中于球队角色定位，但未涉及公开矛盾。<br>",
+      "qs_status": 0,
+      "reliable_tips": "{\"gold_orange_v_mids\": [\"5229247158555270\", \"5229283641397032\", \"5229295736718417\", \"5229317835462061\", \"5204870920929825\", \"5222294726641599\", \"5229268569165807\", \"5229270894380805\", \"5214908937404628\", \"5229267296195315\", \"5229271779379100\", \"5229314376207935\", \"5161085313222684\", \"5229269005633761\"], \"gold_orange_v_ratio\": \"48%\", \"media_mids\": [], \"media_ratio\": \"0%\", \"verified_mids\": [\"5229268030456721\", \"5229261224939942\", \"5168096696598785\", \"5229271595355562\", \"5220136794980741\", \"5217571196633461\", \"5229293850067719\", \"5229269345374940\", \"5229237583216905\", \"5229265697376641\", \"5229326394199869\", \"5167996793784576\", \"5154200305797069\"], \"verified_ratio\": \"45%\", \"normal_mids\": [\"5229304380130414\", \"5229313302989476\"], \"normal_ratio\": \"7%\", \"ref_mid_rank\": {\"5229247158555270\": {\"rank\": 1}, \"5229268030456721\": {\"rank\": 4}, \"5229283641397032\": {\"rank\": 6}, \"5229295736718417\": {\"rank\": 12}, \"5229317835462061\": {\"rank\": 14}, \"5229261224939942\": {\"rank\": 19}, \"5204870920929825\": {\"rank\": 20}, \"5168096696598785\": {\"rank\": 21}, \"5229271595355562\": {\"rank\": 7}, \"5220136794980741\": {\"rank\": 28}, \"5217571196633461\": {\"rank\": 29}, \"5222294726641599\": {\"rank\": 3}, \"5229293850067719\": {\"rank\": 26}, \"5229269345374940\": {\"rank\": 18}, \"5229268569165807\": {\"rank\": 2}, \"5229237583216905\": {\"rank\": 8}, \"5229270894380805\": {\"rank\": 9}, \"5214908937404628\": {\"rank\": 23}, \"5229304380130414\": {\"rank\": 17}, \"5229267296195315\": {\"rank\": 5}, \"5229271779379100\": {\"rank\": 10}, \"5229265697376641\": {\"rank\": 11}, \"5229326394199869\": {\"rank\": 13}, \"5229314376207935\": {\"rank\": 15}, \"5229313302989476\": {\"rank\": 16}, \"5167996793784576\": {\"rank\": 22}, \"5154200305797069\": {\"rank\": 24}, \"5161085313222684\": {\"rank\": 25}, \"5229269005633761\": {\"rank\": 27}}}",
+      "unify_md5": "a7ae6ed5cbb97bc85581e78351e36ac1",
+      "zs_risk_control": {
+        "land_button_close": 0,
+        "think_text_close": 0
+      },
+      "msg_json": "{}",
+      "msg_format": "markdown",
+      "current_time": 1762252759,
+      "share_info": {
+        "unify_md5": "a7ae6ed5cbb97bc85581e78351e36ac1",
+        "status": 3,
+        "comment_content": "",
+        "tips": "#威少说掘金不想让他留队#的相关内容，来智搜看看",
+        "url": "http://t.cn/AXAlOi47",
+        "page_id": "23296447e8e2f1c1af3322c3f3941cd5ba99a1",
+        "display_name": "#威少说掘金不想让他留队#"
+      },
+      "qs_status_info": "{\"qs_r_status\":0,\"qs_status\":0,\"qs_u_status\":0,\"ab_lab\":{},\"qs_q_status\":0,\"qs_c_status\":8388608}",
+      "page_id": "23296447e8e2f1c1af3322c3f3941cd5ba99a1",
+      "abtest_info": {
+        "chat_entrance": 1
+      },
+      "loop_times": 200,
+      "ext_show": {},
+      "mid_list": null,
+      "model": "deepseek"
+    }
+  },
+  "links": [
+    "sinaweibo://detail?mblogid=5229247158555270",
+    "sinaweibo://detail?mblogid=5229268569165807",
+    "sinaweibo://detail?mblogid=5222294726641599",
+    "sinaweibo://detail?mblogid=5229268030456721",
+    "sinaweibo://detail?mblogid=5229267296195315",
+    "sinaweibo://detail?mblogid=5229283641397032",
+    "sinaweibo://detail?mblogid=5229271595355562",
+    "sinaweibo://detail?mblogid=5229237583216905",
+    "sinaweibo://detail?mblogid=5229270894380805",
+    "sinaweibo://detail?mblogid=5229271779379100",
+    "sinaweibo://detail?mblogid=5229265697376641",
+    "sinaweibo://detail?mblogid=5229295736718417",
+    "sinaweibo://detail?mblogid=5229326394199869",
+    "sinaweibo://detail?mblogid=5229317835462061",
+    "sinaweibo://detail?mblogid=5229314376207935",
+    "sinaweibo://detail?mblogid=5229313302989476",
+    "sinaweibo://detail?mblogid=5229304380130414",
+    "sinaweibo://detail?mblogid=5229269345374940",
+    "sinaweibo://detail?mblogid=5229261224939942",
+    "sinaweibo://detail?mblogid=5204870920929825",
+    "sinaweibo://detail?mblogid=5168096696598785",
+    "sinaweibo://detail?mblogid=5167996793784576",
+    "sinaweibo://detail?mblogid=5214908937404628",
+    "sinaweibo://detail?mblogid=5154200305797069",
+    "sinaweibo://detail?mblogid=5161085313222684",
+    "sinaweibo://detail?mblogid=5229293850067719",
+    "sinaweibo://detail?mblogid=5229269005633761",
+    "sinaweibo://detail?mblogid=5220136794980741",
+    "sinaweibo://detail?mblogid=5217571196633461"
+  ],
+  "media": [
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/006WIDKBly1i5yulgw05mj31900u0q9e.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/006WIDKBly1i5yulgw05mj31900u0q9e.jpg",
+      "alt": "咪咕篮球",
+      "width": 1080,
+      "height": 1620,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/006WIDKBly1i5yulgw05mj31900u0q9e.jpg"
+      ],
+      "user": "咪咕篮球"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/6e06bde9gy1i4uc9ixazsj20jp0own03.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/6e06bde9gy1i4uc9ixazsj20jp0own03.jpg",
+      "alt": "黎双富",
+      "width": 896,
+      "height": 709,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/6e06bde9gy1i4uc9ixazsj20jp0own03.jpg"
+      ],
+      "user": "黎双富"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/82be6f9egy1i1l0sj8e7lj20xc15otih.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/82be6f9egy1i1l0sj8e7lj20xc15otih.jpg",
+      "alt": "詹姆斯吧官方微博",
+      "width": 1500,
+      "height": 1200,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/82be6f9egy1i1l0sj8e7lj20xc15otih.jpg"
+      ],
+      "user": "詹姆斯吧官方微博"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/007QUjPWgy1i709fjyt3oj30f40cswfy.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/007QUjPWgy1i709fjyt3oj30f40cswfy.jpg",
+      "alt": "冷门-张书生",
+      "width": 460,
+      "height": 544,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx4.sinaimg.cn/large/007QUjPWgy1i709fjyt3oj30f40cswfy.jpg"
+      ],
+      "user": "冷门-张书生"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/0070PPkbgy1i706a39jb7j30u00gvwjz.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/0070PPkbgy1i706a39jb7j30u00gvwjz.jpg",
+      "alt": "库里精选Curry",
+      "width": 607,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/0070PPkbgy1i706a39jb7j30u00gvwjz.jpg"
+      ],
+      "user": "库里精选Curry"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/007Z9CVygy1i6dxcybhm6j31400mjgsl.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/007Z9CVygy1i6dxcybhm6j31400mjgsl.jpg",
+      "alt": "超级圈圈呀",
+      "width": 811,
+      "height": 1440,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/007Z9CVygy1i6dxcybhm6j31400mjgsl.jpg"
+      ],
+      "user": "超级圈圈呀"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/007yPqBYgy1i7096s9j8fj30ty13y16c.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/007yPqBYgy1i7096s9j8fj30ty13y16c.jpg",
+      "alt": "篮球大玩家",
+      "width": 1438,
+      "height": 1078,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/007yPqBYgy1i7096s9j8fj30ty13y16c.jpg"
+      ],
+      "user": "篮球大玩家"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/ae450045gy1i5qd2bxha0j21jc0t4tdv.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/ae450045gy1i5qd2bxha0j21jc0t4tdv.jpg",
+      "alt": "是丹佛的雪",
+      "width": 1048,
+      "height": 1992,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/ae450045gy1i5qd2bxha0j21jc0t4tdv.jpg"
+      ],
+      "user": "是丹佛的雪"
+    }
+  ],
+  "html_path": "data/aicard/hourly/2025-11-04/18/topic-a7ae6ed5.html"
+}

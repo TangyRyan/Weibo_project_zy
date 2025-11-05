@@ -1,0 +1,120 @@
+{
+  "meta": {
+    "query": "#中美11月10日将互降关税#",
+    "status_code": 200,
+    "fetched_at": "2025-11-05T17:42:27+08:00",
+    "response": {
+      "msg_format": "markdown",
+      "msg_json": "{}",
+      "model": "deepseek",
+      "reliable_tips": "{\"gold_orange_v_mids\": [], \"gold_orange_v_ratio\": \"0%\", \"media_mids\": [\"5229597383458979\", \"5166226486330091\", \"5229659564016909\", \"5229671774165160\"], \"media_ratio\": \"100%\", \"verified_mids\": [], \"verified_ratio\": \"0%\", \"normal_mids\": [], \"normal_ratio\": \"0%\", \"ref_mid_rank\": {\"5229597383458979\": {\"rank\": 2}, \"5166226486330091\": {\"rank\": 1}, \"5229659564016909\": {\"rank\": 3}, \"5229671774165160\": {\"rank\": 4}}}",
+      "uid": "",
+      "query_field": "12",
+      "chat_status_stage": 1,
+      "news_analyze": {},
+      "cot": 1,
+      "version": "2025-11-05 17:38:53.015000-4991",
+      "ab_suffix": "default",
+      "scheme": "sinaweibo://cardlist?containerid=100103type%3D225%26q%3D%23%E4%B8%AD%E7%BE%8E11%E6%9C%8810%E6%97%A5%E5%B0%86%E4%BA%92%E9%99%8D%E5%85%B3%E7%A8%8E%23%26t%3D&extparam=ai_model%3Ddeepseek%26ori_ai_title%3D%E5%8F%82%E8%80%83%E5%8D%9A%E6%96%87%26material_version%3D1762335533",
+      "qs_status": 0,
+      "msg": "<think><br>嗯，用户查询的是关于“中美11月10日将互降关税”的具体安排，我需要从给定的搜索结果中整理出准确信息。<br><br>首先浏览搜索结果的时间范围。今天系统设定为2025年11月5日，而结果2和结果3、4的日期正好是今天，时效性最强。其中结果2来自央视新闻的权威发布，内容直接对应关税调整；结果3和4虽然提到相同话题，但主要内容是美国政府停摆的民生影响，与关税核心关联较弱。<br><br>重点分析结果2的关键信息：中国国务院关税税则委员会公告显示，自11月10日13时01分起，中方将继续暂停实施24%的对美加征关税税率，同时保留10%的基准税率。这明确回答了用户的核心关切。结果1虽然发布于5月，但提供了背景信息——中美此前已同意各取消91%关税并暂停24%关税，双方仅保留10%关税。<br><br>用户可能存在的深层需求：<br>1. 政策细节（如具体税率、生效时间）<br>2. 双边对等措施（美方是否同步行动）<br>3. 政策连续性（是否长期安排）<br><br>结果2明确说明美方将取消10%的“芬太尼关税”并对24%关税延续一年暂停，中方采取对等调整。特别值得注意的是“继续延长部分关税排除措施”的表述，暗示这是既有政策的延续而非全新变动。<br><br>对于时效性要求，优先采用今天发布的官方公告，背景部分可补充结果1的共识框架。结果3、4中关于美国停摆的内容与关税议题无关，决定不采用。<br><br>在表述结构上需注意：<br>- 开篇直接点明核心事件（11月10日税率调整）<br>- 分述中美的具体调整措施<br>- 补充政策背景（5月共识）以说明连续性<br>- 严格使用标注每项事实依据<br><br>最后校验风险点：所有核心信息均来自央视新闻的官方通报（媒体账号），无需额外提示可信度问题；但结果1中“美方以芬太尼为借口”的表述带有立场倾向，在复述时保持中立措辞。<br><br></think><br>关于中美关税互降安排，核心信息整理如下：<br>### 📅 一、中方关税调整（2025年11月10日生效）  <br>1. **暂停24%对美加征关税**：自11月10日13时01分起，中方继续暂停实施24%的对美加征关税税率，政策延续一年。```wbCustomBlock{\"type\": \"quoted\", \"index\": 3, \"data\": {\"num\": [2], \"version\": 2, \"quote_list\": [{\"name\": \"央视新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5229597383458979\", \"index\": 2, \"label\": \"大v\"}], \"name\": \"央视新闻\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.690.690.50/002TLsr9ly8i653ifvwbtj60j60j6aai02.jpg?KID=imgbed,tva&Expires=1762346333&ssig=R0t%2B2CIgPd\", \"scheme\": \"sinaweibo://detail?mblogid=5229597383458979\", \"vType\": 3}}```  <br>2. **保留10%基准税率**：中方维持10%的对美加征关税税率不变。```wbCustomBlock{\"type\": \"quoted\", \"index\": 4, \"data\": {\"num\": [2], \"version\": 2, \"quote_list\": [{\"name\": \"央视新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5229597383458979\", \"index\": 2, \"label\": \"\"}]}}```<br>### 🇺🇸 二、美方同步调整措施  <br>1. **取消10%“芬太尼关税”**：美方将取消针对中国商品（含港澳地区）加征的10%所谓“芬太尼关税”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 6, \"data\": {\"num\": [2], \"version\": 2, \"quote_list\": [{\"name\": \"央视新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5229597383458979\", \"index\": 2, \"label\": \"\"}]}}```  <br>2. **暂停24%对等关税**：美方对中国商品加征的24%对等关税继续暂停一年。```wbCustomBlock{\"type\": \"quoted\", \"index\": 7, \"data\": {\"num\": [2], \"version\": 2, \"quote_list\": [{\"name\": \"央视新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5229597383458979\", \"index\": 2, \"label\": \"\"}]}}```<br>### ⚖️ 三、背景与共识依据  <br>- **双边关税框架**：此次调整基于2025年5月中美经贸会谈共识，双方原计划各取消91%关税、暂停24%关税，仅保留10%关税。```wbCustomBlock{\"type\": \"quoted\", \"index\": 9, \"data\": {\"num\": [1], \"version\": 2, \"quote_list\": [{\"name\": \"央视新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5166226486330091\", \"index\": 1, \"label\": \"\"}]}}```  <br>- **反制措施有效性**：中方明确强调，此前针对美方芬太尼关税的两轮反制措施（含关税及非关税手段）仍然有效。```wbCustomBlock{\"type\": \"quoted\", \"index\": 10, \"data\": {\"num\": [1], \"version\": 2, \"quote_list\": [{\"name\": \"央视新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5166226486330091\", \"index\": 1, \"label\": \"\"}]}}```  <br>- **延长排除机制**：双方同意继续延长部分商品的关税排除措施。```wbCustomBlock{\"type\": \"quoted\", \"index\": 11, \"data\": {\"num\": [2], \"version\": 2, \"quote_list\": [{\"name\": \"央视新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5229597383458979\", \"index\": 2, \"label\": \"\"}]}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5166226486330091&multi_paragraph=3&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.690.690.50/002TLsr9ly8i653ifvwbtj60j60j6aai02.jpg?KID=imgbed,tva&Expires=1762346333&ssig=R0t%2B2CIgPd) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">央视新闻</span><img src=\"http://wx1.sinaimg.cn/middle/002TLsr9ly1i1f2dc2wx8j61hc0u0qd002.jpg\" data-width=1080 data-height=1920></div></media-block><br>### 💎 四、关键要点总结  <br>| **调整方** | **措施**                          | **生效时间**       |  <br>|------------|----------------------------------|-------------------|  <br>| **中国**   | 暂停24%对美关税，保留10%税率       | 2025年11月10日13:01 |  <br>| **美国**   | 取消10%“芬太尼关税”，暂停24%对等税 | 同步中方调整时间   |<br><br>  <br><br>此次互降关税是双方对既有共识的落实，旨在阶段性缓和贸易摩擦，同时保留核心反制手段以应对潜在争端。```wbCustomBlock{\"type\": \"quoted\", \"index\": 13, \"data\": {\"num\": [1, 2], \"version\": 2, \"quote_list\": [{\"name\": \"央视新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5166226486330091\", \"index\": 1, \"label\": \"\"}, {\"name\": \"央视新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5229597383458979\", \"index\": 2, \"label\": \"\"}]}}```<br>",
+      "share_text": "#中美11月10日将互降关税#的相关内容，来智搜看看",
+      "sorted_material_list": "[{\"mid\": \"5166226486330091\", \"rank\": 2, \"type\": \"weibo\"}, {\"mid\": \"5229597383458979\", \"rank\": 1, \"type\": \"weibo\"}, {\"mid\": \"5229664340807799\", \"rank\": 6, \"type\": \"weibo\"}]",
+      "share_info": {
+        "tips": "#中美11月10日将互降关税#的相关内容，来智搜看看",
+        "display_name": "#中美11月10日将互降关税#",
+        "url": "http://t.cn/AXAQgkY7",
+        "status": 3,
+        "unify_md5": "fa925d46d08d1fd6e1e3e1b99691e18a",
+        "comment_content": "",
+        "page_id": "232964b31355db63f76f2e8c24fcd328d3ba8d"
+      },
+      "wenda": {
+        "forward_gen": 0
+      },
+      "page_id": "232964b31355db63f76f2e8c24fcd328d3ba8d",
+      "current_time": 1762335748,
+      "profile_image_url": "",
+      "user_info": {},
+      "qs_status_info": "{\"qs_q_status\":256,\"qs_c_status\":8388608,\"ab_lab\":{},\"qs_u_status\":0,\"qs_r_status\":0,\"qs_status\":0}",
+      "zs_risk_control": {
+        "ban_chat_enterance": 1,
+        "think_text_close": 0,
+        "land_button_close": 0
+      },
+      "comment_info": {},
+      "abtest_info": {
+        "chat_entrance": 1
+      },
+      "reference_num": 4,
+      "status_stage": 4,
+      "analysis_time": 1762335604,
+      "link_list": [
+        "sinaweibo://detail?mblogid=5166226486330091",
+        "sinaweibo://detail?mblogid=5229597383458979",
+        "sinaweibo://detail?mblogid=5229659564016909",
+        "sinaweibo://detail?mblogid=5229671774165160"
+      ],
+      "ext_show": {},
+      "top_quote_list": {},
+      "short_url": "http://t.cn/AXAQd7BP",
+      "loop_times": 200,
+      "share_card_multimodal": {
+        "hit_score_final": 68.802734,
+        "img_pid": "002TLsr9ly1i1f2dc2wx8j61hc0u0qd002",
+        "type": "v",
+        "h": 1080,
+        "click_num": 0,
+        "img": "http://wx1.sinaimg.cn/middle/002TLsr9ly1i1f2dc2wx8j61hc0u0qd002.jpg",
+        "w": 1920,
+        "cur_mid": "5166226486330091",
+        "click_rate": 0,
+        "user_name": "央视新闻",
+        "doc_score": 4840,
+        "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.690.690.50/002TLsr9ly8i653ifvwbtj60j60j6aai02.jpg?KID=imgbed,tva&Expires=1762346333&ssig=R0t%2B2CIgPd",
+        "scheme": "sinaweibo://video/vvs?mid=5166226486330091&multi_paragraph=3&multi_count=0",
+        "video_url": "https://video.weibo.com/show?fid=1034:5166229426733080",
+        "vtype": 3,
+        "hit_score_new": 71.337891
+      },
+      "status": 2,
+      "basemodel": "实验组9",
+      "card_multimodal": {},
+      "query": "#中美11月10日将互降关税#",
+      "show_ctrl": {
+        "quote": {}
+      },
+      "mid_list": null,
+      "unify_md5": "fa925d46d08d1fd6e1e3e1b99691e18a",
+      "query_category": "Ip",
+      "q_attr": {
+        "mid": "",
+        "comment_from_type": "",
+        "from_uid": "1682052650",
+        "reply_cid": "",
+        "from_request_id": "1762335529531"
+      }
+    }
+  },
+  "links": [
+    "sinaweibo://detail?mblogid=5166226486330091",
+    "sinaweibo://detail?mblogid=5229597383458979",
+    "sinaweibo://detail?mblogid=5229659564016909",
+    "sinaweibo://detail?mblogid=5229671774165160"
+  ],
+  "media": [
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/002TLsr9ly1i1f2dc2wx8j61hc0u0qd002.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/002TLsr9ly1i1f2dc2wx8j61hc0u0qd002.jpg",
+      "alt": "央视新闻",
+      "width": 1080,
+      "height": 1920,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/002TLsr9ly1i1f2dc2wx8j61hc0u0qd002.jpg"
+      ],
+      "user": "央视新闻"
+    }
+  ],
+  "html_path": "data/aicard/hourly/2025-11-05/17/11-10.html"
+}

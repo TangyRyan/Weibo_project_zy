@@ -1,0 +1,156 @@
+{
+  "meta": {
+    "query": "#管泽元恭喜KT#",
+    "status_code": 200,
+    "fetched_at": "2025-11-01T19:26:40+08:00",
+    "response": {
+      "model": "deepseek",
+      "ab_suffix": "default",
+      "comment_info": {},
+      "status": 2,
+      "q_attr": {
+        "mid": "",
+        "from_uid": "",
+        "from_request_id": "",
+        "reply_cid": "",
+        "comment_from_type": ""
+      },
+      "sorted_material_list": null,
+      "analysis_time": 1761996188,
+      "cot": 1,
+      "current_time": 1761996400,
+      "page_id": "232964e9fd7b04fd292acb7233b2ed2d15953b",
+      "abtest_info": {
+        "chat_entrance": 1
+      },
+      "ext_show": {},
+      "short_url": "http://t.cn/AXAJuviv",
+      "card_multimodal": {},
+      "share_card_multimodal": {
+        "click_rate": 0,
+        "hit_score_final": 0,
+        "w": 1280,
+        "cur_mid": "5228240941879620",
+        "scheme": "sinaweibo://video/vvs?mid=5228240941879620&multi_paragraph=3&multi_count=0",
+        "user_name": "动漫游戏君",
+        "vtype": 0,
+        "user_avatar": "https://tvax1.sinaimg.cn/crop.0.0.690.690.50/006i8XEzly8hojzsvemjvj30j60j6my1.jpg?KID=imgbed,tva&Expires=1762006836&ssig=i6s%2FU5lmUS",
+        "type": "v",
+        "video_url": "https://video.weibo.com/show?fid=1034:5228240693035063",
+        "img": "http://wx3.sinaimg.cn/middle/006i8XEzly1i6wwa4cp71j30zk0k0jto.jpg",
+        "hit_score_new": 0,
+        "doc_score": 0,
+        "img_pid": "006i8XEzly1i6wwa4cp71j30zk0k0jto",
+        "h": 720
+      },
+      "user_info": {},
+      "basemodel": "实验组8",
+      "query": "#管泽元恭喜KT#",
+      "qs_status": 0,
+      "share_info": {
+        "status": 3,
+        "comment_content": "",
+        "url": "http://t.cn/AXAJDOod",
+        "unify_md5": "74d97cdd6748519eb6f472900bc62e0b",
+        "display_name": "#管泽元恭喜KT#",
+        "tips": "#管泽元恭喜KT#的相关内容，来智搜看看",
+        "page_id": "232964e9fd7b04fd292acb7233b2ed2d15953b"
+      },
+      "loop_times": 200,
+      "wenda": {
+        "forward_gen": 0
+      },
+      "reliable_tips": "{\"gold_orange_v_mids\": [\"5228244938786652\", \"5227136416745441\", \"5228248834246644\", \"4887487371281050\", \"5227896505111984\", \"5228240941879620\", \"5228250608701030\", \"5221773788581282\", \"4964441433838863\"], \"gold_orange_v_ratio\": \"64%\", \"media_mids\": [], \"media_ratio\": \"0%\", \"verified_mids\": [\"5228250738724357\", \"5228251888486709\", \"5228251408507198\", \"4962271543953048\"], \"verified_ratio\": \"29%\", \"normal_mids\": [\"5228252197035731\"], \"normal_ratio\": \"7%\", \"ref_mid_rank\": {\"5228244938786652\": {\"rank\": 1}, \"5228250738724357\": {\"rank\": 6}, \"5228251888486709\": {\"rank\": 9}, \"5228251408507198\": {\"rank\": 10}, \"5227136416745441\": {\"rank\": 11}, \"5228248834246644\": {\"rank\": 17}, \"4887487371281050\": {\"rank\": 15}, \"5227896505111984\": {\"rank\": 8}, \"5228240941879620\": {\"rank\": 2}, \"5228250608701030\": {\"rank\": 7}, \"5221773788581282\": {\"rank\": 12}, \"4964441433838863\": {\"rank\": 13}, \"4962271543953048\": {\"rank\": 14}, \"5228252197035731\": {\"rank\": 16}}}",
+      "news_analyze": {},
+      "share_text": "#管泽元恭喜KT#的相关内容，来智搜看看",
+      "reference_num": 14,
+      "show_ctrl": {
+        "quote": {}
+      },
+      "unify_md5": "74d97cdd6748519eb6f472900bc62e0b",
+      "msg": "<think><br><br>首先，用户查询是“管泽元恭喜kt”，我需要基于提供的搜索结果来生成回答。今天是2025年11月01日，所以我应该优先考虑最新的相关内容。<br><br>现在，分析搜索结果：<br>- 结果1、2、6、7、9、10、16、17 是关于“管泽元恭喜KT”的微博，日期是2025年11月01日，时效性强。<br>- 结果3、4、5 是资料类型，涉及管泽元对其他比赛的评论，但可能提供背景。<br>- 结果8、11、12、13、14、15 是其他日期或主题的微博，相关性较低。<br>- 关键事件：管泽元在S15全球总决赛半决赛中，KT战胜GEN后，发文恭喜KT。<br>- 具体内容：管泽元在微博上表示喜悦，提到KT正面击败GEN两次、BDD的表现等。<br>- 相关话题：包括Chovy的表现、管泽元的“毒奶”玄学、比赛细节等。<br><br>用户需求是查询“管泽元恭喜kt”，所以我应该聚焦在管泽元对KT获胜的祝贺上，并整合相关信息。<br><br>任务要求：<br>- 使用引用格式 [^X] 在相关部分引用搜索结果。<br>- 回答开头要吸引用户，突出关键词。<br>- 组织内容结构化：分成段落或要点，控制在10个以内。<br>- 语言与用户一致：中文。<br>- 避免使用“根据搜索结果”等表述，直接综合信息输出。<br>- 保留细节：如比赛结果、管泽元的发言、舆论反应。<br>- 风险控制：如果有不确定信息，谨慎处理，但这里似乎都是事实性内容。<br>- 时间敏感性：优先最新内容（2025年11月01日）。<br><br>梳理主要内容：<br>- 核心事件：2025年11月1日，S15全球总决赛半决赛，KT击败GEN，管泽元在微博发文恭喜KT。<br>- 管泽元的发言：他激动地祝贺KT，强调正面击败GEN两次，BDD的完美发挥，并说“Geng没人干净”。<br>- 背景：KT作为黑马，从常规赛中游逆袭，击败了LCK头号种子GEN。<br>- 管泽元的角色：他常被称为“毒奶”，但这次预测准确，粉丝调侃“管理学失效”。<br>- 相关评论：其他人如Ning、米勒等对Chovy的批评。<br>- 历史背景：管泽元之前也恭喜过其他队伍，如T1，并在预测中有时准确有时失误。<br><br>结构回答：<br>1. **开头吸引人**：从管泽元的激动祝贺开始，引出事件。<br>2. **主体内容**：<br>   - 描述比赛结果和管泽元的发文。<br>   - 管泽元的预测历史和这次的成功。<br>   - KT的表现和影响。<br>   - 舆论反应和玄学话题。<br>3. **结尾**：自然结束，不要额外说明引用。<br><br>格式：分成几个部分，每个部分用标题或简洁表述。<br>- 例如：<br>  - 事件核心<br>  - 管泽元的发言<br>  - 背景分析<br>  - 舆论反响<br><br>确保引用：<br>- 引用多个相关结果，避免重复引用同一结果。<br><br>最终回答大纲：<br>1. 开头：管泽元在S15半决赛后热烈祝贺KT击败GEN，引发热议。<br>2. 详细描述管泽元的微博内容。<br>3. 讨论管泽元的预测准确性。<br>4. KT的逆袭故事。<br>5. 相关人物如Chovy的表现和评论。<br>6. 管泽元的职业素养。<br>7. 总结：电竞玄学与专业性的结合。<br><br>字数：控制好，确保可读性强。<br><br></think><br>### 🏆 管泽元激情祝贺KT击败GEN：S15半决赛的震撼时刻  <br>在2025年11月1日的英雄联盟S15全球总决赛半决赛中，LCK战队KT以黑马之姿爆冷击败头号种子GEN，晋级决赛。知名解说管泽元第一时间在微博发文，以激动语气祝贺KT——“恭喜KT！！！！！！正面击败geng两次！BDD！！！！！！！！！三老两小完美发挥！！！！Geng没人干净！”。这条微博迅速引爆热议，不仅因KT终结了GEN对LCK长达一年的统治，更因管泽元打破“毒奶玄学”的精准预测，让粉丝直呼“管理学失效”。以下是事件全貌与分析：```wbCustomBlock{\"type\": \"quoted\", \"index\": 2, \"data\": {\"num\": [1, 6, 9], \"version\": 2, \"quote_list\": [{\"name\": \"管泽元\", \"scheme\": \"sinaweibo://detail?mblogid=5228244938786652\", \"index\": 1, \"label\": \"大v\"}, {\"name\": \"梨视频\", \"scheme\": \"sinaweibo://detail?mblogid=5228250738724357\", \"index\": 6, \"label\": \"\"}, {\"name\": \"热搜电台\", \"scheme\": \"sinaweibo://detail?mblogid=5228251888486709\", \"index\": 9, \"label\": \"\"}], \"name\": \"管泽元\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.1242.1242.50/964c90a5ly8fq7ftlk5c9j20yi0yiwj9.jpg?KID=imgbed,tva&Expires=1762006836&ssig=F75q63hin1\", \"scheme\": \"sinaweibo://detail?mblogid=5228244938786652\", \"vType\": 0}}```<br>### ⚔️ 一、事件核心：KT的胜利与管泽元的即时反应  <br>- **比赛结果与关键细节**：  <br>  KT在S15半决赛中直落两局横扫GEN，实现本赛季对GEN的“双杀”。管泽元在赛后强调，KT凭借“三老两小”（指老将BDD领衔的阵容）的完美配合，正面击溃了GEN的防线。他特别点名中单BDD的发挥，称其为“决定性力量”，同时用“Geng没人干净”犀利点评GEN全队的失误频出。这场胜利让KT从常规赛中游队伍逆袭为淘汰赛黑马，小组赛至今保持不败。```wbCustomBlock{\"type\": \"quoted\", \"index\": 4, \"data\": {\"num\": [1, 6, 9, 10, 11], \"version\": 2, \"quote_list\": [{\"name\": \"梨视频\", \"scheme\": \"sinaweibo://detail?mblogid=5228250738724357\", \"index\": 6, \"label\": \"大v\"}, {\"name\": \"管泽元\", \"scheme\": \"sinaweibo://detail?mblogid=5228244938786652\", \"index\": 1, \"label\": \"\"}, {\"name\": \"热搜电台\", \"scheme\": \"sinaweibo://detail?mblogid=5228251888486709\", \"index\": 9, \"label\": \"\"}, {\"name\": \"时差视频\", \"scheme\": \"sinaweibo://detail?mblogid=5228251408507198\", \"index\": 10, \"label\": \"\"}, {\"name\": \"管泽元\", \"scheme\": \"sinaweibo://detail?mblogid=5227136416745441\", \"index\": 11, \"label\": \"\"}], \"name\": \"梨视频\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.600.600.50/006yllNVly8h8wegdfz5fj30go0gojru.jpg?KID=imgbed,tva&Expires=1762006836&ssig=5MLpTcPJNy\", \"scheme\": \"sinaweibo://detail?mblogid=5228250738724357\", \"vType\": 3}}```  <br>- **管泽元的情绪化表达**：  <br>  作为GEN的忠实粉丝，管泽元此次却大方祝贺对手。他赛前（10月29日）就曾发文“恭喜KT！赛前想到了吗？现在一局没输！”，暗示对KT连胜的预判。赛后，其微博用多个感叹号传递兴奋之情，被网友解读为“对竞技精神的尊重”——虽支持GEN，但坦然承认KT的强势。```wbCustomBlock{\"type\": \"quoted\", \"index\": 5, \"data\": {\"num\": [9, 11, 17], \"version\": 2, \"quote_list\": [{\"name\": \"动漫游戏君\", \"scheme\": \"sinaweibo://detail?mblogid=5228248834246644\", \"index\": 17, \"label\": \"大v\"}, {\"name\": \"热搜电台\", \"scheme\": \"sinaweibo://detail?mblogid=5228251888486709\", \"index\": 9, \"label\": \"\"}, {\"name\": \"管泽元\", \"scheme\": \"sinaweibo://detail?mblogid=5227136416745441\", \"index\": 11, \"label\": \"\"}], \"name\": \"动漫游戏君\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.690.690.50/006i8XEzly8hojzsvemjvj30j60j6my1.jpg?KID=imgbed,tva&Expires=1762006836&ssig=i6s%2FU5lmUS\", \"scheme\": \"sinaweibo://detail?mblogid=5228248834246644\", \"vType\": 0}}```<br>### 🔮 二、玄学与专业：管泽元“毒奶魔咒”的戏剧性转折  <br>- **“管理学失效”的舆论狂欢**：  <br>  管泽元因过往“反向预测”（如S12预测T1夺冠失败）被戏称“毒奶教主”，但本次预测KT获胜却完全命中。粉丝调侃“管大校收放自如”，话题#管泽元恭喜KT#登顶热搜，凸显其从“玄学符号”向“专业预言”的转变。例如，2023年他曾预测“Gen.G 3-1 KT”，结果KT获胜，但此次预测正确打破了这一“魔咒”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 7, \"data\": {\"num\": [9, 15], \"version\": 2, \"quote_list\": [{\"name\": \"游戏圈揭秘\", \"scheme\": \"sinaweibo://detail?mblogid=4887487371281050\", \"index\": 15, \"label\": \"大v\"}, {\"name\": \"热搜电台\", \"scheme\": \"sinaweibo://detail?mblogid=5228251888486709\", \"index\": 9, \"label\": \"\"}], \"name\": \"游戏圈揭秘\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.600.600.50/0078fAKRly8ht290ti35mj30go0go75m.jpg?KID=imgbed,tva&Expires=1762006836&ssig=mjBqB62rtU\", \"scheme\": \"sinaweibo://detail?mblogid=4887487371281050\", \"vType\": 0}}```  <br>- **职业素养的体现**：  <br>  管泽元作为解说，一贯坚持“为强者喝彩”的原则。类似事件在S15多次上演——如T1淘汰LPL战队AL时，他虽“泪洒现场”为AL惋惜，仍发文“恭喜T1太牛逼了”。此次对KT的祝贺，同样被赞“理性与情怀的平衡”：既肯定KT的战术执行力（如针对GEN野区漏洞），又不避讳表达个人情感。```wbCustomBlock{\"type\": \"quoted\", \"index\": 8, \"data\": {\"num\": [1, 8, 9], \"version\": 2, \"quote_list\": [{\"name\": \"管泽元\", \"scheme\": \"sinaweibo://detail?mblogid=5228244938786652\", \"index\": 1, \"label\": \"\"}, {\"name\": \"管泽元\", \"scheme\": \"sinaweibo://detail?mblogid=5227896505111984\", \"index\": 8, \"label\": \"\"}, {\"name\": \"热搜电台\", \"scheme\": \"sinaweibo://detail?mblogid=5228251888486709\", \"index\": 9, \"label\": \"\"}]}}```<br>### 🚀 三、KT的逆袭与LCK格局之变  <br>- **黑马崛起之路**：  <br>  KT从常规赛的“中游队伍”蜕变为淘汰赛霸主，小组赛全胜晋级，半决赛更终结GEN“全年无敌”的神话。管泽元在祝贺中强调“正面击败两次”，呼应了KT在LCK夏季赛也曾战胜GEN的历史。这场胜利标志LCK进入“多极竞争时代”，GEN的垄断被打破，T1、KT等队形成新抗衡。```wbCustomBlock{\"type\": \"quoted\", \"index\": 10, \"data\": {\"num\": [6, 9], \"version\": 2, \"quote_list\": [{\"name\": \"梨视频\", \"scheme\": \"sinaweibo://detail?mblogid=5228250738724357\", \"index\": 6, \"label\": \"\"}, {\"name\": \"热搜电台\", \"scheme\": \"sinaweibo://detail?mblogid=5228251888486709\", \"index\": 9, \"label\": \"\"}]}}```  <br>- **关键人物与对手失误**：  <br>  BDD的稳定发挥是KT取胜核心，而GEN中单Chovy的失常成转折点。前选手Ning在直播中痛批：“Chovy你要毁了GEN吗？大也没交！”，直指其操作变形（如发条2-7战绩）。米勒等解说也分析，Chovy“四强心魔”未解，导致GEN整体崩盘。```wbCustomBlock{\"type\": \"quoted\", \"index\": 11, \"data\": {\"num\": [2, 7], \"version\": 2, \"quote_list\": [{\"name\": \"我是电竞小生\", \"scheme\": \"sinaweibo://detail?mblogid=5228250608701030\", \"index\": 7, \"label\": \"大v\"}, {\"name\": \"动漫游戏君\", \"scheme\": \"sinaweibo://detail?mblogid=5228240941879620\", \"index\": 2, \"label\": \"\"}], \"name\": \"我是电竞小生\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.600.600.50/006BPLKbly8gx4n5qvexbj30go0gogp4.jpg?KID=imgbed,tva&Expires=1762006836&ssig=XHID%2FxuOrQ\", \"scheme\": \"sinaweibo://detail?mblogid=5228250608701030\", \"vType\": 0}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5228240941879620&multi_paragraph=3&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.690.690.50/006i8XEzly8hojzsvemjvj30j60j6my1.jpg?KID=imgbed,tva&Expires=1762006836&ssig=i6s%2FU5lmUS) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">动漫游戏君</span><img src=\"http://wx3.sinaimg.cn/middle/006i8XEzly1i6wwa4cp71j30zk0k0jto.jpg\" data-width=720 data-height=1280></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5228250608701030&multi_paragraph=3&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.600.600.50/006BPLKbly8gx4n5qvexbj30go0gogp4.jpg?KID=imgbed,tva&Expires=1762006836&ssig=XHID%2FxuOrQ) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">我是电竞小生</span><img src=\"http://wx2.sinaimg.cn/middle/006BPLKbly1i6wx71nt1ej31hc0okjti.jpg\" data-width=884 data-height=1920></div></media-block><br>### 💎 总结：电竞的不可预测性与精神内核  <br>管泽元一句“恭喜KT”，既是黑马逆袭的见证，也是电竞专业性的缩影——玄学背后，胜负终由实力决定。KT的胜利为S15决赛注入新悬念，而管泽元从“毒奶”到“神预言”的蜕变，再次证明：**尊重比赛、理性分析，才是电竞永恒的主题**。```wbCustomBlock{\"type\": \"quoted\", \"index\": 12, \"data\": {\"num\": [1, 9], \"version\": 2, \"quote_list\": [{\"name\": \"管泽元\", \"scheme\": \"sinaweibo://detail?mblogid=5228244938786652\", \"index\": 1, \"label\": \"\"}, {\"name\": \"热搜电台\", \"scheme\": \"sinaweibo://detail?mblogid=5228251888486709\", \"index\": 9, \"label\": \"\"}]}}```<br>",
+      "top_quote_list": {},
+      "scheme": "sinaweibo://cardlist?containerid=100103type%3D225%26q%3D%23%E7%AE%A1%E6%B3%BD%E5%85%83%E6%81%AD%E5%96%9Ckt%23%26t%3D&extparam=ai_model%3Ddeepseek%26ori_ai_title%3D%E5%8F%82%E8%80%83%E5%8D%9A%E6%96%87%26material_version%3D1761996036",
+      "msg_format": "markdown",
+      "profile_image_url": "",
+      "zs_risk_control": {
+        "think_text_close": 0,
+        "land_button_close": 0
+      },
+      "version": "2025-11-01 19:20:36.015000-7177",
+      "qs_status_info": "{\"qs_u_status\":0,\"qs_r_status\":0,\"qs_status\":0,\"qs_q_status\":0,\"qs_c_status\":8388608,\"ab_lab\":{}}",
+      "msg_json": "{}",
+      "query_field": "47",
+      "chat_status_stage": 1,
+      "mid_list": null,
+      "uid": "",
+      "query_category": "",
+      "status_stage": 4,
+      "link_list": [
+        "sinaweibo://detail?mblogid=5228244938786652",
+        "sinaweibo://detail?mblogid=5228240941879620",
+        "historyweibo://5227910818699574",
+        "historyweibo://5225333943173143",
+        "historyweibo://5221738040263456",
+        "sinaweibo://detail?mblogid=5228250738724357",
+        "sinaweibo://detail?mblogid=5228250608701030",
+        "sinaweibo://detail?mblogid=5227896505111984",
+        "sinaweibo://detail?mblogid=5228251888486709",
+        "sinaweibo://detail?mblogid=5228251408507198",
+        "sinaweibo://detail?mblogid=5227136416745441",
+        "sinaweibo://detail?mblogid=5221773788581282",
+        "sinaweibo://detail?mblogid=4964441433838863",
+        "sinaweibo://detail?mblogid=4962271543953048",
+        "sinaweibo://detail?mblogid=4887487371281050",
+        "sinaweibo://detail?mblogid=5228252197035731",
+        "sinaweibo://detail?mblogid=5228248834246644"
+      ]
+    }
+  },
+  "links": [
+    "sinaweibo://detail?mblogid=5228244938786652",
+    "sinaweibo://detail?mblogid=5228240941879620",
+    "historyweibo://5227910818699574",
+    "historyweibo://5225333943173143",
+    "historyweibo://5221738040263456",
+    "sinaweibo://detail?mblogid=5228250738724357",
+    "sinaweibo://detail?mblogid=5228250608701030",
+    "sinaweibo://detail?mblogid=5227896505111984",
+    "sinaweibo://detail?mblogid=5228251888486709",
+    "sinaweibo://detail?mblogid=5228251408507198",
+    "sinaweibo://detail?mblogid=5227136416745441",
+    "sinaweibo://detail?mblogid=5221773788581282",
+    "sinaweibo://detail?mblogid=4964441433838863",
+    "sinaweibo://detail?mblogid=4962271543953048",
+    "sinaweibo://detail?mblogid=4887487371281050",
+    "sinaweibo://detail?mblogid=5228252197035731",
+    "sinaweibo://detail?mblogid=5228248834246644"
+  ],
+  "media": [
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/006i8XEzly1i6wwa4cp71j30zk0k0jto.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/006i8XEzly1i6wwa4cp71j30zk0k0jto.jpg",
+      "alt": "动漫游戏君",
+      "width": 720,
+      "height": 1280,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/006i8XEzly1i6wwa4cp71j30zk0k0jto.jpg"
+      ],
+      "user": "动漫游戏君"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/006BPLKbly1i6wx71nt1ej31hc0okjti.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/006BPLKbly1i6wx71nt1ej31hc0okjti.jpg",
+      "alt": "我是电竞小生",
+      "width": 884,
+      "height": 1920,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/006BPLKbly1i6wx71nt1ej31hc0okjti.jpg"
+      ],
+      "user": "我是电竞小生"
+    }
+  ],
+  "html_path": "data/aicard/hourly/2025-11-01/19/kt.html"
+}

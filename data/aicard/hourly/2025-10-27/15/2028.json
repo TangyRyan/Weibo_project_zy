@@ -1,0 +1,379 @@
+{
+  "meta": {
+    "query": "#加州州长宣布参与2028年总统竞选#",
+    "status_code": 200,
+    "fetched_at": "2025-10-28T17:56:41+08:00",
+    "response": {
+      "abtest_info": {
+        "chat_entrance": 1
+      },
+      "status": 2,
+      "uid": "",
+      "zs_risk_control": {
+        "think_text_close": 0,
+        "land_button_close": 0
+      },
+      "model": "deepseek",
+      "card_multimodal": {
+        "data": [
+          {
+            "h": 1441,
+            "scheme": "sinaweibo://multimedia?mix_mid=5226270313941427&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=0",
+            "user_name": "许韬de微博",
+            "cur_mid": "5226270313941427",
+            "w": 1170,
+            "user_avatar": "https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/005OLRNdly8i5jfidc18vj30u00u0dlw.jpg?KID=imgbed,tva&Expires=1761655168&ssig=4avnmNoVCL",
+            "video_url": "",
+            "type": "p",
+            "click_rate": 0,
+            "hit_score_new": 0,
+            "hit_score_final": 0,
+            "doc_score": 0,
+            "img_pid": "005OLRNdgy1i6qlxi3lp5j30wi141dox",
+            "vtype": 0,
+            "img": "http://wx4.sinaimg.cn/middle/005OLRNdgy1i6qlxi3lp5j30wi141dox.jpg"
+          },
+          {
+            "h": 960,
+            "scheme": "sinaweibo://multimedia?mix_mid=5226709353497058&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=1",
+            "user_name": "孤烟暮蝉",
+            "cur_mid": "5226709353497058",
+            "w": 1280,
+            "user_avatar": "https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/8031f80fly8hdw3sekcbrj20u00u0q94.jpg?KID=imgbed,tva&Expires=1761655168&ssig=t41gCS1oUa",
+            "video_url": "",
+            "type": "p",
+            "click_rate": 0,
+            "hit_score_new": 86.035156,
+            "hit_score_final": 83.621094,
+            "doc_score": 4626,
+            "img_pid": "8031f80fgy1i6r9iu5er5j20zk0qo7dt",
+            "vtype": 0,
+            "img": "http://wx4.sinaimg.cn/middle/8031f80fgy1i6r9iu5er5j20zk0qo7dt.jpg"
+          },
+          {
+            "h": 1280,
+            "scheme": "sinaweibo://video/vvs?mid=5226387671879968&multi_paragraph=1&multi_count=2",
+            "user_name": "厚恩投资张延昆",
+            "cur_mid": "5226387671879968",
+            "w": 720,
+            "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/404cdd30ly8gdih9m7oraj20u00u0whj.jpg?KID=imgbed,tva&Expires=1761655168&ssig=GUUEFOgYeq",
+            "video_url": "https://video.weibo.com/show?fid=1034:5226387255263276",
+            "type": "v",
+            "click_rate": 0,
+            "hit_score_new": 96.240234,
+            "hit_score_final": 96.544144,
+            "doc_score": 5288,
+            "img_pid": "404cdd30ly1i6qzezgwyhj20k00zkt9u",
+            "vtype": 0,
+            "img": "http://wx3.sinaimg.cn/middle/404cdd30ly1i6qzezgwyhj20k00zkt9u.jpg"
+          },
+          {
+            "h": 1441,
+            "scheme": "sinaweibo://multimedia?mix_mid=5226270313941427&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=0",
+            "user_name": "许韬de微博",
+            "cur_mid": "5226270313941427",
+            "w": 1170,
+            "user_avatar": "https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/005OLRNdly8i5jfidc18vj30u00u0dlw.jpg?KID=imgbed,tva&Expires=1761655168&ssig=4avnmNoVCL",
+            "video_url": "",
+            "type": "p",
+            "click_rate": 0,
+            "hit_score_new": 0,
+            "hit_score_final": 0,
+            "doc_score": 0,
+            "img_pid": "005OLRNdgy1i6qlxi3lp5j30wi141dox",
+            "vtype": 0,
+            "img": "http://wx4.sinaimg.cn/middle/005OLRNdgy1i6qlxi3lp5j30wi141dox.jpg"
+          }
+        ],
+        "type": "mediablock"
+      },
+      "basemodel": "实验组1",
+      "scheme": "sinaweibo://cardlist?containerid=100103type%3D225%26q%3D%23%E5%8A%A0%E5%B7%9E%E5%B7%9E%E9%95%BF%E5%AE%A3%E5%B8%83%E5%8F%82%E4%B8%8E2028%E5%B9%B4%E6%80%BB%E7%BB%9F%E7%AB%9E%E9%80%89%23%26t%3D&extparam=ai_model%3Ddeepseek%26ori_ai_title%3D%E5%8F%82%E8%80%83%E5%8D%9A%E6%96%87%26material_version%3D1761644368",
+      "qs_status_info": "{\"qs_status\":0,\"qs_q_status\":0,\"ab_lab\":{},\"qs_u_status\":0,\"qs_c_status\":8388608,\"qs_r_status\":0}",
+      "news_analyze": {},
+      "query": "#加州州长宣布参与2028年总统竞选#",
+      "msg": "<think><br>嗯，用户想要了解加州州长宣布参与2028年总统竞选的相关信息。从搜索结果来看，这个事件发生在2025年10月26日左右，纽森在接受CBS采访时首次公开确认考虑参选。<br><br>用户可能是对国际政治感兴趣的普通网民，也可能是需要快速获取关键信息的媒体从业者。考虑到话题的时效性和政治敏感性，需要准确呈现事实同时避免主观判断。<br><br>最核心的信息点有三个：纽森本人的表态内容和时间点，他的政治背景和竞选策略，以及党内主要竞争对手哈里斯的情况。特别是结果13的资料详细列出了纽森的优劣势分析，这个应该作为重点参考。<br><br>有趣的是发现纽森有阅读障碍的细节，这个个人特质可以增加人物形象的立体感。他“部分认错”的策略也很巧妙，在中西部铁锈地带承认加州产业转移的伤害，这种政治智慧值得点出。<br><br>需要警惕的是部分微博内容带有明显立场倾向，比如将纽森称为“现实版教父”或刻意对比他对华态度。这类主观评价应该过滤，只保留客观事实部分。<br><br>时间线上要注意区分：他23日接受采访，26日节目播出，而实际表态考虑参选是发生在23日的。这个细节多个信源存在矛盾，需要以权威媒体环球时报的报道为准。<br><br>对于中国用户可能特别关注的点，比如纽森“中国越成功世界越成功”的言论，可以单独列为对华立场条目。但要注意他同时推动起诉特朗普关税政策，这说明其表态具有实用主义特征。<br><br>最后补充个小细节，博彩赔率显示他与万斯的对决可能性，这种趣味性信息能让回答更生动。不过要标注清楚这是预测性内容。<br><br></think><br>以下是关于加州州长纽森宣布参与2028年总统竞选的综合分析，结合公开表态、政治策略及潜在影响等关键信息整理：<br>### 🎯 一、核心事实与表态<br>1. **正式参选信号**  <br>   纽森在2025年10月26日播出的CBS专访中明确回应是否考虑2028年竞选：“如果说我从未考虑过，那是在撒谎。”他计划在2026年中期选举后做出最终决定，强调需“寻找足够有意义的理由”展开全国竞选。```wbCustomBlock{\"type\": \"quoted\", \"index\": 4, \"data\": {\"num\": [1, 2], \"version\": 2, \"quote_list\": [{\"name\": \"环球时报\", \"scheme\": \"sinaweibo://detail?mblogid=5226397538980428\", \"index\": 2, \"label\": \"大v\"}, {\"name\": \"许韬de微博\", \"scheme\": \"sinaweibo://detail?mblogid=5226270313941427\", \"index\": 1, \"label\": \"\"}], \"name\": \"环球时报\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.600.600.50/0029D7FZly8h8vg4kqwr4j60go0got9i02.jpg?KID=imgbed,tva&Expires=1761655168&ssig=RS1%2Bb04ro9\", \"scheme\": \"sinaweibo://detail?mblogid=5226397538980428\", \"vType\": 3}}```  <br>   - **背景**：纽森将于2027年卸任加州州长（受任期限制），此表态标志其从地方向全国舞台转型的关键一步。```wbCustomBlock{\"type\": \"quoted\", \"index\": 5, \"data\": {\"num\": [16], \"version\": 2, \"quote_list\": [{\"name\": \"孤烟暮蝉\", \"scheme\": \"sinaweibo://detail?mblogid=5226709353497058\", \"index\": 16, \"label\": \"大v\"}], \"name\": \"孤烟暮蝉\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/8031f80fly8hdw3sekcbrj20u00u0q94.jpg?KID=imgbed,tva&Expires=1761655168&ssig=t41gCS1oUa\", \"scheme\": \"sinaweibo://detail?mblogid=5226709353497058\", \"vType\": 0}}```<br><br>2. **政治铺垫动作**  <br>   - **全国性布局**：2025年频繁造访南卡罗来纳州、俄亥俄州等关键初选州，针对性拉拢蓝领和少数族裔选民。```wbCustomBlock{\"type\": \"quoted\", \"index\": 7, \"data\": {\"num\": [3, 4, 26], \"version\": 2, \"quote_list\": [{\"name\": \"红星新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5226370896759895\", \"index\": 4, \"label\": \"大v\"}, {\"name\": \"厚恩投资张延昆\", \"scheme\": \"sinaweibo://detail?mblogid=5226387671879968\", \"index\": 3, \"label\": \"\"}, {\"name\": \"续写蓝精灵的故事\", \"scheme\": \"sinaweibo://detail?mblogid=5226382690879111\", \"index\": 26, \"label\": \"\"}], \"name\": \"红星新闻\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.512.512.50/006FcX4dly8h8vgewp7wsj30e80e8mxd.jpg?KID=imgbed,tva&Expires=1761655168&ssig=l9iNClOChq\", \"scheme\": \"sinaweibo://detail?mblogid=5226370896759895\", \"vType\": 3}}```  <br>   - **媒体策略**：推出播客节目《This Is Gavin Newsom》邀请保守派辩论；社交媒体模仿特朗普风格攻击共和党政策。```wbCustomBlock{\"type\": \"quoted\", \"index\": 8, \"data\": {\"num\": [4, 21], \"version\": 2, \"quote_list\": [{\"name\": \"红星新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5226370896759895\", \"index\": 4, \"label\": \"\"}, {\"name\": \"看边关月\", \"scheme\": \"sinaweibo://detail?mblogid=5226380279418300\", \"index\": 21, \"label\": \"\"}]}}```  <br>   - **政策杠杆**：推动加州第50号提案，重划选区以增加民主党国会席位。```wbCustomBlock{\"type\": \"quoted\", \"index\": 9, \"data\": {\"num\": [3, 21], \"version\": 2, \"quote_list\": [{\"name\": \"厚恩投资张延昆\", \"scheme\": \"sinaweibo://detail?mblogid=5226387671879968\", \"index\": 3, \"label\": \"大v\"}, {\"name\": \"看边关月\", \"scheme\": \"sinaweibo://detail?mblogid=5226380279418300\", \"index\": 21, \"label\": \"\"}], \"name\": \"厚恩投资张延昆\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/404cdd30ly8gdih9m7oraj20u00u0whj.jpg?KID=imgbed,tva&Expires=1761655168&ssig=GUUEFOgYeq\", \"scheme\": \"sinaweibo://detail?mblogid=5226387671879968\", \"vType\": 0}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5226270313941427&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/005OLRNdly8i5jfidc18vj30u00u0dlw.jpg?KID=imgbed,tva&Expires=1761655168&ssig=4avnmNoVCL) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">许韬de微博</span><img src=\"http://wx4.sinaimg.cn/middle/005OLRNdgy1i6qlxi3lp5j30wi141dox.jpg\" data-width=1441 data-height=1170></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5226709353497058&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=1\"><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/8031f80fly8hdw3sekcbrj20u00u0q94.jpg?KID=imgbed,tva&Expires=1761655168&ssig=t41gCS1oUa) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">孤烟暮蝉</span><img src=\"http://wx4.sinaimg.cn/middle/8031f80fgy1i6r9iu5er5j20zk0qo7dt.jpg\" data-width=960 data-height=1280></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5226387671879968&multi_paragraph=1&multi_count=2\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/404cdd30ly8gdih9m7oraj20u00u0whj.jpg?KID=imgbed,tva&Expires=1761655168&ssig=GUUEFOgYeq) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">厚恩投资张延昆</span><img src=\"http://wx3.sinaimg.cn/middle/404cdd30ly1i6qzezgwyhj20k00zkt9u.jpg\" data-width=1280 data-height=720></div></media-block><br>### ⚖️ 二、潜在优势与挑战<br>#### ✅ **竞争优势**  <br>1. **经济牌与州政绩**  <br>   - 标榜加州GDP达4.1万亿美元（全球第四大经济体），主张科技创新与气候政策成果。```wbCustomBlock{\"type\": \"quoted\", \"index\": 14, \"data\": {\"num\": [9, 28], \"version\": 2, \"quote_list\": [{\"name\": \"凯雷\", \"scheme\": \"sinaweibo://detail?mblogid=5152581845254203\", \"index\": 9, \"label\": \"大v\"}, {\"name\": \"金素封\", \"scheme\": \"sinaweibo://detail?mblogid=5226383898837122\", \"index\": 28, \"label\": \"\"}], \"name\": \"凯雷\", \"img\": \"https://tva2.sinaimg.cn/crop.0.0.180.180.50/5938a13ajw1e8qgp5bmzyj2050050aa8.jpg?KID=imgbed,tva&Expires=1761655168&ssig=N436EMHpYC\", \"scheme\": \"sinaweibo://detail?mblogid=5152581845254203\", \"vType\": 0}}```  <br>   - 提出“中国越成功，世界越成功”，支持对华务实合作对冲联邦关税损害。```wbCustomBlock{\"type\": \"quoted\", \"index\": 15, \"data\": {\"num\": [6, 8, 30], \"version\": 2, \"quote_list\": [{\"name\": \"金华磊哥\", \"scheme\": \"sinaweibo://detail?mblogid=5226395200392697\", \"index\": 6, \"label\": \"大v\"}, {\"name\": \"新浪军事\", \"scheme\": \"sinaweibo://detail?mblogid=5226386546756106\", \"index\": 8, \"label\": \"\"}, {\"name\": \"清华小滚珠\", \"scheme\": \"sinaweibo://detail?mblogid=5226389544636493\", \"index\": 30, \"label\": \"\"}], \"name\": \"金华磊哥\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/6ed82fcely8i6494pvjh1j20u00u0799.jpg?KID=imgbed,tva&Expires=1761655168&ssig=8S6aX3oF3%2B\", \"scheme\": \"sinaweibo://detail?mblogid=5226395200392697\", \"vType\": 0}}```<br><br>2. **对抗特朗普的“盾牌”人设**  <br>   - 多次与特朗普正面冲突：反对联邦军事镇压洛杉矶骚乱、起诉关税政策违宪、谴责移民执法越权，获22个民主党州长联合声援。```wbCustomBlock{\"type\": \"quoted\", \"index\": 17, \"data\": {\"num\": [11, 36], \"version\": 2, \"quote_list\": [{\"name\": \"Ahri_Yo\", \"scheme\": \"sinaweibo://detail?mblogid=5176379077298884\", \"index\": 11, \"label\": \"大v\"}, {\"name\": \"薛小轼\", \"scheme\": \"sinaweibo://detail?mblogid=5175612437172098\", \"index\": 36, \"label\": \"\"}], \"name\": \"Ahri_Yo\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.928.928.50/008wPWroly8hrhlpd2wi1j30ps0psgnw.jpg?KID=imgbed,tva&Expires=1761655168&ssig=BkK1TUzanS\", \"scheme\": \"sinaweibo://detail?mblogid=5176379077298884\", \"vType\": 0}}```  <br>   - 民调显示72%民主党选民支持其参选，48%注册选民认可其“对抗共和党能力”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 18, \"data\": {\"num\": [21], \"version\": 2, \"quote_list\": [{\"name\": \"看边关月\", \"scheme\": \"sinaweibo://detail?mblogid=5226380279418300\", \"index\": 21, \"label\": \"\"}]}}```<br><br>3. **党内整合能力**  <br>   - 通过跨党派对话争取中间选民，例如在铁锈地带承认“加州产业转移伤害工人”，同时承诺推动科技公司回流建厂。```wbCustomBlock{\"type\": \"quoted\", \"index\": 20, \"data\": {\"num\": [3, 26], \"version\": 2, \"quote_list\": [{\"name\": \"厚恩投资张延昆\", \"scheme\": \"sinaweibo://detail?mblogid=5226387671879968\", \"index\": 3, \"label\": \"\"}, {\"name\": \"续写蓝精灵的故事\", \"scheme\": \"sinaweibo://detail?mblogid=5226382690879111\", \"index\": 26, \"label\": \"\"}]}}```  <br>   - 削弱哈里斯影响力：通过加州金主资助其政治对手，争夺关键摇摆州资源。```wbCustomBlock{\"type\": \"quoted\", \"index\": 21, \"data\": {\"num\": [3, 19], \"version\": 2, \"quote_list\": [{\"name\": \"地瓜熊老六\", \"scheme\": \"sinaweibo://detail?mblogid=5226384140011465\", \"index\": 19, \"label\": \"大v\"}, {\"name\": \"厚恩投资张延昆\", \"scheme\": \"sinaweibo://detail?mblogid=5226387671879968\", \"index\": 3, \"label\": \"\"}], \"name\": \"地瓜熊老六\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.40.649.649.50/eacedf04ly8geb0ltyihbj20j60j60tm.jpg?KID=imgbed,tva&Expires=1761655168&ssig=FfIx708RdA\", \"scheme\": \"sinaweibo://detail?mblogid=5226384140011465\", \"vType\": 0}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5226395200392697&multi_paragraph=3&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/6ed82fcely8i6494pvjh1j20u00u0799.jpg?KID=imgbed,tva&Expires=1761655168&ssig=8S6aX3oF3%2B) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">金华磊哥</span><img src=\"http://wx2.sinaimg.cn/middle/6ed82fcely1i6r0aredlij20u01hc417.jpg\" data-width=1920 data-height=1080></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5226389544636493&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=3&multi_count=1\"><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.664.664.50/007xl7cNly8gsojvfp9shj30ig0ihq4a.jpg?KID=imgbed,tva&Expires=1761655168&ssig=hnHVgTsPH9) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">清华小滚珠</span><img src=\"http://wx1.sinaimg.cn/middle/007xl7cNgy1i6qzn99ezxj30u00xuqbf.jpg\" data-width=1218 data-height=1080></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5226386546756106&multi_paragraph=3&multi_count=2\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.461.461.50/001Ds5xfly8h8vgjdxo3uj60ct0ctq3c02.jpg?KID=imgbed,tva&Expires=1761655168&ssig=liEIvxA1tl) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">新浪军事</span><img src=\"http://wx4.sinaimg.cn/middle/001Ds5xfly1i6qzbd1h8cj60u01hctak02.jpg\" data-width=1920 data-height=1080></div><div data-type=\"v\" data-scheme=\"sinaweibo://multimedia?mix_mid=5176379077298884&mix_index=0&multi_paragraph=3&multi_count=3\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.928.928.50/008wPWroly8hrhlpd2wi1j30ps0psgnw.jpg?KID=imgbed,tva&Expires=1761655168&ssig=BkK1TUzanS) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">Ahri_Yo</span><img src=\"http://wx2.sinaimg.cn/middle/008wPWrogy1i2bfzu3ycej31hc0u0gny.jpg\" data-width=1080 data-height=1920></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5226384140011465&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=3&multi_count=4\"><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.40.649.649.50/eacedf04ly8geb0ltyihbj20j60j60tm.jpg?KID=imgbed,tva&Expires=1761655168&ssig=FfIx708RdA) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">地瓜熊老六</span><img src=\"http://wx2.sinaimg.cn/middle/004iBqFSly1i6qz1btolej60nc0fk76b02.jpg\" data-width=560 data-height=840></div></media-block><br>#### ⚠️ **重大挑战**  <br>1. **加州治理争议**  <br>   - **企业外流**：特斯拉等公司将生产线迁至得州，批评环保审批冗长（耗时多6个月）。```wbCustomBlock{\"type\": \"quoted\", \"index\": 24, \"data\": {\"num\": [3], \"version\": 2, \"quote_list\": [{\"name\": \"厚恩投资张延昆\", \"scheme\": \"sinaweibo://detail?mblogid=5226387671879968\", \"index\": 3, \"label\": \"\"}]}}```  <br>   - **流浪汉危机**：投入240亿美元后无家可归者仍占全美1/3，洛杉矶帐篷堵塞消防通道成共和党攻击靶点。```wbCustomBlock{\"type\": \"quoted\", \"index\": 25, \"data\": {\"num\": [3], \"version\": 2, \"quote_list\": [{\"name\": \"厚恩投资张延昆\", \"scheme\": \"sinaweibo://detail?mblogid=5226387671879968\", \"index\": 3, \"label\": \"\"}]}}```  <br>   - **税收争议**：高税率政策被共和党人万斯抨击“若推广至全国将损害工人利益”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 26, \"data\": {\"num\": [3, 19], \"version\": 2, \"quote_list\": [{\"name\": \"厚恩投资张延昆\", \"scheme\": \"sinaweibo://detail?mblogid=5226387671879968\", \"index\": 3, \"label\": \"\"}, {\"name\": \"地瓜熊老六\", \"scheme\": \"sinaweibo://detail?mblogid=5226384140011465\", \"index\": 19, \"label\": \"\"}]}}```<br><br>2. **进步派与温和派撕裂**  <br>   - 跨性别议题上“先质疑后妥协”策略激怒LGBTQ+团体，导致其丧失“平等奖”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 28, \"data\": {\"num\": [3, 20], \"version\": 2, \"quote_list\": [{\"name\": \"眼科小超人老梁\", \"scheme\": \"sinaweibo://detail?mblogid=5226414729335480\", \"index\": 20, \"label\": \"大v\"}, {\"name\": \"厚恩投资张延昆\", \"scheme\": \"sinaweibo://detail?mblogid=5226387671879968\", \"index\": 3, \"label\": \"\"}], \"name\": \"眼科小超人老梁\", \"img\": \"https://tva3.sinaimg.cn/crop.61.34.139.139.50/71c26dc5jw8f3vyncqid9j206z05l3yd.jpg?KID=imgbed,tva&Expires=1761655168&ssig=cdnNdBMo80\", \"scheme\": \"sinaweibo://detail?mblogid=5226414729335480\", \"vType\": 0}}```  <br>   - 哈里斯仍保有初选选民“信任度”优势（领先12%），且获密歇根、威斯康星州黑人议员支持。```wbCustomBlock{\"type\": \"quoted\", \"index\": 29, \"data\": {\"num\": [3, 5, 7], \"version\": 2, \"quote_list\": [{\"name\": \"盖世英雄玉椒龙\", \"scheme\": \"sinaweibo://detail?mblogid=5225920065700071\", \"index\": 5, \"label\": \"大v\"}, {\"name\": \"厚恩投资张延昆\", \"scheme\": \"sinaweibo://detail?mblogid=5226387671879968\", \"index\": 3, \"label\": \"\"}, {\"name\": \"天岗268\", \"scheme\": \"sinaweibo://detail?mblogid=5225959817218563\", \"index\": 7, \"label\": \"\"}], \"name\": \"盖世英雄玉椒龙\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.512.512.50/005HX6voly8i3mxicofkgj30e80e8aai.jpg?KID=imgbed,tva&Expires=1761655168&ssig=P5zZjGpmC%2B\", \"scheme\": \"sinaweibo://detail?mblogid=5225920065700071\", \"vType\": 0}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://multimedia?mix_mid=5225920065700071&mix_index=0&multi_paragraph=4&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.512.512.50/005HX6voly8i3mxicofkgj30e80e8aai.jpg?KID=imgbed,tva&Expires=1761655168&ssig=P5zZjGpmC%2B) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">盖世英雄玉椒龙</span><img src=\"http://wx4.sinaimg.cn/middle/005HX6voly1i6phqfddhpj31hc0twgn4.jpg\" data-width=1076 data-height=1920></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5225959817218563&multi_paragraph=4&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.664.664.50/007krUcmly8fvh99qb0ypj30ig0ig0u2.jpg?KID=imgbed,tva&Expires=1761655168&ssig=L%2F9d14kBPb) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">天岗268</span><img src=\"http://wx1.sinaimg.cn/middle/007krUcmly1i6pmamx96rj30n00d00tm.jpg\" data-width=468 data-height=828></div></media-block><br>### 🗳️ 三、2028年大选格局前瞻<br>1. **民主党初选博弈**  <br>   - **主要对手**：哈里斯已暗示参选，主打“首位女总统”议题；布蒂吉格、惠特默等地方领袖虎视眈眈。```wbCustomBlock{\"type\": \"quoted\", \"index\": 33, \"data\": {\"num\": [5, 7, 26], \"version\": 2, \"quote_list\": [{\"name\": \"天岗268\", \"scheme\": \"sinaweibo://detail?mblogid=5225959817218563\", \"index\": 7, \"label\": \"\"}, {\"name\": \"盖世英雄玉椒龙\", \"scheme\": \"sinaweibo://detail?mblogid=5225920065700071\", \"index\": 5, \"label\": \"\"}, {\"name\": \"续写蓝精灵的故事\", \"scheme\": \"sinaweibo://detail?mblogid=5226382690879111\", \"index\": 26, \"label\": \"\"}], \"name\": \"天岗268\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.664.664.50/007krUcmly8fvh99qb0ypj30ig0ig0u2.jpg?KID=imgbed,tva&Expires=1761655168&ssig=L%2F9d14kBPb\", \"scheme\": \"sinaweibo://detail?mblogid=5225959817218563\", \"vType\": 0}}```  <br>   - **纽森定位**：以“务实战斗派”区别哈里斯的“稳妥派”，聚焦经济公平与对抗MAGA运动。```wbCustomBlock{\"type\": \"quoted\", \"index\": 34, \"data\": {\"num\": [3, 19, 27], \"version\": 2, \"quote_list\": [{\"name\": \"一泓溪语君\", \"scheme\": \"sinaweibo://detail?mblogid=5226391841014088\", \"index\": 27, \"label\": \"\"}, {\"name\": \"厚恩投资张延昆\", \"scheme\": \"sinaweibo://detail?mblogid=5226387671879968\", \"index\": 3, \"label\": \"\"}, {\"name\": \"地瓜熊老六\", \"scheme\": \"sinaweibo://detail?mblogid=5226384140011465\", \"index\": 19, \"label\": \"\"}], \"name\": \"一泓溪语君\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.600.600.50/007XfhLFly8gzl8wchasjj30go0goq4p.jpg?KID=imgbed,tva&Expires=1761655168&ssig=zLdvFE9aXo\", \"scheme\": \"sinaweibo://detail?mblogid=5226391841014088\", \"vType\": 0}}```<br><br>2. **共和党潜在对阵者**  <br>   - 副总统万斯（J.D. Vance）成头号热门，主打蓝领复兴与反全球化。两人政策对立鲜明：  <br>     | **议题**       | 纽森立场                     | 万斯立场                     |  <br>     |----------------|------------------------------|------------------------------|  <br>     | 对华关系       | 合作共赢 🌏                   | 遏制中国威胁 🚫             |  <br>     | 经济政策       | 科技投资+气候转型 ♻️         | 制造业回流+贸易保护 🏭       |  <br>     | 社会议题       | 多元身份包容 🏳️‍🌈             | 传统价值观优先 ✝️            |<br><br>  <br>     （来源：综合民调与公开言论）```wbCustomBlock{\"type\": \"quoted\", \"index\": 36, \"data\": {\"num\": [19, 30], \"version\": 2, \"quote_list\": [{\"name\": \"清华小滚珠\", \"scheme\": \"sinaweibo://detail?mblogid=5226389544636493\", \"index\": 30, \"label\": \"\"}, {\"name\": \"地瓜熊老六\", \"scheme\": \"sinaweibo://detail?mblogid=5226384140011465\", \"index\": 19, \"label\": \"\"}], \"name\": \"清华小滚珠\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.664.664.50/007xl7cNly8gsojvfp9shj30ig0ihq4a.jpg?KID=imgbed,tva&Expires=1761655168&ssig=hnHVgTsPH9\", \"scheme\": \"sinaweibo://detail?mblogid=5226389544636493\", \"vType\": 0}}```<br>### 📉 四、历史争议与风险点<br>- **联邦与州权冲突**：2025年6月特朗普绕过纽森派遣国民警卫队镇压洛杉矶骚乱，纽森以“扣留800亿美元联邦税款”反制，宪政危机风险升温。```wbCustomBlock{\"type\": \"quoted\", \"index\": 39, \"data\": {\"num\": [36], \"version\": 2, \"quote_list\": [{\"name\": \"薛小轼\", \"scheme\": \"sinaweibo://detail?mblogid=5175612437172098\", \"index\": 36, \"label\": \"\"}], \"name\": \"薛小轼\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.600.600.50/c10a2e50ly8htiff21uk5j20go0gowfv.jpg?KID=imgbed,tva&Expires=1761655168&ssig=vAZ65dVESM\", \"scheme\": \"sinaweibo://detail?mblogid=5175612437172098\", \"vType\": 0}}```  <br>- **商业关系质疑**：纽森家族与盖蒂石油财团关联、PlumpJack商业帝国背景，被批“富豪玩家从政”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 40, \"data\": {\"num\": [28, 31], \"version\": 2, \"quote_list\": [{\"name\": \"张洲\", \"scheme\": \"sinaweibo://detail?mblogid=5226392930487073\", \"index\": 31, \"label\": \"\"}, {\"name\": \"金素封\", \"scheme\": \"sinaweibo://detail?mblogid=5226383898837122\", \"index\": 28, \"label\": \"\"}], \"name\": \"张洲\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/6f49ad51ly8g0s7da95szj20u00u0q4u.jpg?KID=imgbed,tva&Expires=1761655168&ssig=%2BDuf5sv3TB\", \"scheme\": \"sinaweibo://detail?mblogid=5226392930487073\", \"vType\": 0}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5226392930487073&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=6&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/6f49ad51ly8g0s7da95szj20u00u0q4u.jpg?KID=imgbed,tva&Expires=1761655168&ssig=%2BDuf5sv3TB) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">张洲</span><img src=\"http://wx4.sinaimg.cn/middle/6f49ad51ly1i6qydb3lwej20v90v3afz.jpg\" data-width=1119 data-height=1125></div></media-block><br>### 💎 结语  <br>纽森的参选标志着民主党试图以“加州模式”重塑国家议程，但其政策全国化能力、党内整合效率及应对红州选民策略，将决定能否突破初选重围。若与万斯对决，这场“东西海岸精英”🆚“铁锈地带草根”的意识形态之战，或成美国政治极化时代的新高潮。```wbCustomBlock{\"type\": \"quoted\", \"index\": 42, \"data\": {\"num\": [21, 26], \"version\": 2, \"quote_list\": [{\"name\": \"看边关月\", \"scheme\": \"sinaweibo://detail?mblogid=5226380279418300\", \"index\": 21, \"label\": \"\"}, {\"name\": \"续写蓝精灵的故事\", \"scheme\": \"sinaweibo://detail?mblogid=5226382690879111\", \"index\": 26, \"label\": \"\"}]}}```<br>",
+      "profile_image_url": "",
+      "user_info": {},
+      "page_id": "232964a9a15725b340de846b11f424e4905ef0",
+      "ab_suffix": "default",
+      "q_attr": {
+        "from_uid": "5901122134",
+        "from_request_id": "1761644366334"
+      },
+      "share_text": "#加州州长宣布参与2028年总统竞选#的相关内容，来智搜看看",
+      "wenda": {
+        "forward_gen": 0
+      },
+      "mid_list": null,
+      "show_ctrl": {
+        "quote": {}
+      },
+      "unify_md5": "f566ef4ef823f91d0c91c87fc6449330",
+      "sorted_material_list": null,
+      "analysis_time": 1761644440,
+      "loop_times": 200,
+      "link_list": [
+        "sinaweibo://detail?mblogid=5226270313941427",
+        "sinaweibo://detail?mblogid=5226397538980428",
+        "sinaweibo://detail?mblogid=5226387671879968",
+        "sinaweibo://detail?mblogid=5226370896759895",
+        "sinaweibo://detail?mblogid=5225920065700071",
+        "sinaweibo://detail?mblogid=5226395200392697",
+        "sinaweibo://detail?mblogid=5225959817218563",
+        "sinaweibo://detail?mblogid=5226386546756106",
+        "sinaweibo://detail?mblogid=5152581845254203",
+        "sinaweibo://detail?mblogid=5226384152858875",
+        "sinaweibo://detail?mblogid=5176379077298884",
+        "https://m.163.com/tech/article/KCRDDC4305149C6P.html",
+        "historyweibo://5226270313941427",
+        "historyweibo://5175247135051599",
+        "historyweibo://5175523816768196",
+        "sinaweibo://detail?mblogid=5226709353497058",
+        "sinaweibo://detail?mblogid=5226334498590740",
+        "sinaweibo://detail?mblogid=5226265353390282",
+        "sinaweibo://detail?mblogid=5226384140011465",
+        "sinaweibo://detail?mblogid=5226414729335480",
+        "sinaweibo://detail?mblogid=5226380279418300",
+        "sinaweibo://detail?mblogid=5226655157322002",
+        "sinaweibo://detail?mblogid=5226374340280798",
+        "sinaweibo://detail?mblogid=5226411876157779",
+        "sinaweibo://detail?mblogid=5226415356117241",
+        "sinaweibo://detail?mblogid=5226382690879111",
+        "sinaweibo://detail?mblogid=5226391841014088",
+        "sinaweibo://detail?mblogid=5226383898837122",
+        "sinaweibo://detail?mblogid=5226387327158307",
+        "sinaweibo://detail?mblogid=5226389544636493",
+        "sinaweibo://detail?mblogid=5226392930487073",
+        "sinaweibo://detail?mblogid=5199977241906442",
+        "sinaweibo://detail?mblogid=5226374164911032",
+        "sinaweibo://detail?mblogid=5226436137061163",
+        "sinaweibo://detail?mblogid=5226372584706188",
+        "sinaweibo://detail?mblogid=5175612437172098",
+        "sinaweibo://detail?mblogid=5226412747524875",
+        "https://mparticle.uc.cn/article_org.html?uc_param_str=frdnsnpfvecpntnwprdssskt#!wm_cid=716178123307097088!!wm_id=6108efacac614f709c41e34f7bed1c37",
+        "https://3g.china.com/act/news/10000169/20251027/48941058.html",
+        "https://finance.sina.com.cn/roll/2025-10-27/doc-infvihkp5217910.shtml",
+        "https://m.163.com/dy/article/KCS85QV2055616W7.html"
+      ],
+      "reliable_tips": "{\"gold_orange_v_mids\": [\"5226270313941427\", \"5226709353497058\", \"5226387671879968\", \"5226382690879111\", \"5226380279418300\", \"5152581845254203\", \"5226383898837122\", \"5226395200392697\", \"5226389544636493\", \"5176379077298884\", \"5175612437172098\", \"5226384140011465\", \"5226414729335480\", \"5225920065700071\", \"5225959817218563\", \"5226391841014088\", \"5226392930487073\", \"5226384152858875\", \"5226265353390282\", \"5226655157322002\", \"5226374340280798\", \"5226411876157779\", \"5226415356117241\", \"5226387327158307\", \"5199977241906442\", \"5226374164911032\", \"5226372584706188\", \"5226412747524875\"], \"gold_orange_v_ratio\": \"85%\", \"media_mids\": [\"5226397538980428\", \"5226370896759895\"], \"media_ratio\": \"6%\", \"verified_mids\": [\"5226386546756106\", \"5226334498590740\", \"5226436137061163\"], \"verified_ratio\": \"9%\", \"normal_mids\": [], \"normal_ratio\": \"0%\", \"ref_mid_rank\": {\"5226270313941427\": {\"rank\": 1}, \"5226397538980428\": {\"rank\": 2}, \"5226709353497058\": {\"rank\": 16}, \"5226387671879968\": {\"rank\": 3}, \"5226370896759895\": {\"rank\": 4}, \"5226382690879111\": {\"rank\": 26}, \"5226380279418300\": {\"rank\": 21}, \"5152581845254203\": {\"rank\": 9}, \"5226383898837122\": {\"rank\": 28}, \"5226395200392697\": {\"rank\": 6}, \"5226386546756106\": {\"rank\": 8}, \"5226389544636493\": {\"rank\": 30}, \"5176379077298884\": {\"rank\": 11}, \"5175612437172098\": {\"rank\": 36}, \"5226384140011465\": {\"rank\": 19}, \"5226414729335480\": {\"rank\": 20}, \"5225920065700071\": {\"rank\": 5}, \"5225959817218563\": {\"rank\": 7}, \"5226391841014088\": {\"rank\": 27}, \"5226392930487073\": {\"rank\": 31}, \"5226384152858875\": {\"rank\": 10}, \"5226334498590740\": {\"rank\": 17}, \"5226265353390282\": {\"rank\": 18}, \"5226655157322002\": {\"rank\": 22}, \"5226374340280798\": {\"rank\": 23}, \"5226411876157779\": {\"rank\": 24}, \"5226415356117241\": {\"rank\": 25}, \"5226387327158307\": {\"rank\": 29}, \"5199977241906442\": {\"rank\": 32}, \"5226374164911032\": {\"rank\": 33}, \"5226436137061163\": {\"rank\": 34}, \"5226372584706188\": {\"rank\": 35}, \"5226412747524875\": {\"rank\": 37}}}",
+      "version": "2025-10-28 17:39:28.009000-3832",
+      "query_field": "45",
+      "ext_show": {},
+      "top_quote_list": {},
+      "status_stage": 4,
+      "current_time": 1761645401,
+      "cot": 1,
+      "share_card_multimodal": {
+        "h": 1441,
+        "scheme": "sinaweibo://multimedia?mix_mid=5226270313941427&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=0",
+        "user_name": "许韬de微博",
+        "cur_mid": "5226270313941427",
+        "w": 1170,
+        "user_avatar": "https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/005OLRNdly8i5jfidc18vj30u00u0dlw.jpg?KID=imgbed,tva&Expires=1761655168&ssig=4avnmNoVCL",
+        "video_url": "",
+        "type": "p",
+        "click_rate": 0,
+        "hit_score_new": 0,
+        "hit_score_final": 0,
+        "doc_score": 0,
+        "img_pid": "005OLRNdgy1i6qlxi3lp5j30wi141dox",
+        "vtype": 0,
+        "img": "http://wx4.sinaimg.cn/middle/005OLRNdgy1i6qlxi3lp5j30wi141dox.jpg"
+      },
+      "reference_num": 33,
+      "qs_status": 0,
+      "msg_format": "markdown",
+      "share_info": {
+        "status": 3,
+        "tips": "#加州州长宣布参与2028年总统竞选#的相关内容，来智搜看看",
+        "url": "http://t.cn/AXweXKKL",
+        "display_name": "#加州州长宣布参与2028年总统竞选#",
+        "unify_md5": "f566ef4ef823f91d0c91c87fc6449330",
+        "page_id": "232964a9a15725b340de846b11f424e4905ef0"
+      },
+      "chat_status_stage": 1,
+      "query_category": "",
+      "short_url": "http://t.cn/AXweyjkk",
+      "msg_json": "{}"
+    }
+  },
+  "links": [
+    "sinaweibo://detail?mblogid=5226270313941427",
+    "sinaweibo://detail?mblogid=5226397538980428",
+    "sinaweibo://detail?mblogid=5226387671879968",
+    "sinaweibo://detail?mblogid=5226370896759895",
+    "sinaweibo://detail?mblogid=5225920065700071",
+    "sinaweibo://detail?mblogid=5226395200392697",
+    "sinaweibo://detail?mblogid=5225959817218563",
+    "sinaweibo://detail?mblogid=5226386546756106",
+    "sinaweibo://detail?mblogid=5152581845254203",
+    "sinaweibo://detail?mblogid=5226384152858875",
+    "sinaweibo://detail?mblogid=5176379077298884",
+    "https://m.163.com/tech/article/KCRDDC4305149C6P.html",
+    "historyweibo://5226270313941427",
+    "historyweibo://5175247135051599",
+    "historyweibo://5175523816768196",
+    "sinaweibo://detail?mblogid=5226709353497058",
+    "sinaweibo://detail?mblogid=5226334498590740",
+    "sinaweibo://detail?mblogid=5226265353390282",
+    "sinaweibo://detail?mblogid=5226384140011465",
+    "sinaweibo://detail?mblogid=5226414729335480",
+    "sinaweibo://detail?mblogid=5226380279418300",
+    "sinaweibo://detail?mblogid=5226655157322002",
+    "sinaweibo://detail?mblogid=5226374340280798",
+    "sinaweibo://detail?mblogid=5226411876157779",
+    "sinaweibo://detail?mblogid=5226415356117241",
+    "sinaweibo://detail?mblogid=5226382690879111",
+    "sinaweibo://detail?mblogid=5226391841014088",
+    "sinaweibo://detail?mblogid=5226383898837122",
+    "sinaweibo://detail?mblogid=5226387327158307",
+    "sinaweibo://detail?mblogid=5226389544636493",
+    "sinaweibo://detail?mblogid=5226392930487073",
+    "sinaweibo://detail?mblogid=5199977241906442",
+    "sinaweibo://detail?mblogid=5226374164911032",
+    "sinaweibo://detail?mblogid=5226436137061163",
+    "sinaweibo://detail?mblogid=5226372584706188",
+    "sinaweibo://detail?mblogid=5175612437172098",
+    "sinaweibo://detail?mblogid=5226412747524875",
+    "https://mparticle.uc.cn/article_org.html?uc_param_str=frdnsnpfvecpntnwprdssskt#!wm_cid=716178123307097088!!wm_id=6108efacac614f709c41e34f7bed1c37",
+    "https://3g.china.com/act/news/10000169/20251027/48941058.html",
+    "https://finance.sina.com.cn/roll/2025-10-27/doc-infvihkp5217910.shtml",
+    "https://m.163.com/dy/article/KCS85QV2055616W7.html"
+  ],
+  "media": [
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/005OLRNdgy1i6qlxi3lp5j30wi141dox.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/005OLRNdgy1i6qlxi3lp5j30wi141dox.jpg",
+      "alt": "许韬de微博",
+      "width": 1441,
+      "height": 1170,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/005OLRNdgy1i6qlxi3lp5j30wi141dox.jpg"
+      ],
+      "user": "许韬de微博"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/8031f80fgy1i6r9iu5er5j20zk0qo7dt.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/8031f80fgy1i6r9iu5er5j20zk0qo7dt.jpg",
+      "alt": "孤烟暮蝉",
+      "width": 960,
+      "height": 1280,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/8031f80fgy1i6r9iu5er5j20zk0qo7dt.jpg"
+      ],
+      "user": "孤烟暮蝉"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/404cdd30ly1i6qzezgwyhj20k00zkt9u.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/404cdd30ly1i6qzezgwyhj20k00zkt9u.jpg",
+      "alt": "厚恩投资张延昆",
+      "width": 1280,
+      "height": 720,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/404cdd30ly1i6qzezgwyhj20k00zkt9u.jpg"
+      ],
+      "user": "厚恩投资张延昆"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/6ed82fcely1i6r0aredlij20u01hc417.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/6ed82fcely1i6r0aredlij20u01hc417.jpg",
+      "alt": "金华磊哥",
+      "width": 1920,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/6ed82fcely1i6r0aredlij20u01hc417.jpg"
+      ],
+      "user": "金华磊哥"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/007xl7cNgy1i6qzn99ezxj30u00xuqbf.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/007xl7cNgy1i6qzn99ezxj30u00xuqbf.jpg",
+      "alt": "清华小滚珠",
+      "width": 1218,
+      "height": 1080,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/007xl7cNgy1i6qzn99ezxj30u00xuqbf.jpg"
+      ],
+      "user": "清华小滚珠"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/001Ds5xfly1i6qzbd1h8cj60u01hctak02.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/001Ds5xfly1i6qzbd1h8cj60u01hctak02.jpg",
+      "alt": "新浪军事",
+      "width": 1920,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/001Ds5xfly1i6qzbd1h8cj60u01hctak02.jpg"
+      ],
+      "user": "新浪军事"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/008wPWrogy1i2bfzu3ycej31hc0u0gny.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/008wPWrogy1i2bfzu3ycej31hc0u0gny.jpg",
+      "alt": "Ahri_Yo",
+      "width": 1080,
+      "height": 1920,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx4.sinaimg.cn/large/008wPWrogy1i2bfzu3ycej31hc0u0gny.jpg"
+      ],
+      "user": "Ahri_Yo"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/004iBqFSly1i6qz1btolej60nc0fk76b02.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/004iBqFSly1i6qz1btolej60nc0fk76b02.jpg",
+      "alt": "地瓜熊老六",
+      "width": 560,
+      "height": 840,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/004iBqFSly1i6qz1btolej60nc0fk76b02.jpg"
+      ],
+      "user": "地瓜熊老六"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/005HX6voly1i6phqfddhpj31hc0twgn4.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/005HX6voly1i6phqfddhpj31hc0twgn4.jpg",
+      "alt": "盖世英雄玉椒龙",
+      "width": 1076,
+      "height": 1920,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/005HX6voly1i6phqfddhpj31hc0twgn4.jpg"
+      ],
+      "user": "盖世英雄玉椒龙"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/007krUcmly1i6pmamx96rj30n00d00tm.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/007krUcmly1i6pmamx96rj30n00d00tm.jpg",
+      "alt": "天岗268",
+      "width": 468,
+      "height": 828,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/007krUcmly1i6pmamx96rj30n00d00tm.jpg"
+      ],
+      "user": "天岗268"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/6f49ad51ly1i6qydb3lwej20v90v3afz.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/6f49ad51ly1i6qydb3lwej20v90v3afz.jpg",
+      "alt": "张洲",
+      "width": 1119,
+      "height": 1125,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/6f49ad51ly1i6qydb3lwej20v90v3afz.jpg"
+      ],
+      "user": "张洲"
+    }
+  ],
+  "html_path": "data/aicard/hourly/2025-10-27/15/2028.html"
+}

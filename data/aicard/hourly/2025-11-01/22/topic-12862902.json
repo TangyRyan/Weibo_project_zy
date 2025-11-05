@@ -1,0 +1,250 @@
+{
+  "meta": {
+    "query": "#老人感冒医生多看一眼片子救了一命#",
+    "status_code": 200,
+    "fetched_at": "2025-11-01T22:31:06+08:00",
+    "response": {
+      "scheme": "sinaweibo://cardlist?containerid=100103type%3D225%26q%3D%23%E8%80%81%E4%BA%BA%E6%84%9F%E5%86%92%E5%8C%BB%E7%94%9F%E5%A4%9A%E7%9C%8B%E4%B8%80%E7%9C%BC%E7%89%87%E5%AD%90%E6%95%91%E4%BA%86%E4%B8%80%E5%91%BD%23%26t%3D&extparam=ai_model%3Ddeepseek%26ori_ai_title%3D%E5%8F%82%E8%80%83%E5%8D%9A%E6%96%87%26material_version%3D1762006940",
+      "page_id": "232964d6c0c527545f17457b02201981ea1c85",
+      "comment_info": {},
+      "status": 2,
+      "ext_show": {},
+      "chat_status_stage": 1,
+      "qs_status": 0,
+      "reliable_tips": "{\"gold_orange_v_mids\": [\"5228298128852144\", \"5228292856613228\", \"5228292622782821\", \"4964348813642308\", \"5228290935885441\", \"5228294455695716\", \"5228296034061058\", \"4850927775781451\", \"5228297664602936\"], \"gold_orange_v_ratio\": \"47%\", \"media_mids\": [\"5228097274380733\", \"5228141791939884\", \"5228097928168657\", \"5228187090683841\", \"5228099765539488\", \"5228099939862264\", \"5228100075915379\"], \"media_ratio\": \"37%\", \"verified_mids\": [\"5227822617985687\", \"5227925873623224\", \"5228099937765632\"], \"verified_ratio\": \"16%\", \"normal_mids\": [], \"normal_ratio\": \"0%\", \"ref_mid_rank\": {\"5228097274380733\": {\"rank\": 1}, \"5228141791939884\": {\"rank\": 6}, \"5228298128852144\": {\"rank\": 9}, \"5228292856613228\": {\"rank\": 12}, \"5228097928168657\": {\"rank\": 15}, \"5228292622782821\": {\"rank\": 21}, \"5228187090683841\": {\"rank\": 13}, \"4964348813642308\": {\"rank\": 18}, \"5228290935885441\": {\"rank\": 17}, \"5228294455695716\": {\"rank\": 11}, \"5228296034061058\": {\"rank\": 19}, \"4850927775781451\": {\"rank\": 2}, \"5228099765539488\": {\"rank\": 7}, \"5227822617985687\": {\"rank\": 8}, \"5228297664602936\": {\"rank\": 10}, \"5228099939862264\": {\"rank\": 14}, \"5227925873623224\": {\"rank\": 16}, \"5228099937765632\": {\"rank\": 20}, \"5228100075915379\": {\"rank\": 22}}}",
+      "unify_md5": "12862902536344eb550e9b0f3c633aba",
+      "abtest_info": {
+        "chat_entrance": 1
+      },
+      "analysis_time": 1762007164,
+      "current_time": 1762007466,
+      "news_analyze": {},
+      "card_multimodal": {
+        "type": "mediablock",
+        "data": [
+          {
+            "cur_mid": "5228097274380733",
+            "scheme": "sinaweibo://video/vvs?mid=5228097274380733&multi_paragraph=0&multi_count=0",
+            "user_name": "钱江视频",
+            "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.512.512.50/67f865afly8h8vg6w30czj20e80e8t92.jpg?KID=imgbed,tva&Expires=1762017740&ssig=e2KIVHyKOJ",
+            "vtype": 3,
+            "video_url": "https://video.weibo.com/show?fid=1034:5228097080066087",
+            "type": "v",
+            "hit_score_new": 0,
+            "doc_score": 0,
+            "img_pid": "67f865afgy1i6wfsfvcg0j20u0141167",
+            "h": 1441,
+            "click_rate": 0.063492063492063,
+            "img": "http://wx4.sinaimg.cn/middle/67f865afgy1i6wfsfvcg0j20u0141167.jpg",
+            "w": 1080,
+            "hit_score_final": 0
+          },
+          {
+            "cur_mid": "5228097928168657",
+            "scheme": "sinaweibo://video/vvs?mid=5228097928168657&multi_paragraph=0&multi_count=1",
+            "user_name": "美丽浙江",
+            "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/87475709ly8h8vg7avwxaj20u00u0aat.jpg?KID=imgbed,tva&Expires=1762017740&ssig=sNj1KslSHS",
+            "vtype": 3,
+            "video_url": "https://video.weibo.com/show?fid=1034:5228097826652214",
+            "type": "v",
+            "hit_score_new": 98.925781,
+            "doc_score": 2587,
+            "img_pid": "87475709gy1i6wfv2wrfwj20u0141du6",
+            "h": 1441,
+            "click_rate": 0,
+            "img": "http://wx2.sinaimg.cn/middle/87475709gy1i6wfv2wrfwj20u0141du6.jpg",
+            "w": 1080,
+            "hit_score_final": 84.155472
+          },
+          {
+            "cur_mid": "4964348813642308",
+            "scheme": "sinaweibo://multimedia?mix_mid=4964348813642308&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=2&multi_count=0",
+            "user_name": "瘦不了的中医肥猫",
+            "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.1024.1024.50/0069qEw9ly8hh5oz6yadlj30sg0sh41g.jpg?KID=imgbed,tva&Expires=1762017740&ssig=X82azEh9FL",
+            "vtype": 0,
+            "video_url": "",
+            "type": "p",
+            "hit_score_new": 53.466797,
+            "doc_score": 2488,
+            "img_pid": "0069qEw9ly1hjj0f5hct0j312q0rn47y",
+            "h": 995,
+            "click_rate": 0.07843137254902,
+            "img": "http://wx1.sinaimg.cn/middle/0069qEw9ly1hjj0f5hct0j312q0rn47y.jpg",
+            "w": 1394,
+            "hit_score_final": 54.080078
+          },
+          {
+            "cur_mid": "5228097274380733",
+            "scheme": "sinaweibo://video/vvs?mid=5228097274380733&multi_paragraph=0&multi_count=0",
+            "user_name": "钱江视频",
+            "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.512.512.50/67f865afly8h8vg6w30czj20e80e8t92.jpg?KID=imgbed,tva&Expires=1762017740&ssig=e2KIVHyKOJ",
+            "vtype": 3,
+            "video_url": "https://video.weibo.com/show?fid=1034:5228097080066087",
+            "type": "v",
+            "hit_score_new": 0,
+            "doc_score": 0,
+            "img_pid": "67f865afgy1i6wfsfvcg0j20u0141167",
+            "h": 1441,
+            "click_rate": 0.063492063492063,
+            "img": "http://wx4.sinaimg.cn/middle/67f865afgy1i6wfsfvcg0j20u0141167.jpg",
+            "w": 1080,
+            "hit_score_final": 0
+          }
+        ]
+      },
+      "msg": "<think><br><br>嗯，用户查询的是\"老人感冒医生多看一眼片子救了一命\"相关事件，从搜索结果看这是个近期引起关注的医疗案例。用户可能是被新闻吸引想了解详情，或是关心老年人健康问题。<br><br>仔细分析搜索结果，核心事件非常清晰：2025年10月25日，浙江台州一位老人因发烧、脖子痛就诊，自认是感冒。但呼吸内科医生阅片时发现心包积液异常，立即联系心内科会诊，最终确诊为凶险的A型主动脉夹层，经7小时手术抢救成功。这个案例有几个关键点值得展开：<br><br>关于医生的专业判断，多篇报道都强调两个细节：一是心包积液呈现\"血色\"而非普通炎症的浆液性，二是主动脉增粗且密度不均。这正是主动脉夹层的典型影像特征，但容易被误诊。医生能捕捉这些细微差异，体现了临床经验的重要性。<br><br>手术的紧迫性在多个信源中被反复提及。主动脉夹层被称为\"定时炸弹\"并非夸张——资料显示破裂后死亡率每分钟增加1%。医院启动多学科协作机制很关键，从呼吸科初诊到心外科手术的无缝衔接，7小时成功手术堪称急救典范。<br><br>值得补充的是症状误导性。用户可能好奇为何老人会误当感冒？原来主动脉夹层常出现转移性疼痛，本例的颈部疼痛就是典型表现。这点在回复里需要特别提醒，因为普通人对\"脖子痛+发烧\"的第一反应确实是感冒。<br><br>看到资料部分有重要补充：结果3指出老年人免疫反应弱，体温变化需重视但不必死守\"升高1℃\"的标准。这纠正了结果2中某医生的片面说法，说明需要综合评估症状。<br><br>其他关联案例也值得参考：结果4的幼儿园老师抢救惊厥儿童，结果5的医生扶电梯摔倒老人，都佐证了专业人员警觉性的价值。不过这些属于延伸内容，不必写进回复主体。<br><br>最后注意到该事件的社会反响热烈。微博话题下既有对医护团队的称赞，也有呼吁公众关注非典型症状的科普。这些在回复结尾可以升华一下，但避免过度煽情。<br><br>回复将按\"事件经过-医学价值-公众提示\"的逻辑展开，重点标出主动脉夹层的隐匿性和急救时间窗。时效性上优先采用11月1日的最新报道，10月31日的内容作为补充。对于两年前的结果2和结果18，因与当前医学观点有冲突且时效过低，决定不予采用。<br><br></think><br>### 一、事件核心经过  <br>1. **就诊误判**  <br>    2025年10月25日，浙江台州一位老人因发烧、脖子疼痛，自认为“感冒”前往台州市中心医院呼吸内科就诊。```wbCustomBlock{\"type\": \"quoted\", \"index\": 3, \"data\": {\"num\": [1, 6], \"version\": 2, \"quote_list\": [{\"name\": \"钱江视频\", \"scheme\": \"sinaweibo://detail?mblogid=5228097274380733\", \"index\": 1, \"label\": \"大v\"}, {\"name\": \"新闻晨报\", \"scheme\": \"sinaweibo://detail?mblogid=5228141791939884\", \"index\": 6, \"label\": \"\"}], \"name\": \"钱江视频\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.512.512.50/67f865afly8h8vg6w30czj20e80e8t92.jpg?KID=imgbed,tva&Expires=1762017740&ssig=e2KIVHyKOJ\", \"scheme\": \"sinaweibo://detail?mblogid=5228097274380733\", \"vType\": 3}}```  <br><br>2. **医生警觉发现异常**  <br>    呼吸内科医生阅片时发现两项致命疑点：  <br>    - **心包积液异常**：积液呈血性而非普通炎性液体；```wbCustomBlock{\"type\": \"quoted\", \"index\": 5, \"data\": {\"num\": [9, 12], \"version\": 2, \"quote_list\": [{\"name\": \"暴躁荔枝在线发疯\", \"scheme\": \"sinaweibo://detail?mblogid=5228298128852144\", \"index\": 9, \"label\": \"\"}, {\"name\": \"钢城蜀黍\", \"scheme\": \"sinaweibo://detail?mblogid=5228292856613228\", \"index\": 12, \"label\": \"\"}]}}```  <br>    - **主动脉病变**：主动脉增粗且密度不均，疑似血管壁撕裂。  <br>    医生立即判断为高危病症，紧急联系心内科会诊。```wbCustomBlock{\"type\": \"quoted\", \"index\": 6, \"data\": {\"num\": [1, 15, 21], \"version\": 2, \"quote_list\": [{\"name\": \"美丽浙江\", \"scheme\": \"sinaweibo://detail?mblogid=5228097928168657\", \"index\": 15, \"label\": \"大v\"}, {\"name\": \"钱江视频\", \"scheme\": \"sinaweibo://detail?mblogid=5228097274380733\", \"index\": 1, \"label\": \"\"}, {\"name\": \"七月妮妮爱摄影\", \"scheme\": \"sinaweibo://detail?mblogid=5228292622782821\", \"index\": 21, \"label\": \"\"}], \"name\": \"美丽浙江\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/87475709ly8h8vg7avwxaj20u00u0aat.jpg?KID=imgbed,tva&Expires=1762017740&ssig=sNj1KslSHS\", \"scheme\": \"sinaweibo://detail?mblogid=5228097928168657\", \"vType\": 3}}```  <br><br>3. **确诊与紧急手术**  <br>    心内科医生确诊为 **A型主动脉夹层**（血管内膜撕裂形成“假腔”，破裂后数分钟内可致死）。医院启动多学科协作，经 **7小时手术** 清除心包积血并修复血管，患者转危为安。```wbCustomBlock{\"type\": \"quoted\", \"index\": 7, \"data\": {\"num\": [1, 6, 13, 15], \"version\": 2, \"quote_list\": [{\"name\": \"新闻晨报\", \"scheme\": \"sinaweibo://detail?mblogid=5228141791939884\", \"index\": 6, \"label\": \"大v\"}, {\"name\": \"钱江视频\", \"scheme\": \"sinaweibo://detail?mblogid=5228097274380733\", \"index\": 1, \"label\": \"\"}, {\"name\": \"河南交通广播\", \"scheme\": \"sinaweibo://detail?mblogid=5228187090683841\", \"index\": 13, \"label\": \"\"}, {\"name\": \"美丽浙江\", \"scheme\": \"sinaweibo://detail?mblogid=5228097928168657\", \"index\": 15, \"label\": \"\"}], \"name\": \"新闻晨报\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.676.676.50/001qXXGoly8h8vgkqi6cjj60j60ist9c02.jpg?KID=imgbed,tva&Expires=1762017740&ssig=lzLqH6zv%2Bz\", \"scheme\": \"sinaweibo://detail?mblogid=5228141791939884\", \"vType\": 3}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5228097274380733&multi_paragraph=0&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.512.512.50/67f865afly8h8vg6w30czj20e80e8t92.jpg?KID=imgbed,tva&Expires=1762017740&ssig=e2KIVHyKOJ) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">钱江视频</span><img src=\"http://wx4.sinaimg.cn/middle/67f865afgy1i6wfsfvcg0j20u0141167.jpg\" data-width=1441 data-height=1080></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5228097928168657&multi_paragraph=0&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/87475709ly8h8vg7avwxaj20u00u0aat.jpg?KID=imgbed,tva&Expires=1762017740&ssig=sNj1KslSHS) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">美丽浙江</span><img src=\"http://wx2.sinaimg.cn/middle/87475709gy1i6wfv2wrfwj20u0141du6.jpg\" data-width=1441 data-height=1080></div></media-block><br>### 二、医生的关键判断依据  <br>- **症状的欺骗性**：  <br>  患者仅表现为“发烧+脖子痛”，易被误诊为呼吸道感染。但医生结合 **“撕裂样疼痛”** （非典型感冒症状）和影像异常锁定风险。```wbCustomBlock{\"type\": \"quoted\", \"index\": 10, \"data\": {\"num\": [21], \"version\": 2, \"quote_list\": [{\"name\": \"七月妮妮爱摄影\", \"scheme\": \"sinaweibo://detail?mblogid=5228292622782821\", \"index\": 21, \"label\": \"\"}]}}```  <br>- **影像学细节**：  <br>  - 心包积液密度提示积血（正常炎症积液为清亮液体）；```wbCustomBlock{\"type\": \"quoted\", \"index\": 12, \"data\": {\"num\": [9], \"version\": 2, \"quote_list\": [{\"name\": \"暴躁荔枝在线发疯\", \"scheme\": \"sinaweibo://detail?mblogid=5228298128852144\", \"index\": 9, \"label\": \"\"}]}}```  <br>  - 主动脉直径异常增粗且密度不均，符合血管夹层特征。```wbCustomBlock{\"type\": \"quoted\", \"index\": 13, \"data\": {\"num\": [12, 21], \"version\": 2, \"quote_list\": [{\"name\": \"钢城蜀黍\", \"scheme\": \"sinaweibo://detail?mblogid=5228292856613228\", \"index\": 12, \"label\": \"\"}, {\"name\": \"七月妮妮爱摄影\", \"scheme\": \"sinaweibo://detail?mblogid=5228292622782821\", \"index\": 21, \"label\": \"\"}]}}```<br>### 三、医学警示：这些“感冒”症状需立即就医！  <br>以下情况可能掩盖致命疾病，尤其对老年人：  <br>| **症状**          | **可能的重症**          | **行动建议**                  |  <br>|-------------------|------------------------|-----------------------------|  <br>| 脖子/胸背撕裂样剧痛 | 主动脉夹层、心梗       | **立即呼叫急救**，避免移动   |  <br>| 呼吸急促+低烧      | 重症肺炎、肺栓塞       | 尽快完善CT/超声检查 |  <br>| 意识模糊+体温不稳  | 脓毒症、颅内感染       | 急诊留观监测生命体征     |<br><br>```wbCustomBlock{\"type\": \"quoted\", \"index\": 15, \"data\": {\"num\": [18], \"version\": 2, \"quote_list\": [{\"name\": \"瘦不了的中医肥猫\", \"scheme\": \"sinaweibo://detail?mblogid=4964348813642308\", \"index\": 18, \"label\": \"大v\"}], \"name\": \"瘦不了的中医肥猫\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.1024.1024.50/0069qEw9ly8hh5oz6yadlj30sg0sh41g.jpg?KID=imgbed,tva&Expires=1762017740&ssig=X82azEh9FL\", \"scheme\": \"sinaweibo://detail?mblogid=4964348813642308\", \"vType\": 0}}```  <br><br>> 💡 **关键提示**：老年人免疫反应弱，病情进展隐匿。体温绝对值≥37.8℃或症状持续加重（如呼吸频率＞20次/分）比“升高1℃”更需警惕。<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=4964348813642308&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=2&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.1024.1024.50/0069qEw9ly8hh5oz6yadlj30sg0sh41g.jpg?KID=imgbed,tva&Expires=1762017740&ssig=X82azEh9FL) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">瘦不了的中医肥猫</span><img src=\"http://wx1.sinaimg.cn/middle/0069qEw9ly1hjj0f5hct0j312q0rn47y.jpg\" data-width=995 data-height=1394></div></media-block><br>### 四、公众可借鉴的急救经验  <br>1. **向医生主动说明细节**  <br>   - 疼痛性质（如“像被撕开”）、持续时间、既往病史；  <br>   - 即使自认“小病”，不回避检查建议（如拍片）。```wbCustomBlock{\"type\": \"quoted\", \"index\": 21, \"data\": {\"num\": [18, 21], \"version\": 2, \"quote_list\": [{\"name\": \"瘦不了的中医肥猫\", \"scheme\": \"sinaweibo://detail?mblogid=4964348813642308\", \"index\": 18, \"label\": \"\"}, {\"name\": \"七月妮妮爱摄影\", \"scheme\": \"sinaweibo://detail?mblogid=5228292622782821\", \"index\": 21, \"label\": \"\"}]}}```  <br><br>2. **高危人群定期筛查**  <br>   高血压、动脉硬化患者应每年做 **心脏彩超+主动脉CTA**，排查血管病变。```wbCustomBlock{\"type\": \"quoted\", \"index\": 22, \"data\": {\"num\": [12, 17], \"version\": 2, \"quote_list\": [{\"name\": \"钢城蜀黍\", \"scheme\": \"sinaweibo://detail?mblogid=5228292856613228\", \"index\": 12, \"label\": \"\"}, {\"name\": \"你老公有点帅\", \"scheme\": \"sinaweibo://detail?mblogid=5228290935885441\", \"index\": 17, \"label\": \"\"}]}}```<br>### 五、社会价值：多学科协作的救命链  <br>此次救援成功依靠三个环节无缝衔接：  <br>1. **首诊医生的警觉**（呼吸科发现影像异常）；  <br>2. **高效会诊机制**（心内科10分钟内介入）；  <br>3. **急诊绿色通道**（确诊后直入手术室）。```wbCustomBlock{\"type\": \"quoted\", \"index\": 27, \"data\": {\"num\": [1, 15, 21], \"version\": 2, \"quote_list\": [{\"name\": \"钱江视频\", \"scheme\": \"sinaweibo://detail?mblogid=5228097274380733\", \"index\": 1, \"label\": \"\"}, {\"name\": \"美丽浙江\", \"scheme\": \"sinaweibo://detail?mblogid=5228097928168657\", \"index\": 15, \"label\": \"\"}, {\"name\": \"七月妮妮爱摄影\", \"scheme\": \"sinaweibo://detail?mblogid=5228292622782821\", \"index\": 21, \"label\": \"\"}]}}```  <br><br>> 🌟 **网友热议**：该案例被类比“影视剧剧情”，凸显现实中医护人员的专业素养与责任感。```wbCustomBlock{\"type\": \"quoted\", \"index\": 28, \"data\": {\"num\": [11, 19], \"version\": 2, \"quote_list\": [{\"name\": \"月亮和幸运小马\", \"scheme\": \"sinaweibo://detail?mblogid=5228294455695716\", \"index\": 11, \"label\": \"\"}, {\"name\": \"喝依杯维c\", \"scheme\": \"sinaweibo://detail?mblogid=5228296034061058\", \"index\": 19, \"label\": \"\"}]}}```<br>",
+      "msg_format": "markdown",
+      "sorted_material_list": null,
+      "wenda": {
+        "forward_gen": 0
+      },
+      "mid_list": null,
+      "reference_num": 19,
+      "query_category": "Ip",
+      "status_stage": 4,
+      "link_list": [
+        "sinaweibo://detail?mblogid=5228097274380733",
+        "sinaweibo://detail?mblogid=4850927775781451",
+        "broadsocial_res://",
+        "historyweibo://5023794043027982",
+        "historyweibo://4955626902391094",
+        "sinaweibo://detail?mblogid=5228141791939884",
+        "sinaweibo://detail?mblogid=5228099765539488",
+        "sinaweibo://detail?mblogid=5227822617985687",
+        "sinaweibo://detail?mblogid=5228298128852144",
+        "sinaweibo://detail?mblogid=5228297664602936",
+        "sinaweibo://detail?mblogid=5228294455695716",
+        "sinaweibo://detail?mblogid=5228292856613228",
+        "sinaweibo://detail?mblogid=5228187090683841",
+        "sinaweibo://detail?mblogid=5228099939862264",
+        "sinaweibo://detail?mblogid=5228097928168657",
+        "sinaweibo://detail?mblogid=5227925873623224",
+        "sinaweibo://detail?mblogid=5228290935885441",
+        "sinaweibo://detail?mblogid=4964348813642308",
+        "sinaweibo://detail?mblogid=5228296034061058",
+        "sinaweibo://detail?mblogid=5228099937765632",
+        "sinaweibo://detail?mblogid=5228292622782821",
+        "sinaweibo://detail?mblogid=5228100075915379"
+      ],
+      "uid": "",
+      "top_quote_list": {},
+      "short_url": "http://t.cn/AXAI8nhf",
+      "show_ctrl": {
+        "quote": {}
+      },
+      "model": "deepseek",
+      "zs_risk_control": {
+        "think_text_close": 0,
+        "land_button_close": 0
+      },
+      "basemodel": "实验组3",
+      "query": "#老人感冒医生多看一眼片子救了一命#",
+      "share_info": {
+        "comment_content": "",
+        "url": "http://t.cn/AXAimJxf",
+        "unify_md5": "12862902536344eb550e9b0f3c633aba",
+        "status": 3,
+        "tips": "#老人感冒医生多看一眼片子救了一命#的相关内容，来智搜看看",
+        "page_id": "232964d6c0c527545f17457b02201981ea1c85",
+        "display_name": "#老人感冒医生多看一眼片子救了一命#"
+      },
+      "share_card_multimodal": {
+        "cur_mid": "5228097274380733",
+        "scheme": "sinaweibo://video/vvs?mid=5228097274380733&multi_paragraph=0&multi_count=0",
+        "user_name": "钱江视频",
+        "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.512.512.50/67f865afly8h8vg6w30czj20e80e8t92.jpg?KID=imgbed,tva&Expires=1762017740&ssig=e2KIVHyKOJ",
+        "vtype": 3,
+        "video_url": "https://video.weibo.com/show?fid=1034:5228097080066087",
+        "type": "v",
+        "hit_score_new": 0,
+        "doc_score": 0,
+        "img_pid": "67f865afgy1i6wfsfvcg0j20u0141167",
+        "h": 1441,
+        "click_rate": 0.063492063492063,
+        "img": "http://wx4.sinaimg.cn/middle/67f865afgy1i6wfsfvcg0j20u0141167.jpg",
+        "w": 1080,
+        "hit_score_final": 0
+      },
+      "qs_status_info": "{\"qs_c_status\":8388608,\"qs_r_status\":0,\"qs_status\":0,\"qs_u_status\":0,\"qs_q_status\":0,\"ab_lab\":{}}",
+      "msg_json": "{}",
+      "share_text": "#老人感冒医生多看一眼片子救了一命#的相关内容，来智搜看看",
+      "version": "2025-11-01 22:22:20.019999-1220",
+      "loop_times": 200,
+      "q_attr": {
+        "comment_from_type": "",
+        "from_uid": "",
+        "from_request_id": "",
+        "mid": "",
+        "reply_cid": ""
+      },
+      "ab_suffix": "default",
+      "cot": 1,
+      "profile_image_url": "",
+      "user_info": {},
+      "query_field": "60"
+    }
+  },
+  "links": [
+    "sinaweibo://detail?mblogid=5228097274380733",
+    "sinaweibo://detail?mblogid=4850927775781451",
+    "broadsocial_res://",
+    "historyweibo://5023794043027982",
+    "historyweibo://4955626902391094",
+    "sinaweibo://detail?mblogid=5228141791939884",
+    "sinaweibo://detail?mblogid=5228099765539488",
+    "sinaweibo://detail?mblogid=5227822617985687",
+    "sinaweibo://detail?mblogid=5228298128852144",
+    "sinaweibo://detail?mblogid=5228297664602936",
+    "sinaweibo://detail?mblogid=5228294455695716",
+    "sinaweibo://detail?mblogid=5228292856613228",
+    "sinaweibo://detail?mblogid=5228187090683841",
+    "sinaweibo://detail?mblogid=5228099939862264",
+    "sinaweibo://detail?mblogid=5228097928168657",
+    "sinaweibo://detail?mblogid=5227925873623224",
+    "sinaweibo://detail?mblogid=5228290935885441",
+    "sinaweibo://detail?mblogid=4964348813642308",
+    "sinaweibo://detail?mblogid=5228296034061058",
+    "sinaweibo://detail?mblogid=5228099937765632",
+    "sinaweibo://detail?mblogid=5228292622782821",
+    "sinaweibo://detail?mblogid=5228100075915379"
+  ],
+  "media": [
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/67f865afgy1i6wfsfvcg0j20u0141167.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/67f865afgy1i6wfsfvcg0j20u0141167.jpg",
+      "alt": "钱江视频",
+      "width": 1441,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/67f865afgy1i6wfsfvcg0j20u0141167.jpg"
+      ],
+      "user": "钱江视频"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/87475709gy1i6wfv2wrfwj20u0141du6.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/87475709gy1i6wfv2wrfwj20u0141du6.jpg",
+      "alt": "美丽浙江",
+      "width": 1441,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/87475709gy1i6wfv2wrfwj20u0141du6.jpg"
+      ],
+      "user": "美丽浙江"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/0069qEw9ly1hjj0f5hct0j312q0rn47y.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/0069qEw9ly1hjj0f5hct0j312q0rn47y.jpg",
+      "alt": "瘦不了的中医肥猫",
+      "width": 995,
+      "height": 1394,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/0069qEw9ly1hjj0f5hct0j312q0rn47y.jpg"
+      ],
+      "user": "瘦不了的中医肥猫"
+    }
+  ],
+  "html_path": "data/aicard/hourly/2025-11-01/22/topic-12862902.html"
+}

@@ -1,0 +1,329 @@
+{
+  "meta": {
+    "query": "#广东湛江一处沙滩现中华白海豚尸体#",
+    "status_code": 200,
+    "fetched_at": "2025-10-28T17:55:13+08:00",
+    "response": {
+      "cot": 1,
+      "reliable_tips": "{\"gold_orange_v_mids\": [\"5226338827110727\", \"5226337272336245\", \"5226324265538717\", \"5226339487452234\", \"5226335103615309\", \"5226350823605780\", \"5226332292120798\", \"5226342043878767\", \"5226339766635346\", \"5226311207357434\", \"5226333661038359\", \"5226337971472907\", \"5226348512809027\"], \"gold_orange_v_ratio\": \"65%\", \"media_mids\": [\"5226311883950466\", \"5226322896883644\", \"5226303697453906\", \"5226375918650551\", \"5226424974708225\"], \"media_ratio\": \"25%\", \"verified_mids\": [\"5226143469799050\"], \"verified_ratio\": \"5%\", \"normal_mids\": [\"5202739950257876\"], \"normal_ratio\": \"5%\"}",
+      "page_id": "232964d2a2b7fcf3716917f7003604c6695dfe",
+      "model": "deepseek",
+      "msg_format": "markdown",
+      "current_time": 1761645313,
+      "msg_json": "{}",
+      "share_text": "#广东湛江一处沙滩现中华白海豚尸体#的相关内容，来智搜看看",
+      "zs_risk_control": {
+        "think_text_close": 0,
+        "land_button_close": 0
+      },
+      "user_info": {},
+      "uid": "",
+      "query": "#广东湛江一处沙滩现中华白海豚尸体#",
+      "sorted_material_list": null,
+      "qs_status_info": "{\"qs_r_status\":0,\"qs_u_status\":0,\"qs_status\":0,\"qs_q_status\":0,\"ab_lab\":{},\"qs_c_status\":8388608}",
+      "basemodel": "实验组1",
+      "version": "2025-10-28 08:19:57.016000-1590",
+      "q_attr": {
+        "from_uid": "5426725908",
+        "from_request_id": ""
+      },
+      "wenda": {
+        "forward_gen": 0
+      },
+      "loop_times": 200,
+      "share_info": {
+        "page_id": "232964d2a2b7fcf3716917f7003604c6695dfe",
+        "tips": "#广东湛江一处沙滩现中华白海豚尸体#的相关内容，来智搜看看",
+        "unify_md5": "85e8ee8112ba63180f1230ec9926a68e",
+        "url": "http://t.cn/AXwg03D0",
+        "display_name": "#广东湛江一处沙滩现中华白海豚尸体#",
+        "status": 3
+      },
+      "card_multimodal": {
+        "type": "mediablock",
+        "data": [
+          {
+            "video_url": "https://video.weibo.com/show?fid=1034:5226311573241919",
+            "click_rate": 0,
+            "hit_score_new": 0,
+            "doc_score": 0,
+            "w": 1920,
+            "hit_score_final": 0,
+            "img_pid": "001Ngxkily1i6qqqkcyh8j61hc0u00ts02",
+            "img": "http://wx3.sinaimg.cn/middle/001Ngxkily1i6qqqkcyh8j61hc0u00ts02.jpg",
+            "scheme": "sinaweibo://video/vvs?mid=5226311883950466&multi_paragraph=0&multi_count=0",
+            "cur_mid": "5226311883950466",
+            "vtype": 3,
+            "user_name": "新京报",
+            "type": "v",
+            "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.512.512.50/001Ngxkily8h8vm7jc1igj60e80e8q3a02.jpg?KID=imgbed,tva&Expires=1761621597&ssig=YKoDr9Roex",
+            "h": 1080
+          },
+          {
+            "video_url": "https://video.weibo.com/show?fid=1034:5226322486558789",
+            "click_rate": 0,
+            "hit_score_new": 99.023438,
+            "doc_score": 5791,
+            "w": 1080,
+            "hit_score_final": 91.414062,
+            "img_pid": "6aac5feagy1i6qs03y7f4j20u01hcq5f",
+            "img": "http://wx1.sinaimg.cn/middle/6aac5feagy1i6qs03y7f4j20u01hcq5f.jpg",
+            "scheme": "sinaweibo://video/vvs?mid=5226322896883644&multi_paragraph=0&multi_count=1",
+            "cur_mid": "5226322896883644",
+            "vtype": 3,
+            "user_name": "第一现场",
+            "type": "v",
+            "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/6aac5fealy8i1pd5xbxk3j20u00u0q3a.jpg?KID=imgbed,tva&Expires=1761621597&ssig=jJH9yNqKfM",
+            "h": 1920
+          },
+          {
+            "video_url": "",
+            "click_rate": 0,
+            "hit_score_new": 74.707031,
+            "doc_score": 3861,
+            "w": 1179,
+            "hit_score_final": 71.224213,
+            "img_pid": "6e735291ly1i6q7beek4bj20wr1ie0w7",
+            "img": "http://wx3.sinaimg.cn/middle/6e735291ly1i6q7beek4bj20wr1ie0w7.jpg",
+            "scheme": "sinaweibo://multimedia?mix_mid=5226143469799050&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=0&multi_count=2",
+            "cur_mid": "5226143469799050",
+            "vtype": 0,
+            "user_name": "喵魚醬Narluga",
+            "type": "p",
+            "user_avatar": "https://tvax4.sinaimg.cn/crop.0.0.751.751.50/6e735291ly8g6uwkd7cv6j20kv0kvmzu.jpg?KID=imgbed,tva&Expires=1761621597&ssig=Kw52ecXGS%2F",
+            "h": 1958
+          },
+          {
+            "video_url": "https://video.weibo.com/show?fid=1034:5226311573241919",
+            "click_rate": 0,
+            "hit_score_new": 0,
+            "doc_score": 0,
+            "w": 1920,
+            "hit_score_final": 0,
+            "img_pid": "001Ngxkily1i6qqqkcyh8j61hc0u00ts02",
+            "img": "http://wx3.sinaimg.cn/middle/001Ngxkily1i6qqqkcyh8j61hc0u00ts02.jpg",
+            "scheme": "sinaweibo://video/vvs?mid=5226311883950466&multi_paragraph=0&multi_count=0",
+            "cur_mid": "5226311883950466",
+            "vtype": 3,
+            "user_name": "新京报",
+            "type": "v",
+            "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.512.512.50/001Ngxkily8h8vm7jc1igj60e80e8q3a02.jpg?KID=imgbed,tva&Expires=1761621597&ssig=YKoDr9Roex",
+            "h": 1080
+          }
+        ]
+      },
+      "ab_suffix": "default",
+      "msg": "<think><br>嗯，用户给了一个关于广东湛江发现中华白海豚尸体的新闻查询，还提供了34条搜索结果。需要从这些信息中整理出完整的报告。<br><br>先看用户的核心需求是什么。用户可能是想了解这个事件的完整情况，包括发生时间、地点、经过、原因，还有中华白海豚这个物种的背景知识，以及事件引发的讨论和保护建议。用户可能是个关心环保或动物保护的人，看到新闻后想深入了解。<br><br>这么多搜索结果里，发现几个关键信息源挺重要的。新京报和第一现场这些媒体账号的报道比较权威，说是在10月26日湛江硇洲岛发现的，警方初步调查是难产死亡。还有资料类结果详细说明了是母子双亡的情况，母豚重400多斤，幼豚50-60斤，编号是\"0202\"的年轻个体。<br><br>注意到有个叫@喵魚醬Narluga的认证用户提到尾部可能有刺网伤痕，这个细节在其他媒体报告里没提，但挺重要的。虽然警方说没有人为伤痕，但专家认为需要进一步检验确认是否是生前造成的。这个点要特别标注出来，因为涉及到人类活动的影响问题。<br><br>关于中华白海豚的百科知识真丰富，这种动物是国家一级保护动物，和大熊猫一样珍贵。它们繁殖特别不容易，雌性要9-10岁才性成熟，怀胎要一年，每胎就一个幼崽。幼豚要和妈妈形影不离很长时间。全球只有约6000头，中国珠江口种群最大但也最危险。<br><br>保护现状部分，看到搜索结果提到2025年7月湛江刚有新生幼豚的好消息，转眼就发生这种悲剧，对比强烈。保护措施有很多，比如设立保护区、禁用刺网、建立应急救护机制等。还发现珠海市在2024年用立法形式把中华白海豚定为城市吉祥物，这个做法挺创新的。<br><br>公众反应值得说说。很多微博用户表达了惋惜，有人联想到了人类做母亲的不易。@Tel南瓜的质疑很有代表性：虽然认定是自然死亡，但尾部伤痕让人不放心，人类活动可能还是间接造成了悲剧。<br><br>最后想到，回答时要突出几个关键点：一是\"0202\"编号个体的损失对种群的打击；二是难产虽然是直接原因，但人类活动压力可能是潜在诱因；三是需要推动从\"事后处理\"转为\"前置保护\"。<br><br></think><br>### 🐬 事件核心事实  <br>1. **事件概述**  <br>    - **时间与地点**：2025年10月26日，广东湛江硇洲岛谭北湾沙滩发现一头成年中华白海豚尸体，重约400斤，身旁挂有未完全产出的幼豚（约50-60斤），证实为“母子双亡”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 4, \"data\": {\"num\": [1, 2], \"version\": 2, \"quote_list\": [{\"name\": \"新京报\", \"scheme\": \"sinaweibo://detail?mblogid=5226311883950466\", \"index\": 1, \"label\": \"大v\"}, {\"name\": \"第一现场\", \"scheme\": \"sinaweibo://detail?mblogid=5226322896883644\", \"index\": 2, \"label\": \"\"}], \"name\": \"新京报\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.512.512.50/001Ngxkily8h8vm7jc1igj60e80e8q3a02.jpg?KID=imgbed,tva&Expires=1761621597&ssig=YKoDr9Roex\", \"scheme\": \"sinaweibo://detail?mblogid=5226311883950466\", \"vType\": 3}}```  <br>    - **死亡原因**：湛江警方初步调查认定为**难产死亡**。母豚生产时幼豚尾部先出（正常分娩体位），但母体在生产过程中死亡，后被海浪冲上岸。```wbCustomBlock{\"type\": \"quoted\", \"index\": 5, \"data\": {\"num\": [1, 17], \"version\": 2, \"quote_list\": [{\"name\": \"大象新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5226303697453906\", \"index\": 17, \"label\": \"大v\"}, {\"name\": \"新京报\", \"scheme\": \"sinaweibo://detail?mblogid=5226311883950466\", \"index\": 1, \"label\": \"\"}], \"name\": \"大象新闻\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/007YAdaely8hue6u20f9xj30u00u00ud.jpg?KID=imgbed,tva&Expires=1761621597&ssig=PQiUeJ2bVM\", \"scheme\": \"sinaweibo://detail?mblogid=5226303697453906\", \"vType\": 3}}```  <br>    - **个体信息**：母豚体长3米，身体呈灰白色带斑点，经数据库比对为编号“0202”的年轻个体，系首次生育。现场无肉眼可见人为伤痕，尸体已移交动物保护部门进一步检验。```wbCustomBlock{\"type\": \"quoted\", \"index\": 6, \"data\": {\"num\": [1, 18, 23], \"version\": 2, \"quote_list\": [{\"name\": \"陕视新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5226375918650551\", \"index\": 23, \"label\": \"大v\"}, {\"name\": \"新京报\", \"scheme\": \"sinaweibo://detail?mblogid=5226311883950466\", \"index\": 1, \"label\": \"\"}, {\"name\": \"喵魚醬Narluga\", \"scheme\": \"sinaweibo://detail?mblogid=5226143469799050\", \"index\": 18, \"label\": \"\"}], \"name\": \"陕视新闻\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.512.512.50/c0855202ly8haox29q27gj20e80e8weu.jpg?KID=imgbed,tva&Expires=1761621597&ssig=DQvRrkqcRl\", \"scheme\": \"sinaweibo://detail?mblogid=5226375918650551\", \"vType\": 3}}```  <br><br>2. **物种背景与保护现状**  <br>    - **濒危等级**：中华白海豚属国家一级重点保护野生动物，IUCN红色名录列为“濒危”（EN），全球仅存约6000头，主要分布于中国东南沿海。```wbCustomBlock{\"type\": \"quoted\", \"index\": 8, \"data\": {\"num\": [15], \"version\": 2, \"quote_list\": [{\"name\": \"西瓜啵啵汽水\", \"scheme\": \"sinaweibo://detail?mblogid=5226338827110727\", \"index\": 15, \"label\": \"\"}]}}```  <br>    - **繁殖特性**：雌性9-10岁性成熟，妊娠期10-12个月，每胎仅1仔，幼豚哺乳期8-20个月，成活率低。此次死亡对湛江海域小种群构成重大损失。```wbCustomBlock{\"type\": \"quoted\", \"index\": 9, \"data\": {\"num\": [3, 12], \"version\": 2, \"quote_list\": [{\"name\": \"海那个角\", \"scheme\": \"sinaweibo://detail?mblogid=5226337272336245\", \"index\": 3, \"label\": \"\"}, {\"name\": \"狐狸是个睡神\", \"scheme\": \"sinaweibo://detail?mblogid=5226324265538717\", \"index\": 12, \"label\": \"\"}]}}```  <br>    - **生存威胁**：栖息地与人类经济区（航运、渔业、填海工程）高度重叠，易受渔网缠绕、船只撞击、噪音污染及水质恶化的影响。```wbCustomBlock{\"type\": \"quoted\", \"index\": 10, \"data\": {\"num\": [18], \"version\": 2, \"quote_list\": [{\"name\": \"喵魚醬Narluga\", \"scheme\": \"sinaweibo://detail?mblogid=5226143469799050\", \"index\": 18, \"label\": \"大v\"}], \"name\": \"喵魚醬Narluga\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.751.751.50/6e735291ly8g6uwkd7cv6j20kv0kvmzu.jpg?KID=imgbed,tva&Expires=1761621597&ssig=Kw52ecXGS%2F\", \"scheme\": \"sinaweibo://detail?mblogid=5226143469799050\", \"vType\": 0}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5226311883950466&multi_paragraph=0&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.512.512.50/001Ngxkily8h8vm7jc1igj60e80e8q3a02.jpg?KID=imgbed,tva&Expires=1761621597&ssig=YKoDr9Roex) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">新京报</span><img src=\"http://wx3.sinaimg.cn/middle/001Ngxkily1i6qqqkcyh8j61hc0u00ts02.jpg\" data-width=1080 data-height=1920></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5226322896883644&multi_paragraph=0&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/6aac5fealy8i1pd5xbxk3j20u00u0q3a.jpg?KID=imgbed,tva&Expires=1761621597&ssig=jJH9yNqKfM) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">第一现场</span><img src=\"http://wx1.sinaimg.cn/middle/6aac5feagy1i6qs03y7f4j20u01hcq5f.jpg\" data-width=1920 data-height=1080></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5226143469799050&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=0&multi_count=2\"><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.751.751.50/6e735291ly8g6uwkd7cv6j20kv0kvmzu.jpg?KID=imgbed,tva&Expires=1761621597&ssig=Kw52ecXGS%2F) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">喵魚醬Narluga</span><img src=\"http://wx3.sinaimg.cn/middle/6e735291ly1i6q7beek4bj20wr1ie0w7.jpg\" data-width=1958 data-height=1179></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5226375918650551&multi_paragraph=0&multi_count=3\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.512.512.50/c0855202ly8haox29q27gj20e80e8weu.jpg?KID=imgbed,tva&Expires=1761621597&ssig=DQvRrkqcRl) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">陕视新闻</span><img src=\"http://wx4.sinaimg.cn/middle/622e6e3bgy1i6qridfn6hj21hc0u0q51.jpg\" data-width=1080 data-height=1920></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5226338827110727&multi_paragraph=0&multi_count=4\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/007dAzvMly8i6cx0ix2m6j30u00u0tb7.jpg?KID=imgbed,tva&Expires=1761621597&ssig=NY9CxmGsvH) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">西瓜啵啵汽水</span><img src=\"http://wx3.sinaimg.cn/middle/007dAzvMgy1i6qttu928cj30u01hcjtw.jpg\" data-width=1920 data-height=1080></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5226337272336245&multi_paragraph=0&multi_count=5\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/008eSizIly8hbn02nye15j30u00u0q56.jpg?KID=imgbed,tva&Expires=1761621597&ssig=2I0DB5HbOE) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">海那个角</span><img src=\"http://wx3.sinaimg.cn/middle/008eSizIgy1i6qtnnczckj30mi0u0djh.jpg\" data-width=1080 data-height=810></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5226324265538717&multi_paragraph=0&multi_count=6\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.564.564.50/0074g8FLly8i6pjmegky6j30fo0fo74l.jpg?KID=imgbed,tva&Expires=1761621597&ssig=mzlX46aNk0) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">狐狸是个睡神</span><img src=\"http://wx2.sinaimg.cn/middle/0074g8FLgy1i6qs5q63kij30k00zkgn2.jpg\" data-width=1280 data-height=720></div></media-block><br>### ⚠️ 争议焦点与待解疑点  <br>1. **尾部划痕疑云**  <br>    部分观察者指出母豚尾部有类似刺网的伤痕。专家强调需通过解剖区分是**生前人为干扰**（如渔网缠绕导致生产受阻）还是死后形成。若为生前伤痕，可能反映渔业活动对濒危物种的间接伤害。```wbCustomBlock{\"type\": \"quoted\", \"index\": 13, \"data\": {\"num\": [18], \"version\": 2, \"quote_list\": [{\"name\": \"喵魚醬Narluga\", \"scheme\": \"sinaweibo://detail?mblogid=5226143469799050\", \"index\": 18, \"label\": \"\"}]}}```  <br><br>2. **难产诱因的深层分析**  <br>    - **自然因素**：尾部先出是正常分娩体位，难产可能与初次生育经验不足有关。```wbCustomBlock{\"type\": \"quoted\", \"index\": 15, \"data\": {\"num\": [18], \"version\": 2, \"quote_list\": [{\"name\": \"喵魚醬Narluga\", \"scheme\": \"sinaweibo://detail?mblogid=5226143469799050\", \"index\": 18, \"label\": \"\"}]}}```  <br>    - **人为干扰**：刺网捕捞、船只噪音可能在生产过程中引发母豚应激反应，导致呛水或难产加剧。湛江海域近年频繁出现白海豚群（如2021年6只成群），反映生态质量尚可，但保护措施仍不足。```wbCustomBlock{\"type\": \"quoted\", \"index\": 16, \"data\": {\"num\": [10, 18], \"version\": 2, \"quote_list\": [{\"name\": \"Tel南瓜\", \"scheme\": \"sinaweibo://detail?mblogid=5226339487452234\", \"index\": 10, \"label\": \"\"}, {\"name\": \"喵魚醬Narluga\", \"scheme\": \"sinaweibo://detail?mblogid=5226143469799050\", \"index\": 18, \"label\": \"\"}]}}```<br>### 🌊 保护行动与公众呼吁  <br>1. **亟需强化保护措施**  <br>    - **栖息地管理**：设立保护区航道、禁用刺网捕捞、控制船只噪音；```wbCustomBlock{\"type\": \"quoted\", \"index\": 20, \"data\": {\"num\": [10, 18], \"version\": 2, \"quote_list\": [{\"name\": \"Tel南瓜\", \"scheme\": \"sinaweibo://detail?mblogid=5226339487452234\", \"index\": 10, \"label\": \"\"}, {\"name\": \"喵魚醬Narluga\", \"scheme\": \"sinaweibo://detail?mblogid=5226143469799050\", \"index\": 18, \"label\": \"\"}]}}```  <br>    - **个体追踪**：对怀孕母豚加强监测，建立搁浅应急救护机制（如2024年福建成功救助案例）；  <br>    - **污染治理**：减少陆源塑料垃圾入海，保护河口生态环境。```wbCustomBlock{\"type\": \"quoted\", \"index\": 22, \"data\": {\"num\": [10, 20], \"version\": 2, \"quote_list\": [{\"name\": \"Tel南瓜\", \"scheme\": \"sinaweibo://detail?mblogid=5226339487452234\", \"index\": 10, \"label\": \"\"}, {\"name\": \"在努力和幸福的道路上\", \"scheme\": \"sinaweibo://detail?mblogid=5226335103615309\", \"index\": 20, \"label\": \"\"}]}}```  <br><br>2. **社会反思与立法进展**  <br>    - **立法保护**：珠海市2024年通过立法确认中华白海豚为城市吉祥物，激发公众保护意识；  <br>    - **公众参与**：网友呼吁从“事后处理”转向“前置保护”，平衡经济发展与生态可持续性。```wbCustomBlock{\"type\": \"quoted\", \"index\": 25, \"data\": {\"num\": [10, 12, 20], \"version\": 2, \"quote_list\": [{\"name\": \"Tel南瓜\", \"scheme\": \"sinaweibo://detail?mblogid=5226339487452234\", \"index\": 10, \"label\": \"\"}, {\"name\": \"狐狸是个睡神\", \"scheme\": \"sinaweibo://detail?mblogid=5226324265538717\", \"index\": 12, \"label\": \"\"}, {\"name\": \"在努力和幸福的道路上\", \"scheme\": \"sinaweibo://detail?mblogid=5226335103615309\", \"index\": 20, \"label\": \"\"}]}}```<br>### 💎 事件意义与物种保护挑战  <br>此次“母子双亡”悲剧凸显三个核心问题：  <br>1. **种群脆弱性**：中华白海豚繁殖率低、成熟期长，每一头个体的死亡均可能加速局部种群灭绝（如汕头南澳岛种群仅剩12头）。  <br>2. **保护成效的双面性**：尽管2025年湛江海域记录到12头新生幼豚，但编号“0202”的死亡揭示保护网络仍存在漏洞。  <br>3. **人类活动的叠加风险**：即便难产是直接死因，尾部伤痕警示渔业活动、海洋工程等压力源需系统性管控。```wbCustomBlock{\"type\": \"quoted\", \"index\": 30, \"data\": {\"num\": [10, 18], \"version\": 2, \"quote_list\": [{\"name\": \"Tel南瓜\", \"scheme\": \"sinaweibo://detail?mblogid=5226339487452234\", \"index\": 10, \"label\": \"\"}, {\"name\": \"喵魚醬Narluga\", \"scheme\": \"sinaweibo://detail?mblogid=5226143469799050\", \"index\": 18, \"label\": \"\"}]}}```  <br><br>> **延伸知识**：中华白海豚体色随年龄变化——幼体深灰，亚成体灰粉色，成体因充血透出粉红色，故有“粉红海豚”之称。其回声定位系统易受船只噪音干扰，直接影响觅食与繁殖行为。```wbCustomBlock{\"type\": \"quoted\", \"index\": 31, \"data\": {\"num\": [4], \"version\": 2, \"quote_list\": [{\"name\": \"实验室札记\", \"scheme\": \"sinaweibo://detail?mblogid=5226350823605780\", \"index\": 4, \"label\": \"\"}]}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5226350823605780&multi_paragraph=3&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/9c20aa71ly8i5y2z4keiaj20u00u0taf.jpg?KID=imgbed,tva&Expires=1761621597&ssig=eevt5NYy1j) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">实验室札记</span><img src=\"http://wx4.sinaimg.cn/middle/9c20aa71ly1i6qv7obwezj20u00gvabd.jpg\" data-width=607 data-height=1080></div></media-block><br>",
+      "unify_md5": "85e8ee8112ba63180f1230ec9926a68e",
+      "mid_list": null,
+      "status": 2,
+      "abtest_info": {
+        "chat_entrance": 1
+      },
+      "scheme": "sinaweibo://cardlist?containerid=100103type%3D225%26q%3D%23%E5%B9%BF%E4%B8%9C%E6%B9%9B%E6%B1%9F%E4%B8%80%E5%A4%84%E6%B2%99%E6%BB%A9%E7%8E%B0%E4%B8%AD%E5%8D%8E%E7%99%BD%E6%B5%B7%E8%B1%9A%E5%B0%B8%E4%BD%93%23%26t%3D&extparam=ai_model%3Ddeepseek%26ori_ai_title%3D%E5%8F%82%E8%80%83%E5%8D%9A%E6%96%87%26material_version%3D1761610797",
+      "short_url": "http://t.cn/AXwgO4EP",
+      "show_ctrl": {
+        "quote": {}
+      },
+      "news_analyze": {},
+      "ext_show": {},
+      "analysis_time": 1761610886,
+      "reference_num": 20,
+      "query_category": "Ip",
+      "status_stage": 4,
+      "link_list": [
+        "sinaweibo://detail?mblogid=5226311883950466",
+        "sinaweibo://detail?mblogid=5226322896883644",
+        "sinaweibo://detail?mblogid=5226337272336245",
+        "sinaweibo://detail?mblogid=5226350823605780",
+        "http://cj.sina.cn/articles/view/1644114654/m61ff32de033021svw",
+        "https://baike.baidu.com/item/%E4%B8%AD%E5%8D%8E%E7%99%BD%E6%B5%B7%E8%B1%9A/2107600?fromModule=search-result_lemma",
+        "historyweibo://5226322896883644",
+        "historyweibo://5226311883950466",
+        "historyweibo://5226303697453906",
+        "sinaweibo://detail?mblogid=5226339487452234",
+        "sinaweibo://detail?mblogid=5226332292120798",
+        "sinaweibo://detail?mblogid=5226324265538717",
+        "sinaweibo://detail?mblogid=5226342043878767",
+        "sinaweibo://detail?mblogid=5226339766635346",
+        "sinaweibo://detail?mblogid=5226338827110727",
+        "sinaweibo://detail?mblogid=5226311207357434",
+        "sinaweibo://detail?mblogid=5226303697453906",
+        "sinaweibo://detail?mblogid=5226143469799050",
+        "sinaweibo://detail?mblogid=5226424974708225",
+        "sinaweibo://detail?mblogid=5226335103615309",
+        "sinaweibo://detail?mblogid=5226333661038359",
+        "sinaweibo://detail?mblogid=5226337971472907",
+        "sinaweibo://detail?mblogid=5226375918650551",
+        "sinaweibo://detail?mblogid=5202739950257876",
+        "sinaweibo://detail?mblogid=5226348512809027",
+        "https://m.163.com/dy/article/KCSNIAG6051492LM.html",
+        "https://video.sina.cn/finance/2025-10-27/detail-infviaar5269724.d.html",
+        "https://mparticle.uc.cn/article_org.html?uc_param_str=frdnsnpfvecpntnwprdssskt#!wm_cid=716182738731806720!!wm_id=9063408822154ea986488977201b998d",
+        "http://cj.sina.cn/articles/view/1644114654/61ff32de019021sui",
+        "http://cj.sina.com.cn/articles/view/6393904893/m17d1b3efd033016vjw",
+        "http://cj.sina.com.cn/articles/view/6393904893/m17d1b3efd020016vjy",
+        "https://m.sohu.com/a/947948914_121276613/?pvid=000115_3w_a",
+        "http://cj.sina.cn/articles/view/6393904893/m17d1b3efd033016vjw",
+        "https://mparticle.uc.cn/video.html?uc_param_str=frdnsnpfvecpntnwprdssskt&sm_article_id=8143240572542198341#!wm_aid=5a609affb3b04056aef167100ca4e5be!!wm_id=a08784ac96584bf98423be3b9b3c63af"
+      ],
+      "profile_image_url": "",
+      "top_quote_list": {},
+      "qs_status": 0,
+      "share_card_multimodal": {
+        "video_url": "https://video.weibo.com/show?fid=1034:5226311573241919",
+        "click_rate": 0,
+        "hit_score_new": 0,
+        "doc_score": 0,
+        "w": 1920,
+        "hit_score_final": 0,
+        "img_pid": "001Ngxkily1i6qqqkcyh8j61hc0u00ts02",
+        "img": "http://wx3.sinaimg.cn/middle/001Ngxkily1i6qqqkcyh8j61hc0u00ts02.jpg",
+        "scheme": "sinaweibo://video/vvs?mid=5226311883950466&multi_paragraph=0&multi_count=0",
+        "cur_mid": "5226311883950466",
+        "vtype": 3,
+        "user_name": "新京报",
+        "type": "v",
+        "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.512.512.50/001Ngxkily8h8vm7jc1igj60e80e8q3a02.jpg?KID=imgbed,tva&Expires=1761621597&ssig=YKoDr9Roex",
+        "h": 1080
+      },
+      "query_field": "53",
+      "chat_status_stage": 1
+    }
+  },
+  "links": [
+    "sinaweibo://detail?mblogid=5226311883950466",
+    "sinaweibo://detail?mblogid=5226322896883644",
+    "sinaweibo://detail?mblogid=5226337272336245",
+    "sinaweibo://detail?mblogid=5226350823605780",
+    "http://cj.sina.cn/articles/view/1644114654/m61ff32de033021svw",
+    "https://baike.baidu.com/item/%E4%B8%AD%E5%8D%8E%E7%99%BD%E6%B5%B7%E8%B1%9A/2107600?fromModule=search-result_lemma",
+    "historyweibo://5226322896883644",
+    "historyweibo://5226311883950466",
+    "historyweibo://5226303697453906",
+    "sinaweibo://detail?mblogid=5226339487452234",
+    "sinaweibo://detail?mblogid=5226332292120798",
+    "sinaweibo://detail?mblogid=5226324265538717",
+    "sinaweibo://detail?mblogid=5226342043878767",
+    "sinaweibo://detail?mblogid=5226339766635346",
+    "sinaweibo://detail?mblogid=5226338827110727",
+    "sinaweibo://detail?mblogid=5226311207357434",
+    "sinaweibo://detail?mblogid=5226303697453906",
+    "sinaweibo://detail?mblogid=5226143469799050",
+    "sinaweibo://detail?mblogid=5226424974708225",
+    "sinaweibo://detail?mblogid=5226335103615309",
+    "sinaweibo://detail?mblogid=5226333661038359",
+    "sinaweibo://detail?mblogid=5226337971472907",
+    "sinaweibo://detail?mblogid=5226375918650551",
+    "sinaweibo://detail?mblogid=5202739950257876",
+    "sinaweibo://detail?mblogid=5226348512809027",
+    "https://m.163.com/dy/article/KCSNIAG6051492LM.html",
+    "https://video.sina.cn/finance/2025-10-27/detail-infviaar5269724.d.html",
+    "https://mparticle.uc.cn/article_org.html?uc_param_str=frdnsnpfvecpntnwprdssskt#!wm_cid=716182738731806720!!wm_id=9063408822154ea986488977201b998d",
+    "http://cj.sina.cn/articles/view/1644114654/61ff32de019021sui",
+    "http://cj.sina.com.cn/articles/view/6393904893/m17d1b3efd033016vjw",
+    "http://cj.sina.com.cn/articles/view/6393904893/m17d1b3efd020016vjy",
+    "https://m.sohu.com/a/947948914_121276613/?pvid=000115_3w_a",
+    "http://cj.sina.cn/articles/view/6393904893/m17d1b3efd033016vjw",
+    "https://mparticle.uc.cn/video.html?uc_param_str=frdnsnpfvecpntnwprdssskt&sm_article_id=8143240572542198341#!wm_aid=5a609affb3b04056aef167100ca4e5be!!wm_id=a08784ac96584bf98423be3b9b3c63af"
+  ],
+  "media": [
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/001Ngxkily1i6qqqkcyh8j61hc0u00ts02.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/001Ngxkily1i6qqqkcyh8j61hc0u00ts02.jpg",
+      "alt": "新京报",
+      "width": 1080,
+      "height": 1920,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/001Ngxkily1i6qqqkcyh8j61hc0u00ts02.jpg"
+      ],
+      "user": "新京报"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/6aac5feagy1i6qs03y7f4j20u01hcq5f.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/6aac5feagy1i6qs03y7f4j20u01hcq5f.jpg",
+      "alt": "第一现场",
+      "width": 1920,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/6aac5feagy1i6qs03y7f4j20u01hcq5f.jpg"
+      ],
+      "user": "第一现场"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/6e735291ly1i6q7beek4bj20wr1ie0w7.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/6e735291ly1i6q7beek4bj20wr1ie0w7.jpg",
+      "alt": "喵魚醬Narluga",
+      "width": 1958,
+      "height": 1179,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/6e735291ly1i6q7beek4bj20wr1ie0w7.jpg"
+      ],
+      "user": "喵魚醬Narluga"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/622e6e3bgy1i6qridfn6hj21hc0u0q51.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/622e6e3bgy1i6qridfn6hj21hc0u0q51.jpg",
+      "alt": "陕视新闻",
+      "width": 1080,
+      "height": 1920,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx4.sinaimg.cn/large/622e6e3bgy1i6qridfn6hj21hc0u0q51.jpg"
+      ],
+      "user": "陕视新闻"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/007dAzvMgy1i6qttu928cj30u01hcjtw.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/007dAzvMgy1i6qttu928cj30u01hcjtw.jpg",
+      "alt": "西瓜啵啵汽水",
+      "width": 1920,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/007dAzvMgy1i6qttu928cj30u01hcjtw.jpg"
+      ],
+      "user": "西瓜啵啵汽水"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/008eSizIgy1i6qtnnczckj30mi0u0djh.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/008eSizIgy1i6qtnnczckj30mi0u0djh.jpg",
+      "alt": "海那个角",
+      "width": 1080,
+      "height": 810,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/008eSizIgy1i6qtnnczckj30mi0u0djh.jpg"
+      ],
+      "user": "海那个角"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/0074g8FLgy1i6qs5q63kij30k00zkgn2.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/0074g8FLgy1i6qs5q63kij30k00zkgn2.jpg",
+      "alt": "狐狸是个睡神",
+      "width": 1280,
+      "height": 720,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/0074g8FLgy1i6qs5q63kij30k00zkgn2.jpg"
+      ],
+      "user": "狐狸是个睡神"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/9c20aa71ly1i6qv7obwezj20u00gvabd.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/9c20aa71ly1i6qv7obwezj20u00gvabd.jpg",
+      "alt": "实验室札记",
+      "width": 607,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/9c20aa71ly1i6qv7obwezj20u00gvabd.jpg"
+      ],
+      "user": "实验室札记"
+    }
+  ],
+  "html_path": "data/aicard/hourly/2025-10-27/12/topic-85e8ee81.html"
+}

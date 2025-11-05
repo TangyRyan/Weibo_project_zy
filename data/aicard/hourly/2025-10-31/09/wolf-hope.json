@@ -1,0 +1,278 @@
+{
+  "meta": {
+    "query": "#Wolf说Hope确实菜#",
+    "status_code": 200,
+    "fetched_at": "2025-10-31T22:30:53+08:00",
+    "response": {
+      "reference_num": 24,
+      "status_stage": 4,
+      "link_list": [
+        "sinaweibo://detail?mblogid=5227912785827524",
+        "sinaweibo://detail?mblogid=5227936032754091",
+        "sinaweibo://detail?mblogid=5227868418214428",
+        "sinaweibo://detail?mblogid=5227924947209966",
+        "sinaweibo://detail?mblogid=5227906368278869",
+        "sinaweibo://detail?mblogid=5227936689162490",
+        "sinaweibo://detail?mblogid=5227936334746129",
+        "sinaweibo://detail?mblogid=5227935483300712",
+        "sinaweibo://detail?mblogid=5227934719938638",
+        "sinaweibo://detail?mblogid=5227934068774240",
+        "sinaweibo://detail?mblogid=5227933977021239",
+        "sinaweibo://detail?mblogid=5227933917776578",
+        "sinaweibo://detail?mblogid=5227926532135773",
+        "sinaweibo://detail?mblogid=5227930439654849",
+        "sinaweibo://detail?mblogid=5227936769646541",
+        "sinaweibo://detail?mblogid=5227929053435058",
+        "sinaweibo://detail?mblogid=5227905607276859",
+        "sinaweibo://detail?mblogid=5227929770659118",
+        "sinaweibo://detail?mblogid=5227934752706441",
+        "sinaweibo://detail?mblogid=5224492453595954",
+        "sinaweibo://detail?mblogid=5227926014657917",
+        "sinaweibo://detail?mblogid=5227935537563048",
+        "sinaweibo://detail?mblogid=5227932400487923",
+        "sinaweibo://detail?mblogid=5227895809116646"
+      ],
+      "top_quote_list": {},
+      "card_multimodal": {
+        "type": "mediablock",
+        "data": [
+          {
+            "type": "p",
+            "w": 930,
+            "hit_score_final": 85.789062,
+            "vtype": 0,
+            "cur_mid": "5227906368278869",
+            "scheme": "sinaweibo://multimedia?mix_mid=5227906368278869&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=0",
+            "user_name": "玩加电竞",
+            "click_rate": 0.10588235294118,
+            "user_avatar": "https://tvax4.sinaimg.cn/crop.10.15.157.157.50/0068GZJSly8h8vlb2gse2j3050050jr6.jpg?KID=imgbed,tva&Expires=1761931649&ssig=z3AruWlPml",
+            "h": 484,
+            "video_url": "",
+            "hit_score_new": 89.648438,
+            "doc_score": 6263,
+            "img_pid": "0068GZJSgy1i6vtushyf2j30pu0dg76t",
+            "img": "http://wx1.sinaimg.cn/middle/0068GZJSgy1i6vtushyf2j30pu0dg76t.jpg"
+          },
+          {
+            "type": "v",
+            "w": 1320,
+            "hit_score_final": 0,
+            "vtype": 3,
+            "cur_mid": "5227912785827524",
+            "scheme": "sinaweibo://video/vvs?mid=5227912785827524&multi_paragraph=1&multi_count=1",
+            "user_name": "新浪热点",
+            "click_rate": 0,
+            "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.450.450.50/002wVUFrly8h8vgt7mcs2j60ci0ci0t002.jpg?KID=imgbed,tva&Expires=1761931649&ssig=wEA4ROty5e",
+            "h": 680,
+            "video_url": "https://video.weibo.com/show?fid=1034:5227905299710094",
+            "hit_score_new": 0,
+            "doc_score": 0,
+            "img_pid": "006mEiMGly1i6vtqylsgcj310o0iw0tq",
+            "img": "http://wx1.sinaimg.cn/middle/006mEiMGly1i6vtqylsgcj310o0iw0tq.jpg"
+          },
+          {
+            "type": "v",
+            "w": 854,
+            "hit_score_final": 51.083984,
+            "vtype": 0,
+            "cur_mid": "5224492453595954",
+            "scheme": "sinaweibo://video/vvs?mid=5224492453595954&multi_paragraph=2&multi_count=0",
+            "user_name": "英雄联盟神吐槽",
+            "click_rate": 0,
+            "user_avatar": "https://tvax2.sinaimg.cn/crop.0.0.439.439.50/006cmbhQly8h8uglinec1j30c70c73yz.jpg?KID=imgbed,tva&Expires=1761931649&ssig=zlRJXpfZBO",
+            "h": 480,
+            "video_url": "https://video.weibo.com/show?fid=1034:5224491769593912",
+            "hit_score_new": 51.806641,
+            "doc_score": 2309,
+            "img_pid": "006cmbhQly1i6kxrj7jpmj30nq0dc758",
+            "img": "http://wx2.sinaimg.cn/middle/006cmbhQly1i6kxrj7jpmj30nq0dc758.jpg"
+          },
+          {
+            "type": "p",
+            "w": 930,
+            "hit_score_final": 85.789062,
+            "vtype": 0,
+            "cur_mid": "5227906368278869",
+            "scheme": "sinaweibo://multimedia?mix_mid=5227906368278869&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=0",
+            "user_name": "玩加电竞",
+            "click_rate": 0.10588235294118,
+            "user_avatar": "https://tvax4.sinaimg.cn/crop.10.15.157.157.50/0068GZJSly8h8vlb2gse2j3050050jr6.jpg?KID=imgbed,tva&Expires=1761931649&ssig=z3AruWlPml",
+            "h": 484,
+            "video_url": "",
+            "hit_score_new": 89.648438,
+            "doc_score": 6263,
+            "img_pid": "0068GZJSgy1i6vtushyf2j30pu0dg76t",
+            "img": "http://wx1.sinaimg.cn/middle/0068GZJSgy1i6vtushyf2j30pu0dg76t.jpg"
+          }
+        ]
+      },
+      "share_card_multimodal": {
+        "type": "p",
+        "w": 930,
+        "hit_score_final": 85.789062,
+        "vtype": 0,
+        "cur_mid": "5227906368278869",
+        "scheme": "sinaweibo://multimedia?mix_mid=5227906368278869&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=0",
+        "user_name": "玩加电竞",
+        "click_rate": 0.10588235294118,
+        "user_avatar": "https://tvax4.sinaimg.cn/crop.10.15.157.157.50/0068GZJSly8h8vlb2gse2j3050050jr6.jpg?KID=imgbed,tva&Expires=1761931649&ssig=z3AruWlPml",
+        "h": 484,
+        "video_url": "",
+        "hit_score_new": 89.648438,
+        "doc_score": 6263,
+        "img_pid": "0068GZJSgy1i6vtushyf2j30pu0dg76t",
+        "img": "http://wx1.sinaimg.cn/middle/0068GZJSgy1i6vtushyf2j30pu0dg76t.jpg"
+      },
+      "basemodel": "实验组10",
+      "current_time": 1761921053,
+      "user_info": {},
+      "model": "deepseek",
+      "cot": 1,
+      "abtest_info": {
+        "chat_entrance": 1
+      },
+      "share_info": {
+        "tips": "#Wolf说Hope确实菜#的相关内容，来智搜看看",
+        "page_id": "2329644c5acd1d6475a58d0b8d72b80ee4d5f4",
+        "url": "http://t.cn/AXAVDOQv",
+        "display_name": "#Wolf说Hope确实菜#",
+        "unify_md5": "5037faa017e8e7a897d70fadbed9c24b",
+        "comment_content": "",
+        "status": 3
+      },
+      "loop_times": 200,
+      "qs_status": 0,
+      "share_text": "#Wolf说Hope确实菜#的相关内容，来智搜看看",
+      "status": 2,
+      "ext_show": {},
+      "analysis_time": 1761920971,
+      "wenda": {
+        "forward_gen": 0
+      },
+      "zs_risk_control": {
+        "think_text_close": 0,
+        "land_button_close": 0
+      },
+      "page_id": "2329644c5acd1d6475a58d0b8d72b80ee4d5f4",
+      "profile_image_url": "",
+      "query_category": "",
+      "show_ctrl": {
+        "quote": {}
+      },
+      "query": "#Wolf说Hope确实菜#",
+      "q_attr": {
+        "from_request_id": "",
+        "comment_from_type": "",
+        "from_uid": "",
+        "reply_cid": "",
+        "mid": ""
+      },
+      "uid": "",
+      "qs_status_info": "{\"qs_status\":0,\"qs_c_status\":8388608,\"qs_r_status\":0,\"ab_lab\":{},\"qs_u_status\":0,\"qs_q_status\":0}",
+      "query_field": "47",
+      "msg_json": "{}",
+      "news_analyze": {},
+      "short_url": "http://t.cn/AXAfZ8CB",
+      "reliable_tips": "{\"gold_orange_v_mids\": [\"5227906368278869\", \"5227905607276859\", \"5227924947209966\", \"5224492453595954\", \"5227926532135773\", \"5227936769646541\", \"5227934752706441\", \"5227936032754091\", \"5227868418214428\", \"5227929770659118\", \"5227933917776578\", \"5227932400487923\"], \"gold_orange_v_ratio\": \"50%\", \"media_mids\": [], \"media_ratio\": \"0%\", \"verified_mids\": [\"5227912785827524\"], \"verified_ratio\": \"4%\", \"normal_mids\": [\"5227930439654849\", \"5227895809116646\", \"5227935483300712\", \"5227934719938638\", \"5227936334746129\", \"5227935537563048\", \"5227926014657917\", \"5227936689162490\", \"5227934068774240\", \"5227933977021239\", \"5227929053435058\"], \"normal_ratio\": \"46%\", \"ref_mid_rank\": {\"5227912785827524\": {\"rank\": 1}, \"5227906368278869\": {\"rank\": 5}, \"5227905607276859\": {\"rank\": 17}, \"5227930439654849\": {\"rank\": 14}, \"5227895809116646\": {\"rank\": 24}, \"5227924947209966\": {\"rank\": 4}, \"5227935483300712\": {\"rank\": 8}, \"5227934719938638\": {\"rank\": 9}, \"5227936334746129\": {\"rank\": 7}, \"5227935537563048\": {\"rank\": 22}, \"5224492453595954\": {\"rank\": 20}, \"5227926532135773\": {\"rank\": 13}, \"5227936769646541\": {\"rank\": 15}, \"5227934752706441\": {\"rank\": 19}, \"5227926014657917\": {\"rank\": 21}, \"5227936032754091\": {\"rank\": 2}, \"5227868418214428\": {\"rank\": 3}, \"5227929770659118\": {\"rank\": 18}, \"5227936689162490\": {\"rank\": 6}, \"5227934068774240\": {\"rank\": 10}, \"5227933977021239\": {\"rank\": 11}, \"5227933917776578\": {\"rank\": 12}, \"5227929053435058\": {\"rank\": 16}, \"5227932400487923\": {\"rank\": 23}}}",
+      "unify_md5": "5037faa017e8e7a897d70fadbed9c24b",
+      "msg": "<think><br><br>嗯，用户让我分析关于“wolf说hope确实菜”的搜索结果。首先，我需要理清楚整个事件的背景。根据搜索结果，这件事发生在2025年英雄联盟全球总决赛八强赛，T1以3-2战胜AL之后，Wolf作为T1的前队员在评论中提到Hope表现不佳。用户可能想知道事件的来龙去脉，各方的反应，以及背后的争议点。<br><br>看结果1，这是新浪热点发布的微博，直接引用了Wolf的原话，指出赛后Wolf说“Hope确实有点菜”，但强调T1赢是因为自己打得好。这里的关键是Wolf的言论被官方媒体报道，说明事件有一定影响力。而且标记为优质搜索结果，可信度较高。结果5和17也重复了Wolf的发言，内容一致，进一步确认了核心事实。<br><br>接下来，用户可能关心舆论的反应。结果4、7、8、14、21、22都是普通网友的评论，大多认同Wolf的评价，认为Hope确实表现差，甚至翻旧账提到他2022年的表现。这些评论虽然来自普通账号，但数量较多，反映出部分观众的看法。特别是结果4提到2022年Hope被Gumayusi压制的情况，说明历史表现也被拿来对比。<br><br>不过也有不同的声音。结果13、15、19是认证账号的分析，指出Wolf的评价忽略了Hope在团队中的功能性作用。结果15提到“个人技术与团队价值评价标准的冲突”，这是比较专业的观点，可能来自电竞分析师。结果20是大V账号在之前的比赛分析中为Hope辩护，强调他的团队牺牲精神，比如用烬辅助团队而不是追求个人数据。这说明评价Hope需要多维度，不能只看操作。<br><br>还有关于赛训问题的讨论。结果24提到决胜局BP选择相信Hope而让Tarzan选猪妹，结果不理想，质疑教练的决策。结果4也提到Tabe教练给Hope一选金克斯的问题。这些指向AL的战术安排可能存在问题，而不仅仅是选手个人能力。<br><br>另外，结果2和3提到其他选手的评论，比如Doinb评价Faker选冰鸟没作用，以及Doinb认为AL整体实力大于TES。这些虽然不是直接相关，但提供了赛事背景，说明八强赛后的讨论氛围激烈，各种观点交织。<br><br>总结下来，用户可能需要一个全面的事件概述，包括Wolf的言论、各方反应（支持与反对）、历史表现对比、战术争议等。需要注意平衡各方观点，既指出Hope的操作问题，也提到他的团队角色，同时分析教练组可能的责任。还要注意引用优质结果（如1、4、5、15、20）和认证账号的分析，增强可信度。避免偏向任何一方，保持中立客观，同时提示评价选手的复杂性，不能单一归因。<br><br></think><br>关于Wolf评价Hope选手的相关信息整理如下：<br>### 一、事件核心事实<br>1. **赛事背景**：2025英雄联盟全球总决赛八强赛中，T1以3-(#2)比分险胜AL晋级四强。赛后T1前选手Wolf在评论中提到：\"今天我们不是因为对面太菜才赢的，虽然Hope确实是有点菜，是因为我们自己打得好才赢的\"。```wbCustomBlock{\"type\": \"quoted\", \"index\": 3, \"data\": {\"num\": [1, 5, 17], \"version\": 2, \"quote_list\": [{\"name\": \"玩加电竞\", \"scheme\": \"sinaweibo://detail?mblogid=5227906368278869\", \"index\": 5, \"label\": \"大v\"}, {\"name\": \"新浪热点\", \"scheme\": \"sinaweibo://detail?mblogid=5227912785827524\", \"index\": 1, \"label\": \"\"}, {\"name\": \"大电竞eSportsFocus\", \"scheme\": \"sinaweibo://detail?mblogid=5227905607276859\", \"index\": 17, \"label\": \"\"}], \"name\": \"玩加电竞\", \"img\": \"https://tvax4.sinaimg.cn/crop.10.15.157.157.50/0068GZJSly8h8vlb2gse2j3050050jr6.jpg?KID=imgbed,tva&Expires=1761931649&ssig=z3AruWlPml\", \"scheme\": \"sinaweibo://detail?mblogid=5227906368278869\", \"vType\": 0}}```<br><br>2. **争议焦点**：<br>   - **技术层面**：Wolf的批评集中在Hope个人操作能力，多名观众指出其比赛中的具体问题，例如\"五局看下来Hope水平与其他九人明显不在同一档次\"，决胜局关键BP选择被质疑\"相信整个BO5无发挥的AD\"。```wbCustomBlock{\"type\": \"quoted\", \"index\": 5, \"data\": {\"num\": [14, 24], \"version\": 2, \"quote_list\": [{\"name\": \"不吃芥茉三文鱼\", \"scheme\": \"sinaweibo://detail?mblogid=5227930439654849\", \"index\": 14, \"label\": \"\"}, {\"name\": \"pqwww\", \"scheme\": \"sinaweibo://detail?mblogid=5227895809116646\", \"index\": 24, \"label\": \"\"}]}}```<br>   - **历史表现**：部分评论回溯Hope 2022年在JDG战队时期的表现，称其当年已被Gumayusi压制，有观点认为\"22年京东就存在AD GAP问题\"。```wbCustomBlock{\"type\": \"quoted\", \"index\": 6, \"data\": {\"num\": [4, 8, 9], \"version\": 2, \"quote_list\": [{\"name\": \"松山湖舰队司令\", \"scheme\": \"sinaweibo://detail?mblogid=5227924947209966\", \"index\": 4, \"label\": \"大v\"}, {\"name\": \"超级无敌宇宙第一超桃花美少女s\", \"scheme\": \"sinaweibo://detail?mblogid=5227935483300712\", \"index\": 8, \"label\": \"\"}, {\"name\": \"一言一隅-\", \"scheme\": \"sinaweibo://detail?mblogid=5227934719938638\", \"index\": 9, \"label\": \"\"}], \"name\": \"松山湖舰队司令\", \"img\": \"https://tvax2.sinaimg.cn/crop.141.0.915.915.50/006FyqGbly8i61fmigqfuj30x90pfn05.jpg?KID=imgbed,tva&Expires=1761931649&ssig=wXLuxKXU9I\", \"scheme\": \"sinaweibo://detail?mblogid=5227924947209966\", \"vType\": 0}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5227906368278869&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.10.15.157.157.50/0068GZJSly8h8vlb2gse2j3050050jr6.jpg?KID=imgbed,tva&Expires=1761931649&ssig=z3AruWlPml) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">玩加电竞</span><img src=\"http://wx1.sinaimg.cn/middle/0068GZJSgy1i6vtushyf2j30pu0dg76t.jpg\" data-width=484 data-height=930></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5227912785827524&multi_paragraph=1&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.450.450.50/002wVUFrly8h8vgt7mcs2j60ci0ci0t002.jpg?KID=imgbed,tva&Expires=1761931649&ssig=wEA4ROty5e) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">新浪热点</span><img src=\"http://wx1.sinaimg.cn/middle/006mEiMGly1i6vtqylsgcj310o0iw0tq.jpg\" data-width=680 data-height=1320></div></media-block><br>### 二、舆论分歧<br>1. **支持Wolf观点**：<br>   - 网友普遍认为Hope存在\"帮我我不C，不帮我必炸\"的稳定性问题。```wbCustomBlock{\"type\": \"quoted\", \"index\": 9, \"data\": {\"num\": [7], \"version\": 2, \"quote_list\": [{\"name\": \"北执南梦16669\", \"scheme\": \"sinaweibo://detail?mblogid=5227936334746129\", \"index\": 7, \"label\": \"\"}]}}```<br>   - 历史对比指出\"老年Uzi都能吊打的水平\"，并质疑教练Tabe\"给Hope一选金克斯\"的决策合理性。```wbCustomBlock{\"type\": \"quoted\", \"index\": 10, \"data\": {\"num\": [4, 22], \"version\": 2, \"quote_list\": [{\"name\": \"松山湖舰队司令\", \"scheme\": \"sinaweibo://detail?mblogid=5227924947209966\", \"index\": 4, \"label\": \"\"}, {\"name\": \"The-bold\", \"scheme\": \"sinaweibo://detail?mblogid=5227935537563048\", \"index\": 22, \"label\": \"\"}]}}```<br><br>2. **反对简化归责**：<br>   - 专业分析强调需结合**团队战术背景**：Hope在AL体系中承担\"放弃发育换团队节奏\"的功能性角色，例如瑞士轮使用烬时\"主动支援中路，四分钟仅吃十刀保团战\"。```wbCustomBlock{\"type\": \"quoted\", \"index\": 12, \"data\": {\"num\": [20], \"version\": 2, \"quote_list\": [{\"name\": \"英雄联盟神吐槽\", \"scheme\": \"sinaweibo://detail?mblogid=5224492453595954\", \"index\": 20, \"label\": \"大v\"}], \"name\": \"英雄联盟神吐槽\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.439.439.50/006cmbhQly8h8uglinec1j30c70c73yz.jpg?KID=imgbed,tva&Expires=1761931649&ssig=zlRJXpfZBO\", \"scheme\": \"sinaweibo://detail?mblogid=5224492453595954\", \"vType\": 0}}```<br>   - 认证账号指出争议本质是\"个人技术评价与团队价值标准的冲突\"，反映LPL赛区在AD选手培养和战术设计上的深层问题。```wbCustomBlock{\"type\": \"quoted\", \"index\": 13, \"data\": {\"num\": [13, 15], \"version\": 2, \"quote_list\": [{\"name\": \"小诺的星期八\", \"scheme\": \"sinaweibo://detail?mblogid=5227926532135773\", \"index\": 13, \"label\": \"\"}, {\"name\": \"小小寒芷_hz\", \"scheme\": \"sinaweibo://detail?mblogid=5227936769646541\", \"index\": 15, \"label\": \"\"}]}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5224492453595954&multi_paragraph=2&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.439.439.50/006cmbhQly8h8uglinec1j30c70c73yz.jpg?KID=imgbed,tva&Expires=1761931649&ssig=zlRJXpfZBO) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">英雄联盟神吐槽</span><img src=\"http://wx2.sinaimg.cn/middle/006cmbhQly1i6kxrj7jpmj30nq0dc758.jpg\" data-width=480 data-height=854></div></media-block><br>### 三、行业反思<br>1. **赛训体系质疑**：舆论延伸至LPL赛区建设，有观点批评\"LPL擅长怪教练怪BP却忽视选手实力提升\"，呼吁系统性解决选手培养与战术创新问题。```wbCustomBlock{\"type\": \"quoted\", \"index\": 15, \"data\": {\"num\": [19, 21], \"version\": 2, \"quote_list\": [{\"name\": \"卖萌也算犯规\", \"scheme\": \"sinaweibo://detail?mblogid=5227934752706441\", \"index\": 19, \"label\": \"\"}, {\"name\": \"清秀脸-\", \"scheme\": \"sinaweibo://detail?mblogid=5227926014657917\", \"index\": 21, \"label\": \"\"}]}}```<br>2. **AD位置现状**：对比LPL赛区AD位置的历史发展，指出\"当前盛产AD的赛区面临人才断层\"，引发对选手培养机制的反思。```wbCustomBlock{\"type\": \"quoted\", \"index\": 16, \"data\": {\"num\": [9], \"version\": 2, \"quote_list\": [{\"name\": \"一言一隅-\", \"scheme\": \"sinaweibo://detail?mblogid=5227934719938638\", \"index\": 9, \"label\": \"\"}]}}```<br>### 四、其他关联讨论<br>- Doinb在赛前预测中称\"AL整体实力大于TES\"，其另场解说还质疑Faker选用冰鸟的战术作用。```wbCustomBlock{\"type\": \"quoted\", \"index\": 18, \"data\": {\"num\": [2, 3], \"version\": 2, \"quote_list\": [{\"name\": \"动漫游戏君\", \"scheme\": \"sinaweibo://detail?mblogid=5227868418214428\", \"index\": 3, \"label\": \"大v\"}, {\"name\": \"我是电竞小生\", \"scheme\": \"sinaweibo://detail?mblogid=5227936032754091\", \"index\": 2, \"label\": \"\"}], \"name\": \"动漫游戏君\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.690.690.50/006i8XEzly8hojzsvemjvj30j60j6my1.jpg?KID=imgbed,tva&Expires=1761931649&ssig=YIMpd9mKeA\", \"scheme\": \"sinaweibo://detail?mblogid=5227868418214428\", \"vType\": 0}}```<br>- 部分观众为AL战队辩护，强调\"五人中Hope打得最好\"，认为\"遗憾总是贯穿人生始终\"需理性看待胜负。```wbCustomBlock{\"type\": \"quoted\", \"index\": 19, \"data\": {\"num\": [18], \"version\": 2, \"quote_list\": [{\"name\": \"青涩胶带\", \"scheme\": \"sinaweibo://detail?mblogid=5227929770659118\", \"index\": 18, \"label\": \"\"}]}}```<br><br>> 注：该事件折射出电竞评论中技术评价与团队价值标准的认知差异，也暴露出赛区发展中的战术同质化问题。<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5227868418214428&multi_paragraph=4&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.690.690.50/006i8XEzly8hojzsvemjvj30j60j6my1.jpg?KID=imgbed,tva&Expires=1761931649&ssig=YIMpd9mKeA) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">动漫游戏君</span><img src=\"http://wx3.sinaimg.cn/middle/006i8XEzly1i6vpfu3rlhj30zk0k0mzx.jpg\" data-width=720 data-height=1280></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5227936032754091&multi_paragraph=4&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.600.600.50/006BPLKbly8gx4n5qvexbj30go0gogp4.jpg?KID=imgbed,tva&Expires=1761931649&ssig=O67j2PlbUz) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">我是电竞小生</span><img src=\"http://wx1.sinaimg.cn/middle/006BPLKbly1i6vx3wllwmj31hc0okac0.jpg\" data-width=884 data-height=1920></div></media-block><br>",
+      "msg_format": "markdown",
+      "version": "2025-10-31 22:27:29.059000-4601",
+      "scheme": "sinaweibo://cardlist?containerid=100103type%3D225%26q%3D%23wolf%E8%AF%B4hope%E7%A1%AE%E5%AE%9E%E8%8F%9C%23%26t%3D&extparam=ai_model%3Ddeepseek%26ori_ai_title%3D%E5%8F%82%E8%80%83%E5%8D%9A%E6%96%87%26material_version%3D1761920849",
+      "comment_info": {},
+      "ab_suffix": "default",
+      "chat_status_stage": 1,
+      "sorted_material_list": null,
+      "mid_list": null
+    }
+  },
+  "links": [
+    "sinaweibo://detail?mblogid=5227912785827524",
+    "sinaweibo://detail?mblogid=5227936032754091",
+    "sinaweibo://detail?mblogid=5227868418214428",
+    "sinaweibo://detail?mblogid=5227924947209966",
+    "sinaweibo://detail?mblogid=5227906368278869",
+    "sinaweibo://detail?mblogid=5227936689162490",
+    "sinaweibo://detail?mblogid=5227936334746129",
+    "sinaweibo://detail?mblogid=5227935483300712",
+    "sinaweibo://detail?mblogid=5227934719938638",
+    "sinaweibo://detail?mblogid=5227934068774240",
+    "sinaweibo://detail?mblogid=5227933977021239",
+    "sinaweibo://detail?mblogid=5227933917776578",
+    "sinaweibo://detail?mblogid=5227926532135773",
+    "sinaweibo://detail?mblogid=5227930439654849",
+    "sinaweibo://detail?mblogid=5227936769646541",
+    "sinaweibo://detail?mblogid=5227929053435058",
+    "sinaweibo://detail?mblogid=5227905607276859",
+    "sinaweibo://detail?mblogid=5227929770659118",
+    "sinaweibo://detail?mblogid=5227934752706441",
+    "sinaweibo://detail?mblogid=5224492453595954",
+    "sinaweibo://detail?mblogid=5227926014657917",
+    "sinaweibo://detail?mblogid=5227935537563048",
+    "sinaweibo://detail?mblogid=5227932400487923",
+    "sinaweibo://detail?mblogid=5227895809116646"
+  ],
+  "media": [
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/0068GZJSgy1i6vtushyf2j30pu0dg76t.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/0068GZJSgy1i6vtushyf2j30pu0dg76t.jpg",
+      "alt": "玩加电竞",
+      "width": 484,
+      "height": 930,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/0068GZJSgy1i6vtushyf2j30pu0dg76t.jpg"
+      ],
+      "user": "玩加电竞"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/006mEiMGly1i6vtqylsgcj310o0iw0tq.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/006mEiMGly1i6vtqylsgcj310o0iw0tq.jpg",
+      "alt": "新浪热点",
+      "width": 680,
+      "height": 1320,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/006mEiMGly1i6vtqylsgcj310o0iw0tq.jpg"
+      ],
+      "user": "新浪热点"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/006cmbhQly1i6kxrj7jpmj30nq0dc758.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/006cmbhQly1i6kxrj7jpmj30nq0dc758.jpg",
+      "alt": "英雄联盟神吐槽",
+      "width": 480,
+      "height": 854,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/006cmbhQly1i6kxrj7jpmj30nq0dc758.jpg"
+      ],
+      "user": "英雄联盟神吐槽"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/006i8XEzly1i6vpfu3rlhj30zk0k0mzx.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/006i8XEzly1i6vpfu3rlhj30zk0k0mzx.jpg",
+      "alt": "动漫游戏君",
+      "width": 720,
+      "height": 1280,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/006i8XEzly1i6vpfu3rlhj30zk0k0mzx.jpg"
+      ],
+      "user": "动漫游戏君"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/006BPLKbly1i6vx3wllwmj31hc0okac0.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/006BPLKbly1i6vx3wllwmj31hc0okac0.jpg",
+      "alt": "我是电竞小生",
+      "width": 884,
+      "height": 1920,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/006BPLKbly1i6vx3wllwmj31hc0okac0.jpg"
+      ],
+      "user": "我是电竞小生"
+    }
+  ],
+  "html_path": "data/aicard/hourly/2025-10-31/09/wolf-hope.html"
+}

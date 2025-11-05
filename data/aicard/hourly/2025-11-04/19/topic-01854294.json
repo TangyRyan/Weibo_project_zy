@@ -1,0 +1,171 @@
+{
+  "meta": {
+    "query": "#嘎子哥及妻子被限消#",
+    "status_code": 200,
+    "fetched_at": "2025-11-04T19:30:43+08:00",
+    "response": {
+      "msg_format": "markdown",
+      "unify_md5": "0185429489ab8f2677e508d05ee6b452",
+      "msg_json": "{}",
+      "model": "deepseek",
+      "page_id": "232964be7e0c2e861f6997060948cdeedbf9b4",
+      "query_field": "1",
+      "analysis_time": 1762255487,
+      "current_time": 1762255843,
+      "uid": "",
+      "user_info": {},
+      "reliable_tips": "{\"gold_orange_v_mids\": [\"5229337562580827\", \"5221409082055721\", \"5229022058387191\", \"5228224985957724\", \"5229335822730858\", \"5215222090170410\", \"5213269091944393\", \"5212926774349122\", \"5212939382424137\", \"5212684703761985\"], \"gold_orange_v_ratio\": \"42%\", \"media_mids\": [\"5229307167511041\", \"5229325765050751\", \"5221340807170276\"], \"media_ratio\": \"12%\", \"verified_mids\": [\"5212642944748569\"], \"verified_ratio\": \"4%\", \"normal_mids\": [\"5215095615390096\", \"5229338935165252\", \"5229329555915658\", \"5229329232433720\", \"5229329052865238\", \"5229329471768261\", \"5229329316842103\", \"5221386891036539\", \"5212615976682593\", \"5212541666199132\"], \"normal_ratio\": \"42%\", \"ref_mid_rank\": {\"5229307167511041\": {\"rank\": 1}, \"5229337562580827\": {\"rank\": 5}, \"5229325765050751\": {\"rank\": 6}, \"5221340807170276\": {\"rank\": 23}, \"5221409082055721\": {\"rank\": 24}, \"5229022058387191\": {\"rank\": 2}, \"5228224985957724\": {\"rank\": 22}, \"5229335822730858\": {\"rank\": 3}, \"5215222090170410\": {\"rank\": 15}, \"5215095615390096\": {\"rank\": 10}, \"5213269091944393\": {\"rank\": 11}, \"5212926774349122\": {\"rank\": 17}, \"5212642944748569\": {\"rank\": 19}, \"5229338935165252\": {\"rank\": 4}, \"5229329555915658\": {\"rank\": 7}, \"5229329232433720\": {\"rank\": 8}, \"5229329052865238\": {\"rank\": 9}, \"5229329471768261\": {\"rank\": 12}, \"5229329316842103\": {\"rank\": 13}, \"5221386891036539\": {\"rank\": 14}, \"5212939382424137\": {\"rank\": 16}, \"5212684703761985\": {\"rank\": 18}, \"5212615976682593\": {\"rank\": 20}, \"5212541666199132\": {\"rank\": 21}}}",
+      "mid_list": null,
+      "reference_num": 24,
+      "query_category": "",
+      "status_stage": 4,
+      "comment_info": {},
+      "show_ctrl": {
+        "quote": {}
+      },
+      "top_quote_list": {},
+      "short_url": "http://t.cn/AXAYQ0Mn",
+      "card_multimodal": {},
+      "share_card_multimodal": {
+        "h": 1464,
+        "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/7061c249ly8h8ujcedzvdj20u00u0q38.jpg?KID=imgbed,tva&Expires=1762266020&ssig=3OWKVimuUe",
+        "type": "v",
+        "video_url": "https://video.weibo.com/show?fid=1034:5221338567081987",
+        "doc_score": 3516,
+        "hit_score_new": 71.582031,
+        "w": 1098,
+        "scheme": "sinaweibo://video/vvs?mid=5221340807170276&multi_paragraph=1&multi_count=0",
+        "vtype": 3,
+        "click_rate": 0,
+        "click_num": 0,
+        "img": "http://wx1.sinaimg.cn/middle/7061c249gy1i6avn5y895j20ui14ohdt.jpg",
+        "img_pid": "7061c249gy1i6avn5y895j20ui14ohdt",
+        "cur_mid": "5221340807170276",
+        "hit_score_final": 48.949219,
+        "user_name": "蓝鲸新闻"
+      },
+      "basemodel": "实验组3",
+      "share_text": "#嘎子哥及妻子被限消#的相关内容，来智搜看看",
+      "status": 2,
+      "scheme": "sinaweibo://cardlist?containerid=100103type%3D225%26q%3D%23%E5%98%8E%E5%AD%90%E5%93%A5%E5%8F%8A%E5%A6%BB%E5%AD%90%E8%A2%AB%E9%99%90%E6%B6%88%23%26t%3D&extparam=ai_model%3Ddeepseek%26ori_ai_title%3D%E5%8F%82%E8%80%83%E5%8D%9A%E6%96%87%26material_version%3D1762255220",
+      "wenda": {
+        "forward_gen": 0
+      },
+      "query": "#嘎子哥及妻子被限消#",
+      "q_attr": {
+        "mid": "",
+        "from_uid": "",
+        "from_request_id": "",
+        "comment_from_type": "",
+        "reply_cid": ""
+      },
+      "cot": 1,
+      "chat_status_stage": 1,
+      "link_list": [
+        "sinaweibo://detail?mblogid=5229307167511041",
+        "sinaweibo://detail?mblogid=5229022058387191",
+        "sinaweibo://detail?mblogid=5229335822730858",
+        "sinaweibo://detail?mblogid=5229338935165252",
+        "sinaweibo://detail?mblogid=5229337562580827",
+        "sinaweibo://detail?mblogid=5229325765050751",
+        "sinaweibo://detail?mblogid=5229329555915658",
+        "sinaweibo://detail?mblogid=5229329232433720",
+        "sinaweibo://detail?mblogid=5229329052865238",
+        "sinaweibo://detail?mblogid=5215095615390096",
+        "sinaweibo://detail?mblogid=5213269091944393",
+        "sinaweibo://detail?mblogid=5229329471768261",
+        "sinaweibo://detail?mblogid=5229329316842103",
+        "sinaweibo://detail?mblogid=5221386891036539",
+        "sinaweibo://detail?mblogid=5215222090170410",
+        "sinaweibo://detail?mblogid=5212939382424137",
+        "sinaweibo://detail?mblogid=5212926774349122",
+        "sinaweibo://detail?mblogid=5212684703761985",
+        "sinaweibo://detail?mblogid=5212642944748569",
+        "sinaweibo://detail?mblogid=5212615976682593",
+        "sinaweibo://detail?mblogid=5212541666199132",
+        "sinaweibo://detail?mblogid=5228224985957724",
+        "sinaweibo://detail?mblogid=5221340807170276",
+        "sinaweibo://detail?mblogid=5221409082055721"
+      ],
+      "share_info": {
+        "unify_md5": "0185429489ab8f2677e508d05ee6b452",
+        "url": "http://t.cn/AXAYzlTo",
+        "display_name": "#嘎子哥及妻子被限消#",
+        "comment_content": "",
+        "tips": "#嘎子哥及妻子被限消#的相关内容，来智搜看看",
+        "status": 3,
+        "page_id": "232964be7e0c2e861f6997060948cdeedbf9b4"
+      },
+      "qs_status_info": "{\"qs_c_status\":8388608,\"qs_q_status\":0,\"qs_u_status\":0,\"qs_r_status\":0,\"ab_lab\":{},\"qs_status\":0}",
+      "ext_show": {},
+      "loop_times": 200,
+      "msg": "<think><br><br>嗯，用户让我分析\"嘎子哥及妻子被限消\"的搜索结果，并整理成回答。我先看看搜索结果里有什么信息。<br><br>浏览这些搜索结果后发现主要内容来源是微博。结果1、5、6都是媒体账号发布的，内容比较一致：谢孟伟（嘎子哥）和妻子郭珊珊因未履行法律义务被限制高消费（限消），执行法院是湖南新邵县法院，涉及金额210万余元。这个信息出现在多个来源，而且都是媒体账号，可信度较高。<br><br>还注意到结果23提到谢孟伟之前已被郑州管城回族区法院执行171万余元并被限消。加上这次新邵县的210万，他累计被执行金额挺高的。<br><br>关于两人的商业情况：结果1和5显示谢孟伟关联的4家企业都已注销，但他妻子郭珊珊名下还有10家存续企业，包括\"北京嘎子哥文化传媒有限公司\"。这说明他们的商业活动主要通过妻子名下公司进行。<br><br>用户可能还想知道限消对嘎子哥的影响。结果2、22提到他原定的\"明星喜乐会\"演出被取消。结果3有个视频分析说他在禁毒电影中的戏份被全删并换人重拍，暗示他可能被列入行业黑名单。结果15提到行业协会把他列入黑名单，品牌方解约，14部待播剧需要AI换脸。<br><br>家庭方面也有信息：结果10、11提到他出事（可能指9月穿警服直播被拘事件）后，妻子秒删社交平台合照并改昵称。但结果17显示他妻子在他被拘期间淡定直播，说\"想他干啥\"。<br><br>还有粉丝和行业的反应：结果23提到他快手账号被封且掉粉6.3万，结果15提到网友说\"以后就是谢孟伟了，不能让他玷污嘎子的英名\"。<br><br>最后看到结果14乐观地认为\"以他的带货能力和粉丝忠诚度，很快就能赚回来\"，但结合其他信息看，复出可能比较困难。<br><br>需要特别注意时间：今天是2025年11月4日，最新限消令是10月30日发布的，而穿警服被拘是9月的事。这些事件有明显的时间关联性。<br><br>考虑在回答中突出关键信息：最新限消情况、累计债务、关联企业状况、行业影响、家庭反应和粉丝态度。会按逻辑顺序组织，先讲核心事实再扩展影响。准备用分段加粗标题增强可读性，确保每个信息点都有明确引用。<br><br></think><br>关于“嘎子哥”谢孟伟及妻子郭珊珊被限制高消费（限消）的事件，综合公开信息整理如下：<br>### 🔒 一、最新限消令及债务详情<br>1. **限消原因与金额**  <br>   因未履行生效法律文书确定的给付义务，谢孟伟与妻子郭珊珊被湖南省邵阳市新邵县人民法院限制高消费，涉及民间借贷纠纷案件。今年9月，二人因此案已被强制执行 **210万余元**。```wbCustomBlock{\"type\": \"quoted\", \"index\": 3, \"data\": {\"num\": [1, 5, 6], \"version\": 2, \"quote_list\": [{\"name\": \"封面新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5229307167511041\", \"index\": 1, \"label\": \"大v\"}, {\"name\": \"Ooo七妹ooO\", \"scheme\": \"sinaweibo://detail?mblogid=5229337562580827\", \"index\": 5, \"label\": \"\"}, {\"name\": \"热度新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5229325765050751\", \"index\": 6, \"label\": \"\"}], \"name\": \"封面新闻\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.690.690.50/001DitQply8h8vhzzl20mj60j60j6jrn02.jpg?KID=imgbed,tva&Expires=1762266020&ssig=4%2FpNBafKE3\", \"scheme\": \"sinaweibo://detail?mblogid=5229307167511041\", \"vType\": 3}}```  <br>2. **历史被执行记录**  <br>   - 此前（2025年7月），谢孟伟因另一民间借贷纠纷被河南省郑州市管城回族区人民法院执行 **171万余元**，同样被限消。```wbCustomBlock{\"type\": \"quoted\", \"index\": 5, \"data\": {\"num\": [1, 5, 6], \"version\": 2, \"quote_list\": [{\"name\": \"热度新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5229325765050751\", \"index\": 6, \"label\": \"大v\"}, {\"name\": \"封面新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5229307167511041\", \"index\": 1, \"label\": \"\"}, {\"name\": \"Ooo七妹ooO\", \"scheme\": \"sinaweibo://detail?mblogid=5229337562580827\", \"index\": 5, \"label\": \"\"}], \"name\": \"热度新闻\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/92aeec11ly8hlwg775m3ej20u00u0wgf.jpg?KID=imgbed,tva&Expires=1762266020&ssig=8P0yp8vukb\", \"scheme\": \"sinaweibo://detail?mblogid=5229325765050751\", \"vType\": 3}}```  <br>   - 综合多起案件，其累计被执行总金额已超 **1400万元**（含与妻子共同涉案的500万元恢复执行等）。```wbCustomBlock{\"type\": \"quoted\", \"index\": 6, \"data\": {\"num\": [23, 24], \"version\": 2, \"quote_list\": [{\"name\": \"蓝鲸新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5221340807170276\", \"index\": 23, \"label\": \"大v\"}, {\"name\": \"我是山河君\", \"scheme\": \"sinaweibo://detail?mblogid=5221409082055721\", \"index\": 24, \"label\": \"\"}], \"name\": \"蓝鲸新闻\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/7061c249ly8h8ujcedzvdj20u00u0q38.jpg?KID=imgbed,tva&Expires=1762266020&ssig=3OWKVimuUe\", \"scheme\": \"sinaweibo://detail?mblogid=5221340807170276\", \"vType\": 3}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5221340807170276&multi_paragraph=1&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/7061c249ly8h8ujcedzvdj20u00u0q38.jpg?KID=imgbed,tva&Expires=1762266020&ssig=3OWKVimuUe) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">蓝鲸新闻</span><img src=\"http://wx1.sinaimg.cn/middle/7061c249gy1i6avn5y895j20ui14ohdt.jpg\" data-width=1464 data-height=1098></div></media-block><br>### 💼 二、商业关联与风险现状<br>1. **谢孟伟名下企业**：关联的4家公司 **均已注销**，无存续企业。```wbCustomBlock{\"type\": \"quoted\", \"index\": 8, \"data\": {\"num\": [1, 5], \"version\": 2, \"quote_list\": [{\"name\": \"封面新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5229307167511041\", \"index\": 1, \"label\": \"\"}, {\"name\": \"Ooo七妹ooO\", \"scheme\": \"sinaweibo://detail?mblogid=5229337562580827\", \"index\": 5, \"label\": \"\"}]}}```  <br>2. **郭珊珊名下企业**：关联16家公司中 **10家为存续状态**，包括“北京嘎子哥文化传媒有限公司”等，其担任监事、股东等职务。```wbCustomBlock{\"type\": \"quoted\", \"index\": 9, \"data\": {\"num\": [1, 5, 6], \"version\": 2, \"quote_list\": [{\"name\": \"封面新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5229307167511041\", \"index\": 1, \"label\": \"\"}, {\"name\": \"Ooo七妹ooO\", \"scheme\": \"sinaweibo://detail?mblogid=5229337562580827\", \"index\": 5, \"label\": \"\"}, {\"name\": \"热度新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5229325765050751\", \"index\": 6, \"label\": \"\"}]}}```<br>### ⚠️ 三、事件关联影响<br>1. **演出活动取消**：原定于11月举办的“嘎子明星喜乐会”因故被主办方取消，平台已发布退票公告。```wbCustomBlock{\"type\": \"quoted\", \"index\": 11, \"data\": {\"num\": [2, 22], \"version\": 2, \"quote_list\": [{\"name\": \"盖世英雄玉椒龙\", \"scheme\": \"sinaweibo://detail?mblogid=5229022058387191\", \"index\": 2, \"label\": \"大v\"}, {\"name\": \"盖世英雄玉椒龙\", \"scheme\": \"sinaweibo://detail?mblogid=5228224985957724\", \"index\": 22, \"label\": \"\"}], \"name\": \"盖世英雄玉椒龙\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.512.512.50/005HX6voly8i3mxicofkgj30e80e8aai.jpg?KID=imgbed,tva&Expires=1762266020&ssig=eDzOcM1wjL\", \"scheme\": \"sinaweibo://detail?mblogid=5229022058387191\", \"vType\": 0}}```  <br>2. **影视行业抵制**：  <br>   - 其参演的禁毒题材电影《缉毒风暴》戏份被 **全部删除并换人补拍**，剧组额外支出约800万元。```wbCustomBlock{\"type\": \"quoted\", \"index\": 13, \"data\": {\"num\": [3, 15], \"version\": 2, \"quote_list\": [{\"name\": \"娱乐多米多\", \"scheme\": \"sinaweibo://detail?mblogid=5215222090170410\", \"index\": 15, \"label\": \"大v\"}, {\"name\": \"黑猫-视频\", \"scheme\": \"sinaweibo://detail?mblogid=5229335822730858\", \"index\": 3, \"label\": \"\"}], \"name\": \"娱乐多米多\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/0061ZzSkly8hl2v23r3f6j30u00u045j.jpg?KID=imgbed,tva&Expires=1762266020&ssig=3hn4TPEVnY\", \"scheme\": \"sinaweibo://detail?mblogid=5215222090170410\", \"vType\": 0}}```  <br>   - 待播的14部影视剧面临 **AI换脸或搁置风险**，业内推测其或被列入“问题艺人”名单。```wbCustomBlock{\"type\": \"quoted\", \"index\": 14, \"data\": {\"num\": [15, 24], \"version\": 2, \"quote_list\": [{\"name\": \"我是山河君\", \"scheme\": \"sinaweibo://detail?mblogid=5221409082055721\", \"index\": 24, \"label\": \"大v\"}, {\"name\": \"娱乐多米多\", \"scheme\": \"sinaweibo://detail?mblogid=5215222090170410\", \"index\": 15, \"label\": \"\"}], \"name\": \"我是山河君\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/9141ed8aly8hz6asoqyi9j20u00u0gng.jpg?KID=imgbed,tva&Expires=1762266020&ssig=%2FdrxQQylBu\", \"scheme\": \"sinaweibo://detail?mblogid=5221409082055721\", \"vType\": 0}}```  <br>3. **直播事业受挫**：  <br>   - 因穿警服直播带货被行拘7日，快手账号遭 **永久封禁**，掉粉超6万；抖音账号虽暂存，但复出后直播计划暂停。```wbCustomBlock{\"type\": \"quoted\", \"index\": 16, \"data\": {\"num\": [23, 24], \"version\": 2, \"quote_list\": [{\"name\": \"蓝鲸新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5221340807170276\", \"index\": 23, \"label\": \"\"}, {\"name\": \"我是山河君\", \"scheme\": \"sinaweibo://detail?mblogid=5221409082055721\", \"index\": 24, \"label\": \"\"}]}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://multimedia?mix_mid=5228224985957724&mix_index=0&multi_paragraph=3&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.512.512.50/005HX6voly8i3mxicofkgj30e80e8aai.jpg?KID=imgbed,tva&Expires=1762266020&ssig=eDzOcM1wjL) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">盖世英雄玉椒龙</span><img src=\"http://wx1.sinaimg.cn/middle/005HX6voly1i6wuffmp30j30k00zk754.jpg\" data-width=1280 data-height=720></div></media-block><br>### 👩‍👦 四、家庭动态与公众反应<br>1. **妻子态度转变**：谢孟伟被拘期间，妻子郭珊珊 **删除社交平台夫妻合照**，更改昵称（如从“嘎子老婆珊珊”改为“珊珊”），并在直播中回应“想他干啥”引发争议。```wbCustomBlock{\"type\": \"quoted\", \"index\": 18, \"data\": {\"num\": [10, 11, 17], \"version\": 2, \"quote_list\": [{\"name\": \"wck别拿暗恋当饭吃\", \"scheme\": \"sinaweibo://detail?mblogid=5215095615390096\", \"index\": 10, \"label\": \"\"}, {\"name\": \"鲸见渊_\", \"scheme\": \"sinaweibo://detail?mblogid=5213269091944393\", \"index\": 11, \"label\": \"\"}, {\"name\": \"热剧汪\", \"scheme\": \"sinaweibo://detail?mblogid=5212926774349122\", \"index\": 17, \"label\": \"\"}]}}```  <br>2. **公众评价分化**：  <br>   - 部分网友认为其多次触碰法律底线（假酒、翻新手机、警服事件）属咎由自取；```wbCustomBlock{\"type\": \"quoted\", \"index\": 20, \"data\": {\"num\": [15], \"version\": 2, \"quote_list\": [{\"name\": \"娱乐多米多\", \"scheme\": \"sinaweibo://detail?mblogid=5215222090170410\", \"index\": 15, \"label\": \"\"}]}}```  <br>   - 亦有观点称其“本质不坏”，但商业决策失误导致连环危机。```wbCustomBlock{\"type\": \"quoted\", \"index\": 21, \"data\": {\"num\": [11, 19], \"version\": 2, \"quote_list\": [{\"name\": \"鲸见渊_\", \"scheme\": \"sinaweibo://detail?mblogid=5213269091944393\", \"index\": 11, \"label\": \"\"}, {\"name\": \"高涛是谁\", \"scheme\": \"sinaweibo://detail?mblogid=5212642944748569\", \"index\": 19, \"label\": \"\"}]}}```<br>### 💎 总结  <br>此次限消令是谢孟伟债务危机的延续，叠加行业抵制与家庭关系变动，其演艺及商业生涯面临严峻挑战。若无法妥善解决债务并重建公众信任，复出前景将极为艰难。<br>",
+      "ab_suffix": "default",
+      "sorted_material_list": null,
+      "qs_status": 0,
+      "zs_risk_control": {
+        "think_text_close": 0,
+        "land_button_close": 0
+      },
+      "version": "2025-11-04 19:20:20.049000-2082",
+      "news_analyze": {},
+      "profile_image_url": "",
+      "abtest_info": {
+        "chat_entrance": 1
+      }
+    }
+  },
+  "links": [
+    "sinaweibo://detail?mblogid=5229307167511041",
+    "sinaweibo://detail?mblogid=5229022058387191",
+    "sinaweibo://detail?mblogid=5229335822730858",
+    "sinaweibo://detail?mblogid=5229338935165252",
+    "sinaweibo://detail?mblogid=5229337562580827",
+    "sinaweibo://detail?mblogid=5229325765050751",
+    "sinaweibo://detail?mblogid=5229329555915658",
+    "sinaweibo://detail?mblogid=5229329232433720",
+    "sinaweibo://detail?mblogid=5229329052865238",
+    "sinaweibo://detail?mblogid=5215095615390096",
+    "sinaweibo://detail?mblogid=5213269091944393",
+    "sinaweibo://detail?mblogid=5229329471768261",
+    "sinaweibo://detail?mblogid=5229329316842103",
+    "sinaweibo://detail?mblogid=5221386891036539",
+    "sinaweibo://detail?mblogid=5215222090170410",
+    "sinaweibo://detail?mblogid=5212939382424137",
+    "sinaweibo://detail?mblogid=5212926774349122",
+    "sinaweibo://detail?mblogid=5212684703761985",
+    "sinaweibo://detail?mblogid=5212642944748569",
+    "sinaweibo://detail?mblogid=5212615976682593",
+    "sinaweibo://detail?mblogid=5212541666199132",
+    "sinaweibo://detail?mblogid=5228224985957724",
+    "sinaweibo://detail?mblogid=5221340807170276",
+    "sinaweibo://detail?mblogid=5221409082055721"
+  ],
+  "media": [
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/7061c249gy1i6avn5y895j20ui14ohdt.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/7061c249gy1i6avn5y895j20ui14ohdt.jpg",
+      "alt": "蓝鲸新闻",
+      "width": 1464,
+      "height": 1098,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/7061c249gy1i6avn5y895j20ui14ohdt.jpg"
+      ],
+      "user": "蓝鲸新闻"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/005HX6voly1i6wuffmp30j30k00zk754.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/005HX6voly1i6wuffmp30j30k00zk754.jpg",
+      "alt": "盖世英雄玉椒龙",
+      "width": 1280,
+      "height": 720,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/005HX6voly1i6wuffmp30j30k00zk754.jpg"
+      ],
+      "user": "盖世英雄玉椒龙"
+    }
+  ],
+  "html_path": "data/aicard/hourly/2025-11-04/19/topic-01854294.html"
+}

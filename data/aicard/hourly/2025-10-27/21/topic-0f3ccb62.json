@@ -1,0 +1,331 @@
+{
+  "meta": {
+    "query": "#龚俊说自己唱歌跟刘宇宁不相上下#",
+    "status_code": 200,
+    "fetched_at": "2025-10-28T17:59:14+08:00",
+    "response": {
+      "sorted_material_list": null,
+      "zs_risk_control": {
+        "think_text_close": 0,
+        "land_button_close": 0
+      },
+      "analysis_time": 1761627297,
+      "abtest_info": {
+        "chat_entrance": 1
+      },
+      "short_url": "http://t.cn/AXwFAuQN",
+      "qs_status": 0,
+      "scheme": "sinaweibo://cardlist?containerid=100103type%3D225%26q%3D%23%E9%BE%9A%E4%BF%8A%E8%AF%B4%E8%87%AA%E5%B7%B1%E5%94%B1%E6%AD%8C%E8%B7%9F%E5%88%98%E5%AE%87%E5%AE%81%E4%B8%8D%E7%9B%B8%E4%B8%8A%E4%B8%8B%23%26t%3D&extparam=ai_model%3Ddeepseek%26ori_ai_title%3D%E5%8F%82%E8%80%83%E5%8D%9A%E6%96%87%26material_version%3D1761627226",
+      "mid_list": null,
+      "reference_num": 37,
+      "query_category": "",
+      "status_stage": 4,
+      "query": "#龚俊说自己唱歌跟刘宇宁不相上下#",
+      "msg_json": "{}",
+      "card_multimodal": {
+        "data": [
+          {
+            "user_avatar": "https://tvax2.sinaimg.cn/crop.0.0.996.996.50/00237iRply8h8v3qn6hwkj60ro0romyj02.jpg?KID=imgbed,tva&Expires=1761638026&ssig=g%2FSR0cQfNH",
+            "type": "v",
+            "video_url": "https://video.weibo.com/show?fid=1034:5226455370760267",
+            "click_rate": 0,
+            "hit_score_new": 91.601562,
+            "doc_score": 3915,
+            "img_pid": "e0065810ly1i6r78cbu94j21400u03zx",
+            "vtype": 3,
+            "w": 1440,
+            "hit_score_final": 86.560944,
+            "user_name": "新浪综艺",
+            "cur_mid": "5226470093099157",
+            "scheme": "sinaweibo://video/vvs?mid=5226470093099157&multi_paragraph=1&multi_count=0",
+            "h": 1080,
+            "img": "http://wx4.sinaimg.cn/middle/e0065810ly1i6r78cbu94j21400u03zx.jpg"
+          },
+          {
+            "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/9e3738f9ly8i5xuwjs679j20u00u076d.jpg?KID=imgbed,tva&Expires=1761638026&ssig=nX%2BsDZDOf7",
+            "type": "v",
+            "video_url": "https://video.weibo.com/show?fid=1034:5192757946548487",
+            "click_rate": 0,
+            "hit_score_new": 60.107422,
+            "doc_score": 4445,
+            "img_pid": "9e3738f9ly1i3rp4t2btvj20zk0ggdh7",
+            "vtype": 0,
+            "w": 1280,
+            "hit_score_final": 63.26445,
+            "user_name": "春暖花开去挖笋",
+            "cur_mid": "5192758093678314",
+            "scheme": "sinaweibo://multimedia?mix_mid=5192758093678314&mix_index=0&multi_paragraph=2&multi_count=0",
+            "h": 592,
+            "img": "http://wx4.sinaimg.cn/middle/9e3738f9ly1i3rp4t2btvj20zk0ggdh7.jpg"
+          },
+          {
+            "user_avatar": "https://tvax4.sinaimg.cn/crop.0.0.512.512.50/005zonqQly8gqawq1cgqnj30e80e8wfa.jpg?KID=imgbed,tva&Expires=1761638026&ssig=GSlCnYxwFd",
+            "type": "v",
+            "video_url": "https://video.weibo.com/show?fid=1034:5203154114379942",
+            "click_rate": 0,
+            "hit_score_new": 52.929688,
+            "doc_score": 3260,
+            "img_pid": "005zonqQgy1i4ov427zetj31h80txtgy",
+            "vtype": 0,
+            "w": 1916,
+            "hit_score_final": 54.157814,
+            "user_name": "星姐微博",
+            "cur_mid": "5203155421760396",
+            "scheme": "sinaweibo://video/vvs?mid=5203155421760396&multi_paragraph=2&multi_count=1",
+            "h": 1077,
+            "img": "http://wx2.sinaimg.cn/middle/005zonqQgy1i4ov427zetj31h80txtgy.jpg"
+          },
+          {
+            "user_avatar": "https://tvax2.sinaimg.cn/crop.0.0.996.996.50/00237iRply8h8v3qn6hwkj60ro0romyj02.jpg?KID=imgbed,tva&Expires=1761638026&ssig=g%2FSR0cQfNH",
+            "type": "v",
+            "video_url": "https://video.weibo.com/show?fid=1034:5226455370760267",
+            "click_rate": 0,
+            "hit_score_new": 91.601562,
+            "doc_score": 3915,
+            "img_pid": "e0065810ly1i6r78cbu94j21400u03zx",
+            "vtype": 3,
+            "w": 1440,
+            "hit_score_final": 86.560944,
+            "user_name": "新浪综艺",
+            "cur_mid": "5226470093099157",
+            "scheme": "sinaweibo://video/vvs?mid=5226470093099157&multi_paragraph=1&multi_count=0",
+            "h": 1080,
+            "img": "http://wx4.sinaimg.cn/middle/e0065810ly1i6r78cbu94j21400u03zx.jpg"
+          }
+        ],
+        "type": "mediablock"
+      },
+      "share_card_multimodal": {
+        "user_avatar": "https://tvax2.sinaimg.cn/crop.0.0.996.996.50/00237iRply8h8v3qn6hwkj60ro0romyj02.jpg?KID=imgbed,tva&Expires=1761638026&ssig=g%2FSR0cQfNH",
+        "type": "v",
+        "video_url": "https://video.weibo.com/show?fid=1034:5226455370760267",
+        "click_rate": 0,
+        "hit_score_new": 91.601562,
+        "doc_score": 3915,
+        "img_pid": "e0065810ly1i6r78cbu94j21400u03zx",
+        "vtype": 3,
+        "w": 1440,
+        "hit_score_final": 86.560944,
+        "user_name": "新浪综艺",
+        "cur_mid": "5226470093099157",
+        "scheme": "sinaweibo://video/vvs?mid=5226470093099157&multi_paragraph=1&multi_count=0",
+        "h": 1080,
+        "img": "http://wx4.sinaimg.cn/middle/e0065810ly1i6r78cbu94j21400u03zx.jpg"
+      },
+      "unify_md5": "0f3ccb626922d1778b8507fba38ca36a",
+      "basemodel": "实验组1",
+      "uid": "",
+      "q_attr": {
+        "from_uid": "5621129639",
+        "from_request_id": "1761627224323"
+      },
+      "cot": 1,
+      "current_time": 1761645554,
+      "profile_image_url": "",
+      "user_info": {},
+      "query_field": "1",
+      "chat_status_stage": 1,
+      "news_analyze": {},
+      "reliable_tips": "{\"gold_orange_v_mids\": [\"5226444708909675\", \"5226470008948810\", \"5226478983710215\", \"5226471471974975\", \"5192758093678314\", \"5194476528080248\", \"5204636103345832\", \"5203155421760396\", \"5193417854290674\", \"5226481892464408\", \"5214857433451230\", \"5226473888680058\", \"5226474467497101\", \"5226475953326787\", \"5205429359741036\", \"5226471492948989\", \"5226513168597604\", \"5194060415373251\", \"5204407402627377\", \"5189905614638238\", \"5226480642562354\", \"5226483903631218\", \"5209208472995041\", \"5226466204979188\"], \"gold_orange_v_ratio\": \"65%\", \"media_mids\": [\"5226515244782072\", \"5226478404896755\"], \"media_ratio\": \"5%\", \"verified_mids\": [\"5226470093099157\", \"5226478527840312\", \"5226474941716531\", \"5226474038624459\", \"5226476597416031\", \"5192991678926418\"], \"verified_ratio\": \"16%\", \"normal_mids\": [\"5226466906213888\", \"5226471715246938\", \"5226479395015215\", \"5226475798138582\", \"4928936897677320\"], \"normal_ratio\": \"14%\"}",
+      "show_ctrl": {
+        "quote": {}
+      },
+      "msg": "<think><br><br>嗯，用户让我整理龚俊说自己唱歌跟刘宇宁不相上下的相关信息。首先需要仔细分析搜索结果，找出核心信息点。用户可能想了解事件的背景、两人的风格差异以及网友反应。<br><br>根据搜索结果1、5、12，事件发生在2026腾讯视频V视界大会上，龚俊在表演后提到刘宇宁\"超会唱\"，并调侃两人水平不相上下。这里要注意的是，龚俊的发言是综艺场景下的幽默自嘲，而非专业比较。结果14的资料部分详细说明了背景和两人的风格差异，刘宇宁是专业治愈派，而龚俊是魔性欢乐派，这很关键。<br><br>接下来需要确认两人的互动情况。结果10、34显示刘宇宁曾高情商回应，称龚俊的歌声是\"艺术\"，分\"大胆派\"和\"含蓄派\"，说明两人关系融洽，互相调侃。结果8、28提到他们在综艺《地球超新鲜》中的互动，形成\"一个敢教，一个敢唱\"的喜剧效果，这强化了事件的综艺性质。<br><br>网友的反应方面，结果2、19、23显示部分观众调侃龚俊的自信，也有人指出断章取义的问题。但多数观点如结果24、29、30认可两人风格不同，无需比较。结果38提到\"不同赛道天花板\"的说法，总结得很到位。<br><br>还需要注意时效性。今天是2025年10月28日，而事件发生在10月27日，所以优先采用最近的搜索结果。结果14的资料总结非常全面，将事件背景、风格分析、行业启示都涵盖了，值得重点参考。<br><br>最后要避免将龚俊的发言当作专业比较，而是强调其幽默和自嘲的本质。同时需平衡两人的特点，说明刘宇宁的专业性和龚俊的娱乐性互补，满足不同观众需求。引用搜索结果时，需标注对应的编号，尤其是资料性强的结果14、34等。<br><br></think><br>🎤 **龚俊自称与刘iol宁唱歌\"不相上下\"事件全解析**<br>### 🎭 **事件背景与言论性质**<br>1. **综艺场景下的幽默互动**  <br>   在2026腾讯视频V视界大会上，龚俊献唱《亲吻鲨鱼》后被要求用词汇形容节目成员。谈及刘宇宁时，他称对方\"超会唱\"，并调侃\"跟我比还是有点不相上下啊\"，引发全场爆笑。该言论实际源自两人共同参与的综艺《地球超新鲜》，本质是**综艺感驱动的自嘲式幽默**，并非专业唱功比较。```wbCustomBlock{\"type\": \"quoted\", \"index\": 4, \"data\": {\"num\": [1, 5, 12], \"version\": 2, \"quote_list\": [{\"name\": \"逍遥珊33\", \"scheme\": \"sinaweibo://detail?mblogid=5226444708909675\", \"index\": 1, \"label\": \"大v\"}, {\"name\": \"新浪综艺\", \"scheme\": \"sinaweibo://detail?mblogid=5226470093099157\", \"index\": 5, \"label\": \"\"}, {\"name\": \"废话冰淇淋\", \"scheme\": \"sinaweibo://detail?mblogid=5226470008948810\", \"index\": 12, \"label\": \"\"}], \"name\": \"逍遥珊33\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.512.512.50/aa930d9aly8h5xc0hhlvxj20e80e8753.jpg?KID=imgbed,tva&Expires=1761638026&ssig=ZWhzh1YfRE\", \"scheme\": \"sinaweibo://detail?mblogid=5226444708909675\", \"vType\": 0}}```<br><br>2. **差异化表达意图**  <br>   龚俊主动将二人风格定义为互补：刘宇宁歌声有\"故事感\"，自己则主打\"快乐至上\"，强调\"不同赛道的天花板\"。此举既活跃气氛，又展现其\"内娱活人\"的真实性格，被赞高情商化解比较。```wbCustomBlock{\"type\": \"quoted\", \"index\": 5, \"data\": {\"num\": [1, 6, 12, 36], \"version\": 2, \"quote_list\": [{\"name\": \"废话冰淇淋\", \"scheme\": \"sinaweibo://detail?mblogid=5226470008948810\", \"index\": 12, \"label\": \"大v\"}, {\"name\": \"逍遥珊33\", \"scheme\": \"sinaweibo://detail?mblogid=5226444708909675\", \"index\": 1, \"label\": \"\"}, {\"name\": \"追剧热心喵\", \"scheme\": \"sinaweibo://detail?mblogid=5226478527840312\", \"index\": 6, \"label\": \"\"}, {\"name\": \"芝士奶盖热狗\", \"scheme\": \"sinaweibo://detail?mblogid=5226478983710215\", \"index\": 36, \"label\": \"\"}], \"name\": \"废话冰淇淋\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/75b526bcly8i1dz3qqwxgj20u00u0dj1.jpg?KID=imgbed,tva&Expires=1761638026&ssig=C%2FbOSAWc5I\", \"scheme\": \"sinaweibo://detail?mblogid=5226470008948810\", \"vType\": 0}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5226470093099157&multi_paragraph=1&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.996.996.50/00237iRply8h8v3qn6hwkj60ro0romyj02.jpg?KID=imgbed,tva&Expires=1761638026&ssig=g%2FSR0cQfNH) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">新浪综艺</span><img src=\"http://wx4.sinaimg.cn/middle/e0065810ly1i6r78cbu94j21400u03zx.jpg\" data-width=1080 data-height=1440></div></media-block><br>### 🎶 **二人唱风差异解析**<br>| **对比维度**       | **刘宇宁**                          | **龚俊**                          |<br>|--------------------|-----------------------------------|----------------------------------|<br>| **技术特点**       | 科班出身，嗓音叙事感强，OST专业户（如《暗河传》《天地剑心》） | 非专业歌手，\"人间百灵鸟\"，跑调魔性但自信爆棚 |<br>| **观众体验**       | \"听觉盛宴\"\"循环一天不腻\"，情感治愈 | \"快乐良药\"，魔性感染力强，网友调侃\"余音绕梁三日——魔音入脑\" |<br>| **业内评价**       | 孙红雷称其\"殿堂级大师\"          | 刘宇宁戏称其歌声为\"艺术\"，听出\"灵魂洗涤感\" |<br><br>```wbCustomBlock{\"type\": \"quoted\", \"index\": 7, \"data\": {\"num\": [1, 7, 10, 11, 13, 22, 28, 30, 34], \"version\": 2, \"quote_list\": [{\"name\": \"永晴0920\", \"scheme\": \"sinaweibo://detail?mblogid=5226471471974975\", \"index\": 7, \"label\": \"大v\"}, {\"name\": \"逍遥珊33\", \"scheme\": \"sinaweibo://detail?mblogid=5226444708909675\", \"index\": 1, \"label\": \"\"}, {\"name\": \"春暖花开去挖笋\", \"scheme\": \"sinaweibo://detail?mblogid=5192758093678314\", \"index\": 10, \"label\": \"\"}, {\"name\": \"北岛\", \"scheme\": \"sinaweibo://detail?mblogid=5194476528080248\", \"index\": 11, \"label\": \"\"}, {\"name\": \"永诚123\", \"scheme\": \"sinaweibo://detail?mblogid=5204636103345832\", \"index\": 13, \"label\": \"\"}, {\"name\": \"熊猫种花花\", \"scheme\": \"sinaweibo://detail?mblogid=5226474941716531\", \"index\": 22, \"label\": \"\"}, {\"name\": \"星姐微博\", \"scheme\": \"sinaweibo://detail?mblogid=5203155421760396\", \"index\": 28, \"label\": \"\"}, {\"name\": \"娱圈创客\", \"scheme\": \"sinaweibo://detail?mblogid=5226474038624459\", \"index\": 30, \"label\": \"\"}, {\"name\": \"音潮狗狗派\", \"scheme\": \"sinaweibo://detail?mblogid=5193417854290674\", \"index\": 34, \"label\": \"\"}], \"name\": \"永晴0920\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.750.750.50/006lmKkLly8fjk184r8p5j30ku0ku0te.jpg?KID=imgbed,tva&Expires=1761638026&ssig=Iusxj52uFT\", \"scheme\": \"sinaweibo://detail?mblogid=5226471471974975\", \"vType\": 0}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://multimedia?mix_mid=5192758093678314&mix_index=0&multi_paragraph=2&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/9e3738f9ly8i5xuwjs679j20u00u076d.jpg?KID=imgbed,tva&Expires=1761638026&ssig=nX%2BsDZDOf7) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">春暖花开去挖笋</span><img src=\"http://wx4.sinaimg.cn/middle/9e3738f9ly1i3rp4t2btvj20zk0ggdh7.jpg\" data-width=592 data-height=1280></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5203155421760396&multi_paragraph=2&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.512.512.50/005zonqQly8gqawq1cgqnj30e80e8wfa.jpg?KID=imgbed,tva&Expires=1761638026&ssig=GSlCnYxwFd) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">星姐微博</span><img src=\"http://wx2.sinaimg.cn/middle/005zonqQgy1i4ov427zetj31h80txtgy.jpg\" data-width=1077 data-height=1916></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5226471471974975&multi_paragraph=2&multi_count=2\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.750.750.50/006lmKkLly8fjk184r8p5j30ku0ku0te.jpg?KID=imgbed,tva&Expires=1761638026&ssig=Iusxj52uFT) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">永晴0920</span><img src=\"http://wx3.sinaimg.cn/middle/006lmKkLly1i6r8sm76b6j31hc0u00uk.jpg\" data-width=1080 data-height=1920></div></media-block><br>### 🤝 **互动本质：友情默契与综艺效果**<br>1. **相互认可的幽默表达**  <br>   刘宇宁多次高情商回应龚俊：将其风格概括为\"大胆派\"（对比张凌赫的\"含蓄派\"），并称\"他们唱的不是歌，是艺术\"。龚俊私下也称赞刘宇宁真诚大方，两人有互寄特产（丹东草莓vs四川香肠）的暖心互动。```wbCustomBlock{\"type\": \"quoted\", \"index\": 10, \"data\": {\"num\": [10, 17, 34], \"version\": 2, \"quote_list\": [{\"name\": \"春暖花开去挖笋\", \"scheme\": \"sinaweibo://detail?mblogid=5192758093678314\", \"index\": 10, \"label\": \"大v\"}, {\"name\": \"爱凑热闹的财嬷嬷\", \"scheme\": \"sinaweibo://detail?mblogid=5226481892464408\", \"index\": 17, \"label\": \"\"}, {\"name\": \"音潮狗狗派\", \"scheme\": \"sinaweibo://detail?mblogid=5193417854290674\", \"index\": 34, \"label\": \"\"}], \"name\": \"春暖花开去挖笋\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/9e3738f9ly8i5xuwjs679j20u00u076d.jpg?KID=imgbed,tva&Expires=1761638026&ssig=nX%2BsDZDOf7\", \"scheme\": \"sinaweibo://detail?mblogid=5192758093678314\", \"vType\": 0}}```<br><br>2. **黄金喜剧搭档**  <br>   在《地球超新鲜》中形成\"一个敢教，一个敢唱\"的CP：<br>   - 刘宇宁教唱时屡被龚俊跑调\"折损体面\"，痛苦面具成经典笑点；```wbCustomBlock{\"type\": \"quoted\", \"index\": 12, \"data\": {\"num\": [8, 28], \"version\": 2, \"quote_list\": [{\"name\": \"星姐微博\", \"scheme\": \"sinaweibo://detail?mblogid=5203155421760396\", \"index\": 28, \"label\": \"大v\"}, {\"name\": \"娱乐圈小妖\", \"scheme\": \"sinaweibo://detail?mblogid=5214857433451230\", \"index\": 8, \"label\": \"\"}], \"name\": \"星姐微博\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.512.512.50/005zonqQly8gqawq1cgqnj30e80e8wfa.jpg?KID=imgbed,tva&Expires=1761638026&ssig=GSlCnYxwFd\", \"scheme\": \"sinaweibo://detail?mblogid=5203155421760396\", \"vType\": 0}}```<br>   - 网友精辟总结：\"刘宇宁唱歌要钱，龚俊唱歌要命，但快乐无价\"。```wbCustomBlock{\"type\": \"quoted\", \"index\": 13, \"data\": {\"num\": [35], \"version\": 2, \"quote_list\": [{\"name\": \"周桑许\", \"scheme\": \"sinaweibo://detail?mblogid=5226476597416031\", \"index\": 35, \"label\": \"\"}]}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5226481892464408&multi_paragraph=3&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.376.376.50/ba082fcfly8i1cq3rx5nvj20ag0agaa8.jpg?KID=imgbed,tva&Expires=1761638026&ssig=mPrFFQRrwJ) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">爱凑热闹的财嬷嬷</span><img src=\"http://wx2.sinaimg.cn/middle/ba082fcfgy1i6ra8ydo28j20zk0k0q4g.jpg\" data-width=720 data-height=1280></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5214857433451230&multi_paragraph=3&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.750.750.50/006m1bydly8fg79pwpy04j30ku0kuwfm.jpg?KID=imgbed,tva&Expires=1761638026&ssig=iERbNGH8wd) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">娱乐圈小妖</span><img src=\"http://wx2.sinaimg.cn/middle/006m1bydly1i5q77ozru7j60n40f4dgt02.jpg\" data-width=544 data-height=832></div></media-block><br>### 💡 **行业启示与观众反馈**<br>1. **打破\"唯技术论\"的娱乐价值**  <br>   龚俊的\"快乐唱法\"印证观众对多元魅力的需求——演员不必苛求唱功，能传递情绪即为成功。心理学分析指出，这是\"自我接纳\"与\"场景适配\"的智慧，将短板转化为特色记忆点。<br><br>2. **观众态度两极**  <br>   - **调侃派**：橙酱西柚称\"听完龚俊唱歌哭了\"，爱凑热闹的财嬷嬷笑言\"对不相上下有误解\"；```wbCustomBlock{\"type\": \"quoted\", \"index\": 18, \"data\": {\"num\": [17, 19], \"version\": 2, \"quote_list\": [{\"name\": \"爱凑热闹的财嬷嬷\", \"scheme\": \"sinaweibo://detail?mblogid=5226481892464408\", \"index\": 17, \"label\": \"\"}, {\"name\": \"橙酱西柚\", \"scheme\": \"sinaweibo://detail?mblogid=5226473888680058\", \"index\": 19, \"label\": \"\"}]}}```<br>   - **支持派**：南洛96264认为\"风格不同无需PK\"，傻妞九零强调\"差异说清楚了\"。```wbCustomBlock{\"type\": \"quoted\", \"index\": 19, \"data\": {\"num\": [24, 25], \"version\": 2, \"quote_list\": [{\"name\": \"傻妞九零\", \"scheme\": \"sinaweibo://detail?mblogid=5226466906213888\", \"index\": 24, \"label\": \"\"}, {\"name\": \"南洛96264\", \"scheme\": \"sinaweibo://detail?mblogid=5226471715246938\", \"index\": 25, \"label\": \"\"}]}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://multimedia?mix_mid=5226473888680058&mix_index=0&multi_paragraph=4&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.512.512.50/89b7c3d3ly8he0l3qx8wgj20e80e8mxq.jpg?KID=imgbed,tva&Expires=1761638026&ssig=oMWYIE0E3y) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">橙酱西柚</span><img src=\"http://wx4.sinaimg.cn/middle/89b7c3d3ly1i6r9blfcz2j20u01hctam.jpg\" data-width=1920 data-height=1080></div></media-block><br>### 🌟 **总结：娱乐精神的胜利**  <br>龚俊的\"不相上下论\"实为综艺文化的趣味符号：刘宇宁以技术治愈心灵，龚俊以魔性输送快乐，正如观众所言：\"一个负责洗耳朵，一个负责治emo，根本无需PK\"。二人通过反差魅力与良性互动，为行业提供了\"互捧不互撕\"的正面示范。```wbCustomBlock{\"type\": \"quoted\", \"index\": 21, \"data\": {\"num\": [29, 35], \"version\": 2, \"quote_list\": [{\"name\": \"你自己想清楚那就行\", \"scheme\": \"sinaweibo://detail?mblogid=5226479395015215\", \"index\": 29, \"label\": \"\"}, {\"name\": \"周桑许\", \"scheme\": \"sinaweibo://detail?mblogid=5226476597416031\", \"index\": 35, \"label\": \"\"}]}}```<br>",
+      "loop_times": 200,
+      "share_info": {
+        "display_name": "#龚俊说自己唱歌跟刘宇宁不相上下#",
+        "url": "http://t.cn/AXwkgRek",
+        "page_id": "232964315f8fa5ea741e57034556a3e3571b9c",
+        "tips": "#龚俊说自己唱歌跟刘宇宁不相上下#的相关内容，来智搜看看",
+        "unify_md5": "0f3ccb626922d1778b8507fba38ca36a",
+        "status": 3
+      },
+      "version": "2025-10-28 12:53:46.009999-5674",
+      "share_text": "#龚俊说自己唱歌跟刘宇宁不相上下#的相关内容，来智搜看看",
+      "page_id": "232964315f8fa5ea741e57034556a3e3571b9c",
+      "wenda": {
+        "forward_gen": 0
+      },
+      "status": 2,
+      "ab_suffix": "default",
+      "link_list": [
+        "sinaweibo://detail?mblogid=5226444708909675",
+        "sinaweibo://detail?mblogid=5226474467497101",
+        "sinaweibo://detail?mblogid=5226475953326787",
+        "sinaweibo://detail?mblogid=5226515244782072",
+        "sinaweibo://detail?mblogid=5226470093099157",
+        "sinaweibo://detail?mblogid=5226478527840312",
+        "sinaweibo://detail?mblogid=5226471471974975",
+        "sinaweibo://detail?mblogid=5214857433451230",
+        "sinaweibo://detail?mblogid=5205429359741036",
+        "sinaweibo://detail?mblogid=5192758093678314",
+        "sinaweibo://detail?mblogid=5194476528080248",
+        "sinaweibo://detail?mblogid=5226470008948810",
+        "sinaweibo://detail?mblogid=5204636103345832",
+        "historyweibo://5226444708909675",
+        "historyweibo://5226662041489911",
+        "historyweibo://5226164073270631",
+        "sinaweibo://detail?mblogid=5226481892464408",
+        "sinaweibo://detail?mblogid=5226471492948989",
+        "sinaweibo://detail?mblogid=5226473888680058",
+        "sinaweibo://detail?mblogid=5226513168597604",
+        "sinaweibo://detail?mblogid=5226478404896755",
+        "sinaweibo://detail?mblogid=5226474941716531",
+        "sinaweibo://detail?mblogid=5226475798138582",
+        "sinaweibo://detail?mblogid=5226466906213888",
+        "sinaweibo://detail?mblogid=5226471715246938",
+        "sinaweibo://detail?mblogid=5192991678926418",
+        "sinaweibo://detail?mblogid=4928936897677320",
+        "sinaweibo://detail?mblogid=5203155421760396",
+        "sinaweibo://detail?mblogid=5226479395015215",
+        "sinaweibo://detail?mblogid=5226474038624459",
+        "sinaweibo://detail?mblogid=5194060415373251",
+        "sinaweibo://detail?mblogid=5204407402627377",
+        "sinaweibo://detail?mblogid=5189905614638238",
+        "sinaweibo://detail?mblogid=5193417854290674",
+        "sinaweibo://detail?mblogid=5226476597416031",
+        "sinaweibo://detail?mblogid=5226478983710215",
+        "sinaweibo://detail?mblogid=5226480642562354",
+        "sinaweibo://detail?mblogid=5226483903631218",
+        "sinaweibo://detail?mblogid=5209208472995041",
+        "sinaweibo://detail?mblogid=5226466204979188",
+        "https://k.sina.cn/article_3758512144_me0065810033015x3q.html?from=ent&subch=oent&wm=3049_0032"
+      ],
+      "top_quote_list": {},
+      "model": "deepseek",
+      "msg_format": "markdown",
+      "qs_status_info": "{\"qs_status\":0,\"qs_q_status\":0,\"qs_c_status\":8388608,\"qs_r_status\":0,\"ab_lab\":{},\"qs_u_status\":0}",
+      "ext_show": {}
+    }
+  },
+  "links": [
+    "sinaweibo://detail?mblogid=5226444708909675",
+    "sinaweibo://detail?mblogid=5226474467497101",
+    "sinaweibo://detail?mblogid=5226475953326787",
+    "sinaweibo://detail?mblogid=5226515244782072",
+    "sinaweibo://detail?mblogid=5226470093099157",
+    "sinaweibo://detail?mblogid=5226478527840312",
+    "sinaweibo://detail?mblogid=5226471471974975",
+    "sinaweibo://detail?mblogid=5214857433451230",
+    "sinaweibo://detail?mblogid=5205429359741036",
+    "sinaweibo://detail?mblogid=5192758093678314",
+    "sinaweibo://detail?mblogid=5194476528080248",
+    "sinaweibo://detail?mblogid=5226470008948810",
+    "sinaweibo://detail?mblogid=5204636103345832",
+    "historyweibo://5226444708909675",
+    "historyweibo://5226662041489911",
+    "historyweibo://5226164073270631",
+    "sinaweibo://detail?mblogid=5226481892464408",
+    "sinaweibo://detail?mblogid=5226471492948989",
+    "sinaweibo://detail?mblogid=5226473888680058",
+    "sinaweibo://detail?mblogid=5226513168597604",
+    "sinaweibo://detail?mblogid=5226478404896755",
+    "sinaweibo://detail?mblogid=5226474941716531",
+    "sinaweibo://detail?mblogid=5226475798138582",
+    "sinaweibo://detail?mblogid=5226466906213888",
+    "sinaweibo://detail?mblogid=5226471715246938",
+    "sinaweibo://detail?mblogid=5192991678926418",
+    "sinaweibo://detail?mblogid=4928936897677320",
+    "sinaweibo://detail?mblogid=5203155421760396",
+    "sinaweibo://detail?mblogid=5226479395015215",
+    "sinaweibo://detail?mblogid=5226474038624459",
+    "sinaweibo://detail?mblogid=5194060415373251",
+    "sinaweibo://detail?mblogid=5204407402627377",
+    "sinaweibo://detail?mblogid=5189905614638238",
+    "sinaweibo://detail?mblogid=5193417854290674",
+    "sinaweibo://detail?mblogid=5226476597416031",
+    "sinaweibo://detail?mblogid=5226478983710215",
+    "sinaweibo://detail?mblogid=5226480642562354",
+    "sinaweibo://detail?mblogid=5226483903631218",
+    "sinaweibo://detail?mblogid=5209208472995041",
+    "sinaweibo://detail?mblogid=5226466204979188",
+    "https://k.sina.cn/article_3758512144_me0065810033015x3q.html?from=ent&subch=oent&wm=3049_0032"
+  ],
+  "media": [
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/e0065810ly1i6r78cbu94j21400u03zx.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/e0065810ly1i6r78cbu94j21400u03zx.jpg",
+      "alt": "新浪综艺",
+      "width": 1080,
+      "height": 1440,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/e0065810ly1i6r78cbu94j21400u03zx.jpg"
+      ],
+      "user": "新浪综艺"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/9e3738f9ly1i3rp4t2btvj20zk0ggdh7.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/9e3738f9ly1i3rp4t2btvj20zk0ggdh7.jpg",
+      "alt": "春暖花开去挖笋",
+      "width": 592,
+      "height": 1280,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/9e3738f9ly1i3rp4t2btvj20zk0ggdh7.jpg"
+      ],
+      "user": "春暖花开去挖笋"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/005zonqQgy1i4ov427zetj31h80txtgy.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/005zonqQgy1i4ov427zetj31h80txtgy.jpg",
+      "alt": "星姐微博",
+      "width": 1077,
+      "height": 1916,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/005zonqQgy1i4ov427zetj31h80txtgy.jpg"
+      ],
+      "user": "星姐微博"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/006lmKkLly1i6r8sm76b6j31hc0u00uk.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/006lmKkLly1i6r8sm76b6j31hc0u00uk.jpg",
+      "alt": "永晴0920",
+      "width": 1080,
+      "height": 1920,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/006lmKkLly1i6r8sm76b6j31hc0u00uk.jpg"
+      ],
+      "user": "永晴0920"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/ba082fcfgy1i6ra8ydo28j20zk0k0q4g.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/ba082fcfgy1i6ra8ydo28j20zk0k0q4g.jpg",
+      "alt": "爱凑热闹的财嬷嬷",
+      "width": 720,
+      "height": 1280,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/ba082fcfgy1i6ra8ydo28j20zk0k0q4g.jpg"
+      ],
+      "user": "爱凑热闹的财嬷嬷"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/006m1bydly1i5q77ozru7j60n40f4dgt02.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/006m1bydly1i5q77ozru7j60n40f4dgt02.jpg",
+      "alt": "娱乐圈小妖",
+      "width": 544,
+      "height": 832,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/006m1bydly1i5q77ozru7j60n40f4dgt02.jpg"
+      ],
+      "user": "娱乐圈小妖"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/89b7c3d3ly1i6r9blfcz2j20u01hctam.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/89b7c3d3ly1i6r9blfcz2j20u01hctam.jpg",
+      "alt": "橙酱西柚",
+      "width": 1920,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/89b7c3d3ly1i6r9blfcz2j20u01hctam.jpg"
+      ],
+      "user": "橙酱西柚"
+    }
+  ],
+  "html_path": "data/aicard/hourly/2025-10-27/21/topic-0f3ccb62.html"
+}

@@ -1,0 +1,182 @@
+{
+  "meta": {
+    "query": "#当地回应私房菜馆被曝宰杀活猫#",
+    "status_code": 200,
+    "fetched_at": "2025-11-01T00:39:18+08:00",
+    "response": {
+      "model": "deepseek",
+      "query_category": "",
+      "analysis_time": 1761928454,
+      "sorted_material_list": null,
+      "mid_list": null,
+      "reference_num": 26,
+      "uid": "",
+      "top_quote_list": {},
+      "msg_format": "markdown",
+      "share_card_multimodal": {
+        "w": 1080,
+        "user_name": "沸点说法",
+        "scheme": "sinaweibo://video/vvs?mid=4601148247903868&multi_paragraph=1&multi_count=0",
+        "doc_score": 3606,
+        "video_url": "https://video.weibo.com/show?fid=1034:4601148028420121",
+        "vtype": -1,
+        "hit_score_new": 0,
+        "h": 607,
+        "img_pid": "008dMJGtly1gncbnw854nj30u00gvgyk",
+        "img": "http://wx3.sinaimg.cn/middle/008dMJGtly1gncbnw854nj30u00gvgyk.jpg",
+        "click_rate": 0,
+        "user_avatar": "https://tvax1.sinaimg.cn/crop.0.0.1002.1002.50/008dMJGtly8hzfn544ynsj30ru0ruwfe.jpg?KID=imgbed,tva&Expires=1761939064&ssig=m8GCoSWXiD",
+        "hit_score_final": 61,
+        "type": "v",
+        "cur_mid": "4601148247903868"
+      },
+      "chat_status_stage": 1,
+      "basemodel": "实验组1",
+      "version": "2025-11-01 00:31:04.042000-5674",
+      "reliable_tips": "{\"gold_orange_v_mids\": [\"5227964578925896\", \"5227953472670190\", \"5227959381919728\", \"5227956093064799\", \"5227946476307787\", \"5227958631139322\", \"5227960462221878\", \"5227966210510381\", \"5227961542512506\", \"5227955439534113\", \"5227945423540119\", \"5227909143069396\", \"5227957410857581\", \"5227960084733804\", \"5227959829925267\", \"5227959954965667\", \"5227959627812483\", \"5227950414236710\", \"5227959713534299\"], \"gold_orange_v_ratio\": \"73%\", \"media_mids\": [\"5227907922265901\", \"5227924146095535\", \"4601314883933289\"], \"media_ratio\": \"11%\", \"verified_mids\": [\"5227925218793552\", \"5227959378251146\"], \"verified_ratio\": \"8%\", \"normal_mids\": [\"4601148247903868\", \"5227964020295624\"], \"normal_ratio\": \"8%\", \"ref_mid_rank\": {\"5227907922265901\": {\"rank\": 1}, \"5227924146095535\": {\"rank\": 16}, \"5227925218793552\": {\"rank\": 28}, \"5227964578925896\": {\"rank\": 12}, \"5227953472670190\": {\"rank\": 2}, \"4601148247903868\": {\"rank\": 30}, \"5227959381919728\": {\"rank\": 19}, \"5227956093064799\": {\"rank\": 15}, \"5227946476307787\": {\"rank\": 4}, \"5227958631139322\": {\"rank\": 14}, \"5227960462221878\": {\"rank\": 21}, \"5227966210510381\": {\"rank\": 25}, \"5227961542512506\": {\"rank\": 3}, \"5227955439534113\": {\"rank\": 5}, \"5227945423540119\": {\"rank\": 6}, \"4601314883933289\": {\"rank\": 7}, \"5227909143069396\": {\"rank\": 13}, \"5227957410857581\": {\"rank\": 17}, \"5227960084733804\": {\"rank\": 18}, \"5227959829925267\": {\"rank\": 20}, \"5227959954965667\": {\"rank\": 22}, \"5227959627812483\": {\"rank\": 23}, \"5227950414236710\": {\"rank\": 24}, \"5227964020295624\": {\"rank\": 26}, \"5227959378251146\": {\"rank\": 27}, \"5227959713534299\": {\"rank\": 29}}}",
+      "comment_info": {},
+      "link_list": [
+        "sinaweibo://detail?mblogid=5227907922265901",
+        "sinaweibo://detail?mblogid=5227953472670190",
+        "sinaweibo://detail?mblogid=5227961542512506",
+        "sinaweibo://detail?mblogid=5227946476307787",
+        "sinaweibo://detail?mblogid=5227955439534113",
+        "sinaweibo://detail?mblogid=5227945423540119",
+        "sinaweibo://detail?mblogid=4601314883933289",
+        "broadsocial_res://",
+        "historyweibo://5227907922265901",
+        "historyweibo://5159637507115072",
+        "historyweibo://5147450230964915",
+        "sinaweibo://detail?mblogid=5227964578925896",
+        "sinaweibo://detail?mblogid=5227909143069396",
+        "sinaweibo://detail?mblogid=5227958631139322",
+        "sinaweibo://detail?mblogid=5227956093064799",
+        "sinaweibo://detail?mblogid=5227924146095535",
+        "sinaweibo://detail?mblogid=5227957410857581",
+        "sinaweibo://detail?mblogid=5227960084733804",
+        "sinaweibo://detail?mblogid=5227959381919728",
+        "sinaweibo://detail?mblogid=5227959829925267",
+        "sinaweibo://detail?mblogid=5227960462221878",
+        "sinaweibo://detail?mblogid=5227959954965667",
+        "sinaweibo://detail?mblogid=5227959627812483",
+        "sinaweibo://detail?mblogid=5227950414236710",
+        "sinaweibo://detail?mblogid=5227966210510381",
+        "sinaweibo://detail?mblogid=5227964020295624",
+        "sinaweibo://detail?mblogid=5227959378251146",
+        "sinaweibo://detail?mblogid=5227925218793552",
+        "sinaweibo://detail?mblogid=5227959713534299",
+        "sinaweibo://detail?mblogid=4601148247903868"
+      ],
+      "msg": "<think><br>嗯，用户想了解关于佛山私房菜馆宰杀活猫事件的当地回应情况。我需要整理搜索结果中的关键信息，特别是官方回应部分。<br><br>先看时效性最强的官方信息。结果16显示，当地政府已经组织多部门联合核查，现场未发现活猫和相关食材，涉事餐馆已停业整顿。结果1也提到市场监管局会根据食品安全法规处理。这说明官方确实采取了行动。<br><br>关于事件本身，多个结果都提到商家在朋友圈发布活猫照片宣传\"龙虎凤\"菜品。特别值得注意的是有只异瞳白猫被抱到屠宰台的照片，这个细节很有冲击力。但后续核查时活猫已不见踪影，志愿者怀疑猫已遭不测。<br><br>法律层面值得关注。结果2和16都指出猫未被列入国家可食用动物目录，结果30提到无法为猫肉开具检疫合格证。这说明商家行为涉嫌违法。<br><br>公众反应很强烈，从搜索结果看主要有几个方向：谴责残忍行为；担忧食品安全风险；呼吁追查产业链；要求完善立法。<br><br>有趣的是商家自相矛盾的说法。最初高调宣传，被曝光后却辩称\"只是帮朋友加工家养猫\"。这种前后不一的解释显然缺乏说服力。<br><br>最后看后续处理方向。结果9提到需要解决执法层面的三个难题：法律依据不足、跨部门协作效率低、查获动物安置标准模糊。而结果16表明当地已开展餐饮行业普法教育。<br><br>基于这些信息，我会在回复时重点突出：官方采取的核查措施、存在的法律问题、公众的主要关切、以及需要后续跟进的监管方向。特别是要强调虽然现场未查获证据，但朋友圈图文等证据链仍然完整，调查不应止步于餐馆停业。<br><br></think><br>### 🚨 **事件核心进展**  <br>1. **官方响应与处置**  <br>   - **联合调查**：2025年10月31日，佛山市南海区九江镇多部门（市场监管、公安、卫健）突击核查涉事菜馆“虾记私房菜”。现场排查后厨、冷库等区域，未发现活猫或相关食材。涉事商家已停业整顿，美食平台标注“停止营业”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 4, \"data\": {\"num\": [1, 16, 28], \"version\": 2, \"quote_list\": [{\"name\": \"红星新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5227907922265901\", \"index\": 1, \"label\": \"大v\"}, {\"name\": \"红星新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5227924146095535\", \"index\": 16, \"label\": \"\"}, {\"name\": \"成都商报美食\", \"scheme\": \"sinaweibo://detail?mblogid=5227925218793552\", \"index\": 28, \"label\": \"\"}], \"name\": \"红星新闻\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.512.512.50/006FcX4dly8h8vgewp7wsj30e80e8mxd.jpg?KID=imgbed,tva&Expires=1761939064&ssig=8fbMrzGEGj\", \"scheme\": \"sinaweibo://detail?mblogid=5227907922265901\", \"vType\": 3}}```  <br>   - **执法表态**：监管部门明确要求餐饮单位禁止使用来源不明的猫、蛇等肉类，并向辖区所有餐饮经营者开展食品安全普法教育，强调落实主体责任。```wbCustomBlock{\"type\": \"quoted\", \"index\": 5, \"data\": {\"num\": [16, 28], \"version\": 2, \"quote_list\": [{\"name\": \"红星新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5227924146095535\", \"index\": 16, \"label\": \"\"}, {\"name\": \"成都商报美食\", \"scheme\": \"sinaweibo://detail?mblogid=5227925218793552\", \"index\": 28, \"label\": \"\"}]}}```  <br><br>2. **涉事商家行为争议**  <br>   - **曝光证据**：商家于10月30日在朋友圈发布“喵喵喵到货，煲龙虎凤正当时”的宣传图文，配有多只活猫关笼照片及一只异瞳白猫被抱上屠宰台的画面。```wbCustomBlock{\"type\": \"quoted\", \"index\": 7, \"data\": {\"num\": [1, 12, 16], \"version\": 2, \"quote_list\": [{\"name\": \"红星新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5227907922265901\", \"index\": 1, \"label\": \"\"}, {\"name\": \"22沈泽瀛22\", \"scheme\": \"sinaweibo://detail?mblogid=5227964578925896\", \"index\": 12, \"label\": \"\"}, {\"name\": \"红星新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5227924146095535\", \"index\": 16, \"label\": \"\"}]}}```  <br>   - **辩解矛盾**：面对质疑，商家改口称“仅帮朋友加工家养猫”，但未能提供检疫证明或猫源合法性证据。志愿者现场拍摄视频显示，后厨已无活猫踪迹，怀疑猫已遭屠宰。```wbCustomBlock{\"type\": \"quoted\", \"index\": 8, \"data\": {\"num\": [1], \"version\": 2, \"quote_list\": [{\"name\": \"红星新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5227907922265901\", \"index\": 1, \"label\": \"\"}]}}```<br>### ⚖️ **法律与监管焦点**  <br>1. **合法性缺失**  <br>   - **检疫空白**：根据国家农业农村部规定，猫狗被排除在《国家畜禽遗传资源目录》外，无屠宰检疫标准。销售猫肉违反《动物防疫法》第29条（未经检疫动物禁入市场）。```wbCustomBlock{\"type\": \"quoted\", \"index\": 12, \"data\": {\"num\": [2, 16, 30], \"version\": 2, \"quote_list\": [{\"name\": \"irosieee_\", \"scheme\": \"sinaweibo://detail?mblogid=5227953472670190\", \"index\": 2, \"label\": \"\"}, {\"name\": \"红星新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5227924146095535\", \"index\": 16, \"label\": \"\"}, {\"name\": \"沸点说法\", \"scheme\": \"sinaweibo://detail?mblogid=4601148247903868\", \"index\": 30, \"label\": \"\"}]}}```  <br>   - **食品安全风险**：活猫来源不明（疑似盗抢宠物猫或流浪猫），可能携带狂犬病毒、寄生虫（如弓形虫）或毒药残留，加工环境脏污进一步加剧健康隐患。```wbCustomBlock{\"type\": \"quoted\", \"index\": 13, \"data\": {\"num\": [19], \"version\": 2, \"quote_list\": [{\"name\": \"科技怪谈君\", \"scheme\": \"sinaweibo://detail?mblogid=5227959381919728\", \"index\": 19, \"label\": \"大v\"}], \"name\": \"科技怪谈君\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.1059.1059.50/0084a6drly8hvz2qem1alj30tf0tfwfs.jpg?KID=imgbed,tva&Expires=1761939064&ssig=zsqFFob7L9\", \"scheme\": \"sinaweibo://detail?mblogid=5227959381919728\", \"vType\": 0}}```  <br><br>2. **黑色产业链疑云**  <br>   - **关联案件**：2025年9月肇庆曾查处非法屠宰窝点，查获千只猫尸及活猫，猫肉伪装成“羊肉”流入餐饮市场。尽管暂无证据表明本案与肇庆案直接关联，但运作模式高度相似——盗猫团伙偷窃宠物猫（部分戴项圈）或诱捕流浪猫，跨省运输后冒充合法肉类销售。```wbCustomBlock{\"type\": \"quoted\", \"index\": 15, \"data\": {\"num\": [15], \"version\": 2, \"quote_list\": [{\"name\": \"1991AG7\", \"scheme\": \"sinaweibo://detail?mblogid=5227956093064799\", \"index\": 15, \"label\": \"\"}]}}```  <br>   - **监管盲区**：现行法律未明确禁食猫狗，仅依赖《动物防疫法》碎片化处罚（如没收违法所得、罚款），违法成本低。跨省溯源效率低下，农业、市监、公安职责交叉导致执法滞后。```wbCustomBlock{\"type\": \"quoted\", \"index\": 16, \"data\": {\"num\": [30], \"version\": 2, \"quote_list\": [{\"name\": \"沸点说法\", \"scheme\": \"sinaweibo://detail?mblogid=4601148247903868\", \"index\": 30, \"label\": \"\"}]}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=4601148247903868&multi_paragraph=1&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.1002.1002.50/008dMJGtly8hzfn544ynsj30ru0ruwfe.jpg?KID=imgbed,tva&Expires=1761939064&ssig=m8GCoSWXiD) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">沸点说法</span><img src=\"http://wx3.sinaimg.cn/middle/008dMJGtly1gncbnw854nj30u00gvgyk.jpg\" data-width=607 data-height=1080></div></media-block><br>### 💡 **公众诉求与治理挑战**  <br>| **核心诉求**              | **现状缺陷**                          | **可行改进方向**                  |  <br>|---------------------------|---------------------------------------|-----------------------------------|  <br>| **追查产业链**            | 仅取缔单点，未溯源盗猎、运输链条      | 公安牵头跨省联合执法，查封关联窝点 |  <br>| **立法完善**              | 80%讨论呼吁《反虐待动物法》           | 明确伴侣动物非食用属性，设定虐杀处罚标准 |  <br>| **幸存动物安置**          | 查获活体无统一处置标准，曾引发活埋争议 | 制定安置规程，开放社会领养渠道 |  <br>| **公众监督机制**          | 依赖志愿者举报，官方反馈不透明        | 开通举报专线，公示案件进展及动物去向 |<br><br>```wbCustomBlock{\"type\": \"quoted\", \"index\": 18, \"data\": {\"num\": [4, 14, 21], \"version\": 2, \"quote_list\": [{\"name\": \"宁柒玖樱桃记\", \"scheme\": \"sinaweibo://detail?mblogid=5227946476307787\", \"index\": 4, \"label\": \"大v\"}, {\"name\": \"-同志亦凡人\", \"scheme\": \"sinaweibo://detail?mblogid=5227958631139322\", \"index\": 14, \"label\": \"\"}, {\"name\": \"茜茜评车\", \"scheme\": \"sinaweibo://detail?mblogid=5227960462221878\", \"index\": 21, \"label\": \"\"}], \"name\": \"宁柒玖樱桃记\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/007mMDtVly8i63p99ddg9j30u00u077h.jpg?KID=imgbed,tva&Expires=1761939064&ssig=y2TTT04GL8\", \"scheme\": \"sinaweibo://detail?mblogid=5227946476307787\", \"vType\": 0}}```<br>### 🔍 **事件意义与反思**  <br>此次曝光是珠三角地区2024-2025年第三起猫肉黑色产业链案件。**若仅停业涉事商家而不追查源头、不填补检疫与伦理的立法矛盾，违法者恐卷土重来**。  <br>- **文明刻度**：一只异瞳白猫的屠宰台影像，拷问人性底线与法治决心；```wbCustomBlock{\"type\": \"quoted\", \"index\": 21, \"data\": {\"num\": [16], \"version\": 2, \"quote_list\": [{\"name\": \"红星新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5227924146095535\", \"index\": 16, \"label\": \"\"}]}}```  <br>- **行动关键**：后续需持续追踪猫肉来源调查、跨省执法协作实效，以及地方是否将公众立法呼声纳入政策议程。  <br><br>> **注**：商家所谓“传统菜”辩解（如“龙虎凤”为地方风味）无法规避法律责任。传统饮食文化不能凌驾于食品安全法规与动物保护共识之上。```wbCustomBlock{\"type\": \"quoted\", \"index\": 23, \"data\": {\"num\": [2, 25], \"version\": 2, \"quote_list\": [{\"name\": \"irosieee_\", \"scheme\": \"sinaweibo://detail?mblogid=5227953472670190\", \"index\": 2, \"label\": \"\"}, {\"name\": \"VousEtoiles\", \"scheme\": \"sinaweibo://detail?mblogid=5227966210510381\", \"index\": 25, \"label\": \"\"}]}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://multimedia?mix_mid=5227966210510381&mix_index=0&multi_paragraph=3&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/008jEs0Aly8i6puv2k180j30u00u0n2c.jpg?KID=imgbed,tva&Expires=1761939064&ssig=CfhJEWrfTJ) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">VousEtoiles</span><img src=\"http://wx1.sinaimg.cn/middle/008jEs0Aly1i6w0n7wt76j30zk0k075o.jpg\" data-width=720 data-height=1280></div></media-block><br>",
+      "current_time": 1761928758,
+      "profile_image_url": "",
+      "scheme": "sinaweibo://cardlist?containerid=100103type%3D225%26q%3D%23%E5%BD%93%E5%9C%B0%E5%9B%9E%E5%BA%94%E7%A7%81%E6%88%BF%E8%8F%9C%E9%A6%86%E8%A2%AB%E6%9B%9D%E5%AE%B0%E6%9D%80%E6%B4%BB%E7%8C%AB%23%26t%3D&extparam=ai_model%3Ddeepseek%26ori_ai_title%3D%E5%8F%82%E8%80%83%E5%8D%9A%E6%96%87%26material_version%3D1761928264",
+      "msg_json": "{}",
+      "share_text": "#当地回应私房菜馆被曝宰杀活猫#的相关内容，来智搜看看",
+      "ext_show": {},
+      "query_field": "60",
+      "qs_status_info": "{\"qs_c_status\":8388608,\"qs_status\":0,\"qs_q_status\":0,\"ab_lab\":{},\"qs_r_status\":0,\"qs_u_status\":0}",
+      "page_id": "232964326e84fb7f5f8312d8329e6b3c56e82a",
+      "loop_times": 200,
+      "wenda": {
+        "forward_gen": 0
+      },
+      "share_info": {
+        "unify_md5": "9c149d392d8dcf2d0d51e265fa316416",
+        "comment_content": "",
+        "url": "http://t.cn/AXAf6nGG",
+        "status": 3,
+        "page_id": "232964326e84fb7f5f8312d8329e6b3c56e82a",
+        "tips": "#当地回应私房菜馆被曝宰杀活猫#的相关内容，来智搜看看",
+        "display_name": "#当地回应私房菜馆被曝宰杀活猫#"
+      },
+      "cot": 1,
+      "q_attr": {
+        "reply_cid": "",
+        "comment_from_type": "",
+        "mid": "",
+        "from_uid": "",
+        "from_request_id": ""
+      },
+      "news_analyze": {},
+      "card_multimodal": {},
+      "short_url": "http://t.cn/AXAfiJDA",
+      "user_info": {},
+      "zs_risk_control": {
+        "think_text_close": 0,
+        "land_button_close": 0
+      },
+      "unify_md5": "9c149d392d8dcf2d0d51e265fa316416",
+      "qs_status": 0,
+      "show_ctrl": {
+        "quote": {}
+      },
+      "query": "#当地回应私房菜馆被曝宰杀活猫#",
+      "status": 2,
+      "ab_suffix": "default",
+      "abtest_info": {
+        "chat_entrance": 1
+      },
+      "status_stage": 4
+    }
+  },
+  "links": [
+    "sinaweibo://detail?mblogid=5227907922265901",
+    "sinaweibo://detail?mblogid=5227953472670190",
+    "sinaweibo://detail?mblogid=5227961542512506",
+    "sinaweibo://detail?mblogid=5227946476307787",
+    "sinaweibo://detail?mblogid=5227955439534113",
+    "sinaweibo://detail?mblogid=5227945423540119",
+    "sinaweibo://detail?mblogid=4601314883933289",
+    "broadsocial_res://",
+    "historyweibo://5227907922265901",
+    "historyweibo://5159637507115072",
+    "historyweibo://5147450230964915",
+    "sinaweibo://detail?mblogid=5227964578925896",
+    "sinaweibo://detail?mblogid=5227909143069396",
+    "sinaweibo://detail?mblogid=5227958631139322",
+    "sinaweibo://detail?mblogid=5227956093064799",
+    "sinaweibo://detail?mblogid=5227924146095535",
+    "sinaweibo://detail?mblogid=5227957410857581",
+    "sinaweibo://detail?mblogid=5227960084733804",
+    "sinaweibo://detail?mblogid=5227959381919728",
+    "sinaweibo://detail?mblogid=5227959829925267",
+    "sinaweibo://detail?mblogid=5227960462221878",
+    "sinaweibo://detail?mblogid=5227959954965667",
+    "sinaweibo://detail?mblogid=5227959627812483",
+    "sinaweibo://detail?mblogid=5227950414236710",
+    "sinaweibo://detail?mblogid=5227966210510381",
+    "sinaweibo://detail?mblogid=5227964020295624",
+    "sinaweibo://detail?mblogid=5227959378251146",
+    "sinaweibo://detail?mblogid=5227925218793552",
+    "sinaweibo://detail?mblogid=5227959713534299",
+    "sinaweibo://detail?mblogid=4601148247903868"
+  ],
+  "media": [
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/008dMJGtly1gncbnw854nj30u00gvgyk.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/008dMJGtly1gncbnw854nj30u00gvgyk.jpg",
+      "alt": "沸点说法",
+      "width": 607,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/008dMJGtly1gncbnw854nj30u00gvgyk.jpg"
+      ],
+      "user": "沸点说法"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/008jEs0Aly1i6w0n7wt76j30zk0k075o.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/008jEs0Aly1i6w0n7wt76j30zk0k075o.jpg",
+      "alt": "VousEtoiles",
+      "width": 720,
+      "height": 1280,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/008jEs0Aly1i6w0n7wt76j30zk0k075o.jpg"
+      ],
+      "user": "VousEtoiles"
+    }
+  ],
+  "html_path": "data/aicard/hourly/2025-11-01/00/topic-9c149d39.html"
+}

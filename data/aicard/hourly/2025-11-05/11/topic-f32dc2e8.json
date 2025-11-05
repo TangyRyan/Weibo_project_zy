@@ -1,0 +1,43 @@
+{
+  "meta": {
+    "query": "#让开放的春风温暖世界#",
+    "status_code": 200,
+    "fetched_at": "2025-11-05T11:53:54+08:00",
+    "response": {
+      "uid": "",
+      "wenda": {
+        "forward_gen": 0
+      },
+      "status": 3,
+      "analysis_time": 0,
+      "abtest_info": {
+        "chat_entrance": 1
+      },
+      "ext_show": {},
+      "zs_risk_control": {
+        "may_be_ask_show": 0
+      },
+      "model": "",
+      "cot": 1,
+      "msg": "抱歉，这个问题我暂时无法回答，换个问题试试吧",
+      "loop_times": 200,
+      "query": "#让开放的春风温暖世界#",
+      "comment_info": {},
+      "qs_status": 2,
+      "ab_suffix": "default",
+      "share_info": {
+        "tips": "#让开放的春风温暖世界#的相关内容，来智搜看看",
+        "display_name": "#让开放的春风温暖世界#",
+        "comment_content": "",
+        "unify_md5": "f32dc2e801662a5785af57ffcdfb1722",
+        "page_id": "",
+        "status": 1,
+        "url": "http://t.cn/AXATemlR"
+      },
+      "qs_status_info": "{\"qs_q_status\":2,\"qs_r_status\":0,\"qs_u_status\":0,\"qs_status\":2,\"ab_lab\":{},\"qs_c_status\":0}"
+    }
+  },
+  "links": [],
+  "media": [],
+  "html_path": "data/aicard/hourly/2025-11-05/11/topic-f32dc2e8.html"
+}

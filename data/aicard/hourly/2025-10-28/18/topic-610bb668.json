@@ -1,0 +1,385 @@
+{
+  "meta": {
+    "query": "#李维嘉回归湖南卫视#",
+    "status_code": 200,
+    "fetched_at": "2025-10-28T18:41:23+08:00",
+    "response": {
+      "q_attr": {
+        "from_uid": "7624214479",
+        "from_request_id": "1761647808621"
+      },
+      "query_field": "1",
+      "chat_status_stage": 1,
+      "current_time": 1761648084,
+      "profile_image_url": "",
+      "user_info": {},
+      "analysis_time": 1761647924,
+      "qs_status_info": "{\"qs_u_status\":0,\"ab_lab\":{},\"qs_q_status\":0,\"qs_status\":0,\"qs_c_status\":8388608,\"qs_r_status\":0}",
+      "show_ctrl": {
+        "quote": {}
+      },
+      "query_category": "Gossip",
+      "status_stage": 4,
+      "share_text": "#李维嘉回归湖南卫视#的相关内容，来智搜看看",
+      "status": 2,
+      "loop_times": 200,
+      "share_info": {
+        "display_name": "#李维嘉回归湖南卫视#",
+        "url": "http://t.cn/AXwsBLbg",
+        "status": 3,
+        "tips": "#李维嘉回归湖南卫视#的相关内容，来智搜看看",
+        "unify_md5": "610bb6683387475a71d271bd55146311",
+        "page_id": "232964f078ba809756de0f7dd98cad6487e542"
+      },
+      "card_multimodal": {
+        "type": "mediablock",
+        "data": [
+          {
+            "scheme": "sinaweibo://video/vvs?mid=5226740058426806&multi_paragraph=0&multi_count=0",
+            "cur_mid": "5226740058426806",
+            "w": 1920,
+            "hit_score_final": 0,
+            "user_name": "湖南卫视",
+            "type": "v",
+            "user_avatar": "https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/001MTwmaly8h8vlu6go9hj60u00u0mxm02.jpg?KID=imgbed,tva&Expires=1761658610&ssig=YW8fYlv29v",
+            "img": "http://wx2.sinaimg.cn/middle/001MTwmagy1i6s3wp8vizj61hc0u0qjv02.jpg",
+            "video_url": "https://video.weibo.com/show?fid=1034:5226739484524628",
+            "h": 1080,
+            "click_rate": 0,
+            "hit_score_new": 0,
+            "doc_score": 0,
+            "img_pid": "001MTwmagy1i6s3wp8vizj61hc0u0qjv02",
+            "vtype": 3
+          },
+          {
+            "scheme": "sinaweibo://multimedia?mix_mid=5226781897916752&mix_index=0&multi_paragraph=0&multi_count=1",
+            "cur_mid": "5226781897916752",
+            "w": 720,
+            "hit_score_final": 99,
+            "user_name": "诃那长岄",
+            "type": "v",
+            "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/006syqKfly8hugj56zfkvj30u00u0diy.jpg?KID=imgbed,tva&Expires=1761658610&ssig=1dILoXmK4z",
+            "img": "http://wx4.sinaimg.cn/middle/006syqKfly1i6s8pneu2tj30k00zkdh1.jpg",
+            "video_url": "https://video.weibo.com/show?fid=1034:5226781783818307",
+            "h": 1280,
+            "click_rate": 0,
+            "hit_score_new": 0,
+            "doc_score": 6987,
+            "img_pid": "006syqKfly1i6s8pneu2tj30k00zkdh1",
+            "vtype": 0
+          },
+          {
+            "scheme": "sinaweibo://multimedia?mix_mid=5226752009569944&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=1&multi_count=0",
+            "cur_mid": "5226752009569944",
+            "w": 1920,
+            "hit_score_final": 80.813286,
+            "user_name": "扒掌门",
+            "type": "p",
+            "user_avatar": "https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/006eEzydly8htprldjctfj30u00u0gmu.jpg?KID=imgbed,tva&Expires=1761658610&ssig=vEJW%2BGzmfd",
+            "img": "http://wx4.sinaimg.cn/middle/006eEzydgy1i6s59oih71j31hc0u0gve.jpg",
+            "video_url": "",
+            "h": 1080,
+            "click_rate": 0.24509803921569,
+            "hit_score_new": 89.355469,
+            "doc_score": 4080,
+            "img_pid": "006eEzydgy1i6s59oih71j31hc0u0gve",
+            "vtype": 0
+          },
+          {
+            "scheme": "sinaweibo://video/vvs?mid=5226740058426806&multi_paragraph=0&multi_count=0",
+            "cur_mid": "5226740058426806",
+            "w": 1920,
+            "hit_score_final": 0,
+            "user_name": "湖南卫视",
+            "type": "v",
+            "user_avatar": "https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/001MTwmaly8h8vlu6go9hj60u00u0mxm02.jpg?KID=imgbed,tva&Expires=1761658610&ssig=YW8fYlv29v",
+            "img": "http://wx2.sinaimg.cn/middle/001MTwmagy1i6s3wp8vizj61hc0u0qjv02.jpg",
+            "video_url": "https://video.weibo.com/show?fid=1034:5226739484524628",
+            "h": 1080,
+            "click_rate": 0,
+            "hit_score_new": 0,
+            "doc_score": 0,
+            "img_pid": "001MTwmagy1i6s3wp8vizj61hc0u0qjv02",
+            "vtype": 3
+          }
+        ]
+      },
+      "share_card_multimodal": {
+        "scheme": "sinaweibo://video/vvs?mid=5226740058426806&multi_paragraph=0&multi_count=0",
+        "cur_mid": "5226740058426806",
+        "w": 1920,
+        "hit_score_final": 0,
+        "user_name": "湖南卫视",
+        "type": "v",
+        "user_avatar": "https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/001MTwmaly8h8vlu6go9hj60u00u0mxm02.jpg?KID=imgbed,tva&Expires=1761658610&ssig=YW8fYlv29v",
+        "img": "http://wx2.sinaimg.cn/middle/001MTwmagy1i6s3wp8vizj61hc0u0qjv02.jpg",
+        "video_url": "https://video.weibo.com/show?fid=1034:5226739484524628",
+        "h": 1080,
+        "click_rate": 0,
+        "hit_score_new": 0,
+        "doc_score": 0,
+        "img_pid": "001MTwmagy1i6s3wp8vizj61hc0u0qjv02",
+        "vtype": 3
+      },
+      "scheme": "sinaweibo://cardlist?containerid=100103type%3D225%26q%3D%23%E6%9D%8E%E7%BB%B4%E5%98%89%E5%9B%9E%E5%BD%92%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86%23%26t%3D&extparam=ai_model%3Ddeepseek%26ori_ai_title%3D%E5%8F%82%E8%80%83%E5%8D%9A%E6%96%87%26material_version%3D1761647810",
+      "basemodel": "实验组8",
+      "wenda": {
+        "forward_gen": 0
+      },
+      "qs_status": 0,
+      "query": "#李维嘉回归湖南卫视#",
+      "abtest_info": {
+        "chat_entrance": 1
+      },
+      "cot": 1,
+      "news_analyze": {},
+      "version": "2025-10-28 18:36:50.026999-8912",
+      "reliable_tips": "{\"gold_orange_v_mids\": [\"5226781897916752\", \"5226739758006880\", \"5226785932317064\", \"5226752009569944\", \"5226788586258952\", \"5226774511224158\", \"5226773756775826\", \"5226789690409892\", \"5226775170779405\", \"5226780312474713\", \"5226774193244930\", \"5226770594268725\", \"5226776906695903\", \"5226772874660888\", \"5226777489444391\", \"5226792051805157\", \"5226772652360758\", \"5226772553270417\", \"5226768174417027\", \"5226777502548757\", \"5226777012342334\", \"5226774671131147\", \"5226778126715625\", \"5226771920455131\", \"5226777179851710\", \"5226754241468416\", \"5226771264048901\", \"5226777429675933\", \"5226773895978263\", \"5226770027776947\", \"5226782112089836\", \"5226765104188793\"], \"gold_orange_v_ratio\": \"80%\", \"media_mids\": [\"5226740058426806\", \"5226761099151847\", \"5226679674079740\"], \"media_ratio\": \"8%\", \"verified_mids\": [\"5226775206430359\"], \"verified_ratio\": \"2%\", \"normal_mids\": [\"5226789544660393\", \"5226791218189197\", \"5226791161561504\", \"5226790122422999\"], \"normal_ratio\": \"10%\", \"ref_mid_rank\": {\"5226740058426806\": {\"rank\": 2}, \"5226781897916752\": {\"rank\": 3}, \"5226761099151847\": {\"rank\": 40}, \"5226739758006880\": {\"rank\": 5}, \"5226785932317064\": {\"rank\": 16}, \"5226752009569944\": {\"rank\": 41}, \"5226788586258952\": {\"rank\": 13}, \"5226774511224158\": {\"rank\": 17}, \"5226789544660393\": {\"rank\": 39}, \"5226773756775826\": {\"rank\": 8}, \"5226775206430359\": {\"rank\": 11}, \"5226789690409892\": {\"rank\": 12}, \"5226775170779405\": {\"rank\": 18}, \"5226780312474713\": {\"rank\": 29}, \"5226774193244930\": {\"rank\": 33}, \"5226770594268725\": {\"rank\": 25}, \"5226776906695903\": {\"rank\": 30}, \"5226772874660888\": {\"rank\": 34}, \"5226777489444391\": {\"rank\": 31}, \"5226792051805157\": {\"rank\": 35}, \"5226772652360758\": {\"rank\": 44}, \"5226679674079740\": {\"rank\": 1}, \"5226791218189197\": {\"rank\": 36}, \"5226772553270417\": {\"rank\": 43}, \"5226791161561504\": {\"rank\": 37}, \"5226768174417027\": {\"rank\": 4}, \"5226777502548757\": {\"rank\": 6}, \"5226777012342334\": {\"rank\": 7}, \"5226774671131147\": {\"rank\": 9}, \"5226778126715625\": {\"rank\": 10}, \"5226771920455131\": {\"rank\": 14}, \"5226777179851710\": {\"rank\": 15}, \"5226754241468416\": {\"rank\": 23}, \"5226771264048901\": {\"rank\": 24}, \"5226777429675933\": {\"rank\": 26}, \"5226773895978263\": {\"rank\": 27}, \"5226770027776947\": {\"rank\": 28}, \"5226782112089836\": {\"rank\": 32}, \"5226790122422999\": {\"rank\": 38}, \"5226765104188793\": {\"rank\": 42}}}",
+      "reference_num": 40,
+      "ab_suffix": "default",
+      "zs_risk_control": {
+        "think_text_close": 0,
+        "land_button_close": 0
+      },
+      "short_url": "http://t.cn/AXwsBckN",
+      "msg": "<think><br><br>首先，用户查询是“李维嘉回归湖南卫视”，我需要基于提供的搜索结果来生成一个回答。搜索结果覆盖了多个微博、资料和百科内容，主要围绕2025年10月28日的事件，即李维嘉在湖南卫视秋季招商大会上正式回归。<br><br>关键点从搜索结果中提取：<br>- **事件核心**：李维嘉于2025年10月28日在湖南卫视的秋季招商大会上回归，官方微博确认并欢迎他回家。他上台时与何炅、汪涵拥抱、哽咽发言“我回来了”。<br>- **背景信息**：李维嘉此前因2021年的代言争议淡出公众视野四年，期间只参与少量节目。 现在回归被视为个人职业重启和湖南卫视的情怀召回。<br>- **未来工作**：他将主持《再见爱人》第五季，并可能参与其他新节目如《搞笑艺家人》。<br>- **情感元素**：与何炅的拥抱引发回忆杀，网友纷纷怀念快乐大本营时代，话题如#李维嘉何炅相拥而泣#登上热搜。<br>- **回归意义**：这不仅是对李维嘉的复出，还象征湖南卫视重新重视老将专业价值，唤起观众青春回忆。<br>- **其他细节**：汪涵在台上调侃他“不准哽咽”，何炅致辞“欢迎维嘉回家”；李维嘉形容回归像“长沙人出差回来嗦粉般亲切”。<br><br>用户的查询是“李维嘉回归湖南卫视”，根据搜索结果，这个事件是实时发生的（2025年10月28日），所以我需要以时效性强的信息为核心。今天就是2025年10月28日，所以所有内容都是最新的。<br><br>回答结构：<br>- **开头**：吸引注意力，突出关键词和情感共鸣，比如“爷青回”、青春回忆等。<br>- **主体**：组织成几个部分：回归事件细节、背景和原因、未来动向、情感反响、潜在争议。<br>- **结尾**：总结意义，呼应开头。<br><br>- 每个引用必须用[^X]格式，在相应部分列出，不要集中。例如，提到回归事件时引用。<br>- 优先使用“优质搜索结果”如等，因为它们更相关可信。<br>- 结合多个相关内容，避免重复引用同一个结果。<br><br>风险控制：如果有不确定信息，如谢娜推动复出说（提到“维嘉因为谢娜才复出”），需谨慎表达，使用“网传”或“据报道”。<br><br>内容组织：<br>- 分点作答：控制在10个点以内，合并相关点。<br>- 使用小标题或加粗关键词增强可读性。<br>- 保持语言流畅、亲切，引发情感共鸣，如使用感叹词和回忆杀元素。<br><br>最终回答格式：<br>- 开头钩子：如“爷青回！李维嘉终于回家了！”<br>- 主体：分部分论述，引用搜索结果。<br>- 结尾：强调回归的双重意义。<br><br>现在，brainstorm回答大纲：<br>1. **回归官宣与场合**：描述招商大会现场，官方确认，拥抱哭泣细节。引用。<br>2. **个人背景与沉寂期**：简述2021年争议后淡出，逐步复出路径。引用。<br>3. **未来工作动向**：新节目如《再见爱人》第五季。引用。<br>4. **情感反响与回忆**：网友和粉丝反响，快乐家族重组期待。引用。<br>5. **深层意义**：湖南卫视战略调整，专业价值 vs. 流量。引用。<br><br>确保回答全面、细节丰富，避免罗列账号名。<br><br></think><br>🎉 2025年10月28日，在湖南卫视秋季招商大会上，主持人李维嘉正式宣布回归，引发全网热议。他以一句哽咽的“大家好，我是维嘉，我回来了”点燃了无数观众的青春回忆，现场与何炅、汪涵的拥抱画面更被网友称为“时代的眼泪”。以下是事件的核心信息与深层解读：```wbCustomBlock{\"type\": \"quoted\", \"index\": 1, \"data\": {\"num\": [2, 3, 40], \"version\": 2, \"quote_list\": [{\"name\": \"潇湘晨报\", \"scheme\": \"sinaweibo://detail?mblogid=5226761099151847\", \"index\": 40, \"label\": \"大v\"}, {\"name\": \"湖南卫视\", \"scheme\": \"sinaweibo://detail?mblogid=5226740058426806\", \"index\": 2, \"label\": \"\"}, {\"name\": \"诃那长岄\", \"scheme\": \"sinaweibo://detail?mblogid=5226781897916752\", \"index\": 3, \"label\": \"\"}], \"name\": \"潇湘晨报\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.826.826.50/001O24LNly8h8viu4nck1j60my0myq3m02.jpg?KID=imgbed,tva&Expires=1761658610&ssig=ViVIXPC8JO\", \"scheme\": \"sinaweibo://detail?mblogid=5226761099151847\", \"vType\": 3}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5226740058426806&multi_paragraph=0&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/001MTwmaly8h8vlu6go9hj60u00u0mxm02.jpg?KID=imgbed,tva&Expires=1761658610&ssig=YW8fYlv29v) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">湖南卫视</span><img src=\"http://wx2.sinaimg.cn/middle/001MTwmagy1i6s3wp8vizj61hc0u0qjv02.jpg\" data-width=1080 data-height=1920></div><div data-type=\"v\" data-scheme=\"sinaweibo://multimedia?mix_mid=5226781897916752&mix_index=0&multi_paragraph=0&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/006syqKfly8hugj56zfkvj30u00u0diy.jpg?KID=imgbed,tva&Expires=1761658610&ssig=1dILoXmK4z) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">诃那长岄</span><img src=\"http://wx4.sinaimg.cn/middle/006syqKfly1i6s8pneu2tj30k00zkdh1.jpg\" data-width=1280 data-height=720></div></media-block><br>### ⭐ **回归关键细节**<br>1. **官宣场合与仪式**  <br>   湖南卫视在秋季招商大会现场及官方微博同步官宣李维嘉回归，配文“好久不见，欢迎回家”并@其账号。何炅担任主持并致辞“欢迎维嘉回家”，两人对视后瞬间落泪，汪涵则幽默打趣“不准哽咽”，缓解现场情绪。李维嘉形容回归感受“像长沙人出差回来嗦粉般亲切”，并感谢湖南卫视领导的信任。```wbCustomBlock{\"type\": \"quoted\", \"index\": 3, \"data\": {\"num\": [2, 5, 16, 41], \"version\": 2, \"quote_list\": [{\"name\": \"湖南卫视\", \"scheme\": \"sinaweibo://detail?mblogid=5226740058426806\", \"index\": 2, \"label\": \"大v\"}, {\"name\": \"达尔文科生\", \"scheme\": \"sinaweibo://detail?mblogid=5226739758006880\", \"index\": 5, \"label\": \"\"}, {\"name\": \"昼眠月\", \"scheme\": \"sinaweibo://detail?mblogid=5226785932317064\", \"index\": 16, \"label\": \"\"}, {\"name\": \"扒掌门\", \"scheme\": \"sinaweibo://detail?mblogid=5226752009569944\", \"index\": 41, \"label\": \"\"}], \"name\": \"湖南卫视\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/001MTwmaly8h8vlu6go9hj60u00u0mxm02.jpg?KID=imgbed,tva&Expires=1761658610&ssig=YW8fYlv29v\", \"scheme\": \"sinaweibo://detail?mblogid=5226740058426806\", \"vType\": 3}}```<br><br>2. **沉寂期与复出背景**  <br>   - **淡出原因**：2021年因代言争议陷入舆论风波后，李维嘉节目数量锐减，一度淡出公众视野近四年。```wbCustomBlock{\"type\": \"quoted\", \"index\": 5, \"data\": {\"num\": [13], \"version\": 2, \"quote_list\": [{\"name\": \"苏米鱼\", \"scheme\": \"sinaweibo://detail?mblogid=5226788586258952\", \"index\": 13, \"label\": \"大v\"}], \"name\": \"苏米鱼\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/48b3bceely8i6e1m4hfjvj20u00u00x0.jpg?KID=imgbed,tva&Expires=1761658610&ssig=XjWZ%2Bm1vfs\", \"scheme\": \"sinaweibo://detail?mblogid=5226788586258952\", \"vType\": 0}}```  <br>   - **复出铺垫**：近年通过《家务优等生》《轰隆隆隆遇见你》等节目维持曝光，并在《再见爱人》中展现情感洞察力，积累回归基础。网传谢娜劝说其复出，但未获官方证实。```wbCustomBlock{\"type\": \"quoted\", \"index\": 6, \"data\": {\"num\": [13, 17], \"version\": 2, \"quote_list\": [{\"name\": \"苏米鱼\", \"scheme\": \"sinaweibo://detail?mblogid=5226788586258952\", \"index\": 13, \"label\": \"\"}, {\"name\": \"赤道蚂蚁\", \"scheme\": \"sinaweibo://detail?mblogid=5226774511224158\", \"index\": 17, \"label\": \"\"}]}}```<br><br>3. **未来工作动向**  <br>   - **新节目官宣**：李维嘉确认以主持人身份加盟《再见爱人》第五季，并出现在招商大会主持阵容名单中。```wbCustomBlock{\"type\": \"quoted\", \"index\": 8, \"data\": {\"num\": [3], \"version\": 2, \"quote_list\": [{\"name\": \"诃那长岄\", \"scheme\": \"sinaweibo://detail?mblogid=5226781897916752\", \"index\": 3, \"label\": \"大v\"}], \"name\": \"诃那长岄\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/006syqKfly8hugj56zfkvj30u00u0diy.jpg?KID=imgbed,tva&Expires=1761658610&ssig=1dILoXmK4z\", \"scheme\": \"sinaweibo://detail?mblogid=5226781897916752\", \"vType\": 0}}```  <br>   - **业务扩展**：他透露已签约湖南卫视新媒体业务，未来可能参与《搞笑艺家人》等新综策划，但具体计划待官方公布。```wbCustomBlock{\"type\": \"quoted\", \"index\": 9, \"data\": {\"num\": [5, 39], \"version\": 2, \"quote_list\": [{\"name\": \"达尔文科生\", \"scheme\": \"sinaweibo://detail?mblogid=5226739758006880\", \"index\": 5, \"label\": \"\"}, {\"name\": \"小兔子的备用号\", \"scheme\": \"sinaweibo://detail?mblogid=5226789544660393\", \"index\": 39, \"label\": \"\"}]}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5226752009569944&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=1&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/006eEzydly8htprldjctfj30u00u0gmu.jpg?KID=imgbed,tva&Expires=1761658610&ssig=vEJW%2BGzmfd) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">扒掌门</span><img src=\"http://wx4.sinaimg.cn/middle/006eEzydgy1i6s59oih71j31hc0u0gve.jpg\" data-width=1080 data-height=1920></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5226739758006880&multi_paragraph=1&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.600.600.50/006kLKLbly8i50v2g9rckj30go0goq4w.jpg?KID=imgbed,tva&Expires=1761658610&ssig=INla0DEd62) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">达尔文科生</span><img src=\"http://wx1.sinaimg.cn/middle/006kLKLbgy1i6s3uzeew8j30u0141k2y.jpg\" data-width=1441 data-height=1080></div><div data-type=\"v\" data-scheme=\"sinaweibo://multimedia?mix_mid=5226788586258952&mix_index=0&multi_paragraph=1&multi_count=2\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/48b3bceely8i6e1m4hfjvj20u00u00x0.jpg?KID=imgbed,tva&Expires=1761658610&ssig=XjWZ%2Bm1vfs) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">苏米鱼</span><img src=\"http://wx3.sinaimg.cn/middle/48b3bceely1i6s9h8kpmtj20k00zkdh1.jpg\" data-width=1280 data-height=720></div></media-block><br>### 💡 **情感反响与集体记忆**<br>1. **观众情怀爆发**  <br>   话题#李维嘉何炅相拥而泣#登热搜，网友直言“爷青回”“快乐大本营的DNA动了”。大量粉丝回忆快本经典片段，如李维嘉的“补刀式幽默”和“消毒水洁癖梗”，引发怀旧潮。```wbCustomBlock{\"type\": \"quoted\", \"index\": 11, \"data\": {\"num\": [8, 11, 12, 18, 29, 33], \"version\": 2, \"quote_list\": [{\"name\": \"娱乐浪呀浪\", \"scheme\": \"sinaweibo://detail?mblogid=5226789690409892\", \"index\": 12, \"label\": \"大v\"}, {\"name\": \"蟹蟹的荆棘花\", \"scheme\": \"sinaweibo://detail?mblogid=5226773756775826\", \"index\": 8, \"label\": \"\"}, {\"name\": \"少点忧虑思绪_\", \"scheme\": \"sinaweibo://detail?mblogid=5226775206430359\", \"index\": 11, \"label\": \"\"}, {\"name\": \"追什么都不如追剧\", \"scheme\": \"sinaweibo://detail?mblogid=5226775170779405\", \"index\": 18, \"label\": \"\"}, {\"name\": \"霁聆\", \"scheme\": \"sinaweibo://detail?mblogid=5226780312474713\", \"index\": 29, \"label\": \"\"}, {\"name\": \"脆脆小菠萝\", \"scheme\": \"sinaweibo://detail?mblogid=5226774193244930\", \"index\": 33, \"label\": \"\"}], \"name\": \"娱乐浪呀浪\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.512.512.50/a95c9087ly8hzm8zsg2wpj20e80e8wez.jpg?KID=imgbed,tva&Expires=1761658610&ssig=kTDoIEpYrV\", \"scheme\": \"sinaweibo://detail?mblogid=5226789690409892\", \"vType\": 0}}```<br><br>2. **快乐家族重组期待**  <br>   此次回归被视为“快乐家族”全员归位的最后一步：何炅（《你好星期六》）、谢娜（《浪姐》系列）、吴昕（《中国有滋味》）、杜海涛（《披荆斩棘4》）已分批回归。近期李维嘉与杜海涛在《令人心动的offer7》中的合体互动重现快本默契，网友高呼“团综快安排”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 12, \"data\": {\"num\": [12, 25, 30, 34], \"version\": 2, \"quote_list\": [{\"name\": \"青春摸个鱼\", \"scheme\": \"sinaweibo://detail?mblogid=5226776906695903\", \"index\": 30, \"label\": \"大v\"}, {\"name\": \"娱乐浪呀浪\", \"scheme\": \"sinaweibo://detail?mblogid=5226789690409892\", \"index\": 12, \"label\": \"\"}, {\"name\": \"·小天狼星\", \"scheme\": \"sinaweibo://detail?mblogid=5226770594268725\", \"index\": 25, \"label\": \"\"}, {\"name\": \"Viptranslator\", \"scheme\": \"sinaweibo://detail?mblogid=5226772874660888\", \"index\": 34, \"label\": \"\"}], \"name\": \"青春摸个鱼\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.750.750.50/904eede2ly8hfxsbd9m1hj20ku0ku75k.jpg?KID=imgbed,tva&Expires=1761658610&ssig=O8Em0Ko0dr\", \"scheme\": \"sinaweibo://detail?mblogid=5226776906695903\", \"vType\": 0}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5226775206430359&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=2&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/008x7Q6qly8i6qqkd58x2j30u00u00v9.jpg?KID=imgbed,tva&Expires=1761658610&ssig=E8ojTFkWJP) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">少点忧虑思绪_</span><img src=\"http://wx4.sinaimg.cn/middle/008x7Q6qgy1i6s7x3p8t8j30u01k6aew.jpg\" data-width=2022 data-height=1080></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5226776906695903&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=2&multi_count=1\"><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.750.750.50/904eede2ly8hfxsbd9m1hj20ku0ku75k.jpg?KID=imgbed,tva&Expires=1761658610&ssig=O8Em0Ko0dr) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">青春摸个鱼</span><img src=\"http://wx3.sinaimg.cn/middle/904eede2gy1i6s837suc4j20wh0mfwjw.jpg\" data-width=807 data-height=1169></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5226789690409892&multi_paragraph=2&multi_count=2\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.512.512.50/a95c9087ly8hzm8zsg2wpj20e80e8wez.jpg?KID=imgbed,tva&Expires=1761658610&ssig=kTDoIEpYrV) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">娱乐浪呀浪</span><img src=\"http://wx3.sinaimg.cn/middle/a95c9087ly1i6s9lond0cj20jy0w8myw.jpg\" data-width=1160 data-height=718></div><div data-type=\"v\" data-scheme=\"sinaweibo://multimedia?mix_mid=5226775170779405&mix_index=0&multi_paragraph=2&multi_count=3\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/006uKHXgly8hzwn9nwxgwj30u00u0wfh.jpg?KID=imgbed,tva&Expires=1761658610&ssig=HiKEYP5ZoU) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">追什么都不如追剧</span><img src=\"http://wx4.sinaimg.cn/middle/006uKHXgly1i6s7wipzquj30k013ijse.jpg\" data-width=1422 data-height=720></div></media-block><br>### 🔍 **深层意义与行业影响**<br>1. **个人价值重现**  <br>   李维嘉凭借犀利接梗能力（如“芒果梗王”称号）和共情力（如《再见爱人》中的“暂时不说”哲学），填补了湖南卫视新生代主持人的经验断层，成为不可替代的“黄金资源”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 14, \"data\": {\"num\": [31, 35, 44], \"version\": 2, \"quote_list\": [{\"name\": \"小袁读书\", \"scheme\": \"sinaweibo://detail?mblogid=5226772652360758\", \"index\": 44, \"label\": \"大v\"}, {\"name\": \"Mioki_\", \"scheme\": \"sinaweibo://detail?mblogid=5226777489444391\", \"index\": 31, \"label\": \"\"}, {\"name\": \"智趣威虎山\", \"scheme\": \"sinaweibo://detail?mblogid=5226792051805157\", \"index\": 35, \"label\": \"\"}], \"name\": \"小袁读书\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.996.996.50/006mYNy8ly8gkmcr8xsf7j30ro0rot9h.jpg?KID=imgbed,tva&Expires=1761658610&ssig=pmrNvWzt6n\", \"scheme\": \"sinaweibo://detail?mblogid=5226772652360758\", \"vType\": 0}}```<br><br>2. **平台战略调整**  <br>   回归事件反映湖南卫视在流量竞争中重新重视“老将底蕴”，通过召回国民综艺时代的符号人物，强化情感联结与专业主义。例如，招商大会以“声鸣远扬生态焕新”为主题，突出内容与人才的平衡。```wbCustomBlock{\"type\": \"quoted\", \"index\": 15, \"data\": {\"num\": [1, 36, 44], \"version\": 2, \"quote_list\": [{\"name\": \"湖南卫视\", \"scheme\": \"sinaweibo://detail?mblogid=5226679674079740\", \"index\": 1, \"label\": \"\"}, {\"name\": \"低温失眠\", \"scheme\": \"sinaweibo://detail?mblogid=5226791218189197\", \"index\": 36, \"label\": \"\"}, {\"name\": \"小袁读书\", \"scheme\": \"sinaweibo://detail?mblogid=5226772652360758\", \"index\": 44, \"label\": \"\"}]}}```<br><br>3. **争议与理性看待**  <br>   - **健康状态**：部分网友指其“面容憔悴”，实为瘦身后形象变化，近期直播中状态活跃。```wbCustomBlock{\"type\": \"quoted\", \"index\": 17, \"data\": {\"num\": [43], \"version\": 2, \"quote_list\": [{\"name\": \"黛二小姐的灆猫\", \"scheme\": \"sinaweibo://detail?mblogid=5226772553270417\", \"index\": 43, \"label\": \"\"}]}}```  <br>   - **团综可能性**：尽管合体呼声高，但快乐家族五人常驻节目暂无官方计划，需谨慎期待。```wbCustomBlock{\"type\": \"quoted\", \"index\": 18, \"data\": {\"num\": [37], \"version\": 2, \"quote_list\": [{\"name\": \"铭记等待-\", \"scheme\": \"sinaweibo://detail?mblogid=5226791161561504\", \"index\": 37, \"label\": \"\"}]}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5226777489444391&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=3&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/006yv05gly8i4qn5ld6xzj30u00u0mzr.jpg?KID=imgbed,tva&Expires=1761658610&ssig=%2B%2Bin6GnlD3) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">Mioki_</span><img src=\"http://wx4.sinaimg.cn/middle/006yv05ggy1i6s84jws45j30ou0s90y1.jpg\" data-width=1017 data-height=894></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5226679674079740&multi_paragraph=3&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/001MTwmaly8h8vlu6go9hj60u00u0mxm02.jpg?KID=imgbed,tva&Expires=1761658610&ssig=YW8fYlv29v) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">湖南卫视</span><img src=\"http://wx2.sinaimg.cn/middle/001MTwmaly1i6rxlpvditj60u0190djo02.jpg\" data-width=1620 data-height=1080></div></media-block><br>### 💎 **事件本质**  <br>李维嘉的回归**既是个人职业生涯的重启，也是湖南卫视对时代情怀的战略召回**。从1999年《快乐大本营》的“外景少年”到如今的“芒果梗王”，他承载了一代人的青春记忆。当何炅那句“欢迎回家”穿透镁光灯——```wbCustomBlock{\"type\": \"quoted\", \"index\": 19, \"data\": {\"num\": [31, 35], \"version\": 2, \"quote_list\": [{\"name\": \"Mioki_\", \"scheme\": \"sinaweibo://detail?mblogid=5226777489444391\", \"index\": 31, \"label\": \"\"}, {\"name\": \"智趣威虎山\", \"scheme\": \"sinaweibo://detail?mblogid=5226792051805157\", \"index\": 35, \"label\": \"\"}]}}```  <br>> **对观众，这是一场延迟四年的青春续集；  <br>> 对行业，这是专业精神对流量逻辑的温柔反击。**```wbCustomBlock{\"type\": \"quoted\", \"index\": 21, \"data\": {\"num\": [35], \"version\": 2, \"quote_list\": [{\"name\": \"智趣威虎山\", \"scheme\": \"sinaweibo://detail?mblogid=5226792051805157\", \"index\": 35, \"label\": \"\"}]}}```<br>",
+      "ext_show": {},
+      "model": "deepseek",
+      "link_list": [
+        "sinaweibo://detail?mblogid=5226679674079740",
+        "sinaweibo://detail?mblogid=5226740058426806",
+        "sinaweibo://detail?mblogid=5226781897916752",
+        "sinaweibo://detail?mblogid=5226768174417027",
+        "sinaweibo://detail?mblogid=5226739758006880",
+        "sinaweibo://detail?mblogid=5226777502548757",
+        "sinaweibo://detail?mblogid=5226777012342334",
+        "sinaweibo://detail?mblogid=5226773756775826",
+        "sinaweibo://detail?mblogid=5226774671131147",
+        "sinaweibo://detail?mblogid=5226778126715625",
+        "sinaweibo://detail?mblogid=5226775206430359",
+        "sinaweibo://detail?mblogid=5226789690409892",
+        "sinaweibo://detail?mblogid=5226788586258952",
+        "sinaweibo://detail?mblogid=5226771920455131",
+        "sinaweibo://detail?mblogid=5226777179851710",
+        "sinaweibo://detail?mblogid=5226785932317064",
+        "sinaweibo://detail?mblogid=5226774511224158",
+        "sinaweibo://detail?mblogid=5226775170779405",
+        "https://baike.baidu.com/item/李维嘉?fromModule=lemma_search-box",
+        "historyweibo://5226740058426806",
+        "historyweibo://5226314984591896",
+        "historyweibo://5225651532726908",
+        "sinaweibo://detail?mblogid=5226754241468416",
+        "sinaweibo://detail?mblogid=5226771264048901",
+        "sinaweibo://detail?mblogid=5226770594268725",
+        "sinaweibo://detail?mblogid=5226777429675933",
+        "sinaweibo://detail?mblogid=5226773895978263",
+        "sinaweibo://detail?mblogid=5226770027776947",
+        "sinaweibo://detail?mblogid=5226780312474713",
+        "sinaweibo://detail?mblogid=5226776906695903",
+        "sinaweibo://detail?mblogid=5226777489444391",
+        "sinaweibo://detail?mblogid=5226782112089836",
+        "sinaweibo://detail?mblogid=5226774193244930",
+        "sinaweibo://detail?mblogid=5226772874660888",
+        "sinaweibo://detail?mblogid=5226792051805157",
+        "sinaweibo://detail?mblogid=5226791218189197",
+        "sinaweibo://detail?mblogid=5226791161561504",
+        "sinaweibo://detail?mblogid=5226790122422999",
+        "sinaweibo://detail?mblogid=5226789544660393",
+        "sinaweibo://detail?mblogid=5226761099151847",
+        "sinaweibo://detail?mblogid=5226752009569944",
+        "sinaweibo://detail?mblogid=5226765104188793",
+        "sinaweibo://detail?mblogid=5226772553270417",
+        "sinaweibo://detail?mblogid=5226772652360758"
+      ],
+      "msg_format": "markdown",
+      "unify_md5": "610bb6683387475a71d271bd55146311",
+      "sorted_material_list": null,
+      "page_id": "232964f078ba809756de0f7dd98cad6487e542",
+      "top_quote_list": {},
+      "msg_json": "{}",
+      "mid_list": null,
+      "uid": ""
+    }
+  },
+  "links": [
+    "sinaweibo://detail?mblogid=5226679674079740",
+    "sinaweibo://detail?mblogid=5226740058426806",
+    "sinaweibo://detail?mblogid=5226781897916752",
+    "sinaweibo://detail?mblogid=5226768174417027",
+    "sinaweibo://detail?mblogid=5226739758006880",
+    "sinaweibo://detail?mblogid=5226777502548757",
+    "sinaweibo://detail?mblogid=5226777012342334",
+    "sinaweibo://detail?mblogid=5226773756775826",
+    "sinaweibo://detail?mblogid=5226774671131147",
+    "sinaweibo://detail?mblogid=5226778126715625",
+    "sinaweibo://detail?mblogid=5226775206430359",
+    "sinaweibo://detail?mblogid=5226789690409892",
+    "sinaweibo://detail?mblogid=5226788586258952",
+    "sinaweibo://detail?mblogid=5226771920455131",
+    "sinaweibo://detail?mblogid=5226777179851710",
+    "sinaweibo://detail?mblogid=5226785932317064",
+    "sinaweibo://detail?mblogid=5226774511224158",
+    "sinaweibo://detail?mblogid=5226775170779405",
+    "https://baike.baidu.com/item/李维嘉?fromModule=lemma_search-box",
+    "historyweibo://5226740058426806",
+    "historyweibo://5226314984591896",
+    "historyweibo://5225651532726908",
+    "sinaweibo://detail?mblogid=5226754241468416",
+    "sinaweibo://detail?mblogid=5226771264048901",
+    "sinaweibo://detail?mblogid=5226770594268725",
+    "sinaweibo://detail?mblogid=5226777429675933",
+    "sinaweibo://detail?mblogid=5226773895978263",
+    "sinaweibo://detail?mblogid=5226770027776947",
+    "sinaweibo://detail?mblogid=5226780312474713",
+    "sinaweibo://detail?mblogid=5226776906695903",
+    "sinaweibo://detail?mblogid=5226777489444391",
+    "sinaweibo://detail?mblogid=5226782112089836",
+    "sinaweibo://detail?mblogid=5226774193244930",
+    "sinaweibo://detail?mblogid=5226772874660888",
+    "sinaweibo://detail?mblogid=5226792051805157",
+    "sinaweibo://detail?mblogid=5226791218189197",
+    "sinaweibo://detail?mblogid=5226791161561504",
+    "sinaweibo://detail?mblogid=5226790122422999",
+    "sinaweibo://detail?mblogid=5226789544660393",
+    "sinaweibo://detail?mblogid=5226761099151847",
+    "sinaweibo://detail?mblogid=5226752009569944",
+    "sinaweibo://detail?mblogid=5226765104188793",
+    "sinaweibo://detail?mblogid=5226772553270417",
+    "sinaweibo://detail?mblogid=5226772652360758"
+  ],
+  "media": [
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/001MTwmagy1i6s3wp8vizj61hc0u0qjv02.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/001MTwmagy1i6s3wp8vizj61hc0u0qjv02.jpg",
+      "alt": "湖南卫视",
+      "width": 1080,
+      "height": 1920,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/001MTwmagy1i6s3wp8vizj61hc0u0qjv02.jpg"
+      ],
+      "user": "湖南卫视"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/006syqKfly1i6s8pneu2tj30k00zkdh1.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/006syqKfly1i6s8pneu2tj30k00zkdh1.jpg",
+      "alt": "诃那长岄",
+      "width": 1280,
+      "height": 720,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/006syqKfly1i6s8pneu2tj30k00zkdh1.jpg"
+      ],
+      "user": "诃那长岄"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/006eEzydgy1i6s59oih71j31hc0u0gve.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/006eEzydgy1i6s59oih71j31hc0u0gve.jpg",
+      "alt": "扒掌门",
+      "width": 1080,
+      "height": 1920,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/006eEzydgy1i6s59oih71j31hc0u0gve.jpg"
+      ],
+      "user": "扒掌门"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/006kLKLbgy1i6s3uzeew8j30u0141k2y.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/006kLKLbgy1i6s3uzeew8j30u0141k2y.jpg",
+      "alt": "达尔文科生",
+      "width": 1441,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/006kLKLbgy1i6s3uzeew8j30u0141k2y.jpg"
+      ],
+      "user": "达尔文科生"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/48b3bceely1i6s9h8kpmtj20k00zkdh1.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/48b3bceely1i6s9h8kpmtj20k00zkdh1.jpg",
+      "alt": "苏米鱼",
+      "width": 1280,
+      "height": 720,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/48b3bceely1i6s9h8kpmtj20k00zkdh1.jpg"
+      ],
+      "user": "苏米鱼"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/008x7Q6qgy1i6s7x3p8t8j30u01k6aew.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/008x7Q6qgy1i6s7x3p8t8j30u01k6aew.jpg",
+      "alt": "少点忧虑思绪_",
+      "width": 2022,
+      "height": 1080,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/008x7Q6qgy1i6s7x3p8t8j30u01k6aew.jpg"
+      ],
+      "user": "少点忧虑思绪_"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/904eede2gy1i6s837suc4j20wh0mfwjw.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/904eede2gy1i6s837suc4j20wh0mfwjw.jpg",
+      "alt": "青春摸个鱼",
+      "width": 807,
+      "height": 1169,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/904eede2gy1i6s837suc4j20wh0mfwjw.jpg"
+      ],
+      "user": "青春摸个鱼"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/a95c9087ly1i6s9lond0cj20jy0w8myw.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/a95c9087ly1i6s9lond0cj20jy0w8myw.jpg",
+      "alt": "娱乐浪呀浪",
+      "width": 1160,
+      "height": 718,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/a95c9087ly1i6s9lond0cj20jy0w8myw.jpg"
+      ],
+      "user": "娱乐浪呀浪"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/006uKHXgly1i6s7wipzquj30k013ijse.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/006uKHXgly1i6s7wipzquj30k013ijse.jpg",
+      "alt": "追什么都不如追剧",
+      "width": 1422,
+      "height": 720,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx4.sinaimg.cn/large/006uKHXgly1i6s7wipzquj30k013ijse.jpg"
+      ],
+      "user": "追什么都不如追剧"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/006yv05ggy1i6s84jws45j30ou0s90y1.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/006yv05ggy1i6s84jws45j30ou0s90y1.jpg",
+      "alt": "Mioki_",
+      "width": 1017,
+      "height": 894,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/006yv05ggy1i6s84jws45j30ou0s90y1.jpg"
+      ],
+      "user": "Mioki_"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/001MTwmaly1i6rxlpvditj60u0190djo02.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/001MTwmaly1i6rxlpvditj60u0190djo02.jpg",
+      "alt": "湖南卫视",
+      "width": 1620,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/001MTwmaly1i6rxlpvditj60u0190djo02.jpg"
+      ],
+      "user": "湖南卫视"
+    }
+  ],
+  "html_path": "data/aicard/hourly/2025-10-28/18/topic-610bb668.html"
+}

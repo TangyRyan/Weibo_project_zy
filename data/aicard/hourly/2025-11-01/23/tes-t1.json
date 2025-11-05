@@ -1,0 +1,316 @@
+{
+  "meta": {
+    "query": "#TES将交手T1#",
+    "status_code": 200,
+    "fetched_at": "2025-11-01T23:32:35+08:00",
+    "response": {
+      "loop_times": 200,
+      "analysis_time": 1762011134,
+      "ab_suffix": "default",
+      "model": "deepseek",
+      "cot": 1,
+      "page_id": "2329645a62a62ce048c73a6e8c6dde1e4a281b",
+      "current_time": 1762011156,
+      "mid_list": null,
+      "reference_num": 20,
+      "query_category": "",
+      "status_stage": 4,
+      "msg_format": "markdown",
+      "query": "#TES将交手T1#",
+      "top_quote_list": {},
+      "query_field": "47",
+      "share_card_multimodal": {
+        "img": "http://wx1.sinaimg.cn/middle/007SWPUQgy1i6vsnyhyd7j31kw11yk6t.jpg",
+        "h": 1366,
+        "cur_mid": "5227896459493915",
+        "user_name": "快乐大金子",
+        "type": "p",
+        "user_avatar": "https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/007SWPUQly8hnqyyp5p34j30u00u0n0d.jpg?KID=imgbed,tva&Expires=1762021766&ssig=CIzkGjV8o4",
+        "w": 2048,
+        "video_url": "",
+        "scheme": "sinaweibo://multimedia?mix_mid=5227896459493915&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=0",
+        "hit_score_new": 54.931641,
+        "hit_score_final": 64.958984,
+        "doc_score": 2887,
+        "img_pid": "007SWPUQgy1i6vsnyhyd7j31kw11yk6t",
+        "vtype": 0,
+        "click_rate": 0
+      },
+      "ext_show": {},
+      "basemodel": "实验组7",
+      "q_attr": {
+        "from_uid": "",
+        "from_request_id": "",
+        "reply_cid": "",
+        "comment_from_type": "",
+        "mid": ""
+      },
+      "news_analyze": {},
+      "reliable_tips": "{\"gold_orange_v_mids\": [\"5227896459493915\", \"5227933906240988\", \"5228136607252795\", \"5227542430355370\", \"5226014566778615\", \"5228286013866029\", \"5227936032754091\", \"5226355148721530\", \"5228210855873491\", \"5227531398811342\", \"5225428816233439\", \"5225394242587014\", \"5225339366149243\", \"5221631476893782\"], \"gold_orange_v_ratio\": \"70%\", \"media_mids\": [], \"media_ratio\": \"0%\", \"verified_mids\": [\"5227548486143770\", \"5227545446583321\", \"5225739713778894\", \"5225399598449722\", \"5228239879409073\", \"5228314886408685\"], \"verified_ratio\": \"30%\", \"normal_mids\": [], \"normal_ratio\": \"0%\", \"ref_mid_rank\": {\"5227896459493915\": {\"rank\": 16}, \"5227548486143770\": {\"rank\": 20}, \"5227545446583321\": {\"rank\": 22}, \"5227933906240988\": {\"rank\": 6}, \"5228136607252795\": {\"rank\": 1}, \"5227542430355370\": {\"rank\": 19}, \"5226014566778615\": {\"rank\": 14}, \"5228286013866029\": {\"rank\": 7}, \"5227936032754091\": {\"rank\": 18}, \"5226355148721530\": {\"rank\": 13}, \"5228210855873491\": {\"rank\": 2}, \"5227531398811342\": {\"rank\": 3}, \"5225428816233439\": {\"rank\": 4}, \"5225394242587014\": {\"rank\": 5}, \"5225739713778894\": {\"rank\": 11}, \"5225339366149243\": {\"rank\": 12}, \"5225399598449722\": {\"rank\": 15}, \"5228239879409073\": {\"rank\": 17}, \"5228314886408685\": {\"rank\": 21}, \"5221631476893782\": {\"rank\": 23}}}",
+      "qs_status_info": "{\"qs_status\":0,\"qs_u_status\":0,\"qs_q_status\":0,\"qs_r_status\":0,\"qs_c_status\":8388608,\"ab_lab\":{}}",
+      "comment_info": {},
+      "share_info": {
+        "tips": "#TES将交手T1#的相关内容，来智搜看看",
+        "comment_content": "",
+        "page_id": "2329645a62a62ce048c73a6e8c6dde1e4a281b",
+        "unify_md5": "5870d7fabed45795013c62c7df827d70",
+        "url": "http://t.cn/AXAiFJoN",
+        "display_name": "#TES将交手T1#",
+        "status": 3
+      },
+      "share_text": "#TES将交手T1#的相关内容，来智搜看看",
+      "scheme": "sinaweibo://cardlist?containerid=100103type%3D225%26q%3D%23tes%E5%B0%86%E4%BA%A4%E6%89%8Bt1%23%26t%3D&extparam=ai_model%3Ddeepseek%26ori_ai_title%3D%E5%8F%82%E8%80%83%E5%8D%9A%E6%96%87%26material_version%3D1762010966",
+      "wenda": {
+        "forward_gen": 0
+      },
+      "zs_risk_control": {
+        "think_text_close": 0,
+        "land_button_close": 0
+      },
+      "uid": "",
+      "version": "2025-11-01 23:29:26.036999-7215",
+      "card_multimodal": {
+        "type": "mediablock",
+        "data": [
+          {
+            "img": "http://wx1.sinaimg.cn/middle/007SWPUQgy1i6vsnyhyd7j31kw11yk6t.jpg",
+            "h": 1366,
+            "cur_mid": "5227896459493915",
+            "user_name": "快乐大金子",
+            "type": "p",
+            "user_avatar": "https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/007SWPUQly8hnqyyp5p34j30u00u0n0d.jpg?KID=imgbed,tva&Expires=1762021766&ssig=CIzkGjV8o4",
+            "w": 2048,
+            "video_url": "",
+            "scheme": "sinaweibo://multimedia?mix_mid=5227896459493915&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=0",
+            "hit_score_new": 54.931641,
+            "hit_score_final": 64.958984,
+            "doc_score": 2887,
+            "img_pid": "007SWPUQgy1i6vsnyhyd7j31kw11yk6t",
+            "vtype": 0,
+            "click_rate": 0
+          },
+          {
+            "img": "http://wx4.sinaimg.cn/middle/00674ybqly1i6uopykbc5j30zk0h8js7.jpg",
+            "h": 620,
+            "cur_mid": "5227548486143770",
+            "user_name": "青川游戏",
+            "type": "v",
+            "user_avatar": "https://tvax1.sinaimg.cn/crop.0.0.160.160.50/00674ybqly8h2agpiv1zoj304g04gwea.jpg?KID=imgbed,tva&Expires=1762021766&ssig=Rgn9wTNwYI",
+            "w": 1280,
+            "video_url": "https://video.weibo.com/show?fid=1034:5227547823374423",
+            "scheme": "sinaweibo://video/vvs?mid=5227548486143770&multi_paragraph=1&multi_count=1",
+            "hit_score_new": 61.914062,
+            "hit_score_final": 58.348434,
+            "doc_score": 2534,
+            "img_pid": "00674ybqly1i6uopykbc5j30zk0h8js7",
+            "vtype": 7,
+            "click_rate": 0
+          },
+          {
+            "img": "http://wx4.sinaimg.cn/middle/96542c59ly1i6vx0ny8omj20fs0o4dgy.jpg",
+            "h": 868,
+            "cur_mid": "5227933906240988",
+            "user_name": "召唤师Park",
+            "type": "v",
+            "user_avatar": "https://tvax2.sinaimg.cn/crop.16.21.551.551.50/96542c59ly8geqtawegnej20gr0gq0to.jpg?KID=imgbed,tva&Expires=1762021766&ssig=bjPdUsEPOz",
+            "w": 568,
+            "video_url": "https://video.weibo.com/show?fid=1034:5227930566197425",
+            "scheme": "sinaweibo://multimedia?mix_mid=5227933906240988&mix_index=0&multi_paragraph=1&multi_count=2",
+            "hit_score_new": 61.083984,
+            "hit_score_final": 68.650391,
+            "doc_score": 4584,
+            "img_pid": "96542c59ly1i6vx0ny8omj20fs0o4dgy",
+            "vtype": 0,
+            "click_rate": 0
+          },
+          {
+            "img": "http://wx1.sinaimg.cn/middle/007SWPUQgy1i6vsnyhyd7j31kw11yk6t.jpg",
+            "h": 1366,
+            "cur_mid": "5227896459493915",
+            "user_name": "快乐大金子",
+            "type": "p",
+            "user_avatar": "https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/007SWPUQly8hnqyyp5p34j30u00u0n0d.jpg?KID=imgbed,tva&Expires=1762021766&ssig=CIzkGjV8o4",
+            "w": 2048,
+            "video_url": "",
+            "scheme": "sinaweibo://multimedia?mix_mid=5227896459493915&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=0",
+            "hit_score_new": 54.931641,
+            "hit_score_final": 64.958984,
+            "doc_score": 2887,
+            "img_pid": "007SWPUQgy1i6vsnyhyd7j31kw11yk6t",
+            "vtype": 0,
+            "click_rate": 0
+          }
+        ]
+      },
+      "unify_md5": "5870d7fabed45795013c62c7df827d70",
+      "link_list": [
+        "sinaweibo://detail?mblogid=5228136607252795",
+        "sinaweibo://detail?mblogid=5228210855873491",
+        "sinaweibo://detail?mblogid=5227531398811342",
+        "sinaweibo://detail?mblogid=5225428816233439",
+        "sinaweibo://detail?mblogid=5225394242587014",
+        "sinaweibo://detail?mblogid=5227933906240988",
+        "sinaweibo://detail?mblogid=5228286013866029",
+        "historyweibo://5223202814432189",
+        "historyweibo://5091306528838847",
+        "historyweibo://5085521082586463",
+        "sinaweibo://detail?mblogid=5225739713778894",
+        "sinaweibo://detail?mblogid=5225339366149243",
+        "sinaweibo://detail?mblogid=5226355148721530",
+        "sinaweibo://detail?mblogid=5226014566778615",
+        "sinaweibo://detail?mblogid=5225399598449722",
+        "sinaweibo://detail?mblogid=5227896459493915",
+        "sinaweibo://detail?mblogid=5228239879409073",
+        "sinaweibo://detail?mblogid=5227936032754091",
+        "sinaweibo://detail?mblogid=5227542430355370",
+        "sinaweibo://detail?mblogid=5227548486143770",
+        "sinaweibo://detail?mblogid=5228314886408685",
+        "sinaweibo://detail?mblogid=5227545446583321",
+        "sinaweibo://detail?mblogid=5221631476893782",
+        "http://cj.sina.cn/articles/view/5794519372/m15961594c03301jw2w",
+        "https://mparticle.uc.cn/article_org.html?uc_param_str=frdnsnpfvecpntnwprdssskt#!wm_cid=716760609489689600!!wm_id=eda299a0f2564dd29911600485461f3b"
+      ],
+      "chat_status_stage": 1,
+      "user_info": {},
+      "abtest_info": {
+        "chat_entrance": 1
+      },
+      "show_ctrl": {
+        "quote": {}
+      },
+      "sorted_material_list": null,
+      "profile_image_url": "",
+      "short_url": "http://t.cn/AXAigwj8",
+      "msg_json": "{}",
+      "msg": "<think><br><br>嗯，用户查询的是\"tes将交手t1\"的相关信息，这应该是关于英雄联盟S15半决赛的赛事预告。从搜索结果看，今天是2025年11月1日，而比赛就在明天11月2日举行，所以时效性很强。<br><br>用户可能是个电竞爱好者，想了解这场焦点对决的赛前动态。从搜索结果看，这场比赛有几个关键点值得整理：<br><br>关于TES的状态，看到小奶油在采访中表示各赛区间差距不大，这个观点挺有意思，说明TES心态比较放松。朱开教练把TES比作当年逆袭的EDG，这种类比能引发老玩家的共鸣。不过Doinb唱反调认为TES难赢T1，这种争议性观点也得呈现。<br><br>T1方面最震撼的是他们BO5对阵LPL战队12年不败的魔咒，Faker在AL战让二追三的表现确实恐怖。Gumayusi赛前说想打BLG但抽到TES，这种\"退而求其次\"的言论可能刺激到TES粉丝。<br><br>历史交锋数据需要特别说明：去年全球总决赛TES小组赛赢过T1，但淘汰赛被0:3横扫，这种反差会让比赛更有悬念。当前赔率显示T1稍占优，但KT掀翻GEN的案例证明电子竞技充满不确定性。<br><br>注意到369和教练都更希望打AL，这种回避T1的心态反而加深了历史阴影。而赞助商安德斯特的应援海报和媒体\"搏至无憾\"的标题能烘托赛前氛围。<br><br>最后决定把\"魔咒\"作为核心关键词贯穿全文，用时间线分赛前动态、历史交锋、焦点分析三个板块。数据部分单独强调历史战绩和赔率，结尾突出\"改写历史\"的象征意义——毕竟如果TES赢了，这将是历史性突破。<br><br></think><br>以下是关于 **TES对阵T1（英雄联盟S15半决赛）** 的全面信息整理，结合赛事背景、队伍动态及焦点分析：<br>### ⚔️ **一、赛事核心信息**  <br>1. **时间与地点**  <br>   - **比赛时间**：2025年11月2日（即明日）  <br>   - **地点**：上海赛场  <br>   - **赛事阶段**：S15全球总决赛半决赛（BO5赛制）。```wbCustomBlock{\"type\": \"quoted\", \"index\": 7, \"data\": {\"num\": [16], \"version\": 2, \"quote_list\": [{\"name\": \"快乐大金子\", \"scheme\": \"sinaweibo://detail?mblogid=5227896459493915\", \"index\": 16, \"label\": \"大v\"}], \"name\": \"快乐大金子\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/007SWPUQly8hnqyyp5p34j30u00u0n0d.jpg?KID=imgbed,tva&Expires=1762021766&ssig=CIzkGjV8o4\", \"scheme\": \"sinaweibo://detail?mblogid=5227896459493915\", \"vType\": 0}}```<br><br>2. **对阵双方**  <br>   - **TES**：LPL赛区独苗，此前以3:1淘汰G2晋级四强。```wbCustomBlock{\"type\": \"quoted\", \"index\": 9, \"data\": {\"num\": [20, 22], \"version\": 2, \"quote_list\": [{\"name\": \"青川游戏\", \"scheme\": \"sinaweibo://detail?mblogid=5227548486143770\", \"index\": 20, \"label\": \"\"}, {\"name\": \"财识App\", \"scheme\": \"sinaweibo://detail?mblogid=5227545446583321\", \"index\": 22, \"label\": \"\"}]}}```  <br>   - **T1**：LCK传奇战队，半决赛以3:2逆转AL晋级，延续“世界赛BO5对LPL不败”魔咒。```wbCustomBlock{\"type\": \"quoted\", \"index\": 10, \"data\": {\"num\": [6, 16], \"version\": 2, \"quote_list\": [{\"name\": \"召唤师Park\", \"scheme\": \"sinaweibo://detail?mblogid=5227933906240988\", \"index\": 6, \"label\": \"大v\"}, {\"name\": \"快乐大金子\", \"scheme\": \"sinaweibo://detail?mblogid=5227896459493915\", \"index\": 16, \"label\": \"\"}], \"name\": \"召唤师Park\", \"img\": \"https://tvax2.sinaimg.cn/crop.16.21.551.551.50/96542c59ly8geqtawegnej20gr0gq0to.jpg?KID=imgbed,tva&Expires=1762021766&ssig=bjPdUsEPOz\", \"scheme\": \"sinaweibo://detail?mblogid=5227933906240988\", \"vType\": 0}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5227896459493915&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/007SWPUQly8hnqyyp5p34j30u00u0n0d.jpg?KID=imgbed,tva&Expires=1762021766&ssig=CIzkGjV8o4) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">快乐大金子</span><img src=\"http://wx1.sinaimg.cn/middle/007SWPUQgy1i6vsnyhyd7j31kw11yk6t.jpg\" data-width=1366 data-height=2048></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5227548486143770&multi_paragraph=1&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.160.160.50/00674ybqly8h2agpiv1zoj304g04gwea.jpg?KID=imgbed,tva&Expires=1762021766&ssig=Rgn9wTNwYI) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">青川游戏</span><img src=\"http://wx4.sinaimg.cn/middle/00674ybqly1i6uopykbc5j30zk0h8js7.jpg\" data-width=620 data-height=1280></div><div data-type=\"v\" data-scheme=\"sinaweibo://multimedia?mix_mid=5227933906240988&mix_index=0&multi_paragraph=1&multi_count=2\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.16.21.551.551.50/96542c59ly8geqtawegnej20gr0gq0to.jpg?KID=imgbed,tva&Expires=1762021766&ssig=bjPdUsEPOz) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">召唤师Park</span><img src=\"http://wx4.sinaimg.cn/middle/96542c59ly1i6vx0ny8omj20fs0o4dgy.jpg\" data-width=868 data-height=568></div></media-block><br>### 🔥 **二、赛前关键动态**<br>#### **TES视角**  <br>- **选手信心**：中单Creme认为“赛区间差距不大”，胜负取决于临场反应。```wbCustomBlock{\"type\": \"quoted\", \"index\": 14, \"data\": {\"num\": [1], \"version\": 2, \"quote_list\": [{\"name\": \"竞圈风向标\", \"scheme\": \"sinaweibo://detail?mblogid=5228136607252795\", \"index\": 1, \"label\": \"大v\"}], \"name\": \"竞圈风向标\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.600.600.50/006W5FBDly8hvshq6akxvj30go0gojtd.jpg?KID=imgbed,tva&Expires=1762021766&ssig=ExN21YBjvE\", \"scheme\": \"sinaweibo://detail?mblogid=5228136607252795\", \"vType\": 0}}```  <br>- **历史心魔**：  <br>  - 2024年全球总决赛淘汰赛阶段，TES曾0:3不敌T1；  <br>  - 当前需打破“LPL在S赛BO5从未战胜T1”的魔咒（自2013年起延续12年）。```wbCustomBlock{\"type\": \"quoted\", \"index\": 17, \"data\": {\"num\": [6], \"version\": 2, \"quote_list\": [{\"name\": \"召唤师Park\", \"scheme\": \"sinaweibo://detail?mblogid=5227933906240988\", \"index\": 6, \"label\": \"\"}]}}```  <br>- **战术准备**：主教练Homme表示“无论对手是谁都无所谓”，但369等选手更希望与AL内战。```wbCustomBlock{\"type\": \"quoted\", \"index\": 18, \"data\": {\"num\": [19, 22], \"version\": 2, \"quote_list\": [{\"name\": \"英雄联盟神吐槽\", \"scheme\": \"sinaweibo://detail?mblogid=5227542430355370\", \"index\": 19, \"label\": \"大v\"}, {\"name\": \"财识App\", \"scheme\": \"sinaweibo://detail?mblogid=5227545446583321\", \"index\": 22, \"label\": \"\"}], \"name\": \"英雄联盟神吐槽\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.439.439.50/006cmbhQly8h8uglinec1j30c70c73yz.jpg?KID=imgbed,tva&Expires=1762021766&ssig=3ioVEBuU%2BC\", \"scheme\": \"sinaweibo://detail?mblogid=5227542430355370\", \"vType\": 0}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://multimedia?mix_mid=5228136607252795&mix_index=0&multi_paragraph=3&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.600.600.50/006W5FBDly8hvshq6akxvj30go0gojtd.jpg?KID=imgbed,tva&Expires=1762021766&ssig=ExN21YBjvE) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">竞圈风向标</span><img src=\"http://wx3.sinaimg.cn/middle/006W5FBDly1i6wkb0zw8tj30zk0k03z6.jpg\" data-width=720 data-height=1280></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5227542430355370&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=3&multi_count=1\"><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.439.439.50/006cmbhQly8h8uglinec1j30c70c73yz.jpg?KID=imgbed,tva&Expires=1762021766&ssig=3ioVEBuU%2BC) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">英雄联盟神吐槽</span><img src=\"http://wx2.sinaimg.cn/middle/006cmbhQgy1i6uo2fmd98j30k00b675c.jpg\" data-width=402 data-height=720></div></media-block><br>#### **T1视角**  <br>- **状态起伏**：瑞士轮表现不稳定，但淘汰赛展现强韧调整能力（让二追三AL）。```wbCustomBlock{\"type\": \"quoted\", \"index\": 20, \"data\": {\"num\": [6, 14], \"version\": 2, \"quote_list\": [{\"name\": \"召唤师Park\", \"scheme\": \"sinaweibo://detail?mblogid=5227933906240988\", \"index\": 6, \"label\": \"\"}, {\"name\": \"水母荧光信笺\", \"scheme\": \"sinaweibo://detail?mblogid=5226014566778615\", \"index\": 14, \"label\": \"\"}]}}```  <br>- **核心优势**：  <br>  - Faker伤害转化率高达208%，Oner节奏稳定；```wbCustomBlock{\"type\": \"quoted\", \"index\": 22, \"data\": {\"num\": [14], \"version\": 2, \"quote_list\": [{\"name\": \"水母荧光信笺\", \"scheme\": \"sinaweibo://detail?mblogid=5226014566778615\", \"index\": 14, \"label\": \"\"}]}}```  <br>  - 下路Gumayusi赛前放话“有信心击败TES”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 23, \"data\": {\"num\": [6], \"version\": 2, \"quote_list\": [{\"name\": \"召唤师Park\", \"scheme\": \"sinaweibo://detail?mblogid=5227933906240988\", \"index\": 6, \"label\": \"\"}]}}```  <br>- **心理压制**：T1教练赛前称“必赢AL”，延续对LPL的威慑力。```wbCustomBlock{\"type\": \"quoted\", \"index\": 24, \"data\": {\"num\": [14], \"version\": 2, \"quote_list\": [{\"name\": \"水母荧光信笺\", \"scheme\": \"sinaweibo://detail?mblogid=5226014566778615\", \"index\": 14, \"label\": \"\"}]}}```<br>### 📊 **三、历史交锋与数据对比**  <br>| **赛事时间**       | **对阵**   | **结果** | **关键点**                     |  <br>|--------------------|------------|----------|------------------------------|  <br>| 2024全球总决赛瑞士轮 | TES vs T1  | TES胜    | JackeyLove MVP           |  <br>| 2024全球总决赛八强  | TES vs T1  | T1 3:0   | TES被全面压制             |  <br>| 2025 S15八强赛     | T1 vs AL   | T1 3:2   | Faker率队逆转，破除AL赛点 |<br><br>```wbCustomBlock{\"type\": \"quoted\", \"index\": 26, \"data\": {\"num\": [6], \"version\": 2, \"quote_list\": [{\"name\": \"召唤师Park\", \"scheme\": \"sinaweibo://detail?mblogid=5227933906240988\", \"index\": 6, \"label\": \"\"}]}}```  <br><br>- **赔率与预测**：  <br>  - 外界普遍看好T1（历史交锋占优）；```wbCustomBlock{\"type\": \"quoted\", \"index\": 28, \"data\": {\"num\": [7, 18], \"version\": 2, \"quote_list\": [{\"name\": \"我是电竞小生\", \"scheme\": \"sinaweibo://detail?mblogid=5227936032754091\", \"index\": 18, \"label\": \"大v\"}, {\"name\": \"LOL动图菌\", \"scheme\": \"sinaweibo://detail?mblogid=5228286013866029\", \"index\": 7, \"label\": \"\"}], \"name\": \"我是电竞小生\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.600.600.50/006BPLKbly8gx4n5qvexbj30go0gogp4.jpg?KID=imgbed,tva&Expires=1762021766&ssig=5LGUTRcDUB\", \"scheme\": \"sinaweibo://detail?mblogid=5227936032754091\", \"vType\": 0}}```  <br>  - 但电子竞技存在变数（参考KT爆冷击败GEN）。```wbCustomBlock{\"type\": \"quoted\", \"index\": 29, \"data\": {\"num\": [7, 13], \"version\": 2, \"quote_list\": [{\"name\": \"LOL动图菌\", \"scheme\": \"sinaweibo://detail?mblogid=5228286013866029\", \"index\": 7, \"label\": \"大v\"}, {\"name\": \"桃花游戏君\", \"scheme\": \"sinaweibo://detail?mblogid=5226355148721530\", \"index\": 13, \"label\": \"\"}], \"name\": \"LOL动图菌\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.578.578.50/006k9dbSly8fr7gntvuqnj30hf0g2jsf.jpg?KID=imgbed,tva&Expires=1762021766&ssig=okm6j4L1ow\", \"scheme\": \"sinaweibo://detail?mblogid=5228286013866029\", \"vType\": 0}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://multimedia?mix_mid=5228286013866029&mix_index=0&multi_paragraph=5&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.578.578.50/006k9dbSly8fr7gntvuqnj30hf0g2jsf.jpg?KID=imgbed,tva&Expires=1762021766&ssig=okm6j4L1ow) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">LOL动图菌</span><img src=\"http://wx2.sinaimg.cn/middle/006k9dbSly1i6x1gd0zjlj30zk0k00t6.jpg\" data-width=720 data-height=1280></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5227936032754091&multi_paragraph=5&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.600.600.50/006BPLKbly8gx4n5qvexbj30go0gogp4.jpg?KID=imgbed,tva&Expires=1762021766&ssig=5LGUTRcDUB) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">我是电竞小生</span><img src=\"http://wx1.sinaimg.cn/middle/006BPLKbly1i6vx3wllwmj31hc0okac0.jpg\" data-width=884 data-height=1920></div></media-block><br>### 💎 **四、焦点议题**  <br>1. **魔咒能否打破？**  <br>   T1在S赛BO5中对LPL战队保持全胜（淘汰过RNG、EDG、JDG等），此战关乎LPL赛区历史性突破。```wbCustomBlock{\"type\": \"quoted\", \"index\": 32, \"data\": {\"num\": [6], \"version\": 2, \"quote_list\": [{\"name\": \"召唤师Park\", \"scheme\": \"sinaweibo://detail?mblogid=5227933906240988\", \"index\": 6, \"label\": \"\"}]}}```  <br><br>2. **TES的破局点**  <br>   - **下路对决**：JackeyLove的英雄池深度被类比为“EDG夺冠年的Viper”；```wbCustomBlock{\"type\": \"quoted\", \"index\": 34, \"data\": {\"num\": [2], \"version\": 2, \"quote_list\": [{\"name\": \"游戏玩家张大飞\", \"scheme\": \"sinaweibo://detail?mblogid=5228210855873491\", \"index\": 2, \"label\": \"大v\"}], \"name\": \"游戏玩家张大飞\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.511.511.50/7524b2a9ly8gzxx389u78j20e80e73yt.jpg?KID=imgbed,tva&Expires=1762021766&ssig=vXPsNAfRBT\", \"scheme\": \"sinaweibo://detail?mblogid=5228210855873491\", \"vType\": 0}}```  <br>   - **中野联动**：Creme需对抗Faker的经验压制，Oner的入侵可能成为突破口。```wbCustomBlock{\"type\": \"quoted\", \"index\": 35, \"data\": {\"num\": [1, 7], \"version\": 2, \"quote_list\": [{\"name\": \"竞圈风向标\", \"scheme\": \"sinaweibo://detail?mblogid=5228136607252795\", \"index\": 1, \"label\": \"\"}, {\"name\": \"LOL动图菌\", \"scheme\": \"sinaweibo://detail?mblogid=5228286013866029\", \"index\": 7, \"label\": \"\"}]}}```  <br><br>3. **舆论两极**  <br>   - **支持方**：朱开类比“TES复刻EDG逆袭剧本”；```wbCustomBlock{\"type\": \"quoted\", \"index\": 37, \"data\": {\"num\": [2], \"version\": 2, \"quote_list\": [{\"name\": \"游戏玩家张大飞\", \"scheme\": \"sinaweibo://detail?mblogid=5228210855873491\", \"index\": 2, \"label\": \"\"}]}}```  <br>   - **质疑方**：Doinb直言“TES整体实力不如AL，难胜T1”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 38, \"data\": {\"num\": [18], \"version\": 2, \"quote_list\": [{\"name\": \"我是电竞小生\", \"scheme\": \"sinaweibo://detail?mblogid=5227936032754091\", \"index\": 18, \"label\": \"\"}]}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5228210855873491&multi_paragraph=6&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.511.511.50/7524b2a9ly8gzxx389u78j20e80e73yt.jpg?KID=imgbed,tva&Expires=1762021766&ssig=vXPsNAfRBT) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">游戏玩家张大飞</span><img src=\"http://wx1.sinaimg.cn/middle/7524b2a9gy1i6wstbewa5j20zi0jzwl3.jpg\" data-width=719 data-height=1278></div></media-block><br>### 🏆 **五、赛事意义**  <br>胜者将晋级S15总决赛（11月9日成都举行），与GEN vs KT的胜者争夺冠军。对TES而言，此战不仅是晋级之战，更是为LPL正名的“破壁之战”🔥。```wbCustomBlock{\"type\": \"quoted\", \"index\": 40, \"data\": {\"num\": [13, 16], \"version\": 2, \"quote_list\": [{\"name\": \"桃花游戏君\", \"scheme\": \"sinaweibo://detail?mblogid=5226355148721530\", \"index\": 13, \"label\": \"\"}, {\"name\": \"快乐大金子\", \"scheme\": \"sinaweibo://detail?mblogid=5227896459493915\", \"index\": 16, \"label\": \"\"}]}}```  <br><br>> ⭐ **明日看点**：Faker能否延续传奇？TES是否会成为首支在S赛BO5击败T1的LPL队伍？答案即将揭晓！<br>",
+      "qs_status": 0,
+      "status": 2
+    }
+  },
+  "links": [
+    "sinaweibo://detail?mblogid=5228136607252795",
+    "sinaweibo://detail?mblogid=5228210855873491",
+    "sinaweibo://detail?mblogid=5227531398811342",
+    "sinaweibo://detail?mblogid=5225428816233439",
+    "sinaweibo://detail?mblogid=5225394242587014",
+    "sinaweibo://detail?mblogid=5227933906240988",
+    "sinaweibo://detail?mblogid=5228286013866029",
+    "historyweibo://5223202814432189",
+    "historyweibo://5091306528838847",
+    "historyweibo://5085521082586463",
+    "sinaweibo://detail?mblogid=5225739713778894",
+    "sinaweibo://detail?mblogid=5225339366149243",
+    "sinaweibo://detail?mblogid=5226355148721530",
+    "sinaweibo://detail?mblogid=5226014566778615",
+    "sinaweibo://detail?mblogid=5225399598449722",
+    "sinaweibo://detail?mblogid=5227896459493915",
+    "sinaweibo://detail?mblogid=5228239879409073",
+    "sinaweibo://detail?mblogid=5227936032754091",
+    "sinaweibo://detail?mblogid=5227542430355370",
+    "sinaweibo://detail?mblogid=5227548486143770",
+    "sinaweibo://detail?mblogid=5228314886408685",
+    "sinaweibo://detail?mblogid=5227545446583321",
+    "sinaweibo://detail?mblogid=5221631476893782",
+    "http://cj.sina.cn/articles/view/5794519372/m15961594c03301jw2w",
+    "https://mparticle.uc.cn/article_org.html?uc_param_str=frdnsnpfvecpntnwprdssskt#!wm_cid=716760609489689600!!wm_id=eda299a0f2564dd29911600485461f3b"
+  ],
+  "media": [
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/007SWPUQgy1i6vsnyhyd7j31kw11yk6t.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/007SWPUQgy1i6vsnyhyd7j31kw11yk6t.jpg",
+      "alt": "快乐大金子",
+      "width": 1366,
+      "height": 2048,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/007SWPUQgy1i6vsnyhyd7j31kw11yk6t.jpg"
+      ],
+      "user": "快乐大金子"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/00674ybqly1i6uopykbc5j30zk0h8js7.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/00674ybqly1i6uopykbc5j30zk0h8js7.jpg",
+      "alt": "青川游戏",
+      "width": 620,
+      "height": 1280,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/00674ybqly1i6uopykbc5j30zk0h8js7.jpg"
+      ],
+      "user": "青川游戏"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/96542c59ly1i6vx0ny8omj20fs0o4dgy.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/96542c59ly1i6vx0ny8omj20fs0o4dgy.jpg",
+      "alt": "召唤师Park",
+      "width": 868,
+      "height": 568,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/96542c59ly1i6vx0ny8omj20fs0o4dgy.jpg"
+      ],
+      "user": "召唤师Park"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/006W5FBDly1i6wkb0zw8tj30zk0k03z6.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/006W5FBDly1i6wkb0zw8tj30zk0k03z6.jpg",
+      "alt": "竞圈风向标",
+      "width": 720,
+      "height": 1280,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/006W5FBDly1i6wkb0zw8tj30zk0k03z6.jpg"
+      ],
+      "user": "竞圈风向标"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/006cmbhQgy1i6uo2fmd98j30k00b675c.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/006cmbhQgy1i6uo2fmd98j30k00b675c.jpg",
+      "alt": "英雄联盟神吐槽",
+      "width": 402,
+      "height": 720,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/006cmbhQgy1i6uo2fmd98j30k00b675c.jpg"
+      ],
+      "user": "英雄联盟神吐槽"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/006k9dbSly1i6x1gd0zjlj30zk0k00t6.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/006k9dbSly1i6x1gd0zjlj30zk0k00t6.jpg",
+      "alt": "LOL动图菌",
+      "width": 720,
+      "height": 1280,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/006k9dbSly1i6x1gd0zjlj30zk0k00t6.jpg"
+      ],
+      "user": "LOL动图菌"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/006BPLKbly1i6vx3wllwmj31hc0okac0.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/006BPLKbly1i6vx3wllwmj31hc0okac0.jpg",
+      "alt": "我是电竞小生",
+      "width": 884,
+      "height": 1920,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/006BPLKbly1i6vx3wllwmj31hc0okac0.jpg"
+      ],
+      "user": "我是电竞小生"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/7524b2a9gy1i6wstbewa5j20zi0jzwl3.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/7524b2a9gy1i6wstbewa5j20zi0jzwl3.jpg",
+      "alt": "游戏玩家张大飞",
+      "width": 719,
+      "height": 1278,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/7524b2a9gy1i6wstbewa5j20zi0jzwl3.jpg"
+      ],
+      "user": "游戏玩家张大飞"
+    }
+  ],
+  "html_path": "data/aicard/hourly/2025-11-01/23/tes-t1.html"
+}

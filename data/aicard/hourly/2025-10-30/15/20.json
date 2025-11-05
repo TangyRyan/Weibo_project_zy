@@ -1,0 +1,162 @@
+{
+  "meta": {
+    "query": "#村民称自家20棵果树疑因防蚊被清理#",
+    "status_code": 200,
+    "fetched_at": "2025-10-31T22:43:02+08:00",
+    "response": {
+      "query_field": "60",
+      "model": "deepseek",
+      "qs_status_info": "{\"qs_status\":0,\"ab_lab\":{},\"qs_c_status\":8388608,\"qs_q_status\":0,\"qs_r_status\":0,\"qs_u_status\":0}",
+      "wenda": {
+        "forward_gen": 0
+      },
+      "cot": 1,
+      "unify_md5": "3a45f1e938da62907e4cda1307ca3ef0",
+      "version": "2025-10-31 12:57:14.010999-4684",
+      "qs_status": 0,
+      "msg_format": "markdown",
+      "ext_show": {},
+      "analysis_time": 1761886750,
+      "reliable_tips": "{\"gold_orange_v_mids\": [\"5227471360491608\"], \"gold_orange_v_ratio\": \"7%\", \"media_mids\": [\"5227118716781349\", \"5227178753267731\", \"5227140760996227\", \"5227182536263643\"], \"media_ratio\": \"27%\", \"verified_mids\": [\"5227174452007353\", \"5227731904103644\", \"5227497387459762\", \"5227468843649321\", \"5227770722389508\"], \"verified_ratio\": \"33%\", \"normal_mids\": [\"5227471788314587\", \"5227782177032833\", \"5227467929292696\", \"5227178442624240\", \"5227136658964555\"], \"normal_ratio\": \"33%\", \"ref_mid_rank\": {\"5227118716781349\": {\"rank\": 1}, \"5227178753267731\": {\"rank\": 7}, \"5227174452007353\": {\"rank\": 9}, \"5227731904103644\": {\"rank\": 11}, \"5227497387459762\": {\"rank\": 18}, \"5227468843649321\": {\"rank\": 15}, \"5227471360491608\": {\"rank\": 8}, \"5227471788314587\": {\"rank\": 14}, \"5227140760996227\": {\"rank\": 10}, \"5227782177032833\": {\"rank\": 12}, \"5227770722389508\": {\"rank\": 13}, \"5227467929292696\": {\"rank\": 16}, \"5227182536263643\": {\"rank\": 17}, \"5227178442624240\": {\"rank\": 19}, \"5227136658964555\": {\"rank\": 20}}}",
+      "status": 2,
+      "uid": "",
+      "top_quote_list": {},
+      "page_id": "2329645d307ee07a9ad2ee736cfe0ef1812b1d",
+      "basemodel": "实验组3",
+      "ab_suffix": "default",
+      "msg_json": "{}",
+      "current_time": 1761921782,
+      "profile_image_url": "",
+      "user_info": {},
+      "chat_status_stage": 1,
+      "q_attr": {
+        "mid": "",
+        "comment_from_type": "",
+        "from_uid": "",
+        "from_request_id": "",
+        "reply_cid": ""
+      },
+      "query": "#村民称自家20棵果树疑因防蚊被清理#",
+      "query_category": "",
+      "status_stage": 4,
+      "news_analyze": {},
+      "link_list": [
+        "sinaweibo://detail?mblogid=5227118716781349",
+        "https://m.toutiao.com/article/7566597128936555043/",
+        "https://3g.china.com/act/news/10000169/20251029/48948391.html",
+        "https://m.toutiao.com/a7566574166120383012/",
+        "historyweibo://5227118716781349",
+        "historyweibo://5227118716781349",
+        "sinaweibo://detail?mblogid=5227178753267731",
+        "sinaweibo://detail?mblogid=5227471360491608",
+        "sinaweibo://detail?mblogid=5227174452007353",
+        "sinaweibo://detail?mblogid=5227140760996227",
+        "sinaweibo://detail?mblogid=5227731904103644",
+        "sinaweibo://detail?mblogid=5227782177032833",
+        "sinaweibo://detail?mblogid=5227770722389508",
+        "sinaweibo://detail?mblogid=5227471788314587",
+        "sinaweibo://detail?mblogid=5227468843649321",
+        "sinaweibo://detail?mblogid=5227467929292696",
+        "sinaweibo://detail?mblogid=5227182536263643",
+        "sinaweibo://detail?mblogid=5227497387459762",
+        "sinaweibo://detail?mblogid=5227178442624240",
+        "sinaweibo://detail?mblogid=5227136658964555",
+        "https://m.toutiao.com/video/7566572701503422464/",
+        "http://m.sohu.com/xtopic/TURBeE16TTJOakV3",
+        "https://new.qq.com/rain/a/20251029V059FN00",
+        "https://www.mcndata.cn/c/1983476554541441024",
+        "https://news.china.com/socialgd/10000169/20251030/48948907.html",
+        "https://m.toutiao.com/a7566622039293919787/"
+      ],
+      "card_multimodal": {},
+      "share_card_multimodal": {
+        "h": 1366,
+        "click_rate": 0,
+        "vtype": 3,
+        "img": "http://wx3.sinaimg.cn/middle/006qEEUFly1i6thsyxkx1j30sg11y1jv.jpg",
+        "img_pid": "006qEEUFly1i6thsyxkx1j30sg11y1jv",
+        "hit_score_final": 75.414062,
+        "w": 1024,
+        "type": "p",
+        "scheme": "sinaweibo://multimedia?mix_mid=5227174452007353&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=0",
+        "cur_mid": "5227174452007353",
+        "doc_score": 4153,
+        "user_name": "搜狐新闻",
+        "video_url": "",
+        "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.591.591.50/006qEEUFly1gdim1pmpi6j30gf0gfac7.jpg?KID=imgbed,tva&Expires=1761897434&ssig=V6XSgbqiEK",
+        "hit_score_new": 99.023438
+      },
+      "loop_times": 200,
+      "sorted_material_list": null,
+      "short_url": "http://t.cn/AXAwYhju",
+      "msg": "<think><br>嗯，用户查询的是关于\"村民称自家20棵果树疑因防蚊被清理\"的事件。我需要从搜索结果中整理关键信息，确保回答全面准确。<br><br>首先看事件核心事实。根据多个搜索结果，事件发生在2025年8月13日广东湛江雷州市沈塘镇。村民陈保荣（陈女士父亲）种植的20棵30年树龄菠萝蜜树被村委会用挖掘机清理。村委会声称这是响应湛江市的\"万村清洁\"行动和登革热防控要求，认为果园靠近水沟容易滋生蚊虫。但陈女士家表示这些果树是90年代响应开荒政策种植的，年收入约1万元，是重要经济来源。<br><br>关于争议焦点，主要集中在三个方面：<br>土地权属方面，镇政府文件指出地块属于村集体，个人开荒未经批准不能改变所有权。但村民认为30年实际耕种应享有权益。程序问题上，村委会称提前一天口头告知，但村民强调没有正式通知，树上未成熟果实也被毁。赔偿金额分歧更大，村民索赔10万元（含直接损失和预期收益），而村委会认为过高且未提出具体方案。<br><br>政府回应部分，警方认定清理属\"政府行为\"，不予行政处罚。镇政府建议通过诉讼解决，但协商陷入僵局。值得注意的是，村民质疑防蚊理由的真实性，因为当地并无登革热病例，且只有他家果树被清理，怀疑是有人想占用土地。<br><br>法律层面存在明显矛盾：《土地管理法》支持村集体所有权，但忽略了长期耕作的用益物权；《行政强制法》要求保障当事人权益，但村委会以\"紧急防蚊\"为由跳过必要程序。赔偿标准也缺乏明确依据。<br><br>最后看解决路径和舆论反应。村民可选择民事诉讼或行政复议。媒体评论质疑防蚊只是幌子，批评基层滥用\"公共利益\"名义。网民也普遍质疑程序合法性。<br><br>需要特别注意几个细节：挖掘机清理时果树还挂着未成熟果实；村委会指责村民报警\"把事情复杂化\"；镇政府文件显示清理前仅口头沟通。这些细节能增强回答的真实感。<br><br>综合来看，这个事件典型反映了基层治理中公共利益与个人权益的平衡难题。回答时需要客观呈现各方主张，同时指出程序瑕疵和制度缺陷，最后落脚到依法维权和基层治理改进的建议上。<br></think><br>关于广东湛江雷州市村民20棵菠萝蜜树被村委会清理事件的核心事实、争议焦点及进展如下：<br>### 🌳 **一、事件核心事实**<br>1. **时间与地点**  <br>   2025年8月13日，广东湛江雷州市沈塘镇沈塘村村民陈保荣（陈女士父亲）种植的 **20棵30年树龄菠萝蜜树** 被村委会用挖掘机清理。村委会称此举是为响应湛江市“万村清洁”行动及登革热等蚊媒防控要求，因该果园靠近水沟易滋生蚊虫。```wbCustomBlock{\"type\": \"quoted\", \"index\": 3, \"data\": {\"num\": [1], \"version\": 2, \"quote_list\": [{\"name\": \"澎湃新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5227118716781349\", \"index\": 1, \"label\": \"大v\"}], \"name\": \"澎湃新闻\", \"img\": \"https://tvax1.sinaimg.cn/crop.11.10.275.275.50/005vnhZYly8ftjmwo0bx4j308c08cq32.jpg?KID=imgbed,tva&Expires=1761897434&ssig=ra4F5L6wvX\", \"scheme\": \"sinaweibo://detail?mblogid=5227118716781349\", \"vType\": 3}}```<br><br>2. **农户主张**  <br>   - 果树系1990年代响应开荒政策种植于0.7亩荒地，年均收入约1万元，为家庭重要经济来源。```wbCustomBlock{\"type\": \"quoted\", \"index\": 5, \"data\": {\"num\": [7], \"version\": 2, \"quote_list\": [{\"name\": \"中国新闻周刊\", \"scheme\": \"sinaweibo://detail?mblogid=5227178753267731\", \"index\": 7, \"label\": \"大v\"}], \"name\": \"中国新闻周刊\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/001N9Ovwly8h8vgj46gr1j60u00u03zp02.jpg?KID=imgbed,tva&Expires=1761897434&ssig=MOzI%2FCHefT\", \"scheme\": \"sinaweibo://detail?mblogid=5227178753267731\", \"vType\": 3}}```  <br>   - 清理前仅口头告知（8月12日晚），未发正式通知，且树上未成熟果实被毁。```wbCustomBlock{\"type\": \"quoted\", \"index\": 6, \"data\": {\"num\": [9], \"version\": 2, \"quote_list\": [{\"name\": \"搜狐新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5227174452007353\", \"index\": 9, \"label\": \"大v\"}], \"name\": \"搜狐新闻\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.591.591.50/006qEEUFly1gdim1pmpi6j30gf0gfac7.jpg?KID=imgbed,tva&Expires=1761897434&ssig=V6XSgbqiEK\", \"scheme\": \"sinaweibo://detail?mblogid=5227174452007353\", \"vType\": 3}}```  <br>   - **质疑清理动机**：当地无登革热病例，周边仅其一家果树被砍，怀疑有人意图占用土地开发。```wbCustomBlock{\"type\": \"quoted\", \"index\": 7, \"data\": {\"num\": [7, 11, 18], \"version\": 2, \"quote_list\": [{\"name\": \"中国新闻周刊\", \"scheme\": \"sinaweibo://detail?mblogid=5227178753267731\", \"index\": 7, \"label\": \"\"}, {\"name\": \"搜狐新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5227731904103644\", \"index\": 11, \"label\": \"\"}, {\"name\": \"狐度工作室\", \"scheme\": \"sinaweibo://detail?mblogid=5227497387459762\", \"index\": 18, \"label\": \"\"}]}}```<br><br>3. **政府与村委回应**  <br>   - **土地权属**：镇政府认定地块属村集体所有，个人开荒未经批准不改变所有权（依据《土地管理法》第九条、第四十条）。```wbCustomBlock{\"type\": \"quoted\", \"index\": 9, \"data\": {\"num\": [1], \"version\": 2, \"quote_list\": [{\"name\": \"澎湃新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5227118716781349\", \"index\": 1, \"label\": \"\"}]}}```  <br>   - **程序问题**：村委会称清理前一日已与陈父沟通，承诺补偿但需归还土地使用权；因“防蚊紧急”未签书面协议。```wbCustomBlock{\"type\": \"quoted\", \"index\": 10, \"data\": {\"num\": [7, 9], \"version\": 2, \"quote_list\": [{\"name\": \"中国新闻周刊\", \"scheme\": \"sinaweibo://detail?mblogid=5227178753267731\", \"index\": 7, \"label\": \"\"}, {\"name\": \"搜狐新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5227174452007353\", \"index\": 9, \"label\": \"\"}]}}```  <br>   - **赔偿争议**：村民索赔10万元（含果树价值、30年预期收益及土地权益），村委会认为过高且未提具体方案。```wbCustomBlock{\"type\": \"quoted\", \"index\": 11, \"data\": {\"num\": [9], \"version\": 2, \"quote_list\": [{\"name\": \"搜狐新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5227174452007353\", \"index\": 9, \"label\": \"\"}]}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5227174452007353&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.591.591.50/006qEEUFly1gdim1pmpi6j30gf0gfac7.jpg?KID=imgbed,tva&Expires=1761897434&ssig=V6XSgbqiEK) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">搜狐新闻</span><img src=\"http://wx3.sinaimg.cn/middle/006qEEUFly1i6thsyxkx1j30sg11y1jv.jpg\" data-width=1366 data-height=1024></div></media-block><br>### ⚖️ **二、争议焦点与法律矛盾**  <br>1. **土地权益认定**  <br>   - 村委会强调土地所有权法定归属，但村民30年实际耕种形成的用益物权未获充分保障。  <br>   - 镇政府文件显示，陈女士一家无法提供开荒批准文件，但未提及历史政策背景（90年代鼓励开荒）。```wbCustomBlock{\"type\": \"quoted\", \"index\": 16, \"data\": {\"num\": [1, 7], \"version\": 2, \"quote_list\": [{\"name\": \"澎湃新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5227118716781349\", \"index\": 1, \"label\": \"\"}, {\"name\": \"中国新闻周刊\", \"scheme\": \"sinaweibo://detail?mblogid=5227178753267731\", \"index\": 7, \"label\": \"\"}]}}```<br><br>2. **程序合法性**  <br>   - 村委会以“紧急防蚊”为由跳过书面通知和赔偿前置程序，违反《行政强制法》“当事人权益优先”原则。```wbCustomBlock{\"type\": \"quoted\", \"index\": 18, \"data\": {\"num\": [15], \"version\": 2, \"quote_list\": [{\"name\": \"为有书香来\", \"scheme\": \"sinaweibo://detail?mblogid=5227468843649321\", \"index\": 15, \"label\": \"大v\"}], \"name\": \"为有书香来\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.986.986.50/8c43683aly8g2xittzj7zj20re0redhg.jpg?KID=imgbed,tva&Expires=1761897434&ssig=nd8Ib6FMIO\", \"scheme\": \"sinaweibo://detail?mblogid=5227468843649321\", \"vType\": 0}}```  <br>   - 警方认定清理属“政府行为”，驳回“故意毁财”指控，但未解决民事赔偿问题。```wbCustomBlock{\"type\": \"quoted\", \"index\": 19, \"data\": {\"num\": [1], \"version\": 2, \"quote_list\": [{\"name\": \"澎湃新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5227118716781349\", \"index\": 1, \"label\": \"\"}]}}```<br><br>3. **赔偿标准分歧**  <br>   | **村民诉求**       | **村委会态度**         |  <br>   |---------------------|------------------------|  <br>   | 10万元（市场价值评估） | 称“按行政标准赔偿”，但未公开依据 |  <br>   | 含预期收益、土地权益 | 仅愿协商“适当补偿”      |<br><br>  <br>   双方缺乏第三方评估机制，协商陷入僵局。```wbCustomBlock{\"type\": \"quoted\", \"index\": 20, \"data\": {\"num\": [7, 9], \"version\": 2, \"quote_list\": [{\"name\": \"中国新闻周刊\", \"scheme\": \"sinaweibo://detail?mblogid=5227178753267731\", \"index\": 7, \"label\": \"\"}, {\"name\": \"搜狐新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5227174452007353\", \"index\": 9, \"label\": \"\"}]}}```<br>### 📅 **三、当前进展与解决路径**  <br>1. **现状（截至2025年10月30日）**  <br>   - **协商停滞**：镇村两级称“继续协调”，但因金额分歧无实质进展。  <br>   - **村民困境**：村委会被指态度消极，未主动提供赔偿方案，沟通渠道阻塞。```wbCustomBlock{\"type\": \"quoted\", \"index\": 25, \"data\": {\"num\": [7, 9], \"version\": 2, \"quote_list\": [{\"name\": \"中国新闻周刊\", \"scheme\": \"sinaweibo://detail?mblogid=5227178753267731\", \"index\": 7, \"label\": \"\"}, {\"name\": \"搜狐新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5227174452007353\", \"index\": 9, \"label\": \"\"}]}}```<br><br>2. **法定维权途径**  <br>   - **民事诉讼**：可诉请法院确认果树经济损失，并主张程序违法（如强拆无书面决定）。```wbCustomBlock{\"type\": \"quoted\", \"index\": 27, \"data\": {\"num\": [15], \"version\": 2, \"quote_list\": [{\"name\": \"为有书香来\", \"scheme\": \"sinaweibo://detail?mblogid=5227468843649321\", \"index\": 15, \"label\": \"\"}]}}```  <br>   - **行政复议**：针对镇政府《处理意见书》中的土地权属认定或程序瑕疵提出复议。<br><br>3. **舆论与制度反思**  <br>   - **公众质疑**：网民批评村委会借“防疫”之名强占土地，警方不立案被指纵容基层滥权。```wbCustomBlock{\"type\": \"quoted\", \"index\": 30, \"data\": {\"num\": [8, 14, 15], \"version\": 2, \"quote_list\": [{\"name\": \"在考场唱忐忑\", \"scheme\": \"sinaweibo://detail?mblogid=5227471360491608\", \"index\": 8, \"label\": \"\"}, {\"name\": \"旭潇一墨\", \"scheme\": \"sinaweibo://detail?mblogid=5227471788314587\", \"index\": 14, \"label\": \"\"}, {\"name\": \"为有书香来\", \"scheme\": \"sinaweibo://detail?mblogid=5227468843649321\", \"index\": 15, \"label\": \"\"}]}}```  <br>   - **制度漏洞**：需建立集体土地开荒者补偿细则，规范基层行政程序（如清理前需达成书面赔偿或启动评估）。```wbCustomBlock{\"type\": \"quoted\", \"index\": 31, \"data\": {\"num\": [18], \"version\": 2, \"quote_list\": [{\"name\": \"狐度工作室\", \"scheme\": \"sinaweibo://detail?mblogid=5227497387459762\", \"index\": 18, \"label\": \"\"}]}}```<br>### 💎 **四、事件启示**  <br>此事折射出基层治理中“公共利益”与个体权益的失衡：政策执行若缺乏程序规范和协商诚意，易激化矛盾。村民期望协商解决，但若村委持续消极，司法途径或成最终选择。```wbCustomBlock{\"type\": \"quoted\", \"index\": 33, \"data\": {\"num\": [11, 18], \"version\": 2, \"quote_list\": [{\"name\": \"搜狐新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5227731904103644\", \"index\": 11, \"label\": \"\"}, {\"name\": \"狐度工作室\", \"scheme\": \"sinaweibo://detail?mblogid=5227497387459762\", \"index\": 18, \"label\": \"\"}]}}```<br>",
+      "scheme": "sinaweibo://cardlist?containerid=100103type%3D225%26q%3D%23%E6%9D%91%E6%B0%91%E7%A7%B0%E8%87%AA%E5%AE%B620%E6%A3%B5%E6%9E%9C%E6%A0%91%E7%96%91%E5%9B%A0%E9%98%B2%E8%9A%8A%E8%A2%AB%E6%B8%85%E7%90%86%23%26t%3D&extparam=ai_model%3Ddeepseek%26ori_ai_title%3D%E5%8F%82%E8%80%83%E5%8D%9A%E6%96%87%26material_version%3D1761886634",
+      "zs_risk_control": {
+        "think_text_close": 0,
+        "land_button_close": 0
+      },
+      "abtest_info": {
+        "chat_entrance": 1
+      },
+      "share_text": "#村民称自家20棵果树疑因防蚊被清理#的相关内容，来智搜看看",
+      "share_info": {
+        "display_name": "#村民称自家20棵果树疑因防蚊被清理#",
+        "comment_content": "",
+        "tips": "#村民称自家20棵果树疑因防蚊被清理#的相关内容，来智搜看看",
+        "unify_md5": "3a45f1e938da62907e4cda1307ca3ef0",
+        "page_id": "2329645d307ee07a9ad2ee736cfe0ef1812b1d",
+        "status": 3,
+        "url": "http://t.cn/AXA2Me2z"
+      },
+      "mid_list": null,
+      "comment_info": {},
+      "show_ctrl": {
+        "quote": {}
+      },
+      "reference_num": 15
+    }
+  },
+  "links": [
+    "sinaweibo://detail?mblogid=5227118716781349",
+    "https://m.toutiao.com/article/7566597128936555043/",
+    "https://3g.china.com/act/news/10000169/20251029/48948391.html",
+    "https://m.toutiao.com/a7566574166120383012/",
+    "historyweibo://5227118716781349",
+    "historyweibo://5227118716781349",
+    "sinaweibo://detail?mblogid=5227178753267731",
+    "sinaweibo://detail?mblogid=5227471360491608",
+    "sinaweibo://detail?mblogid=5227174452007353",
+    "sinaweibo://detail?mblogid=5227140760996227",
+    "sinaweibo://detail?mblogid=5227731904103644",
+    "sinaweibo://detail?mblogid=5227782177032833",
+    "sinaweibo://detail?mblogid=5227770722389508",
+    "sinaweibo://detail?mblogid=5227471788314587",
+    "sinaweibo://detail?mblogid=5227468843649321",
+    "sinaweibo://detail?mblogid=5227467929292696",
+    "sinaweibo://detail?mblogid=5227182536263643",
+    "sinaweibo://detail?mblogid=5227497387459762",
+    "sinaweibo://detail?mblogid=5227178442624240",
+    "sinaweibo://detail?mblogid=5227136658964555",
+    "https://m.toutiao.com/video/7566572701503422464/",
+    "http://m.sohu.com/xtopic/TURBeE16TTJOakV3",
+    "https://new.qq.com/rain/a/20251029V059FN00",
+    "https://www.mcndata.cn/c/1983476554541441024",
+    "https://news.china.com/socialgd/10000169/20251030/48948907.html",
+    "https://m.toutiao.com/a7566622039293919787/"
+  ],
+  "media": [
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/006qEEUFly1i6thsyxkx1j30sg11y1jv.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/006qEEUFly1i6thsyxkx1j30sg11y1jv.jpg",
+      "alt": "搜狐新闻",
+      "width": 1366,
+      "height": 1024,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/006qEEUFly1i6thsyxkx1j30sg11y1jv.jpg"
+      ],
+      "user": "搜狐新闻"
+    }
+  ],
+  "html_path": "data/aicard/hourly/2025-10-30/15/20.html"
+}

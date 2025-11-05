@@ -1,0 +1,499 @@
+{
+  "meta": {
+    "query": "#米卡 我真的穿了#",
+    "status_code": 200,
+    "fetched_at": "2025-10-29T05:36:22+08:00",
+    "response": {
+      "card_multimodal": {
+        "data": [
+          {
+            "click_rate": 0.24663034126757,
+            "type": "p",
+            "doc_score": 5065,
+            "img_pid": "005M7XdTgy1i6seuxvvxdj310o1k2ah0",
+            "vtype": 0,
+            "w": 1320,
+            "img": "http://wx2.sinaimg.cn/middle/005M7XdTgy1i6seuxvvxdj310o1k2ah0.jpg",
+            "scheme": "sinaweibo://multimedia?mix_mid=5226834797004849&from=search&content_show=1&mix_index=3&hide_index=1&multi_paragraph=1&multi_count=0",
+            "cur_mid": "5226834797004849",
+            "hit_score_final": 84.015625,
+            "user_name": "橘子娱乐",
+            "h": 2018,
+            "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.811.811.50/005M7XdTly8h8vnv7l2aij30mj0mj3yz.jpg?KID=imgbed,tva&Expires=1761697621&ssig=CCA7PS3skx",
+            "hit_score_new": 93.359375,
+            "video_url": ""
+          },
+          {
+            "click_rate": 0,
+            "type": "v",
+            "doc_score": 2445,
+            "img_pid": "b63be34cly1i6s88sb28gj20u0141tid",
+            "vtype": 3,
+            "w": 1080,
+            "img": "http://wx1.sinaimg.cn/middle/b63be34cly1i6s88sb28gj20u0141tid.jpg",
+            "scheme": "sinaweibo://video/vvs?mid=5226779695907795&multi_paragraph=1&multi_count=1",
+            "cur_mid": "5226779695907795",
+            "hit_score_final": 75.832817,
+            "user_name": "今日星刊",
+            "h": 1441,
+            "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.193.193.50/007bn4ssly8h8v0wr58ahj305d05dwei.jpg?KID=imgbed,tva&Expires=1761697621&ssig=YJi9JWK4TN",
+            "hit_score_new": 81.054688,
+            "video_url": "https://video.weibo.com/show?fid=1034:5226777631719507"
+          },
+          {
+            "click_rate": 0,
+            "type": "v",
+            "doc_score": 0,
+            "img_pid": "008e1qCAgy1i6sg6m65nnj30u01hcq4u",
+            "vtype": 0,
+            "w": 1080,
+            "img": "http://wx1.sinaimg.cn/middle/008e1qCAgy1i6sg6m65nnj30u01hcq4u.jpg",
+            "scheme": "sinaweibo://video/vvs?mid=5226846913823656&multi_paragraph=1&multi_count=2",
+            "cur_mid": "5226846913823656",
+            "hit_score_final": 0,
+            "user_name": "米卡MIKA",
+            "h": 1920,
+            "user_avatar": "https://tvax2.sinaimg.cn/crop.0.0.512.512.50/008e1qCAly8hp3ja6hdwbj30e80e8q3j.jpg?KID=imgbed,tva&Expires=1761697621&ssig=i6TYs865qY",
+            "hit_score_new": 0,
+            "video_url": "https://video.weibo.com/show?fid=1034:5226846627758129"
+          },
+          {
+            "click_rate": 0.24663034126757,
+            "type": "p",
+            "doc_score": 5065,
+            "img_pid": "005M7XdTgy1i6seuxvvxdj310o1k2ah0",
+            "vtype": 0,
+            "w": 1320,
+            "img": "http://wx2.sinaimg.cn/middle/005M7XdTgy1i6seuxvvxdj310o1k2ah0.jpg",
+            "scheme": "sinaweibo://multimedia?mix_mid=5226834797004849&from=search&content_show=1&mix_index=3&hide_index=1&multi_paragraph=1&multi_count=0",
+            "cur_mid": "5226834797004849",
+            "hit_score_final": 84.015625,
+            "user_name": "橘子娱乐",
+            "h": 2018,
+            "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.811.811.50/005M7XdTly8h8vnv7l2aij30mj0mj3yz.jpg?KID=imgbed,tva&Expires=1761697621&ssig=CCA7PS3skx",
+            "hit_score_new": 93.359375,
+            "video_url": ""
+          }
+        ],
+        "type": "mediablock"
+      },
+      "share_card_multimodal": {
+        "click_rate": 0.24663034126757,
+        "type": "p",
+        "doc_score": 5065,
+        "img_pid": "005M7XdTgy1i6seuxvvxdj310o1k2ah0",
+        "vtype": 0,
+        "w": 1320,
+        "img": "http://wx2.sinaimg.cn/middle/005M7XdTgy1i6seuxvvxdj310o1k2ah0.jpg",
+        "scheme": "sinaweibo://multimedia?mix_mid=5226834797004849&from=search&content_show=1&mix_index=3&hide_index=1&multi_paragraph=1&multi_count=0",
+        "cur_mid": "5226834797004849",
+        "hit_score_final": 84.015625,
+        "user_name": "橘子娱乐",
+        "h": 2018,
+        "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.811.811.50/005M7XdTly8h8vnv7l2aij30mj0mj3yz.jpg?KID=imgbed,tva&Expires=1761697621&ssig=CCA7PS3skx",
+        "hit_score_new": 93.359375,
+        "video_url": ""
+      },
+      "short_url": "http://t.cn/AXA7nuS7",
+      "basemodel": "实验组6",
+      "query": "#米卡 我真的穿了#",
+      "sorted_material_list": null,
+      "q_attr": {
+        "from_uid": "",
+        "from_request_id": ""
+      },
+      "user_info": {},
+      "zs_risk_control": {
+        "think_text_close": 0,
+        "land_button_close": 0
+      },
+      "model": "deepseek",
+      "qs_status": 0,
+      "show_ctrl": {
+        "quote": {}
+      },
+      "qs_status_info": "{\"qs_q_status\":0,\"qs_u_status\":0,\"ab_lab\":{},\"qs_r_status\":0,\"qs_c_status\":8388608,\"qs_status\":0}",
+      "loop_times": 200,
+      "uid": "",
+      "unify_md5": "fe8401f9a950f604964cabc44f4c1a0b",
+      "ab_suffix": "default",
+      "version": "2025-10-29 05:27:01.059999-8926",
+      "scheme": "sinaweibo://cardlist?containerid=100103type%3D225%26q%3D%23%E7%B1%B3%E5%8D%A1%20%E6%88%91%E7%9C%9F%E7%9A%84%E7%A9%BF%E4%BA%86%23%26t%3D&extparam=ai_model%3Ddeepseek%26ori_ai_title%3D%E5%8F%82%E8%80%83%E5%8D%9A%E6%96%87%26material_version%3D1761686821",
+      "ext_show": {},
+      "msg": "<think><br><br>嗯，用户让我整理关于\"米卡 我真的穿了\"的信息。首先需要仔细分析搜索结果，找出核心事件。从搜索结果看，这主要涉及米卡在2025年10月28日ELLE风尚大典上的红毯造型引发的争议。用户可能是在热搜上看到这个话题，想了解事件全貌。<br><br>我注意到结果20、21、22都是资料型内容，详细描述了事件经过。根据这些信息，米卡穿着的是法国品牌Courrèges 2025早春系列服饰，正面是红黑几何拼接的抹胸设计，背面采用肉色透视薄纱，在强风环境下造成\"没穿衣服\"的视觉错觉，直接催生了话题#米卡穿了吗#。这个话题单日阅读量破亿，说明关注度极高。<br><br>米卡本人当天通过微博回应：\"大家！我真的穿了！！！\"并带上话题标签。这条微博来自他的大V认证账号，是核心回应内容。结果52显示橘子娱乐也报道了米卡的回应\"我真的穿了衣服\"，还提到热搜排名情况。<br><br>关于造型的时尚解读，结果21提到品牌官方定义这是\"极简主义与身体美学的融合\"，背部薄纱旨在将身体转化为\"光影画布\"。结果20补充说明这种设计结合现场红蓝灯光能强化戏剧张力。<br><br>用户可能还想知道米卡以往的类似造型。结果21列举了他之前的突破性造型：2024年VOGUE盛典肩扛未裁剪牛仔布，2025年VOGUE盛典穿婚纱西装混搭高定。结果6和11提到他在2025年10月23日VOGUE盛典的婚纱造型。结果61则提到5月芭莎派对的Rick Owens透视战甲造型。<br><br>舆论反应方面，支持者认为他打破红毯常规，业内称其为\"内娱红毯叙事艺术家\"。但结果40、66等显示部分网友质疑\"过度暴露\"和实用性问题。结果24提到他因低温发抖的画面引发粉丝关切。<br><br>结果18和19提供了风险提示，指出\"内娱红毯叙事艺术家\"称号尚未被权威机构认证，属于网友主观评价。关于Rick Owens单品搜索量上涨的说法，也缺乏官方数据证实。<br><br>总结下来，需要围绕四个维度构建回答：争议事件本身（造型细节+本人回应）、时尚本质解读（设计理念+米卡时尚人设）、舆论反响（支持与质疑）、行业价值（边界探讨+风险提示）。重点突出10月28日事件的核心矛盾点——艺术表达与公众认知的碰撞。<br><br></think><br>关于米卡在ELLE风尚大典红毯造型引发的热议事件\"米卡 我真的穿了\"，核心脉络与各方解读综合如下：<br>### 🔥 **事件焦点：红毯造型争议**<br>1. **视觉错觉引爆全网玩梗**  <br>   米卡身穿法国品牌Courrèges 2025早春系列服饰亮相，正面为红黑几何拼接的极简抹胸设计，背部采用大面积肉色透视薄纱。现场强风导致薄纱紧贴身体，远观形成\"未穿衣服\"的错觉，尤其背部肌肉线条清晰可见，直接催生热搜话题 **#米卡穿了吗#**（单日阅读量破亿）。网友调侃造型像\"胸前披块布\"\"赤色鸳鸯肚兜\"，甚至发起\"马赛克P图大赛\"。```wbCustomBlock{\"type\": \"quoted\", \"index\": 4, \"data\": {\"num\": [24, 26, 27, 70], \"version\": 2, \"quote_list\": [{\"name\": \"小鸡呀天\", \"scheme\": \"sinaweibo://detail?mblogid=5226784637584919\", \"index\": 27, \"label\": \"大v\"}, {\"name\": \"娱乐拌饭\", \"scheme\": \"sinaweibo://detail?mblogid=5226776219091655\", \"index\": 24, \"label\": \"\"}, {\"name\": \"采个小福猫99\", \"scheme\": \"sinaweibo://detail?mblogid=5226818006419157\", \"index\": 26, \"label\": \"\"}, {\"name\": \"今日星刊\", \"scheme\": \"sinaweibo://detail?mblogid=5226779695907795\", \"index\": 70, \"label\": \"\"}], \"name\": \"小鸡呀天\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.440.440.50/008qmFONly8gyweg36d6bj30c80c8aa5.jpg?KID=imgbed,tva&Expires=1761697621&ssig=Uv4kppu8hJ\", \"scheme\": \"sinaweibo://detail?mblogid=5226784637584919\", \"vType\": 0}}```<br><br>2. **米卡亲自幽默回应**  <br>   争议爆发后，米卡通过微博连用三个感叹号发文 **\"大家！我真的穿了！！！\"** ，并带话题标签澄清。后续采访中，他进一步解释这是\"有设计感的完整造型\"，以轻松态度化解误会。工作室则回应称\"时尚需要冒险精神，感谢海风为造型加持动态美\"。```wbCustomBlock{\"type\": \"quoted\", \"index\": 5, \"data\": {\"num\": [1, 52], \"version\": 2, \"quote_list\": [{\"name\": \"米卡MIKA\", \"scheme\": \"sinaweibo://detail?mblogid=5226846913823656\", \"index\": 1, \"label\": \"大v\"}, {\"name\": \"橘子娱乐\", \"scheme\": \"sinaweibo://detail?mblogid=5226834797004849\", \"index\": 52, \"label\": \"\"}], \"name\": \"米卡MIKA\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.512.512.50/008e1qCAly8hp3ja6hdwbj30e80e8q3j.jpg?KID=imgbed,tva&Expires=1761697621&ssig=i6TYs865qY\", \"scheme\": \"sinaweibo://detail?mblogid=5226846913823656\", \"vType\": 0}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5226834797004849&from=search&content_show=1&mix_index=3&hide_index=1&multi_paragraph=1&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.811.811.50/005M7XdTly8h8vnv7l2aij30mj0mj3yz.jpg?KID=imgbed,tva&Expires=1761697621&ssig=CCA7PS3skx) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">橘子娱乐</span><img src=\"http://wx2.sinaimg.cn/middle/005M7XdTgy1i6seuxvvxdj310o1k2ah0.jpg\" data-width=2018 data-height=1320></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5226779695907795&multi_paragraph=1&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.193.193.50/007bn4ssly8h8v0wr58ahj305d05dwei.jpg?KID=imgbed,tva&Expires=1761697621&ssig=YJi9JWK4TN) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">今日星刊</span><img src=\"http://wx1.sinaimg.cn/middle/b63be34cly1i6s88sb28gj20u0141tid.jpg\" data-width=1441 data-height=1080></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5226846913823656&multi_paragraph=1&multi_count=2\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.512.512.50/008e1qCAly8hp3ja6hdwbj30e80e8q3j.jpg?KID=imgbed,tva&Expires=1761697621&ssig=i6TYs865qY) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">米卡MIKA</span><img src=\"http://wx1.sinaimg.cn/middle/008e1qCAgy1i6sg6m65nnj30u01hcq4u.jpg\" data-width=1920 data-height=1080></div></media-block><br>### 💎 **造型的时尚本质与行业解读**<br>1. **设计理念**  <br>   品牌官方定义该造型为 **\"极简主义与身体美学的融合\"**：通过几何切割突出肩颈线条，背部薄纱将身体转化为\"光影画布\"，结合红蓝灯光强化戏剧张力。实际为完整时装结构，非\"未穿\"或\"贴布\"。```wbCustomBlock{\"type\": \"quoted\", \"index\": 8, \"data\": {\"num\": [43], \"version\": 2, \"quote_list\": [{\"name\": \"24k金海牛\", \"scheme\": \"sinaweibo://detail?mblogid=5226789890952327\", \"index\": 43, \"label\": \"\"}]}}```<br><br>2. **米卡的时尚人设延续**  <br>   **\"非安全牌\"先锋风格**是其标志性特质：<br>   - **2024年VOGUE盛典**：肩扛未裁剪牛仔布出场，解构时尚工业流程；```wbCustomBlock{\"type\": \"quoted\", \"index\": 10, \"data\": {\"num\": [26], \"version\": 2, \"quote_list\": [{\"name\": \"采个小福猫99\", \"scheme\": \"sinaweibo://detail?mblogid=5226818006419157\", \"index\": 26, \"label\": \"\"}]}}```<br>   - **2025年VOGUE盛典**：穿婚纱西装混搭高定，以\"自我婚礼\"概念突破性别界限；```wbCustomBlock{\"type\": \"quoted\", \"index\": 11, \"data\": {\"num\": [6, 11, 13], \"version\": 2, \"quote_list\": [{\"name\": \"Top黑化版小童鞋\", \"scheme\": \"sinaweibo://detail?mblogid=5224979726600379\", \"index\": 6, \"label\": \"\"}, {\"name\": \"失联养樂多\", \"scheme\": \"sinaweibo://detail?mblogid=5224973945803956\", \"index\": 11, \"label\": \"\"}, {\"name\": \"喂I我草莓\", \"scheme\": \"sinaweibo://detail?mblogid=5224991303930302\", \"index\": 13, \"label\": \"\"}]}}```<br>   - **2025年芭莎派对**：Rick Owens透视装叠加金箔妆，打造\"赛博战损\"美学。  <br>   业内评价其 **\"将红毯转化为叙事艺术\"** ，通过身体媒介挑战传统审美边界。```wbCustomBlock{\"type\": \"quoted\", \"index\": 12, \"data\": {\"num\": [36, 61, 62], \"version\": 2, \"quote_list\": [{\"name\": \"星露笑脸\", \"scheme\": \"sinaweibo://detail?mblogid=5226839949708149\", \"index\": 36, \"label\": \"\"}, {\"name\": \"米卡Mika-FashionNotes\", \"scheme\": \"sinaweibo://detail?mblogid=5171312544711950\", \"index\": 61, \"label\": \"\"}, {\"name\": \"越来越亚\", \"scheme\": \"sinaweibo://detail?mblogid=5226870767616062\", \"index\": 62, \"label\": \"\"}]}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5226789890952327&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=2&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.512.512.50/007VSLksly8i1lxdfcer1j30e80e8mxo.jpg?KID=imgbed,tva&Expires=1761697621&ssig=8CqVlPqDfY) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">24k金海牛</span><img src=\"http://wx3.sinaimg.cn/middle/007VSLksgy1i6s9kde3ajg307u0dwu19.gif\" data-width=500 data-height=282></div><div data-type=\"v\" data-scheme=\"sinaweibo://multimedia?mix_mid=5224979726600379&mix_index=0&multi_paragraph=2&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.1024.1024.50/007CYAYnly8i13mulyug2j30sg0sgtao.jpg?KID=imgbed,tva&Expires=1761697621&ssig=KA6cwMMA%2Bi) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">Top黑化版小童鞋</span><img src=\"http://wx1.sinaimg.cn/middle/007CYAYnly1i6mhqg36qfj30u01hcjtl.jpg\" data-width=1920 data-height=1080></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5224973945803956&multi_paragraph=2&multi_count=2\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/006GiIvJly8gdejvp4rfbj30u00u0gm4.jpg?KID=imgbed,tva&Expires=1761697621&ssig=fYvqNuqfqk) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">失联养樂多</span><img src=\"http://wx2.sinaimg.cn/middle/006GiIvJgy1i6mhl2b86aj30u01hcn2g.jpg\" data-width=1920 data-height=1080></div><div data-type=\"v\" data-scheme=\"sinaweibo://multimedia?mix_mid=5224991303930302&mix_index=0&multi_paragraph=2&multi_count=3\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/006iMP6Vly8i6l8fxjolkj30u00u0tas.jpg?KID=imgbed,tva&Expires=1761697621&ssig=10y3ifG8fk) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">喂I我草莓</span><img src=\"http://wx2.sinaimg.cn/middle/006iMP6Vly1i6mj2e25bij30k00zkgmh.jpg\" data-width=1280 data-height=720></div></media-block><br>### 🌊 **舆论反响两极分化**<br>1. **支持声浪**  <br>   - **肯定先锋性**：赞其打破\"红毯西装垄断\"，推动男性时尚表达多元化。时尚媒体认为造型延续Courrèges 1960年代太空美学的解构精神。```wbCustomBlock{\"type\": \"quoted\", \"index\": 16, \"data\": {\"num\": [32, 55], \"version\": 2, \"quote_list\": [{\"name\": \"拉布拉蝶子\", \"scheme\": \"sinaweibo://detail?mblogid=5226784984405465\", \"index\": 32, \"label\": \"\"}, {\"name\": \"粗心的小心超人\", \"scheme\": \"sinaweibo://detail?mblogid=5226801849964704\", \"index\": 55, \"label\": \"\"}]}}```<br>   - **粉丝创意互动**：调侃\"米卡穿空气都能走成高定\"，并制作\"红温了\"表情包（因米卡现场害羞脸红）。```wbCustomBlock{\"type\": \"quoted\", \"index\": 17, \"data\": {\"num\": [34, 41], \"version\": 2, \"quote_list\": [{\"name\": \"艾玛娱乐菌\", \"scheme\": \"sinaweibo://detail?mblogid=5226741658552284\", \"index\": 41, \"label\": \"大v\"}, {\"name\": \"143mph·Mika\", \"scheme\": \"sinaweibo://detail?mblogid=5226752886702878\", \"index\": 34, \"label\": \"\"}], \"name\": \"艾玛娱乐菌\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.828.828.50/006qj4jkly8gdi6uihluij30n00n0ta0.jpg?KID=imgbed,tva&Expires=1761697621&ssig=b8mEjHCZu6\", \"scheme\": \"sinaweibo://detail?mblogid=5226741658552284\", \"vType\": 0}}```<br><br>2. **质疑与关切**  <br>   - **过度暴露争议**：部分舆论质疑设计\"美感有限\"，调侃\"挡错位置\"（正面遮腹肌、背面透视）。```wbCustomBlock{\"type\": \"quoted\", \"index\": 19, \"data\": {\"num\": [40, 66, 67], \"version\": 2, \"quote_list\": [{\"name\": \"忆雾曲\", \"scheme\": \"sinaweibo://detail?mblogid=5226832301396617\", \"index\": 40, \"label\": \"\"}, {\"name\": \"我修猫呢\", \"scheme\": \"sinaweibo://detail?mblogid=5226820085485116\", \"index\": 66, \"label\": \"\"}, {\"name\": \"馒头大王--\", \"scheme\": \"sinaweibo://detail?mblogid=5226792174487645\", \"index\": 67, \"label\": \"\"}]}}```<br>   - **健康担忧**：低温环境中米卡明显颤抖的画面引发粉丝呼吁\"艺术需兼顾保暖\"。```wbCustomBlock{\"type\": \"quoted\", \"index\": 20, \"data\": {\"num\": [24, 63], \"version\": 2, \"quote_list\": [{\"name\": \"恶女定论\", \"scheme\": \"sinaweibo://detail?mblogid=5226799531034137\", \"index\": 63, \"label\": \"大v\"}, {\"name\": \"娱乐拌饭\", \"scheme\": \"sinaweibo://detail?mblogid=5226776219091655\", \"index\": 24, \"label\": \"\"}], \"name\": \"恶女定论\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/008tpJEDly8i6rd8sblu7j30u00u0jsr.jpg?KID=imgbed,tva&Expires=1761697621&ssig=rixS7NOISC\", \"scheme\": \"sinaweibo://detail?mblogid=5226799531034137\", \"vType\": 0}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5226820085485116&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=3&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/007ESEn0ly8i6qfqi6hz4j30u00u0go0.jpg?KID=imgbed,tva&Expires=1761697621&ssig=amyyAHLI1K) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">我修猫呢</span><img src=\"http://wx2.sinaimg.cn/middle/007ESEn0gy1i6sd2uuqrbj30qo140jsz.jpg\" data-width=1440 data-height=960></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5226832301396617&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=3&multi_count=1\"><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.1.1078.1078.50/008rFKwbly8i6rc0aso5aj30ty0u0aed.jpg?KID=imgbed,tva&Expires=1761697621&ssig=nxdI9iCBI7) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">忆雾曲</span><img src=\"http://wx3.sinaimg.cn/middle/008rFKwbly1i6sei5689ej318z0u0aer.jpg\" data-width=1080 data-height=1619></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5226741658552284&from=search&content_show=1&mix_index=2&hide_index=1&multi_paragraph=3&multi_count=2\"><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.828.828.50/006qj4jkly8gdi6uihluij30n00n0ta0.jpg?KID=imgbed,tva&Expires=1761697621&ssig=b8mEjHCZu6) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">艾玛娱乐菌</span><img src=\"http://wx4.sinaimg.cn/middle/006qj4jkly1i6s46yxmkkj30qo0zkmyh.jpg\" data-width=1280 data-height=960></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5226792174487645&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=3&multi_count=3\"><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.191.191.50/008tuxbsly8hv0tcz7ip2j305b05baa0.jpg?KID=imgbed,tva&Expires=1761697621&ssig=vF%2FT334N89) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">馒头大王--</span><img src=\"http://wx2.sinaimg.cn/middle/008tuxbsly1i6s9weht4ug30js0b47wk.gif\" data-width=400 data-height=712></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5226799531034137&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=3&multi_count=4\"><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/008tpJEDly8i6rd8sblu7j30u00u0jsr.jpg?KID=imgbed,tva&Expires=1761697621&ssig=rixS7NOISC) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">恶女定论</span><img src=\"http://wx3.sinaimg.cn/middle/008tpJEDly1i6saqvs7prj31jk223qh7.jpg\" data-width=2667 data-height=2000></div><div data-type=\"v\" data-scheme=\"sinaweibo://multimedia?mix_mid=5226784984405465&mix_index=0&multi_paragraph=3&multi_count=5\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.362.362.50/008pKPuwly8i66bh9r410j30a20a2aa4.jpg?KID=imgbed,tva&Expires=1761697621&ssig=%2B7SYyEfXVP) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">拉布拉蝶子</span><img src=\"http://wx1.sinaimg.cn/middle/008pKPuwly1i6s928mwc4j30k00zkgm6.jpg\" data-width=1280 data-height=720></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5226752886702878&multi_paragraph=3&multi_count=6\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/7b7b6aa3ly8h869bg3q1kj20u00u0jtr.jpg?KID=imgbed,tva&Expires=1761697621&ssig=NZGZYAukW4) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">143mph·Mika</span><img src=\"http://wx1.sinaimg.cn/middle/7b7b6aa3ly1i6s5cv7xttj20u01hc40m.jpg\" data-width=1920 data-height=1080></div></media-block><br>### 💡 **事件本质：时尚边界的公共讨论**<br>1. **文化价值**  <br>   此次争议推动公众对 **\"裸露与艺术的认知界限\"** 的深度探讨，印证米卡主张 **\"衣服不该有性别标签\"** 的先锋态度。网友总结：\"别人走红毯，米卡办展览\"。```wbCustomBlock{\"type\": \"quoted\", \"index\": 23, \"data\": {\"num\": [36, 55, 72], \"version\": 2, \"quote_list\": [{\"name\": \"星露笑脸\", \"scheme\": \"sinaweibo://detail?mblogid=5226839949708149\", \"index\": 36, \"label\": \"\"}, {\"name\": \"粗心的小心超人\", \"scheme\": \"sinaweibo://detail?mblogid=5226801849964704\", \"index\": 55, \"label\": \"\"}, {\"name\": \"chae3玫肆\", \"scheme\": \"sinaweibo://detail?mblogid=5226825304244889\", \"index\": 72, \"label\": \"\"}]}}```<br><br>2. **行业影响力**  <br>   - **商业效应**：其造型常引发同款搜索激增（如网传Rick Owens单品搜索量上涨，但需注意缺乏官方数据验证）。<br>   - **趋势引领**：持续输出 **\"肌肉×柔媚材质\"冲突美学**，被誉\"行走的时尚教科书\"。```wbCustomBlock{\"type\": \"quoted\", \"index\": 26, \"data\": {\"num\": [8, 61, 64], \"version\": 2, \"quote_list\": [{\"name\": \"高定bot\", \"scheme\": \"sinaweibo://detail?mblogid=5222141538599713\", \"index\": 8, \"label\": \"大v\"}, {\"name\": \"米卡Mika-FashionNotes\", \"scheme\": \"sinaweibo://detail?mblogid=5171312544711950\", \"index\": 61, \"label\": \"\"}, {\"name\": \"娱乐青年孙奋斗\", \"scheme\": \"sinaweibo://detail?mblogid=5208926681564379\", \"index\": 64, \"label\": \"\"}], \"name\": \"高定bot\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.512.512.50/006uzmerly8h0pghscl48j30e80e874z.jpg?KID=imgbed,tva&Expires=1761697621&ssig=5ZtNvNFQDT\", \"scheme\": \"sinaweibo://detail?mblogid=5222141538599713\", \"vType\": 0}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5222141538599713&from=search&content_show=1&mix_index=5&hide_index=1&multi_paragraph=4&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.512.512.50/006uzmerly8h0pghscl48j30e80e874z.jpg?KID=imgbed,tva&Expires=1761697621&ssig=5ZtNvNFQDT) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">高定bot</span><img src=\"http://wx2.sinaimg.cn/middle/006uzmergy1i6detuezcqj30v21jeb29.jpg\" data-width=1994 data-height=1118></div></media-block><br>### ⚠️ **风险提示**<br>1. **称号与数据需谨慎引用**  <br>   \"内娱红毯叙事艺术家\"属网友主观评价，尚未获权威机构认证；网传单品搜索量暴涨数据缺乏官方来源佐证。<br>   <br>2. **艺术表达的场合适应性**  <br>   公众人物需平衡先锋设计与健康风险（如低温裸露），普通消费者借鉴时建议优先考虑实用性与舒适度。```wbCustomBlock{\"type\": \"quoted\", \"index\": 30, \"data\": {\"num\": [24], \"version\": 2, \"quote_list\": [{\"name\": \"娱乐拌饭\", \"scheme\": \"sinaweibo://detail?mblogid=5226776219091655\", \"index\": 24, \"label\": \"\"}]}}```<br>",
+      "wenda": {
+        "forward_gen": 0
+      },
+      "share_info": {
+        "unify_md5": "fe8401f9a950f604964cabc44f4c1a0b",
+        "url": "http://t.cn/AXA7RnZM",
+        "tips": "#米卡 我真的穿了#的相关内容，来智搜看看",
+        "display_name": "#米卡 我真的穿了#",
+        "status": 3,
+        "page_id": "232964e89632fb433f40d31efb0ae17c65f51e"
+      },
+      "analysis_time": 1761687079,
+      "current_time": 1761687383,
+      "query_field": "1",
+      "chat_status_stage": 1,
+      "msg_json": "{}",
+      "profile_image_url": "",
+      "cot": 1,
+      "news_analyze": {},
+      "reliable_tips": "{\"gold_orange_v_mids\": [\"5226776219091655\", \"5226818006419157\", \"5226784637584919\", \"5226846913823656\", \"5226834797004849\", \"5226789890952327\", \"5224979726600379\", \"5224973945803956\", \"5224991303930302\", \"5226839949708149\", \"5171312544711950\", \"5226870767616062\", \"5226784984405465\", \"5226752886702878\", \"5226741658552284\", \"5226832301396617\", \"5226820085485116\", \"5226792174487645\", \"5226799531034137\", \"5226825304244889\", \"5222141538599713\", \"5208926681564379\", \"5226776613096862\", \"5226793775928733\", \"5208693360821087\", \"5208673117012279\", \"5226785719717216\", \"5082847355866521\", \"4981519163067152\", \"5226794718594984\", \"5110713221382149\", \"5226871226895732\", \"5226778488211889\", \"5226821361602472\", \"5226780035123655\", \"5226785782631639\", \"5226786586625411\", \"5226796208621524\", \"5226775854711431\", \"5226784737201841\", \"5226777251154620\", \"5226827993058878\", \"5226829227231584\", \"5226757112205239\", \"5226822149082334\", \"5226786175846739\", \"5226814962406453\", \"5226834090265213\", \"5226770124506255\", \"5225087331467806\", \"5226863322467157\", \"5226777191907517\", \"5226872833312911\", \"5182841576752071\", \"5214487457302185\", \"5110717591586906\"], \"gold_orange_v_ratio\": \"78%\", \"media_mids\": [], \"media_ratio\": \"0%\", \"verified_mids\": [\"5226779695907795\", \"5212005948460689\", \"5214016215454845\", \"4983221379662669\", \"5226816840141522\", \"5226777183782033\", \"5218357319567282\", \"5215186430200053\", \"5212611486420016\", \"5151496845659524\", \"5224693923315977\", \"5217587249809052\", \"5149257518811614\"], \"verified_ratio\": \"18%\", \"normal_mids\": [\"5226801849964704\", \"5226852664738817\", \"5226811501839766\"], \"normal_ratio\": \"4%\", \"ref_mid_rank\": {\"5226776219091655\": {\"rank\": 24}, \"5226818006419157\": {\"rank\": 26}, \"5226784637584919\": {\"rank\": 27}, \"5226779695907795\": {\"rank\": 70}, \"5226846913823656\": {\"rank\": 1}, \"5226834797004849\": {\"rank\": 52}, \"5226789890952327\": {\"rank\": 43}, \"5224979726600379\": {\"rank\": 6}, \"5224973945803956\": {\"rank\": 11}, \"5224991303930302\": {\"rank\": 13}, \"5226839949708149\": {\"rank\": 36}, \"5171312544711950\": {\"rank\": 61}, \"5226870767616062\": {\"rank\": 62}, \"5226784984405465\": {\"rank\": 32}, \"5226801849964704\": {\"rank\": 55}, \"5226752886702878\": {\"rank\": 34}, \"5226741658552284\": {\"rank\": 41}, \"5226832301396617\": {\"rank\": 40}, \"5226820085485116\": {\"rank\": 66}, \"5226792174487645\": {\"rank\": 67}, \"5226799531034137\": {\"rank\": 63}, \"5226825304244889\": {\"rank\": 72}, \"5222141538599713\": {\"rank\": 8}, \"5208926681564379\": {\"rank\": 64}, \"5226776613096862\": {\"rank\": 2}, \"5212005948460689\": {\"rank\": 3}, \"5226793775928733\": {\"rank\": 4}, \"5208693360821087\": {\"rank\": 5}, \"5214016215454845\": {\"rank\": 7}, \"5208673117012279\": {\"rank\": 9}, \"5226785719717216\": {\"rank\": 10}, \"5082847355866521\": {\"rank\": 12}, \"4983221379662669\": {\"rank\": 14}, \"4981519163067152\": {\"rank\": 15}, \"5226794718594984\": {\"rank\": 16}, \"5110713221382149\": {\"rank\": 17}, \"5226871226895732\": {\"rank\": 23}, \"5226778488211889\": {\"rank\": 25}, \"5226821361602472\": {\"rank\": 28}, \"5226780035123655\": {\"rank\": 29}, \"5226785782631639\": {\"rank\": 30}, \"5226786586625411\": {\"rank\": 31}, \"5226816840141522\": {\"rank\": 33}, \"5226852664738817\": {\"rank\": 35}, \"5226796208621524\": {\"rank\": 37}, \"5226775854711431\": {\"rank\": 38}, \"5226784737201841\": {\"rank\": 39}, \"5226777251154620\": {\"rank\": 42}, \"5226777183782033\": {\"rank\": 44}, \"5226827993058878\": {\"rank\": 45}, \"5226829227231584\": {\"rank\": 46}, \"5226757112205239\": {\"rank\": 47}, \"5226822149082334\": {\"rank\": 48}, \"5226786175846739\": {\"rank\": 49}, \"5226814962406453\": {\"rank\": 50}, \"5226811501839766\": {\"rank\": 51}, \"5226834090265213\": {\"rank\": 53}, \"5218357319567282\": {\"rank\": 54}, \"5226770124506255\": {\"rank\": 56}, \"5225087331467806\": {\"rank\": 57}, \"5215186430200053\": {\"rank\": 58}, \"5226863322467157\": {\"rank\": 59}, \"5226777191907517\": {\"rank\": 60}, \"5212611486420016\": {\"rank\": 65}, \"5226872833312911\": {\"rank\": 68}, \"5151496845659524\": {\"rank\": 69}, \"5182841576752071\": {\"rank\": 71}, \"5214487457302185\": {\"rank\": 73}, \"5224693923315977\": {\"rank\": 74}, \"5217587249809052\": {\"rank\": 75}, \"5149257518811614\": {\"rank\": 76}, \"5110717591586906\": {\"rank\": 77}}}",
+      "msg_format": "markdown",
+      "mid_list": null,
+      "share_text": "#米卡 我真的穿了#的相关内容，来智搜看看",
+      "status": 2,
+      "page_id": "232964e89632fb433f40d31efb0ae17c65f51e",
+      "reference_num": 72,
+      "query_category": "Ip",
+      "status_stage": 4,
+      "link_list": [
+        "sinaweibo://detail?mblogid=5226846913823656",
+        "sinaweibo://detail?mblogid=5226776613096862",
+        "sinaweibo://detail?mblogid=5212005948460689",
+        "sinaweibo://detail?mblogid=5226793775928733",
+        "sinaweibo://detail?mblogid=5208693360821087",
+        "sinaweibo://detail?mblogid=5224979726600379",
+        "sinaweibo://detail?mblogid=5214016215454845",
+        "sinaweibo://detail?mblogid=5222141538599713",
+        "sinaweibo://detail?mblogid=5208673117012279",
+        "sinaweibo://detail?mblogid=5226785719717216",
+        "sinaweibo://detail?mblogid=5224973945803956",
+        "sinaweibo://detail?mblogid=5082847355866521",
+        "sinaweibo://detail?mblogid=5224991303930302",
+        "sinaweibo://detail?mblogid=4983221379662669",
+        "sinaweibo://detail?mblogid=4981519163067152",
+        "sinaweibo://detail?mblogid=5226794718594984",
+        "sinaweibo://detail?mblogid=5110713221382149",
+        "broadsocial_res://",
+        "broadsocial_res://",
+        "historyweibo://5226846913823656",
+        "historyweibo://5226846913823656",
+        "historyweibo://5226846913823656",
+        "sinaweibo://detail?mblogid=5226871226895732",
+        "sinaweibo://detail?mblogid=5226776219091655",
+        "sinaweibo://detail?mblogid=5226778488211889",
+        "sinaweibo://detail?mblogid=5226818006419157",
+        "sinaweibo://detail?mblogid=5226784637584919",
+        "sinaweibo://detail?mblogid=5226821361602472",
+        "sinaweibo://detail?mblogid=5226780035123655",
+        "sinaweibo://detail?mblogid=5226785782631639",
+        "sinaweibo://detail?mblogid=5226786586625411",
+        "sinaweibo://detail?mblogid=5226784984405465",
+        "sinaweibo://detail?mblogid=5226816840141522",
+        "sinaweibo://detail?mblogid=5226752886702878",
+        "sinaweibo://detail?mblogid=5226852664738817",
+        "sinaweibo://detail?mblogid=5226839949708149",
+        "sinaweibo://detail?mblogid=5226796208621524",
+        "sinaweibo://detail?mblogid=5226775854711431",
+        "sinaweibo://detail?mblogid=5226784737201841",
+        "sinaweibo://detail?mblogid=5226832301396617",
+        "sinaweibo://detail?mblogid=5226741658552284",
+        "sinaweibo://detail?mblogid=5226777251154620",
+        "sinaweibo://detail?mblogid=5226789890952327",
+        "sinaweibo://detail?mblogid=5226777183782033",
+        "sinaweibo://detail?mblogid=5226827993058878",
+        "sinaweibo://detail?mblogid=5226829227231584",
+        "sinaweibo://detail?mblogid=5226757112205239",
+        "sinaweibo://detail?mblogid=5226822149082334",
+        "sinaweibo://detail?mblogid=5226786175846739",
+        "sinaweibo://detail?mblogid=5226814962406453",
+        "sinaweibo://detail?mblogid=5226811501839766",
+        "sinaweibo://detail?mblogid=5226834797004849",
+        "sinaweibo://detail?mblogid=5226834090265213",
+        "sinaweibo://detail?mblogid=5218357319567282",
+        "sinaweibo://detail?mblogid=5226801849964704",
+        "sinaweibo://detail?mblogid=5226770124506255",
+        "sinaweibo://detail?mblogid=5225087331467806",
+        "sinaweibo://detail?mblogid=5215186430200053",
+        "sinaweibo://detail?mblogid=5226863322467157",
+        "sinaweibo://detail?mblogid=5226777191907517",
+        "sinaweibo://detail?mblogid=5171312544711950",
+        "sinaweibo://detail?mblogid=5226870767616062",
+        "sinaweibo://detail?mblogid=5226799531034137",
+        "sinaweibo://detail?mblogid=5208926681564379",
+        "sinaweibo://detail?mblogid=5212611486420016",
+        "sinaweibo://detail?mblogid=5226820085485116",
+        "sinaweibo://detail?mblogid=5226792174487645",
+        "sinaweibo://detail?mblogid=5226872833312911",
+        "sinaweibo://detail?mblogid=5151496845659524",
+        "sinaweibo://detail?mblogid=5226779695907795",
+        "sinaweibo://detail?mblogid=5182841576752071",
+        "sinaweibo://detail?mblogid=5226825304244889",
+        "sinaweibo://detail?mblogid=5214487457302185",
+        "sinaweibo://detail?mblogid=5224693923315977",
+        "sinaweibo://detail?mblogid=5217587249809052",
+        "sinaweibo://detail?mblogid=5149257518811614",
+        "sinaweibo://detail?mblogid=5110717591586906"
+      ],
+      "abtest_info": {
+        "chat_entrance": 1
+      },
+      "top_quote_list": {}
+    }
+  },
+  "links": [
+    "sinaweibo://detail?mblogid=5226846913823656",
+    "sinaweibo://detail?mblogid=5226776613096862",
+    "sinaweibo://detail?mblogid=5212005948460689",
+    "sinaweibo://detail?mblogid=5226793775928733",
+    "sinaweibo://detail?mblogid=5208693360821087",
+    "sinaweibo://detail?mblogid=5224979726600379",
+    "sinaweibo://detail?mblogid=5214016215454845",
+    "sinaweibo://detail?mblogid=5222141538599713",
+    "sinaweibo://detail?mblogid=5208673117012279",
+    "sinaweibo://detail?mblogid=5226785719717216",
+    "sinaweibo://detail?mblogid=5224973945803956",
+    "sinaweibo://detail?mblogid=5082847355866521",
+    "sinaweibo://detail?mblogid=5224991303930302",
+    "sinaweibo://detail?mblogid=4983221379662669",
+    "sinaweibo://detail?mblogid=4981519163067152",
+    "sinaweibo://detail?mblogid=5226794718594984",
+    "sinaweibo://detail?mblogid=5110713221382149",
+    "broadsocial_res://",
+    "broadsocial_res://",
+    "historyweibo://5226846913823656",
+    "historyweibo://5226846913823656",
+    "historyweibo://5226846913823656",
+    "sinaweibo://detail?mblogid=5226871226895732",
+    "sinaweibo://detail?mblogid=5226776219091655",
+    "sinaweibo://detail?mblogid=5226778488211889",
+    "sinaweibo://detail?mblogid=5226818006419157",
+    "sinaweibo://detail?mblogid=5226784637584919",
+    "sinaweibo://detail?mblogid=5226821361602472",
+    "sinaweibo://detail?mblogid=5226780035123655",
+    "sinaweibo://detail?mblogid=5226785782631639",
+    "sinaweibo://detail?mblogid=5226786586625411",
+    "sinaweibo://detail?mblogid=5226784984405465",
+    "sinaweibo://detail?mblogid=5226816840141522",
+    "sinaweibo://detail?mblogid=5226752886702878",
+    "sinaweibo://detail?mblogid=5226852664738817",
+    "sinaweibo://detail?mblogid=5226839949708149",
+    "sinaweibo://detail?mblogid=5226796208621524",
+    "sinaweibo://detail?mblogid=5226775854711431",
+    "sinaweibo://detail?mblogid=5226784737201841",
+    "sinaweibo://detail?mblogid=5226832301396617",
+    "sinaweibo://detail?mblogid=5226741658552284",
+    "sinaweibo://detail?mblogid=5226777251154620",
+    "sinaweibo://detail?mblogid=5226789890952327",
+    "sinaweibo://detail?mblogid=5226777183782033",
+    "sinaweibo://detail?mblogid=5226827993058878",
+    "sinaweibo://detail?mblogid=5226829227231584",
+    "sinaweibo://detail?mblogid=5226757112205239",
+    "sinaweibo://detail?mblogid=5226822149082334",
+    "sinaweibo://detail?mblogid=5226786175846739",
+    "sinaweibo://detail?mblogid=5226814962406453",
+    "sinaweibo://detail?mblogid=5226811501839766",
+    "sinaweibo://detail?mblogid=5226834797004849",
+    "sinaweibo://detail?mblogid=5226834090265213",
+    "sinaweibo://detail?mblogid=5218357319567282",
+    "sinaweibo://detail?mblogid=5226801849964704",
+    "sinaweibo://detail?mblogid=5226770124506255",
+    "sinaweibo://detail?mblogid=5225087331467806",
+    "sinaweibo://detail?mblogid=5215186430200053",
+    "sinaweibo://detail?mblogid=5226863322467157",
+    "sinaweibo://detail?mblogid=5226777191907517",
+    "sinaweibo://detail?mblogid=5171312544711950",
+    "sinaweibo://detail?mblogid=5226870767616062",
+    "sinaweibo://detail?mblogid=5226799531034137",
+    "sinaweibo://detail?mblogid=5208926681564379",
+    "sinaweibo://detail?mblogid=5212611486420016",
+    "sinaweibo://detail?mblogid=5226820085485116",
+    "sinaweibo://detail?mblogid=5226792174487645",
+    "sinaweibo://detail?mblogid=5226872833312911",
+    "sinaweibo://detail?mblogid=5151496845659524",
+    "sinaweibo://detail?mblogid=5226779695907795",
+    "sinaweibo://detail?mblogid=5182841576752071",
+    "sinaweibo://detail?mblogid=5226825304244889",
+    "sinaweibo://detail?mblogid=5214487457302185",
+    "sinaweibo://detail?mblogid=5224693923315977",
+    "sinaweibo://detail?mblogid=5217587249809052",
+    "sinaweibo://detail?mblogid=5149257518811614",
+    "sinaweibo://detail?mblogid=5110717591586906"
+  ],
+  "media": [
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/005M7XdTgy1i6seuxvvxdj310o1k2ah0.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/005M7XdTgy1i6seuxvvxdj310o1k2ah0.jpg",
+      "alt": "橘子娱乐",
+      "width": 2018,
+      "height": 1320,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/005M7XdTgy1i6seuxvvxdj310o1k2ah0.jpg"
+      ],
+      "user": "橘子娱乐"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/b63be34cly1i6s88sb28gj20u0141tid.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/b63be34cly1i6s88sb28gj20u0141tid.jpg",
+      "alt": "今日星刊",
+      "width": 1441,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/b63be34cly1i6s88sb28gj20u0141tid.jpg"
+      ],
+      "user": "今日星刊"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/008e1qCAgy1i6sg6m65nnj30u01hcq4u.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/008e1qCAgy1i6sg6m65nnj30u01hcq4u.jpg",
+      "alt": "米卡MIKA",
+      "width": 1920,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/008e1qCAgy1i6sg6m65nnj30u01hcq4u.jpg"
+      ],
+      "user": "米卡MIKA"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/007VSLksgy1i6s9kde3ajg307u0dwu19.gif",
+      "secure_url": "https://wx3.sinaimg.cn/middle/007VSLksgy1i6s9kde3ajg307u0dwu19.gif",
+      "alt": "24k金海牛",
+      "width": 500,
+      "height": 282,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/007VSLksgy1i6s9kde3ajg307u0dwu19.jpg"
+      ],
+      "user": "24k金海牛"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/007CYAYnly1i6mhqg36qfj30u01hcjtl.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/007CYAYnly1i6mhqg36qfj30u01hcjtl.jpg",
+      "alt": "Top黑化版小童鞋",
+      "width": 1920,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/007CYAYnly1i6mhqg36qfj30u01hcjtl.jpg"
+      ],
+      "user": "Top黑化版小童鞋"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/006GiIvJgy1i6mhl2b86aj30u01hcn2g.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/006GiIvJgy1i6mhl2b86aj30u01hcn2g.jpg",
+      "alt": "失联养樂多",
+      "width": 1920,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/006GiIvJgy1i6mhl2b86aj30u01hcn2g.jpg"
+      ],
+      "user": "失联养樂多"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/006iMP6Vly1i6mj2e25bij30k00zkgmh.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/006iMP6Vly1i6mj2e25bij30k00zkgmh.jpg",
+      "alt": "喂I我草莓",
+      "width": 1280,
+      "height": 720,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx4.sinaimg.cn/large/006iMP6Vly1i6mj2e25bij30k00zkgmh.jpg"
+      ],
+      "user": "喂I我草莓"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/007ESEn0gy1i6sd2uuqrbj30qo140jsz.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/007ESEn0gy1i6sd2uuqrbj30qo140jsz.jpg",
+      "alt": "我修猫呢",
+      "width": 1440,
+      "height": 960,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/007ESEn0gy1i6sd2uuqrbj30qo140jsz.jpg"
+      ],
+      "user": "我修猫呢"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/008rFKwbly1i6sei5689ej318z0u0aer.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/008rFKwbly1i6sei5689ej318z0u0aer.jpg",
+      "alt": "忆雾曲",
+      "width": 1080,
+      "height": 1619,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/008rFKwbly1i6sei5689ej318z0u0aer.jpg"
+      ],
+      "user": "忆雾曲"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/006qj4jkly1i6s46yxmkkj30qo0zkmyh.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/006qj4jkly1i6s46yxmkkj30qo0zkmyh.jpg",
+      "alt": "艾玛娱乐菌",
+      "width": 1280,
+      "height": 960,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/006qj4jkly1i6s46yxmkkj30qo0zkmyh.jpg"
+      ],
+      "user": "艾玛娱乐菌"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/008tuxbsly1i6s9weht4ug30js0b47wk.gif",
+      "secure_url": "https://wx2.sinaimg.cn/middle/008tuxbsly1i6s9weht4ug30js0b47wk.gif",
+      "alt": "馒头大王--",
+      "width": 400,
+      "height": 712,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx4.sinaimg.cn/large/008tuxbsly1i6s9weht4ug30js0b47wk.jpg"
+      ],
+      "user": "馒头大王--"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/008tpJEDly1i6saqvs7prj31jk223qh7.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/008tpJEDly1i6saqvs7prj31jk223qh7.jpg",
+      "alt": "恶女定论",
+      "width": 2667,
+      "height": 2000,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/008tpJEDly1i6saqvs7prj31jk223qh7.jpg"
+      ],
+      "user": "恶女定论"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/008pKPuwly1i6s928mwc4j30k00zkgm6.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/008pKPuwly1i6s928mwc4j30k00zkgm6.jpg",
+      "alt": "拉布拉蝶子",
+      "width": 1280,
+      "height": 720,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/008pKPuwly1i6s928mwc4j30k00zkgm6.jpg"
+      ],
+      "user": "拉布拉蝶子"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/7b7b6aa3ly1i6s5cv7xttj20u01hc40m.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/7b7b6aa3ly1i6s5cv7xttj20u01hc40m.jpg",
+      "alt": "143mph·Mika",
+      "width": 1920,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/7b7b6aa3ly1i6s5cv7xttj20u01hc40m.jpg"
+      ],
+      "user": "143mph·Mika"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/006uzmergy1i6detuezcqj30v21jeb29.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/006uzmergy1i6detuezcqj30v21jeb29.jpg",
+      "alt": "高定bot",
+      "width": 1994,
+      "height": 1118,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/006uzmergy1i6detuezcqj30v21jeb29.jpg"
+      ],
+      "user": "高定bot"
+    }
+  ],
+  "html_path": "data/aicard/hourly/2025-10-29/05/topic-fe8401f9.html"
+}

@@ -1,0 +1,333 @@
+{
+  "meta": {
+    "query": "#京东11.11技能国货好好用#",
+    "status_code": 200,
+    "fetched_at": "2025-11-05T01:29:31+08:00",
+    "response": {
+      "msg_format": "markdown",
+      "mid_list": null,
+      "reference_num": 37,
+      "query_category": "",
+      "status_stage": 4,
+      "link_list": [
+        "sinaweibo://detail?mblogid=5229379453978280",
+        "sinaweibo://detail?mblogid=5229319590777556",
+        "sinaweibo://detail?mblogid=5229381232625530",
+        "sinaweibo://detail?mblogid=5229383224660655",
+        "sinaweibo://detail?mblogid=5229316585824144",
+        "sinaweibo://detail?mblogid=5229386271557537",
+        "sinaweibo://detail?mblogid=5229381233672938",
+        "sinaweibo://detail?mblogid=5229383736361763",
+        "sinaweibo://detail?mblogid=5229381228171607",
+        "sinaweibo://detail?mblogid=5229386272085007",
+        "sinaweibo://detail?mblogid=5229376935302500",
+        "sinaweibo://detail?mblogid=5229382478070436",
+        "sinaweibo://detail?mblogid=5229379456340264",
+        "sinaweibo://detail?mblogid=5229319591038079",
+        "sinaweibo://detail?mblogid=5229396319274203",
+        "sinaweibo://detail?mblogid=5229390776505033",
+        "sinaweibo://detail?mblogid=5229319594180664",
+        "sinaweibo://detail?mblogid=5229372413055786",
+        "sinaweibo://detail?mblogid=5223474291278789",
+        "sinaweibo://detail?mblogid=5223864873520592",
+        "sinaweibo://detail?mblogid=5223494428133127",
+        "sinaweibo://detail?mblogid=5094759124697619",
+        "sinaweibo://detail?mblogid=5091155588416426",
+        "sinaweibo://detail?mblogid=5229293148832890",
+        "sinaweibo://detail?mblogid=5229228955535015",
+        "sinaweibo://detail?mblogid=5229319585538370",
+        "sinaweibo://detail?mblogid=5229426536089395",
+        "sinaweibo://detail?mblogid=5229411013756444",
+        "sinaweibo://detail?mblogid=5229396321634628",
+        "sinaweibo://detail?mblogid=5229381225288476",
+        "sinaweibo://detail?mblogid=5229319589988851",
+        "sinaweibo://detail?mblogid=5095647528618443",
+        "sinaweibo://detail?mblogid=4966543056176089",
+        "sinaweibo://detail?mblogid=5092605720005855",
+        "sinaweibo://detail?mblogid=5225605077141402",
+        "sinaweibo://detail?mblogid=5221976178165618",
+        "sinaweibo://detail?mblogid=5229298924389261"
+      ],
+      "top_quote_list": {},
+      "short_url": "http://t.cn/AXA6FgXo",
+      "uid": "",
+      "model": "deepseek",
+      "ext_show": {},
+      "qs_status": 0,
+      "query_field": "42",
+      "qs_status_info": "{\"ab_lab\":{},\"qs_q_status\":0,\"qs_c_status\":8388608,\"qs_r_status\":0,\"qs_u_status\":0,\"qs_status\":0}",
+      "query": "#京东11.11技能国货好好用#",
+      "news_analyze": {},
+      "reliable_tips": "{\"gold_orange_v_mids\": [\"5229379453978280\", \"5229381232625530\", \"5229386271557537\", \"5229381233672938\", \"5229383736361763\", \"5229383224660655\", \"5229381228171607\", \"5229386272085007\", \"5229376935302500\", \"5229390776505033\", \"5229396321634628\", \"5229381225288476\", \"5229396319274203\", \"5223864873520592\", \"5229319589988851\", \"5095647528618443\", \"5092605720005855\", \"5221976178165618\", \"5229298924389261\"], \"gold_orange_v_ratio\": \"51%\", \"media_mids\": [], \"media_ratio\": \"0%\", \"verified_mids\": [\"5229293148832890\", \"5229228955535015\", \"5229316585824144\", \"5229319594180664\", \"5229372413055786\", \"5223474291278789\", \"5223494428133127\", \"5094759124697619\", \"5091155588416426\", \"4966543056176089\", \"5225605077141402\"], \"verified_ratio\": \"30%\", \"normal_mids\": [\"5229319590777556\", \"5229382478070436\", \"5229319585538370\", \"5229379456340264\", \"5229319591038079\", \"5229426536089395\", \"5229411013756444\"], \"normal_ratio\": \"19%\", \"ref_mid_rank\": {\"5229379453978280\": {\"rank\": 1}, \"5229381232625530\": {\"rank\": 3}, \"5229386271557537\": {\"rank\": 6}, \"5229319590777556\": {\"rank\": 2}, \"5229381233672938\": {\"rank\": 7}, \"5229383736361763\": {\"rank\": 8}, \"5229383224660655\": {\"rank\": 4}, \"5229381228171607\": {\"rank\": 9}, \"5229386272085007\": {\"rank\": 10}, \"5229376935302500\": {\"rank\": 11}, \"5229382478070436\": {\"rank\": 12}, \"5229390776505033\": {\"rank\": 16}, \"5229319585538370\": {\"rank\": 26}, \"5229396321634628\": {\"rank\": 29}, \"5229381225288476\": {\"rank\": 30}, \"5229293148832890\": {\"rank\": 24}, \"5229228955535015\": {\"rank\": 25}, \"5229316585824144\": {\"rank\": 5}, \"5229379456340264\": {\"rank\": 13}, \"5229319591038079\": {\"rank\": 14}, \"5229396319274203\": {\"rank\": 15}, \"5229319594180664\": {\"rank\": 17}, \"5229372413055786\": {\"rank\": 18}, \"5223474291278789\": {\"rank\": 19}, \"5223864873520592\": {\"rank\": 20}, \"5223494428133127\": {\"rank\": 21}, \"5094759124697619\": {\"rank\": 22}, \"5091155588416426\": {\"rank\": 23}, \"5229426536089395\": {\"rank\": 27}, \"5229411013756444\": {\"rank\": 28}, \"5229319589988851\": {\"rank\": 31}, \"5095647528618443\": {\"rank\": 32}, \"4966543056176089\": {\"rank\": 33}, \"5092605720005855\": {\"rank\": 34}, \"5225605077141402\": {\"rank\": 35}, \"5221976178165618\": {\"rank\": 36}, \"5229298924389261\": {\"rank\": 37}}}",
+      "profile_image_url": "",
+      "zs_risk_control": {
+        "think_text_close": 0,
+        "land_button_close": 0
+      },
+      "version": "2025-11-05 01:18:24.016000-3550",
+      "comment_info": {},
+      "current_time": 1762277371,
+      "sorted_material_list": null,
+      "show_ctrl": {
+        "quote": {}
+      },
+      "card_multimodal": {
+        "type": "mediablock",
+        "data": [
+          {
+            "doc_score": 6191,
+            "scheme": "sinaweibo://multimedia?mix_mid=5229381232625530&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=0",
+            "img": "http://wx4.sinaimg.cn/middle/008qoEVYly8i70hgr6vx8j310l1t37wj.jpg",
+            "w": 1317,
+            "img_pid": "008qoEVYly8i70hgr6vx8j310l1t37wj",
+            "click_num": 0,
+            "cur_mid": "5229381232625530",
+            "type": "p",
+            "user_name": "粥粥是个机灵鬼",
+            "hit_score_final": 90.614067,
+            "user_avatar": "https://tvax1.sinaimg.cn/crop.0.0.510.510.50/006Zpocyly8hg99h1o4k8j30e70e674x.jpg?KID=imgbed,tva&Expires=1762287504&ssig=hMEgsAsSy8",
+            "hit_score_new": 99.023438,
+            "video_url": "",
+            "h": 2343,
+            "click_rate": 0,
+            "vtype": 0
+          },
+          {
+            "doc_score": 5705,
+            "scheme": "sinaweibo://multimedia?mix_mid=5229386271557537&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=1",
+            "img": "http://wx3.sinaimg.cn/middle/008qoEVYly8i70g36kg78j32c0340b2c.jpg",
+            "w": 3024,
+            "img_pid": "008qoEVYly8i70g36kg78j32c0340b2c",
+            "click_num": 0,
+            "cur_mid": "5229386271557537",
+            "type": "p",
+            "user_name": "办公室抬杠选手",
+            "hit_score_final": 84.998047,
+            "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/006YNYj5ly8hzryy3ju6dj30u00u0why.jpg?KID=imgbed,tva&Expires=1762287504&ssig=9tI1RdzfnL",
+            "hit_score_new": 88.330078,
+            "video_url": "",
+            "h": 4032,
+            "click_rate": 0,
+            "vtype": 0
+          },
+          {
+            "doc_score": 5743,
+            "scheme": "sinaweibo://video/vvs?mid=5229319590777556&multi_paragraph=1&multi_count=2",
+            "img": "http://wx1.sinaimg.cn/middle/006X5m77ly1i708cext74j30u01hc76r.jpg",
+            "w": 1080,
+            "img_pid": "006X5m77ly1i708cext74j30u01hc76r",
+            "click_num": 0,
+            "cur_mid": "5229319590777556",
+            "type": "v",
+            "user_name": "羊毛女孩张特价",
+            "hit_score_final": 90.242188,
+            "user_avatar": "https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/006X5m77ly8i1xlqbgnaej30u00u040a.jpg?KID=imgbed,tva&Expires=1762287504&ssig=AZjuEFQJjN",
+            "hit_score_new": 97.070312,
+            "video_url": "https://video.weibo.com/show?fid=1034:5229285552881676",
+            "h": 1920,
+            "click_rate": 0,
+            "vtype": -1
+          },
+          {
+            "doc_score": 6191,
+            "scheme": "sinaweibo://multimedia?mix_mid=5229381232625530&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=0",
+            "img": "http://wx4.sinaimg.cn/middle/008qoEVYly8i70hgr6vx8j310l1t37wj.jpg",
+            "w": 1317,
+            "img_pid": "008qoEVYly8i70hgr6vx8j310l1t37wj",
+            "click_num": 0,
+            "cur_mid": "5229381232625530",
+            "type": "p",
+            "user_name": "粥粥是个机灵鬼",
+            "hit_score_final": 90.614067,
+            "user_avatar": "https://tvax1.sinaimg.cn/crop.0.0.510.510.50/006Zpocyly8hg99h1o4k8j30e70e674x.jpg?KID=imgbed,tva&Expires=1762287504&ssig=hMEgsAsSy8",
+            "hit_score_new": 99.023438,
+            "video_url": "",
+            "h": 2343,
+            "click_rate": 0,
+            "vtype": 0
+          }
+        ]
+      },
+      "share_text": "#京东11.11技能国货好好用#的相关内容，来智搜看看",
+      "basemodel": "实验组3",
+      "scheme": "sinaweibo://cardlist?containerid=100103type%3D225%26q%3D%23%E4%BA%AC%E4%B8%9C11.11%E6%8A%80%E8%83%BD%E5%9B%BD%E8%B4%A7%E5%A5%BD%E5%A5%BD%E7%94%A8%23%26t%3D&extparam=ai_model%3Ddeepseek%26ori_ai_title%3D%E5%8F%82%E8%80%83%E5%8D%9A%E6%96%87%26material_version%3D1762276704",
+      "msg_json": "{}",
+      "loop_times": 200,
+      "unify_md5": "84f6fd8504eed1b74f36840e438d4c74",
+      "share_card_multimodal": {
+        "doc_score": 6191,
+        "scheme": "sinaweibo://multimedia?mix_mid=5229381232625530&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=0",
+        "img": "http://wx4.sinaimg.cn/middle/008qoEVYly8i70hgr6vx8j310l1t37wj.jpg",
+        "w": 1317,
+        "img_pid": "008qoEVYly8i70hgr6vx8j310l1t37wj",
+        "click_num": 0,
+        "cur_mid": "5229381232625530",
+        "type": "p",
+        "user_name": "粥粥是个机灵鬼",
+        "hit_score_final": 90.614067,
+        "user_avatar": "https://tvax1.sinaimg.cn/crop.0.0.510.510.50/006Zpocyly8hg99h1o4k8j30e70e674x.jpg?KID=imgbed,tva&Expires=1762287504&ssig=hMEgsAsSy8",
+        "hit_score_new": 99.023438,
+        "video_url": "",
+        "h": 2343,
+        "click_rate": 0,
+        "vtype": 0
+      },
+      "cot": 1,
+      "msg": "<think><br>嗯，用户想了解京东11.11活动中\"技能国货好好用\"的具体信息。用户提供了36条搜索结果，看起来主要是微博平台上的推广内容，发布时间集中在2025年11月4日至5日，正好是双11活动期间。<br><br>需要从这些信息中提取关键点，整理出活动亮点。搜索结果主要展示了京东在推广的几款核心国货产品：包括徕芬吹风机、添可洗地机、鸿蒙智选护眼灯、水星家纺羽绒被、栖作床垫和酷比得碳素钢床架。这些产品被统一包装成\"技能国货\"概念，强调其在传统功能基础上的创新点。<br><br>活动促销信息很明确：11月5日下午3点有京东家电家居采销直播间的五折抢购活动。价格方面，比如添可洗地机2365元、徕芬吹风机492元、水星羽绒被2999元等，部分还支持白条免息分期。<br><br>注意到这些推广内容来自不同类型的账号：有京东官方认证账号（如京东家电家居、京东）、大V账号（如囧囧、粥粥是个机灵鬼）、普通用户和认证账号。官方账号的内容可信度更高，普通用户的分享可能更贴近实际体验。<br><br>比较有意思的是，这些推广文案都采用了类似的叙述模式：吐槽传统家电的痛点，然后引入\"技能国货\"的解决方案，最后引导到京东活动。视频内容也展示了产品使用场景，让推广更生动。<br><br>时间上看，所有信息都是最近发布的，符合双11促销的时间点。部分结果还提到\"国家补贴\"、\"价保双十一\"等额外优惠，增加吸引力。<br><br>从用户需求角度，可能需要重点突出：到底什么是\"技能国货\"、有哪些代表性产品、具体优惠力度、如何参与活动、产品真实评价等核心信息。特别是优惠价格和购买方式，这可能是消费者最关心的点。<br><br></think><br>以下是京东11.11“技能国货”活动的核心信息整理，涵盖特色产品、优惠机制及参与方式：<br>### 🔥 **一、核心特色产品**（附价格与功能亮点）<br>1. **徕芬高速吹风机**  <br>   - **活动价￥492.15**（原价更高），赠气垫梳+磁吸支架  <br>   - 特点：高风速护发、3分钟速干、30天无理由试用```wbCustomBlock{\"type\": \"quoted\", \"index\": 5, \"data\": {\"num\": [1, 3, 6], \"version\": 2, \"quote_list\": [{\"name\": \"囧囧\", \"scheme\": \"sinaweibo://detail?mblogid=5229379453978280\", \"index\": 1, \"label\": \"大v\"}, {\"name\": \"粥粥是个机灵鬼\", \"scheme\": \"sinaweibo://detail?mblogid=5229381232625530\", \"index\": 3, \"label\": \"\"}, {\"name\": \"办公室抬杠选手\", \"scheme\": \"sinaweibo://detail?mblogid=5229386271557537\", \"index\": 6, \"label\": \"\"}], \"name\": \"囧囧\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.512.512.50/006xJGFdly8hqg5sp0jbpj30e80e8dgk.jpg?KID=imgbed,tva&Expires=1762287504&ssig=qhY%2F%2FYkMNv\", \"scheme\": \"sinaweibo://detail?mblogid=5229379453978280\", \"vType\": 0}}```  <br>2. **添可极客蒸汽洗地机**  <br>   - **5折价￥2365.38**，赠清洁液+滚筒，白条3期免息  <br>   - 技能：180°躺平清洁死角、高温除菌、自清洁```wbCustomBlock{\"type\": \"quoted\", \"index\": 8, \"data\": {\"num\": [1, 2, 6], \"version\": 2, \"quote_list\": [{\"name\": \"囧囧\", \"scheme\": \"sinaweibo://detail?mblogid=5229379453978280\", \"index\": 1, \"label\": \"\"}, {\"name\": \"羊毛女孩张特价\", \"scheme\": \"sinaweibo://detail?mblogid=5229319590777556\", \"index\": 2, \"label\": \"\"}, {\"name\": \"办公室抬杠选手\", \"scheme\": \"sinaweibo://detail?mblogid=5229386271557537\", \"index\": 6, \"label\": \"\"}]}}```  <br>3. **水星家纺95%白鹅绒被**  <br>   - **5折价￥2999**，限时抽免单  <br>   - 静音设计（翻身声≤33.4分贝）、A类抗菌```wbCustomBlock{\"type\": \"quoted\", \"index\": 11, \"data\": {\"num\": [3, 7, 8], \"version\": 2, \"quote_list\": [{\"name\": \"粥粥是个机灵鬼\", \"scheme\": \"sinaweibo://detail?mblogid=5229381232625530\", \"index\": 3, \"label\": \"大v\"}, {\"name\": \"十级唠嗑选手\", \"scheme\": \"sinaweibo://detail?mblogid=5229381233672938\", \"index\": 7, \"label\": \"\"}, {\"name\": \"yuki生活记\", \"scheme\": \"sinaweibo://detail?mblogid=5229383736361763\", \"index\": 8, \"label\": \"\"}], \"name\": \"粥粥是个机灵鬼\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.510.510.50/006Zpocyly8hg99h1o4k8j30e70e674x.jpg?KID=imgbed,tva&Expires=1762287504&ssig=hMEgsAsSy8\", \"scheme\": \"sinaweibo://detail?mblogid=5229381232625530\", \"vType\": 0}}```  <br>4. **栖作0胶可水洗床垫**  <br>   - **活动价￥3536.34**，赠决明子枕头  <br>   - 可拆解设计、0甲醛、支持机洗```wbCustomBlock{\"type\": \"quoted\", \"index\": 14, \"data\": {\"num\": [4, 6, 9], \"version\": 2, \"quote_list\": [{\"name\": \"向可凡\", \"scheme\": \"sinaweibo://detail?mblogid=5229383224660655\", \"index\": 4, \"label\": \"\"}, {\"name\": \"办公室抬杠选手\", \"scheme\": \"sinaweibo://detail?mblogid=5229386271557537\", \"index\": 6, \"label\": \"\"}, {\"name\": \"毒舌安利少女\", \"scheme\": \"sinaweibo://detail?mblogid=5229381228171607\", \"index\": 9, \"label\": \"\"}]}}```  <br>5. **鸿蒙智选护眼灯**  <br>   - **5折价￥764.15**，晒单送20元E卡  <br>   - 上下双光源、超低蓝光（峰值<0.5）```wbCustomBlock{\"type\": \"quoted\", \"index\": 17, \"data\": {\"num\": [6, 7, 10], \"version\": 2, \"quote_list\": [{\"name\": \"十级唠嗑选手\", \"scheme\": \"sinaweibo://detail?mblogid=5229381233672938\", \"index\": 7, \"label\": \"大v\"}, {\"name\": \"办公室抬杠选手\", \"scheme\": \"sinaweibo://detail?mblogid=5229386271557537\", \"index\": 6, \"label\": \"\"}, {\"name\": \"弦子的宝藏好物\", \"scheme\": \"sinaweibo://detail?mblogid=5229386272085007\", \"index\": 10, \"label\": \"\"}], \"name\": \"十级唠嗑选手\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/7a3c3b9bly8hf9nganv1fj20u00u0q59.jpg?KID=imgbed,tva&Expires=1762287504&ssig=VRw0wThMDn\", \"scheme\": \"sinaweibo://detail?mblogid=5229381233672938\", \"vType\": 0}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5229381232625530&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.510.510.50/006Zpocyly8hg99h1o4k8j30e70e674x.jpg?KID=imgbed,tva&Expires=1762287504&ssig=hMEgsAsSy8) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">粥粥是个机灵鬼</span><img src=\"http://wx4.sinaimg.cn/middle/008qoEVYly8i70hgr6vx8j310l1t37wj.jpg\" data-width=2343 data-height=1317></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5229386271557537&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=1\"><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/006YNYj5ly8hzryy3ju6dj30u00u0why.jpg?KID=imgbed,tva&Expires=1762287504&ssig=9tI1RdzfnL) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">办公室抬杠选手</span><img src=\"http://wx3.sinaimg.cn/middle/008qoEVYly8i70g36kg78j32c0340b2c.jpg\" data-width=4032 data-height=3024></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5229319590777556&multi_paragraph=1&multi_count=2\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/006X5m77ly8i1xlqbgnaej30u00u040a.jpg?KID=imgbed,tva&Expires=1762287504&ssig=AZjuEFQJjN) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">羊毛女孩张特价</span><img src=\"http://wx1.sinaimg.cn/middle/006X5m77ly1i708cext74j30u01hc76r.jpg\" data-width=1920 data-height=1080></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5229383736361763&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=3\"><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/7cb91ef0ly8hc0kp05c0xj20u00u0tah.jpg?KID=imgbed,tva&Expires=1762287504&ssig=b3f9hFSYzo) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">yuki生活记</span><img src=\"http://wx2.sinaimg.cn/middle/008qoEVYly8i70ho43hc6j32c0340000.jpg\" data-width=4032 data-height=3024></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5229383224660655&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=4\"><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/002U6vkply8hdoprr3im1j60u00u0dgk02.jpg?KID=imgbed,tva&Expires=1762287504&ssig=TnbVA9CVok) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">向可凡</span><img src=\"http://wx3.sinaimg.cn/middle/008qoEVYly8i70hprwjh6j30u01400xd.jpg\" data-width=1440 data-height=1080></div></media-block><br>### ⏰ **二、限时活动机制**<br>- **主会场**：家电家居采销直播间  <br>- **时间**：11月5日15:00-17:00  <br>- **核心福利**：  <br>  ✅ **全场五折**：涵盖上述爆款及爱仕达炒锅（￥299）、狄普沙发（￥3680）等  <br>  ✅ **免单抽奖**：水星羽绒被/栖作床垫等参与整点抽免单  <br>  ✅ **价保承诺**：价保双十一，买贵退差```wbCustomBlock{\"type\": \"quoted\", \"index\": 21, \"data\": {\"num\": [1, 6, 11, 12], \"version\": 2, \"quote_list\": [{\"name\": \"囧囧\", \"scheme\": \"sinaweibo://detail?mblogid=5229379453978280\", \"index\": 1, \"label\": \"\"}, {\"name\": \"办公室抬杠选手\", \"scheme\": \"sinaweibo://detail?mblogid=5229386271557537\", \"index\": 6, \"label\": \"\"}, {\"name\": \"办公室边角料\", \"scheme\": \"sinaweibo://detail?mblogid=5229376935302500\", \"index\": 11, \"label\": \"\"}, {\"name\": \"白菜囤货bot\", \"scheme\": \"sinaweibo://detail?mblogid=5229382478070436\", \"index\": 12, \"label\": \"\"}]}}```<br>### 💡 **三、用户真实体验反馈**<br>- **添可洗地机**：解决传统清洁痛点，弯腰抠地缝成历史；```wbCustomBlock{\"type\": \"quoted\", \"index\": 23, \"data\": {\"num\": [2, 16], \"version\": 2, \"quote_list\": [{\"name\": \"羊毛女孩张特价\", \"scheme\": \"sinaweibo://detail?mblogid=5229319590777556\", \"index\": 2, \"label\": \"\"}, {\"name\": \"在逃社畜程小天\", \"scheme\": \"sinaweibo://detail?mblogid=5229390776505033\", \"index\": 16, \"label\": \"\"}]}}```  <br>- **徕芬吹风机**：对比进口品牌更轻便、性价比更高，枯发问题改善明显；```wbCustomBlock{\"type\": \"quoted\", \"index\": 24, \"data\": {\"num\": [26, 29], \"version\": 2, \"quote_list\": [{\"name\": \"山崎麦麦\", \"scheme\": \"sinaweibo://detail?mblogid=5229396321634628\", \"index\": 29, \"label\": \"大v\"}, {\"name\": \"理科班班草\", \"scheme\": \"sinaweibo://detail?mblogid=5229319585538370\", \"index\": 26, \"label\": \"\"}], \"name\": \"山崎麦麦\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/007fPzotly8hpygm8f5zdj30u00u0799.jpg?KID=imgbed,tva&Expires=1762287504&ssig=rfuVbnfRMN\", \"scheme\": \"sinaweibo://detail?mblogid=5229396321634628\", \"vType\": 0}}```  <br>- **水星羽绒被**：浅眠用户称“静音到能听见心跳”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 25, \"data\": {\"num\": [7, 30], \"version\": 2, \"quote_list\": [{\"name\": \"vvikeyyy\", \"scheme\": \"sinaweibo://detail?mblogid=5229381225288476\", \"index\": 30, \"label\": \"大v\"}, {\"name\": \"十级唠嗑选手\", \"scheme\": \"sinaweibo://detail?mblogid=5229381233672938\", \"index\": 7, \"label\": \"\"}], \"name\": \"vvikeyyy\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.828.828.50/006lX7ILly8h47ksyz4b4j30n00n00uk.jpg?KID=imgbed,tva&Expires=1762287504&ssig=qU22G6kZi%2F\", \"scheme\": \"sinaweibo://detail?mblogid=5229381225288476\", \"vType\": 0}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5229319585538370&multi_paragraph=3&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/005CShHJly8harsajeltjj30u00u00u6.jpg?KID=imgbed,tva&Expires=1762287504&ssig=EvUlEWt06S) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">理科班班草</span><img src=\"http://wx3.sinaimg.cn/middle/005CShHJly1i707t58okjj30u01hcwh8.jpg\" data-width=1920 data-height=1080></div></media-block><br>### 📍 **四、参与方式**<br>1. **搜索入口**：京东APP搜索 **“技能国货”** 直达主会场；```wbCustomBlock{\"type\": \"quoted\", \"index\": 27, \"data\": {\"num\": [1, 6, 24], \"version\": 2, \"quote_list\": [{\"name\": \"囧囧\", \"scheme\": \"sinaweibo://detail?mblogid=5229379453978280\", \"index\": 1, \"label\": \"\"}, {\"name\": \"办公室抬杠选手\", \"scheme\": \"sinaweibo://detail?mblogid=5229386271557537\", \"index\": 6, \"label\": \"\"}, {\"name\": \"京东家电家居\", \"scheme\": \"sinaweibo://detail?mblogid=5229293148832890\", \"index\": 24, \"label\": \"\"}]}}```  <br>2. **提前加购**：11月5日15点前锁定目标商品；  <br>3. **直播专享**：直播间下单额外赠品（如鸿蒙护眼灯赠点读笔）。```wbCustomBlock{\"type\": \"quoted\", \"index\": 29, \"data\": {\"num\": [6, 10], \"version\": 2, \"quote_list\": [{\"name\": \"办公室抬杠选手\", \"scheme\": \"sinaweibo://detail?mblogid=5229386271557537\", \"index\": 6, \"label\": \"\"}, {\"name\": \"弦子的宝藏好物\", \"scheme\": \"sinaweibo://detail?mblogid=5229386272085007\", \"index\": 10, \"label\": \"\"}]}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5229293148832890&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=4&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/002mJ6S7ly8hwrj6rxzhwj60u00u0js802.jpg?KID=imgbed,tva&Expires=1762287504&ssig=F8OlTAFcvc) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">京东家电家居</span><img src=\"http://wx4.sinaimg.cn/middle/002mJ6S7ly1i7094sl0rfj62232qtnpf02.jpg\" data-width=3557 data-height=2667></div></media-block><br>### ⚠️ **注意事项**<br>- **时效性**：部分爆款库存有限（如酷比得碳素钢床架仅￥2312），建议蹲守开抢；```wbCustomBlock{\"type\": \"quoted\", \"index\": 31, \"data\": {\"num\": [6, 11], \"version\": 2, \"quote_list\": [{\"name\": \"办公室抬杠选手\", \"scheme\": \"sinaweibo://detail?mblogid=5229386271557537\", \"index\": 6, \"label\": \"\"}, {\"name\": \"办公室边角料\", \"scheme\": \"sinaweibo://detail?mblogid=5229376935302500\", \"index\": 11, \"label\": \"\"}]}}```  <br>- **风险提示**：普通账号推广内容需甄别，优先参考京东官方账号信息（如```wbCustomBlock{\"type\": \"midquoted\", \"index\": \"2168096235_1\", \"data\": {\"name\": \"京东家电家居\", \"scheme\": \"https://weibo.com/u/2168096235\"}}```）。```wbCustomBlock{\"type\": \"quoted\", \"index\": 32, \"data\": {\"num\": [24, 25], \"version\": 2, \"quote_list\": [{\"name\": \"京东家电家居\", \"scheme\": \"sinaweibo://detail?mblogid=5229293148832890\", \"index\": 24, \"label\": \"\"}, {\"name\": \"京东\", \"scheme\": \"sinaweibo://detail?mblogid=5229228955535015\", \"index\": 25, \"label\": \"\"}]}}```  <br><br>> 💎 **总结**：京东本次“技能国货”主打 **“技术升级+极致性价比”**，通过五折直播、免抽活动及真实场景解决方案，直击传统家电痛点。建议聚焦官方直播间，提前规划采购清单！<br>",
+      "abtest_info": {
+        "chat_entrance": 1
+      },
+      "q_attr": {
+        "from_uid": "",
+        "comment_from_type": "",
+        "from_request_id": "",
+        "reply_cid": "",
+        "mid": ""
+      },
+      "status": 2,
+      "user_info": {},
+      "page_id": "2329645ae245b52984716f01961c4d5f320ca1",
+      "chat_status_stage": 1,
+      "share_info": {
+        "page_id": "2329645ae245b52984716f01961c4d5f320ca1",
+        "unify_md5": "84f6fd8504eed1b74f36840e438d4c74",
+        "status": 3,
+        "tips": "#京东11.11技能国货好好用#的相关内容，来智搜看看",
+        "display_name": "#京东11.11技能国货好好用#",
+        "comment_content": "",
+        "url": "http://t.cn/AXATg0Lk"
+      },
+      "ab_suffix": "default",
+      "analysis_time": 1762276854,
+      "wenda": {
+        "forward_gen": 0
+      }
+    }
+  },
+  "links": [
+    "sinaweibo://detail?mblogid=5229379453978280",
+    "sinaweibo://detail?mblogid=5229319590777556",
+    "sinaweibo://detail?mblogid=5229381232625530",
+    "sinaweibo://detail?mblogid=5229383224660655",
+    "sinaweibo://detail?mblogid=5229316585824144",
+    "sinaweibo://detail?mblogid=5229386271557537",
+    "sinaweibo://detail?mblogid=5229381233672938",
+    "sinaweibo://detail?mblogid=5229383736361763",
+    "sinaweibo://detail?mblogid=5229381228171607",
+    "sinaweibo://detail?mblogid=5229386272085007",
+    "sinaweibo://detail?mblogid=5229376935302500",
+    "sinaweibo://detail?mblogid=5229382478070436",
+    "sinaweibo://detail?mblogid=5229379456340264",
+    "sinaweibo://detail?mblogid=5229319591038079",
+    "sinaweibo://detail?mblogid=5229396319274203",
+    "sinaweibo://detail?mblogid=5229390776505033",
+    "sinaweibo://detail?mblogid=5229319594180664",
+    "sinaweibo://detail?mblogid=5229372413055786",
+    "sinaweibo://detail?mblogid=5223474291278789",
+    "sinaweibo://detail?mblogid=5223864873520592",
+    "sinaweibo://detail?mblogid=5223494428133127",
+    "sinaweibo://detail?mblogid=5094759124697619",
+    "sinaweibo://detail?mblogid=5091155588416426",
+    "sinaweibo://detail?mblogid=5229293148832890",
+    "sinaweibo://detail?mblogid=5229228955535015",
+    "sinaweibo://detail?mblogid=5229319585538370",
+    "sinaweibo://detail?mblogid=5229426536089395",
+    "sinaweibo://detail?mblogid=5229411013756444",
+    "sinaweibo://detail?mblogid=5229396321634628",
+    "sinaweibo://detail?mblogid=5229381225288476",
+    "sinaweibo://detail?mblogid=5229319589988851",
+    "sinaweibo://detail?mblogid=5095647528618443",
+    "sinaweibo://detail?mblogid=4966543056176089",
+    "sinaweibo://detail?mblogid=5092605720005855",
+    "sinaweibo://detail?mblogid=5225605077141402",
+    "sinaweibo://detail?mblogid=5221976178165618",
+    "sinaweibo://detail?mblogid=5229298924389261"
+  ],
+  "media": [
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/008qoEVYly8i70hgr6vx8j310l1t37wj.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/008qoEVYly8i70hgr6vx8j310l1t37wj.jpg",
+      "alt": "粥粥是个机灵鬼",
+      "width": 2343,
+      "height": 1317,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/008qoEVYly8i70hgr6vx8j310l1t37wj.jpg"
+      ],
+      "user": "粥粥是个机灵鬼"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/008qoEVYly8i70g36kg78j32c0340b2c.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/008qoEVYly8i70g36kg78j32c0340b2c.jpg",
+      "alt": "办公室抬杠选手",
+      "width": 4032,
+      "height": 3024,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/008qoEVYly8i70g36kg78j32c0340b2c.jpg"
+      ],
+      "user": "办公室抬杠选手"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/006X5m77ly1i708cext74j30u01hc76r.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/006X5m77ly1i708cext74j30u01hc76r.jpg",
+      "alt": "羊毛女孩张特价",
+      "width": 1920,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/006X5m77ly1i708cext74j30u01hc76r.jpg"
+      ],
+      "user": "羊毛女孩张特价"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/008qoEVYly8i70ho43hc6j32c0340000.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/008qoEVYly8i70ho43hc6j32c0340000.jpg",
+      "alt": "yuki生活记",
+      "width": 4032,
+      "height": 3024,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx4.sinaimg.cn/large/008qoEVYly8i70ho43hc6j32c0340000.jpg"
+      ],
+      "user": "yuki生活记"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/008qoEVYly8i70hprwjh6j30u01400xd.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/008qoEVYly8i70hprwjh6j30u01400xd.jpg",
+      "alt": "向可凡",
+      "width": 1440,
+      "height": 1080,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/008qoEVYly8i70hprwjh6j30u01400xd.jpg"
+      ],
+      "user": "向可凡"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/005CShHJly1i707t58okjj30u01hcwh8.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/005CShHJly1i707t58okjj30u01hcwh8.jpg",
+      "alt": "理科班班草",
+      "width": 1920,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/005CShHJly1i707t58okjj30u01hcwh8.jpg"
+      ],
+      "user": "理科班班草"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/002mJ6S7ly1i7094sl0rfj62232qtnpf02.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/002mJ6S7ly1i7094sl0rfj62232qtnpf02.jpg",
+      "alt": "京东家电家居",
+      "width": 3557,
+      "height": 2667,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/002mJ6S7ly1i7094sl0rfj62232qtnpf02.jpg"
+      ],
+      "user": "京东家电家居"
+    }
+  ],
+  "html_path": "data/aicard/hourly/2025-11-05/01/11-11.html"
+}

@@ -1,0 +1,480 @@
+{
+  "meta": {
+    "query": "#chovy状态#",
+    "status_code": 200,
+    "fetched_at": "2025-11-01T18:35:12+08:00",
+    "response": {
+      "wenda": {
+        "forward_gen": 0
+      },
+      "analysis_time": 1761993035,
+      "share_info": {
+        "tips": "#chovy状态#的相关内容，来智搜看看",
+        "display_name": "#chovy状态#",
+        "unify_md5": "df6fd1c43961c6101494eb2334c36c11",
+        "url": "http://t.cn/AXAJ5thl",
+        "status": 3,
+        "comment_content": "",
+        "page_id": "2329640f95a42776eab04ca51b417e47d690f5"
+      },
+      "cot": 1,
+      "scheme": "sinaweibo://cardlist?containerid=100103type%3D225%26q%3D%23chovy%E7%8A%B6%E6%80%81%23%26t%3D&extparam=ai_model%3Ddeepseek%26ori_ai_title%3D%E5%8F%82%E8%80%83%E5%8D%9A%E6%96%87%26material_version%3D1761992829",
+      "ab_suffix": "default",
+      "show_ctrl": {
+        "quote": {}
+      },
+      "user_info": {},
+      "current_time": 1761993312,
+      "query": "#chovy状态#",
+      "query_field": "47",
+      "chat_status_stage": 1,
+      "q_attr": {
+        "from_uid": "",
+        "from_request_id": "",
+        "mid": "",
+        "comment_from_type": "",
+        "reply_cid": ""
+      },
+      "qs_status_info": "{\"ab_lab\":{},\"qs_q_status\":0,\"qs_status\":0,\"qs_r_status\":0,\"qs_u_status\":0,\"qs_c_status\":8388608}",
+      "loop_times": 200,
+      "news_analyze": {},
+      "reliable_tips": "{\"gold_orange_v_mids\": [\"5228229044737811\", \"5228203151199968\", \"5228226893059147\", \"5228203589244703\", \"5228230137349383\", \"5228231546112899\", \"5228230895993902\", \"5228229887527760\", \"5228231108072058\", \"5228231247797135\", \"5228230804244832\", \"5228203397352535\", \"5228233613378101\", \"5223157373078026\", \"5223163962070621\", \"5223173318509251\", \"5225072019114189\", \"5225014248870737\", \"5227086071728161\", \"5226966094447449\", \"5226775030532513\", \"5227760475965631\", \"5228233727677477\", \"5228232527578609\", \"5228226890697166\", \"5226519894951659\", \"5228235956947124\", \"5228235678024476\", \"5227386335397871\", \"5228199357449981\", \"5225237834892193\", \"5215947494268457\", \"5223427645636855\", \"5215952230156259\", \"5225563955661753\", \"5221067570024471\", \"5228223738938593\", \"5228218575487154\", \"5228193889128740\", \"5227609685753989\", \"5228239044741255\", \"5228188663547232\", \"5228177368813233\", \"5227528189906947\", \"5225006441174191\"], \"gold_orange_v_ratio\": \"90%\", \"media_mids\": [], \"media_ratio\": \"0%\", \"verified_mids\": [\"5227932635108534\"], \"verified_ratio\": \"2%\", \"normal_mids\": [\"5228239209628807\", \"5227517296515577\", \"5228239104770688\", \"5228238012943036\"], \"normal_ratio\": \"8%\", \"ref_mid_rank\": {\"5228229044737811\": {\"rank\": 1}, \"5228203151199968\": {\"rank\": 8}, \"5228226893059147\": {\"rank\": 10}, \"5228203589244703\": {\"rank\": 49}, \"5228230137349383\": {\"rank\": 3}, \"5228231546112899\": {\"rank\": 28}, \"5228230895993902\": {\"rank\": 30}, \"5228229887527760\": {\"rank\": 46}, \"5228231108072058\": {\"rank\": 29}, \"5228231247797135\": {\"rank\": 36}, \"5228230804244832\": {\"rank\": 48}, \"5228203397352535\": {\"rank\": 32}, \"5228233613378101\": {\"rank\": 34}, \"5223157373078026\": {\"rank\": 13}, \"5223163962070621\": {\"rank\": 24}, \"5223173318509251\": {\"rank\": 52}, \"5225072019114189\": {\"rank\": 16}, \"5225014248870737\": {\"rank\": 22}, \"5227086071728161\": {\"rank\": 6}, \"5226966094447449\": {\"rank\": 7}, \"5226775030532513\": {\"rank\": 14}, \"5227760475965631\": {\"rank\": 38}, \"5228233727677477\": {\"rank\": 2}, \"5228232527578609\": {\"rank\": 4}, \"5228226890697166\": {\"rank\": 51}, \"5226519894951659\": {\"rank\": 19}, \"5228239209628807\": {\"rank\": 41}, \"5228235956947124\": {\"rank\": 33}, \"5228235678024476\": {\"rank\": 5}, \"5227386335397871\": {\"rank\": 9}, \"5228199357449981\": {\"rank\": 11}, \"5227932635108534\": {\"rank\": 12}, \"5225237834892193\": {\"rank\": 15}, \"5215947494268457\": {\"rank\": 17}, \"5223427645636855\": {\"rank\": 18}, \"5215952230156259\": {\"rank\": 20}, \"5225563955661753\": {\"rank\": 21}, \"5221067570024471\": {\"rank\": 23}, \"5228223738938593\": {\"rank\": 31}, \"5228218575487154\": {\"rank\": 35}, \"5227517296515577\": {\"rank\": 37}, \"5228193889128740\": {\"rank\": 39}, \"5227609685753989\": {\"rank\": 40}, \"5228239104770688\": {\"rank\": 42}, \"5228239044741255\": {\"rank\": 43}, \"5228238012943036\": {\"rank\": 44}, \"5228188663547232\": {\"rank\": 45}, \"5228177368813233\": {\"rank\": 47}, \"5227528189906947\": {\"rank\": 50}, \"5225006441174191\": {\"rank\": 53}}}",
+      "top_quote_list": {},
+      "short_url": "http://t.cn/A6DYGEa4",
+      "card_multimodal": {
+        "type": "mediablock",
+        "data": [
+          {
+            "h": 1860,
+            "hit_score_final": 65.074219,
+            "cur_mid": "5228203589244703",
+            "img": "http://wx4.sinaimg.cn/middle/005SyZ1Sgy1i6wrzofjlmj32d71fo1l1.jpg",
+            "user_name": "王玮晨",
+            "scheme": "sinaweibo://multimedia?mix_mid=5228203589244703&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=0",
+            "user_avatar": "https://tvax4.sinaimg.cn/crop.0.0.480.480.50/005SyZ1Sly8i3tl9bvkkkj30dc0dc3yz.jpg?KID=imgbed,tva&Expires=1762003629&ssig=DrKt4KMxib",
+            "type": "p",
+            "video_url": "",
+            "vtype": 0,
+            "doc_score": 5195,
+            "img_pid": "005SyZ1Sgy1i6wrzofjlmj32d71fo1l1",
+            "w": 3067,
+            "click_rate": 0.10227272727273,
+            "hit_score_new": 68.457031
+          },
+          {
+            "h": 560,
+            "hit_score_final": 0,
+            "cur_mid": "5228229044737811",
+            "img": "http://wx2.sinaimg.cn/middle/008xCJoDgy1i6wuwelfjij30rs0fkaq3.jpg",
+            "user_name": "小野的瓜田",
+            "scheme": "sinaweibo://multimedia?mix_mid=5228229044737811&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=1&multi_count=1",
+            "user_avatar": "https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/008xCJoDly8hrq6l9fi5wj30u00u03yx.jpg?KID=imgbed,tva&Expires=1762003629&ssig=hlahW4QbOx",
+            "type": "p",
+            "video_url": "",
+            "vtype": 0,
+            "doc_score": 0,
+            "img_pid": "008xCJoDgy1i6wuwelfjij30rs0fkaq3",
+            "w": 1000,
+            "click_rate": 0.06,
+            "hit_score_new": 0
+          },
+          {
+            "h": 374,
+            "hit_score_final": 64.36203,
+            "cur_mid": "5228229887527760",
+            "img": "http://wx1.sinaimg.cn/middle/007WuwI6gy1i6wv0rnvtug30aq0aeb2o.gif",
+            "user_name": "狂很子老",
+            "scheme": "sinaweibo://multimedia?mix_mid=5228229887527760&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=2",
+            "user_avatar": "https://tvax4.sinaimg.cn/crop.0.0.512.512.50/007WuwI6ly8h15o523b13j30e80e8aar.jpg?KID=imgbed,tva&Expires=1762003629&ssig=zZmcTqTzrY",
+            "type": "p",
+            "video_url": "",
+            "vtype": 0,
+            "doc_score": 6220,
+            "img_pid": "007WuwI6gy1i6wv0rnvtug30aq0aeb2o",
+            "w": 386,
+            "click_rate": 0.06,
+            "hit_score_new": 65.136719
+          },
+          {
+            "h": 1860,
+            "hit_score_final": 65.074219,
+            "cur_mid": "5228203589244703",
+            "img": "http://wx4.sinaimg.cn/middle/005SyZ1Sgy1i6wrzofjlmj32d71fo1l1.jpg",
+            "user_name": "王玮晨",
+            "scheme": "sinaweibo://multimedia?mix_mid=5228203589244703&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=0",
+            "user_avatar": "https://tvax4.sinaimg.cn/crop.0.0.480.480.50/005SyZ1Sly8i3tl9bvkkkj30dc0dc3yz.jpg?KID=imgbed,tva&Expires=1762003629&ssig=DrKt4KMxib",
+            "type": "p",
+            "video_url": "",
+            "vtype": 0,
+            "doc_score": 5195,
+            "img_pid": "005SyZ1Sgy1i6wrzofjlmj32d71fo1l1",
+            "w": 3067,
+            "click_rate": 0.10227272727273,
+            "hit_score_new": 68.457031
+          }
+        ]
+      },
+      "share_card_multimodal": {
+        "h": 1860,
+        "hit_score_final": 65.074219,
+        "cur_mid": "5228203589244703",
+        "img": "http://wx4.sinaimg.cn/middle/005SyZ1Sgy1i6wrzofjlmj32d71fo1l1.jpg",
+        "user_name": "王玮晨",
+        "scheme": "sinaweibo://multimedia?mix_mid=5228203589244703&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=0",
+        "user_avatar": "https://tvax4.sinaimg.cn/crop.0.0.480.480.50/005SyZ1Sly8i3tl9bvkkkj30dc0dc3yz.jpg?KID=imgbed,tva&Expires=1762003629&ssig=DrKt4KMxib",
+        "type": "p",
+        "video_url": "",
+        "vtype": 0,
+        "doc_score": 5195,
+        "img_pid": "005SyZ1Sgy1i6wrzofjlmj32d71fo1l1",
+        "w": 3067,
+        "click_rate": 0.10227272727273,
+        "hit_score_new": 68.457031
+      },
+      "zs_risk_control": {
+        "think_text_close": 0,
+        "land_button_close": 0
+      },
+      "basemodel": "实验组8",
+      "ext_show": {},
+      "share_text": "#chovy状态#的相关内容，来智搜看看",
+      "msg_json": "{}",
+      "status": 2,
+      "profile_image_url": "",
+      "mid_list": null,
+      "link_list": [
+        "sinaweibo://detail?mblogid=5228229044737811",
+        "sinaweibo://detail?mblogid=5228233727677477",
+        "sinaweibo://detail?mblogid=5228230137349383",
+        "sinaweibo://detail?mblogid=5228232527578609",
+        "sinaweibo://detail?mblogid=5228235678024476",
+        "sinaweibo://detail?mblogid=5227086071728161",
+        "sinaweibo://detail?mblogid=5226966094447449",
+        "sinaweibo://detail?mblogid=5228203151199968",
+        "sinaweibo://detail?mblogid=5227386335397871",
+        "sinaweibo://detail?mblogid=5228226893059147",
+        "sinaweibo://detail?mblogid=5228199357449981",
+        "sinaweibo://detail?mblogid=5227932635108534",
+        "sinaweibo://detail?mblogid=5223157373078026",
+        "sinaweibo://detail?mblogid=5226775030532513",
+        "sinaweibo://detail?mblogid=5225237834892193",
+        "sinaweibo://detail?mblogid=5225072019114189",
+        "sinaweibo://detail?mblogid=5215947494268457",
+        "sinaweibo://detail?mblogid=5223427645636855",
+        "sinaweibo://detail?mblogid=5226519894951659",
+        "sinaweibo://detail?mblogid=5215952230156259",
+        "sinaweibo://detail?mblogid=5225563955661753",
+        "sinaweibo://detail?mblogid=5225014248870737",
+        "sinaweibo://detail?mblogid=5221067570024471",
+        "sinaweibo://detail?mblogid=5223163962070621",
+        "historyweibo://5223157373078026",
+        "historyweibo://5215947494268457",
+        "historyweibo://5179763511793349",
+        "sinaweibo://detail?mblogid=5228231546112899",
+        "sinaweibo://detail?mblogid=5228231108072058",
+        "sinaweibo://detail?mblogid=5228230895993902",
+        "sinaweibo://detail?mblogid=5228223738938593",
+        "sinaweibo://detail?mblogid=5228203397352535",
+        "sinaweibo://detail?mblogid=5228235956947124",
+        "sinaweibo://detail?mblogid=5228233613378101",
+        "sinaweibo://detail?mblogid=5228218575487154",
+        "sinaweibo://detail?mblogid=5228231247797135",
+        "sinaweibo://detail?mblogid=5227517296515577",
+        "sinaweibo://detail?mblogid=5227760475965631",
+        "sinaweibo://detail?mblogid=5228193889128740",
+        "sinaweibo://detail?mblogid=5227609685753989",
+        "sinaweibo://detail?mblogid=5228239209628807",
+        "sinaweibo://detail?mblogid=5228239104770688",
+        "sinaweibo://detail?mblogid=5228239044741255",
+        "sinaweibo://detail?mblogid=5228238012943036",
+        "sinaweibo://detail?mblogid=5228188663547232",
+        "sinaweibo://detail?mblogid=5228229887527760",
+        "sinaweibo://detail?mblogid=5228177368813233",
+        "sinaweibo://detail?mblogid=5228230804244832",
+        "sinaweibo://detail?mblogid=5228203589244703",
+        "sinaweibo://detail?mblogid=5227528189906947",
+        "sinaweibo://detail?mblogid=5228226890697166",
+        "sinaweibo://detail?mblogid=5223173318509251",
+        "sinaweibo://detail?mblogid=5225006441174191"
+      ],
+      "model": "deepseek",
+      "sorted_material_list": null,
+      "page_id": "2329640f95a42776eab04ca51b417e47d690f5",
+      "abtest_info": {
+        "chat_entrance": 1
+      },
+      "version": "2025-11-01 18:27:09.023000-7213",
+      "msg": "<think><br>嗯，用户想了解Chovy的状态，我需要整理搜索结果中的相关信息。首先注意到多个结果提到11月1日GEN对阵KT的比赛中，Chovy状态低迷。比如结果1、2、4、10、28、29、30、32、46、48、49都描述了这场比赛的细节，包括Chovy被BDD单杀、闪现反应迟钝、多次阵亡成为战犯的表现。特别是结果30提到他\"有闪反应不了寒冰R\"，结果46也说\"这种箭有闪现都反应不过来\"，操作问题很明显。结果51引用Ning的说法指出Chovy大赛软脚虾的问题。<br><br>不过比赛前的评价大多是正面的。结果6和7在10月29日提到朱开评价Chovy非常稳定，团队围绕他制定战术。结果13、16、18、24、25、52则强调他在联赛中的统治力，尤其结果25详细分析了他在瑞士轮碾压Faker的表现。结果38和40还提到他有过高光操作。<br><br>关于历史表现，结果2、4、20、27、51都提到Chovy从未进入世界赛决赛，成绩停留在四强或八强。结果19提到\"反Chovy公式\"，说明对手已经找到应对他的战术。结果45虽然提到他补刀能力强，但似乎无助于改变比赛结果。<br><br>比赛中的外因也需要考虑，结果41质疑GEN的BP策略，认为下路被counter影响整体发挥。结果34则提到解说施加的压力可能影响心态。<br><br>综合来看，回答需要先突出当前比赛的低迷状态，再对比之前的高评价，然后分析历史成绩和外部因素，最后评估后续影响。我会按时间线组织内容，确保引用多个搜索结果而非重复单一来源，同时避免使用技术术语让表述更自然。<br><br></think><br>关于Chovy在2025全球总决赛半决赛（11月1日）的状态，综合多方信息分析如下：<br>### ⚠️ **一、半决赛关键战表现（11月1日 GEN vs KT）**  <br>1. **严重操作失误**  <br>   - **对线遭BDD压制**：连续两局被BDD（KT中单）单杀，尤其沙皇对位永恩时，因换血决策失误和技能释放不当被线杀。```wbCustomBlock{\"type\": \"quoted\", \"index\": 5, \"data\": {\"num\": [1, 8, 10, 49], \"version\": 2, \"quote_list\": [{\"name\": \"召唤师Park\", \"scheme\": \"sinaweibo://detail?mblogid=5228203151199968\", \"index\": 8, \"label\": \"大v\"}, {\"name\": \"小野的瓜田\", \"scheme\": \"sinaweibo://detail?mblogid=5228229044737811\", \"index\": 1, \"label\": \"\"}, {\"name\": \"召唤师Park\", \"scheme\": \"sinaweibo://detail?mblogid=5228226893059147\", \"index\": 10, \"label\": \"\"}, {\"name\": \"王玮晨\", \"scheme\": \"sinaweibo://detail?mblogid=5228203589244703\", \"index\": 49, \"label\": \"\"}], \"name\": \"召唤师Park\", \"img\": \"https://tvax2.sinaimg.cn/crop.16.21.551.551.50/96542c59ly8geqtawegnej20gr0gq0to.jpg?KID=imgbed,tva&Expires=1762003629&ssig=tN%2FENSDAf0\", \"scheme\": \"sinaweibo://detail?mblogid=5228203151199968\", \"vType\": 0}}```  <br>   - **反应迟钝**：多次闪现未躲开关键技能，如寒冰大招命中率高却被指“有闪反应不及”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 6, \"data\": {\"num\": [3, 28, 30, 46], \"version\": 2, \"quote_list\": [{\"name\": \"尹天CLANG\", \"scheme\": \"sinaweibo://detail?mblogid=5228230895993902\", \"index\": 30, \"label\": \"大v\"}, {\"name\": \"王玮晨\", \"scheme\": \"sinaweibo://detail?mblogid=5228230137349383\", \"index\": 3, \"label\": \"\"}, {\"name\": \"小野的瓜田\", \"scheme\": \"sinaweibo://detail?mblogid=5228231546112899\", \"index\": 28, \"label\": \"\"}, {\"name\": \"狂很子老\", \"scheme\": \"sinaweibo://detail?mblogid=5228229887527760\", \"index\": 46, \"label\": \"\"}], \"name\": \"尹天CLANG\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.580.580.50/e787c94aly1g3cbk6btbgj20g40g4dgq.jpg?KID=imgbed,tva&Expires=1762003629&ssig=HKXJMA2ziD\", \"scheme\": \"sinaweibo://detail?mblogid=5228230895993902\", \"vType\": 0}}```  <br>   - **数据低迷**：第三局选用发条打出2/7战绩，成团队最大突破口。```wbCustomBlock{\"type\": \"quoted\", \"index\": 7, \"data\": {\"num\": [29, 36, 48], \"version\": 2, \"quote_list\": [{\"name\": \"狂很子老\", \"scheme\": \"sinaweibo://detail?mblogid=5228231108072058\", \"index\": 29, \"label\": \"大v\"}, {\"name\": \"竞圈风向标\", \"scheme\": \"sinaweibo://detail?mblogid=5228231247797135\", \"index\": 36, \"label\": \"\"}, {\"name\": \"瓶子君152\", \"scheme\": \"sinaweibo://detail?mblogid=5228230804244832\", \"index\": 48, \"label\": \"\"}], \"name\": \"狂很子老\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.512.512.50/007WuwI6ly8h15o523b13j30e80e8aar.jpg?KID=imgbed,tva&Expires=1762003629&ssig=zZmcTqTzrY\", \"scheme\": \"sinaweibo://detail?mblogid=5228231108072058\", \"vType\": 0}}```  <br><br>2. **心态疑似崩溃**  <br>   - 赛场表情凝重，脸色不佳，解说管泽元直接指出其状态异常。```wbCustomBlock{\"type\": \"quoted\", \"index\": 9, \"data\": {\"num\": [32], \"version\": 2, \"quote_list\": [{\"name\": \"管泽元\", \"scheme\": \"sinaweibo://detail?mblogid=5228203397352535\", \"index\": 32, \"label\": \"大v\"}], \"name\": \"管泽元\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.1242.1242.50/964c90a5ly8fq7ftlk5c9j20yi0yiwj9.jpg?KID=imgbed,tva&Expires=1762003629&ssig=hk0iQrop9D\", \"scheme\": \"sinaweibo://detail?mblogid=5228203397352535\", \"vType\": 0}}```  <br>   - 粉丝质疑解说施压加重心理负担：“一边讽刺Chovy状态差，一边喊他必须站出来”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 10, \"data\": {\"num\": [34], \"version\": 2, \"quote_list\": [{\"name\": \"错玉切_Anchovy\", \"scheme\": \"sinaweibo://detail?mblogid=5228233613378101\", \"index\": 34, \"label\": \"\"}]}}```  <br><br>3. **团队拖累效应**  <br>   - GEN因中路崩盘陷入被动，KT通过中路优势辐射全局，29分钟速推结束第三局。  <br>   网友调侃：“冒充人类”的发挥让GEN陷入绝境。```wbCustomBlock{\"type\": \"quoted\", \"index\": 12, \"data\": {\"num\": [29, 30, 46, 49], \"version\": 2, \"quote_list\": [{\"name\": \"王玮晨\", \"scheme\": \"sinaweibo://detail?mblogid=5228203589244703\", \"index\": 49, \"label\": \"大v\"}, {\"name\": \"狂很子老\", \"scheme\": \"sinaweibo://detail?mblogid=5228231108072058\", \"index\": 29, \"label\": \"\"}, {\"name\": \"尹天CLANG\", \"scheme\": \"sinaweibo://detail?mblogid=5228230895993902\", \"index\": 30, \"label\": \"\"}, {\"name\": \"狂很子老\", \"scheme\": \"sinaweibo://detail?mblogid=5228229887527760\", \"index\": 46, \"label\": \"\"}], \"name\": \"王玮晨\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.480.480.50/005SyZ1Sly8i3tl9bvkkkj30dc0dc3yz.jpg?KID=imgbed,tva&Expires=1762003629&ssig=DrKt4KMxib\", \"scheme\": \"sinaweibo://detail?mblogid=5228203589244703\", \"vType\": 0}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5228203589244703&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.480.480.50/005SyZ1Sly8i3tl9bvkkkj30dc0dc3yz.jpg?KID=imgbed,tva&Expires=1762003629&ssig=DrKt4KMxib) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">王玮晨</span><img src=\"http://wx4.sinaimg.cn/middle/005SyZ1Sgy1i6wrzofjlmj32d71fo1l1.jpg\" data-width=1860 data-height=3067></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5228229044737811&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=1&multi_count=1\"><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/008xCJoDly8hrq6l9fi5wj30u00u03yx.jpg?KID=imgbed,tva&Expires=1762003629&ssig=hlahW4QbOx) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">小野的瓜田</span><img src=\"http://wx2.sinaimg.cn/middle/008xCJoDgy1i6wuwelfjij30rs0fkaq3.jpg\" data-width=560 data-height=1000></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5228229887527760&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=2\"><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.512.512.50/007WuwI6ly8h15o523b13j30e80e8aar.jpg?KID=imgbed,tva&Expires=1762003629&ssig=zZmcTqTzrY) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">狂很子老</span><img src=\"http://wx1.sinaimg.cn/middle/007WuwI6gy1i6wv0rnvtug30aq0aeb2o.gif\" data-width=374 data-height=386></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5228231247797135&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=1&multi_count=3\"><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.600.600.50/006W5FBDly8hvshq6akxvj30go0gojtd.jpg?KID=imgbed,tva&Expires=1762003629&ssig=UJp%2Fz2MB8l) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">竞圈风向标</span><img src=\"http://wx3.sinaimg.cn/middle/006W5FBDly1i6wv6bdyjvj30wc0i7di2.jpg\" data-width=655 data-height=1164></div><div data-type=\"v\" data-scheme=\"sinaweibo://multimedia?mix_mid=5228226893059147&mix_index=0&multi_paragraph=1&multi_count=4\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.16.21.551.551.50/96542c59ly8geqtawegnej20gr0gq0to.jpg?KID=imgbed,tva&Expires=1762003629&ssig=tN%2FENSDAf0) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">召唤师Park</span><img src=\"http://wx1.sinaimg.cn/middle/96542c59ly1i6wvxgu72oj20rc0f8q3o.jpg\" data-width=548 data-height=984></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5228230137349383&multi_paragraph=1&multi_count=5\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.480.480.50/005SyZ1Sly8i3tl9bvkkkj30dc0dc3yz.jpg?KID=imgbed,tva&Expires=1762003629&ssig=DrKt4KMxib) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">王玮晨</span><img src=\"http://wx3.sinaimg.cn/middle/005SyZ1Sly1i6wv1m3ypnj317k0omtbr.jpg\" data-width=886 data-height=1568></div></media-block><br>### 🔄 **二、与前期状态的强烈反差**  <br>1. **联赛统治级表现（10月）**  <br>   - **碾压Faker**：10月18日瑞士轮使用发条打出9/0/14超神数据，对位经济领先近800。```wbCustomBlock{\"type\": \"quoted\", \"index\": 16, \"data\": {\"num\": [13, 24, 52], \"version\": 2, \"quote_list\": [{\"name\": \"竞圈风向标\", \"scheme\": \"sinaweibo://detail?mblogid=5223157373078026\", \"index\": 13, \"label\": \"大v\"}, {\"name\": \"真白盘游戏\", \"scheme\": \"sinaweibo://detail?mblogid=5223163962070621\", \"index\": 24, \"label\": \"\"}, {\"name\": \"财泥鳅\", \"scheme\": \"sinaweibo://detail?mblogid=5223173318509251\", \"index\": 52, \"label\": \"\"}], \"name\": \"竞圈风向标\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.600.600.50/006W5FBDly8hvshq6akxvj30go0gojtd.jpg?KID=imgbed,tva&Expires=1762003629&ssig=UJp%2Fz2MB8l\", \"scheme\": \"sinaweibo://detail?mblogid=5223157373078026\", \"vType\": 0}}```  <br>   - **零封TES**：10月24日八强赛，Chovy被赞“强的像AI”，两局压制TES中单，GEN总时长未超1小时。```wbCustomBlock{\"type\": \"quoted\", \"index\": 17, \"data\": {\"num\": [16, 22], \"version\": 2, \"quote_list\": [{\"name\": \"电竞系学长\", \"scheme\": \"sinaweibo://detail?mblogid=5225072019114189\", \"index\": 16, \"label\": \"大v\"}, {\"name\": \"青涩胶带\", \"scheme\": \"sinaweibo://detail?mblogid=5225014248870737\", \"index\": 22, \"label\": \"\"}], \"name\": \"电竞系学长\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/008vVosWly8hrbabqsdmoj30u00u0wgu.jpg?KID=imgbed,tva&Expires=1762003629&ssig=2qvUAgBPpI\", \"scheme\": \"sinaweibo://detail?mblogid=5225072019114189\", \"vType\": 0}}```  <br>   - **业内背书**：教练朱开称其“目前无人能敌”，团队战术核心地位稳固。```wbCustomBlock{\"type\": \"quoted\", \"index\": 18, \"data\": {\"num\": [6, 7], \"version\": 2, \"quote_list\": [{\"name\": \"我是电竞小生\", \"scheme\": \"sinaweibo://detail?mblogid=5227086071728161\", \"index\": 6, \"label\": \"大v\"}, {\"name\": \"游叔\", \"scheme\": \"sinaweibo://detail?mblogid=5226966094447449\", \"index\": 7, \"label\": \"\"}], \"name\": \"我是电竞小生\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.600.600.50/006BPLKbly8gx4n5qvexbj30go0gogp4.jpg?KID=imgbed,tva&Expires=1762003629&ssig=2XmPg2BArc\", \"scheme\": \"sinaweibo://detail?mblogid=5227086071728161\", \"vType\": 0}}```  <br><br>2. **高光操作仍存**  <br>   - 10月31日对阵HLE时，丝血沙皇推回Viper，助GEN挺进四强。```wbCustomBlock{\"type\": \"quoted\", \"index\": 20, \"data\": {\"num\": [14, 38], \"version\": 2, \"quote_list\": [{\"name\": \"落日放映室\", \"scheme\": \"sinaweibo://detail?mblogid=5226775030532513\", \"index\": 14, \"label\": \"大v\"}, {\"name\": \"栖亓雨追夜\", \"scheme\": \"sinaweibo://detail?mblogid=5227760475965631\", \"index\": 38, \"label\": \"\"}], \"name\": \"落日放映室\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/005SYCMnly8i5qqgdtx69j30u00u0q53.jpg?KID=imgbed,tva&Expires=1762003629&ssig=1HP8HgJhq1\", \"scheme\": \"sinaweibo://detail?mblogid=5226775030532513\", \"vType\": 0}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5226966094447449&multi_paragraph=2&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/8972f4d7ly8i6hqww3pj8j20u00u0dif.jpg?KID=imgbed,tva&Expires=1762003629&ssig=u8%2B6Zn4jek) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">游叔</span><img src=\"http://wx4.sinaimg.cn/middle/8972f4d7ly1i6stv7kdaaj20u0140myx.jpg\" data-width=1440 data-height=1080></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5226775030532513&multi_paragraph=2&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/005SYCMnly8i5qqgdtx69j30u00u0q53.jpg?KID=imgbed,tva&Expires=1762003629&ssig=1HP8HgJhq1) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">落日放映室</span><img src=\"http://wx2.sinaimg.cn/middle/005SYCMngy1i6s7x9od4ij30zk0i6wg4.jpg\" data-width=654 data-height=1280></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5227086071728161&multi_paragraph=2&multi_count=2\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.600.600.50/006BPLKbly8gx4n5qvexbj30go0gogp4.jpg?KID=imgbed,tva&Expires=1762003629&ssig=2XmPg2BArc) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">我是电竞小生</span><img src=\"http://wx3.sinaimg.cn/middle/006BPLKbly1i6t7jm4phgj31hc0u075g.jpg\" data-width=1080 data-height=1920></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5225072019114189&multi_paragraph=2&multi_count=3\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/008vVosWly8hrbabqsdmoj30u00u0wgu.jpg?KID=imgbed,tva&Expires=1762003629&ssig=2qvUAgBPpI) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">电竞系学长</span><img src=\"http://wx4.sinaimg.cn/middle/008vVosWly1i6msc4rnv4j31hc0u0q71.jpg\" data-width=1080 data-height=1920></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5225014248870737&multi_paragraph=2&multi_count=4\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/e67840e5ly8hrtzlqlr0zj20u00u0myp.jpg?KID=imgbed,tva&Expires=1762003629&ssig=yKns9XgHRm) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">青涩胶带</span><img src=\"http://wx3.sinaimg.cn/middle/e67840e5gy1i6mlows323j20zg0k0766.jpg\" data-width=720 data-height=1276></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5223157373078026&multi_paragraph=2&multi_count=5\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.600.600.50/006W5FBDly8hvshq6akxvj30go0gojtd.jpg?KID=imgbed,tva&Expires=1762003629&ssig=UJp%2Fz2MB8l) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">竞圈风向标</span><img src=\"http://wx1.sinaimg.cn/middle/006W5FBDly1i6gofyq52wj30zg0k0q4o.jpg\" data-width=720 data-height=1276></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5223163962070621&multi_paragraph=2&multi_count=6\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.512.512.50/006ckKLjly8hojpem9x21j30e80e8aas.jpg?KID=imgbed,tva&Expires=1762003629&ssig=sBNys%2FUHuV) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">真白盘游戏</span><img src=\"http://wx4.sinaimg.cn/middle/006ckKLjly1i6gp6wzyo5j30zk0i4q4c.jpg\" data-width=652 data-height=1280></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5223173318509251&multi_paragraph=2&multi_count=7\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/bf25bf5bly8i5kh4h31twj20u00u07ag.jpg?KID=imgbed,tva&Expires=1762003629&ssig=79XcCqt4Uq) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">财泥鳅</span><img src=\"http://wx4.sinaimg.cn/middle/bf25bf5bly1i6gq9nmudbj21ji0u0dha.jpg\" data-width=1080 data-height=1998></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5227760475965631&multi_paragraph=2&multi_count=8\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/008xzb5qly8i6ta2vclp6j30u00u0tbw.jpg?KID=imgbed,tva&Expires=1762003629&ssig=S0QK%2BE%2FdV0) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">栖亓雨追夜</span><img src=\"http://wx2.sinaimg.cn/middle/008xzb5qgy1i6vcybyupij30k00zktai.jpg\" data-width=1280 data-height=720></div></media-block><br>### 📉 **三、大赛状态争议的深层原因**  <br>1. **历史心魔重现**  <br>   - 前职业选手Ning指出：Chovy **从未进入S赛决赛**，最好成绩仅为四强或八强，且关键局屡屡“拉胯”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 24, \"data\": {\"num\": [2, 4, 51], \"version\": 2, \"quote_list\": [{\"name\": \"大脸恰瓜\", \"scheme\": \"sinaweibo://detail?mblogid=5228233727677477\", \"index\": 2, \"label\": \"大v\"}, {\"name\": \"电竞食神\", \"scheme\": \"sinaweibo://detail?mblogid=5228232527578609\", \"index\": 4, \"label\": \"\"}, {\"name\": \"玩加电竞\", \"scheme\": \"sinaweibo://detail?mblogid=5228226890697166\", \"index\": 51, \"label\": \"\"}], \"name\": \"大脸恰瓜\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.750.750.50/007rJKiBly8gwbbpdmgnfj30ku0kuwfp.jpg?KID=imgbed,tva&Expires=1762003629&ssig=Hkq%2FcH%2BP%2Fr\", \"scheme\": \"sinaweibo://detail?mblogid=5228233727677477\", \"vType\": 0}}```  <br>   - 本次半决赛表现被指符合“四强魔咒”规律，即国际大赛淘汰赛阶段稳定性骤降。```wbCustomBlock{\"type\": \"quoted\", \"index\": 25, \"data\": {\"num\": [19, 30], \"version\": 2, \"quote_list\": [{\"name\": \"电竞系学长\", \"scheme\": \"sinaweibo://detail?mblogid=5226519894951659\", \"index\": 19, \"label\": \"\"}, {\"name\": \"尹天CLANG\", \"scheme\": \"sinaweibo://detail?mblogid=5228230895993902\", \"index\": 30, \"label\": \"\"}]}}```  <br><br>2. **战术遭针对性破解**  <br>   - **“反Chovy公式”生效**：KT沿用此前三支战胜GEN战队的策略——压制中路发育，切断其与团队联动。```wbCustomBlock{\"type\": \"quoted\", \"index\": 27, \"data\": {\"num\": [19, 30], \"version\": 2, \"quote_list\": [{\"name\": \"电竞系学长\", \"scheme\": \"sinaweibo://detail?mblogid=5226519894951659\", \"index\": 19, \"label\": \"\"}, {\"name\": \"尹天CLANG\", \"scheme\": \"sinaweibo://detail?mblogid=5228230895993902\", \"index\": 30, \"label\": \"\"}]}}```  <br>   - **BP劣势**：粉丝质疑GEN教练组未保护Ruler下路，反让Chovy拿弱势英雄抗压，加剧其操作变形。```wbCustomBlock{\"type\": \"quoted\", \"index\": 28, \"data\": {\"num\": [41], \"version\": 2, \"quote_list\": [{\"name\": \"情诗youme\", \"scheme\": \"sinaweibo://detail?mblogid=5228239209628807\", \"index\": 41, \"label\": \"\"}]}}```  <br><br>3. **版本适应问题**  <br>   - 当前版本强调中野节奏，Chovy擅长的“发育兜底”打法被BDD的游走型英雄（永恩、沙皇）克制。```wbCustomBlock{\"type\": \"quoted\", \"index\": 30, \"data\": {\"num\": [10, 19, 30], \"version\": 2, \"quote_list\": [{\"name\": \"召唤师Park\", \"scheme\": \"sinaweibo://detail?mblogid=5228226893059147\", \"index\": 10, \"label\": \"\"}, {\"name\": \"电竞系学长\", \"scheme\": \"sinaweibo://detail?mblogid=5226519894951659\", \"index\": 19, \"label\": \"\"}, {\"name\": \"尹天CLANG\", \"scheme\": \"sinaweibo://detail?mblogid=5228230895993902\", \"index\": 30, \"label\": \"\"}]}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5228233727677477&multi_paragraph=3&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.750.750.50/007rJKiBly8gwbbpdmgnfj30ku0kuwfp.jpg?KID=imgbed,tva&Expires=1762003629&ssig=Hkq%2FcH%2BP%2Fr) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">大脸恰瓜</span><img src=\"http://wx2.sinaimg.cn/middle/007rJKiBly1i6wvfvuzv7j31e00u042n.jpg\" data-width=1080 data-height=1800></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5228232527578609&multi_paragraph=3&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.580.580.50/007Zmmt8ly8gdijugsmcfj30g40g4my1.jpg?KID=imgbed,tva&Expires=1762003629&ssig=HcucTIvymw) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">电竞食神</span><img src=\"http://wx2.sinaimg.cn/middle/007Zmmt8ly1i6wvb5ny0lj31hc0u042x.jpg\" data-width=1080 data-height=1920></div></media-block><br>### 💎 **四、后续影响与展望**  <br>- **GEN晋级形势**：KT以2-1拿到赛点，Chovy第四局选用冰鸟背水一战。若无法调整状态，GEN恐止步四强。```wbCustomBlock{\"type\": \"quoted\", \"index\": 33, \"data\": {\"num\": [33], \"version\": 2, \"quote_list\": [{\"name\": \"狂很子老\", \"scheme\": \"sinaweibo://detail?mblogid=5228235956947124\", \"index\": 33, \"label\": \"\"}]}}```  <br>- **历史评价挑战**：若再次败退，其“操作天花板”与“大赛软脚虾”的争议将进一步激化。```wbCustomBlock{\"type\": \"quoted\", \"index\": 34, \"data\": {\"num\": [48], \"version\": 2, \"quote_list\": [{\"name\": \"瓶子君152\", \"scheme\": \"sinaweibo://detail?mblogid=5228230804244832\", \"index\": 48, \"label\": \"\"}], \"name\": \"瓶子君152\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/865b0b61ly8goziyee4ikj20u00u0418.jpg?KID=imgbed,tva&Expires=1762003629&ssig=U44xjfCPsS\", \"scheme\": \"sinaweibo://detail?mblogid=5228230804244832\", \"vType\": 0}}```  <br><br>> 📌 **总结**：Chovy当前状态呈现 **“联赛超神、淘汰赛超鬼”** 的两极分化。半决赛的失常既有操作失误、心态波动等主观因素，亦受制于对手战术针对和版本环境。其能否突破心魔，将决定GEN乃至个人职业生涯的终极高度。<br>",
+      "status_stage": 4,
+      "unify_md5": "df6fd1c43961c6101494eb2334c36c11",
+      "qs_status": 0,
+      "comment_info": {},
+      "query_category": "",
+      "reference_num": 50,
+      "uid": "",
+      "msg_format": "markdown"
+    }
+  },
+  "links": [
+    "sinaweibo://detail?mblogid=5228229044737811",
+    "sinaweibo://detail?mblogid=5228233727677477",
+    "sinaweibo://detail?mblogid=5228230137349383",
+    "sinaweibo://detail?mblogid=5228232527578609",
+    "sinaweibo://detail?mblogid=5228235678024476",
+    "sinaweibo://detail?mblogid=5227086071728161",
+    "sinaweibo://detail?mblogid=5226966094447449",
+    "sinaweibo://detail?mblogid=5228203151199968",
+    "sinaweibo://detail?mblogid=5227386335397871",
+    "sinaweibo://detail?mblogid=5228226893059147",
+    "sinaweibo://detail?mblogid=5228199357449981",
+    "sinaweibo://detail?mblogid=5227932635108534",
+    "sinaweibo://detail?mblogid=5223157373078026",
+    "sinaweibo://detail?mblogid=5226775030532513",
+    "sinaweibo://detail?mblogid=5225237834892193",
+    "sinaweibo://detail?mblogid=5225072019114189",
+    "sinaweibo://detail?mblogid=5215947494268457",
+    "sinaweibo://detail?mblogid=5223427645636855",
+    "sinaweibo://detail?mblogid=5226519894951659",
+    "sinaweibo://detail?mblogid=5215952230156259",
+    "sinaweibo://detail?mblogid=5225563955661753",
+    "sinaweibo://detail?mblogid=5225014248870737",
+    "sinaweibo://detail?mblogid=5221067570024471",
+    "sinaweibo://detail?mblogid=5223163962070621",
+    "historyweibo://5223157373078026",
+    "historyweibo://5215947494268457",
+    "historyweibo://5179763511793349",
+    "sinaweibo://detail?mblogid=5228231546112899",
+    "sinaweibo://detail?mblogid=5228231108072058",
+    "sinaweibo://detail?mblogid=5228230895993902",
+    "sinaweibo://detail?mblogid=5228223738938593",
+    "sinaweibo://detail?mblogid=5228203397352535",
+    "sinaweibo://detail?mblogid=5228235956947124",
+    "sinaweibo://detail?mblogid=5228233613378101",
+    "sinaweibo://detail?mblogid=5228218575487154",
+    "sinaweibo://detail?mblogid=5228231247797135",
+    "sinaweibo://detail?mblogid=5227517296515577",
+    "sinaweibo://detail?mblogid=5227760475965631",
+    "sinaweibo://detail?mblogid=5228193889128740",
+    "sinaweibo://detail?mblogid=5227609685753989",
+    "sinaweibo://detail?mblogid=5228239209628807",
+    "sinaweibo://detail?mblogid=5228239104770688",
+    "sinaweibo://detail?mblogid=5228239044741255",
+    "sinaweibo://detail?mblogid=5228238012943036",
+    "sinaweibo://detail?mblogid=5228188663547232",
+    "sinaweibo://detail?mblogid=5228229887527760",
+    "sinaweibo://detail?mblogid=5228177368813233",
+    "sinaweibo://detail?mblogid=5228230804244832",
+    "sinaweibo://detail?mblogid=5228203589244703",
+    "sinaweibo://detail?mblogid=5227528189906947",
+    "sinaweibo://detail?mblogid=5228226890697166",
+    "sinaweibo://detail?mblogid=5223173318509251",
+    "sinaweibo://detail?mblogid=5225006441174191"
+  ],
+  "media": [
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/005SyZ1Sgy1i6wrzofjlmj32d71fo1l1.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/005SyZ1Sgy1i6wrzofjlmj32d71fo1l1.jpg",
+      "alt": "王玮晨",
+      "width": 1860,
+      "height": 3067,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/005SyZ1Sgy1i6wrzofjlmj32d71fo1l1.jpg"
+      ],
+      "user": "王玮晨"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/008xCJoDgy1i6wuwelfjij30rs0fkaq3.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/008xCJoDgy1i6wuwelfjij30rs0fkaq3.jpg",
+      "alt": "小野的瓜田",
+      "width": 560,
+      "height": 1000,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/008xCJoDgy1i6wuwelfjij30rs0fkaq3.jpg"
+      ],
+      "user": "小野的瓜田"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/007WuwI6gy1i6wv0rnvtug30aq0aeb2o.gif",
+      "secure_url": "https://wx1.sinaimg.cn/middle/007WuwI6gy1i6wv0rnvtug30aq0aeb2o.gif",
+      "alt": "狂很子老",
+      "width": 374,
+      "height": 386,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/007WuwI6gy1i6wv0rnvtug30aq0aeb2o.jpg"
+      ],
+      "user": "狂很子老"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/006W5FBDly1i6wv6bdyjvj30wc0i7di2.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/006W5FBDly1i6wv6bdyjvj30wc0i7di2.jpg",
+      "alt": "竞圈风向标",
+      "width": 655,
+      "height": 1164,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx4.sinaimg.cn/large/006W5FBDly1i6wv6bdyjvj30wc0i7di2.jpg"
+      ],
+      "user": "竞圈风向标"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/96542c59ly1i6wvxgu72oj20rc0f8q3o.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/96542c59ly1i6wvxgu72oj20rc0f8q3o.jpg",
+      "alt": "召唤师Park",
+      "width": 548,
+      "height": 984,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/96542c59ly1i6wvxgu72oj20rc0f8q3o.jpg"
+      ],
+      "user": "召唤师Park"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/005SyZ1Sly1i6wv1m3ypnj317k0omtbr.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/005SyZ1Sly1i6wv1m3ypnj317k0omtbr.jpg",
+      "alt": "王玮晨",
+      "width": 886,
+      "height": 1568,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/005SyZ1Sly1i6wv1m3ypnj317k0omtbr.jpg"
+      ],
+      "user": "王玮晨"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/8972f4d7ly1i6stv7kdaaj20u0140myx.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/8972f4d7ly1i6stv7kdaaj20u0140myx.jpg",
+      "alt": "游叔",
+      "width": 1440,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/8972f4d7ly1i6stv7kdaaj20u0140myx.jpg"
+      ],
+      "user": "游叔"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/005SYCMngy1i6s7x9od4ij30zk0i6wg4.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/005SYCMngy1i6s7x9od4ij30zk0i6wg4.jpg",
+      "alt": "落日放映室",
+      "width": 654,
+      "height": 1280,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/005SYCMngy1i6s7x9od4ij30zk0i6wg4.jpg"
+      ],
+      "user": "落日放映室"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/006BPLKbly1i6t7jm4phgj31hc0u075g.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/006BPLKbly1i6t7jm4phgj31hc0u075g.jpg",
+      "alt": "我是电竞小生",
+      "width": 1080,
+      "height": 1920,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/006BPLKbly1i6t7jm4phgj31hc0u075g.jpg"
+      ],
+      "user": "我是电竞小生"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/008vVosWly1i6msc4rnv4j31hc0u0q71.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/008vVosWly1i6msc4rnv4j31hc0u0q71.jpg",
+      "alt": "电竞系学长",
+      "width": 1080,
+      "height": 1920,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx4.sinaimg.cn/large/008vVosWly1i6msc4rnv4j31hc0u0q71.jpg"
+      ],
+      "user": "电竞系学长"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/e67840e5gy1i6mlows323j20zg0k0766.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/e67840e5gy1i6mlows323j20zg0k0766.jpg",
+      "alt": "青涩胶带",
+      "width": 720,
+      "height": 1276,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/e67840e5gy1i6mlows323j20zg0k0766.jpg"
+      ],
+      "user": "青涩胶带"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/006W5FBDly1i6gofyq52wj30zg0k0q4o.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/006W5FBDly1i6gofyq52wj30zg0k0q4o.jpg",
+      "alt": "竞圈风向标",
+      "width": 720,
+      "height": 1276,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/006W5FBDly1i6gofyq52wj30zg0k0q4o.jpg"
+      ],
+      "user": "竞圈风向标"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/006ckKLjly1i6gp6wzyo5j30zk0i4q4c.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/006ckKLjly1i6gp6wzyo5j30zk0i4q4c.jpg",
+      "alt": "真白盘游戏",
+      "width": 652,
+      "height": 1280,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/006ckKLjly1i6gp6wzyo5j30zk0i4q4c.jpg"
+      ],
+      "user": "真白盘游戏"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/bf25bf5bly1i6gq9nmudbj21ji0u0dha.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/bf25bf5bly1i6gq9nmudbj21ji0u0dha.jpg",
+      "alt": "财泥鳅",
+      "width": 1080,
+      "height": 1998,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx4.sinaimg.cn/large/bf25bf5bly1i6gq9nmudbj21ji0u0dha.jpg"
+      ],
+      "user": "财泥鳅"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/008xzb5qgy1i6vcybyupij30k00zktai.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/008xzb5qgy1i6vcybyupij30k00zktai.jpg",
+      "alt": "栖亓雨追夜",
+      "width": 1280,
+      "height": 720,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/008xzb5qgy1i6vcybyupij30k00zktai.jpg"
+      ],
+      "user": "栖亓雨追夜"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/007rJKiBly1i6wvfvuzv7j31e00u042n.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/007rJKiBly1i6wvfvuzv7j31e00u042n.jpg",
+      "alt": "大脸恰瓜",
+      "width": 1080,
+      "height": 1800,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/007rJKiBly1i6wvfvuzv7j31e00u042n.jpg"
+      ],
+      "user": "大脸恰瓜"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/007Zmmt8ly1i6wvb5ny0lj31hc0u042x.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/007Zmmt8ly1i6wvb5ny0lj31hc0u042x.jpg",
+      "alt": "电竞食神",
+      "width": 1080,
+      "height": 1920,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/007Zmmt8ly1i6wvb5ny0lj31hc0u042x.jpg"
+      ],
+      "user": "电竞食神"
+    }
+  ],
+  "html_path": "data/aicard/hourly/2025-11-01/18/chovy.html"
+}

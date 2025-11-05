@@ -1,0 +1,431 @@
+{
+  "meta": {
+    "query": "#饿了么骑手新工服 赛车服#",
+    "status_code": 200,
+    "fetched_at": "2025-11-04T16:46:03+08:00",
+    "response": {
+      "chat_status_stage": 1,
+      "news_analyze": {},
+      "sorted_material_list": null,
+      "loop_times": 200,
+      "ab_suffix": "default",
+      "status": 2,
+      "show_ctrl": {
+        "quote": {}
+      },
+      "model": "deepseek",
+      "cot": 1,
+      "zs_risk_control": {
+        "think_text_close": 0,
+        "land_button_close": 0
+      },
+      "msg_format": "markdown",
+      "abtest_info": {
+        "chat_entrance": 1
+      },
+      "qs_status": 0,
+      "q_attr": {
+        "from_uid": "",
+        "from_request_id": "",
+        "reply_cid": "",
+        "comment_from_type": "",
+        "mid": ""
+      },
+      "wenda": {
+        "forward_gen": 0
+      },
+      "query": "#饿了么骑手新工服 赛车服#",
+      "share_text": "#饿了么骑手新工服 赛车服#的相关内容，来智搜看看",
+      "reliable_tips": "{\"gold_orange_v_mids\": [\"5229254263441048\", \"5229198865858916\", \"5229292293197380\", \"5229260685445827\", \"5229267627542920\", \"5229279745146884\", \"5229251928524019\", \"5229283198898093\", \"5229273491177945\", \"5229265813506397\", \"5229268176470579\", \"5229270116863622\", \"5229267870813057\", \"5229275926236588\", \"5229268542163016\", \"5229267144936853\", \"5229280398147610\", \"5229274950797264\", \"5229263924236704\", \"5229268995146259\", \"5229284211033698\", \"5229298114102440\", \"5229291404003235\", \"5229294362302507\", \"5229279116002215\", \"5229289970603122\", \"5229183552455011\", \"5229267359367977\", \"5229279663361684\", \"5229286409899793\", \"5229270811283985\", \"5229261770196625\", \"5229286575572325\", \"5229260558045642\", \"5229277987734014\", \"5229297076013676\", \"5229262103644296\", \"5229270508766707\", \"5229261490490075\", \"5229267759663535\", \"5229264792193061\", \"5229252085811888\", \"5229272335913214\", \"5229283292743610\"], \"gold_orange_v_ratio\": \"96%\", \"media_mids\": [\"5229236245761896\", \"5229222969742189\"], \"media_ratio\": \"4%\", \"verified_mids\": [], \"verified_ratio\": \"0%\", \"normal_mids\": [], \"normal_ratio\": \"0%\", \"ref_mid_rank\": {\"5229254263441048\": {\"rank\": 1}, \"5229198865858916\": {\"rank\": 5}, \"5229292293197380\": {\"rank\": 17}, \"5229260685445827\": {\"rank\": 26}, \"5229267627542920\": {\"rank\": 2}, \"5229279745146884\": {\"rank\": 12}, \"5229251928524019\": {\"rank\": 23}, \"5229283198898093\": {\"rank\": 6}, \"5229273491177945\": {\"rank\": 34}, \"5229265813506397\": {\"rank\": 47}, \"5229268176470579\": {\"rank\": 3}, \"5229270116863622\": {\"rank\": 4}, \"5229267870813057\": {\"rank\": 39}, \"5229275926236588\": {\"rank\": 48}, \"5229268542163016\": {\"rank\": 7}, \"5229267144936853\": {\"rank\": 27}, \"5229280398147610\": {\"rank\": 22}, \"5229274950797264\": {\"rank\": 37}, \"5229263924236704\": {\"rank\": 44}, \"5229268995146259\": {\"rank\": 38}, \"5229284211033698\": {\"rank\": 49}, \"5229298114102440\": {\"rank\": 18}, \"5229291404003235\": {\"rank\": 19}, \"5229236245761896\": {\"rank\": 8}, \"5229222969742189\": {\"rank\": 9}, \"5229294362302507\": {\"rank\": 25}, \"5229279116002215\": {\"rank\": 36}, \"5229289970603122\": {\"rank\": 41}, \"5229183552455011\": {\"rank\": 10}, \"5229267359367977\": {\"rank\": 11}, \"5229279663361684\": {\"rank\": 20}, \"5229286409899793\": {\"rank\": 21}, \"5229270811283985\": {\"rank\": 24}, \"5229261770196625\": {\"rank\": 28}, \"5229286575572325\": {\"rank\": 29}, \"5229260558045642\": {\"rank\": 30}, \"5229277987734014\": {\"rank\": 31}, \"5229297076013676\": {\"rank\": 32}, \"5229262103644296\": {\"rank\": 33}, \"5229270508766707\": {\"rank\": 35}, \"5229261490490075\": {\"rank\": 40}, \"5229267759663535\": {\"rank\": 42}, \"5229264792193061\": {\"rank\": 43}, \"5229252085811888\": {\"rank\": 45}, \"5229272335913214\": {\"rank\": 46}, \"5229283292743610\": {\"rank\": 50}}}",
+      "version": "2025-11-04 16:41:04.017999-9676",
+      "query_field": "42",
+      "share_card_multimodal": {
+        "h": 1757,
+        "user_name": "手握科技",
+        "type": "p",
+        "user_avatar": "https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/6cc0d0c1ly8h0s1fmn8d3j20u00u0gmw.jpg?KID=imgbed,tva&Expires=1762256464&ssig=Vl8%2BssL9pe",
+        "w": 1320,
+        "video_url": "",
+        "hit_score_new": 0,
+        "doc_score": 0,
+        "img_pid": "6cc0d0c1ly1i704hvqwbnj210o1ctai8",
+        "img": "http://wx3.sinaimg.cn/middle/6cc0d0c1ly1i704hvqwbnj210o1ctai8.jpg",
+        "click_rate": 0.3641175459701,
+        "click_num": 0,
+        "hit_score_final": 0,
+        "vtype": 0,
+        "scheme": "sinaweibo://multimedia?mix_mid=5229254263441048&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=1&multi_count=0",
+        "cur_mid": "5229254263441048"
+      },
+      "msg_json": "{}",
+      "basemodel": "实验组8",
+      "short_url": "http://t.cn/AXAluTb5",
+      "scheme": "sinaweibo://cardlist?containerid=100103type%3D225%26q%3D%23%E9%A5%BF%E4%BA%86%E4%B9%88%E9%AA%91%E6%89%8B%E6%96%B0%E5%B7%A5%E6%9C%8D%20%E8%B5%9B%E8%BD%A6%E6%9C%8D%23%26t%3D&extparam=ai_model%3Ddeepseek%26ori_ai_title%3D%E5%8F%82%E8%80%83%E5%8D%9A%E6%96%87%26material_version%3D1762245664",
+      "analysis_time": 1762245841,
+      "top_quote_list": {},
+      "card_multimodal": {
+        "type": "mediablock",
+        "data": [
+          {
+            "h": 1757,
+            "user_name": "手握科技",
+            "type": "p",
+            "user_avatar": "https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/6cc0d0c1ly8h0s1fmn8d3j20u00u0gmw.jpg?KID=imgbed,tva&Expires=1762256464&ssig=Vl8%2BssL9pe",
+            "w": 1320,
+            "video_url": "",
+            "hit_score_new": 0,
+            "doc_score": 0,
+            "img_pid": "6cc0d0c1ly1i704hvqwbnj210o1ctai8",
+            "img": "http://wx3.sinaimg.cn/middle/6cc0d0c1ly1i704hvqwbnj210o1ctai8.jpg",
+            "click_rate": 0.3641175459701,
+            "click_num": 0,
+            "hit_score_final": 0,
+            "vtype": 0,
+            "scheme": "sinaweibo://multimedia?mix_mid=5229254263441048&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=1&multi_count=0",
+            "cur_mid": "5229254263441048"
+          },
+          {
+            "h": 4094,
+            "user_name": "科技杰克",
+            "type": "p",
+            "user_avatar": "https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/006ZUC2mly8gbcewdguz4j30u00u00uy.jpg?KID=imgbed,tva&Expires=1762256464&ssig=xLGgIHejJi",
+            "w": 2675,
+            "video_url": "",
+            "hit_score_new": 90.527344,
+            "doc_score": 4993,
+            "img_pid": "006ZUC2mly1i705emfhs2j322b35qk5x",
+            "img": "http://wx2.sinaimg.cn/middle/006ZUC2mly1i705emfhs2j322b35qk5x.jpg",
+            "click_rate": 0.23998606757227,
+            "click_num": 0,
+            "hit_score_final": 83.116409,
+            "vtype": 0,
+            "scheme": "sinaweibo://multimedia?mix_mid=5229260685445827&from=search&content_show=1&mix_index=2&hide_index=1&multi_paragraph=1&multi_count=1",
+            "cur_mid": "5229260685445827"
+          },
+          {
+            "h": 1804,
+            "user_name": "五月流苏May",
+            "type": "p",
+            "user_avatar": "https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/006h7brcly8i3o8rtrwo3j30u00u0dha.jpg?KID=imgbed,tva&Expires=1762256464&ssig=N03tPa2k3O",
+            "w": 1169,
+            "video_url": "",
+            "hit_score_new": 99.023438,
+            "doc_score": 5555,
+            "img_pid": "006h7brcly1i704e4wz9wj30wh1e4qd3",
+            "img": "http://wx2.sinaimg.cn/middle/006h7brcly1i704e4wz9wj30wh1e4qd3.jpg",
+            "click_rate": 0.1556255713726,
+            "click_num": 0,
+            "hit_score_final": 91.414062,
+            "vtype": 0,
+            "scheme": "sinaweibo://multimedia?mix_mid=5229251928524019&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=2",
+            "cur_mid": "5229251928524019"
+          },
+          {
+            "h": 1757,
+            "user_name": "手握科技",
+            "type": "p",
+            "user_avatar": "https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/6cc0d0c1ly8h0s1fmn8d3j20u00u0gmw.jpg?KID=imgbed,tva&Expires=1762256464&ssig=Vl8%2BssL9pe",
+            "w": 1320,
+            "video_url": "",
+            "hit_score_new": 0,
+            "doc_score": 0,
+            "img_pid": "6cc0d0c1ly1i704hvqwbnj210o1ctai8",
+            "img": "http://wx3.sinaimg.cn/middle/6cc0d0c1ly1i704hvqwbnj210o1ctai8.jpg",
+            "click_rate": 0.3641175459701,
+            "click_num": 0,
+            "hit_score_final": 0,
+            "vtype": 0,
+            "scheme": "sinaweibo://multimedia?mix_mid=5229254263441048&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=1&multi_count=0",
+            "cur_mid": "5229254263441048"
+          }
+        ]
+      },
+      "current_time": 1762245965,
+      "mid_list": null,
+      "reference_num": 46,
+      "query_category": "Ip",
+      "status_stage": 4,
+      "link_list": [
+        "sinaweibo://detail?mblogid=5229254263441048",
+        "sinaweibo://detail?mblogid=5229267627542920",
+        "sinaweibo://detail?mblogid=5229268176470579",
+        "sinaweibo://detail?mblogid=5229270116863622",
+        "sinaweibo://detail?mblogid=5229198865858916",
+        "sinaweibo://detail?mblogid=5229283198898093",
+        "sinaweibo://detail?mblogid=5229268542163016",
+        "sinaweibo://detail?mblogid=5229236245761896",
+        "sinaweibo://detail?mblogid=5229222969742189",
+        "sinaweibo://detail?mblogid=5229183552455011",
+        "sinaweibo://detail?mblogid=5229267359367977",
+        "sinaweibo://detail?mblogid=5229279745146884",
+        "broadsocial_res://",
+        "broadsocial_res://",
+        "historyweibo://5202408122616751",
+        "historyweibo://5198564780675871",
+        "sinaweibo://detail?mblogid=5229292293197380",
+        "sinaweibo://detail?mblogid=5229298114102440",
+        "sinaweibo://detail?mblogid=5229291404003235",
+        "sinaweibo://detail?mblogid=5229279663361684",
+        "sinaweibo://detail?mblogid=5229286409899793",
+        "sinaweibo://detail?mblogid=5229280398147610",
+        "sinaweibo://detail?mblogid=5229251928524019",
+        "sinaweibo://detail?mblogid=5229270811283985",
+        "sinaweibo://detail?mblogid=5229294362302507",
+        "sinaweibo://detail?mblogid=5229260685445827",
+        "sinaweibo://detail?mblogid=5229267144936853",
+        "sinaweibo://detail?mblogid=5229261770196625",
+        "sinaweibo://detail?mblogid=5229286575572325",
+        "sinaweibo://detail?mblogid=5229260558045642",
+        "sinaweibo://detail?mblogid=5229277987734014",
+        "sinaweibo://detail?mblogid=5229297076013676",
+        "sinaweibo://detail?mblogid=5229262103644296",
+        "sinaweibo://detail?mblogid=5229273491177945",
+        "sinaweibo://detail?mblogid=5229270508766707",
+        "sinaweibo://detail?mblogid=5229279116002215",
+        "sinaweibo://detail?mblogid=5229274950797264",
+        "sinaweibo://detail?mblogid=5229268995146259",
+        "sinaweibo://detail?mblogid=5229267870813057",
+        "sinaweibo://detail?mblogid=5229261490490075",
+        "sinaweibo://detail?mblogid=5229289970603122",
+        "sinaweibo://detail?mblogid=5229267759663535",
+        "sinaweibo://detail?mblogid=5229264792193061",
+        "sinaweibo://detail?mblogid=5229263924236704",
+        "sinaweibo://detail?mblogid=5229252085811888",
+        "sinaweibo://detail?mblogid=5229272335913214",
+        "sinaweibo://detail?mblogid=5229265813506397",
+        "sinaweibo://detail?mblogid=5229275926236588",
+        "sinaweibo://detail?mblogid=5229284211033698",
+        "sinaweibo://detail?mblogid=5229283292743610"
+      ],
+      "share_info": {
+        "url": "http://t.cn/AXAjU33s",
+        "comment_content": "",
+        "unify_md5": "cc0dfa57a199f0e8cf13048db5cfaab7",
+        "page_id": "232964436591521491810adf06699e787635c1",
+        "tips": "#饿了么骑手新工服 赛车服#的相关内容，来智搜看看",
+        "display_name": "#饿了么骑手新工服 赛车服#",
+        "status": 3
+      },
+      "profile_image_url": "",
+      "user_info": {},
+      "comment_info": {},
+      "uid": "",
+      "unify_md5": "cc0dfa57a199f0e8cf13048db5cfaab7",
+      "ext_show": {},
+      "qs_status_info": "{\"qs_c_status\":8388608,\"ab_lab\":{},\"qs_status\":0,\"qs_u_status\":0,\"qs_r_status\":0,\"qs_q_status\":0}",
+      "msg": "<think><br>嗯，用户想了解饿了么骑手新工服赛车服的情况。我看到了很多关于饿了么骑手更换橙黑新工服的信息，这些信息都来自2025年11月4日的微博内容，时效性很强。<br><br>从搜索结果来看，新工服的设计确实很有特点，采用了橙黑撞色设计，流线型剪裁，肩部有倒三角线条，整体风格很像迈凯伦车队的赛车服。很多网友都表示这个设计很帅，比原来的蓝色工服好看。<br><br>新工服不只是好看，功能上也有很多改进。它采用了3L复合功能面料，防风防水又透气。安全方面，加宽了反光条，夜间骑行更安全。还有一些很贴心的设计，比如右袖有透明信息袋可以放血型、过敏史等紧急信息，配套腰包里有创可贴和消毒棉片。<br><br>不过也有争议点，新工服上有很多阿里系品牌的logo，被网友调侃是\"行走的广告牌\"。虽然这些logo是魔术贴可以撕下来，但反复粘贴容易卷边。另外关于工服成本，官方说法是活跃稳定的骑手可以免费领取，但有人在闲鱼上转卖，价格在200-300元之间。<br><br>这次换装和饿了么更名为\"淘宝闪购\"是同步进行的，是阿里整合即时零售资源的动作。新工服在10月已经开始陆续更换，上海嘉定等地的骑手表示新工服穿着更舒适。<br><br>用户可能还想知道公众对新工服的评价。大部分网友觉得设计很酷，但也有担心夏季透气性不足，或者觉得logo太多影响美观。专业人士则认为这提升了骑手职业尊严。<br><br>最后需要考虑安全提醒，虽然衣服像赛车服，但骑手们还是要注意交通安全。<br></think><br>以下是关于饿了么骑手新工服（赛车服风格）的详细整理，综合了设计亮点、功能升级、用户反馈及行业背景等信息：<br>### 🏁 **一、设计特点：赛车服美学与视觉革新**  <br>1. **橙黑撞色与流线剪裁**  <br>   - 主色调为高饱和活力橙拼接黑色，采用赛车服同款倒三角肩线设计，视觉呈现速度感和专业感，被网友称为“迈凯伦车队平替”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 5, \"data\": {\"num\": [1, 5, 17, 26], \"version\": 2, \"quote_list\": [{\"name\": \"姚昱-\", \"scheme\": \"sinaweibo://detail?mblogid=5229198865858916\", \"index\": 5, \"label\": \"大v\"}, {\"name\": \"手握科技\", \"scheme\": \"sinaweibo://detail?mblogid=5229254263441048\", \"index\": 1, \"label\": \"\"}, {\"name\": \"齐宇的车与家\", \"scheme\": \"sinaweibo://detail?mblogid=5229292293197380\", \"index\": 17, \"label\": \"\"}, {\"name\": \"科技杰克\", \"scheme\": \"sinaweibo://detail?mblogid=5229260685445827\", \"index\": 26, \"label\": \"\"}], \"name\": \"姚昱-\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.996.996.50/006qUqOMly8g6nhrey228j30ro0romzc.jpg?KID=imgbed,tva&Expires=1762256464&ssig=tkPlt%2Fd7%2Bv\", \"scheme\": \"sinaweibo://detail?mblogid=5229198865858916\", \"vType\": 0}}```  <br>   - 流线型版型优化行动便利性，宽肩窄腰剪裁提升骑手形象挺拔度。```wbCustomBlock{\"type\": \"quoted\", \"index\": 6, \"data\": {\"num\": [2, 12, 23], \"version\": 2, \"quote_list\": [{\"name\": \"小沐舟吖\", \"scheme\": \"sinaweibo://detail?mblogid=5229267627542920\", \"index\": 2, \"label\": \"大v\"}, {\"name\": \"是煦煦哟\", \"scheme\": \"sinaweibo://detail?mblogid=5229279745146884\", \"index\": 12, \"label\": \"\"}, {\"name\": \"五月流苏May\", \"scheme\": \"sinaweibo://detail?mblogid=5229251928524019\", \"index\": 23, \"label\": \"\"}], \"name\": \"小沐舟吖\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.908.908.50/0062pvhyly8hcv5jjls18j30p80p841b.jpg?KID=imgbed,tva&Expires=1762256464&ssig=cR9xuq%2FqrK\", \"scheme\": \"sinaweibo://detail?mblogid=5229267627542920\", \"vType\": 0}}```  <br><br>2. **品牌整合设计**  <br>   - 工服覆盖淘宝、支付宝、盒马、高德地图等 **十余个阿里系品牌Logo**，以魔术贴形式粘贴（可拆卸但反复使用易卷边），被调侃为“行走的阿里全家桶广告牌”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 8, \"data\": {\"num\": [1, 6, 34, 47], \"version\": 2, \"quote_list\": [{\"name\": \"手握科技\", \"scheme\": \"sinaweibo://detail?mblogid=5229254263441048\", \"index\": 1, \"label\": \"大v\"}, {\"name\": \"阿宅圆酱\", \"scheme\": \"sinaweibo://detail?mblogid=5229283198898093\", \"index\": 6, \"label\": \"\"}, {\"name\": \"科技俊\", \"scheme\": \"sinaweibo://detail?mblogid=5229273491177945\", \"index\": 34, \"label\": \"\"}, {\"name\": \"my萌宝毅果\", \"scheme\": \"sinaweibo://detail?mblogid=5229265813506397\", \"index\": 47, \"label\": \"\"}], \"name\": \"手握科技\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/6cc0d0c1ly8h0s1fmn8d3j20u00u0gmw.jpg?KID=imgbed,tva&Expires=1762256464&ssig=Vl8%2BssL9pe\", \"scheme\": \"sinaweibo://detail?mblogid=5229254263441048\", \"vType\": 0}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5229254263441048&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=1&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/6cc0d0c1ly8h0s1fmn8d3j20u00u0gmw.jpg?KID=imgbed,tva&Expires=1762256464&ssig=Vl8%2BssL9pe) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">手握科技</span><img src=\"http://wx3.sinaimg.cn/middle/6cc0d0c1ly1i704hvqwbnj210o1ctai8.jpg\" data-width=1757 data-height=1320></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5229260685445827&from=search&content_show=1&mix_index=2&hide_index=1&multi_paragraph=1&multi_count=1\"><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/006ZUC2mly8gbcewdguz4j30u00u00uy.jpg?KID=imgbed,tva&Expires=1762256464&ssig=xLGgIHejJi) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">科技杰克</span><img src=\"http://wx2.sinaimg.cn/middle/006ZUC2mly1i705emfhs2j322b35qk5x.jpg\" data-width=4094 data-height=2675></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5229251928524019&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=2\"><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/006h7brcly8i3o8rtrwo3j30u00u0dha.jpg?KID=imgbed,tva&Expires=1762256464&ssig=N03tPa2k3O) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">五月流苏May</span><img src=\"http://wx2.sinaimg.cn/middle/006h7brcly1i704e4wz9wj30wh1e4qd3.jpg\" data-width=1804 data-height=1169></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5229273491177945&from=search&content_show=1&mix_index=3&hide_index=1&multi_paragraph=1&multi_count=3\"><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.1024.1024.50/007oRZmply8hl006zndpsj30sg0sgq5z.jpg?KID=imgbed,tva&Expires=1762256464&ssig=YbtcnwE4xO) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">科技俊</span><img src=\"http://wx2.sinaimg.cn/middle/007oRZmpgy1i706vkylrhj30wi0lmq80.jpg\" data-width=778 data-height=1170></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5229198865858916&multi_paragraph=1&multi_count=4\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.996.996.50/006qUqOMly8g6nhrey228j30ro0romzc.jpg?KID=imgbed,tva&Expires=1762256464&ssig=tkPlt%2Fd7%2Bv) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">姚昱-</span><img src=\"http://wx2.sinaimg.cn/middle/006qUqOMly1i6zyad79u2j30mh0u0wh2.jpg\" data-width=1080 data-height=809></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5229279745146884&multi_paragraph=1&multi_count=5\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.1054.1054.50/8ba50107ly8i002wu4ruhj20ta0tadgu.jpg?KID=imgbed,tva&Expires=1762256464&ssig=xKeq4Cnv4b) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">是煦煦哟</span><img src=\"http://wx1.sinaimg.cn/middle/8ba50107ly1i707khqxxgj20u01hcwi3.jpg\" data-width=1920 data-height=1080></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5229283198898093&multi_paragraph=1&multi_count=6\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.240.240.50/005TsWlRly8hnf9m98du7j306o06oa9z.jpg?KID=imgbed,tva&Expires=1762256464&ssig=8gRKW3IY0n) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">阿宅圆酱</span><img src=\"http://wx4.sinaimg.cn/middle/005TsWlRly1i707xwz7i3j30qo0k0dgb.jpg\" data-width=720 data-height=960></div></media-block><br>### 🛡️ **二、功能升级：安全与实用性强化**  <br>1. **专业防护材质**  <br>   - 采用户外品牌同款 **3L复合功能面料**，具备防风、防泼水、透气性能，应对复杂天气。```wbCustomBlock{\"type\": \"quoted\", \"index\": 12, \"data\": {\"num\": [3, 4, 39, 48], \"version\": 2, \"quote_list\": [{\"name\": \"厚恩投资张延昆\", \"scheme\": \"sinaweibo://detail?mblogid=5229270116863622\", \"index\": 4, \"label\": \"大v\"}, {\"name\": \"马猴烧酒三生蕊\", \"scheme\": \"sinaweibo://detail?mblogid=5229268176470579\", \"index\": 3, \"label\": \"\"}, {\"name\": \"麦子俊i\", \"scheme\": \"sinaweibo://detail?mblogid=5229267870813057\", \"index\": 39, \"label\": \"\"}, {\"name\": \"保镖的车库\", \"scheme\": \"sinaweibo://detail?mblogid=5229275926236588\", \"index\": 48, \"label\": \"\"}], \"name\": \"厚恩投资张延昆\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/404cdd30ly8gdih9m7oraj20u00u0whj.jpg?KID=imgbed,tva&Expires=1762256464&ssig=s3RPmg4TLk\", \"scheme\": \"sinaweibo://detail?mblogid=5229270116863622\", \"vType\": 0}}```  <br>   - 加宽环绕式反光条，夜间反光强度提升300%，显著增强骑行安全性。```wbCustomBlock{\"type\": \"quoted\", \"index\": 13, \"data\": {\"num\": [3, 7], \"version\": 2, \"quote_list\": [{\"name\": \"马猴烧酒三生蕊\", \"scheme\": \"sinaweibo://detail?mblogid=5229268176470579\", \"index\": 3, \"label\": \"大v\"}, {\"name\": \"一撮儿呆毛毛\", \"scheme\": \"sinaweibo://detail?mblogid=5229268542163016\", \"index\": 7, \"label\": \"\"}], \"name\": \"马猴烧酒三生蕊\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/007cPlrUly8i634x543zfj30u00u076o.jpg?KID=imgbed,tva&Expires=1762256464&ssig=ANSYKyeMdj\", \"scheme\": \"sinaweibo://detail?mblogid=5229268176470579\", \"vType\": 0}}```  <br><br>2. **应急保障细节**  <br>   - **右袖透明信息袋**：存放骑手血型、过敏史、紧急联系人等关键数据。```wbCustomBlock{\"type\": \"quoted\", \"index\": 15, \"data\": {\"num\": [4, 23], \"version\": 2, \"quote_list\": [{\"name\": \"厚恩投资张延昆\", \"scheme\": \"sinaweibo://detail?mblogid=5229270116863622\", \"index\": 4, \"label\": \"\"}, {\"name\": \"五月流苏May\", \"scheme\": \"sinaweibo://detail?mblogid=5229251928524019\", \"index\": 23, \"label\": \"\"}]}}```  <br>   - **可拆卸急救腰包**：内置创可贴、消毒棉片，支持快速取用。```wbCustomBlock{\"type\": \"quoted\", \"index\": 16, \"data\": {\"num\": [3, 12, 27], \"version\": 2, \"quote_list\": [{\"name\": \"马猴烧酒三生蕊\", \"scheme\": \"sinaweibo://detail?mblogid=5229268176470579\", \"index\": 3, \"label\": \"\"}, {\"name\": \"是煦煦哟\", \"scheme\": \"sinaweibo://detail?mblogid=5229279745146884\", \"index\": 12, \"label\": \"\"}, {\"name\": \"战狼戎耀\", \"scheme\": \"sinaweibo://detail?mblogid=5229267144936853\", \"index\": 27, \"label\": \"\"}]}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5229268542163016&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=2&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.985.985.50/007mMf7Nly8hpo4v2lv5zj30rd0rdmym.jpg?KID=imgbed,tva&Expires=1762256464&ssig=hpIdmV0X%2BZ) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">一撮儿呆毛毛</span><img src=\"http://wx3.sinaimg.cn/middle/007mMf7Ngy1i706adisbtj30ou0xu78m.jpg\" data-width=1218 data-height=894></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5229268176470579&multi_paragraph=2&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/007cPlrUly8i634x543zfj30u00u076o.jpg?KID=imgbed,tva&Expires=1762256464&ssig=ANSYKyeMdj) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">马猴烧酒三生蕊</span><img src=\"http://wx1.sinaimg.cn/middle/007cPlrUly1i7068vc5b1j30u01hcwh3.jpg\" data-width=1920 data-height=1080></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5229270116863622&multi_paragraph=2&multi_count=2\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/404cdd30ly8gdih9m7oraj20u00u0whj.jpg?KID=imgbed,tva&Expires=1762256464&ssig=s3RPmg4TLk) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">厚恩投资张延昆</span><img src=\"http://wx3.sinaimg.cn/middle/404cdd30ly1i706hj4byuj20sg0g0jso.jpg\" data-width=576 data-height=1024></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5229267144936853&multi_paragraph=2&multi_count=3\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.1024.1024.50/0066KSy4ly8hshgex67raj30sg0sgmyy.jpg?KID=imgbed,tva&Expires=1762256464&ssig=6GHykZm5Rb) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">战狼戎耀</span><img src=\"http://wx2.sinaimg.cn/middle/0066KSy4ly1i70652axp1j30k00u0n03.jpg\" data-width=1080 data-height=720></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5229275926236588&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=2&multi_count=4\"><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/008av9SXly8hy5jedzvrkj30u00u0juo.jpg?KID=imgbed,tva&Expires=1762256464&ssig=rDmd9HiCVr) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">保镖的车库</span><img src=\"http://wx1.sinaimg.cn/middle/008av9SXgy1i7073t4nj1j32c03401ky.jpg\" data-width=4032 data-height=3024></div></media-block><br>### 💬 **三、骑手与公众反馈**  <br>1. **积极评价**  <br>   - **职业认同感提升**：骑手称“穿上像城市赛车手”，送单积极性提高。```wbCustomBlock{\"type\": \"quoted\", \"index\": 20, \"data\": {\"num\": [12, 27, 48], \"version\": 2, \"quote_list\": [{\"name\": \"保镖的车库\", \"scheme\": \"sinaweibo://detail?mblogid=5229275926236588\", \"index\": 48, \"label\": \"大v\"}, {\"name\": \"是煦煦哟\", \"scheme\": \"sinaweibo://detail?mblogid=5229279745146884\", \"index\": 12, \"label\": \"\"}, {\"name\": \"战狼戎耀\", \"scheme\": \"sinaweibo://detail?mblogid=5229267144936853\", \"index\": 27, \"label\": \"\"}], \"name\": \"保镖的车库\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/008av9SXly8hy5jedzvrkj30u00u0juo.jpg?KID=imgbed,tva&Expires=1762256464&ssig=rDmd9HiCVr\", \"scheme\": \"sinaweibo://detail?mblogid=5229275926236588\", \"vType\": 0}}```  <br>   - **用户视觉体验**：年轻群体认为设计“炫酷潮服”，街头辨识度极高。```wbCustomBlock{\"type\": \"quoted\", \"index\": 21, \"data\": {\"num\": [2, 22, 37, 44], \"version\": 2, \"quote_list\": [{\"name\": \"若楠不加糖\", \"scheme\": \"sinaweibo://detail?mblogid=5229274950797264\", \"index\": 37, \"label\": \"大v\"}, {\"name\": \"小沐舟吖\", \"scheme\": \"sinaweibo://detail?mblogid=5229267627542920\", \"index\": 2, \"label\": \"\"}, {\"name\": \"拍拍小派\", \"scheme\": \"sinaweibo://detail?mblogid=5229280398147610\", \"index\": 22, \"label\": \"\"}, {\"name\": \"小怡说车\", \"scheme\": \"sinaweibo://detail?mblogid=5229263924236704\", \"index\": 44, \"label\": \"\"}], \"name\": \"若楠不加糖\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.512.512.50/007HcfBily8hxgikhv8ebj30e80e83yo.jpg?KID=imgbed,tva&Expires=1762256464&ssig=alwC3kCLj5\", \"scheme\": \"sinaweibo://detail?mblogid=5229274950797264\", \"vType\": 0}}```  <br><br>2. **争议与吐槽**  <br>   - **广告密度过高**：近看Logo密集，部分用户认为“像移动广告牌”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 23, \"data\": {\"num\": [38, 47, 49], \"version\": 2, \"quote_list\": [{\"name\": \"游戏投投机\", \"scheme\": \"sinaweibo://detail?mblogid=5229268995146259\", \"index\": 38, \"label\": \"大v\"}, {\"name\": \"my萌宝毅果\", \"scheme\": \"sinaweibo://detail?mblogid=5229265813506397\", \"index\": 47, \"label\": \"\"}, {\"name\": \"游戏投投机\", \"scheme\": \"sinaweibo://detail?mblogid=5229284211033698\", \"index\": 49, \"label\": \"\"}], \"name\": \"游戏投投机\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/0073KQ0ply8i34hhre6gdj30u00u0dip.jpg?KID=imgbed,tva&Expires=1762256464&ssig=mWkijPLeGR\", \"scheme\": \"sinaweibo://detail?mblogid=5229268995146259\", \"vType\": 0}}```  <br>   - **成本疑问**：官方称活跃骑手免费配发，但闲鱼出现二手转卖（200-300元/套）。```wbCustomBlock{\"type\": \"quoted\", \"index\": 24, \"data\": {\"num\": [18, 19], \"version\": 2, \"quote_list\": [{\"name\": \"赵璞\", \"scheme\": \"sinaweibo://detail?mblogid=5229291404003235\", \"index\": 19, \"label\": \"大v\"}, {\"name\": \"困困兎饼\", \"scheme\": \"sinaweibo://detail?mblogid=5229298114102440\", \"index\": 18, \"label\": \"\"}], \"name\": \"赵璞\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.512.512.50/4362eb54ly8gmyzay9e7qj20e80e874v.jpg?KID=imgbed,tva&Expires=1762256464&ssig=CQnbgKS247\", \"scheme\": \"sinaweibo://detail?mblogid=5229291404003235\", \"vType\": 0}}```  <br>   - **透气性担忧**：少数反馈夏季可能闷热，需观察实际穿着体验。```wbCustomBlock{\"type\": \"quoted\", \"index\": 25, \"data\": {\"num\": [18], \"version\": 2, \"quote_list\": [{\"name\": \"困困兎饼\", \"scheme\": \"sinaweibo://detail?mblogid=5229298114102440\", \"index\": 18, \"label\": \"大v\"}], \"name\": \"困困兎饼\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.1.1080.1080.50/005BHmQ1ly8hzwpvtdkonj30u00u0wgp.jpg?KID=imgbed,tva&Expires=1762256464&ssig=KLFiOb4GrK\", \"scheme\": \"sinaweibo://detail?mblogid=5229298114102440\", \"vType\": 0}}```<br>### 🚀 **四、行业战略背景**  <br>1. **品牌整合与更名**  <br>   - 同步 **饿了么APP更名为“淘宝闪购”**，版本号12.0.1进入灰度测试，图标主色调改为橙色，强化“30分钟送万物”的即时零售定位。```wbCustomBlock{\"type\": \"quoted\", \"index\": 29, \"data\": {\"num\": [8, 9, 25, 36], \"version\": 2, \"quote_list\": [{\"name\": \"澎湃新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5229236245761896\", \"index\": 8, \"label\": \"\"}, {\"name\": \"澎湃新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5229222969742189\", \"index\": 9, \"label\": \"\"}, {\"name\": \"星野浪奔\", \"scheme\": \"sinaweibo://detail?mblogid=5229294362302507\", \"index\": 25, \"label\": \"\"}, {\"name\": \"JULY17_箬初菡\", \"scheme\": \"sinaweibo://detail?mblogid=5229279116002215\", \"index\": 36, \"label\": \"\"}], \"name\": \"澎湃新闻\", \"img\": \"https://tvax1.sinaimg.cn/crop.11.10.275.275.50/005vnhZYly8ftjmwo0bx4j308c08cq32.jpg?KID=imgbed,tva&Expires=1762256464&ssig=X%2Blhdi2N%2F%2B\", \"scheme\": \"sinaweibo://detail?mblogid=5229236245761896\", \"vType\": 3}}```  <br>   - 整合阿里系流量与运力，对抗美团闪购（市占率44.1%，但数据存疑需核实）。```wbCustomBlock{\"type\": \"quoted\", \"index\": 30, \"data\": {\"num\": [4], \"version\": 2, \"quote_list\": [{\"name\": \"厚恩投资张延昆\", \"scheme\": \"sinaweibo://detail?mblogid=5229270116863622\", \"index\": 4, \"label\": \"\"}]}}```  <br><br>2. **职业化进程深化**  <br>   - 推出 **“橙意计划”**：联合22个阿里品牌提供社保补贴、子女助学金、见义勇为奖励等福利。```wbCustomBlock{\"type\": \"quoted\", \"index\": 32, \"data\": {\"num\": [4], \"version\": 2, \"quote_list\": [{\"name\": \"厚恩投资张延昆\", \"scheme\": \"sinaweibo://detail?mblogid=5229270116863622\", \"index\": 4, \"label\": \"\"}]}}```  <br>   - 骑手角色转型：从送餐员扩展至全品类配送（生鲜、数码等），餐箱承重能力同步升级。```wbCustomBlock{\"type\": \"quoted\", \"index\": 33, \"data\": {\"num\": [4, 6], \"version\": 2, \"quote_list\": [{\"name\": \"阿宅圆酱\", \"scheme\": \"sinaweibo://detail?mblogid=5229283198898093\", \"index\": 6, \"label\": \"\"}, {\"name\": \"厚恩投资张延昆\", \"scheme\": \"sinaweibo://detail?mblogid=5229270116863622\", \"index\": 4, \"label\": \"\"}], \"name\": \"阿宅圆酱\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.240.240.50/005TsWlRly8hnf9m98du7j306o06oa9z.jpg?KID=imgbed,tva&Expires=1762256464&ssig=8gRKW3IY0n\", \"scheme\": \"sinaweibo://detail?mblogid=5229283198898093\", \"vType\": 0}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5229236245761896&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=4&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.11.10.275.275.50/005vnhZYly8ftjmwo0bx4j308c08cq32.jpg?KID=imgbed,tva&Expires=1762256464&ssig=X%2Blhdi2N%2F%2B) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">澎湃新闻</span><img src=\"http://wx1.sinaimg.cn/middle/005vnhZYgy1i702lk52brj60sg11ywhm02.jpg\" data-width=1366 data-height=1024></div></media-block><br>### ⚠️ **五、待优化方向**  <br>- **Logo实用性**：魔术贴反复粘贴易卷边脱落，需改进耐用性。```wbCustomBlock{\"type\": \"quoted\", \"index\": 36, \"data\": {\"num\": [47], \"version\": 2, \"quote_list\": [{\"name\": \"my萌宝毅果\", \"scheme\": \"sinaweibo://detail?mblogid=5229265813506397\", \"index\": 47, \"label\": \"\"}]}}```  <br>- **安全保障**：反光条强度需长期验证，避免雨雪天失效。```wbCustomBlock{\"type\": \"quoted\", \"index\": 37, \"data\": {\"num\": [41], \"version\": 2, \"quote_list\": [{\"name\": \"灯火入眉弯sum\", \"scheme\": \"sinaweibo://detail?mblogid=5229289970603122\", \"index\": 41, \"label\": \"\"}]}}```  <br>- **用户习惯过渡**：老年用户对“饿了么”更名“淘宝闪购”存在认知混乱。```wbCustomBlock{\"type\": \"quoted\", \"index\": 38, \"data\": {\"num\": [4, 25], \"version\": 2, \"quote_list\": [{\"name\": \"厚恩投资张延昆\", \"scheme\": \"sinaweibo://detail?mblogid=5229270116863622\", \"index\": 4, \"label\": \"\"}, {\"name\": \"星野浪奔\", \"scheme\": \"sinaweibo://detail?mblogid=5229294362302507\", \"index\": 25, \"label\": \"\"}]}}```<br>### 💎 **总结**  <br>饿了么新工服以赛车服设计重塑骑手职业形象，在美学与功能上实现突破，成为阿里即时零售战略的视觉符号。其亮眼橙色既是街头风景线，也承载着平台对骑手安全与尊严的承诺。未来需平衡商业露出与实用性，让“城市赛车手”真正驰骋于安全与尊重的赛道上。```wbCustomBlock{\"type\": \"quoted\", \"index\": 40, \"data\": {\"num\": [27, 39, 48], \"version\": 2, \"quote_list\": [{\"name\": \"麦子俊i\", \"scheme\": \"sinaweibo://detail?mblogid=5229267870813057\", \"index\": 39, \"label\": \"\"}, {\"name\": \"战狼戎耀\", \"scheme\": \"sinaweibo://detail?mblogid=5229267144936853\", \"index\": 27, \"label\": \"\"}, {\"name\": \"保镖的车库\", \"scheme\": \"sinaweibo://detail?mblogid=5229275926236588\", \"index\": 48, \"label\": \"\"}], \"name\": \"麦子俊i\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.512.512.50/997b8391ly8g54chujolwj20e80e83z4.jpg?KID=imgbed,tva&Expires=1762256464&ssig=lyuqx%2BcsdK\", \"scheme\": \"sinaweibo://detail?mblogid=5229267870813057\", \"vType\": 0}}```<br>",
+      "page_id": "232964436591521491810adf06699e787635c1"
+    }
+  },
+  "links": [
+    "sinaweibo://detail?mblogid=5229254263441048",
+    "sinaweibo://detail?mblogid=5229267627542920",
+    "sinaweibo://detail?mblogid=5229268176470579",
+    "sinaweibo://detail?mblogid=5229270116863622",
+    "sinaweibo://detail?mblogid=5229198865858916",
+    "sinaweibo://detail?mblogid=5229283198898093",
+    "sinaweibo://detail?mblogid=5229268542163016",
+    "sinaweibo://detail?mblogid=5229236245761896",
+    "sinaweibo://detail?mblogid=5229222969742189",
+    "sinaweibo://detail?mblogid=5229183552455011",
+    "sinaweibo://detail?mblogid=5229267359367977",
+    "sinaweibo://detail?mblogid=5229279745146884",
+    "broadsocial_res://",
+    "broadsocial_res://",
+    "historyweibo://5202408122616751",
+    "historyweibo://5198564780675871",
+    "sinaweibo://detail?mblogid=5229292293197380",
+    "sinaweibo://detail?mblogid=5229298114102440",
+    "sinaweibo://detail?mblogid=5229291404003235",
+    "sinaweibo://detail?mblogid=5229279663361684",
+    "sinaweibo://detail?mblogid=5229286409899793",
+    "sinaweibo://detail?mblogid=5229280398147610",
+    "sinaweibo://detail?mblogid=5229251928524019",
+    "sinaweibo://detail?mblogid=5229270811283985",
+    "sinaweibo://detail?mblogid=5229294362302507",
+    "sinaweibo://detail?mblogid=5229260685445827",
+    "sinaweibo://detail?mblogid=5229267144936853",
+    "sinaweibo://detail?mblogid=5229261770196625",
+    "sinaweibo://detail?mblogid=5229286575572325",
+    "sinaweibo://detail?mblogid=5229260558045642",
+    "sinaweibo://detail?mblogid=5229277987734014",
+    "sinaweibo://detail?mblogid=5229297076013676",
+    "sinaweibo://detail?mblogid=5229262103644296",
+    "sinaweibo://detail?mblogid=5229273491177945",
+    "sinaweibo://detail?mblogid=5229270508766707",
+    "sinaweibo://detail?mblogid=5229279116002215",
+    "sinaweibo://detail?mblogid=5229274950797264",
+    "sinaweibo://detail?mblogid=5229268995146259",
+    "sinaweibo://detail?mblogid=5229267870813057",
+    "sinaweibo://detail?mblogid=5229261490490075",
+    "sinaweibo://detail?mblogid=5229289970603122",
+    "sinaweibo://detail?mblogid=5229267759663535",
+    "sinaweibo://detail?mblogid=5229264792193061",
+    "sinaweibo://detail?mblogid=5229263924236704",
+    "sinaweibo://detail?mblogid=5229252085811888",
+    "sinaweibo://detail?mblogid=5229272335913214",
+    "sinaweibo://detail?mblogid=5229265813506397",
+    "sinaweibo://detail?mblogid=5229275926236588",
+    "sinaweibo://detail?mblogid=5229284211033698",
+    "sinaweibo://detail?mblogid=5229283292743610"
+  ],
+  "media": [
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/6cc0d0c1ly1i704hvqwbnj210o1ctai8.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/6cc0d0c1ly1i704hvqwbnj210o1ctai8.jpg",
+      "alt": "手握科技",
+      "width": 1757,
+      "height": 1320,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/6cc0d0c1ly1i704hvqwbnj210o1ctai8.jpg"
+      ],
+      "user": "手握科技"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/006ZUC2mly1i705emfhs2j322b35qk5x.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/006ZUC2mly1i705emfhs2j322b35qk5x.jpg",
+      "alt": "科技杰克",
+      "width": 4094,
+      "height": 2675,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/006ZUC2mly1i705emfhs2j322b35qk5x.jpg"
+      ],
+      "user": "科技杰克"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/006h7brcly1i704e4wz9wj30wh1e4qd3.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/006h7brcly1i704e4wz9wj30wh1e4qd3.jpg",
+      "alt": "五月流苏May",
+      "width": 1804,
+      "height": 1169,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/006h7brcly1i704e4wz9wj30wh1e4qd3.jpg"
+      ],
+      "user": "五月流苏May"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/007oRZmpgy1i706vkylrhj30wi0lmq80.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/007oRZmpgy1i706vkylrhj30wi0lmq80.jpg",
+      "alt": "科技俊",
+      "width": 778,
+      "height": 1170,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx4.sinaimg.cn/large/007oRZmpgy1i706vkylrhj30wi0lmq80.jpg"
+      ],
+      "user": "科技俊"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/006qUqOMly1i6zyad79u2j30mh0u0wh2.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/006qUqOMly1i6zyad79u2j30mh0u0wh2.jpg",
+      "alt": "姚昱-",
+      "width": 1080,
+      "height": 809,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/006qUqOMly1i6zyad79u2j30mh0u0wh2.jpg"
+      ],
+      "user": "姚昱-"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/8ba50107ly1i707khqxxgj20u01hcwi3.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/8ba50107ly1i707khqxxgj20u01hcwi3.jpg",
+      "alt": "是煦煦哟",
+      "width": 1920,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/8ba50107ly1i707khqxxgj20u01hcwi3.jpg"
+      ],
+      "user": "是煦煦哟"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/005TsWlRly1i707xwz7i3j30qo0k0dgb.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/005TsWlRly1i707xwz7i3j30qo0k0dgb.jpg",
+      "alt": "阿宅圆酱",
+      "width": 720,
+      "height": 960,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/005TsWlRly1i707xwz7i3j30qo0k0dgb.jpg"
+      ],
+      "user": "阿宅圆酱"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/007mMf7Ngy1i706adisbtj30ou0xu78m.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/007mMf7Ngy1i706adisbtj30ou0xu78m.jpg",
+      "alt": "一撮儿呆毛毛",
+      "width": 1218,
+      "height": 894,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/007mMf7Ngy1i706adisbtj30ou0xu78m.jpg"
+      ],
+      "user": "一撮儿呆毛毛"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/007cPlrUly1i7068vc5b1j30u01hcwh3.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/007cPlrUly1i7068vc5b1j30u01hcwh3.jpg",
+      "alt": "马猴烧酒三生蕊",
+      "width": 1920,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/007cPlrUly1i7068vc5b1j30u01hcwh3.jpg"
+      ],
+      "user": "马猴烧酒三生蕊"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/404cdd30ly1i706hj4byuj20sg0g0jso.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/404cdd30ly1i706hj4byuj20sg0g0jso.jpg",
+      "alt": "厚恩投资张延昆",
+      "width": 576,
+      "height": 1024,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/404cdd30ly1i706hj4byuj20sg0g0jso.jpg"
+      ],
+      "user": "厚恩投资张延昆"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/0066KSy4ly1i70652axp1j30k00u0n03.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/0066KSy4ly1i70652axp1j30k00u0n03.jpg",
+      "alt": "战狼戎耀",
+      "width": 1080,
+      "height": 720,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx4.sinaimg.cn/large/0066KSy4ly1i70652axp1j30k00u0n03.jpg"
+      ],
+      "user": "战狼戎耀"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/008av9SXgy1i7073t4nj1j32c03401ky.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/008av9SXgy1i7073t4nj1j32c03401ky.jpg",
+      "alt": "保镖的车库",
+      "width": 4032,
+      "height": 3024,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/008av9SXgy1i7073t4nj1j32c03401ky.jpg"
+      ],
+      "user": "保镖的车库"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/005vnhZYgy1i702lk52brj60sg11ywhm02.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/005vnhZYgy1i702lk52brj60sg11ywhm02.jpg",
+      "alt": "澎湃新闻",
+      "width": 1366,
+      "height": 1024,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/005vnhZYgy1i702lk52brj60sg11ywhm02.jpg"
+      ],
+      "user": "澎湃新闻"
+    }
+  ],
+  "html_path": "data/aicard/hourly/2025-11-04/16/topic-cc0dfa57.html"
+}

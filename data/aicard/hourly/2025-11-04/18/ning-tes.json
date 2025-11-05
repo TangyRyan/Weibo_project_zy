@@ -1,0 +1,269 @@
+{
+  "meta": {
+    "query": "#Ning为TES发声#",
+    "status_code": 200,
+    "fetched_at": "2025-11-04T18:39:10+08:00",
+    "response": {
+      "ab_suffix": "default",
+      "unify_md5": "f237201cb151a58a88d64072e82ac830",
+      "sorted_material_list": null,
+      "query_field": "47",
+      "chat_status_stage": 1,
+      "analysis_time": 1762252296,
+      "news_analyze": {},
+      "comment_info": {},
+      "uid": "",
+      "reference_num": 15,
+      "query_category": "",
+      "status_stage": 4,
+      "link_list": [
+        "sinaweibo://detail?mblogid=5229284988032356",
+        "sinaweibo://detail?mblogid=5229277458993415",
+        "sinaweibo://detail?mblogid=5228126198303397",
+        "sinaweibo://detail?mblogid=5228871823658557",
+        "broadsocial_res://",
+        "historyweibo://5227500796907636",
+        "sinaweibo://detail?mblogid=5229288254866640",
+        "sinaweibo://detail?mblogid=5229286772705234",
+        "sinaweibo://detail?mblogid=5229256405943112",
+        "sinaweibo://detail?mblogid=5229258546872656",
+        "sinaweibo://detail?mblogid=5229325058311442",
+        "sinaweibo://detail?mblogid=5229303944187959",
+        "sinaweibo://detail?mblogid=5229325914738554",
+        "sinaweibo://detail?mblogid=5229325702135849",
+        "sinaweibo://detail?mblogid=5229315110473136",
+        "sinaweibo://detail?mblogid=5229326649527298",
+        "sinaweibo://detail?mblogid=5229166137444437"
+      ],
+      "model": "deepseek",
+      "top_quote_list": {},
+      "cot": 1,
+      "share_card_multimodal": {
+        "hit_score_final": 68.384766,
+        "img": "http://wx1.sinaimg.cn/middle/93e15f83ly1i6wj3l0yc9j20zi0i0tab.jpg",
+        "cur_mid": "5228126198303397",
+        "vtype": 0,
+        "user_name": "诞仔游戏安利",
+        "scheme": "sinaweibo://video/vvs?mid=5228126198303397&multi_paragraph=1&multi_count=0",
+        "w": 1278,
+        "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.512.512.50/93e15f83ly8hlc72kvmpuj20e80e8mxy.jpg?KID=imgbed,tva&Expires=1762262946&ssig=W7yjLzuGpm",
+        "video_url": "https://video.weibo.com/show?fid=1034:5228125986947089",
+        "type": "v",
+        "hit_score_new": 73.974609,
+        "doc_score": 3265,
+        "img_pid": "93e15f83ly1i6wj3l0yc9j20zi0i0tab",
+        "h": 648,
+        "click_rate": 0.099863705013445,
+        "click_num": 0
+      },
+      "scheme": "sinaweibo://cardlist?containerid=100103type%3D225%26q%3D%23ning%E4%B8%BAtes%E5%8F%91%E5%A3%B0%23%26t%3D&extparam=ai_model%3Ddeepseek%26ori_ai_title%3D%E5%8F%82%E8%80%83%E5%8D%9A%E6%96%87%26material_version%3D1762252146",
+      "wenda": {
+        "forward_gen": 0
+      },
+      "reliable_tips": "{\"gold_orange_v_mids\": [\"5229284988032356\", \"5228126198303397\", \"5228871823658557\", \"5229288254866640\", \"5229325058311442\", \"5229303944187959\", \"5229315110473136\", \"5229258546872656\", \"5229277458993415\", \"5229286772705234\", \"5229256405943112\", \"5229166137444437\"], \"gold_orange_v_ratio\": \"80%\", \"media_mids\": [], \"media_ratio\": \"0%\", \"verified_mids\": [\"5229326649527298\"], \"verified_ratio\": \"7%\", \"normal_mids\": [\"5229325914738554\", \"5229325702135849\"], \"normal_ratio\": \"13%\", \"ref_mid_rank\": {\"5229284988032356\": {\"rank\": 1}, \"5228126198303397\": {\"rank\": 3}, \"5228871823658557\": {\"rank\": 4}, \"5229326649527298\": {\"rank\": 16}, \"5229288254866640\": {\"rank\": 7}, \"5229325058311442\": {\"rank\": 11}, \"5229303944187959\": {\"rank\": 12}, \"5229315110473136\": {\"rank\": 15}, \"5229258546872656\": {\"rank\": 10}, \"5229277458993415\": {\"rank\": 2}, \"5229286772705234\": {\"rank\": 8}, \"5229256405943112\": {\"rank\": 9}, \"5229325914738554\": {\"rank\": 13}, \"5229325702135849\": {\"rank\": 14}, \"5229166137444437\": {\"rank\": 17}}}",
+      "ext_show": {},
+      "current_time": 1762252750,
+      "qs_status": 0,
+      "user_info": {},
+      "abtest_info": {
+        "chat_entrance": 1
+      },
+      "share_info": {
+        "unify_md5": "f237201cb151a58a88d64072e82ac830",
+        "status": 3,
+        "tips": "#Ning为TES发声#的相关内容，来智搜看看",
+        "url": "http://t.cn/AXAYycRa",
+        "comment_content": "",
+        "page_id": "232964fb1b5f149c91dc98b6387a1da804e146",
+        "display_name": "#Ning为TES发声#"
+      },
+      "q_attr": {
+        "reply_cid": "",
+        "mid": "",
+        "from_request_id": "",
+        "from_uid": "",
+        "comment_from_type": ""
+      },
+      "basemodel": "实验组9",
+      "card_multimodal": {
+        "type": "mediablock",
+        "data": [
+          {
+            "hit_score_final": 68.384766,
+            "img": "http://wx1.sinaimg.cn/middle/93e15f83ly1i6wj3l0yc9j20zi0i0tab.jpg",
+            "cur_mid": "5228126198303397",
+            "vtype": 0,
+            "user_name": "诞仔游戏安利",
+            "scheme": "sinaweibo://video/vvs?mid=5228126198303397&multi_paragraph=1&multi_count=0",
+            "w": 1278,
+            "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.512.512.50/93e15f83ly8hlc72kvmpuj20e80e8mxy.jpg?KID=imgbed,tva&Expires=1762262946&ssig=W7yjLzuGpm",
+            "video_url": "https://video.weibo.com/show?fid=1034:5228125986947089",
+            "type": "v",
+            "hit_score_new": 73.974609,
+            "doc_score": 3265,
+            "img_pid": "93e15f83ly1i6wj3l0yc9j20zi0i0tab",
+            "h": 648,
+            "click_rate": 0.099863705013445,
+            "click_num": 0
+          },
+          {
+            "hit_score_final": 0,
+            "img": "http://wx2.sinaimg.cn/middle/006cmbhQgy1i7086car57j30ru0fo410.jpg",
+            "cur_mid": "5229284988032356",
+            "vtype": 0,
+            "user_name": "英雄联盟神吐槽",
+            "scheme": "sinaweibo://video/vvs?mid=5229284988032356&multi_paragraph=1&multi_count=1",
+            "w": 1002,
+            "user_avatar": "https://tvax2.sinaimg.cn/crop.0.0.439.439.50/006cmbhQly8h8uglinec1j30c70c73yz.jpg?KID=imgbed,tva&Expires=1762262946&ssig=GIoHU8biBO",
+            "video_url": "https://video.weibo.com/show?fid=1034:5229284705370125",
+            "type": "v",
+            "hit_score_new": 0,
+            "doc_score": 0,
+            "img_pid": "006cmbhQgy1i7086car57j30ru0fo410",
+            "h": 564,
+            "click_rate": 0,
+            "click_num": 0
+          },
+          {
+            "hit_score_final": 50.820702,
+            "img": "http://wx3.sinaimg.cn/middle/8972f4d7ly1i70cs25pckj21hc0u0myl.jpg",
+            "cur_mid": "5229325058311442",
+            "vtype": 0,
+            "user_name": "游叔",
+            "scheme": "sinaweibo://video/vvs?mid=5229325058311442&multi_paragraph=3&multi_count=0",
+            "w": 1920,
+            "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/8972f4d7ly8i6hqww3pj8j20u00u0dif.jpg?KID=imgbed,tva&Expires=1762262946&ssig=qmCYUX0z1I",
+            "video_url": "https://video.weibo.com/show?fid=1034:5229324807372897",
+            "type": "v",
+            "hit_score_new": 68.701172,
+            "doc_score": 3323,
+            "img_pid": "8972f4d7ly1i70cs25pckj21hc0u0myl",
+            "h": 1080,
+            "click_rate": 0,
+            "click_num": 0
+          },
+          {
+            "hit_score_final": 68.384766,
+            "img": "http://wx1.sinaimg.cn/middle/93e15f83ly1i6wj3l0yc9j20zi0i0tab.jpg",
+            "cur_mid": "5228126198303397",
+            "vtype": 0,
+            "user_name": "诞仔游戏安利",
+            "scheme": "sinaweibo://video/vvs?mid=5228126198303397&multi_paragraph=1&multi_count=0",
+            "w": 1278,
+            "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.512.512.50/93e15f83ly8hlc72kvmpuj20e80e8mxy.jpg?KID=imgbed,tva&Expires=1762262946&ssig=W7yjLzuGpm",
+            "video_url": "https://video.weibo.com/show?fid=1034:5228125986947089",
+            "type": "v",
+            "hit_score_new": 73.974609,
+            "doc_score": 3265,
+            "img_pid": "93e15f83ly1i6wj3l0yc9j20zi0i0tab",
+            "h": 648,
+            "click_rate": 0.099863705013445,
+            "click_num": 0
+          }
+        ]
+      },
+      "version": "2025-11-04 18:29:06.026999-1445",
+      "zs_risk_control": {
+        "think_text_close": 0,
+        "land_button_close": 0
+      },
+      "page_id": "232964fb1b5f149c91dc98b6387a1da804e146",
+      "msg_json": "{}",
+      "qs_status_info": "{\"qs_c_status\":8388608,\"qs_r_status\":0,\"qs_status\":0,\"qs_u_status\":0,\"ab_lab\":{},\"qs_q_status\":0}",
+      "show_ctrl": {
+        "quote": {}
+      },
+      "loop_times": 200,
+      "msg": "<think><br>嗯，我需要帮用户整理关于\"ning为tes发声\"的搜索结果。先仔细看看用户给的资料。<br><br>用户提供了17个搜索结果，都是微博和相关资料。主要涉及英雄联盟S15全球总决赛期间，宁王（Ning）对TES战队的评价和看法。看起来时间集中在2025年10月底到11月初。<br><br>从这些结果中，我发现宁王的观点有几个关键点：在TES对阵G2之前，他预测TES打不过G2；TES首局碾压G2后，他改口称G2是TES的\"充电宝\"；TES被T1淘汰后，他又说抽签对TES不利，认为要不是姿态抽到G2，TES不用受这个罪。<br><br>宁王觉得TES打G2那场比赛的质量和其他三场八强赛完全不同。他还表达了LPL粉丝的心声，说今年只要能赢T1就能让整个赛区开心，因为T1这座山拦了LPL很多年。现在T1连续四年进决赛，而LPL已经四年无冠了。<br><br>在TES被淘汰后，其他相关讨论也出现了：<br>- JackeyLove提到要治耳鸣伤病<br>- 有人提出LPL夺冠公式是韩援中单+国产打野<br>- T1还发了声明说有人骚扰选手<br><br>搜索结果中有一些时间线需要理清楚：AL在11月1日输给T1，TES在11月3日被淘汰。资料5特别强调了时间点，说宁王不同时间的言论要分开看，不是自相矛盾。<br><br>搜索结果的质量方面，资料5和6是\"资料\"类型，比较系统全面；结果1、2、4是优质搜索结果，来自大V账号，可信度较高。宁王的核心观点在多个结果中重复出现，特别是对抽签的评价和对TES比赛质量的看法。<br><br>用户可能想了解宁王为TES说了什么，为什么这么说，以及相关背景。我会把这些信息组织成几个部分：宁王对TES的评价变化、对抽签的看法、TES和LPL的处境、相关讨论等。<br><br></think><br>以下是关于“Ning为TES发声”事件的梳理与分析，综合时间线、核心观点及关联事件：<br>### ⚡️ **一、宁王核心观点** ```wbCustomBlock{\"type\": \"quoted\", \"index\": 3, \"data\": {\"num\": [1, 3, 4], \"version\": 2, \"quote_list\": [{\"name\": \"英雄联盟神吐槽\", \"scheme\": \"sinaweibo://detail?mblogid=5229284988032356\", \"index\": 1, \"label\": \"大v\"}, {\"name\": \"诞仔游戏安利\", \"scheme\": \"sinaweibo://detail?mblogid=5228126198303397\", \"index\": 3, \"label\": \"\"}, {\"name\": \"动漫游戏君\", \"scheme\": \"sinaweibo://detail?mblogid=5228871823658557\", \"index\": 4, \"label\": \"\"}], \"name\": \"英雄联盟神吐槽\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.439.439.50/006cmbhQly8h8uglinec1j30c70c73yz.jpg?KID=imgbed,tva&Expires=1762262946&ssig=GIoHU8biBO\", \"scheme\": \"sinaweibo://detail?mblogid=5229284988032356\", \"vType\": 0}}```<br>1. **抽签责任论**  <br>   - 认为姿态的抽签导致TES被迫对阵G2，而实际比赛强度远超预期：“要不是姿态给TES抽个G2也不用受这个罪”。  <br>   - 对比其他三场八强赛，指出TES与G2的对局“游戏质量完全不一样”，暗示签运不公。<br><br>2. **LPL的“心魔”与赛区期待**  <br>   - 强调战胜T1的意义大于夺冠：“今年世界赛国内只要在BO5打赢T1，比拿冠军都能让整个赛区开心”。  <br>   - 解析LPL解说落泪原因：T1作为横亘多年的强敌，未来击败其机会正逐渐减少。若AL或TES能淘汰T1进决赛，“解说到观众可瞬间狂欢”。<br><br>3. **对TES淘汰赛表现的矛盾评价**  <br>   - **赛前预测**：10月29日称“TES打不过G2”（认为G2战术更优）。  <br>   - **赛中反转**：10月30日TES首局碾压G2后，改称“G2是TES充电宝”，盛赞“外战看TES”。  <br>   - **赛后反思**：11月3日TES被T1零封后，批评其稳定性短板，但归因于签运影响。```wbCustomBlock{\"type\": \"quoted\", \"index\": 13, \"data\": {\"num\": [4], \"version\": 2, \"quote_list\": [{\"name\": \"动漫游戏君\", \"scheme\": \"sinaweibo://detail?mblogid=5228871823658557\", \"index\": 4, \"label\": \"大v\"}], \"name\": \"动漫游戏君\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.690.690.50/006i8XEzly8hojzsvemjvj30j60j6my1.jpg?KID=imgbed,tva&Expires=1762262946&ssig=gVWhOq%2BoB%2F\", \"scheme\": \"sinaweibo://detail?mblogid=5228871823658557\", \"vType\": 0}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5228126198303397&multi_paragraph=1&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.512.512.50/93e15f83ly8hlc72kvmpuj20e80e8mxy.jpg?KID=imgbed,tva&Expires=1762262946&ssig=W7yjLzuGpm) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">诞仔游戏安利</span><img src=\"http://wx1.sinaimg.cn/middle/93e15f83ly1i6wj3l0yc9j20zi0i0tab.jpg\" data-width=648 data-height=1278></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5229284988032356&multi_paragraph=1&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.439.439.50/006cmbhQly8h8uglinec1j30c70c73yz.jpg?KID=imgbed,tva&Expires=1762262946&ssig=GIoHU8biBO) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">英雄联盟神吐槽</span><img src=\"http://wx2.sinaimg.cn/middle/006cmbhQgy1i7086car57j30ru0fo410.jpg\" data-width=564 data-height=1002></div></media-block><br>### 📊 **二、事件背景与关联争议** <br>1. **TES与LPL的困境**  <br>   - TES不敌T1后，LPL在S15全球总决赛彻底出局，延续“四年无冠”（2022-2025）。```wbCustomBlock{\"type\": \"quoted\", \"index\": 17, \"data\": {\"num\": [3], \"version\": 2, \"quote_list\": [{\"name\": \"诞仔游戏安利\", \"scheme\": \"sinaweibo://detail?mblogid=5228126198303397\", \"index\": 3, \"label\": \"大v\"}], \"name\": \"诞仔游戏安利\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.512.512.50/93e15f83ly8hlc72kvmpuj20e80e8mxy.jpg?KID=imgbed,tva&Expires=1762262946&ssig=W7yjLzuGpm\", \"scheme\": \"sinaweibo://detail?mblogid=5228126198303397\", \"vType\": 0}}```  <br>   - AL副教练小白在11月1日败于T1后痛哭，宁王曾寄望TES：“只能寄希望于滔搏和Jackeylove了”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 18, \"data\": {\"num\": [3], \"version\": 2, \"quote_list\": [{\"name\": \"诞仔游戏安利\", \"scheme\": \"sinaweibo://detail?mblogid=5228126198303397\", \"index\": 3, \"label\": \"\"}]}}```<br><br>2. **业内对宁王言论的争议**  <br>   - **支持者**：认可其抽签分析（如GEN与HLE内战保送LPL进决赛）及对T1威胁的理性判断。  <br>   - **质疑者**：批评其立场反复（如赛前唱衰TES赛后怪签运），部分TES粉丝不满“抽象队”标签。```wbCustomBlock{\"type\": \"quoted\", \"index\": 21, \"data\": {\"num\": [16], \"version\": 2, \"quote_list\": [{\"name\": \"Lin_聆听\", \"scheme\": \"sinaweibo://detail?mblogid=5229326649527298\", \"index\": 16, \"label\": \"\"}]}}```<br><br>3. **T1的统治力与舆论焦点**  <br>   - T1连续四年挺进决赛，Faker称“打LPL没输过”，引发LPL“抗韩无望”情绪。```wbCustomBlock{\"type\": \"quoted\", \"index\": 23, \"data\": {\"num\": [3], \"version\": 2, \"quote_list\": [{\"name\": \"诞仔游戏安利\", \"scheme\": \"sinaweibo://detail?mblogid=5228126198303397\", \"index\": 3, \"label\": \"\"}]}}```  <br>   - 网友调侃T1“送走iG、AL、TES”，称其为LPL“终结者”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 24, \"data\": {\"num\": [3, 7], \"version\": 2, \"quote_list\": [{\"name\": \"游戏玩家张大飞\", \"scheme\": \"sinaweibo://detail?mblogid=5229288254866640\", \"index\": 7, \"label\": \"大v\"}, {\"name\": \"诞仔游戏安利\", \"scheme\": \"sinaweibo://detail?mblogid=5228126198303397\", \"index\": 3, \"label\": \"\"}], \"name\": \"游戏玩家张大飞\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.511.511.50/7524b2a9ly8gzxx389u78j20e80e73yt.jpg?KID=imgbed,tva&Expires=1762262946&ssig=%2BUaUnh2Xw2\", \"scheme\": \"sinaweibo://detail?mblogid=5229288254866640\", \"vType\": 0}}```<br>### 🔍 **三、延伸讨论：LPL现状反思** <br>1. **选手与教练的困境**  <br>   - JackeyLove坦言受耳鸣困扰需就医，暗示伤病影响状态。```wbCustomBlock{\"type\": \"quoted\", \"index\": 28, \"data\": {\"num\": [11], \"version\": 2, \"quote_list\": [{\"name\": \"游叔\", \"scheme\": \"sinaweibo://detail?mblogid=5229325058311442\", \"index\": 11, \"label\": \"大v\"}], \"name\": \"游叔\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/8972f4d7ly8i6hqww3pj8j20u00u0dif.jpg?KID=imgbed,tva&Expires=1762262946&ssig=qmCYUX0z1I\", \"scheme\": \"sinaweibo://detail?mblogid=5229325058311442\", \"vType\": 0}}```  <br>   - AL教练Tabe战术被指遭T1看穿，Oner“临时练蒙多”致LPL措手不及。```wbCustomBlock{\"type\": \"quoted\", \"index\": 29, \"data\": {\"num\": [12], \"version\": 2, \"quote_list\": [{\"name\": \"动漫游戏君\", \"scheme\": \"sinaweibo://detail?mblogid=5229303944187959\", \"index\": 12, \"label\": \"\"}]}}```<br><br>2. **赛区发展争议**  <br>   - **韩援必要性**：朱开提出“夺冠公式=韩援中单+国产打野”（如S8 Rookie+宁王），主张“先夺冠再谈全华班”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 31, \"data\": {\"num\": [15], \"version\": 2, \"quote_list\": [{\"name\": \"我是电竞小生\", \"scheme\": \"sinaweibo://detail?mblogid=5229315110473136\", \"index\": 15, \"label\": \"大v\"}], \"name\": \"我是电竞小生\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.600.600.50/006BPLKbly8gx4n5qvexbj30go0gogp4.jpg?KID=imgbed,tva&Expires=1762262946&ssig=fGo4HIBEuK\", \"scheme\": \"sinaweibo://detail?mblogid=5229315110473136\", \"vType\": 0}}```  <br>   - **青训缺失**：Uzi退役被指导致LPL下路强度下滑，缺乏基本功锤炼环境。```wbCustomBlock{\"type\": \"quoted\", \"index\": 32, \"data\": {\"num\": [10], \"version\": 2, \"quote_list\": [{\"name\": \"网瘾少女哈尼酱\", \"scheme\": \"sinaweibo://detail?mblogid=5229258546872656\", \"index\": 10, \"label\": \"大v\"}], \"name\": \"网瘾少女哈尼酱\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/006MPQOcly8i172ndyg5nj30u00u0jw4.jpg?KID=imgbed,tva&Expires=1762262946&ssig=4vUwsL281J\", \"scheme\": \"sinaweibo://detail?mblogid=5229258546872656\", \"vType\": 0}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5229325058311442&multi_paragraph=3&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/8972f4d7ly8i6hqww3pj8j20u00u0dif.jpg?KID=imgbed,tva&Expires=1762262946&ssig=qmCYUX0z1I) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">游叔</span><img src=\"http://wx3.sinaimg.cn/middle/8972f4d7ly1i70cs25pckj21hc0u0myl.jpg\" data-width=1080 data-height=1920></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5229303944187959&multi_paragraph=3&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.690.690.50/006i8XEzly8hojzsvemjvj30j60j6my1.jpg?KID=imgbed,tva&Expires=1762262946&ssig=gVWhOq%2BoB%2F) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">动漫游戏君</span><img src=\"http://wx2.sinaimg.cn/middle/006i8XEzly1i70addroutj30zk0k0dgn.jpg\" data-width=720 data-height=1280></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5229258546872656&multi_paragraph=3&multi_count=2\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/006MPQOcly8i172ndyg5nj30u00u0jw4.jpg?KID=imgbed,tva&Expires=1762262946&ssig=4vUwsL281J) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">网瘾少女哈尼酱</span><img src=\"http://wx3.sinaimg.cn/middle/006MPQOcly1i7055ek227j30qo0k0jt2.jpg\" data-width=720 data-height=960></div></media-block><br>### 💎 **总结：宁王发声的深层意义**  <br>宁王的言论本质是**对LPL系统性问题的拷问**：  <br>- **战术层面**：揭露TES“高上限低稳定”的特性，及抽签对弱队的放大效应；  <br>- **心理层面**：点破T1已成LPL“心魔”，赛区亟需一场象征性胜利；  <br>- **生态层面**：引发对韩援依赖、青训薄弱及选手健康的反思。  <br>> ⚠️ 需注意：其观点含较强主观情绪，胜负核心仍在战队临场发挥。```wbCustomBlock{\"type\": \"quoted\", \"index\": 38, \"data\": {\"num\": [16], \"version\": 2, \"quote_list\": [{\"name\": \"Lin_聆听\", \"scheme\": \"sinaweibo://detail?mblogid=5229326649527298\", \"index\": 16, \"label\": \"\"}]}}```<br>",
+      "status": 2,
+      "share_text": "#Ning为TES发声#的相关内容，来智搜看看",
+      "mid_list": null,
+      "msg_format": "markdown",
+      "query": "#Ning为TES发声#",
+      "short_url": "http://t.cn/AXAjJsaw",
+      "profile_image_url": ""
+    }
+  },
+  "links": [
+    "sinaweibo://detail?mblogid=5229284988032356",
+    "sinaweibo://detail?mblogid=5229277458993415",
+    "sinaweibo://detail?mblogid=5228126198303397",
+    "sinaweibo://detail?mblogid=5228871823658557",
+    "broadsocial_res://",
+    "historyweibo://5227500796907636",
+    "sinaweibo://detail?mblogid=5229288254866640",
+    "sinaweibo://detail?mblogid=5229286772705234",
+    "sinaweibo://detail?mblogid=5229256405943112",
+    "sinaweibo://detail?mblogid=5229258546872656",
+    "sinaweibo://detail?mblogid=5229325058311442",
+    "sinaweibo://detail?mblogid=5229303944187959",
+    "sinaweibo://detail?mblogid=5229325914738554",
+    "sinaweibo://detail?mblogid=5229325702135849",
+    "sinaweibo://detail?mblogid=5229315110473136",
+    "sinaweibo://detail?mblogid=5229326649527298",
+    "sinaweibo://detail?mblogid=5229166137444437"
+  ],
+  "media": [
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/93e15f83ly1i6wj3l0yc9j20zi0i0tab.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/93e15f83ly1i6wj3l0yc9j20zi0i0tab.jpg",
+      "alt": "诞仔游戏安利",
+      "width": 648,
+      "height": 1278,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/93e15f83ly1i6wj3l0yc9j20zi0i0tab.jpg"
+      ],
+      "user": "诞仔游戏安利"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/006cmbhQgy1i7086car57j30ru0fo410.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/006cmbhQgy1i7086car57j30ru0fo410.jpg",
+      "alt": "英雄联盟神吐槽",
+      "width": 564,
+      "height": 1002,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/006cmbhQgy1i7086car57j30ru0fo410.jpg"
+      ],
+      "user": "英雄联盟神吐槽"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/8972f4d7ly1i70cs25pckj21hc0u0myl.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/8972f4d7ly1i70cs25pckj21hc0u0myl.jpg",
+      "alt": "游叔",
+      "width": 1080,
+      "height": 1920,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/8972f4d7ly1i70cs25pckj21hc0u0myl.jpg"
+      ],
+      "user": "游叔"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/006i8XEzly1i70addroutj30zk0k0dgn.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/006i8XEzly1i70addroutj30zk0k0dgn.jpg",
+      "alt": "动漫游戏君",
+      "width": 720,
+      "height": 1280,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/006i8XEzly1i70addroutj30zk0k0dgn.jpg"
+      ],
+      "user": "动漫游戏君"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/006MPQOcly1i7055ek227j30qo0k0jt2.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/006MPQOcly1i7055ek227j30qo0k0jt2.jpg",
+      "alt": "网瘾少女哈尼酱",
+      "width": 720,
+      "height": 960,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/006MPQOcly1i7055ek227j30qo0k0jt2.jpg"
+      ],
+      "user": "网瘾少女哈尼酱"
+    }
+  ],
+  "html_path": "data/aicard/hourly/2025-11-04/18/ning-tes.html"
+}

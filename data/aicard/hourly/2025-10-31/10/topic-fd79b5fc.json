@@ -1,0 +1,396 @@
+{
+  "meta": {
+    "query": "#林心如颁奖嘉宾#",
+    "status_code": 200,
+    "fetched_at": "2025-10-31T22:31:32+08:00",
+    "response": {
+      "unify_md5": "fd79b5fcd13769adfe2f053d21762583",
+      "status": 2,
+      "analysis_time": 1761921069,
+      "cot": 1,
+      "loop_times": 200,
+      "ext_show": {},
+      "q_attr": {
+        "reply_cid": "",
+        "comment_from_type": "",
+        "mid": "",
+        "from_uid": "5770738968",
+        "from_request_id": "1.76192097045E12"
+      },
+      "page_id": "2329642d8319ce63ed11a28069ca452364f55c",
+      "qs_status": 0,
+      "scheme": "sinaweibo://cardlist?containerid=100103type%3D225%26q%3D%23%E6%9E%97%E5%BF%83%E5%A6%82%E9%A2%81%E5%A5%96%E5%98%89%E5%AE%BE%23%26t%3D&extparam=ai_model%3Ddeepseek%26ori_ai_title%3D%E5%8F%82%E8%80%83%E5%8D%9A%E6%96%87%26material_version%3D1761920997",
+      "mid_list": null,
+      "reference_num": 38,
+      "status_stage": 4,
+      "link_list": [
+        "sinaweibo://detail?mblogid=5227568657078482",
+        "sinaweibo://detail?mblogid=5227738517474587",
+        "sinaweibo://detail?mblogid=5227740137523958",
+        "sinaweibo://detail?mblogid=5227735825778718",
+        "sinaweibo://detail?mblogid=5227437887063896",
+        "sinaweibo://detail?mblogid=5227741088846445",
+        "sinaweibo://detail?mblogid=5223424370936687",
+        "sinaweibo://detail?mblogid=5223266152614427",
+        "sinaweibo://detail?mblogid=4827499550212800",
+        "sinaweibo://detail?mblogid=5092272116862210",
+        "sinaweibo://detail?mblogid=5091864695013601",
+        "sinaweibo://detail?mblogid=5091267375272084",
+        "sinaweibo://detail?mblogid=5223241043937898",
+        "sinaweibo://detail?mblogid=5223249114827147",
+        "historyweibo://5227745350257491",
+        "historyweibo://5227568657078482",
+        "historyweibo://5223072139315532",
+        "sinaweibo://detail?mblogid=5227759561345223",
+        "sinaweibo://detail?mblogid=5227746913683718",
+        "sinaweibo://detail?mblogid=5227756926273792",
+        "sinaweibo://detail?mblogid=5227036815919557",
+        "sinaweibo://detail?mblogid=5227753102118794",
+        "sinaweibo://detail?mblogid=5227753403320541",
+        "sinaweibo://detail?mblogid=5223238490654736",
+        "sinaweibo://detail?mblogid=5223367067304171",
+        "sinaweibo://detail?mblogid=5227564987582399",
+        "sinaweibo://detail?mblogid=5227582205202732",
+        "sinaweibo://detail?mblogid=5223411318261877",
+        "sinaweibo://detail?mblogid=5223309428130315",
+        "sinaweibo://detail?mblogid=5223238666814704",
+        "sinaweibo://detail?mblogid=5227935965648330",
+        "sinaweibo://detail?mblogid=5227741471049308",
+        "sinaweibo://detail?mblogid=5227744968311631",
+        "sinaweibo://detail?mblogid=5227741021737303",
+        "sinaweibo://detail?mblogid=5227741110603162",
+        "sinaweibo://detail?mblogid=5227726428439979",
+        "sinaweibo://detail?mblogid=5227569576411589",
+        "sinaweibo://detail?mblogid=5180067690055140",
+        "sinaweibo://detail?mblogid=4398715235987567",
+        "sinaweibo://detail?mblogid=5223244916331753",
+        "sinaweibo://detail?mblogid=4644815314618634"
+      ],
+      "zs_risk_control": {
+        "think_text_close": 0,
+        "land_button_close": 0
+      },
+      "card_multimodal": {
+        "type": "mediablock",
+        "data": [
+          {
+            "scheme": "sinaweibo://video/vvs?mid=5227568657078482&multi_paragraph=1&multi_count=0",
+            "hit_score_new": 0,
+            "doc_score": 0,
+            "w": 1002,
+            "img_pid": "51b9960bgy1i6ur27ag43j20ru0fojsh",
+            "click_rate": 0,
+            "h": 564,
+            "type": "v",
+            "cur_mid": "5227568657078482",
+            "hit_score_final": 0,
+            "img": "http://wx2.sinaimg.cn/middle/51b9960bgy1i6ur27ag43j20ru0fojsh.jpg",
+            "user_name": "文娱第三只眼",
+            "video_url": "https://video.weibo.com/show?fid=1034:5227568454893589",
+            "user_avatar": "https://tva2.sinaimg.cn/crop.2.12.314.314.50/51b9960bjw1esxnr9hsy8j2094094jsc.jpg?KID=imgbed,tva&Expires=1761931797&ssig=72k9P4PX%2FU",
+            "vtype": 0
+          },
+          {
+            "scheme": "sinaweibo://video/vvs?mid=5227753102118794&multi_paragraph=1&multi_count=1",
+            "hit_score_new": 96.044922,
+            "doc_score": 4754,
+            "w": 809,
+            "img_pid": "618655daly1i6vc6paoxlj20mh0u00u7",
+            "click_rate": 0,
+            "h": 1080,
+            "type": "v",
+            "cur_mid": "5227753102118794",
+            "hit_score_final": 89.626953,
+            "img": "http://wx2.sinaimg.cn/middle/618655daly1i6vc6paoxlj20mh0u00u7.jpg",
+            "user_name": "青虫YN",
+            "video_url": "https://video.weibo.com/show?fid=1034:5227752295694351",
+            "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/618655daly8i64i8gbhyij20u00u0dkh.jpg?KID=imgbed,tva&Expires=1761931797&ssig=WZdAVg0NGU",
+            "vtype": 0
+          },
+          {
+            "scheme": "sinaweibo://multimedia?mix_mid=5227741088846445&mix_index=0&multi_paragraph=1&multi_count=2",
+            "hit_score_new": 79.638672,
+            "doc_score": 4326,
+            "w": 976,
+            "img_pid": "651901e7ly1i6vavd9gsaj20r41hcaax",
+            "click_rate": 0,
+            "h": 1920,
+            "type": "v",
+            "cur_mid": "5227741088846445",
+            "hit_score_final": 79.783203,
+            "img": "http://wx1.sinaimg.cn/middle/651901e7ly1i6vavd9gsaj20r41hcaax.jpg",
+            "user_name": "影视综艺分享",
+            "video_url": "https://video.weibo.com/show?fid=1034:5227740853370915",
+            "user_avatar": "https://tvax4.sinaimg.cn/crop.0.0.751.751.50/651901e7ly8fk7wgc9xoej20kv0kv0ud.jpg?KID=imgbed,tva&Expires=1761931797&ssig=nSJK%2Ba2gGb",
+            "vtype": 0
+          },
+          {
+            "scheme": "sinaweibo://video/vvs?mid=5227568657078482&multi_paragraph=1&multi_count=0",
+            "hit_score_new": 0,
+            "doc_score": 0,
+            "w": 1002,
+            "img_pid": "51b9960bgy1i6ur27ag43j20ru0fojsh",
+            "click_rate": 0,
+            "h": 564,
+            "type": "v",
+            "cur_mid": "5227568657078482",
+            "hit_score_final": 0,
+            "img": "http://wx2.sinaimg.cn/middle/51b9960bgy1i6ur27ag43j20ru0fojsh.jpg",
+            "user_name": "文娱第三只眼",
+            "video_url": "https://video.weibo.com/show?fid=1034:5227568454893589",
+            "user_avatar": "https://tva2.sinaimg.cn/crop.2.12.314.314.50/51b9960bjw1esxnr9hsy8j2094094jsc.jpg?KID=imgbed,tva&Expires=1761931797&ssig=72k9P4PX%2FU",
+            "vtype": 0
+          }
+        ]
+      },
+      "sorted_material_list": null,
+      "query_field": "1",
+      "chat_status_stage": 1,
+      "query_category": "Gossip",
+      "qs_status_info": "{\"ab_lab\":{},\"qs_c_status\":8388608,\"qs_r_status\":0,\"qs_q_status\":0,\"qs_u_status\":0,\"qs_status\":0}",
+      "news_analyze": {},
+      "reliable_tips": "{\"gold_orange_v_mids\": [\"5227568657078482\", \"5227753102118794\", \"5227564987582399\", \"5227741088846445\", \"5227582205202732\", \"5227741021737303\", \"5223238666814704\", \"5092272116862210\", \"5223244916331753\", \"5227741110603162\", \"5227738517474587\", \"5227759561345223\", \"5227437887063896\", \"5227741471049308\", \"5227036815919557\", \"5227740137523958\", \"5227735825778718\", \"5223241043937898\", \"5227756926273792\", \"5227753403320541\", \"5223238490654736\", \"5223309428130315\", \"5227744968311631\", \"5227726428439979\", \"4398715235987567\"], \"gold_orange_v_ratio\": \"66%\", \"media_mids\": [], \"media_ratio\": \"0%\", \"verified_mids\": [\"5223424370936687\", \"5223411318261877\", \"5223249114827147\", \"4827499550212800\", \"5091267375272084\", \"5180067690055140\"], \"verified_ratio\": \"16%\", \"normal_mids\": [\"5223266152614427\", \"5223367067304171\", \"5227935965648330\", \"5091864695013601\", \"5227746913683718\", \"5227569576411589\", \"4644815314618634\"], \"normal_ratio\": \"18%\", \"ref_mid_rank\": {\"5227568657078482\": {\"rank\": 1}, \"5227753102118794\": {\"rank\": 22}, \"5227564987582399\": {\"rank\": 26}, \"5227741088846445\": {\"rank\": 6}, \"5227582205202732\": {\"rank\": 27}, \"5227741021737303\": {\"rank\": 34}, \"5223424370936687\": {\"rank\": 7}, \"5223411318261877\": {\"rank\": 28}, \"5223249114827147\": {\"rank\": 14}, \"5223238666814704\": {\"rank\": 30}, \"5092272116862210\": {\"rank\": 10}, \"5223244916331753\": {\"rank\": 40}, \"5223266152614427\": {\"rank\": 8}, \"5223367067304171\": {\"rank\": 25}, \"5227741110603162\": {\"rank\": 35}, \"5227738517474587\": {\"rank\": 2}, \"5227759561345223\": {\"rank\": 18}, \"5227935965648330\": {\"rank\": 31}, \"5227437887063896\": {\"rank\": 5}, \"5227741471049308\": {\"rank\": 32}, \"4827499550212800\": {\"rank\": 9}, \"5227036815919557\": {\"rank\": 21}, \"5227740137523958\": {\"rank\": 3}, \"5227735825778718\": {\"rank\": 4}, \"5091864695013601\": {\"rank\": 11}, \"5091267375272084\": {\"rank\": 12}, \"5223241043937898\": {\"rank\": 13}, \"5227746913683718\": {\"rank\": 19}, \"5227756926273792\": {\"rank\": 20}, \"5227753403320541\": {\"rank\": 23}, \"5223238490654736\": {\"rank\": 24}, \"5223309428130315\": {\"rank\": 29}, \"5227744968311631\": {\"rank\": 33}, \"5227726428439979\": {\"rank\": 36}, \"5227569576411589\": {\"rank\": 37}, \"5180067690055140\": {\"rank\": 38}, \"4398715235987567\": {\"rank\": 39}, \"4644815314618634\": {\"rank\": 41}}}",
+      "query": "#林心如颁奖嘉宾#",
+      "comment_info": {},
+      "version": "2025-10-31 22:29:57.036999-7210",
+      "wenda": {
+        "forward_gen": 0
+      },
+      "show_ctrl": {
+        "quote": {}
+      },
+      "share_text": "#林心如颁奖嘉宾#的相关内容，来智搜看看",
+      "share_info": {
+        "url": "http://t.cn/AXAqezB7",
+        "comment_content": "",
+        "status": 3,
+        "unify_md5": "fd79b5fcd13769adfe2f053d21762583",
+        "page_id": "2329642d8319ce63ed11a28069ca452364f55c",
+        "display_name": "#林心如颁奖嘉宾#",
+        "tips": "#林心如颁奖嘉宾#的相关内容，来智搜看看"
+      },
+      "current_time": 1761921091,
+      "msg_format": "markdown",
+      "uid": "",
+      "top_quote_list": {},
+      "share_card_multimodal": {
+        "scheme": "sinaweibo://video/vvs?mid=5227568657078482&multi_paragraph=1&multi_count=0",
+        "hit_score_new": 0,
+        "doc_score": 0,
+        "w": 1002,
+        "img_pid": "51b9960bgy1i6ur27ag43j20ru0fojsh",
+        "click_rate": 0,
+        "h": 564,
+        "type": "v",
+        "cur_mid": "5227568657078482",
+        "hit_score_final": 0,
+        "img": "http://wx2.sinaimg.cn/middle/51b9960bgy1i6ur27ag43j20ru0fojsh.jpg",
+        "user_name": "文娱第三只眼",
+        "video_url": "https://video.weibo.com/show?fid=1034:5227568454893589",
+        "user_avatar": "https://tva2.sinaimg.cn/crop.2.12.314.314.50/51b9960bjw1esxnr9hsy8j2094094jsc.jpg?KID=imgbed,tva&Expires=1761931797&ssig=72k9P4PX%2FU",
+        "vtype": 0
+      },
+      "msg_json": "{}",
+      "ab_suffix": "default",
+      "basemodel": "实验组6",
+      "msg": "<think><br><br>嗯，用户想了解林心如作为颁奖嘉宾的情况。我看到了很多搜索结果，需要整理一下相关信息。<br><br>先看看最新的活动信息。林心如在2025年10月30日作为颁奖嘉宾出席了\"2025中国电影大数据荣誉之夜\"，还有用户提到她在10月19日参加了第60届金钟奖颁奖典礼。这些都是最近一个月内的活动，时效性很好。<br><br>关于她的表现，很多网友都称赞她的专业素养。比如她每次颁奖都会深深弯腰鞠躬，无论对方咖位大小，有人评价这是\"骨子里的修养\"。在金钟奖上，她为好友杨谨华颁发视后奖项时还感动落泪，展现了真挚的情感。<br><br>她的状态也受到关注。49岁的林心如身穿黑色礼服搭配珠宝亮相，被称赞\"冻龄美貌\"，有网友说她和《美人心计》时期几乎没变化。她的台风被形容为\"从容优雅\"。<br><br>用户可能还想知道她的职业发展。从演员转型为制作人后，林心如凭借《有生之年》等作品获得了行业认可。在金钟奖上，她不仅担任颁奖嘉宾，其制作的作品也获奖了。<br><br>另外注意到她在综艺《再见爱人5》中的表现也被提及，不过这个和颁奖主题关系不大，可以简单提及。还有她谦逊的态度受到多方称赞，比如\"弯的腰比别人低半头\"这样的评价。<br><br>我会整理这些信息，突出她近期作为颁奖嘉宾的表现、专业态度、个人状态以及职业发展，按重要性和时效性排序。引用时会标注来源，避免集中在最后说明。<br><br></think><br>以下是关于林心如近期担任颁奖嘉宾的核心信息整理，综合活动表现、公众评价及延伸动态等多维度呈现：<br>### 🎤 **一、最新颁奖活动与表现**  <br>1. **2025中国电影大数据荣誉之夜（2025年10月30日）**  <br>   - **造型与气场**：身穿黑色礼服搭配珠宝亮相，从容优雅。```wbCustomBlock{\"type\": \"quoted\", \"index\": 5, \"data\": {\"num\": [1, 22, 26], \"version\": 2, \"quote_list\": [{\"name\": \"文娱第三只眼\", \"scheme\": \"sinaweibo://detail?mblogid=5227568657078482\", \"index\": 1, \"label\": \"大v\"}, {\"name\": \"青虫YN\", \"scheme\": \"sinaweibo://detail?mblogid=5227753102118794\", \"index\": 22, \"label\": \"\"}, {\"name\": \"汉长歌\", \"scheme\": \"sinaweibo://detail?mblogid=5227564987582399\", \"index\": 26, \"label\": \"\"}], \"name\": \"文娱第三只眼\", \"img\": \"https://tva2.sinaimg.cn/crop.2.12.314.314.50/51b9960bjw1esxnr9hsy8j2094094jsc.jpg?KID=imgbed,tva&Expires=1761931797&ssig=72k9P4PX%2FU\", \"scheme\": \"sinaweibo://detail?mblogid=5227568657078482\", \"vType\": 0}}```  <br>   - **职业细节**：为获奖者颁奖时保持标志性谦逊姿态——深度弯腰鞠躬、双手递奖杯，被赞\"骨子里的修养\"。网友形容\"弯的腰比别人低半头\"。```wbCustomBlock{\"type\": \"quoted\", \"index\": 6, \"data\": {\"num\": [6, 27, 34], \"version\": 2, \"quote_list\": [{\"name\": \"影视综艺分享\", \"scheme\": \"sinaweibo://detail?mblogid=5227741088846445\", \"index\": 6, \"label\": \"大v\"}, {\"name\": \"汉长歌\", \"scheme\": \"sinaweibo://detail?mblogid=5227582205202732\", \"index\": 27, \"label\": \"\"}, {\"name\": \"汉长歌\", \"scheme\": \"sinaweibo://detail?mblogid=5227741021737303\", \"index\": 34, \"label\": \"\"}], \"name\": \"影视综艺分享\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.751.751.50/651901e7ly8fk7wgc9xoej20kv0kv0ud.jpg?KID=imgbed,tva&Expires=1761931797&ssig=nSJK%2Ba2gGb\", \"scheme\": \"sinaweibo://detail?mblogid=5227741088846445\", \"vType\": 0}}```  <br><br>2. **第60届金钟奖（2025年10月19日）**  <br>   - **颁奖角色**：与杨贵媚搭档颁发\"最佳戏剧节目女主角奖\"与\"最佳戏剧节目\"两项大奖。```wbCustomBlock{\"type\": \"quoted\", \"index\": 8, \"data\": {\"num\": [7, 28], \"version\": 2, \"quote_list\": [{\"name\": \"林心如工作室\", \"scheme\": \"sinaweibo://detail?mblogid=5223424370936687\", \"index\": 7, \"label\": \"\"}, {\"name\": \"网上看心情\", \"scheme\": \"sinaweibo://detail?mblogid=5223411318261877\", \"index\": 28, \"label\": \"\"}]}}```  <br>   - **动人时刻**：  <br>     - 宣布好友杨谨华获视后时感动落泪，见证《华灯初上》搭档圆梦瞬间。```wbCustomBlock{\"type\": \"quoted\", \"index\": 10, \"data\": {\"num\": [14, 30], \"version\": 2, \"quote_list\": [{\"name\": \"李屋屋啊\", \"scheme\": \"sinaweibo://detail?mblogid=5223238666814704\", \"index\": 30, \"label\": \"大v\"}, {\"name\": \"娱乐小浪花er\", \"scheme\": \"sinaweibo://detail?mblogid=5223249114827147\", \"index\": 14, \"label\": \"\"}], \"name\": \"李屋屋啊\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.512.512.50/008gK5mKly8gt46s4iacjj30e80e8t9f.jpg?KID=imgbed,tva&Expires=1761931797&ssig=2h8VTKQ5tR\", \"scheme\": \"sinaweibo://detail?mblogid=5223238666814704\", \"vType\": 0}}```  <br>     - 其担任制作人的作品《有生之年》获\"最佳戏剧节目奖\"时，在台下激动流泪。```wbCustomBlock{\"type\": \"quoted\", \"index\": 11, \"data\": {\"num\": [10, 40], \"version\": 2, \"quote_list\": [{\"name\": \"汉长歌\", \"scheme\": \"sinaweibo://detail?mblogid=5092272116862210\", \"index\": 10, \"label\": \"大v\"}, {\"name\": \"汉长歌\", \"scheme\": \"sinaweibo://detail?mblogid=5223244916331753\", \"index\": 40, \"label\": \"\"}], \"name\": \"汉长歌\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/006fwJ0Zly8i4zebe9a9cj30u00u0jsw.jpg?KID=imgbed,tva&Expires=1761931797&ssig=5CIYLqfglc\", \"scheme\": \"sinaweibo://detail?mblogid=5092272116862210\", \"vType\": 0}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5227568657078482&multi_paragraph=1&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tva2.sinaimg.cn/crop.2.12.314.314.50/51b9960bjw1esxnr9hsy8j2094094jsc.jpg?KID=imgbed,tva&Expires=1761931797&ssig=72k9P4PX%2FU) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">文娱第三只眼</span><img src=\"http://wx2.sinaimg.cn/middle/51b9960bgy1i6ur27ag43j20ru0fojsh.jpg\" data-width=564 data-height=1002></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5227753102118794&multi_paragraph=1&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/618655daly8i64i8gbhyij20u00u0dkh.jpg?KID=imgbed,tva&Expires=1761931797&ssig=WZdAVg0NGU) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">青虫YN</span><img src=\"http://wx2.sinaimg.cn/middle/618655daly1i6vc6paoxlj20mh0u00u7.jpg\" data-width=1080 data-height=809></div><div data-type=\"v\" data-scheme=\"sinaweibo://multimedia?mix_mid=5227741088846445&mix_index=0&multi_paragraph=1&multi_count=2\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.751.751.50/651901e7ly8fk7wgc9xoej20kv0kv0ud.jpg?KID=imgbed,tva&Expires=1761931797&ssig=nSJK%2Ba2gGb) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">影视综艺分享</span><img src=\"http://wx1.sinaimg.cn/middle/651901e7ly1i6vavd9gsaj20r41hcaax.jpg\" data-width=1920 data-height=976></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5223424370936687&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=3\"><span class=\"vator\" style=\"display: none;background: url(https://tva1.sinaimg.cn/crop.0.0.180.180.50/5e4d769cjw1e8qgp5bmzyj2050050aa8.jpg?KID=imgbed,tva&Expires=1761931797&ssig=zzR1qqTf1I) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">林心如工作室</span><img src=\"http://wx2.sinaimg.cn/middle/5e4d769cly1i6hj28nuxmj23344mo4qq.jpg\" data-width=6000 data-height=4000></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5223411318261877&multi_paragraph=1&multi_count=4\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.872.872.50/00808wQLly8i303t9wavsj30o80o8t9z.jpg?KID=imgbed,tva&Expires=1761931797&ssig=0obEVh%2Ba4r) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">网上看心情</span><img src=\"http://wx2.sinaimg.cn/middle/00808wQLly1i6hhluupfxj30k00zk74v.jpg\" data-width=1280 data-height=720></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5223238666814704&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=5\"><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.512.512.50/008gK5mKly8gt46s4iacjj30e80e8t9f.jpg?KID=imgbed,tva&Expires=1761931797&ssig=2h8VTKQ5tR) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">李屋屋啊</span><img src=\"http://wx1.sinaimg.cn/middle/008gK5mKgy1i6gxs104tyj31fs0q01kx.jpg\" data-width=936 data-height=1864></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5223249114827147&multi_paragraph=1&multi_count=6\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/0067MtiAly8h8vowko8euj30u00u0mzl.jpg?KID=imgbed,tva&Expires=1761931797&ssig=w37HuT97zk) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">娱乐小浪花er</span><img src=\"http://wx3.sinaimg.cn/middle/0067MtiAly8i6gywan4ktj31hc0u0458.jpg\" data-width=1080 data-height=1920></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5092272116862210&multi_paragraph=1&multi_count=7\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/006fwJ0Zly8i4zebe9a9cj30u00u0jsw.jpg?KID=imgbed,tva&Expires=1761931797&ssig=5CIYLqfglc) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">汉长歌</span><img src=\"http://wx3.sinaimg.cn/middle/006fwJ0Zly1huv4e7mnl7j31hc0u0nnv.jpg\" data-width=1080 data-height=1920></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5223244916331753&multi_paragraph=1&multi_count=8\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/006fwJ0Zly8i4zebe9a9cj30u00u0jsw.jpg?KID=imgbed,tva&Expires=1761931797&ssig=5CIYLqfglc) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">汉长歌</span><img src=\"http://wx3.sinaimg.cn/middle/006fwJ0Zgy1i6gym106h3j30on0dw0uc.jpg\" data-width=500 data-height=887></div></media-block><br>### ✨ **二、公众与媒体评价焦点**  <br>1. **专业素养获赞**  <br>   - **一致谦逊**：无论对方咖位大小均保持深度鞠躬，被称\"老一辈演员的职业素质典范\"。```wbCustomBlock{\"type\": \"quoted\", \"index\": 15, \"data\": {\"num\": [6, 27, 34], \"version\": 2, \"quote_list\": [{\"name\": \"影视综艺分享\", \"scheme\": \"sinaweibo://detail?mblogid=5227741088846445\", \"index\": 6, \"label\": \"\"}, {\"name\": \"汉长歌\", \"scheme\": \"sinaweibo://detail?mblogid=5227582205202732\", \"index\": 27, \"label\": \"\"}, {\"name\": \"汉长歌\", \"scheme\": \"sinaweibo://detail?mblogid=5227741021737303\", \"index\": 34, \"label\": \"\"}]}}```  <br>   - **台风从容**：举止优雅大方（\"温文尔雅如一身\"）、控场能力强，颁奖言简意赅，将时间留给获奖者发言。```wbCustomBlock{\"type\": \"quoted\", \"index\": 16, \"data\": {\"num\": [8, 25, 35], \"version\": 2, \"quote_list\": [{\"name\": \"Hillier_\", \"scheme\": \"sinaweibo://detail?mblogid=5223266152614427\", \"index\": 8, \"label\": \"\"}, {\"name\": \"Elsemoon\", \"scheme\": \"sinaweibo://detail?mblogid=5223367067304171\", \"index\": 25, \"label\": \"\"}, {\"name\": \"冬日兔子winter\", \"scheme\": \"sinaweibo://detail?mblogid=5227741110603162\", \"index\": 35, \"label\": \"\"}]}}```  <br><br>2. **状态与气质**  <br>   - **冻龄美貌**：49岁状态惊艳，网友感慨\"与《美人心计》时期无变化\"。```wbCustomBlock{\"type\": \"quoted\", \"index\": 18, \"data\": {\"num\": [2, 18, 31], \"version\": 2, \"quote_list\": [{\"name\": \"小猫牌双氧水\", \"scheme\": \"sinaweibo://detail?mblogid=5227738517474587\", \"index\": 2, \"label\": \"\"}, {\"name\": \"冰岛女帝\", \"scheme\": \"sinaweibo://detail?mblogid=5227759561345223\", \"index\": 18, \"label\": \"\"}, {\"name\": \"钱钱钱200609\", \"scheme\": \"sinaweibo://detail?mblogid=5227935965648330\", \"index\": 31, \"label\": \"\"}]}}```  <br>   - **身份升华**：从演员转型制作人后，以\"资深创作者+专业嘉宾\"双重身份获行业认可，凸显影响力。```wbCustomBlock{\"type\": \"quoted\", \"index\": 19, \"data\": {\"num\": [22, 25, 35], \"version\": 2, \"quote_list\": [{\"name\": \"青虫YN\", \"scheme\": \"sinaweibo://detail?mblogid=5227753102118794\", \"index\": 22, \"label\": \"大v\"}, {\"name\": \"Elsemoon\", \"scheme\": \"sinaweibo://detail?mblogid=5223367067304171\", \"index\": 25, \"label\": \"\"}, {\"name\": \"冬日兔子winter\", \"scheme\": \"sinaweibo://detail?mblogid=5227741110603162\", \"index\": 35, \"label\": \"\"}], \"name\": \"青虫YN\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/618655daly8i64i8gbhyij20u00u0dkh.jpg?KID=imgbed,tva&Expires=1761931797&ssig=WZdAVg0NGU\", \"scheme\": \"sinaweibo://detail?mblogid=5227753102118794\", \"vType\": 0}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://multimedia?mix_mid=5227738517474587&mix_index=0&multi_paragraph=2&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/008AHaLmly8i6voc17opbj30u00u00vx.jpg?KID=imgbed,tva&Expires=1761931797&ssig=g%2FkpNLDx6E) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">小猫牌双氧水</span><img src=\"http://wx3.sinaimg.cn/middle/008AHaLmly1i6vakkzjimj31400k0ac7.jpg\" data-width=720 data-height=1440></div></media-block><br>### 📌 **三、延伸关联动态**  <br>1. **综艺言论引共鸣**  <br>   - 在《再见爱人5》中自曝\"短视频购物狂\"习惯，分享与霍建华\"节俭自我、慷慨家人\"的消费观差异，因接地气人设获共情。```wbCustomBlock{\"type\": \"quoted\", \"index\": 23, \"data\": {\"num\": [5], \"version\": 2, \"quote_list\": [{\"name\": \"汉长歌\", \"scheme\": \"sinaweibo://detail?mblogid=5227437887063896\", \"index\": 5, \"label\": \"\"}]}}```  <br>   - 对李施嬅提出情感建议\"唯有真实自我才能维系亲密关系\"，被赞高情商洞察。  <br><br>2. **职业长青密码**  <br>   - **敬畏心与多元平衡**：从业三十年坚持谦卑细节，演员、制片人、嘉宾角色无缝切换。```wbCustomBlock{\"type\": \"quoted\", \"index\": 26, \"data\": {\"num\": [32, 35], \"version\": 2, \"quote_list\": [{\"name\": \"昕阳光2424\", \"scheme\": \"sinaweibo://detail?mblogid=5227741471049308\", \"index\": 32, \"label\": \"大v\"}, {\"name\": \"冬日兔子winter\", \"scheme\": \"sinaweibo://detail?mblogid=5227741110603162\", \"index\": 35, \"label\": \"\"}], \"name\": \"昕阳光2424\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.960.960.50/8000121fly8hohcq2yzelj20qo0qowfy.jpg?KID=imgbed,tva&Expires=1761931797&ssig=4yWMxHLPvu\", \"scheme\": \"sinaweibo://detail?mblogid=5227741471049308\", \"vType\": 0}}```  <br>   - **真实人设强化认同**：私下购物烦恼、家庭经营智慧等展现\"清醒独立\"形象。```wbCustomBlock{\"type\": \"quoted\", \"index\": 27, \"data\": {\"num\": [32], \"version\": 2, \"quote_list\": [{\"name\": \"昕阳光2424\", \"scheme\": \"sinaweibo://detail?mblogid=5227741471049308\", \"index\": 32, \"label\": \"\"}]}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5227437887063896&multi_paragraph=3&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/006fwJ0Zly8i4zebe9a9cj30u00u0jsw.jpg?KID=imgbed,tva&Expires=1761931797&ssig=5CIYLqfglc) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">汉长歌</span><img src=\"http://wx3.sinaimg.cn/middle/006fwJ0Zly1i6uc0xxo65j31hc0u0q5g.jpg\" data-width=1080 data-height=1920></div></media-block><br>### 💎 **总结**  <br>林心如的颁奖表现不仅体现外在的优雅仪态，更折射出内在的职业敬畏心：  <br>> 🌟 **弯腰的弧度是她能一直走下去的高度，从紫薇到金牌制片，她活成了'大女主'现实版**。```wbCustomBlock{\"type\": \"quoted\", \"index\": 30, \"data\": {\"num\": [31, 35], \"version\": 2, \"quote_list\": [{\"name\": \"钱钱钱200609\", \"scheme\": \"sinaweibo://detail?mblogid=5227935965648330\", \"index\": 31, \"label\": \"\"}, {\"name\": \"冬日兔子winter\", \"scheme\": \"sinaweibo://detail?mblogid=5227741110603162\", \"index\": 35, \"label\": \"\"}]}}```  <br><br>如需了解更多造型细节或历史颁奖活动（如1999年与苏有朋同台、2022年金钟奖），可进一步补充说明。```wbCustomBlock{\"type\": \"quoted\", \"index\": 31, \"data\": {\"num\": [9, 21], \"version\": 2, \"quote_list\": [{\"name\": \"林心如工作室\", \"scheme\": \"sinaweibo://detail?mblogid=4827499550212800\", \"index\": 9, \"label\": \"\"}, {\"name\": \"纪春蚀\", \"scheme\": \"sinaweibo://detail?mblogid=5227036815919557\", \"index\": 21, \"label\": \"\"}]}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5227036815919557&multi_paragraph=4&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/0082MD8oly8i3qeqbkk5bj30u00u077v.jpg?KID=imgbed,tva&Expires=1761931797&ssig=iyPt8zHp4b) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">纪春蚀</span><img src=\"http://wx3.sinaimg.cn/middle/0082MD8ogy1i6t1z2aqarj30k00zkwfr.jpg\" data-width=1280 data-height=720></div></media-block><br>",
+      "model": "deepseek",
+      "short_url": "http://t.cn/AXAqnV5U",
+      "abtest_info": {
+        "chat_entrance": 1
+      },
+      "profile_image_url": "",
+      "user_info": {}
+    }
+  },
+  "links": [
+    "sinaweibo://detail?mblogid=5227568657078482",
+    "sinaweibo://detail?mblogid=5227738517474587",
+    "sinaweibo://detail?mblogid=5227740137523958",
+    "sinaweibo://detail?mblogid=5227735825778718",
+    "sinaweibo://detail?mblogid=5227437887063896",
+    "sinaweibo://detail?mblogid=5227741088846445",
+    "sinaweibo://detail?mblogid=5223424370936687",
+    "sinaweibo://detail?mblogid=5223266152614427",
+    "sinaweibo://detail?mblogid=4827499550212800",
+    "sinaweibo://detail?mblogid=5092272116862210",
+    "sinaweibo://detail?mblogid=5091864695013601",
+    "sinaweibo://detail?mblogid=5091267375272084",
+    "sinaweibo://detail?mblogid=5223241043937898",
+    "sinaweibo://detail?mblogid=5223249114827147",
+    "historyweibo://5227745350257491",
+    "historyweibo://5227568657078482",
+    "historyweibo://5223072139315532",
+    "sinaweibo://detail?mblogid=5227759561345223",
+    "sinaweibo://detail?mblogid=5227746913683718",
+    "sinaweibo://detail?mblogid=5227756926273792",
+    "sinaweibo://detail?mblogid=5227036815919557",
+    "sinaweibo://detail?mblogid=5227753102118794",
+    "sinaweibo://detail?mblogid=5227753403320541",
+    "sinaweibo://detail?mblogid=5223238490654736",
+    "sinaweibo://detail?mblogid=5223367067304171",
+    "sinaweibo://detail?mblogid=5227564987582399",
+    "sinaweibo://detail?mblogid=5227582205202732",
+    "sinaweibo://detail?mblogid=5223411318261877",
+    "sinaweibo://detail?mblogid=5223309428130315",
+    "sinaweibo://detail?mblogid=5223238666814704",
+    "sinaweibo://detail?mblogid=5227935965648330",
+    "sinaweibo://detail?mblogid=5227741471049308",
+    "sinaweibo://detail?mblogid=5227744968311631",
+    "sinaweibo://detail?mblogid=5227741021737303",
+    "sinaweibo://detail?mblogid=5227741110603162",
+    "sinaweibo://detail?mblogid=5227726428439979",
+    "sinaweibo://detail?mblogid=5227569576411589",
+    "sinaweibo://detail?mblogid=5180067690055140",
+    "sinaweibo://detail?mblogid=4398715235987567",
+    "sinaweibo://detail?mblogid=5223244916331753",
+    "sinaweibo://detail?mblogid=4644815314618634"
+  ],
+  "media": [
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/51b9960bgy1i6ur27ag43j20ru0fojsh.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/51b9960bgy1i6ur27ag43j20ru0fojsh.jpg",
+      "alt": "文娱第三只眼",
+      "width": 564,
+      "height": 1002,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/51b9960bgy1i6ur27ag43j20ru0fojsh.jpg"
+      ],
+      "user": "文娱第三只眼"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/618655daly1i6vc6paoxlj20mh0u00u7.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/618655daly1i6vc6paoxlj20mh0u00u7.jpg",
+      "alt": "青虫YN",
+      "width": 1080,
+      "height": 809,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/618655daly1i6vc6paoxlj20mh0u00u7.jpg"
+      ],
+      "user": "青虫YN"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/651901e7ly1i6vavd9gsaj20r41hcaax.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/651901e7ly1i6vavd9gsaj20r41hcaax.jpg",
+      "alt": "影视综艺分享",
+      "width": 1920,
+      "height": 976,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/651901e7ly1i6vavd9gsaj20r41hcaax.jpg"
+      ],
+      "user": "影视综艺分享"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/5e4d769cly1i6hj28nuxmj23344mo4qq.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/5e4d769cly1i6hj28nuxmj23344mo4qq.jpg",
+      "alt": "林心如工作室",
+      "width": 6000,
+      "height": 4000,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx4.sinaimg.cn/large/5e4d769cly1i6hj28nuxmj23344mo4qq.jpg"
+      ],
+      "user": "林心如工作室"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/00808wQLly1i6hhluupfxj30k00zk74v.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/00808wQLly1i6hhluupfxj30k00zk74v.jpg",
+      "alt": "网上看心情",
+      "width": 1280,
+      "height": 720,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/00808wQLly1i6hhluupfxj30k00zk74v.jpg"
+      ],
+      "user": "网上看心情"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/008gK5mKgy1i6gxs104tyj31fs0q01kx.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/008gK5mKgy1i6gxs104tyj31fs0q01kx.jpg",
+      "alt": "李屋屋啊",
+      "width": 936,
+      "height": 1864,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/008gK5mKgy1i6gxs104tyj31fs0q01kx.jpg"
+      ],
+      "user": "李屋屋啊"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/0067MtiAly8i6gywan4ktj31hc0u0458.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/0067MtiAly8i6gywan4ktj31hc0u0458.jpg",
+      "alt": "娱乐小浪花er",
+      "width": 1080,
+      "height": 1920,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/0067MtiAly8i6gywan4ktj31hc0u0458.jpg"
+      ],
+      "user": "娱乐小浪花er"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/006fwJ0Zly1huv4e7mnl7j31hc0u0nnv.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/006fwJ0Zly1huv4e7mnl7j31hc0u0nnv.jpg",
+      "alt": "汉长歌",
+      "width": 1080,
+      "height": 1920,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx4.sinaimg.cn/large/006fwJ0Zly1huv4e7mnl7j31hc0u0nnv.jpg"
+      ],
+      "user": "汉长歌"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/006fwJ0Zgy1i6gym106h3j30on0dw0uc.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/006fwJ0Zgy1i6gym106h3j30on0dw0uc.jpg",
+      "alt": "汉长歌",
+      "width": 500,
+      "height": 887,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/006fwJ0Zgy1i6gym106h3j30on0dw0uc.jpg"
+      ],
+      "user": "汉长歌"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/008AHaLmly1i6vakkzjimj31400k0ac7.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/008AHaLmly1i6vakkzjimj31400k0ac7.jpg",
+      "alt": "小猫牌双氧水",
+      "width": 720,
+      "height": 1440,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/008AHaLmly1i6vakkzjimj31400k0ac7.jpg"
+      ],
+      "user": "小猫牌双氧水"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/006fwJ0Zly1i6uc0xxo65j31hc0u0q5g.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/006fwJ0Zly1i6uc0xxo65j31hc0u0q5g.jpg",
+      "alt": "汉长歌",
+      "width": 1080,
+      "height": 1920,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/006fwJ0Zly1i6uc0xxo65j31hc0u0q5g.jpg"
+      ],
+      "user": "汉长歌"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/0082MD8ogy1i6t1z2aqarj30k00zkwfr.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/0082MD8ogy1i6t1z2aqarj30k00zkwfr.jpg",
+      "alt": "纪春蚀",
+      "width": 1280,
+      "height": 720,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/0082MD8ogy1i6t1z2aqarj30k00zkwfr.jpg"
+      ],
+      "user": "纪春蚀"
+    }
+  ],
+  "html_path": "data/aicard/hourly/2025-10-31/10/topic-fd79b5fc.html"
+}

@@ -1,0 +1,291 @@
+{
+  "meta": {
+    "query": "#男子晒媳妇买了15双一样的勃肯鞋#",
+    "status_code": 200,
+    "fetched_at": "2025-11-04T09:46:14+08:00",
+    "response": {
+      "status": 2,
+      "scheme": "sinaweibo://cardlist?containerid=100103type%3D225%26q%3D%23%E7%94%B7%E5%AD%90%E6%99%92%E5%AA%B3%E5%A6%87%E4%B9%B0%E4%BA%8615%E5%8F%8C%E4%B8%80%E6%A0%B7%E7%9A%84%E5%8B%83%E8%82%AF%E9%9E%8B%23%26t%3D&extparam=ai_model%3Ddeepseek%26ori_ai_title%3D%E5%8F%82%E8%80%83%E5%8D%9A%E6%96%87%26material_version%3D1762220171",
+      "loop_times": 200,
+      "cot": 1,
+      "query": "#男子晒媳妇买了15双一样的勃肯鞋#",
+      "wenda": {
+        "forward_gen": 0
+      },
+      "abtest_info": {
+        "chat_entrance": 1
+      },
+      "model": "deepseek",
+      "sorted_material_list": null,
+      "zs_risk_control": {
+        "think_text_close": 0,
+        "land_button_close": 0
+      },
+      "qs_status_info": "{\"qs_status\":0,\"qs_c_status\":8388608,\"qs_r_status\":0,\"qs_q_status\":0,\"qs_u_status\":0,\"ab_lab\":{}}",
+      "short_url": "http://t.cn/AXANVAj4",
+      "qs_status": 0,
+      "mid_list": null,
+      "reference_num": 28,
+      "query_category": "",
+      "status_stage": 4,
+      "msg_format": "markdown",
+      "top_quote_list": {},
+      "card_multimodal": {
+        "type": "mediablock",
+        "data": [
+          {
+            "cur_mid": "5228909048368334",
+            "type": "v",
+            "user_name": "都市频道",
+            "scheme": "sinaweibo://video/vvs?mid=5228909048368334&multi_paragraph=1&multi_count=0",
+            "w": 1080,
+            "img": "http://wx4.sinaimg.cn/middle/612e48ffly1i6z10o81rvj20u01hcn05.jpg",
+            "h": 1920,
+            "hit_score_new": 0,
+            "doc_score": 0,
+            "hit_score_final": 0,
+            "user_avatar": "https://tvax1.sinaimg.cn/crop.0.0.200.200.50/612e48ffly8h8vgm73642j205k05ka9y.jpg?KID=imgbed,tva&Expires=1762230971&ssig=XvTGalOAj%2F",
+            "click_num": 0,
+            "img_pid": "612e48ffly1i6z10o81rvj20u01hcn05",
+            "click_rate": 0.012081723289092,
+            "vtype": 3,
+            "video_url": "https://video.weibo.com/show?fid=1034:5228908669501496"
+          },
+          {
+            "cur_mid": "5229183869649405",
+            "type": "v",
+            "user_name": "哈哈和麻麻",
+            "scheme": "sinaweibo://video/vvs?mid=5229183869649405&multi_paragraph=1&multi_count=1",
+            "w": 1080,
+            "img": "http://wx3.sinaimg.cn/middle/9f4a3699ly1i6zwhiv1ckj20u01hc0v1.jpg",
+            "h": 1920,
+            "hit_score_new": 99.023438,
+            "doc_score": 5164,
+            "hit_score_final": 88.614067,
+            "user_avatar": "https://tvax4.sinaimg.cn/crop.0.0.512.512.50/9f4a3699ly8i0tguu1fs8j20e80e8aag.jpg?KID=imgbed,tva&Expires=1762230971&ssig=LMmyKDBvgr",
+            "click_num": 0,
+            "img_pid": "9f4a3699ly1i6zwhiv1ckj20u01hc0v1",
+            "click_rate": 0,
+            "vtype": 0,
+            "video_url": "https://video.weibo.com/show?fid=1034:5229182834376753"
+          },
+          {
+            "cur_mid": "5229187266773604",
+            "type": "v",
+            "user_name": "雨之柠",
+            "scheme": "sinaweibo://video/vvs?mid=5229187266773604&multi_paragraph=2&multi_count=0",
+            "w": 809,
+            "img": "http://wx1.sinaimg.cn/middle/0085JPS3gy1i6zwy905tfj30mh0u0tc2.jpg",
+            "h": 1080,
+            "hit_score_new": 99.023438,
+            "doc_score": 3603,
+            "hit_score_final": 86.614067,
+            "user_avatar": "https://tvax1.sinaimg.cn/crop.0.0.1022.1022.50/0085JPS3ly8i285xjldf0j30se0se758.jpg?KID=imgbed,tva&Expires=1762230971&ssig=AD%2BYwTuvNN",
+            "click_num": 0,
+            "img_pid": "0085JPS3gy1i6zwy905tfj30mh0u0tc2",
+            "click_rate": 0,
+            "vtype": 0,
+            "video_url": "https://video.weibo.com/show?fid=1034:5229187062235212"
+          },
+          {
+            "cur_mid": "5228909048368334",
+            "type": "v",
+            "user_name": "都市频道",
+            "scheme": "sinaweibo://video/vvs?mid=5228909048368334&multi_paragraph=1&multi_count=0",
+            "w": 1080,
+            "img": "http://wx4.sinaimg.cn/middle/612e48ffly1i6z10o81rvj20u01hcn05.jpg",
+            "h": 1920,
+            "hit_score_new": 0,
+            "doc_score": 0,
+            "hit_score_final": 0,
+            "user_avatar": "https://tvax1.sinaimg.cn/crop.0.0.200.200.50/612e48ffly8h8vgm73642j205k05ka9y.jpg?KID=imgbed,tva&Expires=1762230971&ssig=XvTGalOAj%2F",
+            "click_num": 0,
+            "img_pid": "612e48ffly1i6z10o81rvj20u01hcn05",
+            "click_rate": 0.012081723289092,
+            "vtype": 3,
+            "video_url": "https://video.weibo.com/show?fid=1034:5228908669501496"
+          }
+        ]
+      },
+      "share_card_multimodal": {
+        "cur_mid": "5228909048368334",
+        "type": "v",
+        "user_name": "都市频道",
+        "scheme": "sinaweibo://video/vvs?mid=5228909048368334&multi_paragraph=1&multi_count=0",
+        "w": 1080,
+        "img": "http://wx4.sinaimg.cn/middle/612e48ffly1i6z10o81rvj20u01hcn05.jpg",
+        "h": 1920,
+        "hit_score_new": 0,
+        "doc_score": 0,
+        "hit_score_final": 0,
+        "user_avatar": "https://tvax1.sinaimg.cn/crop.0.0.200.200.50/612e48ffly8h8vgm73642j205k05ka9y.jpg?KID=imgbed,tva&Expires=1762230971&ssig=XvTGalOAj%2F",
+        "click_num": 0,
+        "img_pid": "612e48ffly1i6z10o81rvj20u01hcn05",
+        "click_rate": 0.012081723289092,
+        "vtype": 3,
+        "video_url": "https://video.weibo.com/show?fid=1034:5228908669501496"
+      },
+      "msg_json": "{}",
+      "q_attr": {
+        "reply_cid": "",
+        "comment_from_type": "",
+        "from_uid": "",
+        "mid": "",
+        "from_request_id": ""
+      },
+      "show_ctrl": {
+        "quote": {}
+      },
+      "ext_show": {},
+      "unify_md5": "0c39e90a5dc6abfabff7311946d7811d",
+      "share_text": "#男子晒媳妇买了15双一样的勃肯鞋#的相关内容，来智搜看看",
+      "query_field": "60",
+      "page_id": "23296474274acad1b312aecbac4436999ad1dd",
+      "msg": "<think><br>嗯，用户给了一个查询任务，关于\"男子晒媳妇买了15双一样的勃肯鞋\"的搜索结果整理。我需要仔细分析这些搜索结果，然后综合信息，给出一个全面、结构清晰的回答。<br><br>先看看搜索结果的主要内容。结果1是媒体账号发布的新闻，提到江苏男子分享媳妇买15双勃肯鞋，网友评论说每双都不一样，四季款式齐全。这是置顶的优质结果，可信度高。结果7、10、11等也标记为优质搜索结果，讨论勃肯鞋的舒适性、设计和流行原因。<br><br>用户的主要需求应该是了解这个事件本身，以及勃肯鞋的背景、特点和争议。我需要分几个部分来组织回答：事件本身、勃肯鞋流行原因、舒适性争议、网友态度，以及购买建议。<br><br>事件部分主要来自结果1：江苏男子晒媳妇的15双勃肯鞋，网友指出这些鞋其实有不同款式（加绒/单里、包跟/露跟、颜色差异）。结果28提到网友的包容态度，没有批评反而调侃\"四季款凑齐了\"。<br><br>勃肯鞋流行原因可以从多个结果提取：结果10和11强调其人体工学设计，软木鞋垫缓解足部压力；结果13和24提到时尚百搭，适合多种风格；结果7和20说明四季可穿，从凉鞋到加绒款。<br><br>舒适性争议方面，结果5的测评提到部分款式问题（鞋底硬、打滑），结果26有用户觉得\"丑且显脚臭\"，结果9则说孕晚期穿很合适。这些观点需要平衡呈现。<br><br>购买建议上，结果4详细分析材质优缺点（皮面耐用但贵，麂皮舒服但难打理）；结果9建议矮个子选增高款；结果24推荐经典鞋型如Boston和Arizona。<br><br>还注意到一些有趣的点：结果17质疑博主\"买完退货\"的道德问题；结果28赞赏网友包容态度；结果6类比\"同款不同色\"的消费习惯。<br><br>最后考虑设计回答结构：先简述事件，然后分析勃肯鞋特点（设计、舒适、时尚），接着讨论争议和网友态度，最后给购买建议。关键点要加粗，保持客观中立语气，比如用\"部分用户反馈\"而不是绝对化表述。每个信息点都要引用对应的搜索结果编号。<br><br></think><br>以下是关于\"男子晒媳妇买15双勃肯鞋\"事件的综合整理与分析，结合搜索结果中的核心信息和客观评价：<br>### 👟 一、事件核心：15双勃肯鞋的真相  <br>1. **事件背景**  <br>   江苏一男子分享妻子购买的15双勃肯鞋，鞋款外观相似但实际涵盖四季不同功能：加绒/单里、包跟/露跟、凉拖/保暖款等，颜色以卡其、灰褐色为主。```wbCustomBlock{\"type\": \"quoted\", \"index\": 4, \"data\": {\"num\": [1, 20, 22], \"version\": 2, \"quote_list\": [{\"name\": \"都市频道\", \"scheme\": \"sinaweibo://detail?mblogid=5228909048368334\", \"index\": 1, \"label\": \"大v\"}, {\"name\": \"哈哈和麻麻\", \"scheme\": \"sinaweibo://detail?mblogid=5229183869649405\", \"index\": 20, \"label\": \"\"}, {\"name\": \"天天就是天天冫\", \"scheme\": \"sinaweibo://detail?mblogid=5229192742438591\", \"index\": 22, \"label\": \"\"}], \"name\": \"都市频道\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.200.200.50/612e48ffly8h8vgm73642j205k05ka9y.jpg?KID=imgbed,tva&Expires=1762230971&ssig=XvTGalOAj%2F\", \"scheme\": \"sinaweibo://detail?mblogid=5228909048368334\", \"vType\": 3}}```  <br>2. **网友反应**  <br>   - **理解派**：认为每双鞋功能不同（如防水、增高、保暖），属\"合理收集\"，调侃\"四季款凑齐了\"。```wbCustomBlock{\"type\": \"quoted\", \"index\": 6, \"data\": {\"num\": [1, 8, 14], \"version\": 2, \"quote_list\": [{\"name\": \"都市频道\", \"scheme\": \"sinaweibo://detail?mblogid=5228909048368334\", \"index\": 1, \"label\": \"\"}, {\"name\": \"回沉屿\", \"scheme\": \"sinaweibo://detail?mblogid=5229176185685156\", \"index\": 8, \"label\": \"\"}, {\"name\": \"尼斯聚影酱\", \"scheme\": \"sinaweibo://detail?mblogid=5229177528649704\", \"index\": 14, \"label\": \"\"}]}}```  <br>   - **质疑派**：部分人认为勃肯鞋设计\"笨重显臃肿\"，不解其流行。```wbCustomBlock{\"type\": \"quoted\", \"index\": 7, \"data\": {\"num\": [2, 12, 26], \"version\": 2, \"quote_list\": [{\"name\": \"蓉城苻晓\", \"scheme\": \"sinaweibo://detail?mblogid=5229182007119886\", \"index\": 2, \"label\": \"大v\"}, {\"name\": \"殇雪清辰\", \"scheme\": \"sinaweibo://detail?mblogid=5229184299305869\", \"index\": 12, \"label\": \"\"}, {\"name\": \"LuckyStar冉\", \"scheme\": \"sinaweibo://detail?mblogid=5229192494711646\", \"index\": 26, \"label\": \"\"}], \"name\": \"蓉城苻晓\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.960.960.50/9e8846b3ly8i10sqdz015j20qo0qo3zi.jpg?KID=imgbed,tva&Expires=1762230971&ssig=YKCn5%2FHBVf\", \"scheme\": \"sinaweibo://detail?mblogid=5229182007119886\", \"vType\": 0}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5228909048368334&multi_paragraph=1&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.200.200.50/612e48ffly8h8vgm73642j205k05ka9y.jpg?KID=imgbed,tva&Expires=1762230971&ssig=XvTGalOAj%2F) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">都市频道</span><img src=\"http://wx4.sinaimg.cn/middle/612e48ffly1i6z10o81rvj20u01hcn05.jpg\" data-width=1920 data-height=1080></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5229183869649405&multi_paragraph=1&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.512.512.50/9f4a3699ly8i0tguu1fs8j20e80e8aag.jpg?KID=imgbed,tva&Expires=1762230971&ssig=LMmyKDBvgr) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">哈哈和麻麻</span><img src=\"http://wx3.sinaimg.cn/middle/9f4a3699ly1i6zwhiv1ckj20u01hc0v1.jpg\" data-width=1920 data-height=1080></div></media-block><br>### 🔍 二、勃肯鞋为何受追捧？  <br>1. **舒适性为核心优势**  <br>   - **人体工学设计**：软木乳胶鞋床贴合足弓，分散压力，适合长时间站立/行走。```wbCustomBlock{\"type\": \"quoted\", \"index\": 11, \"data\": {\"num\": [7, 10, 24], \"version\": 2, \"quote_list\": [{\"name\": \"夜誓迷月\", \"scheme\": \"sinaweibo://detail?mblogid=5229182209491916\", \"index\": 7, \"label\": \"大v\"}, {\"name\": \"欢乐选手\", \"scheme\": \"sinaweibo://detail?mblogid=5229175491527778\", \"index\": 10, \"label\": \"\"}, {\"name\": \"娱圈乐姐\", \"scheme\": \"sinaweibo://detail?mblogid=5229192657504252\", \"index\": 24, \"label\": \"\"}], \"name\": \"夜誓迷月\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/0075lg6nly8i6q03l505nj30u00u0ac4.jpg?KID=imgbed,tva&Expires=1762230971&ssig=XxDKmVP99i\", \"scheme\": \"sinaweibo://detail?mblogid=5229182209491916\", \"vType\": 0}}```  <br>   - **材质选择多元**：  <br>     - 皮面款（耐用高级）VS 麂皮款（柔软透气）；```wbCustomBlock{\"type\": \"quoted\", \"index\": 13, \"data\": {\"num\": [4], \"version\": 2, \"quote_list\": [{\"name\": \"小咪得所愿\", \"scheme\": \"sinaweibo://detail?mblogid=5229190095831980\", \"index\": 4, \"label\": \"大v\"}], \"name\": \"小咪得所愿\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.1.1206.1206.50/9e18495ely8i46qy28x3lj20u00u0q5i.jpg?KID=imgbed,tva&Expires=1762230971&ssig=yaSOgT1vVf\", \"scheme\": \"sinaweibo://detail?mblogid=5229190095831980\", \"vType\": 0}}```  <br>     - 橡胶底（防滑耐水）VS 加绒内里（冬季保暖）。```wbCustomBlock{\"type\": \"quoted\", \"index\": 14, \"data\": {\"num\": [4, 5], \"version\": 2, \"quote_list\": [{\"name\": \"小咪得所愿\", \"scheme\": \"sinaweibo://detail?mblogid=5229190095831980\", \"index\": 4, \"label\": \"\"}, {\"name\": \"雨之柠\", \"scheme\": \"sinaweibo://detail?mblogid=5229187266773604\", \"index\": 5, \"label\": \"\"}]}}```  <br>2. **实用场景覆盖广**  <br>   - 四季可穿：夏季凉拖、春秋单鞋、冬季加绒款。```wbCustomBlock{\"type\": \"quoted\", \"index\": 16, \"data\": {\"num\": [13, 20], \"version\": 2, \"quote_list\": [{\"name\": \"啾咪一栀穗\", \"scheme\": \"sinaweibo://detail?mblogid=5229185788282090\", \"index\": 13, \"label\": \"大v\"}, {\"name\": \"哈哈和麻麻\", \"scheme\": \"sinaweibo://detail?mblogid=5229183869649405\", \"index\": 20, \"label\": \"\"}], \"name\": \"啾咪一栀穗\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/eaa2a892ly8i6c9ajw0qbj20u00u00wj.jpg?KID=imgbed,tva&Expires=1762230971&ssig=1JT0gghUa7\", \"scheme\": \"sinaweibo://detail?mblogid=5229185788282090\", \"vType\": 0}}```  <br>   - 百搭属性：休闲装、轻便通勤装均可搭配。```wbCustomBlock{\"type\": \"quoted\", \"index\": 17, \"data\": {\"num\": [5, 13], \"version\": 2, \"quote_list\": [{\"name\": \"雨之柠\", \"scheme\": \"sinaweibo://detail?mblogid=5229187266773604\", \"index\": 5, \"label\": \"\"}, {\"name\": \"啾咪一栀穗\", \"scheme\": \"sinaweibo://detail?mblogid=5229185788282090\", \"index\": 13, \"label\": \"\"}]}}```  <br>3. **文化符号与潮流化**  <br>   - 从\"反主流文化象征\"（1960年代）到奢侈品联名（如Dior），完成从功能鞋到时尚单品的转型。```wbCustomBlock{\"type\": \"quoted\", \"index\": 19, \"data\": {\"num\": [11, 24], \"version\": 2, \"quote_list\": [{\"name\": \"韩泰颜一\", \"scheme\": \"sinaweibo://detail?mblogid=5229178195542634\", \"index\": 11, \"label\": \"大v\"}, {\"name\": \"娱圈乐姐\", \"scheme\": \"sinaweibo://detail?mblogid=5229192657504252\", \"index\": 24, \"label\": \"\"}], \"name\": \"韩泰颜一\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/0084emmqly8i6fpifx0j9j30u00u0764.jpg?KID=imgbed,tva&Expires=1762230971&ssig=fJ51pzn16B\", \"scheme\": \"sinaweibo://detail?mblogid=5229178195542634\", \"vType\": 0}}```  <br>   - 明星街拍带动\"丑鞋美学\"复兴，强调舒适与个性兼容。```wbCustomBlock{\"type\": \"quoted\", \"index\": 20, \"data\": {\"num\": [7, 11], \"version\": 2, \"quote_list\": [{\"name\": \"夜誓迷月\", \"scheme\": \"sinaweibo://detail?mblogid=5229182209491916\", \"index\": 7, \"label\": \"\"}, {\"name\": \"韩泰颜一\", \"scheme\": \"sinaweibo://detail?mblogid=5229178195542634\", \"index\": 11, \"label\": \"\"}]}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5229187266773604&multi_paragraph=2&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.1022.1022.50/0085JPS3ly8i285xjldf0j30se0se758.jpg?KID=imgbed,tva&Expires=1762230971&ssig=AD%2BYwTuvNN) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">雨之柠</span><img src=\"http://wx1.sinaimg.cn/middle/0085JPS3gy1i6zwy905tfj30mh0u0tc2.jpg\" data-width=1080 data-height=809></div></media-block><br>### ⚖️ 三、争议焦点：舒适与审美的平衡  <br>1. **支持方观点**  <br>   - 孕产妇、足部浮肿人群认可其宽鞋头设计；```wbCustomBlock{\"type\": \"quoted\", \"index\": 24, \"data\": {\"num\": [9], \"version\": 2, \"quote_list\": [{\"name\": \"是猪宝丫\", \"scheme\": \"sinaweibo://detail?mblogid=5229184609157455\", \"index\": 9, \"label\": \"\"}]}}```  <br>   - 长期穿戴者反馈\"越穿越贴合脚型\"。```wbCustomBlock{\"type\": \"quoted\", \"index\": 25, \"data\": {\"num\": [24], \"version\": 2, \"quote_list\": [{\"name\": \"娱圈乐姐\", \"scheme\": \"sinaweibo://detail?mblogid=5229192657504252\", \"index\": 24, \"label\": \"\"}]}}```  <br>2. **反对方质疑**  <br>   - 初穿易磨脚，部分鞋底过硬；```wbCustomBlock{\"type\": \"quoted\", \"index\": 27, \"data\": {\"num\": [5, 12], \"version\": 2, \"quote_list\": [{\"name\": \"雨之柠\", \"scheme\": \"sinaweibo://detail?mblogid=5229187266773604\", \"index\": 5, \"label\": \"\"}, {\"name\": \"殇雪清辰\", \"scheme\": \"sinaweibo://detail?mblogid=5229184299305869\", \"index\": 12, \"label\": \"\"}]}}```  <br>   - 设计显\"笨重\"，搭配不当易显矮胖（需选增高款或注意配色）。```wbCustomBlock{\"type\": \"quoted\", \"index\": 28, \"data\": {\"num\": [9, 26], \"version\": 2, \"quote_list\": [{\"name\": \"是猪宝丫\", \"scheme\": \"sinaweibo://detail?mblogid=5229184609157455\", \"index\": 9, \"label\": \"\"}, {\"name\": \"LuckyStar冉\", \"scheme\": \"sinaweibo://detail?mblogid=5229192494711646\", \"index\": 26, \"label\": \"\"}]}}```<br>### 💬 四、网友延伸讨论  <br>1. **消费心理类比**  <br>   - 类似\"同款不同色\"口红收集，满足细微需求差异。```wbCustomBlock{\"type\": \"quoted\", \"index\": 32, \"data\": {\"num\": [6, 18], \"version\": 2, \"quote_list\": [{\"name\": \"股市财宝宝\", \"scheme\": \"sinaweibo://detail?mblogid=5229183275893822\", \"index\": 6, \"label\": \"大v\"}, {\"name\": \"李开心的嘛嘛\", \"scheme\": \"sinaweibo://detail?mblogid=5229175687350404\", \"index\": 18, \"label\": \"\"}], \"name\": \"股市财宝宝\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.996.996.50/007azaNoly8g6e7e7wa18j30ro0rodi5.jpg?KID=imgbed,tva&Expires=1762230971&ssig=pzq9wechZ7\", \"scheme\": \"sinaweibo://detail?mblogid=5229183275893822\", \"vType\": 0}}```  <br>2. **伴侣态度获赞**  <br>   丈夫未干涉妻子爱好，被评\"不扫兴\"。```wbCustomBlock{\"type\": \"quoted\", \"index\": 33, \"data\": {\"num\": [16, 28], \"version\": 2, \"quote_list\": [{\"name\": \"优优的狮子妈咪\", \"scheme\": \"sinaweibo://detail?mblogid=5229188456123924\", \"index\": 28, \"label\": \"大v\"}, {\"name\": \"紫轩冰凌_\", \"scheme\": \"sinaweibo://detail?mblogid=5229177931564896\", \"index\": 16, \"label\": \"\"}], \"name\": \"优优的狮子妈咪\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.607.607.50/6e7ed150ly1h84jwp764oj20gv0gvq44.jpg?KID=imgbed,tva&Expires=1762230971&ssig=y0dVU%2FNMML\", \"scheme\": \"sinaweibo://detail?mblogid=5229188456123924\", \"vType\": 0}}```  <br>3. **博主真实性争议**  <br>   有用户质疑\"为拍视频大量采购后退货\"，但无实证。```wbCustomBlock{\"type\": \"quoted\", \"index\": 34, \"data\": {\"num\": [17], \"version\": 2, \"quote_list\": [{\"name\": \"米色的大米\", \"scheme\": \"sinaweibo://detail?mblogid=5229172613187868\", \"index\": 17, \"label\": \"\"}]}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5229175687350404&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=4&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.1.1078.1078.50/7e9b0fdbly8i6htb2zwpaj20ty0u0400.jpg?KID=imgbed,tva&Expires=1762230971&ssig=s9lKFRsSSG) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">李开心的嘛嘛</span><img src=\"http://wx2.sinaimg.cn/middle/7e9b0fdbgy1i6zvn7z8zaj20qn0phadh.jpg\" data-width=917 data-height=959></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5229183275893822&multi_paragraph=4&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.996.996.50/007azaNoly8g6e7e7wa18j30ro0rodi5.jpg?KID=imgbed,tva&Expires=1762230971&ssig=pzq9wechZ7) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">股市财宝宝</span><img src=\"http://wx4.sinaimg.cn/middle/007azaNoly1i6zwic4mtpj30u01hc0u4.jpg\" data-width=1920 data-height=1080></div></media-block><br>### 📌 五、勃肯鞋选购建议  <br>| **鞋款类型**   | 适用场景          | 注意事项                  |  <br>|----------------|-------------------|--------------------------|  <br>| **包头款**      | 秋冬通勤          | 选全包跟防打滑       |  <br>| **凉拖/人字拖** | 夏季休闲          | 避剧烈运动，防护性弱 |  <br>| **加绒款**      | 严寒天气          | 选厚底防冻脚    |  <br>| **麂皮款**      | 日常舒适穿搭      | 需定期护理防污       |<br><br>```wbCustomBlock{\"type\": \"quoted\", \"index\": 36, \"data\": {\"num\": [4, 5, 13], \"version\": 2, \"quote_list\": [{\"name\": \"小咪得所愿\", \"scheme\": \"sinaweibo://detail?mblogid=5229190095831980\", \"index\": 4, \"label\": \"\"}, {\"name\": \"雨之柠\", \"scheme\": \"sinaweibo://detail?mblogid=5229187266773604\", \"index\": 5, \"label\": \"\"}, {\"name\": \"啾咪一栀穗\", \"scheme\": \"sinaweibo://detail?mblogid=5229185788282090\", \"index\": 13, \"label\": \"\"}]}}```  <br><br>> 提示：勃肯鞋需预留磨合期，建议实体店试穿确认尺码与脚感。```wbCustomBlock{\"type\": \"quoted\", \"index\": 37, \"data\": {\"num\": [10, 24], \"version\": 2, \"quote_list\": [{\"name\": \"欢乐选手\", \"scheme\": \"sinaweibo://detail?mblogid=5229175491527778\", \"index\": 10, \"label\": \"大v\"}, {\"name\": \"娱圈乐姐\", \"scheme\": \"sinaweibo://detail?mblogid=5229192657504252\", \"index\": 24, \"label\": \"\"}], \"name\": \"欢乐选手\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/005PdIpGly8i29io43hq5j30u00u0q45.jpg?KID=imgbed,tva&Expires=1762230971&ssig=k5%2FbVAZAry\", \"scheme\": \"sinaweibo://detail?mblogid=5229175491527778\", \"vType\": 0}}```<br>### 💎 结语  <br>该事件既反映消费者对\"舒适主义穿搭\"的追求，也揭示个性化消费背后的心理需求——有人重实用，有人重审美，而社会对多元选择的包容（如评论中\"不随意评判他人爱好\"）更显珍贵。勃肯鞋的走红本质是消费市场从\"为颜值买单\"转向\"为体验付费\"的缩影。```wbCustomBlock{\"type\": \"quoted\", \"index\": 39, \"data\": {\"num\": [16, 28], \"version\": 2, \"quote_list\": [{\"name\": \"紫轩冰凌_\", \"scheme\": \"sinaweibo://detail?mblogid=5229177931564896\", \"index\": 16, \"label\": \"\"}, {\"name\": \"优优的狮子妈咪\", \"scheme\": \"sinaweibo://detail?mblogid=5229188456123924\", \"index\": 28, \"label\": \"\"}]}}```<br>",
+      "uid": "",
+      "basemodel": "实验组10",
+      "news_analyze": {},
+      "reliable_tips": "{\"gold_orange_v_mids\": [\"5229183869649405\", \"5229192742438591\", \"5229176185685156\", \"5229177528649704\", \"5229182007119886\", \"5229184299305869\", \"5229182209491916\", \"5229175491527778\", \"5229192657504252\", \"5229190095831980\", \"5229187266773604\", \"5229185788282090\", \"5229178195542634\", \"5229184609157455\", \"5229183275893822\", \"5229175687350404\", \"5229177931564896\", \"5229188456123924\", \"5229172613187868\", \"5229183698996881\", \"5229185444350143\", \"5229182647013032\", \"5229192737718574\", \"5229192543472977\"], \"gold_orange_v_ratio\": \"86%\", \"media_mids\": [\"5228909048368334\"], \"media_ratio\": \"4%\", \"verified_mids\": [\"5229192494711646\", \"5229177562990287\"], \"verified_ratio\": \"7%\", \"normal_mids\": [\"5229180771893845\"], \"normal_ratio\": \"3%\", \"ref_mid_rank\": {\"5228909048368334\": {\"rank\": 1}, \"5229183869649405\": {\"rank\": 20}, \"5229192742438591\": {\"rank\": 22}, \"5229176185685156\": {\"rank\": 8}, \"5229177528649704\": {\"rank\": 14}, \"5229182007119886\": {\"rank\": 2}, \"5229184299305869\": {\"rank\": 12}, \"5229192494711646\": {\"rank\": 26}, \"5229182209491916\": {\"rank\": 7}, \"5229175491527778\": {\"rank\": 10}, \"5229192657504252\": {\"rank\": 24}, \"5229190095831980\": {\"rank\": 4}, \"5229187266773604\": {\"rank\": 5}, \"5229185788282090\": {\"rank\": 13}, \"5229178195542634\": {\"rank\": 11}, \"5229184609157455\": {\"rank\": 9}, \"5229183275893822\": {\"rank\": 6}, \"5229175687350404\": {\"rank\": 18}, \"5229177931564896\": {\"rank\": 16}, \"5229188456123924\": {\"rank\": 28}, \"5229172613187868\": {\"rank\": 17}, \"5229183698996881\": {\"rank\": 3}, \"5229185444350143\": {\"rank\": 15}, \"5229182647013032\": {\"rank\": 19}, \"5229177562990287\": {\"rank\": 21}, \"5229192737718574\": {\"rank\": 23}, \"5229192543472977\": {\"rank\": 25}, \"5229180771893845\": {\"rank\": 27}}}",
+      "link_list": [
+        "sinaweibo://detail?mblogid=5228909048368334",
+        "sinaweibo://detail?mblogid=5229182007119886",
+        "sinaweibo://detail?mblogid=5229183698996881",
+        "sinaweibo://detail?mblogid=5229190095831980",
+        "sinaweibo://detail?mblogid=5229187266773604",
+        "sinaweibo://detail?mblogid=5229183275893822",
+        "sinaweibo://detail?mblogid=5229182209491916",
+        "sinaweibo://detail?mblogid=5229176185685156",
+        "sinaweibo://detail?mblogid=5229184609157455",
+        "sinaweibo://detail?mblogid=5229175491527778",
+        "sinaweibo://detail?mblogid=5229178195542634",
+        "sinaweibo://detail?mblogid=5229184299305869",
+        "sinaweibo://detail?mblogid=5229185788282090",
+        "sinaweibo://detail?mblogid=5229177528649704",
+        "sinaweibo://detail?mblogid=5229185444350143",
+        "sinaweibo://detail?mblogid=5229177931564896",
+        "sinaweibo://detail?mblogid=5229172613187868",
+        "sinaweibo://detail?mblogid=5229175687350404",
+        "sinaweibo://detail?mblogid=5229182647013032",
+        "sinaweibo://detail?mblogid=5229183869649405",
+        "sinaweibo://detail?mblogid=5229177562990287",
+        "sinaweibo://detail?mblogid=5229192742438591",
+        "sinaweibo://detail?mblogid=5229192737718574",
+        "sinaweibo://detail?mblogid=5229192657504252",
+        "sinaweibo://detail?mblogid=5229192543472977",
+        "sinaweibo://detail?mblogid=5229192494711646",
+        "sinaweibo://detail?mblogid=5229180771893845",
+        "sinaweibo://detail?mblogid=5229188456123924"
+      ],
+      "version": "2025-11-04 09:36:11.019000-9198",
+      "chat_status_stage": 1,
+      "current_time": 1762220775,
+      "user_info": {},
+      "share_info": {
+        "page_id": "23296474274acad1b312aecbac4436999ad1dd",
+        "status": 3,
+        "tips": "#男子晒媳妇买了15双一样的勃肯鞋#的相关内容，来智搜看看",
+        "display_name": "#男子晒媳妇买了15双一样的勃肯鞋#",
+        "comment_content": "",
+        "unify_md5": "0c39e90a5dc6abfabff7311946d7811d",
+        "url": "http://t.cn/AXA0YKdR"
+      },
+      "profile_image_url": "",
+      "comment_info": {},
+      "ab_suffix": "default",
+      "analysis_time": 1762220421
+    }
+  },
+  "links": [
+    "sinaweibo://detail?mblogid=5228909048368334",
+    "sinaweibo://detail?mblogid=5229182007119886",
+    "sinaweibo://detail?mblogid=5229183698996881",
+    "sinaweibo://detail?mblogid=5229190095831980",
+    "sinaweibo://detail?mblogid=5229187266773604",
+    "sinaweibo://detail?mblogid=5229183275893822",
+    "sinaweibo://detail?mblogid=5229182209491916",
+    "sinaweibo://detail?mblogid=5229176185685156",
+    "sinaweibo://detail?mblogid=5229184609157455",
+    "sinaweibo://detail?mblogid=5229175491527778",
+    "sinaweibo://detail?mblogid=5229178195542634",
+    "sinaweibo://detail?mblogid=5229184299305869",
+    "sinaweibo://detail?mblogid=5229185788282090",
+    "sinaweibo://detail?mblogid=5229177528649704",
+    "sinaweibo://detail?mblogid=5229185444350143",
+    "sinaweibo://detail?mblogid=5229177931564896",
+    "sinaweibo://detail?mblogid=5229172613187868",
+    "sinaweibo://detail?mblogid=5229175687350404",
+    "sinaweibo://detail?mblogid=5229182647013032",
+    "sinaweibo://detail?mblogid=5229183869649405",
+    "sinaweibo://detail?mblogid=5229177562990287",
+    "sinaweibo://detail?mblogid=5229192742438591",
+    "sinaweibo://detail?mblogid=5229192737718574",
+    "sinaweibo://detail?mblogid=5229192657504252",
+    "sinaweibo://detail?mblogid=5229192543472977",
+    "sinaweibo://detail?mblogid=5229192494711646",
+    "sinaweibo://detail?mblogid=5229180771893845",
+    "sinaweibo://detail?mblogid=5229188456123924"
+  ],
+  "media": [
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/612e48ffly1i6z10o81rvj20u01hcn05.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/612e48ffly1i6z10o81rvj20u01hcn05.jpg",
+      "alt": "都市频道",
+      "width": 1920,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/612e48ffly1i6z10o81rvj20u01hcn05.jpg"
+      ],
+      "user": "都市频道"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/9f4a3699ly1i6zwhiv1ckj20u01hc0v1.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/9f4a3699ly1i6zwhiv1ckj20u01hc0v1.jpg",
+      "alt": "哈哈和麻麻",
+      "width": 1920,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/9f4a3699ly1i6zwhiv1ckj20u01hc0v1.jpg"
+      ],
+      "user": "哈哈和麻麻"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/0085JPS3gy1i6zwy905tfj30mh0u0tc2.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/0085JPS3gy1i6zwy905tfj30mh0u0tc2.jpg",
+      "alt": "雨之柠",
+      "width": 1080,
+      "height": 809,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/0085JPS3gy1i6zwy905tfj30mh0u0tc2.jpg"
+      ],
+      "user": "雨之柠"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/7e9b0fdbgy1i6zvn7z8zaj20qn0phadh.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/7e9b0fdbgy1i6zvn7z8zaj20qn0phadh.jpg",
+      "alt": "李开心的嘛嘛",
+      "width": 917,
+      "height": 959,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/7e9b0fdbgy1i6zvn7z8zaj20qn0phadh.jpg"
+      ],
+      "user": "李开心的嘛嘛"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/007azaNoly1i6zwic4mtpj30u01hc0u4.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/007azaNoly1i6zwic4mtpj30u01hc0u4.jpg",
+      "alt": "股市财宝宝",
+      "width": 1920,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/007azaNoly1i6zwic4mtpj30u01hc0u4.jpg"
+      ],
+      "user": "股市财宝宝"
+    }
+  ],
+  "html_path": "data/aicard/hourly/2025-11-04/09/15.html"
+}

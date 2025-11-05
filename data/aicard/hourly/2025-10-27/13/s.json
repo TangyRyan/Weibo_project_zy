@@ -1,0 +1,315 @@
+{
+  "meta": {
+    "query": "#小S说谁那么会生啦#",
+    "status_code": 200,
+    "fetched_at": "2025-10-28T17:55:37+08:00",
+    "response": {
+      "mid_list": null,
+      "reference_num": 30,
+      "query_category": "",
+      "status_stage": 4,
+      "link_list": [
+        "sinaweibo://detail?mblogid=5226345822950159",
+        "sinaweibo://detail?mblogid=5226348211603958",
+        "sinaweibo://detail?mblogid=5226339583394420",
+        "sinaweibo://detail?mblogid=5226345034682945",
+        "sinaweibo://detail?mblogid=5226382280100136",
+        "sinaweibo://detail?mblogid=5226332012938380",
+        "sinaweibo://detail?mblogid=5226330569573967",
+        "sinaweibo://detail?mblogid=5226407736903968",
+        "sinaweibo://detail?mblogid=5226328582520986",
+        "sinaweibo://detail?mblogid=5226320184479055",
+        "sinaweibo://detail?mblogid=5226350874200492",
+        "sinaweibo://detail?mblogid=5226329834524555",
+        "sinaweibo://detail?mblogid=5226322026564914",
+        "sinaweibo://detail?mblogid=5226351108034343",
+        "sinaweibo://detail?mblogid=5226356839024804",
+        "historyweibo://5226345822950159",
+        "historyweibo://5225571972026034",
+        "historyweibo://5225333953660709",
+        "sinaweibo://detail?mblogid=5226282658562331",
+        "sinaweibo://detail?mblogid=5226340598943038",
+        "sinaweibo://detail?mblogid=5226373675223875",
+        "sinaweibo://detail?mblogid=5226325558428835",
+        "sinaweibo://detail?mblogid=5226346594699575",
+        "sinaweibo://detail?mblogid=5226347960209866",
+        "sinaweibo://detail?mblogid=5226413297765131",
+        "sinaweibo://detail?mblogid=5226321711205852",
+        "sinaweibo://detail?mblogid=5226364173026250",
+        "sinaweibo://detail?mblogid=5226347103783444",
+        "sinaweibo://detail?mblogid=5226347936874961",
+        "sinaweibo://detail?mblogid=5226324346016671",
+        "sinaweibo://detail?mblogid=5226328967348711",
+        "sinaweibo://detail?mblogid=5226356277511287",
+        "sinaweibo://detail?mblogid=5226359942285787"
+      ],
+      "uid": "",
+      "top_quote_list": {},
+      "short_url": "http://t.cn/AXwgqYG1",
+      "card_multimodal": {
+        "type": "mediablock",
+        "data": [
+          {
+            "hit_score_final": 80,
+            "h": 607,
+            "img_pid": "cf964b2agy1i6qv78tx65j20u00gvwfa",
+            "img": "http://wx2.sinaimg.cn/middle/cf964b2agy1i6qv78tx65j20u00gvwfa.jpg",
+            "doc_score": 3757,
+            "scheme": "sinaweibo://multimedia?mix_mid=5226350874200492&mix_index=0&multi_paragraph=1&multi_count=0",
+            "vtype": 0,
+            "user_name": "桐城小北",
+            "w": 1080,
+            "user_avatar": "https://tva3.sinaimg.cn/crop.13.14.300.300.50/cf964b2agw1eanxuytj8bj20dw0a6myb.jpg?KID=imgbed,tva&Expires=1761647981&ssig=ypROzSysQ2",
+            "cur_mid": "5226350874200492",
+            "video_url": "https://video.weibo.com/show?fid=1034:5226350546714627",
+            "type": "v",
+            "click_rate": 0,
+            "hit_score_new": 0
+          },
+          {
+            "hit_score_final": 76.728516,
+            "h": 594,
+            "img_pid": "0089WoeMly1i6quq3avyxj30k00gimy2",
+            "img": "http://wx2.sinaimg.cn/middle/0089WoeMly1i6quq3avyxj30k00gimy2.jpg",
+            "doc_score": 3498,
+            "scheme": "sinaweibo://multimedia?mix_mid=5226346594699575&mix_index=0&multi_paragraph=2&multi_count=0",
+            "vtype": 0,
+            "user_name": "南柯梦矣_",
+            "w": 720,
+            "user_avatar": "https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/0089WoeMly8i4b8xkauhbj30u00u0tdt.jpg?KID=imgbed,tva&Expires=1761647981&ssig=PMC%2FeNP1ZR",
+            "cur_mid": "5226346594699575",
+            "video_url": "https://video.weibo.com/show?fid=1034:5226346335633518",
+            "type": "v",
+            "click_rate": 0,
+            "hit_score_new": 77.880859
+          },
+          {
+            "hit_score_final": 84.862892,
+            "h": 1080,
+            "img_pid": "006wYvIHgy1i6qyt4bspkj31hc0u0tbd",
+            "img": "http://wx4.sinaimg.cn/middle/006wYvIHgy1i6qyt4bspkj31hc0u0tbd.jpg",
+            "doc_score": 4244,
+            "scheme": "sinaweibo://video/vvs?mid=5226382280100136&multi_paragraph=2&multi_count=1",
+            "vtype": 0,
+            "user_name": "灵儿乐厨",
+            "w": 1920,
+            "user_avatar": "https://tvax2.sinaimg.cn/crop.0.0.500.500.50/006wYvIHly8i4d7pds9zpj30dw0dwwfr.jpg?KID=imgbed,tva&Expires=1761647981&ssig=aWLgQl4C9o",
+            "cur_mid": "5226382280100136",
+            "video_url": "https://video.weibo.com/show?fid=1034:5226382037286918",
+            "type": "v",
+            "click_rate": 0,
+            "hit_score_new": 90.771484
+          },
+          {
+            "hit_score_final": 80,
+            "h": 607,
+            "img_pid": "cf964b2agy1i6qv78tx65j20u00gvwfa",
+            "img": "http://wx2.sinaimg.cn/middle/cf964b2agy1i6qv78tx65j20u00gvwfa.jpg",
+            "doc_score": 3757,
+            "scheme": "sinaweibo://multimedia?mix_mid=5226350874200492&mix_index=0&multi_paragraph=1&multi_count=0",
+            "vtype": 0,
+            "user_name": "桐城小北",
+            "w": 1080,
+            "user_avatar": "https://tva3.sinaimg.cn/crop.13.14.300.300.50/cf964b2agw1eanxuytj8bj20dw0a6myb.jpg?KID=imgbed,tva&Expires=1761647981&ssig=ypROzSysQ2",
+            "cur_mid": "5226350874200492",
+            "video_url": "https://video.weibo.com/show?fid=1034:5226350546714627",
+            "type": "v",
+            "click_rate": 0,
+            "hit_score_new": 0
+          }
+        ]
+      },
+      "share_card_multimodal": {
+        "hit_score_final": 80,
+        "h": 607,
+        "img_pid": "cf964b2agy1i6qv78tx65j20u00gvwfa",
+        "img": "http://wx2.sinaimg.cn/middle/cf964b2agy1i6qv78tx65j20u00gvwfa.jpg",
+        "doc_score": 3757,
+        "scheme": "sinaweibo://multimedia?mix_mid=5226350874200492&mix_index=0&multi_paragraph=1&multi_count=0",
+        "vtype": 0,
+        "user_name": "桐城小北",
+        "w": 1080,
+        "user_avatar": "https://tva3.sinaimg.cn/crop.13.14.300.300.50/cf964b2agw1eanxuytj8bj20dw0a6myb.jpg?KID=imgbed,tva&Expires=1761647981&ssig=ypROzSysQ2",
+        "cur_mid": "5226350874200492",
+        "video_url": "https://video.weibo.com/show?fid=1034:5226350546714627",
+        "type": "v",
+        "click_rate": 0,
+        "hit_score_new": 0
+      },
+      "model": "deepseek",
+      "basemodel": "实验组7",
+      "scheme": "sinaweibo://cardlist?containerid=100103type%3D225%26q%3D%23%E5%B0%8Fs%E8%AF%B4%E8%B0%81%E9%82%A3%E4%B9%88%E4%BC%9A%E7%94%9F%E5%95%A6%23%26t%3D&extparam=ai_model%3Ddeepseek%26ori_ai_title%3D%E5%8F%82%E8%80%83%E5%8D%9A%E6%96%87%26material_version%3D1761637181",
+      "chat_status_stage": 1,
+      "qs_status": 0,
+      "news_analyze": {},
+      "cot": 1,
+      "msg": "<think><br>嗯，用户想了解\"小s说谁那么会生啦\"这句话的来龙去脉。通过搜索结果看到这是2025年10月27日发生的事件，小S在大女儿许曦文的社交媒体动态下留言\"谁那么会生啦？哈哈哈，是你啦\"，用幽默方式同时夸赞女儿颜值和自己的基因优势。<br><br>用户可能既是想了解娱乐八卦，也可能对小S的家庭教育感兴趣。需要重点整理三个方面：事件背景、女儿们的具体情况，以及背后体现的育儿观念。从搜索结果看，这个话题还隐含着社会观念的变迁——小S曾因连生女儿遭受非议，如今却成为\"女儿教育成功\"的典范。<br><br>注意到搜索结果里有很多关于她三个女儿的细节：大女儿Elly（19岁）最近因露背装金发造型引发关注，被赞有\"明星气场\"；二女儿Lily（17岁）身高175cm以上，像模特，还举办过画展；小女儿古灵精怪，舞蹈拿过金牌。这些信息可以整合成人物档案式的介绍。<br><br>特别值得注意的是结果5和16提到小S的教育理念：她认为\"长得好是运气，练得好才是本事\"，曾透露女儿们为提升才艺付出过艰辛努力。这和她早年因路人批评大女儿外貌当场哽咽的经历形成对比，能体现她育儿观的成熟过程。<br><br>关于\"会生\"的幽默背后，结果13和21提到一个深刻变化：当年小S需要回怼\"生男生女看精子\"来保护女儿，现在却能用玩笑化解过往压力。这种转变本身就很值得展开说明。<br><br>在整理回复时，考虑设计四个模块：核心事件用场景化描述还原，女儿们的情况用分类说明，教育理念单独强调，最后补充公众反应和林志玲的关联花絮。对争议点如\"过度消耗孩子\"的担忧也需提及，保持客观性。所有信息会标注引用编号，但避免在行文里出现\"根据搜索结果\"这类生硬表达。<br><br></think><br>关于小S（徐熙娣）“谁那么会生啦”的言论背景及核心信息，结合搜索结果整理如下：<br>### 🎯 事件起因  <br>2025年10月27日，小S在大女儿许曦文（Elly）的社交媒体动态下留言调侃：**“谁那么会生啦？哈哈哈，是你啦！”**  <br>这句话既夸赞女儿遗传了自己的高颜值，又以幽默口吻自夸“会生”的基因优势，相关话题迅速登上热搜。```wbCustomBlock{\"type\": \"quoted\", \"index\": 3, \"data\": {\"num\": [1, 11, 19], \"version\": 2, \"quote_list\": [{\"name\": \"娱乐扒皮\", \"scheme\": \"sinaweibo://detail?mblogid=5226345822950159\", \"index\": 1, \"label\": \"大v\"}, {\"name\": \"桐城小北\", \"scheme\": \"sinaweibo://detail?mblogid=5226350874200492\", \"index\": 11, \"label\": \"\"}, {\"name\": \"李屋屋啊\", \"scheme\": \"sinaweibo://detail?mblogid=5226282658562331\", \"index\": 19, \"label\": \"\"}], \"name\": \"娱乐扒皮\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.315.315.50/8dc6020fly8h8v46jpa8cj208r08rjrg.jpg?KID=imgbed,tva&Expires=1761647981&ssig=H26dya9xcl\", \"scheme\": \"sinaweibo://detail?mblogid=5226345822950159\", \"vType\": 0}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://multimedia?mix_mid=5226350874200492&mix_index=0&multi_paragraph=1&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tva3.sinaimg.cn/crop.13.14.300.300.50/cf964b2agw1eanxuytj8bj20dw0a6myb.jpg?KID=imgbed,tva&Expires=1761647981&ssig=ypROzSysQ2) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">桐城小北</span><img src=\"http://wx2.sinaimg.cn/middle/cf964b2agy1i6qv78tx65j20u00gvwfa.jpg\" data-width=607 data-height=1080></div></media-block><br>### 👧 核心焦点：三个女儿的成长与特质  <br>1. **大女儿许曦文（Elly，19岁）**  <br>   - **外貌气质**：近期晒出露背装金发造型，被赞“明星气场十足”，网友称其兼具“高级脸”和“酷飒感”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 7, \"data\": {\"num\": [1, 11, 23], \"version\": 2, \"quote_list\": [{\"name\": \"娱乐扒皮\", \"scheme\": \"sinaweibo://detail?mblogid=5226345822950159\", \"index\": 1, \"label\": \"\"}, {\"name\": \"桐城小北\", \"scheme\": \"sinaweibo://detail?mblogid=5226350874200492\", \"index\": 11, \"label\": \"\"}, {\"name\": \"南柯梦矣_\", \"scheme\": \"sinaweibo://detail?mblogid=5226346594699575\", \"index\": 23, \"label\": \"\"}]}}```  <br>   - **多才多艺**：兼顾名校学业与跨界演戏，被业内评价“天生明星潜力”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 8, \"data\": {\"num\": [5], \"version\": 2, \"quote_list\": [{\"name\": \"灵儿乐厨\", \"scheme\": \"sinaweibo://detail?mblogid=5226382280100136\", \"index\": 5, \"label\": \"\"}]}}```  <br><br>2. **二女儿许韶恩（Lily，17岁）**  <br>   - **身高优势**：身高超175cm，已达专业模特门槛，常被称“小林志玲”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 10, \"data\": {\"num\": [6, 11], \"version\": 2, \"quote_list\": [{\"name\": \"大玉米宝\", \"scheme\": \"sinaweibo://detail?mblogid=5226332012938380\", \"index\": 6, \"label\": \"\"}, {\"name\": \"桐城小北\", \"scheme\": \"sinaweibo://detail?mblogid=5226350874200492\", \"index\": 11, \"label\": \"\"}]}}```  <br>   - **才华展现**：15岁起多次亮相时装秀，台步稳健；举办个人画展作品售罄九成，收入达百万级别。```wbCustomBlock{\"type\": \"quoted\", \"index\": 11, \"data\": {\"num\": [5, 31], \"version\": 2, \"quote_list\": [{\"name\": \"灵儿乐厨\", \"scheme\": \"sinaweibo://detail?mblogid=5226382280100136\", \"index\": 5, \"label\": \"\"}, {\"name\": \"夏天不怕热hot\", \"scheme\": \"sinaweibo://detail?mblogid=5226328967348711\", \"index\": 31, \"label\": \"\"}]}}```  <br><br>3. **小女儿许曦恩（许老三）**  <br>   - **性格与蜕变**：以古灵精怪性格著称，近年舞蹈比赛屡获金牌，日渐显露甜美少女气质。```wbCustomBlock{\"type\": \"quoted\", \"index\": 13, \"data\": {\"num\": [5, 22, 31], \"version\": 2, \"quote_list\": [{\"name\": \"灵儿乐厨\", \"scheme\": \"sinaweibo://detail?mblogid=5226382280100136\", \"index\": 5, \"label\": \"\"}, {\"name\": \"幸运KIWI花花\", \"scheme\": \"sinaweibo://detail?mblogid=5226325558428835\", \"index\": 22, \"label\": \"\"}, {\"name\": \"夏天不怕热hot\", \"scheme\": \"sinaweibo://detail?mblogid=5226328967348711\", \"index\": 31, \"label\": \"\"}]}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://multimedia?mix_mid=5226346594699575&mix_index=0&multi_paragraph=2&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/0089WoeMly8i4b8xkauhbj30u00u0tdt.jpg?KID=imgbed,tva&Expires=1761647981&ssig=PMC%2FeNP1ZR) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">南柯梦矣_</span><img src=\"http://wx2.sinaimg.cn/middle/0089WoeMly1i6quq3avyxj30k00gimy2.jpg\" data-width=594 data-height=720></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5226382280100136&multi_paragraph=2&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.500.500.50/006wYvIHly8i4d7pds9zpj30dw0dwwfr.jpg?KID=imgbed,tva&Expires=1761647981&ssig=aWLgQl4C9o) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">灵儿乐厨</span><img src=\"http://wx4.sinaimg.cn/middle/006wYvIHgy1i6qyt4bspkj31hc0u0tbd.jpg\" data-width=1080 data-height=1920></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5226332012938380&multi_paragraph=2&multi_count=2\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/450bb15fly8i3p1gww9vfj20u00u0tbg.jpg?KID=imgbed,tva&Expires=1761647981&ssig=PaPUtYxIk%2B) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">大玉米宝</span><img src=\"http://wx4.sinaimg.cn/middle/450bb15fly1i6qsybhlrvj20u012w40s.jpg\" data-width=1400 data-height=1080></div></media-block><br>### 💬 小S的育儿观与公众反应  <br>- **幽默背后的深意**：  <br>  小S用“自夸式互动”化解早年因连生女儿遭受的舆论压力（如被嘲讽“生不出儿子”）。她曾因路人批评大女儿外貌当场哽咽，强调“每个孩子在妈妈心中同样珍贵”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 16, \"data\": {\"num\": [5, 13, 22], \"version\": 2, \"quote_list\": [{\"name\": \"才思思慢吞吞\", \"scheme\": \"sinaweibo://detail?mblogid=5226322026564914\", \"index\": 13, \"label\": \"大v\"}, {\"name\": \"灵儿乐厨\", \"scheme\": \"sinaweibo://detail?mblogid=5226382280100136\", \"index\": 5, \"label\": \"\"}, {\"name\": \"幸运KIWI花花\", \"scheme\": \"sinaweibo://detail?mblogid=5226325558428835\", \"index\": 22, \"label\": \"\"}], \"name\": \"才思思慢吞吞\", \"img\": \"https://tva3.sinaimg.cn/crop.0.0.1080.1080.50/ab56091ajw8eum328dwzpj20u00u041t.jpg?KID=imgbed,tva&Expires=1761647981&ssig=QycAJiIUUI\", \"scheme\": \"sinaweibo://detail?mblogid=5226322026564914\", \"vType\": 0}}```  <br>- **教育理念**：  <br>  主张“基因是运气，努力才是本事”，透露女儿们为提升才艺付出艰辛（如Lily练站姿致脚肿、Elly兼顾学业与事业）。```wbCustomBlock{\"type\": \"quoted\", \"index\": 17, \"data\": {\"num\": [5, 31], \"version\": 2, \"quote_list\": [{\"name\": \"灵儿乐厨\", \"scheme\": \"sinaweibo://detail?mblogid=5226382280100136\", \"index\": 5, \"label\": \"\"}, {\"name\": \"夏天不怕热hot\", \"scheme\": \"sinaweibo://detail?mblogid=5226328967348711\", \"index\": 31, \"label\": \"\"}]}}```  <br>- **公众共鸣**：  <br>  网友认可三姐妹“美得各具特色”，赞叹小S将“质疑转化为底气”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 18, \"data\": {\"num\": [2, 3, 20, 23], \"version\": 2, \"quote_list\": [{\"name\": \"我叫善妍啊\", \"scheme\": \"sinaweibo://detail?mblogid=5226348211603958\", \"index\": 2, \"label\": \"大v\"}, {\"name\": \"甜芷龍的锁骨\", \"scheme\": \"sinaweibo://detail?mblogid=5226339583394420\", \"index\": 3, \"label\": \"\"}, {\"name\": \"孤独白猫lucky\", \"scheme\": \"sinaweibo://detail?mblogid=5226340598943038\", \"index\": 20, \"label\": \"\"}, {\"name\": \"南柯梦矣_\", \"scheme\": \"sinaweibo://detail?mblogid=5226346594699575\", \"index\": 23, \"label\": \"\"}], \"name\": \"我叫善妍啊\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.1.1179.1179.50/005BHmQ1ly8i2cfj1r98ij30u00u0q4s.jpg?KID=imgbed,tva&Expires=1761647981&ssig=htH4IiOuTp\", \"scheme\": \"sinaweibo://detail?mblogid=5226348211603958\", \"vType\": 0}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5226322026564914&multi_paragraph=3&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tva3.sinaimg.cn/crop.0.0.1080.1080.50/ab56091ajw8eum328dwzpj20u00u041t.jpg?KID=imgbed,tva&Expires=1761647981&ssig=QycAJiIUUI) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">才思思慢吞吞</span><img src=\"http://wx4.sinaimg.cn/middle/ab56091agy1i6qrvykfnmj20k00qpwiw.jpg\" data-width=961 data-height=720></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5226348211603958&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=3&multi_count=1\"><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.1.1179.1179.50/005BHmQ1ly8i2cfj1r98ij30u00u0q4s.jpg?KID=imgbed,tva&Expires=1761647981&ssig=htH4IiOuTp) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">我叫善妍啊</span><img src=\"http://wx4.sinaimg.cn/middle/006bb5Hagy1i6quwdccwxj32dc35s4qp.jpg\" data-width=4096 data-height=3072></div><div data-type=\"v\" data-scheme=\"sinaweibo://multimedia?mix_mid=5226339583394420&mix_index=0&multi_paragraph=3&multi_count=2\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.635.635.50/7840bc09ly8i54bh6guzhj20hn0hnjsh.jpg?KID=imgbed,tva&Expires=1761647981&ssig=iWNvJKI2IN) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">甜芷龍的锁骨</span><img src=\"http://wx3.sinaimg.cn/middle/7840bc09ly1i6qsf7oq30j20k00zk75j.jpg\" data-width=1280 data-height=720></div></media-block><br>### 🌟 延伸话题：与林志玲的趣味关联  <br>二女儿Lily因外貌多次被称“小林志玲”，小S幽默抗议：“干嘛说我生了一个林志玲？”。此举延续了她与林志玲近20年的“相爱相杀”人设，也隐含着对女儿独特性的保护。```wbCustomBlock{\"type\": \"quoted\", \"index\": 20, \"data\": {\"num\": [6, 11], \"version\": 2, \"quote_list\": [{\"name\": \"大玉米宝\", \"scheme\": \"sinaweibo://detail?mblogid=5226332012938380\", \"index\": 6, \"label\": \"\"}, {\"name\": \"桐城小北\", \"scheme\": \"sinaweibo://detail?mblogid=5226350874200492\", \"index\": 11, \"label\": \"\"}]}}```<br>### 💎 总结  <br>小S的“谁那么会生啦”既是母亲对子女成长的骄傲宣言，也是其用幽默化解压力的标志性表达。三女儿从“颜值普通”到“全员逆袭”的蜕变，印证了基因优势与家庭教育的双重成功，更成为公众眼中亲子关系的生动范本。```wbCustomBlock{\"type\": \"quoted\", \"index\": 22, \"data\": {\"num\": [5, 20, 23], \"version\": 2, \"quote_list\": [{\"name\": \"灵儿乐厨\", \"scheme\": \"sinaweibo://detail?mblogid=5226382280100136\", \"index\": 5, \"label\": \"\"}, {\"name\": \"孤独白猫lucky\", \"scheme\": \"sinaweibo://detail?mblogid=5226340598943038\", \"index\": 20, \"label\": \"\"}, {\"name\": \"南柯梦矣_\", \"scheme\": \"sinaweibo://detail?mblogid=5226346594699575\", \"index\": 23, \"label\": \"\"}]}}```<br>",
+      "page_id": "232964d057b5dc3c7ae2bb89130534eaebfabc",
+      "current_time": 1761645337,
+      "profile_image_url": "",
+      "user_info": {},
+      "share_text": "#小S说谁那么会生啦#的相关内容，来智搜看看",
+      "wenda": {
+        "forward_gen": 0
+      },
+      "sorted_material_list": null,
+      "status": 2,
+      "ab_suffix": "default",
+      "zs_risk_control": {
+        "land_button_close": 0,
+        "think_text_close": 0
+      },
+      "q_attr": {
+        "from_uid": "",
+        "from_request_id": ""
+      },
+      "show_ctrl": {
+        "quote": {}
+      },
+      "query": "#小S说谁那么会生啦#",
+      "analysis_time": 1761637239,
+      "qs_status_info": "{\"qs_u_status\":0,\"qs_status\":0,\"ab_lab\":{},\"qs_q_status\":0,\"qs_c_status\":8388608,\"qs_r_status\":0}",
+      "unify_md5": "fb8314794840ee620b36a408f1028ab2",
+      "loop_times": 200,
+      "share_info": {
+        "tips": "#小S说谁那么会生啦#的相关内容，来智搜看看",
+        "page_id": "232964d057b5dc3c7ae2bb89130534eaebfabc",
+        "unify_md5": "fb8314794840ee620b36a408f1028ab2",
+        "status": 3,
+        "url": "http://t.cn/AXwg0F0d",
+        "display_name": "#小S说谁那么会生啦#"
+      },
+      "msg_json": "{}",
+      "abtest_info": {
+        "chat_entrance": 1
+      },
+      "reliable_tips": "{\"gold_orange_v_mids\": [\"5226345822950159\", \"5226350874200492\", \"5226282658562331\", \"5226346594699575\", \"5226382280100136\", \"5226332012938380\", \"5226328967348711\", \"5226325558428835\", \"5226322026564914\", \"5226348211603958\", \"5226339583394420\", \"5226340598943038\", \"5226345034682945\", \"5226330569573967\", \"5226407736903968\", \"5226328582520986\", \"5226320184479055\", \"5226329834524555\", \"5226351108034343\", \"5226356839024804\", \"5226373675223875\", \"5226347960209866\", \"5226413297765131\", \"5226321711205852\", \"5226347103783444\", \"5226347936874961\", \"5226324346016671\", \"5226356277511287\"], \"gold_orange_v_ratio\": \"93%\", \"media_mids\": [], \"media_ratio\": \"0%\", \"verified_mids\": [], \"verified_ratio\": \"0%\", \"normal_mids\": [\"5226364173026250\", \"5226359942285787\"], \"normal_ratio\": \"7%\"}",
+      "msg_format": "markdown",
+      "version": "2025-10-28 15:39:41.020999-6790",
+      "query_field": "1",
+      "ext_show": {}
+    }
+  },
+  "links": [
+    "sinaweibo://detail?mblogid=5226345822950159",
+    "sinaweibo://detail?mblogid=5226348211603958",
+    "sinaweibo://detail?mblogid=5226339583394420",
+    "sinaweibo://detail?mblogid=5226345034682945",
+    "sinaweibo://detail?mblogid=5226382280100136",
+    "sinaweibo://detail?mblogid=5226332012938380",
+    "sinaweibo://detail?mblogid=5226330569573967",
+    "sinaweibo://detail?mblogid=5226407736903968",
+    "sinaweibo://detail?mblogid=5226328582520986",
+    "sinaweibo://detail?mblogid=5226320184479055",
+    "sinaweibo://detail?mblogid=5226350874200492",
+    "sinaweibo://detail?mblogid=5226329834524555",
+    "sinaweibo://detail?mblogid=5226322026564914",
+    "sinaweibo://detail?mblogid=5226351108034343",
+    "sinaweibo://detail?mblogid=5226356839024804",
+    "historyweibo://5226345822950159",
+    "historyweibo://5225571972026034",
+    "historyweibo://5225333953660709",
+    "sinaweibo://detail?mblogid=5226282658562331",
+    "sinaweibo://detail?mblogid=5226340598943038",
+    "sinaweibo://detail?mblogid=5226373675223875",
+    "sinaweibo://detail?mblogid=5226325558428835",
+    "sinaweibo://detail?mblogid=5226346594699575",
+    "sinaweibo://detail?mblogid=5226347960209866",
+    "sinaweibo://detail?mblogid=5226413297765131",
+    "sinaweibo://detail?mblogid=5226321711205852",
+    "sinaweibo://detail?mblogid=5226364173026250",
+    "sinaweibo://detail?mblogid=5226347103783444",
+    "sinaweibo://detail?mblogid=5226347936874961",
+    "sinaweibo://detail?mblogid=5226324346016671",
+    "sinaweibo://detail?mblogid=5226328967348711",
+    "sinaweibo://detail?mblogid=5226356277511287",
+    "sinaweibo://detail?mblogid=5226359942285787"
+  ],
+  "media": [
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/cf964b2agy1i6qv78tx65j20u00gvwfa.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/cf964b2agy1i6qv78tx65j20u00gvwfa.jpg",
+      "alt": "桐城小北",
+      "width": 607,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/cf964b2agy1i6qv78tx65j20u00gvwfa.jpg"
+      ],
+      "user": "桐城小北"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/0089WoeMly1i6quq3avyxj30k00gimy2.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/0089WoeMly1i6quq3avyxj30k00gimy2.jpg",
+      "alt": "南柯梦矣_",
+      "width": 594,
+      "height": 720,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/0089WoeMly1i6quq3avyxj30k00gimy2.jpg"
+      ],
+      "user": "南柯梦矣_"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/006wYvIHgy1i6qyt4bspkj31hc0u0tbd.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/006wYvIHgy1i6qyt4bspkj31hc0u0tbd.jpg",
+      "alt": "灵儿乐厨",
+      "width": 1080,
+      "height": 1920,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/006wYvIHgy1i6qyt4bspkj31hc0u0tbd.jpg"
+      ],
+      "user": "灵儿乐厨"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/450bb15fly1i6qsybhlrvj20u012w40s.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/450bb15fly1i6qsybhlrvj20u012w40s.jpg",
+      "alt": "大玉米宝",
+      "width": 1400,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/450bb15fly1i6qsybhlrvj20u012w40s.jpg"
+      ],
+      "user": "大玉米宝"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/ab56091agy1i6qrvykfnmj20k00qpwiw.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/ab56091agy1i6qrvykfnmj20k00qpwiw.jpg",
+      "alt": "才思思慢吞吞",
+      "width": 961,
+      "height": 720,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/ab56091agy1i6qrvykfnmj20k00qpwiw.jpg"
+      ],
+      "user": "才思思慢吞吞"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/006bb5Hagy1i6quwdccwxj32dc35s4qp.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/006bb5Hagy1i6quwdccwxj32dc35s4qp.jpg",
+      "alt": "我叫善妍啊",
+      "width": 4096,
+      "height": 3072,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/006bb5Hagy1i6quwdccwxj32dc35s4qp.jpg"
+      ],
+      "user": "我叫善妍啊"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/7840bc09ly1i6qsf7oq30j20k00zk75j.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/7840bc09ly1i6qsf7oq30j20k00zk75j.jpg",
+      "alt": "甜芷龍的锁骨",
+      "width": 1280,
+      "height": 720,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/7840bc09ly1i6qsf7oq30j20k00zk75j.jpg"
+      ],
+      "user": "甜芷龍的锁骨"
+    }
+  ],
+  "html_path": "data/aicard/hourly/2025-10-27/13/s.html"
+}

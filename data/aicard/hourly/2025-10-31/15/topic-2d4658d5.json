@@ -1,0 +1,326 @@
+{
+  "meta": {
+    "query": "#尼格买提送外卖#",
+    "status_code": 200,
+    "fetched_at": "2025-10-31T22:33:25+08:00",
+    "response": {
+      "short_url": "http://t.cn/AXAbJuRc",
+      "uid": "",
+      "status": 2,
+      "wenda": {
+        "forward_gen": 0
+      },
+      "analysis_time": 1761907956,
+      "ext_show": {},
+      "scheme": "sinaweibo://cardlist?containerid=100103type%3D225%26q%3D%23%E5%B0%BC%E6%A0%BC%E4%B9%B0%E6%8F%90%E9%80%81%E5%A4%96%E5%8D%96%23%26t%3D&extparam=ai_model%3Ddeepseek%26ori_ai_title%3D%E5%8F%82%E8%80%83%E5%8D%9A%E6%96%87%26material_version%3D1761907809",
+      "query_field": "48",
+      "chat_status_stage": 1,
+      "current_time": 1761921205,
+      "user_info": {},
+      "news_analyze": {},
+      "query_category": "",
+      "status_stage": 4,
+      "sorted_material_list": null,
+      "version": "2025-10-31 18:50:09.029000-4091",
+      "card_multimodal": {
+        "type": "mediablock",
+        "data": [
+          {
+            "w": 1194,
+            "doc_score": 4372,
+            "hit_score_final": 83.414062,
+            "vtype": 3,
+            "click_rate": 0.11864406779661,
+            "type": "p",
+            "img": "http://wx4.sinaimg.cn/middle/008cYsXYly1i6vhz5yeh6j30x60wygqz.jpg",
+            "img_pid": "008cYsXYly1i6vhz5yeh6j30x60wygqz",
+            "cur_mid": "5227802855214133",
+            "scheme": "sinaweibo://multimedia?mix_mid=5227802855214133&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=0",
+            "user_name": "铁骥视频科技频道",
+            "h": 1186,
+            "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/008cYsXYly8h8vholtkl3j30u00u0wfo.jpg?KID=imgbed,tva&Expires=1761918609&ssig=sSBLadx69o",
+            "hit_score_new": 99.023438,
+            "video_url": ""
+          },
+          {
+            "w": 634,
+            "doc_score": 4455,
+            "hit_score_final": 83.414062,
+            "vtype": 3,
+            "click_rate": 0.094339622641509,
+            "type": "p",
+            "img": "http://wx3.sinaimg.cn/middle/62d1c61ely1i6vhu91vq3j20hm0pedvf.jpg",
+            "img_pid": "62d1c61ely1i6vhu91vq3j20hm0pedvf",
+            "cur_mid": "5227801685003832",
+            "scheme": "sinaweibo://multimedia?mix_mid=5227801685003832&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=1",
+            "user_name": "烟台日报社大小新闻",
+            "h": 914,
+            "user_avatar": "https://tvax1.sinaimg.cn/crop.0.0.499.499.50/62d1c61ely8h8vlmdmj8kj20dv0dvq2z.jpg?KID=imgbed,tva&Expires=1761918609&ssig=7Ipk36UiCn",
+            "hit_score_new": 99.023438,
+            "video_url": ""
+          },
+          {
+            "w": 650,
+            "doc_score": 4895,
+            "hit_score_final": 91.179688,
+            "vtype": 3,
+            "click_rate": 0.075657894736842,
+            "type": "p",
+            "img": "http://wx1.sinaimg.cn/middle/60df1500ly1i6vi8e0fymj20i20i0wo2.jpg",
+            "img_pid": "60df1500ly1i6vi8e0fymj20i20i0wo2",
+            "cur_mid": "5227805144255233",
+            "scheme": "sinaweibo://multimedia?mix_mid=5227805144255233&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=2",
+            "user_name": "鲁中晨报",
+            "h": 648,
+            "user_avatar": "https://tvax1.sinaimg.cn/crop.0.0.600.600.50/60df1500ly8hz2qvb9yo5j20go0go74o.jpg?KID=imgbed,tva&Expires=1761918609&ssig=zrhXS6y6vb",
+            "hit_score_new": 98.632812,
+            "video_url": ""
+          },
+          {
+            "w": 1194,
+            "doc_score": 4372,
+            "hit_score_final": 83.414062,
+            "vtype": 3,
+            "click_rate": 0.11864406779661,
+            "type": "p",
+            "img": "http://wx4.sinaimg.cn/middle/008cYsXYly1i6vhz5yeh6j30x60wygqz.jpg",
+            "img_pid": "008cYsXYly1i6vhz5yeh6j30x60wygqz",
+            "cur_mid": "5227802855214133",
+            "scheme": "sinaweibo://multimedia?mix_mid=5227802855214133&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=0",
+            "user_name": "铁骥视频科技频道",
+            "h": 1186,
+            "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/008cYsXYly8h8vholtkl3j30u00u0wfo.jpg?KID=imgbed,tva&Expires=1761918609&ssig=sSBLadx69o",
+            "hit_score_new": 99.023438,
+            "video_url": ""
+          }
+        ]
+      },
+      "comment_info": {},
+      "profile_image_url": "",
+      "loop_times": 200,
+      "model": "deepseek",
+      "unify_md5": "2d4658d5fdaafb98d1bcdf6139616a0c",
+      "cot": 1,
+      "share_text": "#尼格买提送外卖#的相关内容，来智搜看看",
+      "share_info": {
+        "url": "http://t.cn/AXA5lilb",
+        "comment_content": "",
+        "status": 3,
+        "unify_md5": "2d4658d5fdaafb98d1bcdf6139616a0c",
+        "tips": "#尼格买提送外卖#的相关内容，来智搜看看",
+        "page_id": "2329646407f1143c88812729ae6b99f85809bf",
+        "display_name": "#尼格买提送外卖#"
+      },
+      "qs_status": 0,
+      "basemodel": "实验组7",
+      "zs_risk_control": {
+        "think_text_close": 0,
+        "land_button_close": 0
+      },
+      "abtest_info": {
+        "chat_entrance": 1
+      },
+      "show_ctrl": {
+        "quote": {}
+      },
+      "msg": "<think><br><br>嗯，用户查询的是“尼格买提送外卖”，我需要从搜索结果中整理信息来回答。首先看一下搜索结果的具体内容。<br><br>在这些结果中，多个媒体账号如天猫、央视新闻、极目新闻都提到尼格买提在2025年10月底参与了淘宝闪购的双11活动，担任“买提大使”。这其实是利用他的名字谐音“立刻买提”来推广淘宝的即时配送服务。活动主题是#双11用淘宝闪购大牌立刻买提#，用户搜索这个关键词就能看到相关活动信息。<br><br>搜索结果中详细描述了活动内容：淘宝闪购接入40万家品牌门店，覆盖数码、美妆、家居等非餐饮品类，实现“外卖式”配送。用户不仅能在线上使用88VIP消费券，还能到店扫码赢红包。尼格买提在宣传视频中扮演外卖员，演示了扫地机器人、冬装等商品快速送达的场景，强调“即买即得”的便利性。这些信息在结果1、2、3、8、9中都有详细说明。<br><br>需要注意的是，有普通用户账号发布了偶遇尼格买提穿外卖服的照片或视频，但实际是宣传拍摄，并非真实转行送外卖。结果4提到魔术表演失误的插曲，但和主题无关。其他结果如12、13、16则从不同角度解读服务价值，比如解决应急需求、门店转型为前置仓等。<br><br>关于时效性，所有核心信息发布日期集中在2025年10月30日-31日，正好在用户查询的当天或前一天，说明这是双十一前夕的营销事件。媒体账号和大V账号的内容更具可信度，而普通用户的偶遇帖可作为趣味补充。<br><br>最后需要整合这些信息：活动本质是阿里借用名人效应推广淘宝闪购服务，谐音梗是创意核心，即时配送覆盖多品类是实质创新，而用户偶遇的“送外卖”是线下拍摄场景的误传。风险提示方面，需说明这不是职业转换，避免误解。<br><br></think><br>关于“尼格买提送外卖”的讨论，实为2025年双11期间央视主持人尼格买提为淘宝闪购活动策划的一场创意营销事件。以下是关键信息整理：<br>### 🔍 一、事件本质：双11营销活动<br>尼格买提以 **“双11买提大使”** 身份参与淘宝闪购的 **“万店同庆”** 活动，巧妙利用其名字谐音 **“立刻买提”**（寓意“即买即得”），通过体验外卖员的形式推广淘宝闪购服务。```wbCustomBlock{\"type\": \"quoted\", \"index\": 2, \"data\": {\"num\": [1, 2, 3, 8, 9], \"version\": 2, \"quote_list\": [{\"name\": \"极目新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5227794503568629\", \"index\": 2, \"label\": \"大v\"}, {\"name\": \"天猫\", \"scheme\": \"sinaweibo://detail?mblogid=5227753348793919\", \"index\": 1, \"label\": \"\"}, {\"name\": \"央视新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5227749207969067\", \"index\": 3, \"label\": \"\"}, {\"name\": \"烟台日报社大小新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5227801685003832\", \"index\": 8, \"label\": \"\"}, {\"name\": \"铁骥视频科技频道\", \"scheme\": \"sinaweibo://detail?mblogid=5227802855214133\", \"index\": 9, \"label\": \"\"}], \"name\": \"极目新闻\", \"img\": \"https://tvax4.sinaimg.cn/crop.111.343.857.857.50/001SsZ0Mly8h8vhiw5c7tj60u016w0us02.jpg?KID=imgbed,tva&Expires=1761918609&ssig=%2FmI6s9gbgt\", \"scheme\": \"sinaweibo://detail?mblogid=5227794503568629\", \"vType\": 3}}```  <br>- **活动核心**：将传统电商商品（如3C数码、美妆护肤、家居百货等）纳入“分钟级配送”网络，实现旗舰店正品像外卖一样快速送达。```wbCustomBlock{\"type\": \"quoted\", \"index\": 3, \"data\": {\"num\": [2, 8, 14], \"version\": 2, \"quote_list\": [{\"name\": \"烟台日报社大小新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5227801685003832\", \"index\": 8, \"label\": \"大v\"}, {\"name\": \"极目新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5227794503568629\", \"index\": 2, \"label\": \"\"}, {\"name\": \"鲁中晨报\", \"scheme\": \"sinaweibo://detail?mblogid=5227805144255233\", \"index\": 14, \"label\": \"\"}], \"name\": \"烟台日报社大小新闻\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.499.499.50/62d1c61ely8h8vlmdmj8kj20dv0dvq2z.jpg?KID=imgbed,tva&Expires=1761918609&ssig=7Ipk36UiCn\", \"scheme\": \"sinaweibo://detail?mblogid=5227801685003832\", \"vType\": 3}}```  <br>- **覆盖范围**：40万家品牌门店接入淘宝闪购，用户线上下单可享88VIP消费券，线下门店扫码赢4999元红包。```wbCustomBlock{\"type\": \"quoted\", \"index\": 4, \"data\": {\"num\": [1, 10, 15], \"version\": 2, \"quote_list\": [{\"name\": \"天猫\", \"scheme\": \"sinaweibo://detail?mblogid=5227753348793919\", \"index\": 1, \"label\": \"\"}, {\"name\": \"龙广官方微博\", \"scheme\": \"sinaweibo://detail?mblogid=5227807118464459\", \"index\": 10, \"label\": \"\"}, {\"name\": \"黑龙江卫视\", \"scheme\": \"sinaweibo://detail?mblogid=5227807015701022\", \"index\": 15, \"label\": \"\"}]}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5227802855214133&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/008cYsXYly8h8vholtkl3j30u00u0wfo.jpg?KID=imgbed,tva&Expires=1761918609&ssig=sSBLadx69o) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">铁骥视频科技频道</span><img src=\"http://wx4.sinaimg.cn/middle/008cYsXYly1i6vhz5yeh6j30x60wygqz.jpg\" data-width=1186 data-height=1194></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5227801685003832&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=1\"><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.499.499.50/62d1c61ely8h8vlmdmj8kj20dv0dvq2z.jpg?KID=imgbed,tva&Expires=1761918609&ssig=7Ipk36UiCn) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">烟台日报社大小新闻</span><img src=\"http://wx3.sinaimg.cn/middle/62d1c61ely1i6vhu91vq3j20hm0pedvf.jpg\" data-width=914 data-height=634></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5227805144255233&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=2\"><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.600.600.50/60df1500ly8hz2qvb9yo5j20go0go74o.jpg?KID=imgbed,tva&Expires=1761918609&ssig=zrhXS6y6vb) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">鲁中晨报</span><img src=\"http://wx1.sinaimg.cn/middle/60df1500ly1i6vi8e0fymj20i20i0wo2.jpg\" data-width=648 data-height=650></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5227794503568629&multi_paragraph=1&multi_count=3\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.111.343.857.857.50/001SsZ0Mly8h8vhiw5c7tj60u016w0us02.jpg?KID=imgbed,tva&Expires=1761918609&ssig=%2FmI6s9gbgt) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">极目新闻</span><img src=\"http://wx3.sinaimg.cn/middle/002TLsr9ly1i6v5tu30jij61hc0u0npd02.jpg\" data-width=1080 data-height=1920></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5227807118464459&multi_paragraph=1&multi_count=4\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.996.996.50/002enOQDly8h8vlya3d3ej60ro0ro75g02.jpg?KID=imgbed,tva&Expires=1761918609&ssig=sO1q5O93D5) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">龙广官方微博</span><img src=\"http://wx3.sinaimg.cn/middle/008swrohly1i6vhuzekdwj31401hdau4.jpg\" data-width=1921 data-height=1440></div></media-block><br>### 🚴 二、尼格买提的“外卖员”角色<br>在宣传视频中，尼格买提化身“立刻买提”外卖员，演示多场景即时配送服务：  <br>1. **解决“重物搬运”痛点**：为老人配送扫地机器人，避免手提重物；```wbCustomBlock{\"type\": \"quoted\", \"index\": 6, \"data\": {\"num\": [1, 3], \"version\": 2, \"quote_list\": [{\"name\": \"央视新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5227749207969067\", \"index\": 3, \"label\": \"大v\"}, {\"name\": \"天猫\", \"scheme\": \"sinaweibo://detail?mblogid=5227753348793919\", \"index\": 1, \"label\": \"\"}], \"name\": \"央视新闻\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.690.690.50/002TLsr9ly8i653ifvwbtj60j60j6aai02.jpg?KID=imgbed,tva&Expires=1761918609&ssig=Penn2rQukf\", \"scheme\": \"sinaweibo://detail?mblogid=5227749207969067\", \"vType\": 3}}```  <br>2. **应对“应急需求”**：如突然降温时快速送达冬装，或紧急会议前配送数据线；```wbCustomBlock{\"type\": \"quoted\", \"index\": 7, \"data\": {\"num\": [3, 12, 16], \"version\": 2, \"quote_list\": [{\"name\": \"央视新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5227749207969067\", \"index\": 3, \"label\": \"\"}, {\"name\": \"东北网\", \"scheme\": \"sinaweibo://detail?mblogid=5227806775580099\", \"index\": 12, \"label\": \"\"}, {\"name\": \"白鹿科技\", \"scheme\": \"sinaweibo://detail?mblogid=5227801819223108\", \"index\": 16, \"label\": \"\"}]}}```  <br>3. **覆盖全品类**：包括手机、美妆、母婴、户外用品等，强调“分分钟送到家”。  <br>视频结尾以“爆单了，我得赶紧出发”强化服务的高效性。```wbCustomBlock{\"type\": \"quoted\", \"index\": 8, \"data\": {\"num\": [1, 3, 11], \"version\": 2, \"quote_list\": [{\"name\": \"白鹿视频\", \"scheme\": \"sinaweibo://detail?mblogid=5227802437880843\", \"index\": 11, \"label\": \"大v\"}, {\"name\": \"天猫\", \"scheme\": \"sinaweibo://detail?mblogid=5227753348793919\", \"index\": 1, \"label\": \"\"}, {\"name\": \"央视新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5227749207969067\", \"index\": 3, \"label\": \"\"}], \"name\": \"白鹿视频\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.512.512.50/008gE3ssly8i02wouqxxvj30e80e8jrg.jpg?KID=imgbed,tva&Expires=1761918609&ssig=Q5IYrkdkqr\", \"scheme\": \"sinaweibo://detail?mblogid=5227802437880843\", \"vType\": 3}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5227801819223108&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=2&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.600.600.50/008thH9Mly8hp1qvcpl47j30go0gomxv.jpg?KID=imgbed,tva&Expires=1761918609&ssig=SYiTqegy8Y) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">白鹿科技</span><img src=\"http://wx2.sinaimg.cn/middle/008thH9Mgy1i6vhuvu1ioj30zo0zc4qp.jpg\" data-width=1272 data-height=1284></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5227806775580099&multi_paragraph=2&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.721.721.50/640c4ec2ly8h8vggw8bl7j20k10k13z3.jpg?KID=imgbed,tva&Expires=1761918609&ssig=7QxC1MCHyF) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">东北网</span><img src=\"http://wx4.sinaimg.cn/middle/008swrohly1i6vhshpdjgj30u01hctak.jpg\" data-width=1920 data-height=1080></div></media-block><br>### 🚀 三、活动背后的消费趋势<br>1. **打破“外卖=送餐”认知**：淘宝闪购将非餐饮品类纳入即时配送，重构“旗舰店”为“前置仓”，实现“身边门店发货，分钟级送达”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 10, \"data\": {\"num\": [8, 13, 14], \"version\": 2, \"quote_list\": [{\"name\": \"鲁中晨报\", \"scheme\": \"sinaweibo://detail?mblogid=5227805144255233\", \"index\": 14, \"label\": \"大v\"}, {\"name\": \"烟台日报社大小新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5227801685003832\", \"index\": 8, \"label\": \"\"}, {\"name\": \"铁骥视频\", \"scheme\": \"sinaweibo://detail?mblogid=5227802813271193\", \"index\": 13, \"label\": \"\"}], \"name\": \"鲁中晨报\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.600.600.50/60df1500ly8hz2qvb9yo5j20go0go74o.jpg?KID=imgbed,tva&Expires=1761918609&ssig=zrhXS6y6vb\", \"scheme\": \"sinaweibo://detail?mblogid=5227805144255233\", \"vType\": 3}}```  <br>2. **解决传统痛点**：  <br>   - **逛街重物**：家居清洁用品可线上下单，避免手提搬运；```wbCustomBlock{\"type\": \"quoted\", \"index\": 12, \"data\": {\"num\": [10, 15], \"version\": 2, \"quote_list\": [{\"name\": \"龙广官方微博\", \"scheme\": \"sinaweibo://detail?mblogid=5227807118464459\", \"index\": 10, \"label\": \"\"}, {\"name\": \"黑龙江卫视\", \"scheme\": \"sinaweibo://detail?mblogid=5227807015701022\", \"index\": 15, \"label\": \"\"}]}}```  <br>   - **新品排队**：热门数码产品无需排队，即时配送“先人一步”；```wbCustomBlock{\"type\": \"quoted\", \"index\": 13, \"data\": {\"num\": [11], \"version\": 2, \"quote_list\": [{\"name\": \"白鹿视频\", \"scheme\": \"sinaweibo://detail?mblogid=5227802437880843\", \"index\": 11, \"label\": \"\"}]}}```  <br>   - **紧急补货**：临时约会缺美妆、突发会议缺设备均可快速解决。```wbCustomBlock{\"type\": \"quoted\", \"index\": 14, \"data\": {\"num\": [12, 16], \"version\": 2, \"quote_list\": [{\"name\": \"东北网\", \"scheme\": \"sinaweibo://detail?mblogid=5227806775580099\", \"index\": 12, \"label\": \"\"}, {\"name\": \"白鹿科技\", \"scheme\": \"sinaweibo://detail?mblogid=5227801819223108\", \"index\": 16, \"label\": \"\"}]}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5227802813271193&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=3&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/007Nhh57ly8h8vhx69yt3j30u00u0wfo.jpg?KID=imgbed,tva&Expires=1761918609&ssig=fccnxPPuje) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">铁骥视频</span><img src=\"http://wx3.sinaimg.cn/middle/007Nhh57ly1i6vhyz6h1kj30zk0ujjw3.jpg\" data-width=1099 data-height=1280></div></media-block><br>### 💬 四、公众反响与趣味细节<br>- **网友偶遇**：部分用户街头拍到尼格买提穿外卖服骑电驴，误以为其转行，实为活动拍摄。```wbCustomBlock{\"type\": \"quoted\", \"index\": 16, \"data\": {\"num\": [5, 6, 17], \"version\": 2, \"quote_list\": [{\"name\": \"roseeeeeee-\", \"scheme\": \"sinaweibo://detail?mblogid=5227459626665575\", \"index\": 5, \"label\": \"大v\"}, {\"name\": \"-BCOOL-\", \"scheme\": \"sinaweibo://detail?mblogid=5227125855486272\", \"index\": 6, \"label\": \"\"}, {\"name\": \"影视菌\", \"scheme\": \"sinaweibo://detail?mblogid=5227487370156284\", \"index\": 17, \"label\": \"\"}], \"name\": \"roseeeeeee-\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/9ab6e11fly8ho5t317jyej20u00u0dgh.jpg?KID=imgbed,tva&Expires=1761918609&ssig=X6qvncWwRn\", \"scheme\": \"sinaweibo://detail?mblogid=5227459626665575\", \"vType\": 0}}```  <br>- **谐音梗热议**：“尼格买提=立刻买提”引发话题传播，有评论调侃“这外卖要是小尼送的，必须让他主持开箱仪式”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 17, \"data\": {\"num\": [5, 6, 21], \"version\": 2, \"quote_list\": [{\"name\": \"-BCOOL-\", \"scheme\": \"sinaweibo://detail?mblogid=5227125855486272\", \"index\": 6, \"label\": \"大v\"}, {\"name\": \"roseeeeeee-\", \"scheme\": \"sinaweibo://detail?mblogid=5227459626665575\", \"index\": 5, \"label\": \"\"}, {\"name\": \"风华影视圈\", \"scheme\": \"sinaweibo://detail?mblogid=5227807361991153\", \"index\": 21, \"label\": \"\"}], \"name\": \"-BCOOL-\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.1001.1001.50/00677oB0ly8hq79glt0hxj30rt0rt75o.jpg?KID=imgbed,tva&Expires=1761918609&ssig=EhSWzFAg5b\", \"scheme\": \"sinaweibo://detail?mblogid=5227125855486272\", \"vType\": 0}}```  <br>- **行业意义**：活动以名人示范降低用户对新模式的心理门槛，推动“即买即得”成为零售新常态。```wbCustomBlock{\"type\": \"quoted\", \"index\": 18, \"data\": {\"num\": [13, 21, 22], \"version\": 2, \"quote_list\": [{\"name\": \"铁骥视频\", \"scheme\": \"sinaweibo://detail?mblogid=5227802813271193\", \"index\": 13, \"label\": \"大v\"}, {\"name\": \"风华影视圈\", \"scheme\": \"sinaweibo://detail?mblogid=5227807361991153\", \"index\": 21, \"label\": \"\"}, {\"name\": \"南窗看剧\", \"scheme\": \"sinaweibo://detail?mblogid=5227807178233268\", \"index\": 22, \"label\": \"\"}], \"name\": \"铁骥视频\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/007Nhh57ly8h8vhx69yt3j30u00u0wfo.jpg?KID=imgbed,tva&Expires=1761918609&ssig=fccnxPPuje\", \"scheme\": \"sinaweibo://detail?mblogid=5227802813271193\", \"vType\": 3}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5227125855486272&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=4&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.1001.1001.50/00677oB0ly8hq79glt0hxj30rt0rt75o.jpg?KID=imgbed,tva&Expires=1761918609&ssig=EhSWzFAg5b) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">-BCOOL-</span><img src=\"http://wx3.sinaimg.cn/middle/00677oB0gy1i6tby6ssugj30wi075mxh.jpg\" data-width=257 data-height=1170></div></media-block><br>### 💎 小结<br>“尼格买提送外卖”是淘宝双11为推广即时零售服务设计的创意营销，其核心是将线下门店与即时配送结合，满足消费者对“速度”和“便利”的新需求。用户若想体验，可上淘宝搜索 **“双11万店同庆”** 参与活动。```wbCustomBlock{\"type\": \"quoted\", \"index\": 19, \"data\": {\"num\": [1, 3, 11], \"version\": 2, \"quote_list\": [{\"name\": \"天猫\", \"scheme\": \"sinaweibo://detail?mblogid=5227753348793919\", \"index\": 1, \"label\": \"\"}, {\"name\": \"央视新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5227749207969067\", \"index\": 3, \"label\": \"\"}, {\"name\": \"白鹿视频\", \"scheme\": \"sinaweibo://detail?mblogid=5227802437880843\", \"index\": 11, \"label\": \"\"}]}}```<br>",
+      "mid_list": null,
+      "reference_num": 24,
+      "msg_format": "markdown",
+      "page_id": "2329646407f1143c88812729ae6b99f85809bf",
+      "top_quote_list": {},
+      "link_list": [
+        "sinaweibo://detail?mblogid=5227753348793919",
+        "sinaweibo://detail?mblogid=5227794503568629",
+        "sinaweibo://detail?mblogid=5227749207969067",
+        "sinaweibo://detail?mblogid=5227806151677565",
+        "sinaweibo://detail?mblogid=5227459626665575",
+        "sinaweibo://detail?mblogid=5227125855486272",
+        "sinaweibo://detail?mblogid=5227807572493389",
+        "sinaweibo://detail?mblogid=5227801685003832",
+        "sinaweibo://detail?mblogid=5227802855214133",
+        "sinaweibo://detail?mblogid=5227807118464459",
+        "sinaweibo://detail?mblogid=5227802437880843",
+        "sinaweibo://detail?mblogid=5227806775580099",
+        "sinaweibo://detail?mblogid=5227802813271193",
+        "sinaweibo://detail?mblogid=5227805144255233",
+        "sinaweibo://detail?mblogid=5227807015701022",
+        "sinaweibo://detail?mblogid=5227801819223108",
+        "sinaweibo://detail?mblogid=5227487370156284",
+        "sinaweibo://detail?mblogid=5227760361408006",
+        "sinaweibo://detail?mblogid=5227759921529147",
+        "sinaweibo://detail?mblogid=5227879690673405",
+        "sinaweibo://detail?mblogid=5227807361991153",
+        "sinaweibo://detail?mblogid=5227807178233268",
+        "sinaweibo://detail?mblogid=5227760717136654",
+        "sinaweibo://detail?mblogid=5227844028337843"
+      ],
+      "q_attr": {
+        "reply_cid": "",
+        "mid": "",
+        "from_request_id": "",
+        "from_uid": "",
+        "comment_from_type": ""
+      },
+      "msg_json": "{}",
+      "qs_status_info": "{\"qs_q_status\":0,\"qs_r_status\":0,\"qs_u_status\":0,\"qs_c_status\":8388608,\"ab_lab\":{},\"qs_status\":0}",
+      "share_card_multimodal": {
+        "w": 1194,
+        "doc_score": 4372,
+        "hit_score_final": 83.414062,
+        "vtype": 3,
+        "click_rate": 0.11864406779661,
+        "type": "p",
+        "img": "http://wx4.sinaimg.cn/middle/008cYsXYly1i6vhz5yeh6j30x60wygqz.jpg",
+        "img_pid": "008cYsXYly1i6vhz5yeh6j30x60wygqz",
+        "cur_mid": "5227802855214133",
+        "scheme": "sinaweibo://multimedia?mix_mid=5227802855214133&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=0",
+        "user_name": "铁骥视频科技频道",
+        "h": 1186,
+        "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/008cYsXYly8h8vholtkl3j30u00u0wfo.jpg?KID=imgbed,tva&Expires=1761918609&ssig=sSBLadx69o",
+        "hit_score_new": 99.023438,
+        "video_url": ""
+      },
+      "reliable_tips": "{\"gold_orange_v_mids\": [\"5227459626665575\", \"5227487370156284\", \"5227807361991153\", \"5227807178233268\", \"5227806151677565\", \"5227807572493389\", \"5227760361408006\", \"5227759921529147\", \"5227760717136654\", \"5227844028337843\"], \"gold_orange_v_ratio\": \"42%\", \"media_mids\": [\"5227794503568629\", \"5227749207969067\", \"5227801685003832\", \"5227805144255233\", \"5227802437880843\"], \"media_ratio\": \"21%\", \"verified_mids\": [\"5227753348793919\", \"5227802855214133\", \"5227807118464459\", \"5227807015701022\", \"5227806775580099\", \"5227801819223108\", \"5227802813271193\", \"5227125855486272\"], \"verified_ratio\": \"33%\", \"normal_mids\": [\"5227879690673405\"], \"normal_ratio\": \"4%\", \"ref_mid_rank\": {\"5227753348793919\": {\"rank\": 1}, \"5227794503568629\": {\"rank\": 2}, \"5227749207969067\": {\"rank\": 3}, \"5227801685003832\": {\"rank\": 8}, \"5227802855214133\": {\"rank\": 9}, \"5227805144255233\": {\"rank\": 14}, \"5227807118464459\": {\"rank\": 10}, \"5227807015701022\": {\"rank\": 15}, \"5227806775580099\": {\"rank\": 12}, \"5227801819223108\": {\"rank\": 16}, \"5227802437880843\": {\"rank\": 11}, \"5227802813271193\": {\"rank\": 13}, \"5227459626665575\": {\"rank\": 5}, \"5227125855486272\": {\"rank\": 6}, \"5227487370156284\": {\"rank\": 17}, \"5227807361991153\": {\"rank\": 21}, \"5227807178233268\": {\"rank\": 22}, \"5227806151677565\": {\"rank\": 4}, \"5227807572493389\": {\"rank\": 7}, \"5227760361408006\": {\"rank\": 18}, \"5227759921529147\": {\"rank\": 19}, \"5227879690673405\": {\"rank\": 20}, \"5227760717136654\": {\"rank\": 23}, \"5227844028337843\": {\"rank\": 24}}}",
+      "ab_suffix": "default",
+      "query": "#尼格买提送外卖#"
+    }
+  },
+  "links": [
+    "sinaweibo://detail?mblogid=5227753348793919",
+    "sinaweibo://detail?mblogid=5227794503568629",
+    "sinaweibo://detail?mblogid=5227749207969067",
+    "sinaweibo://detail?mblogid=5227806151677565",
+    "sinaweibo://detail?mblogid=5227459626665575",
+    "sinaweibo://detail?mblogid=5227125855486272",
+    "sinaweibo://detail?mblogid=5227807572493389",
+    "sinaweibo://detail?mblogid=5227801685003832",
+    "sinaweibo://detail?mblogid=5227802855214133",
+    "sinaweibo://detail?mblogid=5227807118464459",
+    "sinaweibo://detail?mblogid=5227802437880843",
+    "sinaweibo://detail?mblogid=5227806775580099",
+    "sinaweibo://detail?mblogid=5227802813271193",
+    "sinaweibo://detail?mblogid=5227805144255233",
+    "sinaweibo://detail?mblogid=5227807015701022",
+    "sinaweibo://detail?mblogid=5227801819223108",
+    "sinaweibo://detail?mblogid=5227487370156284",
+    "sinaweibo://detail?mblogid=5227760361408006",
+    "sinaweibo://detail?mblogid=5227759921529147",
+    "sinaweibo://detail?mblogid=5227879690673405",
+    "sinaweibo://detail?mblogid=5227807361991153",
+    "sinaweibo://detail?mblogid=5227807178233268",
+    "sinaweibo://detail?mblogid=5227760717136654",
+    "sinaweibo://detail?mblogid=5227844028337843"
+  ],
+  "media": [
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/008cYsXYly1i6vhz5yeh6j30x60wygqz.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/008cYsXYly1i6vhz5yeh6j30x60wygqz.jpg",
+      "alt": "铁骥视频科技频道",
+      "width": 1186,
+      "height": 1194,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/008cYsXYly1i6vhz5yeh6j30x60wygqz.jpg"
+      ],
+      "user": "铁骥视频科技频道"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/62d1c61ely1i6vhu91vq3j20hm0pedvf.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/62d1c61ely1i6vhu91vq3j20hm0pedvf.jpg",
+      "alt": "烟台日报社大小新闻",
+      "width": 914,
+      "height": 634,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/62d1c61ely1i6vhu91vq3j20hm0pedvf.jpg"
+      ],
+      "user": "烟台日报社大小新闻"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/60df1500ly1i6vi8e0fymj20i20i0wo2.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/60df1500ly1i6vi8e0fymj20i20i0wo2.jpg",
+      "alt": "鲁中晨报",
+      "width": 648,
+      "height": 650,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/60df1500ly1i6vi8e0fymj20i20i0wo2.jpg"
+      ],
+      "user": "鲁中晨报"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/002TLsr9ly1i6v5tu30jij61hc0u0npd02.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/002TLsr9ly1i6v5tu30jij61hc0u0npd02.jpg",
+      "alt": "极目新闻",
+      "width": 1080,
+      "height": 1920,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx4.sinaimg.cn/large/002TLsr9ly1i6v5tu30jij61hc0u0npd02.jpg"
+      ],
+      "user": "极目新闻"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/008swrohly1i6vhuzekdwj31401hdau4.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/008swrohly1i6vhuzekdwj31401hdau4.jpg",
+      "alt": "龙广官方微博",
+      "width": 1921,
+      "height": 1440,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/008swrohly1i6vhuzekdwj31401hdau4.jpg"
+      ],
+      "user": "龙广官方微博"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/008thH9Mgy1i6vhuvu1ioj30zo0zc4qp.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/008thH9Mgy1i6vhuvu1ioj30zo0zc4qp.jpg",
+      "alt": "白鹿科技",
+      "width": 1272,
+      "height": 1284,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/008thH9Mgy1i6vhuvu1ioj30zo0zc4qp.jpg"
+      ],
+      "user": "白鹿科技"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/008swrohly1i6vhshpdjgj30u01hctak.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/008swrohly1i6vhshpdjgj30u01hctak.jpg",
+      "alt": "东北网",
+      "width": 1920,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/008swrohly1i6vhshpdjgj30u01hctak.jpg"
+      ],
+      "user": "东北网"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/007Nhh57ly1i6vhyz6h1kj30zk0ujjw3.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/007Nhh57ly1i6vhyz6h1kj30zk0ujjw3.jpg",
+      "alt": "铁骥视频",
+      "width": 1099,
+      "height": 1280,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/007Nhh57ly1i6vhyz6h1kj30zk0ujjw3.jpg"
+      ],
+      "user": "铁骥视频"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/00677oB0gy1i6tby6ssugj30wi075mxh.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/00677oB0gy1i6tby6ssugj30wi075mxh.jpg",
+      "alt": "-BCOOL-",
+      "width": 257,
+      "height": 1170,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/00677oB0gy1i6tby6ssugj30wi075mxh.jpg"
+      ],
+      "user": "-BCOOL-"
+    }
+  ],
+  "html_path": "data/aicard/hourly/2025-10-31/15/topic-2d4658d5.html"
+}

@@ -1,0 +1,337 @@
+{
+  "meta": {
+    "query": "#自驾西藏的easy模式#",
+    "status_code": 200,
+    "fetched_at": "2025-11-04T16:46:12+08:00",
+    "response": {
+      "qs_status_info": "{\"ab_lab\":{},\"qs_q_status\":0,\"qs_c_status\":8388608,\"qs_r_status\":0,\"qs_u_status\":0,\"qs_status\":0}",
+      "loop_times": 200,
+      "query": "#自驾西藏的easy模式#",
+      "comment_info": {},
+      "ab_suffix": "default",
+      "query_field": "5",
+      "version": "2025-11-04 16:41:11.013000-2281",
+      "reliable_tips": "{\"gold_orange_v_mids\": [\"5229273759878595\", \"5229275772884709\", \"5229274270535411\", \"5229267243763741\", \"5229274266341634\", \"5229272145069683\", \"5229266997873055\", \"5229268149732165\", \"5229274269223932\", \"5229267724275156\", \"5229272747740549\", \"5229284360983887\", \"5229268742701426\", \"5229276280390109\", \"5229278829743544\", \"5229267684164908\", \"5229268869055700\", \"5229274270274159\", \"5229274271318498\", \"5229269867564323\", \"5229268138983610\", \"5229268082885089\"], \"gold_orange_v_ratio\": \"81%\", \"media_mids\": [], \"media_ratio\": \"0%\", \"verified_mids\": [\"5229263986622987\", \"5229281904953603\", \"5229267801609372\", \"5229268726451886\", \"5229268294699634\"], \"verified_ratio\": \"19%\", \"normal_mids\": [], \"normal_ratio\": \"0%\", \"ref_mid_rank\": {\"5229263986622987\": {\"rank\": 1}, \"5229273759878595\": {\"rank\": 2}, \"5229275772884709\": {\"rank\": 9}, \"5229274270535411\": {\"rank\": 3}, \"5229267243763741\": {\"rank\": 20}, \"5229274266341634\": {\"rank\": 7}, \"5229272145069683\": {\"rank\": 14}, \"5229266997873055\": {\"rank\": 19}, \"5229268149732165\": {\"rank\": 6}, \"5229274269223932\": {\"rank\": 10}, \"5229267724275156\": {\"rank\": 24}, \"5229272747740549\": {\"rank\": 4}, \"5229284360983887\": {\"rank\": 15}, \"5229268742701426\": {\"rank\": 13}, \"5229276280390109\": {\"rank\": 12}, \"5229281904953603\": {\"rank\": 21}, \"5229278829743544\": {\"rank\": 16}, \"5229267684164908\": {\"rank\": 22}, \"5229268869055700\": {\"rank\": 23}, \"5229274270274159\": {\"rank\": 8}, \"5229274271318498\": {\"rank\": 5}, \"5229267801609372\": {\"rank\": 11}, \"5229268726451886\": {\"rank\": 17}, \"5229268294699634\": {\"rank\": 18}, \"5229269867564323\": {\"rank\": 25}, \"5229268138983610\": {\"rank\": 26}, \"5229268082885089\": {\"rank\": 27}}, \"reliable_summary\": \"核心事件可靠度较低，因信息主要源于品牌推广和博主宣传内容，缺乏独立权威来源验证。\"}",
+      "model": "deepseek",
+      "cot": 1,
+      "abtest_info": {
+        "chat_entrance": 1
+      },
+      "short_url": "http://t.cn/AXAWgxo5",
+      "qs_status": 0,
+      "zs_risk_control": {
+        "think_text_close": 0,
+        "land_button_close": 0
+      },
+      "wenda": {
+        "forward_gen": 0
+      },
+      "q_attr": {
+        "from_request_id": "",
+        "mid": "",
+        "comment_from_type": "",
+        "reply_cid": "",
+        "from_uid": ""
+      },
+      "share_info": {
+        "status": 3,
+        "page_id": "232964e056042d8008625cbb8324b40f7c2f05",
+        "url": "http://t.cn/AXAlYvD4",
+        "tips": "#自驾西藏的easy模式#的相关内容，来智搜看看",
+        "display_name": "#自驾西藏的easy模式#",
+        "comment_content": "",
+        "unify_md5": "50e0e9c77313ffbe9eeb763be50dd7b5"
+      },
+      "mid_list": null,
+      "reference_num": 27,
+      "query_category": "Ip",
+      "status_stage": 4,
+      "news_analyze": {},
+      "top_quote_list": {},
+      "card_multimodal": {
+        "type": "mediablock",
+        "data": [
+          {
+            "user_name": "微博汽车",
+            "img": "http://wx2.sinaimg.cn/middle/0067xJVfgy1i704pym9ryj64mo334b2d02.jpg",
+            "user_avatar": "https://tvax4.sinaimg.cn/crop.0.0.100.100.50/0067xJVfly8h8vcmkuz2oj602s02sjr902.jpg?KID=imgbed,tva&Expires=1762256471&ssig=FA6eCuYoFO",
+            "type": "p",
+            "video_url": "",
+            "hit_score_new": 0,
+            "doc_score": 0,
+            "w": 6000,
+            "vtype": 7,
+            "click_rate": 0,
+            "click_num": 0,
+            "hit_score_final": 0,
+            "scheme": "sinaweibo://multimedia?mix_mid=5229263986622987&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=0",
+            "h": 4000,
+            "cur_mid": "5229263986622987",
+            "img_pid": "0067xJVfgy1i704pym9ryj64mo334b2d02"
+          },
+          {
+            "user_name": "小田Alice",
+            "img": "http://wx4.sinaimg.cn/middle/6763c2dagy1i705vdf3umj24mo336e84.jpg",
+            "user_avatar": "https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/6763c2daly8i1g9r6ueg6j20u00u0ac0.jpg?KID=imgbed,tva&Expires=1762256471&ssig=gwPx2esqNa",
+            "type": "p",
+            "video_url": "",
+            "hit_score_new": 97.998047,
+            "doc_score": 5001,
+            "w": 6000,
+            "vtype": 0,
+            "click_rate": 0,
+            "click_num": 0,
+            "hit_score_final": 80.798828,
+            "scheme": "sinaweibo://multimedia?mix_mid=5229267243763741&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=1",
+            "h": 4002,
+            "cur_mid": "5229267243763741",
+            "img_pid": "6763c2dagy1i705vdf3umj24mo336e84"
+          },
+          {
+            "user_name": "路飞科技说",
+            "img": "http://wx3.sinaimg.cn/middle/454c5191gy1i7064ck41lj24mo334x6t.jpg",
+            "user_avatar": "https://tvax2.sinaimg.cn/crop.0.0.996.996.50/454c5191ly8gdvjnaffg1j20ro0rotb8.jpg?KID=imgbed,tva&Expires=1762256471&ssig=OMOGDRZSZq",
+            "type": "p",
+            "video_url": "",
+            "hit_score_new": 98.632812,
+            "doc_score": 5034,
+            "w": 6000,
+            "vtype": 0,
+            "click_rate": 0,
+            "click_num": 0,
+            "hit_score_final": 83.179688,
+            "scheme": "sinaweibo://multimedia?mix_mid=5229266997873055&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=2&multi_count=0",
+            "h": 4000,
+            "cur_mid": "5229266997873055",
+            "img_pid": "454c5191gy1i7064ck41lj24mo334x6t"
+          },
+          {
+            "user_name": "微博汽车",
+            "img": "http://wx2.sinaimg.cn/middle/0067xJVfgy1i704pym9ryj64mo334b2d02.jpg",
+            "user_avatar": "https://tvax4.sinaimg.cn/crop.0.0.100.100.50/0067xJVfly8h8vcmkuz2oj602s02sjr902.jpg?KID=imgbed,tva&Expires=1762256471&ssig=FA6eCuYoFO",
+            "type": "p",
+            "video_url": "",
+            "hit_score_new": 0,
+            "doc_score": 0,
+            "w": 6000,
+            "vtype": 7,
+            "click_rate": 0,
+            "click_num": 0,
+            "hit_score_final": 0,
+            "scheme": "sinaweibo://multimedia?mix_mid=5229263986622987&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=0",
+            "h": 4000,
+            "cur_mid": "5229263986622987",
+            "img_pid": "0067xJVfgy1i704pym9ryj64mo334b2d02"
+          }
+        ]
+      },
+      "share_card_multimodal": {
+        "user_name": "微博汽车",
+        "img": "http://wx2.sinaimg.cn/middle/0067xJVfgy1i704pym9ryj64mo334b2d02.jpg",
+        "user_avatar": "https://tvax4.sinaimg.cn/crop.0.0.100.100.50/0067xJVfly8h8vcmkuz2oj602s02sjr902.jpg?KID=imgbed,tva&Expires=1762256471&ssig=FA6eCuYoFO",
+        "type": "p",
+        "video_url": "",
+        "hit_score_new": 0,
+        "doc_score": 0,
+        "w": 6000,
+        "vtype": 7,
+        "click_rate": 0,
+        "click_num": 0,
+        "hit_score_final": 0,
+        "scheme": "sinaweibo://multimedia?mix_mid=5229263986622987&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=0",
+        "h": 4000,
+        "cur_mid": "5229263986622987",
+        "img_pid": "0067xJVfgy1i704pym9ryj64mo334b2d02"
+      },
+      "basemodel": "实验组4",
+      "analysis_time": 1762245912,
+      "sorted_material_list": null,
+      "status": 2,
+      "uid": "",
+      "page_id": "232964e056042d8008625cbb8324b40f7c2f05",
+      "msg_json": "{}",
+      "current_time": 1762245974,
+      "profile_image_url": "",
+      "user_info": {},
+      "unify_md5": "50e0e9c77313ffbe9eeb763be50dd7b5",
+      "msg_format": "markdown",
+      "msg": "<think><br>嗯，用户想了解自驾西藏的easy模式，主要是关于第五代瑞虎8这款车的相关信息。从搜索结果来看，这其实是奇瑞汽车的一次营销活动，他们用\"自驾西藏的easy模式\"这个标签来宣传新车。<br><br>用户可能是个对西藏自驾游感兴趣的人，或者正在考虑购买SUV。ta可能被西藏美景吸引，但又担心高原反应、路况复杂等问题。这些搜索结果正好切中了这些痛点。<br><br>看这些内容，主要突出了瑞虎8的几个卖点：专门应对高原的发动机性能（147kW功率+310N·m扭矩），车载制氧功能，2825mm超长轴距带来的空间舒适性，以及智能座舱等。特别是那个\"双床模式\"挺吸引人的，前排座椅能170度放倒，适合长途休息。<br><br>价格方面也很清晰，10.59万起，还有88元订车送交强险等优惠。这些信息在多个认证账号和大V账号中都有提到，可信度较高。<br><br>考虑到所有结果都来自2025年11月4日，应该是新车预售的集中宣传期。虽然内容带有营销性质，但确实提供了解决西藏自驾难题的具体方案。<br><br>在回复时，会重点突出车辆如何解决高原自驾的实际问题，比如动力维持、供氧方案、舒适性设计等，这样能真正帮到用户。不过也要注意说明这是特定车型的解决方案，避免让用户以为这是通用建议。<br><br></think><br>关于“自驾西藏的easy模式”，核心是**第五代瑞虎8通过技术创新解决高原自驾痛点**，让进藏旅程更轻松舒适。以下是关键信息整理：<br>### ⛰️ 一、高原动力无忧：告别“车辆高反”<br>1. **1.6T鲲鹏发动机**  <br>   - 最高功率147kW、最大扭矩310N·m，高海拔地区动力无衰减。```wbCustomBlock{\"type\": \"quoted\", \"index\": 5, \"data\": {\"num\": [1, 2, 9], \"version\": 2, \"quote_list\": [{\"name\": \"Kim玩科技\", \"scheme\": \"sinaweibo://detail?mblogid=5229275772884709\", \"index\": 9, \"label\": \"大v\"}, {\"name\": \"微博汽车\", \"scheme\": \"sinaweibo://detail?mblogid=5229263986622987\", \"index\": 1, \"label\": \"\"}, {\"name\": \"玩车的迪仔\", \"scheme\": \"sinaweibo://detail?mblogid=5229273759878595\", \"index\": 2, \"label\": \"\"}], \"name\": \"Kim玩科技\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/7ff19a1cly8hd63vn9bfcj20u00u0778.jpg?KID=imgbed,tva&Expires=1762256471&ssig=1AjxFjB7YX\", \"scheme\": \"sinaweibo://detail?mblogid=5229275772884709\", \"vType\": 0}}```  <br>   - 智效燃烧系统提升进气内能50%，缺氧环境下仍保持强劲输出。```wbCustomBlock{\"type\": \"quoted\", \"index\": 6, \"data\": {\"num\": [3, 20], \"version\": 2, \"quote_list\": [{\"name\": \"旭哥说车\", \"scheme\": \"sinaweibo://detail?mblogid=5229274270535411\", \"index\": 3, \"label\": \"大v\"}, {\"name\": \"小田Alice\", \"scheme\": \"sinaweibo://detail?mblogid=5229267243763741\", \"index\": 20, \"label\": \"\"}], \"name\": \"旭哥说车\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.600.600.50/9bedd341ly8hypt5wlwt6j20go0gomyy.jpg?KID=imgbed,tva&Expires=1762256471&ssig=bnS8eb4Mh%2B\", \"scheme\": \"sinaweibo://detail?mblogid=5229274270535411\", \"vType\": 0}}```  <br>2. **底盘液压隔振系统**  <br>   - 过滤颠簸路况（如搓板路、炮弹坑），提升操控稳定性和舒适性。```wbCustomBlock{\"type\": \"quoted\", \"index\": 8, \"data\": {\"num\": [1, 7, 14], \"version\": 2, \"quote_list\": [{\"name\": \"疯狂的饼哥\", \"scheme\": \"sinaweibo://detail?mblogid=5229274266341634\", \"index\": 7, \"label\": \"大v\"}, {\"name\": \"微博汽车\", \"scheme\": \"sinaweibo://detail?mblogid=5229263986622987\", \"index\": 1, \"label\": \"\"}, {\"name\": \"Clownyx\", \"scheme\": \"sinaweibo://detail?mblogid=5229272145069683\", \"index\": 14, \"label\": \"\"}], \"name\": \"疯狂的饼哥\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/7800d66cly8hsj8bzhgrej20u00u0gnz.jpg?KID=imgbed,tva&Expires=1762256471&ssig=0VCOdVhBjU\", \"scheme\": \"sinaweibo://detail?mblogid=5229274266341634\", \"vType\": 0}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5229263986622987&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.100.100.50/0067xJVfly8h8vcmkuz2oj602s02sjr902.jpg?KID=imgbed,tva&Expires=1762256471&ssig=FA6eCuYoFO) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">微博汽车</span><img src=\"http://wx2.sinaimg.cn/middle/0067xJVfgy1i704pym9ryj64mo334b2d02.jpg\" data-width=4000 data-height=6000></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5229267243763741&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=1\"><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/6763c2daly8i1g9r6ueg6j20u00u0ac0.jpg?KID=imgbed,tva&Expires=1762256471&ssig=gwPx2esqNa) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">小田Alice</span><img src=\"http://wx4.sinaimg.cn/middle/6763c2dagy1i705vdf3umj24mo336e84.jpg\" data-width=4002 data-height=6000></div></media-block><br>### 🧘‍♂️ 二、舒适性革新：移动“高原庇护所”<br>1. **空间设计**  <br>   - 同级最长2825mm轴距，后排腿部空间宽敞，可跷二郎腿。```wbCustomBlock{\"type\": \"quoted\", \"index\": 12, \"data\": {\"num\": [3, 7, 19], \"version\": 2, \"quote_list\": [{\"name\": \"路飞科技说\", \"scheme\": \"sinaweibo://detail?mblogid=5229266997873055\", \"index\": 19, \"label\": \"大v\"}, {\"name\": \"旭哥说车\", \"scheme\": \"sinaweibo://detail?mblogid=5229274270535411\", \"index\": 3, \"label\": \"\"}, {\"name\": \"疯狂的饼哥\", \"scheme\": \"sinaweibo://detail?mblogid=5229274266341634\", \"index\": 7, \"label\": \"\"}], \"name\": \"路飞科技说\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.996.996.50/454c5191ly8gdvjnaffg1j20ro0rotb8.jpg?KID=imgbed,tva&Expires=1762256471&ssig=OMOGDRZSZq\", \"scheme\": \"sinaweibo://detail?mblogid=5229266997873055\", \"vType\": 0}}```  <br>   - **双床模式**：前排座椅170°放倒 + 后排两挡调节，秒变躺卧休息区。```wbCustomBlock{\"type\": \"quoted\", \"index\": 13, \"data\": {\"num\": [6, 10, 24], \"version\": 2, \"quote_list\": [{\"name\": \"车轮上的小梦\", \"scheme\": \"sinaweibo://detail?mblogid=5229274269223932\", \"index\": 10, \"label\": \"大v\"}, {\"name\": \"阿困妹妹\", \"scheme\": \"sinaweibo://detail?mblogid=5229268149732165\", \"index\": 6, \"label\": \"\"}, {\"name\": \"科技喵\", \"scheme\": \"sinaweibo://detail?mblogid=5229267724275156\", \"index\": 24, \"label\": \"\"}], \"name\": \"车轮上的小梦\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/00744UGGly8i3zq5uj2i5j30u00u075d.jpg?KID=imgbed,tva&Expires=1762256471&ssig=9B16dn7pFB\", \"scheme\": \"sinaweibo://detail?mblogid=5229274269223932\", \"vType\": 0}}```  <br>2. **弥散式制氧舱**  <br>   - 车载制氧机自动调节车内氧浓度，无需佩戴氧气面罩，缓解高反不适。```wbCustomBlock{\"type\": \"quoted\", \"index\": 15, \"data\": {\"num\": [4, 9, 15], \"version\": 2, \"quote_list\": [{\"name\": \"马弘运\", \"scheme\": \"sinaweibo://detail?mblogid=5229284360983887\", \"index\": 15, \"label\": \"大v\"}, {\"name\": \"海凝Nico\", \"scheme\": \"sinaweibo://detail?mblogid=5229272747740549\", \"index\": 4, \"label\": \"\"}, {\"name\": \"Kim玩科技\", \"scheme\": \"sinaweibo://detail?mblogid=5229275772884709\", \"index\": 9, \"label\": \"\"}], \"name\": \"马弘运\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.512.512.50/0069Z3Hwly8i007rg65vij30e80e80t0.jpg?KID=imgbed,tva&Expires=1762256471&ssig=d%2FvUuTyFHa\", \"scheme\": \"sinaweibo://detail?mblogid=5229284360983887\", \"vType\": 0}}```  <br>3. **十层云感座椅**  <br>   - 通风/加热/按摩功能，适应多变气候，长途驾驶不易疲劳。```wbCustomBlock{\"type\": \"quoted\", \"index\": 17, \"data\": {\"num\": [6, 13, 19], \"version\": 2, \"quote_list\": [{\"name\": \"阿困妹妹\", \"scheme\": \"sinaweibo://detail?mblogid=5229268149732165\", \"index\": 6, \"label\": \"大v\"}, {\"name\": \"熊哥嘚啵嘚\", \"scheme\": \"sinaweibo://detail?mblogid=5229268742701426\", \"index\": 13, \"label\": \"\"}, {\"name\": \"路飞科技说\", \"scheme\": \"sinaweibo://detail?mblogid=5229266997873055\", \"index\": 19, \"label\": \"\"}], \"name\": \"阿困妹妹\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/92af7716ly8hvv60sej0pj20u00u0416.jpg?KID=imgbed,tva&Expires=1762256471&ssig=JhInpnUwyd\", \"scheme\": \"sinaweibo://detail?mblogid=5229268149732165\", \"vType\": 0}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5229266997873055&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=2&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.996.996.50/454c5191ly8gdvjnaffg1j20ro0rotb8.jpg?KID=imgbed,tva&Expires=1762256471&ssig=OMOGDRZSZq) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">路飞科技说</span><img src=\"http://wx3.sinaimg.cn/middle/454c5191gy1i7064ck41lj24mo334x6t.jpg\" data-width=4000 data-height=6000></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5229267724275156&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=2&multi_count=1\"><span class=\"vator\" style=\"display: none;background: url(https://tva3.sinaimg.cn/crop.0.0.1080.1080.50/6f44fda3jw8ecsf5n8w2mj20u00u03zd.jpg?KID=imgbed,tva&Expires=1762256471&ssig=N90beCf%2Fq9) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">科技喵</span><img src=\"http://wx2.sinaimg.cn/middle/6f44fda3gy1i7066zy483j24mo336qv6.jpg\" data-width=4002 data-height=6000></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5229284360983887&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=2&multi_count=2\"><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.512.512.50/0069Z3Hwly8i007rg65vij30e80e80t0.jpg?KID=imgbed,tva&Expires=1762256471&ssig=d%2FvUuTyFHa) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">马弘运</span><img src=\"http://wx3.sinaimg.cn/middle/008AKMDmly8i707bl7trqj318g0tnwzc.jpg\" data-width=1067 data-height=1600></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5229268742701426&multi_paragraph=2&multi_count=3\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/008BYL7dly8hxblwt5023j30u00u00w7.jpg?KID=imgbed,tva&Expires=1762256471&ssig=4v1vacQjUQ) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">熊哥嘚啵嘚</span><img src=\"http://wx2.sinaimg.cn/middle/008BYL7dgy1i706brwvmaj31hc0u078u.jpg\" data-width=1080 data-height=1920></div></media-block><br>### 🧠 三、智能体验：燃油车的“电感升级”<br>1. **8155芯片智慧座舱**  <br>   - 15.6吋2.5K高清屏 + 方言交互AI语音，实时查询攻略、控制车辆。```wbCustomBlock{\"type\": \"quoted\", \"index\": 21, \"data\": {\"num\": [12, 13, 21], \"version\": 2, \"quote_list\": [{\"name\": \"吴晓童\", \"scheme\": \"sinaweibo://detail?mblogid=5229276280390109\", \"index\": 12, \"label\": \"大v\"}, {\"name\": \"熊哥嘚啵嘚\", \"scheme\": \"sinaweibo://detail?mblogid=5229268742701426\", \"index\": 13, \"label\": \"\"}, {\"name\": \"蛋蛋科技指南\", \"scheme\": \"sinaweibo://detail?mblogid=5229281904953603\", \"index\": 21, \"label\": \"\"}], \"name\": \"吴晓童\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.959.959.50/4b4a1263ly8hx5a76vrp5j20qn0qn0u6.jpg?KID=imgbed,tva&Expires=1762256471&ssig=g0pbj8ARng\", \"scheme\": \"sinaweibo://detail?mblogid=5229276280390109\", \"vType\": 0}}```  <br>2. **L2级辅助驾驶 + 8气囊安全**  <br>   - 减轻驾驶负担，提升复杂路况下的安全性。```wbCustomBlock{\"type\": \"quoted\", \"index\": 23, \"data\": {\"num\": [13, 16], \"version\": 2, \"quote_list\": [{\"name\": \"宇飞视界\", \"scheme\": \"sinaweibo://detail?mblogid=5229278829743544\", \"index\": 16, \"label\": \"大v\"}, {\"name\": \"熊哥嘚啵嘚\", \"scheme\": \"sinaweibo://detail?mblogid=5229268742701426\", \"index\": 13, \"label\": \"\"}], \"name\": \"宇飞视界\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.600.600.50/e1566cbely8hzamkteainj20go0go3zp.jpg?KID=imgbed,tva&Expires=1762256471&ssig=9I1MZTp2KU\", \"scheme\": \"sinaweibo://detail?mblogid=5229278829743544\", \"vType\": 0}}```  <br>3. **图书馆级静音**  <br>   - 静音玻璃 + ENC主动降噪，车内对话清晰无干扰。```wbCustomBlock{\"type\": \"quoted\", \"index\": 25, \"data\": {\"num\": [12, 22], \"version\": 2, \"quote_list\": [{\"name\": \"不万能的楠哥\", \"scheme\": \"sinaweibo://detail?mblogid=5229267684164908\", \"index\": 22, \"label\": \"大v\"}, {\"name\": \"吴晓童\", \"scheme\": \"sinaweibo://detail?mblogid=5229276280390109\", \"index\": 12, \"label\": \"\"}], \"name\": \"不万能的楠哥\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/5d09c4a2ly8gz4y5i5apsj20u00u0wfo.jpg?KID=imgbed,tva&Expires=1762256471&ssig=8T5E3QsKo9\", \"scheme\": \"sinaweibo://detail?mblogid=5229267684164908\", \"vType\": 0}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5229276280390109&multi_paragraph=3&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.959.959.50/4b4a1263ly8hx5a76vrp5j20qn0qn0u6.jpg?KID=imgbed,tva&Expires=1762256471&ssig=g0pbj8ARng) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">吴晓童</span><img src=\"http://wx4.sinaimg.cn/middle/a66d0169ly8i706inbzwwj209u05kwfq.jpg\" data-width=200 data-height=354></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5229278829743544&multi_paragraph=3&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.600.600.50/e1566cbely8hzamkteainj20go0go3zp.jpg?KID=imgbed,tva&Expires=1762256471&ssig=9I1MZTp2KU) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">宇飞视界</span><img src=\"http://wx1.sinaimg.cn/middle/e1566cbely1i707gymzd5j20mh0u0tb5.jpg\" data-width=1080 data-height=809></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5229267684164908&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=3&multi_count=2\"><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/5d09c4a2ly8gz4y5i5apsj20u00u0wfo.jpg?KID=imgbed,tva&Expires=1762256471&ssig=8T5E3QsKo9) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">不万能的楠哥</span><img src=\"http://wx4.sinaimg.cn/middle/5d09c4a2gy1i7066vbqa1j218g0tn1cd.jpg\" data-width=1067 data-height=1600></div></media-block><br>### 💰 四、预售权益与价格<br>- **预售价**：10.59万-13.59万元。```wbCustomBlock{\"type\": \"quoted\", \"index\": 28, \"data\": {\"num\": [3, 23, 24], \"version\": 2, \"quote_list\": [{\"name\": \"小狼老施\", \"scheme\": \"sinaweibo://detail?mblogid=5229268869055700\", \"index\": 23, \"label\": \"\"}, {\"name\": \"旭哥说车\", \"scheme\": \"sinaweibo://detail?mblogid=5229274270535411\", \"index\": 3, \"label\": \"\"}, {\"name\": \"科技喵\", \"scheme\": \"sinaweibo://detail?mblogid=5229267724275156\", \"index\": 24, \"label\": \"\"}], \"name\": \"小狼老施\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.1242.1242.50/711c196fly8fty00hinytj20yi0yi42n.jpg?KID=imgbed,tva&Expires=1762256471&ssig=yX8tibYWkx\", \"scheme\": \"sinaweibo://detail?mblogid=5229268869055700\", \"vType\": 0}}```  <br>- **预售礼遇**：  <br>  - 88元下订送交强险；  <br>  - 置换补贴至高12000元；  <br>  - 首任车主终身质保。```wbCustomBlock{\"type\": \"quoted\", \"index\": 32, \"data\": {\"num\": [2, 12, 20], \"version\": 2, \"quote_list\": [{\"name\": \"玩车的迪仔\", \"scheme\": \"sinaweibo://detail?mblogid=5229273759878595\", \"index\": 2, \"label\": \"\"}, {\"name\": \"吴晓童\", \"scheme\": \"sinaweibo://detail?mblogid=5229276280390109\", \"index\": 12, \"label\": \"\"}, {\"name\": \"小田Alice\", \"scheme\": \"sinaweibo://detail?mblogid=5229267243763741\", \"index\": 20, \"label\": \"\"}], \"name\": \"玩车的迪仔\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/002axYK4ly8hr2keth947j60u00u0aaw02.jpg?KID=imgbed,tva&Expires=1762256471&ssig=fDvtlk%2Fs5J\", \"scheme\": \"sinaweibo://detail?mblogid=5229273759878595\", \"vType\": 0}}```<br>### 🏆 五、用户场景验证<br>- **西藏实测**：在海拔4500米的“羊湖72拐”动力无衰减，烂路过滤效果显著。```wbCustomBlock{\"type\": \"quoted\", \"index\": 35, \"data\": {\"num\": [16, 22], \"version\": 2, \"quote_list\": [{\"name\": \"宇飞视界\", \"scheme\": \"sinaweibo://detail?mblogid=5229278829743544\", \"index\": 16, \"label\": \"\"}, {\"name\": \"不万能的楠哥\", \"scheme\": \"sinaweibo://detail?mblogid=5229267684164908\", \"index\": 22, \"label\": \"\"}]}}```  <br>- **装载能力**：后备箱容纳摄影器材、露营装备无压力，适合长途旅行。```wbCustomBlock{\"type\": \"quoted\", \"index\": 36, \"data\": {\"num\": [8, 10], \"version\": 2, \"quote_list\": [{\"name\": \"蘑菇聊车\", \"scheme\": \"sinaweibo://detail?mblogid=5229274270274159\", \"index\": 8, \"label\": \"\"}, {\"name\": \"车轮上的小梦\", \"scheme\": \"sinaweibo://detail?mblogid=5229274269223932\", \"index\": 10, \"label\": \"\"}], \"name\": \"蘑菇聊车\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/006DKzdRly8hquel4f2wlj30u00u0jsu.jpg?KID=imgbed,tva&Expires=1762256471&ssig=U1zdHRE5SF\", \"scheme\": \"sinaweibo://detail?mblogid=5229274270274159\", \"vType\": 0}}```<br>### 💎 总结：为何是“Easy模式”？  <br>第五代瑞虎8通过**高原专研动力 + 制氧黑科技 + 百变舒适空间 + 智能座舱**，将进藏的“Hard模式”转化为舒适安全的旅程，尤其适合家庭用户和首次进藏的自驾者。```wbCustomBlock{\"type\": \"quoted\", \"index\": 38, \"data\": {\"num\": [10, 13, 19], \"version\": 2, \"quote_list\": [{\"name\": \"熊哥嘚啵嘚\", \"scheme\": \"sinaweibo://detail?mblogid=5229268742701426\", \"index\": 13, \"label\": \"\"}, {\"name\": \"车轮上的小梦\", \"scheme\": \"sinaweibo://detail?mblogid=5229274269223932\", \"index\": 10, \"label\": \"\"}, {\"name\": \"路飞科技说\", \"scheme\": \"sinaweibo://detail?mblogid=5229266997873055\", \"index\": 19, \"label\": \"\"}], \"name\": \"熊哥嘚啵嘚\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/008BYL7dly8hxblwt5023j30u00u00w7.jpg?KID=imgbed,tva&Expires=1762256471&ssig=4v1vacQjUQ\", \"scheme\": \"sinaweibo://detail?mblogid=5229268742701426\", \"vType\": 0}}```<br>",
+      "show_ctrl": {
+        "quote": {}
+      },
+      "link_list": [
+        "sinaweibo://detail?mblogid=5229263986622987",
+        "sinaweibo://detail?mblogid=5229273759878595",
+        "sinaweibo://detail?mblogid=5229274270535411",
+        "sinaweibo://detail?mblogid=5229272747740549",
+        "sinaweibo://detail?mblogid=5229274271318498",
+        "sinaweibo://detail?mblogid=5229268149732165",
+        "sinaweibo://detail?mblogid=5229274266341634",
+        "sinaweibo://detail?mblogid=5229274270274159",
+        "sinaweibo://detail?mblogid=5229275772884709",
+        "sinaweibo://detail?mblogid=5229274269223932",
+        "sinaweibo://detail?mblogid=5229267801609372",
+        "sinaweibo://detail?mblogid=5229276280390109",
+        "sinaweibo://detail?mblogid=5229268742701426",
+        "sinaweibo://detail?mblogid=5229272145069683",
+        "sinaweibo://detail?mblogid=5229284360983887",
+        "sinaweibo://detail?mblogid=5229278829743544",
+        "sinaweibo://detail?mblogid=5229268726451886",
+        "sinaweibo://detail?mblogid=5229268294699634",
+        "sinaweibo://detail?mblogid=5229266997873055",
+        "sinaweibo://detail?mblogid=5229267243763741",
+        "sinaweibo://detail?mblogid=5229281904953603",
+        "sinaweibo://detail?mblogid=5229267684164908",
+        "sinaweibo://detail?mblogid=5229268869055700",
+        "sinaweibo://detail?mblogid=5229267724275156",
+        "sinaweibo://detail?mblogid=5229269867564323",
+        "sinaweibo://detail?mblogid=5229268138983610",
+        "sinaweibo://detail?mblogid=5229268082885089"
+      ],
+      "scheme": "sinaweibo://cardlist?containerid=100103type%3D225%26q%3D%23%E8%87%AA%E9%A9%BE%E8%A5%BF%E8%97%8F%E7%9A%84easy%E6%A8%A1%E5%BC%8F%23%26t%3D&extparam=ai_model%3Ddeepseek%26ori_ai_title%3D%E5%8F%82%E8%80%83%E5%8D%9A%E6%96%87%26material_version%3D1762245671",
+      "share_text": "#自驾西藏的easy模式#的相关内容，来智搜看看",
+      "ext_show": {},
+      "chat_status_stage": 1
+    }
+  },
+  "links": [
+    "sinaweibo://detail?mblogid=5229263986622987",
+    "sinaweibo://detail?mblogid=5229273759878595",
+    "sinaweibo://detail?mblogid=5229274270535411",
+    "sinaweibo://detail?mblogid=5229272747740549",
+    "sinaweibo://detail?mblogid=5229274271318498",
+    "sinaweibo://detail?mblogid=5229268149732165",
+    "sinaweibo://detail?mblogid=5229274266341634",
+    "sinaweibo://detail?mblogid=5229274270274159",
+    "sinaweibo://detail?mblogid=5229275772884709",
+    "sinaweibo://detail?mblogid=5229274269223932",
+    "sinaweibo://detail?mblogid=5229267801609372",
+    "sinaweibo://detail?mblogid=5229276280390109",
+    "sinaweibo://detail?mblogid=5229268742701426",
+    "sinaweibo://detail?mblogid=5229272145069683",
+    "sinaweibo://detail?mblogid=5229284360983887",
+    "sinaweibo://detail?mblogid=5229278829743544",
+    "sinaweibo://detail?mblogid=5229268726451886",
+    "sinaweibo://detail?mblogid=5229268294699634",
+    "sinaweibo://detail?mblogid=5229266997873055",
+    "sinaweibo://detail?mblogid=5229267243763741",
+    "sinaweibo://detail?mblogid=5229281904953603",
+    "sinaweibo://detail?mblogid=5229267684164908",
+    "sinaweibo://detail?mblogid=5229268869055700",
+    "sinaweibo://detail?mblogid=5229267724275156",
+    "sinaweibo://detail?mblogid=5229269867564323",
+    "sinaweibo://detail?mblogid=5229268138983610",
+    "sinaweibo://detail?mblogid=5229268082885089"
+  ],
+  "media": [
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/0067xJVfgy1i704pym9ryj64mo334b2d02.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/0067xJVfgy1i704pym9ryj64mo334b2d02.jpg",
+      "alt": "微博汽车",
+      "width": 4000,
+      "height": 6000,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/0067xJVfgy1i704pym9ryj64mo334b2d02.jpg"
+      ],
+      "user": "微博汽车"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/6763c2dagy1i705vdf3umj24mo336e84.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/6763c2dagy1i705vdf3umj24mo336e84.jpg",
+      "alt": "小田Alice",
+      "width": 4002,
+      "height": 6000,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/6763c2dagy1i705vdf3umj24mo336e84.jpg"
+      ],
+      "user": "小田Alice"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/454c5191gy1i7064ck41lj24mo334x6t.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/454c5191gy1i7064ck41lj24mo334x6t.jpg",
+      "alt": "路飞科技说",
+      "width": 4000,
+      "height": 6000,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/454c5191gy1i7064ck41lj24mo334x6t.jpg"
+      ],
+      "user": "路飞科技说"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/6f44fda3gy1i7066zy483j24mo336qv6.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/6f44fda3gy1i7066zy483j24mo336qv6.jpg",
+      "alt": "科技喵",
+      "width": 4002,
+      "height": 6000,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/6f44fda3gy1i7066zy483j24mo336qv6.jpg"
+      ],
+      "user": "科技喵"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/008AKMDmly8i707bl7trqj318g0tnwzc.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/008AKMDmly8i707bl7trqj318g0tnwzc.jpg",
+      "alt": "马弘运",
+      "width": 1067,
+      "height": 1600,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/008AKMDmly8i707bl7trqj318g0tnwzc.jpg"
+      ],
+      "user": "马弘运"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/008BYL7dgy1i706brwvmaj31hc0u078u.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/008BYL7dgy1i706brwvmaj31hc0u078u.jpg",
+      "alt": "熊哥嘚啵嘚",
+      "width": 1080,
+      "height": 1920,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx4.sinaimg.cn/large/008BYL7dgy1i706brwvmaj31hc0u078u.jpg"
+      ],
+      "user": "熊哥嘚啵嘚"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/a66d0169ly8i706inbzwwj209u05kwfq.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/a66d0169ly8i706inbzwwj209u05kwfq.jpg",
+      "alt": "吴晓童",
+      "width": 200,
+      "height": 354,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/a66d0169ly8i706inbzwwj209u05kwfq.jpg"
+      ],
+      "user": "吴晓童"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/e1566cbely1i707gymzd5j20mh0u0tb5.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/e1566cbely1i707gymzd5j20mh0u0tb5.jpg",
+      "alt": "宇飞视界",
+      "width": 1080,
+      "height": 809,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/e1566cbely1i707gymzd5j20mh0u0tb5.jpg"
+      ],
+      "user": "宇飞视界"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/5d09c4a2gy1i7066vbqa1j218g0tn1cd.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/5d09c4a2gy1i7066vbqa1j218g0tn1cd.jpg",
+      "alt": "不万能的楠哥",
+      "width": 1067,
+      "height": 1600,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/5d09c4a2gy1i7066vbqa1j218g0tn1cd.jpg"
+      ],
+      "user": "不万能的楠哥"
+    }
+  ],
+  "html_path": "data/aicard/hourly/2025-11-04/16/easy.html"
+}

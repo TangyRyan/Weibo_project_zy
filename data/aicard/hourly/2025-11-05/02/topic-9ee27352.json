@@ -1,0 +1,495 @@
+{
+  "meta": {
+    "query": "#孙颖莎球迷现场大喊生日快乐#",
+    "status_code": 200,
+    "fetched_at": "2025-11-05T02:50:56+08:00",
+    "response": {
+      "msg_format": "markdown",
+      "unify_md5": "9ee273524b049c16a466e4550bf2a1b2",
+      "msg_json": "{}",
+      "model": "deepseek",
+      "page_id": "23296499800d781682beabccc6a4972c4eaae8",
+      "query_field": "20",
+      "analysis_time": 1762281958,
+      "current_time": 1762282256,
+      "uid": "",
+      "user_info": {},
+      "reliable_tips": "{\"gold_orange_v_mids\": [\"5229365316292915\", \"5229276392850481\", \"5229381916300404\", \"5228475658800952\", \"5228500975882002\", \"5228928828444412\", \"5228834592915791\", \"5229235218156225\", \"5229230680180483\", \"5229239377854632\", \"5228935286621067\", \"5229192486322551\", \"5228498652498468\", \"5229231418379557\", \"5229243172913523\", \"5229181140207613\", \"5229171355944581\", \"5229171828588791\", \"5229170789454109\", \"5228524700962457\", \"5229230420133970\", \"5096662743912983\", \"5228272143308237\", \"5227846802085345\", \"5096971683233986\", \"5229358257281179\", \"5229213432414319\", \"5229383164104762\", \"5229398325199682\", \"5229386149659240\", \"5229383302252758\", \"5229328053046054\", \"5229253991860885\", \"5229282906341834\", \"5229047111483715\", \"5228586253681100\", \"5228492470093412\", \"5228636782204200\", \"5228641331971760\", \"5228992756977357\", \"5228230627295544\", \"5228233592408274\", \"5229183097634929\"], \"gold_orange_v_ratio\": \"66%\", \"media_mids\": [\"5229368064608803\", \"5229276943090476\", \"5229302870446106\", \"5229285342448840\", \"5229400192712924\", \"5229201395287169\", \"5229170871243696\", \"5229169252504456\", \"5096899366094030\", \"5229321942730609\", \"5229217218298892\", \"5229185284966916\", \"5229335944370674\"], \"media_ratio\": \"20%\", \"verified_mids\": [\"5228196288007448\", \"5229215009739637\", \"5229215175673954\", \"5229035400467203\", \"5096896986876935\", \"5097095010980149\"], \"verified_ratio\": \"9%\", \"normal_mids\": [\"5229404550859051\", \"5229398058078938\", \"5229404076638471\"], \"normal_ratio\": \"5%\", \"ref_mid_rank\": {\"5229368064608803\": {\"rank\": 2}, \"5229365316292915\": {\"rank\": 41}, \"5229276392850481\": {\"rank\": 1}, \"5229276943090476\": {\"rank\": 33}, \"5229381916300404\": {\"rank\": 32}, \"5228475658800952\": {\"rank\": 40}, \"5229302870446106\": {\"rank\": 36}, \"5228500975882002\": {\"rank\": 45}, \"5228928828444412\": {\"rank\": 53}, \"5228196288007448\": {\"rank\": 11}, \"5228834592915791\": {\"rank\": 52}, \"5229215009739637\": {\"rank\": 61}, \"5229235218156225\": {\"rank\": 63}, \"5229230680180483\": {\"rank\": 64}, \"5229285342448840\": {\"rank\": 48}, \"5229400192712924\": {\"rank\": 35}, \"5229201395287169\": {\"rank\": 60}, \"5229239377854632\": {\"rank\": 12}, \"5228935286621067\": {\"rank\": 30}, \"5229192486322551\": {\"rank\": 8}, \"5228498652498468\": {\"rank\": 58}, \"5229170871243696\": {\"rank\": 67}, \"5229231418379557\": {\"rank\": 44}, \"5229243172913523\": {\"rank\": 66}, \"5229181140207613\": {\"rank\": 7}, \"5229171355944581\": {\"rank\": 70}, \"5229215175673954\": {\"rank\": 3}, \"5229171828588791\": {\"rank\": 4}, \"5229170789454109\": {\"rank\": 5}, \"5229169252504456\": {\"rank\": 6}, \"5228524700962457\": {\"rank\": 9}, \"5229035400467203\": {\"rank\": 10}, \"5229230420133970\": {\"rank\": 13}, \"5096662743912983\": {\"rank\": 14}, \"5228272143308237\": {\"rank\": 15}, \"5096896986876935\": {\"rank\": 16}, \"5096899366094030\": {\"rank\": 17}, \"5097095010980149\": {\"rank\": 18}, \"5227846802085345\": {\"rank\": 19}, \"5096971683233986\": {\"rank\": 20}, \"5229404550859051\": {\"rank\": 26}, \"5229358257281179\": {\"rank\": 27}, \"5229213432414319\": {\"rank\": 28}, \"5229398058078938\": {\"rank\": 29}, \"5229383164104762\": {\"rank\": 31}, \"5229398325199682\": {\"rank\": 34}, \"5229386149659240\": {\"rank\": 37}, \"5229383302252758\": {\"rank\": 38}, \"5229404076638471\": {\"rank\": 39}, \"5229328053046054\": {\"rank\": 42}, \"5229321942730609\": {\"rank\": 43}, \"5229217218298892\": {\"rank\": 46}, \"5229253991860885\": {\"rank\": 47}, \"5229282906341834\": {\"rank\": 49}, \"5229047111483715\": {\"rank\": 50}, \"5228586253681100\": {\"rank\": 51}, \"5228492470093412\": {\"rank\": 54}, \"5228636782204200\": {\"rank\": 55}, \"5228641331971760\": {\"rank\": 56}, \"5228992756977357\": {\"rank\": 57}, \"5229185284966916\": {\"rank\": 59}, \"5228230627295544\": {\"rank\": 62}, \"5228233592408274\": {\"rank\": 65}, \"5229335944370674\": {\"rank\": 68}, \"5229183097634929\": {\"rank\": 69}}}",
+      "mid_list": null,
+      "reference_num": 65,
+      "query_category": "Ip",
+      "status_stage": 4,
+      "comment_info": {},
+      "show_ctrl": {
+        "quote": {}
+      },
+      "top_quote_list": {},
+      "short_url": "http://t.cn/AXAT106H",
+      "card_multimodal": {
+        "data": [
+          {
+            "h": 1164,
+            "doc_score": 0,
+            "img": "http://wx3.sinaimg.cn/middle/008gE3ssly1i70hqfbfcvj30k00wcwg8.jpg",
+            "type": "v",
+            "click_rate": 0.20453861516155,
+            "click_num": 0,
+            "w": 720,
+            "scheme": "sinaweibo://video/vvs?mid=5229368064608803&multi_paragraph=1&multi_count=0",
+            "vtype": 3,
+            "cur_mid": "5229368064608803",
+            "user_name": "白鹿视频",
+            "hit_score_final": 0,
+            "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.512.512.50/008gE3ssly8i02wouqxxvj30e80e8jrg.jpg?KID=imgbed,tva&Expires=1762292460&ssig=WEFT2z2Oaj",
+            "hit_score_new": 0,
+            "video_url": "https://video.weibo.com/show?fid=1034:5229367874486408",
+            "img_pid": "008gE3ssly1i70hqfbfcvj30k00wcwg8"
+          },
+          {
+            "h": 3072,
+            "doc_score": 0,
+            "img": "http://wx4.sinaimg.cn/middle/005vSTXVly1i7071t5yrfj335s2dcx6r.jpg",
+            "type": "p",
+            "click_rate": 0.13872081533867,
+            "click_num": 0,
+            "w": 4096,
+            "scheme": "sinaweibo://multimedia?mix_mid=5229276392850481&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=1",
+            "vtype": 0,
+            "cur_mid": "5229276392850481",
+            "user_name": "孙颖莎",
+            "hit_score_final": 0,
+            "user_avatar": "https://tvax2.sinaimg.cn/crop.0.0.512.512.50/005vSTXVly8htdxdlcaohj30e80e8t95.jpg?KID=imgbed,tva&Expires=1762292460&ssig=pqjSe8Ccgm",
+            "hit_score_new": 0,
+            "video_url": "",
+            "img_pid": "005vSTXVly1i7071t5yrfj335s2dcx6r"
+          },
+          {
+            "h": 1280,
+            "doc_score": 3438,
+            "img": "http://wx1.sinaimg.cn/middle/006ehHTSly1i70heukpgmj30k00zk40w.jpg",
+            "type": "v",
+            "click_rate": 0.088652482269504,
+            "click_num": 0,
+            "w": 720,
+            "scheme": "sinaweibo://video/vvs?mid=5229365316292915&multi_paragraph=1&multi_count=2",
+            "vtype": 0,
+            "cur_mid": "5229365316292915",
+            "user_name": "国球人生",
+            "hit_score_final": 60.232456,
+            "user_avatar": "https://tvax2.sinaimg.cn/crop.0.0.600.600.50/006ehHTSly8gxz64icyxoj30go0go75c.jpg?KID=imgbed,tva&Expires=1762292460&ssig=JokOglpyQA",
+            "hit_score_new": 89.599609,
+            "video_url": "https://video.weibo.com/show?fid=1034:5229365160509532",
+            "img_pid": "006ehHTSly1i70heukpgmj30k00zk40w"
+          },
+          {
+            "h": 1164,
+            "doc_score": 0,
+            "img": "http://wx3.sinaimg.cn/middle/008gE3ssly1i70hqfbfcvj30k00wcwg8.jpg",
+            "type": "v",
+            "click_rate": 0.20453861516155,
+            "click_num": 0,
+            "w": 720,
+            "scheme": "sinaweibo://video/vvs?mid=5229368064608803&multi_paragraph=1&multi_count=0",
+            "vtype": 3,
+            "cur_mid": "5229368064608803",
+            "user_name": "白鹿视频",
+            "hit_score_final": 0,
+            "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.512.512.50/008gE3ssly8i02wouqxxvj30e80e8jrg.jpg?KID=imgbed,tva&Expires=1762292460&ssig=WEFT2z2Oaj",
+            "hit_score_new": 0,
+            "video_url": "https://video.weibo.com/show?fid=1034:5229367874486408",
+            "img_pid": "008gE3ssly1i70hqfbfcvj30k00wcwg8"
+          }
+        ],
+        "type": "mediablock"
+      },
+      "share_card_multimodal": {
+        "h": 1164,
+        "doc_score": 0,
+        "img": "http://wx3.sinaimg.cn/middle/008gE3ssly1i70hqfbfcvj30k00wcwg8.jpg",
+        "type": "v",
+        "click_rate": 0.20453861516155,
+        "click_num": 0,
+        "w": 720,
+        "scheme": "sinaweibo://video/vvs?mid=5229368064608803&multi_paragraph=1&multi_count=0",
+        "vtype": 3,
+        "cur_mid": "5229368064608803",
+        "user_name": "白鹿视频",
+        "hit_score_final": 0,
+        "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.512.512.50/008gE3ssly8i02wouqxxvj30e80e8jrg.jpg?KID=imgbed,tva&Expires=1762292460&ssig=WEFT2z2Oaj",
+        "hit_score_new": 0,
+        "video_url": "https://video.weibo.com/show?fid=1034:5229367874486408",
+        "img_pid": "008gE3ssly1i70hqfbfcvj30k00wcwg8"
+      },
+      "basemodel": "实验组5",
+      "share_text": "#孙颖莎球迷现场大喊生日快乐#的相关内容，来智搜看看",
+      "status": 2,
+      "scheme": "sinaweibo://cardlist?containerid=100103type%3D225%26q%3D%23%E5%AD%99%E9%A2%96%E8%8E%8E%E7%90%83%E8%BF%B7%E7%8E%B0%E5%9C%BA%E5%A4%A7%E5%96%8A%E7%94%9F%E6%97%A5%E5%BF%AB%E4%B9%90%23%26t%3D&extparam=ai_model%3Ddeepseek%26ori_ai_title%3D%E5%8F%82%E8%80%83%E5%8D%9A%E6%96%87%26material_version%3D1762281660",
+      "wenda": {
+        "forward_gen": 0
+      },
+      "abtest_info": {
+        "chat_entrance": 1
+      },
+      "q_attr": {
+        "mid": "",
+        "from_uid": "",
+        "from_request_id": "",
+        "comment_from_type": "",
+        "reply_cid": ""
+      },
+      "cot": 1,
+      "chat_status_stage": 1,
+      "link_list": [
+        "sinaweibo://detail?mblogid=5229276392850481",
+        "sinaweibo://detail?mblogid=5229368064608803",
+        "sinaweibo://detail?mblogid=5229215175673954",
+        "sinaweibo://detail?mblogid=5229171828588791",
+        "sinaweibo://detail?mblogid=5229170789454109",
+        "sinaweibo://detail?mblogid=5229169252504456",
+        "sinaweibo://detail?mblogid=5229181140207613",
+        "sinaweibo://detail?mblogid=5229192486322551",
+        "sinaweibo://detail?mblogid=5228524700962457",
+        "sinaweibo://detail?mblogid=5229035400467203",
+        "sinaweibo://detail?mblogid=5228196288007448",
+        "sinaweibo://detail?mblogid=5229239377854632",
+        "sinaweibo://detail?mblogid=5229230420133970",
+        "sinaweibo://detail?mblogid=5096662743912983",
+        "sinaweibo://detail?mblogid=5228272143308237",
+        "sinaweibo://detail?mblogid=5096896986876935",
+        "sinaweibo://detail?mblogid=5096899366094030",
+        "sinaweibo://detail?mblogid=5097095010980149",
+        "sinaweibo://detail?mblogid=5227846802085345",
+        "sinaweibo://detail?mblogid=5096971683233986",
+        "broadsocial_res://",
+        "broadsocial_res://",
+        "historyweibo://5229276392850481",
+        "historyweibo://5229357058492039",
+        "historyweibo://5229229387548460",
+        "sinaweibo://detail?mblogid=5229404550859051",
+        "sinaweibo://detail?mblogid=5229358257281179",
+        "sinaweibo://detail?mblogid=5229213432414319",
+        "sinaweibo://detail?mblogid=5229398058078938",
+        "sinaweibo://detail?mblogid=5228935286621067",
+        "sinaweibo://detail?mblogid=5229383164104762",
+        "sinaweibo://detail?mblogid=5229381916300404",
+        "sinaweibo://detail?mblogid=5229276943090476",
+        "sinaweibo://detail?mblogid=5229398325199682",
+        "sinaweibo://detail?mblogid=5229400192712924",
+        "sinaweibo://detail?mblogid=5229302870446106",
+        "sinaweibo://detail?mblogid=5229386149659240",
+        "sinaweibo://detail?mblogid=5229383302252758",
+        "sinaweibo://detail?mblogid=5229404076638471",
+        "sinaweibo://detail?mblogid=5228475658800952",
+        "sinaweibo://detail?mblogid=5229365316292915",
+        "sinaweibo://detail?mblogid=5229328053046054",
+        "sinaweibo://detail?mblogid=5229321942730609",
+        "sinaweibo://detail?mblogid=5229231418379557",
+        "sinaweibo://detail?mblogid=5228500975882002",
+        "sinaweibo://detail?mblogid=5229217218298892",
+        "sinaweibo://detail?mblogid=5229253991860885",
+        "sinaweibo://detail?mblogid=5229285342448840",
+        "sinaweibo://detail?mblogid=5229282906341834",
+        "sinaweibo://detail?mblogid=5229047111483715",
+        "sinaweibo://detail?mblogid=5228586253681100",
+        "sinaweibo://detail?mblogid=5228834592915791",
+        "sinaweibo://detail?mblogid=5228928828444412",
+        "sinaweibo://detail?mblogid=5228492470093412",
+        "sinaweibo://detail?mblogid=5228636782204200",
+        "sinaweibo://detail?mblogid=5228641331971760",
+        "sinaweibo://detail?mblogid=5228992756977357",
+        "sinaweibo://detail?mblogid=5228498652498468",
+        "sinaweibo://detail?mblogid=5229185284966916",
+        "sinaweibo://detail?mblogid=5229201395287169",
+        "sinaweibo://detail?mblogid=5229215009739637",
+        "sinaweibo://detail?mblogid=5228230627295544",
+        "sinaweibo://detail?mblogid=5229235218156225",
+        "sinaweibo://detail?mblogid=5229230680180483",
+        "sinaweibo://detail?mblogid=5228233592408274",
+        "sinaweibo://detail?mblogid=5229243172913523",
+        "sinaweibo://detail?mblogid=5229170871243696",
+        "sinaweibo://detail?mblogid=5229335944370674",
+        "sinaweibo://detail?mblogid=5229183097634929",
+        "sinaweibo://detail?mblogid=5229171355944581"
+      ],
+      "share_info": {
+        "unify_md5": "9ee273524b049c16a466e4550bf2a1b2",
+        "url": "http://t.cn/AXAT1Nzp",
+        "display_name": "#孙颖莎球迷现场大喊生日快乐#",
+        "comment_content": "",
+        "tips": "#孙颖莎球迷现场大喊生日快乐#的相关内容，来智搜看看",
+        "status": 3,
+        "page_id": "23296499800d781682beabccc6a4972c4eaae8"
+      },
+      "qs_status_info": "{\"qs_c_status\":8388608,\"qs_q_status\":0,\"qs_u_status\":0,\"qs_r_status\":0,\"ab_lab\":{},\"qs_status\":0}",
+      "ext_show": {},
+      "loop_times": 200,
+      "msg": "<think><br>嗯，用户想要了解孙颖莎球迷现场大喊生日快乐的具体情况。看了搜索结果，发现这是发生在2025年11月4日孙颖莎25岁生日当天的感人场景。<br><br>首先注意到结果2和41都明确记录了事件细节：那天晚上孙颖莎在教练杨广弟和队友何卓佳陪同下抵达澳门机场时，现场接机的球迷们齐声高喊\"莎莎生日快乐\"。虽然当时孙颖莎没有当场回应，但她在同一天发布的生日微博里特别提到被大家的祝福感动。<br><br>更打动我的是这场机场祝福只是全国庆生活动的冰山一角。结果23显示成都有上千球迷在商场合唱《最美的太阳》，杭州有生日飞艇升空，上海球迷在百脑汇打造了展示她17个世界冠军的\"荣誉阶梯\"。甚至海外球迷也有参与，结果55提到越南球迷送来了祝福。<br><br>品牌方也加入庆生行列很用心。红旗汽车推出\"生日飞艇\"，李宁乒乓球抽奖赠送定制周边，OPPO在55城点亮生日主题大屏。世界乒联和国际奥委会都发布了正式祝福。特别温暖的是队友孙铭阳卡点零点发文，亲密称呼她\"小胖墩\"并晒训练馆合照。<br><br>孙颖莎的回应特别真诚。她在生日微博里说球迷支持是\"最珍贵的力量\"，承诺新的一岁会坚持\"球台前全力以赴，生活里简单快乐\"的态度。结果8提到她曾绕场向球迷抛送签名球，结果12描述她查看生日应援墙后特意脱外套合影，这些细节都展现双向奔赴的感情。<br><br>这个生日对孙颖莎很有意义。结果24提到她当天身着婴儿蓝服装抵达澳门后，仅休息一晚就投入高强度训练，为11月7日开赛的全运会做准备。她这次将第三次冲击全运会女单冠军，若成功将成为现役唯一\"大满贯四冠王\"。<br><br>准备用四个部分组织回答：先讲最核心的机场事件，再展开全国创意庆生，接着说明孙颖莎的回应，最后带出生日背后的赛事意义。在重要部分添加表情符号做视觉引导，比如机场场景用📣，全国活动用🌍，孙颖莎回应用💌等。最后用🎂符号收尾，带出她冲击全运冠军的展望。<br><br></think><br>以下是关于孙颖莎球迷现场庆生事件的综合整理，结合核心事实与细节呈现：<br>### 📣 **一、焦点现场事件：澳门机场千人祝福**  <br>1. **球迷接机齐呼生日祝福**  <br>   2025年11月4日晚，孙颖莎与教练杨广弟、队友何卓佳等人抵达澳门机场时，现场聚集的球迷自发高喊“莎莎生日快乐！”，声浪震撼。这一场景被多家媒体记录，展现了球迷对她真挚的情感支持。```wbCustomBlock{\"type\": \"quoted\", \"index\": 4, \"data\": {\"num\": [2, 41], \"version\": 2, \"quote_list\": [{\"name\": \"白鹿视频\", \"scheme\": \"sinaweibo://detail?mblogid=5229368064608803\", \"index\": 2, \"label\": \"大v\"}, {\"name\": \"国球人生\", \"scheme\": \"sinaweibo://detail?mblogid=5229365316292915\", \"index\": 41, \"label\": \"\"}], \"name\": \"白鹿视频\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.512.512.50/008gE3ssly8i02wouqxxvj30e80e8jrg.jpg?KID=imgbed,tva&Expires=1762292460&ssig=WEFT2z2Oaj\", \"scheme\": \"sinaweibo://detail?mblogid=5229368064608803\", \"vType\": 3}}```  <br>   - 尽管孙颖莎未当场回应，但在同日发布的生日长文中特别提到：“最近看到了大家给我的生日祝福，每一个瞬间都特别感动”，间接回应了现场热情。```wbCustomBlock{\"type\": \"quoted\", \"index\": 5, \"data\": {\"num\": [1, 33], \"version\": 2, \"quote_list\": [{\"name\": \"孙颖莎\", \"scheme\": \"sinaweibo://detail?mblogid=5229276392850481\", \"index\": 1, \"label\": \"大v\"}, {\"name\": \"白鹿视频\", \"scheme\": \"sinaweibo://detail?mblogid=5229276943090476\", \"index\": 33, \"label\": \"\"}], \"name\": \"孙颖莎\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.512.512.50/005vSTXVly8htdxdlcaohj30e80e8t95.jpg?KID=imgbed,tva&Expires=1762292460&ssig=pqjSe8Ccgm\", \"scheme\": \"sinaweibo://detail?mblogid=5229276392850481\", \"vType\": 0}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5229368064608803&multi_paragraph=1&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.512.512.50/008gE3ssly8i02wouqxxvj30e80e8jrg.jpg?KID=imgbed,tva&Expires=1762292460&ssig=WEFT2z2Oaj) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">白鹿视频</span><img src=\"http://wx3.sinaimg.cn/middle/008gE3ssly1i70hqfbfcvj30k00wcwg8.jpg\" data-width=1164 data-height=720></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5229276392850481&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=1\"><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.512.512.50/005vSTXVly8htdxdlcaohj30e80e8t95.jpg?KID=imgbed,tva&Expires=1762292460&ssig=pqjSe8Ccgm) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">孙颖莎</span><img src=\"http://wx4.sinaimg.cn/middle/005vSTXVly1i7071t5yrfj335s2dcx6r.jpg\" data-width=3072 data-height=4096></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5229365316292915&multi_paragraph=1&multi_count=2\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.600.600.50/006ehHTSly8gxz64icyxoj30go0go75c.jpg?KID=imgbed,tva&Expires=1762292460&ssig=JokOglpyQA) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">国球人生</span><img src=\"http://wx1.sinaimg.cn/middle/006ehHTSly1i70heukpgmj30k00zk40w.jpg\" data-width=1280 data-height=720></div></media-block><br>### 🌍 **二、全国联动庆生：创意与规模**  <br>1. **多城市特色应援**  <br>   - **成都**：球迷在商场组织千人合唱《最美的太阳》，现场人头攒动，氛围热烈；同时启用无人机表演，拼出“GRAND HERSTORY”等字样致敬其职业生涯。```wbCustomBlock{\"type\": \"quoted\", \"index\": 9, \"data\": {\"num\": [32, 40], \"version\": 2, \"quote_list\": [{\"name\": \"郑郑郑小七\", \"scheme\": \"sinaweibo://detail?mblogid=5228475658800952\", \"index\": 40, \"label\": \"大v\"}, {\"name\": \"vizwnyulnn\", \"scheme\": \"sinaweibo://detail?mblogid=5229381916300404\", \"index\": 32, \"label\": \"\"}], \"name\": \"郑郑郑小七\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.512.512.50/006ixuGRly8gohxxvmq9vj30e80e8weq.jpg?KID=imgbed,tva&Expires=1762292460&ssig=VFYtMA22aS\", \"scheme\": \"sinaweibo://detail?mblogid=5228475658800952\", \"vType\": 0}}```  <br>   - **杭州**：萧山升起“生日飞艇”，以空中仪式祝福她“继续闪耀”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 10, \"data\": {\"num\": [36], \"version\": 2, \"quote_list\": [{\"name\": \"中国蓝新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5229302870446106\", \"index\": 36, \"label\": \"大v\"}], \"name\": \"中国蓝新闻\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.1000.1000.50/8842ff52ly8heqfusvnwbj20rs0rsmxx.jpg?KID=imgbed,tva&Expires=1762292460&ssig=3S1KreN2fB\", \"scheme\": \"sinaweibo://detail?mblogid=5229302870446106\", \"vType\": 3}}```  <br>   - **南宁**：球迷合唱活动传递“健康涨球、全运夺金”的祝愿。```wbCustomBlock{\"type\": \"quoted\", \"index\": 11, \"data\": {\"num\": [45], \"version\": 2, \"quote_list\": [{\"name\": \"玉兔吃瓜\", \"scheme\": \"sinaweibo://detail?mblogid=5228500975882002\", \"index\": 45, \"label\": \"\"}]}}```  <br>   - **上海**：球迷在百脑汇打造“孙颖莎荣誉阶梯”，展示其17个世界冠军成就。```wbCustomBlock{\"type\": \"quoted\", \"index\": 12, \"data\": {\"num\": [53], \"version\": 2, \"quote_list\": [{\"name\": \"灵魂小妖作妖纪\", \"scheme\": \"sinaweibo://detail?mblogid=5228928828444412\", \"index\": 53, \"label\": \"\"}]}}```  <br><br>2. **线上线下双向互动**  <br>   - **球迷视频接力**：咪咕体育发起全球祝福征集，福州、石家庄、纽约等地球迷录制视频，强调“赛场拼搏、健康涨球”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 14, \"data\": {\"num\": [11, 52], \"version\": 2, \"quote_list\": [{\"name\": \"咪咕体育\", \"scheme\": \"sinaweibo://detail?mblogid=5228196288007448\", \"index\": 11, \"label\": \"大v\"}, {\"name\": \"睡不够的XP君\", \"scheme\": \"sinaweibo://detail?mblogid=5228834592915791\", \"index\": 52, \"label\": \"\"}], \"name\": \"咪咕体育\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.600.600.50/006TJIxply8i2beurilo1j30go0go75j.jpg?KID=imgbed,tva&Expires=1762292460&ssig=q%2F13K8lbXD\", \"scheme\": \"sinaweibo://detail?mblogid=5228196288007448\", \"vType\": 3}}```  <br>   - **品牌联动**：红旗汽车推出“生日飞艇”和AI座舱主题祝福；李宁乒乓球抽奖赠送定制周边，呼应其商业影响力。```wbCustomBlock{\"type\": \"quoted\", \"index\": 15, \"data\": {\"num\": [61, 63, 64], \"version\": 2, \"quote_list\": [{\"name\": \"李宁乒乓球\", \"scheme\": \"sinaweibo://detail?mblogid=5229215009739637\", \"index\": 61, \"label\": \"\"}, {\"name\": \"小菠萝周泽昊\", \"scheme\": \"sinaweibo://detail?mblogid=5229235218156225\", \"index\": 63, \"label\": \"\"}, {\"name\": \"SYSDOCS\", \"scheme\": \"sinaweibo://detail?mblogid=5229230680180483\", \"index\": 64, \"label\": \"\"}]}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5228500975882002&multi_paragraph=2&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/0081sRrply8huondif2acj30u00u0q5k.jpg?KID=imgbed,tva&Expires=1762292460&ssig=nXQRNycH8p) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">玉兔吃瓜</span><img src=\"http://wx3.sinaimg.cn/middle/0081sRrply1i6xq57m3eej30k00zkn0l.jpg\" data-width=1280 data-height=720></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5228475658800952&multi_paragraph=2&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.512.512.50/006ixuGRly8gohxxvmq9vj30e80e8weq.jpg?KID=imgbed,tva&Expires=1762292460&ssig=VFYtMA22aS) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">郑郑郑小七</span><img src=\"http://wx1.sinaimg.cn/middle/006ixuGRly1i6xn8c0nukj30g00sggoo.jpg\" data-width=1024 data-height=576></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5229302870446106&multi_paragraph=2&multi_count=2\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.1000.1000.50/8842ff52ly8heqfusvnwbj20rs0rsmxx.jpg?KID=imgbed,tva&Expires=1762292460&ssig=3S1KreN2fB) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">中国蓝新闻</span><img src=\"http://wx1.sinaimg.cn/middle/8842ff52gy1i70a91fqxmj20k00qpdl4.jpg\" data-width=961 data-height=720></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5228196288007448&multi_paragraph=2&multi_count=3\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.600.600.50/006TJIxply8i2beurilo1j30go0go75j.jpg?KID=imgbed,tva&Expires=1762292460&ssig=q%2F13K8lbXD) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">咪咕体育</span><img src=\"http://wx2.sinaimg.cn/middle/006TJIxply1i6wr5jfemwj30u00gwn3a.jpg\" data-width=608 data-height=1080></div></media-block><br>### 💌 **三、孙颖莎的回应：感恩与承诺**  <br>1. **社交媒体深情致谢**  <br>   孙颖莎在11月4日发布的生日长文中多次强调：  <br>   - 球迷的支持是“最珍贵的力量”，感谢大家让她“感受到这么多的爱”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 19, \"data\": {\"num\": [1, 48], \"version\": 2, \"quote_list\": [{\"name\": \"澎湃新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5229285342448840\", \"index\": 48, \"label\": \"大v\"}, {\"name\": \"孙颖莎\", \"scheme\": \"sinaweibo://detail?mblogid=5229276392850481\", \"index\": 1, \"label\": \"\"}], \"name\": \"澎湃新闻\", \"img\": \"https://tvax1.sinaimg.cn/crop.11.10.275.275.50/005vnhZYly8ftjmwo0bx4j308c08cq32.jpg?KID=imgbed,tva&Expires=1762292460&ssig=uAZ0kQVvoU\", \"scheme\": \"sinaweibo://detail?mblogid=5229285342448840\", \"vType\": 3}}```  <br>   - 分享马里奥主题生日蛋糕，呼应个人喜好。```wbCustomBlock{\"type\": \"quoted\", \"index\": 20, \"data\": {\"num\": [35, 60], \"version\": 2, \"quote_list\": [{\"name\": \"星视频\", \"scheme\": \"sinaweibo://detail?mblogid=5229400192712924\", \"index\": 35, \"label\": \"大v\"}, {\"name\": \"中国蓝新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5229201395287169\", \"index\": 60, \"label\": \"\"}], \"name\": \"星视频\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.600.600.50/0070ni15ly8hcmk65avs5j30go0godgt.jpg?KID=imgbed,tva&Expires=1762292460&ssig=StA6zM1BEq\", \"scheme\": \"sinaweibo://detail?mblogid=5229400192712924\", \"vType\": 3}}```  <br>   - 承诺新一岁坚守“球台前全力以赴，生活里简单快乐”的态度。```wbCustomBlock{\"type\": \"quoted\", \"index\": 21, \"data\": {\"num\": [1, 48], \"version\": 2, \"quote_list\": [{\"name\": \"孙颖莎\", \"scheme\": \"sinaweibo://detail?mblogid=5229276392850481\", \"index\": 1, \"label\": \"\"}, {\"name\": \"澎湃新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5229285342448840\", \"index\": 48, \"label\": \"\"}]}}```  <br><br>2. **赛场外的双向奔赴**  <br>   - 据球迷透露，孙颖莎赛后特意查看生日应援墙，并脱外套与布置合影，被赞“暖心回应心意”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 23, \"data\": {\"num\": [12, 30], \"version\": 2, \"quote_list\": [{\"name\": \"肉包想吃肉包\", \"scheme\": \"sinaweibo://detail?mblogid=5229239377854632\", \"index\": 12, \"label\": \"大v\"}, {\"name\": \"元宝团子好杮朵朵\", \"scheme\": \"sinaweibo://detail?mblogid=5228935286621067\", \"index\": 30, \"label\": \"\"}], \"name\": \"肉包想吃肉包\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/008dDVvBly8ht1l83m9m6j30u00u0myg.jpg?KID=imgbed,tva&Expires=1762292460&ssig=Qt%2B6iXDAc7\", \"scheme\": \"sinaweibo://detail?mblogid=5229239377854632\", \"vType\": 0}}```  <br>   - 此前全运会比赛结束，她曾绕场向球迷抛送签名球，将胜利喜悦转化为对粉丝的感谢。```wbCustomBlock{\"type\": \"quoted\", \"index\": 24, \"data\": {\"num\": [8, 58], \"version\": 2, \"quote_list\": [{\"name\": \"元宝团子好杮朵朵\", \"scheme\": \"sinaweibo://detail?mblogid=5229192486322551\", \"index\": 8, \"label\": \"\"}, {\"name\": \"寻风体育\", \"scheme\": \"sinaweibo://detail?mblogid=5228498652498468\", \"index\": 58, \"label\": \"\"}]}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5229400192712924&multi_paragraph=3&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.600.600.50/0070ni15ly8hcmk65avs5j30go0godgt.jpg?KID=imgbed,tva&Expires=1762292460&ssig=StA6zM1BEq) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">星视频</span><img src=\"http://wx4.sinaimg.cn/middle/0070ni15ly1i70leap89tj30k00zkmyi.jpg\" data-width=1280 data-height=720></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5229201395287169&multi_paragraph=3&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.1000.1000.50/8842ff52ly8heqfusvnwbj20rs0rsmxx.jpg?KID=imgbed,tva&Expires=1762292460&ssig=3S1KreN2fB) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">中国蓝新闻</span><img src=\"http://wx4.sinaimg.cn/middle/8842ff52ly1i6zykgrg6tj20u01hcjtv.jpg\" data-width=1920 data-height=1080></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5229239377854632&multi_paragraph=3&multi_count=2\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/008dDVvBly8ht1l83m9m6j30u00u0myg.jpg?KID=imgbed,tva&Expires=1762292460&ssig=Qt%2B6iXDAc7) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">肉包想吃肉包</span><img src=\"http://wx2.sinaimg.cn/middle/008dDVvBgy1i702yiswmmj30u00gvmyn.jpg\" data-width=607 data-height=1080></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5229192486322551&multi_paragraph=3&multi_count=3\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.640.640.50/008xJtluly8i2dowis80qj30hs0hsdge.jpg?KID=imgbed,tva&Expires=1762292460&ssig=dd2XU8DCuT) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">元宝团子好杮朵朵</span><img src=\"http://wx2.sinaimg.cn/middle/008xJtlugy1i6zxjz6yvrj30u01hcdhz.jpg\" data-width=1920 data-height=1080></div></media-block><br>### 🌐 **四、国际关注与队友祝福**  <br>1. **官方机构致敬**  <br>   - 国际奥委会发布视频回顾其从青奥会到巴黎奥运的精彩瞬间。```wbCustomBlock{\"type\": \"quoted\", \"index\": 28, \"data\": {\"num\": [67], \"version\": 2, \"quote_list\": [{\"name\": \"北京日报\", \"scheme\": \"sinaweibo://detail?mblogid=5229170871243696\", \"index\": 67, \"label\": \"大v\"}], \"name\": \"北京日报\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.600.600.50/0024aA4lly8i51bp1z4bcj60go0goq3g02.jpg?KID=imgbed,tva&Expires=1762292460&ssig=hvNQd%2FQ%2FtW\", \"scheme\": \"sinaweibo://detail?mblogid=5229170871243696\", \"vType\": 3}}```  <br>   - WTT世界乒联发文：“莎场逐光，不负韶华；球拍为刃，不负热爱”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 29, \"data\": {\"num\": [44, 66], \"version\": 2, \"quote_list\": [{\"name\": \"界外编辑部\", \"scheme\": \"sinaweibo://detail?mblogid=5229231418379557\", \"index\": 44, \"label\": \"大v\"}, {\"name\": \"肉包想吃肉包\", \"scheme\": \"sinaweibo://detail?mblogid=5229243172913523\", \"index\": 66, \"label\": \"\"}], \"name\": \"界外编辑部\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.690.690.50/007unxg2ly8h0pbq8jwrqj30j60j63yn.jpg?KID=imgbed,tva&Expires=1762292460&ssig=kd6BjlpPuN\", \"scheme\": \"sinaweibo://detail?mblogid=5229231418379557\", \"vType\": 0}}```  <br><br>2. **队友温情互动**  <br>   队友孙铭阳卡点零点发文，亲切称呼她“小胖墩”，晒出训练馆合照记录温馨时刻。```wbCustomBlock{\"type\": \"quoted\", \"index\": 30, \"data\": {\"num\": [7, 70], \"version\": 2, \"quote_list\": [{\"name\": \"欢乐福满家\", \"scheme\": \"sinaweibo://detail?mblogid=5229171355944581\", \"index\": 70, \"label\": \"\"}, {\"name\": \"青青之鳳\", \"scheme\": \"sinaweibo://detail?mblogid=5229181140207613\", \"index\": 7, \"label\": \"\"}], \"name\": \"欢乐福满家\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.828.828.50/79995314ly8i26sfmcwhbj20n00n0gnb.jpg?KID=imgbed,tva&Expires=1762292460&ssig=OI6rf3lIMA\", \"scheme\": \"sinaweibo://detail?mblogid=5229171355944581\", \"vType\": 0}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5229243172913523&from=search&content_show=1&mix_index=4&hide_index=1&multi_paragraph=4&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/008dDVvBly8ht1l83m9m6j30u00u0myg.jpg?KID=imgbed,tva&Expires=1762292460&ssig=Qt%2B6iXDAc7) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">肉包想吃肉包</span><img src=\"http://wx3.sinaimg.cn/middle/008dDVvBgy1i703cai5w8j30u01u0k1h.jpg\" data-width=2376 data-height=1080></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5229171355944581&multi_paragraph=4&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.828.828.50/79995314ly8i26sfmcwhbj20n00n0gnb.jpg?KID=imgbed,tva&Expires=1762292460&ssig=OI6rf3lIMA) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">欢乐福满家</span><img src=\"http://wx2.sinaimg.cn/middle/79995314ly1i6zv4k8tfzj20u0140mya.jpg\" data-width=1440 data-height=1080></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5229170871243696&multi_paragraph=4&multi_count=2\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.600.600.50/0024aA4lly8i51bp1z4bcj60go0goq3g02.jpg?KID=imgbed,tva&Expires=1762292460&ssig=hvNQd%2FQ%2FtW) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">北京日报</span><img src=\"http://wx1.sinaimg.cn/middle/0024aA4lly1i6zw46jmewj60u01hcwi302.jpg\" data-width=1920 data-height=1080></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5229231418379557&multi_paragraph=4&multi_count=3\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.690.690.50/007unxg2ly8h0pbq8jwrqj30j60j63yn.jpg?KID=imgbed,tva&Expires=1762292460&ssig=kd6BjlpPuN) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">界外编辑部</span><img src=\"http://wx2.sinaimg.cn/middle/008fmYuqly1i700fthj8dj32yo1o0e81.jpg\" data-width=2160 data-height=3840></div></media-block><br>### 🏓 **五、背景：生日与大赛备战交织**  <br>   - 孙颖莎在25岁生日当天启程前往澳门参加第十五届全运会，河北队以头号种子身份出战。```wbCustomBlock{\"type\": \"quoted\", \"index\": 33, \"data\": {\"num\": [33], \"version\": 2, \"quote_list\": [{\"name\": \"白鹿视频\", \"scheme\": \"sinaweibo://detail?mblogid=5229276943090476\", \"index\": 33, \"label\": \"\"}]}}```  <br>   - 她在长文中将球迷支持与乒乓球（“小白球”）并列为成长支柱，强调“成绩属于过去，下一局重新来过”的竞技态度。```wbCustomBlock{\"type\": \"quoted\", \"index\": 34, \"data\": {\"num\": [1, 48], \"version\": 2, \"quote_list\": [{\"name\": \"孙颖莎\", \"scheme\": \"sinaweibo://detail?mblogid=5229276392850481\", \"index\": 1, \"label\": \"\"}, {\"name\": \"澎湃新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5229285342448840\", \"index\": 48, \"label\": \"\"}]}}```<br>### 💎 总结  <br>此次庆生事件既是球迷情感的集中释放，也彰显了孙颖莎作为体坛顶流的影响力。从澳门机场的千人齐呼到全国25城的创意应援，从国际组织的致敬到队友的暖心祝福，共同构成了一幅“热爱因共享而永恒”的画卷。而孙颖莎以感恩之心回应，将这份支持转化为赛场拼搏的动力，为即将到来的全运会注入温暖能量。  <br><br>> ㊗️ **25岁的孙颖莎，愿球拍锋利如初，笑容永驻征途！** 🎂<br>",
+      "ab_suffix": "default",
+      "sorted_material_list": null,
+      "qs_status": 0,
+      "zs_risk_control": {
+        "think_text_close": 0,
+        "land_button_close": 0
+      },
+      "version": "2025-11-05 02:41:00.006999-2865",
+      "news_analyze": {},
+      "profile_image_url": "",
+      "query": "#孙颖莎球迷现场大喊生日快乐#"
+    }
+  },
+  "links": [
+    "sinaweibo://detail?mblogid=5229276392850481",
+    "sinaweibo://detail?mblogid=5229368064608803",
+    "sinaweibo://detail?mblogid=5229215175673954",
+    "sinaweibo://detail?mblogid=5229171828588791",
+    "sinaweibo://detail?mblogid=5229170789454109",
+    "sinaweibo://detail?mblogid=5229169252504456",
+    "sinaweibo://detail?mblogid=5229181140207613",
+    "sinaweibo://detail?mblogid=5229192486322551",
+    "sinaweibo://detail?mblogid=5228524700962457",
+    "sinaweibo://detail?mblogid=5229035400467203",
+    "sinaweibo://detail?mblogid=5228196288007448",
+    "sinaweibo://detail?mblogid=5229239377854632",
+    "sinaweibo://detail?mblogid=5229230420133970",
+    "sinaweibo://detail?mblogid=5096662743912983",
+    "sinaweibo://detail?mblogid=5228272143308237",
+    "sinaweibo://detail?mblogid=5096896986876935",
+    "sinaweibo://detail?mblogid=5096899366094030",
+    "sinaweibo://detail?mblogid=5097095010980149",
+    "sinaweibo://detail?mblogid=5227846802085345",
+    "sinaweibo://detail?mblogid=5096971683233986",
+    "broadsocial_res://",
+    "broadsocial_res://",
+    "historyweibo://5229276392850481",
+    "historyweibo://5229357058492039",
+    "historyweibo://5229229387548460",
+    "sinaweibo://detail?mblogid=5229404550859051",
+    "sinaweibo://detail?mblogid=5229358257281179",
+    "sinaweibo://detail?mblogid=5229213432414319",
+    "sinaweibo://detail?mblogid=5229398058078938",
+    "sinaweibo://detail?mblogid=5228935286621067",
+    "sinaweibo://detail?mblogid=5229383164104762",
+    "sinaweibo://detail?mblogid=5229381916300404",
+    "sinaweibo://detail?mblogid=5229276943090476",
+    "sinaweibo://detail?mblogid=5229398325199682",
+    "sinaweibo://detail?mblogid=5229400192712924",
+    "sinaweibo://detail?mblogid=5229302870446106",
+    "sinaweibo://detail?mblogid=5229386149659240",
+    "sinaweibo://detail?mblogid=5229383302252758",
+    "sinaweibo://detail?mblogid=5229404076638471",
+    "sinaweibo://detail?mblogid=5228475658800952",
+    "sinaweibo://detail?mblogid=5229365316292915",
+    "sinaweibo://detail?mblogid=5229328053046054",
+    "sinaweibo://detail?mblogid=5229321942730609",
+    "sinaweibo://detail?mblogid=5229231418379557",
+    "sinaweibo://detail?mblogid=5228500975882002",
+    "sinaweibo://detail?mblogid=5229217218298892",
+    "sinaweibo://detail?mblogid=5229253991860885",
+    "sinaweibo://detail?mblogid=5229285342448840",
+    "sinaweibo://detail?mblogid=5229282906341834",
+    "sinaweibo://detail?mblogid=5229047111483715",
+    "sinaweibo://detail?mblogid=5228586253681100",
+    "sinaweibo://detail?mblogid=5228834592915791",
+    "sinaweibo://detail?mblogid=5228928828444412",
+    "sinaweibo://detail?mblogid=5228492470093412",
+    "sinaweibo://detail?mblogid=5228636782204200",
+    "sinaweibo://detail?mblogid=5228641331971760",
+    "sinaweibo://detail?mblogid=5228992756977357",
+    "sinaweibo://detail?mblogid=5228498652498468",
+    "sinaweibo://detail?mblogid=5229185284966916",
+    "sinaweibo://detail?mblogid=5229201395287169",
+    "sinaweibo://detail?mblogid=5229215009739637",
+    "sinaweibo://detail?mblogid=5228230627295544",
+    "sinaweibo://detail?mblogid=5229235218156225",
+    "sinaweibo://detail?mblogid=5229230680180483",
+    "sinaweibo://detail?mblogid=5228233592408274",
+    "sinaweibo://detail?mblogid=5229243172913523",
+    "sinaweibo://detail?mblogid=5229170871243696",
+    "sinaweibo://detail?mblogid=5229335944370674",
+    "sinaweibo://detail?mblogid=5229183097634929",
+    "sinaweibo://detail?mblogid=5229171355944581"
+  ],
+  "media": [
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/008gE3ssly1i70hqfbfcvj30k00wcwg8.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/008gE3ssly1i70hqfbfcvj30k00wcwg8.jpg",
+      "alt": "白鹿视频",
+      "width": 1164,
+      "height": 720,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/008gE3ssly1i70hqfbfcvj30k00wcwg8.jpg"
+      ],
+      "user": "白鹿视频"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/005vSTXVly1i7071t5yrfj335s2dcx6r.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/005vSTXVly1i7071t5yrfj335s2dcx6r.jpg",
+      "alt": "孙颖莎",
+      "width": 3072,
+      "height": 4096,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/005vSTXVly1i7071t5yrfj335s2dcx6r.jpg"
+      ],
+      "user": "孙颖莎"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/006ehHTSly1i70heukpgmj30k00zk40w.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/006ehHTSly1i70heukpgmj30k00zk40w.jpg",
+      "alt": "国球人生",
+      "width": 1280,
+      "height": 720,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/006ehHTSly1i70heukpgmj30k00zk40w.jpg"
+      ],
+      "user": "国球人生"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/0081sRrply1i6xq57m3eej30k00zkn0l.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/0081sRrply1i6xq57m3eej30k00zkn0l.jpg",
+      "alt": "玉兔吃瓜",
+      "width": 1280,
+      "height": 720,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/0081sRrply1i6xq57m3eej30k00zkn0l.jpg"
+      ],
+      "user": "玉兔吃瓜"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/006ixuGRly1i6xn8c0nukj30g00sggoo.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/006ixuGRly1i6xn8c0nukj30g00sggoo.jpg",
+      "alt": "郑郑郑小七",
+      "width": 1024,
+      "height": 576,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/006ixuGRly1i6xn8c0nukj30g00sggoo.jpg"
+      ],
+      "user": "郑郑郑小七"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/8842ff52gy1i70a91fqxmj20k00qpdl4.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/8842ff52gy1i70a91fqxmj20k00qpdl4.jpg",
+      "alt": "中国蓝新闻",
+      "width": 961,
+      "height": 720,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/8842ff52gy1i70a91fqxmj20k00qpdl4.jpg"
+      ],
+      "user": "中国蓝新闻"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/006TJIxply1i6wr5jfemwj30u00gwn3a.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/006TJIxply1i6wr5jfemwj30u00gwn3a.jpg",
+      "alt": "咪咕体育",
+      "width": 608,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx4.sinaimg.cn/large/006TJIxply1i6wr5jfemwj30u00gwn3a.jpg"
+      ],
+      "user": "咪咕体育"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/0070ni15ly1i70leap89tj30k00zkmyi.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/0070ni15ly1i70leap89tj30k00zkmyi.jpg",
+      "alt": "星视频",
+      "width": 1280,
+      "height": 720,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/0070ni15ly1i70leap89tj30k00zkmyi.jpg"
+      ],
+      "user": "星视频"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/8842ff52ly1i6zykgrg6tj20u01hcjtv.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/8842ff52ly1i6zykgrg6tj20u01hcjtv.jpg",
+      "alt": "中国蓝新闻",
+      "width": 1920,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/8842ff52ly1i6zykgrg6tj20u01hcjtv.jpg"
+      ],
+      "user": "中国蓝新闻"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/008dDVvBgy1i702yiswmmj30u00gvmyn.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/008dDVvBgy1i702yiswmmj30u00gvmyn.jpg",
+      "alt": "肉包想吃肉包",
+      "width": 607,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/008dDVvBgy1i702yiswmmj30u00gvmyn.jpg"
+      ],
+      "user": "肉包想吃肉包"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/008xJtlugy1i6zxjz6yvrj30u01hcdhz.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/008xJtlugy1i6zxjz6yvrj30u01hcdhz.jpg",
+      "alt": "元宝团子好杮朵朵",
+      "width": 1920,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx4.sinaimg.cn/large/008xJtlugy1i6zxjz6yvrj30u01hcdhz.jpg"
+      ],
+      "user": "元宝团子好杮朵朵"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/008dDVvBgy1i703cai5w8j30u01u0k1h.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/008dDVvBgy1i703cai5w8j30u01u0k1h.jpg",
+      "alt": "肉包想吃肉包",
+      "width": 2376,
+      "height": 1080,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/008dDVvBgy1i703cai5w8j30u01u0k1h.jpg"
+      ],
+      "user": "肉包想吃肉包"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/79995314ly1i6zv4k8tfzj20u0140mya.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/79995314ly1i6zv4k8tfzj20u0140mya.jpg",
+      "alt": "欢乐福满家",
+      "width": 1440,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/79995314ly1i6zv4k8tfzj20u0140mya.jpg"
+      ],
+      "user": "欢乐福满家"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/0024aA4lly1i6zw46jmewj60u01hcwi302.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/0024aA4lly1i6zw46jmewj60u01hcwi302.jpg",
+      "alt": "北京日报",
+      "width": 1920,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/0024aA4lly1i6zw46jmewj60u01hcwi302.jpg"
+      ],
+      "user": "北京日报"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/008fmYuqly1i700fthj8dj32yo1o0e81.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/008fmYuqly1i700fthj8dj32yo1o0e81.jpg",
+      "alt": "界外编辑部",
+      "width": 2160,
+      "height": 3840,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx4.sinaimg.cn/large/008fmYuqly1i700fthj8dj32yo1o0e81.jpg"
+      ],
+      "user": "界外编辑部"
+    }
+  ],
+  "html_path": "data/aicard/hourly/2025-11-05/02/topic-9ee27352.html"
+}

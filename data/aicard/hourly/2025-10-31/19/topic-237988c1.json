@@ -1,0 +1,382 @@
+{
+  "meta": {
+    "query": "#卡莎#",
+    "status_code": 200,
+    "fetched_at": "2025-10-31T22:34:59+08:00",
+    "response": {
+      "news_analyze": {},
+      "reliable_tips": "{\"gold_orange_v_mids\": [\"5227886694367583\", \"5227879702207967\", \"5227881204551888\", \"5227880831257846\", \"5227898804112473\", \"5227883418879310\", \"5227871917838946\", \"5227870165143119\", \"5227897180395206\", \"5201130985622724\", \"5201118650958113\", \"5221269723155659\", \"5227026585748678\", \"5224324514186615\", \"5202780933589135\", \"5222441858893616\", \"5227869157462220\", \"5227126576121185\", \"5196442685670864\", \"5227870646438042\", \"5227884310691896\", \"5227870355982822\", \"5227123171135606\", \"5227888158445338\", \"5227463309529416\", \"5227119057571186\"], \"gold_orange_v_ratio\": \"72%\", \"media_mids\": [], \"media_ratio\": \"0%\", \"verified_mids\": [\"5227870060284113\", \"5227904424481509\", \"5221259907434049\", \"5227177945335804\", \"5227099926562550\", \"5227855530167220\", \"5227126716367969\"], \"verified_ratio\": \"20%\", \"normal_mids\": [\"5227880889712718\", \"5227870281797673\", \"5227869383952832\"], \"normal_ratio\": \"8%\", \"ref_mid_rank\": {\"5227886694367583\": {\"rank\": 1}, \"5227879702207967\": {\"rank\": 15}, \"5227881204551888\": {\"rank\": 16}, \"5227880831257846\": {\"rank\": 17}, \"5227898804112473\": {\"rank\": 29}, \"5227880889712718\": {\"rank\": 30}, \"5227883418879310\": {\"rank\": 31}, \"5227870060284113\": {\"rank\": 18}, \"5227871917838946\": {\"rank\": 19}, \"5227870165143119\": {\"rank\": 32}, \"5227897180395206\": {\"rank\": 35}, \"5227904424481509\": {\"rank\": 36}, \"5201130985622724\": {\"rank\": 4}, \"5201118650958113\": {\"rank\": 6}, \"5221259907434049\": {\"rank\": 3}, \"5221269723155659\": {\"rank\": 7}, \"5227177945335804\": {\"rank\": 2}, \"5227099926562550\": {\"rank\": 27}, \"5227026585748678\": {\"rank\": 28}, \"5224324514186615\": {\"rank\": 8}, \"5202780933589135\": {\"rank\": 5}, \"5222441858893616\": {\"rank\": 9}, \"5227870281797673\": {\"rank\": 14}, \"5227869157462220\": {\"rank\": 20}, \"5227126576121185\": {\"rank\": 21}, \"5196442685670864\": {\"rank\": 22}, \"5227870646438042\": {\"rank\": 23}, \"5227884310691896\": {\"rank\": 24}, \"5227870355982822\": {\"rank\": 25}, \"5227123171135606\": {\"rank\": 26}, \"5227855530167220\": {\"rank\": 33}, \"5227888158445338\": {\"rank\": 34}, \"5227869383952832\": {\"rank\": 37}, \"5227463309529416\": {\"rank\": 38}, \"5227119057571186\": {\"rank\": 39}, \"5227126716367969\": {\"rank\": 40}}}",
+      "mid_list": null,
+      "reference_num": 36,
+      "status_stage": 4,
+      "link_list": [
+        "sinaweibo://detail?mblogid=5227886694367583",
+        "sinaweibo://detail?mblogid=5227177945335804",
+        "sinaweibo://detail?mblogid=5221259907434049",
+        "sinaweibo://detail?mblogid=5201130985622724",
+        "sinaweibo://detail?mblogid=5202780933589135",
+        "sinaweibo://detail?mblogid=5201118650958113",
+        "sinaweibo://detail?mblogid=5221269723155659",
+        "sinaweibo://detail?mblogid=5224324514186615",
+        "sinaweibo://detail?mblogid=5222441858893616",
+        "https://baike.baidu.com/item/%E8%99%9A%E7%A9%BA%E4%B9%8B%E5%A5%B3/22411654?fromtitle=%E5%8D%A1%E8%8E%8E&fromid=6897493",
+        "historyweibo://5215573602734339",
+        "historyweibo://5214823313049729",
+        "historyweibo://5171073252331616",
+        "sinaweibo://detail?mblogid=5227870281797673",
+        "sinaweibo://detail?mblogid=5227879702207967",
+        "sinaweibo://detail?mblogid=5227881204551888",
+        "sinaweibo://detail?mblogid=5227880831257846",
+        "sinaweibo://detail?mblogid=5227870060284113",
+        "sinaweibo://detail?mblogid=5227871917838946",
+        "sinaweibo://detail?mblogid=5227869157462220",
+        "sinaweibo://detail?mblogid=5227126576121185",
+        "sinaweibo://detail?mblogid=5196442685670864",
+        "sinaweibo://detail?mblogid=5227870646438042",
+        "sinaweibo://detail?mblogid=5227884310691896",
+        "sinaweibo://detail?mblogid=5227870355982822",
+        "sinaweibo://detail?mblogid=5227123171135606",
+        "sinaweibo://detail?mblogid=5227099926562550",
+        "sinaweibo://detail?mblogid=5227026585748678",
+        "sinaweibo://detail?mblogid=5227898804112473",
+        "sinaweibo://detail?mblogid=5227880889712718",
+        "sinaweibo://detail?mblogid=5227883418879310",
+        "sinaweibo://detail?mblogid=5227870165143119",
+        "sinaweibo://detail?mblogid=5227855530167220",
+        "sinaweibo://detail?mblogid=5227888158445338",
+        "sinaweibo://detail?mblogid=5227897180395206",
+        "sinaweibo://detail?mblogid=5227904424481509",
+        "sinaweibo://detail?mblogid=5227869383952832",
+        "sinaweibo://detail?mblogid=5227463309529416",
+        "sinaweibo://detail?mblogid=5227119057571186",
+        "sinaweibo://detail?mblogid=5227126716367969"
+      ],
+      "zs_risk_control": {
+        "think_text_close": 0,
+        "land_button_close": 0
+      },
+      "top_quote_list": {},
+      "card_multimodal": {
+        "type": "mediablock",
+        "data": [
+          {
+            "type": "v",
+            "img": "http://wx1.sinaimg.cn/middle/008xCJoDly1i6vrlhhkqoj30rk0f8aas.jpg",
+            "scheme": "sinaweibo://multimedia?mix_mid=5227886694367583&mix_index=0&multi_paragraph=1&multi_count=0",
+            "cur_mid": "5227886694367583",
+            "click_rate": 0,
+            "w": 992,
+            "h": 548,
+            "user_avatar": "https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/008xCJoDly8hrq6l9fi5wj30u00u03yx.jpg?KID=imgbed,tva&Expires=1761924245&ssig=UqKI%2FXzGQP",
+            "hit_score_final": 89,
+            "video_url": "https://video.weibo.com/show?fid=1034:5227884126863369",
+            "vtype": 0,
+            "hit_score_new": 0,
+            "doc_score": 7503,
+            "img_pid": "008xCJoDly1i6vrlhhkqoj30rk0f8aas",
+            "user_name": "小野的瓜田"
+          },
+          {
+            "type": "p",
+            "img": "http://wx4.sinaimg.cn/middle/005SyZ1Sgy1i6vqwni1anj33402c0npd.jpg",
+            "scheme": "sinaweibo://multimedia?mix_mid=5227881204551888&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=1",
+            "cur_mid": "5227881204551888",
+            "click_rate": 0,
+            "w": 4032,
+            "h": 3024,
+            "user_avatar": "https://tvax4.sinaimg.cn/crop.0.0.480.480.50/005SyZ1Sly8i3tl9bvkkkj30dc0dc3yz.jpg?KID=imgbed,tva&Expires=1761924245&ssig=RFcNjVQ%2F2s",
+            "hit_score_final": 80,
+            "video_url": "",
+            "vtype": 0,
+            "hit_score_new": 0,
+            "doc_score": 5443,
+            "img_pid": "005SyZ1Sgy1i6vqwni1anj33402c0npd",
+            "user_name": "王玮晨"
+          },
+          {
+            "type": "p",
+            "img": "http://wx3.sinaimg.cn/middle/008xcjxmly1i6vraao01uj30wi0wiq63.jpg",
+            "scheme": "sinaweibo://multimedia?mix_mid=5227883418879310&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=2",
+            "cur_mid": "5227883418879310",
+            "click_rate": 0,
+            "w": 1170,
+            "h": 1170,
+            "user_avatar": "https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/008xcjxmly8hx2wme1uu9j30u00u0q4f.jpg?KID=imgbed,tva&Expires=1761924245&ssig=6rWDTCbdBj",
+            "hit_score_final": 12,
+            "video_url": "",
+            "vtype": 0,
+            "hit_score_new": 0,
+            "doc_score": 755,
+            "img_pid": "008xcjxmly1i6vraao01uj30wi0wiq63",
+            "user_name": "云棠天天摸鱼"
+          },
+          {
+            "type": "v",
+            "img": "http://wx1.sinaimg.cn/middle/008xCJoDly1i6vrlhhkqoj30rk0f8aas.jpg",
+            "scheme": "sinaweibo://multimedia?mix_mid=5227886694367583&mix_index=0&multi_paragraph=1&multi_count=0",
+            "cur_mid": "5227886694367583",
+            "click_rate": 0,
+            "w": 992,
+            "h": 548,
+            "user_avatar": "https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/008xCJoDly8hrq6l9fi5wj30u00u03yx.jpg?KID=imgbed,tva&Expires=1761924245&ssig=UqKI%2FXzGQP",
+            "hit_score_final": 89,
+            "video_url": "https://video.weibo.com/show?fid=1034:5227884126863369",
+            "vtype": 0,
+            "hit_score_new": 0,
+            "doc_score": 7503,
+            "img_pid": "008xCJoDly1i6vrlhhkqoj30rk0f8aas",
+            "user_name": "小野的瓜田"
+          }
+        ]
+      },
+      "share_card_multimodal": {
+        "type": "v",
+        "img": "http://wx1.sinaimg.cn/middle/008xCJoDly1i6vrlhhkqoj30rk0f8aas.jpg",
+        "scheme": "sinaweibo://multimedia?mix_mid=5227886694367583&mix_index=0&multi_paragraph=1&multi_count=0",
+        "cur_mid": "5227886694367583",
+        "click_rate": 0,
+        "w": 992,
+        "h": 548,
+        "user_avatar": "https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/008xCJoDly8hrq6l9fi5wj30u00u03yx.jpg?KID=imgbed,tva&Expires=1761924245&ssig=UqKI%2FXzGQP",
+        "hit_score_final": 89,
+        "video_url": "https://video.weibo.com/show?fid=1034:5227884126863369",
+        "vtype": 0,
+        "hit_score_new": 0,
+        "doc_score": 7503,
+        "img_pid": "008xCJoDly1i6vrlhhkqoj30rk0f8aas",
+        "user_name": "小野的瓜田"
+      },
+      "uid": "",
+      "current_time": 1761921299,
+      "profile_image_url": "",
+      "user_info": {},
+      "share_text": "#卡莎#的相关内容，来智搜看看",
+      "q_attr": {
+        "from_uid": "",
+        "reply_cid": "",
+        "comment_from_type": "",
+        "from_request_id": "",
+        "mid": ""
+      },
+      "analysis_time": 1761913651,
+      "comment_info": {},
+      "cot": 1,
+      "loop_times": 200,
+      "status": 2,
+      "ext_show": {},
+      "unify_md5": "237988c1e3b7cd026fbb6d09ca2bc312",
+      "version": "2025-10-31 20:24:05.023999-9644",
+      "scheme": "sinaweibo://cardlist?containerid=100103type%3D225%26q%3D%23%E5%8D%A1%E8%8E%8E%23%26t%3D&extparam=ai_model%3Ddeepseek%26ori_ai_title%3D%E5%8F%82%E8%80%83%E5%8D%9A%E6%96%87%26material_version%3D1761913445",
+      "basemodel": "实验组7",
+      "page_id": "2329642347e8f7fad4fb048c7c75c6646ee9c4",
+      "short_url": "http://t.cn/A6kS6lmu",
+      "show_ctrl": {
+        "quote": {}
+      },
+      "query": "#卡莎#",
+      "wenda": {
+        "forward_gen": 0
+      },
+      "query_category": "",
+      "model": "deepseek",
+      "ab_suffix": "default",
+      "msg_json": "{}",
+      "abtest_info": {
+        "chat_entrance": 1
+      },
+      "msg_format": "markdown",
+      "sorted_material_list": null,
+      "qs_status": 0,
+      "qs_status_info": "{\"qs_c_status\":8388608,\"qs_r_status\":0,\"qs_q_status\":0,\"qs_u_status\":0,\"qs_status\":0,\"ab_lab\":{}}",
+      "query_field": "47",
+      "chat_status_stage": 1,
+      "share_info": {
+        "comment_content": "",
+        "page_id": "2329642347e8f7fad4fb048c7c75c6646ee9c4",
+        "unify_md5": "237988c1e3b7cd026fbb6d09ca2bc312",
+        "url": "http://t.cn/AXAf5AXn",
+        "status": 3,
+        "tips": "#卡莎#的相关内容，来智搜看看",
+        "display_name": "#卡莎#"
+      },
+      "msg": "<think><br><br>嗯，用户查询的是\"卡莎\"，我需要根据搜索结果整理相关信息。先快速浏览所有结果，发现内容主要集中在四个方面：赛事战报、皮肤/活动、选手表现、百科信息。<br><br>今天日期是2025年10月31日，所以优先关注最新赛事动态。结果1/15/16/17/18/19/20/23/24/25/29-36都提到T1对阵AL的S15淘汰赛，特别是Gumayusi在第四局使用卡莎的出色表现：他顶住压力选用卡莎，打出11/4/10的KDA，对位经济领先高达7425，帮助T1扳平比分进入决胜局。这打破了他\"不会玩卡莎\"的质疑。<br><br>选手专题方面，结果11详细说明GALA的卡莎战绩——近8场全胜，KDA达12；结果12提到JackeyLove使用冠军皮肤卡莎的强势表现；结果13则聚焦Uzi名人堂卡莎皮肤的争议定价（最高档3299元）和设计彩蛋。<br><br>游戏内容部分，结果2/3/7/27/39提到卡莎相关皮肤：星之守护者至臻版、暮星追影神话臻宝和约德尔造型；结果28还有云顶之弈的卡莎加强改动。<br><br>基础信息在结果10的百科条目，包含技能定位和背景故事。其他零散内容如教学攻略、漫展cos等因时效性较弱暂不重点采用。<br><br>考虑将内容分为赛事焦点、选手表现、游戏动态、基础百科四大板块，赛事部分放在最前突显时效性。Gumayusi的战役数据用加粗强调，皮肤争议添加小标题分隔。百科背景作为补充收尾。<br><br></think><br>以下是关于“卡莎”的综合信息整理，结合赛事动态、游戏更新及文化热点，按优先级分类呈现：<br>### ⚔️ **一、2025全球总决赛焦点表现（10月31日最新战报）**  <br>1. **T1 vs AL生死局关键发挥**  <br>   - **Gumayusi打破心魔**：在AL 2-1领先的赛点局（第四局），T1选手Gumayusi选出卡莎，以 **11/4/10的KDA、对位经济领先7425** 的碾压级表现带队扳平比分；其操作被解说评价为“顶级AD的猎手本能”，终结了外界对其卡莎能力的质疑。```wbCustomBlock{\"type\": \"quoted\", \"index\": 5, \"data\": {\"num\": [1, 15, 16, 17, 29, 30, 31], \"version\": 2, \"quote_list\": [{\"name\": \"尹天CLANG\", \"scheme\": \"sinaweibo://detail?mblogid=5227898804112473\", \"index\": 29, \"label\": \"大v\"}, {\"name\": \"小野的瓜田\", \"scheme\": \"sinaweibo://detail?mblogid=5227886694367583\", \"index\": 1, \"label\": \"\"}, {\"name\": \"Muscle硕硕\", \"scheme\": \"sinaweibo://detail?mblogid=5227879702207967\", \"index\": 15, \"label\": \"\"}, {\"name\": \"王玮晨\", \"scheme\": \"sinaweibo://detail?mblogid=5227881204551888\", \"index\": 16, \"label\": \"\"}, {\"name\": \"玩加电竞\", \"scheme\": \"sinaweibo://detail?mblogid=5227880831257846\", \"index\": 17, \"label\": \"\"}, {\"name\": \"这不是唯一的选择你也知道\", \"scheme\": \"sinaweibo://detail?mblogid=5227880889712718\", \"index\": 30, \"label\": \"\"}, {\"name\": \"云棠天天摸鱼\", \"scheme\": \"sinaweibo://detail?mblogid=5227883418879310\", \"index\": 31, \"label\": \"\"}], \"name\": \"尹天CLANG\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.580.580.50/e787c94aly1g3cbk6btbgj20g40g4dgq.jpg?KID=imgbed,tva&Expires=1761924245&ssig=P2aylDiYmf\", \"scheme\": \"sinaweibo://detail?mblogid=5227898804112473\", \"vType\": 0}}```  <br>   - **BP博弈争议**：AL教练Tabe在决胜局BP中将核心输出交给Hope（使用飞机），但Hope表现低迷（被批“冒充职业选手”）；而T1选择卡莎+妮蔻的强开体系，直接压制AL阵容。最终T1以3-2晋级四强，延续S赛对LPL战队的全胜纪录。```wbCustomBlock{\"type\": \"quoted\", \"index\": 6, \"data\": {\"num\": [16, 18, 19, 32, 35, 36], \"version\": 2, \"quote_list\": [{\"name\": \"丶涵艺\", \"scheme\": \"sinaweibo://detail?mblogid=5227871917838946\", \"index\": 19, \"label\": \"大v\"}, {\"name\": \"王玮晨\", \"scheme\": \"sinaweibo://detail?mblogid=5227881204551888\", \"index\": 16, \"label\": \"\"}, {\"name\": \"AL英雄联盟\", \"scheme\": \"sinaweibo://detail?mblogid=5227870060284113\", \"index\": 18, \"label\": \"\"}, {\"name\": \"狂很子老\", \"scheme\": \"sinaweibo://detail?mblogid=5227870165143119\", \"index\": 32, \"label\": \"\"}, {\"name\": \"必辞吾忧\", \"scheme\": \"sinaweibo://detail?mblogid=5227897180395206\", \"index\": 35, \"label\": \"\"}, {\"name\": \"黄金喊单王-彦池\", \"scheme\": \"sinaweibo://detail?mblogid=5227904424481509\", \"index\": 36, \"label\": \"\"}], \"name\": \"丶涵艺\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.600.600.50/76c0dacdly8hey0qr5bjnj20go0got9u.jpg?KID=imgbed,tva&Expires=1761924245&ssig=9%2B8O3gpl8o\", \"scheme\": \"sinaweibo://detail?mblogid=5227871917838946\", \"vType\": 0}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://multimedia?mix_mid=5227886694367583&mix_index=0&multi_paragraph=1&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/008xCJoDly8hrq6l9fi5wj30u00u03yx.jpg?KID=imgbed,tva&Expires=1761924245&ssig=UqKI%2FXzGQP) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">小野的瓜田</span><img src=\"http://wx1.sinaimg.cn/middle/008xCJoDly1i6vrlhhkqoj30rk0f8aas.jpg\" data-width=548 data-height=992></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5227881204551888&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=1\"><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.480.480.50/005SyZ1Sly8i3tl9bvkkkj30dc0dc3yz.jpg?KID=imgbed,tva&Expires=1761924245&ssig=RFcNjVQ%2F2s) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">王玮晨</span><img src=\"http://wx4.sinaimg.cn/middle/005SyZ1Sgy1i6vqwni1anj33402c0npd.jpg\" data-width=3024 data-height=4032></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5227883418879310&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=2\"><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/008xcjxmly8hx2wme1uu9j30u00u0q4f.jpg?KID=imgbed,tva&Expires=1761924245&ssig=6rWDTCbdBj) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">云棠天天摸鱼</span><img src=\"http://wx3.sinaimg.cn/middle/008xcjxmly1i6vraao01uj30wi0wiq63.jpg\" data-width=1170 data-height=1170></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5227870060284113&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=3\"><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.900.900.50/006LvqmSly8i068h53r9uj30p00p0dgm.jpg?KID=imgbed,tva&Expires=1761924245&ssig=CH26bE8LFc) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">AL英雄联盟</span><img src=\"http://wx1.sinaimg.cn/middle/006LvqmSgy1i6vpoz0ji4j31rc0zudud.jpg\" data-width=1290 data-height=2280></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5227870165143119&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=4\"><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.512.512.50/007WuwI6ly8h15o523b13j30e80e8aar.jpg?KID=imgbed,tva&Expires=1761924245&ssig=THqlzUOZyl) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">狂很子老</span><img src=\"http://wx3.sinaimg.cn/middle/007WuwI6gy1i6vppcwmygj32lr1goqv6.jpg\" data-width=1896 data-height=3375></div></media-block><br>### 🏆 **二、职业选手的卡莎名场面**  <br>1. **GALA（IG战队）**  <br>   - **统治级数据**：2025年全球总决赛资格赛中，其卡莎近8场全胜，贡献 **64杀-9死-44助攻，KDA高达12**；名场面包括5000经济劣势下进场瞬秒Bin鳄鱼，助IG翻盘BLG。```wbCustomBlock{\"type\": \"quoted\", \"index\": 10, \"data\": {\"num\": [4, 6], \"version\": 2, \"quote_list\": [{\"name\": \"金华小陈说事\", \"scheme\": \"sinaweibo://detail?mblogid=5201130985622724\", \"index\": 4, \"label\": \"大v\"}, {\"name\": \"幼儿园园一莎弥拉\", \"scheme\": \"sinaweibo://detail?mblogid=5201118650958113\", \"index\": 6, \"label\": \"\"}], \"name\": \"金华小陈说事\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.1021.1021.50/6d82193cly8hj9s2qt2yoj20sd0sdt9t.jpg?KID=imgbed,tva&Expires=1761924245&ssig=S%2FNYL4sgz7\", \"scheme\": \"sinaweibo://detail?mblogid=5201130985622724\", \"vType\": 0}}```  <br>   - **战术地位**：对手常固定Ban卡莎，一旦放出则IG胜率激增，被粉丝称为“胜负密码”。  <br><br>2. **JackeyLove（TES战队）**  <br>   - **冠军皮肤拥有者**：在2025年LPL资格赛中使用冠军皮肤卡莎，关键局大招进场瞬秒敌方后排，主导比赛节奏。生涯使用卡莎达成 **LPL 4500助攻里程碑**，为首位达成此成就的ADC。  <br><br>3. **Uzi名人堂皮肤争议**  <br>   - **定价与设计**：卡莎皮肤分三档（基础款299元、进阶款1799元、签名款3299元），黑金配色搭配亚运会金牌彩蛋，但高定价被质疑“割韭菜”。  <br>   - **文化梗**：守卫皮肤“洗澡狗”（红眼镜法斗犬）幽默回应Uzi早年挂机事件，回城动作含“喝水喷水”彩蛋。<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5201130985622724&multi_paragraph=2&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.1021.1021.50/6d82193cly8hj9s2qt2yoj20sd0sdt9t.jpg?KID=imgbed,tva&Expires=1761924245&ssig=S%2FNYL4sgz7) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">金华小陈说事</span><img src=\"http://wx4.sinaimg.cn/middle/6d82193cgy1i4ieqwz2sxj20mh0u0wia.jpg\" data-width=1080 data-height=809></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5201118650958113&multi_paragraph=2&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.746.746.50/adb62afdly8hzgjj8wnmij20kq0kqdhi.jpg?KID=imgbed,tva&Expires=1761924245&ssig=ic2GIJUPJO) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">幼儿园园一莎弥拉</span><img src=\"http://wx4.sinaimg.cn/middle/adb62afdly1i4idbptdcxj20zk0je0ud.jpg\" data-width=698 data-height=1280></div></media-block><br>### 🎮 **三、游戏动态与皮肤更新**  <br>1. **新皮肤上线**  <br>   - **暮星追影 卡莎（神话臻宝）**：10月17日登陆《英雄联盟手游》，技能特效含星光动力导弹与狙击特效。```wbCustomBlock{\"type\": \"quoted\", \"index\": 20, \"data\": {\"num\": [3, 7], \"version\": 2, \"quote_list\": [{\"name\": \"英雄联盟手游\", \"scheme\": \"sinaweibo://detail?mblogid=5221259907434049\", \"index\": 3, \"label\": \"大v\"}, {\"name\": \"游叔\", \"scheme\": \"sinaweibo://detail?mblogid=5221269723155659\", \"index\": 7, \"label\": \"\"}], \"name\": \"英雄联盟手游\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.600.600.50/007VUVAWly8i6k5fvtzwaj30go0gojtm.jpg?KID=imgbed,tva&Expires=1761924245&ssig=%2FQW%2FlVThP%2B\", \"scheme\": \"sinaweibo://detail?mblogid=5221259907434049\", \"vType\": 7}}```  <br>   - **至臻 星之守护者 小小卡莎**：10月30日于《金铲铲之战》“星光臻耀”活动上线，可通过活动免费获取40次召唤机会。```wbCustomBlock{\"type\": \"quoted\", \"index\": 21, \"data\": {\"num\": [2, 27], \"version\": 2, \"quote_list\": [{\"name\": \"金铲铲之战\", \"scheme\": \"sinaweibo://detail?mblogid=5227177945335804\", \"index\": 2, \"label\": \"大v\"}, {\"name\": \"金铲铲之战\", \"scheme\": \"sinaweibo://detail?mblogid=5227099926562550\", \"index\": 27, \"label\": \"\"}], \"name\": \"金铲铲之战\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.480.480.50/008bToZely8i02aapwkb6j30dc0dcaaw.jpg?KID=imgbed,tva&Expires=1761924245&ssig=VP6ZoObEoQ\", \"scheme\": \"sinaweibo://detail?mblogid=5227177945335804\", \"vType\": 7}}```  <br><br>2. **云顶之弈调整**  <br>   - **卡莎技能增强**：15.8版本（11月6日上线）中，技能攻击力收益从32/48/75提升至34/51/80，强化输出能力。```wbCustomBlock{\"type\": \"quoted\", \"index\": 23, \"data\": {\"num\": [28], \"version\": 2, \"quote_list\": [{\"name\": \"楚康-\", \"scheme\": \"sinaweibo://detail?mblogid=5227026585748678\", \"index\": 28, \"label\": \"大v\"}], \"name\": \"楚康-\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/008l6NWWly8hy5byo98h6j30u00u076z.jpg?KID=imgbed,tva&Expires=1761924245&ssig=T1gUqfKfCA\", \"scheme\": \"sinaweibo://detail?mblogid=5227026585748678\", \"vType\": 0}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5227177945335804&multi_paragraph=3&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.480.480.50/008bToZely8i02aapwkb6j30dc0dcaaw.jpg?KID=imgbed,tva&Expires=1761924245&ssig=VP6ZoObEoQ) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">金铲铲之战</span><img src=\"http://wx1.sinaimg.cn/middle/008bToZegy1i6te8ks91cj315o0nfkjl.jpg\" data-width=843 data-height=1500></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5227099926562550&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=3&multi_count=1\"><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.480.480.50/008bToZely8i02aapwkb6j30dc0dcaaw.jpg?KID=imgbed,tva&Expires=1761924245&ssig=VP6ZoObEoQ) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">金铲铲之战</span><img src=\"http://wx4.sinaimg.cn/middle/008bToZegy1i6t3ncw669j30ku4u6x6s.jpg\" data-width=6270 data-height=750></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5227026585748678&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=3&multi_count=2\"><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/008l6NWWly8hy5byo98h6j30u00u076z.jpg?KID=imgbed,tva&Expires=1761924245&ssig=T1gUqfKfCA) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">楚康-</span><img src=\"http://wx4.sinaimg.cn/middle/008l6NWWgy1i6t0lsxtvdj30u00u0dqq.jpg\" data-width=1080 data-height=1080></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5221259907434049&multi_paragraph=3&multi_count=3\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.600.600.50/007VUVAWly8i6k5fvtzwaj30go0gojtm.jpg?KID=imgbed,tva&Expires=1761924245&ssig=%2FQW%2FlVThP%2B) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">英雄联盟手游</span><img src=\"http://wx2.sinaimg.cn/middle/007VUVAWgy1i6arvkole4j34k82kehe1.jpg\" data-width=3326 data-height=5912></div></media-block><br>### 📚 **四、英雄背景与玩法**  <br>1. **角色设定**  <br>   - 原名凯莎，为生存适应虚空之力，与父亲卡萨丁分属不同阵营。定位为高机动性射手，依赖被动叠加与技能进化。  <br>2. **核心技巧**  <br>   - 对线期利用W（虚空索敌）远程消耗，二级后配合辅助压制；团战需把握R（猎手本能）进场时机，配合E（极限超载）调整站位。```wbCustomBlock{\"type\": \"quoted\", \"index\": 29, \"data\": {\"num\": [8], \"version\": 2, \"quote_list\": [{\"name\": \"李二狗不吃香菜\", \"scheme\": \"sinaweibo://detail?mblogid=5224324514186615\", \"index\": 8, \"label\": \"大v\"}], \"name\": \"李二狗不吃香菜\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.605.605.50/008IeOQOly8hyqumlzs6gj30gt0gtjs7.jpg?KID=imgbed,tva&Expires=1761924245&ssig=xTL%2BpRRQ%2BB\", \"scheme\": \"sinaweibo://detail?mblogid=5224324514186615\", \"vType\": 0}}```  <br><br>---  <br>**说明**：赛事及皮肤资讯时效性强，优先呈现2025年10月最新内容；选手数据及背景知识综合长期观察与官方资料。<br>"
+    }
+  },
+  "links": [
+    "sinaweibo://detail?mblogid=5227886694367583",
+    "sinaweibo://detail?mblogid=5227177945335804",
+    "sinaweibo://detail?mblogid=5221259907434049",
+    "sinaweibo://detail?mblogid=5201130985622724",
+    "sinaweibo://detail?mblogid=5202780933589135",
+    "sinaweibo://detail?mblogid=5201118650958113",
+    "sinaweibo://detail?mblogid=5221269723155659",
+    "sinaweibo://detail?mblogid=5224324514186615",
+    "sinaweibo://detail?mblogid=5222441858893616",
+    "https://baike.baidu.com/item/%E8%99%9A%E7%A9%BA%E4%B9%8B%E5%A5%B3/22411654?fromtitle=%E5%8D%A1%E8%8E%8E&fromid=6897493",
+    "historyweibo://5215573602734339",
+    "historyweibo://5214823313049729",
+    "historyweibo://5171073252331616",
+    "sinaweibo://detail?mblogid=5227870281797673",
+    "sinaweibo://detail?mblogid=5227879702207967",
+    "sinaweibo://detail?mblogid=5227881204551888",
+    "sinaweibo://detail?mblogid=5227880831257846",
+    "sinaweibo://detail?mblogid=5227870060284113",
+    "sinaweibo://detail?mblogid=5227871917838946",
+    "sinaweibo://detail?mblogid=5227869157462220",
+    "sinaweibo://detail?mblogid=5227126576121185",
+    "sinaweibo://detail?mblogid=5196442685670864",
+    "sinaweibo://detail?mblogid=5227870646438042",
+    "sinaweibo://detail?mblogid=5227884310691896",
+    "sinaweibo://detail?mblogid=5227870355982822",
+    "sinaweibo://detail?mblogid=5227123171135606",
+    "sinaweibo://detail?mblogid=5227099926562550",
+    "sinaweibo://detail?mblogid=5227026585748678",
+    "sinaweibo://detail?mblogid=5227898804112473",
+    "sinaweibo://detail?mblogid=5227880889712718",
+    "sinaweibo://detail?mblogid=5227883418879310",
+    "sinaweibo://detail?mblogid=5227870165143119",
+    "sinaweibo://detail?mblogid=5227855530167220",
+    "sinaweibo://detail?mblogid=5227888158445338",
+    "sinaweibo://detail?mblogid=5227897180395206",
+    "sinaweibo://detail?mblogid=5227904424481509",
+    "sinaweibo://detail?mblogid=5227869383952832",
+    "sinaweibo://detail?mblogid=5227463309529416",
+    "sinaweibo://detail?mblogid=5227119057571186",
+    "sinaweibo://detail?mblogid=5227126716367969"
+  ],
+  "media": [
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/008xCJoDly1i6vrlhhkqoj30rk0f8aas.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/008xCJoDly1i6vrlhhkqoj30rk0f8aas.jpg",
+      "alt": "小野的瓜田",
+      "width": 548,
+      "height": 992,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/008xCJoDly1i6vrlhhkqoj30rk0f8aas.jpg"
+      ],
+      "user": "小野的瓜田"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/005SyZ1Sgy1i6vqwni1anj33402c0npd.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/005SyZ1Sgy1i6vqwni1anj33402c0npd.jpg",
+      "alt": "王玮晨",
+      "width": 3024,
+      "height": 4032,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/005SyZ1Sgy1i6vqwni1anj33402c0npd.jpg"
+      ],
+      "user": "王玮晨"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/008xcjxmly1i6vraao01uj30wi0wiq63.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/008xcjxmly1i6vraao01uj30wi0wiq63.jpg",
+      "alt": "云棠天天摸鱼",
+      "width": 1170,
+      "height": 1170,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/008xcjxmly1i6vraao01uj30wi0wiq63.jpg"
+      ],
+      "user": "云棠天天摸鱼"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/006LvqmSgy1i6vpoz0ji4j31rc0zudud.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/006LvqmSgy1i6vpoz0ji4j31rc0zudud.jpg",
+      "alt": "AL英雄联盟",
+      "width": 1290,
+      "height": 2280,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx4.sinaimg.cn/large/006LvqmSgy1i6vpoz0ji4j31rc0zudud.jpg"
+      ],
+      "user": "AL英雄联盟"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/007WuwI6gy1i6vppcwmygj32lr1goqv6.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/007WuwI6gy1i6vppcwmygj32lr1goqv6.jpg",
+      "alt": "狂很子老",
+      "width": 1896,
+      "height": 3375,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/007WuwI6gy1i6vppcwmygj32lr1goqv6.jpg"
+      ],
+      "user": "狂很子老"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/6d82193cgy1i4ieqwz2sxj20mh0u0wia.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/6d82193cgy1i4ieqwz2sxj20mh0u0wia.jpg",
+      "alt": "金华小陈说事",
+      "width": 1080,
+      "height": 809,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/6d82193cgy1i4ieqwz2sxj20mh0u0wia.jpg"
+      ],
+      "user": "金华小陈说事"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/adb62afdly1i4idbptdcxj20zk0je0ud.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/adb62afdly1i4idbptdcxj20zk0je0ud.jpg",
+      "alt": "幼儿园园一莎弥拉",
+      "width": 698,
+      "height": 1280,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/adb62afdly1i4idbptdcxj20zk0je0ud.jpg"
+      ],
+      "user": "幼儿园园一莎弥拉"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/008bToZegy1i6te8ks91cj315o0nfkjl.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/008bToZegy1i6te8ks91cj315o0nfkjl.jpg",
+      "alt": "金铲铲之战",
+      "width": 843,
+      "height": 1500,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/008bToZegy1i6te8ks91cj315o0nfkjl.jpg"
+      ],
+      "user": "金铲铲之战"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/008bToZegy1i6t3ncw669j30ku4u6x6s.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/008bToZegy1i6t3ncw669j30ku4u6x6s.jpg",
+      "alt": "金铲铲之战",
+      "width": 6270,
+      "height": 750,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/008bToZegy1i6t3ncw669j30ku4u6x6s.jpg"
+      ],
+      "user": "金铲铲之战"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/008l6NWWgy1i6t0lsxtvdj30u00u0dqq.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/008l6NWWgy1i6t0lsxtvdj30u00u0dqq.jpg",
+      "alt": "楚康-",
+      "width": 1080,
+      "height": 1080,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/008l6NWWgy1i6t0lsxtvdj30u00u0dqq.jpg"
+      ],
+      "user": "楚康-"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/007VUVAWgy1i6arvkole4j34k82kehe1.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/007VUVAWgy1i6arvkole4j34k82kehe1.jpg",
+      "alt": "英雄联盟手游",
+      "width": 3326,
+      "height": 5912,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx4.sinaimg.cn/large/007VUVAWgy1i6arvkole4j34k82kehe1.jpg"
+      ],
+      "user": "英雄联盟手游"
+    }
+  ],
+  "html_path": "data/aicard/hourly/2025-10-31/19/topic-237988c1.html"
+}

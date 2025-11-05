@@ -1,0 +1,382 @@
+{
+  "meta": {
+    "query": "#发现郑青春#",
+    "status_code": 200,
+    "fetched_at": "2025-10-31T22:41:21+08:00",
+    "response": {
+      "analysis_time": 1761881104,
+      "mid_list": null,
+      "reference_num": 34,
+      "query_category": "",
+      "status_stage": 4,
+      "link_list": [
+        "sinaweibo://detail?mblogid=5184698226576706",
+        "sinaweibo://detail?mblogid=5210342879924943",
+        "sinaweibo://detail?mblogid=5069827594784252",
+        "sinaweibo://detail?mblogid=5097430523842302",
+        "sinaweibo://detail?mblogid=5026397908897445",
+        "sinaweibo://detail?mblogid=5221017452810185",
+        "sinaweibo://detail?mblogid=5217315585002256",
+        "sinaweibo://detail?mblogid=5113039004900451",
+        "sinaweibo://detail?mblogid=5209444351740459",
+        "sinaweibo://detail?mblogid=5226833257696622",
+        "sinaweibo://detail?mblogid=5211080047201523",
+        "sinaweibo://detail?mblogid=5202424937317372",
+        "sinaweibo://detail?mblogid=5226256771055943",
+        "sinaweibo://detail?mblogid=5209601649935466",
+        "sinaweibo://detail?mblogid=5217078958623341",
+        "sinaweibo://detail?mblogid=5001624348788484",
+        "sinaweibo://detail?mblogid=5220489481682987",
+        "sinaweibo://detail?mblogid=5225149777576040",
+        "sinaweibo://detail?mblogid=5222467312554327",
+        "sinaweibo://detail?mblogid=5222483714115889",
+        "sinaweibo://detail?mblogid=5219597068534701",
+        "sinaweibo://detail?mblogid=5227756749066318",
+        "sinaweibo://detail?mblogid=5227396615898298",
+        "sinaweibo://detail?mblogid=5221649328637373",
+        "sinaweibo://detail?mblogid=5221605825581306",
+        "sinaweibo://detail?mblogid=5211609917292890",
+        "sinaweibo://detail?mblogid=5214882363344291",
+        "sinaweibo://detail?mblogid=5227414779070981",
+        "sinaweibo://detail?mblogid=5213049511743979",
+        "sinaweibo://detail?mblogid=5210417250961372",
+        "sinaweibo://detail?mblogid=4944863865604753",
+        "sinaweibo://detail?mblogid=5192271259768700",
+        "sinaweibo://detail?mblogid=5171985509256206",
+        "sinaweibo://detail?mblogid=4982789448925406"
+      ],
+      "zs_risk_control": {
+        "think_text_close": 0,
+        "land_button_close": 0
+      },
+      "top_quote_list": {},
+      "msg_format": "markdown",
+      "chat_status_stage": 1,
+      "model": "deepseek",
+      "current_time": 1761921681,
+      "profile_image_url": "",
+      "user_info": {},
+      "query_field": "8",
+      "reliable_tips": "{\"gold_orange_v_mids\": [\"5211080047201523\", \"5209444351740459\", \"5026397908897445\", \"5225149777576040\", \"5217315585002256\", \"5202424937317372\", \"5222467312554327\", \"5226833257696622\", \"5222483714115889\", \"5214882363344291\", \"5221017452810185\", \"5217078958623341\", \"5211609917292890\", \"5097430523842302\", \"5221649328637373\", \"5226256771055943\", \"5220489481682987\", \"5219597068534701\", \"5227414779070981\", \"5213049511743979\", \"5171985509256206\"], \"gold_orange_v_ratio\": \"62%\", \"media_mids\": [], \"media_ratio\": \"0%\", \"verified_mids\": [\"5210342879924943\", \"5209601649935466\", \"5227756749066318\", \"5210417250961372\", \"5069827594784252\", \"5113039004900451\", \"5184698226576706\", \"5001624348788484\", \"5221605825581306\", \"4944863865604753\", \"4982789448925406\"], \"verified_ratio\": \"32%\", \"normal_mids\": [\"5227396615898298\", \"5192271259768700\"], \"normal_ratio\": \"6%\", \"ref_mid_rank\": {\"5210342879924943\": {\"rank\": 2}, \"5209601649935466\": {\"rank\": 14}, \"5227756749066318\": {\"rank\": 22}, \"5211080047201523\": {\"rank\": 11}, \"5210417250961372\": {\"rank\": 30}, \"5209444351740459\": {\"rank\": 9}, \"5069827594784252\": {\"rank\": 3}, \"5026397908897445\": {\"rank\": 5}, \"5113039004900451\": {\"rank\": 8}, \"5225149777576040\": {\"rank\": 18}, \"5217315585002256\": {\"rank\": 7}, \"5202424937317372\": {\"rank\": 12}, \"5222467312554327\": {\"rank\": 19}, \"5184698226576706\": {\"rank\": 1}, \"5226833257696622\": {\"rank\": 10}, \"5222483714115889\": {\"rank\": 20}, \"5214882363344291\": {\"rank\": 27}, \"5221017452810185\": {\"rank\": 6}, \"5217078958623341\": {\"rank\": 15}, \"5211609917292890\": {\"rank\": 26}, \"5097430523842302\": {\"rank\": 4}, \"5221649328637373\": {\"rank\": 24}, \"5226256771055943\": {\"rank\": 13}, \"5220489481682987\": {\"rank\": 17}, \"5001624348788484\": {\"rank\": 16}, \"5219597068534701\": {\"rank\": 21}, \"5227396615898298\": {\"rank\": 23}, \"5221605825581306\": {\"rank\": 25}, \"5227414779070981\": {\"rank\": 28}, \"5213049511743979\": {\"rank\": 29}, \"4944863865604753\": {\"rank\": 31}, \"5192271259768700\": {\"rank\": 32}, \"5171985509256206\": {\"rank\": 33}, \"4982789448925406\": {\"rank\": 34}}}",
+      "q_attr": {
+        "mid": "",
+        "comment_from_type": "",
+        "from_uid": "",
+        "reply_cid": "",
+        "from_request_id": ""
+      },
+      "qs_status_info": "{\"ab_lab\":{},\"qs_r_status\":0,\"qs_u_status\":0,\"qs_status\":0,\"qs_c_status\":8388608,\"qs_q_status\":0}",
+      "cot": 1,
+      "sorted_material_list": null,
+      "unify_md5": "bea992e86352f2f223e34d7acbc9e70f",
+      "scheme": "sinaweibo://cardlist?containerid=100103type%3D225%26q%3D%23%E5%8F%91%E7%8E%B0%E9%83%91%E9%9D%92%E6%98%A5%23%26t%3D&extparam=ai_model%3Ddeepseek%26ori_ai_title%3D%E5%8F%82%E8%80%83%E5%8D%9A%E6%96%87%26material_version%3D1761880986",
+      "version": "2025-10-31 11:23:06.020999-1983",
+      "ab_suffix": "default",
+      "show_ctrl": {
+        "quote": {}
+      },
+      "query": "#发现郑青春#",
+      "wenda": {
+        "forward_gen": 0
+      },
+      "basemodel": "实验组4",
+      "share_card_multimodal": {
+        "doc_score": 2534,
+        "h": 720,
+        "vtype": 0,
+        "img": "http://wx1.sinaimg.cn/middle/005NJpYely1i5e4y8ioqjj30zk0k0wg4.jpg",
+        "scheme": "sinaweibo://video/vvs?mid=5211080047201523&multi_paragraph=1&multi_count=0",
+        "cur_mid": "5211080047201523",
+        "w": 1280,
+        "user_name": "千里眼视频",
+        "type": "v",
+        "hit_score_final": 91.414062,
+        "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.600.600.50/007bsGLwly8hggn05vctwj30go0goaa9.jpg?KID=imgbed,tva&Expires=1761891786&ssig=ja0YxAnnmt",
+        "video_url": "https://video.weibo.com/show?fid=1034:5211076095311967",
+        "img_pid": "005NJpYely1i5e4y8ioqjj30zk0k0wg4",
+        "click_rate": 0,
+        "hit_score_new": 99.023438
+      },
+      "card_multimodal": {
+        "type": "mediablock",
+        "data": [
+          {
+            "doc_score": 2534,
+            "h": 720,
+            "vtype": 0,
+            "img": "http://wx1.sinaimg.cn/middle/005NJpYely1i5e4y8ioqjj30zk0k0wg4.jpg",
+            "scheme": "sinaweibo://video/vvs?mid=5211080047201523&multi_paragraph=1&multi_count=0",
+            "cur_mid": "5211080047201523",
+            "w": 1280,
+            "user_name": "千里眼视频",
+            "type": "v",
+            "hit_score_final": 91.414062,
+            "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.600.600.50/007bsGLwly8hggn05vctwj30go0goaa9.jpg?KID=imgbed,tva&Expires=1761891786&ssig=ja0YxAnnmt",
+            "video_url": "https://video.weibo.com/show?fid=1034:5211076095311967",
+            "img_pid": "005NJpYely1i5e4y8ioqjj30zk0k0wg4",
+            "click_rate": 0,
+            "hit_score_new": 99.023438
+          },
+          {
+            "doc_score": 3316,
+            "h": 606,
+            "vtype": 0,
+            "img": "http://wx1.sinaimg.cn/middle/73ae3ca8ly1hp11u0j5lcj20u00gun0u.jpg",
+            "scheme": "sinaweibo://video/vvs?mid=5026397908897445&multi_paragraph=2&multi_count=0",
+            "cur_mid": "5026397908897445",
+            "w": 1080,
+            "user_name": "应旺",
+            "type": "v",
+            "hit_score_final": 91.414062,
+            "user_avatar": "https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/73ae3ca8ly8i566cckfwpj20u00u0wgj.jpg?KID=imgbed,tva&Expires=1761891786&ssig=DsmH3wavJD",
+            "video_url": "https://video.weibo.com/show?fid=1034:5026394422575159",
+            "img_pid": "73ae3ca8ly1hp11u0j5lcj20u00gun0u",
+            "click_rate": 0,
+            "hit_score_new": 99.023438
+          },
+          {
+            "doc_score": 2102,
+            "h": 1080,
+            "vtype": 0,
+            "img": "http://wx2.sinaimg.cn/middle/69084fa9gy1i6n19rrz3dj21hc0u0gn6.jpg",
+            "scheme": "sinaweibo://video/vvs?mid=5225149777576040&multi_paragraph=2&multi_count=1",
+            "cur_mid": "5225149777576040",
+            "w": 1920,
+            "user_name": "疯狂大象",
+            "type": "v",
+            "hit_score_final": 62.291016,
+            "user_avatar": "https://tva2.sinaimg.cn/crop.0.0.750.750.50/69084fa9jw8f3o0zoikd7j20ku0ku3zw.jpg?KID=imgbed,tva&Expires=1761891786&ssig=ZiGLwqJw02",
+            "video_url": "https://video.weibo.com/show?fid=1034:5225149364895759",
+            "img_pid": "69084fa9gy1i6n19rrz3dj21hc0u0gn6",
+            "click_rate": 0,
+            "hit_score_new": 63.818359
+          },
+          {
+            "doc_score": 2534,
+            "h": 720,
+            "vtype": 0,
+            "img": "http://wx1.sinaimg.cn/middle/005NJpYely1i5e4y8ioqjj30zk0k0wg4.jpg",
+            "scheme": "sinaweibo://video/vvs?mid=5211080047201523&multi_paragraph=1&multi_count=0",
+            "cur_mid": "5211080047201523",
+            "w": 1280,
+            "user_name": "千里眼视频",
+            "type": "v",
+            "hit_score_final": 91.414062,
+            "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.600.600.50/007bsGLwly8hggn05vctwj30go0goaa9.jpg?KID=imgbed,tva&Expires=1761891786&ssig=ja0YxAnnmt",
+            "video_url": "https://video.weibo.com/show?fid=1034:5211076095311967",
+            "img_pid": "005NJpYely1i5e4y8ioqjj30zk0k0wg4",
+            "click_rate": 0,
+            "hit_score_new": 99.023438
+          }
+        ]
+      },
+      "ext_show": {},
+      "share_text": "#发现郑青春#的相关内容，来智搜看看",
+      "news_analyze": {},
+      "loop_times": 200,
+      "status": 2,
+      "comment_info": {},
+      "msg": "<think><br>嗯，用户想了解\"发现郑青春\"的相关信息。先看看搜索结果里有什么内容。哦，这看起来是郑州的一个大型城市宣传活动，主要面向年轻人。<br><br>翻到结果2提到2025年9月举办\"发现郑青春·我和郑州有个约会\"活动启动仪式，由郑州市委网信办主办。活动主题是通过青年视角讲述郑州故事，推动文旅融合和网络文化创新。这个信息很重要，说明是官方组织的正式活动。<br><br>接着看到结果22提到最近（2025年10月30日）启动了\"中外青年Citywalk活动\"，这个活动在管城回族区亳都·新象举行，有留学生和本地青年参与，用城市漫游形式展现郑州文化。这个时效性很强，就发生在昨天。<br><br>活动形式挺丰富啊。结果3和5提到短视频创作大赛，万元奖金征集创意作品，从2024年就开始办了。结果9描述启动仪式有非遗舞蹈、AI主题曲、诗歌朗诵等环节，传统与现代元素融合得很好。<br><br>内容主题方面，结果4和11强调青年创新和社会责任，提到豫剧、美食等文化元素。结果6、7、10等展示了郑州的亳都新象、油化厂创意园、沿黄快速路秋景等城市景观，都是年轻人喜欢的打卡地。<br><br>还发现活动有国际化特点呢。结果22提到有留学生代表参与，结果11的视频内容用中英文双语展示城市形象，看来是面向国际青年的传播。<br><br>城市更新也是个亮点。结果12介绍梧桐里改造项目，保留老客车厂工业遗产的同时注入现代商业功能，这个案例很有代表性。<br><br>用户可能想了解这个活动的全貌，我得把官方信息、活动形式、内容和特色都整理出来。要注意引用最新的信息，尤其是刚启动的Citywalk活动。不过搜索结果里有些内容相关性不高，比如结果28的八字算命、结果33的明星内容，这些就不纳入了。<br><br>准备从核心定位、活动架构、内容主题、传播特色和活动影响几个维度来组织信息，突出官方背景和青年视角的结合点。对了，那个古今融合的亳都新象和工业遗存改造的案例很能体现活动特色，要重点提一下。<br><br></think><br>“发现郑青春”是郑州市委网信办主导的系列网络主题传播活动，旨在通过青年视角展现郑州的历史底蕴、文化活力与现代发展，塑造城市青春形象。综合搜索结果，其核心内涵及表现形式可概括为：<br>### 🌟 一、核心定位与目标  <br>1. **官方主导的城市形象工程**：由郑州市委网信办联合各区宣传部、媒体（如网易河南、凤凰网）承办，通过青年群体讲述郑州故事，推动文旅融合与网络文化创新。```wbCustomBlock{\"type\": \"quoted\", \"index\": 3, \"data\": {\"num\": [2, 14, 22], \"version\": 2, \"quote_list\": [{\"name\": \"网信郑州\", \"scheme\": \"sinaweibo://detail?mblogid=5210342879924943\", \"index\": 2, \"label\": \"大v\"}, {\"name\": \"网信郑州\", \"scheme\": \"sinaweibo://detail?mblogid=5209601649935466\", \"index\": 14, \"label\": \"\"}, {\"name\": \"网信郑州\", \"scheme\": \"sinaweibo://detail?mblogid=5227756749066318\", \"index\": 22, \"label\": \"\"}], \"name\": \"网信郑州\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.512.512.50/9004dd29ly8h8uu7qwtqaj20e80e874z.jpg?KID=imgbed,tva&Expires=1761891786&ssig=B1DUJyNIaI\", \"scheme\": \"sinaweibo://detail?mblogid=5210342879924943\", \"vType\": 1}}```  <br>2. **青年视角的国际表达**：吸引留学生、在华外籍青年及本地青年参与，以Citywalk、短视频创作等形式传递郑州的开放性与包容性。```wbCustomBlock{\"type\": \"quoted\", \"index\": 4, \"data\": {\"num\": [11, 22, 30], \"version\": 2, \"quote_list\": [{\"name\": \"千里眼视频\", \"scheme\": \"sinaweibo://detail?mblogid=5211080047201523\", \"index\": 11, \"label\": \"大v\"}, {\"name\": \"网信郑州\", \"scheme\": \"sinaweibo://detail?mblogid=5227756749066318\", \"index\": 22, \"label\": \"\"}, {\"name\": \"中国城市榜\", \"scheme\": \"sinaweibo://detail?mblogid=5210417250961372\", \"index\": 30, \"label\": \"\"}], \"name\": \"千里眼视频\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.600.600.50/007bsGLwly8hggn05vctwj30go0goaa9.jpg?KID=imgbed,tva&Expires=1761891786&ssig=ja0YxAnnmt\", \"scheme\": \"sinaweibo://detail?mblogid=5211080047201523\", \"vType\": 0}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5211080047201523&multi_paragraph=1&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.600.600.50/007bsGLwly8hggn05vctwj30go0goaa9.jpg?KID=imgbed,tva&Expires=1761891786&ssig=ja0YxAnnmt) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">千里眼视频</span><img src=\"http://wx1.sinaimg.cn/middle/005NJpYely1i5e4y8ioqjj30zk0k0wg4.jpg\" data-width=720 data-height=1280></div></media-block><br>### 🎉 二、活动形式与载体  <br>1. **年度主题传播活动**：  <br>   - **“我和郑州有个约会”**：2025年9月启动，融合非遗舞蹈、AI主题曲、诗歌朗诵等跨媒介形式，展现传统与现代交融的城市魅力。```wbCustomBlock{\"type\": \"quoted\", \"index\": 7, \"data\": {\"num\": [9, 14, 30], \"version\": 2, \"quote_list\": [{\"name\": \"守护夏都\", \"scheme\": \"sinaweibo://detail?mblogid=5209444351740459\", \"index\": 9, \"label\": \"\"}, {\"name\": \"网信郑州\", \"scheme\": \"sinaweibo://detail?mblogid=5209601649935466\", \"index\": 14, \"label\": \"\"}, {\"name\": \"中国城市榜\", \"scheme\": \"sinaweibo://detail?mblogid=5210417250961372\", \"index\": 30, \"label\": \"\"}]}}```  <br>   - **中外青年Citywalk**：2025年10月开启，组织青年探访亳都新象等文化地标，强化“古今对话”的沉浸式体验。```wbCustomBlock{\"type\": \"quoted\", \"index\": 8, \"data\": {\"num\": [22], \"version\": 2, \"quote_list\": [{\"name\": \"网信郑州\", \"scheme\": \"sinaweibo://detail?mblogid=5227756749066318\", \"index\": 22, \"label\": \"\"}]}}```  <br>2. **短视频创作大赛**：  <br>   - 面向全国征集作品，以“光影记录郑州”为号召，设置万元奖金激励青年用镜头捕捉城市四季美景（如秋日银杏、尖岗水库）与人文瞬间。```wbCustomBlock{\"type\": \"quoted\", \"index\": 10, \"data\": {\"num\": [3, 5, 8, 18], \"version\": 2, \"quote_list\": [{\"name\": \"应旺\", \"scheme\": \"sinaweibo://detail?mblogid=5026397908897445\", \"index\": 5, \"label\": \"大v\"}, {\"name\": \"网信郑州\", \"scheme\": \"sinaweibo://detail?mblogid=5069827594784252\", \"index\": 3, \"label\": \"\"}, {\"name\": \"微公益\", \"scheme\": \"sinaweibo://detail?mblogid=5113039004900451\", \"index\": 8, \"label\": \"\"}, {\"name\": \"疯狂大象\", \"scheme\": \"sinaweibo://detail?mblogid=5225149777576040\", \"index\": 18, \"label\": \"\"}], \"name\": \"应旺\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/73ae3ca8ly8i566cckfwpj20u00u0wgj.jpg?KID=imgbed,tva&Expires=1761891786&ssig=DsmH3wavJD\", \"scheme\": \"sinaweibo://detail?mblogid=5026397908897445\", \"vType\": 0}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5026397908897445&multi_paragraph=2&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/73ae3ca8ly8i566cckfwpj20u00u0wgj.jpg?KID=imgbed,tva&Expires=1761891786&ssig=DsmH3wavJD) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">应旺</span><img src=\"http://wx1.sinaimg.cn/middle/73ae3ca8ly1hp11u0j5lcj20u00gun0u.jpg\" data-width=606 data-height=1080></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5225149777576040&multi_paragraph=2&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tva2.sinaimg.cn/crop.0.0.750.750.50/69084fa9jw8f3o0zoikd7j20ku0ku3zw.jpg?KID=imgbed,tva&Expires=1761891786&ssig=ZiGLwqJw02) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">疯狂大象</span><img src=\"http://wx2.sinaimg.cn/middle/69084fa9gy1i6n19rrz3dj21hc0u0gn6.jpg\" data-width=1080 data-height=1920></div></media-block><br>### 📍 三、内容聚焦方向  <br>1. **历史文脉的青春化诠释**：  <br>   - 突出商都3600年文明（商代遗址、黄帝故里）、工业遗产活化（油化厂创意园、梧桐里更新项目）等场景，强调“老厂房变身青年聚集地”的改造逻辑。```wbCustomBlock{\"type\": \"quoted\", \"index\": 13, \"data\": {\"num\": [7, 12, 19], \"version\": 2, \"quote_list\": [{\"name\": \"光辉在郑州\", \"scheme\": \"sinaweibo://detail?mblogid=5222467312554327\", \"index\": 19, \"label\": \"大v\"}, {\"name\": \"迷彩梦话\", \"scheme\": \"sinaweibo://detail?mblogid=5217315585002256\", \"index\": 7, \"label\": \"\"}, {\"name\": \"郑州大学城儿\", \"scheme\": \"sinaweibo://detail?mblogid=5202424937317372\", \"index\": 12, \"label\": \"\"}], \"name\": \"光辉在郑州\", \"img\": \"https://tvax4.sinaimg.cn/crop.170.133.666.666.50/007QFGQAly8h8phvn530gj30xc0m8jut.jpg?KID=imgbed,tva&Expires=1761891786&ssig=%2FpTrVrvpH%2B\", \"scheme\": \"sinaweibo://detail?mblogid=5222467312554327\", \"vType\": 0}}```  <br>2. **城市景观与生活美学**：  <br>   - **自然生态**：如七月荷塘、沿黄快速路秋色、北龙湖凤山风光，塑造“诗意栖居”意象。```wbCustomBlock{\"type\": \"quoted\", \"index\": 15, \"data\": {\"num\": [1, 10, 20, 27], \"version\": 2, \"quote_list\": [{\"name\": \"网信郑州\", \"scheme\": \"sinaweibo://detail?mblogid=5184698226576706\", \"index\": 1, \"label\": \"\"}, {\"name\": \"光辉在郑州\", \"scheme\": \"sinaweibo://detail?mblogid=5226833257696622\", \"index\": 10, \"label\": \"\"}, {\"name\": \"光辉在郑州\", \"scheme\": \"sinaweibo://detail?mblogid=5222483714115889\", \"index\": 20, \"label\": \"\"}, {\"name\": \"光辉在郑州\", \"scheme\": \"sinaweibo://detail?mblogid=5214882363344291\", \"index\": 27, \"label\": \"\"}]}}```  <br>   - **建筑地标**：亳都新象（传统与现代建筑融合）、二七塔、金融岛等成为青年打卡热点，凸显“古今同框”的视觉张力。```wbCustomBlock{\"type\": \"quoted\", \"index\": 16, \"data\": {\"num\": [6, 15, 26], \"version\": 2, \"quote_list\": [{\"name\": \"光辉在郑州\", \"scheme\": \"sinaweibo://detail?mblogid=5221017452810185\", \"index\": 6, \"label\": \"\"}, {\"name\": \"迷彩梦话\", \"scheme\": \"sinaweibo://detail?mblogid=5217078958623341\", \"index\": 15, \"label\": \"\"}, {\"name\": \"光辉在郑州\", \"scheme\": \"sinaweibo://detail?mblogid=5211609917292890\", \"index\": 26, \"label\": \"\"}]}}```  <br>3. **青年发展生态**：  <br>   - 关注科技创新（中原科技城）、低空经济（上街区通航产业）、公益实践等领域，传递郑州为青年提供的“宜居宜业”平台。```wbCustomBlock{\"type\": \"quoted\", \"index\": 18, \"data\": {\"num\": [4, 24], \"version\": 2, \"quote_list\": [{\"name\": \"大强\", \"scheme\": \"sinaweibo://detail?mblogid=5097430523842302\", \"index\": 4, \"label\": \"大v\"}, {\"name\": \"光辉在郑州\", \"scheme\": \"sinaweibo://detail?mblogid=5221649328637373\", \"index\": 24, \"label\": \"\"}], \"name\": \"大强\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/8776402bly8hs73gcdsbmj20u00u0gpy.jpg?KID=imgbed,tva&Expires=1761891786&ssig=V3ZXUADxSn\", \"scheme\": \"sinaweibo://detail?mblogid=5097430523842302\", \"vType\": 0}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5222467312554327&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=3&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.170.133.666.666.50/007QFGQAly8h8phvn530gj30xc0m8jut.jpg?KID=imgbed,tva&Expires=1761891786&ssig=%2FpTrVrvpH%2B) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">光辉在郑州</span><img src=\"http://wx4.sinaimg.cn/middle/007QFGQAly1i6eh5o7icbj32c0340u0z.jpg\" data-width=4032 data-height=3024></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5217315585002256&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=3&multi_count=1\"><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/008gMdNNly8h7ovbopc90j30u00u0jz0.jpg?KID=imgbed,tva&Expires=1761891786&ssig=BFibwv4ymm) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">迷彩梦话</span><img src=\"http://wx1.sinaimg.cn/middle/008gMdNNly1i5ripg1vyvj30u019048m.jpg\" data-width=1620 data-height=1080></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5184698226576706&multi_paragraph=3&multi_count=2\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.512.512.50/9004dd29ly8h8uu7qwtqaj20e80e874z.jpg?KID=imgbed,tva&Expires=1761891786&ssig=B1DUJyNIaI) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">网信郑州</span><img src=\"http://wx4.sinaimg.cn/middle/9004dd29ly1i31zg37pnhj21hc0u0q50.jpg\" data-width=1080 data-height=1920></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5226833257696622&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=3&multi_count=3\"><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.170.133.666.666.50/007QFGQAly8h8phvn530gj30xc0m8jut.jpg?KID=imgbed,tva&Expires=1761891786&ssig=%2FpTrVrvpH%2B) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">光辉在郑州</span><img src=\"http://wx1.sinaimg.cn/middle/007QFGQAly1i6sekwilq8j32c0340hdy.jpg\" data-width=4032 data-height=3024></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5222483714115889&multi_paragraph=3&multi_count=4\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.170.133.666.666.50/007QFGQAly8h8phvn530gj30xc0m8jut.jpg?KID=imgbed,tva&Expires=1761891786&ssig=%2FpTrVrvpH%2B) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">光辉在郑州</span><img src=\"http://wx1.sinaimg.cn/middle/007QFGQAly1i6ej2ozj87j31hc0u0dn8.jpg\" data-width=1080 data-height=1920></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5217078958623341&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=3&multi_count=5\"><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/008gMdNNly8h7ovbopc90j30u00u0jz0.jpg?KID=imgbed,tva&Expires=1761891786&ssig=BFibwv4ymm) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">迷彩梦话</span><img src=\"http://wx4.sinaimg.cn/middle/008gMdNNly1i5xacnen3vj30u01404qq.jpg\" data-width=1440 data-height=1080></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5097430523842302&multi_paragraph=3&multi_count=6\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/8776402bly8hs73gcdsbmj20u00u0gpy.jpg?KID=imgbed,tva&Expires=1761891786&ssig=V3ZXUADxSn) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">大强</span><img src=\"http://wx4.sinaimg.cn/middle/584b3687ly1hvb9bzmxpij20u00guq3w.jpg\" data-width=606 data-height=1080></div></media-block><br>### ✨ 四、传播特色  <br>- **多元主体共创**：媒体账号（```wbCustomBlock{\"type\": \"midquoted\", \"index\": \"2416237865_1\", \"data\": {\"name\": \"网信郑州\", \"scheme\": \"https://weibo.com/u/2416237865\"}}```）、大V（```wbCustomBlock{\"type\": \"midquoted\", \"index\": \"1762152361_1\", \"data\": {\"name\": \"疯狂大象\", \"scheme\": \"https://weibo.com/u/1762152361\"}}```）、认证用户（```wbCustomBlock{\"type\": \"midquoted\", \"index\": \"7191235452_1\", \"data\": {\"name\": \"光辉在郑州\", \"scheme\": \"https://weibo.com/u/7191235452\"}}```）等联动传播，覆盖文旅、科技、民俗多圈层。```wbCustomBlock{\"type\": \"quoted\", \"index\": 20, \"data\": {\"num\": [1, 6, 13, 17], \"version\": 2, \"quote_list\": [{\"name\": \"疯狂大象\", \"scheme\": \"sinaweibo://detail?mblogid=5226256771055943\", \"index\": 13, \"label\": \"大v\"}, {\"name\": \"网信郑州\", \"scheme\": \"sinaweibo://detail?mblogid=5184698226576706\", \"index\": 1, \"label\": \"\"}, {\"name\": \"光辉在郑州\", \"scheme\": \"sinaweibo://detail?mblogid=5221017452810185\", \"index\": 6, \"label\": \"\"}, {\"name\": \"疯狂大象\", \"scheme\": \"sinaweibo://detail?mblogid=5220489481682987\", \"index\": 17, \"label\": \"\"}], \"name\": \"疯狂大象\", \"img\": \"https://tva2.sinaimg.cn/crop.0.0.750.750.50/69084fa9jw8f3o0zoikd7j20ku0ku3zw.jpg?KID=imgbed,tva&Expires=1761891786&ssig=ZiGLwqJw02\", \"scheme\": \"sinaweibo://detail?mblogid=5226256771055943\", \"vType\": 0}}```  <br>- **情感化叙事**：通过“一封信写郑州的情书”“青春与未来双向奔赴”等感性表达，引发青年情感共鸣。```wbCustomBlock{\"type\": \"quoted\", \"index\": 21, \"data\": {\"num\": [9, 11], \"version\": 2, \"quote_list\": [{\"name\": \"守护夏都\", \"scheme\": \"sinaweibo://detail?mblogid=5209444351740459\", \"index\": 9, \"label\": \"\"}, {\"name\": \"千里眼视频\", \"scheme\": \"sinaweibo://detail?mblogid=5211080047201523\", \"index\": 11, \"label\": \"\"}]}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5226256771055943&multi_paragraph=4&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tva2.sinaimg.cn/crop.0.0.750.750.50/69084fa9jw8f3o0zoikd7j20ku0ku3zw.jpg?KID=imgbed,tva&Expires=1761891786&ssig=ZiGLwqJw02) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">疯狂大象</span><img src=\"http://wx3.sinaimg.cn/middle/69084fa9ly1i6qke82dzkj20u01hcjte.jpg\" data-width=1920 data-height=1080></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5220489481682987&multi_paragraph=4&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tva2.sinaimg.cn/crop.0.0.750.750.50/69084fa9jw8f3o0zoikd7j20ku0ku3zw.jpg?KID=imgbed,tva&Expires=1761891786&ssig=ZiGLwqJw02) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">疯狂大象</span><img src=\"http://wx2.sinaimg.cn/middle/69084fa9ly1i6860z87nvj20u01hcjvz.jpg\" data-width=1920 data-height=1080></div></media-block><br>### 💎 五、社会影响  <br>活动已形成持续性品牌效应，成为郑州对外展示“活力之城”的重要窗口。例如：  <br>- 亳都新象等更新项目因活动推广成为爆款打卡地；```wbCustomBlock{\"type\": \"quoted\", \"index\": 23, \"data\": {\"num\": [6], \"version\": 2, \"quote_list\": [{\"name\": \"光辉在郑州\", \"scheme\": \"sinaweibo://detail?mblogid=5221017452810185\", \"index\": 6, \"label\": \"\"}]}}```  <br>- 通航产业、文创园区通过青年视角获得广泛关注，助推区域产业升级。```wbCustomBlock{\"type\": \"quoted\", \"index\": 24, \"data\": {\"num\": [12, 24], \"version\": 2, \"quote_list\": [{\"name\": \"郑州大学城儿\", \"scheme\": \"sinaweibo://detail?mblogid=5202424937317372\", \"index\": 12, \"label\": \"大v\"}, {\"name\": \"光辉在郑州\", \"scheme\": \"sinaweibo://detail?mblogid=5221649328637373\", \"index\": 24, \"label\": \"\"}], \"name\": \"郑州大学城儿\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.750.750.50/0067J3HHly8gdi87c2gaej30ku0ku0u9.jpg?KID=imgbed,tva&Expires=1761891786&ssig=adCJZ10SqX\", \"scheme\": \"sinaweibo://detail?mblogid=5202424937317372\", \"vType\": 0}}```  <br><br>综上，“发现郑青春”既是城市青春气质的集中输出，也是青年与城市共生关系的动态呈现——郑州正以历史为基、以青春为笔，书写“古今交融、活力迸发”的现代都市新篇章。<br>",
+      "qs_status": 0,
+      "msg_json": "{}",
+      "page_id": "232964dafba41823c44ec60a5f335cce70d275",
+      "share_info": {
+        "url": "http://t.cn/A6kZMKNT",
+        "status": 3,
+        "unify_md5": "bea992e86352f2f223e34d7acbc9e70f",
+        "page_id": "232964dafba41823c44ec60a5f335cce70d275",
+        "display_name": "#发现郑青春#",
+        "tips": "#发现郑青春#的相关内容，来智搜看看",
+        "comment_content": ""
+      },
+      "short_url": "http://t.cn/A6kZMTbp",
+      "abtest_info": {
+        "chat_entrance": 1
+      },
+      "uid": ""
+    }
+  },
+  "links": [
+    "sinaweibo://detail?mblogid=5184698226576706",
+    "sinaweibo://detail?mblogid=5210342879924943",
+    "sinaweibo://detail?mblogid=5069827594784252",
+    "sinaweibo://detail?mblogid=5097430523842302",
+    "sinaweibo://detail?mblogid=5026397908897445",
+    "sinaweibo://detail?mblogid=5221017452810185",
+    "sinaweibo://detail?mblogid=5217315585002256",
+    "sinaweibo://detail?mblogid=5113039004900451",
+    "sinaweibo://detail?mblogid=5209444351740459",
+    "sinaweibo://detail?mblogid=5226833257696622",
+    "sinaweibo://detail?mblogid=5211080047201523",
+    "sinaweibo://detail?mblogid=5202424937317372",
+    "sinaweibo://detail?mblogid=5226256771055943",
+    "sinaweibo://detail?mblogid=5209601649935466",
+    "sinaweibo://detail?mblogid=5217078958623341",
+    "sinaweibo://detail?mblogid=5001624348788484",
+    "sinaweibo://detail?mblogid=5220489481682987",
+    "sinaweibo://detail?mblogid=5225149777576040",
+    "sinaweibo://detail?mblogid=5222467312554327",
+    "sinaweibo://detail?mblogid=5222483714115889",
+    "sinaweibo://detail?mblogid=5219597068534701",
+    "sinaweibo://detail?mblogid=5227756749066318",
+    "sinaweibo://detail?mblogid=5227396615898298",
+    "sinaweibo://detail?mblogid=5221649328637373",
+    "sinaweibo://detail?mblogid=5221605825581306",
+    "sinaweibo://detail?mblogid=5211609917292890",
+    "sinaweibo://detail?mblogid=5214882363344291",
+    "sinaweibo://detail?mblogid=5227414779070981",
+    "sinaweibo://detail?mblogid=5213049511743979",
+    "sinaweibo://detail?mblogid=5210417250961372",
+    "sinaweibo://detail?mblogid=4944863865604753",
+    "sinaweibo://detail?mblogid=5192271259768700",
+    "sinaweibo://detail?mblogid=5171985509256206",
+    "sinaweibo://detail?mblogid=4982789448925406"
+  ],
+  "media": [
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/005NJpYely1i5e4y8ioqjj30zk0k0wg4.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/005NJpYely1i5e4y8ioqjj30zk0k0wg4.jpg",
+      "alt": "千里眼视频",
+      "width": 720,
+      "height": 1280,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/005NJpYely1i5e4y8ioqjj30zk0k0wg4.jpg"
+      ],
+      "user": "千里眼视频"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/73ae3ca8ly1hp11u0j5lcj20u00gun0u.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/73ae3ca8ly1hp11u0j5lcj20u00gun0u.jpg",
+      "alt": "应旺",
+      "width": 606,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/73ae3ca8ly1hp11u0j5lcj20u00gun0u.jpg"
+      ],
+      "user": "应旺"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/69084fa9gy1i6n19rrz3dj21hc0u0gn6.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/69084fa9gy1i6n19rrz3dj21hc0u0gn6.jpg",
+      "alt": "疯狂大象",
+      "width": 1080,
+      "height": 1920,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/69084fa9gy1i6n19rrz3dj21hc0u0gn6.jpg"
+      ],
+      "user": "疯狂大象"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/007QFGQAly1i6eh5o7icbj32c0340u0z.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/007QFGQAly1i6eh5o7icbj32c0340u0z.jpg",
+      "alt": "光辉在郑州",
+      "width": 4032,
+      "height": 3024,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/007QFGQAly1i6eh5o7icbj32c0340u0z.jpg"
+      ],
+      "user": "光辉在郑州"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/008gMdNNly1i5ripg1vyvj30u019048m.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/008gMdNNly1i5ripg1vyvj30u019048m.jpg",
+      "alt": "迷彩梦话",
+      "width": 1620,
+      "height": 1080,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/008gMdNNly1i5ripg1vyvj30u019048m.jpg"
+      ],
+      "user": "迷彩梦话"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/9004dd29ly1i31zg37pnhj21hc0u0q50.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/9004dd29ly1i31zg37pnhj21hc0u0q50.jpg",
+      "alt": "网信郑州",
+      "width": 1080,
+      "height": 1920,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/9004dd29ly1i31zg37pnhj21hc0u0q50.jpg"
+      ],
+      "user": "网信郑州"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/007QFGQAly1i6sekwilq8j32c0340hdy.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/007QFGQAly1i6sekwilq8j32c0340hdy.jpg",
+      "alt": "光辉在郑州",
+      "width": 4032,
+      "height": 3024,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx4.sinaimg.cn/large/007QFGQAly1i6sekwilq8j32c0340hdy.jpg"
+      ],
+      "user": "光辉在郑州"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/007QFGQAly1i6ej2ozj87j31hc0u0dn8.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/007QFGQAly1i6ej2ozj87j31hc0u0dn8.jpg",
+      "alt": "光辉在郑州",
+      "width": 1080,
+      "height": 1920,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/007QFGQAly1i6ej2ozj87j31hc0u0dn8.jpg"
+      ],
+      "user": "光辉在郑州"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/008gMdNNly1i5xacnen3vj30u01404qq.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/008gMdNNly1i5xacnen3vj30u01404qq.jpg",
+      "alt": "迷彩梦话",
+      "width": 1440,
+      "height": 1080,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/008gMdNNly1i5xacnen3vj30u01404qq.jpg"
+      ],
+      "user": "迷彩梦话"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/584b3687ly1hvb9bzmxpij20u00guq3w.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/584b3687ly1hvb9bzmxpij20u00guq3w.jpg",
+      "alt": "大强",
+      "width": 606,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/584b3687ly1hvb9bzmxpij20u00guq3w.jpg"
+      ],
+      "user": "大强"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/69084fa9ly1i6qke82dzkj20u01hcjte.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/69084fa9ly1i6qke82dzkj20u01hcjte.jpg",
+      "alt": "疯狂大象",
+      "width": 1920,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/69084fa9ly1i6qke82dzkj20u01hcjte.jpg"
+      ],
+      "user": "疯狂大象"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/69084fa9ly1i6860z87nvj20u01hcjvz.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/69084fa9ly1i6860z87nvj20u01hcjvz.jpg",
+      "alt": "疯狂大象",
+      "width": 1920,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/69084fa9ly1i6860z87nvj20u01hcjvz.jpg"
+      ],
+      "user": "疯狂大象"
+    }
+  ],
+  "html_path": "data/aicard/hourly/2025-10-30/11/topic-bea992e8.html"
+}

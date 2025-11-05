@@ -1,0 +1,302 @@
+{
+  "meta": {
+    "query": "#Uzi预测比分#",
+    "status_code": 200,
+    "fetched_at": "2025-11-01T16:42:39+08:00",
+    "response": {
+      "cot": 1,
+      "mid_list": null,
+      "reference_num": 27,
+      "status_stage": 4,
+      "link_list": [
+        "sinaweibo://detail?mblogid=5228193746782135",
+        "sinaweibo://detail?mblogid=5228192048875579",
+        "sinaweibo://detail?mblogid=5227840511676564",
+        "sinaweibo://detail?mblogid=4964735120572674",
+        "sinaweibo://detail?mblogid=4964651354033404",
+        "historyweibo://5093858268681168",
+        "historyweibo://5093858268681168",
+        "historyweibo://4844780910290918",
+        "sinaweibo://detail?mblogid=5228194119551467",
+        "sinaweibo://detail?mblogid=5228203188685027",
+        "sinaweibo://detail?mblogid=5228210732405955",
+        "sinaweibo://detail?mblogid=5228206749914026",
+        "sinaweibo://detail?mblogid=5228203842733807",
+        "sinaweibo://detail?mblogid=5221606869174001",
+        "sinaweibo://detail?mblogid=5200981338097855",
+        "sinaweibo://detail?mblogid=5096216490938902",
+        "sinaweibo://detail?mblogid=5096465728537915",
+        "sinaweibo://detail?mblogid=5096305704044935",
+        "sinaweibo://detail?mblogid=5228200096696603",
+        "sinaweibo://detail?mblogid=4969821962505796",
+        "sinaweibo://detail?mblogid=5024481108035609",
+        "sinaweibo://detail?mblogid=5228206086948092",
+        "sinaweibo://detail?mblogid=4944164074555418",
+        "sinaweibo://detail?mblogid=5228197873978868",
+        "sinaweibo://detail?mblogid=5228200360940602",
+        "sinaweibo://detail?mblogid=5093873098952388",
+        "sinaweibo://detail?mblogid=5172015765917459",
+        "sinaweibo://detail?mblogid=4831755120410784",
+        "sinaweibo://detail?mblogid=5095597763461705",
+        "sinaweibo://detail?mblogid=4949480154333374"
+      ],
+      "top_quote_list": {},
+      "card_multimodal": {
+        "type": "mediablock",
+        "data": [
+          {
+            "user_avatar": "https://tvax1.sinaimg.cn/crop.0.0.690.690.50/006i8XEzly8hojzsvemjvj30j60j6my1.jpg?KID=imgbed,tva&Expires=1761996903&ssig=npGP1RVzpu",
+            "video_url": "https://video.weibo.com/show?fid=1034:5228196900306968",
+            "user_name": "动漫游戏君",
+            "hit_score_new": 0,
+            "doc_score": 0,
+            "img_pid": "006i8XEzly1i6wr8m59qij30k00vsaau",
+            "vtype": 0,
+            "h": 1144,
+            "type": "v",
+            "img": "http://wx2.sinaimg.cn/middle/006i8XEzly1i6wr8m59qij30k00vsaau.jpg",
+            "cur_mid": "5228193746782135",
+            "hit_score_final": 0,
+            "w": 720,
+            "scheme": "sinaweibo://video/vvs?mid=5228193746782135&multi_paragraph=1&multi_count=0",
+            "click_rate": 0
+          },
+          {
+            "user_avatar": "https://tvax4.sinaimg.cn/crop.0.0.512.512.50/006X1wLXly8i0vjnz4vxkj30e80e8dfz.jpg?KID=imgbed,tva&Expires=1761996903&ssig=uqDnU6kMRF",
+            "video_url": "https://video.weibo.com/show?fid=1034:5228200268333089",
+            "user_name": "虎扑电竞",
+            "hit_score_new": 91.162109,
+            "doc_score": 3107,
+            "img_pid": "006X1wLXly1i6wrmivdapj30qo0k0wf1",
+            "vtype": 0,
+            "h": 720,
+            "type": "v",
+            "img": "http://wx1.sinaimg.cn/middle/006X1wLXly1i6wrmivdapj30qo0k0wf1.jpg",
+            "cur_mid": "5228200360940602",
+            "hit_score_final": 79.497269,
+            "w": 960,
+            "scheme": "sinaweibo://video/vvs?mid=5228200360940602&multi_paragraph=1&multi_count=1",
+            "click_rate": 0
+          },
+          {
+            "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/0088pe1aly8h8be6hvzx1j30u00u0wke.jpg?KID=imgbed,tva&Expires=1761996903&ssig=aYen%2FjRoA%2F",
+            "video_url": "https://video.weibo.com/show?fid=1034:4964650832560156",
+            "user_name": "寒寒综艺娱乐",
+            "hit_score_new": 90.234375,
+            "doc_score": 2402,
+            "img_pid": "0088pe1aly1hjjzdu3j5vj30qo0k0q8i",
+            "vtype": 0,
+            "h": 720,
+            "type": "v",
+            "img": "http://wx1.sinaimg.cn/middle/0088pe1aly1hjjzdu3j5vj30qo0k0q8i.jpg",
+            "cur_mid": "4964651354033404",
+            "hit_score_final": 79.740631,
+            "w": 960,
+            "scheme": "sinaweibo://video/vvs?mid=4964651354033404&multi_paragraph=2&multi_count=0",
+            "click_rate": 0
+          },
+          {
+            "user_avatar": "https://tvax1.sinaimg.cn/crop.0.0.690.690.50/006i8XEzly8hojzsvemjvj30j60j6my1.jpg?KID=imgbed,tva&Expires=1761996903&ssig=npGP1RVzpu",
+            "video_url": "https://video.weibo.com/show?fid=1034:5228196900306968",
+            "user_name": "动漫游戏君",
+            "hit_score_new": 0,
+            "doc_score": 0,
+            "img_pid": "006i8XEzly1i6wr8m59qij30k00vsaau",
+            "vtype": 0,
+            "h": 1144,
+            "type": "v",
+            "img": "http://wx2.sinaimg.cn/middle/006i8XEzly1i6wr8m59qij30k00vsaau.jpg",
+            "cur_mid": "5228193746782135",
+            "hit_score_final": 0,
+            "w": 720,
+            "scheme": "sinaweibo://video/vvs?mid=5228193746782135&multi_paragraph=1&multi_count=0",
+            "click_rate": 0
+          }
+        ]
+      },
+      "share_card_multimodal": {
+        "user_avatar": "https://tvax1.sinaimg.cn/crop.0.0.690.690.50/006i8XEzly8hojzsvemjvj30j60j6my1.jpg?KID=imgbed,tva&Expires=1761996903&ssig=npGP1RVzpu",
+        "video_url": "https://video.weibo.com/show?fid=1034:5228196900306968",
+        "user_name": "动漫游戏君",
+        "hit_score_new": 0,
+        "doc_score": 0,
+        "img_pid": "006i8XEzly1i6wr8m59qij30k00vsaau",
+        "vtype": 0,
+        "h": 1144,
+        "type": "v",
+        "img": "http://wx2.sinaimg.cn/middle/006i8XEzly1i6wr8m59qij30k00vsaau.jpg",
+        "cur_mid": "5228193746782135",
+        "hit_score_final": 0,
+        "w": 720,
+        "scheme": "sinaweibo://video/vvs?mid=5228193746782135&multi_paragraph=1&multi_count=0",
+        "click_rate": 0
+      },
+      "ab_suffix": "default",
+      "share_info": {
+        "page_id": "2329648a24b3998404f6ac3e081a95269cd56f",
+        "tips": "#Uzi预测比分#的相关内容，来智搜看看",
+        "unify_md5": "97d52f83d9a6ba85bd85adb7d59dd4b5",
+        "display_name": "#Uzi预测比分#",
+        "url": "http://t.cn/AXAxVxJf",
+        "status": 3,
+        "comment_content": ""
+      },
+      "ext_show": {},
+      "uid": "",
+      "scheme": "sinaweibo://cardlist?containerid=100103type%3D225%26q%3D%23uzi%E9%A2%84%E6%B5%8B%E6%AF%94%E5%88%86%23%26t%3D&extparam=ai_model%3Ddeepseek%26ori_ai_title%3D%E5%8F%82%E8%80%83%E5%8D%9A%E6%96%87%26material_version%3D1761986103",
+      "query_field": "47",
+      "chat_status_stage": 1,
+      "msg_json": "{}",
+      "query": "#Uzi预测比分#",
+      "news_analyze": {},
+      "reliable_tips": "{\"gold_orange_v_mids\": [\"5228193746782135\", \"5228194119551467\", \"5228206086948092\", \"5228200360940602\", \"5093873098952388\", \"5096465728537915\", \"4964735120572674\", \"4831755120410784\", \"5228200096696603\", \"5096216490938902\", \"5228192048875579\", \"5228203188685027\", \"5228210732405955\", \"5228203842733807\", \"5096305704044935\", \"4969821962505796\", \"4944164074555418\", \"5172015765917459\", \"5095597763461705\"], \"gold_orange_v_ratio\": \"70%\", \"media_mids\": [], \"media_ratio\": \"0%\", \"verified_mids\": [\"5228197873978868\", \"4964651354033404\", \"5227840511676564\", \"5221606869174001\", \"5200981338097855\", \"5024481108035609\", \"4949480154333374\"], \"verified_ratio\": \"26%\", \"normal_mids\": [\"5228206749914026\"], \"normal_ratio\": \"4%\", \"ref_mid_rank\": {\"5228193746782135\": {\"rank\": 1}, \"5228194119551467\": {\"rank\": 9}, \"5228206086948092\": {\"rank\": 22}, \"5228200360940602\": {\"rank\": 25}, \"5228197873978868\": {\"rank\": 24}, \"5228206749914026\": {\"rank\": 12}, \"4964651354033404\": {\"rank\": 5}, \"5093873098952388\": {\"rank\": 26}, \"5096465728537915\": {\"rank\": 17}, \"4964735120572674\": {\"rank\": 4}, \"4831755120410784\": {\"rank\": 28}, \"5228200096696603\": {\"rank\": 19}, \"5096216490938902\": {\"rank\": 16}, \"5228192048875579\": {\"rank\": 2}, \"5227840511676564\": {\"rank\": 3}, \"5228203188685027\": {\"rank\": 10}, \"5228210732405955\": {\"rank\": 11}, \"5228203842733807\": {\"rank\": 13}, \"5221606869174001\": {\"rank\": 14}, \"5200981338097855\": {\"rank\": 15}, \"5096305704044935\": {\"rank\": 18}, \"4969821962505796\": {\"rank\": 20}, \"5024481108035609\": {\"rank\": 21}, \"4944164074555418\": {\"rank\": 23}, \"5172015765917459\": {\"rank\": 27}, \"5095597763461705\": {\"rank\": 29}, \"4949480154333374\": {\"rank\": 30}}}",
+      "model": "deepseek",
+      "profile_image_url": "",
+      "qs_status": 0,
+      "q_attr": {
+        "comment_from_type": "",
+        "from_uid": "",
+        "reply_cid": "",
+        "mid": "",
+        "from_request_id": ""
+      },
+      "zs_risk_control": {
+        "think_text_close": 0,
+        "land_button_close": 0
+      },
+      "query_category": "",
+      "comment_info": {},
+      "abtest_info": {
+        "chat_entrance": 1
+      },
+      "short_url": "http://t.cn/AXAxPlfD",
+      "msg": "<think><br>嗯，用户想了解Uzi预测比赛比分的情况。我看到了很多搜索结果，需要整理出最相关的内容。<br><br>在这些搜索结果中，最新的是2025年11月1日的信息，显示Uzi在当天预测了GEN对阵KT的比赛比分。具体来说，Uzi预测GEN会以3:1战胜KT。他在上海外滩的活动现场表示，GEN的状态更好，但同时也调侃自己\"比较毒奶\"。<br><br>搜索结果还提到Uzi出现在比赛现场观赛，受到观众热烈欢迎，全场都在欢呼他的名字。这显示他作为传奇选手的影响力依然很大。<br><br>除了这次预测，搜索结果还包含Uzi之前的预测记录：<br>- 2024年10月预测BLG将夺冠<br>- 2023年11月预测JDG以3:1战胜KT<br>- 2022年11月预测T1将在决赛中获胜<br><br>有趣的是，Uzi在2024年S14决赛前的预测失败了，当时LPL方面的预测全部错误。他自己也承认预测不一定准确，用\"毒奶\"来自嘲。<br><br>其他搜索结果中：<br>- 2023年11月有关于LNG对战T1的预测讨论<br>- 2025年8月有FPX对阵WBG的预测分析<br>- 2024年11月有关于S14决赛的预测话题<br><br>这些内容虽然与Uzi有关，但并不是他本人的预测，所以重要性较低。我会把重点放在Uzi亲自做出的预测上，特别是最新的GEN vs KT预测。<br><br>用户可能对Uzi的预测准确率感兴趣，所以需要提到他既有成功预测(如2023年JDG比赛)，也有失败案例(2024年S14决赛)。同时要强调他本人对预测持谨慎态度，用\"毒奶\"来自我调侃。<br></think><br>根据最新信息整理，关于Uzi近期对电竞赛事的比分预测及相关动态如下：<br>### 一、最新预测：GEN vs KT半决赛（2025全球总决赛）<br>1. **预测内容**  <br>   Uzi于11月1日在上海外滩活动现场公开预测：**GEN 3:1 KT**。他分析认为GEN当前状态更佳，战术执行力和版本适应能力更强，但同时也调侃自己“比较毒奶”，对结果持谨慎态度。```wbCustomBlock{\"type\": \"quoted\", \"index\": 3, \"data\": {\"num\": [1, 9, 22, 25], \"version\": 2, \"quote_list\": [{\"name\": \"动漫游戏君\", \"scheme\": \"sinaweibo://detail?mblogid=5228193746782135\", \"index\": 1, \"label\": \"大v\"}, {\"name\": \"官序\", \"scheme\": \"sinaweibo://detail?mblogid=5228194119551467\", \"index\": 9, \"label\": \"\"}, {\"name\": \"幼儿园园一莎弥拉\", \"scheme\": \"sinaweibo://detail?mblogid=5228206086948092\", \"index\": 22, \"label\": \"\"}, {\"name\": \"虎扑电竞\", \"scheme\": \"sinaweibo://detail?mblogid=5228200360940602\", \"index\": 25, \"label\": \"\"}], \"name\": \"动漫游戏君\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.690.690.50/006i8XEzly8hojzsvemjvj30j60j6my1.jpg?KID=imgbed,tva&Expires=1761996903&ssig=npGP1RVzpu\", \"scheme\": \"sinaweibo://detail?mblogid=5228193746782135\", \"vType\": 0}}```  <br>   - **依据**：结合两队近期表现，GEN在团战协同和资源控制方面占据优势，尤其下路对抗和中野联动是关键胜负手。```wbCustomBlock{\"type\": \"quoted\", \"index\": 4, \"data\": {\"num\": [24, 25], \"version\": 2, \"quote_list\": [{\"name\": \"虎扑电竞\", \"scheme\": \"sinaweibo://detail?mblogid=5228200360940602\", \"index\": 25, \"label\": \"大v\"}, {\"name\": \"热搜电台\", \"scheme\": \"sinaweibo://detail?mblogid=5228197873978868\", \"index\": 24, \"label\": \"\"}], \"name\": \"虎扑电竞\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.512.512.50/006X1wLXly8i0vjnz4vxkj30e80e8dfz.jpg?KID=imgbed,tva&Expires=1761996903&ssig=uqDnU6kMRF\", \"scheme\": \"sinaweibo://detail?mblogid=5228200360940602\", \"vType\": 0}}```<br><br>2. **现场反响**  <br>   Uzi现身比赛观赛席引发观众欢呼，现场氛围热烈，其专业分析引发广泛讨论。```wbCustomBlock{\"type\": \"quoted\", \"index\": 5, \"data\": {\"num\": [1, 12], \"version\": 2, \"quote_list\": [{\"name\": \"动漫游戏君\", \"scheme\": \"sinaweibo://detail?mblogid=5228193746782135\", \"index\": 1, \"label\": \"\"}, {\"name\": \"三0而未立\", \"scheme\": \"sinaweibo://detail?mblogid=5228206749914026\", \"index\": 12, \"label\": \"\"}]}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5228193746782135&multi_paragraph=1&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.690.690.50/006i8XEzly8hojzsvemjvj30j60j6my1.jpg?KID=imgbed,tva&Expires=1761996903&ssig=npGP1RVzpu) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">动漫游戏君</span><img src=\"http://wx2.sinaimg.cn/middle/006i8XEzly1i6wr8m59qij30k00vsaau.jpg\" data-width=1144 data-height=720></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5228200360940602&multi_paragraph=1&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.512.512.50/006X1wLXly8i0vjnz4vxkj30e80e8dfz.jpg?KID=imgbed,tva&Expires=1761996903&ssig=uqDnU6kMRF) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">虎扑电竞</span><img src=\"http://wx1.sinaimg.cn/middle/006X1wLXly1i6wrmivdapj30qo0k0wf1.jpg\" data-width=720 data-height=960></div></media-block><br>### 二、历史预测记录与准确性<br>1. **成功案例**  <br>   - **2023年S13全球总决赛**：准确预测JDG以3:1战胜KT晋级四强。```wbCustomBlock{\"type\": \"quoted\", \"index\": 9, \"data\": {\"num\": [5], \"version\": 2, \"quote_list\": [{\"name\": \"寒寒综艺娱乐\", \"scheme\": \"sinaweibo://detail?mblogid=4964651354033404\", \"index\": 5, \"label\": \"\"}]}}```  <br>   - **2024年S14全球总决赛**：力挺BLG击败WBG晋级决赛（最终BLG 3:0获胜），并预测BLG夺冠（实际T1夺冠）。```wbCustomBlock{\"type\": \"quoted\", \"index\": 10, \"data\": {\"num\": [26], \"version\": 2, \"quote_list\": [{\"name\": \"小野的瓜田\", \"scheme\": \"sinaweibo://detail?mblogid=5093873098952388\", \"index\": 26, \"label\": \"大v\"}], \"name\": \"小野的瓜田\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/008xCJoDly8hrq6l9fi5wj30u00u03yx.jpg?KID=imgbed,tva&Expires=1761996903&ssig=Hw5tfurKUT\", \"scheme\": \"sinaweibo://detail?mblogid=5093873098952388\", \"vType\": 0}}```<br><br>2. **争议性预测**  <br>   - 2024年S14决赛前预测BLG战胜T1未果，LPL解说集体预测失误。```wbCustomBlock{\"type\": \"quoted\", \"index\": 12, \"data\": {\"num\": [17], \"version\": 2, \"quote_list\": [{\"name\": \"宋一博6\", \"scheme\": \"sinaweibo://detail?mblogid=5096465728537915\", \"index\": 17, \"label\": \"大v\"}], \"name\": \"宋一博6\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.600.600.50/7838c966ly8hp7tm00xwcj20go0goq57.jpg?KID=imgbed,tva&Expires=1761996903&ssig=yUWmMMNBc2\", \"scheme\": \"sinaweibo://detail?mblogid=5096465728537915\", \"vType\": 0}}```  <br>   - 2023年LNG对战T1赛前，Ale提及Uzi曾表示“不希望LPL四队全进四强”，引发节奏争议（Uzi当场否认该说法）。```wbCustomBlock{\"type\": \"quoted\", \"index\": 13, \"data\": {\"num\": [4], \"version\": 2, \"quote_list\": [{\"name\": \"英雄联盟神吐槽\", \"scheme\": \"sinaweibo://detail?mblogid=4964735120572674\", \"index\": 4, \"label\": \"大v\"}], \"name\": \"英雄联盟神吐槽\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.439.439.50/006cmbhQly8h8uglinec1j30c70c73yz.jpg?KID=imgbed,tva&Expires=1761996903&ssig=H%2FDTD4gL%2Fi\", \"scheme\": \"sinaweibo://detail?mblogid=4964735120572674\", \"vType\": 0}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=4964651354033404&multi_paragraph=2&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/0088pe1aly8h8be6hvzx1j30u00u0wke.jpg?KID=imgbed,tva&Expires=1761996903&ssig=aYen%2FjRoA%2F) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">寒寒综艺娱乐</span><img src=\"http://wx1.sinaimg.cn/middle/0088pe1aly1hjjzdu3j5vj30qo0k0q8i.jpg\" data-width=720 data-height=960></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5093873098952388&multi_paragraph=2&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/008xCJoDly8hrq6l9fi5wj30u00u03yx.jpg?KID=imgbed,tva&Expires=1761996903&ssig=Hw5tfurKUT) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">小野的瓜田</span><img src=\"http://wx3.sinaimg.cn/middle/008xCJoDly1hv07w78aixj30ru0fo75x.jpg\" data-width=564 data-height=1002></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=4964735120572674&multi_paragraph=2&multi_count=2\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.439.439.50/006cmbhQly8h8uglinec1j30c70c73yz.jpg?KID=imgbed,tva&Expires=1761996903&ssig=H%2FDTD4gL%2Fi) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">英雄联盟神吐槽</span><img src=\"http://wx2.sinaimg.cn/middle/006cmbhQly1hjk9171c2jj30qo0f0754.jpg\" data-width=540 data-height=960></div></media-block><br>### 三、预测方法论特点  <br>Uzi的分析主要基于三点：  <br>1. **对线强度**：尤其关注下路组合的压制能力；  <br>2. **战术执行力**：评估资源争夺和转线运营效率；  <br>3. **版本适应力**：判断英雄池与当前Meta的契合度。```wbCustomBlock{\"type\": \"quoted\", \"index\": 18, \"data\": {\"num\": [24, 28], \"version\": 2, \"quote_list\": [{\"name\": \"阿冷说游戏\", \"scheme\": \"sinaweibo://detail?mblogid=4831755120410784\", \"index\": 28, \"label\": \"大v\"}, {\"name\": \"热搜电台\", \"scheme\": \"sinaweibo://detail?mblogid=5228197873978868\", \"index\": 24, \"label\": \"\"}], \"name\": \"阿冷说游戏\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.1000.1000.50/ec986885ly8hc9tafk23aj20rs0rs0um.jpg?KID=imgbed,tva&Expires=1761996903&ssig=frSGTkQ5%2F5\", \"scheme\": \"sinaweibo://detail?mblogid=4831755120410784\", \"vType\": 0}}```  <br>> 其专业视角被认为融合了前职业选手的实战经验与赛事宏观洞察。```wbCustomBlock{\"type\": \"quoted\", \"index\": 19, \"data\": {\"num\": [24], \"version\": 2, \"quote_list\": [{\"name\": \"热搜电台\", \"scheme\": \"sinaweibo://detail?mblogid=5228197873978868\", \"index\": 24, \"label\": \"\"}]}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=4831755120410784&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=3&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.1000.1000.50/ec986885ly8hc9tafk23aj20rs0rs0um.jpg?KID=imgbed,tva&Expires=1761996903&ssig=frSGTkQ5%2F5) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">阿冷说游戏</span><img src=\"http://wx1.sinaimg.cn/middle/ec986885gy1h7s0iig3r4j20u00k1wg4.jpg\" data-width=721 data-height=1080></div></media-block><br>### 四、网友与业界反馈<br>- **支持观点**：多数认可其分析深度，如解说王多多、米勒曾与Uzi预测一致。```wbCustomBlock{\"type\": \"quoted\", \"index\": 22, \"data\": {\"num\": [19], \"version\": 2, \"quote_list\": [{\"name\": \"网瘾少女哈尼酱\", \"scheme\": \"sinaweibo://detail?mblogid=5228200096696603\", \"index\": 19, \"label\": \"大v\"}], \"name\": \"网瘾少女哈尼酱\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/006MPQOcly8i172ndyg5nj30u00u0jw4.jpg?KID=imgbed,tva&Expires=1761996903&ssig=lJFAsT8kmf\", \"scheme\": \"sinaweibo://detail?mblogid=5228200096696603\", \"vType\": 0}}```  <br>- **调侃梗图**：“毒奶属性”成热议话题，尤其在预测失利时（如S14决赛）。```wbCustomBlock{\"type\": \"quoted\", \"index\": 23, \"data\": {\"num\": [16, 22], \"version\": 2, \"quote_list\": [{\"name\": \"大脸恰瓜\", \"scheme\": \"sinaweibo://detail?mblogid=5096216490938902\", \"index\": 16, \"label\": \"大v\"}, {\"name\": \"幼儿园园一莎弥拉\", \"scheme\": \"sinaweibo://detail?mblogid=5228206086948092\", \"index\": 22, \"label\": \"\"}], \"name\": \"大脸恰瓜\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.750.750.50/007rJKiBly8gwbbpdmgnfj30ku0kuwfp.jpg?KID=imgbed,tva&Expires=1761996903&ssig=7DwLVYc7gL\", \"scheme\": \"sinaweibo://detail?mblogid=5096216490938902\", \"vType\": 0}}```  <br><br>---<br>> 注：赛事结果存在不确定性，预测仅供参考。最新赛况请以官方公布为准。<br>",
+      "share_text": "#Uzi预测比分#的相关内容，来智搜看看",
+      "unify_md5": "97d52f83d9a6ba85bd85adb7d59dd4b5",
+      "wenda": {
+        "forward_gen": 0
+      },
+      "analysis_time": 1761986266,
+      "loop_times": 200,
+      "status": 2,
+      "qs_status_info": "{\"qs_status\":0,\"qs_u_status\":0,\"qs_q_status\":0,\"qs_c_status\":8388608,\"qs_r_status\":0,\"ab_lab\":{}}",
+      "page_id": "2329648a24b3998404f6ac3e081a95269cd56f",
+      "version": "2025-11-01 16:35:03.022000-2278",
+      "basemodel": "实验组6",
+      "show_ctrl": {
+        "quote": {}
+      },
+      "current_time": 1761986560,
+      "msg_format": "markdown",
+      "user_info": {},
+      "sorted_material_list": null
+    }
+  },
+  "links": [
+    "sinaweibo://detail?mblogid=5228193746782135",
+    "sinaweibo://detail?mblogid=5228192048875579",
+    "sinaweibo://detail?mblogid=5227840511676564",
+    "sinaweibo://detail?mblogid=4964735120572674",
+    "sinaweibo://detail?mblogid=4964651354033404",
+    "historyweibo://5093858268681168",
+    "historyweibo://5093858268681168",
+    "historyweibo://4844780910290918",
+    "sinaweibo://detail?mblogid=5228194119551467",
+    "sinaweibo://detail?mblogid=5228203188685027",
+    "sinaweibo://detail?mblogid=5228210732405955",
+    "sinaweibo://detail?mblogid=5228206749914026",
+    "sinaweibo://detail?mblogid=5228203842733807",
+    "sinaweibo://detail?mblogid=5221606869174001",
+    "sinaweibo://detail?mblogid=5200981338097855",
+    "sinaweibo://detail?mblogid=5096216490938902",
+    "sinaweibo://detail?mblogid=5096465728537915",
+    "sinaweibo://detail?mblogid=5096305704044935",
+    "sinaweibo://detail?mblogid=5228200096696603",
+    "sinaweibo://detail?mblogid=4969821962505796",
+    "sinaweibo://detail?mblogid=5024481108035609",
+    "sinaweibo://detail?mblogid=5228206086948092",
+    "sinaweibo://detail?mblogid=4944164074555418",
+    "sinaweibo://detail?mblogid=5228197873978868",
+    "sinaweibo://detail?mblogid=5228200360940602",
+    "sinaweibo://detail?mblogid=5093873098952388",
+    "sinaweibo://detail?mblogid=5172015765917459",
+    "sinaweibo://detail?mblogid=4831755120410784",
+    "sinaweibo://detail?mblogid=5095597763461705",
+    "sinaweibo://detail?mblogid=4949480154333374"
+  ],
+  "media": [
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/006i8XEzly1i6wr8m59qij30k00vsaau.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/006i8XEzly1i6wr8m59qij30k00vsaau.jpg",
+      "alt": "动漫游戏君",
+      "width": 1144,
+      "height": 720,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/006i8XEzly1i6wr8m59qij30k00vsaau.jpg"
+      ],
+      "user": "动漫游戏君"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/006X1wLXly1i6wrmivdapj30qo0k0wf1.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/006X1wLXly1i6wrmivdapj30qo0k0wf1.jpg",
+      "alt": "虎扑电竞",
+      "width": 720,
+      "height": 960,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/006X1wLXly1i6wrmivdapj30qo0k0wf1.jpg"
+      ],
+      "user": "虎扑电竞"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/0088pe1aly1hjjzdu3j5vj30qo0k0q8i.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/0088pe1aly1hjjzdu3j5vj30qo0k0q8i.jpg",
+      "alt": "寒寒综艺娱乐",
+      "width": 720,
+      "height": 960,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/0088pe1aly1hjjzdu3j5vj30qo0k0q8i.jpg"
+      ],
+      "user": "寒寒综艺娱乐"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/008xCJoDly1hv07w78aixj30ru0fo75x.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/008xCJoDly1hv07w78aixj30ru0fo75x.jpg",
+      "alt": "小野的瓜田",
+      "width": 564,
+      "height": 1002,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/008xCJoDly1hv07w78aixj30ru0fo75x.jpg"
+      ],
+      "user": "小野的瓜田"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/006cmbhQly1hjk9171c2jj30qo0f0754.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/006cmbhQly1hjk9171c2jj30qo0f0754.jpg",
+      "alt": "英雄联盟神吐槽",
+      "width": 540,
+      "height": 960,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/006cmbhQly1hjk9171c2jj30qo0f0754.jpg"
+      ],
+      "user": "英雄联盟神吐槽"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/ec986885gy1h7s0iig3r4j20u00k1wg4.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/ec986885gy1h7s0iig3r4j20u00k1wg4.jpg",
+      "alt": "阿冷说游戏",
+      "width": 721,
+      "height": 1080,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/ec986885gy1h7s0iig3r4j20u00k1wg4.jpg"
+      ],
+      "user": "阿冷说游戏"
+    }
+  ],
+  "html_path": "data/aicard/hourly/2025-11-01/16/uzi.html"
+}

@@ -1,0 +1,360 @@
+{
+  "meta": {
+    "query": "#小巷人家剧组聊太嗨忘走红毯#",
+    "status_code": 200,
+    "fetched_at": "2025-11-03T18:44:19+08:00",
+    "response": {
+      "msg_json": "{}",
+      "abtest_info": {
+        "chat_entrance": 1
+      },
+      "query_field": "1",
+      "mid_list": null,
+      "model": "deepseek",
+      "query_category": "Ip",
+      "link_list": [
+        "sinaweibo://detail?mblogid=5228934377770216",
+        "sinaweibo://detail?mblogid=5228953616777748",
+        "sinaweibo://detail?mblogid=5228966040043748",
+        "sinaweibo://detail?mblogid=5182221309709224",
+        "sinaweibo://detail?mblogid=5182221423218269",
+        "sinaweibo://detail?mblogid=5182223973355812",
+        "sinaweibo://detail?mblogid=5182220064788698",
+        "sinaweibo://detail?mblogid=5182256231748540",
+        "sinaweibo://detail?mblogid=5182233581458922",
+        "sinaweibo://detail?mblogid=5182220995663482",
+        "sinaweibo://detail?mblogid=5182220377523189",
+        "sinaweibo://detail?mblogid=5182223126629677",
+        "sinaweibo://detail?mblogid=5145958972655197",
+        "sinaweibo://detail?mblogid=5182221846841094",
+        "sinaweibo://detail?mblogid=5182220248548484",
+        "sinaweibo://detail?mblogid=5145963951294494",
+        "sinaweibo://detail?mblogid=5182221258330867",
+        "sinaweibo://detail?mblogid=5182836718964184",
+        "sinaweibo://detail?mblogid=5228934708595748",
+        "sinaweibo://detail?mblogid=5182821949768150",
+        "broadsocial_res://",
+        "broadsocial_res://",
+        "historyweibo://5228934377770216",
+        "sinaweibo://detail?mblogid=5227794503567304",
+        "sinaweibo://detail?mblogid=5228963606564706",
+        "sinaweibo://detail?mblogid=5228965376564010",
+        "sinaweibo://detail?mblogid=5228934309874776",
+        "sinaweibo://detail?mblogid=5228959528655563",
+        "sinaweibo://detail?mblogid=5228946973001740",
+        "sinaweibo://detail?mblogid=5228958176253493",
+        "sinaweibo://detail?mblogid=5228942371851473",
+        "sinaweibo://detail?mblogid=5228951729341944",
+        "sinaweibo://detail?mblogid=5228967326911484",
+        "sinaweibo://detail?mblogid=5228967302795570",
+        "sinaweibo://detail?mblogid=5228967286016133",
+        "sinaweibo://detail?mblogid=5228967235688253",
+        "sinaweibo://detail?mblogid=5228967217858630",
+        "sinaweibo://detail?mblogid=5228967117460761",
+        "sinaweibo://detail?mblogid=5228961720438071",
+        "sinaweibo://detail?mblogid=5228942078250096",
+        "sinaweibo://detail?mblogid=5182220332958019",
+        "sinaweibo://detail?mblogid=5182230835236711",
+        "sinaweibo://detail?mblogid=5182228998132485",
+        "sinaweibo://detail?mblogid=5182216323207735",
+        "sinaweibo://detail?mblogid=5182221690342069",
+        "sinaweibo://detail?mblogid=4975643548715581",
+        "sinaweibo://detail?mblogid=5121670732587069"
+      ],
+      "qs_status_info": "{\"ab_lab\":{},\"qs_status\":0,\"qs_q_status\":0,\"qs_r_status\":0,\"qs_u_status\":0,\"qs_c_status\":8388608}",
+      "top_quote_list": {},
+      "card_multimodal": {
+        "type": "mediablock",
+        "data": [
+          {
+            "hit_score_new": 51.074219,
+            "doc_score": 3291,
+            "w": 544,
+            "click_rate": 0,
+            "hit_score_final": 54.644531,
+            "img": "http://wx4.sinaimg.cn/middle/6b8762ccly1i6z5vk58jgj20f40qo0ti.jpg",
+            "user_avatar": "https://tvax4.sinaimg.cn/crop.0.0.800.800.50/6b8762ccly8h8vgxk59b6j20m80m8dgg.jpg?KID=imgbed,tva&Expires=1762177228&ssig=EY0ix%2FQxvo",
+            "cur_mid": "5228951729341944",
+            "vtype": 0,
+            "user_name": "口袋电影",
+            "h": 960,
+            "type": "v",
+            "scheme": "sinaweibo://video/vvs?mid=5228951729341944&multi_paragraph=1&multi_count=0",
+            "video_url": "https://video.weibo.com/show?fid=1034:5228949656240236",
+            "img_pid": "6b8762ccly1i6z5vk58jgj20f40qo0ti"
+          },
+          {
+            "hit_score_new": 52.099609,
+            "doc_score": 3819,
+            "w": 1920,
+            "click_rate": 0,
+            "hit_score_final": 51.659767,
+            "img": "http://wx2.sinaimg.cn/middle/9d3623fbly8i6z4r9ab56j21hc0u0tfp.jpg",
+            "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.600.600.50/9d3623fbly8i5vjeppwtfj20go0go75a.jpg?KID=imgbed,tva&Expires=1762177228&ssig=oMQS1ZwRMe",
+            "cur_mid": "5228942371851473",
+            "vtype": 7,
+            "user_name": "微博视界大会",
+            "h": 1080,
+            "type": "v",
+            "scheme": "sinaweibo://video/vvs?mid=5228942371851473&multi_paragraph=1&multi_count=1",
+            "video_url": "https://video.weibo.com/show?fid=1042163:5228941578010700",
+            "img_pid": "9d3623fbly8i6z4r9ab56j21hc0u0tfp"
+          },
+          {
+            "hit_score_new": 98.925781,
+            "doc_score": 5519,
+            "w": 1224,
+            "click_rate": 0.06,
+            "hit_score_final": 89.75547,
+            "img": "http://wx3.sinaimg.cn/middle/007gLOM1ly1i6z6nuyhapj30y016oqoz.jpg",
+            "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/007gLOM1ly8i5lo16878ij30u00u0n0e.jpg?KID=imgbed,tva&Expires=1762177228&ssig=5gmOG85xPF",
+            "cur_mid": "5228958176253493",
+            "vtype": 0,
+            "user_name": "啵啵奶彤",
+            "h": 1536,
+            "type": "p",
+            "scheme": "sinaweibo://multimedia?mix_mid=5228958176253493&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=2&multi_count=0",
+            "video_url": "",
+            "img_pid": "007gLOM1ly1i6z6nuyhapj30y016oqoz"
+          },
+          {
+            "hit_score_new": 51.074219,
+            "doc_score": 3291,
+            "w": 544,
+            "click_rate": 0,
+            "hit_score_final": 54.644531,
+            "img": "http://wx4.sinaimg.cn/middle/6b8762ccly1i6z5vk58jgj20f40qo0ti.jpg",
+            "user_avatar": "https://tvax4.sinaimg.cn/crop.0.0.800.800.50/6b8762ccly8h8vgxk59b6j20m80m8dgg.jpg?KID=imgbed,tva&Expires=1762177228&ssig=EY0ix%2FQxvo",
+            "cur_mid": "5228951729341944",
+            "vtype": 0,
+            "user_name": "口袋电影",
+            "h": 960,
+            "type": "v",
+            "scheme": "sinaweibo://video/vvs?mid=5228951729341944&multi_paragraph=1&multi_count=0",
+            "video_url": "https://video.weibo.com/show?fid=1034:5228949656240236",
+            "img_pid": "6b8762ccly1i6z5vk58jgj20f40qo0ti"
+          }
+        ]
+      },
+      "short_url": "http://t.cn/AXAp4rpk",
+      "msg": "<think><br><br>嗯，用户查询的是\"小巷人家剧组聊太嗨忘走红毯\"事件，看起来是个娱乐新闻热点。从搜索结果看，这事发生在今天的微博视界大会红毯现场，还挺有趣的。<br><br>用户可能刚看到热搜词条点进来，想了解具体发生了什么。这类娱乐事件的核心需求通常是：发生了什么、为什么有趣、当事人反应、后续影响。需要突出戏剧性和人情味。<br><br>主要信息源是结果1、2、23、28、31这些11月3日的新鲜爆料。特别是结果23详细描述了事件过程：闫妮、蒋欣、关晓彤、郭晓东四人候场时聊得太投入，完全没听见主持人叫他们上台，直到工作人员提醒才反应过来。结果31补充了这是微博视界大会红毯。<br><br>有意思的是这个画面被观众说\"神还原\"电视剧里邻里热聊的场景。结果32还拍到后续花絮：郭晓东很自然地牵闫妮的手，闫妮笑着喊\"必须牵着我\"，完全就是剧中夫妻的相处模式。<br><br>用户可能还想知道演员状态。结果25提到关晓彤发型很美，和蒋欣聊天时小表情可爱，结果27则聚焦\"婆媳\"蒋欣关晓彤的互动。最逗的是结果29爆料闫妮因为太嗨，当天先后跟两个剧组走了两次红毯。<br><br>时效性上要特别注意区分事件时间。结果4、5、6、7等是今年6月白玉兰奖的旧闻，虽然也是《小巷人家》剧组红毯趣事（比如关晓彤王安宇跳舞），但和本次\"忘走红毯\"无关。<br><br>辟谣部分也很重要。结果21、22明确说网传\"蒋欣叫王安宇儿子\"\"关晓彤带王安宇见外婆\"等细节没有实证。王安宇今天其实没出现，剧组只有四位主演。<br><br>最后观众反响很暖心，结果30、33、38、39都在怀念剧集，说\"梦回小巷\"。整体可以突出\"因忘我而真实\"的温情内核。<br><br></think><br>《小巷人家》剧组在2025年11月3日的“微博视界大会”红毯环节上演了一幕真实又温馨的插曲：四位主演闫妮、蒋欣、关晓彤、郭晓东因候场时讨论过于投入，竟集体忘记登台流程，引发全网热议。以下是事件关键细节：<br>### 🔥 **事件核心经过**<br>1. **沉浸式热聊错过流程**  <br>   四人候场时围绕话题热烈讨论，完全未察觉主持人多次呼唤登台指令，直到工作人员上前提醒才反应过来，延误原定红毯时间。网友调侃这一场景“神还原”剧中邻里街坊熟稔互动的氛围。```wbCustomBlock{\"type\": \"quoted\", \"index\": 3, \"data\": {\"num\": [1, 2, 26, 28, 33], \"version\": 2, \"quote_list\": [{\"name\": \"小怡说车\", \"scheme\": \"sinaweibo://detail?mblogid=5228965376564010\", \"index\": 26, \"label\": \"大v\"}, {\"name\": \"传媒小娱\", \"scheme\": \"sinaweibo://detail?mblogid=5228934377770216\", \"index\": 1, \"label\": \"\"}, {\"name\": \"把做作做作到底\", \"scheme\": \"sinaweibo://detail?mblogid=5228953616777748\", \"index\": 2, \"label\": \"\"}, {\"name\": \"煜言江\", \"scheme\": \"sinaweibo://detail?mblogid=5228959528655563\", \"index\": 28, \"label\": \"\"}, {\"name\": \"塔台地面积水呀\", \"scheme\": \"sinaweibo://detail?mblogid=5228967326911484\", \"index\": 33, \"label\": \"\"}], \"name\": \"小怡说车\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/0080aJPZly8h7k815nfi4j30u00u00ud.jpg?KID=imgbed,tva&Expires=1762177228&ssig=UnN%2B2pbsr9\", \"scheme\": \"sinaweibo://detail?mblogid=5228965376564010\", \"vType\": 0}}```<br><br>2. **红毯亮相延续剧中情感**  <br>   - **夫妻档互动**：郭晓东登台后自然牵起闫妮的手，闫妮笑称“必须牵着我”，复刻剧中庄超英与黄玲的相处模式；```wbCustomBlock{\"type\": \"quoted\", \"index\": 5, \"data\": {\"num\": [32], \"version\": 2, \"quote_list\": [{\"name\": \"口袋电影\", \"scheme\": \"sinaweibo://detail?mblogid=5228951729341944\", \"index\": 32, \"label\": \"大v\"}], \"name\": \"口袋电影\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.800.800.50/6b8762ccly8h8vgxk59b6j20m80m8dgg.jpg?KID=imgbed,tva&Expires=1762177228&ssig=EY0ix%2FQxvo\", \"scheme\": \"sinaweibo://detail?mblogid=5228951729341944\", \"vType\": 0}}```  <br>   - **婆媳默契**：关晓彤与蒋欣以剧中“婆媳”身份调侃：“什么是咱不能听的？”引发全场笑声；```wbCustomBlock{\"type\": \"quoted\", \"index\": 6, \"data\": {\"num\": [27], \"version\": 2, \"quote_list\": [{\"name\": \"环球时报文娱\", \"scheme\": \"sinaweibo://detail?mblogid=5228934309874776\", \"index\": 27, \"label\": \"大v\"}], \"name\": \"环球时报文娱\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.600.600.50/0087FBCTly8hlqtlgfmmmj30go0gota0.jpg?KID=imgbed,tva&Expires=1762177228&ssig=cw5p2zw4Q0\", \"scheme\": \"sinaweibo://detail?mblogid=5228934309874776\", \"vType\": 3}}```  <br>   - **全员状态**：关晓彤被赞发型精致，与蒋欣聊天时俏皮表情被镜头捕捉。```wbCustomBlock{\"type\": \"quoted\", \"index\": 7, \"data\": {\"num\": [25, 31], \"version\": 2, \"quote_list\": [{\"name\": \"皮卡丘的十万伏特z\", \"scheme\": \"sinaweibo://detail?mblogid=5228963606564706\", \"index\": 25, \"label\": \"大v\"}, {\"name\": \"微博视界大会\", \"scheme\": \"sinaweibo://detail?mblogid=5228942371851473\", \"index\": 31, \"label\": \"\"}], \"name\": \"皮卡丘的十万伏特z\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/0069bLoCly8i3v0u6g3ofj30u00u0ta2.jpg?KID=imgbed,tva&Expires=1762177228&ssig=uwFyd5TRyc\", \"scheme\": \"sinaweibo://detail?mblogid=5228963606564706\", \"vType\": 0}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5228951729341944&multi_paragraph=1&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.800.800.50/6b8762ccly8h8vgxk59b6j20m80m8dgg.jpg?KID=imgbed,tva&Expires=1762177228&ssig=EY0ix%2FQxvo) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">口袋电影</span><img src=\"http://wx4.sinaimg.cn/middle/6b8762ccly1i6z5vk58jgj20f40qo0ti.jpg\" data-width=960 data-height=544></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5228942371851473&multi_paragraph=1&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.600.600.50/9d3623fbly8i5vjeppwtfj20go0go75a.jpg?KID=imgbed,tva&Expires=1762177228&ssig=oMQS1ZwRMe) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">微博视界大会</span><img src=\"http://wx2.sinaimg.cn/middle/9d3623fbly8i6z4r9ab56j21hc0u0tfp.jpg\" data-width=1080 data-height=1920></div></media-block><br>### 🎬 **事件后续与趣味花絮**<br>- **闫妮“双走红毯”**：因沉浸聊天，闫妮先随《小巷人家》登场，后又加入《五个失踪的少年》剧组再走一遍红毯，被戏称“红毯劳模”；```wbCustomBlock{\"type\": \"quoted\", \"index\": 9, \"data\": {\"num\": [29], \"version\": 2, \"quote_list\": [{\"name\": \"追星蜀黍\", \"scheme\": \"sinaweibo://detail?mblogid=5228946973001740\", \"index\": 29, \"label\": \"大v\"}], \"name\": \"追星蜀黍\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.750.750.50/50083478ly8i5xv6imt05j20ku0kuabe.jpg?KID=imgbed,tva&Expires=1762177228&ssig=2QZvso%2BIf8\", \"scheme\": \"sinaweibo://detail?mblogid=5228946973001740\", \"vType\": 0}}```  <br>- **观众暖心反响**：网友感叹“梦回小巷”，称赞事件体现剧组真挚情感，与剧集传递的温情内核一脉相承；```wbCustomBlock{\"type\": \"quoted\", \"index\": 10, \"data\": {\"num\": [30, 34, 38, 39], \"version\": 2, \"quote_list\": [{\"name\": \"啵啵奶彤\", \"scheme\": \"sinaweibo://detail?mblogid=5228958176253493\", \"index\": 30, \"label\": \"大v\"}, {\"name\": \"易小爷吖\", \"scheme\": \"sinaweibo://detail?mblogid=5228967302795570\", \"index\": 34, \"label\": \"\"}, {\"name\": \"小象摸鱼\", \"scheme\": \"sinaweibo://detail?mblogid=5228967117460761\", \"index\": 38, \"label\": \"\"}, {\"name\": \"抽象天才懒羊羊\", \"scheme\": \"sinaweibo://detail?mblogid=5228961720438071\", \"index\": 39, \"label\": \"\"}], \"name\": \"啵啵奶彤\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/007gLOM1ly8i5lo16878ij30u00u0n0e.jpg?KID=imgbed,tva&Expires=1762177228&ssig=5gmOG85xPF\", \"scheme\": \"sinaweibo://detail?mblogid=5228958176253493\", \"vType\": 0}}```  <br>- **剧组长期默契佐证**：此前白玉兰奖红毯（2025年6月27日）中，关晓彤与王安宇曾复刻剧中双人舞，展现自然互动。```wbCustomBlock{\"type\": \"quoted\", \"index\": 11, \"data\": {\"num\": [6, 7, 9, 42], \"version\": 2, \"quote_list\": [{\"name\": \"东方卫视番茄台\", \"scheme\": \"sinaweibo://detail?mblogid=5182233581458922\", \"index\": 9, \"label\": \"大v\"}, {\"name\": \"王安宇成长回忆录\", \"scheme\": \"sinaweibo://detail?mblogid=5182223973355812\", \"index\": 6, \"label\": \"\"}, {\"name\": \"星姐微博\", \"scheme\": \"sinaweibo://detail?mblogid=5182220064788698\", \"index\": 7, \"label\": \"\"}, {\"name\": \"娱大蜀黍\", \"scheme\": \"sinaweibo://detail?mblogid=5182230835236711\", \"index\": 42, \"label\": \"\"}], \"name\": \"东方卫视番茄台\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.500.500.50/001VDYkMly8hx9ufk04czj60dw0dwmxd02.jpg?KID=imgbed,tva&Expires=1762177228&ssig=fpx7jSIDLS\", \"scheme\": \"sinaweibo://detail?mblogid=5182233581458922\", \"vType\": 3}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5228958176253493&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=2&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/007gLOM1ly8i5lo16878ij30u00u0n0e.jpg?KID=imgbed,tva&Expires=1762177228&ssig=5gmOG85xPF) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">啵啵奶彤</span><img src=\"http://wx3.sinaimg.cn/middle/007gLOM1ly1i6z6nuyhapj30y016oqoz.jpg\" data-width=1536 data-height=1224></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5228961720438071&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=2&multi_count=1\"><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/68c5b6d5ly8i4qbuqi9saj20u00u0ta3.jpg?KID=imgbed,tva&Expires=1762177228&ssig=HjwBP64EDY) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">抽象天才懒羊羊</span><img src=\"http://wx4.sinaimg.cn/middle/68c5b6d5ly1i6z6y3fczij20qn0iqn4r.jpg\" data-width=674 data-height=959></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5182230835236711&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=2&multi_count=2\"><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.640.640.50/a1847e2fly8i6m35ho04oj20hs0hsdgr.jpg?KID=imgbed,tva&Expires=1762177228&ssig=G5MIi1Qx3T) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">娱大蜀黍</span><img src=\"http://wx4.sinaimg.cn/middle/a1847e2fgy1i2u43a7r0pg20hs0vm1ll.gif\" data-width=1138 data-height=640></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5182223973355812&multi_paragraph=2&multi_count=3\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/82aaecc5ly8i6k5q8mtyuj20u00u0tbt.jpg?KID=imgbed,tva&Expires=1762177228&ssig=V5hh8Dl3eL) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">王安宇成长回忆录</span><img src=\"http://wx1.sinaimg.cn/middle/82aaecc5ly1i2u3a0ks9nj21hc0u0q57.jpg\" data-width=1080 data-height=1920></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5182233581458922&multi_paragraph=2&multi_count=4\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.500.500.50/001VDYkMly8hx9ufk04czj60dw0dwmxd02.jpg?KID=imgbed,tva&Expires=1762177228&ssig=fpx7jSIDLS) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">东方卫视番茄台</span><img src=\"http://wx1.sinaimg.cn/middle/001VDYkMly1i2u4es7vbkj60u01hcwh702.jpg\" data-width=1920 data-height=1080></div></media-block><br>### ⚠️ **关联信息澄清**<br>- **不实传闻**：网传“蒋欣后台称王安宇为儿子”“关晓彤带王安宇见外婆”等细节，经查无公开影像或官方资料证实，属缺乏可靠来源的传言；  <br>- **时间混淆**：闫妮与杨幂“争夺演员迟蓬”的互动发生于2025年9月其他活动，与本次事件无关。<br>### 💎 **事件意义**  <br>这场意外插曲因自然流露的剧组情感成为热议焦点，既呼应了《小巷人家》的剧集内核，也强化了公众对演员默契的认可。正如网友所言：“戏里戏外皆是小巷烟火气，这份真实最动人。”```wbCustomBlock{\"type\": \"quoted\", \"index\": 15, \"data\": {\"num\": [26, 30, 40], \"version\": 2, \"quote_list\": [{\"name\": \"小怡说车\", \"scheme\": \"sinaweibo://detail?mblogid=5228965376564010\", \"index\": 26, \"label\": \"\"}, {\"name\": \"啵啵奶彤\", \"scheme\": \"sinaweibo://detail?mblogid=5228958176253493\", \"index\": 30, \"label\": \"\"}, {\"name\": \"冲浪提提\", \"scheme\": \"sinaweibo://detail?mblogid=5228942078250096\", \"index\": 40, \"label\": \"\"}]}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5228942078250096&multi_paragraph=4&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/0024slMtly8hl2xyavxt0j60u00u0wg402.jpg?KID=imgbed,tva&Expires=1762177228&ssig=WBjhgLDYf3) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">冲浪提提</span><img src=\"http://wx4.sinaimg.cn/middle/bdafef81ly1i6z3zmpongj21hc0u0jwa.jpg\" data-width=1080 data-height=1920></div></media-block><br>",
+      "uid": "",
+      "version": "2025-11-03 18:40:28.039999-1008",
+      "unify_md5": "8849f7edaa1f29c03895958c76cc97fd",
+      "ab_suffix": "default",
+      "comment_info": {},
+      "chat_status_stage": 1,
+      "reliable_tips": "{\"gold_orange_v_mids\": [\"5228934377770216\", \"5228953616777748\", \"5228965376564010\", \"5228959528655563\", \"5228967326911484\", \"5228951729341944\", \"5228963606564706\", \"5228946973001740\", \"5228958176253493\", \"5228961720438071\", \"5182223973355812\", \"5182220064788698\", \"5182230835236711\", \"5228966040043748\", \"5182221423218269\", \"5182223126629677\", \"5182220248548484\", \"5182221258330867\", \"5182836718964184\", \"5182821949768150\", \"5182228998132485\", \"5182216323207735\", \"5182221690342069\"], \"gold_orange_v_ratio\": \"52%\", \"media_mids\": [\"5228967286016133\"], \"media_ratio\": \"2%\", \"verified_mids\": [\"5228934309874776\", \"5228942371851473\", \"5182233581458922\", \"5228942078250096\", \"5182221309709224\", \"5182256231748540\", \"5182220995663482\", \"5182220377523189\", \"5145958972655197\", \"5182221846841094\", \"5145963951294494\", \"5228934708595748\", \"5227794503567304\", \"5228967217858630\", \"5182220332958019\", \"4975643548715581\", \"5121670732587069\"], \"verified_ratio\": \"39%\", \"normal_mids\": [\"5228967302795570\", \"5228967117460761\", \"5228967235688253\"], \"normal_ratio\": \"7%\", \"ref_mid_rank\": {\"5228934377770216\": {\"rank\": 1}, \"5228953616777748\": {\"rank\": 2}, \"5228965376564010\": {\"rank\": 26}, \"5228959528655563\": {\"rank\": 28}, \"5228967326911484\": {\"rank\": 33}, \"5228951729341944\": {\"rank\": 32}, \"5228934309874776\": {\"rank\": 27}, \"5228963606564706\": {\"rank\": 25}, \"5228942371851473\": {\"rank\": 31}, \"5228946973001740\": {\"rank\": 29}, \"5228958176253493\": {\"rank\": 30}, \"5228967302795570\": {\"rank\": 34}, \"5228967117460761\": {\"rank\": 38}, \"5228961720438071\": {\"rank\": 39}, \"5182223973355812\": {\"rank\": 6}, \"5182220064788698\": {\"rank\": 7}, \"5182233581458922\": {\"rank\": 9}, \"5182230835236711\": {\"rank\": 42}, \"5228942078250096\": {\"rank\": 40}, \"5228966040043748\": {\"rank\": 3}, \"5182221309709224\": {\"rank\": 4}, \"5182221423218269\": {\"rank\": 5}, \"5182256231748540\": {\"rank\": 8}, \"5182220995663482\": {\"rank\": 10}, \"5182220377523189\": {\"rank\": 11}, \"5182223126629677\": {\"rank\": 12}, \"5145958972655197\": {\"rank\": 13}, \"5182221846841094\": {\"rank\": 14}, \"5182220248548484\": {\"rank\": 15}, \"5145963951294494\": {\"rank\": 16}, \"5182221258330867\": {\"rank\": 17}, \"5182836718964184\": {\"rank\": 18}, \"5228934708595748\": {\"rank\": 19}, \"5182821949768150\": {\"rank\": 20}, \"5227794503567304\": {\"rank\": 24}, \"5228967286016133\": {\"rank\": 35}, \"5228967235688253\": {\"rank\": 36}, \"5228967217858630\": {\"rank\": 37}, \"5182220332958019\": {\"rank\": 41}, \"5182228998132485\": {\"rank\": 43}, \"5182216323207735\": {\"rank\": 44}, \"5182221690342069\": {\"rank\": 45}, \"4975643548715581\": {\"rank\": 46}, \"5121670732587069\": {\"rank\": 47}}}",
+      "share_text": "#小巷人家剧组聊太嗨忘走红毯#的相关内容，来智搜看看",
+      "share_info": {
+        "tips": "#小巷人家剧组聊太嗨忘走红毯#的相关内容，来智搜看看",
+        "status": 3,
+        "comment_content": "",
+        "url": "http://t.cn/AXApCacd",
+        "unify_md5": "8849f7edaa1f29c03895958c76cc97fd",
+        "page_id": "232964b69ece6fd4ad9b174cd042f170a916b5",
+        "display_name": "#小巷人家剧组聊太嗨忘走红毯#"
+      },
+      "status": 2,
+      "wenda": {
+        "forward_gen": 0
+      },
+      "query": "#小巷人家剧组聊太嗨忘走红毯#",
+      "reference_num": 44,
+      "analysis_time": 1762166594,
+      "current_time": 1762166660,
+      "loop_times": 200,
+      "sorted_material_list": null,
+      "qs_status": 0,
+      "zs_risk_control": {
+        "think_text_close": 0,
+        "land_button_close": 0
+      },
+      "basemodel": "实验组8",
+      "news_analyze": {},
+      "share_card_multimodal": {
+        "hit_score_new": 51.074219,
+        "doc_score": 3291,
+        "w": 544,
+        "click_rate": 0,
+        "hit_score_final": 54.644531,
+        "img": "http://wx4.sinaimg.cn/middle/6b8762ccly1i6z5vk58jgj20f40qo0ti.jpg",
+        "user_avatar": "https://tvax4.sinaimg.cn/crop.0.0.800.800.50/6b8762ccly8h8vgxk59b6j20m80m8dgg.jpg?KID=imgbed,tva&Expires=1762177228&ssig=EY0ix%2FQxvo",
+        "cur_mid": "5228951729341944",
+        "vtype": 0,
+        "user_name": "口袋电影",
+        "h": 960,
+        "type": "v",
+        "scheme": "sinaweibo://video/vvs?mid=5228951729341944&multi_paragraph=1&multi_count=0",
+        "video_url": "https://video.weibo.com/show?fid=1034:5228949656240236",
+        "img_pid": "6b8762ccly1i6z5vk58jgj20f40qo0ti"
+      },
+      "status_stage": 4,
+      "q_attr": {
+        "reply_cid": "",
+        "from_uid": "",
+        "from_request_id": "",
+        "comment_from_type": "",
+        "mid": ""
+      },
+      "cot": 1,
+      "page_id": "232964b69ece6fd4ad9b174cd042f170a916b5",
+      "show_ctrl": {
+        "quote": {}
+      },
+      "ext_show": {},
+      "msg_format": "markdown",
+      "scheme": "sinaweibo://cardlist?containerid=100103type%3D225%26q%3D%23%E5%B0%8F%E5%B7%B7%E4%BA%BA%E5%AE%B6%E5%89%A7%E7%BB%84%E8%81%8A%E5%A4%AA%E5%97%A8%E5%BF%98%E8%B5%B0%E7%BA%A2%E6%AF%AF%23%26t%3D&extparam=ai_model%3Ddeepseek%26ori_ai_title%3D%E5%8F%82%E8%80%83%E5%8D%9A%E6%96%87%26material_version%3D1762166428",
+      "profile_image_url": "",
+      "user_info": {}
+    }
+  },
+  "links": [
+    "sinaweibo://detail?mblogid=5228934377770216",
+    "sinaweibo://detail?mblogid=5228953616777748",
+    "sinaweibo://detail?mblogid=5228966040043748",
+    "sinaweibo://detail?mblogid=5182221309709224",
+    "sinaweibo://detail?mblogid=5182221423218269",
+    "sinaweibo://detail?mblogid=5182223973355812",
+    "sinaweibo://detail?mblogid=5182220064788698",
+    "sinaweibo://detail?mblogid=5182256231748540",
+    "sinaweibo://detail?mblogid=5182233581458922",
+    "sinaweibo://detail?mblogid=5182220995663482",
+    "sinaweibo://detail?mblogid=5182220377523189",
+    "sinaweibo://detail?mblogid=5182223126629677",
+    "sinaweibo://detail?mblogid=5145958972655197",
+    "sinaweibo://detail?mblogid=5182221846841094",
+    "sinaweibo://detail?mblogid=5182220248548484",
+    "sinaweibo://detail?mblogid=5145963951294494",
+    "sinaweibo://detail?mblogid=5182221258330867",
+    "sinaweibo://detail?mblogid=5182836718964184",
+    "sinaweibo://detail?mblogid=5228934708595748",
+    "sinaweibo://detail?mblogid=5182821949768150",
+    "broadsocial_res://",
+    "broadsocial_res://",
+    "historyweibo://5228934377770216",
+    "sinaweibo://detail?mblogid=5227794503567304",
+    "sinaweibo://detail?mblogid=5228963606564706",
+    "sinaweibo://detail?mblogid=5228965376564010",
+    "sinaweibo://detail?mblogid=5228934309874776",
+    "sinaweibo://detail?mblogid=5228959528655563",
+    "sinaweibo://detail?mblogid=5228946973001740",
+    "sinaweibo://detail?mblogid=5228958176253493",
+    "sinaweibo://detail?mblogid=5228942371851473",
+    "sinaweibo://detail?mblogid=5228951729341944",
+    "sinaweibo://detail?mblogid=5228967326911484",
+    "sinaweibo://detail?mblogid=5228967302795570",
+    "sinaweibo://detail?mblogid=5228967286016133",
+    "sinaweibo://detail?mblogid=5228967235688253",
+    "sinaweibo://detail?mblogid=5228967217858630",
+    "sinaweibo://detail?mblogid=5228967117460761",
+    "sinaweibo://detail?mblogid=5228961720438071",
+    "sinaweibo://detail?mblogid=5228942078250096",
+    "sinaweibo://detail?mblogid=5182220332958019",
+    "sinaweibo://detail?mblogid=5182230835236711",
+    "sinaweibo://detail?mblogid=5182228998132485",
+    "sinaweibo://detail?mblogid=5182216323207735",
+    "sinaweibo://detail?mblogid=5182221690342069",
+    "sinaweibo://detail?mblogid=4975643548715581",
+    "sinaweibo://detail?mblogid=5121670732587069"
+  ],
+  "media": [
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/6b8762ccly1i6z5vk58jgj20f40qo0ti.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/6b8762ccly1i6z5vk58jgj20f40qo0ti.jpg",
+      "alt": "口袋电影",
+      "width": 960,
+      "height": 544,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/6b8762ccly1i6z5vk58jgj20f40qo0ti.jpg"
+      ],
+      "user": "口袋电影"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/9d3623fbly8i6z4r9ab56j21hc0u0tfp.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/9d3623fbly8i6z4r9ab56j21hc0u0tfp.jpg",
+      "alt": "微博视界大会",
+      "width": 1080,
+      "height": 1920,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/9d3623fbly8i6z4r9ab56j21hc0u0tfp.jpg"
+      ],
+      "user": "微博视界大会"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/007gLOM1ly1i6z6nuyhapj30y016oqoz.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/007gLOM1ly1i6z6nuyhapj30y016oqoz.jpg",
+      "alt": "啵啵奶彤",
+      "width": 1536,
+      "height": 1224,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/007gLOM1ly1i6z6nuyhapj30y016oqoz.jpg"
+      ],
+      "user": "啵啵奶彤"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/68c5b6d5ly1i6z6y3fczij20qn0iqn4r.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/68c5b6d5ly1i6z6y3fczij20qn0iqn4r.jpg",
+      "alt": "抽象天才懒羊羊",
+      "width": 674,
+      "height": 959,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/68c5b6d5ly1i6z6y3fczij20qn0iqn4r.jpg"
+      ],
+      "user": "抽象天才懒羊羊"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/a1847e2fgy1i2u43a7r0pg20hs0vm1ll.gif",
+      "secure_url": "https://wx4.sinaimg.cn/middle/a1847e2fgy1i2u43a7r0pg20hs0vm1ll.gif",
+      "alt": "娱大蜀黍",
+      "width": 1138,
+      "height": 640,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/a1847e2fgy1i2u43a7r0pg20hs0vm1ll.jpg"
+      ],
+      "user": "娱大蜀黍"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/82aaecc5ly1i2u3a0ks9nj21hc0u0q57.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/82aaecc5ly1i2u3a0ks9nj21hc0u0q57.jpg",
+      "alt": "王安宇成长回忆录",
+      "width": 1080,
+      "height": 1920,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx4.sinaimg.cn/large/82aaecc5ly1i2u3a0ks9nj21hc0u0q57.jpg"
+      ],
+      "user": "王安宇成长回忆录"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/001VDYkMly1i2u4es7vbkj60u01hcwh702.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/001VDYkMly1i2u4es7vbkj60u01hcwh702.jpg",
+      "alt": "东方卫视番茄台",
+      "width": 1920,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/001VDYkMly1i2u4es7vbkj60u01hcwh702.jpg"
+      ],
+      "user": "东方卫视番茄台"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/bdafef81ly1i6z3zmpongj21hc0u0jwa.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/bdafef81ly1i6z3zmpongj21hc0u0jwa.jpg",
+      "alt": "冲浪提提",
+      "width": 1080,
+      "height": 1920,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/bdafef81ly1i6z3zmpongj21hc0u0jwa.jpg"
+      ],
+      "user": "冲浪提提"
+    }
+  ],
+  "html_path": "data/aicard/hourly/2025-11-03/18/topic-8849f7ed.html"
+}

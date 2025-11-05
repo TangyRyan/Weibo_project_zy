@@ -1,0 +1,468 @@
+{
+  "meta": {
+    "query": "#长期侧睡发现肩膀前移了#",
+    "status_code": 200,
+    "fetched_at": "2025-11-02T23:36:58+08:00",
+    "response": {
+      "zs_risk_control": {
+        "think_text_close": 0,
+        "land_button_close": 0
+      },
+      "loop_times": 200,
+      "user_info": {},
+      "model": "deepseek",
+      "mid_list": null,
+      "reference_num": 48,
+      "query_category": "",
+      "status_stage": 4,
+      "link_list": [
+        "sinaweibo://detail?mblogid=5228500288012402",
+        "sinaweibo://detail?mblogid=5168312442950373",
+        "sinaweibo://detail?mblogid=5217048611525363",
+        "sinaweibo://detail?mblogid=5168170718465673",
+        "sinaweibo://detail?mblogid=5222621591372802",
+        "sinaweibo://detail?mblogid=5168296409960647",
+        "sinaweibo://detail?mblogid=5168336482343671",
+        "sinaweibo://detail?mblogid=5222524796799226",
+        "sinaweibo://detail?mblogid=5168299505356447",
+        "sinaweibo://detail?mblogid=4939469657735824",
+        "sinaweibo://detail?mblogid=5213328584213600",
+        "sinaweibo://detail?mblogid=5213324708938667",
+        "sinaweibo://detail?mblogid=5213317736169718",
+        "sinaweibo://detail?mblogid=5168285090055486",
+        "sinaweibo://detail?mblogid=5168171856170289",
+        "sinaweibo://detail?mblogid=5222541310296744",
+        "broadsocial_res://",
+        "broadsocial_res://",
+        "historyweibo://5217041699307666",
+        "historyweibo://5216702528487869",
+        "historyweibo://4961537645871773",
+        "sinaweibo://detail?mblogid=5228671908716897",
+        "sinaweibo://detail?mblogid=5228669157251380",
+        "sinaweibo://detail?mblogid=5228676246670709",
+        "sinaweibo://detail?mblogid=5228676150988342",
+        "sinaweibo://detail?mblogid=5228676116387130",
+        "sinaweibo://detail?mblogid=5228676082043875",
+        "sinaweibo://detail?mblogid=5228676048226773",
+        "sinaweibo://detail?mblogid=5228675943631649",
+        "sinaweibo://detail?mblogid=5228675877571612",
+        "sinaweibo://detail?mblogid=5228675843756209",
+        "sinaweibo://detail?mblogid=5228675543074364",
+        "sinaweibo://detail?mblogid=5228675525247764",
+        "sinaweibo://detail?mblogid=5228675458663505",
+        "sinaweibo://detail?mblogid=5228675391035891",
+        "sinaweibo://detail?mblogid=5228675361411050",
+        "sinaweibo://detail?mblogid=5228675335199684",
+        "sinaweibo://detail?mblogid=5228675290107280",
+        "sinaweibo://detail?mblogid=5228675281719404",
+        "sinaweibo://detail?mblogid=5228675273331462",
+        "sinaweibo://detail?mblogid=5228675247114871",
+        "sinaweibo://detail?mblogid=5168349992196681",
+        "sinaweibo://detail?mblogid=5168371111039536",
+        "sinaweibo://detail?mblogid=5168293109563696",
+        "sinaweibo://detail?mblogid=5222531726574965",
+        "sinaweibo://detail?mblogid=5213313887636056",
+        "sinaweibo://detail?mblogid=5213321536210563",
+        "sinaweibo://detail?mblogid=5188010531884904",
+        "sinaweibo://detail?mblogid=5168292797088205",
+        "sinaweibo://detail?mblogid=5199576105750001",
+        "sinaweibo://detail?mblogid=5188098092443481",
+        "sinaweibo://detail?mblogid=5213335945479325",
+        "sinaweibo://detail?mblogid=5026094435277773"
+      ],
+      "qs_status_info": "{\"qs_u_status\":0,\"ab_lab\":{},\"qs_r_status\":0,\"qs_c_status\":8388608,\"qs_status\":0,\"qs_q_status\":0}",
+      "top_quote_list": {},
+      "card_multimodal": {
+        "type": "mediablock",
+        "data": [
+          {
+            "type": "p",
+            "hit_score_final": 72.6418,
+            "img": "http://wx2.sinaimg.cn/middle/e785826fgy1i6eywj3h76j20yi1a4jy9.jpg",
+            "vtype": 0,
+            "cur_mid": "5222621591372802",
+            "scheme": "sinaweibo://multimedia?mix_mid=5222621591372802&from=search&content_show=1&mix_index=6&hide_index=1&multi_paragraph=1&multi_count=0",
+            "user_name": "我被安利了",
+            "w": 1242,
+            "user_avatar": "https://tvax1.sinaimg.cn/crop.0.0.461.461.50/e785826fly8hrihpp55gkj20ct0ctjs6.jpg?KID=imgbed,tva&Expires=1762107840&ssig=%2FwzS%2BhROVj",
+            "h": 1660,
+            "video_url": "",
+            "hit_score_new": 79.736328,
+            "doc_score": 4273,
+            "click_rate": 0.21538461538462,
+            "img_pid": "e785826fgy1i6eywj3h76j20yi1a4jy9"
+          },
+          {
+            "type": "p",
+            "hit_score_final": 70.794922,
+            "img": "http://wx4.sinaimg.cn/middle/d7ab9bb8ly1i5l9xuf11rj20zu1bbnh1.jpg",
+            "vtype": 0,
+            "cur_mid": "5213313887636056",
+            "scheme": "sinaweibo://multimedia?mix_mid=5213313887636056&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=1&multi_count=1",
+            "user_name": "小狗痣性恋",
+            "w": 1290,
+            "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/d7ab9bb8ly8i5q9ik4kmhj20u00u076j.jpg?KID=imgbed,tva&Expires=1762107840&ssig=MlY%2BqMapZ8",
+            "h": 1703,
+            "video_url": "",
+            "hit_score_new": 74.658203,
+            "doc_score": 2870,
+            "click_rate": 0.06,
+            "img_pid": "d7ab9bb8ly1i5l9xuf11rj20zu1bbnh1"
+          },
+          {
+            "type": "p",
+            "hit_score_final": 79.223442,
+            "img": "http://wx2.sinaimg.cn/middle/006lNbTNly1i5x6uk7sl3j30k00pogp8.jpg",
+            "vtype": 0,
+            "cur_mid": "5217048611525363",
+            "scheme": "sinaweibo://multimedia?mix_mid=5217048611525363&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=1&multi_count=2",
+            "user_name": "远处守护你",
+            "w": 720,
+            "user_avatar": "https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/006lNbTNly8i4r4tj0pzcj30u00u0myt.jpg?KID=imgbed,tva&Expires=1762107840&ssig=JFOoEIx5qL",
+            "h": 924,
+            "video_url": "",
+            "hit_score_new": 90.039062,
+            "doc_score": 4686,
+            "click_rate": 0.06,
+            "img_pid": "006lNbTNly1i5x6uk7sl3j30k00pogp8"
+          },
+          {
+            "type": "p",
+            "hit_score_final": 72.6418,
+            "img": "http://wx2.sinaimg.cn/middle/e785826fgy1i6eywj3h76j20yi1a4jy9.jpg",
+            "vtype": 0,
+            "cur_mid": "5222621591372802",
+            "scheme": "sinaweibo://multimedia?mix_mid=5222621591372802&from=search&content_show=1&mix_index=6&hide_index=1&multi_paragraph=1&multi_count=0",
+            "user_name": "我被安利了",
+            "w": 1242,
+            "user_avatar": "https://tvax1.sinaimg.cn/crop.0.0.461.461.50/e785826fly8hrihpp55gkj20ct0ctjs6.jpg?KID=imgbed,tva&Expires=1762107840&ssig=%2FwzS%2BhROVj",
+            "h": 1660,
+            "video_url": "",
+            "hit_score_new": 79.736328,
+            "doc_score": 4273,
+            "click_rate": 0.21538461538462,
+            "img_pid": "e785826fgy1i6eywj3h76j20yi1a4jy9"
+          }
+        ]
+      },
+      "share_card_multimodal": {
+        "type": "p",
+        "hit_score_final": 72.6418,
+        "img": "http://wx2.sinaimg.cn/middle/e785826fgy1i6eywj3h76j20yi1a4jy9.jpg",
+        "vtype": 0,
+        "cur_mid": "5222621591372802",
+        "scheme": "sinaweibo://multimedia?mix_mid=5222621591372802&from=search&content_show=1&mix_index=6&hide_index=1&multi_paragraph=1&multi_count=0",
+        "user_name": "我被安利了",
+        "w": 1242,
+        "user_avatar": "https://tvax1.sinaimg.cn/crop.0.0.461.461.50/e785826fly8hrihpp55gkj20ct0ctjs6.jpg?KID=imgbed,tva&Expires=1762107840&ssig=%2FwzS%2BhROVj",
+        "h": 1660,
+        "video_url": "",
+        "hit_score_new": 79.736328,
+        "doc_score": 4273,
+        "click_rate": 0.21538461538462,
+        "img_pid": "e785826fgy1i6eywj3h76j20yi1a4jy9"
+      },
+      "basemodel": "实验组8",
+      "msg_format": "markdown",
+      "msg_json": "{}",
+      "status": 2,
+      "query_field": "56",
+      "chat_status_stage": 1,
+      "q_attr": {
+        "from_request_id": "",
+        "reply_cid": "",
+        "comment_from_type": "",
+        "from_uid": "",
+        "mid": ""
+      },
+      "news_analyze": {},
+      "version": "2025-11-02 23:24:00.032000-2507",
+      "scheme": "sinaweibo://cardlist?containerid=100103type%3D225%26q%3D%23%E9%95%BF%E6%9C%9F%E4%BE%A7%E7%9D%A1%E5%8F%91%E7%8E%B0%E8%82%A9%E8%86%80%E5%89%8D%E7%A7%BB%E4%BA%86%23%26t%3D&extparam=ai_model%3Ddeepseek%26ori_ai_title%3D%E5%8F%82%E8%80%83%E5%8D%9A%E6%96%87%26material_version%3D1762097040",
+      "page_id": "23296481b97099a0ede7373b3f1228aa8ba1bb",
+      "msg": "<think><br><br>嗯，用户查询的是\"长期侧睡发现肩膀前移了\"，看来是遇到了实际体态问题。从搜索结果看，这个话题在社交媒体上讨论热度很高，很多普通用户都在分享类似困扰。需要重点解决三个核心问题：为什么侧睡会导致肩膀前移，如何科学调整睡姿，以及有效的矫正训练方案。<br><br>关于成因机制，专业资料指出肱骨前移主要源于肌肉失衡而非睡姿本身，但蜷缩侧睡会强化这种失衡——当用户像虾米一样蜷着睡时，胸肌和肩前部肌肉会持续缩短紧张，而背部肌肉则被过度拉长。这种\"前紧后松\"的状态经过8小时睡眠反复强化，确实可能加剧肩膀前移。不过也有大V提出不同观点，认为自然放松的侧睡反而有利于肩关节后囊放松，关键区别在于是否使用正确支撑。<br><br>睡姿调整方案需要兼顾科学性和可行性。资料显示完全禁止侧睡不现实，重点应是优化支撑：枕头高度要等于肩宽（10-15cm），这个数据很实用；双腿夹枕能减少脊柱扭曲；半侧卧30-40度的姿势值得推荐。特别注意到有用户强行\"开肩睡\"反而加重问题的案例，这个反常识的细节需要重点提醒。<br><br>矫正训练方面，程博士的呼吸配合拉伸法很专业，但普通用户可能更易操作YTWL训练或靠墙天使。时间预期要管理好——资料明确说拉伸可立即改善活动度，但体态矫正需4-8周，避免用户过早放弃。<br><br>风险提示方面，高低肩或持续疼痛需要就医，这个必须强调。有趣的是多位用户提到\"不侧睡不着\"的困境，解决方案应该是渐进式调整而非强迫改变。<br><br>最后决定用\"机制解析-睡姿优化-训练恢复\"的结构，在睡姿部分插入对比表格，让用户清晰看到错误vs正确姿势的区别。训练动作配简易emoji图标增加可读性，时间预期单独标注避免误解。<br><br></think><br>以下是针对长期侧睡导致肩膀前移问题的综合分析与解决方案，结合医学原理和体态矫正建议整理：<br>### 一、核心问题与机制<br>1. **肱骨前移的成因**  <br>   - **肌肉失衡**：侧睡时身体重量压迫单侧肩部，导致胸小肌、肩前肌群持续缩短紧张，背部菱形肌和中下斜方肌被过度拉长而无力，形成“前紧后松”状态。```wbCustomBlock{\"type\": \"quoted\", \"index\": 4, \"data\": {\"num\": [4, 14], \"version\": 2, \"quote_list\": [{\"name\": \"梦济南\", \"scheme\": \"sinaweibo://detail?mblogid=5168285090055486\", \"index\": 14, \"label\": \"大v\"}, {\"name\": \"E下就乐了_\", \"scheme\": \"sinaweibo://detail?mblogid=5168170718465673\", \"index\": 4, \"label\": \"\"}], \"name\": \"梦济南\", \"img\": \"https://tvax4.sinaimg.cn/crop.22.5.2025.2025.50/94898261ly8ff8090o0quj21kw1kwwwd.jpg?KID=imgbed,tva&Expires=1762107840&ssig=NAyBAsQY3T\", \"scheme\": \"sinaweibo://detail?mblogid=5168285090055486\", \"vType\": 0}}```  <br>   - **脊柱代偿**：蜷缩睡姿引发骨盆旋转和腰椎压力不均，脊柱为维持平衡代偿性侧弯，进一步牵拉肩胛骨前移。```wbCustomBlock{\"type\": \"quoted\", \"index\": 5, \"data\": {\"num\": [5, 16], \"version\": 2, \"quote_list\": [{\"name\": \"我被安利了\", \"scheme\": \"sinaweibo://detail?mblogid=5222621591372802\", \"index\": 5, \"label\": \"大v\"}, {\"name\": \"仙狗嗨炸了\", \"scheme\": \"sinaweibo://detail?mblogid=5222541310296744\", \"index\": 16, \"label\": \"\"}], \"name\": \"我被安利了\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.461.461.50/e785826fly8hrihpp55gkj20ct0ctjs6.jpg?KID=imgbed,tva&Expires=1762107840&ssig=%2FwzS%2BhROVj\", \"scheme\": \"sinaweibo://detail?mblogid=5222621591372802\", \"vType\": 0}}```  <br>   - **日间体态叠加**：长期伏案、低头等不良姿势与夜间侧睡形成叠加效应，加速体态恶化。```wbCustomBlock{\"type\": \"quoted\", \"index\": 6, \"data\": {\"num\": [7, 15], \"version\": 2, \"quote_list\": [{\"name\": \"刘筱颖\", \"scheme\": \"sinaweibo://detail?mblogid=5168336482343671\", \"index\": 7, \"label\": \"大v\"}, {\"name\": \"财以勒\", \"scheme\": \"sinaweibo://detail?mblogid=5168171856170289\", \"index\": 15, \"label\": \"\"}], \"name\": \"刘筱颖\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.935.935.50/5b13ca66ly8i6x41jgcmij20pz0pzac5.jpg?KID=imgbed,tva&Expires=1762107840&ssig=hS0XRo6M4T\", \"scheme\": \"sinaweibo://detail?mblogid=5168336482343671\", \"vType\": 0}}```<br><br>2. **侧睡的关键风险点**  <br>   - **错误姿势**：枕头过高/过低（≠肩宽）、手臂压于身下、胎儿式蜷缩（身体呈C型）。```wbCustomBlock{\"type\": \"quoted\", \"index\": 8, \"data\": {\"num\": [5, 46], \"version\": 2, \"quote_list\": [{\"name\": \"我被安利了\", \"scheme\": \"sinaweibo://detail?mblogid=5222621591372802\", \"index\": 5, \"label\": \"\"}, {\"name\": \"小狗痣性恋\", \"scheme\": \"sinaweibo://detail?mblogid=5213313887636056\", \"index\": 46, \"label\": \"\"}]}}```  <br>   - **单侧固定**：长期单方向侧睡导致肌肉记忆固化，加剧左右肌力失衡。```wbCustomBlock{\"type\": \"quoted\", \"index\": 9, \"data\": {\"num\": [3, 45], \"version\": 2, \"quote_list\": [{\"name\": \"远处守护你\", \"scheme\": \"sinaweibo://detail?mblogid=5217048611525363\", \"index\": 3, \"label\": \"大v\"}, {\"name\": \"小火羊好胖\", \"scheme\": \"sinaweibo://detail?mblogid=5222531726574965\", \"index\": 45, \"label\": \"\"}], \"name\": \"远处守护你\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/006lNbTNly8i4r4tj0pzcj30u00u0myt.jpg?KID=imgbed,tva&Expires=1762107840&ssig=JFOoEIx5qL\", \"scheme\": \"sinaweibo://detail?mblogid=5217048611525363\", \"vType\": 0}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5222621591372802&from=search&content_show=1&mix_index=6&hide_index=1&multi_paragraph=1&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.461.461.50/e785826fly8hrihpp55gkj20ct0ctjs6.jpg?KID=imgbed,tva&Expires=1762107840&ssig=%2FwzS%2BhROVj) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">我被安利了</span><img src=\"http://wx2.sinaimg.cn/middle/e785826fgy1i6eywj3h76j20yi1a4jy9.jpg\" data-width=1660 data-height=1242></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5213313887636056&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=1&multi_count=1\"><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/d7ab9bb8ly8i5q9ik4kmhj20u00u076j.jpg?KID=imgbed,tva&Expires=1762107840&ssig=MlY%2BqMapZ8) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">小狗痣性恋</span><img src=\"http://wx4.sinaimg.cn/middle/d7ab9bb8ly1i5l9xuf11rj20zu1bbnh1.jpg\" data-width=1703 data-height=1290></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5217048611525363&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=1&multi_count=2\"><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/006lNbTNly8i4r4tj0pzcj30u00u0myt.jpg?KID=imgbed,tva&Expires=1762107840&ssig=JFOoEIx5qL) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">远处守护你</span><img src=\"http://wx2.sinaimg.cn/middle/006lNbTNly1i5x6uk7sl3j30k00pogp8.jpg\" data-width=924 data-height=720></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5168285090055486&multi_paragraph=1&multi_count=3\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.22.5.2025.2025.50/94898261ly8ff8090o0quj21kw1kwwwd.jpg?KID=imgbed,tva&Expires=1762107840&ssig=NAyBAsQY3T) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">梦济南</span><img src=\"http://wx4.sinaimg.cn/middle/94898261ly1i1lmfxs5umj20k00qpjva.jpg\" data-width=961 data-height=720></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5168170718465673&multi_paragraph=1&multi_count=4\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/008dfD1Vly8i4q1yfzbx4j30u00u0taq.jpg?KID=imgbed,tva&Expires=1762107840&ssig=ut%2FqNpU2%2FP) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">E下就乐了_</span><img src=\"http://wx1.sinaimg.cn/middle/008dfD1Vly1i1l9argjj0j30k00zktbe.jpg\" data-width=1280 data-height=720></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5222541310296744&multi_paragraph=1&multi_count=5\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.512.512.50/79eb2eacly8hz7b4m8869j20e80e8myv.jpg?KID=imgbed,tva&Expires=1762107840&ssig=P22pPoFHxe) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">仙狗嗨炸了</span><img src=\"http://wx4.sinaimg.cn/middle/79eb2eacgy1i6eponl7v1j20k00qo78k.jpg\" data-width=960 data-height=720></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5168336482343671&multi_paragraph=1&multi_count=6\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.935.935.50/5b13ca66ly8i6x41jgcmij20pz0pzac5.jpg?KID=imgbed,tva&Expires=1762107840&ssig=hS0XRo6M4T) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">刘筱颖</span><img src=\"http://wx1.sinaimg.cn/middle/5b13ca66gy1i1lsa8hc0fj20u01hck7g.jpg\" data-width=1920 data-height=1080></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5168171856170289&multi_paragraph=1&multi_count=7\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.640.640.50/6ae0af5fly8hy549fbldhj20hs0hsgnz.jpg?KID=imgbed,tva&Expires=1762107840&ssig=ngtbduAmYg) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">财以勒</span><img src=\"http://wx4.sinaimg.cn/middle/6ae0af5fgy1i1l9d8si54j20u00gvabu.jpg\" data-width=607 data-height=1080></div></media-block><br>### 二、科学睡姿调整方案<br>#### （1）改良侧睡法（适合无法仰卧者）<br>| **支撑部位** | **正确方式** | **作用** |<br>|------------|------------|---------|<br>| **枕头** | 厚度=肩宽（10-15cm），带肩部凹陷设计 | 保持头颈脊柱直线，避免颈椎侧弯 |  <br>| **腿部** | 双膝夹硬质抱枕（8-15cm厚） | 稳定骨盆，减少腰椎旋转 |  <br>| **手臂** | 胸前抱长条枕支撑上臂 | 防止肩关节过度前伸 |  <br>| **背部** | 垫卷毯呈30-40°半侧卧 | 减少肩面部压迫，降低脊柱扭曲 |<br><br>```wbCustomBlock{\"type\": \"quoted\", \"index\": 12, \"data\": {\"num\": [4, 49, 50], \"version\": 2, \"quote_list\": [{\"name\": \"所长别开枪是我\", \"scheme\": \"sinaweibo://detail?mblogid=5199576105750001\", \"index\": 50, \"label\": \"大v\"}, {\"name\": \"E下就乐了_\", \"scheme\": \"sinaweibo://detail?mblogid=5168170718465673\", \"index\": 4, \"label\": \"\"}, {\"name\": \"奥宝未来可期呀\", \"scheme\": \"sinaweibo://detail?mblogid=5168292797088205\", \"index\": 49, \"label\": \"\"}], \"name\": \"所长别开枪是我\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.822.822.50/001VpLeegy1i0or0zz19bj60mu0muabb02.jpg?KID=imgbed,tva&Expires=1762107840&ssig=ASQCFBLP1%2B\", \"scheme\": \"sinaweibo://detail?mblogid=5199576105750001\", \"vType\": 0}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5199576105750001&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=3&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.822.822.50/001VpLeegy1i0or0zz19bj60mu0muabb02.jpg?KID=imgbed,tva&Expires=1762107840&ssig=ASQCFBLP1%2B) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">所长别开枪是我</span><img src=\"http://wx1.sinaimg.cn/middle/001VpLeegy1i4dg5nmhk0j60mj0tcacj02.jpg\" data-width=1056 data-height=811></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5168292797088205&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=3&multi_count=1\"><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.512.512.50/006RnVkyly8hyq8awu8v4j30e80e8wei.jpg?KID=imgbed,tva&Expires=1762107840&ssig=SQROBWCoru) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">奥宝未来可期呀</span><img src=\"http://wx4.sinaimg.cn/middle/006RnVkygy1i1lnc7slwrj30ym16xq6b.jpg\" data-width=1545 data-height=1246></div></media-block><br>#### （2）过渡至仰卧（推荐最优解）  <br>- **膝下垫薄枕**：填补腰部悬空，维持腰椎曲度；```wbCustomBlock{\"type\": \"quoted\", \"index\": 14, \"data\": {\"num\": [6], \"version\": 2, \"quote_list\": [{\"name\": \"一闪一闪睡兴兴\", \"scheme\": \"sinaweibo://detail?mblogid=5168296409960647\", \"index\": 6, \"label\": \"\"}]}}```  <br>- **颈后毛巾卷**：直径约5cm，支撑颈椎生理弧度；  <br>- **适应技巧**：初期腰背悬空处垫小枕头缓解不适。```wbCustomBlock{\"type\": \"quoted\", \"index\": 16, \"data\": {\"num\": [5], \"version\": 2, \"quote_list\": [{\"name\": \"我被安利了\", \"scheme\": \"sinaweibo://detail?mblogid=5222621591372802\", \"index\": 5, \"label\": \"\"}]}}```<br><br>> **关键提示**：睡眠质量优先！若仰卧失眠，可先用改良侧睡过渡，避免强行改变引发失眠。```wbCustomBlock{\"type\": \"quoted\", \"index\": 17, \"data\": {\"num\": [8], \"version\": 2, \"quote_list\": [{\"name\": \"YYX阿璇\", \"scheme\": \"sinaweibo://detail?mblogid=5222524796799226\", \"index\": 8, \"label\": \"大v\"}], \"name\": \"YYX阿璇\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.940.940.50/4e816a40ly8htr6h7rbtyj20q40q4dgu.jpg?KID=imgbed,tva&Expires=1762107840&ssig=szGyedz2HR\", \"scheme\": \"sinaweibo://detail?mblogid=5222524796799226\", \"vType\": 0}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5168296409960647&from=search&content_show=1&mix_index=2&hide_index=1&multi_paragraph=4&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/0061G2emly8i6tl9kfzzij30u00u0wj9.jpg?KID=imgbed,tva&Expires=1762107840&ssig=Vb91CVdnfJ) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">一闪一闪睡兴兴</span><img src=\"http://wx1.sinaimg.cn/middle/0061G2emgy1i1lnq3npsjj30u0141tg1.jpg\" data-width=1441 data-height=1080></div></media-block><br>### 三、体态矫正训练计划（每日10分钟）<br>#### 第一阶段：松解紧张肌群<br>- **胸小肌拉伸**  <br>  → 靠墙屈肘90°，身体前倾至胸部牵拉感，保持30秒/侧，3组。```wbCustomBlock{\"type\": \"quoted\", \"index\": 21, \"data\": {\"num\": [4, 15], \"version\": 2, \"quote_list\": [{\"name\": \"财以勒\", \"scheme\": \"sinaweibo://detail?mblogid=5168171856170289\", \"index\": 15, \"label\": \"大v\"}, {\"name\": \"E下就乐了_\", \"scheme\": \"sinaweibo://detail?mblogid=5168170718465673\", \"index\": 4, \"label\": \"\"}], \"name\": \"财以勒\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.640.640.50/6ae0af5fly8hy549fbldhj20hs0hsgnz.jpg?KID=imgbed,tva&Expires=1762107840&ssig=ngtbduAmYg\", \"scheme\": \"sinaweibo://detail?mblogid=5168171856170289\", \"vType\": 0}}```  <br>- **筋膜松解**  <br>  → 用网球按压锁骨下缘，小范围滚动2分钟（酸胀感为佳）。<br>#### 第二阶段：强化薄弱背部<br>- **靠墙天使**（激活中下斜方肌）：  <br>  → 背贴墙，屈肘90°呈W形上下滑动，15次/组，3组。```wbCustomBlock{\"type\": \"quoted\", \"index\": 24, \"data\": {\"num\": [6, 42], \"version\": 2, \"quote_list\": [{\"name\": \"运动康复陈老师\", \"scheme\": \"sinaweibo://detail?mblogid=5168349992196681\", \"index\": 42, \"label\": \"大v\"}, {\"name\": \"一闪一闪睡兴兴\", \"scheme\": \"sinaweibo://detail?mblogid=5168296409960647\", \"index\": 6, \"label\": \"\"}], \"name\": \"运动康复陈老师\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/005ZTUJMly8gdi30e256tj30u00u0tar.jpg?KID=imgbed,tva&Expires=1762107840&ssig=Yy9YxViKaq\", \"scheme\": \"sinaweibo://detail?mblogid=5168349992196681\", \"vType\": 0}}```  <br>- **弹力带划船**（强化菱形肌）：  <br>  → 水平后拉时肩胛骨后缩下沉，15次/组。```wbCustomBlock{\"type\": \"quoted\", \"index\": 25, \"data\": {\"num\": [15], \"version\": 2, \"quote_list\": [{\"name\": \"财以勒\", \"scheme\": \"sinaweibo://detail?mblogid=5168171856170289\", \"index\": 15, \"label\": \"\"}]}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5168349992196681&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=7&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/005ZTUJMly8gdi30e256tj30u00u0tar.jpg?KID=imgbed,tva&Expires=1762107840&ssig=Yy9YxViKaq) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">运动康复陈老师</span><img src=\"http://wx2.sinaimg.cn/middle/005ZTUJMly1i1ltvbv4kug306o0buhdw.gif\" data-width=426 data-height=240></div></media-block><br>#### 第三阶段：功能性矫正<br>- **呼吸重建**（改善圆肩呼吸代偿）：  <br>  → 仰卧腹式呼吸，吸气时肋骨横向打开而非耸肩，每日5分钟。```wbCustomBlock{\"type\": \"quoted\", \"index\": 27, \"data\": {\"num\": [4, 7], \"version\": 2, \"quote_list\": [{\"name\": \"E下就乐了_\", \"scheme\": \"sinaweibo://detail?mblogid=5168170718465673\", \"index\": 4, \"label\": \"\"}, {\"name\": \"刘筱颖\", \"scheme\": \"sinaweibo://detail?mblogid=5168336482343671\", \"index\": 7, \"label\": \"\"}]}}```  <br>- **YTWL训练**（全面激活肩胛）：  <br>  → 俯卧完成Y（上举）、T（平展）、W（屈肘后缩）、L（下拉）四动作，各15次。```wbCustomBlock{\"type\": \"quoted\", \"index\": 28, \"data\": {\"num\": [42], \"version\": 2, \"quote_list\": [{\"name\": \"运动康复陈老师\", \"scheme\": \"sinaweibo://detail?mblogid=5168349992196681\", \"index\": 42, \"label\": \"\"}]}}```<br><br>> **效果预期**：  <br>> - 拉伸松解可**当天提升肩部活动度**；  <br>> - 体态显著改善需**持续4-8周训练**。<br>### 四、特殊情况处理与就医信号<br>- **立即就医指征**：  <br>  ✔️ 持续性肩痛/麻木 ✔️ 肉眼可见高低肩 ✔️ 脊柱C/S型侧弯。```wbCustomBlock{\"type\": \"quoted\", \"index\": 34, \"data\": {\"num\": [16, 43], \"version\": 2, \"quote_list\": [{\"name\": \"仙狗嗨炸了\", \"scheme\": \"sinaweibo://detail?mblogid=5222541310296744\", \"index\": 16, \"label\": \"\"}, {\"name\": \"春涧生活派\", \"scheme\": \"sinaweibo://detail?mblogid=5168371111039536\", \"index\": 43, \"label\": \"\"}]}}```  <br>- **特殊人群调整**：  <br>  - 孕妇：左侧卧提升胎盘供血，腹部垫枕支撑；  <br>  - 打鼾者：右侧卧改善气道通畅。```wbCustomBlock{\"type\": \"quoted\", \"index\": 37, \"data\": {\"num\": [16, 51], \"version\": 2, \"quote_list\": [{\"name\": \"康斯坦丁\", \"scheme\": \"sinaweibo://detail?mblogid=5188098092443481\", \"index\": 51, \"label\": \"大v\"}, {\"name\": \"仙狗嗨炸了\", \"scheme\": \"sinaweibo://detail?mblogid=5222541310296744\", \"index\": 16, \"label\": \"\"}], \"name\": \"康斯坦丁\", \"img\": \"https://tva3.sinaimg.cn/crop.0.0.180.180.50/4a46c396jw1e8qgp5bmzyj2050050aa8.jpg?KID=imgbed,tva&Expires=1762107840&ssig=RDStc1bf%2F9\", \"scheme\": \"sinaweibo://detail?mblogid=5188098092443481\", \"vType\": 0}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5188098092443481&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=9&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tva3.sinaimg.cn/crop.0.0.180.180.50/4a46c396jw1e8qgp5bmzyj2050050aa8.jpg?KID=imgbed,tva&Expires=1762107840&ssig=RDStc1bf%2F9) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">康斯坦丁</span><img src=\"http://wx3.sinaimg.cn/middle/4a46c396gy1i3ctwl2sabj20qo17zjut.jpg\" data-width=1583 data-height=960></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5168371111039536&multi_paragraph=9&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.800.800.50/9c4fe45ely8fu2dl3jg9aj20m80m8gq4.jpg?KID=imgbed,tva&Expires=1762107840&ssig=xV9BsrixrG) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">春涧生活派</span><img src=\"http://wx2.sinaimg.cn/middle/b141341cgy1i1ltddi5myj20k00zkgon.jpg\" data-width=1280 data-height=720></div></media-block><br>### 五、常见误区避雷<br>- **× 强行“开肩睡”**：刻意将手臂别向身后可能加剧关节囊紧张；```wbCustomBlock{\"type\": \"quoted\", \"index\": 40, \"data\": {\"num\": [10], \"version\": 2, \"quote_list\": [{\"name\": \"一介粗人_\", \"scheme\": \"sinaweibo://detail?mblogid=4939469657735824\", \"index\": 10, \"label\": \"大v\"}], \"name\": \"一介粗人_\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.512.512.50/884e150dly8gdxspfyz8vj20e80e874r.jpg?KID=imgbed,tva&Expires=1762107840&ssig=U6%2BGb41NPf\", \"scheme\": \"sinaweibo://detail?mblogid=4939469657735824\", \"vType\": 0}}```  <br>- **× 高枕“防皱纹”**：过高枕头加速颈椎反弓，引发头前伸；```wbCustomBlock{\"type\": \"quoted\", \"index\": 41, \"data\": {\"num\": [6, 48], \"version\": 2, \"quote_list\": [{\"name\": \"小F来咯-\", \"scheme\": \"sinaweibo://detail?mblogid=5188010531884904\", \"index\": 48, \"label\": \"\"}, {\"name\": \"一闪一闪睡兴兴\", \"scheme\": \"sinaweibo://detail?mblogid=5168296409960647\", \"index\": 6, \"label\": \"\"}], \"name\": \"小F来咯-\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/0074HKv5ly8i4qz6m4aifj30u00u0dha.jpg?KID=imgbed,tva&Expires=1762107840&ssig=sihjoXi5qQ\", \"scheme\": \"sinaweibo://detail?mblogid=5188010531884904\", \"vType\": 0}}```  <br>- **× 单日见效期待**：肌肉记忆重建需周期性训练，速效法易反弹。```wbCustomBlock{\"type\": \"quoted\", \"index\": 42, \"data\": {\"num\": [43], \"version\": 2, \"quote_list\": [{\"name\": \"春涧生活派\", \"scheme\": \"sinaweibo://detail?mblogid=5168371111039536\", \"index\": 43, \"label\": \"\"}]}}```<br><br>> **核心原则**：矫正本质是重建肌力平衡而非放弃侧睡。优先保证睡眠质量，科学支撑+针对性训练比强制改变睡姿更重要。```wbCustomBlock{\"type\": \"quoted\", \"index\": 43, \"data\": {\"num\": [50], \"version\": 2, \"quote_list\": [{\"name\": \"所长别开枪是我\", \"scheme\": \"sinaweibo://detail?mblogid=5199576105750001\", \"index\": 50, \"label\": \"\"}]}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=4939469657735824&from=search&content_show=1&mix_index=7&hide_index=1&multi_paragraph=10&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.512.512.50/884e150dly8gdxspfyz8vj20e80e874r.jpg?KID=imgbed,tva&Expires=1762107840&ssig=U6%2BGb41NPf) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">一介粗人_</span><img src=\"http://wx3.sinaimg.cn/middle/884e150dgy1hha8qynnplg20hs0bttbp.gif\" data-width=425 data-height=640></div><div data-type=\"v\" data-scheme=\"sinaweibo://multimedia?mix_mid=5188010531884904&mix_index=0&multi_paragraph=10&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/0074HKv5ly8i4qz6m4aifj30u00u0dha.jpg?KID=imgbed,tva&Expires=1762107840&ssig=sihjoXi5qQ) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">小F来咯-</span><img src=\"http://wx3.sinaimg.cn/middle/0074HKv5gy1i3cjw34o5zj30k00zkgmq.jpg\" data-width=1280 data-height=720></div></media-block><br>",
+      "profile_image_url": "",
+      "query": "#长期侧睡发现肩膀前移了#",
+      "wenda": {
+        "forward_gen": 0
+      },
+      "ext_show": {},
+      "reliable_tips": "{\"gold_orange_v_mids\": [\"5168170718465673\", \"5168285090055486\", \"5222621591372802\", \"5222541310296744\", \"5168336482343671\", \"5168171856170289\", \"5213313887636056\", \"5217048611525363\", \"5222531726574965\", \"5168292797088205\", \"5199576105750001\", \"5168296409960647\", \"5222524796799226\", \"5168349992196681\", \"5188098092443481\", \"4939469657735824\", \"5228500288012402\", \"5168312442950373\", \"5168299505356447\", \"5213328584213600\", \"5213324708938667\", \"5213317736169718\", \"5228671908716897\", \"5228669157251380\", \"5228675543074364\", \"5228675281719404\", \"5168293109563696\", \"5213321536210563\"], \"gold_orange_v_ratio\": \"59%\", \"media_mids\": [\"5228675290107280\"], \"media_ratio\": \"2%\", \"verified_mids\": [\"5188010531884904\", \"5213335945479325\", \"5026094435277773\"], \"verified_ratio\": \"6%\", \"normal_mids\": [\"5168371111039536\", \"5228676246670709\", \"5228676150988342\", \"5228676116387130\", \"5228676082043875\", \"5228676048226773\", \"5228675943631649\", \"5228675877571612\", \"5228675843756209\", \"5228675525247764\", \"5228675458663505\", \"5228675391035891\", \"5228675361411050\", \"5228675335199684\", \"5228675273331462\", \"5228675247114871\"], \"normal_ratio\": \"33%\", \"ref_mid_rank\": {\"5168170718465673\": {\"rank\": 4}, \"5168285090055486\": {\"rank\": 14}, \"5222621591372802\": {\"rank\": 5}, \"5222541310296744\": {\"rank\": 16}, \"5168336482343671\": {\"rank\": 7}, \"5168171856170289\": {\"rank\": 15}, \"5213313887636056\": {\"rank\": 46}, \"5217048611525363\": {\"rank\": 3}, \"5222531726574965\": {\"rank\": 45}, \"5168292797088205\": {\"rank\": 49}, \"5199576105750001\": {\"rank\": 50}, \"5168296409960647\": {\"rank\": 6}, \"5222524796799226\": {\"rank\": 8}, \"5168349992196681\": {\"rank\": 42}, \"5168371111039536\": {\"rank\": 43}, \"5188098092443481\": {\"rank\": 51}, \"4939469657735824\": {\"rank\": 10}, \"5188010531884904\": {\"rank\": 48}, \"5228500288012402\": {\"rank\": 1}, \"5168312442950373\": {\"rank\": 2}, \"5168299505356447\": {\"rank\": 9}, \"5213328584213600\": {\"rank\": 11}, \"5213324708938667\": {\"rank\": 12}, \"5213317736169718\": {\"rank\": 13}, \"5228671908716897\": {\"rank\": 22}, \"5228669157251380\": {\"rank\": 23}, \"5228676246670709\": {\"rank\": 24}, \"5228676150988342\": {\"rank\": 25}, \"5228676116387130\": {\"rank\": 26}, \"5228676082043875\": {\"rank\": 27}, \"5228676048226773\": {\"rank\": 28}, \"5228675943631649\": {\"rank\": 29}, \"5228675877571612\": {\"rank\": 30}, \"5228675843756209\": {\"rank\": 31}, \"5228675543074364\": {\"rank\": 32}, \"5228675525247764\": {\"rank\": 33}, \"5228675458663505\": {\"rank\": 34}, \"5228675391035891\": {\"rank\": 35}, \"5228675361411050\": {\"rank\": 36}, \"5228675335199684\": {\"rank\": 37}, \"5228675290107280\": {\"rank\": 38}, \"5228675281719404\": {\"rank\": 39}, \"5228675273331462\": {\"rank\": 40}, \"5228675247114871\": {\"rank\": 41}, \"5168293109563696\": {\"rank\": 44}, \"5213321536210563\": {\"rank\": 47}, \"5213335945479325\": {\"rank\": 52}, \"5026094435277773\": {\"rank\": 53}}}",
+      "show_ctrl": {
+        "quote": {}
+      },
+      "share_text": "#长期侧睡发现肩膀前移了#的相关内容，来智搜看看",
+      "analysis_time": 1762097277,
+      "cot": 1,
+      "unify_md5": "9571e7892ea2751e243bba6e85c2a0b3",
+      "ab_suffix": "default",
+      "abtest_info": {
+        "chat_entrance": 1
+      },
+      "uid": "",
+      "current_time": 1762097820,
+      "short_url": "http://t.cn/AXAKpFTB",
+      "sorted_material_list": null,
+      "comment_info": {},
+      "qs_status": 0,
+      "share_info": {
+        "page_id": "23296481b97099a0ede7373b3f1228aa8ba1bb",
+        "tips": "#长期侧睡发现肩膀前移了#的相关内容，来智搜看看",
+        "url": "http://t.cn/AXAKjzSm",
+        "unify_md5": "9571e7892ea2751e243bba6e85c2a0b3",
+        "status": 3,
+        "display_name": "#长期侧睡发现肩膀前移了#",
+        "comment_content": ""
+      }
+    }
+  },
+  "links": [
+    "sinaweibo://detail?mblogid=5228500288012402",
+    "sinaweibo://detail?mblogid=5168312442950373",
+    "sinaweibo://detail?mblogid=5217048611525363",
+    "sinaweibo://detail?mblogid=5168170718465673",
+    "sinaweibo://detail?mblogid=5222621591372802",
+    "sinaweibo://detail?mblogid=5168296409960647",
+    "sinaweibo://detail?mblogid=5168336482343671",
+    "sinaweibo://detail?mblogid=5222524796799226",
+    "sinaweibo://detail?mblogid=5168299505356447",
+    "sinaweibo://detail?mblogid=4939469657735824",
+    "sinaweibo://detail?mblogid=5213328584213600",
+    "sinaweibo://detail?mblogid=5213324708938667",
+    "sinaweibo://detail?mblogid=5213317736169718",
+    "sinaweibo://detail?mblogid=5168285090055486",
+    "sinaweibo://detail?mblogid=5168171856170289",
+    "sinaweibo://detail?mblogid=5222541310296744",
+    "broadsocial_res://",
+    "broadsocial_res://",
+    "historyweibo://5217041699307666",
+    "historyweibo://5216702528487869",
+    "historyweibo://4961537645871773",
+    "sinaweibo://detail?mblogid=5228671908716897",
+    "sinaweibo://detail?mblogid=5228669157251380",
+    "sinaweibo://detail?mblogid=5228676246670709",
+    "sinaweibo://detail?mblogid=5228676150988342",
+    "sinaweibo://detail?mblogid=5228676116387130",
+    "sinaweibo://detail?mblogid=5228676082043875",
+    "sinaweibo://detail?mblogid=5228676048226773",
+    "sinaweibo://detail?mblogid=5228675943631649",
+    "sinaweibo://detail?mblogid=5228675877571612",
+    "sinaweibo://detail?mblogid=5228675843756209",
+    "sinaweibo://detail?mblogid=5228675543074364",
+    "sinaweibo://detail?mblogid=5228675525247764",
+    "sinaweibo://detail?mblogid=5228675458663505",
+    "sinaweibo://detail?mblogid=5228675391035891",
+    "sinaweibo://detail?mblogid=5228675361411050",
+    "sinaweibo://detail?mblogid=5228675335199684",
+    "sinaweibo://detail?mblogid=5228675290107280",
+    "sinaweibo://detail?mblogid=5228675281719404",
+    "sinaweibo://detail?mblogid=5228675273331462",
+    "sinaweibo://detail?mblogid=5228675247114871",
+    "sinaweibo://detail?mblogid=5168349992196681",
+    "sinaweibo://detail?mblogid=5168371111039536",
+    "sinaweibo://detail?mblogid=5168293109563696",
+    "sinaweibo://detail?mblogid=5222531726574965",
+    "sinaweibo://detail?mblogid=5213313887636056",
+    "sinaweibo://detail?mblogid=5213321536210563",
+    "sinaweibo://detail?mblogid=5188010531884904",
+    "sinaweibo://detail?mblogid=5168292797088205",
+    "sinaweibo://detail?mblogid=5199576105750001",
+    "sinaweibo://detail?mblogid=5188098092443481",
+    "sinaweibo://detail?mblogid=5213335945479325",
+    "sinaweibo://detail?mblogid=5026094435277773"
+  ],
+  "media": [
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/e785826fgy1i6eywj3h76j20yi1a4jy9.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/e785826fgy1i6eywj3h76j20yi1a4jy9.jpg",
+      "alt": "我被安利了",
+      "width": 1660,
+      "height": 1242,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/e785826fgy1i6eywj3h76j20yi1a4jy9.jpg"
+      ],
+      "user": "我被安利了"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/d7ab9bb8ly1i5l9xuf11rj20zu1bbnh1.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/d7ab9bb8ly1i5l9xuf11rj20zu1bbnh1.jpg",
+      "alt": "小狗痣性恋",
+      "width": 1703,
+      "height": 1290,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/d7ab9bb8ly1i5l9xuf11rj20zu1bbnh1.jpg"
+      ],
+      "user": "小狗痣性恋"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/006lNbTNly1i5x6uk7sl3j30k00pogp8.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/006lNbTNly1i5x6uk7sl3j30k00pogp8.jpg",
+      "alt": "远处守护你",
+      "width": 924,
+      "height": 720,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/006lNbTNly1i5x6uk7sl3j30k00pogp8.jpg"
+      ],
+      "user": "远处守护你"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/94898261ly1i1lmfxs5umj20k00qpjva.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/94898261ly1i1lmfxs5umj20k00qpjva.jpg",
+      "alt": "梦济南",
+      "width": 961,
+      "height": 720,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx4.sinaimg.cn/large/94898261ly1i1lmfxs5umj20k00qpjva.jpg"
+      ],
+      "user": "梦济南"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/008dfD1Vly1i1l9argjj0j30k00zktbe.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/008dfD1Vly1i1l9argjj0j30k00zktbe.jpg",
+      "alt": "E下就乐了_",
+      "width": 1280,
+      "height": 720,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/008dfD1Vly1i1l9argjj0j30k00zktbe.jpg"
+      ],
+      "user": "E下就乐了_"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/79eb2eacgy1i6eponl7v1j20k00qo78k.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/79eb2eacgy1i6eponl7v1j20k00qo78k.jpg",
+      "alt": "仙狗嗨炸了",
+      "width": 960,
+      "height": 720,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/79eb2eacgy1i6eponl7v1j20k00qo78k.jpg"
+      ],
+      "user": "仙狗嗨炸了"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/5b13ca66gy1i1lsa8hc0fj20u01hck7g.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/5b13ca66gy1i1lsa8hc0fj20u01hck7g.jpg",
+      "alt": "刘筱颖",
+      "width": 1920,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/5b13ca66gy1i1lsa8hc0fj20u01hck7g.jpg"
+      ],
+      "user": "刘筱颖"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/6ae0af5fgy1i1l9d8si54j20u00gvabu.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/6ae0af5fgy1i1l9d8si54j20u00gvabu.jpg",
+      "alt": "财以勒",
+      "width": 607,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx4.sinaimg.cn/large/6ae0af5fgy1i1l9d8si54j20u00gvabu.jpg"
+      ],
+      "user": "财以勒"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/001VpLeegy1i4dg5nmhk0j60mj0tcacj02.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/001VpLeegy1i4dg5nmhk0j60mj0tcacj02.jpg",
+      "alt": "所长别开枪是我",
+      "width": 1056,
+      "height": 811,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/001VpLeegy1i4dg5nmhk0j60mj0tcacj02.jpg"
+      ],
+      "user": "所长别开枪是我"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/006RnVkygy1i1lnc7slwrj30ym16xq6b.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/006RnVkygy1i1lnc7slwrj30ym16xq6b.jpg",
+      "alt": "奥宝未来可期呀",
+      "width": 1545,
+      "height": 1246,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/006RnVkygy1i1lnc7slwrj30ym16xq6b.jpg"
+      ],
+      "user": "奥宝未来可期呀"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/0061G2emgy1i1lnq3npsjj30u0141tg1.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/0061G2emgy1i1lnq3npsjj30u0141tg1.jpg",
+      "alt": "一闪一闪睡兴兴",
+      "width": 1441,
+      "height": 1080,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/0061G2emgy1i1lnq3npsjj30u0141tg1.jpg"
+      ],
+      "user": "一闪一闪睡兴兴"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/005ZTUJMly1i1ltvbv4kug306o0buhdw.gif",
+      "secure_url": "https://wx2.sinaimg.cn/middle/005ZTUJMly1i1ltvbv4kug306o0buhdw.gif",
+      "alt": "运动康复陈老师",
+      "width": 426,
+      "height": 240,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/005ZTUJMly1i1ltvbv4kug306o0buhdw.jpg"
+      ],
+      "user": "运动康复陈老师"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/4a46c396gy1i3ctwl2sabj20qo17zjut.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/4a46c396gy1i3ctwl2sabj20qo17zjut.jpg",
+      "alt": "康斯坦丁",
+      "width": 1583,
+      "height": 960,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/4a46c396gy1i3ctwl2sabj20qo17zjut.jpg"
+      ],
+      "user": "康斯坦丁"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/b141341cgy1i1ltddi5myj20k00zkgon.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/b141341cgy1i1ltddi5myj20k00zkgon.jpg",
+      "alt": "春涧生活派",
+      "width": 1280,
+      "height": 720,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/b141341cgy1i1ltddi5myj20k00zkgon.jpg"
+      ],
+      "user": "春涧生活派"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/884e150dgy1hha8qynnplg20hs0bttbp.gif",
+      "secure_url": "https://wx3.sinaimg.cn/middle/884e150dgy1hha8qynnplg20hs0bttbp.gif",
+      "alt": "一介粗人_",
+      "width": 425,
+      "height": 640,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/884e150dgy1hha8qynnplg20hs0bttbp.jpg"
+      ],
+      "user": "一介粗人_"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/0074HKv5gy1i3cjw34o5zj30k00zkgmq.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/0074HKv5gy1i3cjw34o5zj30k00zkgmq.jpg",
+      "alt": "小F来咯-",
+      "width": 1280,
+      "height": 720,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/0074HKv5gy1i3cjw34o5zj30k00zkgmq.jpg"
+      ],
+      "user": "小F来咯-"
+    }
+  ],
+  "html_path": "data/aicard/hourly/2025-11-02/23/topic-9571e789.html"
+}

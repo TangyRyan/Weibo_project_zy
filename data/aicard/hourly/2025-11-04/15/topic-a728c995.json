@@ -1,0 +1,181 @@
+{
+  "meta": {
+    "query": "#桃黑黑的父母也不是泛泛之辈#",
+    "status_code": 200,
+    "fetched_at": "2025-11-04T15:34:46+08:00",
+    "response": {
+      "status": 2,
+      "q_attr": {
+        "from_uid": "",
+        "from_request_id": "",
+        "mid": "",
+        "reply_cid": "",
+        "comment_from_type": ""
+      },
+      "cot": 1,
+      "msg_json": "{}",
+      "mid_list": null,
+      "chat_status_stage": 1,
+      "query_category": "",
+      "status_stage": 4,
+      "link_list": [
+        "sinaweibo://detail?mblogid=5229264141028667",
+        "sinaweibo://detail?mblogid=5229237021967958",
+        "broadsocial_res://",
+        "broadsocial_res://",
+        "historyweibo://5229264141028667",
+        "sinaweibo://detail?mblogid=5229266284840087",
+        "sinaweibo://detail?mblogid=5229278372301011",
+        "sinaweibo://detail?mblogid=5229280315576578",
+        "sinaweibo://detail?mblogid=5229278880596341",
+        "sinaweibo://detail?mblogid=5229278414505162",
+        "sinaweibo://detail?mblogid=5229277425175166",
+        "sinaweibo://detail?mblogid=5229276991589417",
+        "sinaweibo://detail?mblogid=5229273931845250",
+        "sinaweibo://detail?mblogid=5229272732273016",
+        "sinaweibo://detail?mblogid=5229270650586775",
+        "sinaweibo://detail?mblogid=5229270575874637",
+        "sinaweibo://detail?mblogid=5229269475395643",
+        "sinaweibo://detail?mblogid=5229267134710248",
+        "sinaweibo://detail?mblogid=5229266716331103",
+        "sinaweibo://detail?mblogid=5229266612519150",
+        "sinaweibo://detail?mblogid=5229266369250003",
+        "sinaweibo://detail?mblogid=5229263701673994",
+        "sinaweibo://detail?mblogid=5229269049148132",
+        "sinaweibo://detail?mblogid=5198487647682918",
+        "sinaweibo://detail?mblogid=5211927494002373",
+        "sinaweibo://detail?mblogid=5210161574052727",
+        "sinaweibo://detail?mblogid=5216797735256098",
+        "sinaweibo://detail?mblogid=5229279730205207",
+        "sinaweibo://detail?mblogid=5229279622203880"
+      ],
+      "top_quote_list": {},
+      "ext_show": {},
+      "share_card_multimodal": {
+        "h": 1457,
+        "img": "http://wx2.sinaimg.cn/middle/006aRZ5Zgy1i702os4zcaj310o14hwi5.jpg",
+        "click_num": 0,
+        "type": "p",
+        "hit_score_final": 0,
+        "w": 1320,
+        "cur_mid": "5229237021967958",
+        "scheme": "sinaweibo://multimedia?mix_mid=5229237021967958&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=0",
+        "user_name": "桃黑黑Tor",
+        "vtype": 0,
+        "user_avatar": "https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/006aRZ5Zly8gykk2euqbmj30u00u0q5m.jpg?KID=imgbed,tva&Expires=1762251901&ssig=UydlQyJLvC",
+        "click_rate": 0.06,
+        "video_url": "",
+        "hit_score_new": 0,
+        "doc_score": 0,
+        "img_pid": "006aRZ5Zgy1i702os4zcaj310o14hwi5"
+      },
+      "basemodel": "实验组3",
+      "model": "deepseek",
+      "scheme": "sinaweibo://cardlist?containerid=100103type%3D225%26q%3D%23%E6%A1%83%E9%BB%91%E9%BB%91%E7%9A%84%E7%88%B6%E6%AF%8D%E4%B9%9F%E4%B8%8D%E6%98%AF%E6%B3%9B%E6%B3%9B%E4%B9%8B%E8%BE%88%23%26t%3D&extparam=ai_model%3Ddeepseek%26ori_ai_title%3D%E5%8F%82%E8%80%83%E5%8D%9A%E6%96%87%26material_version%3D1762241101",
+      "sorted_material_list": null,
+      "uid": "",
+      "reliable_tips": "{\"gold_orange_v_mids\": [\"5229237021967958\", \"5229266284840087\", \"5229280315576578\", \"5229264141028667\", \"5198487647682918\", \"5229279622203880\", \"5229269049148132\", \"5229270650586775\", \"5229267134710248\", \"5211927494002373\"], \"gold_orange_v_ratio\": \"38%\", \"media_mids\": [], \"media_ratio\": \"0%\", \"verified_mids\": [\"5229278414505162\", \"5229279730205207\", \"5229263701673994\"], \"verified_ratio\": \"12%\", \"normal_mids\": [\"5229266369250003\", \"5216797735256098\", \"5229266612519150\", \"5229278880596341\", \"5210161574052727\", \"5229278372301011\", \"5229277425175166\", \"5229276991589417\", \"5229273931845250\", \"5229272732273016\", \"5229270575874637\", \"5229269475395643\", \"5229266716331103\"], \"normal_ratio\": \"50%\", \"ref_mid_rank\": {\"5229237021967958\": {\"rank\": 2}, \"5229266284840087\": {\"rank\": 6}, \"5229280315576578\": {\"rank\": 8}, \"5229264141028667\": {\"rank\": 1}, \"5229266369250003\": {\"rank\": 21}, \"5198487647682918\": {\"rank\": 24}, \"5216797735256098\": {\"rank\": 27}, \"5229279622203880\": {\"rank\": 29}, \"5229266612519150\": {\"rank\": 20}, \"5229269049148132\": {\"rank\": 23}, \"5229278880596341\": {\"rank\": 9}, \"5229278414505162\": {\"rank\": 10}, \"5210161574052727\": {\"rank\": 26}, \"5229279730205207\": {\"rank\": 28}, \"5229278372301011\": {\"rank\": 7}, \"5229277425175166\": {\"rank\": 11}, \"5229276991589417\": {\"rank\": 12}, \"5229273931845250\": {\"rank\": 13}, \"5229272732273016\": {\"rank\": 14}, \"5229270650586775\": {\"rank\": 15}, \"5229270575874637\": {\"rank\": 16}, \"5229269475395643\": {\"rank\": 17}, \"5229267134710248\": {\"rank\": 18}, \"5229266716331103\": {\"rank\": 19}, \"5229263701673994\": {\"rank\": 22}, \"5211927494002373\": {\"rank\": 25}}}",
+      "query_field": "37",
+      "zs_risk_control": {
+        "think_text_close": 0,
+        "land_button_close": 0
+      },
+      "unify_md5": "a728c995431e979418b8af85f488b9c6",
+      "qs_status": 0,
+      "msg": "<think><br><br>嗯，用户想了解\"桃黑黑的父母也不是泛泛之辈\"这个梗的来龙去脉。从搜索结果看，这个话题今天突然火了，是2025年11月4日的新热搜。<br><br>用户可能是在社交媒体上看到这个词条感到好奇，想了解背后的故事。需要重点解释这个梗的出处和为什么说桃黑黑父母\"不简单\"。<br><br>首先看核心事件来源：当事人桃黑黑自己发的微博，说他爸妈去军事博物馆闹了笑话。具体细节在的截图里特别清楚——妈妈把导弹说成鱼雷，爸爸纠正后妈妈又故意重复错误称呼，这种反差对话特别有喜剧效果。这个\"远洋轮渡船长\"的梗就在各个账号传开了。<br><br>用户可能还想知道为什么延伸出\"父母不简单\"的评价。这里有几个层次：<br>家庭背景方面，都提到他家三代高知，爷爷是上海财大教授，还流传过\"亲家母，你觉得韬韬是不是弱智\"的爆笑教学梗。父母教育方式确实特别：比如说桃黑黑初中数学考2分，爸爸没骂人而是问\"你想做什么爸爸都支持\"；高考前打游戏全家也没阻止，用的总结就是\"把精英资源化为幽默与包容\"。<br><br>还有个经典故事是提到的\"遥控飞机事件\"——小时候没得到玩具，妈妈后来直接买十架补偿。不过提醒过不能确定是飞机还是其他遥控玩具。<br><br>现在网友主要讨论两点：一是基因里带的幽默感，比如说\"一家脱口秀演员\"；二是这种教育模式培养出桃黑黑高情商。但要注意某些细节比如\"买十架飞机\"可能存在夸大。<br><br>整体可以用轻松语气讲，毕竟话题本身很欢乐。最后点出这个热搜背后其实寄托了大家对理想家庭的向往，引用那句\"用爱与笑声化解矛盾的硬核玩家\"就挺到位。<br><br></think><br>关于“桃黑黑的父母也不是泛泛之辈”的讨论，核心源于其父母在军事博物馆的幽默互动及家庭背景曝光，以下是综合梳理：<br>### 🔥 一、事件引爆点：博物馆喜剧名场面<br>1. **乌龙对话引爆全网**  <br>   父母参观军事博物馆时，母亲误将“巨浪一号潜射导弹”称为“鱼雷”，父亲纠正后母亲故意重复错误称呼：“我坐在巨浪一号潜射导弹上等你”。母亲调侃父亲“难怪你是远洋轮渡的船长”成为经典梗，引发全网模仿热潮。```wbCustomBlock{\"type\": \"quoted\", \"index\": 3, \"data\": {\"num\": [2, 6, 8], \"version\": 2, \"quote_list\": [{\"name\": \"桃黑黑Tor\", \"scheme\": \"sinaweibo://detail?mblogid=5229237021967958\", \"index\": 2, \"label\": \"大v\"}, {\"name\": \"炸小梨偷薯\", \"scheme\": \"sinaweibo://detail?mblogid=5229266284840087\", \"index\": 6, \"label\": \"\"}, {\"name\": \"Whisper_for_you\", \"scheme\": \"sinaweibo://detail?mblogid=5229280315576578\", \"index\": 8, \"label\": \"\"}], \"name\": \"桃黑黑Tor\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/006aRZ5Zly8gykk2euqbmj30u00u0q5m.jpg?KID=imgbed,tva&Expires=1762251901&ssig=UydlQyJLvC\", \"scheme\": \"sinaweibo://detail?mblogid=5229237021967958\", \"vType\": 0}}```  <br>2. **当事人回应**  <br>   桃黑黑在微博晒出聊天记录，直呼“快被爸妈笑死”，证实事件真实性，#桃黑黑一家子喜剧人#话题同步登上热搜。```wbCustomBlock{\"type\": \"quoted\", \"index\": 4, \"data\": {\"num\": [1, 2, 21], \"version\": 2, \"quote_list\": [{\"name\": \"松鼠娱评\", \"scheme\": \"sinaweibo://detail?mblogid=5229264141028667\", \"index\": 1, \"label\": \"大v\"}, {\"name\": \"桃黑黑Tor\", \"scheme\": \"sinaweibo://detail?mblogid=5229237021967958\", \"index\": 2, \"label\": \"\"}, {\"name\": \"内娱大神\", \"scheme\": \"sinaweibo://detail?mblogid=5229266369250003\", \"index\": 21, \"label\": \"\"}], \"name\": \"松鼠娱评\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.512.512.50/006bgZRbly8hcvyaqqlabj30e80e8q34.jpg?KID=imgbed,tva&Expires=1762251901&ssig=VpEEvxTDOs\", \"scheme\": \"sinaweibo://detail?mblogid=5229264141028667\", \"vType\": 0}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5229237021967958&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/006aRZ5Zly8gykk2euqbmj30u00u0q5m.jpg?KID=imgbed,tva&Expires=1762251901&ssig=UydlQyJLvC) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">桃黑黑Tor</span><img src=\"http://wx2.sinaimg.cn/middle/006aRZ5Zgy1i702os4zcaj310o14hwi5.jpg\" data-width=1457 data-height=1320></div></media-block><br>### 👨‍👩‍👦 二、家庭背景：高知基因与独特教育观<br>1. **跨代精英资源**  <br>   - **祖辈**：爷爷为上海财经大学教授，曾辅导幼年桃黑黑学习时无奈吐槽：“亲家母，你觉得韬韬（桃黑黑本名）是不是弱智？”```wbCustomBlock{\"type\": \"quoted\", \"index\": 7, \"data\": {\"num\": [24, 27], \"version\": 2, \"quote_list\": [{\"name\": \"买酱安利日记\", \"scheme\": \"sinaweibo://detail?mblogid=5198487647682918\", \"index\": 24, \"label\": \"大v\"}, {\"name\": \"卷毛小狗奶油酥\", \"scheme\": \"sinaweibo://detail?mblogid=5216797735256098\", \"index\": 27, \"label\": \"\"}], \"name\": \"买酱安利日记\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.439.439.50/629703daly8gho2jsjoxij20c80c8jso.jpg?KID=imgbed,tva&Expires=1762251901&ssig=NemBRgtRK5\", \"scheme\": \"sinaweibo://detail?mblogid=5198487647682918\", \"vType\": 0}}```  <br>   - **父母**：母亲被粉丝称为“儒雅女士”（具体职业未公开），父亲被推测为航运相关从业者（呼应“远洋轮渡船长”梗）。```wbCustomBlock{\"type\": \"quoted\", \"index\": 8, \"data\": {\"num\": [8, 29], \"version\": 2, \"quote_list\": [{\"name\": \"Whisper_for_you\", \"scheme\": \"sinaweibo://detail?mblogid=5229280315576578\", \"index\": 8, \"label\": \"大v\"}, {\"name\": \"_chetsaei\", \"scheme\": \"sinaweibo://detail?mblogid=5229279622203880\", \"index\": 29, \"label\": \"\"}], \"name\": \"Whisper_for_you\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.500.500.50/00844lDdly8i5frihscfej30dw0dwglu.jpg?KID=imgbed,tva&Expires=1762251901&ssig=x24lXnhgUX\", \"scheme\": \"sinaweibo://detail?mblogid=5229280315576578\", \"vType\": 0}}```  <br>2. **非传统教育模式**  <br>   - **包容学业低谷**：初中数学仅考2分时，父亲未苛责，而是引导其发展兴趣：“你以后想干什么？爸爸支持你”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 10, \"data\": {\"num\": [20, 27], \"version\": 2, \"quote_list\": [{\"name\": \"许呆呆231\", \"scheme\": \"sinaweibo://detail?mblogid=5229266612519150\", \"index\": 20, \"label\": \"\"}, {\"name\": \"卷毛小狗奶油酥\", \"scheme\": \"sinaweibo://detail?mblogid=5216797735256098\", \"index\": 27, \"label\": \"\"}]}}```  <br>   - **尊重自主空间**：高考前沉迷游戏，全家虽担忧仍给予信任，最终桃黑黑考入大学。```wbCustomBlock{\"type\": \"quoted\", \"index\": 11, \"data\": {\"num\": [20, 27], \"version\": 2, \"quote_list\": [{\"name\": \"许呆呆231\", \"scheme\": \"sinaweibo://detail?mblogid=5229266612519150\", \"index\": 20, \"label\": \"\"}, {\"name\": \"卷毛小狗奶油酥\", \"scheme\": \"sinaweibo://detail?mblogid=5216797735256098\", \"index\": 27, \"label\": \"\"}]}}```  <br>   - **情感补偿行动**：童年因误会错失遥控玩具，母亲直接购买十架补偿。```wbCustomBlock{\"type\": \"quoted\", \"index\": 12, \"data\": {\"num\": [23, 27, 29], \"version\": 2, \"quote_list\": [{\"name\": \"-祝你早安_午安_晚安-\", \"scheme\": \"sinaweibo://detail?mblogid=5229269049148132\", \"index\": 23, \"label\": \"\"}, {\"name\": \"卷毛小狗奶油酥\", \"scheme\": \"sinaweibo://detail?mblogid=5216797735256098\", \"index\": 27, \"label\": \"\"}, {\"name\": \"_chetsaei\", \"scheme\": \"sinaweibo://detail?mblogid=5229279622203880\", \"index\": 29, \"label\": \"\"}]}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5198487647682918&from=search&content_show=1&mix_index=2&hide_index=1&multi_paragraph=2&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.439.439.50/629703daly8gho2jsjoxij20c80c8jso.jpg?KID=imgbed,tva&Expires=1762251901&ssig=NemBRgtRK5) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">买酱安利日记</span><img src=\"http://wx2.sinaimg.cn/middle/629703daly1i49wu83nytj209n099dgs.jpg\" data-width=333 data-height=347></div></media-block><br>### ❤️ 三、父母形象：硬核关爱与反差魅力<br>1. **事业与家庭的平衡**  <br>   母亲被描述为“工作中是事业女强人”，但始终将子女教育置于首位，即便繁忙也会反思亲子关系（如对未获遥控飞机事件道歉）。```wbCustomBlock{\"type\": \"quoted\", \"index\": 14, \"data\": {\"num\": [23], \"version\": 2, \"quote_list\": [{\"name\": \"-祝你早安_午安_晚安-\", \"scheme\": \"sinaweibo://detail?mblogid=5229269049148132\", \"index\": 23, \"label\": \"\"}]}}```  <br>2. **幽默家风传承**  <br>   - 父母以调侃化解矛盾，如母亲自称“胖宝宝”回应桃黑黑童年遗憾。```wbCustomBlock{\"type\": \"quoted\", \"index\": 16, \"data\": {\"num\": [23], \"version\": 2, \"quote_list\": [{\"name\": \"-祝你早安_午安_晚安-\", \"scheme\": \"sinaweibo://detail?mblogid=5229269049148132\", \"index\": 23, \"label\": \"\"}]}}```  <br>   - 桃黑黑为女友（小盐巴）剥整箱柚子求和，被网友调侃“宠对象是祖传技能”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 17, \"data\": {\"num\": [24], \"version\": 2, \"quote_list\": [{\"name\": \"买酱安利日记\", \"scheme\": \"sinaweibo://detail?mblogid=5198487647682918\", \"index\": 24, \"label\": \"\"}]}}```<br>### 💬 四、公众热议焦点<br>1. **“幽默基因”认证**  <br>   网友感叹“喜剧天赋遗传”“一家人像脱口秀演员”，#桃黑黑的父母也不是泛泛之辈#单日阅读量破亿。```wbCustomBlock{\"type\": \"quoted\", \"index\": 19, \"data\": {\"num\": [1, 6, 9, 10], \"version\": 2, \"quote_list\": [{\"name\": \"松鼠娱评\", \"scheme\": \"sinaweibo://detail?mblogid=5229264141028667\", \"index\": 1, \"label\": \"\"}, {\"name\": \"炸小梨偷薯\", \"scheme\": \"sinaweibo://detail?mblogid=5229266284840087\", \"index\": 6, \"label\": \"\"}, {\"name\": \"像素纽扣作息\", \"scheme\": \"sinaweibo://detail?mblogid=5229278880596341\", \"index\": 9, \"label\": \"\"}, {\"name\": \"家人杂志\", \"scheme\": \"sinaweibo://detail?mblogid=5229278414505162\", \"index\": 10, \"label\": \"\"}]}}```  <br>2. **教育模式引发思考**  <br>   粉丝分析其家庭“用金钱和爱打造安全感”，培养出桃黑黑高情商、自洽乐观的特质。```wbCustomBlock{\"type\": \"quoted\", \"index\": 20, \"data\": {\"num\": [26, 27, 28], \"version\": 2, \"quote_list\": [{\"name\": \"我真的是饼子啊\", \"scheme\": \"sinaweibo://detail?mblogid=5229279730205207\", \"index\": 28, \"label\": \"大v\"}, {\"name\": \"睡懒觉宇宙冠军保持者\", \"scheme\": \"sinaweibo://detail?mblogid=5210161574052727\", \"index\": 26, \"label\": \"\"}, {\"name\": \"卷毛小狗奶油酥\", \"scheme\": \"sinaweibo://detail?mblogid=5216797735256098\", \"index\": 27, \"label\": \"\"}], \"name\": \"我真的是饼子啊\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/816848ably8i2f44kie9uj20u00u041p.jpg?KID=imgbed,tva&Expires=1762251901&ssig=S7dX8mlc22\", \"scheme\": \"sinaweibo://detail?mblogid=5229279730205207\", \"vType\": 0}}```  <br>3. **文化资本的价值**  <br>   三代积累的学识与资源，被视作桃黑黑“飞升的强力地基”，但公众更关注其家庭将优势转化为松弛教育智慧的能力。```wbCustomBlock{\"type\": \"quoted\", \"index\": 21, \"data\": {\"num\": [28], \"version\": 2, \"quote_list\": [{\"name\": \"我真的是饼子啊\", \"scheme\": \"sinaweibo://detail?mblogid=5229279730205207\", \"index\": 28, \"label\": \"\"}]}}```<br>### ⚠️ 争议与补充说明<br>- **高考结果存疑**：家人曾预期桃黑黑高考落榜，但公开信息仅显示其2020年参加上海市高考（考点市东实验学校），未明确录取结果。```wbCustomBlock{\"type\": \"quoted\", \"index\": 24, \"data\": {\"num\": [24], \"version\": 2, \"quote_list\": [{\"name\": \"买酱安利日记\", \"scheme\": \"sinaweibo://detail?mblogid=5198487647682918\", \"index\": 24, \"label\": \"\"}]}}```  <br>- **遥控玩具细节**：童年事件中“购买十架遥控飞机”可能存在解读偏差，原始描述为“想要什么遥控没要到，妈妈买了十个”，物品类型未明确。```wbCustomBlock{\"type\": \"quoted\", \"index\": 25, \"data\": {\"num\": [23], \"version\": 2, \"quote_list\": [{\"name\": \"-祝你早安_午安_晚安-\", \"scheme\": \"sinaweibo://detail?mblogid=5229269049148132\", \"index\": 23, \"label\": \"\"}]}}```<br>### 💎 现象总结  <br>该话题既是家庭喜剧日常的放大镜，亦折射当代人对“非功利化教育”的向往。父母以幽默消解亲子矛盾，将事业成就转化为教育中的松弛感，这种“硬核温柔”正是其被赞“非泛泛之辈”的核心。```wbCustomBlock{\"type\": \"quoted\", \"index\": 26, \"data\": {\"num\": [28], \"version\": 2, \"quote_list\": [{\"name\": \"我真的是饼子啊\", \"scheme\": \"sinaweibo://detail?mblogid=5229279730205207\", \"index\": 28, \"label\": \"\"}]}}```<br>",
+      "news_analyze": {},
+      "share_text": "#桃黑黑的父母也不是泛泛之辈#的相关内容，来智搜看看",
+      "reference_num": 26,
+      "show_ctrl": {
+        "quote": {}
+      },
+      "ab_suffix": "default",
+      "msg_format": "markdown",
+      "wenda": {
+        "forward_gen": 0
+      },
+      "comment_info": {},
+      "current_time": 1762241688,
+      "profile_image_url": "",
+      "user_info": {},
+      "query": "#桃黑黑的父母也不是泛泛之辈#",
+      "analysis_time": 1762241348,
+      "short_url": "http://t.cn/AXAlc13t",
+      "share_info": {
+        "unify_md5": "a728c995431e979418b8af85f488b9c6",
+        "comment_content": "",
+        "status": 3,
+        "tips": "#桃黑黑的父母也不是泛泛之辈#的相关内容，来智搜看看",
+        "page_id": "232964d2173dec4a2d61cfdbe2924ab8871073",
+        "url": "http://t.cn/AXAlNvWp",
+        "display_name": "#桃黑黑的父母也不是泛泛之辈#"
+      },
+      "version": "2025-11-04 15:25:01.019999-3232",
+      "loop_times": 200,
+      "abtest_info": {
+        "chat_entrance": 1
+      },
+      "page_id": "232964d2173dec4a2d61cfdbe2924ab8871073",
+      "qs_status_info": "{\"qs_q_status\":0,\"qs_r_status\":0,\"qs_u_status\":0,\"qs_status\":0,\"qs_c_status\":8388608,\"ab_lab\":{}}",
+      "card_multimodal": {}
+    }
+  },
+  "links": [
+    "sinaweibo://detail?mblogid=5229264141028667",
+    "sinaweibo://detail?mblogid=5229237021967958",
+    "broadsocial_res://",
+    "broadsocial_res://",
+    "historyweibo://5229264141028667",
+    "sinaweibo://detail?mblogid=5229266284840087",
+    "sinaweibo://detail?mblogid=5229278372301011",
+    "sinaweibo://detail?mblogid=5229280315576578",
+    "sinaweibo://detail?mblogid=5229278880596341",
+    "sinaweibo://detail?mblogid=5229278414505162",
+    "sinaweibo://detail?mblogid=5229277425175166",
+    "sinaweibo://detail?mblogid=5229276991589417",
+    "sinaweibo://detail?mblogid=5229273931845250",
+    "sinaweibo://detail?mblogid=5229272732273016",
+    "sinaweibo://detail?mblogid=5229270650586775",
+    "sinaweibo://detail?mblogid=5229270575874637",
+    "sinaweibo://detail?mblogid=5229269475395643",
+    "sinaweibo://detail?mblogid=5229267134710248",
+    "sinaweibo://detail?mblogid=5229266716331103",
+    "sinaweibo://detail?mblogid=5229266612519150",
+    "sinaweibo://detail?mblogid=5229266369250003",
+    "sinaweibo://detail?mblogid=5229263701673994",
+    "sinaweibo://detail?mblogid=5229269049148132",
+    "sinaweibo://detail?mblogid=5198487647682918",
+    "sinaweibo://detail?mblogid=5211927494002373",
+    "sinaweibo://detail?mblogid=5210161574052727",
+    "sinaweibo://detail?mblogid=5216797735256098",
+    "sinaweibo://detail?mblogid=5229279730205207",
+    "sinaweibo://detail?mblogid=5229279622203880"
+  ],
+  "media": [
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/006aRZ5Zgy1i702os4zcaj310o14hwi5.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/006aRZ5Zgy1i702os4zcaj310o14hwi5.jpg",
+      "alt": "桃黑黑Tor",
+      "width": 1457,
+      "height": 1320,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/006aRZ5Zgy1i702os4zcaj310o14hwi5.jpg"
+      ],
+      "user": "桃黑黑Tor"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/629703daly1i49wu83nytj209n099dgs.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/629703daly1i49wu83nytj209n099dgs.jpg",
+      "alt": "买酱安利日记",
+      "width": 333,
+      "height": 347,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/629703daly1i49wu83nytj209n099dgs.jpg"
+      ],
+      "user": "买酱安利日记"
+    }
+  ],
+  "html_path": "data/aicard/hourly/2025-11-04/15/topic-a728c995.html"
+}

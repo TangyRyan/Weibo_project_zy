@@ -1,0 +1,291 @@
+{
+  "meta": {
+    "query": "#青你1选手为做音乐负债百万#",
+    "status_code": 200,
+    "fetched_at": "2025-10-28T17:56:38+08:00",
+    "response": {
+      "query_field": "1",
+      "model": "deepseek",
+      "share_text": "#青你1选手为做音乐负债百万#的相关内容，来智搜看看",
+      "reference_num": 30,
+      "query_category": "Ip",
+      "status_stage": 4,
+      "link_list": [
+        "sinaweibo://detail?mblogid=5226341533222124",
+        "sinaweibo://detail?mblogid=5226350039531969",
+        "sinaweibo://detail?mblogid=5226368264834446",
+        "historyweibo://5226341533222124",
+        "historyweibo://5226350039531969",
+        "sinaweibo://detail?mblogid=5226374344216143",
+        "sinaweibo://detail?mblogid=5226383802371612",
+        "sinaweibo://detail?mblogid=5226397201336156",
+        "sinaweibo://detail?mblogid=5226404289448443",
+        "sinaweibo://detail?mblogid=5226379966417463",
+        "sinaweibo://detail?mblogid=5226701446450891",
+        "sinaweibo://detail?mblogid=5226407032783984",
+        "sinaweibo://detail?mblogid=5226424245945812",
+        "sinaweibo://detail?mblogid=5226426351749738",
+        "sinaweibo://detail?mblogid=5226408284520549",
+        "sinaweibo://detail?mblogid=5226369172638170",
+        "sinaweibo://detail?mblogid=5226366664708616",
+        "sinaweibo://detail?mblogid=5226372999941032",
+        "sinaweibo://detail?mblogid=5226389381841246",
+        "sinaweibo://detail?mblogid=5226677392376903",
+        "sinaweibo://detail?mblogid=5226394774667569",
+        "sinaweibo://detail?mblogid=5226390191604252",
+        "sinaweibo://detail?mblogid=5042005496827202",
+        "sinaweibo://detail?mblogid=5226374648565368",
+        "sinaweibo://detail?mblogid=5041951003118823",
+        "sinaweibo://detail?mblogid=5226394460097068",
+        "sinaweibo://detail?mblogid=5226372559536275",
+        "sinaweibo://detail?mblogid=5226395825082751",
+        "sinaweibo://detail?mblogid=5226386398645023",
+        "sinaweibo://detail?mblogid=5226379139615798",
+        "sinaweibo://detail?mblogid=5226402615919325",
+        "sinaweibo://detail?mblogid=5226387155716315",
+        "https://3g.china.com/act/ent/11005281/20251027/48940911.html"
+      ],
+      "top_quote_list": {},
+      "current_time": 1761645398,
+      "card_multimodal": {
+        "type": "mediablock",
+        "data": [
+          {
+            "h": 406,
+            "img": "http://wx4.sinaimg.cn/middle/006gk1lMly1hqeqky8b1ej30k00bajs4.jpg",
+            "video_url": "https://video.weibo.com/show?fid=1034:5041997774258199",
+            "click_rate": 0,
+            "hit_score_new": 78.417969,
+            "doc_score": 1857,
+            "hit_score_final": 53.85078,
+            "scheme": "sinaweibo://video/vvs?mid=5042005496827202&multi_paragraph=1&multi_count=0",
+            "img_pid": "006gk1lMly1hqeqky8b1ej30k00bajs4",
+            "w": 720,
+            "user_name": "娱理",
+            "cur_mid": "5042005496827202",
+            "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.600.600.50/006gk1lMly8h8v4566klaj30go0goq44.jpg?KID=imgbed,tva&Expires=1761637257&ssig=mbqOmatrpT",
+            "vtype": 7,
+            "type": "v"
+          },
+          {
+            "h": 1080,
+            "img": "http://wx4.sinaimg.cn/middle/0067QcOPly1i6qu1yv89fj31hc0u0dih.jpg",
+            "video_url": "https://video.weibo.com/show?fid=1034:5226340631379989",
+            "click_rate": 0,
+            "hit_score_new": 0,
+            "doc_score": 0,
+            "hit_score_final": 0,
+            "scheme": "sinaweibo://multimedia?mix_mid=5226341533222124&mix_index=0&multi_paragraph=1&multi_count=1",
+            "img_pid": "0067QcOPly1i6qu1yv89fj31hc0u0dih",
+            "w": 1920,
+            "user_name": "戏箐",
+            "cur_mid": "5226341533222124",
+            "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.1023.1023.50/0067QcOPly8hqhbzb9ohoj30sf0sfq45.jpg?KID=imgbed,tva&Expires=1761637257&ssig=coEx8YXU%2BQ",
+            "vtype": 0,
+            "type": "v"
+          },
+          {
+            "h": 1080,
+            "img": "http://wx4.sinaimg.cn/middle/006hRVUXgy1i6qu0pk85wj31hc0u0qkc.jpg",
+            "video_url": "https://video.weibo.com/show?fid=1034:5226340270407732",
+            "click_rate": 0,
+            "hit_score_new": 0,
+            "doc_score": 0,
+            "hit_score_final": 0,
+            "scheme": "sinaweibo://video/vvs?mid=5226350039531969&multi_paragraph=1&multi_count=2",
+            "img_pid": "006hRVUXgy1i6qu0pk85wj31hc0u0qkc",
+            "w": 1920,
+            "user_name": "声鸣远扬官微",
+            "cur_mid": "5226350039531969",
+            "user_avatar": "https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/006hRVUXly8i6neabufyej30u00u0jtk.jpg?KID=imgbed,tva&Expires=1761637257&ssig=qaZC9Qm%2Bir",
+            "vtype": 3,
+            "type": "v"
+          },
+          {
+            "h": 406,
+            "img": "http://wx4.sinaimg.cn/middle/006gk1lMly1hqeqky8b1ej30k00bajs4.jpg",
+            "video_url": "https://video.weibo.com/show?fid=1034:5041997774258199",
+            "click_rate": 0,
+            "hit_score_new": 78.417969,
+            "doc_score": 1857,
+            "hit_score_final": 53.85078,
+            "scheme": "sinaweibo://video/vvs?mid=5042005496827202&multi_paragraph=1&multi_count=0",
+            "img_pid": "006gk1lMly1hqeqky8b1ej30k00bajs4",
+            "w": 720,
+            "user_name": "娱理",
+            "cur_mid": "5042005496827202",
+            "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.600.600.50/006gk1lMly8h8v4566klaj30go0goq44.jpg?KID=imgbed,tva&Expires=1761637257&ssig=mbqOmatrpT",
+            "vtype": 7,
+            "type": "v"
+          }
+        ]
+      },
+      "profile_image_url": "",
+      "basemodel": "实验组8",
+      "qs_status": 0,
+      "chat_status_stage": 1,
+      "ext_show": {},
+      "reliable_tips": "{\"gold_orange_v_mids\": [\"5226407032783984\", \"5226341533222124\", \"5226424245945812\", \"5226390191604252\", \"5226366664708616\", \"5226386398645023\", \"5226394460097068\", \"5226383802371612\", \"5226372999941032\", \"5226374648565368\", \"5226368264834446\", \"5226374344216143\", \"5226379966417463\", \"5226372559536275\"], \"gold_orange_v_ratio\": \"47%\", \"media_mids\": [\"5226350039531969\", \"5226677392376903\"], \"media_ratio\": \"7%\", \"verified_mids\": [\"5042005496827202\", \"5041951003118823\", \"5226369172638170\", \"5226701446450891\"], \"verified_ratio\": \"13%\", \"normal_mids\": [\"5226408284520549\", \"5226395825082751\", \"5226389381841246\", \"5226387155716315\", \"5226379139615798\", \"5226397201336156\", \"5226404289448443\", \"5226426351749738\", \"5226394774667569\", \"5226402615919325\"], \"normal_ratio\": \"33%\"}",
+      "analysis_time": 1761626526,
+      "mid_list": null,
+      "qs_status_info": "{\"qs_q_status\":0,\"qs_status\":0,\"ab_lab\":{},\"qs_c_status\":8388608,\"qs_r_status\":0,\"qs_u_status\":0}",
+      "scheme": "sinaweibo://cardlist?containerid=100103type%3D225%26q%3D%23%E9%9D%92%E4%BD%A01%E9%80%89%E6%89%8B%E4%B8%BA%E5%81%9A%E9%9F%B3%E4%B9%90%E8%B4%9F%E5%80%BA%E7%99%BE%E4%B8%87%23%26t%3D&extparam=ai_model%3Ddeepseek%26ori_ai_title%3D%E5%8F%82%E8%80%83%E5%8D%9A%E6%96%87%26material_version%3D1761626457",
+      "wenda": {
+        "forward_gen": 0
+      },
+      "page_id": "2329641798abb89658e3a3c84914e1d27cfb53",
+      "version": "2025-10-28 12:40:57.022000-2433",
+      "share_card_multimodal": {
+        "h": 406,
+        "img": "http://wx4.sinaimg.cn/middle/006gk1lMly1hqeqky8b1ej30k00bajs4.jpg",
+        "video_url": "https://video.weibo.com/show?fid=1034:5041997774258199",
+        "click_rate": 0,
+        "hit_score_new": 78.417969,
+        "doc_score": 1857,
+        "hit_score_final": 53.85078,
+        "scheme": "sinaweibo://video/vvs?mid=5042005496827202&multi_paragraph=1&multi_count=0",
+        "img_pid": "006gk1lMly1hqeqky8b1ej30k00bajs4",
+        "w": 720,
+        "user_name": "娱理",
+        "cur_mid": "5042005496827202",
+        "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.600.600.50/006gk1lMly8h8v4566klaj30go0goq44.jpg?KID=imgbed,tva&Expires=1761637257&ssig=mbqOmatrpT",
+        "vtype": 7,
+        "type": "v"
+      },
+      "msg_json": "{}",
+      "short_url": "http://t.cn/AXwg1Vv0",
+      "msg_format": "markdown",
+      "q_attr": {
+        "from_uid": "",
+        "from_request_id": ""
+      },
+      "show_ctrl": {
+        "quote": {}
+      },
+      "unify_md5": "e27f03b5bc7d4fe5ea71044ce8ce6611",
+      "user_info": {},
+      "ab_suffix": "default",
+      "msg": "<think><br><br>嗯，用户想要了解\"青你1选手为做音乐负债百万\"的具体情况。从搜索结果来看，这个事件的主角是参加过《青春有你1》的选手林渝植。<br><br>翻看这些资料，有几个关键信息值得注意。林渝植是广东潮汕人，他在2019年参加《青春有你1》。有趣的是，他参加这个节目其实是被迫的，因为2018年说唱行业受挫导致巡演亏损，需要偿还经纪公司债务。这说明他本质上是个音乐人而非偶像。<br><br>关于负债情况，林渝植为音乐创作投入了全部财产，累计负债超过百万元。他提到\"生活质量可以降低，但希望留下作品\"，这种为艺术牺牲的精神确实令人动容。他的代表作《谁家》双版本播放量破十亿，但却处于\"歌红人不红\"的尴尬境地。<br><br>现在林渝植参加了新节目《声鸣远扬2025》，预选赛就在今天(10月28日)中午12点首播。节目中评委李莎旻子把他的经历类比周杰伦早期奋斗时期，这个评价相当高了。林渝植本人也是周杰伦的粉丝，在节目中激动地回应了这个类比。<br><br>公众对这个事件的反应呈现两极化。有人佩服他的追梦精神，也有人质疑负债的真实性和这种做法的可持续性。事件还引发了关于音乐人生存状况的讨论。<br><br>从时间线上看，这个话题是昨天(10月27日)开始集中爆发的，应该是在为新节目预热。其中资料类结果的信息最为系统和全面。<br><br>考虑到用户可能想了解事件全貌，我将在回复中整理人物背景、负债细节、音乐理念、节目表现和公众反响等方面的信息。同时提醒用户注意节目今天就开始播出了，如果感兴趣可以关注。<br><br></think><br>以下是关于《青春有你1》选手林渝植为音乐负债百万的核心信息整理，结合其背景、负债原因、行业困境及最新动态综合呈现：<br>### 🎤 **一、人物背景与负债原因**<br>1. **身份经历**  <br>   - 林渝植（艺名），广东潮汕籍唱作人，2019年参加《青春有你1》，但节目经历对其而言是“意外插曲”。他透露参加节目实为偿还经纪公司债务，因2018年说唱行业受挫导致巡演亏损，被迫接受公司安排。```wbCustomBlock{\"type\": \"quoted\", \"index\": 5, \"data\": {\"num\": [12, 23], \"version\": 2, \"quote_list\": [{\"name\": \"yuuoking\", \"scheme\": \"sinaweibo://detail?mblogid=5226407032783984\", \"index\": 12, \"label\": \"\"}, {\"name\": \"娱理\", \"scheme\": \"sinaweibo://detail?mblogid=5042005496827202\", \"index\": 23, \"label\": \"\"}]}}```  <br>   - 入行近十年，创作爆款歌曲《谁家》（原唱及改编双版本播放量破**10亿**），但长期处于“歌红人不红”状态。```wbCustomBlock{\"type\": \"quoted\", \"index\": 6, \"data\": {\"num\": [1, 12], \"version\": 2, \"quote_list\": [{\"name\": \"戏箐\", \"scheme\": \"sinaweibo://detail?mblogid=5226341533222124\", \"index\": 1, \"label\": \"大v\"}, {\"name\": \"yuuoking\", \"scheme\": \"sinaweibo://detail?mblogid=5226407032783984\", \"index\": 12, \"label\": \"\"}], \"name\": \"戏箐\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.1023.1023.50/0067QcOPly8hqhbzb9ohoj30sf0sfq45.jpg?KID=imgbed,tva&Expires=1761637257&ssig=coEx8YXU%2BQ\", \"scheme\": \"sinaweibo://detail?mblogid=5226341533222124\", \"vType\": 0}}```  <br><br>2. **负债详情**  <br>   - **负债原因**：为支撑音乐创作（如制作、宣发等），持续投入全部财产，累计负债超百万元。他自愿降低生活标准（如缩减日常开支），甚至尝试开肠粉店维持生计（部分报道提及，但未获本人证实）。```wbCustomBlock{\"type\": \"reliability\", \"data\": {\"tag_name\": \"存疑\", \"tag_normal_color\": \"#EF8B00\", \"tag_dark_color\": \"#D77D00\", \"tips\": \"\\\"开肠粉店维持生计\\\"说法缺乏可靠信源，未获本人证实，属未经证实传闻。\"}}``````wbCustomBlock{\"type\": \"quoted\", \"index\": 8, \"data\": {\"num\": [12], \"version\": 2, \"quote_list\": [{\"name\": \"yuuoking\", \"scheme\": \"sinaweibo://detail?mblogid=5226407032783984\", \"index\": 12, \"label\": \"\"}]}}```  <br>   - **生活态度**：坚持“音乐让我感觉真正活着”，认为人生渺小如“沧海一粟”，需“留下作品证明存在”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 9, \"data\": {\"num\": [2, 13, 22], \"version\": 2, \"quote_list\": [{\"name\": \"游戏搭子酱\", \"scheme\": \"sinaweibo://detail?mblogid=5226424245945812\", \"index\": 13, \"label\": \"大v\"}, {\"name\": \"声鸣远扬官微\", \"scheme\": \"sinaweibo://detail?mblogid=5226350039531969\", \"index\": 2, \"label\": \"\"}, {\"name\": \"林涧客\", \"scheme\": \"sinaweibo://detail?mblogid=5226390191604252\", \"index\": 22, \"label\": \"\"}], \"name\": \"游戏搭子酱\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.1079.1079.50/69eba89dly8i46gojigy6j20tz0u0acd.jpg?KID=imgbed,tva&Expires=1761637257&ssig=9AArkegqis\", \"scheme\": \"sinaweibo://detail?mblogid=5226424245945812\", \"vType\": 0}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5042005496827202&multi_paragraph=1&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.600.600.50/006gk1lMly8h8v4566klaj30go0goq44.jpg?KID=imgbed,tva&Expires=1761637257&ssig=mbqOmatrpT) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">娱理</span><img src=\"http://wx4.sinaimg.cn/middle/006gk1lMly1hqeqky8b1ej30k00bajs4.jpg\" data-width=406 data-height=720></div><div data-type=\"v\" data-scheme=\"sinaweibo://multimedia?mix_mid=5226341533222124&mix_index=0&multi_paragraph=1&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.1023.1023.50/0067QcOPly8hqhbzb9ohoj30sf0sfq45.jpg?KID=imgbed,tva&Expires=1761637257&ssig=coEx8YXU%2BQ) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">戏箐</span><img src=\"http://wx4.sinaimg.cn/middle/0067QcOPly1i6qu1yv89fj31hc0u0dih.jpg\" data-width=1080 data-height=1920></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5226350039531969&multi_paragraph=1&multi_count=2\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/006hRVUXly8i6neabufyej30u00u0jtk.jpg?KID=imgbed,tva&Expires=1761637257&ssig=qaZC9Qm%2Bir) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">声鸣远扬官微</span><img src=\"http://wx4.sinaimg.cn/middle/006hRVUXgy1i6qu0pk85wj31hc0u0qkc.jpg\" data-width=1080 data-height=1920></div></media-block><br>### 🎬 **二、音乐梦想与行业困境**<br>1. **创作信念**  <br>   - 拒绝从事音乐外职业：“我除了做音乐不想做其他事情”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 13, \"data\": {\"num\": [2, 17, 22], \"version\": 2, \"quote_list\": [{\"name\": \"瓶什么指挥我\", \"scheme\": \"sinaweibo://detail?mblogid=5226366664708616\", \"index\": 17, \"label\": \"大v\"}, {\"name\": \"声鸣远扬官微\", \"scheme\": \"sinaweibo://detail?mblogid=5226350039531969\", \"index\": 2, \"label\": \"\"}, {\"name\": \"林涧客\", \"scheme\": \"sinaweibo://detail?mblogid=5226390191604252\", \"index\": 22, \"label\": \"\"}], \"name\": \"瓶什么指挥我\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.912.912.50/a22b436cly8i6qxp4xp3qj20pc0pc0ve.jpg?KID=imgbed,tva&Expires=1761637257&ssig=FcQK0%2Fyl1o\", \"scheme\": \"sinaweibo://detail?mblogid=5226366664708616\", \"vType\": 0}}```  <br>   - 秉承潮汕“冒险拼搏精神”（红头船精神），称“不拼一次怎么知道自己行不行”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 14, \"data\": {\"num\": [12, 13], \"version\": 2, \"quote_list\": [{\"name\": \"yuuoking\", \"scheme\": \"sinaweibo://detail?mblogid=5226407032783984\", \"index\": 12, \"label\": \"\"}, {\"name\": \"游戏搭子酱\", \"scheme\": \"sinaweibo://detail?mblogid=5226424245945812\", \"index\": 13, \"label\": \"\"}]}}```  <br><br>2. **行业现实**  <br>   - 反映音乐人普遍困境：作品传播度（如《谁家》十亿播放）与个人知名度严重失衡。```wbCustomBlock{\"type\": \"quoted\", \"index\": 16, \"data\": {\"num\": [20, 29], \"version\": 2, \"quote_list\": [{\"name\": \"深圳新闻网\", \"scheme\": \"sinaweibo://detail?mblogid=5226677392376903\", \"index\": 20, \"label\": \"大v\"}, {\"name\": \"晕薯啦_\", \"scheme\": \"sinaweibo://detail?mblogid=5226386398645023\", \"index\": 29, \"label\": \"\"}], \"name\": \"深圳新闻网\", \"img\": \"https://tvax1.sinaimg.cn/crop.10.22.172.172.50/70f4e244ly8h8vgzbksu6j205f05fdfp.jpg?KID=imgbed,tva&Expires=1761637257&ssig=YH4WymFqF0\", \"scheme\": \"sinaweibo://detail?mblogid=5226677392376903\", \"vType\": 3}}```  <br>   - 2024年行业波动加剧生存压力，但林渝植的持续亏损细节未获官方披露。```wbCustomBlock{\"type\": \"quoted\", \"index\": 17, \"data\": {\"num\": [23, 25, 26], \"version\": 2, \"quote_list\": [{\"name\": \"娱理\", \"scheme\": \"sinaweibo://detail?mblogid=5042005496827202\", \"index\": 23, \"label\": \"\"}, {\"name\": \"微博综艺\", \"scheme\": \"sinaweibo://detail?mblogid=5041951003118823\", \"index\": 25, \"label\": \"\"}, {\"name\": \"Mei蛙鱼头\", \"scheme\": \"sinaweibo://detail?mblogid=5226394460097068\", \"index\": 26, \"label\": \"\"}]}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5226677392376903&multi_paragraph=2&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.10.22.172.172.50/70f4e244ly8h8vgzbksu6j205f05fdfp.jpg?KID=imgbed,tva&Expires=1761637257&ssig=YH4WymFqF0) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">深圳新闻网</span><img src=\"http://wx2.sinaimg.cn/middle/007YVCm1gy1i6rvnm8b2fj30u014019c.jpg\" data-width=1440 data-height=1080></div></media-block><br>### 📺 **三、新综艺契机与公众反响**<br>1. **加盟《声鸣远扬2025》**  <br>   - 视其为“人生重要转折点”，目标“回归歌手身份，做好华语流行音乐”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 21, \"data\": {\"num\": [2, 13], \"version\": 2, \"quote_list\": [{\"name\": \"声鸣远扬官微\", \"scheme\": \"sinaweibo://detail?mblogid=5226350039531969\", \"index\": 2, \"label\": \"\"}, {\"name\": \"游戏搭子酱\", \"scheme\": \"sinaweibo://detail?mblogid=5226424245945812\", \"index\": 13, \"label\": \"\"}]}}```  <br>   - **节目日程**：  <br>     - 预选赛：**2025年10月28日12:00首播**（即今日）。```wbCustomBlock{\"type\": \"quoted\", \"index\": 23, \"data\": {\"num\": [2, 20], \"version\": 2, \"quote_list\": [{\"name\": \"声鸣远扬官微\", \"scheme\": \"sinaweibo://detail?mblogid=5226350039531969\", \"index\": 2, \"label\": \"\"}, {\"name\": \"深圳新闻网\", \"scheme\": \"sinaweibo://detail?mblogid=5226677392376903\", \"index\": 20, \"label\": \"\"}]}}```  <br>     - 总决赛：11月9日起每周日19:30直播。  <br><br>2. **导师与舆论评价**  <br>   - 评委李莎旻子将其类比周杰伦早期经历：“你现在做的，是当年周杰伦正在做的事”。林渝植激动回应自称为周杰伦粉丝。```wbCustomBlock{\"type\": \"quoted\", \"index\": 26, \"data\": {\"num\": [2, 13, 16], \"version\": 2, \"quote_list\": [{\"name\": \"声鸣远扬官微\", \"scheme\": \"sinaweibo://detail?mblogid=5226350039531969\", \"index\": 2, \"label\": \"\"}, {\"name\": \"游戏搭子酱\", \"scheme\": \"sinaweibo://detail?mblogid=5226424245945812\", \"index\": 13, \"label\": \"\"}, {\"name\": \"玫常苏\", \"scheme\": \"sinaweibo://detail?mblogid=5226369172638170\", \"index\": 16, \"label\": \"\"}]}}```  <br>   - 公众反应两极：  <br>     - 支持者赞其“真·追梦人”，佩服其纯粹热爱；```wbCustomBlock{\"type\": \"quoted\", \"index\": 28, \"data\": {\"num\": [7, 15, 28], \"version\": 2, \"quote_list\": [{\"name\": \"快逃啊·\", \"scheme\": \"sinaweibo://detail?mblogid=5226383802371612\", \"index\": 7, \"label\": \"大v\"}, {\"name\": \"南宋od豆\", \"scheme\": \"sinaweibo://detail?mblogid=5226408284520549\", \"index\": 15, \"label\": \"\"}, {\"name\": \"咕噜小鱼皮\", \"scheme\": \"sinaweibo://detail?mblogid=5226395825082751\", \"index\": 28, \"label\": \"\"}], \"name\": \"快逃啊·\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/c56e1f0cly8i68ujia5y5j20u00u0acy.jpg?KID=imgbed,tva&Expires=1761637257&ssig=W2HKAd29ui\", \"scheme\": \"sinaweibo://detail?mblogid=5226383802371612\", \"vType\": 0}}```  <br>     - 质疑者忧虑负债真实性及行业生存逻辑。```wbCustomBlock{\"type\": \"quoted\", \"index\": 29, \"data\": {\"num\": [18, 19, 24], \"version\": 2, \"quote_list\": [{\"name\": \"假装在改稿\", \"scheme\": \"sinaweibo://detail?mblogid=5226372999941032\", \"index\": 18, \"label\": \"\"}, {\"name\": \"是薛洛伊啊\", \"scheme\": \"sinaweibo://detail?mblogid=5226389381841246\", \"index\": 19, \"label\": \"\"}, {\"name\": \"颈心痣\", \"scheme\": \"sinaweibo://detail?mblogid=5226374648565368\", \"index\": 24, \"label\": \"\"}]}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5226383802371612&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=3&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/c56e1f0cly8i68ujia5y5j20u00u0acy.jpg?KID=imgbed,tva&Expires=1761637257&ssig=W2HKAd29ui) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">快逃啊·</span><img src=\"http://wx2.sinaimg.cn/middle/c56e1f0cly1i6qyz3a5zoj21lw257qv5.jpg\" data-width=2779 data-height=2084></div></media-block><br>### ⚠️ **四、争议与澄清要点**<br>1. **关键争议**  <br>   - “开肠粉店维持生计”等说法缺乏可靠信源，未见于本人及权威报道。  <br>   - 负债金额（如“超百万”）无官方精确披露，部分信息源自节目自述。```wbCustomBlock{\"type\": \"reliability\", \"data\": {\"tag_name\": \"存疑\", \"tag_normal_color\": \"#EF8B00\", \"tag_dark_color\": \"#D77D00\", \"tips\": \"负债金额\\\"超百万\\\"无官方精确披露，仅源自节目自述，可能存在单方面表述风险。\"}}``````wbCustomBlock{\"type\": \"quoted\", \"index\": 34, \"data\": {\"num\": [18, 26], \"version\": 2, \"quote_list\": [{\"name\": \"假装在改稿\", \"scheme\": \"sinaweibo://detail?mblogid=5226372999941032\", \"index\": 18, \"label\": \"\"}, {\"name\": \"Mei蛙鱼头\", \"scheme\": \"sinaweibo://detail?mblogid=5226394460097068\", \"index\": 26, \"label\": \"\"}]}}```  <br><br>2. **行业反思**  <br>   - 事件引发对“艺术价值与生存成本”的公共讨论，凸显音乐产业生态的残酷性。```wbCustomBlock{\"type\": \"quoted\", \"index\": 36, \"data\": {\"num\": [24, 29, 32], \"version\": 2, \"quote_list\": [{\"name\": \"颈心痣\", \"scheme\": \"sinaweibo://detail?mblogid=5226374648565368\", \"index\": 24, \"label\": \"\"}, {\"name\": \"晕薯啦_\", \"scheme\": \"sinaweibo://detail?mblogid=5226386398645023\", \"index\": 29, \"label\": \"\"}, {\"name\": \"追剧日常雪儿\", \"scheme\": \"sinaweibo://detail?mblogid=5226387155716315\", \"index\": 32, \"label\": \"\"}]}}```<br>### 💎 **五、未来展望**<br>- 林渝植强调：“我可以压低生活条件，但必须为音乐拼一次”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 39, \"data\": {\"num\": [2, 22], \"version\": 2, \"quote_list\": [{\"name\": \"声鸣远扬官微\", \"scheme\": \"sinaweibo://detail?mblogid=5226350039531969\", \"index\": 2, \"label\": \"\"}, {\"name\": \"林涧客\", \"scheme\": \"sinaweibo://detail?mblogid=5226390191604252\", \"index\": 22, \"label\": \"\"}]}}```  <br>- 新综艺表现被视作其“破圈”关键，公众期待作品与知名度匹配的转机。```wbCustomBlock{\"type\": \"quoted\", \"index\": 40, \"data\": {\"num\": [24, 28, 30], \"version\": 2, \"quote_list\": [{\"name\": \"颈心痣\", \"scheme\": \"sinaweibo://detail?mblogid=5226374648565368\", \"index\": 24, \"label\": \"\"}, {\"name\": \"咕噜小鱼皮\", \"scheme\": \"sinaweibo://detail?mblogid=5226395825082751\", \"index\": 28, \"label\": \"\"}, {\"name\": \"落小星xt\", \"scheme\": \"sinaweibo://detail?mblogid=5226379139615798\", \"index\": 30, \"label\": \"\"}]}}```  <br><br>> 🌟 **林渝植自白**：  <br>> *“人生太渺小，唯有作品能证明我来过。”*```wbCustomBlock{\"type\": \"quoted\", \"index\": 42, \"data\": {\"num\": [20], \"version\": 2, \"quote_list\": [{\"name\": \"深圳新闻网\", \"scheme\": \"sinaweibo://detail?mblogid=5226677392376903\", \"index\": 20, \"label\": \"\"}]}}```<br>",
+      "loop_times": 200,
+      "share_info": {
+        "unify_md5": "e27f03b5bc7d4fe5ea71044ce8ce6611",
+        "display_name": "#青你1选手为做音乐负债百万#",
+        "status": 3,
+        "url": "http://t.cn/AXwebcWP",
+        "tips": "#青你1选手为做音乐负债百万#的相关内容，来智搜看看",
+        "page_id": "2329641798abb89658e3a3c84914e1d27cfb53"
+      },
+      "sorted_material_list": null,
+      "news_analyze": {},
+      "query": "#青你1选手为做音乐负债百万#",
+      "zs_risk_control": {
+        "think_text_close": 0,
+        "land_button_close": 0
+      },
+      "status": 2,
+      "abtest_info": {
+        "chat_entrance": 1
+      },
+      "uid": "",
+      "cot": 1
+    }
+  },
+  "links": [
+    "sinaweibo://detail?mblogid=5226341533222124",
+    "sinaweibo://detail?mblogid=5226350039531969",
+    "sinaweibo://detail?mblogid=5226368264834446",
+    "historyweibo://5226341533222124",
+    "historyweibo://5226350039531969",
+    "sinaweibo://detail?mblogid=5226374344216143",
+    "sinaweibo://detail?mblogid=5226383802371612",
+    "sinaweibo://detail?mblogid=5226397201336156",
+    "sinaweibo://detail?mblogid=5226404289448443",
+    "sinaweibo://detail?mblogid=5226379966417463",
+    "sinaweibo://detail?mblogid=5226701446450891",
+    "sinaweibo://detail?mblogid=5226407032783984",
+    "sinaweibo://detail?mblogid=5226424245945812",
+    "sinaweibo://detail?mblogid=5226426351749738",
+    "sinaweibo://detail?mblogid=5226408284520549",
+    "sinaweibo://detail?mblogid=5226369172638170",
+    "sinaweibo://detail?mblogid=5226366664708616",
+    "sinaweibo://detail?mblogid=5226372999941032",
+    "sinaweibo://detail?mblogid=5226389381841246",
+    "sinaweibo://detail?mblogid=5226677392376903",
+    "sinaweibo://detail?mblogid=5226394774667569",
+    "sinaweibo://detail?mblogid=5226390191604252",
+    "sinaweibo://detail?mblogid=5042005496827202",
+    "sinaweibo://detail?mblogid=5226374648565368",
+    "sinaweibo://detail?mblogid=5041951003118823",
+    "sinaweibo://detail?mblogid=5226394460097068",
+    "sinaweibo://detail?mblogid=5226372559536275",
+    "sinaweibo://detail?mblogid=5226395825082751",
+    "sinaweibo://detail?mblogid=5226386398645023",
+    "sinaweibo://detail?mblogid=5226379139615798",
+    "sinaweibo://detail?mblogid=5226402615919325",
+    "sinaweibo://detail?mblogid=5226387155716315",
+    "https://3g.china.com/act/ent/11005281/20251027/48940911.html"
+  ],
+  "media": [
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/006gk1lMly1hqeqky8b1ej30k00bajs4.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/006gk1lMly1hqeqky8b1ej30k00bajs4.jpg",
+      "alt": "娱理",
+      "width": 406,
+      "height": 720,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/006gk1lMly1hqeqky8b1ej30k00bajs4.jpg"
+      ],
+      "user": "娱理"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/0067QcOPly1i6qu1yv89fj31hc0u0dih.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/0067QcOPly1i6qu1yv89fj31hc0u0dih.jpg",
+      "alt": "戏箐",
+      "width": 1080,
+      "height": 1920,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/0067QcOPly1i6qu1yv89fj31hc0u0dih.jpg"
+      ],
+      "user": "戏箐"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/006hRVUXgy1i6qu0pk85wj31hc0u0qkc.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/006hRVUXgy1i6qu0pk85wj31hc0u0qkc.jpg",
+      "alt": "声鸣远扬官微",
+      "width": 1080,
+      "height": 1920,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/006hRVUXgy1i6qu0pk85wj31hc0u0qkc.jpg"
+      ],
+      "user": "声鸣远扬官微"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/007YVCm1gy1i6rvnm8b2fj30u014019c.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/007YVCm1gy1i6rvnm8b2fj30u014019c.jpg",
+      "alt": "深圳新闻网",
+      "width": 1440,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/007YVCm1gy1i6rvnm8b2fj30u014019c.jpg"
+      ],
+      "user": "深圳新闻网"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/c56e1f0cly1i6qyz3a5zoj21lw257qv5.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/c56e1f0cly1i6qyz3a5zoj21lw257qv5.jpg",
+      "alt": "快逃啊·",
+      "width": 2779,
+      "height": 2084,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/c56e1f0cly1i6qyz3a5zoj21lw257qv5.jpg"
+      ],
+      "user": "快逃啊·"
+    }
+  ],
+  "html_path": "data/aicard/hourly/2025-10-27/15/1.html"
+}

@@ -1,0 +1,377 @@
+{
+  "meta": {
+    "query": "#关晓彤第二套好辣#",
+    "status_code": 200,
+    "fetched_at": "2025-10-28T20:53:59+08:00",
+    "response": {
+      "status": 2,
+      "model": "deepseek",
+      "query": "#关晓彤第二套好辣#",
+      "query_field": "1",
+      "sorted_material_list": null,
+      "reference_num": 47,
+      "status_stage": 4,
+      "link_list": [
+        "sinaweibo://detail?mblogid=5226704025162011",
+        "sinaweibo://detail?mblogid=5226811413759533",
+        "sinaweibo://detail?mblogid=5226815414340514",
+        "sinaweibo://detail?mblogid=5226711144202697",
+        "sinaweibo://detail?mblogid=5226812771928058",
+        "sinaweibo://detail?mblogid=4964121175916708",
+        "sinaweibo://detail?mblogid=5215638072070227",
+        "sinaweibo://detail?mblogid=5146018757739232",
+        "sinaweibo://detail?mblogid=5226804430509820",
+        "sinaweibo://detail?mblogid=5226812792903135",
+        "sinaweibo://detail?mblogid=5145993684192596",
+        "sinaweibo://detail?mblogid=5146580524991588",
+        "sinaweibo://detail?mblogid=5146188609750569",
+        "sinaweibo://detail?mblogid=5215756801540299",
+        "https://baike.baidu.com/item/%E5%85%B3%E6%99%93%E5%BD%A4/2445153?fromModule=search-result_lemma",
+        "broadsocial_res://",
+        "ctr://",
+        "historyweibo://5226294217805664",
+        "historyweibo://5225212489501176",
+        "sinaweibo://detail?mblogid=5226803759161018",
+        "sinaweibo://detail?mblogid=5226816895975717",
+        "sinaweibo://detail?mblogid=5226813992735357",
+        "sinaweibo://detail?mblogid=5226808233690301",
+        "sinaweibo://detail?mblogid=5226817908903016",
+        "sinaweibo://detail?mblogid=5226819893597415",
+        "sinaweibo://detail?mblogid=5226823470287211",
+        "sinaweibo://detail?mblogid=5226823384040690",
+        "sinaweibo://detail?mblogid=5226823088603782",
+        "sinaweibo://detail?mblogid=5226821689804586",
+        "sinaweibo://detail?mblogid=5226821646028647",
+        "sinaweibo://detail?mblogid=5226820767320728",
+        "sinaweibo://detail?mblogid=5226820517757657",
+        "sinaweibo://detail?mblogid=5226810193220929",
+        "sinaweibo://detail?mblogid=5145999401287859",
+        "sinaweibo://detail?mblogid=5226814962403479",
+        "sinaweibo://detail?mblogid=5193891588342569",
+        "sinaweibo://detail?mblogid=5182264935715266",
+        "sinaweibo://detail?mblogid=5226807303082547",
+        "sinaweibo://detail?mblogid=5146025711637161",
+        "sinaweibo://detail?mblogid=5226809391582088",
+        "sinaweibo://detail?mblogid=5226811663585047",
+        "sinaweibo://detail?mblogid=5193885122825395",
+        "sinaweibo://detail?mblogid=5146000675574819",
+        "sinaweibo://detail?mblogid=5219777972536834",
+        "sinaweibo://detail?mblogid=5217688354032412",
+        "sinaweibo://detail?mblogid=5194083377351389",
+        "sinaweibo://detail?mblogid=5145997034654179",
+        "sinaweibo://detail?mblogid=5146018241580665",
+        "sinaweibo://detail?mblogid=5226785061215205",
+        "sinaweibo://detail?mblogid=5146049212318440",
+        "sinaweibo://detail?mblogid=5146201277597696",
+        "sinaweibo://detail?mblogid=4577825102762937"
+      ],
+      "current_time": 1761656039,
+      "top_quote_list": {},
+      "reliable_tips": "{\"gold_orange_v_mids\": [\"5193891588342569\", \"5226811663585047\", \"5226814962403479\", \"5226813992735357\", \"5226819893597415\", \"5226823470287211\", \"5226810193220929\", \"5226811413759533\", \"5226803759161018\", \"5226817908903016\", \"5226809391582088\", \"5226812771928058\", \"5226804430509820\", \"5226808233690301\", \"5145999401287859\", \"5146025711637161\", \"5226807303082547\", \"5226812792903135\", \"5226816895975717\", \"5226704025162011\", \"5226815414340514\", \"5226711144202697\", \"5215638072070227\", \"5146018757739232\", \"5145993684192596\", \"5146188609750569\", \"5215756801540299\", \"5182264935715266\", \"5193885122825395\", \"5146000675574819\", \"5219777972536834\", \"5217688354032412\", \"5194083377351389\", \"5146018241580665\", \"5146049212318440\"], \"gold_orange_v_ratio\": \"74%\", \"media_mids\": [], \"media_ratio\": \"0%\", \"verified_mids\": [\"4964121175916708\", \"5146580524991588\", \"5145997034654179\", \"5146201277597696\", \"4577825102762937\"], \"verified_ratio\": \"11%\", \"normal_mids\": [\"5226821646028647\", \"5226820767320728\", \"5226823384040690\", \"5226821689804586\", \"5226823088603782\", \"5226820517757657\", \"5226785061215205\"], \"normal_ratio\": \"15%\", \"ref_mid_rank\": {\"5193891588342569\": {\"rank\": 36}, \"5226811663585047\": {\"rank\": 41}, \"4964121175916708\": {\"rank\": 6}, \"5226814962403479\": {\"rank\": 35}, \"5226813992735357\": {\"rank\": 22}, \"5226819893597415\": {\"rank\": 25}, \"5226823470287211\": {\"rank\": 26}, \"5226810193220929\": {\"rank\": 33}, \"5226811413759533\": {\"rank\": 2}, \"5226803759161018\": {\"rank\": 20}, \"5226817908903016\": {\"rank\": 24}, \"5226821646028647\": {\"rank\": 30}, \"5226820767320728\": {\"rank\": 31}, \"5226823384040690\": {\"rank\": 27}, \"5226821689804586\": {\"rank\": 29}, \"5226809391582088\": {\"rank\": 40}, \"5226812771928058\": {\"rank\": 5}, \"5226804430509820\": {\"rank\": 9}, \"5146580524991588\": {\"rank\": 12}, \"5226808233690301\": {\"rank\": 23}, \"5145999401287859\": {\"rank\": 34}, \"5146025711637161\": {\"rank\": 39}, \"5226807303082547\": {\"rank\": 38}, \"5226812792903135\": {\"rank\": 10}, \"5226816895975717\": {\"rank\": 21}, \"5226704025162011\": {\"rank\": 1}, \"5226815414340514\": {\"rank\": 3}, \"5226711144202697\": {\"rank\": 4}, \"5215638072070227\": {\"rank\": 7}, \"5146018757739232\": {\"rank\": 8}, \"5145993684192596\": {\"rank\": 11}, \"5146188609750569\": {\"rank\": 13}, \"5215756801540299\": {\"rank\": 14}, \"5226823088603782\": {\"rank\": 28}, \"5226820517757657\": {\"rank\": 32}, \"5182264935715266\": {\"rank\": 37}, \"5193885122825395\": {\"rank\": 42}, \"5146000675574819\": {\"rank\": 43}, \"5219777972536834\": {\"rank\": 44}, \"5217688354032412\": {\"rank\": 45}, \"5194083377351389\": {\"rank\": 46}, \"5145997034654179\": {\"rank\": 47}, \"5146018241580665\": {\"rank\": 48}, \"5226785061215205\": {\"rank\": 49}, \"5146049212318440\": {\"rank\": 50}, \"5146201277597696\": {\"rank\": 51}, \"4577825102762937\": {\"rank\": 52}}}",
+      "q_attr": {
+        "from_request_id": "",
+        "from_uid": ""
+      },
+      "share_card_multimodal": {
+        "scheme": "sinaweibo://multimedia?mix_mid=5226811413759533&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=1&multi_count=0",
+        "user_name": "圈内老顽童",
+        "type": "p",
+        "img": "http://wx1.sinaimg.cn/middle/006Vkqtply1i6sc3xvdqcj30qo0zkteb.jpg",
+        "video_url": "",
+        "hit_score_final": 0,
+        "click_rate": 0.30003865054387,
+        "hit_score_new": 0,
+        "doc_score": 0,
+        "img_pid": "006Vkqtply1i6sc3xvdqcj30qo0zkteb",
+        "h": 1280,
+        "user_avatar": "https://tvax4.sinaimg.cn/crop.0.0.600.600.50/006Vkqtply8hb415cz0tcj30go0go0uk.jpg?KID=imgbed,tva&Expires=1761666145&ssig=zdMIqNGnXs",
+        "w": 960,
+        "vtype": 0,
+        "cur_mid": "5226811413759533"
+      },
+      "basemodel": "实验组8",
+      "msg_json": "{}",
+      "analysis_time": 1761655538,
+      "uid": "",
+      "ab_suffix": "default",
+      "show_ctrl": {
+        "quote": {}
+      },
+      "abtest_info": {
+        "chat_entrance": 1
+      },
+      "qs_status_info": "{\"qs_u_status\":0,\"ab_lab\":{},\"qs_status\":0,\"qs_q_status\":0,\"qs_c_status\":8388608,\"qs_r_status\":0}",
+      "share_text": "#关晓彤第二套好辣#的相关内容，来智搜看看",
+      "loop_times": 200,
+      "share_info": {
+        "unify_md5": "3ef2b6e900b025702c64709052f150c3",
+        "url": "http://t.cn/AXAhCgyA",
+        "status": 3,
+        "tips": "#关晓彤第二套好辣#的相关内容，来智搜看看",
+        "page_id": "2329645db222dd6fa0ec77210cd4d3fe4c8208",
+        "display_name": "#关晓彤第二套好辣#"
+      },
+      "ext_show": {},
+      "msg": "<think><br><br>嗯，用户查询的是\"关晓彤第二套好辣\"，我需要整理关于这个话题的信息。首先，我会检查搜索结果中的资料，特别是有关2025年10月28日ELLE风尚大典的信息，因为大部分相关内容都集中在这个时间点。<br><br>从结果2、3、5、9、10等来看，关晓彤在这次活动中的第二套造型引发了热议，话题是#关晓彤第二套好辣#。用户们普遍认为这套黑色西装套装搭配短裙非常抢眼，突出她的长腿和腰线。结果17、41提到服装品牌是Peet Dullaert 2025秋冬高定，设计为V领收腰剪裁，风格偏向暗黑辣妹风。结果36、42补充说这套其实是全球首穿，但结果46指出首穿发生在2025年7月的欧米茄活动，这里需要确认时间点。不过，用户查询的重点是10月28日的造型，所以这点可能只是背景信息。<br><br>关于造型的反响，结果20、21、22等认证账号称赞造型\"御姐辣妹\"、\"大长腿抢镜\"，而结果33提到肩颈线条和酷辣气质。结果17的总结提到网友创作了大量二创内容，比如\"暂停键式美颜\"等梗，说明话题热度很高。同时，结果5和9提到这次造型成功扭转了之前3月品质盛典翻车的负面评价，当时被嘲\"乡村风\"，现在则是\"造型师终于正常发挥\"。<br><br>关晓彤的事业动态也与此相关。结果10、38提到她同期有热播剧《小巷人家》和综艺《王牌9》，角色\"王晓花\"的双马尾造型与此次辣妹风形成反差，凸显可塑性。结果38还提到时尚资源提升，2025年已解锁多套高定。<br><br>需要留意结果6和35中的造型描述，但结果6的日期是2023年，可能不相关，而结果35的泳池边场景与活动设置吻合。争议点方面，结果17提到少数评论认为上半身平淡，但未成主流，整体评价积极。<br><br>最后，检查时效性：大部分结果集中在2025年10月28日当天，符合用户查询的即时性。结果15的百科是剧中角色信息，无关；结果18、19关联其他话题，可不纳入。综合看，核心信息来自认证账号和大V的优质结果，可信度高。<br><br>接下来，我会在回复中整理这些要点，包括造型细节、反响、背景故事和事业关联，确保引用准确，比如支持服装描述，对比过往争议，补充事业动态。避免重复引用，并突出\"辣\"的核心感受。<br><br></think><br>关晓彤在**2025年10月28日ELLE风尚大典**的第二套造型引发全网热议，话题#关晓彤第二套好辣#单日阅读量激增，综合关键信息如下：<br>### 🔥 **造型核心亮点**<br>1. **设计风格与细节**  <br>   - **服装**：身穿**Peet Dullaert 2025秋冬高级定制黑色西装套装**，V领收腰剪裁搭配黑色吊带短裙，突出肩颈线条与腿部优势。```wbCustomBlock{\"type\": \"quoted\", \"index\": 4, \"data\": {\"num\": [36, 41], \"version\": 2, \"quote_list\": [{\"name\": \"封面小主\", \"scheme\": \"sinaweibo://detail?mblogid=5193891588342569\", \"index\": 36, \"label\": \"大v\"}, {\"name\": \"雪飘过Miley\", \"scheme\": \"sinaweibo://detail?mblogid=5226811663585047\", \"index\": 41, \"label\": \"\"}], \"name\": \"封面小主\", \"img\": \"https://tva1.sinaimg.cn/crop.0.0.750.750.50/005XdLa2jw8ezjdnqazs3j30ku0kugnw.jpg?KID=imgbed,tva&Expires=1761666145&ssig=zK57ScZLlM\", \"scheme\": \"sinaweibo://detail?mblogid=5193891588342569\", \"vType\": 0}}```  <br>   - **妆发**：大波浪卷发强化冷艳气场，暗夜光影背景营造“酷飒摩登”氛围。```wbCustomBlock{\"type\": \"quoted\", \"index\": 5, \"data\": {\"num\": [6, 35, 41], \"version\": 2, \"quote_list\": [{\"name\": \"柳飘飘有点飘\", \"scheme\": \"sinaweibo://detail?mblogid=5226814962403479\", \"index\": 35, \"label\": \"大v\"}, {\"name\": \"关晓彤工作室\", \"scheme\": \"sinaweibo://detail?mblogid=4964121175916708\", \"index\": 6, \"label\": \"\"}, {\"name\": \"雪飘过Miley\", \"scheme\": \"sinaweibo://detail?mblogid=5226811663585047\", \"index\": 41, \"label\": \"\"}], \"name\": \"柳飘飘有点飘\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.996.996.50/e8601a4cly8ggdrka4lokj20ro0ro75p.jpg?KID=imgbed,tva&Expires=1761666145&ssig=CwlF3Jl3IU\", \"scheme\": \"sinaweibo://detail?mblogid=5226814962403479\", \"vType\": 0}}```<br><br>2. **视觉冲击力**  <br>   - **身材展现**：紧身设计凸显逆天长腿与腰线，被赞“辣度满分”“脖子以下全是腿”，网友形容为“暗夜女神”“行走的芳心纵火犯”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 7, \"data\": {\"num\": [22, 25, 26, 33], \"version\": 2, \"quote_list\": [{\"name\": \"啵啵奶彤\", \"scheme\": \"sinaweibo://detail?mblogid=5226810193220929\", \"index\": 33, \"label\": \"大v\"}, {\"name\": \"七巷拾香\", \"scheme\": \"sinaweibo://detail?mblogid=5226813992735357\", \"index\": 22, \"label\": \"\"}, {\"name\": \"井野绪美\", \"scheme\": \"sinaweibo://detail?mblogid=5226819893597415\", \"index\": 25, \"label\": \"\"}, {\"name\": \"圈圈正能量光\", \"scheme\": \"sinaweibo://detail?mblogid=5226823470287211\", \"index\": 26, \"label\": \"\"}], \"name\": \"啵啵奶彤\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/007gLOM1ly8i5lo16878ij30u00u0n0e.jpg?KID=imgbed,tva&Expires=1761666145&ssig=kZrCCGEQz2\", \"scheme\": \"sinaweibo://detail?mblogid=5226810193220929\", \"vType\": 0}}```  <br>   - **风格突破**：与首套优雅白裙形成反差，从“千金公主”秒变“暗夜酷girl”，凸显可塑性。```wbCustomBlock{\"type\": \"quoted\", \"index\": 8, \"data\": {\"num\": [2, 20, 24], \"version\": 2, \"quote_list\": [{\"name\": \"圈内老顽童\", \"scheme\": \"sinaweibo://detail?mblogid=5226811413759533\", \"index\": 2, \"label\": \"大v\"}, {\"name\": \"娱乐小饭\", \"scheme\": \"sinaweibo://detail?mblogid=5226803759161018\", \"index\": 20, \"label\": \"\"}, {\"name\": \"错位指节\", \"scheme\": \"sinaweibo://detail?mblogid=5226817908903016\", \"index\": 24, \"label\": \"\"}], \"name\": \"圈内老顽童\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.600.600.50/006Vkqtply8hb415cz0tcj30go0go0uk.jpg?KID=imgbed,tva&Expires=1761666145&ssig=zdMIqNGnXs\", \"scheme\": \"sinaweibo://detail?mblogid=5226811413759533\", \"vType\": 0}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5226811413759533&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=1&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.600.600.50/006Vkqtply8hb415cz0tcj30go0go0uk.jpg?KID=imgbed,tva&Expires=1761666145&ssig=zdMIqNGnXs) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">圈内老顽童</span><img src=\"http://wx1.sinaimg.cn/middle/006Vkqtply1i6sc3xvdqcj30qo0zkteb.jpg\" data-width=1280 data-height=960></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=4964121175916708&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=1&multi_count=1\"><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.512.512.50/006EPQr0ly8i3p4nagixvj30e80e80t4.jpg?KID=imgbed,tva&Expires=1761666145&ssig=mlBtmYNwAt) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">关晓彤工作室</span><img src=\"http://wx3.sinaimg.cn/middle/006EPQr0ly1hjiaj7h3xnj33gg56o7wk.jpg\" data-width=6720 data-height=4480></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5226811663585047&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=1&multi_count=2\"><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.996.996.50/56c899a8ly8gjj4bd2pvlj20ro0ro40t.jpg?KID=imgbed,tva&Expires=1761666145&ssig=tgL%2FUgh798) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">雪飘过Miley</span><img src=\"http://wx4.sinaimg.cn/middle/56c899a8ly1i6sc29151cj21jk15o4kg.jpg\" data-width=1500 data-height=2000></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5226814962403479&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=3\"><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.996.996.50/e8601a4cly8ggdrka4lokj20ro0ro75p.jpg?KID=imgbed,tva&Expires=1761666145&ssig=CwlF3Jl3IU) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">柳飘飘有点飘</span><img src=\"http://wx3.sinaimg.cn/middle/e8601a4cly1i6sd6yybp7j20u014044q.jpg\" data-width=1440 data-height=1080></div></media-block><br>### 💥 **舆论反响与话题热度**<br>1. **全网玩梗与二创**  <br>   - 话题衍生“暂停键式美颜”“老公级飒感”等热梗，大量二创内容（表情包、剪辑视频）刷屏。```wbCustomBlock{\"type\": \"quoted\", \"index\": 11, \"data\": {\"num\": [30, 31], \"version\": 2, \"quote_list\": [{\"name\": \"彤彤的小事业\", \"scheme\": \"sinaweibo://detail?mblogid=5226821646028647\", \"index\": 30, \"label\": \"\"}, {\"name\": \"d断章bolz_x\", \"scheme\": \"sinaweibo://detail?mblogid=5226820767320728\", \"index\": 31, \"label\": \"\"}]}}```  <br>   - 粉丝直呼“姐姐用眼神杀我”“老婆辣晕了”，普通账号与认证账号齐赞“造型师终于和解”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 12, \"data\": {\"num\": [27, 29, 40], \"version\": 2, \"quote_list\": [{\"name\": \"波T比波T比\", \"scheme\": \"sinaweibo://detail?mblogid=5226823384040690\", \"index\": 27, \"label\": \"\"}, {\"name\": \"萌妹爱吃香菜\", \"scheme\": \"sinaweibo://detail?mblogid=5226821689804586\", \"index\": 29, \"label\": \"\"}, {\"name\": \"Data达瓦里氏\", \"scheme\": \"sinaweibo://detail?mblogid=5226809391582088\", \"index\": 40, \"label\": \"\"}]}}```<br><br>2. **口碑逆袭关键**  <br>   - **终结造型争议**：此前2025年3月“品质盛典”翻车（红裙配黑手套被嘲“火锅底料”、波点西装遭批“乡村风”），本次两套造型均获好评，被视作“审美逆袭”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 14, \"data\": {\"num\": [5, 9, 12, 23, 34, 39], \"version\": 2, \"quote_list\": [{\"name\": \"娱乐圈外汉\", \"scheme\": \"sinaweibo://detail?mblogid=5145999401287859\", \"index\": 34, \"label\": \"大v\"}, {\"name\": \"甜宝宝C\", \"scheme\": \"sinaweibo://detail?mblogid=5226812771928058\", \"index\": 5, \"label\": \"\"}, {\"name\": \"心绪涩愈\", \"scheme\": \"sinaweibo://detail?mblogid=5226804430509820\", \"index\": 9, \"label\": \"\"}, {\"name\": \"枫哥网事\", \"scheme\": \"sinaweibo://detail?mblogid=5146580524991588\", \"index\": 12, \"label\": \"\"}, {\"name\": \"悲情番\", \"scheme\": \"sinaweibo://detail?mblogid=5226808233690301\", \"index\": 23, \"label\": \"\"}, {\"name\": \"奶糕啵啵\", \"scheme\": \"sinaweibo://detail?mblogid=5146025711637161\", \"index\": 39, \"label\": \"\"}], \"name\": \"娱乐圈外汉\", \"img\": \"https://tva1.sinaimg.cn/crop.0.0.750.750.50/6decce9fjw8evqwxuve23j20ku0kuta0.jpg?KID=imgbed,tva&Expires=1761666145&ssig=Jmv3nLscg4\", \"scheme\": \"sinaweibo://detail?mblogid=5145999401287859\", \"vType\": 0}}```  <br>   - **专业认可**：Peet Dullaert高定全球首穿，2025年累计解锁9套Elie Saab高定，时尚资源进阶。```wbCustomBlock{\"type\": \"quoted\", \"index\": 15, \"data\": {\"num\": [36, 38], \"version\": 2, \"quote_list\": [{\"name\": \"信盒\", \"scheme\": \"sinaweibo://detail?mblogid=5226807303082547\", \"index\": 38, \"label\": \"大v\"}, {\"name\": \"封面小主\", \"scheme\": \"sinaweibo://detail?mblogid=5193891588342569\", \"index\": 36, \"label\": \"\"}], \"name\": \"信盒\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/006S7UZjly8i6qzz8bq8bj30u00u00tv.jpg?KID=imgbed,tva&Expires=1761666145&ssig=b%2BKZQOPA%2Fg\", \"scheme\": \"sinaweibo://detail?mblogid=5226807303082547\", \"vType\": 0}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5226804430509820&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=2&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/008uNsEEly8i6q5lzdj4bj30u00u0abc.jpg?KID=imgbed,tva&Expires=1761666145&ssig=OoGZYl8Y2v) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">心绪涩愈</span><img src=\"http://wx3.sinaimg.cn/middle/008uNsEEly1i6sbaiaeyuj33ji3jix6q.jpg\" data-width=4590 data-height=4590></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5226807303082547&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=2&multi_count=1\"><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/006S7UZjly8i6qzz8bq8bj30u00u00tv.jpg?KID=imgbed,tva&Expires=1761666145&ssig=b%2BKZQOPA%2Fg) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">信盒</span><img src=\"http://wx4.sinaimg.cn/middle/006S7UZjgy1i6sbkkcwiij33af4dwb2c.jpg\" data-width=5684 data-height=4263></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5226809391582088&from=search&content_show=1&mix_index=2&hide_index=1&multi_paragraph=2&multi_count=2\"><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/6d464471ly8h2nc45kb04j20u00u0did.jpg?KID=imgbed,tva&Expires=1761666145&ssig=KdSufwvL5d) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">Data达瓦里氏</span><img src=\"http://wx3.sinaimg.cn/middle/6d464471gy1i6sbvmoqqxj21jk2237wh.jpg\" data-width=2667 data-height=2000></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5226812771928058&multi_paragraph=2&multi_count=3\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/815f9fcdly8i1pf88sst6j20u00u0q4j.jpg?KID=imgbed,tva&Expires=1761666145&ssig=iQjDYciakF) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">甜宝宝C</span><img src=\"http://wx1.sinaimg.cn/middle/815f9fcdgy1i6sc9h4sbsj21hc0u1gyh.jpg\" data-width=1081 data-height=1920></div></media-block><br>### 🌟 **关联动态与事业加持**<br>1. **综艺与剧集联动**  <br>   - 同期《王牌对王牌9》中“王晓花”双马尾复古造型（10月24日播出）登热搜，与本次辣妹风形成“甜辣反差”，强化“一人千面”标签。```wbCustomBlock{\"type\": \"quoted\", \"index\": 18, \"data\": {\"num\": [10, 24], \"version\": 2, \"quote_list\": [{\"name\": \"错位指节\", \"scheme\": \"sinaweibo://detail?mblogid=5226817908903016\", \"index\": 24, \"label\": \"大v\"}, {\"name\": \"萝卜萝卜大萝卜xy\", \"scheme\": \"sinaweibo://detail?mblogid=5226812792903135\", \"index\": 10, \"label\": \"\"}], \"name\": \"错位指节\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/007cKEKAly8i6lage8a80j30u00u0abi.jpg?KID=imgbed,tva&Expires=1761666145&ssig=Gfs9IBIg6Y\", \"scheme\": \"sinaweibo://detail?mblogid=5226817908903016\", \"vType\": 0}}```  <br>   - 待播剧《耀眼》因台词“你屁股好翘”未播先热，与此次“辣系造型”形成话题呼应。<br><br>2. **公众形象升级**  <br>   - 打破“造型翻车”刻板印象，奠定“红毯稳定发挥”新认知。```wbCustomBlock{\"type\": \"quoted\", \"index\": 21, \"data\": {\"num\": [20, 21, 40], \"version\": 2, \"quote_list\": [{\"name\": \"娱乐小饭\", \"scheme\": \"sinaweibo://detail?mblogid=5226803759161018\", \"index\": 20, \"label\": \"\"}, {\"name\": \"易遇岛屿\", \"scheme\": \"sinaweibo://detail?mblogid=5226816895975717\", \"index\": 21, \"label\": \"\"}, {\"name\": \"Data达瓦里氏\", \"scheme\": \"sinaweibo://detail?mblogid=5226809391582088\", \"index\": 40, \"label\": \"\"}]}}```  <br>   - 网友评价：“关晓彤的权威后知后觉——她可以驾驭任何风格！”```wbCustomBlock{\"type\": \"quoted\", \"index\": 22, \"data\": {\"num\": [10], \"version\": 2, \"quote_list\": [{\"name\": \"萝卜萝卜大萝卜xy\", \"scheme\": \"sinaweibo://detail?mblogid=5226812792903135\", \"index\": 10, \"label\": \"\"}]}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5226812792903135&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=3&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/007rqaVZly8i604i29xrhj30u00u00xt.jpg?KID=imgbed,tva&Expires=1761666145&ssig=wEFmZoSEzk) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">萝卜萝卜大萝卜xy</span><img src=\"http://wx2.sinaimg.cn/middle/007rqaVZgy1i6sc8y16t2j310u0rm1ho.jpg\" data-width=994 data-height=1326></div></media-block><br>### ⚠️ **少数争议点**  <br>个别评论认为“上半身设计较平淡，仅腿部抢眼”，但未成主流观点，整体以正向反馈为主。<br><br>---<br><br>关晓彤此次造型以**暗黑辣妹风**为核心，通过高定加持、极致身材展现及氛围感营造，成功引爆话题。其表现不仅扭转了长期造型争议，更强化了时尚可塑性标签，为后续《耀眼》等作品的风格突破奠定期待。```wbCustomBlock{\"type\": \"quoted\", \"index\": 25, \"data\": {\"num\": [38], \"version\": 2, \"quote_list\": [{\"name\": \"信盒\", \"scheme\": \"sinaweibo://detail?mblogid=5226807303082547\", \"index\": 38, \"label\": \"\"}]}}```<br>",
+      "card_multimodal": {
+        "data": [
+          {
+            "scheme": "sinaweibo://multimedia?mix_mid=5226811413759533&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=1&multi_count=0",
+            "user_name": "圈内老顽童",
+            "type": "p",
+            "img": "http://wx1.sinaimg.cn/middle/006Vkqtply1i6sc3xvdqcj30qo0zkteb.jpg",
+            "video_url": "",
+            "hit_score_final": 0,
+            "click_rate": 0.30003865054387,
+            "hit_score_new": 0,
+            "doc_score": 0,
+            "img_pid": "006Vkqtply1i6sc3xvdqcj30qo0zkteb",
+            "h": 1280,
+            "user_avatar": "https://tvax4.sinaimg.cn/crop.0.0.600.600.50/006Vkqtply8hb415cz0tcj30go0go0uk.jpg?KID=imgbed,tva&Expires=1761666145&ssig=zdMIqNGnXs",
+            "w": 960,
+            "vtype": 0,
+            "cur_mid": "5226811413759533"
+          },
+          {
+            "scheme": "sinaweibo://multimedia?mix_mid=4964121175916708&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=1&multi_count=1",
+            "user_name": "关晓彤工作室",
+            "type": "p",
+            "img": "http://wx3.sinaimg.cn/middle/006EPQr0ly1hjiaj7h3xnj33gg56o7wk.jpg",
+            "video_url": "",
+            "hit_score_final": 85.638283,
+            "click_rate": 0.26388888888889,
+            "hit_score_new": 98.730469,
+            "doc_score": 6432,
+            "img_pid": "006EPQr0ly1hjiaj7h3xnj33gg56o7wk",
+            "h": 6720,
+            "user_avatar": "https://tvax4.sinaimg.cn/crop.0.0.512.512.50/006EPQr0ly8i3p4nagixvj30e80e80t4.jpg?KID=imgbed,tva&Expires=1761666145&ssig=mlBtmYNwAt",
+            "w": 4480,
+            "vtype": 7,
+            "cur_mid": "4964121175916708"
+          },
+          {
+            "scheme": "sinaweibo://multimedia?mix_mid=5226811663585047&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=1&multi_count=2",
+            "user_name": "雪飘过Miley",
+            "type": "p",
+            "img": "http://wx4.sinaimg.cn/middle/56c899a8ly1i6sc29151cj21jk15o4kg.jpg",
+            "video_url": "",
+            "hit_score_final": 84.614067,
+            "click_rate": 0.075471698113208,
+            "hit_score_new": 99.023438,
+            "doc_score": 4935,
+            "img_pid": "56c899a8ly1i6sc29151cj21jk15o4kg",
+            "h": 1500,
+            "user_avatar": "https://tvax1.sinaimg.cn/crop.0.0.996.996.50/56c899a8ly8gjj4bd2pvlj20ro0ro40t.jpg?KID=imgbed,tva&Expires=1761666145&ssig=tgL%2FUgh798",
+            "w": 2000,
+            "vtype": 0,
+            "cur_mid": "5226811663585047"
+          },
+          {
+            "scheme": "sinaweibo://multimedia?mix_mid=5226811413759533&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=1&multi_count=0",
+            "user_name": "圈内老顽童",
+            "type": "p",
+            "img": "http://wx1.sinaimg.cn/middle/006Vkqtply1i6sc3xvdqcj30qo0zkteb.jpg",
+            "video_url": "",
+            "hit_score_final": 0,
+            "click_rate": 0.30003865054387,
+            "hit_score_new": 0,
+            "doc_score": 0,
+            "img_pid": "006Vkqtply1i6sc3xvdqcj30qo0zkteb",
+            "h": 1280,
+            "user_avatar": "https://tvax4.sinaimg.cn/crop.0.0.600.600.50/006Vkqtply8hb415cz0tcj30go0go0uk.jpg?KID=imgbed,tva&Expires=1761666145&ssig=zdMIqNGnXs",
+            "w": 960,
+            "vtype": 0,
+            "cur_mid": "5226811413759533"
+          }
+        ],
+        "type": "mediablock"
+      },
+      "wenda": {
+        "forward_gen": 0
+      },
+      "news_analyze": {},
+      "mid_list": null,
+      "chat_status_stage": 1,
+      "query_category": "",
+      "msg_format": "markdown",
+      "page_id": "2329645db222dd6fa0ec77210cd4d3fe4c8208",
+      "unify_md5": "3ef2b6e900b025702c64709052f150c3",
+      "short_url": "http://t.cn/AXAhG5Cs",
+      "version": "2025-10-28 20:42:25.015000-1734",
+      "qs_status": 0,
+      "user_info": {},
+      "profile_image_url": "",
+      "zs_risk_control": {
+        "think_text_close": 0,
+        "land_button_close": 0
+      },
+      "cot": 1,
+      "scheme": "sinaweibo://cardlist?containerid=100103type%3D225%26q%3D%23%E5%85%B3%E6%99%93%E5%BD%A4%E7%AC%AC%E4%BA%8C%E5%A5%97%E5%A5%BD%E8%BE%A3%23%26t%3D&extparam=ai_model%3Ddeepseek%26ori_ai_title%3D%E5%8F%82%E8%80%83%E5%8D%9A%E6%96%87%26material_version%3D1761655345"
+    }
+  },
+  "links": [
+    "sinaweibo://detail?mblogid=5226704025162011",
+    "sinaweibo://detail?mblogid=5226811413759533",
+    "sinaweibo://detail?mblogid=5226815414340514",
+    "sinaweibo://detail?mblogid=5226711144202697",
+    "sinaweibo://detail?mblogid=5226812771928058",
+    "sinaweibo://detail?mblogid=4964121175916708",
+    "sinaweibo://detail?mblogid=5215638072070227",
+    "sinaweibo://detail?mblogid=5146018757739232",
+    "sinaweibo://detail?mblogid=5226804430509820",
+    "sinaweibo://detail?mblogid=5226812792903135",
+    "sinaweibo://detail?mblogid=5145993684192596",
+    "sinaweibo://detail?mblogid=5146580524991588",
+    "sinaweibo://detail?mblogid=5146188609750569",
+    "sinaweibo://detail?mblogid=5215756801540299",
+    "https://baike.baidu.com/item/%E5%85%B3%E6%99%93%E5%BD%A4/2445153?fromModule=search-result_lemma",
+    "broadsocial_res://",
+    "ctr://",
+    "historyweibo://5226294217805664",
+    "historyweibo://5225212489501176",
+    "sinaweibo://detail?mblogid=5226803759161018",
+    "sinaweibo://detail?mblogid=5226816895975717",
+    "sinaweibo://detail?mblogid=5226813992735357",
+    "sinaweibo://detail?mblogid=5226808233690301",
+    "sinaweibo://detail?mblogid=5226817908903016",
+    "sinaweibo://detail?mblogid=5226819893597415",
+    "sinaweibo://detail?mblogid=5226823470287211",
+    "sinaweibo://detail?mblogid=5226823384040690",
+    "sinaweibo://detail?mblogid=5226823088603782",
+    "sinaweibo://detail?mblogid=5226821689804586",
+    "sinaweibo://detail?mblogid=5226821646028647",
+    "sinaweibo://detail?mblogid=5226820767320728",
+    "sinaweibo://detail?mblogid=5226820517757657",
+    "sinaweibo://detail?mblogid=5226810193220929",
+    "sinaweibo://detail?mblogid=5145999401287859",
+    "sinaweibo://detail?mblogid=5226814962403479",
+    "sinaweibo://detail?mblogid=5193891588342569",
+    "sinaweibo://detail?mblogid=5182264935715266",
+    "sinaweibo://detail?mblogid=5226807303082547",
+    "sinaweibo://detail?mblogid=5146025711637161",
+    "sinaweibo://detail?mblogid=5226809391582088",
+    "sinaweibo://detail?mblogid=5226811663585047",
+    "sinaweibo://detail?mblogid=5193885122825395",
+    "sinaweibo://detail?mblogid=5146000675574819",
+    "sinaweibo://detail?mblogid=5219777972536834",
+    "sinaweibo://detail?mblogid=5217688354032412",
+    "sinaweibo://detail?mblogid=5194083377351389",
+    "sinaweibo://detail?mblogid=5145997034654179",
+    "sinaweibo://detail?mblogid=5146018241580665",
+    "sinaweibo://detail?mblogid=5226785061215205",
+    "sinaweibo://detail?mblogid=5146049212318440",
+    "sinaweibo://detail?mblogid=5146201277597696",
+    "sinaweibo://detail?mblogid=4577825102762937"
+  ],
+  "media": [
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/006Vkqtply1i6sc3xvdqcj30qo0zkteb.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/006Vkqtply1i6sc3xvdqcj30qo0zkteb.jpg",
+      "alt": "圈内老顽童",
+      "width": 1280,
+      "height": 960,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/006Vkqtply1i6sc3xvdqcj30qo0zkteb.jpg"
+      ],
+      "user": "圈内老顽童"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/006EPQr0ly1hjiaj7h3xnj33gg56o7wk.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/006EPQr0ly1hjiaj7h3xnj33gg56o7wk.jpg",
+      "alt": "关晓彤工作室",
+      "width": 6720,
+      "height": 4480,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/006EPQr0ly1hjiaj7h3xnj33gg56o7wk.jpg"
+      ],
+      "user": "关晓彤工作室"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/56c899a8ly1i6sc29151cj21jk15o4kg.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/56c899a8ly1i6sc29151cj21jk15o4kg.jpg",
+      "alt": "雪飘过Miley",
+      "width": 1500,
+      "height": 2000,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/56c899a8ly1i6sc29151cj21jk15o4kg.jpg"
+      ],
+      "user": "雪飘过Miley"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/e8601a4cly1i6sd6yybp7j20u014044q.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/e8601a4cly1i6sd6yybp7j20u014044q.jpg",
+      "alt": "柳飘飘有点飘",
+      "width": 1440,
+      "height": 1080,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx4.sinaimg.cn/large/e8601a4cly1i6sd6yybp7j20u014044q.jpg"
+      ],
+      "user": "柳飘飘有点飘"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/008uNsEEly1i6sbaiaeyuj33ji3jix6q.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/008uNsEEly1i6sbaiaeyuj33ji3jix6q.jpg",
+      "alt": "心绪涩愈",
+      "width": 4590,
+      "height": 4590,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/008uNsEEly1i6sbaiaeyuj33ji3jix6q.jpg"
+      ],
+      "user": "心绪涩愈"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/006S7UZjgy1i6sbkkcwiij33af4dwb2c.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/006S7UZjgy1i6sbkkcwiij33af4dwb2c.jpg",
+      "alt": "信盒",
+      "width": 5684,
+      "height": 4263,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/006S7UZjgy1i6sbkkcwiij33af4dwb2c.jpg"
+      ],
+      "user": "信盒"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/6d464471gy1i6sbvmoqqxj21jk2237wh.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/6d464471gy1i6sbvmoqqxj21jk2237wh.jpg",
+      "alt": "Data达瓦里氏",
+      "width": 2667,
+      "height": 2000,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/6d464471gy1i6sbvmoqqxj21jk2237wh.jpg"
+      ],
+      "user": "Data达瓦里氏"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/815f9fcdgy1i6sc9h4sbsj21hc0u1gyh.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/815f9fcdgy1i6sc9h4sbsj21hc0u1gyh.jpg",
+      "alt": "甜宝宝C",
+      "width": 1081,
+      "height": 1920,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx4.sinaimg.cn/large/815f9fcdgy1i6sc9h4sbsj21hc0u1gyh.jpg"
+      ],
+      "user": "甜宝宝C"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/007rqaVZgy1i6sc8y16t2j310u0rm1ho.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/007rqaVZgy1i6sc8y16t2j310u0rm1ho.jpg",
+      "alt": "萝卜萝卜大萝卜xy",
+      "width": 994,
+      "height": 1326,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/007rqaVZgy1i6sc8y16t2j310u0rm1ho.jpg"
+      ],
+      "user": "萝卜萝卜大萝卜xy"
+    }
+  ],
+  "html_path": "data/aicard/hourly/2025-10-28/20/topic-3ef2b6e9.html"
+}

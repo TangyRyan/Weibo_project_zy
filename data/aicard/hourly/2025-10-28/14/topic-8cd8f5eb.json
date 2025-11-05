@@ -1,0 +1,359 @@
+{
+  "meta": {
+    "query": "#柚子要摔一下才好吃#",
+    "status_code": 200,
+    "fetched_at": "2025-10-28T17:48:44+08:00",
+    "response": {
+      "abtest_info": {
+        "chat_entrance": 1
+      },
+      "status": 2,
+      "uid": "",
+      "zs_risk_control": {
+        "think_text_close": 0,
+        "land_button_close": 0
+      },
+      "model": "deepseek",
+      "card_multimodal": {
+        "data": [
+          {
+            "h": 1472,
+            "scheme": "sinaweibo://multimedia?mix_mid=5226423750232298&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=0",
+            "user_name": "才知道",
+            "cur_mid": "5226423750232298",
+            "w": 1104,
+            "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.600.600.50/9b696272ly8gznl5yu9bqj20go0goq3f.jpg?KID=imgbed,tva&Expires=1761654621&ssig=7Uyg43kzVw",
+            "video_url": "",
+            "type": "p",
+            "click_rate": 0.26794528577709,
+            "hit_score_new": 0,
+            "hit_score_final": 0,
+            "doc_score": 0,
+            "img_pid": "9b696272gy1i6r3k8copij20uo14wwl0",
+            "vtype": 0,
+            "img": "http://wx2.sinaimg.cn/middle/9b696272gy1i6r3k8copij20uo14wwl0.jpg"
+          },
+          {
+            "h": 4032,
+            "scheme": "sinaweibo://multimedia?mix_mid=5226733087493262&from=search&content_show=1&mix_index=2&hide_index=1&multi_paragraph=1&multi_count=1",
+            "user_name": "嚣张的张女士Z",
+            "cur_mid": "5226733087493262",
+            "w": 3024,
+            "user_avatar": "https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/e7c78afaly8htk2tmrpqej20u00u0aby.jpg?KID=imgbed,tva&Expires=1761654622&ssig=apInqquJk1",
+            "video_url": "",
+            "type": "p",
+            "click_rate": 0.06,
+            "hit_score_new": 96.533203,
+            "hit_score_final": 84.719925,
+            "doc_score": 3040,
+            "img_pid": "e7c78afagy1i6s33yxlyuj22c0340x6p",
+            "vtype": 0,
+            "img": "http://wx4.sinaimg.cn/middle/e7c78afagy1i6s33yxlyuj22c0340x6p.jpg"
+          },
+          {
+            "h": 720,
+            "scheme": "sinaweibo://video/vvs?mid=5226692469851622&multi_paragraph=1&multi_count=2",
+            "user_name": "E下就乐了_",
+            "cur_mid": "5226692469851622",
+            "w": 1280,
+            "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/008dfD1Vly8i4q1yfzbx4j30u00u0taq.jpg?KID=imgbed,tva&Expires=1761654621&ssig=bylyfQKyoZ",
+            "video_url": "https://video.weibo.com/show?fid=1034:5226692374102126",
+            "type": "v",
+            "click_rate": 0,
+            "hit_score_new": 99.023438,
+            "hit_score_final": 91.414062,
+            "doc_score": 6242,
+            "img_pid": "008dfD1Vly1i6ryfzn8rnj30zk0k00wv",
+            "vtype": 0,
+            "img": "http://wx3.sinaimg.cn/middle/008dfD1Vly1i6ryfzn8rnj30zk0k00wv.jpg"
+          },
+          {
+            "h": 1472,
+            "scheme": "sinaweibo://multimedia?mix_mid=5226423750232298&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=0",
+            "user_name": "才知道",
+            "cur_mid": "5226423750232298",
+            "w": 1104,
+            "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.600.600.50/9b696272ly8gznl5yu9bqj20go0goq3f.jpg?KID=imgbed,tva&Expires=1761654621&ssig=7Uyg43kzVw",
+            "video_url": "",
+            "type": "p",
+            "click_rate": 0.26794528577709,
+            "hit_score_new": 0,
+            "hit_score_final": 0,
+            "doc_score": 0,
+            "img_pid": "9b696272gy1i6r3k8copij20uo14wwl0",
+            "vtype": 0,
+            "img": "http://wx2.sinaimg.cn/middle/9b696272gy1i6r3k8copij20uo14wwl0.jpg"
+          }
+        ],
+        "type": "mediablock"
+      },
+      "basemodel": "实验组6",
+      "scheme": "sinaweibo://cardlist?containerid=100103type%3D225%26q%3D%23%E6%9F%9A%E5%AD%90%E8%A6%81%E6%91%94%E4%B8%80%E4%B8%8B%E6%89%8D%E5%A5%BD%E5%90%83%23%26t%3D&extparam=ai_model%3Ddeepseek%26ori_ai_title%3D%E5%8F%82%E8%80%83%E5%8D%9A%E6%96%87%26material_version%3D1761643821",
+      "qs_status_info": "{\"qs_status\":0,\"qs_q_status\":0,\"ab_lab\":{},\"qs_u_status\":0,\"qs_c_status\":8388608,\"qs_r_status\":0}",
+      "news_analyze": {},
+      "query": "#柚子要摔一下才好吃#",
+      "msg": "<think><br>嗯，用户让我整理关于\"柚子要摔一下才好吃\"的信息。看到这么多搜索结果，需要仔细分析一下科学原理和实际操作方法。<br><br>用户可能刚买了柚子，想尝试这个网红吃法，希望了解具体操作和背后的道理。也可能之前吃过干涩的柚子，想改善口感。需要从科学角度解释清楚原理，同时给出实用建议。<br><br>翻看搜索结果发现几个核心要点：摔柚子的科学原理主要是通过物理震动让水分和糖分分布均匀。很多资料提到柚子果肉被囊衣分隔，糖分容易滞留在间隙中，轻轻摔打可以让果肉结构舒展。<br><br>实际操作要注意四点技巧：第一要配合\"辞水\"处理，就是收到柚子后先阴凉处放2-3天。第二摔的力度要轻，从20-30厘米高度自由落体到软垫上最好。第三只能摔表皮完好的新鲜柚子。第四摔完要立即食用。<br><br>还看到些有趣的说法需要澄清：比如\"摔了能增加甜度\"是误区，实际只能优化分布不能增加糖分。所谓\"柚子以为成熟了主动变甜\"更是幽默说法。而经期吃柚子会推迟月经的说法，权威资料显示没有科学依据。<br><br>用户可能还关心健康提示。很多医学账号强调服药期间禁食柚子，特别是降压药、降脂药等，因为呋喃香豆素会干扰药物代谢。深圳卫健委的提醒很直白：\"只要在吃药就别碰柚子\"。<br><br>最后想补充些实用挑选技巧：选上尖下宽、手感沉重的柚子，保存时用报纸包裹放阴凉处。柚子皮别扔，可以做成柚子糖，这个在多个菜谱分享里都出现过。<br><br>把这些信息组织成流畅的解答时，考虑用生活化的语言解释科学原理，把操作步骤拆解清楚，对谣言直接辟谣，最后补充些趣味吃法。用户应该需要这样全面又实用的指南。<br><br></think><br>关于“柚子要摔一下才好吃”的说法，综合科学原理与实际操作验证，以下是核心信息整理：<br>### 一、科学原理：优化口感而非增加甜度  <br>1. **水分与糖分均匀分布**  <br>   柚子果肉被囊衣分隔，部分水分和糖分易滞留间隙。轻摔产生的震动可使果肉结构舒展，促进糖分和水分均匀渗透到每粒果肉中，减少部分果肉偏干或偏甜的情况，口感更清爽水润。  <br>   **注意**：此法无法增加柚子总糖量，实际甜度仍取决于品种、成熟度及采摘后的“辞水”（糖分沉淀）过程。```wbCustomBlock{\"type\": \"quoted\", \"index\": 4, \"data\": {\"num\": [1, 2, 35], \"version\": 2, \"quote_list\": [{\"name\": \"楼兰学长\", \"scheme\": \"sinaweibo://detail?mblogid=5226709781579119\", \"index\": 35, \"label\": \"大v\"}, {\"name\": \"才知道\", \"scheme\": \"sinaweibo://detail?mblogid=5226423750232298\", \"index\": 1, \"label\": \"\"}, {\"name\": \"E下就乐了_\", \"scheme\": \"sinaweibo://detail?mblogid=5226692469851622\", \"index\": 2, \"label\": \"\"}], \"name\": \"楼兰学长\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.959.959.50/cfb916d1ly8h7a8xy0uocj20qn0qn0ve.jpg?KID=imgbed,tva&Expires=1761654621&ssig=Rzh7c2Fy8E\", \"scheme\": \"sinaweibo://detail?mblogid=5226709781579119\", \"vType\": 0}}```<br><br>2. **释放香气与软化果肉**  <br>   物理震动破坏部分细胞壁，释放香气物质（如萜烯类化合物），同时软化果肉纤维，降低酸涩感，使果肉更软嫩多汁。```wbCustomBlock{\"type\": \"quoted\", \"index\": 5, \"data\": {\"num\": [43], \"version\": 2, \"quote_list\": [{\"name\": \"嚣张的张女士Z\", \"scheme\": \"sinaweibo://detail?mblogid=5226733087493262\", \"index\": 43, \"label\": \"\"}]}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5226423750232298&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.600.600.50/9b696272ly8gznl5yu9bqj20go0goq3f.jpg?KID=imgbed,tva&Expires=1761654621&ssig=7Uyg43kzVw) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">才知道</span><img src=\"http://wx2.sinaimg.cn/middle/9b696272gy1i6r3k8copij20uo14wwl0.jpg\" data-width=1472 data-height=1104></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5226733087493262&from=search&content_show=1&mix_index=2&hide_index=1&multi_paragraph=1&multi_count=1\"><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/e7c78afaly8htk2tmrpqej20u00u0aby.jpg?KID=imgbed,tva&Expires=1761654622&ssig=apInqquJk1) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">嚣张的张女士Z</span><img src=\"http://wx4.sinaimg.cn/middle/e7c78afagy1i6s33yxlyuj22c0340x6p.jpg\" data-width=4032 data-height=3024></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5226692469851622&multi_paragraph=1&multi_count=2\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/008dfD1Vly8i4q1yfzbx4j30u00u0taq.jpg?KID=imgbed,tva&Expires=1761654621&ssig=bylyfQKyoZ) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">E下就乐了_</span><img src=\"http://wx3.sinaimg.cn/middle/008dfD1Vly1i6ryfzn8rnj30zk0k00wv.jpg\" data-width=720 data-height=1280></div></media-block><br>### 二、正确操作方式  <br>1. **前提条件**  <br>   - **适用对象**：果肉偏干、水分不均的柚子效果显著；表皮完好无损伤的新鲜柚子。```wbCustomBlock{\"type\": \"quoted\", \"index\": 9, \"data\": {\"num\": [44], \"version\": 2, \"quote_list\": [{\"name\": \"从零划水\", \"scheme\": \"sinaweibo://detail?mblogid=5226704171958286\", \"index\": 44, \"label\": \"\"}]}}```  <br>   - **禁忌**：腐烂、过熟或表皮破损的柚子禁用此法（易加速变质）。```wbCustomBlock{\"type\": \"quoted\", \"index\": 10, \"data\": {\"num\": [41], \"version\": 2, \"quote_list\": [{\"name\": \"PuppyooQing\", \"scheme\": \"sinaweibo://detail?mblogid=5226730609708193\", \"index\": 41, \"label\": \"\"}]}}```<br><br>2. **核心步骤**  <br>   - **辞水处理**：收到柚子后，先置阴凉通风处存放2-3天（避免暴晒或热源），待果皮微皱、糖分沉淀后再操作。```wbCustomBlock{\"type\": \"quoted\", \"index\": 12, \"data\": {\"num\": [4, 24, 44], \"version\": 2, \"quote_list\": [{\"name\": \"心智复利\", \"scheme\": \"sinaweibo://detail?mblogid=5226704235927065\", \"index\": 4, \"label\": \"\"}, {\"name\": \"小星星吃不胖\", \"scheme\": \"sinaweibo://detail?mblogid=5226724985668850\", \"index\": 24, \"label\": \"\"}, {\"name\": \"从零划水\", \"scheme\": \"sinaweibo://detail?mblogid=5226704171958286\", \"index\": 44, \"label\": \"\"}]}}```  <br>   - **轻摔技巧**：  <br>     - 托住柚子离地20-30厘米，自由落体至软垫或地毯，重复2-3次。```wbCustomBlock{\"type\": \"quoted\", \"index\": 14, \"data\": {\"num\": [2], \"version\": 2, \"quote_list\": [{\"name\": \"E下就乐了_\", \"scheme\": \"sinaweibo://detail?mblogid=5226692469851622\", \"index\": 2, \"label\": \"\"}]}}```  <br>     - 替代方案：双手捧柚轻轻滚动1分钟，或手心轻拍表皮至微软（更安全）。```wbCustomBlock{\"type\": \"quoted\", \"index\": 15, \"data\": {\"num\": [41, 44], \"version\": 2, \"quote_list\": [{\"name\": \"PuppyooQing\", \"scheme\": \"sinaweibo://detail?mblogid=5226730609708193\", \"index\": 41, \"label\": \"\"}, {\"name\": \"从零划水\", \"scheme\": \"sinaweibo://detail?mblogid=5226704171958286\", \"index\": 44, \"label\": \"\"}]}}```  <br>   - **即开即食**：摔后立即剥开食用，避免久放导致果肉疲软。```wbCustomBlock{\"type\": \"quoted\", \"index\": 16, \"data\": {\"num\": [2, 13], \"version\": 2, \"quote_list\": [{\"name\": \"E下就乐了_\", \"scheme\": \"sinaweibo://detail?mblogid=5226692469851622\", \"index\": 2, \"label\": \"\"}, {\"name\": \"Os_Camellia\", \"scheme\": \"sinaweibo://detail?mblogid=5226701269239031\", \"index\": 13, \"label\": \"\"}]}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5226701269239031&multi_paragraph=2&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/007aUrbyly8i5c9ul033ej30u00u0dif.jpg?KID=imgbed,tva&Expires=1761654621&ssig=yKqDhR6ZTe) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">Os_Camellia</span><img src=\"http://wx4.sinaimg.cn/middle/007aUrbyly1i6rzgigoitj30k00zkmxm.jpg\" data-width=1280 data-height=720></div></media-block><br>### 三、常见误区澄清  <br>1. **“摔打能提升甜度”**  <br>   网传“甜度提升20%”无科学依据。摔打仅优化糖分分布，无法改变柚子本身含糖量。  <br>   **趣味解释**：“摔打让柚子误以为自然成熟”属幽默说法，非真实机制。```wbCustomBlock{\"type\": \"quoted\", \"index\": 19, \"data\": {\"num\": [2, 35], \"version\": 2, \"quote_list\": [{\"name\": \"E下就乐了_\", \"scheme\": \"sinaweibo://detail?mblogid=5226692469851622\", \"index\": 2, \"label\": \"\"}, {\"name\": \"楼兰学长\", \"scheme\": \"sinaweibo://detail?mblogid=5226709781579119\", \"index\": 35, \"label\": \"\"}]}}```<br><br>2. **“所有柚子都需摔打”**  <br>   优质柚子（如浙江文旦柚、福建红肉蜜柚）本身甜度高、果肉松软，无需刻意摔打。```wbCustomBlock{\"type\": \"quoted\", \"index\": 20, \"data\": {\"num\": [2, 31], \"version\": 2, \"quote_list\": [{\"name\": \"财妙妙呀\", \"scheme\": \"sinaweibo://detail?mblogid=5226706358767557\", \"index\": 31, \"label\": \"大v\"}, {\"name\": \"E下就乐了_\", \"scheme\": \"sinaweibo://detail?mblogid=5226692469851622\", \"index\": 2, \"label\": \"\"}], \"name\": \"财妙妙呀\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.1024.1024.50/006BqnEIly8i0ukjys91nj30sg0sg42i.jpg?KID=imgbed,tva&Expires=1761654621&ssig=Q9S0U%2BVVex\", \"scheme\": \"sinaweibo://detail?mblogid=5226706358767557\", \"vType\": 0}}```<br><br>3. **“经期吃柚子导致月经推迟”**  <br>   目前无权威证据证明柚子直接影响生理周期。主要禁忌在于药物相互作用，而非“性寒致经期异常”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 21, \"data\": {\"num\": [25, 40], \"version\": 2, \"quote_list\": [{\"name\": \"晚风吹走云朵\", \"scheme\": \"sinaweibo://detail?mblogid=5226738441520237\", \"index\": 40, \"label\": \"大v\"}, {\"name\": \"KiKi_翊莫基础题\", \"scheme\": \"sinaweibo://detail?mblogid=5226746636667298\", \"index\": 25, \"label\": \"\"}], \"name\": \"晚风吹走云朵\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/0087jWzCly8i67hkgi3i7j30u00u076s.jpg?KID=imgbed,tva&Expires=1761654621&ssig=nmClWMYgoV\", \"scheme\": \"sinaweibo://detail?mblogid=5226738441520237\", \"vType\": 0}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5226746636667298&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=3&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/008tsPMCly1i6221v50qqj30u00u0whw.jpg?KID=imgbed,tva&Expires=1761654621&ssig=JmOTqe7qwO) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">KiKi_翊莫基础题</span><img src=\"http://wx2.sinaimg.cn/middle/008tsPMCgy1i6s4pak640j30u00uvdio.jpg\" data-width=1111 data-height=1080></div></media-block><br>### 四、注意事项与风险提示  <br>1. **过度摔打的危害**  <br>   大力摔打会破坏果肉细胞，导致汁水流失、口感绵软，甚至引发内部腐烂。```wbCustomBlock{\"type\": \"quoted\", \"index\": 24, \"data\": {\"num\": [6, 41], \"version\": 2, \"quote_list\": [{\"name\": \"肿瘤专科医生\", \"scheme\": \"sinaweibo://detail?mblogid=5226726231117130\", \"index\": 6, \"label\": \"大v\"}, {\"name\": \"PuppyooQing\", \"scheme\": \"sinaweibo://detail?mblogid=5226730609708193\", \"index\": 41, \"label\": \"\"}], \"name\": \"肿瘤专科医生\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.996.996.50/6e83c57fly8gdj40mevsoj20ro0rojt5.jpg?KID=imgbed,tva&Expires=1761654622&ssig=eybgA8YxyM\", \"scheme\": \"sinaweibo://detail?mblogid=5226726231117130\", \"vType\": 0}}```<br><br>2. **药物冲突警告**  <br>   **服降压药、降脂药、免疫抑制剂等药物者，需严格避免柚子**（包括西柚）。柚子中的呋喃香豆素会抑制药物代谢酶活性，可能导致药物蓄积中毒。```wbCustomBlock{\"type\": \"quoted\", \"index\": 25, \"data\": {\"num\": [19, 38], \"version\": 2, \"quote_list\": [{\"name\": \"环球时报\", \"scheme\": \"sinaweibo://detail?mblogid=5226765566086340\", \"index\": 38, \"label\": \"大v\"}, {\"name\": \"深圳卫健委\", \"scheme\": \"sinaweibo://detail?mblogid=5226739494291836\", \"index\": 19, \"label\": \"\"}], \"name\": \"环球时报\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.600.600.50/0029D7FZly8h8vg4kqwr4j60go0got9i02.jpg?KID=imgbed,tva&Expires=1761654621&ssig=itvdg9Yv2g\", \"scheme\": \"sinaweibo://detail?mblogid=5226765566086340\", \"vType\": 3}}```<br><br>3. **挑选与保存技巧**  <br>   - **挑选**：选上尖下宽、底部平整、手感沉重、表皮光滑鲜黄的柚子。```wbCustomBlock{\"type\": \"quoted\", \"index\": 27, \"data\": {\"num\": [44], \"version\": 2, \"quote_list\": [{\"name\": \"从零划水\", \"scheme\": \"sinaweibo://detail?mblogid=5226704171958286\", \"index\": 44, \"label\": \"\"}]}}```  <br>   - **保存**：未食用时用报纸包裹阴凉通风存放；已剥开的果肉用保鲜膜或密封盒冷藏，2天内吃完。```wbCustomBlock{\"type\": \"quoted\", \"index\": 28, \"data\": {\"num\": [2, 27], \"version\": 2, \"quote_list\": [{\"name\": \"E下就乐了_\", \"scheme\": \"sinaweibo://detail?mblogid=5226692469851622\", \"index\": 2, \"label\": \"\"}, {\"name\": \"幸运-Haha\", \"scheme\": \"sinaweibo://detail?mblogid=5226699022930436\", \"index\": 27, \"label\": \"\"}]}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5226726231117130&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=4&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.996.996.50/6e83c57fly8gdj40mevsoj20ro0rojt5.jpg?KID=imgbed,tva&Expires=1761654622&ssig=eybgA8YxyM) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">肿瘤专科医生</span><img src=\"http://wx3.sinaimg.cn/middle/6e83c57fgy1i6s2b91bh4j20k43xk14l.jpg\" data-width=5096 data-height=724></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5226739494291836&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=4&multi_count=1\"><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.600.600.50/a8bfee30ly8hzqqd2d2q8j20go0godhm.jpg?KID=imgbed,tva&Expires=1761654621&ssig=SoN8NulTu4) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">深圳卫健委</span><img src=\"http://wx3.sinaimg.cn/middle/a8bfee30gy1i6s3uo84f5j20hs0hs76b.jpg\" data-width=640 data-height=640></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5226699022930436&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=4&multi_count=2\"><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/7c68bf9fly8i61dpksidrj20u00u0tc5.jpg?KID=imgbed,tva&Expires=1761654621&ssig=aKi4bv9SIf) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">幸运-Haha</span><img src=\"http://wx2.sinaimg.cn/middle/7c68bf9fgy1i6rz6q7va6j23b04eo7wi.jpg\" data-width=5712 data-height=4284></div></media-block><br>### 五、延伸知识：柚子的创意利用  <br>1. **果皮再利用**  <br>   - 柚子糖：去苦后糖渍，制成软糯零食。```wbCustomBlock{\"type\": \"quoted\", \"index\": 32, \"data\": {\"num\": [30], \"version\": 2, \"quote_list\": [{\"name\": \"娱乐小福星\", \"scheme\": \"sinaweibo://detail?mblogid=5226713584764346\", \"index\": 30, \"label\": \"\"}]}}```  <br>   - 除味净化：晒干后放冰箱/衣柜，替代化学除臭剂。  <br>2. **替代吃法**  <br>   - 冷藏甜感优化：剥好的果肉冷藏片刻，低温会放大甜味感知。```wbCustomBlock{\"type\": \"quoted\", \"index\": 35, \"data\": {\"num\": [2], \"version\": 2, \"quote_list\": [{\"name\": \"E下就乐了_\", \"scheme\": \"sinaweibo://detail?mblogid=5226692469851622\", \"index\": 2, \"label\": \"\"}]}}```  <br>   - 熟食润燥：秋季煮熟食用，减少寒性刺激。```wbCustomBlock{\"type\": \"quoted\", \"index\": 36, \"data\": {\"num\": [41], \"version\": 2, \"quote_list\": [{\"name\": \"PuppyooQing\", \"scheme\": \"sinaweibo://detail?mblogid=5226730609708193\", \"index\": 41, \"label\": \"\"}]}}```<br>### 结论  <br>轻摔柚子是一种通过物理震动优化口感的辅助技巧，**核心价值在于改善水分分布和果肉质地**。操作时需牢记“辞水后轻摔、即开即食”原则，并优先挑选优质柚子。若追求稳定风味，品种选择仍是关键。```wbCustomBlock{\"type\": \"quoted\", \"index\": 38, \"data\": {\"num\": [44], \"version\": 2, \"quote_list\": [{\"name\": \"从零划水\", \"scheme\": \"sinaweibo://detail?mblogid=5226704171958286\", \"index\": 44, \"label\": \"\"}]}}```<br>",
+      "profile_image_url": "",
+      "user_info": {},
+      "page_id": "232964e8b08d07884196fe8e08920cd9ae0c68",
+      "ab_suffix": "default",
+      "q_attr": {
+        "from_uid": "7479541763",
+        "from_request_id": "1761643818367"
+      },
+      "share_text": "#柚子要摔一下才好吃#的相关内容，来智搜看看",
+      "wenda": {
+        "forward_gen": 0
+      },
+      "mid_list": null,
+      "show_ctrl": {
+        "quote": {}
+      },
+      "unify_md5": "8cd8f5ebb73a6989a2e21c2c013c6577",
+      "sorted_material_list": null,
+      "analysis_time": 1761643880,
+      "loop_times": 200,
+      "link_list": [
+        "sinaweibo://detail?mblogid=5226423750232298",
+        "sinaweibo://detail?mblogid=5226692469851622",
+        "sinaweibo://detail?mblogid=5226709550895627",
+        "sinaweibo://detail?mblogid=5226704235927065",
+        "sinaweibo://detail?mblogid=5226741309376477",
+        "sinaweibo://detail?mblogid=5226726231117130",
+        "https://3g.china.com/act/ent/11005281/20251028/48943775.html",
+        "https://bbs.cnool.net/m/10925502.html",
+        "historyweibo://5226423750232298",
+        "historyweibo://5225663296442908",
+        "historyweibo://5223133796630708",
+        "sinaweibo://detail?mblogid=5226687271010692",
+        "sinaweibo://detail?mblogid=5226701269239031",
+        "sinaweibo://detail?mblogid=5226714707790022",
+        "sinaweibo://detail?mblogid=5226700518720240",
+        "sinaweibo://detail?mblogid=5226699037869434",
+        "sinaweibo://detail?mblogid=5226700984025480",
+        "sinaweibo://detail?mblogid=5226717478389784",
+        "sinaweibo://detail?mblogid=5226739494291836",
+        "sinaweibo://detail?mblogid=5226740751794332",
+        "sinaweibo://detail?mblogid=5226695134808046",
+        "sinaweibo://detail?mblogid=5226698662741856",
+        "sinaweibo://detail?mblogid=5226721467172826",
+        "sinaweibo://detail?mblogid=5226724985668850",
+        "sinaweibo://detail?mblogid=5226746636667298",
+        "sinaweibo://detail?mblogid=5226694900450994",
+        "sinaweibo://detail?mblogid=5226699022930436",
+        "sinaweibo://detail?mblogid=5226734858273399",
+        "sinaweibo://detail?mblogid=5226704530314191",
+        "sinaweibo://detail?mblogid=5226713584764346",
+        "sinaweibo://detail?mblogid=5226706358767557",
+        "sinaweibo://detail?mblogid=5226731256681266",
+        "sinaweibo://detail?mblogid=5226721999850284",
+        "sinaweibo://detail?mblogid=5226700499585663",
+        "sinaweibo://detail?mblogid=5226709781579119",
+        "sinaweibo://detail?mblogid=5226392795222224",
+        "sinaweibo://detail?mblogid=5226749616982756",
+        "sinaweibo://detail?mblogid=5226765566086340",
+        "sinaweibo://detail?mblogid=5226727640927361",
+        "sinaweibo://detail?mblogid=5226738441520237",
+        "sinaweibo://detail?mblogid=5226730609708193",
+        "sinaweibo://detail?mblogid=5226728478998594",
+        "sinaweibo://detail?mblogid=5226733087493262",
+        "sinaweibo://detail?mblogid=5226704171958286",
+        "sinaweibo://detail?mblogid=5226715557399811",
+        "sinaweibo://detail?mblogid=4956286410293663",
+        "sinaweibo://detail?mblogid=5226698372548591",
+        "sinaweibo://detail?mblogid=4858173989589382",
+        "sinaweibo://detail?mblogid=4956305594253773"
+      ],
+      "reliable_tips": "{\"gold_orange_v_mids\": [\"5226692469851622\", \"5226709781579119\", \"5226733087493262\", \"5226704171958286\", \"5226730609708193\", \"5226704235927065\", \"5226701269239031\", \"5226706358767557\", \"5226746636667298\", \"5226738441520237\", \"5226726231117130\", \"5226699022930436\", \"5226713584764346\", \"5226709550895627\", \"5226687271010692\", \"5226700518720240\", \"5226699037869434\", \"5226700984025480\", \"5226717478389784\", \"5226740751794332\", \"5226695134808046\", \"5226721467172826\", \"5226704530314191\", \"5226731256681266\", \"5226700499585663\", \"5226727640927361\", \"5226728478998594\", \"4956286410293663\"], \"gold_orange_v_ratio\": \"64%\", \"media_mids\": [\"5226765566086340\"], \"media_ratio\": \"2%\", \"verified_mids\": [\"5226423750232298\", \"5226724985668850\", \"5226739494291836\", \"5226714707790022\", \"5226694900450994\", \"5226392795222224\", \"5226715557399811\", \"5226698372548591\", \"4956305594253773\"], \"verified_ratio\": \"20%\", \"normal_mids\": [\"5226741309376477\", \"5226698662741856\", \"5226734858273399\", \"5226721999850284\", \"5226749616982756\", \"4858173989589382\"], \"normal_ratio\": \"14%\", \"ref_mid_rank\": {\"5226423750232298\": {\"rank\": 1}, \"5226692469851622\": {\"rank\": 2}, \"5226709781579119\": {\"rank\": 35}, \"5226733087493262\": {\"rank\": 43}, \"5226704171958286\": {\"rank\": 44}, \"5226730609708193\": {\"rank\": 41}, \"5226704235927065\": {\"rank\": 4}, \"5226724985668850\": {\"rank\": 24}, \"5226701269239031\": {\"rank\": 13}, \"5226706358767557\": {\"rank\": 31}, \"5226746636667298\": {\"rank\": 25}, \"5226738441520237\": {\"rank\": 40}, \"5226726231117130\": {\"rank\": 6}, \"5226739494291836\": {\"rank\": 19}, \"5226765566086340\": {\"rank\": 38}, \"5226699022930436\": {\"rank\": 27}, \"5226713584764346\": {\"rank\": 30}, \"5226709550895627\": {\"rank\": 3}, \"5226741309376477\": {\"rank\": 5}, \"5226687271010692\": {\"rank\": 12}, \"5226714707790022\": {\"rank\": 14}, \"5226700518720240\": {\"rank\": 15}, \"5226699037869434\": {\"rank\": 16}, \"5226700984025480\": {\"rank\": 17}, \"5226717478389784\": {\"rank\": 18}, \"5226740751794332\": {\"rank\": 20}, \"5226695134808046\": {\"rank\": 21}, \"5226698662741856\": {\"rank\": 22}, \"5226721467172826\": {\"rank\": 23}, \"5226694900450994\": {\"rank\": 26}, \"5226734858273399\": {\"rank\": 28}, \"5226704530314191\": {\"rank\": 29}, \"5226731256681266\": {\"rank\": 32}, \"5226721999850284\": {\"rank\": 33}, \"5226700499585663\": {\"rank\": 34}, \"5226392795222224\": {\"rank\": 36}, \"5226749616982756\": {\"rank\": 37}, \"5226727640927361\": {\"rank\": 39}, \"5226728478998594\": {\"rank\": 42}, \"5226715557399811\": {\"rank\": 45}, \"4956286410293663\": {\"rank\": 46}, \"5226698372548591\": {\"rank\": 47}, \"4858173989589382\": {\"rank\": 48}, \"4956305594253773\": {\"rank\": 49}}}",
+      "version": "2025-10-28 17:30:21.012000-5097",
+      "query_field": "7",
+      "ext_show": {},
+      "top_quote_list": {},
+      "status_stage": 4,
+      "current_time": 1761644924,
+      "cot": 1,
+      "share_card_multimodal": {
+        "h": 1472,
+        "scheme": "sinaweibo://multimedia?mix_mid=5226423750232298&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=0",
+        "user_name": "才知道",
+        "cur_mid": "5226423750232298",
+        "w": 1104,
+        "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.600.600.50/9b696272ly8gznl5yu9bqj20go0goq3f.jpg?KID=imgbed,tva&Expires=1761654621&ssig=7Uyg43kzVw",
+        "video_url": "",
+        "type": "p",
+        "click_rate": 0.26794528577709,
+        "hit_score_new": 0,
+        "hit_score_final": 0,
+        "doc_score": 0,
+        "img_pid": "9b696272gy1i6r3k8copij20uo14wwl0",
+        "vtype": 0,
+        "img": "http://wx2.sinaimg.cn/middle/9b696272gy1i6r3k8copij20uo14wwl0.jpg"
+      },
+      "reference_num": 44,
+      "qs_status": 0,
+      "msg_format": "markdown",
+      "share_info": {
+        "status": 3,
+        "tips": "#柚子要摔一下才好吃#的相关内容，来智搜看看",
+        "url": "http://t.cn/AXwsFZ24",
+        "display_name": "#柚子要摔一下才好吃#",
+        "unify_md5": "8cd8f5ebb73a6989a2e21c2c013c6577",
+        "page_id": "232964e8b08d07884196fe8e08920cd9ae0c68"
+      },
+      "chat_status_stage": 1,
+      "query_category": "",
+      "short_url": "http://t.cn/AXwsd3vf",
+      "msg_json": "{}"
+    }
+  },
+  "links": [
+    "sinaweibo://detail?mblogid=5226423750232298",
+    "sinaweibo://detail?mblogid=5226692469851622",
+    "sinaweibo://detail?mblogid=5226709550895627",
+    "sinaweibo://detail?mblogid=5226704235927065",
+    "sinaweibo://detail?mblogid=5226741309376477",
+    "sinaweibo://detail?mblogid=5226726231117130",
+    "https://3g.china.com/act/ent/11005281/20251028/48943775.html",
+    "https://bbs.cnool.net/m/10925502.html",
+    "historyweibo://5226423750232298",
+    "historyweibo://5225663296442908",
+    "historyweibo://5223133796630708",
+    "sinaweibo://detail?mblogid=5226687271010692",
+    "sinaweibo://detail?mblogid=5226701269239031",
+    "sinaweibo://detail?mblogid=5226714707790022",
+    "sinaweibo://detail?mblogid=5226700518720240",
+    "sinaweibo://detail?mblogid=5226699037869434",
+    "sinaweibo://detail?mblogid=5226700984025480",
+    "sinaweibo://detail?mblogid=5226717478389784",
+    "sinaweibo://detail?mblogid=5226739494291836",
+    "sinaweibo://detail?mblogid=5226740751794332",
+    "sinaweibo://detail?mblogid=5226695134808046",
+    "sinaweibo://detail?mblogid=5226698662741856",
+    "sinaweibo://detail?mblogid=5226721467172826",
+    "sinaweibo://detail?mblogid=5226724985668850",
+    "sinaweibo://detail?mblogid=5226746636667298",
+    "sinaweibo://detail?mblogid=5226694900450994",
+    "sinaweibo://detail?mblogid=5226699022930436",
+    "sinaweibo://detail?mblogid=5226734858273399",
+    "sinaweibo://detail?mblogid=5226704530314191",
+    "sinaweibo://detail?mblogid=5226713584764346",
+    "sinaweibo://detail?mblogid=5226706358767557",
+    "sinaweibo://detail?mblogid=5226731256681266",
+    "sinaweibo://detail?mblogid=5226721999850284",
+    "sinaweibo://detail?mblogid=5226700499585663",
+    "sinaweibo://detail?mblogid=5226709781579119",
+    "sinaweibo://detail?mblogid=5226392795222224",
+    "sinaweibo://detail?mblogid=5226749616982756",
+    "sinaweibo://detail?mblogid=5226765566086340",
+    "sinaweibo://detail?mblogid=5226727640927361",
+    "sinaweibo://detail?mblogid=5226738441520237",
+    "sinaweibo://detail?mblogid=5226730609708193",
+    "sinaweibo://detail?mblogid=5226728478998594",
+    "sinaweibo://detail?mblogid=5226733087493262",
+    "sinaweibo://detail?mblogid=5226704171958286",
+    "sinaweibo://detail?mblogid=5226715557399811",
+    "sinaweibo://detail?mblogid=4956286410293663",
+    "sinaweibo://detail?mblogid=5226698372548591",
+    "sinaweibo://detail?mblogid=4858173989589382",
+    "sinaweibo://detail?mblogid=4956305594253773"
+  ],
+  "media": [
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/9b696272gy1i6r3k8copij20uo14wwl0.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/9b696272gy1i6r3k8copij20uo14wwl0.jpg",
+      "alt": "才知道",
+      "width": 1472,
+      "height": 1104,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/9b696272gy1i6r3k8copij20uo14wwl0.jpg"
+      ],
+      "user": "才知道"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/e7c78afagy1i6s33yxlyuj22c0340x6p.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/e7c78afagy1i6s33yxlyuj22c0340x6p.jpg",
+      "alt": "嚣张的张女士Z",
+      "width": 4032,
+      "height": 3024,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/e7c78afagy1i6s33yxlyuj22c0340x6p.jpg"
+      ],
+      "user": "嚣张的张女士Z"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/008dfD1Vly1i6ryfzn8rnj30zk0k00wv.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/008dfD1Vly1i6ryfzn8rnj30zk0k00wv.jpg",
+      "alt": "E下就乐了_",
+      "width": 720,
+      "height": 1280,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/008dfD1Vly1i6ryfzn8rnj30zk0k00wv.jpg"
+      ],
+      "user": "E下就乐了_"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/007aUrbyly1i6rzgigoitj30k00zkmxm.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/007aUrbyly1i6rzgigoitj30k00zkmxm.jpg",
+      "alt": "Os_Camellia",
+      "width": 1280,
+      "height": 720,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/007aUrbyly1i6rzgigoitj30k00zkmxm.jpg"
+      ],
+      "user": "Os_Camellia"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/008tsPMCgy1i6s4pak640j30u00uvdio.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/008tsPMCgy1i6s4pak640j30u00uvdio.jpg",
+      "alt": "KiKi_翊莫基础题",
+      "width": 1111,
+      "height": 1080,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/008tsPMCgy1i6s4pak640j30u00uvdio.jpg"
+      ],
+      "user": "KiKi_翊莫基础题"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/6e83c57fgy1i6s2b91bh4j20k43xk14l.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/6e83c57fgy1i6s2b91bh4j20k43xk14l.jpg",
+      "alt": "肿瘤专科医生",
+      "width": 5096,
+      "height": 724,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/6e83c57fgy1i6s2b91bh4j20k43xk14l.jpg"
+      ],
+      "user": "肿瘤专科医生"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/a8bfee30gy1i6s3uo84f5j20hs0hs76b.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/a8bfee30gy1i6s3uo84f5j20hs0hs76b.jpg",
+      "alt": "深圳卫健委",
+      "width": 640,
+      "height": 640,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/a8bfee30gy1i6s3uo84f5j20hs0hs76b.jpg"
+      ],
+      "user": "深圳卫健委"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/7c68bf9fgy1i6rz6q7va6j23b04eo7wi.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/7c68bf9fgy1i6rz6q7va6j23b04eo7wi.jpg",
+      "alt": "幸运-Haha",
+      "width": 5712,
+      "height": 4284,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/7c68bf9fgy1i6rz6q7va6j23b04eo7wi.jpg"
+      ],
+      "user": "幸运-Haha"
+    }
+  ],
+  "html_path": "data/aicard/hourly/2025-10-28/14/topic-8cd8f5eb.html"
+}

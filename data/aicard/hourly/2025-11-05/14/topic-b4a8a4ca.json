@@ -1,0 +1,421 @@
+{
+  "meta": {
+    "query": "#辛芷蕾 影后看镜头#",
+    "status_code": 200,
+    "fetched_at": "2025-11-05T14:51:23+08:00",
+    "response": {
+      "q_attr": {
+        "comment_from_type": "",
+        "reply_cid": "",
+        "mid": "",
+        "from_uid": "",
+        "from_request_id": ""
+      },
+      "short_url": "http://t.cn/AXAQ0iuT",
+      "profile_image_url": "",
+      "page_id": "232964172aed432ef626051985e375b2285f51",
+      "status": 2,
+      "current_time": 1762325484,
+      "user_info": {},
+      "msg_format": "markdown",
+      "ab_suffix": "default",
+      "zs_risk_control": {
+        "think_text_close": 0,
+        "land_button_close": 0
+      },
+      "loop_times": 200,
+      "unify_md5": "b4a8a4cab7d7c7f2c12ffd801e2b45d2",
+      "sorted_material_list": null,
+      "analysis_time": 1762325420,
+      "wenda": {
+        "forward_gen": 0
+      },
+      "scheme": "sinaweibo://cardlist?containerid=100103type%3D225%26q%3D%23%E8%BE%9B%E8%8A%B7%E8%95%BE%20%E5%BD%B1%E5%90%8E%E7%9C%8B%E9%95%9C%E5%A4%B4%23%26t%3D&extparam=ai_model%3Ddeepseek%26ori_ai_title%3D%E5%8F%82%E8%80%83%E5%8D%9A%E6%96%87%26material_version%3D1762325220",
+      "news_analyze": {},
+      "reliable_tips": "{\"gold_orange_v_mids\": [\"5229598142366309\", \"5229631527718106\", \"5209141113258724\", \"5208068155507173\", \"5228615928909251\", \"5228664675631743\", \"5229611042474109\", \"5229580064392571\", \"5208549426725999\", \"5209032600061231\", \"5209187879748145\", \"4986746303414808\", \"5207739086930188\", \"5211507585713205\", \"5229576243380589\", \"5228855357080414\", \"5208245922170883\", \"5208070654263334\", \"5208212188171204\", \"5208157062170001\", \"5208312372790922\", \"5208249662963759\", \"5208231750141710\", \"5209148578857658\", \"5209124560175177\", \"5222019769829334\", \"5209937057153995\", \"5209309755739747\", \"5208830596350192\", \"5208174501299632\", \"5209444333916477\", \"5208237458326979\", \"5227539561710787\", \"5228648858912531\", \"5229327463482633\", \"5228603568032793\", \"5208158962451637\", \"5208195405713130\", \"5209847248978031\", \"5209446630556561\", \"5208054657712991\", \"5208160110379847\", \"5208194181235622\", \"5208197629478389\"], \"gold_orange_v_ratio\": \"81%\", \"media_mids\": [], \"media_ratio\": \"0%\", \"verified_mids\": [\"4987645140665930\", \"5208175976382968\"], \"verified_ratio\": \"4%\", \"normal_mids\": [\"4989871613550600\", \"5228593354903826\", \"5228621939867677\", \"5229189406131380\", \"5228899874114306\", \"5228880224065616\", \"5228720212148629\", \"5228687834225151\"], \"normal_ratio\": \"15%\", \"ref_mid_rank\": {\"5229598142366309\": {\"rank\": 1}, \"5229631527718106\": {\"rank\": 42}, \"5209141113258724\": {\"rank\": 7}, \"5208068155507173\": {\"rank\": 25}, \"5228615928909251\": {\"rank\": 40}, \"5228664675631743\": {\"rank\": 35}, \"5229611042474109\": {\"rank\": 33}, \"5229580064392571\": {\"rank\": 36}, \"5208549426725999\": {\"rank\": 18}, \"5209032600061231\": {\"rank\": 13}, \"5209187879748145\": {\"rank\": 20}, \"4986746303414808\": {\"rank\": 11}, \"5207739086930188\": {\"rank\": 14}, \"5211507585713205\": {\"rank\": 52}, \"5229576243380589\": {\"rank\": 2}, \"5228855357080414\": {\"rank\": 3}, \"5208245922170883\": {\"rank\": 4}, \"5208070654263334\": {\"rank\": 5}, \"4987645140665930\": {\"rank\": 6}, \"5208212188171204\": {\"rank\": 8}, \"5208157062170001\": {\"rank\": 9}, \"5208312372790922\": {\"rank\": 10}, \"5208249662963759\": {\"rank\": 12}, \"5208231750141710\": {\"rank\": 15}, \"5209148578857658\": {\"rank\": 16}, \"5209124560175177\": {\"rank\": 17}, \"5222019769829334\": {\"rank\": 19}, \"5209937057153995\": {\"rank\": 21}, \"5209309755739747\": {\"rank\": 22}, \"5208830596350192\": {\"rank\": 23}, \"4989871613550600\": {\"rank\": 24}, \"5208174501299632\": {\"rank\": 26}, \"5209444333916477\": {\"rank\": 27}, \"5208237458326979\": {\"rank\": 28}, \"5227539561710787\": {\"rank\": 29}, \"5228648858912531\": {\"rank\": 34}, \"5228593354903826\": {\"rank\": 37}, \"5228621939867677\": {\"rank\": 38}, \"5229327463482633\": {\"rank\": 39}, \"5228603568032793\": {\"rank\": 41}, \"5229189406131380\": {\"rank\": 43}, \"5228899874114306\": {\"rank\": 44}, \"5228880224065616\": {\"rank\": 45}, \"5228720212148629\": {\"rank\": 46}, \"5228687834225151\": {\"rank\": 47}, \"5208158962451637\": {\"rank\": 48}, \"5208195405713130\": {\"rank\": 49}, \"5208175976382968\": {\"rank\": 50}, \"5209847248978031\": {\"rank\": 51}, \"5209446630556561\": {\"rank\": 53}, \"5208054657712991\": {\"rank\": 54}, \"5208160110379847\": {\"rank\": 55}, \"5208194181235622\": {\"rank\": 56}, \"5208197629478389\": {\"rank\": 57}}}",
+      "version": "2025-11-05 14:47:00.023999-7832",
+      "cot": 1,
+      "msg_json": "{}",
+      "share_card_multimodal": {
+        "h": 1920,
+        "vtype": 0,
+        "cur_mid": "5229598142366309",
+        "scheme": "sinaweibo://video/vvs?mid=5229598142366309&multi_paragraph=1&multi_count=0",
+        "user_name": "酒酿熊子",
+        "w": 1080,
+        "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/69cda2e5ly8i6mdy29g8sj20u00u042q.jpg?KID=imgbed,tva&Expires=1762336020&ssig=NTkuaoCse2",
+        "hit_score_final": 0,
+        "video_url": "https://video.weibo.com/show?fid=1034:5229597953032245",
+        "img": "http://wx1.sinaimg.cn/middle/69cda2e5ly1i7185d0133j20u01hcn04.jpg",
+        "hit_score_new": 0,
+        "doc_score": 0,
+        "img_pid": "69cda2e5ly1i7185d0133j20u01hcn04",
+        "type": "v",
+        "click_rate": 0.048,
+        "click_num": 0
+      },
+      "query": "#辛芷蕾 影后看镜头#",
+      "show_ctrl": {
+        "quote": {}
+      },
+      "mid_list": null,
+      "reference_num": 54,
+      "query_category": "Ip",
+      "status_stage": 4,
+      "link_list": [
+        "sinaweibo://detail?mblogid=5229598142366309",
+        "sinaweibo://detail?mblogid=5229576243380589",
+        "sinaweibo://detail?mblogid=5228855357080414",
+        "sinaweibo://detail?mblogid=5208245922170883",
+        "sinaweibo://detail?mblogid=5208070654263334",
+        "sinaweibo://detail?mblogid=4987645140665930",
+        "sinaweibo://detail?mblogid=5209141113258724",
+        "sinaweibo://detail?mblogid=5208212188171204",
+        "sinaweibo://detail?mblogid=5208157062170001",
+        "sinaweibo://detail?mblogid=5208312372790922",
+        "sinaweibo://detail?mblogid=4986746303414808",
+        "sinaweibo://detail?mblogid=5208249662963759",
+        "sinaweibo://detail?mblogid=5209032600061231",
+        "sinaweibo://detail?mblogid=5207739086930188",
+        "sinaweibo://detail?mblogid=5208231750141710",
+        "sinaweibo://detail?mblogid=5209148578857658",
+        "sinaweibo://detail?mblogid=5209124560175177",
+        "sinaweibo://detail?mblogid=5208549426725999",
+        "sinaweibo://detail?mblogid=5222019769829334",
+        "sinaweibo://detail?mblogid=5209187879748145",
+        "sinaweibo://detail?mblogid=5209937057153995",
+        "sinaweibo://detail?mblogid=5209309755739747",
+        "sinaweibo://detail?mblogid=5208830596350192",
+        "sinaweibo://detail?mblogid=4989871613550600",
+        "sinaweibo://detail?mblogid=5208068155507173",
+        "sinaweibo://detail?mblogid=5208174501299632",
+        "sinaweibo://detail?mblogid=5209444333916477",
+        "sinaweibo://detail?mblogid=5208237458326979",
+        "sinaweibo://detail?mblogid=5227539561710787",
+        "historyweibo://5228839032589542",
+        "historyweibo://5226396231141829",
+        "historyweibo://5224489103397895",
+        "sinaweibo://detail?mblogid=5229611042474109",
+        "sinaweibo://detail?mblogid=5228648858912531",
+        "sinaweibo://detail?mblogid=5228664675631743",
+        "sinaweibo://detail?mblogid=5229580064392571",
+        "sinaweibo://detail?mblogid=5228593354903826",
+        "sinaweibo://detail?mblogid=5228621939867677",
+        "sinaweibo://detail?mblogid=5229327463482633",
+        "sinaweibo://detail?mblogid=5228615928909251",
+        "sinaweibo://detail?mblogid=5228603568032793",
+        "sinaweibo://detail?mblogid=5229631527718106",
+        "sinaweibo://detail?mblogid=5229189406131380",
+        "sinaweibo://detail?mblogid=5228899874114306",
+        "sinaweibo://detail?mblogid=5228880224065616",
+        "sinaweibo://detail?mblogid=5228720212148629",
+        "sinaweibo://detail?mblogid=5228687834225151",
+        "sinaweibo://detail?mblogid=5208158962451637",
+        "sinaweibo://detail?mblogid=5208195405713130",
+        "sinaweibo://detail?mblogid=5208175976382968",
+        "sinaweibo://detail?mblogid=5209847248978031",
+        "sinaweibo://detail?mblogid=5211507585713205",
+        "sinaweibo://detail?mblogid=5209446630556561",
+        "sinaweibo://detail?mblogid=5208054657712991",
+        "sinaweibo://detail?mblogid=5208160110379847",
+        "sinaweibo://detail?mblogid=5208194181235622",
+        "sinaweibo://detail?mblogid=5208197629478389"
+      ],
+      "share_info": {
+        "display_name": "#辛芷蕾 影后看镜头#",
+        "page_id": "232964172aed432ef626051985e375b2285f51",
+        "status": 3,
+        "url": "http://t.cn/AXA8crMn",
+        "comment_content": "",
+        "unify_md5": "b4a8a4cab7d7c7f2c12ffd801e2b45d2",
+        "tips": "#辛芷蕾 影后看镜头#的相关内容，来智搜看看"
+      },
+      "top_quote_list": {},
+      "card_multimodal": {
+        "type": "mediablock",
+        "data": [
+          {
+            "h": 1920,
+            "vtype": 0,
+            "cur_mid": "5229598142366309",
+            "scheme": "sinaweibo://video/vvs?mid=5229598142366309&multi_paragraph=1&multi_count=0",
+            "user_name": "酒酿熊子",
+            "w": 1080,
+            "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/69cda2e5ly8i6mdy29g8sj20u00u042q.jpg?KID=imgbed,tva&Expires=1762336020&ssig=NTkuaoCse2",
+            "hit_score_final": 0,
+            "video_url": "https://video.weibo.com/show?fid=1034:5229597953032245",
+            "img": "http://wx1.sinaimg.cn/middle/69cda2e5ly1i7185d0133j20u01hcn04.jpg",
+            "hit_score_new": 0,
+            "doc_score": 0,
+            "img_pid": "69cda2e5ly1i7185d0133j20u01hcn04",
+            "type": "v",
+            "click_rate": 0.048,
+            "click_num": 0
+          },
+          {
+            "h": 2368,
+            "vtype": 0,
+            "cur_mid": "5228664675631743",
+            "scheme": "sinaweibo://multimedia?mix_mid=5228664675631743&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=2&multi_count=0",
+            "user_name": "星稚DAYTOY",
+            "w": 1776,
+            "user_avatar": "https://tvax2.sinaimg.cn/crop.0.0.512.512.50/007WrdWSly8i6tpeu5znkj30e80e8mxu.jpg?KID=imgbed,tva&Expires=1762336020&ssig=6ePjuArS4X",
+            "hit_score_final": 67.037109,
+            "video_url": "",
+            "img": "http://wx3.sinaimg.cn/middle/007WrdWSgy1i6y8xrioc2j31dc1tsap0.jpg",
+            "hit_score_new": 71.728516,
+            "doc_score": 2477,
+            "img_pid": "007WrdWSgy1i6y8xrioc2j31dc1tsap0",
+            "type": "p",
+            "click_rate": 0.13647642679901,
+            "click_num": 0
+          },
+          {
+            "h": 1620,
+            "vtype": 0,
+            "cur_mid": "5209141113258724",
+            "scheme": "sinaweibo://multimedia?mix_mid=5209141113258724&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=2&multi_count=1",
+            "user_name": "你看见星星了吗",
+            "w": 1080,
+            "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.449.449.50/006JzC9Xly8hdeoofq4j9j30ch0chq36.jpg?KID=imgbed,tva&Expires=1762336020&ssig=bd2Rn8kUsf",
+            "hit_score_final": 63.022263,
+            "video_url": "",
+            "img": "http://wx4.sinaimg.cn/middle/006JzC9Xgy1i57ylamqjej30u0190wia.jpg",
+            "hit_score_new": 63.037109,
+            "doc_score": 4725,
+            "img_pid": "006JzC9Xgy1i57ylamqjej30u0190wia",
+            "type": "p",
+            "click_rate": 0.06,
+            "click_num": 0
+          },
+          {
+            "h": 1920,
+            "vtype": 0,
+            "cur_mid": "5229598142366309",
+            "scheme": "sinaweibo://video/vvs?mid=5229598142366309&multi_paragraph=1&multi_count=0",
+            "user_name": "酒酿熊子",
+            "w": 1080,
+            "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/69cda2e5ly8i6mdy29g8sj20u00u042q.jpg?KID=imgbed,tva&Expires=1762336020&ssig=NTkuaoCse2",
+            "hit_score_final": 0,
+            "video_url": "https://video.weibo.com/show?fid=1034:5229597953032245",
+            "img": "http://wx1.sinaimg.cn/middle/69cda2e5ly1i7185d0133j20u01hcn04.jpg",
+            "hit_score_new": 0,
+            "doc_score": 0,
+            "img_pid": "69cda2e5ly1i7185d0133j20u01hcn04",
+            "type": "v",
+            "click_rate": 0.048,
+            "click_num": 0
+          }
+        ]
+      },
+      "share_text": "#辛芷蕾 影后看镜头#的相关内容，来智搜看看",
+      "query_field": "1",
+      "basemodel": "实验组7",
+      "chat_status_stage": 1,
+      "qs_status_info": "{\"qs_c_status\":8388608,\"qs_q_status\":0,\"qs_status\":0,\"qs_u_status\":0,\"qs_r_status\":0,\"ab_lab\":{}}",
+      "ext_show": {},
+      "uid": "",
+      "msg": "<think><br><br>嗯，用户查询的是\"辛芷蕾 影后看镜头\"，看起来是想了解这个网络梗的出处和背景。从搜索结果来看，这确实是近期微博上挺火的一个话题，主要集中在2025年11月5日的相关微博内容上。<br><br>翻看结果1和结果42，发现这个梗的源头很有意思：原来是在电影宣传活动中，有粉丝发现只要对辛芷蕾喊\"影后看镜头\"，她就会特别配合地看向镜头。结果1里提到\"笑鼠我了。。。对辛芷蕾说：'来影后看镜头';辛芷蕾就会看镜头啊啊啊啊啊啊啊啊啊啊太萌了。。。\"，而结果42则补充说\"想要引起辛芷蕾的注意，请说'影后，看镜头'\"。看来这是粉丝新发现的互动方式，展现了辛芷蕾亲和可爱的一面。<br><br>再看结果33和结果36，发现这个梗出现的时间点很特别——就在今天(11月5日)的电影《日掛中天》新浪扫楼活动期间。结果36的视频内容里还记录了辛芷蕾在活动上谈及威尼斯获奖感受时说：\"没想别的，就只想到我是中国演员辛芷蕾\"，这句话特别能体现她的专业态度和爱国情怀。<br><br>有意思的是，这个看似简单的互动梗，其实和辛芷蕾刚获得威尼斯影后的背景密切相关。结果7详细描述了她从鹤岗服务员到国际影后的逆袭之路，而结果56则提到她获奖时哽咽对妈妈说\"你看我的奖杯\"的感人场景。现在的\"影后看镜头\"互动，某种程度上也是大众对她专业成就的认可和喜爱的新表达方式。<br><br>考虑到时效性，今天(11月5日)的最新内容肯定要优先呈现。这个梗虽然简单，但结合辛芷蕾刚获影后不久的背景，以及她自然流露的亲和力，确实很有传播点。用户可能是看到热搜想了解来龙去脉，也可能是想参与这个互动梗，所以需要把出处、场景和背景都交代清楚。<br><br>在整理时要注意区分事实和粉丝调侃。比如结果53提到\"辛芷蕾的脸占了头3/4\"这类外貌评价就不必纳入，重点还是保持在她专业成就和公众互动这个积极主线上。最后要突出这个梗背后体现的——影后身份带来的关注度变化，以及辛芷蕾依然保持真实可爱的性格特质。<br><br></think><br>“辛芷蕾 影后看镜头”是近期社交媒体上的一个趣味互动梗，源于公众对辛芷蕾新晋威尼斯影后身份的喜爱和她本人接地气的反应。以下是核心信息整理：<br>### 🔥 1. **梗的起源与含义**  <br>- 网友发现，在电影《日掛中天》宣传活动中（如扫楼、路演），只要对辛芷蕾喊“影后，看镜头！”，她就会立刻配合看向镜头。```wbCustomBlock{\"type\": \"quoted\", \"index\": 3, \"data\": {\"num\": [1, 42], \"version\": 2, \"quote_list\": [{\"name\": \"酒酿熊子\", \"scheme\": \"sinaweibo://detail?mblogid=5229598142366309\", \"index\": 1, \"label\": \"大v\"}, {\"name\": \"宝怡怡呢\", \"scheme\": \"sinaweibo://detail?mblogid=5229631527718106\", \"index\": 42, \"label\": \"\"}], \"name\": \"酒酿熊子\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/69cda2e5ly8i6mdy29g8sj20u00u042q.jpg?KID=imgbed,tva&Expires=1762336020&ssig=NTkuaoCse2\", \"scheme\": \"sinaweibo://detail?mblogid=5229598142366309\", \"vType\": 0}}```  <br>- 这种互动被形容为“萌点”，展现了辛芷蕾的亲和力与幽默感。例如：  <br>  > “笑鼠我了……对辛芷蕾说‘来影后看镜头’；她就会看镜头啊啊啊啊太萌了！”```wbCustomBlock{\"type\": \"quoted\", \"index\": 5, \"data\": {\"num\": [1], \"version\": 2, \"quote_list\": [{\"name\": \"酒酿熊子\", \"scheme\": \"sinaweibo://detail?mblogid=5229598142366309\", \"index\": 1, \"label\": \"\"}]}}```  <br>  > “想要引起注意？请说‘影后，看镜头’！”```wbCustomBlock{\"type\": \"quoted\", \"index\": 6, \"data\": {\"num\": [42], \"version\": 2, \"quote_list\": [{\"name\": \"宝怡怡呢\", \"scheme\": \"sinaweibo://detail?mblogid=5229631527718106\", \"index\": 42, \"label\": \"\"}]}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5229598142366309&multi_paragraph=1&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/69cda2e5ly8i6mdy29g8sj20u00u042q.jpg?KID=imgbed,tva&Expires=1762336020&ssig=NTkuaoCse2) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">酒酿熊子</span><img src=\"http://wx1.sinaimg.cn/middle/69cda2e5ly1i7185d0133j20u01hcn04.jpg\" data-width=1920 data-height=1080></div></media-block><br>### 🎬 2. **背景：影后光环与电影宣传**  <br>- **影后身份**：2025年9月，辛芷蕾凭借电影《日掛中天》斩获**第82届威尼斯电影节最佳女演员奖**，成为继巩俐后第二位获此殊荣的内地女演员。```wbCustomBlock{\"type\": \"quoted\", \"index\": 8, \"data\": {\"num\": [7, 25, 40], \"version\": 2, \"quote_list\": [{\"name\": \"王太弱\", \"scheme\": \"sinaweibo://detail?mblogid=5208068155507173\", \"index\": 25, \"label\": \"大v\"}, {\"name\": \"你看见星星了吗\", \"scheme\": \"sinaweibo://detail?mblogid=5209141113258724\", \"index\": 7, \"label\": \"\"}, {\"name\": \"钧沐宸\", \"scheme\": \"sinaweibo://detail?mblogid=5228615928909251\", \"index\": 40, \"label\": \"\"}], \"name\": \"王太弱\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.336.336.50/007FLQ3bly1hlx41bhqhaj309c09cdfy.jpg?KID=imgbed,tva&Expires=1762336020&ssig=vTQ86XGtrr\", \"scheme\": \"sinaweibo://detail?mblogid=5208068155507173\", \"vType\": 0}}```  <br>- **电影关联**：该梗发生在《日掛中天》路演期间（2025年11月）。影片聚焦底层女性生存困境，辛芷蕾的表演被威尼斯评委会赞为“华语电影罕见的女性形象塑造”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 9, \"data\": {\"num\": [35], \"version\": 2, \"quote_list\": [{\"name\": \"星稚DAYTOY\", \"scheme\": \"sinaweibo://detail?mblogid=5228664675631743\", \"index\": 35, \"label\": \"\"}]}}```  <br>- **身份认同**：当被问及获奖感受时，辛芷蕾回应：  <br>  > **“没想别的，就只想到我是中国演员辛芷蕾。”**  <br>  这句话因彰显家国情怀登上热搜，进一步强化了“影后”标签的传播。```wbCustomBlock{\"type\": \"quoted\", \"index\": 11, \"data\": {\"num\": [33, 36], \"version\": 2, \"quote_list\": [{\"name\": \"远见电影院的远叔叔\", \"scheme\": \"sinaweibo://detail?mblogid=5229611042474109\", \"index\": 33, \"label\": \"大v\"}, {\"name\": \"李逵艾\", \"scheme\": \"sinaweibo://detail?mblogid=5229580064392571\", \"index\": 36, \"label\": \"\"}], \"name\": \"远见电影院的远叔叔\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.600.600.50/54df30d4ly8i6k5rwitjqj20go0gojsa.jpg?KID=imgbed,tva&Expires=1762336020&ssig=I0yM%2BEyvoI\", \"scheme\": \"sinaweibo://detail?mblogid=5229611042474109\", \"vType\": 0}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5228664675631743&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=2&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.512.512.50/007WrdWSly8i6tpeu5znkj30e80e8mxu.jpg?KID=imgbed,tva&Expires=1762336020&ssig=6ePjuArS4X) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">星稚DAYTOY</span><img src=\"http://wx3.sinaimg.cn/middle/007WrdWSgy1i6y8xrioc2j31dc1tsap0.jpg\" data-width=2368 data-height=1776></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5209141113258724&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=2&multi_count=1\"><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.449.449.50/006JzC9Xly8hdeoofq4j9j30ch0chq36.jpg?KID=imgbed,tva&Expires=1762336020&ssig=bd2Rn8kUsf) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">你看见星星了吗</span><img src=\"http://wx4.sinaimg.cn/middle/006JzC9Xgy1i57ylamqjej30u0190wia.jpg\" data-width=1620 data-height=1080></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5229580064392571&multi_paragraph=2&multi_count=2\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tva3.sinaimg.cn/crop.0.0.639.639.50/969be4a3jw8esoo8bame8j20hs0hrt9g.jpg?KID=imgbed,tva&Expires=1762336020&ssig=pAYLGXlh6j) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">李逵艾</span><img src=\"http://wx3.sinaimg.cn/middle/969be4a3ly1i71623dqdzj20u01hcq72.jpg\" data-width=1920 data-height=1080></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5228615928909251&multi_paragraph=2&multi_count=3\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/b6198939ly8i0zvf7il3gj20u00u07aw.jpg?KID=imgbed,tva&Expires=1762336020&ssig=RDn75v0VZP) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">钧沐宸</span><img src=\"http://wx4.sinaimg.cn/middle/b6198939gy1i6y3c144vzj20mi0u00v2.jpg\" data-width=1080 data-height=810></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5208068155507173&multi_paragraph=2&multi_count=4\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.336.336.50/007FLQ3bly1hlx41bhqhaj309c09cdfy.jpg?KID=imgbed,tva&Expires=1762336020&ssig=vTQ86XGtrr) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">王太弱</span><img src=\"http://wx4.sinaimg.cn/middle/007FLQ3bly1i54kyl8yjxj31gs0u0acj.jpg\" data-width=1080 data-height=1900></div></media-block><br>### 💡 3. **公众反响与符号化意义**  <br>- **反差萌**：影后头衔与俏皮互动形成反差，网友称其“可爱”“毫无架子”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 13, \"data\": {\"num\": [1, 42], \"version\": 2, \"quote_list\": [{\"name\": \"酒酿熊子\", \"scheme\": \"sinaweibo://detail?mblogid=5229598142366309\", \"index\": 1, \"label\": \"\"}, {\"name\": \"宝怡怡呢\", \"scheme\": \"sinaweibo://detail?mblogid=5229631527718106\", \"index\": 42, \"label\": \"\"}]}}```  <br>- **情感共鸣**：辛芷蕾从“鹤岗服务员到国际影后”的逆袭经历，让公众对其成就倍感亲切。```wbCustomBlock{\"type\": \"quoted\", \"index\": 14, \"data\": {\"num\": [7, 18], \"version\": 2, \"quote_list\": [{\"name\": \"静静爱生活吖A\", \"scheme\": \"sinaweibo://detail?mblogid=5208549426725999\", \"index\": 18, \"label\": \"大v\"}, {\"name\": \"你看见星星了吗\", \"scheme\": \"sinaweibo://detail?mblogid=5209141113258724\", \"index\": 7, \"label\": \"\"}], \"name\": \"静静爱生活吖A\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.720.720.50/ddd813d3ly8i0tfns423cj20k00k074n.jpg?KID=imgbed,tva&Expires=1762336020&ssig=S2eBshC4%2B0\", \"scheme\": \"sinaweibo://detail?mblogid=5208549426725999\", \"vType\": 0}}```  <br>- **时代印记**：梗的流行也反映内娱对“实力派演员”的推崇，呼应她“打破白瘦幼审美”的公众评价。```wbCustomBlock{\"type\": \"quoted\", \"index\": 15, \"data\": {\"num\": [13, 20], \"version\": 2, \"quote_list\": [{\"name\": \"挑吃兔\", \"scheme\": \"sinaweibo://detail?mblogid=5209032600061231\", \"index\": 13, \"label\": \"大v\"}, {\"name\": \"皇族驾到y\", \"scheme\": \"sinaweibo://detail?mblogid=5209187879748145\", \"index\": 20, \"label\": \"\"}], \"name\": \"挑吃兔\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.1065.1065.50/006XXohXly8h06zrdpexnj30tl0tlq5q.jpg?KID=imgbed,tva&Expires=1762336020&ssig=bG%2BxHcKnMU\", \"scheme\": \"sinaweibo://detail?mblogid=5209032600061231\", \"vType\": 0}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5209032600061231&from=search&content_show=1&mix_index=2&hide_index=1&multi_paragraph=3&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.1065.1065.50/006XXohXly8h06zrdpexnj30tl0tlq5q.jpg?KID=imgbed,tva&Expires=1762336020&ssig=bG%2BxHcKnMU) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">挑吃兔</span><img src=\"http://wx4.sinaimg.cn/middle/006XXohXly1i57m84j24hj30qy0wptc9.jpg\" data-width=1177 data-height=970></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5208549426725999&multi_paragraph=3&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.720.720.50/ddd813d3ly8i0tfns423cj20k00k074n.jpg?KID=imgbed,tva&Expires=1762336020&ssig=S2eBshC4%2B0) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">静静爱生活吖A</span><img src=\"http://wx1.sinaimg.cn/middle/ddd813d3ly1i562qetwvaj21hc0u0414.jpg\" data-width=1080 data-height=1920></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5209187879748145&multi_paragraph=3&multi_count=2\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.1024.1024.50/008xdrzOly8hwxhsqkz2qj30sg0sg408.jpg?KID=imgbed,tva&Expires=1762336020&ssig=FmFCd7th7Q) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">皇族驾到y</span><img src=\"http://wx3.sinaimg.cn/middle/008xdrzOgy1i583ncq7rnj30u01hcgnv.jpg\" data-width=1920 data-height=1080></div></media-block><br>### 🎞️ 4. **延伸：镜头表现力的专业认可**  <br>- **演技封神**：在《日掛中天》中，辛芷蕾贡献了“13秒4段眼神戏”“无声痛哭”等名场面，被外媒评为“近十年最佳影后级表演”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 17, \"data\": {\"num\": [35], \"version\": 2, \"quote_list\": [{\"name\": \"星稚DAYTOY\", \"scheme\": \"sinaweibo://detail?mblogid=5228664675631743\", \"index\": 35, \"label\": \"\"}]}}```  <br>- **镜头美学**：王家卫曾评价她“每一帧都是美的享受”，而威尼斯获奖后，外媒镜头下的她更被赞“骨相抗打，港风浓颜”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 18, \"data\": {\"num\": [11, 14, 52], \"version\": 2, \"quote_list\": [{\"name\": \"BBKirara\", \"scheme\": \"sinaweibo://detail?mblogid=4986746303414808\", \"index\": 11, \"label\": \"大v\"}, {\"name\": \"牧以南歌声\", \"scheme\": \"sinaweibo://detail?mblogid=5207739086930188\", \"index\": 14, \"label\": \"\"}, {\"name\": \"奶熊杏\", \"scheme\": \"sinaweibo://detail?mblogid=5211507585713205\", \"index\": 52, \"label\": \"\"}], \"name\": \"BBKirara\", \"img\": \"https://tva1.sinaimg.cn/crop.0.1.640.640.50/da4ea557jw8ejmmiqpvgkj20hs0hudg4.jpg?KID=imgbed,tva&Expires=1762336020&ssig=vhOESWJISP\", \"scheme\": \"sinaweibo://detail?mblogid=4986746303414808\", \"vType\": 0}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5207739086930188&multi_paragraph=4&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.400.400.50/0071vcBGly8hqkenlc85nj30b40b4aaj.jpg?KID=imgbed,tva&Expires=1762336020&ssig=ENI37ddZy5) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">牧以南歌声</span><img src=\"http://wx4.sinaimg.cn/middle/0071vcBGly1i53ha5kly6j30zk0k0401.jpg\" data-width=720 data-height=1280></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5211507585713205&multi_paragraph=4&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.873.873.50/008yZZmOly8i6yrsggzu5j30o90o9mz0.jpg?KID=imgbed,tva&Expires=1762336020&ssig=44K%2BmT71xR) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">奶熊杏</span><img src=\"http://wx2.sinaimg.cn/middle/008yZZmOly1i5fihhnj0bj30hs0a0dg4.jpg\" data-width=360 data-height=640></div></media-block><br>### 💎 总结  <br>“影后看镜头”本质是公众对辛芷蕾专业成就与人格魅力的双重认可。它既是一个轻松有趣的互动口令，也是其演员生涯的里程碑注脚——从《繁花》的“李李”到威尼斯的“曾美云”，她用实力证明：**镜头永远偏爱有故事的眼睛**。<br>",
+      "qs_status": 0,
+      "comment_info": {},
+      "abtest_info": {
+        "chat_entrance": 1
+      },
+      "model": "deepseek"
+    }
+  },
+  "links": [
+    "sinaweibo://detail?mblogid=5229598142366309",
+    "sinaweibo://detail?mblogid=5229576243380589",
+    "sinaweibo://detail?mblogid=5228855357080414",
+    "sinaweibo://detail?mblogid=5208245922170883",
+    "sinaweibo://detail?mblogid=5208070654263334",
+    "sinaweibo://detail?mblogid=4987645140665930",
+    "sinaweibo://detail?mblogid=5209141113258724",
+    "sinaweibo://detail?mblogid=5208212188171204",
+    "sinaweibo://detail?mblogid=5208157062170001",
+    "sinaweibo://detail?mblogid=5208312372790922",
+    "sinaweibo://detail?mblogid=4986746303414808",
+    "sinaweibo://detail?mblogid=5208249662963759",
+    "sinaweibo://detail?mblogid=5209032600061231",
+    "sinaweibo://detail?mblogid=5207739086930188",
+    "sinaweibo://detail?mblogid=5208231750141710",
+    "sinaweibo://detail?mblogid=5209148578857658",
+    "sinaweibo://detail?mblogid=5209124560175177",
+    "sinaweibo://detail?mblogid=5208549426725999",
+    "sinaweibo://detail?mblogid=5222019769829334",
+    "sinaweibo://detail?mblogid=5209187879748145",
+    "sinaweibo://detail?mblogid=5209937057153995",
+    "sinaweibo://detail?mblogid=5209309755739747",
+    "sinaweibo://detail?mblogid=5208830596350192",
+    "sinaweibo://detail?mblogid=4989871613550600",
+    "sinaweibo://detail?mblogid=5208068155507173",
+    "sinaweibo://detail?mblogid=5208174501299632",
+    "sinaweibo://detail?mblogid=5209444333916477",
+    "sinaweibo://detail?mblogid=5208237458326979",
+    "sinaweibo://detail?mblogid=5227539561710787",
+    "historyweibo://5228839032589542",
+    "historyweibo://5226396231141829",
+    "historyweibo://5224489103397895",
+    "sinaweibo://detail?mblogid=5229611042474109",
+    "sinaweibo://detail?mblogid=5228648858912531",
+    "sinaweibo://detail?mblogid=5228664675631743",
+    "sinaweibo://detail?mblogid=5229580064392571",
+    "sinaweibo://detail?mblogid=5228593354903826",
+    "sinaweibo://detail?mblogid=5228621939867677",
+    "sinaweibo://detail?mblogid=5229327463482633",
+    "sinaweibo://detail?mblogid=5228615928909251",
+    "sinaweibo://detail?mblogid=5228603568032793",
+    "sinaweibo://detail?mblogid=5229631527718106",
+    "sinaweibo://detail?mblogid=5229189406131380",
+    "sinaweibo://detail?mblogid=5228899874114306",
+    "sinaweibo://detail?mblogid=5228880224065616",
+    "sinaweibo://detail?mblogid=5228720212148629",
+    "sinaweibo://detail?mblogid=5228687834225151",
+    "sinaweibo://detail?mblogid=5208158962451637",
+    "sinaweibo://detail?mblogid=5208195405713130",
+    "sinaweibo://detail?mblogid=5208175976382968",
+    "sinaweibo://detail?mblogid=5209847248978031",
+    "sinaweibo://detail?mblogid=5211507585713205",
+    "sinaweibo://detail?mblogid=5209446630556561",
+    "sinaweibo://detail?mblogid=5208054657712991",
+    "sinaweibo://detail?mblogid=5208160110379847",
+    "sinaweibo://detail?mblogid=5208194181235622",
+    "sinaweibo://detail?mblogid=5208197629478389"
+  ],
+  "media": [
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/69cda2e5ly1i7185d0133j20u01hcn04.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/69cda2e5ly1i7185d0133j20u01hcn04.jpg",
+      "alt": "酒酿熊子",
+      "width": 1920,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/69cda2e5ly1i7185d0133j20u01hcn04.jpg"
+      ],
+      "user": "酒酿熊子"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/007WrdWSgy1i6y8xrioc2j31dc1tsap0.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/007WrdWSgy1i6y8xrioc2j31dc1tsap0.jpg",
+      "alt": "星稚DAYTOY",
+      "width": 2368,
+      "height": 1776,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/007WrdWSgy1i6y8xrioc2j31dc1tsap0.jpg"
+      ],
+      "user": "星稚DAYTOY"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/006JzC9Xgy1i57ylamqjej30u0190wia.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/006JzC9Xgy1i57ylamqjej30u0190wia.jpg",
+      "alt": "你看见星星了吗",
+      "width": 1620,
+      "height": 1080,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/006JzC9Xgy1i57ylamqjej30u0190wia.jpg"
+      ],
+      "user": "你看见星星了吗"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/969be4a3ly1i71623dqdzj20u01hcq72.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/969be4a3ly1i71623dqdzj20u01hcq72.jpg",
+      "alt": "李逵艾",
+      "width": 1920,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/969be4a3ly1i71623dqdzj20u01hcq72.jpg"
+      ],
+      "user": "李逵艾"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/b6198939gy1i6y3c144vzj20mi0u00v2.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/b6198939gy1i6y3c144vzj20mi0u00v2.jpg",
+      "alt": "钧沐宸",
+      "width": 1080,
+      "height": 810,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx4.sinaimg.cn/large/b6198939gy1i6y3c144vzj20mi0u00v2.jpg"
+      ],
+      "user": "钧沐宸"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/007FLQ3bly1i54kyl8yjxj31gs0u0acj.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/007FLQ3bly1i54kyl8yjxj31gs0u0acj.jpg",
+      "alt": "王太弱",
+      "width": 1080,
+      "height": 1900,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/007FLQ3bly1i54kyl8yjxj31gs0u0acj.jpg"
+      ],
+      "user": "王太弱"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/006XXohXly1i57m84j24hj30qy0wptc9.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/006XXohXly1i57m84j24hj30qy0wptc9.jpg",
+      "alt": "挑吃兔",
+      "width": 1177,
+      "height": 970,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/006XXohXly1i57m84j24hj30qy0wptc9.jpg"
+      ],
+      "user": "挑吃兔"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/ddd813d3ly1i562qetwvaj21hc0u0414.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/ddd813d3ly1i562qetwvaj21hc0u0414.jpg",
+      "alt": "静静爱生活吖A",
+      "width": 1080,
+      "height": 1920,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/ddd813d3ly1i562qetwvaj21hc0u0414.jpg"
+      ],
+      "user": "静静爱生活吖A"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/008xdrzOgy1i583ncq7rnj30u01hcgnv.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/008xdrzOgy1i583ncq7rnj30u01hcgnv.jpg",
+      "alt": "皇族驾到y",
+      "width": 1920,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/008xdrzOgy1i583ncq7rnj30u01hcgnv.jpg"
+      ],
+      "user": "皇族驾到y"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/0071vcBGly1i53ha5kly6j30zk0k0401.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/0071vcBGly1i53ha5kly6j30zk0k0401.jpg",
+      "alt": "牧以南歌声",
+      "width": 720,
+      "height": 1280,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/0071vcBGly1i53ha5kly6j30zk0k0401.jpg"
+      ],
+      "user": "牧以南歌声"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/008yZZmOly1i5fihhnj0bj30hs0a0dg4.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/008yZZmOly1i5fihhnj0bj30hs0a0dg4.jpg",
+      "alt": "奶熊杏",
+      "width": 360,
+      "height": 640,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/008yZZmOly1i5fihhnj0bj30hs0a0dg4.jpg"
+      ],
+      "user": "奶熊杏"
+    }
+  ],
+  "html_path": "data/aicard/hourly/2025-11-05/14/topic-b4a8a4ca.html"
+}

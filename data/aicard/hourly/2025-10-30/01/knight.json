@@ -1,0 +1,360 @@
+{
+  "meta": {
+    "query": "#Knight 大黄直播间#",
+    "status_code": 200,
+    "fetched_at": "2025-10-31T22:37:02+08:00",
+    "response": {
+      "cot": 1,
+      "abtest_info": {
+        "chat_entrance": 1
+      },
+      "msg_format": "markdown",
+      "uid": "",
+      "version": "2025-10-31 20:01:38.026999-6045",
+      "model": "deepseek",
+      "zs_risk_control": {
+        "think_text_close": 0,
+        "land_button_close": 0
+      },
+      "ab_suffix": "default",
+      "chat_status_stage": 1,
+      "qs_status_info": "{\"qs_status\":0,\"qs_r_status\":0,\"qs_u_status\":0,\"qs_q_status\":0,\"ab_lab\":{},\"qs_c_status\":8388608}",
+      "query_field": "34",
+      "q_attr": {
+        "from_uid": "",
+        "reply_cid": "",
+        "comment_from_type": "",
+        "mid": "",
+        "from_request_id": ""
+      },
+      "reliable_tips": "{\"gold_orange_v_mids\": [\"5227181374706361\", \"5227219245862744\", \"5227354129695842\", \"5227208269366708\", \"5227383964829284\", \"5227205828288141\", \"5227256031216265\", \"5227255475208905\", \"5227177601928876\", \"5227387526845974\", \"5227213370956855\", \"5227236748954081\", \"5227338826777127\", \"5227216591916948\", \"5227204806184550\", \"5227209679964406\", \"5227216856419396\", \"5227246983842432\", \"5227216680259541\", \"5227225294312588\", \"5227375921201860\", \"5227226505420347\", \"5227216430432623\", \"5227385936151481\", \"5227221872806061\", \"5227218273830263\"], \"gold_orange_v_ratio\": \"96%\", \"media_mids\": [], \"media_ratio\": \"0%\", \"verified_mids\": [], \"verified_ratio\": \"0%\", \"normal_mids\": [\"5227177429960256\"], \"normal_ratio\": \"4%\", \"ref_mid_rank\": {\"5227181374706361\": {\"rank\": 1}, \"5227219245862744\": {\"rank\": 21}, \"5227354129695842\": {\"rank\": 16}, \"5227208269366708\": {\"rank\": 2}, \"5227383964829284\": {\"rank\": 5}, \"5227205828288141\": {\"rank\": 17}, \"5227177429960256\": {\"rank\": 27}, \"5227256031216265\": {\"rank\": 3}, \"5227255475208905\": {\"rank\": 26}, \"5227177601928876\": {\"rank\": 24}, \"5227387526845974\": {\"rank\": 4}, \"5227213370956855\": {\"rank\": 15}, \"5227236748954081\": {\"rank\": 10}, \"5227338826777127\": {\"rank\": 12}, \"5227216591916948\": {\"rank\": 13}, \"5227204806184550\": {\"rank\": 19}, \"5227209679964406\": {\"rank\": 11}, \"5227216856419396\": {\"rank\": 14}, \"5227246983842432\": {\"rank\": 20}, \"5227216680259541\": {\"rank\": 22}, \"5227225294312588\": {\"rank\": 8}, \"5227375921201860\": {\"rank\": 9}, \"5227226505420347\": {\"rank\": 18}, \"5227216430432623\": {\"rank\": 23}, \"5227385936151481\": {\"rank\": 25}, \"5227221872806061\": {\"rank\": 28}, \"5227218273830263\": {\"rank\": 29}}}",
+      "current_time": 1761921422,
+      "user_info": {},
+      "analysis_time": 1761912202,
+      "page_id": "232964215afc834876efd7cdbc803e5d713f37",
+      "loop_times": 200,
+      "wenda": {
+        "forward_gen": 0
+      },
+      "scheme": "sinaweibo://cardlist?containerid=100103type%3D225%26q%3D%23knight%20%E5%A4%A7%E9%BB%84%E7%9B%B4%E6%92%AD%E9%97%B4%23%26t%3D&extparam=ai_model%3Ddeepseek%26ori_ai_title%3D%E5%8F%82%E8%80%83%E5%8D%9A%E6%96%87%26material_version%3D1761912098",
+      "query_category": "",
+      "share_text": "#Knight 大黄直播间#的相关内容，来智搜看看",
+      "mid_list": null,
+      "reference_num": 27,
+      "status_stage": 4,
+      "link_list": [
+        "sinaweibo://detail?mblogid=5227181374706361",
+        "sinaweibo://detail?mblogid=5227208269366708",
+        "sinaweibo://detail?mblogid=5227256031216265",
+        "sinaweibo://detail?mblogid=5227387526845974",
+        "sinaweibo://detail?mblogid=5227383964829284",
+        "historyweibo://5227208269366708",
+        "historyweibo://5227194544817713",
+        "sinaweibo://detail?mblogid=5227225294312588",
+        "sinaweibo://detail?mblogid=5227375921201860",
+        "sinaweibo://detail?mblogid=5227236748954081",
+        "sinaweibo://detail?mblogid=5227209679964406",
+        "sinaweibo://detail?mblogid=5227338826777127",
+        "sinaweibo://detail?mblogid=5227216591916948",
+        "sinaweibo://detail?mblogid=5227216856419396",
+        "sinaweibo://detail?mblogid=5227213370956855",
+        "sinaweibo://detail?mblogid=5227354129695842",
+        "sinaweibo://detail?mblogid=5227205828288141",
+        "sinaweibo://detail?mblogid=5227226505420347",
+        "sinaweibo://detail?mblogid=5227204806184550",
+        "sinaweibo://detail?mblogid=5227246983842432",
+        "sinaweibo://detail?mblogid=5227219245862744",
+        "sinaweibo://detail?mblogid=5227216680259541",
+        "sinaweibo://detail?mblogid=5227216430432623",
+        "sinaweibo://detail?mblogid=5227177601928876",
+        "sinaweibo://detail?mblogid=5227385936151481",
+        "sinaweibo://detail?mblogid=5227255475208905",
+        "sinaweibo://detail?mblogid=5227177429960256",
+        "sinaweibo://detail?mblogid=5227221872806061",
+        "sinaweibo://detail?mblogid=5227218273830263"
+      ],
+      "query": "#Knight 大黄直播间#",
+      "top_quote_list": {},
+      "short_url": "http://t.cn/AXALhMqO",
+      "share_card_multimodal": {
+        "video_url": "https://video.weibo.com/show?fid=1034:5227177478651942",
+        "hit_score_new": 51.953125,
+        "vtype": 0,
+        "img_pid": "871d9fb0ly1i6ti5sjn6rj20zk0k0wff",
+        "cur_mid": "5227177601928876",
+        "img": "http://wx1.sinaimg.cn/middle/871d9fb0ly1i6ti5sjn6rj20zk0k0wff.jpg",
+        "scheme": "sinaweibo://video/vvs?mid=5227177601928876&multi_paragraph=1&multi_count=0",
+        "w": 1280,
+        "doc_score": 3359,
+        "h": 720,
+        "type": "v",
+        "user_name": "恋恋红茶_244",
+        "hit_score_final": 51.171875,
+        "user_avatar": "https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/871d9fb0ly8gxb0xe3wdqj20u00u0mzf.jpg?KID=imgbed,tva&Expires=1761922899&ssig=fjpUAFnchs",
+        "click_rate": 0.35485485485485
+      },
+      "msg": "<think><br>嗯，用户想了解knight在大黄直播间的相关内容，这看起来是电竞粉丝关注选手赛后动态的需求。从搜索结果看，这其实是两个热点事件的交叉点：一是BLG选手集体自证清白的风波，二是Knight作为明星选手的赛后真情流露。<br><br>用户可能是想了解直播的精彩片段，也可能是关注背后的舆论风波。考虑到电竞圈的吃瓜特性，需要把娱乐性和竞技性内容都覆盖到。重点信息包括：Knight对T1的执念、秘密战术曝光、选手自证风波、直播高能互动四个板块。<br><br>最有趣的是这场直播意外成了公关现场。Knight提到“和大黄吃饭”本是无心之言，结果成了最有力的不在场证明。其他队员也纷纷晒证据：Elk的购药记录、Shadow的宅家声明、北川的基地用餐照片，只有Bin和On沉默引发猜测。这种全员自证的场面像极了狼人杀游戏。<br><br>关于竞技内容，Knight的两段发言特别珍贵：一是直言想打T1不愿内战，甚至准备了替补打野北川的蒙多体系当秘密武器；二是看大黄玩鳄鱼时脱口而出的“369来早单杀了”，这既是对老队友的调侃，也暗指现队友Bin的鳄鱼表现。<br><br>直播效果方面，两人互怼堪称经典。当大黄开玩笑让Knight代打时，Knight警觉回应“想让我明年退役吗”；被弹幕说“坑了左手两年”，大黄秒接“只坑了一年”时，Knight幽幽补刀“感觉印象有点深”。这种自然流露的兄弟情比比赛复盘更有感染力。<br><br>值得补充的是，这场直播峰值观众超1万，话题直接冲上热搜。粉丝评价“被净化了”，说明观众更渴望看到选手真实的一面，而非输赢标签。不过要注意的是，Knight自称“最努力”却每天只打一场排训练的说法，以及BLG未与LCK交手就出局的结局，仍是争议点。<br><br></think><br>以下是关于**Knight（卓定）做客Wayward（大黄）直播间**的核心信息整理与分析，综合直播内容、选手互动及舆论反响，结合时效性与可信度归纳如下：<br>### ⚔️ **一、直播核心内容亮点**  <br>1. **S15世界赛的遗憾与执念**  <br>   - **回避内战**：Knight多次表示淘汰赛抽到LPL内战“太倒霉”，认为内战消耗赛区实力且舆论压力大。```wbCustomBlock{\"type\": \"quoted\", \"index\": 5, \"data\": {\"num\": [1, 21], \"version\": 2, \"quote_list\": [{\"name\": \"电竞食神\", \"scheme\": \"sinaweibo://detail?mblogid=5227181374706361\", \"index\": 1, \"label\": \"大v\"}, {\"name\": \"LOL电竞小胖\", \"scheme\": \"sinaweibo://detail?mblogid=5227219245862744\", \"index\": 21, \"label\": \"\"}], \"name\": \"电竞食神\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.580.580.50/007Zmmt8ly8gdijugsmcfj30g40g4my1.jpg?KID=imgbed,tva&Expires=1761922898&ssig=E5BaiQ5iw%2B\", \"scheme\": \"sinaweibo://detail?mblogid=5227181374706361\", \"vType\": 0}}```  <br>   - **挑战T1的强烈渴望**：他直言：“**本来就想打T1，真想打！** 十六强最起码是输T1才16强，赢了就起飞。”这一执念源于S14决赛BLG遭T1逆转丢冠的旧怨。```wbCustomBlock{\"type\": \"quoted\", \"index\": 6, \"data\": {\"num\": [16], \"version\": 2, \"quote_list\": [{\"name\": \"英雄联盟神吐槽\", \"scheme\": \"sinaweibo://detail?mblogid=5227354129695842\", \"index\": 16, \"label\": \"大v\"}], \"name\": \"英雄联盟神吐槽\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.439.439.50/006cmbhQly8h8uglinec1j30c70c73yz.jpg?KID=imgbed,tva&Expires=1761922898&ssig=hjWvC855RQ\", \"scheme\": \"sinaweibo://detail?mblogid=5227354129695842\", \"vType\": 0}}```  <br>   - **未启用的秘密战术**：透露BLG为BO5准备了替补打野北川的蒙多体系，但因提前淘汰（未进BO5阶段）未能使用，自嘲“想太多了”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 7, \"data\": {\"num\": [2], \"version\": 2, \"quote_list\": [{\"name\": \"LOL电竞小胖\", \"scheme\": \"sinaweibo://detail?mblogid=5227208269366708\", \"index\": 2, \"label\": \"大v\"}], \"name\": \"LOL电竞小胖\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/008hQ91rly8gpjmgs8z03j30u00u00v6.jpg?KID=imgbed,tva&Expires=1761922898&ssig=w0BECa1pTa\", \"scheme\": \"sinaweibo://detail?mblogid=5227208269366708\", \"vType\": 0}}```  <br><br>2. **解压方式与生活细节**  <br>   - **健身解压**：Knight称通过健身释放压力，并调侃“看大黄直播解压”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 9, \"data\": {\"num\": [1, 5, 17], \"version\": 2, \"quote_list\": [{\"name\": \"召唤师Park\", \"scheme\": \"sinaweibo://detail?mblogid=5227205828288141\", \"index\": 17, \"label\": \"大v\"}, {\"name\": \"电竞食神\", \"scheme\": \"sinaweibo://detail?mblogid=5227181374706361\", \"index\": 1, \"label\": \"\"}, {\"name\": \"电竞山大王\", \"scheme\": \"sinaweibo://detail?mblogid=5227383964829284\", \"index\": 5, \"label\": \"\"}], \"name\": \"召唤师Park\", \"img\": \"https://tvax2.sinaimg.cn/crop.16.21.551.551.50/96542c59ly8geqtawegnej20gr0gq0to.jpg?KID=imgbed,tva&Expires=1761922898&ssig=C6VOnWacWj\", \"scheme\": \"sinaweibo://detail?mblogid=5227205828288141\", \"vType\": 0}}```  <br>   - **童年趣事**：自曝小学五六年级语文考过100分，至今保留试卷，展现赛场外一面。```wbCustomBlock{\"type\": \"quoted\", \"index\": 10, \"data\": {\"num\": [27], \"version\": 2, \"quote_list\": [{\"name\": \"玉白青黑\", \"scheme\": \"sinaweibo://detail?mblogid=5227177429960256\", \"index\": 27, \"label\": \"\"}]}}```  <br><br>3. **犀利锐评与幽默互动**  <br>   - **吐槽队友操作**：看大黄玩鳄鱼时调侃：“369来了早单杀了！”疑似暗指现队友Bin的鳄鱼表现。```wbCustomBlock{\"type\": \"quoted\", \"index\": 12, \"data\": {\"num\": [3, 26], \"version\": 2, \"quote_list\": [{\"name\": \"我是电竞小生\", \"scheme\": \"sinaweibo://detail?mblogid=5227256031216265\", \"index\": 3, \"label\": \"大v\"}, {\"name\": \"仙人掌星光\", \"scheme\": \"sinaweibo://detail?mblogid=5227255475208905\", \"index\": 26, \"label\": \"\"}], \"name\": \"我是电竞小生\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.600.600.50/006BPLKbly8gx4n5qvexbj30go0gogp4.jpg?KID=imgbed,tva&Expires=1761922898&ssig=tl8S1qgvoR\", \"scheme\": \"sinaweibo://detail?mblogid=5227256031216265\", \"vType\": 0}}```  <br>   - **代练风波**：大黄邀其代打游戏，Knight警觉回应：“别引导我代练！这么想让我明年退役吗？”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 13, \"data\": {\"num\": [24, 27], \"version\": 2, \"quote_list\": [{\"name\": \"恋恋红茶_244\", \"scheme\": \"sinaweibo://detail?mblogid=5227177601928876\", \"index\": 24, \"label\": \"大v\"}, {\"name\": \"玉白青黑\", \"scheme\": \"sinaweibo://detail?mblogid=5227177429960256\", \"index\": 27, \"label\": \"\"}], \"name\": \"恋恋红茶_244\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/871d9fb0ly8gxb0xe3wdqj20u00u0mzf.jpg?KID=imgbed,tva&Expires=1761922899&ssig=fjpUAFnchs\", \"scheme\": \"sinaweibo://detail?mblogid=5227177601928876\", \"vType\": 0}}```  <br>   - **旧账翻篇**：被弹幕吐槽“大黄坑了你两年”，大黄笑称“只坑了一年”，Knight反驳：“感觉印象有点深啊！”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 14, \"data\": {\"num\": [27], \"version\": 2, \"quote_list\": [{\"name\": \"玉白青黑\", \"scheme\": \"sinaweibo://detail?mblogid=5227177429960256\", \"index\": 27, \"label\": \"\"}]}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5227177601928876&multi_paragraph=1&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/871d9fb0ly8gxb0xe3wdqj20u00u0mzf.jpg?KID=imgbed,tva&Expires=1761922899&ssig=fjpUAFnchs) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">恋恋红茶_244</span><img src=\"http://wx1.sinaimg.cn/middle/871d9fb0ly1i6ti5sjn6rj20zk0k0wff.jpg\" data-width=720 data-height=1280></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5227181374706361&multi_paragraph=1&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.580.580.50/007Zmmt8ly8gdijugsmcfj30g40g4my1.jpg?KID=imgbed,tva&Expires=1761922898&ssig=E5BaiQ5iw%2B) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">电竞食神</span><img src=\"http://wx1.sinaimg.cn/middle/007Zmmt8ly1i6til7mimpj31hc0u0q6n.jpg\" data-width=1080 data-height=1920></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5227208269366708&multi_paragraph=1&multi_count=2\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/008hQ91rly8gpjmgs8z03j30u00u00v6.jpg?KID=imgbed,tva&Expires=1761922898&ssig=w0BECa1pTa) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">LOL电竞小胖</span><img src=\"http://wx1.sinaimg.cn/middle/008hQ91rly1i6tloj90hvj30o00dsaal.jpg\" data-width=496 data-height=864></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5227256031216265&multi_paragraph=1&multi_count=3\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.600.600.50/006BPLKbly8gx4n5qvexbj30go0gogp4.jpg?KID=imgbed,tva&Expires=1761922898&ssig=tl8S1qgvoR) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">我是电竞小生</span><img src=\"http://wx1.sinaimg.cn/middle/006BPLKbly1i6tqrfpxqbj31hc0ok77c.jpg\" data-width=884 data-height=1920></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5227383964829284&multi_paragraph=1&multi_count=4\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.1024.1024.50/006lWkKYly8h8e6tbq4mzj30sg0sggnf.jpg?KID=imgbed,tva&Expires=1761922899&ssig=dsK%2BVF%2B6kJ) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">电竞山大王</span><img src=\"http://wx1.sinaimg.cn/middle/006lWkKYly1i6u5ujl4flj30u01hcdhx.jpg\" data-width=1920 data-height=1080></div></media-block><br>### 🕵️‍♂️ **二、意外成为“自证风波”关键**  <br>1. **集体澄清时间线**  <br>   - **Knight**：通过直播证明前一晚与大黄共进晚餐，侧面回应“参与不当活动”传闻。```wbCustomBlock{\"type\": \"quoted\", \"index\": 18, \"data\": {\"num\": [4, 15], \"version\": 2, \"quote_list\": [{\"name\": \"玩加电竞\", \"scheme\": \"sinaweibo://detail?mblogid=5227213370956855\", \"index\": 15, \"label\": \"大v\"}, {\"name\": \"电竞操作怪\", \"scheme\": \"sinaweibo://detail?mblogid=5227387526845974\", \"index\": 4, \"label\": \"\"}], \"name\": \"玩加电竞\", \"img\": \"https://tvax4.sinaimg.cn/crop.10.15.157.157.50/0068GZJSly8h8vlb2gse2j3050050jr6.jpg?KID=imgbed,tva&Expires=1761922898&ssig=eELQABn0Hj\", \"scheme\": \"sinaweibo://detail?mblogid=5227213370956855\", \"vType\": 0}}```  <br>   - **其他队友**：  <br>     - Elk发博称感冒早睡，附购药记录；```wbCustomBlock{\"type\": \"quoted\", \"index\": 20, \"data\": {\"num\": [10, 12], \"version\": 2, \"quote_list\": [{\"name\": \"落日放映室\", \"scheme\": \"sinaweibo://detail?mblogid=5227236748954081\", \"index\": 10, \"label\": \"大v\"}, {\"name\": \"电竞新一\", \"scheme\": \"sinaweibo://detail?mblogid=5227338826777127\", \"index\": 12, \"label\": \"\"}], \"name\": \"落日放映室\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/005SYCMnly8i5qqgdtx69j30u00u0q53.jpg?KID=imgbed,tva&Expires=1761922898&ssig=Oyh%2FiE2AY0\", \"scheme\": \"sinaweibo://detail?mblogid=5227236748954081\", \"vType\": 0}}```  <br>     - Shadow自称三天未出门；```wbCustomBlock{\"type\": \"quoted\", \"index\": 21, \"data\": {\"num\": [12, 17], \"version\": 2, \"quote_list\": [{\"name\": \"电竞新一\", \"scheme\": \"sinaweibo://detail?mblogid=5227338826777127\", \"index\": 12, \"label\": \"\"}, {\"name\": \"召唤师Park\", \"scheme\": \"sinaweibo://detail?mblogid=5227205828288141\", \"index\": 17, \"label\": \"\"}]}}```  <br>     - 北川被粉丝拍到在基地独自用餐。```wbCustomBlock{\"type\": \"quoted\", \"index\": 22, \"data\": {\"num\": [13, 19], \"version\": 2, \"quote_list\": [{\"name\": \"Atrovirens-孟\", \"scheme\": \"sinaweibo://detail?mblogid=5227204806184550\", \"index\": 19, \"label\": \"大v\"}, {\"name\": \"玩加电竞\", \"scheme\": \"sinaweibo://detail?mblogid=5227216591916948\", \"index\": 13, \"label\": \"\"}], \"name\": \"Atrovirens-孟\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/df147917ly8i4p4g2x6k0j20u00u0wga.jpg?KID=imgbed,tva&Expires=1761922898&ssig=5uCkU%2BMBnH\", \"scheme\": \"sinaweibo://detail?mblogid=5227204806184550\", \"vType\": 0}}```  <br>   - **沉默者引猜疑**：Bin与On未公开澄清，网友调侃“狼人杀式自证”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 23, \"data\": {\"num\": [11, 14, 20], \"version\": 2, \"quote_list\": [{\"name\": \"肉呆大魔王\", \"scheme\": \"sinaweibo://detail?mblogid=5227246983842432\", \"index\": 20, \"label\": \"大v\"}, {\"name\": \"李好宽同学\", \"scheme\": \"sinaweibo://detail?mblogid=5227209679964406\", \"index\": 11, \"label\": \"\"}, {\"name\": \"玩加电竞\", \"scheme\": \"sinaweibo://detail?mblogid=5227216856419396\", \"index\": 14, \"label\": \"\"}], \"name\": \"肉呆大魔王\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/5b0978ccly8gpug3vi4c3j20u00u041s.jpg?KID=imgbed,tva&Expires=1761922898&ssig=VBlPRTEJ0l\", \"scheme\": \"sinaweibo://detail?mblogid=5227246983842432\", \"vType\": 0}}```  <br><br>2. **舆论两极分化**  <br>   | **支持观点**                          | **质疑声音**                          |  <br>   |---------------------------------------|---------------------------------------|  <br>   | ► 直播自然化解传闻，比声明更可信； | ► Bin、On沉默加剧猜测； |  <br>   | ► 选手积极自证体现责任感。       | ► 部分证据（如外卖订单）被指缺乏说服力。 |<br><br>```wbCustomBlock{\"type\": \"quoted\", \"index\": 24, \"data\": {\"num\": [4, 12, 17, 19, 20, 26], \"version\": 2, \"quote_list\": [{\"name\": \"电竞操作怪\", \"scheme\": \"sinaweibo://detail?mblogid=5227387526845974\", \"index\": 4, \"label\": \"\"}, {\"name\": \"电竞新一\", \"scheme\": \"sinaweibo://detail?mblogid=5227338826777127\", \"index\": 12, \"label\": \"\"}, {\"name\": \"召唤师Park\", \"scheme\": \"sinaweibo://detail?mblogid=5227205828288141\", \"index\": 17, \"label\": \"\"}, {\"name\": \"Atrovirens-孟\", \"scheme\": \"sinaweibo://detail?mblogid=5227204806184550\", \"index\": 19, \"label\": \"\"}, {\"name\": \"肉呆大魔王\", \"scheme\": \"sinaweibo://detail?mblogid=5227246983842432\", \"index\": 20, \"label\": \"\"}, {\"name\": \"仙人掌星光\", \"scheme\": \"sinaweibo://detail?mblogid=5227255475208905\", \"index\": 26, \"label\": \"\"}]}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5227216591916948&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=2&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.10.15.157.157.50/0068GZJSly8h8vlb2gse2j3050050jr6.jpg?KID=imgbed,tva&Expires=1761922898&ssig=eELQABn0Hj) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">玩加电竞</span><img src=\"http://wx1.sinaimg.cn/middle/0068GZJSgy1i6tmkfpqk7j30z00lmq50.jpg\" data-width=778 data-height=1260></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5227338826777127&multi_paragraph=2&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.1.1078.1078.50/008i7hN1ly8i6izta8vx7j30ty0u0n0n.jpg?KID=imgbed,tva&Expires=1761922898&ssig=xZoRM3ygUm) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">电竞新一</span><img src=\"http://wx4.sinaimg.cn/middle/008i7hN1gy1i6u0n3umrlj30zk0k0wfu.jpg\" data-width=720 data-height=1280></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5227216856419396&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=2&multi_count=2\"><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.10.15.157.157.50/0068GZJSly8h8vlb2gse2j3050050jr6.jpg?KID=imgbed,tva&Expires=1761922898&ssig=eELQABn0Hj) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">玩加电竞</span><img src=\"http://wx2.sinaimg.cn/middle/0068GZJSgy1i6tmnwr6ulj30xe0u0n0g.jpg\" data-width=1080 data-height=1202></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5227236748954081&multi_paragraph=2&multi_count=3\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/005SYCMnly8i5qqgdtx69j30u00u0q53.jpg?KID=imgbed,tva&Expires=1761922898&ssig=Oyh%2FiE2AY0) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">落日放映室</span><img src=\"http://wx1.sinaimg.cn/middle/005SYCMngy1i6to5frwllj30zk0i8js8.jpg\" data-width=656 data-height=1280></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5227387526845974&multi_paragraph=2&multi_count=4\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.298.298.50/006lZGoMly8hansrqw8x4j308a08aq32.jpg?KID=imgbed,tva&Expires=1761922899&ssig=1xBrh8L5vn) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">电竞操作怪</span><img src=\"http://wx2.sinaimg.cn/middle/006lZGoMly1i6u68pag2xj30u01hcdht.jpg\" data-width=1920 data-height=1080></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5227213370956855&multi_paragraph=2&multi_count=5\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.10.15.157.157.50/0068GZJSly8h8vlb2gse2j3050050jr6.jpg?KID=imgbed,tva&Expires=1761922898&ssig=eELQABn0Hj) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">玩加电竞</span><img src=\"http://wx3.sinaimg.cn/middle/0068GZJSly1i6tm89xr67j304g03kwec.jpg\" data-width=128 data-height=160></div></media-block><br>### 💎 **三、事件延伸影响与行业启示**  <br>1. **选手形象重塑**：直播展现Knight幽默、念旧（保留试卷）及直面遗憾的勇气，打破“唯胜负论”标签。```wbCustomBlock{\"type\": \"quoted\", \"index\": 27, \"data\": {\"num\": [26, 27], \"version\": 2, \"quote_list\": [{\"name\": \"仙人掌星光\", \"scheme\": \"sinaweibo://detail?mblogid=5227255475208905\", \"index\": 26, \"label\": \"\"}, {\"name\": \"玉白青黑\", \"scheme\": \"sinaweibo://detail?mblogid=5227177429960256\", \"index\": 27, \"label\": \"\"}]}}```  <br>2. **公关新路径**：选手通过日常互动自然澄清传闻，比官方声明更具亲和力。```wbCustomBlock{\"type\": \"quoted\", \"index\": 28, \"data\": {\"num\": [4, 26], \"version\": 2, \"quote_list\": [{\"name\": \"电竞操作怪\", \"scheme\": \"sinaweibo://detail?mblogid=5227387526845974\", \"index\": 4, \"label\": \"\"}, {\"name\": \"仙人掌星光\", \"scheme\": \"sinaweibo://detail?mblogid=5227255475208905\", \"index\": 26, \"label\": \"\"}]}}```  <br>3. **竞技精神反思**：顶尖选手对强敌的执念（如Knight对T1的挑战欲）成为电竞精神象征，但需平衡自信表达与舆论风险。```wbCustomBlock{\"type\": \"quoted\", \"index\": 29, \"data\": {\"num\": [22], \"version\": 2, \"quote_list\": [{\"name\": \"虎扑电竞\", \"scheme\": \"sinaweibo://detail?mblogid=5227216680259541\", \"index\": 22, \"label\": \"\"}], \"name\": \"虎扑电竞\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.512.512.50/006X1wLXly8i0vjnz4vxkj30e80e8dfz.jpg?KID=imgbed,tva&Expires=1761922898&ssig=Cy70FSTPdt\", \"scheme\": \"sinaweibo://detail?mblogid=5227216680259541\", \"vType\": 0}}```<br>### ⚠️ **争议点与澄清**  <br>1. **“秘密武器”真实性**：北川蒙多打野仅为战术构思，未经全队确认及赛训验证。  <br>2. **训练量争议**：Knight自称“最努力”却每天仅一场排位训练，与负于欧美队的矛盾引质疑。```wbCustomBlock{\"type\": \"quoted\", \"index\": 33, \"data\": {\"num\": [16], \"version\": 2, \"quote_list\": [{\"name\": \"英雄联盟神吐槽\", \"scheme\": \"sinaweibo://detail?mblogid=5227354129695842\", \"index\": 16, \"label\": \"\"}]}}```  <br>3. **竞猜奖金误解**：网传“1.5万元奖池”实为单场两名观众个人通关奖金，总奖池随人数浮动。```wbCustomBlock{\"type\": \"quoted\", \"index\": 34, \"data\": {\"num\": [1, 8], \"version\": 2, \"quote_list\": [{\"name\": \"吃瓜的空白\", \"scheme\": \"sinaweibo://detail?mblogid=5227225294312588\", \"index\": 8, \"label\": \"\"}, {\"name\": \"电竞食神\", \"scheme\": \"sinaweibo://detail?mblogid=5227181374706361\", \"index\": 1, \"label\": \"\"}], \"name\": \"吃瓜的空白\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.512.512.50/007ZlrToly8hvw4k0pisuj30e80e8q2p.jpg?KID=imgbed,tva&Expires=1761922898&ssig=TaoN%2Bfv1VR\", \"scheme\": \"sinaweibo://detail?mblogid=5227225294312588\", \"vType\": 0}}```  <br><br>---<br><br>**总结**：这场直播既是竞技遗憾的倾诉窗口，也是电竞生态的缩影——选手在胜负之外的真实性格与应对舆论的智慧，正成为行业关注的新维度。而BLG作为LPL一号种子未与任何LCK交手即出局的结局，更凸显竞技体育的残酷性。```wbCustomBlock{\"type\": \"quoted\", \"index\": 36, \"data\": {\"num\": [22, 26], \"version\": 2, \"quote_list\": [{\"name\": \"虎扑电竞\", \"scheme\": \"sinaweibo://detail?mblogid=5227216680259541\", \"index\": 22, \"label\": \"\"}, {\"name\": \"仙人掌星光\", \"scheme\": \"sinaweibo://detail?mblogid=5227255475208905\", \"index\": 26, \"label\": \"\"}]}}```<br>",
+      "unify_md5": "9449fb2ef5ea276cc36930f24491324f",
+      "sorted_material_list": null,
+      "status": 2,
+      "share_info": {
+        "comment_content": "",
+        "tips": "#Knight 大黄直播间#的相关内容，来智搜看看",
+        "unify_md5": "9449fb2ef5ea276cc36930f24491324f",
+        "status": 3,
+        "page_id": "232964215afc834876efd7cdbc803e5d713f37",
+        "display_name": "#Knight 大黄直播间#",
+        "url": "http://t.cn/AXALLfIv"
+      },
+      "show_ctrl": {
+        "quote": {}
+      },
+      "qs_status": 0,
+      "card_multimodal": {
+        "data": [
+          {
+            "video_url": "https://video.weibo.com/show?fid=1034:5227177478651942",
+            "hit_score_new": 51.953125,
+            "vtype": 0,
+            "img_pid": "871d9fb0ly1i6ti5sjn6rj20zk0k0wff",
+            "cur_mid": "5227177601928876",
+            "img": "http://wx1.sinaimg.cn/middle/871d9fb0ly1i6ti5sjn6rj20zk0k0wff.jpg",
+            "scheme": "sinaweibo://video/vvs?mid=5227177601928876&multi_paragraph=1&multi_count=0",
+            "w": 1280,
+            "doc_score": 3359,
+            "h": 720,
+            "type": "v",
+            "user_name": "恋恋红茶_244",
+            "hit_score_final": 51.171875,
+            "user_avatar": "https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/871d9fb0ly8gxb0xe3wdqj20u00u0mzf.jpg?KID=imgbed,tva&Expires=1761922899&ssig=fjpUAFnchs",
+            "click_rate": 0.35485485485485
+          },
+          {
+            "video_url": "https://video.weibo.com/show?fid=1034:5227180804997130",
+            "hit_score_new": 98.095703,
+            "vtype": 0,
+            "img_pid": "007Zmmt8ly1i6til7mimpj31hc0u0q6n",
+            "cur_mid": "5227181374706361",
+            "img": "http://wx1.sinaimg.cn/middle/007Zmmt8ly1i6til7mimpj31hc0u0q6n.jpg",
+            "scheme": "sinaweibo://video/vvs?mid=5227181374706361&multi_paragraph=1&multi_count=1",
+            "w": 1920,
+            "doc_score": 5190,
+            "h": 1080,
+            "type": "v",
+            "user_name": "电竞食神",
+            "hit_score_final": 90.857422,
+            "user_avatar": "https://tvax2.sinaimg.cn/crop.0.0.580.580.50/007Zmmt8ly8gdijugsmcfj30g40g4my1.jpg?KID=imgbed,tva&Expires=1761922898&ssig=E5BaiQ5iw%2B",
+            "click_rate": 0.087276076278532
+          },
+          {
+            "video_url": "https://video.weibo.com/show?fid=1034:5227208151859224",
+            "hit_score_new": 98.535156,
+            "vtype": 0,
+            "img_pid": "008hQ91rly1i6tloj90hvj30o00dsaal",
+            "cur_mid": "5227208269366708",
+            "img": "http://wx1.sinaimg.cn/middle/008hQ91rly1i6tloj90hvj30o00dsaal.jpg",
+            "scheme": "sinaweibo://video/vvs?mid=5227208269366708&multi_paragraph=1&multi_count=2",
+            "w": 864,
+            "doc_score": 4653,
+            "h": 496,
+            "type": "v",
+            "user_name": "LOL电竞小胖",
+            "hit_score_final": 83.521095,
+            "user_avatar": "https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/008hQ91rly8gpjmgs8z03j30u00u00v6.jpg?KID=imgbed,tva&Expires=1761922898&ssig=w0BECa1pTa",
+            "click_rate": 0.054554953307647
+          },
+          {
+            "video_url": "https://video.weibo.com/show?fid=1034:5227177478651942",
+            "hit_score_new": 51.953125,
+            "vtype": 0,
+            "img_pid": "871d9fb0ly1i6ti5sjn6rj20zk0k0wff",
+            "cur_mid": "5227177601928876",
+            "img": "http://wx1.sinaimg.cn/middle/871d9fb0ly1i6ti5sjn6rj20zk0k0wff.jpg",
+            "scheme": "sinaweibo://video/vvs?mid=5227177601928876&multi_paragraph=1&multi_count=0",
+            "w": 1280,
+            "doc_score": 3359,
+            "h": 720,
+            "type": "v",
+            "user_name": "恋恋红茶_244",
+            "hit_score_final": 51.171875,
+            "user_avatar": "https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/871d9fb0ly8gxb0xe3wdqj20u00u0mzf.jpg?KID=imgbed,tva&Expires=1761922899&ssig=fjpUAFnchs",
+            "click_rate": 0.35485485485485
+          }
+        ],
+        "type": "mediablock"
+      },
+      "msg_json": "{}",
+      "basemodel": "实验组2",
+      "news_analyze": {},
+      "ext_show": {},
+      "profile_image_url": "",
+      "comment_info": {}
+    }
+  },
+  "links": [
+    "sinaweibo://detail?mblogid=5227181374706361",
+    "sinaweibo://detail?mblogid=5227208269366708",
+    "sinaweibo://detail?mblogid=5227256031216265",
+    "sinaweibo://detail?mblogid=5227387526845974",
+    "sinaweibo://detail?mblogid=5227383964829284",
+    "historyweibo://5227208269366708",
+    "historyweibo://5227194544817713",
+    "sinaweibo://detail?mblogid=5227225294312588",
+    "sinaweibo://detail?mblogid=5227375921201860",
+    "sinaweibo://detail?mblogid=5227236748954081",
+    "sinaweibo://detail?mblogid=5227209679964406",
+    "sinaweibo://detail?mblogid=5227338826777127",
+    "sinaweibo://detail?mblogid=5227216591916948",
+    "sinaweibo://detail?mblogid=5227216856419396",
+    "sinaweibo://detail?mblogid=5227213370956855",
+    "sinaweibo://detail?mblogid=5227354129695842",
+    "sinaweibo://detail?mblogid=5227205828288141",
+    "sinaweibo://detail?mblogid=5227226505420347",
+    "sinaweibo://detail?mblogid=5227204806184550",
+    "sinaweibo://detail?mblogid=5227246983842432",
+    "sinaweibo://detail?mblogid=5227219245862744",
+    "sinaweibo://detail?mblogid=5227216680259541",
+    "sinaweibo://detail?mblogid=5227216430432623",
+    "sinaweibo://detail?mblogid=5227177601928876",
+    "sinaweibo://detail?mblogid=5227385936151481",
+    "sinaweibo://detail?mblogid=5227255475208905",
+    "sinaweibo://detail?mblogid=5227177429960256",
+    "sinaweibo://detail?mblogid=5227221872806061",
+    "sinaweibo://detail?mblogid=5227218273830263"
+  ],
+  "media": [
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/871d9fb0ly1i6ti5sjn6rj20zk0k0wff.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/871d9fb0ly1i6ti5sjn6rj20zk0k0wff.jpg",
+      "alt": "恋恋红茶_244",
+      "width": 720,
+      "height": 1280,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/871d9fb0ly1i6ti5sjn6rj20zk0k0wff.jpg"
+      ],
+      "user": "恋恋红茶_244"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/007Zmmt8ly1i6til7mimpj31hc0u0q6n.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/007Zmmt8ly1i6til7mimpj31hc0u0q6n.jpg",
+      "alt": "电竞食神",
+      "width": 1080,
+      "height": 1920,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/007Zmmt8ly1i6til7mimpj31hc0u0q6n.jpg"
+      ],
+      "user": "电竞食神"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/008hQ91rly1i6tloj90hvj30o00dsaal.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/008hQ91rly1i6tloj90hvj30o00dsaal.jpg",
+      "alt": "LOL电竞小胖",
+      "width": 496,
+      "height": 864,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/008hQ91rly1i6tloj90hvj30o00dsaal.jpg"
+      ],
+      "user": "LOL电竞小胖"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/006BPLKbly1i6tqrfpxqbj31hc0ok77c.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/006BPLKbly1i6tqrfpxqbj31hc0ok77c.jpg",
+      "alt": "我是电竞小生",
+      "width": 884,
+      "height": 1920,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx4.sinaimg.cn/large/006BPLKbly1i6tqrfpxqbj31hc0ok77c.jpg"
+      ],
+      "user": "我是电竞小生"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/006lWkKYly1i6u5ujl4flj30u01hcdhx.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/006lWkKYly1i6u5ujl4flj30u01hcdhx.jpg",
+      "alt": "电竞山大王",
+      "width": 1920,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/006lWkKYly1i6u5ujl4flj30u01hcdhx.jpg"
+      ],
+      "user": "电竞山大王"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/0068GZJSgy1i6tmkfpqk7j30z00lmq50.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/0068GZJSgy1i6tmkfpqk7j30z00lmq50.jpg",
+      "alt": "玩加电竞",
+      "width": 778,
+      "height": 1260,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/0068GZJSgy1i6tmkfpqk7j30z00lmq50.jpg"
+      ],
+      "user": "玩加电竞"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/008i7hN1gy1i6u0n3umrlj30zk0k0wfu.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/008i7hN1gy1i6u0n3umrlj30zk0k0wfu.jpg",
+      "alt": "电竞新一",
+      "width": 720,
+      "height": 1280,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/008i7hN1gy1i6u0n3umrlj30zk0k0wfu.jpg"
+      ],
+      "user": "电竞新一"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/0068GZJSgy1i6tmnwr6ulj30xe0u0n0g.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/0068GZJSgy1i6tmnwr6ulj30xe0u0n0g.jpg",
+      "alt": "玩加电竞",
+      "width": 1080,
+      "height": 1202,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/0068GZJSgy1i6tmnwr6ulj30xe0u0n0g.jpg"
+      ],
+      "user": "玩加电竞"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/005SYCMngy1i6to5frwllj30zk0i8js8.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/005SYCMngy1i6to5frwllj30zk0i8js8.jpg",
+      "alt": "落日放映室",
+      "width": 656,
+      "height": 1280,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx4.sinaimg.cn/large/005SYCMngy1i6to5frwllj30zk0i8js8.jpg"
+      ],
+      "user": "落日放映室"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/006lZGoMly1i6u68pag2xj30u01hcdht.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/006lZGoMly1i6u68pag2xj30u01hcdht.jpg",
+      "alt": "电竞操作怪",
+      "width": 1920,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/006lZGoMly1i6u68pag2xj30u01hcdht.jpg"
+      ],
+      "user": "电竞操作怪"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/0068GZJSly1i6tm89xr67j304g03kwec.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/0068GZJSly1i6tm89xr67j304g03kwec.jpg",
+      "alt": "玩加电竞",
+      "width": 128,
+      "height": 160,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/0068GZJSly1i6tm89xr67j304g03kwec.jpg"
+      ],
+      "user": "玩加电竞"
+    }
+  ],
+  "html_path": "data/aicard/hourly/2025-10-30/01/knight.html"
+}

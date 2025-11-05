@@ -1,0 +1,362 @@
+{
+  "meta": {
+    "query": "#Cat即将回归赛场#",
+    "status_code": 200,
+    "fetched_at": "2025-11-03T20:47:39+08:00",
+    "response": {
+      "qs_status_info": "{\"qs_c_status\":8388608,\"ab_lab\":{},\"qs_u_status\":0,\"qs_status\":0,\"qs_r_status\":0,\"qs_q_status\":0}",
+      "model": "deepseek",
+      "cot": 1,
+      "show_ctrl": {
+        "quote": {}
+      },
+      "wenda": {
+        "forward_gen": 0
+      },
+      "share_text": "#Cat即将回归赛场#的相关内容，来智搜看看",
+      "reference_num": 32,
+      "query_category": "",
+      "version": "2025-11-03 20:41:32.026000-2651",
+      "qs_status": 0,
+      "top_quote_list": {},
+      "card_multimodal": {
+        "type": "mediablock",
+        "data": [
+          {
+            "user_avatar": "https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/006vR4PMly8i4ja4q12q9j30u00u0tal.jpg?KID=imgbed,tva&Expires=1762184492&ssig=SfBYtI%2FkbK",
+            "video_url": "",
+            "w": 1080,
+            "hit_score_new": 96.044922,
+            "doc_score": 5572,
+            "img_pid": "006vR4PMly1i6z7zqa207j30u01hcwn3",
+            "h": 1920,
+            "scheme": "sinaweibo://multimedia?mix_mid=5228970121369748&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=1&multi_count=0",
+            "type": "p",
+            "hit_score_final": 78.826958,
+            "click_rate": 0.23476568747668,
+            "cur_mid": "5228970121369748",
+            "vtype": 0,
+            "user_name": "王者小刀口",
+            "img": "http://wx4.sinaimg.cn/middle/006vR4PMly1i6z7zqa207j30u01hcwn3.jpg"
+          },
+          {
+            "user_avatar": "https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/006f2J2xly8hs9xi7l384j30u00u0tby.jpg?KID=imgbed,tva&Expires=1762184492&ssig=VHWLcHjGuU",
+            "video_url": "",
+            "w": 2000,
+            "hit_score_new": 96.777344,
+            "doc_score": 5417,
+            "img_pid": "006f2J2xly1i6z8clw2ugj31jk2bcwwm",
+            "h": 3000,
+            "scheme": "sinaweibo://multimedia?mix_mid=5228973098275420&from=search&content_show=1&mix_index=2&hide_index=1&multi_paragraph=1&multi_count=1",
+            "type": "p",
+            "hit_score_final": 86.466408,
+            "click_rate": 0.10370863868532,
+            "cur_mid": "5228973098275420",
+            "vtype": 0,
+            "user_name": "角落猫M",
+            "img": "http://wx1.sinaimg.cn/middle/006f2J2xly1i6z8clw2ugj31jk2bcwwm.jpg"
+          },
+          {
+            "user_avatar": "https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/006qASKCly8huk5z7d06fj30u00u0417.jpg?KID=imgbed,tva&Expires=1762184492&ssig=%2FCT%2B1p92iH",
+            "video_url": "https://video.weibo.com/show?fid=1034:5228975824502859",
+            "w": 720,
+            "hit_score_new": 99.023438,
+            "doc_score": 5237,
+            "img_pid": "006qASKCly1i6z8p6mtwij30k00a8gml",
+            "h": 368,
+            "scheme": "sinaweibo://video/vvs?mid=5228975908980891&multi_paragraph=1&multi_count=2",
+            "type": "v",
+            "hit_score_final": 85.814064,
+            "click_rate": 0,
+            "cur_mid": "5228975908980891",
+            "vtype": 0,
+            "user_name": "叶秋lucky",
+            "img": "http://wx2.sinaimg.cn/middle/006qASKCly1i6z8p6mtwij30k00a8gml.jpg"
+          },
+          {
+            "user_avatar": "https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/006vR4PMly8i4ja4q12q9j30u00u0tal.jpg?KID=imgbed,tva&Expires=1762184492&ssig=SfBYtI%2FkbK",
+            "video_url": "",
+            "w": 1080,
+            "hit_score_new": 96.044922,
+            "doc_score": 5572,
+            "img_pid": "006vR4PMly1i6z7zqa207j30u01hcwn3",
+            "h": 1920,
+            "scheme": "sinaweibo://multimedia?mix_mid=5228970121369748&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=1&multi_count=0",
+            "type": "p",
+            "hit_score_final": 78.826958,
+            "click_rate": 0.23476568747668,
+            "cur_mid": "5228970121369748",
+            "vtype": 0,
+            "user_name": "王者小刀口",
+            "img": "http://wx4.sinaimg.cn/middle/006vR4PMly1i6z7zqa207j30u01hcwn3.jpg"
+          }
+        ]
+      },
+      "share_card_multimodal": {
+        "user_avatar": "https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/006vR4PMly8i4ja4q12q9j30u00u0tal.jpg?KID=imgbed,tva&Expires=1762184492&ssig=SfBYtI%2FkbK",
+        "video_url": "",
+        "w": 1080,
+        "hit_score_new": 96.044922,
+        "doc_score": 5572,
+        "img_pid": "006vR4PMly1i6z7zqa207j30u01hcwn3",
+        "h": 1920,
+        "scheme": "sinaweibo://multimedia?mix_mid=5228970121369748&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=1&multi_count=0",
+        "type": "p",
+        "hit_score_final": 78.826958,
+        "click_rate": 0.23476568747668,
+        "cur_mid": "5228970121369748",
+        "vtype": 0,
+        "user_name": "王者小刀口",
+        "img": "http://wx4.sinaimg.cn/middle/006vR4PMly1i6z7zqa207j30u01hcwn3.jpg"
+      },
+      "basemodel": "实验组9",
+      "sorted_material_list": null,
+      "q_attr": {
+        "from_request_id": "",
+        "reply_cid": "",
+        "comment_from_type": "",
+        "from_uid": "",
+        "mid": ""
+      },
+      "page_id": "232964f9e7b6be119d090497fb7f8f1d41f821",
+      "share_info": {
+        "page_id": "232964f9e7b6be119d090497fb7f8f1d41f821",
+        "comment_content": "",
+        "url": "http://t.cn/AXA0iGn6",
+        "unify_md5": "eea89d505ca0020c6d10ae1ea4a8ad96",
+        "tips": "#Cat即将回归赛场#的相关内容，来智搜看看",
+        "display_name": "#Cat即将回归赛场#",
+        "status": 3
+      },
+      "zs_risk_control": {
+        "land_button_close": 0,
+        "think_text_close": 0
+      },
+      "chat_status_stage": 1,
+      "msg_format": "markdown",
+      "msg_json": "{}",
+      "abtest_info": {
+        "chat_entrance": 1
+      },
+      "reliable_tips": "{\"gold_orange_v_mids\": [\"5228948109135279\", \"5228981474821488\", \"5228970121369748\", \"5228975908980891\", \"5228973098275420\", \"5177530546132195\", \"5177393300113474\", \"5176359720845712\", \"5228696584847669\", \"5228662099284475\", \"5228659935806952\", \"5228986005455827\", \"5228969542816086\", \"5167628018780972\", \"5166014211817647\", \"5228972092949042\", \"5228984585690128\", \"5228632885695530\", \"5177533452781470\", \"5155186080744270\", \"5155029335150669\", \"5228976284894954\", \"5228971789910498\", \"5177582033044939\", \"5109033100384031\", \"5177380702260808\"], \"gold_orange_v_ratio\": \"81%\", \"media_mids\": [], \"media_ratio\": \"0%\", \"verified_mids\": [\"5228979577427572\", \"5228995332541940\", \"5228995933374967\", \"5228995864956396\", \"5228987585660468\"], \"verified_ratio\": \"16%\", \"normal_mids\": [\"5228982396261234\"], \"normal_ratio\": \"3%\", \"ref_mid_rank\": {\"5228948109135279\": {\"rank\": 1}, \"5228981474821488\": {\"rank\": 23}, \"5228979577427572\": {\"rank\": 24}, \"5228970121369748\": {\"rank\": 13}, \"5228975908980891\": {\"rank\": 14}, \"5228973098275420\": {\"rank\": 15}, \"5177530546132195\": {\"rank\": 28}, \"5177393300113474\": {\"rank\": 30}, \"5176359720845712\": {\"rank\": 34}, \"5228696584847669\": {\"rank\": 17}, \"5228662099284475\": {\"rank\": 18}, \"5228659935806952\": {\"rank\": 3}, \"5228986005455827\": {\"rank\": 25}, \"5228969542816086\": {\"rank\": 29}, \"5167628018780972\": {\"rank\": 36}, \"5166014211817647\": {\"rank\": 33}, \"5228972092949042\": {\"rank\": 12}, \"5228995332541940\": {\"rank\": 21}, \"5228984585690128\": {\"rank\": 2}, \"5228632885695530\": {\"rank\": 4}, \"5177533452781470\": {\"rank\": 5}, \"5155186080744270\": {\"rank\": 6}, \"5155029335150669\": {\"rank\": 7}, \"5228976284894954\": {\"rank\": 16}, \"5228995933374967\": {\"rank\": 19}, \"5228995864956396\": {\"rank\": 20}, \"5228987585660468\": {\"rank\": 22}, \"5228982396261234\": {\"rank\": 26}, \"5228971789910498\": {\"rank\": 27}, \"5177582033044939\": {\"rank\": 31}, \"5109033100384031\": {\"rank\": 32}, \"5177380702260808\": {\"rank\": 35}}}",
+      "status": 2,
+      "unify_md5": "eea89d505ca0020c6d10ae1ea4a8ad96",
+      "uid": "",
+      "mid_list": null,
+      "loop_times": 200,
+      "short_url": "http://t.cn/AXA0qsDb",
+      "ab_suffix": "default",
+      "status_stage": 4,
+      "scheme": "sinaweibo://cardlist?containerid=100103type%3D225%26q%3D%23cat%E5%8D%B3%E5%B0%86%E5%9B%9E%E5%BD%92%E8%B5%9B%E5%9C%BA%23%26t%3D&extparam=ai_model%3Ddeepseek%26ori_ai_title%3D%E5%8F%82%E8%80%83%E5%8D%9A%E6%96%87%26material_version%3D1762173692",
+      "ext_show": {},
+      "profile_image_url": "",
+      "user_info": {},
+      "msg": "<think><br>嗯，用户查询的是关于\"cat即将回归赛场\"的信息，我需要整理搜索结果中的关键内容。首先看到Cat本人11月3日发的微博，他明确表示在休息两年后决定回归赛场，感谢粉丝支持，强调\"奔赴热爱\"。这里的关键点是他的回归身份，虽然有些用户猜测他转型教练（比如结果21提到\"猫神转型教练\"），但根据资料结果8和认证账号的分析，他本人声明中未提及身份转换，而是提到追求\"三位置冠军\"目标，因此可以确认是以选手身份复出。<br><br>时间线方面，Cat上一次正式比赛是2025年6月14日，当时他时隔252天以游走位身份回归，但那次只是临时出场。这次的复出是长期计划，预计从2025-2026赛季开始，具体首秀时间待定。<br><br>粉丝反应也很热烈，比如结果2提到他是KPL唯一中路辅助双位置冠军选手，结果3则用\"三位置冠军\"作为应援口号。现场互动方面，结果17描述粉丝举牌和他的回应，体现双向奔赴。<br><br>关于他的职业生涯背景，结果11提到他是七冠选手，双FMVP，从QGHappy时期就活跃，经历过中单到辅助的转型。高龄选手的挑战在结果10中有详细分析，包括身体压力和心态变化，但结果25认为他的回归具有突破职业桎梏的象征意义。<br><br>需要澄清的是教练转型传闻的矛盾点：结果12、13、14、15、21等账号提到\"猫教\"\"教练身份\"，但Cat本人发言和俱乐部均未确认，资料结果8明确指出没有转型声明。因此这部分信息属于粉丝推测，应以官方信息为准。<br><br>最后整理复出时间轴：2024年10月短暂回归→2025年6月临时登场→2025年11月宣布长期回归。俱乐部层面，结果33提到他和替补选手大帅的互动，暗示可能轮换上场。<br><br></think><br>根据最新信息综合整理，关于王者荣耀职业选手Cat（陈正正）回归赛场的核心动态及背景如下：<br>### 🔥 一、回归官宣与身份确认  <br>1. **复出声明**  <br>   2025年11月3日，Cat通过微博正式宣布回归职业赛场，明确表示**以选手身份复出**。他提到休息近两年间虽享受直播陪伴粉丝的时光，但最终“离不开赛场”，决定“奔赴热爱”，并感谢现场粉丝的应援支持。```wbCustomBlock{\"type\": \"quoted\", \"index\": 3, \"data\": {\"num\": [1, 23, 24], \"version\": 2, \"quote_list\": [{\"name\": \"陈正CatGod\", \"scheme\": \"sinaweibo://detail?mblogid=5228948109135279\", \"index\": 1, \"label\": \"大v\"}, {\"name\": \"眠雨帘\", \"scheme\": \"sinaweibo://detail?mblogid=5228981474821488\", \"index\": 23, \"label\": \"\"}, {\"name\": \"虎牙绝弦\", \"scheme\": \"sinaweibo://detail?mblogid=5228979577427572\", \"index\": 24, \"label\": \"\"}], \"name\": \"陈正CatGod\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.512.512.50/005DzfCcly8hsd4j9wb08j30e80e874v.jpg?KID=imgbed,tva&Expires=1762184492&ssig=OU597qgbLx\", \"scheme\": \"sinaweibo://detail?mblogid=5228948109135279\", \"vType\": 0}}```  <br>   - **目标定位**：他强调追求“三位置冠军”（中单、辅助及可能的新位置），未提及任何转型计划。```wbCustomBlock{\"type\": \"quoted\", \"index\": 4, \"data\": {\"num\": [23], \"version\": 2, \"quote_list\": [{\"name\": \"眠雨帘\", \"scheme\": \"sinaweibo://detail?mblogid=5228981474821488\", \"index\": 23, \"label\": \"\"}]}}```  <br>   - **时间节点**：计划在2025年KPL年度总决赛（鸟巢决赛）观赛后正式回归，预计从2025-2026赛季开始参赛，具体首秀时间待俱乐部公布。```wbCustomBlock{\"type\": \"quoted\", \"index\": 5, \"data\": {\"num\": [13, 23, 24], \"version\": 2, \"quote_list\": [{\"name\": \"王者小刀口\", \"scheme\": \"sinaweibo://detail?mblogid=5228970121369748\", \"index\": 13, \"label\": \"大v\"}, {\"name\": \"眠雨帘\", \"scheme\": \"sinaweibo://detail?mblogid=5228981474821488\", \"index\": 23, \"label\": \"\"}, {\"name\": \"虎牙绝弦\", \"scheme\": \"sinaweibo://detail?mblogid=5228979577427572\", \"index\": 24, \"label\": \"\"}], \"name\": \"王者小刀口\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/006vR4PMly8i4ja4q12q9j30u00u0tal.jpg?KID=imgbed,tva&Expires=1762184492&ssig=SfBYtI%2FkbK\", \"scheme\": \"sinaweibo://detail?mblogid=5228970121369748\", \"vType\": 0}}```<br><br>2. **澄清教练传闻**  <br>   尽管部分粉丝猜测其可能转型教练（如“期待猫教上线”），但Cat本人声明和俱乐部均未确认此身份。现有资料明确指出其复出身份为**职业选手**，非教练或管理岗。```wbCustomBlock{\"type\": \"quoted\", \"index\": 6, \"data\": {\"num\": [13, 14, 15, 23], \"version\": 2, \"quote_list\": [{\"name\": \"角落猫M\", \"scheme\": \"sinaweibo://detail?mblogid=5228973098275420\", \"index\": 15, \"label\": \"大v\"}, {\"name\": \"王者小刀口\", \"scheme\": \"sinaweibo://detail?mblogid=5228970121369748\", \"index\": 13, \"label\": \"\"}, {\"name\": \"叶秋lucky\", \"scheme\": \"sinaweibo://detail?mblogid=5228975908980891\", \"index\": 14, \"label\": \"\"}, {\"name\": \"眠雨帘\", \"scheme\": \"sinaweibo://detail?mblogid=5228981474821488\", \"index\": 23, \"label\": \"\"}], \"name\": \"角落猫M\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/006f2J2xly8hs9xi7l384j30u00u0tby.jpg?KID=imgbed,tva&Expires=1762184492&ssig=VHWLcHjGuU\", \"scheme\": \"sinaweibo://detail?mblogid=5228973098275420\", \"vType\": 0}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5228970121369748&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=1&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/006vR4PMly8i4ja4q12q9j30u00u0tal.jpg?KID=imgbed,tva&Expires=1762184492&ssig=SfBYtI%2FkbK) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">王者小刀口</span><img src=\"http://wx4.sinaimg.cn/middle/006vR4PMly1i6z7zqa207j30u01hcwn3.jpg\" data-width=1920 data-height=1080></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5228973098275420&from=search&content_show=1&mix_index=2&hide_index=1&multi_paragraph=1&multi_count=1\"><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/006f2J2xly8hs9xi7l384j30u00u0tby.jpg?KID=imgbed,tva&Expires=1762184492&ssig=VHWLcHjGuU) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">角落猫M</span><img src=\"http://wx1.sinaimg.cn/middle/006f2J2xly1i6z8clw2ugj31jk2bcwwm.jpg\" data-width=3000 data-height=2000></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5228975908980891&multi_paragraph=1&multi_count=2\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/006qASKCly8huk5z7d06fj30u00u0417.jpg?KID=imgbed,tva&Expires=1762184492&ssig=%2FCT%2B1p92iH) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">叶秋lucky</span><img src=\"http://wx2.sinaimg.cn/middle/006qASKCly1i6z8p6mtwij30k00a8gml.jpg\" data-width=368 data-height=720></div></media-block><br>### ⏳ 二、历史回归背景与职业挑战  <br>1. **近期赛场缺席与复出尝试**  <br>   - 2025年6月14日曾以游走位临时回归AG超玩会，对阵eStarPro，距离此前比赛间隔252天。此次复出仅限单场，后续赛事仍由大帅担任首发。```wbCustomBlock{\"type\": \"quoted\", \"index\": 9, \"data\": {\"num\": [28, 30], \"version\": 2, \"quote_list\": [{\"name\": \"AIexChan-Gryffindor\", \"scheme\": \"sinaweibo://detail?mblogid=5177393300113474\", \"index\": 30, \"label\": \"大v\"}, {\"name\": \"熊熊无聊_\", \"scheme\": \"sinaweibo://detail?mblogid=5177530546132195\", \"index\": 28, \"label\": \"\"}], \"name\": \"AIexChan-Gryffindor\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/006z8P3Uly8h78bef8s2sj30u00u0jto.jpg?KID=imgbed,tva&Expires=1762184492&ssig=HYsLh0PURQ\", \"scheme\": \"sinaweibo://detail?mblogid=5177393300113474\", \"vType\": 0}}```  <br>   - 更早的2024年10月，他有过“首发重回赛场”记录（间隔277天）。<br><br>2. **高龄选手的挑战**  <br>   - **身心压力**：长期训练导致耳鸣、脱发等问题，2024年曾因焦虑失眠暂停比赛并接受心理干预。  <br>   - **心态转变**：从“主导者”转向“防御型”，更关注“避免拖累队伍”，反映职业末期信心不足。  <br>   - **舆论争议**：部分观众质疑其状态下滑和临时轮换合理性，认为俱乐部“消费情怀”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 14, \"data\": {\"num\": [34], \"version\": 2, \"quote_list\": [{\"name\": \"电竞刺头哥\", \"scheme\": \"sinaweibo://detail?mblogid=5176359720845712\", \"index\": 34, \"label\": \"\"}]}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5177530546132195&from=search&content_show=1&mix_index=4&hide_index=1&multi_paragraph=2&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/00740vVCly8hsmlrxry5ej30u00u0go6.jpg?KID=imgbed,tva&Expires=1762184492&ssig=kzDO8bPCmI) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">熊熊无聊_</span><img src=\"http://wx2.sinaimg.cn/middle/00740vVCgy1i2f49l4lspj311t0kzkg9.jpg\" data-width=755 data-height=1361></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5177393300113474&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=2&multi_count=1\"><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/006z8P3Uly8h78bef8s2sj30u00u0jto.jpg?KID=imgbed,tva&Expires=1762184492&ssig=HYsLh0PURQ) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">AIexChan-Gryffindor</span><img src=\"http://wx1.sinaimg.cn/middle/006z8P3Uly1i2eoigodg2j31hc0u01kx.jpg\" data-width=1080 data-height=1920></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5176359720845712&multi_paragraph=2&multi_count=2\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/006lWwYJly8hbuscowkbsj30u00u041g.jpg?KID=imgbed,tva&Expires=1762184492&ssig=6kcJ8mMcy3) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">电竞刺头哥</span><img src=\"http://wx3.sinaimg.cn/middle/006lWwYJly1i2bdsosp9uj30k00zkq4i.jpg\" data-width=1280 data-height=720></div></media-block><br>### 🌟 三、粉丝与行业反响  <br>1. **粉丝支持**  <br>   - 回归话题#Cat即将回归赛场#登上热搜，粉丝称其为“双向奔赴”，现场举牌应援获Cat回应。```wbCustomBlock{\"type\": \"quoted\", \"index\": 17, \"data\": {\"num\": [17, 18], \"version\": 2, \"quote_list\": [{\"name\": \"摇铃唤小白鹿\", \"scheme\": \"sinaweibo://detail?mblogid=5228662099284475\", \"index\": 18, \"label\": \"大v\"}, {\"name\": \"熊熊无聊_\", \"scheme\": \"sinaweibo://detail?mblogid=5228696584847669\", \"index\": 17, \"label\": \"\"}], \"name\": \"摇铃唤小白鹿\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.512.512.50/005PFiWGly8hkfm577hoqj30e80e8jru.jpg?KID=imgbed,tva&Expires=1762184492&ssig=OKSBSxxskD\", \"scheme\": \"sinaweibo://detail?mblogid=5228662099284475\", \"vType\": 0}}```  <br>   - 赞誉其“从头再来的勇气”，期待达成“三位置冠军”成就。```wbCustomBlock{\"type\": \"quoted\", \"index\": 18, \"data\": {\"num\": [3, 25, 29], \"version\": 2, \"quote_list\": [{\"name\": \"熊熊无聊_\", \"scheme\": \"sinaweibo://detail?mblogid=5228659935806952\", \"index\": 3, \"label\": \"大v\"}, {\"name\": \"呆咪妹则\", \"scheme\": \"sinaweibo://detail?mblogid=5228986005455827\", \"index\": 25, \"label\": \"\"}, {\"name\": \"熊熊无聊_\", \"scheme\": \"sinaweibo://detail?mblogid=5228969542816086\", \"index\": 29, \"label\": \"\"}], \"name\": \"熊熊无聊_\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/00740vVCly8hsmlrxry5ej30u00u0go6.jpg?KID=imgbed,tva&Expires=1762184492&ssig=kzDO8bPCmI\", \"scheme\": \"sinaweibo://detail?mblogid=5228659935806952\", \"vType\": 0}}```<br><br>2. **行业评价**  <br>   - **象征意义**：被视为“高龄选手突破职业桎梏”的标志性事件，展现电竞精神延续性。```wbCustomBlock{\"type\": \"quoted\", \"index\": 20, \"data\": {\"num\": [25, 34], \"version\": 2, \"quote_list\": [{\"name\": \"呆咪妹则\", \"scheme\": \"sinaweibo://detail?mblogid=5228986005455827\", \"index\": 25, \"label\": \"\"}, {\"name\": \"电竞刺头哥\", \"scheme\": \"sinaweibo://detail?mblogid=5176359720845712\", \"index\": 34, \"label\": \"\"}]}}```  <br>   - **战术价值**：资深解说肯定其大局观和指挥能力，认为经验可补足团队决策短板。```wbCustomBlock{\"type\": \"quoted\", \"index\": 21, \"data\": {\"num\": [34], \"version\": 2, \"quote_list\": [{\"name\": \"电竞刺头哥\", \"scheme\": \"sinaweibo://detail?mblogid=5176359720845712\", \"index\": 34, \"label\": \"\"}]}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5228696584847669&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=3&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/00740vVCly8hsmlrxry5ej30u00u0go6.jpg?KID=imgbed,tva&Expires=1762184492&ssig=kzDO8bPCmI) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">熊熊无聊_</span><img src=\"http://wx2.sinaimg.cn/middle/00740vVCgy1i6ycl6fg5tj31rs35cb29.jpg\" data-width=4080 data-height=2296></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5228662099284475&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=3&multi_count=1\"><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.512.512.50/005PFiWGly8hkfm577hoqj30e80e8jru.jpg?KID=imgbed,tva&Expires=1762184492&ssig=OKSBSxxskD) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">摇铃唤小白鹿</span><img src=\"http://wx2.sinaimg.cn/middle/005PFiWGgy1i6y8nrmby9g30w00k0x6v.gif\" data-width=720 data-height=1152></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5228659935806952&multi_paragraph=3&multi_count=2\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/00740vVCly8hsmlrxry5ej30u00u0go6.jpg?KID=imgbed,tva&Expires=1762184492&ssig=kzDO8bPCmI) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">熊熊无聊_</span><img src=\"http://wx4.sinaimg.cn/middle/00740vVCgy1i6y8ceyspaj31hc0u0tba.jpg\" data-width=1080 data-height=1920></div></media-block><br>### 📅 四、未来展望与潜在挑战  <br>- **短期目标**：通过夏季赛常规赛恢复状态，减少操作失误。```wbCustomBlock{\"type\": \"quoted\", \"index\": 23, \"data\": {\"num\": [36], \"version\": 2, \"quote_list\": [{\"name\": \"峡谷王处长\", \"scheme\": \"sinaweibo://detail?mblogid=5167628018780972\", \"index\": 36, \"label\": \"大v\"}], \"name\": \"峡谷王处长\", \"img\": \"https://tvax2.sinaimg.cn/crop.4.0.175.175.50/007DuzxKly8glnd15nl0fj3050050a9z.jpg?KID=imgbed,tva&Expires=1762184492&ssig=D0jotR8ifz\", \"scheme\": \"sinaweibo://detail?mblogid=5167628018780972\", \"vType\": 0}}```  <br>- **长期规划**：俱乐部透露其复出或非全职，可能与新秀轮换（如大帅），电竞世界杯（EWC）仍以替补为主。```wbCustomBlock{\"type\": \"quoted\", \"index\": 24, \"data\": {\"num\": [33], \"version\": 2, \"quote_list\": [{\"name\": \"电竞吃瓜小君\", \"scheme\": \"sinaweibo://detail?mblogid=5166014211817647\", \"index\": 33, \"label\": \"大v\"}], \"name\": \"电竞吃瓜小君\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/008rZ8sLly8hjk90pblpvj30u00u0gou.jpg?KID=imgbed,tva&Expires=1762184492&ssig=E5loBeafoY\", \"scheme\": \"sinaweibo://detail?mblogid=5166014211817647\", \"vType\": 0}}```  <br>- **关键挑战**：平衡高龄选手的体能局限与竞技需求，应对舆论压力及角色转型落差。```wbCustomBlock{\"type\": \"quoted\", \"index\": 25, \"data\": {\"num\": [25, 34], \"version\": 2, \"quote_list\": [{\"name\": \"呆咪妹则\", \"scheme\": \"sinaweibo://detail?mblogid=5228986005455827\", \"index\": 25, \"label\": \"\"}, {\"name\": \"电竞刺头哥\", \"scheme\": \"sinaweibo://detail?mblogid=5176359720845712\", \"index\": 34, \"label\": \"\"}]}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5167628018780972&multi_paragraph=4&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.4.0.175.175.50/007DuzxKly8glnd15nl0fj3050050a9z.jpg?KID=imgbed,tva&Expires=1762184492&ssig=D0jotR8ifz) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">峡谷王处长</span><img src=\"http://wx3.sinaimg.cn/middle/007DuzxKgy1i1jizpz603j30u00gwjsr.jpg\" data-width=608 data-height=1080></div></media-block><br>### ⚠️ 争议点说明  <br>部分账号误传Cat将“转型教练”，但经核查：```wbCustomBlock{\"type\": \"quoted\", \"index\": 26, \"data\": {\"num\": [12, 13, 14, 21], \"version\": 2, \"quote_list\": [{\"name\": \"极光AuR\", \"scheme\": \"sinaweibo://detail?mblogid=5228972092949042\", \"index\": 12, \"label\": \"大v\"}, {\"name\": \"王者小刀口\", \"scheme\": \"sinaweibo://detail?mblogid=5228970121369748\", \"index\": 13, \"label\": \"\"}, {\"name\": \"叶秋lucky\", \"scheme\": \"sinaweibo://detail?mblogid=5228975908980891\", \"index\": 14, \"label\": \"\"}, {\"name\": \"王者荣耀游戏攻略\", \"scheme\": \"sinaweibo://detail?mblogid=5228995332541940\", \"index\": 21, \"label\": \"\"}], \"name\": \"极光AuR\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.512.512.50/005TBZ0Uly8gybt9zlc0ej30e80e8jrx.jpg?KID=imgbed,tva&Expires=1762184492&ssig=dMPSfZ6KyB\", \"scheme\": \"sinaweibo://detail?mblogid=5228972092949042\", \"vType\": 0}}```  <br>> 🔍 此说法源于粉丝推测或文案歧义，Cat本人声明及权威资料均明确其以**选手身份复出**，相关内容需以官方信息为准。```wbCustomBlock{\"type\": \"quoted\", \"index\": 27, \"data\": {\"num\": [23, 24], \"version\": 2, \"quote_list\": [{\"name\": \"眠雨帘\", \"scheme\": \"sinaweibo://detail?mblogid=5228981474821488\", \"index\": 23, \"label\": \"\"}, {\"name\": \"虎牙绝弦\", \"scheme\": \"sinaweibo://detail?mblogid=5228979577427572\", \"index\": 24, \"label\": \"\"}]}}```<br><br>Cat的回归既是个人热爱的延续，也映射了电竞行业对高龄选手的包容性探索，后续表现值得持续关注！<br>",
+      "query_field": "47",
+      "current_time": 1762174060,
+      "query": "#Cat即将回归赛场#",
+      "comment_info": {},
+      "analysis_time": 1762173827,
+      "link_list": [
+        "sinaweibo://detail?mblogid=5228948109135279",
+        "sinaweibo://detail?mblogid=5228984585690128",
+        "sinaweibo://detail?mblogid=5228659935806952",
+        "sinaweibo://detail?mblogid=5228632885695530",
+        "sinaweibo://detail?mblogid=5177533452781470",
+        "sinaweibo://detail?mblogid=5155186080744270",
+        "sinaweibo://detail?mblogid=5155029335150669",
+        "broadsocial_res://",
+        "historyweibo://5085134792167266",
+        "historyweibo://5177567594156430",
+        "historyweibo://5177527523088899",
+        "sinaweibo://detail?mblogid=5228972092949042",
+        "sinaweibo://detail?mblogid=5228970121369748",
+        "sinaweibo://detail?mblogid=5228975908980891",
+        "sinaweibo://detail?mblogid=5228973098275420",
+        "sinaweibo://detail?mblogid=5228976284894954",
+        "sinaweibo://detail?mblogid=5228696584847669",
+        "sinaweibo://detail?mblogid=5228662099284475",
+        "sinaweibo://detail?mblogid=5228995933374967",
+        "sinaweibo://detail?mblogid=5228995864956396",
+        "sinaweibo://detail?mblogid=5228995332541940",
+        "sinaweibo://detail?mblogid=5228987585660468",
+        "sinaweibo://detail?mblogid=5228981474821488",
+        "sinaweibo://detail?mblogid=5228979577427572",
+        "sinaweibo://detail?mblogid=5228986005455827",
+        "sinaweibo://detail?mblogid=5228982396261234",
+        "sinaweibo://detail?mblogid=5228971789910498",
+        "sinaweibo://detail?mblogid=5177530546132195",
+        "sinaweibo://detail?mblogid=5228969542816086",
+        "sinaweibo://detail?mblogid=5177393300113474",
+        "sinaweibo://detail?mblogid=5177582033044939",
+        "sinaweibo://detail?mblogid=5109033100384031",
+        "sinaweibo://detail?mblogid=5166014211817647",
+        "sinaweibo://detail?mblogid=5176359720845712",
+        "sinaweibo://detail?mblogid=5177380702260808",
+        "sinaweibo://detail?mblogid=5167628018780972"
+      ],
+      "news_analyze": {}
+    }
+  },
+  "links": [
+    "sinaweibo://detail?mblogid=5228948109135279",
+    "sinaweibo://detail?mblogid=5228984585690128",
+    "sinaweibo://detail?mblogid=5228659935806952",
+    "sinaweibo://detail?mblogid=5228632885695530",
+    "sinaweibo://detail?mblogid=5177533452781470",
+    "sinaweibo://detail?mblogid=5155186080744270",
+    "sinaweibo://detail?mblogid=5155029335150669",
+    "broadsocial_res://",
+    "historyweibo://5085134792167266",
+    "historyweibo://5177567594156430",
+    "historyweibo://5177527523088899",
+    "sinaweibo://detail?mblogid=5228972092949042",
+    "sinaweibo://detail?mblogid=5228970121369748",
+    "sinaweibo://detail?mblogid=5228975908980891",
+    "sinaweibo://detail?mblogid=5228973098275420",
+    "sinaweibo://detail?mblogid=5228976284894954",
+    "sinaweibo://detail?mblogid=5228696584847669",
+    "sinaweibo://detail?mblogid=5228662099284475",
+    "sinaweibo://detail?mblogid=5228995933374967",
+    "sinaweibo://detail?mblogid=5228995864956396",
+    "sinaweibo://detail?mblogid=5228995332541940",
+    "sinaweibo://detail?mblogid=5228987585660468",
+    "sinaweibo://detail?mblogid=5228981474821488",
+    "sinaweibo://detail?mblogid=5228979577427572",
+    "sinaweibo://detail?mblogid=5228986005455827",
+    "sinaweibo://detail?mblogid=5228982396261234",
+    "sinaweibo://detail?mblogid=5228971789910498",
+    "sinaweibo://detail?mblogid=5177530546132195",
+    "sinaweibo://detail?mblogid=5228969542816086",
+    "sinaweibo://detail?mblogid=5177393300113474",
+    "sinaweibo://detail?mblogid=5177582033044939",
+    "sinaweibo://detail?mblogid=5109033100384031",
+    "sinaweibo://detail?mblogid=5166014211817647",
+    "sinaweibo://detail?mblogid=5176359720845712",
+    "sinaweibo://detail?mblogid=5177380702260808",
+    "sinaweibo://detail?mblogid=5167628018780972"
+  ],
+  "media": [
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/006vR4PMly1i6z7zqa207j30u01hcwn3.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/006vR4PMly1i6z7zqa207j30u01hcwn3.jpg",
+      "alt": "王者小刀口",
+      "width": 1920,
+      "height": 1080,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/006vR4PMly1i6z7zqa207j30u01hcwn3.jpg"
+      ],
+      "user": "王者小刀口"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/006f2J2xly1i6z8clw2ugj31jk2bcwwm.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/006f2J2xly1i6z8clw2ugj31jk2bcwwm.jpg",
+      "alt": "角落猫M",
+      "width": 3000,
+      "height": 2000,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/006f2J2xly1i6z8clw2ugj31jk2bcwwm.jpg"
+      ],
+      "user": "角落猫M"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/006qASKCly1i6z8p6mtwij30k00a8gml.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/006qASKCly1i6z8p6mtwij30k00a8gml.jpg",
+      "alt": "叶秋lucky",
+      "width": 368,
+      "height": 720,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/006qASKCly1i6z8p6mtwij30k00a8gml.jpg"
+      ],
+      "user": "叶秋lucky"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/00740vVCgy1i2f49l4lspj311t0kzkg9.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/00740vVCgy1i2f49l4lspj311t0kzkg9.jpg",
+      "alt": "熊熊无聊_",
+      "width": 755,
+      "height": 1361,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/00740vVCgy1i2f49l4lspj311t0kzkg9.jpg"
+      ],
+      "user": "熊熊无聊_"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/006z8P3Uly1i2eoigodg2j31hc0u01kx.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/006z8P3Uly1i2eoigodg2j31hc0u01kx.jpg",
+      "alt": "AIexChan-Gryffindor",
+      "width": 1080,
+      "height": 1920,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/006z8P3Uly1i2eoigodg2j31hc0u01kx.jpg"
+      ],
+      "user": "AIexChan-Gryffindor"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/006lWwYJly1i2bdsosp9uj30k00zkq4i.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/006lWwYJly1i2bdsosp9uj30k00zkq4i.jpg",
+      "alt": "电竞刺头哥",
+      "width": 1280,
+      "height": 720,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/006lWwYJly1i2bdsosp9uj30k00zkq4i.jpg"
+      ],
+      "user": "电竞刺头哥"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/00740vVCgy1i6ycl6fg5tj31rs35cb29.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/00740vVCgy1i6ycl6fg5tj31rs35cb29.jpg",
+      "alt": "熊熊无聊_",
+      "width": 4080,
+      "height": 2296,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/00740vVCgy1i6ycl6fg5tj31rs35cb29.jpg"
+      ],
+      "user": "熊熊无聊_"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/005PFiWGgy1i6y8nrmby9g30w00k0x6v.gif",
+      "secure_url": "https://wx2.sinaimg.cn/middle/005PFiWGgy1i6y8nrmby9g30w00k0x6v.gif",
+      "alt": "摇铃唤小白鹿",
+      "width": 720,
+      "height": 1152,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/005PFiWGgy1i6y8nrmby9g30w00k0x6v.jpg"
+      ],
+      "user": "摇铃唤小白鹿"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/00740vVCgy1i6y8ceyspaj31hc0u0tba.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/00740vVCgy1i6y8ceyspaj31hc0u0tba.jpg",
+      "alt": "熊熊无聊_",
+      "width": 1080,
+      "height": 1920,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/00740vVCgy1i6y8ceyspaj31hc0u0tba.jpg"
+      ],
+      "user": "熊熊无聊_"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/007DuzxKgy1i1jizpz603j30u00gwjsr.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/007DuzxKgy1i1jizpz603j30u00gwjsr.jpg",
+      "alt": "峡谷王处长",
+      "width": 608,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/007DuzxKgy1i1jizpz603j30u00gwjsr.jpg"
+      ],
+      "user": "峡谷王处长"
+    }
+  ],
+  "html_path": "data/aicard/hourly/2025-11-03/20/cat.html"
+}

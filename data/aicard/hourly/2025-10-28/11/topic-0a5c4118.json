@@ -1,0 +1,267 @@
+{
+  "meta": {
+    "query": "#京东黄金降价#",
+    "status_code": 200,
+    "fetched_at": "2025-10-28T17:47:19+08:00",
+    "response": {
+      "top_quote_list": {},
+      "model": "deepseek",
+      "query_field": "12",
+      "basemodel": "实验组3",
+      "uid": "",
+      "share_text": "#京东黄金降价#的相关内容，来智搜看看",
+      "status": 2,
+      "zs_risk_control": {
+        "think_text_close": 0,
+        "land_button_close": 0
+      },
+      "msg_format": "markdown",
+      "cot": 1,
+      "msg_json": "{}",
+      "news_analyze": {},
+      "scheme": "sinaweibo://cardlist?containerid=100103type%3D225%26q%3D%23%E4%BA%AC%E4%B8%9C%E9%BB%84%E9%87%91%E9%99%8D%E4%BB%B7%23%26t%3D&extparam=ai_model%3Ddeepseek%26ori_ai_title%3D%E5%8F%82%E8%80%83%E5%8D%9A%E6%96%87%26material_version%3D1761641814",
+      "current_time": 1761644839,
+      "profile_image_url": "",
+      "user_info": {},
+      "page_id": "2329644350d0f4dc0a5c13afae326358ea95ce",
+      "show_ctrl": {
+        "quote": {}
+      },
+      "ab_suffix": "default",
+      "unify_md5": "0a5c411852dd577a62c2bcb07780761c",
+      "qs_status_info": "{\"qs_q_status\":0,\"qs_c_status\":8388608,\"ab_lab\":{},\"qs_u_status\":0,\"qs_status\":0,\"qs_r_status\":0}",
+      "sorted_material_list": null,
+      "loop_times": 200,
+      "qs_status": 0,
+      "abtest_info": {
+        "chat_entrance": 1
+      },
+      "card_multimodal": {
+        "type": "mediablock",
+        "data": [
+          {
+            "doc_score": 0,
+            "h": 1200,
+            "img_pid": "001Sg0Wnly1i6dznamj0pj60p00xcqm702",
+            "w": 900,
+            "img": "http://wx1.sinaimg.cn/middle/001Sg0Wnly1i6dznamj0pj60p00xcqm702.jpg",
+            "scheme": "sinaweibo://multimedia?mix_mid=5222055408046787&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=0",
+            "cur_mid": "5222055408046787",
+            "type": "p",
+            "user_name": "京东",
+            "hit_score_final": 0,
+            "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/001Sg0Wnly8hvkd8i71zkj60u00u0js702.jpg?KID=imgbed,tva&Expires=1761652614&ssig=XlNDZYk55f",
+            "vtype": 2,
+            "video_url": "",
+            "click_rate": 0.10526315789474,
+            "hit_score_new": 0
+          },
+          {
+            "doc_score": 0,
+            "h": 1920,
+            "img_pid": "001NmG29gy1i6raw8tnq2j60u01hcjv102",
+            "w": 1080,
+            "img": "http://wx4.sinaimg.cn/middle/001NmG29gy1i6raw8tnq2j60u01hcjv102.jpg",
+            "scheme": "sinaweibo://video/vvs?mid=5226639395127863&multi_paragraph=1&multi_count=1",
+            "cur_mid": "5226639395127863",
+            "type": "v",
+            "user_name": "南风窗",
+            "hit_score_final": 0,
+            "user_avatar": "https://tvax2.sinaimg.cn/crop.0.0.290.290.50/001NmG29ly8h8vg8sejn2j6082082dfr02.jpg?KID=imgbed,tva&Expires=1761652614&ssig=RVjlksqElj",
+            "vtype": 3,
+            "video_url": "https://video.weibo.com/show?fid=1034:5226487297540200",
+            "click_rate": 0,
+            "hit_score_new": 0
+          },
+          {
+            "doc_score": 4479,
+            "h": 1280,
+            "img_pid": "008cHdLily1i6cz970qtbj30k00zk3z9",
+            "w": 720,
+            "img": "http://wx1.sinaimg.cn/middle/008cHdLily1i6cz970qtbj30k00zk3z9.jpg",
+            "scheme": "sinaweibo://video/vvs?mid=5226643121505147&multi_paragraph=1&multi_count=2",
+            "cur_mid": "5226643121505147",
+            "type": "v",
+            "user_name": "光芒视频",
+            "hit_score_final": 91.355469,
+            "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.1002.1002.50/0080XO97ly8gog28jsgqpj30ru0ru74n.jpg?KID=imgbed,tva&Expires=1761652614&ssig=hQOQZ1JOK9",
+            "vtype": 2,
+            "video_url": "https://video.weibo.com/show?fid=1034:5221995286036516",
+            "click_rate": 0,
+            "hit_score_new": 98.925781
+          },
+          {
+            "doc_score": 0,
+            "h": 1200,
+            "img_pid": "001Sg0Wnly1i6dznamj0pj60p00xcqm702",
+            "w": 900,
+            "img": "http://wx1.sinaimg.cn/middle/001Sg0Wnly1i6dznamj0pj60p00xcqm702.jpg",
+            "scheme": "sinaweibo://multimedia?mix_mid=5222055408046787&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=0",
+            "cur_mid": "5222055408046787",
+            "type": "p",
+            "user_name": "京东",
+            "hit_score_final": 0,
+            "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/001Sg0Wnly8hvkd8i71zkj60u00u0js702.jpg?KID=imgbed,tva&Expires=1761652614&ssig=XlNDZYk55f",
+            "vtype": 2,
+            "video_url": "",
+            "click_rate": 0.10526315789474,
+            "hit_score_new": 0
+          }
+        ]
+      },
+      "q_attr": {
+        "from_uid": "",
+        "from_request_id": ""
+      },
+      "version": "2025-10-28 16:56:54.035000-9311",
+      "analysis_time": 1761641927,
+      "short_url": "http://t.cn/AXwDNfNZ",
+      "query": "#京东黄金降价#",
+      "reference_num": 21,
+      "wenda": {
+        "forward_gen": 0
+      },
+      "reliable_tips": "{\"gold_orange_v_mids\": [\"5226699021091975\", \"5226644903038156\", \"5226646747483494\", \"5226645564686974\", \"5226645631795965\", \"5226645994344003\", \"5226736942055833\", \"5226742824568482\", \"5226685013430803\", \"5226686731781793\"], \"gold_orange_v_ratio\": \"48%\", \"media_mids\": [\"5226639395127863\", \"5226639395914375\", \"5226645172257479\", \"5226643432149462\", \"5226651772519362\", \"5226660160865658\", \"5226644286473694\"], \"media_ratio\": \"33%\", \"verified_mids\": [\"5222055408046787\", \"5226643121505147\", \"5226643784208342\", \"5226657323680039\"], \"verified_ratio\": \"19%\", \"normal_mids\": [], \"normal_ratio\": \"0%\"}",
+      "share_card_multimodal": {
+        "doc_score": 0,
+        "h": 1200,
+        "img_pid": "001Sg0Wnly1i6dznamj0pj60p00xcqm702",
+        "w": 900,
+        "img": "http://wx1.sinaimg.cn/middle/001Sg0Wnly1i6dznamj0pj60p00xcqm702.jpg",
+        "scheme": "sinaweibo://multimedia?mix_mid=5222055408046787&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=0",
+        "cur_mid": "5222055408046787",
+        "type": "p",
+        "user_name": "京东",
+        "hit_score_final": 0,
+        "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/001Sg0Wnly8hvkd8i71zkj60u00u0js702.jpg?KID=imgbed,tva&Expires=1761652614&ssig=XlNDZYk55f",
+        "vtype": 2,
+        "video_url": "",
+        "click_rate": 0.10526315789474,
+        "hit_score_new": 0
+      },
+      "query_category": "",
+      "msg": "<think><br><br>嗯，用户查询的是\"京东黄金降价\"相关情况，需要基于搜索结果提供准确信息。先梳理关键点：用户显然是想了解当前京东平台黄金产品的优惠活动、降价背景以及购买建议。<br><br>搜索结果里时效性最高的集中在2025年10月28日（今天），且多个媒体账号（如南风窗、九派新闻）都确认京东正在开展双十一黄金促销活动。核心优惠是\"官方直降5%起\"，覆盖足金吊坠、转运珠等热门品类。特别注意到京东官方账号在10月15日预告过\"8.7折起\"的抄底价活动，说明折扣力度可能动态调整。<br><br>关于降价背景，需要关联近期金价波动：结果9、16、18都提到国际金价近期出现显著回调，单日跌幅甚至创12年记录，部分品牌如老铺黄金反而逆势涨价——这种反差恰好解释了京东促销的合理性：利用金价回调窗口吸引消费者。<br><br>用户可能关心的风险点也有线索：结果21详细分析了黄金投资的风险性，而结果13提到技术支撑位在880-900元，暗示当前价位可能尚未见底。这些需要整合到购买建议中。<br><br>信息组织上，考虑分为四个模块：先明确京东活动细节（时效+品类+力度），再解释降价背景（金价回调vs品牌溢价），接着补充平台保障措施（比价机制、现货销售），最后给出购买建议。投资类内容会单独标注风险提示，引用专业分析。<br><br>需要规避的陷阱：结果5、7、8属于无关的历史文化内容，结果20的股市信息也与主题无关，需过滤。结果4、11、12、14虽然提及金价但未涉及京东促销，仅作背景参考。<br><br></think><br>以下是关于“京东黄金降价”的全面信息整理，结合活动详情、市场背景及购买建议：<br>### ⭐ 一、京东双十一黄金促销核心活动<br>1. **优惠力度**  <br>   - **直降5%起**：周大生、六福、潮宏基、谢瑞麟等品牌参与，涵盖足金吊坠、转运珠、黄金手镯等热门品类。```wbCustomBlock{\"type\": \"quoted\", \"index\": 5, \"data\": {\"num\": [1, 3], \"version\": 2, \"quote_list\": [{\"name\": \"南风窗\", \"scheme\": \"sinaweibo://detail?mblogid=5226639395127863\", \"index\": 1, \"label\": \"大v\"}, {\"name\": \"九派新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5226639395914375\", \"index\": 3, \"label\": \"\"}], \"name\": \"南风窗\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.290.290.50/001NmG29ly8h8vg8sejn2j6082082dfr02.jpg?KID=imgbed,tva&Expires=1761652614&ssig=RVjlksqElj\", \"scheme\": \"sinaweibo://detail?mblogid=5226639395127863\", \"vType\": 3}}```  <br>   - **限时特价**：部分商品低至8.7折，叠加“1元拍卖爆款黄金”等捡漏活动。```wbCustomBlock{\"type\": \"quoted\", \"index\": 6, \"data\": {\"num\": [2], \"version\": 2, \"quote_list\": [{\"name\": \"京东\", \"scheme\": \"sinaweibo://detail?mblogid=5222055408046787\", \"index\": 2, \"label\": \"\"}]}}```  <br>   - **生鲜联动**：“黄金”命名生鲜（如黄金百香果）同步5折促销。```wbCustomBlock{\"type\": \"quoted\", \"index\": 7, \"data\": {\"num\": [2], \"version\": 2, \"quote_list\": [{\"name\": \"京东\", \"scheme\": \"sinaweibo://detail?mblogid=5222055408046787\", \"index\": 2, \"label\": \"\"}]}}```<br><br>2. **活动特色**  <br>   - **现货开售**：告别预售套路，10月14日起现货直发，简化购物流程。```wbCustomBlock{\"type\": \"quoted\", \"index\": 9, \"data\": {\"num\": [15], \"version\": 2, \"quote_list\": [{\"name\": \"光芒视频\", \"scheme\": \"sinaweibo://detail?mblogid=5226643121505147\", \"index\": 15, \"label\": \"\"}]}}```  <br>   - **价格透明**：平台推出比价机制，确保“真金实价”和公道理性消费。```wbCustomBlock{\"type\": \"quoted\", \"index\": 10, \"data\": {\"num\": [10, 17], \"version\": 2, \"quote_list\": [{\"name\": \"鲁中晨报\", \"scheme\": \"sinaweibo://detail?mblogid=5226645172257479\", \"index\": 10, \"label\": \"大v\"}, {\"name\": \"云南广播电视台\", \"scheme\": \"sinaweibo://detail?mblogid=5226643432149462\", \"index\": 17, \"label\": \"\"}], \"name\": \"鲁中晨报\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.600.600.50/60df1500ly8hz2qvb9yo5j20go0go74o.jpg?KID=imgbed,tva&Expires=1761652614&ssig=F4%2FlaQ5wPW\", \"scheme\": \"sinaweibo://detail?mblogid=5226645172257479\", \"vType\": 3}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5222055408046787&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/001Sg0Wnly8hvkd8i71zkj60u00u0js702.jpg?KID=imgbed,tva&Expires=1761652614&ssig=XlNDZYk55f) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">京东</span><img src=\"http://wx1.sinaimg.cn/middle/001Sg0Wnly1i6dznamj0pj60p00xcqm702.jpg\" data-width=1200 data-height=900></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5226639395127863&multi_paragraph=1&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.290.290.50/001NmG29ly8h8vg8sejn2j6082082dfr02.jpg?KID=imgbed,tva&Expires=1761652614&ssig=RVjlksqElj) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">南风窗</span><img src=\"http://wx4.sinaimg.cn/middle/001NmG29gy1i6raw8tnq2j60u01hcjv102.jpg\" data-width=1920 data-height=1080></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5226643121505147&multi_paragraph=1&multi_count=2\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.1002.1002.50/0080XO97ly8gog28jsgqpj30ru0ru74n.jpg?KID=imgbed,tva&Expires=1761652614&ssig=hQOQZ1JOK9) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">光芒视频</span><img src=\"http://wx1.sinaimg.cn/middle/008cHdLily1i6cz970qtbj30k00zk3z9.jpg\" data-width=1280 data-height=720></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5226645172257479&multi_paragraph=1&multi_count=3\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.600.600.50/60df1500ly8hz2qvb9yo5j20go0go74o.jpg?KID=imgbed,tva&Expires=1761652614&ssig=F4%2FlaQ5wPW) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">鲁中晨报</span><img src=\"http://wx3.sinaimg.cn/middle/001O24LNly1i6pta9m6rgj60k00zk75702.jpg\" data-width=1280 data-height=720></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5226643432149462&multi_paragraph=1&multi_count=4\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/53dbc449ly8h8w94s7z3tj20u00u0q42.jpg?KID=imgbed,tva&Expires=1761652614&ssig=Fb2Bk%2FEPii) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">云南广播电视台</span><img src=\"http://wx1.sinaimg.cn/middle/008kru0Bgy1i6psvwkh25j30u0140h93.jpg\" data-width=1440 data-height=1080></div></media-block><br>### 📉 二、降价背景：金价回调与市场动态<br>1. **国际金价剧烈波动**  <br>   - 近期创**12年来最大单日跌幅**（超6%），现货黄金一度跌破4100美元/盎司，白银同步暴跌。```wbCustomBlock{\"type\": \"quoted\", \"index\": 14, \"data\": {\"num\": [18], \"version\": 2, \"quote_list\": [{\"name\": \"黑龙江卫视\", \"scheme\": \"sinaweibo://detail?mblogid=5226643784208342\", \"index\": 18, \"label\": \"\"}]}}```  <br>   - 主因：地缘政治缓和、多头获利了结，短期投机性抛压显著。```wbCustomBlock{\"type\": \"quoted\", \"index\": 15, \"data\": {\"num\": [9, 18], \"version\": 2, \"quote_list\": [{\"name\": \"河南手机报\", \"scheme\": \"sinaweibo://detail?mblogid=5226651772519362\", \"index\": 9, \"label\": \"大v\"}, {\"name\": \"黑龙江卫视\", \"scheme\": \"sinaweibo://detail?mblogid=5226643784208342\", \"index\": 18, \"label\": \"\"}], \"name\": \"河南手机报\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.957.957.50/71fd293dly8h8vka24uhaj20ql0qlab0.jpg?KID=imgbed,tva&Expires=1761652614&ssig=l4QIUEP6Sd\", \"scheme\": \"sinaweibo://detail?mblogid=5226651772519362\", \"vType\": 3}}```  <br><br>2. **国内品牌分化现象**  <br>   - **京东联合品牌降价** vs **部分奢侈金饰逆势涨价**：  <br>     - 老铺黄金年内第三次调价，部分单品涨幅超40%（如素龙凤香囊）；```wbCustomBlock{\"type\": \"quoted\", \"index\": 18, \"data\": {\"num\": [9, 16], \"version\": 2, \"quote_list\": [{\"name\": \"昆明日报掌上春城\", \"scheme\": \"sinaweibo://detail?mblogid=5226660160865658\", \"index\": 16, \"label\": \"大v\"}, {\"name\": \"河南手机报\", \"scheme\": \"sinaweibo://detail?mblogid=5226651772519362\", \"index\": 9, \"label\": \"\"}], \"name\": \"昆明日报掌上春城\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.168.168.50/005AfsYWly8h8vg81gyfnj304o04oaa2.jpg?KID=imgbed,tva&Expires=1761652614&ssig=uijsL8Bs4b\", \"scheme\": \"sinaweibo://detail?mblogid=5226660160865658\", \"vType\": 3}}```  <br>     - 周大福计划提价12%-18%，强调“调整加工费占比维持毛利”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 19, \"data\": {\"num\": [9, 16], \"version\": 2, \"quote_list\": [{\"name\": \"河南手机报\", \"scheme\": \"sinaweibo://detail?mblogid=5226651772519362\", \"index\": 9, \"label\": \"\"}, {\"name\": \"昆明日报掌上春城\", \"scheme\": \"sinaweibo://detail?mblogid=5226660160865658\", \"index\": 16, \"label\": \"\"}]}}```<br>### 🛒 三、购买建议与风险提示<br>1. **适合人群**  <br>   - **刚需消费者**：婚庆三金、自戴装饰等可趁优惠入手；```wbCustomBlock{\"type\": \"quoted\", \"index\": 23, \"data\": {\"num\": [13], \"version\": 2, \"quote_list\": [{\"name\": \"哈利宝舵主\", \"scheme\": \"sinaweibo://detail?mblogid=5226699021091975\", \"index\": 13, \"label\": \"\"}]}}```  <br>   - **长期投资者**：机构看好黄金中长期支撑（央行购金、去美元化趋势）。```wbCustomBlock{\"type\": \"quoted\", \"index\": 24, \"data\": {\"num\": [9, 21], \"version\": 2, \"quote_list\": [{\"name\": \"冬呱视频\", \"scheme\": \"sinaweibo://detail?mblogid=5226657323680039\", \"index\": 21, \"label\": \"大v\"}, {\"name\": \"河南手机报\", \"scheme\": \"sinaweibo://detail?mblogid=5226651772519362\", \"index\": 9, \"label\": \"\"}], \"name\": \"冬呱视频\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.600.600.50/006Hz3aRly8hqs6ucxltzj30go0got9b.jpg?KID=imgbed,tva&Expires=1761652614&ssig=9wpunerMSU\", \"scheme\": \"sinaweibo://detail?mblogid=5226657323680039\", \"vType\": 3}}```  <br><br>2. **风险警示**  <br>   - **短期波动风险**：技术面支撑位约880-900元/克，若进一步回调可能触及840元。```wbCustomBlock{\"type\": \"quoted\", \"index\": 26, \"data\": {\"num\": [13], \"version\": 2, \"quote_list\": [{\"name\": \"哈利宝舵主\", \"scheme\": \"sinaweibo://detail?mblogid=5226699021091975\", \"index\": 13, \"label\": \"\"}]}}```  <br>   - **投资属性谨慎**：  <br>     - 黄金年化波动率高达26%，非稳赚标的（如1980年暴跌58%）；```wbCustomBlock{\"type\": \"quoted\", \"index\": 28, \"data\": {\"num\": [21], \"version\": 2, \"quote_list\": [{\"name\": \"冬呱视频\", \"scheme\": \"sinaweibo://detail?mblogid=5226657323680039\", \"index\": 21, \"label\": \"\"}]}}```  <br>     - 金饰溢价高（加工费+品牌溢价），短线交易成本超10%。```wbCustomBlock{\"type\": \"quoted\", \"index\": 29, \"data\": {\"num\": [21], \"version\": 2, \"quote_list\": [{\"name\": \"冬呱视频\", \"scheme\": \"sinaweibo://detail?mblogid=5226657323680039\", \"index\": 21, \"label\": \"\"}]}}```<br>### 💎 四、平台保障与消费趋势<br>- **品质信任**：京东强调“真金真价”，联合品牌官方直降提升消费信心。```wbCustomBlock{\"type\": \"quoted\", \"index\": 32, \"data\": {\"num\": [1, 3], \"version\": 2, \"quote_list\": [{\"name\": \"九派新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5226639395914375\", \"index\": 3, \"label\": \"大v\"}, {\"name\": \"南风窗\", \"scheme\": \"sinaweibo://detail?mblogid=5226639395127863\", \"index\": 1, \"label\": \"\"}], \"name\": \"九派新闻\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.600.600.50/008cHdLily8h8vgz2g178j30go0go0tm.jpg?KID=imgbed,tva&Expires=1761652614&ssig=nTPFuC4vKN\", \"scheme\": \"sinaweibo://detail?mblogid=5226639395914375\", \"vType\": 3}}```  <br>- **体验升级**：简化规则、现货速发响应“省心购物”需求，推动行业良性竞争。```wbCustomBlock{\"type\": \"quoted\", \"index\": 33, \"data\": {\"num\": [15, 17], \"version\": 2, \"quote_list\": [{\"name\": \"云南广播电视台\", \"scheme\": \"sinaweibo://detail?mblogid=5226643432149462\", \"index\": 17, \"label\": \"大v\"}, {\"name\": \"光芒视频\", \"scheme\": \"sinaweibo://detail?mblogid=5226643121505147\", \"index\": 15, \"label\": \"\"}], \"name\": \"云南广播电视台\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/53dbc449ly8h8w94s7z3tj20u00u0q42.jpg?KID=imgbed,tva&Expires=1761652614&ssig=Fb2Bk%2FEPii\", \"scheme\": \"sinaweibo://detail?mblogid=5226643432149462\", \"vType\": 3}}```  <br><br>> 💎 **总结**：京东此次降价是金价回调+双十一促销的叠加利好，适合刚需和长期配置者。但需警惕短期波动，避免追涨杀跌。投资首选低溢价渠道（如黄金ETF、银行积存金），非必需消费可观望后市。```wbCustomBlock{\"type\": \"quoted\", \"index\": 34, \"data\": {\"num\": [13, 21], \"version\": 2, \"quote_list\": [{\"name\": \"哈利宝舵主\", \"scheme\": \"sinaweibo://detail?mblogid=5226699021091975\", \"index\": 13, \"label\": \"\"}, {\"name\": \"冬呱视频\", \"scheme\": \"sinaweibo://detail?mblogid=5226657323680039\", \"index\": 21, \"label\": \"\"}]}}```<br>",
+      "share_info": {
+        "tips": "#京东黄金降价#的相关内容，来智搜看看",
+        "page_id": "2329644350d0f4dc0a5c13afae326358ea95ce",
+        "display_name": "#京东黄金降价#",
+        "status": 3,
+        "url": "http://t.cn/AXws0731",
+        "unify_md5": "0a5c411852dd577a62c2bcb07780761c"
+      },
+      "mid_list": null,
+      "chat_status_stage": 1,
+      "status_stage": 4,
+      "link_list": [
+        "sinaweibo://detail?mblogid=5226639395127863",
+        "sinaweibo://detail?mblogid=5222055408046787",
+        "sinaweibo://detail?mblogid=5226639395914375",
+        "sinaweibo://detail?mblogid=5226644903038156",
+        "sinaweibo://detail?mblogid=5226646747483494",
+        "sinaweibo://detail?mblogid=5226645564686974",
+        "sinaweibo://detail?mblogid=5226645631795965",
+        "sinaweibo://detail?mblogid=5226645994344003",
+        "sinaweibo://detail?mblogid=5226651772519362",
+        "sinaweibo://detail?mblogid=5226645172257479",
+        "sinaweibo://detail?mblogid=5226736942055833",
+        "sinaweibo://detail?mblogid=5226742824568482",
+        "sinaweibo://detail?mblogid=5226699021091975",
+        "sinaweibo://detail?mblogid=5226685013430803",
+        "sinaweibo://detail?mblogid=5226643121505147",
+        "sinaweibo://detail?mblogid=5226660160865658",
+        "sinaweibo://detail?mblogid=5226643432149462",
+        "sinaweibo://detail?mblogid=5226643784208342",
+        "sinaweibo://detail?mblogid=5226644286473694",
+        "sinaweibo://detail?mblogid=5226686731781793",
+        "sinaweibo://detail?mblogid=5226657323680039"
+      ],
+      "ext_show": {}
+    }
+  },
+  "links": [
+    "sinaweibo://detail?mblogid=5226639395127863",
+    "sinaweibo://detail?mblogid=5222055408046787",
+    "sinaweibo://detail?mblogid=5226639395914375",
+    "sinaweibo://detail?mblogid=5226644903038156",
+    "sinaweibo://detail?mblogid=5226646747483494",
+    "sinaweibo://detail?mblogid=5226645564686974",
+    "sinaweibo://detail?mblogid=5226645631795965",
+    "sinaweibo://detail?mblogid=5226645994344003",
+    "sinaweibo://detail?mblogid=5226651772519362",
+    "sinaweibo://detail?mblogid=5226645172257479",
+    "sinaweibo://detail?mblogid=5226736942055833",
+    "sinaweibo://detail?mblogid=5226742824568482",
+    "sinaweibo://detail?mblogid=5226699021091975",
+    "sinaweibo://detail?mblogid=5226685013430803",
+    "sinaweibo://detail?mblogid=5226643121505147",
+    "sinaweibo://detail?mblogid=5226660160865658",
+    "sinaweibo://detail?mblogid=5226643432149462",
+    "sinaweibo://detail?mblogid=5226643784208342",
+    "sinaweibo://detail?mblogid=5226644286473694",
+    "sinaweibo://detail?mblogid=5226686731781793",
+    "sinaweibo://detail?mblogid=5226657323680039"
+  ],
+  "media": [
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/001Sg0Wnly1i6dznamj0pj60p00xcqm702.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/001Sg0Wnly1i6dznamj0pj60p00xcqm702.jpg",
+      "alt": "京东",
+      "width": 1200,
+      "height": 900,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/001Sg0Wnly1i6dznamj0pj60p00xcqm702.jpg"
+      ],
+      "user": "京东"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/001NmG29gy1i6raw8tnq2j60u01hcjv102.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/001NmG29gy1i6raw8tnq2j60u01hcjv102.jpg",
+      "alt": "南风窗",
+      "width": 1920,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/001NmG29gy1i6raw8tnq2j60u01hcjv102.jpg"
+      ],
+      "user": "南风窗"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/008cHdLily1i6cz970qtbj30k00zk3z9.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/008cHdLily1i6cz970qtbj30k00zk3z9.jpg",
+      "alt": "光芒视频",
+      "width": 1280,
+      "height": 720,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/008cHdLily1i6cz970qtbj30k00zk3z9.jpg"
+      ],
+      "user": "光芒视频"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/001O24LNly1i6pta9m6rgj60k00zk75702.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/001O24LNly1i6pta9m6rgj60k00zk75702.jpg",
+      "alt": "鲁中晨报",
+      "width": 1280,
+      "height": 720,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx4.sinaimg.cn/large/001O24LNly1i6pta9m6rgj60k00zk75702.jpg"
+      ],
+      "user": "鲁中晨报"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/008kru0Bgy1i6psvwkh25j30u0140h93.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/008kru0Bgy1i6psvwkh25j30u0140h93.jpg",
+      "alt": "云南广播电视台",
+      "width": 1440,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/008kru0Bgy1i6psvwkh25j30u0140h93.jpg"
+      ],
+      "user": "云南广播电视台"
+    }
+  ],
+  "html_path": "data/aicard/hourly/2025-10-28/11/topic-0a5c4118.html"
+}

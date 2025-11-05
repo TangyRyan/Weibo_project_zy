@@ -1,0 +1,334 @@
+{
+  "meta": {
+    "query": "#陈浚铭 一天一个样#",
+    "status_code": 200,
+    "fetched_at": "2025-10-31T22:32:45+08:00",
+    "response": {
+      "top_quote_list": {},
+      "card_multimodal": {
+        "type": "mediablock",
+        "data": [
+          {
+            "hit_score_new": 84.130859,
+            "doc_score": 2855,
+            "img_pid": "008cs9rFly1i5rgwbzevlj30u01hcwgh",
+            "img": "http://wx4.sinaimg.cn/middle/008cs9rFly1i5rgwbzevlj30u01hcwgh.jpg",
+            "click_rate": 0,
+            "h": 1920,
+            "cur_mid": "5215255313516790",
+            "w": 1080,
+            "hit_score_final": 74.878517,
+            "type": "v",
+            "user_name": "炸鸡块我的菜",
+            "scheme": "sinaweibo://video/vvs?mid=5215255313516790&multi_paragraph=1&multi_count=0",
+            "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/008cs9rFly8i6dfjeqi99j30u00u0t9w.jpg?KID=imgbed,tva&Expires=1761917513&ssig=krginYM%2BgC",
+            "vtype": 0,
+            "video_url": "https://video.weibo.com/show?fid=1034:5215254779723806"
+          },
+          {
+            "hit_score_new": 81.835938,
+            "doc_score": 4975,
+            "img_pid": "007w7Vyxgy1hskc73hn4gj30mk0u248j",
+            "img": "http://wx1.sinaimg.cn/middle/007w7Vyxgy1hskc73hn4gj30mk0u248j.jpg",
+            "click_rate": 0,
+            "h": 1082,
+            "cur_mid": "5066322486500020",
+            "w": 812,
+            "hit_score_final": 74.701569,
+            "type": "v",
+            "user_name": "玩偶出逃丨陈浚铭",
+            "scheme": "sinaweibo://video/vvs?mid=5066322486500020&multi_paragraph=1&multi_count=1",
+            "user_avatar": "https://tvax2.sinaimg.cn/crop.0.0.1000.1000.50/007w7Vyxly8h4fz4ioo28j30rs0rsac9.jpg?KID=imgbed,tva&Expires=1761917513&ssig=iYSWjPhFtw",
+            "vtype": 0,
+            "video_url": "https://video.weibo.com/show?fid=1034:5066320899670039"
+          },
+          {
+            "hit_score_new": 89.257812,
+            "doc_score": 4613,
+            "img_pid": "007VFik2gy1i6vhb6nq4aj31eq1eqwrw",
+            "img": "http://wx4.sinaimg.cn/middle/007VFik2gy1i6vhb6nq4aj31eq1eqwrw.jpg",
+            "click_rate": 0,
+            "h": 1826,
+            "cur_mid": "5227796500578987",
+            "w": 1826,
+            "hit_score_final": 67,
+            "type": "p",
+            "user_name": "西南特帅生",
+            "scheme": "sinaweibo://multimedia?mix_mid=5227796500578987&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=2",
+            "user_avatar": "https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/007VFik2ly8i6pgdowxjij30u00u0djw.jpg?KID=imgbed,tva&Expires=1761917513&ssig=izcrl03HIY",
+            "vtype": 0,
+            "video_url": ""
+          },
+          {
+            "hit_score_new": 84.130859,
+            "doc_score": 2855,
+            "img_pid": "008cs9rFly1i5rgwbzevlj30u01hcwgh",
+            "img": "http://wx4.sinaimg.cn/middle/008cs9rFly1i5rgwbzevlj30u01hcwgh.jpg",
+            "click_rate": 0,
+            "h": 1920,
+            "cur_mid": "5215255313516790",
+            "w": 1080,
+            "hit_score_final": 74.878517,
+            "type": "v",
+            "user_name": "炸鸡块我的菜",
+            "scheme": "sinaweibo://video/vvs?mid=5215255313516790&multi_paragraph=1&multi_count=0",
+            "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/008cs9rFly8i6dfjeqi99j30u00u0t9w.jpg?KID=imgbed,tva&Expires=1761917513&ssig=krginYM%2BgC",
+            "vtype": 0,
+            "video_url": "https://video.weibo.com/show?fid=1034:5215254779723806"
+          }
+        ]
+      },
+      "share_card_multimodal": {
+        "hit_score_new": 84.130859,
+        "doc_score": 2855,
+        "img_pid": "008cs9rFly1i5rgwbzevlj30u01hcwgh",
+        "img": "http://wx4.sinaimg.cn/middle/008cs9rFly1i5rgwbzevlj30u01hcwgh.jpg",
+        "click_rate": 0,
+        "h": 1920,
+        "cur_mid": "5215255313516790",
+        "w": 1080,
+        "hit_score_final": 74.878517,
+        "type": "v",
+        "user_name": "炸鸡块我的菜",
+        "scheme": "sinaweibo://video/vvs?mid=5215255313516790&multi_paragraph=1&multi_count=0",
+        "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/008cs9rFly8i6dfjeqi99j30u00u0t9w.jpg?KID=imgbed,tva&Expires=1761917513&ssig=krginYM%2BgC",
+        "vtype": 0,
+        "video_url": "https://video.weibo.com/show?fid=1034:5215254779723806"
+      },
+      "basemodel": "实验组3",
+      "wenda": {
+        "forward_gen": 0
+      },
+      "status": 2,
+      "query_category": "",
+      "short_url": "http://t.cn/AXA5VJwS",
+      "scheme": "sinaweibo://cardlist?containerid=100103type%3D225%26q%3D%23%E9%99%88%E6%B5%9A%E9%93%AD%20%E4%B8%80%E5%A4%A9%E4%B8%80%E4%B8%AA%E6%A0%B7%23%26t%3D&extparam=ai_model%3Ddeepseek_stream%26ori_ai_title%3D%E5%8F%82%E8%80%83%E5%8D%9A%E6%96%87%26material_version%3D1761906712",
+      "show_ctrl": {
+        "quote": {}
+      },
+      "msg": "<think><br>嗯，用户想了解关于陈浚铭\"一天一个样\"的相关信息。从搜索结果来看，这个话题在2025年10月底特别热门，主要围绕陈浚铭作为养成系偶像的快速成长变化。<br><br>用户可能是个关注娱乐圈的粉丝或媒体从业者，想全面了解陈浚铭的成长轨迹。从搜索结果看，这个话题有几个维度值得深入分析：<br><br>首先是外貌变化方面，结果13、15提到他下颚线变得分明，结果10详细描述了身高从\"奶团子\"到172cm的蜕变过程，粉丝用\"抽条式生长\"来形容。这种肉眼可见的变化是\"一天一个样\"最直观的体现。<br><br>业务能力方面特别值得关注，结果4提到他在2025年8月的突围考核中达成\"八中八\"的成就，结果10补充说明这是覆盖了vocal、rap、舞蹈全领域的突破。更难得的是结果6提到他在耳返漏电事故中坚持完成表演，展现专业素养。<br><br>性格特质也很有看点，结果33描述他是个重情义又敏感的人，结果32提到他即使很累也会保持最好状态面对粉丝。这种\"报喜不报忧\"的懂事反而让粉丝心疼。<br><br>粉圈生态也很有意思，结果5提到2025年他唯粉比例明显上升，结果10分析这是\"个体价值突破集体框架\"的表现。粉丝们现在更强调\"唯一选择陈浚铭\"。<br><br>成长背后的代价也不能忽视，结果6提到2025年1月他因团队安排差异未能随队赴京的事件，结果32、33都提到他高强度工作下的疲惫状态。所以结果16、19粉丝才会呼吁\"慢点长大\"。<br><br>把这些点串联起来，可以清晰看到陈浚铭作为养成系偶像的蜕变轨迹：从外貌到实力，从性格到粉圈关系都在快速进化。不过结果33提到他\"不放弃学业\"的坚持，结果28强调他\"闷声憋大招\"的特质，这些细节让成长故事更有厚度。<br><br>最后用结果16粉丝那句诗意的话作结很合适：\"那些曾让你窒息的雨水，终成滋养生命的养料\"。既承认压力存在，又表达对未来的信心，完美呼应\"一天一个样\"这个主题。<br><br></think><br>陈浚铭作为TF家族四代养成系偶像的代表，其“一天一个样”的成长轨迹引发了广泛关注。结合粉丝观察、舞台表现及个人发展历程，核心变化可概括为以下维度：<br>### 🌱 **一、外貌气质的蜕变**<br>1. **骨骼轮廓的锐化**  <br>   婴儿肥褪去后下颌线日益分明，骨相优势凸显（高鼻梁、小V脸），身高从稚嫩期迅速抽条至172cm（2025年10月数据），腕线过裆的比例被粉丝称为“建模身材预备役”。卷发、背头等多元造型驾驭力提升，结合烟嗓特质，风格从“奶团子”转向“少年感偶像”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 4, \"data\": {\"num\": [9, 13, 29], \"version\": 2, \"quote_list\": [{\"name\": \"炸鸡块我的菜\", \"scheme\": \"sinaweibo://detail?mblogid=5215255313516790\", \"index\": 29, \"label\": \"大v\"}, {\"name\": \"玩偶出逃丨陈浚铭\", \"scheme\": \"sinaweibo://detail?mblogid=5066322486500020\", \"index\": 9, \"label\": \"\"}, {\"name\": \"西南特帅生\", \"scheme\": \"sinaweibo://detail?mblogid=5227796500578987\", \"index\": 13, \"label\": \"\"}], \"name\": \"炸鸡块我的菜\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/008cs9rFly8i6dfjeqi99j30u00u0t9w.jpg?KID=imgbed,tva&Expires=1761917513&ssig=krginYM%2BgC\", \"scheme\": \"sinaweibo://detail?mblogid=5215255313516790\", \"vType\": 0}}```<br><br>2. **无尴尬期的颜值认证**  <br>   作为“四代第一门面”，标志性笑容贯穿2023年家族合照至2025年舞台，青春期未出现颜值波动。粉丝通过Live图对比惊呼“昨夜奶团子，今晨少年郎”，凸显蜕变的冲击力。```wbCustomBlock{\"type\": \"quoted\", \"index\": 5, \"data\": {\"num\": [15], \"version\": 2, \"quote_list\": [{\"name\": \"晚风蝴蝶结\", \"scheme\": \"sinaweibo://detail?mblogid=5227784712752971\", \"index\": 15, \"label\": \"\"}]}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5215255313516790&multi_paragraph=1&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/008cs9rFly8i6dfjeqi99j30u00u0t9w.jpg?KID=imgbed,tva&Expires=1761917513&ssig=krginYM%2BgC) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">炸鸡块我的菜</span><img src=\"http://wx4.sinaimg.cn/middle/008cs9rFly1i5rgwbzevlj30u01hcwgh.jpg\" data-width=1920 data-height=1080></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5066322486500020&multi_paragraph=1&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.1000.1000.50/007w7Vyxly8h4fz4ioo28j30rs0rsac9.jpg?KID=imgbed,tva&Expires=1761917513&ssig=iYSWjPhFtw) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">玩偶出逃丨陈浚铭</span><img src=\"http://wx1.sinaimg.cn/middle/007w7Vyxgy1hskc73hn4gj30mk0u248j.jpg\" data-width=1082 data-height=812></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5227796500578987&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=2\"><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/007VFik2ly8i6pgdowxjij30u00u0djw.jpg?KID=imgbed,tva&Expires=1761917513&ssig=izcrl03HIY) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">西南特帅生</span><img src=\"http://wx4.sinaimg.cn/middle/007VFik2gy1i6vhb6nq4aj31eq1eqwrw.jpg\" data-width=1826 data-height=1826></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5227784712752971&multi_paragraph=1&multi_count=3\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/008tO4DRly8i67dfx8gy3j30u00u077i.jpg?KID=imgbed,tva&Expires=1761917513&ssig=Xy5nZotQ1T) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">晚风蝴蝶结</span><img src=\"http://wx1.sinaimg.cn/middle/008tO4DRly1i6vfvuimqoj30k00zijs5.jpg\" data-width=1278 data-height=720></div></media-block><br>### 🎤 **二、业务能力的裂变式突破**<br>1. **全能舞台征服者**  <br>   - **考核神话**：2025年8月突围考核达成“八中八”（8个舞台全通过），覆盖纯Vocal、纯Rap、纯舞、唱跳全领域，打破“年龄小、体力弱、烟嗓受限”的质疑。```wbCustomBlock{\"type\": \"quoted\", \"index\": 9, \"data\": {\"num\": [4, 34], \"version\": 2, \"quote_list\": [{\"name\": \"猪一罐儿\", \"scheme\": \"sinaweibo://detail?mblogid=5200726377632940\", \"index\": 4, \"label\": \"大v\"}, {\"name\": \"捡只坏狗\", \"scheme\": \"sinaweibo://detail?mblogid=5189848313108254\", \"index\": 34, \"label\": \"\"}], \"name\": \"猪一罐儿\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/955177b1ly8i66j5rnl9ij20u00u0768.jpg?KID=imgbed,tva&Expires=1761917513&ssig=1ZAhnVgL6b\", \"scheme\": \"sinaweibo://detail?mblogid=5200726377632940\", \"vType\": 0}}```  <br>   - **临场封神**：耳返漏电事故中咬牙控场完成表演，被赞“舞台血性惊人”，谢幕画面成经典瞬间。```wbCustomBlock{\"type\": \"quoted\", \"index\": 10, \"data\": {\"num\": [6], \"version\": 2, \"quote_list\": [{\"name\": \"好運零件\", \"scheme\": \"sinaweibo://detail?mblogid=5222130771822681\", \"index\": 6, \"label\": \"\"}]}}```  <br>   - **技能储备**：吉他考核98分（2025年），自学编曲、尤克里里，获封“四代第一吉他手”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 11, \"data\": {\"num\": [4], \"version\": 2, \"quote_list\": [{\"name\": \"猪一罐儿\", \"scheme\": \"sinaweibo://detail?mblogid=5200726377632940\", \"index\": 4, \"label\": \"\"}]}}```<br><br>2. **养成系实力的厚积薄发**  <br>   考核分数从2023年65分跃升至2025年稳定85分+，细节控制力显著升级。粉丝强调其“闷声憋大招”特质，如福建行期间独自练琴、考核夜宿训练室等细节印证努力。```wbCustomBlock{\"type\": \"quoted\", \"index\": 12, \"data\": {\"num\": [28, 33], \"version\": 2, \"quote_list\": [{\"name\": \"炸鸡块我的菜\", \"scheme\": \"sinaweibo://detail?mblogid=5216952672849228\", \"index\": 28, \"label\": \"\"}, {\"name\": \"咩咩豆仔\", \"scheme\": \"sinaweibo://detail?mblogid=5204370056549806\", \"index\": 33, \"label\": \"\"}]}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5222130771822681&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=2&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.512.512.50/0086zlRsly8i6opg7kw1sj30e80e8wf0.jpg?KID=imgbed,tva&Expires=1761917513&ssig=vFqhgPi9y6) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">好運零件</span><img src=\"http://wx1.sinaimg.cn/middle/0086zlRsly1i6deeuon2xj30wi17cgvb.jpg\" data-width=1560 data-height=1170></div></media-block><br>### 💫 **三、人格魅力的深度沉淀**<br>1. **“陪伴式成长”的情感共振**  <br>   - 母亲提及早期演出无人陪同的紧张，与如今舞台自信形成强烈对比，亲情线加深养成代入感。```wbCustomBlock{\"type\": \"quoted\", \"index\": 16, \"data\": {\"num\": [7], \"version\": 2, \"quote_list\": [{\"name\": \"球球奶黄包_\", \"scheme\": \"sinaweibo://detail?mblogid=5200695893954298\", \"index\": 7, \"label\": \"\"}]}}```  <br>   - 生长痛、变声期等细节被全程记录，粉丝感慨“年年月月热爱可抵岁月漫长”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 17, \"data\": {\"num\": [17, 26], \"version\": 2, \"quote_list\": [{\"name\": \"Cc白日梦想佳\", \"scheme\": \"sinaweibo://detail?mblogid=5227809296614303\", \"index\": 17, \"label\": \"\"}, {\"name\": \"无语的人儿啊\", \"scheme\": \"sinaweibo://detail?mblogid=5227801454054319\", \"index\": 26, \"label\": \"\"}]}}```<br><br>2. **双向奔赴的真诚属性**  <br>   - 重情义敏感：朋友闭关前拥抱、察觉同伴情绪、为未抽中礼物的粉丝合十道歉。```wbCustomBlock{\"type\": \"quoted\", \"index\": 19, \"data\": {\"num\": [33], \"version\": 2, \"quote_list\": [{\"name\": \"咩咩豆仔\", \"scheme\": \"sinaweibo://detail?mblogid=5204370056549806\", \"index\": 33, \"label\": \"\"}]}}```  <br>   - 报喜不报忧：高强度公演中坚持饭撒，累到虚脱仍以最佳状态面对舞台，引发“慢点长大”呼声。```wbCustomBlock{\"type\": \"quoted\", \"index\": 20, \"data\": {\"num\": [21, 32, 33], \"version\": 2, \"quote_list\": [{\"name\": \"阿画不喜\", \"scheme\": \"sinaweibo://detail?mblogid=5197038297813042\", \"index\": 21, \"label\": \"\"}, {\"name\": \"铭猪肉肉\", \"scheme\": \"sinaweibo://detail?mblogid=5200747555979356\", \"index\": 32, \"label\": \"\"}, {\"name\": \"咩咩豆仔\", \"scheme\": \"sinaweibo://detail?mblogid=5204370056549806\", \"index\": 33, \"label\": \"\"}]}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://multimedia?mix_mid=5200695893954298&mix_index=0&multi_paragraph=3&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/007DfCn9ly8i3im9hatdjj30u00u1jte.jpg?KID=imgbed,tva&Expires=1761917513&ssig=sNjn3ILdMe) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">球球奶黄包_</span><img src=\"http://wx2.sinaimg.cn/middle/007DfCn9gy1i4h0qlh8l0j30k00kkaam.jpg\" data-width=740 data-height=720></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5200747555979356&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=3&multi_count=1\"><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/008AKygRly8i6j6vl8fswj30u00u0mzm.jpg?KID=imgbed,tva&Expires=1761917513&ssig=%2FoyEVcFHYN) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">铭猪肉肉</span><img src=\"http://wx3.sinaimg.cn/middle/008AKygRgy1i4h6npk4k1j30u0190gqf.jpg\" data-width=1620 data-height=1080></div></media-block><br>### ⚡️ **四、争议与成长的共生**<br>1. **环境压力的淬炼**  <br>   - 2025年1月因团队活动安排差异未随队赴京，粉丝描述其“下班状态冷静中带决意”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 24, \"data\": {\"num\": [6], \"version\": 2, \"quote_list\": [{\"name\": \"好運零件\", \"scheme\": \"sinaweibo://detail?mblogid=5222130771822681\", \"index\": 6, \"label\": \"\"}]}}```  <br>   - 曾被质疑“只有长大才会被爱”，却以舞台实力扭转偏见，印证“关关难过关关过”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 25, \"data\": {\"num\": [4], \"version\": 2, \"quote_list\": [{\"name\": \"猪一罐儿\", \"scheme\": \"sinaweibo://detail?mblogid=5200726377632940\", \"index\": 4, \"label\": \"\"}]}}```<br><br>2. **粉圈生态进化**  <br>   - 唯粉崛起：2025年毒唯比例增加，强调“坚定唯一选择陈浚铭”，反对CP吸血。```wbCustomBlock{\"type\": \"quoted\", \"index\": 27, \"data\": {\"num\": [5], \"version\": 2, \"quote_list\": [{\"name\": \"好運零件\", \"scheme\": \"sinaweibo://detail?mblogid=5225955866968365\", \"index\": 5, \"label\": \"\"}]}}```  <br>   - 数据组呼吁用舞台实力巩固“最稳妥的上坡路”，拒绝同情牌。```wbCustomBlock{\"type\": \"quoted\", \"index\": 28, \"data\": {\"num\": [5], \"version\": 2, \"quote_list\": [{\"name\": \"好運零件\", \"scheme\": \"sinaweibo://detail?mblogid=5225955866968365\", \"index\": 5, \"label\": \"\"}]}}```<br>### ✨ **总结：养成系逻辑的重塑者**  <br>陈浚铭的“一天一个样”是生理蜕变、实力裂变与心理韧性的三重叠加。他以 **无短板业务能力（门面+ACE+Rap担+乐器手）** 和 **人格化魅力（真诚/敏感/野心）**，打破练习生转型魔咒，重塑了偶像产业中 **个体价值突破集体框架** 的范式。正如粉丝所言：“那些曾让你窒息的雨水，终成滋养生命的养料”——这场蜕变不仅是外貌与技能的升级，更是一场关于 **坚持、抗压与自我证明** 的青春叙事。```wbCustomBlock{\"type\": \"quoted\", \"index\": 30, \"data\": {\"num\": [16, 19], \"version\": 2, \"quote_list\": [{\"name\": \"茗茶气泡泡\", \"scheme\": \"sinaweibo://detail?mblogid=5227798198488980\", \"index\": 16, \"label\": \"\"}, {\"name\": \"萌魚眠吻\", \"scheme\": \"sinaweibo://detail?mblogid=5227798613985873\", \"index\": 19, \"label\": \"\"}]}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5227798198488980&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=5&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/006mgkm0ly8i6tja2v38sj30u00u00v7.jpg?KID=imgbed,tva&Expires=1761917513&ssig=PCZ1O6AR5%2B) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">茗茶气泡泡</span><img src=\"http://wx2.sinaimg.cn/middle/006mgkm0gy1i6vhfpdl2tj318g0xck3h.jpg\" data-width=1200 data-height=1600></div></media-block><br>",
+      "query": "#陈浚铭 一天一个样#",
+      "msg_format": "markdown",
+      "model": "deepseek_stream",
+      "ext_show": {},
+      "cot": 1,
+      "query_field": "1",
+      "chat_status_stage": 4,
+      "current_time": 1761921165,
+      "profile_image_url": "",
+      "reliable_tips": "{\"gold_orange_v_mids\": [\"5227796500578987\", \"5215255313516790\", \"5227784712752971\", \"5200726377632940\", \"5222130771822681\", \"5216952672849228\", \"5197038297813042\", \"5225955866968365\", \"5227798198488980\", \"5227798613985873\", \"5225692934704316\", \"5224626802395634\", \"5187585810893397\", \"5185329600660009\", \"5227821702319841\", \"5187577785091900\", \"5197742730645583\", \"5198126084525170\"], \"gold_orange_v_ratio\": \"58%\", \"media_mids\": [], \"media_ratio\": \"0%\", \"verified_mids\": [\"5066322486500020\", \"5189848313108254\", \"5200695893954298\", \"5200747555979356\", \"5200634846644871\", \"5161059925887065\"], \"verified_ratio\": \"19%\", \"normal_mids\": [\"5204370056549806\", \"5227809296614303\", \"5227801454054319\", \"5227812853121488\", \"5227810677067011\", \"5227806791571494\", \"5198388205455848\"], \"normal_ratio\": \"23%\", \"ref_mid_rank\": {\"5066322486500020\": {\"rank\": 9}, \"5227796500578987\": {\"rank\": 13}, \"5215255313516790\": {\"rank\": 29}, \"5227784712752971\": {\"rank\": 15}, \"5200726377632940\": {\"rank\": 4}, \"5189848313108254\": {\"rank\": 34}, \"5222130771822681\": {\"rank\": 6}, \"5216952672849228\": {\"rank\": 28}, \"5204370056549806\": {\"rank\": 33}, \"5200695893954298\": {\"rank\": 7}, \"5227809296614303\": {\"rank\": 17}, \"5227801454054319\": {\"rank\": 26}, \"5197038297813042\": {\"rank\": 21}, \"5200747555979356\": {\"rank\": 32}, \"5225955866968365\": {\"rank\": 5}, \"5227798198488980\": {\"rank\": 16}, \"5227798613985873\": {\"rank\": 19}, \"5225692934704316\": {\"rank\": 1}, \"5224626802395634\": {\"rank\": 2}, \"5187585810893397\": {\"rank\": 3}, \"5185329600660009\": {\"rank\": 8}, \"5227821702319841\": {\"rank\": 14}, \"5187577785091900\": {\"rank\": 18}, \"5227812853121488\": {\"rank\": 20}, \"5227810677067011\": {\"rank\": 22}, \"5197742730645583\": {\"rank\": 23}, \"5227806791571494\": {\"rank\": 24}, \"5200634846644871\": {\"rank\": 25}, \"5198126084525170\": {\"rank\": 27}, \"5161059925887065\": {\"rank\": 30}, \"5198388205455848\": {\"rank\": 31}}}",
+      "qs_status": 0,
+      "sorted_material_list": null,
+      "qs_status_info": "{\"qs_q_status\":0,\"qs_u_status\":0,\"qs_status\":0,\"ab_lab\":{},\"qs_c_status\":8388608,\"qs_r_status\":0}",
+      "loop_times": 200,
+      "unify_md5": "b0c2f369af3cb4548f54ecbcc0ea80e6",
+      "q_attr": {
+        "from_request_id": "1761906710574",
+        "reply_cid": "",
+        "comment_from_type": "",
+        "from_uid": "7901107297",
+        "mid": ""
+      },
+      "analysis_time": 1761906759,
+      "uid": "",
+      "share_info": {
+        "status": 3,
+        "tips": "#陈浚铭 一天一个样#的相关内容，来智搜看看",
+        "page_id": "2329648c5fe30a00210a4b364f6b3c22dc674f",
+        "display_name": "#陈浚铭 一天一个样#",
+        "url": "http://t.cn/AXA5faLD",
+        "unify_md5": "b0c2f369af3cb4548f54ecbcc0ea80e6",
+        "comment_content": ""
+      },
+      "share_text": "#陈浚铭 一天一个样#的相关内容，来智搜看看",
+      "ab_suffix": "default",
+      "comment_info": {},
+      "zs_risk_control": {
+        "think_text_close": 0,
+        "land_button_close": 0
+      },
+      "msg_json": "{}",
+      "version": "2025-10-31 18:31:52.529000-9021",
+      "user_info": {},
+      "abtest_info": {
+        "chat_entrance": 1
+      },
+      "news_analyze": {},
+      "mid_list": null,
+      "reference_num": 31,
+      "status_stage": 4,
+      "link_list": [
+        "sinaweibo://detail?mblogid=5225692934704316",
+        "sinaweibo://detail?mblogid=5224626802395634",
+        "sinaweibo://detail?mblogid=5187585810893397",
+        "sinaweibo://detail?mblogid=5200726377632940",
+        "sinaweibo://detail?mblogid=5225955866968365",
+        "sinaweibo://detail?mblogid=5222130771822681",
+        "sinaweibo://detail?mblogid=5200695893954298",
+        "sinaweibo://detail?mblogid=5185329600660009",
+        "sinaweibo://detail?mblogid=5066322486500020",
+        "historyweibo://5225692934704316",
+        "historyweibo://4930601885369835",
+        "historyweibo://4882525111197496",
+        "sinaweibo://detail?mblogid=5227796500578987",
+        "sinaweibo://detail?mblogid=5227821702319841",
+        "sinaweibo://detail?mblogid=5227784712752971",
+        "sinaweibo://detail?mblogid=5227798198488980",
+        "sinaweibo://detail?mblogid=5227809296614303",
+        "sinaweibo://detail?mblogid=5187577785091900",
+        "sinaweibo://detail?mblogid=5227798613985873",
+        "sinaweibo://detail?mblogid=5227812853121488",
+        "sinaweibo://detail?mblogid=5197038297813042",
+        "sinaweibo://detail?mblogid=5227810677067011",
+        "sinaweibo://detail?mblogid=5197742730645583",
+        "sinaweibo://detail?mblogid=5227806791571494",
+        "sinaweibo://detail?mblogid=5200634846644871",
+        "sinaweibo://detail?mblogid=5227801454054319",
+        "sinaweibo://detail?mblogid=5198126084525170",
+        "sinaweibo://detail?mblogid=5216952672849228",
+        "sinaweibo://detail?mblogid=5215255313516790",
+        "sinaweibo://detail?mblogid=5161059925887065",
+        "sinaweibo://detail?mblogid=5198388205455848",
+        "sinaweibo://detail?mblogid=5200747555979356",
+        "sinaweibo://detail?mblogid=5204370056549806",
+        "sinaweibo://detail?mblogid=5189848313108254"
+      ],
+      "page_id": "2329648c5fe30a00210a4b364f6b3c22dc674f"
+    }
+  },
+  "links": [
+    "sinaweibo://detail?mblogid=5225692934704316",
+    "sinaweibo://detail?mblogid=5224626802395634",
+    "sinaweibo://detail?mblogid=5187585810893397",
+    "sinaweibo://detail?mblogid=5200726377632940",
+    "sinaweibo://detail?mblogid=5225955866968365",
+    "sinaweibo://detail?mblogid=5222130771822681",
+    "sinaweibo://detail?mblogid=5200695893954298",
+    "sinaweibo://detail?mblogid=5185329600660009",
+    "sinaweibo://detail?mblogid=5066322486500020",
+    "historyweibo://5225692934704316",
+    "historyweibo://4930601885369835",
+    "historyweibo://4882525111197496",
+    "sinaweibo://detail?mblogid=5227796500578987",
+    "sinaweibo://detail?mblogid=5227821702319841",
+    "sinaweibo://detail?mblogid=5227784712752971",
+    "sinaweibo://detail?mblogid=5227798198488980",
+    "sinaweibo://detail?mblogid=5227809296614303",
+    "sinaweibo://detail?mblogid=5187577785091900",
+    "sinaweibo://detail?mblogid=5227798613985873",
+    "sinaweibo://detail?mblogid=5227812853121488",
+    "sinaweibo://detail?mblogid=5197038297813042",
+    "sinaweibo://detail?mblogid=5227810677067011",
+    "sinaweibo://detail?mblogid=5197742730645583",
+    "sinaweibo://detail?mblogid=5227806791571494",
+    "sinaweibo://detail?mblogid=5200634846644871",
+    "sinaweibo://detail?mblogid=5227801454054319",
+    "sinaweibo://detail?mblogid=5198126084525170",
+    "sinaweibo://detail?mblogid=5216952672849228",
+    "sinaweibo://detail?mblogid=5215255313516790",
+    "sinaweibo://detail?mblogid=5161059925887065",
+    "sinaweibo://detail?mblogid=5198388205455848",
+    "sinaweibo://detail?mblogid=5200747555979356",
+    "sinaweibo://detail?mblogid=5204370056549806",
+    "sinaweibo://detail?mblogid=5189848313108254"
+  ],
+  "media": [
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/008cs9rFly1i5rgwbzevlj30u01hcwgh.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/008cs9rFly1i5rgwbzevlj30u01hcwgh.jpg",
+      "alt": "炸鸡块我的菜",
+      "width": 1920,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/008cs9rFly1i5rgwbzevlj30u01hcwgh.jpg"
+      ],
+      "user": "炸鸡块我的菜"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/007w7Vyxgy1hskc73hn4gj30mk0u248j.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/007w7Vyxgy1hskc73hn4gj30mk0u248j.jpg",
+      "alt": "玩偶出逃丨陈浚铭",
+      "width": 1082,
+      "height": 812,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/007w7Vyxgy1hskc73hn4gj30mk0u248j.jpg"
+      ],
+      "user": "玩偶出逃丨陈浚铭"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/007VFik2gy1i6vhb6nq4aj31eq1eqwrw.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/007VFik2gy1i6vhb6nq4aj31eq1eqwrw.jpg",
+      "alt": "西南特帅生",
+      "width": 1826,
+      "height": 1826,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/007VFik2gy1i6vhb6nq4aj31eq1eqwrw.jpg"
+      ],
+      "user": "西南特帅生"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/008tO4DRly1i6vfvuimqoj30k00zijs5.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/008tO4DRly1i6vfvuimqoj30k00zijs5.jpg",
+      "alt": "晚风蝴蝶结",
+      "width": 1278,
+      "height": 720,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx4.sinaimg.cn/large/008tO4DRly1i6vfvuimqoj30k00zijs5.jpg"
+      ],
+      "user": "晚风蝴蝶结"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/0086zlRsly1i6deeuon2xj30wi17cgvb.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/0086zlRsly1i6deeuon2xj30wi17cgvb.jpg",
+      "alt": "好運零件",
+      "width": 1560,
+      "height": 1170,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/0086zlRsly1i6deeuon2xj30wi17cgvb.jpg"
+      ],
+      "user": "好運零件"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/007DfCn9gy1i4h0qlh8l0j30k00kkaam.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/007DfCn9gy1i4h0qlh8l0j30k00kkaam.jpg",
+      "alt": "球球奶黄包_",
+      "width": 740,
+      "height": 720,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/007DfCn9gy1i4h0qlh8l0j30k00kkaam.jpg"
+      ],
+      "user": "球球奶黄包_"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/008AKygRgy1i4h6npk4k1j30u0190gqf.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/008AKygRgy1i4h6npk4k1j30u0190gqf.jpg",
+      "alt": "铭猪肉肉",
+      "width": 1620,
+      "height": 1080,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/008AKygRgy1i4h6npk4k1j30u0190gqf.jpg"
+      ],
+      "user": "铭猪肉肉"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/006mgkm0gy1i6vhfpdl2tj318g0xck3h.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/006mgkm0gy1i6vhfpdl2tj318g0xck3h.jpg",
+      "alt": "茗茶气泡泡",
+      "width": 1200,
+      "height": 1600,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/006mgkm0gy1i6vhfpdl2tj318g0xck3h.jpg"
+      ],
+      "user": "茗茶气泡泡"
+    }
+  ],
+  "html_path": "data/aicard/hourly/2025-10-31/13/topic-b0c2f369.html"
+}

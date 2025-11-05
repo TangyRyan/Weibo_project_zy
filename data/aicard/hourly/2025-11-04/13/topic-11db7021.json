@@ -1,0 +1,471 @@
+{
+  "meta": {
+    "query": "#激情全运会活力大湾区#",
+    "status_code": 200,
+    "fetched_at": "2025-11-04T13:32:00+08:00",
+    "response": {
+      "cot": 1,
+      "news_analyze": {},
+      "model": "deepseek",
+      "user_info": {},
+      "wenda": {
+        "forward_gen": 0
+      },
+      "qs_status_info": "{\"qs_status\":0,\"qs_r_status\":0,\"qs_u_status\":0,\"ab_lab\":{},\"qs_c_status\":8388608,\"qs_q_status\":0}",
+      "loop_times": 200,
+      "qs_status": 0,
+      "unify_md5": "11db7021f86cebbaf773ccef0e65dd85",
+      "scheme": "sinaweibo://cardlist?containerid=100103type%3D225%26q%3D%23%E6%BF%80%E6%83%85%E5%85%A8%E8%BF%90%E4%BC%9A%E6%B4%BB%E5%8A%9B%E5%A4%A7%E6%B9%BE%E5%8C%BA%23%26t%3D&extparam=ai_model%3Ddeepseek%26ori_ai_title%3D%E5%8F%82%E8%80%83%E5%8D%9A%E6%96%87%26material_version%3D1762234073",
+      "status": 2,
+      "msg_json": "{}",
+      "chat_status_stage": 1,
+      "share_text": "#激情全运会活力大湾区#的相关内容，来智搜看看",
+      "q_attr": {
+        "from_request_id": "",
+        "reply_cid": "",
+        "comment_from_type": "",
+        "mid": "",
+        "from_uid": ""
+      },
+      "card_multimodal": {
+        "type": "mediablock",
+        "data": [
+          {
+            "cur_mid": "5228468359136576",
+            "h": 427,
+            "user_name": "南方日报",
+            "user_avatar": "https://tvax2.sinaimg.cn/crop.0.0.640.640.50/001PQmVoly8h8vgdozraej60hs0hs74y02.jpg?KID=imgbed,tva&Expires=1762244873&ssig=Z2qBgs83zf",
+            "scheme": "sinaweibo://multimedia?mix_mid=5228468359136576&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=0",
+            "w": 640,
+            "video_url": "",
+            "img": "http://wx2.sinaimg.cn/middle/001PQmVogy1i6xmawgswij60hs0bvgp802.jpg",
+            "doc_score": 0,
+            "img_pid": "001PQmVogy1i6xmawgswij60hs0bvgp802",
+            "type": "p",
+            "click_rate": 0,
+            "click_num": 0,
+            "hit_score_final": 0,
+            "vtype": 3,
+            "hit_score_new": 0
+          },
+          {
+            "cur_mid": "5228671913695178",
+            "h": 1440,
+            "user_name": "央视新闻",
+            "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.690.690.50/002TLsr9ly8i653ifvwbtj60j60j6aai02.jpg?KID=imgbed,tva&Expires=1762244873&ssig=BXUzI5waVk",
+            "scheme": "sinaweibo://video/vvs?mid=5228671913695178&multi_paragraph=1&multi_count=1",
+            "w": 1080,
+            "video_url": "https://video.weibo.com/show?fid=1034:5228670667915269",
+            "img": "http://wx4.sinaimg.cn/middle/002TLsr9ly1i6y9ndbiesj60u0140tsx02.jpg",
+            "doc_score": 3565,
+            "img_pid": "002TLsr9ly1i6y9ndbiesj60u0140tsx02",
+            "type": "v",
+            "click_rate": 0,
+            "click_num": 0,
+            "hit_score_final": 52.887894,
+            "vtype": 3,
+            "hit_score_new": 50.146484
+          },
+          {
+            "cur_mid": "5229034649684603",
+            "h": 1920,
+            "user_name": "圈内漂流瓶",
+            "user_avatar": "https://tvax2.sinaimg.cn/crop.0.0.512.512.50/bb8b394cly8ha22s3nc24j20e80e8q3b.jpg?KID=imgbed,tva&Expires=1762244874&ssig=mncQOXPz7Z",
+            "scheme": "sinaweibo://video/vvs?mid=5229034649684603&multi_paragraph=1&multi_count=2",
+            "w": 1080,
+            "video_url": "https://video.weibo.com/show?fid=1034:5229034548953220",
+            "img": "http://wx2.sinaimg.cn/middle/bb8b394cly1i6zffwssfvj20u01hc782.jpg",
+            "doc_score": 4560,
+            "img_pid": "bb8b394cly1i6zffwssfvj20u01hc782",
+            "type": "v",
+            "click_rate": 0,
+            "click_num": 0,
+            "hit_score_final": 87.078285,
+            "vtype": 0,
+            "hit_score_new": 98.730469
+          },
+          {
+            "cur_mid": "5228468359136576",
+            "h": 427,
+            "user_name": "南方日报",
+            "user_avatar": "https://tvax2.sinaimg.cn/crop.0.0.640.640.50/001PQmVoly8h8vgdozraej60hs0hs74y02.jpg?KID=imgbed,tva&Expires=1762244873&ssig=Z2qBgs83zf",
+            "scheme": "sinaweibo://multimedia?mix_mid=5228468359136576&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=0",
+            "w": 640,
+            "video_url": "",
+            "img": "http://wx2.sinaimg.cn/middle/001PQmVogy1i6xmawgswij60hs0bvgp802.jpg",
+            "doc_score": 0,
+            "img_pid": "001PQmVogy1i6xmawgswij60hs0bvgp802",
+            "type": "p",
+            "click_rate": 0,
+            "click_num": 0,
+            "hit_score_final": 0,
+            "vtype": 3,
+            "hit_score_new": 0
+          }
+        ]
+      },
+      "sorted_material_list": null,
+      "uid": "",
+      "query_field": "20",
+      "ext_show": {},
+      "reliable_tips": "{\"gold_orange_v_mids\": [\"5229034649684603\", \"5222650109494011\", \"5223762863851969\", \"5222649221089650\", \"5228465403462241\", \"5228560991389685\", \"5225928869286007\", \"5227692644631022\", \"5222554136741364\", \"5227175470957286\", \"5229220386308138\", \"5229225290240382\", \"5228492716247813\", \"5228578627389059\", \"5222647816261005\", \"5222646512094045\", \"5163935586321746\", \"5207173101519903\", \"5229217865274259\", \"5228949854486913\", \"5229228148917561\", \"5229218529280733\", \"5229216096323149\", \"5228606469180095\", \"5228598778134866\", \"5228987363886445\", \"5228662827785270\", \"5228496462547515\", \"5228284738275231\", \"5228682790570230\", \"5228666026201003\", \"5228647688441600\", \"5226429588702627\", \"5222649059873409\", \"5171049680601727\", \"5222657392116610\", \"5226034850959538\"], \"gold_orange_v_ratio\": \"61%\", \"media_mids\": [\"5228468359136576\", \"5228671913695178\", \"5229217543359241\", \"5228522374169795\", \"5229248777292444\", \"5229213743320946\", \"5229236815924070\", \"5227786957751734\", \"5229205218658031\"], \"media_ratio\": \"15%\", \"verified_mids\": [\"5228554393490145\", \"5217085992206744\", \"5225384339308549\", \"5225384039945123\", \"5228312798434584\", \"5228285794717732\", \"5228903381337140\", \"5228917775403814\", \"5229225779134983\", \"5229224237206553\", \"5228529178644201\", \"5228508428895296\", \"5228866572649040\", \"5228920652698322\"], \"verified_ratio\": \"23%\", \"normal_mids\": [\"5229232819275339\"], \"normal_ratio\": \"1%\", \"ref_mid_rank\": {\"5228554393490145\": {\"rank\": 7}, \"5228468359136576\": {\"rank\": 1}, \"5228671913695178\": {\"rank\": 60}, \"5229034649684603\": {\"rank\": 63}, \"5222650109494011\": {\"rank\": 9}, \"5223762863851969\": {\"rank\": 16}, \"5222649221089650\": {\"rank\": 61}, \"5228465403462241\": {\"rank\": 15}, \"5217085992206744\": {\"rank\": 22}, \"5228560991389685\": {\"rank\": 45}, \"5225928869286007\": {\"rank\": 14}, \"5227692644631022\": {\"rank\": 23}, \"5222554136741364\": {\"rank\": 11}, \"5225384339308549\": {\"rank\": 18}, \"5225384039945123\": {\"rank\": 21}, \"5229217543359241\": {\"rank\": 30}, \"5228522374169795\": {\"rank\": 40}, \"5228312798434584\": {\"rank\": 4}, \"5228285794717732\": {\"rank\": 17}, \"5228903381337140\": {\"rank\": 34}, \"5229248777292444\": {\"rank\": 29}, \"5229213743320946\": {\"rank\": 31}, \"5229236815924070\": {\"rank\": 53}, \"5227175470957286\": {\"rank\": 58}, \"5229220386308138\": {\"rank\": 2}, \"5229225290240382\": {\"rank\": 3}, \"5228492716247813\": {\"rank\": 5}, \"5228917775403814\": {\"rank\": 6}, \"5228578627389059\": {\"rank\": 8}, \"5222647816261005\": {\"rank\": 10}, \"5222646512094045\": {\"rank\": 12}, \"5163935586321746\": {\"rank\": 13}, \"5227786957751734\": {\"rank\": 19}, \"5207173101519903\": {\"rank\": 20}, \"5229205218658031\": {\"rank\": 27}, \"5229225779134983\": {\"rank\": 28}, \"5229224237206553\": {\"rank\": 32}, \"5229217865274259\": {\"rank\": 33}, \"5228949854486913\": {\"rank\": 35}, \"5229228148917561\": {\"rank\": 36}, \"5229218529280733\": {\"rank\": 37}, \"5229216096323149\": {\"rank\": 38}, \"5229232819275339\": {\"rank\": 39}, \"5228606469180095\": {\"rank\": 41}, \"5228529178644201\": {\"rank\": 42}, \"5228508428895296\": {\"rank\": 43}, \"5228598778134866\": {\"rank\": 44}, \"5228987363886445\": {\"rank\": 46}, \"5228662827785270\": {\"rank\": 47}, \"5228496462547515\": {\"rank\": 48}, \"5228284738275231\": {\"rank\": 49}, \"5228682790570230\": {\"rank\": 50}, \"5228866572649040\": {\"rank\": 51}, \"5228666026201003\": {\"rank\": 52}, \"5228920652698322\": {\"rank\": 54}, \"5228647688441600\": {\"rank\": 55}, \"5226429588702627\": {\"rank\": 56}, \"5222649059873409\": {\"rank\": 57}, \"5171049680601727\": {\"rank\": 59}, \"5222657392116610\": {\"rank\": 62}, \"5226034850959538\": {\"rank\": 64}}}",
+      "comment_info": {},
+      "mid_list": null,
+      "version": "2025-11-04 13:27:53.025000-5288",
+      "analysis_time": 1762234271,
+      "ab_suffix": "default",
+      "reference_num": 61,
+      "show_ctrl": {
+        "quote": {}
+      },
+      "msg_format": "markdown",
+      "current_time": 1762234322,
+      "profile_image_url": "",
+      "share_info": {
+        "url": "http://t.cn/A6F70CMV",
+        "unify_md5": "11db7021f86cebbaf773ccef0e65dd85",
+        "status": 3,
+        "comment_content": "",
+        "page_id": "2329646a2bceb98cc706eb20a0cb9c4ea6a460",
+        "tips": "#激情全运会活力大湾区#的相关内容，来智搜看看",
+        "display_name": "#激情全运会活力大湾区#"
+      },
+      "basemodel": "实验组8",
+      "zs_risk_control": {
+        "land_button_close": 0,
+        "think_text_close": 0
+      },
+      "query": "#激情全运会活力大湾区#",
+      "page_id": "2329646a2bceb98cc706eb20a0cb9c4ea6a460",
+      "msg": "<think><br>嗯，用户查询了\"激情全运会活力大湾区\"，我需要整理相关信息。先看搜索结果，发现这是第十五届全运会的主题口号，由粤港澳三地联合举办。今天日期是2025年11月4日，全运会将在11月9日开幕，所以时效性很重要。<br><br>翻看搜索结果，置顶的是南方日报的报道，提到11月2日在深圳莲花山启动火炬传递，首次四城同传，薛其坤院士是第一棒。这个信息很关键，火炬传递是开幕前的重要活动。还有十五运会组委会的详细介绍，补充了机器人火炬手\"夸父\"等科技亮点。<br><br>科技特色也很突出。深圳站用机器人传递火炬，广州用无人车转运火种。火种还从南海可燃冰平台采集，这些细节体现大湾区科创实力。民俗元素也接地气，主火炬造型被调侃像\"一扎香\"，呼应广东拜神习俗。<br><br>湾区融合是重点。央视新闻提到公路自行车赛将6次跨境，实现\"无感通关\"。火炬传递路线设计也各具特色：香港维港、澳门大三巴、广州商都、深圳科创。四城火种最后在广州汇成\"同心之火\"，象征意义很强。<br><br>明星运动员关注度高。全红婵复出参加三项，樊振东备战，孙杨第五次参赛。会歌《气势如虹》由王一博演唱，在校园广泛传唱。<br><br>倒计时活动丰富多彩。门票释放通知，田栩宁等艺人打call，胡兵展示非遗醒狮。广东各地合唱会歌，连外国景点都有粤语口号打卡。<br><br>最后准备结构化呈现：火炬亮点放首位，突出科技民俗；再讲湾区融合；接着明星与会歌；最后筹备情况和全民互动。引用时效性强的近期结果，避免过时内容。确保每个信息点都有可靠来源，比如组委会账号和权威媒体。<br><br></think><br>以下是关于“激情全运会活力大湾区”的第十五届全运会（粤港澳全运会）核心信息整理：<br>### 🔥 **火炬传递：科技与文化的湾区表达**  <br>1. **创新形式**  <br>   - **全球首次机器人火炬手**：深圳站第二棒由人形机器人“夸父”完成100米传递，精准握持1.6公斤火炬，展现人工智能与体育的融合。```wbCustomBlock{\"type\": \"quoted\", \"index\": 5, \"data\": {\"num\": [7], \"version\": 2, \"quote_list\": [{\"name\": \"十五运会组委会\", \"scheme\": \"sinaweibo://detail?mblogid=5228554393490145\", \"index\": 7, \"label\": \"\"}]}}```  <br>   - **四城同步传递**：香港（横渡维港）、澳门（穿行大三巴）、广州（千年商都路线）、深圳（空中连廊+直升机空传）首次跨境同传圣火，最终汇聚广州奥体中心形成“同心之火”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 6, \"data\": {\"num\": [1, 7, 60], \"version\": 2, \"quote_list\": [{\"name\": \"南方日报\", \"scheme\": \"sinaweibo://detail?mblogid=5228468359136576\", \"index\": 1, \"label\": \"大v\"}, {\"name\": \"十五运会组委会\", \"scheme\": \"sinaweibo://detail?mblogid=5228554393490145\", \"index\": 7, \"label\": \"\"}, {\"name\": \"央视新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5228671913695178\", \"index\": 60, \"label\": \"\"}], \"name\": \"南方日报\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.640.640.50/001PQmVoly8h8vgdozraej60hs0hs74y02.jpg?KID=imgbed,tva&Expires=1762244873&ssig=Z2qBgs83zf\", \"scheme\": \"sinaweibo://detail?mblogid=5228468359136576\", \"vType\": 3}}```  <br><br>2. **地域文化融合**  <br>   - **“一炷香”火炬设计**：主火炬造型被广东网友调侃形似民间祭拜的线香捆，巧妙呼应“祈福”“争上头炷香”的民俗传统。```wbCustomBlock{\"type\": \"quoted\", \"index\": 8, \"data\": {\"num\": [63], \"version\": 2, \"quote_list\": [{\"name\": \"圈内漂流瓶\", \"scheme\": \"sinaweibo://detail?mblogid=5229034649684603\", \"index\": 63, \"label\": \"大v\"}], \"name\": \"圈内漂流瓶\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.512.512.50/bb8b394cly8ha22s3nc24j20e80e8q3b.jpg?KID=imgbed,tva&Expires=1762244874&ssig=mncQOXPz7Z\", \"scheme\": \"sinaweibo://detail?mblogid=5229034649684603\", \"vType\": 0}}```  <br>   - **非遗展演**：广州站传递沿途展示粤剧《南国红豆》、广府早茶技艺；收火仪式万人合唱粤语金曲《海阔天空》，引爆本土情感共鸣。```wbCustomBlock{\"type\": \"quoted\", \"index\": 9, \"data\": {\"num\": [60], \"version\": 2, \"quote_list\": [{\"name\": \"央视新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5228671913695178\", \"index\": 60, \"label\": \"大v\"}], \"name\": \"央视新闻\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.690.690.50/002TLsr9ly8i653ifvwbtj60j60j6aai02.jpg?KID=imgbed,tva&Expires=1762244873&ssig=BXUzI5waVk\", \"scheme\": \"sinaweibo://detail?mblogid=5228671913695178\", \"vType\": 3}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5228468359136576&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.640.640.50/001PQmVoly8h8vgdozraej60hs0hs74y02.jpg?KID=imgbed,tva&Expires=1762244873&ssig=Z2qBgs83zf) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">南方日报</span><img src=\"http://wx2.sinaimg.cn/middle/001PQmVogy1i6xmawgswij60hs0bvgp802.jpg\" data-width=427 data-height=640></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5228671913695178&multi_paragraph=1&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.690.690.50/002TLsr9ly8i653ifvwbtj60j60j6aai02.jpg?KID=imgbed,tva&Expires=1762244873&ssig=BXUzI5waVk) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">央视新闻</span><img src=\"http://wx4.sinaimg.cn/middle/002TLsr9ly1i6y9ndbiesj60u0140tsx02.jpg\" data-width=1440 data-height=1080></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5229034649684603&multi_paragraph=1&multi_count=2\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.512.512.50/bb8b394cly8ha22s3nc24j20e80e8q3b.jpg?KID=imgbed,tva&Expires=1762244874&ssig=mncQOXPz7Z) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">圈内漂流瓶</span><img src=\"http://wx2.sinaimg.cn/middle/bb8b394cly1i6zffwssfvj20u01hc782.jpg\" data-width=1920 data-height=1080></div></media-block><br>### 🌟 **赛事亮点：明星运动员与全民参与**  <br>1. **顶尖选手回归**  <br>   - **全红婵复出**：伤愈后身兼女子单人/双人10米台、团体三项，队内测试再现“水花消失术”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 13, \"data\": {\"num\": [9, 16, 61], \"version\": 2, \"quote_list\": [{\"name\": \"泼墨人生\", \"scheme\": \"sinaweibo://detail?mblogid=5222650109494011\", \"index\": 9, \"label\": \"\"}, {\"name\": \"歌语晚冬-\", \"scheme\": \"sinaweibo://detail?mblogid=5223762863851969\", \"index\": 16, \"label\": \"\"}, {\"name\": \"财紫薇\", \"scheme\": \"sinaweibo://detail?mblogid=5222649221089650\", \"index\": 61, \"label\": \"\"}]}}```  <br>   - **樊振东冲击新里程碑**：大满贯得主回归训练，或与马龙再现“粤圆之战”（参考2021全运会连救5赛点逆转）。```wbCustomBlock{\"type\": \"quoted\", \"index\": 14, \"data\": {\"num\": [15], \"version\": 2, \"quote_list\": [{\"name\": \"大狗体育Vv\", \"scheme\": \"sinaweibo://detail?mblogid=5228465403462241\", \"index\": 15, \"label\": \"\"}]}}```  <br>   - **孙杨第五次参赛**：以20年职业生涯跨度诠释体育精神传承。```wbCustomBlock{\"type\": \"quoted\", \"index\": 15, \"data\": {\"num\": [22], \"version\": 2, \"quote_list\": [{\"name\": \"yuetmok\", \"scheme\": \"sinaweibo://detail?mblogid=5217085992206744\", \"index\": 22, \"label\": \"\"}]}}```  <br><br>2. **群众体育热潮**  <br>   - **最低50元门票**：90%场馆为改造升级，惠民票价推动全民观赛。```wbCustomBlock{\"type\": \"quoted\", \"index\": 17, \"data\": {\"num\": [45], \"version\": 2, \"quote_list\": [{\"name\": \"星眠曲-\", \"scheme\": \"sinaweibo://detail?mblogid=5228560991389685\", \"index\": 45, \"label\": \"\"}]}}```  <br>   - **跨境融合赛事**：公路自行车赛途经港珠澳大桥，依托“无感通关”实现6次跨境，运动员通行效率提升40%。```wbCustomBlock{\"type\": \"quoted\", \"index\": 18, \"data\": {\"num\": [60], \"version\": 2, \"quote_list\": [{\"name\": \"央视新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5228671913695178\", \"index\": 60, \"label\": \"\"}]}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5222650109494011&multi_paragraph=2&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/008eTGErly8i0nl0nfdruj30u00u07az.jpg?KID=imgbed,tva&Expires=1762244873&ssig=jVVFsBrwa%2F) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">泼墨人生</span><img src=\"http://wx1.sinaimg.cn/middle/008eTGErgy1i6f26lda71j30u00u0752.jpg\" data-width=1080 data-height=1080></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5223762863851969&multi_paragraph=2&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/008AHQpMly8i4fq34q9hij30u00u0jvy.jpg?KID=imgbed,tva&Expires=1762244873&ssig=gt0yENtSVn) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">歌语晚冬-</span><img src=\"http://wx4.sinaimg.cn/middle/008AHQpMgy1i6ilzdp4vcj31400u0dhj.jpg\" data-width=1080 data-height=1440></div><div data-type=\"v\" data-scheme=\"sinaweibo://multimedia?mix_mid=5217085992206744&mix_index=0&multi_paragraph=2&multi_count=2\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.200.200.50/006PJwSoly8hztveg9ywlj305k05k0sm.jpg?KID=imgbed,tva&Expires=1762244873&ssig=IIjuFoVQXa) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">yuetmok</span><img src=\"http://wx4.sinaimg.cn/middle/006PJwSoly1i5xb4e13otj30k00zkmyd.jpg\" data-width=1280 data-height=720></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5228560991389685&multi_paragraph=2&multi_count=3\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/005tHGm9ly1i2rt6rk5npj30u00u0ju3.jpg?KID=imgbed,tva&Expires=1762244873&ssig=0vcHEPKAH6) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">星眠曲-</span><img src=\"http://wx4.sinaimg.cn/middle/005tHGm9ly1i6xx1hvz8pj30k00k0myh.jpg\" data-width=720 data-height=720></div></media-block><br>### 🎵 **文化符号：会歌与口号全民传唱**  <br>1. **主题曲《气势如虹》**  <br>   - 由王一博与粤港澳青年歌手共同演绎，融合传统与现代旋律，歌词“迎着澎湃的风，立时代潮涌”呼应湾区精神。```wbCustomBlock{\"type\": \"quoted\", \"index\": 22, \"data\": {\"num\": [14, 23], \"version\": 2, \"quote_list\": [{\"name\": \"一优秀的宝\", \"scheme\": \"sinaweibo://detail?mblogid=5225928869286007\", \"index\": 14, \"label\": \"\"}, {\"name\": \"YB_LEGEND\", \"scheme\": \"sinaweibo://detail?mblogid=5227692644631022\", \"index\": 23, \"label\": \"\"}]}}```  <br>   - **校园传唱热潮**：广州培英中学、云浮学子等接力合唱，从课堂走向街头，成为“体育精神的民间传递”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 23, \"data\": {\"num\": [11, 18, 21], \"version\": 2, \"quote_list\": [{\"name\": \"九分糖心动\", \"scheme\": \"sinaweibo://detail?mblogid=5222554136741364\", \"index\": 11, \"label\": \"\"}, {\"name\": \"十五运会组委会\", \"scheme\": \"sinaweibo://detail?mblogid=5225384339308549\", \"index\": 18, \"label\": \"\"}, {\"name\": \"十五运会组委会\", \"scheme\": \"sinaweibo://detail?mblogid=5225384039945123\", \"index\": 21, \"label\": \"\"}]}}```  <br><br>2. **口号病毒式传播**  <br>   - “激情全运会，活力大湾区，魅力新广州”引发全民模仿，网友自发在全球地标用粤语喊出口号，形成“世界级大湾区”话题效应。```wbCustomBlock{\"type\": \"quoted\", \"index\": 25, \"data\": {\"num\": [30, 40], \"version\": 2, \"quote_list\": [{\"name\": \"四川观察\", \"scheme\": \"sinaweibo://detail?mblogid=5229217543359241\", \"index\": 30, \"label\": \"大v\"}, {\"name\": \"钱江视频\", \"scheme\": \"sinaweibo://detail?mblogid=5228522374169795\", \"index\": 40, \"label\": \"\"}], \"name\": \"四川观察\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.600.600.50/beebff5fly8i6aou48o1nj20go0got9j.jpg?KID=imgbed,tva&Expires=1762244873&ssig=lRTxwEQwWH\", \"scheme\": \"sinaweibo://detail?mblogid=5229217543359241\", \"vType\": 3}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://multimedia?mix_mid=5225928869286007&mix_index=0&multi_paragraph=3&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.1023.1023.50/007eU9Kjly8gy044b1llcj30sg0sfdhb.jpg?KID=imgbed,tva&Expires=1762244873&ssig=le1lFuY44n) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">一优秀的宝</span><img src=\"http://wx2.sinaimg.cn/middle/007eU9Kjly1i6pipiz0ysj30qo0k0gmg.jpg\" data-width=720 data-height=960></div><div data-type=\"v\" data-scheme=\"sinaweibo://multimedia?mix_mid=5222554136741364&mix_index=0&multi_paragraph=3&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.1077.1077.50/007hsdEnly8i13p5auppjj30tx0tx762.jpg?KID=imgbed,tva&Expires=1762244873&ssig=nKfEPRQIjm) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">九分糖心动</span><img src=\"http://wx1.sinaimg.cn/middle/007hsdEnly1i6er5gvhpkj30k00qo768.jpg\" data-width=960 data-height=720></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5225384339308549&multi_paragraph=3&multi_count=2\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.600.600.50/008D7q8zly8hx6ikogutej30go0goq44.jpg?KID=imgbed,tva&Expires=1762244873&ssig=4z9K6qyqim) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">十五运会组委会</span><img src=\"http://wx1.sinaimg.cn/middle/008D7q8zgy1i6ns7j02qoj31hc0u0wil.jpg\" data-width=1080 data-height=1920></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5225384039945123&multi_paragraph=3&multi_count=3\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.600.600.50/008D7q8zly8hx6ikogutej30go0goq44.jpg?KID=imgbed,tva&Expires=1762244873&ssig=4z9K6qyqim) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">十五运会组委会</span><img src=\"http://wx2.sinaimg.cn/middle/008D7q8zgy1i6ns5wg5lxj30u0140wuu.jpg\" data-width=1440 data-height=1080></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5228522374169795&multi_paragraph=3&multi_count=4\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.512.512.50/67f865afly8h8vg6w30czj20e80e8t92.jpg?KID=imgbed,tva&Expires=1762244873&ssig=UNo3GWrpmi) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">钱江视频</span><img src=\"http://wx1.sinaimg.cn/middle/67f865afly1i6xslhuap0j20k00qoam6.jpg\" data-width=960 data-height=720></div></media-block><br>### 🏙️ **湾区融合：创新办赛与长远意义**  <br>1. **“一国两制”实践样本**  <br>   - 首次三地联办推动规则衔接，如跨境物资“一事三地、一策三通”模式，为大湾区一体化积累经验。```wbCustomBlock{\"type\": \"quoted\", \"index\": 29, \"data\": {\"num\": [4, 60], \"version\": 2, \"quote_list\": [{\"name\": \"十五运会组委会\", \"scheme\": \"sinaweibo://detail?mblogid=5228312798434584\", \"index\": 4, \"label\": \"\"}, {\"name\": \"央视新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5228671913695178\", \"index\": 60, \"label\": \"\"}]}}```  <br>   - 香港62岁群众选手周敏儿通过参赛强化与内地联系，体现体育促进人心相通。  <br><br>2. **绿色与可持续理念**  <br>   - 不新建大型场馆，采用现有设施改造（如广东台演播厅改国际广播中心）；赛事资源市场化开发延续九运会经验。```wbCustomBlock{\"type\": \"quoted\", \"index\": 32, \"data\": {\"num\": [4, 17], \"version\": 2, \"quote_list\": [{\"name\": \"十五运会组委会\", \"scheme\": \"sinaweibo://detail?mblogid=5228312798434584\", \"index\": 4, \"label\": \"\"}, {\"name\": \"张媛Cathy\", \"scheme\": \"sinaweibo://detail?mblogid=5228285794717732\", \"index\": 17, \"label\": \"\"}]}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5228312798434584&multi_paragraph=4&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.600.600.50/008D7q8zly8hx6ikogutej30go0goq44.jpg?KID=imgbed,tva&Expires=1762244873&ssig=4z9K6qyqim) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">十五运会组委会</span><img src=\"http://wx4.sinaimg.cn/middle/008D7q8zgy1i6x32kcdamj31hc0u07mo.jpg\" data-width=1080 data-height=1920></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5228285794717732&multi_paragraph=4&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/4afe8209ly8i6y9jpiuerj20u00u0jtw.jpg?KID=imgbed,tva&Expires=1762244873&ssig=UM2NJj1D7z) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">张媛Cathy</span><img src=\"http://wx2.sinaimg.cn/middle/4afe8209gy1i6x1fjtvr1j21hc0u04du.jpg\" data-width=1080 data-height=1920></div></media-block><br>### ⏳ **倒计时动态：全民互动与明星助阵**  <br>- **门票释放**：11月4日15:00起新增游泳、滑板等项目门票。```wbCustomBlock{\"type\": \"quoted\", \"index\": 35, \"data\": {\"num\": [34], \"version\": 2, \"quote_list\": [{\"name\": \"十五运会组委会\", \"scheme\": \"sinaweibo://detail?mblogid=5228903381337140\", \"index\": 34, \"label\": \"\"}]}}```  <br>- **明星打call**：田栩宁、罗云熙、杨洋等艺人录制加油视频，联动#一人一句为全运健儿加油#话题。```wbCustomBlock{\"type\": \"quoted\", \"index\": 36, \"data\": {\"num\": [29, 31, 53], \"version\": 2, \"quote_list\": [{\"name\": \"新华社\", \"scheme\": \"sinaweibo://detail?mblogid=5229248777292444\", \"index\": 29, \"label\": \"大v\"}, {\"name\": \"新华社\", \"scheme\": \"sinaweibo://detail?mblogid=5229213743320946\", \"index\": 31, \"label\": \"\"}, {\"name\": \"大河报\", \"scheme\": \"sinaweibo://detail?mblogid=5229236815924070\", \"index\": 53, \"label\": \"\"}], \"name\": \"新华社\", \"img\": \"https://tvax2.sinaimg.cn/crop.58.61.875.875.50/001R0E0aly8h8vg6xx3srj60rs0rsdko02.jpg?KID=imgbed,tva&Expires=1762244873&ssig=3qKhdwMMo7\", \"scheme\": \"sinaweibo://detail?mblogid=5229248777292444\", \"vType\": 3}}```  <br>- **非遗助力**：胡兵携醒狮非遗亮相开幕式，珠绣、香云纱与现代体育项目交融。```wbCustomBlock{\"type\": \"quoted\", \"index\": 37, \"data\": {\"num\": [58], \"version\": 2, \"quote_list\": [{\"name\": \"小树·Mia\", \"scheme\": \"sinaweibo://detail?mblogid=5227175470957286\", \"index\": 58, \"label\": \"大v\"}], \"name\": \"小树·Mia\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/5d0f53e7ly8hs9imrgw3mj20u00u0ad6.jpg?KID=imgbed,tva&Expires=1762244873&ssig=YJ2WIhL3HZ\", \"scheme\": \"sinaweibo://detail?mblogid=5227175470957286\", \"vType\": 0}}```<br>### 💎 **总结**  <br>十五运会以“激情全运会，活力大湾区”为核心理念，通过**机器人火炬手、跨境无感通关、民俗科技融合**等创新，彰显粤港澳“硬联通+软联通+心联通”。赛事既呈现全红婵、樊振东等顶尖选手的巅峰对决，更以群众赛事、惠民门票推动全民共享。这场体育盛会不仅是竞技舞台，更是大湾区融合发展成果的集中展示，为“一国两制”实践注入新动能。```wbCustomBlock{\"type\": \"quoted\", \"index\": 39, \"data\": {\"num\": [4, 60], \"version\": 2, \"quote_list\": [{\"name\": \"十五运会组委会\", \"scheme\": \"sinaweibo://detail?mblogid=5228312798434584\", \"index\": 4, \"label\": \"\"}, {\"name\": \"央视新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5228671913695178\", \"index\": 60, \"label\": \"\"}]}}```<br>",
+      "query_category": "Ip",
+      "status_stage": 4,
+      "link_list": [
+        "sinaweibo://detail?mblogid=5228468359136576",
+        "sinaweibo://detail?mblogid=5229220386308138",
+        "sinaweibo://detail?mblogid=5229225290240382",
+        "sinaweibo://detail?mblogid=5228312798434584",
+        "sinaweibo://detail?mblogid=5228492716247813",
+        "sinaweibo://detail?mblogid=5228917775403814",
+        "sinaweibo://detail?mblogid=5228554393490145",
+        "sinaweibo://detail?mblogid=5228578627389059",
+        "sinaweibo://detail?mblogid=5222650109494011",
+        "sinaweibo://detail?mblogid=5222647816261005",
+        "sinaweibo://detail?mblogid=5222554136741364",
+        "sinaweibo://detail?mblogid=5222646512094045",
+        "sinaweibo://detail?mblogid=5163935586321746",
+        "sinaweibo://detail?mblogid=5225928869286007",
+        "sinaweibo://detail?mblogid=5228465403462241",
+        "sinaweibo://detail?mblogid=5223762863851969",
+        "sinaweibo://detail?mblogid=5228285794717732",
+        "sinaweibo://detail?mblogid=5225384339308549",
+        "sinaweibo://detail?mblogid=5227786957751734",
+        "sinaweibo://detail?mblogid=5207173101519903",
+        "sinaweibo://detail?mblogid=5225384039945123",
+        "sinaweibo://detail?mblogid=5217085992206744",
+        "sinaweibo://detail?mblogid=5227692644631022",
+        "historyweibo://5226105434803777",
+        "historyweibo://5229021630566779",
+        "historyweibo://5229021630566779",
+        "sinaweibo://detail?mblogid=5229205218658031",
+        "sinaweibo://detail?mblogid=5229225779134983",
+        "sinaweibo://detail?mblogid=5229248777292444",
+        "sinaweibo://detail?mblogid=5229217543359241",
+        "sinaweibo://detail?mblogid=5229213743320946",
+        "sinaweibo://detail?mblogid=5229224237206553",
+        "sinaweibo://detail?mblogid=5229217865274259",
+        "sinaweibo://detail?mblogid=5228903381337140",
+        "sinaweibo://detail?mblogid=5228949854486913",
+        "sinaweibo://detail?mblogid=5229228148917561",
+        "sinaweibo://detail?mblogid=5229218529280733",
+        "sinaweibo://detail?mblogid=5229216096323149",
+        "sinaweibo://detail?mblogid=5229232819275339",
+        "sinaweibo://detail?mblogid=5228522374169795",
+        "sinaweibo://detail?mblogid=5228606469180095",
+        "sinaweibo://detail?mblogid=5228529178644201",
+        "sinaweibo://detail?mblogid=5228508428895296",
+        "sinaweibo://detail?mblogid=5228598778134866",
+        "sinaweibo://detail?mblogid=5228560991389685",
+        "sinaweibo://detail?mblogid=5228987363886445",
+        "sinaweibo://detail?mblogid=5228662827785270",
+        "sinaweibo://detail?mblogid=5228496462547515",
+        "sinaweibo://detail?mblogid=5228284738275231",
+        "sinaweibo://detail?mblogid=5228682790570230",
+        "sinaweibo://detail?mblogid=5228866572649040",
+        "sinaweibo://detail?mblogid=5228666026201003",
+        "sinaweibo://detail?mblogid=5229236815924070",
+        "sinaweibo://detail?mblogid=5228920652698322",
+        "sinaweibo://detail?mblogid=5228647688441600",
+        "sinaweibo://detail?mblogid=5226429588702627",
+        "sinaweibo://detail?mblogid=5222649059873409",
+        "sinaweibo://detail?mblogid=5227175470957286",
+        "sinaweibo://detail?mblogid=5171049680601727",
+        "sinaweibo://detail?mblogid=5228671913695178",
+        "sinaweibo://detail?mblogid=5222649221089650",
+        "sinaweibo://detail?mblogid=5222657392116610",
+        "sinaweibo://detail?mblogid=5229034649684603",
+        "sinaweibo://detail?mblogid=5226034850959538"
+      ],
+      "abtest_info": {
+        "chat_entrance": 1
+      },
+      "top_quote_list": {},
+      "short_url": "http://t.cn/A6kLrUZz",
+      "share_card_multimodal": {
+        "cur_mid": "5228468359136576",
+        "h": 427,
+        "user_name": "南方日报",
+        "user_avatar": "https://tvax2.sinaimg.cn/crop.0.0.640.640.50/001PQmVoly8h8vgdozraej60hs0hs74y02.jpg?KID=imgbed,tva&Expires=1762244873&ssig=Z2qBgs83zf",
+        "scheme": "sinaweibo://multimedia?mix_mid=5228468359136576&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=0",
+        "w": 640,
+        "video_url": "",
+        "img": "http://wx2.sinaimg.cn/middle/001PQmVogy1i6xmawgswij60hs0bvgp802.jpg",
+        "doc_score": 0,
+        "img_pid": "001PQmVogy1i6xmawgswij60hs0bvgp802",
+        "type": "p",
+        "click_rate": 0,
+        "click_num": 0,
+        "hit_score_final": 0,
+        "vtype": 3,
+        "hit_score_new": 0
+      }
+    }
+  },
+  "links": [
+    "sinaweibo://detail?mblogid=5228468359136576",
+    "sinaweibo://detail?mblogid=5229220386308138",
+    "sinaweibo://detail?mblogid=5229225290240382",
+    "sinaweibo://detail?mblogid=5228312798434584",
+    "sinaweibo://detail?mblogid=5228492716247813",
+    "sinaweibo://detail?mblogid=5228917775403814",
+    "sinaweibo://detail?mblogid=5228554393490145",
+    "sinaweibo://detail?mblogid=5228578627389059",
+    "sinaweibo://detail?mblogid=5222650109494011",
+    "sinaweibo://detail?mblogid=5222647816261005",
+    "sinaweibo://detail?mblogid=5222554136741364",
+    "sinaweibo://detail?mblogid=5222646512094045",
+    "sinaweibo://detail?mblogid=5163935586321746",
+    "sinaweibo://detail?mblogid=5225928869286007",
+    "sinaweibo://detail?mblogid=5228465403462241",
+    "sinaweibo://detail?mblogid=5223762863851969",
+    "sinaweibo://detail?mblogid=5228285794717732",
+    "sinaweibo://detail?mblogid=5225384339308549",
+    "sinaweibo://detail?mblogid=5227786957751734",
+    "sinaweibo://detail?mblogid=5207173101519903",
+    "sinaweibo://detail?mblogid=5225384039945123",
+    "sinaweibo://detail?mblogid=5217085992206744",
+    "sinaweibo://detail?mblogid=5227692644631022",
+    "historyweibo://5226105434803777",
+    "historyweibo://5229021630566779",
+    "historyweibo://5229021630566779",
+    "sinaweibo://detail?mblogid=5229205218658031",
+    "sinaweibo://detail?mblogid=5229225779134983",
+    "sinaweibo://detail?mblogid=5229248777292444",
+    "sinaweibo://detail?mblogid=5229217543359241",
+    "sinaweibo://detail?mblogid=5229213743320946",
+    "sinaweibo://detail?mblogid=5229224237206553",
+    "sinaweibo://detail?mblogid=5229217865274259",
+    "sinaweibo://detail?mblogid=5228903381337140",
+    "sinaweibo://detail?mblogid=5228949854486913",
+    "sinaweibo://detail?mblogid=5229228148917561",
+    "sinaweibo://detail?mblogid=5229218529280733",
+    "sinaweibo://detail?mblogid=5229216096323149",
+    "sinaweibo://detail?mblogid=5229232819275339",
+    "sinaweibo://detail?mblogid=5228522374169795",
+    "sinaweibo://detail?mblogid=5228606469180095",
+    "sinaweibo://detail?mblogid=5228529178644201",
+    "sinaweibo://detail?mblogid=5228508428895296",
+    "sinaweibo://detail?mblogid=5228598778134866",
+    "sinaweibo://detail?mblogid=5228560991389685",
+    "sinaweibo://detail?mblogid=5228987363886445",
+    "sinaweibo://detail?mblogid=5228662827785270",
+    "sinaweibo://detail?mblogid=5228496462547515",
+    "sinaweibo://detail?mblogid=5228284738275231",
+    "sinaweibo://detail?mblogid=5228682790570230",
+    "sinaweibo://detail?mblogid=5228866572649040",
+    "sinaweibo://detail?mblogid=5228666026201003",
+    "sinaweibo://detail?mblogid=5229236815924070",
+    "sinaweibo://detail?mblogid=5228920652698322",
+    "sinaweibo://detail?mblogid=5228647688441600",
+    "sinaweibo://detail?mblogid=5226429588702627",
+    "sinaweibo://detail?mblogid=5222649059873409",
+    "sinaweibo://detail?mblogid=5227175470957286",
+    "sinaweibo://detail?mblogid=5171049680601727",
+    "sinaweibo://detail?mblogid=5228671913695178",
+    "sinaweibo://detail?mblogid=5222649221089650",
+    "sinaweibo://detail?mblogid=5222657392116610",
+    "sinaweibo://detail?mblogid=5229034649684603",
+    "sinaweibo://detail?mblogid=5226034850959538"
+  ],
+  "media": [
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/001PQmVogy1i6xmawgswij60hs0bvgp802.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/001PQmVogy1i6xmawgswij60hs0bvgp802.jpg",
+      "alt": "南方日报",
+      "width": 427,
+      "height": 640,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/001PQmVogy1i6xmawgswij60hs0bvgp802.jpg"
+      ],
+      "user": "南方日报"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/002TLsr9ly1i6y9ndbiesj60u0140tsx02.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/002TLsr9ly1i6y9ndbiesj60u0140tsx02.jpg",
+      "alt": "央视新闻",
+      "width": 1440,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/002TLsr9ly1i6y9ndbiesj60u0140tsx02.jpg"
+      ],
+      "user": "央视新闻"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/bb8b394cly1i6zffwssfvj20u01hc782.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/bb8b394cly1i6zffwssfvj20u01hc782.jpg",
+      "alt": "圈内漂流瓶",
+      "width": 1920,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/bb8b394cly1i6zffwssfvj20u01hc782.jpg"
+      ],
+      "user": "圈内漂流瓶"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/008eTGErgy1i6f26lda71j30u00u0752.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/008eTGErgy1i6f26lda71j30u00u0752.jpg",
+      "alt": "泼墨人生",
+      "width": 1080,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/008eTGErgy1i6f26lda71j30u00u0752.jpg"
+      ],
+      "user": "泼墨人生"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/008AHQpMgy1i6ilzdp4vcj31400u0dhj.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/008AHQpMgy1i6ilzdp4vcj31400u0dhj.jpg",
+      "alt": "歌语晚冬-",
+      "width": 1080,
+      "height": 1440,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/008AHQpMgy1i6ilzdp4vcj31400u0dhj.jpg"
+      ],
+      "user": "歌语晚冬-"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/006PJwSoly1i5xb4e13otj30k00zkmyd.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/006PJwSoly1i5xb4e13otj30k00zkmyd.jpg",
+      "alt": "yuetmok",
+      "width": 1280,
+      "height": 720,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/006PJwSoly1i5xb4e13otj30k00zkmyd.jpg"
+      ],
+      "user": "yuetmok"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/005tHGm9ly1i6xx1hvz8pj30k00k0myh.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/005tHGm9ly1i6xx1hvz8pj30k00k0myh.jpg",
+      "alt": "星眠曲-",
+      "width": 720,
+      "height": 720,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx4.sinaimg.cn/large/005tHGm9ly1i6xx1hvz8pj30k00k0myh.jpg"
+      ],
+      "user": "星眠曲-"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/007eU9Kjly1i6pipiz0ysj30qo0k0gmg.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/007eU9Kjly1i6pipiz0ysj30qo0k0gmg.jpg",
+      "alt": "一优秀的宝",
+      "width": 720,
+      "height": 960,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/007eU9Kjly1i6pipiz0ysj30qo0k0gmg.jpg"
+      ],
+      "user": "一优秀的宝"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/007hsdEnly1i6er5gvhpkj30k00qo768.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/007hsdEnly1i6er5gvhpkj30k00qo768.jpg",
+      "alt": "九分糖心动",
+      "width": 960,
+      "height": 720,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/007hsdEnly1i6er5gvhpkj30k00qo768.jpg"
+      ],
+      "user": "九分糖心动"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/008D7q8zgy1i6ns7j02qoj31hc0u0wil.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/008D7q8zgy1i6ns7j02qoj31hc0u0wil.jpg",
+      "alt": "十五运会组委会",
+      "width": 1080,
+      "height": 1920,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/008D7q8zgy1i6ns7j02qoj31hc0u0wil.jpg"
+      ],
+      "user": "十五运会组委会"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/008D7q8zgy1i6ns5wg5lxj30u0140wuu.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/008D7q8zgy1i6ns5wg5lxj30u0140wuu.jpg",
+      "alt": "十五运会组委会",
+      "width": 1440,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx4.sinaimg.cn/large/008D7q8zgy1i6ns5wg5lxj30u0140wuu.jpg"
+      ],
+      "user": "十五运会组委会"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/67f865afly1i6xslhuap0j20k00qoam6.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/67f865afly1i6xslhuap0j20k00qoam6.jpg",
+      "alt": "钱江视频",
+      "width": 960,
+      "height": 720,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/67f865afly1i6xslhuap0j20k00qoam6.jpg"
+      ],
+      "user": "钱江视频"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/008D7q8zgy1i6x32kcdamj31hc0u07mo.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/008D7q8zgy1i6x32kcdamj31hc0u07mo.jpg",
+      "alt": "十五运会组委会",
+      "width": 1080,
+      "height": 1920,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/008D7q8zgy1i6x32kcdamj31hc0u07mo.jpg"
+      ],
+      "user": "十五运会组委会"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/4afe8209gy1i6x1fjtvr1j21hc0u04du.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/4afe8209gy1i6x1fjtvr1j21hc0u04du.jpg",
+      "alt": "张媛Cathy",
+      "width": 1080,
+      "height": 1920,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/4afe8209gy1i6x1fjtvr1j21hc0u04du.jpg"
+      ],
+      "user": "张媛Cathy"
+    }
+  ],
+  "html_path": "data/aicard/hourly/2025-11-04/13/topic-11db7021.html"
+}

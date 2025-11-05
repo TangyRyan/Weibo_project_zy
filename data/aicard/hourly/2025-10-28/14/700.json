@@ -1,0 +1,349 @@
+{
+  "meta": {
+    "query": "#超700人希望旁听安倍遇刺案#",
+    "status_code": 200,
+    "fetched_at": "2025-10-28T17:48:47+08:00",
+    "response": {
+      "mid_list": null,
+      "reference_num": 30,
+      "model": "deepseek",
+      "analysis_time": 1761641385,
+      "cot": 1,
+      "top_quote_list": {},
+      "page_id": "232964a864bd158ecb5861bb97e8ee73c5e646",
+      "share_card_multimodal": {
+        "w": 1290,
+        "user_name": "某非洲酋长2",
+        "user_avatar": "https://tvax4.sinaimg.cn/crop.0.0.512.512.50/008BmKOely8hqfezr65bpj30e80e8gm3.jpg?KID=imgbed,tva&Expires=1761651987&ssig=6mrJKhHy%2FQ",
+        "h": 2796,
+        "vtype": 0,
+        "click_rate": 0.088607594936709,
+        "scheme": "sinaweibo://multimedia?mix_mid=5226656198559907&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=0",
+        "doc_score": 3463,
+        "img": "http://wx3.sinaimg.cn/middle/008BmKOegy1i6rtnkzklij30zu25ohdt.jpg",
+        "img_pid": "008BmKOegy1i6rtnkzklij30zu25ohdt",
+        "type": "p",
+        "video_url": "",
+        "hit_score_new": 88.867188,
+        "hit_score_final": 74.520317,
+        "cur_mid": "5226656198559907"
+      },
+      "basemodel": "实验组5",
+      "qs_status": 0,
+      "short_url": "http://t.cn/AXwsgeO1",
+      "sorted_material_list": "[{\"mid\": \"5226680400744607\", \"rank\": 1, \"type\": \"weibo\"}, {\"mid\": \"5226689833731151\", \"rank\": 2, \"type\": \"weibo\"}, {\"mid\": \"5226695844168082\", \"rank\": 3, \"type\": \"weibo\"}, {\"mid\": \"5226721319845967\", \"rank\": 8, \"type\": \"weibo\"}, {\"mid\": \"5226699641847874\", \"rank\": 27, \"type\": \"weibo\"}, {\"mid\": \"5226681238292250\", \"rank\": 28, \"type\": \"weibo\"}, {\"mid\": \"5226669845512956\", \"rank\": 12, \"type\": \"weibo\"}, {\"mid\": \"5226719419564881\", \"rank\": 23, \"type\": \"weibo\"}, {\"mid\": \"5226673262036961\", \"rank\": 25, \"type\": \"weibo\"}, {\"mid\": \"5226728247265985\", \"rank\": 6, \"type\": \"weibo\"}, {\"mid\": \"5226689600947074\", \"rank\": 11, \"type\": \"weibo\"}, {\"mid\": \"5226659538273893\", \"rank\": 13, \"type\": \"weibo\"}, {\"mid\": \"5226333481210070\", \"rank\": 17, \"type\": \"weibo\"}, {\"mid\": \"5226712302096243\", \"rank\": 10, \"type\": \"weibo\"}, {\"mid\": \"5226719964299665\", \"rank\": 9, \"type\": \"weibo\"}, {\"mid\": \"5226656198559907\", \"rank\": 4, \"type\": \"weibo\"}, {\"mid\": \"5226723961733363\", \"rank\": 30, \"type\": \"weibo\"}, {\"mid\": \"5226680022730200\", \"rank\": 31, \"type\": \"weibo\"}, {\"mid\": \"5226724100934775\", \"rank\": 5, \"type\": \"weibo\"}, {\"mid\": \"5226658648817677\", \"rank\": 16, \"type\": \"weibo\"}, {\"mid\": \"5226719721819340\", \"rank\": 24, \"type\": \"weibo\"}, {\"mid\": \"5226659109669336\", \"rank\": 14, \"type\": \"weibo\"}, {\"mid\": \"5226726021399138\", \"rank\": 7, \"type\": \"weibo\"}, {\"mid\": \"5226658723268073\", \"rank\": 15, \"type\": \"weibo\"}, {\"mid\": \"5225618052482242\", \"rank\": 18, \"type\": \"weibo\"}, {\"mid\": \"5224238825080737\", \"rank\": 19, \"type\": \"weibo\"}, {\"mid\": \"5211041686356044\", \"rank\": 20, \"type\": \"weibo\"}, {\"mid\": \"5226713196006599\", \"rank\": 21, \"type\": \"weibo\"}, {\"mid\": \"5226725539578333\", \"rank\": 22, \"type\": \"weibo\"}, {\"mid\": \"5226723009890256\", \"rank\": 26, \"type\": \"weibo\"}, {\"mid\": \"5226698984917091\", \"rank\": 29, \"type\": \"weibo\"}, {\"mid\": \"5226719142477973\", \"rank\": 32, \"type\": \"weibo\"}]",
+      "chat_status_stage": 1,
+      "share_text": "#超700人希望旁听安倍遇刺案#的相关内容，来智搜看看",
+      "news_analyze": {},
+      "reliable_tips": "{\"gold_orange_v_mids\": [\"5226656198559907\", \"5226695844168082\", \"5226691058207420\", \"5226755381791629\", \"5226741350009406\", \"5226723961733363\", \"5226752257556607\", \"5226721030702045\", \"5226719721819340\", \"5226698826058478\", \"5226724100934775\", \"5226760933478650\", \"5226713196006599\", \"5226763106127274\", \"5226699641847874\", \"5226719142477973\"], \"gold_orange_v_ratio\": \"54%\", \"media_mids\": [\"5226680400744607\", \"5226733016974745\", \"5226721319845967\", \"5226669845512956\", \"5226689837402155\", \"5226689836876669\", \"5226689833731151\", \"5226689832687823\", \"5226689832686016\", \"5226730942104999\"], \"media_ratio\": \"33%\", \"verified_mids\": [\"5226723009890256\", \"5226742572123807\", \"5226733676794175\", \"4789376683610313\"], \"verified_ratio\": \"13%\", \"normal_mids\": [], \"normal_ratio\": \"0%\"}",
+      "q_attr": {
+        "from_request_id": "",
+        "from_uid": ""
+      },
+      "abtest_info": {
+        "chat_entrance": 1
+      },
+      "profile_image_url": "",
+      "user_info": {},
+      "version": "2025-10-28 16:46:27.035000-8175",
+      "msg_json": "{}",
+      "show_ctrl": {
+        "quote": {}
+      },
+      "uid": "",
+      "ext_show": {},
+      "ab_suffix": "default",
+      "qs_status_info": "{\"ab_lab\":{},\"qs_u_status\":0,\"qs_q_status\":0,\"qs_status\":0,\"qs_c_status\":8388608,\"qs_r_status\":0}",
+      "status": 2,
+      "loop_times": 200,
+      "share_info": {
+        "status": 3,
+        "tips": "#超700人希望旁听安倍遇刺案#的相关内容，来智搜看看",
+        "url": "http://t.cn/AXAvVW2Z",
+        "display_name": "#超700人希望旁听安倍遇刺案#",
+        "unify_md5": "b354b54511eaa9b4dd22d834787533f0",
+        "page_id": "232964a864bd158ecb5861bb97e8ee73c5e646"
+      },
+      "unify_md5": "b354b54511eaa9b4dd22d834787533f0",
+      "current_time": 1761644927,
+      "query_category": "Ip",
+      "card_multimodal": {
+        "type": "mediablock",
+        "data": [
+          {
+            "w": 1290,
+            "user_name": "某非洲酋长2",
+            "user_avatar": "https://tvax4.sinaimg.cn/crop.0.0.512.512.50/008BmKOely8hqfezr65bpj30e80e8gm3.jpg?KID=imgbed,tva&Expires=1761651987&ssig=6mrJKhHy%2FQ",
+            "h": 2796,
+            "vtype": 0,
+            "click_rate": 0.088607594936709,
+            "scheme": "sinaweibo://multimedia?mix_mid=5226656198559907&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=0",
+            "doc_score": 3463,
+            "img": "http://wx3.sinaimg.cn/middle/008BmKOegy1i6rtnkzklij30zu25ohdt.jpg",
+            "img_pid": "008BmKOegy1i6rtnkzklij30zu25ohdt",
+            "type": "p",
+            "video_url": "",
+            "hit_score_new": 88.867188,
+            "hit_score_final": 74.520317,
+            "cur_mid": "5226656198559907"
+          },
+          {
+            "w": 600,
+            "user_name": "洪观新闻",
+            "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.600.600.50/7e144d0ely8he0dt39f2sj20go0go75m.jpg?KID=imgbed,tva&Expires=1761651987&ssig=w%2F8x2q6egY",
+            "h": 388,
+            "vtype": 3,
+            "click_rate": 0.06,
+            "scheme": "sinaweibo://multimedia?mix_mid=5226733016974745&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=1",
+            "doc_score": 4843,
+            "img": "http://wx2.sinaimg.cn/middle/7e144d0egy1i6s32cnly5j20go0as0v4.jpg",
+            "img_pid": "7e144d0egy1i6s32cnly5j20go0as0v4",
+            "type": "p",
+            "video_url": "",
+            "hit_score_new": 98.925781,
+            "hit_score_final": 91.355469,
+            "cur_mid": "5226733016974745"
+          },
+          {
+            "w": 1200,
+            "user_name": "参考消息",
+            "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.512.512.50/002AJCr1ly8h8vh2ucc4tj60e80e8q3602.jpg?KID=imgbed,tva&Expires=1761651987&ssig=aIqUZzOwVJ",
+            "h": 800,
+            "vtype": 3,
+            "click_rate": 0.06,
+            "scheme": "sinaweibo://multimedia?mix_mid=5226721319845967&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=2",
+            "doc_score": 2617,
+            "img": "http://wx2.sinaimg.cn/middle/002AJCr1ly1i6s1rcgawqj60xc0m8wgq02.jpg",
+            "img_pid": "002AJCr1ly1i6s1rcgawqj60xc0m8wgq02",
+            "type": "p",
+            "video_url": "",
+            "hit_score_new": 79.6875,
+            "hit_score_final": 55.012501,
+            "cur_mid": "5226721319845967"
+          },
+          {
+            "w": 1290,
+            "user_name": "某非洲酋长2",
+            "user_avatar": "https://tvax4.sinaimg.cn/crop.0.0.512.512.50/008BmKOely8hqfezr65bpj30e80e8gm3.jpg?KID=imgbed,tva&Expires=1761651987&ssig=6mrJKhHy%2FQ",
+            "h": 2796,
+            "vtype": 0,
+            "click_rate": 0.088607594936709,
+            "scheme": "sinaweibo://multimedia?mix_mid=5226656198559907&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=0",
+            "doc_score": 3463,
+            "img": "http://wx3.sinaimg.cn/middle/008BmKOegy1i6rtnkzklij30zu25ohdt.jpg",
+            "img_pid": "008BmKOegy1i6rtnkzklij30zu25ohdt",
+            "type": "p",
+            "video_url": "",
+            "hit_score_new": 88.867188,
+            "hit_score_final": 74.520317,
+            "cur_mid": "5226656198559907"
+          }
+        ]
+      },
+      "scheme": "sinaweibo://cardlist?containerid=100103type%3D225%26q%3D%23%E8%B6%85700%E4%BA%BA%E5%B8%8C%E6%9C%9B%E6%97%81%E5%90%AC%E5%AE%89%E5%80%8D%E9%81%87%E5%88%BA%E6%A1%88%23%26t%3D&extparam=ai_model%3Ddeepseek%26ori_ai_title%3D%E5%8F%82%E8%80%83%E5%8D%9A%E6%96%87%26material_version%3D1761641187",
+      "query_field": "45",
+      "wenda": {
+        "forward_gen": 0
+      },
+      "zs_risk_control": {
+        "think_text_close": 0,
+        "land_button_close": 0
+      },
+      "status_stage": 4,
+      "link_list": [
+        "sinaweibo://detail?mblogid=5226680400744607",
+        "sinaweibo://detail?mblogid=5226656198559907",
+        "sinaweibo://detail?mblogid=5226755381791629",
+        "https://3g.china.com/act/military/13004177/20251028/48944290.html",
+        "broadsocial_res://",
+        "broadsocial_res://",
+        "historyweibo://5226680400744607",
+        "historyweibo://4857471854970957",
+        "historyweibo://4857471854970957",
+        "sinaweibo://detail?mblogid=5226733016974745",
+        "sinaweibo://detail?mblogid=5226742572123807",
+        "sinaweibo://detail?mblogid=5226733676794175",
+        "sinaweibo://detail?mblogid=5226689837402155",
+        "sinaweibo://detail?mblogid=5226689836876669",
+        "sinaweibo://detail?mblogid=5226689833731151",
+        "sinaweibo://detail?mblogid=5226689832687823",
+        "sinaweibo://detail?mblogid=5226689832686016",
+        "sinaweibo://detail?mblogid=5226730942104999",
+        "sinaweibo://detail?mblogid=5226724100934775",
+        "sinaweibo://detail?mblogid=5226721319845967",
+        "sinaweibo://detail?mblogid=5226760933478650",
+        "sinaweibo://detail?mblogid=4789376683610313",
+        "sinaweibo://detail?mblogid=5226695844168082",
+        "sinaweibo://detail?mblogid=5226752257556607",
+        "sinaweibo://detail?mblogid=5226669845512956",
+        "sinaweibo://detail?mblogid=5226723961733363",
+        "sinaweibo://detail?mblogid=5226713196006599",
+        "sinaweibo://detail?mblogid=5226723009890256",
+        "sinaweibo://detail?mblogid=5226719721819340",
+        "sinaweibo://detail?mblogid=5226691058207420",
+        "sinaweibo://detail?mblogid=5226763106127274",
+        "sinaweibo://detail?mblogid=5226699641847874",
+        "sinaweibo://detail?mblogid=5226741350009406",
+        "sinaweibo://detail?mblogid=5226719142477973",
+        "sinaweibo://detail?mblogid=5226721030702045",
+        "sinaweibo://detail?mblogid=5226698826058478",
+        "https://m.163.com/dy/article/KCDKNU48055040N3.html",
+        "https://k.sina.cn/article_7295052889_1b2d1ac59020018yks.html?from=news&subch=onews&wm=3049_0032"
+      ],
+      "query": "#超700人希望旁听安倍遇刺案#",
+      "msg_format": "markdown",
+      "msg": "<think><br>嗯，用户让我整理关于\"超700人希望旁听安倍遇刺案\"的信息。首先，我需要从搜索结果中提取关键信息。看到多个结果提到2025年10月28日安倍遇刺案在奈良地方法院首次开庭，旁听席位只有32个，但排队人数超过700人。这说明旁听需求很高，抽签竞争激烈。<br><br>接下来，分析排队人群的构成。结果中提到有来自神户的81岁老人，耗时3小时赶来，对被告表示同情。还有20多岁的年轻人认为杀人不可原谅，想了解司法审判。另外，有案发现场的本地议员和原统一教受害者参与抽签，这些不同的背景反映出社会对案件的多角度关注。<br><br>关于案件争议点，被告承认杀人罪，但辩方对自制枪支的定性提出异议。检方主张适用\"发射罪\"，最高可判无期，而辩方认为枪支不符合法律定义。宗教因素也是焦点，山上彻也的母亲因捐款给统一教导致家庭破产，辩方计划传唤12名证人证明其作案动机与宗教有关。<br><br>庭审安排方面，案件将进行19次庭审，2026年1月21日宣判。社会影响方面，已有超6000人联名为被告请愿减刑，案件触发对宗教团体监管的讨论。<br><br>需要验证细节，比如证人数量。结果5和6提到辩方传唤12名证人，而非之前提到的11人，需确认是否为最新信息。此外，安保措施方面，结果38提到法院加强安检，暂停其他案件审理，这也是重要信息。<br><br>最后，综合所有信息，确保时间线准确（如案发于2022年7月8日，三年后开庭），关键数据一致（如捐款1亿日元约466万人民币），以及不同群体的观点平衡呈现，避免偏颇。<br><br></think><br>以下是关于日本前首相安倍晋三遇刺案旁听情况及庭审核心信息的综合整理：<br>### ⚖️ **一、庭审基本信息**<br>1. **开庭时间与地点**  <br>   案件于**2025年10月28日下午14时**在奈良地方法院首次开庭审理。这是安倍2022年7月遇刺身亡后时隔3年多启动的正式司法程序。```wbCustomBlock{\"type\": \"quoted\", \"index\": 4, \"data\": {\"num\": [1, 10, 20], \"version\": 2, \"quote_list\": [{\"name\": \"北京日报\", \"scheme\": \"sinaweibo://detail?mblogid=5226680400744607\", \"index\": 1, \"label\": \"大v\"}, {\"name\": \"洪观新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5226733016974745\", \"index\": 10, \"label\": \"\"}, {\"name\": \"参考消息\", \"scheme\": \"sinaweibo://detail?mblogid=5226721319845967\", \"index\": 20, \"label\": \"\"}], \"name\": \"北京日报\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.600.600.50/0024aA4lly8i51bp1z4bcj60go0goq3g02.jpg?KID=imgbed,tva&Expires=1761651987&ssig=gLW8HpHNFC\", \"scheme\": \"sinaweibo://detail?mblogid=5226680400744607\", \"vType\": 3}}```<br><br>2. **被告与指控**  <br>   嫌疑人山上彻也（45岁）被控**杀人罪、违反《枪刀法》等多项罪名**。他当庭承认杀人指控，但对自制枪支的定性（是否属于“火炮”及适用“发射罪”）提出异议。```wbCustomBlock{\"type\": \"quoted\", \"index\": 5, \"data\": {\"num\": [2, 20, 23, 28], \"version\": 2, \"quote_list\": [{\"name\": \"参考消息\", \"scheme\": \"sinaweibo://detail?mblogid=5226721319845967\", \"index\": 20, \"label\": \"大v\"}, {\"name\": \"某非洲酋长2\", \"scheme\": \"sinaweibo://detail?mblogid=5226656198559907\", \"index\": 2, \"label\": \"\"}, {\"name\": \"深海一万米\", \"scheme\": \"sinaweibo://detail?mblogid=5226695844168082\", \"index\": 23, \"label\": \"\"}, {\"name\": \"新浪军事\", \"scheme\": \"sinaweibo://detail?mblogid=5226723009890256\", \"index\": 28, \"label\": \"\"}], \"name\": \"参考消息\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.512.512.50/002AJCr1ly8h8vh2ucc4tj60e80e8q3602.jpg?KID=imgbed,tva&Expires=1761651987&ssig=aIqUZzOwVJ\", \"scheme\": \"sinaweibo://detail?mblogid=5226721319845967\", \"vType\": 3}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5226656198559907&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.512.512.50/008BmKOely8hqfezr65bpj30e80e8gm3.jpg?KID=imgbed,tva&Expires=1761651987&ssig=6mrJKhHy%2FQ) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">某非洲酋长2</span><img src=\"http://wx3.sinaimg.cn/middle/008BmKOegy1i6rtnkzklij30zu25ohdt.jpg\" data-width=2796 data-height=1290></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5226733016974745&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=1\"><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.600.600.50/7e144d0ely8he0dt39f2sj20go0go75m.jpg?KID=imgbed,tva&Expires=1761651987&ssig=w%2F8x2q6egY) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">洪观新闻</span><img src=\"http://wx2.sinaimg.cn/middle/7e144d0egy1i6s32cnly5j20go0as0v4.jpg\" data-width=388 data-height=600></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5226721319845967&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=2\"><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.512.512.50/002AJCr1ly8h8vh2ucc4tj60e80e8q3602.jpg?KID=imgbed,tva&Expires=1761651987&ssig=aIqUZzOwVJ) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">参考消息</span><img src=\"http://wx2.sinaimg.cn/middle/002AJCr1ly1i6s1rcgawqj60xc0m8wgq02.jpg\" data-width=800 data-height=1200></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5226680400744607&multi_paragraph=1&multi_count=3\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.600.600.50/0024aA4lly8i51bp1z4bcj60go0goq3g02.jpg?KID=imgbed,tva&Expires=1761651987&ssig=gLW8HpHNFC) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">北京日报</span><img src=\"http://wx2.sinaimg.cn/middle/0024aA4lly1i6rx2ad1jjj60u01hcgob02.jpg\" data-width=1920 data-height=1080></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5226695844168082&multi_paragraph=1&multi_count=4\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.800.800.50/6e82dd3bly1gkm6dji8atj20m80m8js1.jpg?KID=imgbed,tva&Expires=1761651987&ssig=EbWGbuLIuw) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">深海一万米</span><img src=\"http://wx2.sinaimg.cn/middle/6e82dd3bly1i6ryu07j63j20hs0a0dge.jpg\" data-width=360 data-height=640></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5226723009890256&multi_paragraph=1&multi_count=5\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.461.461.50/001Ds5xfly8h8vgjdxo3uj60ct0ctq3c02.jpg?KID=imgbed,tva&Expires=1761651987&ssig=aOjCbU%2FZR2) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">新浪军事</span><img src=\"http://wx4.sinaimg.cn/middle/001Ds5xfly1i6s1uzvyvaj60k00tmmxz02.jpg\" data-width=1066 data-height=720></div></media-block><br>### 🎫 **二、旁听抽签情况**<br>1. **超高需求与有限席位**  <br>   - 法院仅开放**32个普通旁听席位**，但28日上午8:30发放抽签券时，现场排队人数达**727人**（部分报道称超700人）。```wbCustomBlock{\"type\": \"quoted\", \"index\": 9, \"data\": {\"num\": [1, 30], \"version\": 2, \"quote_list\": [{\"name\": \"日语学习\", \"scheme\": \"sinaweibo://detail?mblogid=5226691058207420\", \"index\": 30, \"label\": \"大v\"}, {\"name\": \"北京日报\", \"scheme\": \"sinaweibo://detail?mblogid=5226680400744607\", \"index\": 1, \"label\": \"\"}], \"name\": \"日语学习\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.600.600.50/6b465dably8i1piko3dz3j20go0gomyf.jpg?KID=imgbed,tva&Expires=1761651987&ssig=BbRYpEdRHa\", \"scheme\": \"sinaweibo://detail?mblogid=5226691058207420\", \"vType\": 0}}```  <br>   - 抽签券发放地点设在奈良公园春日野园地（距法院约1公里），需凭券参与抽选，中签率不足5%。```wbCustomBlock{\"type\": \"quoted\", \"index\": 10, \"data\": {\"num\": [3], \"version\": 2, \"quote_list\": [{\"name\": \"兰州新城事\", \"scheme\": \"sinaweibo://detail?mblogid=5226755381791629\", \"index\": 3, \"label\": \"大v\"}], \"name\": \"兰州新城事\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.600.600.50/005E6nXtly8i2jc5i9bnxj30go0gowha.jpg?KID=imgbed,tva&Expires=1761651987&ssig=GYjPOXEKPd\", \"scheme\": \"sinaweibo://detail?mblogid=5226755381791629\", \"vType\": 0}}```<br><br>2. **排队人群背景多元**  <br>   - **81岁神户老人**：耗时3小时抵达，称“同情被告因家庭被宗教团体摧毁而走向极端”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 12, \"data\": {\"num\": [3, 25, 33], \"version\": 2, \"quote_list\": [{\"name\": \"扬子晚报\", \"scheme\": \"sinaweibo://detail?mblogid=5226669845512956\", \"index\": 25, \"label\": \"大v\"}, {\"name\": \"兰州新城事\", \"scheme\": \"sinaweibo://detail?mblogid=5226755381791629\", \"index\": 3, \"label\": \"\"}, {\"name\": \"郭郭_guoguo10\", \"scheme\": \"sinaweibo://detail?mblogid=5226741350009406\", \"index\": 33, \"label\": \"\"}], \"name\": \"扬子晚报\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.500.500.50/6f0b57d3ly8hwk84x7yhwj20dw0dwwf7.jpg?KID=imgbed,tva&Expires=1761651987&ssig=dKl2UKwnmN\", \"scheme\": \"sinaweibo://detail?mblogid=5226669845512956\", \"vType\": 3}}```  <br>   - **20多岁男性**：认为“无论动机如何，杀人不可原谅”，希望见证司法公正。```wbCustomBlock{\"type\": \"quoted\", \"index\": 13, \"data\": {\"num\": [3], \"version\": 2, \"quote_list\": [{\"name\": \"兰州新城事\", \"scheme\": \"sinaweibo://detail?mblogid=5226755381791629\", \"index\": 3, \"label\": \"\"}]}}```  <br>   - **奈良本地议员**：案发时在现场录像，希望通过庭审解开心理阴影。```wbCustomBlock{\"type\": \"quoted\", \"index\": 14, \"data\": {\"num\": [33], \"version\": 2, \"quote_list\": [{\"name\": \"郭郭_guoguo10\", \"scheme\": \"sinaweibo://detail?mblogid=5226741350009406\", \"index\": 33, \"label\": \"\"}]}}```  <br>   - **原“统一教会”受害者**：关注教会责任，称“想听被告亲述经历”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 15, \"data\": {\"num\": [33], \"version\": 2, \"quote_list\": [{\"name\": \"郭郭_guoguo10\", \"scheme\": \"sinaweibo://detail?mblogid=5226741350009406\", \"index\": 33, \"label\": \"\"}]}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5226691058207420&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=2&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.600.600.50/6b465dably8i1piko3dz3j20go0gomyf.jpg?KID=imgbed,tva&Expires=1761651987&ssig=BbRYpEdRHa) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">日语学习</span><img src=\"http://wx4.sinaimg.cn/middle/6b465dably1i6ry9yjisrj20k00g0qaa.jpg\" data-width=576 data-height=720></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5226755381791629&multi_paragraph=2&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.600.600.50/005E6nXtly8i2jc5i9bnxj30go0gowha.jpg?KID=imgbed,tva&Expires=1761651987&ssig=GYjPOXEKPd) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">兰州新城事</span><img src=\"http://wx1.sinaimg.cn/middle/005E6nXtly1i6s5nsuj6aj30k00zkq3l.jpg\" data-width=1280 data-height=720></div></media-block><br>### ⚡ **三、庭审核心争议点**<br>1. **罪名定性分歧**  <br>   - **检方**：主张自制枪支符合“火炮”定义，适用“发射罪”（最高可判无期），强调预谋周密（提前跟踪、试射）。```wbCustomBlock{\"type\": \"quoted\", \"index\": 19, \"data\": {\"num\": [2, 26], \"version\": 2, \"quote_list\": [{\"name\": \"某非洲酋长2\", \"scheme\": \"sinaweibo://detail?mblogid=5226656198559907\", \"index\": 2, \"label\": \"大v\"}, {\"name\": \"水瓶橘子\", \"scheme\": \"sinaweibo://detail?mblogid=5226723961733363\", \"index\": 26, \"label\": \"\"}], \"name\": \"某非洲酋长2\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.512.512.50/008BmKOely8hqfezr65bpj30e80e8gm3.jpg?KID=imgbed,tva&Expires=1761651987&ssig=6mrJKhHy%2FQ\", \"scheme\": \"sinaweibo://detail?mblogid=5226656198559907\", \"vType\": 0}}```  <br>   - **辩方**：否认枪支适用《枪刀法》，并以“宗教虐待致心理扭曲”为由请求轻判。```wbCustomBlock{\"type\": \"quoted\", \"index\": 20, \"data\": {\"num\": [24, 26], \"version\": 2, \"quote_list\": [{\"name\": \"苍南言\", \"scheme\": \"sinaweibo://detail?mblogid=5226752257556607\", \"index\": 24, \"label\": \"大v\"}, {\"name\": \"水瓶橘子\", \"scheme\": \"sinaweibo://detail?mblogid=5226723961733363\", \"index\": 26, \"label\": \"\"}], \"name\": \"苍南言\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/748f8715ly8i5sc11wy4vj20u00u0n0e.jpg?KID=imgbed,tva&Expires=1761651987&ssig=UjlpKzQYE8\", \"scheme\": \"sinaweibo://detail?mblogid=5226752257556607\", \"vType\": 0}}```<br><br>2. **宗教因素是否影响量刑**  <br>   - 山上彻也供述：母亲向原“统一教会”捐款**1亿日元（约466万元人民币）**致家庭破产，因安倍家族与该教会关系密切而将其定为目标。```wbCustomBlock{\"type\": \"quoted\", \"index\": 22, \"data\": {\"num\": [10, 25, 28], \"version\": 2, \"quote_list\": [{\"name\": \"洪观新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5226733016974745\", \"index\": 10, \"label\": \"大v\"}, {\"name\": \"扬子晚报\", \"scheme\": \"sinaweibo://detail?mblogid=5226669845512956\", \"index\": 25, \"label\": \"\"}, {\"name\": \"新浪军事\", \"scheme\": \"sinaweibo://detail?mblogid=5226723009890256\", \"index\": 28, \"label\": \"\"}], \"name\": \"洪观新闻\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.600.600.50/7e144d0ely8he0dt39f2sj20go0go75m.jpg?KID=imgbed,tva&Expires=1761651987&ssig=w%2F8x2q6egY\", \"scheme\": \"sinaweibo://detail?mblogid=5226733016974745\", \"vType\": 3}}```  <br>   - 辩方计划传唤**12名证人**（包括被告母亲、宗教学者），证明教会诱导捐款及家庭崩溃的影响。<br>### 📅 **四、后续审理安排**<br>- **庭审周期**：计划进行**19次庭审**（含12名证人出庭），2025年12月18日结审，**2026年1月21日宣判**。```wbCustomBlock{\"type\": \"quoted\", \"index\": 26, \"data\": {\"num\": [20, 25], \"version\": 2, \"quote_list\": [{\"name\": \"参考消息\", \"scheme\": \"sinaweibo://detail?mblogid=5226721319845967\", \"index\": 20, \"label\": \"\"}, {\"name\": \"扬子晚报\", \"scheme\": \"sinaweibo://detail?mblogid=5226669845512956\", \"index\": 25, \"label\": \"\"}]}}```  <br>- **社会关注延伸**：案件已触发对宗教团体监管、政教关系及公共安全制度的全民反思，超6000人联名为山上彻也请愿减刑。```wbCustomBlock{\"type\": \"quoted\", \"index\": 27, \"data\": {\"num\": [24, 33, 35], \"version\": 2, \"quote_list\": [{\"name\": \"苍南言\", \"scheme\": \"sinaweibo://detail?mblogid=5226752257556607\", \"index\": 24, \"label\": \"\"}, {\"name\": \"郭郭_guoguo10\", \"scheme\": \"sinaweibo://detail?mblogid=5226741350009406\", \"index\": 33, \"label\": \"\"}, {\"name\": \"元来是你0414\", \"scheme\": \"sinaweibo://detail?mblogid=5226721030702045\", \"index\": 35, \"label\": \"\"}]}}```<br>### 💎 **关键社会意义**  <br>此案超越个体犯罪范畴，成为日本社会剖析邪教危害、司法漏洞与政治安保缺陷的公共议题。民众冒雨排队争取旁听资格，既是对司法透明的期待，亦折射出社会裂痕修复的迫切性。```wbCustomBlock{\"type\": \"quoted\", \"index\": 29, \"data\": {\"num\": [3, 24, 29, 35, 36], \"version\": 2, \"quote_list\": [{\"name\": \"叶建勛\", \"scheme\": \"sinaweibo://detail?mblogid=5226719721819340\", \"index\": 29, \"label\": \"大v\"}, {\"name\": \"兰州新城事\", \"scheme\": \"sinaweibo://detail?mblogid=5226755381791629\", \"index\": 3, \"label\": \"\"}, {\"name\": \"苍南言\", \"scheme\": \"sinaweibo://detail?mblogid=5226752257556607\", \"index\": 24, \"label\": \"\"}, {\"name\": \"元来是你0414\", \"scheme\": \"sinaweibo://detail?mblogid=5226721030702045\", \"index\": 35, \"label\": \"\"}, {\"name\": \"栀迪轩\", \"scheme\": \"sinaweibo://detail?mblogid=5226698826058478\", \"index\": 36, \"label\": \"\"}], \"name\": \"叶建勛\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.939.939.50/6e37d435ly8htbsbuak08j20q40q340k.jpg?KID=imgbed,tva&Expires=1761651987&ssig=iNWEdTUsGv\", \"scheme\": \"sinaweibo://detail?mblogid=5226719721819340\", \"vType\": 0}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5226719721819340&multi_paragraph=5&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.939.939.50/6e37d435ly8htbsbuak08j20q40q340k.jpg?KID=imgbed,tva&Expires=1761651987&ssig=iNWEdTUsGv) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">叶建勛</span><img src=\"http://wx2.sinaimg.cn/middle/6e37d435ly1i6s1ga7oaaj20k00zkgmi.jpg\" data-width=1280 data-height=720></div></media-block><br>"
+    }
+  },
+  "links": [
+    "sinaweibo://detail?mblogid=5226680400744607",
+    "sinaweibo://detail?mblogid=5226656198559907",
+    "sinaweibo://detail?mblogid=5226755381791629",
+    "https://3g.china.com/act/military/13004177/20251028/48944290.html",
+    "broadsocial_res://",
+    "broadsocial_res://",
+    "historyweibo://5226680400744607",
+    "historyweibo://4857471854970957",
+    "historyweibo://4857471854970957",
+    "sinaweibo://detail?mblogid=5226733016974745",
+    "sinaweibo://detail?mblogid=5226742572123807",
+    "sinaweibo://detail?mblogid=5226733676794175",
+    "sinaweibo://detail?mblogid=5226689837402155",
+    "sinaweibo://detail?mblogid=5226689836876669",
+    "sinaweibo://detail?mblogid=5226689833731151",
+    "sinaweibo://detail?mblogid=5226689832687823",
+    "sinaweibo://detail?mblogid=5226689832686016",
+    "sinaweibo://detail?mblogid=5226730942104999",
+    "sinaweibo://detail?mblogid=5226724100934775",
+    "sinaweibo://detail?mblogid=5226721319845967",
+    "sinaweibo://detail?mblogid=5226760933478650",
+    "sinaweibo://detail?mblogid=4789376683610313",
+    "sinaweibo://detail?mblogid=5226695844168082",
+    "sinaweibo://detail?mblogid=5226752257556607",
+    "sinaweibo://detail?mblogid=5226669845512956",
+    "sinaweibo://detail?mblogid=5226723961733363",
+    "sinaweibo://detail?mblogid=5226713196006599",
+    "sinaweibo://detail?mblogid=5226723009890256",
+    "sinaweibo://detail?mblogid=5226719721819340",
+    "sinaweibo://detail?mblogid=5226691058207420",
+    "sinaweibo://detail?mblogid=5226763106127274",
+    "sinaweibo://detail?mblogid=5226699641847874",
+    "sinaweibo://detail?mblogid=5226741350009406",
+    "sinaweibo://detail?mblogid=5226719142477973",
+    "sinaweibo://detail?mblogid=5226721030702045",
+    "sinaweibo://detail?mblogid=5226698826058478",
+    "https://m.163.com/dy/article/KCDKNU48055040N3.html",
+    "https://k.sina.cn/article_7295052889_1b2d1ac59020018yks.html?from=news&subch=onews&wm=3049_0032"
+  ],
+  "media": [
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/008BmKOegy1i6rtnkzklij30zu25ohdt.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/008BmKOegy1i6rtnkzklij30zu25ohdt.jpg",
+      "alt": "某非洲酋长2",
+      "width": 2796,
+      "height": 1290,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/008BmKOegy1i6rtnkzklij30zu25ohdt.jpg"
+      ],
+      "user": "某非洲酋长2"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/7e144d0egy1i6s32cnly5j20go0as0v4.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/7e144d0egy1i6s32cnly5j20go0as0v4.jpg",
+      "alt": "洪观新闻",
+      "width": 388,
+      "height": 600,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/7e144d0egy1i6s32cnly5j20go0as0v4.jpg"
+      ],
+      "user": "洪观新闻"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/002AJCr1ly1i6s1rcgawqj60xc0m8wgq02.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/002AJCr1ly1i6s1rcgawqj60xc0m8wgq02.jpg",
+      "alt": "参考消息",
+      "width": 800,
+      "height": 1200,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/002AJCr1ly1i6s1rcgawqj60xc0m8wgq02.jpg"
+      ],
+      "user": "参考消息"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/0024aA4lly1i6rx2ad1jjj60u01hcgob02.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/0024aA4lly1i6rx2ad1jjj60u01hcgob02.jpg",
+      "alt": "北京日报",
+      "width": 1920,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx4.sinaimg.cn/large/0024aA4lly1i6rx2ad1jjj60u01hcgob02.jpg"
+      ],
+      "user": "北京日报"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/6e82dd3bly1i6ryu07j63j20hs0a0dge.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/6e82dd3bly1i6ryu07j63j20hs0a0dge.jpg",
+      "alt": "深海一万米",
+      "width": 360,
+      "height": 640,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/6e82dd3bly1i6ryu07j63j20hs0a0dge.jpg"
+      ],
+      "user": "深海一万米"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/001Ds5xfly1i6s1uzvyvaj60k00tmmxz02.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/001Ds5xfly1i6s1uzvyvaj60k00tmmxz02.jpg",
+      "alt": "新浪军事",
+      "width": 1066,
+      "height": 720,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/001Ds5xfly1i6s1uzvyvaj60k00tmmxz02.jpg"
+      ],
+      "user": "新浪军事"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/6b465dably1i6ry9yjisrj20k00g0qaa.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/6b465dably1i6ry9yjisrj20k00g0qaa.jpg",
+      "alt": "日语学习",
+      "width": 576,
+      "height": 720,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/6b465dably1i6ry9yjisrj20k00g0qaa.jpg"
+      ],
+      "user": "日语学习"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/005E6nXtly1i6s5nsuj6aj30k00zkq3l.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/005E6nXtly1i6s5nsuj6aj30k00zkq3l.jpg",
+      "alt": "兰州新城事",
+      "width": 1280,
+      "height": 720,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/005E6nXtly1i6s5nsuj6aj30k00zkq3l.jpg"
+      ],
+      "user": "兰州新城事"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/6e37d435ly1i6s1ga7oaaj20k00zkgmi.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/6e37d435ly1i6s1ga7oaaj20k00zkgmi.jpg",
+      "alt": "叶建勛",
+      "width": 1280,
+      "height": 720,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/6e37d435ly1i6s1ga7oaaj20k00zkgmi.jpg"
+      ],
+      "user": "叶建勛"
+    }
+  ],
+  "html_path": "data/aicard/hourly/2025-10-28/14/700.html"
+}

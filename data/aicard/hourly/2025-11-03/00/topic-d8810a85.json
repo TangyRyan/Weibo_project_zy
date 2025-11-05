@@ -1,0 +1,354 @@
+{
+  "meta": {
+    "query": "#张晚意发文告别花儿与少年#",
+    "status_code": 200,
+    "fetched_at": "2025-11-03T00:38:19+08:00",
+    "response": {
+      "ab_suffix": "default",
+      "msg_format": "markdown",
+      "show_ctrl": {
+        "quote": {}
+      },
+      "model": "deepseek",
+      "msg_json": "{}",
+      "chat_status_stage": 1,
+      "analysis_time": 1762101477,
+      "qs_status_info": "{\"qs_u_status\":0,\"qs_c_status\":8388608,\"qs_r_status\":0,\"qs_status\":0,\"ab_lab\":{},\"qs_q_status\":0}",
+      "query_field": "1",
+      "reliable_tips": "{\"gold_orange_v_mids\": [\"5228518939299134\", \"5228202349039541\", \"5228180543637213\", \"5228176305295745\", \"5228557312726660\", \"5228534387708339\", \"5228210247696644\", \"5228440764810665\", \"5228691129110590\", \"5228599137537961\", \"5228598749039405\", \"5228677978920585\", \"5228601378603642\", \"5228198596184704\", \"5191507157975353\", \"5228601751896666\", \"5228546063863895\", \"5228681872280716\", \"5228679439322254\", \"5228692618085191\", \"5204593671674627\", \"5191270697538396\", \"5187756499927889\", \"5200246504162470\"], \"gold_orange_v_ratio\": \"59%\", \"media_mids\": [\"5228689614704417\", \"5228331147987268\", \"5228519657575439\"], \"media_ratio\": \"7%\", \"verified_mids\": [\"5228515550298289\", \"5225970210439443\", \"5228505555796336\", \"5225612872783847\", \"5228594752389730\", \"5228512999899165\", \"5228489113600747\", \"5228119335633719\", \"5228148234913522\", \"5191481830148042\"], \"verified_ratio\": \"24%\", \"normal_mids\": [\"5228688256009522\", \"5228689832807613\", \"5228689689936816\", \"5228689446667227\"], \"normal_ratio\": \"10%\", \"ref_mid_rank\": {\"5228518939299134\": {\"rank\": 1}, \"5228202349039541\": {\"rank\": 23}, \"5228180543637213\": {\"rank\": 9}, \"5228689614704417\": {\"rank\": 36}, \"5228515550298289\": {\"rank\": 7}, \"5228176305295745\": {\"rank\": 10}, \"5225970210439443\": {\"rank\": 15}, \"5228557312726660\": {\"rank\": 27}, \"5228534387708339\": {\"rank\": 12}, \"5228210247696644\": {\"rank\": 31}, \"5228440764810665\": {\"rank\": 16}, \"5228691129110590\": {\"rank\": 41}, \"5228331147987268\": {\"rank\": 20}, \"5228599137537961\": {\"rank\": 26}, \"5228598749039405\": {\"rank\": 5}, \"5228688256009522\": {\"rank\": 38}, \"5228519657575439\": {\"rank\": 2}, \"5228677978920585\": {\"rank\": 3}, \"5228601378603642\": {\"rank\": 4}, \"5228505555796336\": {\"rank\": 6}, \"5228198596184704\": {\"rank\": 8}, \"5191507157975353\": {\"rank\": 11}, \"5228601751896666\": {\"rank\": 13}, \"5225612872783847\": {\"rank\": 14}, \"5228546063863895\": {\"rank\": 21}, \"5228681872280716\": {\"rank\": 22}, \"5228679439322254\": {\"rank\": 24}, \"5228594752389730\": {\"rank\": 25}, \"5228512999899165\": {\"rank\": 28}, \"5228489113600747\": {\"rank\": 29}, \"5228119335633719\": {\"rank\": 30}, \"5228148234913522\": {\"rank\": 32}, \"5228692618085191\": {\"rank\": 33}, \"5228689832807613\": {\"rank\": 34}, \"5228689689936816\": {\"rank\": 35}, \"5228689446667227\": {\"rank\": 37}, \"5204593671674627\": {\"rank\": 39}, \"5191481830148042\": {\"rank\": 40}, \"5191270697538396\": {\"rank\": 42}, \"5187756499927889\": {\"rank\": 43}, \"5200246504162470\": {\"rank\": 44}}}",
+      "query_category": "Ip",
+      "status_stage": 4,
+      "link_list": [
+        "sinaweibo://detail?mblogid=5228518939299134",
+        "sinaweibo://detail?mblogid=5228519657575439",
+        "sinaweibo://detail?mblogid=5228677978920585",
+        "sinaweibo://detail?mblogid=5228601378603642",
+        "sinaweibo://detail?mblogid=5228598749039405",
+        "sinaweibo://detail?mblogid=5228505555796336",
+        "sinaweibo://detail?mblogid=5228515550298289",
+        "sinaweibo://detail?mblogid=5228198596184704",
+        "sinaweibo://detail?mblogid=5228180543637213",
+        "sinaweibo://detail?mblogid=5228176305295745",
+        "sinaweibo://detail?mblogid=5191507157975353",
+        "sinaweibo://detail?mblogid=5228534387708339",
+        "sinaweibo://detail?mblogid=5228601751896666",
+        "sinaweibo://detail?mblogid=5225612872783847",
+        "sinaweibo://detail?mblogid=5225970210439443",
+        "sinaweibo://detail?mblogid=5228440764810665",
+        "historyweibo://5228571531938149",
+        "historyweibo://5228524668457839",
+        "historyweibo://5228518939299134",
+        "sinaweibo://detail?mblogid=5228331147987268",
+        "sinaweibo://detail?mblogid=5228546063863895",
+        "sinaweibo://detail?mblogid=5228681872280716",
+        "sinaweibo://detail?mblogid=5228202349039541",
+        "sinaweibo://detail?mblogid=5228679439322254",
+        "sinaweibo://detail?mblogid=5228594752389730",
+        "sinaweibo://detail?mblogid=5228599137537961",
+        "sinaweibo://detail?mblogid=5228557312726660",
+        "sinaweibo://detail?mblogid=5228512999899165",
+        "sinaweibo://detail?mblogid=5228489113600747",
+        "sinaweibo://detail?mblogid=5228119335633719",
+        "sinaweibo://detail?mblogid=5228210247696644",
+        "sinaweibo://detail?mblogid=5228148234913522",
+        "sinaweibo://detail?mblogid=5228692618085191",
+        "sinaweibo://detail?mblogid=5228689832807613",
+        "sinaweibo://detail?mblogid=5228689689936816",
+        "sinaweibo://detail?mblogid=5228689614704417",
+        "sinaweibo://detail?mblogid=5228689446667227",
+        "sinaweibo://detail?mblogid=5228688256009522",
+        "sinaweibo://detail?mblogid=5204593671674627",
+        "sinaweibo://detail?mblogid=5191481830148042",
+        "sinaweibo://detail?mblogid=5228691129110590",
+        "sinaweibo://detail?mblogid=5191270697538396",
+        "sinaweibo://detail?mblogid=5187756499927889",
+        "sinaweibo://detail?mblogid=5200246504162470"
+      ],
+      "ext_show": {},
+      "short_url": "http://t.cn/AXAaUeXu",
+      "card_multimodal": {
+        "type": "mediablock",
+        "data": [
+          {
+            "user_name": "张晚意",
+            "user_avatar": "https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/9055fa5dly8hwaikwm7uuj20u00u045a.jpg?KID=imgbed,tva&Expires=1762112129&ssig=ciMCM75RS3",
+            "video_url": "https://video.weibo.com/show?fid=1034:5228518670532615",
+            "h": 1080,
+            "img": "http://wx1.sinaimg.cn/middle/9055fa5dly1i6xs7nzgaej21hc0u0nc9.jpg",
+            "hit_score_final": 0,
+            "img_pid": "9055fa5dly1i6xs7nzgaej21hc0u0nc9",
+            "vtype": 0,
+            "click_rate": 0.17243340264079,
+            "w": 1920,
+            "cur_mid": "5228518939299134",
+            "doc_score": 0,
+            "hit_score_new": 0,
+            "type": "v",
+            "scheme": "sinaweibo://video/vvs?mid=5228518939299134&multi_paragraph=1&multi_count=0"
+          },
+          {
+            "user_name": "猫街小巷萌少年",
+            "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/008r6qYily8hx5bk6ge51j30u00u1796.jpg?KID=imgbed,tva&Expires=1762112129&ssig=pGPHsa3Qog",
+            "video_url": "https://video.weibo.com/show?fid=1034:5228179523305496",
+            "h": 607,
+            "img": "http://wx1.sinaimg.cn/middle/008r6qYigy1i6wpcqbeavj30u00gvq51.jpg",
+            "hit_score_final": 69.291794,
+            "img_pid": "008r6qYigy1i6wpcqbeavj30u00gvq51",
+            "vtype": 0,
+            "click_rate": 0.040441176470588,
+            "w": 1080,
+            "cur_mid": "5228180543637213",
+            "doc_score": 3256,
+            "hit_score_new": 73.486328,
+            "type": "v",
+            "scheme": "sinaweibo://video/vvs?mid=5228180543637213&multi_paragraph=1&multi_count=1"
+          },
+          {
+            "user_name": "花儿与少年官微",
+            "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/005wVXMDly8i47bmribzsj30u00u078e.jpg?KID=imgbed,tva&Expires=1762112129&ssig=Qfux6Cdt%2Bp",
+            "video_url": "https://video.weibo.com/show?fid=1034:5228346964115466",
+            "h": 1080,
+            "img": "http://wx4.sinaimg.cn/middle/005wVXMDly1i6x8hce3tfj31hc0u041i.jpg",
+            "hit_score_final": 61.001953,
+            "img_pid": "005wVXMDly1i6x8hce3tfj31hc0u041i",
+            "vtype": 3,
+            "click_rate": 0.035363457760314,
+            "w": 1920,
+            "cur_mid": "5228515550298289",
+            "doc_score": 4009,
+            "hit_score_new": 61.669922,
+            "type": "v",
+            "scheme": "sinaweibo://video/vvs?mid=5228515550298289&multi_paragraph=1&multi_count=2"
+          },
+          {
+            "user_name": "张晚意",
+            "user_avatar": "https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/9055fa5dly8hwaikwm7uuj20u00u045a.jpg?KID=imgbed,tva&Expires=1762112129&ssig=ciMCM75RS3",
+            "video_url": "https://video.weibo.com/show?fid=1034:5228518670532615",
+            "h": 1080,
+            "img": "http://wx1.sinaimg.cn/middle/9055fa5dly1i6xs7nzgaej21hc0u0nc9.jpg",
+            "hit_score_final": 0,
+            "img_pid": "9055fa5dly1i6xs7nzgaej21hc0u0nc9",
+            "vtype": 0,
+            "click_rate": 0.17243340264079,
+            "w": 1920,
+            "cur_mid": "5228518939299134",
+            "doc_score": 0,
+            "hit_score_new": 0,
+            "type": "v",
+            "scheme": "sinaweibo://video/vvs?mid=5228518939299134&multi_paragraph=1&multi_count=0"
+          }
+        ]
+      },
+      "share_card_multimodal": {
+        "user_name": "张晚意",
+        "user_avatar": "https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/9055fa5dly8hwaikwm7uuj20u00u045a.jpg?KID=imgbed,tva&Expires=1762112129&ssig=ciMCM75RS3",
+        "video_url": "https://video.weibo.com/show?fid=1034:5228518670532615",
+        "h": 1080,
+        "img": "http://wx1.sinaimg.cn/middle/9055fa5dly1i6xs7nzgaej21hc0u0nc9.jpg",
+        "hit_score_final": 0,
+        "img_pid": "9055fa5dly1i6xs7nzgaej21hc0u0nc9",
+        "vtype": 0,
+        "click_rate": 0.17243340264079,
+        "w": 1920,
+        "cur_mid": "5228518939299134",
+        "doc_score": 0,
+        "hit_score_new": 0,
+        "type": "v",
+        "scheme": "sinaweibo://video/vvs?mid=5228518939299134&multi_paragraph=1&multi_count=0"
+      },
+      "share_text": "#张晚意发文告别花儿与少年#的相关内容，来智搜看看",
+      "current_time": 1762101501,
+      "uid": "",
+      "user_info": {},
+      "comment_info": {},
+      "sorted_material_list": null,
+      "cot": 1,
+      "news_analyze": {},
+      "status": 2,
+      "loop_times": 200,
+      "wenda": {
+        "forward_gen": 0
+      },
+      "mid_list": null,
+      "reference_num": 41,
+      "version": "2025-11-03 00:35:29.013000-5798",
+      "zs_risk_control": {
+        "think_text_close": 0,
+        "land_button_close": 0
+      },
+      "q_attr": {
+        "reply_cid": "",
+        "comment_from_type": "",
+        "from_uid": "",
+        "mid": "",
+        "from_request_id": ""
+      },
+      "qs_status": 0,
+      "abtest_info": {
+        "chat_entrance": 1
+      },
+      "unify_md5": "d8810a858cfccb0e5e3c83a1aa06e199",
+      "profile_image_url": "",
+      "msg": "<think><br>嗯，用户想要了解张晚意发文告别《花儿与少年》的具体情况。这个查询很明确，就是想知道他告别的内容、背景以及相关反响。从搜索结果看，信息量挺丰富的，主要集中在2025年11月2日他发布的告别微博和相关讨论。<br><br>用户可能是个综艺爱好者，或者对张晚意比较关注，想了解他在节目中的表现和最后的告别细节。也可能是被相关热搜吸引来的路人，想快速掌握事件全貌。考虑到事件刚发生在两天前（11月3日查询），时效性很强，需要优先采用最新信息。<br><br>最核心的信源当然是张晚意本人微博。他用了“七老童心值得一朵小红花”的创意，给每位成员定制了专属奖项：那英是活力小红花，陈数是节奏小红花，马思纯是笑容小红花，李沁是温柔小红花（还提到他们的“冤种姐弟”关系），张雅琪是勇气小红花，龚俊是最佳拍档小红花。特别打动人的是他还给观众发了“最佳陪伴小红花”。这个形式既温馨又有创意，能看出他很用心。<br><br>关于他二次担任导游的背景，提到这是挪威站接近尾声时的临时安排，只有20小时。原因是他之前在埃及当导游时行程太赶留有遗憾，这次想弥补。他确实做得很好：自驾时查导航避开封路，提前预约浮潜项目，还用幽默化解团队压力（比如调侃李沁接任导游）。<br><br>成员对他的评价也很高。里马思纯写的信特别感人，说他“默默做了很多事去弥补那张气死人的嘴”，还提到他连续开车、退掉期待的滑翔伞换经费等细节。龚俊在直接认证他是“最佳室友”，观众也遗憾吃不到他做的饭。<br><br>节目里的名场面也值得提：比如的“臭屁失败”事件——他想让姐姐们争抢和自己组队，反被拒绝；他准备北极圈证书的仪式感；还有他偷偷给李沁买防晒霜的细节。<br><br>观众反响方面，有个总结很到位：他的好不是演的，是骨子里的体贴。而引用他那句“童心不锈，其利断金”也很点题。<br><br>整体看，张晚意这次综艺首秀确实成功，从起初的紧绷到后来的放松，展示了真实又有反差的魅力。现在节目结束，很多观众像一样表示“舍不得”。<br><br>回复时考虑把这些核心信息梳理成几个部分：告别内容、导游表现、成员评价、高光时刻、观众反响。可以用小红花作为视觉符号，把七位成员的奖项单独列出来，既清晰又有纪念意义。最后引用他那句“童心不锈”收尾，呼应节目主题。<br><br></think><br>张晚意于2025年11月2日通过微博正式发文告别综艺《花儿与少年·同心季》（第七季），其告别内容及节目相关细节如下：<br>### 🌸 **一、告别长文核心内容**  <br>1. **定制化“小红花”致谢**  <br>   张晚意以“七老童心值得一朵小红花”为主题，为每位成员颁发专属奖项：  <br>   - **那英**→活力小红花（轻松带动气氛，爽朗性格感染全团）；```wbCustomBlock{\"type\": \"quoted\", \"index\": 4, \"data\": {\"num\": [1], \"version\": 2, \"quote_list\": [{\"name\": \"张晚意\", \"scheme\": \"sinaweibo://detail?mblogid=5228518939299134\", \"index\": 1, \"label\": \"大v\"}], \"name\": \"张晚意\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/9055fa5dly8hwaikwm7uuj20u00u045a.jpg?KID=imgbed,tva&Expires=1762112129&ssig=ciMCM75RS3\", \"scheme\": \"sinaweibo://detail?mblogid=5228518939299134\", \"vType\": 0}}```  <br>   - **陈数**→节奏小红花（临危不乱，优雅控场）；```wbCustomBlock{\"type\": \"quoted\", \"index\": 5, \"data\": {\"num\": [1], \"version\": 2, \"quote_list\": [{\"name\": \"张晚意\", \"scheme\": \"sinaweibo://detail?mblogid=5228518939299134\", \"index\": 1, \"label\": \"\"}]}}```  <br>   - **马思纯**→笑容小红花（用亲切笑容拉近团队距离，细腻关注成员情绪）；```wbCustomBlock{\"type\": \"quoted\", \"index\": 6, \"data\": {\"num\": [1, 23], \"version\": 2, \"quote_list\": [{\"name\": \"直不直都要好运怜怜\", \"scheme\": \"sinaweibo://detail?mblogid=5228202349039541\", \"index\": 23, \"label\": \"大v\"}, {\"name\": \"张晚意\", \"scheme\": \"sinaweibo://detail?mblogid=5228518939299134\", \"index\": 1, \"label\": \"\"}], \"name\": \"直不直都要好运怜怜\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/006Da2gjly8i6qangvb5pj30u00u0q68.jpg?KID=imgbed,tva&Expires=1762112129&ssig=9qpg9CKgB5\", \"scheme\": \"sinaweibo://detail?mblogid=5228202349039541\", \"vType\": 0}}```  <br>   - **李沁**→温柔小红花（互怼“冤种姐弟”背后温柔回应，从不冷场）；```wbCustomBlock{\"type\": \"quoted\", \"index\": 7, \"data\": {\"num\": [1, 9], \"version\": 2, \"quote_list\": [{\"name\": \"猫街小巷萌少年\", \"scheme\": \"sinaweibo://detail?mblogid=5228180543637213\", \"index\": 9, \"label\": \"大v\"}, {\"name\": \"张晚意\", \"scheme\": \"sinaweibo://detail?mblogid=5228518939299134\", \"index\": 1, \"label\": \"\"}], \"name\": \"猫街小巷萌少年\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/008r6qYily8hx5bk6ge51j30u00u1796.jpg?KID=imgbed,tva&Expires=1762112129&ssig=pGPHsa3Qog\", \"scheme\": \"sinaweibo://detail?mblogid=5228180543637213\", \"vType\": 0}}```  <br>   - **张雅琪**→勇气小红花（最小成员却24小时能量满格）；```wbCustomBlock{\"type\": \"quoted\", \"index\": 8, \"data\": {\"num\": [1], \"version\": 2, \"quote_list\": [{\"name\": \"张晚意\", \"scheme\": \"sinaweibo://detail?mblogid=5228518939299134\", \"index\": 1, \"label\": \"\"}]}}```  <br>   - **龚俊**→最佳拍档小红花（全能室友兼厨神，遗憾观众无法体验其厨艺）；```wbCustomBlock{\"type\": \"quoted\", \"index\": 9, \"data\": {\"num\": [1, 36], \"version\": 2, \"quote_list\": [{\"name\": \"中网传播\", \"scheme\": \"sinaweibo://detail?mblogid=5228689614704417\", \"index\": 36, \"label\": \"大v\"}, {\"name\": \"张晚意\", \"scheme\": \"sinaweibo://detail?mblogid=5228518939299134\", \"index\": 1, \"label\": \"\"}], \"name\": \"中网传播\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.1000.1000.50/0086ll1lly8hw9cc28gcpj30rs0rs3yx.jpg?KID=imgbed,tva&Expires=1762112129&ssig=qITZRUih3f\", \"scheme\": \"sinaweibo://detail?mblogid=5228689614704417\", \"vType\": 3}}```  <br>   - **观众**→最佳陪伴小红花（感谢观众创意共创难忘回忆）。```wbCustomBlock{\"type\": \"quoted\", \"index\": 10, \"data\": {\"num\": [1], \"version\": 2, \"quote_list\": [{\"name\": \"张晚意\", \"scheme\": \"sinaweibo://detail?mblogid=5228518939299134\", \"index\": 1, \"label\": \"\"}]}}```<br><br>2. **北极圈仪式感纪念**  <br>   张晚意为团队准备“北极圈探险证书”，将挪威极地探险故事具象化为永久纪念，被成员赞为“情感具象化”的用心设计。```wbCustomBlock{\"type\": \"quoted\", \"index\": 11, \"data\": {\"num\": [7, 10], \"version\": 2, \"quote_list\": [{\"name\": \"花儿与少年官微\", \"scheme\": \"sinaweibo://detail?mblogid=5228515550298289\", \"index\": 7, \"label\": \"\"}, {\"name\": \"嘿嘿呀p\", \"scheme\": \"sinaweibo://detail?mblogid=5228176305295745\", \"index\": 10, \"label\": \"\"}]}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5228518939299134&multi_paragraph=1&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/9055fa5dly8hwaikwm7uuj20u00u045a.jpg?KID=imgbed,tva&Expires=1762112129&ssig=ciMCM75RS3) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">张晚意</span><img src=\"http://wx1.sinaimg.cn/middle/9055fa5dly1i6xs7nzgaej21hc0u0nc9.jpg\" data-width=1080 data-height=1920></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5228180543637213&multi_paragraph=1&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/008r6qYily8hx5bk6ge51j30u00u1796.jpg?KID=imgbed,tva&Expires=1762112129&ssig=pGPHsa3Qog) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">猫街小巷萌少年</span><img src=\"http://wx1.sinaimg.cn/middle/008r6qYigy1i6wpcqbeavj30u00gvq51.jpg\" data-width=607 data-height=1080></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5228515550298289&multi_paragraph=1&multi_count=2\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/005wVXMDly8i47bmribzsj30u00u078e.jpg?KID=imgbed,tva&Expires=1762112129&ssig=Qfux6Cdt%2Bp) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">花儿与少年官微</span><img src=\"http://wx4.sinaimg.cn/middle/005wVXMDly1i6x8hce3tfj31hc0u041i.jpg\" data-width=1080 data-height=1920></div></media-block><br>### 🚩 **二、返场导游高光表现**  <br>1. **临危受命的20小时**  <br>   因埃及站行程紧凑留有遗憾，他在挪威站尾声临时接任导游，策划早餐会、北冰洋漂浮、帝王蟹捕捞等活动，兼顾趣味与责任。  <br>   - **细节控服务**：自驾时查导航避开封路，提前预约浮潜项目；  <br>   - **幽默破冰**：调侃李沁接任导游“太~开~心~啦”，却默默帮她核算费用。```wbCustomBlock{\"type\": \"quoted\", \"index\": 15, \"data\": {\"num\": [15], \"version\": 2, \"quote_list\": [{\"name\": \"花儿与少年官微\", \"scheme\": \"sinaweibo://detail?mblogid=5225970210439443\", \"index\": 15, \"label\": \"\"}]}}```<br><br>2. **冲突化解与团队关怀**  <br>   - 主动与导演组协商调整任务，强调“体验比记录更重要”；  <br>   - 察觉小妹张雅琪初次当导游紧张，私下交换顺序缓解其压力。<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5225970210439443&multi_paragraph=2&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/005wVXMDly8i47bmribzsj30u00u078e.jpg?KID=imgbed,tva&Expires=1762112129&ssig=Qfux6Cdt%2Bp) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">花儿与少年官微</span><img src=\"http://wx3.sinaimg.cn/middle/005wVXMDly1i6oziir7ejj31hc0u0mys.jpg\" data-width=1080 data-height=1920></div></media-block><br>### 🌟 **三、人物魅力与成员评价**  <br>1. **反差萌“团宠+团欺”**  <br>   - **团宠时刻**：那英夸其卷发造型，张雅琪买零食选其口味；  <br>   - **团欺名场面**：皮划艇分组提议姐姐们“争抢自己”，反被拒绝：“我们不需要你！”（臭屁失败）。```wbCustomBlock{\"type\": \"quoted\", \"index\": 22, \"data\": {\"num\": [15], \"version\": 2, \"quote_list\": [{\"name\": \"花儿与少年官微\", \"scheme\": \"sinaweibo://detail?mblogid=5225970210439443\", \"index\": 15, \"label\": \"\"}]}}```<br><br>2. **行动派责任感**  <br>   - 为补贴团队餐饮，主动放弃滑翔伞项目；  <br>   - 马思纯信中提及其沙漠扶伤患、怕黑陪聊等默默付出，称他“旅伴中最稳的支撑”；```wbCustomBlock{\"type\": \"quoted\", \"index\": 25, \"data\": {\"num\": [27], \"version\": 2, \"quote_list\": [{\"name\": \"一嘟灵花落小溪\", \"scheme\": \"sinaweibo://detail?mblogid=5228557312726660\", \"index\": 27, \"label\": \"\"}]}}```  <br>   - 龚俊认证“最佳室友”，李沁调侃其“欺负外甥女长大”的幽默本性。```wbCustomBlock{\"type\": \"quoted\", \"index\": 26, \"data\": {\"num\": [12], \"version\": 2, \"quote_list\": [{\"name\": \"乖宝的晚意\", \"scheme\": \"sinaweibo://detail?mblogid=5228534387708339\", \"index\": 12, \"label\": \"\"}]}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5228557312726660&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=3&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/008BO1r9ly8i6wni5h8daj30u00u0mzw.jpg?KID=imgbed,tva&Expires=1762112129&ssig=x0Fs5KUYfQ) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">一嘟灵花落小溪</span><img src=\"http://wx3.sinaimg.cn/middle/008BO1r9gy1i6xwlq5c6sj30u012zaf6.jpg\" data-width=1403 data-height=1080></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5228534387708339&multi_paragraph=3&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.1024.1024.50/6f8197e7ly8i4ayhe05ltj20sg0sg0vf.jpg?KID=imgbed,tva&Expires=1762112129&ssig=2EGnOGHegx) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">乖宝的晚意</span><img src=\"http://wx2.sinaimg.cn/middle/6f8197e7ly1i6xms4h2rlj21hc0u0wgd.jpg\" data-width=1080 data-height=1920></div></media-block><br>### 💌 **四、团队情感与观众共鸣**  <br>- **双向奔赴情谊**：李沁告别时因不舍马思纯、张晚意当场落泪；龚俊遗憾观众“体验不到他做饭多好吃”；```wbCustomBlock{\"type\": \"quoted\", \"index\": 28, \"data\": {\"num\": [1, 31], \"version\": 2, \"quote_list\": [{\"name\": \"最爱你的时候_\", \"scheme\": \"sinaweibo://detail?mblogid=5228210247696644\", \"index\": 31, \"label\": \"大v\"}, {\"name\": \"张晚意\", \"scheme\": \"sinaweibo://detail?mblogid=5228518939299134\", \"index\": 1, \"label\": \"\"}], \"name\": \"最爱你的时候_\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.333.333.50/006bpbOsly8hqhnhnt1klj3099099dfx.jpg?KID=imgbed,tva&Expires=1762112129&ssig=%2F72ez1KJpC\", \"scheme\": \"sinaweibo://detail?mblogid=5228210247696644\", \"vType\": 0}}```  <br>- **观众反响**：  <br>  - 被赞“冷面幽默的行动哲学家”，以可靠和幽默重塑综艺人设；```wbCustomBlock{\"type\": \"quoted\", \"index\": 30, \"data\": {\"num\": [16, 41], \"version\": 2, \"quote_list\": [{\"name\": \"一碗小甜逗\", \"scheme\": \"sinaweibo://detail?mblogid=5228440764810665\", \"index\": 16, \"label\": \"大v\"}, {\"name\": \"倔强的等张晚意翻牌的酱\", \"scheme\": \"sinaweibo://detail?mblogid=5228691129110590\", \"index\": 41, \"label\": \"\"}], \"name\": \"一碗小甜逗\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/006627Kdly8i1hciz5j16j30u00u0aeg.jpg?KID=imgbed,tva&Expires=1762112129&ssig=XARIMcGr8%2B\", \"scheme\": \"sinaweibo://detail?mblogid=5228440764810665\", \"vType\": 0}}```  <br>  - “七老童心”成内娱稀缺亲密关系范本，网友呼吁原班人马回归。```wbCustomBlock{\"type\": \"quoted\", \"index\": 31, \"data\": {\"num\": [20, 23], \"version\": 2, \"quote_list\": [{\"name\": \"中网传播\", \"scheme\": \"sinaweibo://detail?mblogid=5228331147987268\", \"index\": 20, \"label\": \"\"}, {\"name\": \"直不直都要好运怜怜\", \"scheme\": \"sinaweibo://detail?mblogid=5228202349039541\", \"index\": 23, \"label\": \"\"}]}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5228210247696644&multi_paragraph=4&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.333.333.50/006bpbOsly8hqhnhnt1klj3099099dfx.jpg?KID=imgbed,tva&Expires=1762112129&ssig=%2F72ez1KJpC) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">最爱你的时候_</span><img src=\"http://wx1.sinaimg.cn/middle/006bpbOsly1i6wsa32i01j30qo0k0jsn.jpg\" data-width=720 data-height=960></div></media-block><br>### ✨ **五、成长线与综艺突破**  <br>- **蜕变轨迹**：从埃及站责任感强显紧绷，到挪威站松弛冷幽默频出（如用概率学选礼物）；```wbCustomBlock{\"type\": \"quoted\", \"index\": 33, \"data\": {\"num\": [26], \"version\": 2, \"quote_list\": [{\"name\": \"我不是在改名字吗\", \"scheme\": \"sinaweibo://detail?mblogid=5228599137537961\", \"index\": 26, \"label\": \"\"}]}}```  <br>- **观众感慨**：“从‘胚胎式追综’到游刃有余，底色顶顶好的人终会被看见”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 34, \"data\": {\"num\": [5, 41], \"version\": 2, \"quote_list\": [{\"name\": \"倔强的等张晚意翻牌的酱\", \"scheme\": \"sinaweibo://detail?mblogid=5228691129110590\", \"index\": 41, \"label\": \"大v\"}, {\"name\": \"晝小清\", \"scheme\": \"sinaweibo://detail?mblogid=5228598749039405\", \"index\": 5, \"label\": \"\"}], \"name\": \"倔强的等张晚意翻牌的酱\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.240.240.50/a69588cely8hva69lphbmj206o06oaa2.jpg?KID=imgbed,tva&Expires=1762112129&ssig=zWwwZl7z%2Bw\", \"scheme\": \"sinaweibo://detail?mblogid=5228691129110590\", \"vType\": 0}}```<br><br>> **童心不锈，其利断金**  <br>> 张晚意的告别不仅是旅程终点，更是用北极圈证书封存极昼星光，以小红花勋章写满温柔注脚。当七颗心在峡湾回响，那个总说“没事，开始吧”的可靠身影，已让“晚意式陪伴”成为超越综艺的温暖符号。```wbCustomBlock{\"type\": \"quoted\", \"index\": 36, \"data\": {\"num\": [38], \"version\": 2, \"quote_list\": [{\"name\": \"诶你别戳我酒窝\", \"scheme\": \"sinaweibo://detail?mblogid=5228688256009522\", \"index\": 38, \"label\": \"\"}]}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5228599137537961&from=search&content_show=1&mix_index=5&hide_index=1&multi_paragraph=5&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.960.960.50/007TzYgaly8i1z1cxhqm4j30qo0qodij.jpg?KID=imgbed,tva&Expires=1762112129&ssig=wuVBiR0Ksm) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">我不是在改名字吗</span><img src=\"http://wx2.sinaimg.cn/middle/007TzYgaly1i6y1ewxobyj30u00r8djg.jpg\" data-width=980 data-height=1080></div></media-block><br>",
+      "basemodel": "实验组8",
+      "scheme": "sinaweibo://cardlist?containerid=100103type%3D225%26q%3D%23%E5%BC%A0%E6%99%9A%E6%84%8F%E5%8F%91%E6%96%87%E5%91%8A%E5%88%AB%E8%8A%B1%E5%84%BF%E4%B8%8E%E5%B0%91%E5%B9%B4%23%26t%3D&extparam=ai_model%3Ddeepseek%26ori_ai_title%3D%E5%8F%82%E8%80%83%E5%8D%9A%E6%96%87%26material_version%3D1762101329",
+      "page_id": "232964f14eacb0d820c28d9c7966143c508446",
+      "top_quote_list": {},
+      "query": "#张晚意发文告别花儿与少年#",
+      "share_info": {
+        "display_name": "#张晚意发文告别花儿与少年#",
+        "tips": "#张晚意发文告别花儿与少年#的相关内容，来智搜看看",
+        "status": 3,
+        "page_id": "232964f14eacb0d820c28d9c7966143c508446",
+        "unify_md5": "d8810a858cfccb0e5e3c83a1aa06e199",
+        "comment_content": "",
+        "url": "http://t.cn/AXAaCdpW"
+      }
+    }
+  },
+  "links": [
+    "sinaweibo://detail?mblogid=5228518939299134",
+    "sinaweibo://detail?mblogid=5228519657575439",
+    "sinaweibo://detail?mblogid=5228677978920585",
+    "sinaweibo://detail?mblogid=5228601378603642",
+    "sinaweibo://detail?mblogid=5228598749039405",
+    "sinaweibo://detail?mblogid=5228505555796336",
+    "sinaweibo://detail?mblogid=5228515550298289",
+    "sinaweibo://detail?mblogid=5228198596184704",
+    "sinaweibo://detail?mblogid=5228180543637213",
+    "sinaweibo://detail?mblogid=5228176305295745",
+    "sinaweibo://detail?mblogid=5191507157975353",
+    "sinaweibo://detail?mblogid=5228534387708339",
+    "sinaweibo://detail?mblogid=5228601751896666",
+    "sinaweibo://detail?mblogid=5225612872783847",
+    "sinaweibo://detail?mblogid=5225970210439443",
+    "sinaweibo://detail?mblogid=5228440764810665",
+    "historyweibo://5228571531938149",
+    "historyweibo://5228524668457839",
+    "historyweibo://5228518939299134",
+    "sinaweibo://detail?mblogid=5228331147987268",
+    "sinaweibo://detail?mblogid=5228546063863895",
+    "sinaweibo://detail?mblogid=5228681872280716",
+    "sinaweibo://detail?mblogid=5228202349039541",
+    "sinaweibo://detail?mblogid=5228679439322254",
+    "sinaweibo://detail?mblogid=5228594752389730",
+    "sinaweibo://detail?mblogid=5228599137537961",
+    "sinaweibo://detail?mblogid=5228557312726660",
+    "sinaweibo://detail?mblogid=5228512999899165",
+    "sinaweibo://detail?mblogid=5228489113600747",
+    "sinaweibo://detail?mblogid=5228119335633719",
+    "sinaweibo://detail?mblogid=5228210247696644",
+    "sinaweibo://detail?mblogid=5228148234913522",
+    "sinaweibo://detail?mblogid=5228692618085191",
+    "sinaweibo://detail?mblogid=5228689832807613",
+    "sinaweibo://detail?mblogid=5228689689936816",
+    "sinaweibo://detail?mblogid=5228689614704417",
+    "sinaweibo://detail?mblogid=5228689446667227",
+    "sinaweibo://detail?mblogid=5228688256009522",
+    "sinaweibo://detail?mblogid=5204593671674627",
+    "sinaweibo://detail?mblogid=5191481830148042",
+    "sinaweibo://detail?mblogid=5228691129110590",
+    "sinaweibo://detail?mblogid=5191270697538396",
+    "sinaweibo://detail?mblogid=5187756499927889",
+    "sinaweibo://detail?mblogid=5200246504162470"
+  ],
+  "media": [
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/9055fa5dly1i6xs7nzgaej21hc0u0nc9.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/9055fa5dly1i6xs7nzgaej21hc0u0nc9.jpg",
+      "alt": "张晚意",
+      "width": 1080,
+      "height": 1920,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/9055fa5dly1i6xs7nzgaej21hc0u0nc9.jpg"
+      ],
+      "user": "张晚意"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/008r6qYigy1i6wpcqbeavj30u00gvq51.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/008r6qYigy1i6wpcqbeavj30u00gvq51.jpg",
+      "alt": "猫街小巷萌少年",
+      "width": 607,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/008r6qYigy1i6wpcqbeavj30u00gvq51.jpg"
+      ],
+      "user": "猫街小巷萌少年"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/005wVXMDly1i6x8hce3tfj31hc0u041i.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/005wVXMDly1i6x8hce3tfj31hc0u041i.jpg",
+      "alt": "花儿与少年官微",
+      "width": 1080,
+      "height": 1920,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/005wVXMDly1i6x8hce3tfj31hc0u041i.jpg"
+      ],
+      "user": "花儿与少年官微"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/005wVXMDly1i6oziir7ejj31hc0u0mys.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/005wVXMDly1i6oziir7ejj31hc0u0mys.jpg",
+      "alt": "花儿与少年官微",
+      "width": 1080,
+      "height": 1920,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/005wVXMDly1i6oziir7ejj31hc0u0mys.jpg"
+      ],
+      "user": "花儿与少年官微"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/008BO1r9gy1i6xwlq5c6sj30u012zaf6.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/008BO1r9gy1i6xwlq5c6sj30u012zaf6.jpg",
+      "alt": "一嘟灵花落小溪",
+      "width": 1403,
+      "height": 1080,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/008BO1r9gy1i6xwlq5c6sj30u012zaf6.jpg"
+      ],
+      "user": "一嘟灵花落小溪"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/6f8197e7ly1i6xms4h2rlj21hc0u0wgd.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/6f8197e7ly1i6xms4h2rlj21hc0u0wgd.jpg",
+      "alt": "乖宝的晚意",
+      "width": 1080,
+      "height": 1920,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/6f8197e7ly1i6xms4h2rlj21hc0u0wgd.jpg"
+      ],
+      "user": "乖宝的晚意"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/006bpbOsly1i6wsa32i01j30qo0k0jsn.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/006bpbOsly1i6wsa32i01j30qo0k0jsn.jpg",
+      "alt": "最爱你的时候_",
+      "width": 720,
+      "height": 960,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/006bpbOsly1i6wsa32i01j30qo0k0jsn.jpg"
+      ],
+      "user": "最爱你的时候_"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/007TzYgaly1i6y1ewxobyj30u00r8djg.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/007TzYgaly1i6y1ewxobyj30u00r8djg.jpg",
+      "alt": "我不是在改名字吗",
+      "width": 980,
+      "height": 1080,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/007TzYgaly1i6y1ewxobyj30u00r8djg.jpg"
+      ],
+      "user": "我不是在改名字吗"
+    }
+  ],
+  "html_path": "data/aicard/hourly/2025-11-03/00/topic-d8810a85.html"
+}

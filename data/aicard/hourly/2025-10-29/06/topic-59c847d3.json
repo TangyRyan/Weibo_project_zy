@@ -1,0 +1,369 @@
+{
+  "meta": {
+    "query": "#很多台湾年轻人不知抗日史#",
+    "status_code": 200,
+    "fetched_at": "2025-10-29T06:37:31+08:00",
+    "response": {
+      "q_attr": {
+        "from_request_id": "",
+        "from_uid": ""
+      },
+      "version": "2025-10-29 06:32:03.009999-1502",
+      "query_category": "",
+      "qs_status": 0,
+      "scheme": "sinaweibo://cardlist?containerid=100103type%3D225%26q%3D%23%E5%BE%88%E5%A4%9A%E5%8F%B0%E6%B9%BE%E5%B9%B4%E8%BD%BB%E4%BA%BA%E4%B8%8D%E7%9F%A5%E6%8A%97%E6%97%A5%E5%8F%B2%23%26t%3D&extparam=ai_model%3Ddeepseek%26ori_ai_title%3D%E5%8F%82%E8%80%83%E5%8D%9A%E6%96%87%26material_version%3D1761690723",
+      "zs_risk_control": {
+        "land_button_close": 0,
+        "think_text_close": 0
+      },
+      "query": "#很多台湾年轻人不知抗日史#",
+      "msg_format": "markdown",
+      "ab_suffix": "default",
+      "unify_md5": "59c847d34b3d712b6c2288bc18cbef71",
+      "abtest_info": {
+        "chat_entrance": 1
+      },
+      "msg_json": "{}",
+      "analysis_time": 1761690985,
+      "uid": "",
+      "ext_show": {},
+      "wenda": {
+        "forward_gen": 0
+      },
+      "profile_image_url": "",
+      "current_time": 1761691052,
+      "mid_list": null,
+      "user_info": {},
+      "status_stage": 4,
+      "share_text": "#很多台湾年轻人不知抗日史#的相关内容，来智搜看看",
+      "news_analyze": {},
+      "top_quote_list": {},
+      "short_url": "http://t.cn/AXAhllKy",
+      "card_multimodal": {
+        "type": "mediablock",
+        "data": [
+          {
+            "cur_mid": "5114086725521723",
+            "user_name": "巍岳钦禹",
+            "vtype": 0,
+            "h": 301,
+            "hit_score_final": 71.947655,
+            "video_url": "",
+            "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/0047tKGFly8hziu7np5hnj60u00u0n1j02.jpg?KID=imgbed,tva&Expires=1761701523&ssig=XvX%2BroPvqF",
+            "click_rate": 0.06,
+            "hit_score_new": 77.246094,
+            "doc_score": 3272,
+            "img_pid": "0047tKGFly1hwspqart14j60fc08djrk02",
+            "type": "p",
+            "scheme": "sinaweibo://multimedia?mix_mid=5114086725521723&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=0",
+            "w": 552,
+            "img": "http://wx4.sinaimg.cn/middle/0047tKGFly1hwspqart14j60fc08djrk02.jpg"
+          },
+          {
+            "cur_mid": "5180688112289135",
+            "user_name": "中国新闻网",
+            "vtype": 3,
+            "h": 1920,
+            "hit_score_final": 78.921486,
+            "video_url": "https://video.weibo.com/show?fid=1034:5180685489471551",
+            "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.300.300.50/001WLsZ7ly8h8vgjl2u01j608c08caa302.jpg?KID=imgbed,tva&Expires=1761701523&ssig=aprkmxSQAn",
+            "click_rate": 0,
+            "hit_score_new": 90.869141,
+            "doc_score": 4439,
+            "img_pid": "001WLsZ7ly1i2p6ncuojyj60u01hc41202",
+            "type": "v",
+            "scheme": "sinaweibo://video/vvs?mid=5180688112289135&multi_paragraph=1&multi_count=1",
+            "w": 1080,
+            "img": "http://wx1.sinaimg.cn/middle/001WLsZ7ly1i2p6ncuojyj60u01hc41202.jpg"
+          },
+          {
+            "cur_mid": "5040184690740460",
+            "user_name": "央视新闻",
+            "vtype": 3,
+            "h": 1274,
+            "hit_score_final": 78.217194,
+            "video_url": "https://video.weibo.com/show?fid=1034:5040183616143433",
+            "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.690.690.50/002TLsr9ly8i653ifvwbtj60j60j6aai02.jpg?KID=imgbed,tva&Expires=1761701523&ssig=8CyQUohfcm",
+            "click_rate": 0,
+            "hit_score_new": 87.695312,
+            "doc_score": 5370,
+            "img_pid": "002TLsr9ly1hq8y7v76lxj61qw0zex6p02",
+            "type": "v",
+            "scheme": "sinaweibo://video/vvs?mid=5040184690740460&multi_paragraph=1&multi_count=2",
+            "w": 2264,
+            "img": "http://wx1.sinaimg.cn/middle/002TLsr9ly1hq8y7v76lxj61qw0zex6p02.jpg"
+          },
+          {
+            "cur_mid": "5114086725521723",
+            "user_name": "巍岳钦禹",
+            "vtype": 0,
+            "h": 301,
+            "hit_score_final": 71.947655,
+            "video_url": "",
+            "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/0047tKGFly8hziu7np5hnj60u00u0n1j02.jpg?KID=imgbed,tva&Expires=1761701523&ssig=XvX%2BroPvqF",
+            "click_rate": 0.06,
+            "hit_score_new": 77.246094,
+            "doc_score": 3272,
+            "img_pid": "0047tKGFly1hwspqart14j60fc08djrk02",
+            "type": "p",
+            "scheme": "sinaweibo://multimedia?mix_mid=5114086725521723&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=0",
+            "w": 552,
+            "img": "http://wx4.sinaimg.cn/middle/0047tKGFly1hwspqart14j60fc08djrk02.jpg"
+          }
+        ]
+      },
+      "share_card_multimodal": {
+        "cur_mid": "5114086725521723",
+        "user_name": "巍岳钦禹",
+        "vtype": 0,
+        "h": 301,
+        "hit_score_final": 71.947655,
+        "video_url": "",
+        "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/0047tKGFly8hziu7np5hnj60u00u0n1j02.jpg?KID=imgbed,tva&Expires=1761701523&ssig=XvX%2BroPvqF",
+        "click_rate": 0.06,
+        "hit_score_new": 77.246094,
+        "doc_score": 3272,
+        "img_pid": "0047tKGFly1hwspqart14j60fc08djrk02",
+        "type": "p",
+        "scheme": "sinaweibo://multimedia?mix_mid=5114086725521723&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=0",
+        "w": 552,
+        "img": "http://wx4.sinaimg.cn/middle/0047tKGFly1hwspqart14j60fc08djrk02.jpg"
+      },
+      "cot": 1,
+      "status": 2,
+      "model": "deepseek",
+      "basemodel": "实验组4",
+      "link_list": [
+        "sinaweibo://detail?mblogid=5226768311259119",
+        "sinaweibo://detail?mblogid=5226773287798408",
+        "sinaweibo://detail?mblogid=5186990947702493",
+        "sinaweibo://detail?mblogid=5226866672668540",
+        "sinaweibo://detail?mblogid=5226863129264548",
+        "sinaweibo://detail?mblogid=5202887137300079",
+        "sinaweibo://detail?mblogid=5160885874593825",
+        "sinaweibo://detail?mblogid=5212184237837244",
+        "sinaweibo://detail?mblogid=5187540195216229",
+        "sinaweibo://detail?mblogid=5180688112289135",
+        "sinaweibo://detail?mblogid=5198452537690608",
+        "sinaweibo://detail?mblogid=5226864542485508",
+        "sinaweibo://detail?mblogid=5174131687424734",
+        "sinaweibo://detail?mblogid=5113769128891613",
+        "sinaweibo://detail?mblogid=5199659980030675",
+        "sinaweibo://detail?mblogid=5040184690740460",
+        "sinaweibo://detail?mblogid=5171588423223097",
+        "sinaweibo://detail?mblogid=5207241577725959",
+        "sinaweibo://detail?mblogid=5113801995195391",
+        "sinaweibo://detail?mblogid=5186134952905566",
+        "sinaweibo://detail?mblogid=5226143416587423",
+        "sinaweibo://detail?mblogid=5040975732539520",
+        "https://baike.baidu.com/item/%E7%9B%90%E5%AF%AE%E6%8A%97%E6%97%A5%E7%BA%AA%E5%BF%B5%E7%A2%91?fromModule=search-result_lemma",
+        "broadsocial_res://",
+        "broadsocial_res://",
+        "historyweibo://5226768311259119",
+        "historyweibo://5226623528077090",
+        "historyweibo://5226381319342287",
+        "sinaweibo://detail?mblogid=5226873186943746",
+        "sinaweibo://detail?mblogid=5226879066834928",
+        "sinaweibo://detail?mblogid=5226865335208484",
+        "sinaweibo://detail?mblogid=5226867154223961",
+        "sinaweibo://detail?mblogid=5226860512281059",
+        "sinaweibo://detail?mblogid=5226862235878674",
+        "sinaweibo://detail?mblogid=5226967095837454",
+        "sinaweibo://detail?mblogid=5226958382171018",
+        "sinaweibo://detail?mblogid=5226861571343203",
+        "sinaweibo://detail?mblogid=5226855915585985",
+        "sinaweibo://detail?mblogid=5226855888324075",
+        "sinaweibo://detail?mblogid=5226855391298953",
+        "sinaweibo://detail?mblogid=5226858306080120",
+        "sinaweibo://detail?mblogid=5226857534331158",
+        "sinaweibo://detail?mblogid=5226824126693431",
+        "sinaweibo://detail?mblogid=5226854639996985",
+        "sinaweibo://detail?mblogid=5114086725521723",
+        "sinaweibo://detail?mblogid=5226874137478255",
+        "sinaweibo://detail?mblogid=5226857609041967",
+        "sinaweibo://detail?mblogid=5202211182477938"
+      ],
+      "chat_status_stage": 1,
+      "show_ctrl": {
+        "quote": {}
+      },
+      "msg": "<think><br><br>嗯，用户提供了一个关于\"很多台湾年轻人不知抗日史\"的搜索内容集合，要求我整理一份综合报告。这个问题涉及历史教育、政治影响和民族认同等多方面因素，需要全面分析。<br><br>从搜索结果来看，这个问题主要由三方面因素造成：<br>一是教育政策的系统性篡改。民进党当局推行的\"108课纲\"大幅删减中国史内容，将\"日据\"改为\"日治\"，完全删除\"台湾光复\"相关内容。历史课本中抗日战争内容被压缩，2400年中国史仅剩4页篇幅。<br><br>二是历史记忆的刻意淡化。官方取消抗战纪念仪式，将\"抗战胜利日\"表述为\"终战日\"，纪念公园无人问津。这种系统性遗忘导致年轻人对抗战认知模糊，有学生甚至认为南京大屠杀名称\"听起来比较帅\"。<br><br>三是身份认同的政治操弄。赖清德等政客鼓吹\"台日感情如家人\"，同时将台籍日军包装为\"自愿效忠\"。这种媚日政策与\"台独史观\"建构直接相关，如李友邦将军组建台湾义勇队的历史被刻意忽略。<br><br>不过也看到积极迹象：台湾网红\"馆长\"专程到卢沟桥了解抗战史，马英九带青年参观731部队陈列馆。这些行动让台湾青年在细菌战受害者照片前潸然泪下，显示血脉深处的历史记忆正在苏醒。<br><br>在呈现方式上，考虑设计三个主板块：先分析现状表现，再剖析深层原因，最后展示重建努力。每部分用具体案例支撑，如雾社起义、李友邦将军等史实。关键数据会加粗突出，如60万牺牲者、20.7万台籍日军等数字。<br><br>需要特别注意两点：一是明确区分史实与观点，如台籍日军问题需同时呈现报名狂热与被迫性；二是强调两岸共同记忆，如《开罗宣言》的法律效力。<br><br></think><br>以下是关于“台湾年轻人抗日史认知缺失”问题的综合分析，综合历史背景、现状成因及两岸努力三方面呈现关键信息：<br>### 📉 **一、历史认知断裂的现状**<br>1. **普遍性知识空白**  <br>   - 多数台湾青年对抗战史缺乏基本了解，采访中部分学生坦言“课本回避相关内容”，甚至选修日本历史却对中国抗战一无所知。```wbCustomBlock{\"type\": \"quoted\", \"index\": 5, \"data\": {\"num\": [22, 31], \"version\": 2, \"quote_list\": [{\"name\": \"潇洒友A\", \"scheme\": \"sinaweibo://detail?mblogid=5040975732539520\", \"index\": 22, \"label\": \"大v\"}, {\"name\": \"1991AG7\", \"scheme\": \"sinaweibo://detail?mblogid=5226865335208484\", \"index\": 31, \"label\": \"\"}], \"name\": \"潇洒友A\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.996.996.50/7ce30569ly8fzbs5cmol6j20ro0rowfk.jpg?KID=imgbed,tva&Expires=1761701523&ssig=IWBCJ4l0Zx\", \"scheme\": \"sinaweibo://detail?mblogid=5040975732539520\", \"vType\": 0}}```  <br>   - 实地参访的陌生感显著：台湾青年参观抗战纪念馆时表现茫然，称“若非亲访大陆遗址，不知同胞曾如此浴血抗争”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 6, \"data\": {\"num\": [7, 10], \"version\": 2, \"quote_list\": [{\"name\": \"中国新闻网\", \"scheme\": \"sinaweibo://detail?mblogid=5180688112289135\", \"index\": 10, \"label\": \"大v\"}, {\"name\": \"南归孤夷\", \"scheme\": \"sinaweibo://detail?mblogid=5160885874593825\", \"index\": 7, \"label\": \"\"}], \"name\": \"中国新闻网\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.300.300.50/001WLsZ7ly8h8vgjl2u01j608c08caa302.jpg?KID=imgbed,tva&Expires=1761701523&ssig=aprkmxSQAn\", \"scheme\": \"sinaweibo://detail?mblogid=5180688112289135\", \"vType\": 3}}```<br><br>2. **系统性历史淡化措施**  <br>   - **教科书篡改**：民进党当局将“日据”改为“日治”，删除“台湾光复”叙述；蔡英文时期彻底将“中国史”纳入“东亚史”，抗战内容简化为“中日战争结束”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 8, \"data\": {\"num\": [16], \"version\": 2, \"quote_list\": [{\"name\": \"央视新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5040184690740460\", \"index\": 16, \"label\": \"大v\"}], \"name\": \"央视新闻\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.690.690.50/002TLsr9ly8i653ifvwbtj60j60j6aai02.jpg?KID=imgbed,tva&Expires=1761701523&ssig=8CyQUohfcm\", \"scheme\": \"sinaweibo://detail?mblogid=5040184690740460\", \"vType\": 3}}```  <br>   - **考试导向扭曲**：历史考试回避抗战考点，学生缺乏学习动力。例如南京大屠杀、慰安妇等史实被移出必修内容。```wbCustomBlock{\"type\": \"quoted\", \"index\": 9, \"data\": {\"num\": [31, 33, 45], \"version\": 2, \"quote_list\": [{\"name\": \"祁床了小鱼\", \"scheme\": \"sinaweibo://detail?mblogid=5226860512281059\", \"index\": 33, \"label\": \"大v\"}, {\"name\": \"1991AG7\", \"scheme\": \"sinaweibo://detail?mblogid=5226865335208484\", \"index\": 31, \"label\": \"\"}, {\"name\": \"巍岳钦禹\", \"scheme\": \"sinaweibo://detail?mblogid=5114086725521723\", \"index\": 45, \"label\": \"\"}], \"name\": \"祁床了小鱼\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/006gfH4Vly8i6lbplp1c6j30u00u041x.jpg?KID=imgbed,tva&Expires=1761701523&ssig=lx2P16Fwjc\", \"scheme\": \"sinaweibo://detail?mblogid=5226860512281059\", \"vType\": 0}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5114086725521723&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/0047tKGFly8hziu7np5hnj60u00u0n1j02.jpg?KID=imgbed,tva&Expires=1761701523&ssig=XvX%2BroPvqF) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">巍岳钦禹</span><img src=\"http://wx4.sinaimg.cn/middle/0047tKGFly1hwspqart14j60fc08djrk02.jpg\" data-width=301 data-height=552></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5180688112289135&multi_paragraph=1&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.300.300.50/001WLsZ7ly8h8vgjl2u01j608c08caa302.jpg?KID=imgbed,tva&Expires=1761701523&ssig=aprkmxSQAn) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">中国新闻网</span><img src=\"http://wx1.sinaimg.cn/middle/001WLsZ7ly1i2p6ncuojyj60u01hc41202.jpg\" data-width=1920 data-height=1080></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5040184690740460&multi_paragraph=1&multi_count=2\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.690.690.50/002TLsr9ly8i653ifvwbtj60j60j6aai02.jpg?KID=imgbed,tva&Expires=1761701523&ssig=8CyQUohfcm) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">央视新闻</span><img src=\"http://wx1.sinaimg.cn/middle/002TLsr9ly1hq8y7v76lxj61qw0zex6p02.jpg\" data-width=1274 data-height=2264></div></media-block><br>### ⚠️ **二、认知缺失的深层根源**<br>1. **政治操弄下的“去中国化”教育**  <br>   - **课纲修订**：2019年“108课纲”删除大量中国史内容，清朝以前2400年历史仅剩4页，却美化日本殖民“现代化贡献”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 13, \"data\": {\"num\": [36], \"version\": 2, \"quote_list\": [{\"name\": \"财热栈\", \"scheme\": \"sinaweibo://detail?mblogid=5226958382171018\", \"index\": 36, \"label\": \"\"}]}}```  <br>   - **纪念活动消解**：民进党取消抗战纪念仪式，“台湾光复节”被长期忽视，直至2025年才恢复且规模锐减。```wbCustomBlock{\"type\": \"quoted\", \"index\": 14, \"data\": {\"num\": [17, 36], \"version\": 2, \"quote_list\": [{\"name\": \"环球网\", \"scheme\": \"sinaweibo://detail?mblogid=5171588423223097\", \"index\": 17, \"label\": \"大v\"}, {\"name\": \"财热栈\", \"scheme\": \"sinaweibo://detail?mblogid=5226958382171018\", \"index\": 36, \"label\": \"\"}], \"name\": \"环球网\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.1024.1024.50/001Q8zQmly8h8vgdbgwr3j60sg0sgmxm02.jpg?KID=imgbed,tva&Expires=1761701523&ssig=xeuEIbvf%2FD\", \"scheme\": \"sinaweibo://detail?mblogid=5171588423223097\", \"vType\": 3}}```<br><br>2. **媚日政策与历史真相掩盖**  <br>   - 赖清德等政客鼓吹“台日感情如家人”，阻挠抗战老兵赴大陆交流。```wbCustomBlock{\"type\": \"quoted\", \"index\": 16, \"data\": {\"num\": [17], \"version\": 2, \"quote_list\": [{\"name\": \"环球网\", \"scheme\": \"sinaweibo://detail?mblogid=5171588423223097\", \"index\": 17, \"label\": \"\"}]}}```  <br>   - **扭曲台籍日军史实**：将20.7万被强征入伍的台湾青年（其中3万人战死）包装为“自愿效忠”，2.8万人灵位入靖国神社的史实被刻意淡化。```wbCustomBlock{\"type\": \"quoted\", \"index\": 17, \"data\": {\"num\": [12, 13], \"version\": 2, \"quote_list\": [{\"name\": \"李鲆\", \"scheme\": \"sinaweibo://detail?mblogid=5174131687424734\", \"index\": 13, \"label\": \"大v\"}, {\"name\": \"老牛慧眼观市\", \"scheme\": \"sinaweibo://detail?mblogid=5226864542485508\", \"index\": 12, \"label\": \"\"}], \"name\": \"李鲆\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.900.900.50/4915ac63ly8hukhxcs4wfj20p00p00w5.jpg?KID=imgbed,tva&Expires=1761701523&ssig=uCNCv9oupO\", \"scheme\": \"sinaweibo://detail?mblogid=5174131687424734\", \"vType\": 0}}```<br><br>3. **殖民遗毒与身份认同割裂**  <br>   - **皇民化遗毒**：日本殖民时期推行禁用汉语、逼改祖先牌位等政策，其影响通过家族传递至年轻一代。```wbCustomBlock{\"type\": \"quoted\", \"index\": 19, \"data\": {\"num\": [12, 17], \"version\": 2, \"quote_list\": [{\"name\": \"老牛慧眼观市\", \"scheme\": \"sinaweibo://detail?mblogid=5226864542485508\", \"index\": 12, \"label\": \"\"}, {\"name\": \"环球网\", \"scheme\": \"sinaweibo://detail?mblogid=5171588423223097\", \"index\": 17, \"label\": \"\"}]}}```  <br>   - **民族认同瓦解**：有青年直言“在台说自己是中国人会遭辱骂”，课本中“堂堂正正的中国人”表述消失。```wbCustomBlock{\"type\": \"quoted\", \"index\": 20, \"data\": {\"num\": [36, 45], \"version\": 2, \"quote_list\": [{\"name\": \"巍岳钦禹\", \"scheme\": \"sinaweibo://detail?mblogid=5114086725521723\", \"index\": 45, \"label\": \"大v\"}, {\"name\": \"财热栈\", \"scheme\": \"sinaweibo://detail?mblogid=5226958382171018\", \"index\": 36, \"label\": \"\"}], \"name\": \"巍岳钦禹\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/0047tKGFly8hziu7np5hnj60u00u0n1j02.jpg?KID=imgbed,tva&Expires=1761701523&ssig=XvX%2BroPvqF\", \"scheme\": \"sinaweibo://detail?mblogid=5114086725521723\", \"vType\": 0}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5226864542485508&multi_paragraph=2&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.512.512.50/770074fbly8i1dyexckawj20e80e8wfz.jpg?KID=imgbed,tva&Expires=1761701523&ssig=7ikqhFk8AC) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">老牛慧眼观市</span><img src=\"http://wx4.sinaimg.cn/middle/770074fbgy1i6si6zydlsj21hc0u046j.jpg\" data-width=1080 data-height=1920></div></media-block><br>### ⚔️ **三、被遮蔽的台湾抗日真相**<br>1. **50年武装抗争的血泪史诗**  <br>   - **早期起义**：1895年丘逢甲组织“乙未战争”；1930年雾社起义中赛德克族女性集体自尽殉族。```wbCustomBlock{\"type\": \"quoted\", \"index\": 24, \"data\": {\"num\": [8], \"version\": 2, \"quote_list\": [{\"name\": \"谢宗桓\", \"scheme\": \"sinaweibo://detail?mblogid=5212184237837244\", \"index\": 8, \"label\": \"大v\"}], \"name\": \"谢宗桓\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.597.597.50/006z7Bgely8hi8wxp5lw2j30gl0glgmb.jpg?KID=imgbed,tva&Expires=1761701523&ssig=NfYVJ3Z5aA\", \"scheme\": \"sinaweibo://detail?mblogid=5212184237837244\", \"vType\": 0}}```  <br>   - **大陆战场支援**：李友邦组建700人“台湾义勇队”在长三角抗战；超5万青年辗转赴大陆参战，如吴思汉冒死绕道日本投奔重庆。```wbCustomBlock{\"type\": \"quoted\", \"index\": 25, \"data\": {\"num\": [6, 9, 20], \"version\": 2, \"quote_list\": [{\"name\": \"凤凰卫视\", \"scheme\": \"sinaweibo://detail?mblogid=5202887137300079\", \"index\": 6, \"label\": \"大v\"}, {\"name\": \"军武季\", \"scheme\": \"sinaweibo://detail?mblogid=5187540195216229\", \"index\": 9, \"label\": \"\"}, {\"name\": \"缘木球鱼\", \"scheme\": \"sinaweibo://detail?mblogid=5186134952905566\", \"index\": 20, \"label\": \"\"}], \"name\": \"凤凰卫视\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.600.600.50/001NfW7xly8hwn58bch3vj60go0goaca02.jpg?KID=imgbed,tva&Expires=1761701523&ssig=phu9434B16\", \"scheme\": \"sinaweibo://detail?mblogid=5202887137300079\", \"vType\": 3}}```<br><br>2. **殖民暴行铁证**  <br>   - 日军在台推行“三光政策”，殖民期间超60万台湾同胞死亡（按当时人口计，每8人即有1人遇难）。```wbCustomBlock{\"type\": \"quoted\", \"index\": 27, \"data\": {\"num\": [11, 17], \"version\": 2, \"quote_list\": [{\"name\": \"话道君\", \"scheme\": \"sinaweibo://detail?mblogid=5198452537690608\", \"index\": 11, \"label\": \"大v\"}, {\"name\": \"环球网\", \"scheme\": \"sinaweibo://detail?mblogid=5171588423223097\", \"index\": 17, \"label\": \"\"}], \"name\": \"话道君\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/008hfE7Dly8i0is2qem7uj30u00u0jsm.jpg?KID=imgbed,tva&Expires=1761701523&ssig=Fuz1whIj5y\", \"scheme\": \"sinaweibo://detail?mblogid=5198452537690608\", \"vType\": 0}}```  <br>   - 经济掠夺：推行“工业日本、农业台湾”政策，资源输往日本土，台人沦为廉价劳动力。<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5202887137300079&multi_paragraph=3&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.600.600.50/001NfW7xly8hwn58bch3vj60go0goaca02.jpg?KID=imgbed,tva&Expires=1761701523&ssig=phu9434B16) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">凤凰卫视</span><img src=\"http://wx2.sinaimg.cn/middle/001NfW7xly1i4o00dt38aj614x0n0wsy02.jpg\" data-width=828 data-height=1473></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5187540195216229&multi_paragraph=3&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.996.996.50/81d97f6dly8fni8mo57mbj20ro0rowf5.jpg?KID=imgbed,tva&Expires=1761701523&ssig=OwH%2F5hSCKE) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">军武季</span><img src=\"http://wx4.sinaimg.cn/middle/81d97f6dly1i3b1uos10oj20u01hcgp8.jpg\" data-width=1920 data-height=1080></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5198452537690608&multi_paragraph=3&multi_count=2\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/008hfE7Dly8i0is2qem7uj30u00u0jsm.jpg?KID=imgbed,tva&Expires=1761701523&ssig=Fuz1whIj5y) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">话道君</span><img src=\"http://wx3.sinaimg.cn/middle/008hfE7Dly1i49v42z7hpj30u01hc41f.jpg\" data-width=1920 data-height=1080></div></media-block><br>### 🌉 **四、唤醒记忆的两岸努力**<br>1. **民间自觉的历史补课**  <br>   - 台湾网红“馆长”赴北京卢沟桥、台湾抗日馆参访，呼吁“带年轻人看真正的历史”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 32, \"data\": {\"num\": [1, 21], \"version\": 2, \"quote_list\": [{\"name\": \"北京时间\", \"scheme\": \"sinaweibo://detail?mblogid=5226768311259119\", \"index\": 1, \"label\": \"\"}, {\"name\": \"灭蛙\", \"scheme\": \"sinaweibo://detail?mblogid=5226143416587423\", \"index\": 21, \"label\": \"\"}], \"name\": \"北京时间\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.821.821.50/003gul7lly8h8vg84tqdwj60mt0mtmy302.jpg?KID=imgbed,tva&Expires=1761701523&ssig=crFuovjiJs\", \"scheme\": \"sinaweibo://detail?mblogid=5226768311259119\", \"vType\": 3}}```  <br>   - 青年团体街头演讲揭穿媚日史观，呼吁“抗日记忆不容篡改”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 33, \"data\": {\"num\": [9, 20], \"version\": 2, \"quote_list\": [{\"name\": \"军武季\", \"scheme\": \"sinaweibo://detail?mblogid=5187540195216229\", \"index\": 9, \"label\": \"\"}, {\"name\": \"缘木球鱼\", \"scheme\": \"sinaweibo://detail?mblogid=5186134952905566\", \"index\": 20, \"label\": \"\"}], \"name\": \"军武季\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.996.996.50/81d97f6dly8fni8mo57mbj20ro0rowf5.jpg?KID=imgbed,tva&Expires=1761701523&ssig=OwH%2F5hSCKE\", \"scheme\": \"sinaweibo://detail?mblogid=5187540195216229\", \"vType\": 0}}```<br><br>2. **大陆提供的“历史课堂”**  <br>   - **遗址参访**：马英九带青年团参观侵华日军731部队罪证陈列馆、南京大屠杀纪念馆。```wbCustomBlock{\"type\": \"quoted\", \"index\": 35, \"data\": {\"num\": [14, 19], \"version\": 2, \"quote_list\": [{\"name\": \"直新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5113769128891613\", \"index\": 14, \"label\": \"\"}, {\"name\": \"中国台湾网\", \"scheme\": \"sinaweibo://detail?mblogid=5113801995195391\", \"index\": 19, \"label\": \"\"}], \"name\": \"直新闻\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/006N4ALSly8gdi6ut01v6j30u00u00tw.jpg?KID=imgbed,tva&Expires=1761701523&ssig=x07l87y4X1\", \"scheme\": \"sinaweibo://detail?mblogid=5113769128891613\", \"vType\": 3}}```  <br>   - **影视与展览**：《何以当归》等作品重现台胞抗日事迹；山东济南抗战展公开50万件史料。```wbCustomBlock{\"type\": \"quoted\", \"index\": 36, \"data\": {\"num\": [4, 6], \"version\": 2, \"quote_list\": [{\"name\": \"食贫道\", \"scheme\": \"sinaweibo://detail?mblogid=5226866672668540\", \"index\": 4, \"label\": \"\"}, {\"name\": \"凤凰卫视\", \"scheme\": \"sinaweibo://detail?mblogid=5202887137300079\", \"index\": 6, \"label\": \"\"}], \"name\": \"食贫道\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/0070wI97ly8gdi6whyotcj30u00u1gn3.jpg?KID=imgbed,tva&Expires=1761701523&ssig=XwrvJG9%2BHG\", \"scheme\": \"sinaweibo://detail?mblogid=5226866672668540\", \"vType\": 0}}```<br><br>3. **法理与民族认同的重建**  <br>   - 《开罗宣言》《波茨坦公告》法律效力确认台湾归属中国。```wbCustomBlock{\"type\": \"quoted\", \"index\": 38, \"data\": {\"num\": [34], \"version\": 2, \"quote_list\": [{\"name\": \"拾月揽山河\", \"scheme\": \"sinaweibo://detail?mblogid=5226862235878674\", \"index\": 34, \"label\": \"\"}], \"name\": \"拾月揽山河\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.512.512.50/7639a714ly8hji0d8c813j20e80e8wex.jpg?KID=imgbed,tva&Expires=1761701523&ssig=LDHb%2FWwsX8\", \"scheme\": \"sinaweibo://detail?mblogid=5226862235878674\", \"vType\": 0}}```  <br>   - 民调显示79.5%台湾民众反对媚日政策，民间要求“回归抗战史观”呼声高涨。```wbCustomBlock{\"type\": \"quoted\", \"index\": 39, \"data\": {\"num\": [17, 36], \"version\": 2, \"quote_list\": [{\"name\": \"环球网\", \"scheme\": \"sinaweibo://detail?mblogid=5171588423223097\", \"index\": 17, \"label\": \"\"}, {\"name\": \"财热栈\", \"scheme\": \"sinaweibo://detail?mblogid=5226958382171018\", \"index\": 36, \"label\": \"\"}]}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5226768311259119&multi_paragraph=4&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.821.821.50/003gul7lly8h8vg84tqdwj60mt0mtmy302.jpg?KID=imgbed,tva&Expires=1761701523&ssig=crFuovjiJs) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">北京时间</span><img src=\"http://wx1.sinaimg.cn/middle/003gul7lly1i6s75ful51j60ed0j57ea02.jpg\" data-width=689 data-height=517></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5226143416587423&multi_paragraph=4&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.1000.1000.50/005OXDmfly8h8om5batcrj30rs0rsdgm.jpg?KID=imgbed,tva&Expires=1761701523&ssig=XVLvG2gPOL) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">灭蛙</span><img src=\"http://wx1.sinaimg.cn/middle/005OXDmfgy1i6q7bidyo1j30dc0a03z9.jpg\" data-width=360 data-height=480></div></media-block><br>### 💎 **结语：历史的断裂处，血脉仍在跳动**  <br>台湾抗日史是中华民族抵抗外侮的集体记忆。当台湾青年手捧细菌战受害婴儿照片颤抖落泪，当李友邦“祖国解放是台湾解放前提”的呐喊被重新听见，血脉深处的共鸣终将刺破政治迷雾。唯有还原被遮蔽的60万牺牲者的姓名，方能守护两岸共同的历史根基，让子孙永避战争阴云。```wbCustomBlock{\"type\": \"quoted\", \"index\": 41, \"data\": {\"num\": [9, 10, 17], \"version\": 2, \"quote_list\": [{\"name\": \"军武季\", \"scheme\": \"sinaweibo://detail?mblogid=5187540195216229\", \"index\": 9, \"label\": \"\"}, {\"name\": \"中国新闻网\", \"scheme\": \"sinaweibo://detail?mblogid=5180688112289135\", \"index\": 10, \"label\": \"\"}, {\"name\": \"环球网\", \"scheme\": \"sinaweibo://detail?mblogid=5171588423223097\", \"index\": 17, \"label\": \"\"}]}}```<br>",
+      "query_field": "60",
+      "sorted_material_list": null,
+      "page_id": "232964ca87b659df1320d3d5a43747b283b666",
+      "qs_status_info": "{\"qs_status\":0,\"qs_q_status\":0,\"qs_c_status\":8388608,\"ab_lab\":{},\"qs_u_status\":0,\"qs_r_status\":0}",
+      "reference_num": 42,
+      "loop_times": 200,
+      "share_info": {
+        "unify_md5": "59c847d34b3d712b6c2288bc18cbef71",
+        "status": 3,
+        "page_id": "232964ca87b659df1320d3d5a43747b283b666",
+        "display_name": "#很多台湾年轻人不知抗日史#",
+        "url": "http://t.cn/AXA7nEp3",
+        "tips": "#很多台湾年轻人不知抗日史#的相关内容，来智搜看看"
+      },
+      "reliable_tips": "{\"gold_orange_v_mids\": [\"5040975732539520\", \"5226865335208484\", \"5160885874593825\", \"5226860512281059\", \"5114086725521723\", \"5226864542485508\", \"5174131687424734\", \"5212184237837244\", \"5187540195216229\", \"5186134952905566\", \"5198452537690608\", \"5226143416587423\", \"5226866672668540\", \"5226862235878674\", \"5186990947702493\", \"5226863129264548\", \"5199659980030675\", \"5207241577725959\", \"5226873186943746\", \"5226879066834928\", \"5226867154223961\", \"5226967095837454\", \"5226855915585985\", \"5226855888324075\", \"5226855391298953\", \"5226858306080120\", \"5226857534331158\", \"5226854639996985\", \"5226874137478255\", \"5226857609041967\", \"5202211182477938\"], \"gold_orange_v_ratio\": \"74%\", \"media_mids\": [\"5180688112289135\", \"5040184690740460\", \"5171588423223097\", \"5226768311259119\", \"5113769128891613\", \"5113801995195391\", \"5226773287798408\", \"5226824126693431\"], \"media_ratio\": \"19%\", \"verified_mids\": [\"5202887137300079\"], \"verified_ratio\": \"2%\", \"normal_mids\": [\"5226958382171018\", \"5226861571343203\"], \"normal_ratio\": \"5%\", \"ref_mid_rank\": {\"5040975732539520\": {\"rank\": 22}, \"5226865335208484\": {\"rank\": 31}, \"5160885874593825\": {\"rank\": 7}, \"5180688112289135\": {\"rank\": 10}, \"5040184690740460\": {\"rank\": 16}, \"5226860512281059\": {\"rank\": 33}, \"5114086725521723\": {\"rank\": 45}, \"5226958382171018\": {\"rank\": 36}, \"5171588423223097\": {\"rank\": 17}, \"5226864542485508\": {\"rank\": 12}, \"5174131687424734\": {\"rank\": 13}, \"5212184237837244\": {\"rank\": 8}, \"5202887137300079\": {\"rank\": 6}, \"5187540195216229\": {\"rank\": 9}, \"5186134952905566\": {\"rank\": 20}, \"5198452537690608\": {\"rank\": 11}, \"5226768311259119\": {\"rank\": 1}, \"5226143416587423\": {\"rank\": 21}, \"5113769128891613\": {\"rank\": 14}, \"5113801995195391\": {\"rank\": 19}, \"5226866672668540\": {\"rank\": 4}, \"5226862235878674\": {\"rank\": 34}, \"5226773287798408\": {\"rank\": 2}, \"5186990947702493\": {\"rank\": 3}, \"5226863129264548\": {\"rank\": 5}, \"5199659980030675\": {\"rank\": 15}, \"5207241577725959\": {\"rank\": 18}, \"5226873186943746\": {\"rank\": 29}, \"5226879066834928\": {\"rank\": 30}, \"5226867154223961\": {\"rank\": 32}, \"5226967095837454\": {\"rank\": 35}, \"5226861571343203\": {\"rank\": 37}, \"5226855915585985\": {\"rank\": 38}, \"5226855888324075\": {\"rank\": 39}, \"5226855391298953\": {\"rank\": 40}, \"5226858306080120\": {\"rank\": 41}, \"5226857534331158\": {\"rank\": 42}, \"5226824126693431\": {\"rank\": 43}, \"5226854639996985\": {\"rank\": 44}, \"5226874137478255\": {\"rank\": 46}, \"5226857609041967\": {\"rank\": 47}, \"5202211182477938\": {\"rank\": 48}}}"
+    }
+  },
+  "links": [
+    "sinaweibo://detail?mblogid=5226768311259119",
+    "sinaweibo://detail?mblogid=5226773287798408",
+    "sinaweibo://detail?mblogid=5186990947702493",
+    "sinaweibo://detail?mblogid=5226866672668540",
+    "sinaweibo://detail?mblogid=5226863129264548",
+    "sinaweibo://detail?mblogid=5202887137300079",
+    "sinaweibo://detail?mblogid=5160885874593825",
+    "sinaweibo://detail?mblogid=5212184237837244",
+    "sinaweibo://detail?mblogid=5187540195216229",
+    "sinaweibo://detail?mblogid=5180688112289135",
+    "sinaweibo://detail?mblogid=5198452537690608",
+    "sinaweibo://detail?mblogid=5226864542485508",
+    "sinaweibo://detail?mblogid=5174131687424734",
+    "sinaweibo://detail?mblogid=5113769128891613",
+    "sinaweibo://detail?mblogid=5199659980030675",
+    "sinaweibo://detail?mblogid=5040184690740460",
+    "sinaweibo://detail?mblogid=5171588423223097",
+    "sinaweibo://detail?mblogid=5207241577725959",
+    "sinaweibo://detail?mblogid=5113801995195391",
+    "sinaweibo://detail?mblogid=5186134952905566",
+    "sinaweibo://detail?mblogid=5226143416587423",
+    "sinaweibo://detail?mblogid=5040975732539520",
+    "https://baike.baidu.com/item/%E7%9B%90%E5%AF%AE%E6%8A%97%E6%97%A5%E7%BA%AA%E5%BF%B5%E7%A2%91?fromModule=search-result_lemma",
+    "broadsocial_res://",
+    "broadsocial_res://",
+    "historyweibo://5226768311259119",
+    "historyweibo://5226623528077090",
+    "historyweibo://5226381319342287",
+    "sinaweibo://detail?mblogid=5226873186943746",
+    "sinaweibo://detail?mblogid=5226879066834928",
+    "sinaweibo://detail?mblogid=5226865335208484",
+    "sinaweibo://detail?mblogid=5226867154223961",
+    "sinaweibo://detail?mblogid=5226860512281059",
+    "sinaweibo://detail?mblogid=5226862235878674",
+    "sinaweibo://detail?mblogid=5226967095837454",
+    "sinaweibo://detail?mblogid=5226958382171018",
+    "sinaweibo://detail?mblogid=5226861571343203",
+    "sinaweibo://detail?mblogid=5226855915585985",
+    "sinaweibo://detail?mblogid=5226855888324075",
+    "sinaweibo://detail?mblogid=5226855391298953",
+    "sinaweibo://detail?mblogid=5226858306080120",
+    "sinaweibo://detail?mblogid=5226857534331158",
+    "sinaweibo://detail?mblogid=5226824126693431",
+    "sinaweibo://detail?mblogid=5226854639996985",
+    "sinaweibo://detail?mblogid=5114086725521723",
+    "sinaweibo://detail?mblogid=5226874137478255",
+    "sinaweibo://detail?mblogid=5226857609041967",
+    "sinaweibo://detail?mblogid=5202211182477938"
+  ],
+  "media": [
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/0047tKGFly1hwspqart14j60fc08djrk02.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/0047tKGFly1hwspqart14j60fc08djrk02.jpg",
+      "alt": "巍岳钦禹",
+      "width": 301,
+      "height": 552,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/0047tKGFly1hwspqart14j60fc08djrk02.jpg"
+      ],
+      "user": "巍岳钦禹"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/001WLsZ7ly1i2p6ncuojyj60u01hc41202.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/001WLsZ7ly1i2p6ncuojyj60u01hc41202.jpg",
+      "alt": "中国新闻网",
+      "width": 1920,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/001WLsZ7ly1i2p6ncuojyj60u01hc41202.jpg"
+      ],
+      "user": "中国新闻网"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/002TLsr9ly1hq8y7v76lxj61qw0zex6p02.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/002TLsr9ly1hq8y7v76lxj61qw0zex6p02.jpg",
+      "alt": "央视新闻",
+      "width": 1274,
+      "height": 2264,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/002TLsr9ly1hq8y7v76lxj61qw0zex6p02.jpg"
+      ],
+      "user": "央视新闻"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/770074fbgy1i6si6zydlsj21hc0u046j.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/770074fbgy1i6si6zydlsj21hc0u046j.jpg",
+      "alt": "老牛慧眼观市",
+      "width": 1080,
+      "height": 1920,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/770074fbgy1i6si6zydlsj21hc0u046j.jpg"
+      ],
+      "user": "老牛慧眼观市"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/001NfW7xly1i4o00dt38aj614x0n0wsy02.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/001NfW7xly1i4o00dt38aj614x0n0wsy02.jpg",
+      "alt": "凤凰卫视",
+      "width": 828,
+      "height": 1473,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/001NfW7xly1i4o00dt38aj614x0n0wsy02.jpg"
+      ],
+      "user": "凤凰卫视"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/81d97f6dly1i3b1uos10oj20u01hcgp8.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/81d97f6dly1i3b1uos10oj20u01hcgp8.jpg",
+      "alt": "军武季",
+      "width": 1920,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/81d97f6dly1i3b1uos10oj20u01hcgp8.jpg"
+      ],
+      "user": "军武季"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/008hfE7Dly1i49v42z7hpj30u01hc41f.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/008hfE7Dly1i49v42z7hpj30u01hc41f.jpg",
+      "alt": "话道君",
+      "width": 1920,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/008hfE7Dly1i49v42z7hpj30u01hc41f.jpg"
+      ],
+      "user": "话道君"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/003gul7lly1i6s75ful51j60ed0j57ea02.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/003gul7lly1i6s75ful51j60ed0j57ea02.jpg",
+      "alt": "北京时间",
+      "width": 689,
+      "height": 517,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/003gul7lly1i6s75ful51j60ed0j57ea02.jpg"
+      ],
+      "user": "北京时间"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/005OXDmfgy1i6q7bidyo1j30dc0a03z9.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/005OXDmfgy1i6q7bidyo1j30dc0a03z9.jpg",
+      "alt": "灭蛙",
+      "width": 360,
+      "height": 480,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/005OXDmfgy1i6q7bidyo1j30dc0a03z9.jpg"
+      ],
+      "user": "灭蛙"
+    }
+  ],
+  "html_path": "data/aicard/hourly/2025-10-29/06/topic-59c847d3.html"
+}

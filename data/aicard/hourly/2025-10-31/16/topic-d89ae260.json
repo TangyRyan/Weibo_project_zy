@@ -1,0 +1,330 @@
+{
+  "meta": {
+    "query": "#公主小妹兄妹篇#",
+    "status_code": 200,
+    "fetched_at": "2025-10-31T22:34:01+08:00",
+    "response": {
+      "top_quote_list": {},
+      "card_multimodal": {
+        "data": [
+          {
+            "hit_score_new": 89.84375,
+            "video_url": "https://video.weibo.com/show?fid=1034:5227501333446660",
+            "hit_score_final": 85.90625,
+            "h": 1080,
+            "img": "http://wx2.sinaimg.cn/middle/008CHjBwly1i6ujdc0y1xj31hc0u0410.jpg",
+            "w": 1920,
+            "doc_score": 5385,
+            "img_pid": "008CHjBwly1i6ujdc0y1xj31hc0u0410",
+            "scheme": "sinaweibo://video/vvs?mid=5227794241949290&multi_paragraph=1&multi_count=0",
+            "click_rate": 0.08038029386344,
+            "vtype": 0,
+            "user_avatar": "https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/74f00277ly8i6c7rn3no5j20u00u0dh0.jpg?KID=imgbed,tva&Expires=1761929039&ssig=RuxBmtpdC%2F",
+            "type": "v",
+            "cur_mid": "5227794241949290",
+            "user_name": "左凌峰小学生"
+          },
+          {
+            "hit_score_new": 55.273438,
+            "video_url": "",
+            "hit_score_final": 57.56406,
+            "h": 3545,
+            "img": "http://wx1.sinaimg.cn/middle/00237iRply1i6vjvd4zumj60u02qh1bf02.jpg",
+            "w": 1080,
+            "doc_score": 2191,
+            "img_pid": "00237iRply1i6vjvd4zumj60u02qh1bf02",
+            "scheme": "sinaweibo://multimedia?mix_mid=5227819409345427&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=1&multi_count=1",
+            "click_rate": 0.06,
+            "vtype": 3,
+            "user_avatar": "https://tvax2.sinaimg.cn/crop.0.0.996.996.50/00237iRply8h8v3qn6hwkj60ro0romyj02.jpg?KID=imgbed,tva&Expires=1761929039&ssig=T0NxiOHIeQ",
+            "type": "p",
+            "cur_mid": "5227819409345427",
+            "user_name": "新浪综艺"
+          },
+          {
+            "hit_score_new": 76.660156,
+            "video_url": "https://video.weibo.com/show?fid=1034:5227808826523704",
+            "hit_score_final": 69.996094,
+            "h": 360,
+            "img": "http://wx2.sinaimg.cn/middle/006ZRuNlly1i6vio46m19j30hs0a0aan.jpg",
+            "w": 640,
+            "doc_score": 1754,
+            "img_pid": "006ZRuNlly1i6vio46m19j30hs0a0aan",
+            "scheme": "sinaweibo://video/vvs?mid=5227808909692866&multi_paragraph=1&multi_count=2",
+            "click_rate": 0,
+            "vtype": 0,
+            "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/006ZRuNlly8i6cwb546poj30u00u0wgt.jpg?KID=imgbed,tva&Expires=1761929039&ssig=nARUW1FrzU",
+            "type": "v",
+            "cur_mid": "5227808909692866",
+            "user_name": "你好来一桶旺仔"
+          },
+          {
+            "hit_score_new": 89.84375,
+            "video_url": "https://video.weibo.com/show?fid=1034:5227501333446660",
+            "hit_score_final": 85.90625,
+            "h": 1080,
+            "img": "http://wx2.sinaimg.cn/middle/008CHjBwly1i6ujdc0y1xj31hc0u0410.jpg",
+            "w": 1920,
+            "doc_score": 5385,
+            "img_pid": "008CHjBwly1i6ujdc0y1xj31hc0u0410",
+            "scheme": "sinaweibo://video/vvs?mid=5227794241949290&multi_paragraph=1&multi_count=0",
+            "click_rate": 0.08038029386344,
+            "vtype": 0,
+            "user_avatar": "https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/74f00277ly8i6c7rn3no5j20u00u0dh0.jpg?KID=imgbed,tva&Expires=1761929039&ssig=RuxBmtpdC%2F",
+            "type": "v",
+            "cur_mid": "5227794241949290",
+            "user_name": "左凌峰小学生"
+          }
+        ],
+        "type": "mediablock"
+      },
+      "share_card_multimodal": {
+        "hit_score_new": 89.84375,
+        "video_url": "https://video.weibo.com/show?fid=1034:5227501333446660",
+        "hit_score_final": 85.90625,
+        "h": 1080,
+        "img": "http://wx2.sinaimg.cn/middle/008CHjBwly1i6ujdc0y1xj31hc0u0410.jpg",
+        "w": 1920,
+        "doc_score": 5385,
+        "img_pid": "008CHjBwly1i6ujdc0y1xj31hc0u0410",
+        "scheme": "sinaweibo://video/vvs?mid=5227794241949290&multi_paragraph=1&multi_count=0",
+        "click_rate": 0.08038029386344,
+        "vtype": 0,
+        "user_avatar": "https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/74f00277ly8i6c7rn3no5j20u00u0dh0.jpg?KID=imgbed,tva&Expires=1761929039&ssig=RuxBmtpdC%2F",
+        "type": "v",
+        "cur_mid": "5227794241949290",
+        "user_name": "左凌峰小学生"
+      },
+      "wenda": {
+        "forward_gen": 0
+      },
+      "basemodel": "实验组3",
+      "uid": "",
+      "q_attr": {
+        "reply_cid": "",
+        "comment_from_type": "",
+        "from_request_id": "1761918238043",
+        "from_uid": "1408063207",
+        "mid": ""
+      },
+      "msg_format": "markdown",
+      "share_info": {
+        "display_name": "#公主小妹兄妹篇#",
+        "status": 3,
+        "tips": "#公主小妹兄妹篇#的相关内容，来智搜看看",
+        "url": "http://t.cn/AXA5iQwj",
+        "unify_md5": "d89ae260a74ae67d06ca73ebc85c33a8",
+        "comment_content": "",
+        "page_id": "232964bbd6718c96e043a89d84cbdd281cd4ee"
+      },
+      "msg_json": "{}",
+      "query_field": "1",
+      "chat_status_stage": 1,
+      "news_analyze": {},
+      "qs_status_info": "{\"qs_q_status\":0,\"ab_lab\":{},\"qs_u_status\":0,\"qs_status\":0,\"qs_c_status\":8388608,\"qs_r_status\":0}",
+      "msg": "<think><br><br>嗯，用户查询的是\"公主小妹兄妹篇\"，看起来是想了解这个话题的相关信息。先看一下搜索结果有什么内容。<br><br>咦，这些结果基本都是2025年10月31日的微博，集中在讨论一个叫《公主小哥》的短剧。这是《喜人奇妙夜2》第三赛段的单元剧，由\"Okboom团\"创作。用户可能是被热搜吸引来的，想了解这个新出现的\"兄妹篇\"是什么。<br><br>翻看几个优质搜索结果，发现这个《公主小哥》其实是部恶搞喜剧。它把经典台剧《公主小妹》的设定完全颠覆了：原本的平民女孩变公主故事，变成了\"霸总妹妹寻找落魄哥哥\"的搞笑剧情。李梓溪演商业女强人妹妹，三狗（李飞）演在网吧流浪的哥哥，这个反差设定还挺有意思的。<br><br>注意到很多演员都在发相关微博，看来是节目组在配合宣传。他们提到的梗特别魔性，比如\"烤肠认亲\"——妹妹居然用烤肠当认亲信物；还有\"洗澡开车\"——哥哥洗澡要坐车去浴室，这些无厘头桥段被财大大叫兽分析得挺到位。<br><br>用户可能想知道这个\"兄妹篇\"和原版的关系。其实它并非官方续作，只是综艺里的创意改编。不过确实唤起了大家的台偶记忆，新浪综艺说\"一秒穿越回青春\"。很多观众表示看得特别开心，因为没沉重主题，纯粹图个乐。<br><br>要不要提醒用户时效性呢？所有讨论都集中在2025年10月底，应该是节目热播期的短期话题。如果用户想找原版《公主小妹》相关内容，最近期的反而是2025年8月的怀旧帖。<br><br>最后整理下核心信息吧：综艺短剧、人设反转、爆笑梗、洗脑口号，加上演员们的趣味互动。用户如果喜欢轻松喜剧，这个\"兄妹篇\"确实值得一看。<br><br></think><br>以下是关于\"公主小妹兄妹篇\"的核心信息整理，综合搜索结果可知该话题实为综艺《喜人奇妙夜2》中的原创短剧单元《公主小哥》，并非《公主小妹》的官方续作：<br>### ⭐ 本质定位<br>1. **综艺衍生短剧**  <br>   《公主小哥》是《喜人奇妙夜2》第三赛段由演员组合\"Okboom团\"创作的喜剧单元，通过荒诞手法解构2007年经典台偶《公主小妹》的豪门设定，形成\"兄妹篇\"概念。```wbCustomBlock{\"type\": \"quoted\", \"index\": 4, \"data\": {\"num\": [4, 28], \"version\": 2, \"quote_list\": [{\"name\": \"财大大叫兽\", \"scheme\": \"sinaweibo://detail?mblogid=5227815768428089\", \"index\": 4, \"label\": \"\"}, {\"name\": \"新浪综艺\", \"scheme\": \"sinaweibo://detail?mblogid=5227819409345427\", \"index\": 28, \"label\": \"\"}]}}```<br><br>2. **颠覆性叙事创新**  <br>   - **人设反转**：原版\"平民变公主\"主线改为 **\"霸总妹妹寻找落魄哥哥\"**。  <br>     - 妹妹**李子希（李梓溪饰）**：白手起家的商业帝国掌门人，强势护兄。```wbCustomBlock{\"type\": \"quoted\", \"index\": 7, \"data\": {\"num\": [4, 28, 30], \"version\": 2, \"quote_list\": [{\"name\": \"财大大叫兽\", \"scheme\": \"sinaweibo://detail?mblogid=5227815768428089\", \"index\": 4, \"label\": \"\"}, {\"name\": \"新浪综艺\", \"scheme\": \"sinaweibo://detail?mblogid=5227819409345427\", \"index\": 28, \"label\": \"\"}, {\"name\": \"你好来一桶旺仔\", \"scheme\": \"sinaweibo://detail?mblogid=5227808909692866\", \"index\": 30, \"label\": \"\"}]}}```  <br>     - 哥哥**李飞（三狗饰）**：网吧流浪的\"土味青年\"，靠\"烤肠信物\"被认亲。```wbCustomBlock{\"type\": \"quoted\", \"index\": 8, \"data\": {\"num\": [17, 24, 37], \"version\": 2, \"quote_list\": [{\"name\": \"左凌峰小学生\", \"scheme\": \"sinaweibo://detail?mblogid=5227794241949290\", \"index\": 17, \"label\": \"大v\"}, {\"name\": \"追剧少女刘书欣\", \"scheme\": \"sinaweibo://detail?mblogid=5227814556533900\", \"index\": 24, \"label\": \"\"}, {\"name\": \"大铁男\", \"scheme\": \"sinaweibo://detail?mblogid=5227779403549983\", \"index\": 37, \"label\": \"\"}], \"name\": \"左凌峰小学生\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/74f00277ly8i6c7rn3no5j20u00u0dh0.jpg?KID=imgbed,tva&Expires=1761929039&ssig=RuxBmtpdC%2F\", \"scheme\": \"sinaweibo://detail?mblogid=5227794241949290\", \"vType\": 0}}```  <br>   - **关系重构**：打破传统爱情线，聚焦**豪门兄妹羁绊**，结合狗血商战与无厘头喜剧。```wbCustomBlock{\"type\": \"quoted\", \"index\": 9, \"data\": {\"num\": [24], \"version\": 2, \"quote_list\": [{\"name\": \"追剧少女刘书欣\", \"scheme\": \"sinaweibo://detail?mblogid=5227814556533900\", \"index\": 24, \"label\": \"大v\"}], \"name\": \"追剧少女刘书欣\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.995.995.50/007bn44cly8h8v0hbdxzrj30rn0rnaca.jpg?KID=imgbed,tva&Expires=1761929039&ssig=i6gawFzANX\", \"scheme\": \"sinaweibo://detail?mblogid=5227814556533900\", \"vType\": 0}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5227794241949290&multi_paragraph=1&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/74f00277ly8i6c7rn3no5j20u00u0dh0.jpg?KID=imgbed,tva&Expires=1761929039&ssig=RuxBmtpdC%2F) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">左凌峰小学生</span><img src=\"http://wx2.sinaimg.cn/middle/008CHjBwly1i6ujdc0y1xj31hc0u0410.jpg\" data-width=1080 data-height=1920></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5227819409345427&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=1&multi_count=1\"><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.996.996.50/00237iRply8h8v3qn6hwkj60ro0romyj02.jpg?KID=imgbed,tva&Expires=1761929039&ssig=T0NxiOHIeQ) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">新浪综艺</span><img src=\"http://wx1.sinaimg.cn/middle/00237iRply1i6vjvd4zumj60u02qh1bf02.jpg\" data-width=3545 data-height=1080></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5227808909692866&multi_paragraph=1&multi_count=2\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/006ZRuNlly8i6cwb546poj30u00u0wgt.jpg?KID=imgbed,tva&Expires=1761929039&ssig=nARUW1FrzU) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">你好来一桶旺仔</span><img src=\"http://wx2.sinaimg.cn/middle/006ZRuNlly1i6vio46m19j30hs0a0aan.jpg\" data-width=360 data-height=640></div></media-block><br>### 🎭 爆笑名场面与洗脑梗<br>| **名场面**       | **内容描述**                                                                 | **出处** |<br>|------------------|-----------------------------------------------------------------------------|----------|<br>| **烤肠认亲**     | 妹妹用烤肠验证哥哥身份，复刻台偶\"信物相认\"桥段（原剧为公主项链）                          |  |<br>| **洗澡开车**     | 哥哥洗澡需乘车前往浴室，夸张化豪门生活细节                                              |  |<br>| **商战儿戏**     | 用\"拆摄像头拉电闸\"阻止股票收购，讽刺偶像剧商战套路                                      |  |<br>| **家族口号**     | \"李氏家族绝不落泪！我们身上的优雅气味～还有谁～\"（Okboom团浮夸演绎）                      |  |<br>| **反派应援词**   | \"同鑫逗飞勇敢飞，张少张少嗷嗷叫\"（周可人创作的反派张韶角色专属口号）                      |  |<br><br>```wbCustomBlock{\"type\": \"quoted\", \"index\": 11, \"data\": {\"num\": [2, 4, 9, 10, 15, 16, 17, 37], \"version\": 2, \"quote_list\": [{\"name\": \"我是鑫仔不知悔改\", \"scheme\": \"sinaweibo://detail?mblogid=5227796386286354\", \"index\": 9, \"label\": \"大v\"}, {\"name\": \"Kevin周可人\", \"scheme\": \"sinaweibo://detail?mblogid=5227820131552960\", \"index\": 2, \"label\": \"\"}, {\"name\": \"财大大叫兽\", \"scheme\": \"sinaweibo://detail?mblogid=5227815768428089\", \"index\": 4, \"label\": \"\"}, {\"name\": \"演员马旭东\", \"scheme\": \"sinaweibo://detail?mblogid=5227799758772071\", \"index\": 10, \"label\": \"\"}, {\"name\": \"金金金金宇恒\", \"scheme\": \"sinaweibo://detail?mblogid=5227820830954360\", \"index\": 15, \"label\": \"\"}, {\"name\": \"张维伊\", \"scheme\": \"sinaweibo://detail?mblogid=5227779403811921\", \"index\": 16, \"label\": \"\"}, {\"name\": \"左凌峰小学生\", \"scheme\": \"sinaweibo://detail?mblogid=5227794241949290\", \"index\": 17, \"label\": \"\"}, {\"name\": \"大铁男\", \"scheme\": \"sinaweibo://detail?mblogid=5227779403549983\", \"index\": 37, \"label\": \"\"}], \"name\": \"我是鑫仔不知悔改\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/75a2f8adly8i6nccztcvmj20u00u0jsj.jpg?KID=imgbed,tva&Expires=1761929039&ssig=DG%2F2ampJYw\", \"scheme\": \"sinaweibo://detail?mblogid=5227796386286354\", \"vType\": 0}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5227799758772071&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=2&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/006ymplKly8i6nbwoqvppj30u00u00uw.jpg?KID=imgbed,tva&Expires=1761929039&ssig=RMLAimuAE8) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">演员马旭东</span><img src=\"http://wx3.sinaimg.cn/middle/006ymplKly1i6vhj6q58rj32yo1o0e83.jpg\" data-width=2160 data-height=3840></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5227779403811921&multi_paragraph=2&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.59.0.1080.1080.50/681f9183ly8i60cgnl1wcj20xa0u0wfu.jpg?KID=imgbed,tva&Expires=1761929039&ssig=vJ6oXfuozt) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">张维伊</span><img src=\"http://wx2.sinaimg.cn/middle/008CHjBwly1i6ujdfofxnj31hc0u00w7.jpg\" data-width=1080 data-height=1920></div></media-block><br>### 👥 演员与角色高光<br>| 演员              | 角色         | 亮点描述                                  |<br>|-------------------|--------------|------------------------------------------|<br>| **三狗（李飞）**  | 哥哥         | 憨傻土气，\"人穷志不穷\"金句圈粉 |<br>| **李梓溪**        | 妹妹李子希   | 冷面霸总，护兄狂魔             |<br>| **Okboom团**      | 浮夸亲戚     | 马旭东（毒舌）、鑫仔（文艺复兴造型） |<br>| **周可人**        | 私人音乐家   | 魔性弹唱\"如听仙乐耳暂聋\"       |<br><br>```wbCustomBlock{\"type\": \"quoted\", \"index\": 13, \"data\": {\"num\": [2, 4, 7, 8, 11, 17, 24, 30], \"version\": 2, \"quote_list\": [{\"name\": \"李逗逗大美人\", \"scheme\": \"sinaweibo://detail?mblogid=5227799386263684\", \"index\": 11, \"label\": \"大v\"}, {\"name\": \"Kevin周可人\", \"scheme\": \"sinaweibo://detail?mblogid=5227820131552960\", \"index\": 2, \"label\": \"\"}, {\"name\": \"财大大叫兽\", \"scheme\": \"sinaweibo://detail?mblogid=5227815768428089\", \"index\": 4, \"label\": \"\"}, {\"name\": \"羊肉泡馍加个剧\", \"scheme\": \"sinaweibo://detail?mblogid=5227815206652669\", \"index\": 7, \"label\": \"\"}, {\"name\": \"我是鑫仔不知悔改\", \"scheme\": \"sinaweibo://detail?mblogid=5227820072571331\", \"index\": 8, \"label\": \"\"}, {\"name\": \"左凌峰小学生\", \"scheme\": \"sinaweibo://detail?mblogid=5227794241949290\", \"index\": 17, \"label\": \"\"}, {\"name\": \"追剧少女刘书欣\", \"scheme\": \"sinaweibo://detail?mblogid=5227814556533900\", \"index\": 24, \"label\": \"\"}, {\"name\": \"你好来一桶旺仔\", \"scheme\": \"sinaweibo://detail?mblogid=5227808909692866\", \"index\": 30, \"label\": \"\"}], \"name\": \"李逗逗大美人\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/aaae502ely8hto5jokthbj20u00u0mzj.jpg?KID=imgbed,tva&Expires=1761929039&ssig=HQbYMtpZeU\", \"scheme\": \"sinaweibo://detail?mblogid=5227799386263684\", \"vType\": 0}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5227815206652669&multi_paragraph=3&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.1022.1022.50/007bn3Tnly8h8v14fwoysj30sf0se75q.jpg?KID=imgbed,tva&Expires=1761929039&ssig=wxpXzyxOAC) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">羊肉泡馍加个剧</span><img src=\"http://wx3.sinaimg.cn/middle/007bn3Tnly1i6vjdkg7evj31hc0u0ad8.jpg\" data-width=1080 data-height=1920></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5227820072571331&multi_paragraph=3&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/75a2f8adly8i6nccztcvmj20u00u0jsj.jpg?KID=imgbed,tva&Expires=1761929039&ssig=DG%2F2ampJYw) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">我是鑫仔不知悔改</span><img src=\"http://wx2.sinaimg.cn/middle/75a2f8adly1i6vjy57hlgj20u01hcacf.jpg\" data-width=1920 data-height=1080></div></media-block><br>### 💬 观众反响与时代共鸣<br>1. **台偶情怀复兴**  <br>   复刻豪门宴会、浮夸造型等元素，唤醒对《公主小妹》的集体记忆，被赞\"台偶DNA动了\"。```wbCustomBlock{\"type\": \"quoted\", \"index\": 16, \"data\": {\"num\": [24, 28, 30], \"version\": 2, \"quote_list\": [{\"name\": \"追剧少女刘书欣\", \"scheme\": \"sinaweibo://detail?mblogid=5227814556533900\", \"index\": 24, \"label\": \"\"}, {\"name\": \"新浪综艺\", \"scheme\": \"sinaweibo://detail?mblogid=5227819409345427\", \"index\": 28, \"label\": \"\"}, {\"name\": \"你好来一桶旺仔\", \"scheme\": \"sinaweibo://detail?mblogid=5227808909692866\", \"index\": 30, \"label\": \"\"}]}}```  <br>2. **喜剧解构深度**  <br>   通过\"土味少爷闯豪门\"设定，讽刺偶像剧套路（如\"霸总求我当哥哥\"），成社交平台热梗。```wbCustomBlock{\"type\": \"quoted\", \"index\": 17, \"data\": {\"num\": [4, 32], \"version\": 2, \"quote_list\": [{\"name\": \"财大大叫兽\", \"scheme\": \"sinaweibo://detail?mblogid=5227815768428089\", \"index\": 4, \"label\": \"\"}, {\"name\": \"拯救工作日_\", \"scheme\": \"sinaweibo://detail?mblogid=5227814996934669\", \"index\": 32, \"label\": \"\"}]}}```  <br>3. **解压神剧定位**  <br>   观众评价\"无反转无上价值\"，纯搞笑风格带来轻松体验。```wbCustomBlock{\"type\": \"quoted\", \"index\": 18, \"data\": {\"num\": [20, 32], \"version\": 2, \"quote_list\": [{\"name\": \"我没法忍受水忽冷忽热\", \"scheme\": \"sinaweibo://detail?mblogid=5227925852128853\", \"index\": 20, \"label\": \"\"}, {\"name\": \"拯救工作日_\", \"scheme\": \"sinaweibo://detail?mblogid=5227814996934669\", \"index\": 32, \"label\": \"\"}]}}```<br>### ⚠️ 需厘清的误解<br>1. **非官方续作**：该短剧是综艺二创，与原版《公主小妹》无剧情关联。```wbCustomBlock{\"type\": \"quoted\", \"index\": 21, \"data\": {\"num\": [34], \"version\": 2, \"quote_list\": [{\"name\": \"Tsing_Summera\", \"scheme\": \"sinaweibo://detail?mblogid=5227818289991303\", \"index\": 34, \"label\": \"\"}]}}```  <br>2. **时效性限定**：所有讨论集中于**2025年10月**《喜人奇妙夜2》播出期间。```wbCustomBlock{\"type\": \"quoted\", \"index\": 22, \"data\": {\"num\": [1, 13, 21], \"version\": 2, \"quote_list\": [{\"name\": \"喜人奇妙夜\", \"scheme\": \"sinaweibo://detail?mblogid=5227775753457964\", \"index\": 1, \"label\": \"\"}, {\"name\": \"喜人奇妙夜\", \"scheme\": \"sinaweibo://detail?mblogid=5227885415892347\", \"index\": 13, \"label\": \"\"}, {\"name\": \"喜人奇妙夜\", \"scheme\": \"sinaweibo://detail?mblogid=5227794855363207\", \"index\": 21, \"label\": \"\"}]}}```  <br><br>> 💎 **一句话推荐**：若想体验\"台偶外壳+爆笑内核\"的解压喜剧，《公主小哥》堪称2025年综艺短剧黑马！```wbCustomBlock{\"type\": \"quoted\", \"index\": 23, \"data\": {\"num\": [32], \"version\": 2, \"quote_list\": [{\"name\": \"拯救工作日_\", \"scheme\": \"sinaweibo://detail?mblogid=5227814996934669\", \"index\": 32, \"label\": \"\"}]}}```<br>",
+      "query_category": "Ip",
+      "sorted_material_list": "[{\"mid\": \"5227815768428089\", \"rank\": 3, \"type\": \"weibo\"}, {\"mid\": \"5227819409345427\", \"rank\": 24, \"type\": \"weibo\"}, {\"mid\": \"5227808909692866\", \"rank\": 32, \"type\": \"weibo\"}, {\"mid\": \"5227794241949290\", \"rank\": 17, \"type\": \"weibo\"}, {\"mid\": \"5227814556533900\", \"rank\": 26, \"type\": \"weibo\"}, {\"mid\": \"5227779403811921\", \"rank\": 7, \"type\": \"weibo\"}, {\"mid\": \"5227799386263684\", \"rank\": 10, \"type\": \"weibo\"}, {\"mid\": \"5227799758772071\", \"rank\": 11, \"type\": \"weibo\"}, {\"mid\": \"5227800593434640\", \"rank\": 31, \"type\": \"weibo\"}, {\"mid\": \"5227827085444390\", \"rank\": 20, \"type\": \"weibo\"}, {\"mid\": \"5227826617783230\", \"rank\": 21, \"type\": \"weibo\"}, {\"mid\": \"5227814996934669\", \"rank\": 35, \"type\": \"weibo\"}, {\"mid\": \"5227825360535987\", \"rank\": 13, \"type\": \"weibo\"}, {\"mid\": \"5227820131552960\", \"rank\": 8, \"type\": \"weibo\"}, {\"mid\": \"5227820830954360\", \"rank\": 12, \"type\": \"weibo\"}, {\"mid\": \"5227775753457964\", \"rank\": 1, \"type\": \"weibo\"}, {\"mid\": \"5227794855363207\", \"rank\": 6, \"type\": \"weibo\"}, {\"mid\": \"5227820072571331\", \"rank\": 9, \"type\": \"weibo\"}, {\"mid\": \"5227801269504759\", \"rank\": 14, \"type\": \"weibo\"}, {\"mid\": \"5227820356996179\", \"rank\": 2, \"type\": \"weibo\"}, {\"mid\": \"4953952787894010\", \"rank\": 4, \"type\": \"weibo\"}, {\"mid\": \"5227795761594798\", \"rank\": 5, \"type\": \"weibo\"}, {\"mid\": \"5227797702509533\", \"rank\": 15, \"type\": \"weibo\"}, {\"mid\": \"5227795950076253\", \"rank\": 16, \"type\": \"weibo\"}, {\"mid\": \"5227795866452503\", \"rank\": 18, \"type\": \"weibo\"}, {\"mid\": \"5227828829751423\", \"rank\": 19, \"type\": \"weibo\"}, {\"mid\": \"5227821963675792\", \"rank\": 22, \"type\": \"weibo\"}, {\"mid\": \"5227821066092932\", \"rank\": 23, \"type\": \"weibo\"}, {\"mid\": \"5045836368579465\", \"rank\": 25, \"type\": \"weibo\"}, {\"mid\": \"4505521740439208\", \"rank\": 27, \"type\": \"weibo\"}, {\"mid\": \"5197523610239085\", \"rank\": 28, \"type\": \"weibo\"}, {\"mid\": \"5166314910386596\", \"rank\": 29, \"type\": \"weibo\"}, {\"mid\": \"5123580918237355\", \"rank\": 30, \"type\": \"weibo\"}, {\"mid\": \"5227826206740758\", \"rank\": 33, \"type\": \"weibo\"}, {\"mid\": \"5213930856120689\", \"rank\": 34, \"type\": \"weibo\"}, {\"mid\": \"5218068754338529\", \"rank\": 36, \"type\": \"weibo\"}, {\"mid\": \"5132476554941365\", \"rank\": 37, \"type\": \"weibo\"}]",
+      "profile_image_url": "",
+      "status_stage": 4,
+      "ab_suffix": "default",
+      "current_time": 1761921241,
+      "status": 2,
+      "scheme": "sinaweibo://cardlist?containerid=100103type%3D225%26q%3D%23%E5%85%AC%E4%B8%BB%E5%B0%8F%E5%A6%B9%E5%85%84%E5%A6%B9%E7%AF%87%23%26t%3D&extparam=ai_model%3Ddeepseek%26ori_ai_title%3D%E5%8F%82%E8%80%83%E5%8D%9A%E6%96%87%26material_version%3D1761918239",
+      "abtest_info": {
+        "chat_entrance": 1
+      },
+      "version": "2025-10-31 21:43:59.013999-6291",
+      "mid_list": null,
+      "comment_info": {},
+      "page_id": "232964bbd6718c96e043a89d84cbdd281cd4ee",
+      "model": "deepseek",
+      "query": "#公主小妹兄妹篇#",
+      "analysis_time": 1761918327,
+      "loop_times": 200,
+      "ext_show": {},
+      "cot": 1,
+      "user_info": {},
+      "share_text": "#公主小妹兄妹篇#的相关内容，来智搜看看",
+      "zs_risk_control": {
+        "think_text_close": 0,
+        "land_button_close": 0
+      },
+      "reliable_tips": "{\"gold_orange_v_mids\": [\"5227815768428089\", \"5227794241949290\", \"5227814556533900\", \"5227779403549983\", \"5227820131552960\", \"5227796386286354\", \"5227799758772071\", \"5227820830954360\", \"5227779403811921\", \"5227815206652669\", \"5227820072571331\", \"5227799386263684\", \"5227820356996179\", \"5227862048117472\", \"5227825360535987\", \"5227797702509533\", \"5227795950076253\", \"5227795786498633\", \"5197523610239085\", \"5166314910386596\", \"5213930856120689\", \"5218068754338529\", \"5132476554941365\"], \"gold_orange_v_ratio\": \"64%\", \"media_mids\": [], \"media_ratio\": \"0%\", \"verified_mids\": [\"5227819409345427\", \"5227808909692866\", \"5227814996934669\", \"5227818289991303\", \"5227775753457964\", \"5227885415892347\", \"5227794855363207\", \"5045836368579465\", \"5227826206740758\"], \"verified_ratio\": \"25%\", \"normal_mids\": [\"5227925852128853\", \"4953952787894010\", \"4505521740439208\", \"5123580918237355\"], \"normal_ratio\": \"11%\", \"ref_mid_rank\": {\"5227815768428089\": {\"rank\": 4}, \"5227819409345427\": {\"rank\": 28}, \"5227808909692866\": {\"rank\": 30}, \"5227794241949290\": {\"rank\": 17}, \"5227814556533900\": {\"rank\": 24}, \"5227779403549983\": {\"rank\": 37}, \"5227820131552960\": {\"rank\": 2}, \"5227796386286354\": {\"rank\": 9}, \"5227799758772071\": {\"rank\": 10}, \"5227820830954360\": {\"rank\": 15}, \"5227779403811921\": {\"rank\": 16}, \"5227815206652669\": {\"rank\": 7}, \"5227820072571331\": {\"rank\": 8}, \"5227799386263684\": {\"rank\": 11}, \"5227814996934669\": {\"rank\": 32}, \"5227925852128853\": {\"rank\": 20}, \"5227818289991303\": {\"rank\": 34}, \"5227775753457964\": {\"rank\": 1}, \"5227885415892347\": {\"rank\": 13}, \"5227794855363207\": {\"rank\": 21}, \"5227820356996179\": {\"rank\": 3}, \"4953952787894010\": {\"rank\": 5}, \"5227862048117472\": {\"rank\": 12}, \"5227825360535987\": {\"rank\": 14}, \"5227797702509533\": {\"rank\": 18}, \"5227795950076253\": {\"rank\": 19}, \"5227795786498633\": {\"rank\": 22}, \"5045836368579465\": {\"rank\": 23}, \"4505521740439208\": {\"rank\": 25}, \"5197523610239085\": {\"rank\": 26}, \"5166314910386596\": {\"rank\": 27}, \"5123580918237355\": {\"rank\": 29}, \"5227826206740758\": {\"rank\": 31}, \"5213930856120689\": {\"rank\": 33}, \"5218068754338529\": {\"rank\": 35}, \"5132476554941365\": {\"rank\": 36}}}",
+      "qs_status": 0,
+      "short_url": "http://t.cn/AXA5tr3K",
+      "unify_md5": "d89ae260a74ae67d06ca73ebc85c33a8",
+      "reference_num": 36,
+      "show_ctrl": {
+        "quote": {}
+      },
+      "link_list": [
+        "sinaweibo://detail?mblogid=5227775753457964",
+        "sinaweibo://detail?mblogid=5227820131552960",
+        "sinaweibo://detail?mblogid=5227820356996179",
+        "sinaweibo://detail?mblogid=5227815768428089",
+        "sinaweibo://detail?mblogid=4953952787894010",
+        "historyweibo://5227775753457964",
+        "sinaweibo://detail?mblogid=5227815206652669",
+        "sinaweibo://detail?mblogid=5227820072571331",
+        "sinaweibo://detail?mblogid=5227796386286354",
+        "sinaweibo://detail?mblogid=5227799758772071",
+        "sinaweibo://detail?mblogid=5227799386263684",
+        "sinaweibo://detail?mblogid=5227862048117472",
+        "sinaweibo://detail?mblogid=5227885415892347",
+        "sinaweibo://detail?mblogid=5227825360535987",
+        "sinaweibo://detail?mblogid=5227820830954360",
+        "sinaweibo://detail?mblogid=5227779403811921",
+        "sinaweibo://detail?mblogid=5227794241949290",
+        "sinaweibo://detail?mblogid=5227797702509533",
+        "sinaweibo://detail?mblogid=5227795950076253",
+        "sinaweibo://detail?mblogid=5227925852128853",
+        "sinaweibo://detail?mblogid=5227794855363207",
+        "sinaweibo://detail?mblogid=5227795786498633",
+        "sinaweibo://detail?mblogid=5045836368579465",
+        "sinaweibo://detail?mblogid=5227814556533900",
+        "sinaweibo://detail?mblogid=4505521740439208",
+        "sinaweibo://detail?mblogid=5197523610239085",
+        "sinaweibo://detail?mblogid=5166314910386596",
+        "sinaweibo://detail?mblogid=5227819409345427",
+        "sinaweibo://detail?mblogid=5123580918237355",
+        "sinaweibo://detail?mblogid=5227808909692866",
+        "sinaweibo://detail?mblogid=5227826206740758",
+        "sinaweibo://detail?mblogid=5227814996934669",
+        "sinaweibo://detail?mblogid=5213930856120689",
+        "sinaweibo://detail?mblogid=5227818289991303",
+        "sinaweibo://detail?mblogid=5218068754338529",
+        "sinaweibo://detail?mblogid=5132476554941365",
+        "sinaweibo://detail?mblogid=5227779403549983",
+        "https://m.toutiao.com/w/1847481058595972/"
+      ]
+    }
+  },
+  "links": [
+    "sinaweibo://detail?mblogid=5227775753457964",
+    "sinaweibo://detail?mblogid=5227820131552960",
+    "sinaweibo://detail?mblogid=5227820356996179",
+    "sinaweibo://detail?mblogid=5227815768428089",
+    "sinaweibo://detail?mblogid=4953952787894010",
+    "historyweibo://5227775753457964",
+    "sinaweibo://detail?mblogid=5227815206652669",
+    "sinaweibo://detail?mblogid=5227820072571331",
+    "sinaweibo://detail?mblogid=5227796386286354",
+    "sinaweibo://detail?mblogid=5227799758772071",
+    "sinaweibo://detail?mblogid=5227799386263684",
+    "sinaweibo://detail?mblogid=5227862048117472",
+    "sinaweibo://detail?mblogid=5227885415892347",
+    "sinaweibo://detail?mblogid=5227825360535987",
+    "sinaweibo://detail?mblogid=5227820830954360",
+    "sinaweibo://detail?mblogid=5227779403811921",
+    "sinaweibo://detail?mblogid=5227794241949290",
+    "sinaweibo://detail?mblogid=5227797702509533",
+    "sinaweibo://detail?mblogid=5227795950076253",
+    "sinaweibo://detail?mblogid=5227925852128853",
+    "sinaweibo://detail?mblogid=5227794855363207",
+    "sinaweibo://detail?mblogid=5227795786498633",
+    "sinaweibo://detail?mblogid=5045836368579465",
+    "sinaweibo://detail?mblogid=5227814556533900",
+    "sinaweibo://detail?mblogid=4505521740439208",
+    "sinaweibo://detail?mblogid=5197523610239085",
+    "sinaweibo://detail?mblogid=5166314910386596",
+    "sinaweibo://detail?mblogid=5227819409345427",
+    "sinaweibo://detail?mblogid=5123580918237355",
+    "sinaweibo://detail?mblogid=5227808909692866",
+    "sinaweibo://detail?mblogid=5227826206740758",
+    "sinaweibo://detail?mblogid=5227814996934669",
+    "sinaweibo://detail?mblogid=5213930856120689",
+    "sinaweibo://detail?mblogid=5227818289991303",
+    "sinaweibo://detail?mblogid=5218068754338529",
+    "sinaweibo://detail?mblogid=5132476554941365",
+    "sinaweibo://detail?mblogid=5227779403549983",
+    "https://m.toutiao.com/w/1847481058595972/"
+  ],
+  "media": [
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/008CHjBwly1i6ujdc0y1xj31hc0u0410.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/008CHjBwly1i6ujdc0y1xj31hc0u0410.jpg",
+      "alt": "左凌峰小学生",
+      "width": 1080,
+      "height": 1920,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/008CHjBwly1i6ujdc0y1xj31hc0u0410.jpg"
+      ],
+      "user": "左凌峰小学生"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/00237iRply1i6vjvd4zumj60u02qh1bf02.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/00237iRply1i6vjvd4zumj60u02qh1bf02.jpg",
+      "alt": "新浪综艺",
+      "width": 3545,
+      "height": 1080,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/00237iRply1i6vjvd4zumj60u02qh1bf02.jpg"
+      ],
+      "user": "新浪综艺"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/006ZRuNlly1i6vio46m19j30hs0a0aan.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/006ZRuNlly1i6vio46m19j30hs0a0aan.jpg",
+      "alt": "你好来一桶旺仔",
+      "width": 360,
+      "height": 640,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/006ZRuNlly1i6vio46m19j30hs0a0aan.jpg"
+      ],
+      "user": "你好来一桶旺仔"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/006ymplKly1i6vhj6q58rj32yo1o0e83.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/006ymplKly1i6vhj6q58rj32yo1o0e83.jpg",
+      "alt": "演员马旭东",
+      "width": 2160,
+      "height": 3840,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/006ymplKly1i6vhj6q58rj32yo1o0e83.jpg"
+      ],
+      "user": "演员马旭东"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/008CHjBwly1i6ujdfofxnj31hc0u00w7.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/008CHjBwly1i6ujdfofxnj31hc0u00w7.jpg",
+      "alt": "张维伊",
+      "width": 1080,
+      "height": 1920,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/008CHjBwly1i6ujdfofxnj31hc0u00w7.jpg"
+      ],
+      "user": "张维伊"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/007bn3Tnly1i6vjdkg7evj31hc0u0ad8.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/007bn3Tnly1i6vjdkg7evj31hc0u0ad8.jpg",
+      "alt": "羊肉泡馍加个剧",
+      "width": 1080,
+      "height": 1920,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/007bn3Tnly1i6vjdkg7evj31hc0u0ad8.jpg"
+      ],
+      "user": "羊肉泡馍加个剧"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/75a2f8adly1i6vjy57hlgj20u01hcacf.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/75a2f8adly1i6vjy57hlgj20u01hcacf.jpg",
+      "alt": "我是鑫仔不知悔改",
+      "width": 1920,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/75a2f8adly1i6vjy57hlgj20u01hcacf.jpg"
+      ],
+      "user": "我是鑫仔不知悔改"
+    }
+  ],
+  "html_path": "data/aicard/hourly/2025-10-31/16/topic-d89ae260.html"
+}

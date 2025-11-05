@@ -1,0 +1,86 @@
+{
+  "meta": {
+    "query": "#继续暂停实施24%的对美加征关税税率#",
+    "status_code": 200,
+    "fetched_at": "2025-11-05T13:36:39+08:00",
+    "response": {
+      "model": "deepseek_stream",
+      "cot": 1,
+      "wenda": {
+        "forward_gen": 0
+      },
+      "qs_status_info": "{\"qs_q_status\":256,\"qs_c_status\":8388608,\"qs_r_status\":0,\"qs_status\":0,\"ab_lab\":{},\"qs_u_status\":0}",
+      "qs_status": 0,
+      "analysis_time": 1762318868,
+      "current_time": 1762321000,
+      "msg": "<think><br>嗯，用户提供了一个关于中美关税政策的查询，要求解释“继续暂停实施24%的对美加征关税税率”的具体情况。我看到了很多搜索结果，需要仔细分析这些信息。<br><br>用户给的搜索结果里有两个来自媒体的微博内容。第一个是央视新闻在2025年11月5日发布的，直接与用户查询日期相关；另一个是新京报8月12日发布的较早消息。显然央视新闻的时效性更强，应该作为主要依据。<br><br>从央视新闻内容看，这次关税调整有几个关键点：将24%的关税税率暂停延长一年（从2025年11月10日13:01开始），同时保留10%的关税税率。这是中美经贸磋商成果的一部分，美方也做出了相应承诺。<br><br>新京报那条虽然时效性较差，但提供了背景信息：8月份时已经有过一次90天的暂停延期，说明这种关税调整是分阶段实施的。这可以帮助用户理解政策延续性。<br><br>在组织回答时，会重点突出四个核心信息：实施日期、延长时长、保留税率和双向调整性质。考虑用分段式结构呈现，每部分明确标注引用来源。准备强调“一年”“10%”等关键数字，同时注明政策的法律依据是国务院关税税则委员会公告。<br><br>特别注意不添加主观评论，只陈述搜索结果中的事实。由于全部信息来自权威媒体账号，可信度较高，不需要额外风险提示。回答语言会简练明确，避免复杂术语。<br><br></think><br>以下是关于中国暂停实施24%对美加征关税税率的详细说明：<br>### 1. **最新调整内容**  <br>自**2025年11月10日13时01分起**，中国对原产于美国的进口商品加征关税措施进行以下调整：  <br>- **继续暂停实施24%的加征关税税率**，暂停期限为一年。  <br>- **保留10%的加征关税税率**不变。```wbCustomBlock{\"type\": \"quoted\", \"index\": 4, \"data\": {\"num\": [1], \"version\": 2, \"quote_list\": [{\"name\": \"央视新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5229597383458979\", \"index\": 1, \"label\": \"大v\"}], \"name\": \"央视新闻\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.690.690.50/002TLsr9ly8i653ifvwbtj60j60j6aai02.jpg?KID=imgbed,tva&Expires=1762329641&ssig=391gjUDZSd\", \"scheme\": \"sinaweibo://detail?mblogid=5229597383458979\", \"vType\": 3}}```<br>### 2. **政策背景与依据**  <br>此次调整是**中美经贸磋商成果**的具体落实。双方共识包括：  <br>- 美方取消针对中国商品（含港澳地区）的10%“芬太尼关税”；  <br>- 美方暂停24%对等关税一年；  <br>- 中方相应调整反制措施，并延长部分关税排除措施。```wbCustomBlock{\"type\": \"quoted\", \"index\": 8, \"data\": {\"num\": [1], \"version\": 2, \"quote_list\": [{\"name\": \"央视新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5229597383458979\", \"index\": 1, \"label\": \"\"}]}}```<br>### 3. **历史调整脉络**  <br>- **2025年8月12日**：中国曾暂停24%关税90天（至11月10日），同时保留10%税率。```wbCustomBlock{\"type\": \"quoted\", \"index\": 10, \"data\": {\"num\": [2], \"version\": 2, \"quote_list\": [{\"name\": \"新京报\", \"scheme\": \"sinaweibo://detail?mblogid=5198741904556308\", \"index\": 2, \"label\": \"大v\"}], \"name\": \"新京报\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.512.512.50/001Ngxkily8h8vm7jc1igj60e80e8q3a02.jpg?KID=imgbed,tva&Expires=1762329641&ssig=mAO4JBBNuy\", \"scheme\": \"sinaweibo://detail?mblogid=5198741904556308\", \"vType\": 3}}```  <br>- **本次调整**将暂停期限从90天延长至一年，体现双方磋商的延续性。<br>### 4. **实施主体与法律依据**  <br>国务院关税税则委员会依据《中华人民共和国关税法》《对外贸易法》等法律法规及国际法基本原则，经国务院批准后发布公告执行。```wbCustomBlock{\"type\": \"quoted\", \"index\": 12, \"data\": {\"num\": [1, 2], \"version\": 2, \"quote_list\": [{\"name\": \"央视新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5229597383458979\", \"index\": 1, \"label\": \"\"}, {\"name\": \"新京报\", \"scheme\": \"sinaweibo://detail?mblogid=5198741904556308\", \"index\": 2, \"label\": \"\"}]}}```<br>### 关键时间节点总结  <br>| 日期                | 事件概要                                |  <br>|---------------------|----------------------------------------|  <br>| **2025年8月12日**   | 暂停24%关税90天，保留10%关税        |  <br>| **2025年11月10日**  | 24%关税暂停期延长一年，10%关税维持 |<br><br>```wbCustomBlock{\"type\": \"quoted\", \"index\": 13, \"data\": {\"num\": [1, 2], \"version\": 2, \"quote_list\": [{\"name\": \"央视新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5229597383458979\", \"index\": 1, \"label\": \"\"}, {\"name\": \"新京报\", \"scheme\": \"sinaweibo://detail?mblogid=5198741904556308\", \"index\": 2, \"label\": \"\"}]}}```  <br><br>上述调整旨在平衡双边贸易关系，后续进展需关注两国政策联动及公告执行情况。<br>",
+      "user_info": {},
+      "unify_md5": "2460ddf28b8331c3bc57dae5e68a4b95",
+      "page_id": "2329640ed62330d37e25b82930b9de853024af",
+      "ext_show": {},
+      "query_category": "Ip",
+      "status_stage": 4,
+      "link_list": [
+        "sinaweibo://detail?mblogid=5229597383458979",
+        "sinaweibo://detail?mblogid=5198741904556308"
+      ],
+      "loop_times": 200,
+      "top_quote_list": {},
+      "card_multimodal": {},
+      "share_card_multimodal": {},
+      "basemodel": "实验组4",
+      "profile_image_url": "",
+      "q_attr": {
+        "comment_from_type": "",
+        "from_uid": "6117651366",
+        "mid": "",
+        "from_request_id": "",
+        "reply_cid": ""
+      },
+      "status": 2,
+      "version": "2025-11-05 13:00:40.177999-3274",
+      "share_text": "#继续暂停实施24的对美加征关税税率#的相关内容，来智搜看看",
+      "comment_info": {},
+      "scheme": "sinaweibo://cardlist?containerid=100103type%3D225%26q%3D%23%E7%BB%A7%E7%BB%AD%E6%9A%82%E5%81%9C%E5%AE%9E%E6%96%BD24%E7%9A%84%E5%AF%B9%E7%BE%8E%E5%8A%A0%E5%BE%81%E5%85%B3%E7%A8%8E%E7%A8%8E%E7%8E%87%23%26t%3D&extparam=ai_model%3Ddeepseek_stream%26ori_ai_title%3D%E5%8F%82%E8%80%83%E5%8D%9A%E6%96%87%26material_version%3D1762318840",
+      "short_url": "http://t.cn/AXAQT25O",
+      "share_info": {
+        "unify_md5": "2460ddf28b8331c3bc57dae5e68a4b95",
+        "page_id": "2329640ed62330d37e25b82930b9de853024af",
+        "url": "http://t.cn/AXAQmzap",
+        "comment_content": "",
+        "tips": "#继续暂停实施24的对美加征关税税率#的相关内容，来智搜看看",
+        "display_name": "#继续暂停实施24的对美加征关税税率#",
+        "status": 3
+      },
+      "query_field": "12",
+      "chat_status_stage": 4,
+      "zs_risk_control": {
+        "ban_chat_enterance": 1,
+        "land_button_close": 0,
+        "think_text_close": 0
+      },
+      "reference_num": 2,
+      "query": "#继续暂停实施24的对美加征关税税率#",
+      "news_analyze": {},
+      "reliable_tips": "{\"gold_orange_v_mids\": [], \"gold_orange_v_ratio\": \"0%\", \"media_mids\": [\"5229597383458979\", \"5198741904556308\"], \"media_ratio\": \"100%\", \"verified_mids\": [], \"verified_ratio\": \"0%\", \"normal_mids\": [], \"normal_ratio\": \"0%\", \"ref_mid_rank\": {\"5229597383458979\": {\"rank\": 1}, \"5198741904556308\": {\"rank\": 2}}}",
+      "mid_list": null,
+      "msg_format": "markdown",
+      "show_ctrl": {
+        "quote": {}
+      },
+      "sorted_material_list": null,
+      "ab_suffix": "default",
+      "abtest_info": {
+        "chat_entrance": 1
+      },
+      "msg_json": "{}",
+      "uid": ""
+    }
+  },
+  "links": [
+    "sinaweibo://detail?mblogid=5229597383458979",
+    "sinaweibo://detail?mblogid=5198741904556308"
+  ],
+  "media": [],
+  "html_path": "data/aicard/hourly/2025-11-05/13/24.html"
+}

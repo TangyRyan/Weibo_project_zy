@@ -1,0 +1,360 @@
+{
+  "meta": {
+    "query": "#神21航天员亮相#",
+    "status_code": 200,
+    "fetched_at": "2025-11-01T06:38:00+08:00",
+    "response": {
+      "profile_image_url": "",
+      "status": 2,
+      "query_field": "56",
+      "abtest_info": {
+        "chat_entrance": 1
+      },
+      "current_time": 1761950280,
+      "status_stage": 4,
+      "link_list": [
+        "sinaweibo://detail?mblogid=5227913305916906",
+        "sinaweibo://detail?mblogid=5227912568767096",
+        "sinaweibo://detail?mblogid=5227374804469200",
+        "sinaweibo://detail?mblogid=5227407558314327",
+        "sinaweibo://detail?mblogid=5227957387797158",
+        "sinaweibo://detail?mblogid=5227406962202530",
+        "sinaweibo://detail?mblogid=5227412406143347",
+        "sinaweibo://detail?mblogid=5227929361451212",
+        "sinaweibo://detail?mblogid=5227424205243771",
+        "sinaweibo://detail?mblogid=5227935153784811",
+        "sinaweibo://detail?mblogid=5227947574434430",
+        "sinaweibo://detail?mblogid=4648684819582222",
+        "sinaweibo://detail?mblogid=5227546069177208",
+        "sinaweibo://detail?mblogid=5227512793924765",
+        "sinaweibo://detail?mblogid=5227402419767307",
+        "historyweibo://5227405561826935",
+        "historyweibo://5227913305916906",
+        "historyweibo://5227913411565256",
+        "sinaweibo://detail?mblogid=5227921045980402",
+        "sinaweibo://detail?mblogid=5227957994129284",
+        "sinaweibo://detail?mblogid=5227960260888568",
+        "sinaweibo://detail?mblogid=5227546683638494",
+        "sinaweibo://detail?mblogid=5227529553318267",
+        "sinaweibo://detail?mblogid=5227912515292696",
+        "sinaweibo://detail?mblogid=5227913441187847",
+        "sinaweibo://detail?mblogid=5227950396146945",
+        "sinaweibo://detail?mblogid=5227923029361517",
+        "sinaweibo://detail?mblogid=5227928178923256",
+        "sinaweibo://detail?mblogid=5227756754570260",
+        "sinaweibo://detail?mblogid=5227938916341104",
+        "sinaweibo://detail?mblogid=5227980947458173",
+        "sinaweibo://detail?mblogid=5227940407154009",
+        "sinaweibo://detail?mblogid=5227951410908353",
+        "sinaweibo://detail?mblogid=5227412469319416",
+        "sinaweibo://detail?mblogid=5227404525568641",
+        "sinaweibo://detail?mblogid=5227407906964899",
+        "sinaweibo://detail?mblogid=5227924387007501",
+        "sinaweibo://detail?mblogid=5227941575263942",
+        "sinaweibo://detail?mblogid=5227409773429380",
+        "sinaweibo://detail?mblogid=5227423929206651",
+        "sinaweibo://detail?mblogid=5227935178949910"
+      ],
+      "top_quote_list": {},
+      "page_id": "232964f67737dcdc16bf19b210901dd1c977ac",
+      "share_card_multimodal": {
+        "scheme": "sinaweibo://video/vvs?mid=5227924387007501&multi_paragraph=1&multi_count=0",
+        "cur_mid": "5227924387007501",
+        "h": 1072,
+        "user_name": "观察者网",
+        "vtype": 3,
+        "user_avatar": "https://tvax3.sinaimg.cn/crop.6.8.591.591.50/707e96d5ly8h8vg9v0hpjj20go0gowf6.jpg?KID=imgbed,tva&Expires=1761960783&ssig=LH65Jh%2BR45",
+        "img": "http://wx3.sinaimg.cn/middle/002TLsr9ly1i6vvbka2mxj61gx0tsu0x02.jpg",
+        "video_url": "https://video.weibo.com/show?fid=1034:5227914007085121",
+        "hit_score_new": 77.539062,
+        "hit_score_final": 72.923431,
+        "doc_score": 3621,
+        "img_pid": "002TLsr9ly1i6vvbka2mxj61gx0tsu0x02",
+        "w": 1905,
+        "click_rate": 0.11688311688312,
+        "type": "v"
+      },
+      "unify_md5": "e6b117d33ea3b6714a17cf2071a68874",
+      "model": "deepseek",
+      "cot": 1,
+      "analysis_time": 1761950074,
+      "uid": "",
+      "sorted_material_list": null,
+      "q_attr": {
+        "from_request_id": "1761949982920",
+        "reply_cid": "",
+        "comment_from_type": "",
+        "mid": "",
+        "from_uid": "5828163414"
+      },
+      "qs_status": 0,
+      "chat_status_stage": 1,
+      "news_analyze": {},
+      "reliable_tips": "{\"gold_orange_v_mids\": [\"5227512793924765\", \"5227938916341104\", \"5227957994129284\", \"5227921045980402\", \"5227928178923256\", \"5227980947458173\", \"5227941575263942\", \"5227409773429380\", \"5227423929206651\"], \"gold_orange_v_ratio\": \"24%\", \"media_mids\": [\"5227374804469200\", \"5227407558314327\", \"5227947574434430\", \"5227546069177208\", \"5227412406143347\", \"5227407906964899\", \"5227913305916906\", \"5227923029361517\", \"5227402419767307\", \"5227940407154009\", \"5227929361451212\", \"5227529553318267\", \"5227951410908353\", \"5227912568767096\", \"5227957387797158\", \"4648684819582222\", \"5227960260888568\", \"5227546683638494\", \"5227912515292696\", \"5227913441187847\", \"5227404525568641\"], \"media_ratio\": \"55%\", \"verified_mids\": [\"5227424205243771\", \"5227924387007501\", \"5227950396146945\", \"5227406962202530\", \"5227935153784811\", \"5227756754570260\", \"5227412469319416\", \"5227935178949910\"], \"verified_ratio\": \"21%\", \"normal_mids\": [], \"normal_ratio\": \"0%\", \"ref_mid_rank\": {\"5227374804469200\": {\"rank\": 3}, \"5227424205243771\": {\"rank\": 9}, \"5227924387007501\": {\"rank\": 37}, \"5227407558314327\": {\"rank\": 4}, \"5227947574434430\": {\"rank\": 11}, \"5227546069177208\": {\"rank\": 13}, \"5227412406143347\": {\"rank\": 7}, \"5227407906964899\": {\"rank\": 36}, \"5227913305916906\": {\"rank\": 1}, \"5227923029361517\": {\"rank\": 27}, \"5227402419767307\": {\"rank\": 15}, \"5227940407154009\": {\"rank\": 32}, \"5227950396146945\": {\"rank\": 26}, \"5227929361451212\": {\"rank\": 8}, \"5227529553318267\": {\"rank\": 23}, \"5227512793924765\": {\"rank\": 14}, \"5227938916341104\": {\"rank\": 30}, \"5227957994129284\": {\"rank\": 20}, \"5227951410908353\": {\"rank\": 33}, \"5227912568767096\": {\"rank\": 2}, \"5227957387797158\": {\"rank\": 5}, \"5227406962202530\": {\"rank\": 6}, \"5227935153784811\": {\"rank\": 10}, \"4648684819582222\": {\"rank\": 12}, \"5227921045980402\": {\"rank\": 19}, \"5227960260888568\": {\"rank\": 21}, \"5227546683638494\": {\"rank\": 22}, \"5227912515292696\": {\"rank\": 24}, \"5227913441187847\": {\"rank\": 25}, \"5227928178923256\": {\"rank\": 28}, \"5227756754570260\": {\"rank\": 29}, \"5227980947458173\": {\"rank\": 31}, \"5227412469319416\": {\"rank\": 34}, \"5227404525568641\": {\"rank\": 35}, \"5227941575263942\": {\"rank\": 38}, \"5227409773429380\": {\"rank\": 39}, \"5227423929206651\": {\"rank\": 40}, \"5227935178949910\": {\"rank\": 41}}}",
+      "version": "2025-11-01 06:33:03.007999-7964",
+      "basemodel": "实验组9",
+      "query_category": "",
+      "wenda": {
+        "forward_gen": 0
+      },
+      "reference_num": 38,
+      "ab_suffix": "default",
+      "share_text": "#神21航天员亮相#的相关内容，来智搜看看",
+      "short_url": "http://t.cn/AXAyTHfC",
+      "card_multimodal": {
+        "type": "mediablock",
+        "data": [
+          {
+            "scheme": "sinaweibo://video/vvs?mid=5227924387007501&multi_paragraph=1&multi_count=0",
+            "cur_mid": "5227924387007501",
+            "h": 1072,
+            "user_name": "观察者网",
+            "vtype": 3,
+            "user_avatar": "https://tvax3.sinaimg.cn/crop.6.8.591.591.50/707e96d5ly8h8vg9v0hpjj20go0gowf6.jpg?KID=imgbed,tva&Expires=1761960783&ssig=LH65Jh%2BR45",
+            "img": "http://wx3.sinaimg.cn/middle/002TLsr9ly1i6vvbka2mxj61gx0tsu0x02.jpg",
+            "video_url": "https://video.weibo.com/show?fid=1034:5227914007085121",
+            "hit_score_new": 77.539062,
+            "hit_score_final": 72.923431,
+            "doc_score": 3621,
+            "img_pid": "002TLsr9ly1i6vvbka2mxj61gx0tsu0x02",
+            "w": 1905,
+            "click_rate": 0.11688311688312,
+            "type": "v"
+          },
+          {
+            "scheme": "sinaweibo://video/vvs?mid=5227407558314327&multi_paragraph=1&multi_count=1",
+            "cur_mid": "5227407558314327",
+            "h": 1080,
+            "user_name": "央视新闻",
+            "vtype": 3,
+            "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.690.690.50/002TLsr9ly8i653ifvwbtj60j60j6aai02.jpg?KID=imgbed,tva&Expires=1761960783&ssig=azY8NIKMMR",
+            "img": "http://wx3.sinaimg.cn/middle/002TLsr9ly1i6u8poi6psj61hc0u0jvw02.jpg",
+            "video_url": "https://video.weibo.com/show?fid=1034:5227408727670803",
+            "hit_score_new": 60.15625,
+            "hit_score_final": 62.493748,
+            "doc_score": 4664,
+            "img_pid": "002TLsr9ly1i6u8poi6psj61hc0u0jvw02",
+            "w": 1920,
+            "click_rate": 0.10174007160103,
+            "type": "v"
+          },
+          {
+            "scheme": "sinaweibo://multimedia?mix_mid=5227424205243771&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=1&multi_count=2",
+            "cur_mid": "5227424205243771",
+            "h": 2002,
+            "user_name": "上海建桥学院微博协会",
+            "vtype": 4,
+            "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/94848de2ly8h8w94g383rj20u00u0mzn.jpg?KID=imgbed,tva&Expires=1761960783&ssig=IVGwlvRBIQ",
+            "img": "http://wx1.sinaimg.cn/middle/94848de2gy1i6uahhp20bj20u01jmdzq.jpg",
+            "video_url": "",
+            "hit_score_new": 88.134766,
+            "hit_score_final": 78.880859,
+            "doc_score": 2700,
+            "img_pid": "94848de2gy1i6uahhp20bj20u01jmdzq",
+            "w": 1080,
+            "click_rate": 0.06,
+            "type": "p"
+          },
+          {
+            "scheme": "sinaweibo://video/vvs?mid=5227924387007501&multi_paragraph=1&multi_count=0",
+            "cur_mid": "5227924387007501",
+            "h": 1072,
+            "user_name": "观察者网",
+            "vtype": 3,
+            "user_avatar": "https://tvax3.sinaimg.cn/crop.6.8.591.591.50/707e96d5ly8h8vg9v0hpjj20go0gowf6.jpg?KID=imgbed,tva&Expires=1761960783&ssig=LH65Jh%2BR45",
+            "img": "http://wx3.sinaimg.cn/middle/002TLsr9ly1i6vvbka2mxj61gx0tsu0x02.jpg",
+            "video_url": "https://video.weibo.com/show?fid=1034:5227914007085121",
+            "hit_score_new": 77.539062,
+            "hit_score_final": 72.923431,
+            "doc_score": 3621,
+            "img_pid": "002TLsr9ly1i6vvbka2mxj61gx0tsu0x02",
+            "w": 1905,
+            "click_rate": 0.11688311688312,
+            "type": "v"
+          }
+        ]
+      },
+      "share_info": {
+        "comment_content": "",
+        "display_name": "#神21航天员亮相#",
+        "url": "http://t.cn/AXAy82JA",
+        "tips": "#神21航天员亮相#的相关内容，来智搜看看",
+        "status": 3,
+        "page_id": "232964f67737dcdc16bf19b210901dd1c977ac",
+        "unify_md5": "e6b117d33ea3b6714a17cf2071a68874"
+      },
+      "msg_json": "{}",
+      "scheme": "sinaweibo://cardlist?containerid=100103type%3D225%26q%3D%23%E7%A5%9E21%E8%88%AA%E5%A4%A9%E5%91%98%E4%BA%AE%E7%9B%B8%23%26t%3D&extparam=ai_model%3Ddeepseek%26ori_ai_title%3D%E5%8F%82%E8%80%83%E5%8D%9A%E6%96%87%26material_version%3D1761949983",
+      "comment_info": {},
+      "user_info": {},
+      "qs_status_info": "{\"qs_u_status\":0,\"qs_q_status\":0,\"ab_lab\":{},\"qs_c_status\":8388608,\"qs_status\":0,\"qs_r_status\":0}",
+      "loop_times": 200,
+      "msg": "<think><br>嗯，用户查询的是\"神21航天员亮相\"的相关信息。我需要从众多搜索结果中整理出最核心、最新鲜的内容。今天是2025年11月1日，正好是发射次日，时效性很强的新闻。<br><br>先看基本信息：乘组由张陆（指令长）、武飞（飞行工程师）、张洪章（载荷专家）组成。这里有个亮点——32岁的武飞刷新了中国执行飞天任务最年轻航天员的纪录。他的发言很有感染力，说\"越努力越幸运\"，还提到带家人画作出征。<br><br>出征仪式很有看点：10月31日20:48在酒泉举行，万人合唱《歌唱祖国》形成\"红色海洋\"。有个细节很温暖——张洪章进舱前偷偷比了\"OK\"手势，转运车的车牌写着\"万无一失\"。发射时间是当晚23:44，对接只要3.5小时创纪录。<br><br>科技含量很高：首次涵盖三类现役航天员，要完成27项实验，包括史上首次在太空养小鼠。张洪章戴眼镜上天还引发讨论，专家解释载荷专家允许轻度近视。历史巧合也动人——发射日恰逢钱学森逝世16周年。<br><br>民众反响热烈：甘肃群众寒夜挥国旗送行，#一人一句祝福神二十一#话题阅读量破3亿。张陆家乡湖南汉寿的乡亲更是在墙上插满国旗。<br><br>让我把这些亮点编织成流畅叙述。开头要抓人眼球，用\"32岁最年轻航天员\"和\"万人合唱\"的震撼场景切入。主体分四块：乘组档案、出征盛况、任务亮点、民众祝福。结尾升华到航天精神传承，正好呼应钱学森纪念日这个细节。<br><br>最后检查所有关键数据：武飞年龄、发射时间、对接时长、实验项目数都有至少两个信源交叉验证。媒体账号和大V账号的信息优先采用。<br><br></think><br>以下是关于神舟二十一号（神21）航天员亮相的核心信息梳理，综合最新官方发布及权威媒体报道内容：<br>### 🚀 **一、航天员乘组阵容** ```wbCustomBlock{\"type\": \"quoted\", \"index\": 3, \"data\": {\"num\": [3, 9, 37], \"version\": 2, \"quote_list\": [{\"name\": \"央视新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5227374804469200\", \"index\": 3, \"label\": \"大v\"}, {\"name\": \"上海建桥学院微博协会\", \"scheme\": \"sinaweibo://detail?mblogid=5227424205243771\", \"index\": 9, \"label\": \"\"}, {\"name\": \"观察者网\", \"scheme\": \"sinaweibo://detail?mblogid=5227924387007501\", \"index\": 37, \"label\": \"\"}], \"name\": \"央视新闻\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.690.690.50/002TLsr9ly8i653ifvwbtj60j60j6aai02.jpg?KID=imgbed,tva&Expires=1761960783&ssig=azY8NIKMMR\", \"scheme\": \"sinaweibo://detail?mblogid=5227374804469200\", \"vType\": 3}}```<br>1. **指令长张陆**  <br>   - **身份**：1976年生，航天驾驶员，陆军大校，曾执行神舟十五号任务并获“英雄航天员”称号。  <br>   - **角色**：本次以指令长身份带队，体现中国航天员梯队传承。<br><br>2. **飞行工程师武飞**  <br>   - **身份**：1993年生，陆军少校，刷新我国执行飞天任务最年轻航天员纪录（32岁）。  <br>   - **背景**：曾任航天科技集团工程师，强调“越努力越幸运”的信念，携带家人画作进入太空。```wbCustomBlock{\"type\": \"quoted\", \"index\": 9, \"data\": {\"num\": [4, 11], \"version\": 2, \"quote_list\": [{\"name\": \"今视频长天新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5227947574434430\", \"index\": 11, \"label\": \"大v\"}, {\"name\": \"央视新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5227407558314327\", \"index\": 4, \"label\": \"\"}], \"name\": \"今视频长天新闻\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.600.600.50/001pc7tEly8i1trdqpgroj60go0gogm502.jpg?KID=imgbed,tva&Expires=1761960783&ssig=ktF9sbJu%2Fd\", \"scheme\": \"sinaweibo://detail?mblogid=5227947574434430\", \"vType\": 3}}```<br><br>3. **载荷专家张洪章**  <br>   - **身份**：1986年生，中科院研究员，博士，首次飞天。  <br>   - **任务**：主导27项空间科学实验，包括**首次在轨饲养哺乳动物**（4只小鼠），研究失重环境对生物行为的影响。```wbCustomBlock{\"type\": \"quoted\", \"index\": 12, \"data\": {\"num\": [13], \"version\": 2, \"quote_list\": [{\"name\": \"北京时间\", \"scheme\": \"sinaweibo://detail?mblogid=5227546069177208\", \"index\": 13, \"label\": \"大v\"}], \"name\": \"北京时间\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.821.821.50/003gul7lly8h8vg84tqdwj60mt0mtmy302.jpg?KID=imgbed,tva&Expires=1761960783&ssig=PvTbrpuYd5\", \"scheme\": \"sinaweibo://detail?mblogid=5227546069177208\", \"vType\": 3}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5227924387007501&multi_paragraph=1&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.6.8.591.591.50/707e96d5ly8h8vg9v0hpjj20go0gowf6.jpg?KID=imgbed,tva&Expires=1761960783&ssig=LH65Jh%2BR45) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">观察者网</span><img src=\"http://wx3.sinaimg.cn/middle/002TLsr9ly1i6vvbka2mxj61gx0tsu0x02.jpg\" data-width=1072 data-height=1905></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5227407558314327&multi_paragraph=1&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.690.690.50/002TLsr9ly8i653ifvwbtj60j60j6aai02.jpg?KID=imgbed,tva&Expires=1761960783&ssig=azY8NIKMMR) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">央视新闻</span><img src=\"http://wx3.sinaimg.cn/middle/002TLsr9ly1i6u8poi6psj61hc0u0jvw02.jpg\" data-width=1080 data-height=1920></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5227424205243771&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=1&multi_count=2\"><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/94848de2ly8h8w94g383rj20u00u0mzn.jpg?KID=imgbed,tva&Expires=1761960783&ssig=IVGwlvRBIQ) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">上海建桥学院微博协会</span><img src=\"http://wx1.sinaimg.cn/middle/94848de2gy1i6uahhp20bj20u01jmdzq.jpg\" data-width=2002 data-height=1080></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5227546069177208&multi_paragraph=1&multi_count=3\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.821.821.50/003gul7lly8h8vg84tqdwj60mt0mtmy302.jpg?KID=imgbed,tva&Expires=1761960783&ssig=PvTbrpuYd5) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">北京时间</span><img src=\"http://wx1.sinaimg.cn/middle/003gul7lly1i6uogvv9roj60u01hcq5e02.jpg\" data-width=1920 data-height=1080></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5227947574434430&multi_paragraph=1&multi_count=4\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.600.600.50/001pc7tEly8i1trdqpgroj60go0gogm502.jpg?KID=imgbed,tva&Expires=1761960783&ssig=ktF9sbJu%2Fd) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">今视频长天新闻</span><img src=\"http://wx1.sinaimg.cn/middle/0033ImPzly1i6vgx8d339j61hc0u0tbr02.jpg\" data-width=1080 data-height=1920></div></media-block><br>### 🌟 **二、亮相仪式与出征盛况**  <br>1. **乘组亮相仪式**  <br>   - **时间/地点**：2025年10月30日于酒泉卫星发射中心问天阁举行。```wbCustomBlock{\"type\": \"quoted\", \"index\": 16, \"data\": {\"num\": [7], \"version\": 2, \"quote_list\": [{\"name\": \"北京时间\", \"scheme\": \"sinaweibo://detail?mblogid=5227412406143347\", \"index\": 7, \"label\": \"\"}]}}```  <br>   - **现场**：三人身着蓝色航天服与巨幅五星红旗同框，接受中外媒体采访。武飞作为最年轻航天员发言，称“将个人梦想融入祖国航天征程是时代赋予的最大幸运”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 17, \"data\": {\"num\": [4, 36], \"version\": 2, \"quote_list\": [{\"name\": \"中国日报\", \"scheme\": \"sinaweibo://detail?mblogid=5227407906964899\", \"index\": 36, \"label\": \"大v\"}, {\"name\": \"央视新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5227407558314327\", \"index\": 4, \"label\": \"\"}], \"name\": \"中国日报\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.640.640.50/001Oy5dFly8h8vgo0vtpoj60hs0hsweu02.jpg?KID=imgbed,tva&Expires=1761960783&ssig=P1qHBIo7xN\", \"scheme\": \"sinaweibo://detail?mblogid=5227407906964899\", \"vType\": 3}}```<br><br>2. **出征仪式**  <br>   - **时间**：10月31日20时48分。```wbCustomBlock{\"type\": \"quoted\", \"index\": 19, \"data\": {\"num\": [1, 27], \"version\": 2, \"quote_list\": [{\"name\": \"解放军报\", \"scheme\": \"sinaweibo://detail?mblogid=5227923029361517\", \"index\": 27, \"label\": \"大v\"}, {\"name\": \"央视新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5227913305916906\", \"index\": 1, \"label\": \"\"}], \"name\": \"解放军报\", \"img\": \"https://tvax3.sinaimg.cn/crop.12.21.1059.1059.50/002ujtFnly8h8vga88q7gj60u00u0juh02.jpg?KID=imgbed,tva&Expires=1761960783&ssig=fp4G%2FQKJKL\", \"scheme\": \"sinaweibo://detail?mblogid=5227923029361517\", \"vType\": 3}}```  <br>   - **场景**：万人合唱《歌唱祖国》，群众挥舞国旗形成“红色海洋”；航天员转运车升级为定制款，车牌标注“万无一失”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 20, \"data\": {\"num\": [15], \"version\": 2, \"quote_list\": [{\"name\": \"洪观新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5227402419767307\", \"index\": 15, \"label\": \"大v\"}], \"name\": \"洪观新闻\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.600.600.50/7e144d0ely8he0dt39f2sj20go0go75m.jpg?KID=imgbed,tva&Expires=1761960783&ssig=X6sR29UoYo\", \"scheme\": \"sinaweibo://detail?mblogid=5227402419767307\", \"vType\": 3}}```  <br>   - **细节**：张洪章进舱前比“OK”手势回应公众祝福。```wbCustomBlock{\"type\": \"quoted\", \"index\": 21, \"data\": {\"num\": [32], \"version\": 2, \"quote_list\": [{\"name\": \"新华网\", \"scheme\": \"sinaweibo://detail?mblogid=5227940407154009\", \"index\": 32, \"label\": \"大v\"}], \"name\": \"新华网\", \"img\": \"https://tvax3.sinaimg.cn/crop.8.11.119.119.50/0034c2ttly8h8vg8d8h2ij6046046q2t02.jpg?KID=imgbed,tva&Expires=1761960783&ssig=IIDHmonK%2Be\", \"scheme\": \"sinaweibo://detail?mblogid=5227940407154009\", \"vType\": 3}}```<br><br>3. **发射任务**  <br>   - **时间**：10月31日23时44分成功发射。```wbCustomBlock{\"type\": \"quoted\", \"index\": 23, \"data\": {\"num\": [9, 26], \"version\": 2, \"quote_list\": [{\"name\": \"观察者网\", \"scheme\": \"sinaweibo://detail?mblogid=5227950396146945\", \"index\": 26, \"label\": \"大v\"}, {\"name\": \"上海建桥学院微博协会\", \"scheme\": \"sinaweibo://detail?mblogid=5227424205243771\", \"index\": 9, \"label\": \"\"}], \"name\": \"观察者网\", \"img\": \"https://tvax3.sinaimg.cn/crop.6.8.591.591.50/707e96d5ly8h8vg9v0hpjj20go0gowf6.jpg?KID=imgbed,tva&Expires=1761960783&ssig=LH65Jh%2BR45\", \"scheme\": \"sinaweibo://detail?mblogid=5227950396146945\", \"vType\": 3}}```  <br>   - **对接技术**：入轨后仅3.5小时快速对接空间站，创载人飞船新纪录。```wbCustomBlock{\"type\": \"quoted\", \"index\": 24, \"data\": {\"num\": [8, 26], \"version\": 2, \"quote_list\": [{\"name\": \"大象新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5227929361451212\", \"index\": 8, \"label\": \"大v\"}, {\"name\": \"观察者网\", \"scheme\": \"sinaweibo://detail?mblogid=5227950396146945\", \"index\": 26, \"label\": \"\"}], \"name\": \"大象新闻\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/007YAdaely8hue6u20f9xj30u00u00ud.jpg?KID=imgbed,tva&Expires=1761960783&ssig=OMTusG0yuc\", \"scheme\": \"sinaweibo://detail?mblogid=5227929361451212\", \"vType\": 3}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5227407906964899&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=2&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.640.640.50/001Oy5dFly8h8vgo0vtpoj60hs0hsweu02.jpg?KID=imgbed,tva&Expires=1761960783&ssig=P1qHBIo7xN) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">中国日报</span><img src=\"http://wx1.sinaimg.cn/middle/001Oy5dFly1i6u8ga9i1cj60gb086wg202.jpg\" data-width=294 data-height=587></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5227412406143347&multi_paragraph=2&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.821.821.50/003gul7lly8h8vg84tqdwj60mt0mtmy302.jpg?KID=imgbed,tva&Expires=1761960783&ssig=PvTbrpuYd5) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">北京时间</span><img src=\"http://wx1.sinaimg.cn/middle/003gul7lly1i6u94i7e3xj60eb0j2tj702.jpg\" data-width=686 data-height=515></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5227402419767307&multi_paragraph=2&multi_count=2\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.600.600.50/7e144d0ely8he0dt39f2sj20go0go75m.jpg?KID=imgbed,tva&Expires=1761960783&ssig=X6sR29UoYo) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">洪观新闻</span><img src=\"http://wx2.sinaimg.cn/middle/003z5L7fly1i6u6u9ta3dj60zk0k0myu02.jpg\" data-width=720 data-height=1280></div></media-block><br>### 🔬 **三、任务突破与科学意义**  <br>1. **乘组结构创新**  <br>   - 首次覆盖**驾驶员、工程师、载荷专家**三类现役航天员，标志中国航天员体系全面成熟。```wbCustomBlock{\"type\": \"quoted\", \"index\": 28, \"data\": {\"num\": [9, 23], \"version\": 2, \"quote_list\": [{\"name\": \"人民日报\", \"scheme\": \"sinaweibo://detail?mblogid=5227529553318267\", \"index\": 23, \"label\": \"大v\"}, {\"name\": \"上海建桥学院微博协会\", \"scheme\": \"sinaweibo://detail?mblogid=5227424205243771\", \"index\": 9, \"label\": \"\"}], \"name\": \"人民日报\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.1018.1018.50/0033ImPzly8h8vgemh8kxj60sa0sadgw02.jpg?KID=imgbed,tva&Expires=1761960783&ssig=0kZBXKJIKa\", \"scheme\": \"sinaweibo://detail?mblogid=5227529553318267\", \"vType\": 3}}```<br><br>2. **科研亮点**  <br>   - **太空小鼠实验**：研究长期失重对哺乳动物生理的影响，为深空探测积累数据。```wbCustomBlock{\"type\": \"quoted\", \"index\": 30, \"data\": {\"num\": [13], \"version\": 2, \"quote_list\": [{\"name\": \"北京时间\", \"scheme\": \"sinaweibo://detail?mblogid=5227546069177208\", \"index\": 13, \"label\": \"\"}]}}```  <br>   - **锂离子电池验证**：测试太空环境下能源装置性能，推动深空技术升级。  <br>   - **个人物品**：张陆携带文房四宝和口琴，计划在太空创作；武飞准备“玩具蛋糕”为乘组成员庆生。```wbCustomBlock{\"type\": \"quoted\", \"index\": 32, \"data\": {\"num\": [11], \"version\": 2, \"quote_list\": [{\"name\": \"今视频长天新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5227947574434430\", \"index\": 11, \"label\": \"\"}]}}```<br><br>3. **历史传承**  <br>   - 发射日恰逢钱学森逝世16周年，任务标识融合古代浑天仪与现代轨道设计。  <br>   - 张陆从神舟十五号03号航天员成长为指令长，体现“薪火相传”精神。```wbCustomBlock{\"type\": \"quoted\", \"index\": 35, \"data\": {\"num\": [14], \"version\": 2, \"quote_list\": [{\"name\": \"兵道之魂\", \"scheme\": \"sinaweibo://detail?mblogid=5227512793924765\", \"index\": 14, \"label\": \"\"}], \"name\": \"兵道之魂\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.664.664.50/006QSl8Kly8gv4slyhp4uj60ig0ihdgs02.jpg?KID=imgbed,tva&Expires=1761960783&ssig=3oea%2Blo6tA\", \"scheme\": \"sinaweibo://detail?mblogid=5227512793924765\", \"vType\": 0}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5227512793924765&multi_paragraph=3&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.664.664.50/006QSl8Kly8gv4slyhp4uj60ig0ihdgs02.jpg?KID=imgbed,tva&Expires=1761960783&ssig=3oea%2Blo6tA) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">兵道之魂</span><img src=\"http://wx2.sinaimg.cn/middle/006QSl8Kly1i6ukmoz2eej30mi0u0777.jpg\" data-width=1080 data-height=810></div></media-block><br>### 💫 **四、民众反响与情感共鸣**  <br>- **全网互动**：话题#一人一句祝福神二十一#单日阅读量超3亿次，网友创作“柿柿如意”（谐音“事事”）等创意祝福。```wbCustomBlock{\"type\": \"quoted\", \"index\": 38, \"data\": {\"num\": [30], \"version\": 2, \"quote_list\": [{\"name\": \"素笺淡墨0807\", \"scheme\": \"sinaweibo://detail?mblogid=5227938916341104\", \"index\": 30, \"label\": \"\"}], \"name\": \"素笺淡墨0807\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/006NLtmXly8hcq5oor5a2j30u00u0772.jpg?KID=imgbed,tva&Expires=1761960783&ssig=7dfy3xBU9x\", \"scheme\": \"sinaweibo://detail?mblogid=5227938916341104\", \"vType\": 0}}```  <br>- **现场感动**：甘肃民众寒夜聚集街头挥国旗送行；张陆家乡湖南汉寿的乡亲自发在院落插满国旗。```wbCustomBlock{\"type\": \"quoted\", \"index\": 39, \"data\": {\"num\": [20, 33], \"version\": 2, \"quote_list\": [{\"name\": \"三湘都市报\", \"scheme\": \"sinaweibo://detail?mblogid=5227951410908353\", \"index\": 33, \"label\": \"\"}, {\"name\": \"南归孤夷\", \"scheme\": \"sinaweibo://detail?mblogid=5227957994129284\", \"index\": 20, \"label\": \"\"}], \"name\": \"三湘都市报\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.179.179.50/001R3oqEly8h8vg5q4wzdj604z04z3yf02.jpg?KID=imgbed,tva&Expires=1761960783&ssig=AN0V0zf7qE\", \"scheme\": \"sinaweibo://detail?mblogid=5227951410908353\", \"vType\": 3}}```  <br>- **国际关注**：巴基斯坦等国航天员选拔进程同步推进，彰显中国航天的开放合作。```wbCustomBlock{\"type\": \"quoted\", \"index\": 40, \"data\": {\"num\": [13], \"version\": 2, \"quote_list\": [{\"name\": \"北京时间\", \"scheme\": \"sinaweibo://detail?mblogid=5227546069177208\", \"index\": 13, \"label\": \"\"}]}}```<br>### ⭐ **结语**  <br>神舟二十一号任务以“砺箭”为名，三代航天员以年龄与专业的完美搭配，诠释了中国航天“自主创新、开放包容”的深层内核。从问天阁的国旗同框到3.5小时太空会师，每一步都凝聚着科技硬实力与人文软情怀的交响。正如武飞所言：“越努力越幸运”——这份幸运属于每一个仰望星空的中国人。星辰大海，永无止境！```wbCustomBlock{\"type\": \"quoted\", \"index\": 42, \"data\": {\"num\": [4], \"version\": 2, \"quote_list\": [{\"name\": \"央视新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5227407558314327\", \"index\": 4, \"label\": \"\"}]}}```<br>",
+      "zs_risk_control": {
+        "think_text_close": 0,
+        "land_button_close": 0
+      },
+      "ext_show": {},
+      "query": "#神21航天员亮相#",
+      "show_ctrl": {
+        "quote": {}
+      },
+      "msg_format": "markdown",
+      "mid_list": null
+    }
+  },
+  "links": [
+    "sinaweibo://detail?mblogid=5227913305916906",
+    "sinaweibo://detail?mblogid=5227912568767096",
+    "sinaweibo://detail?mblogid=5227374804469200",
+    "sinaweibo://detail?mblogid=5227407558314327",
+    "sinaweibo://detail?mblogid=5227957387797158",
+    "sinaweibo://detail?mblogid=5227406962202530",
+    "sinaweibo://detail?mblogid=5227412406143347",
+    "sinaweibo://detail?mblogid=5227929361451212",
+    "sinaweibo://detail?mblogid=5227424205243771",
+    "sinaweibo://detail?mblogid=5227935153784811",
+    "sinaweibo://detail?mblogid=5227947574434430",
+    "sinaweibo://detail?mblogid=4648684819582222",
+    "sinaweibo://detail?mblogid=5227546069177208",
+    "sinaweibo://detail?mblogid=5227512793924765",
+    "sinaweibo://detail?mblogid=5227402419767307",
+    "historyweibo://5227405561826935",
+    "historyweibo://5227913305916906",
+    "historyweibo://5227913411565256",
+    "sinaweibo://detail?mblogid=5227921045980402",
+    "sinaweibo://detail?mblogid=5227957994129284",
+    "sinaweibo://detail?mblogid=5227960260888568",
+    "sinaweibo://detail?mblogid=5227546683638494",
+    "sinaweibo://detail?mblogid=5227529553318267",
+    "sinaweibo://detail?mblogid=5227912515292696",
+    "sinaweibo://detail?mblogid=5227913441187847",
+    "sinaweibo://detail?mblogid=5227950396146945",
+    "sinaweibo://detail?mblogid=5227923029361517",
+    "sinaweibo://detail?mblogid=5227928178923256",
+    "sinaweibo://detail?mblogid=5227756754570260",
+    "sinaweibo://detail?mblogid=5227938916341104",
+    "sinaweibo://detail?mblogid=5227980947458173",
+    "sinaweibo://detail?mblogid=5227940407154009",
+    "sinaweibo://detail?mblogid=5227951410908353",
+    "sinaweibo://detail?mblogid=5227412469319416",
+    "sinaweibo://detail?mblogid=5227404525568641",
+    "sinaweibo://detail?mblogid=5227407906964899",
+    "sinaweibo://detail?mblogid=5227924387007501",
+    "sinaweibo://detail?mblogid=5227941575263942",
+    "sinaweibo://detail?mblogid=5227409773429380",
+    "sinaweibo://detail?mblogid=5227423929206651",
+    "sinaweibo://detail?mblogid=5227935178949910"
+  ],
+  "media": [
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/002TLsr9ly1i6vvbka2mxj61gx0tsu0x02.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/002TLsr9ly1i6vvbka2mxj61gx0tsu0x02.jpg",
+      "alt": "观察者网",
+      "width": 1072,
+      "height": 1905,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/002TLsr9ly1i6vvbka2mxj61gx0tsu0x02.jpg"
+      ],
+      "user": "观察者网"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/002TLsr9ly1i6u8poi6psj61hc0u0jvw02.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/002TLsr9ly1i6u8poi6psj61hc0u0jvw02.jpg",
+      "alt": "央视新闻",
+      "width": 1080,
+      "height": 1920,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/002TLsr9ly1i6u8poi6psj61hc0u0jvw02.jpg"
+      ],
+      "user": "央视新闻"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/94848de2gy1i6uahhp20bj20u01jmdzq.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/94848de2gy1i6uahhp20bj20u01jmdzq.jpg",
+      "alt": "上海建桥学院微博协会",
+      "width": 2002,
+      "height": 1080,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/94848de2gy1i6uahhp20bj20u01jmdzq.jpg"
+      ],
+      "user": "上海建桥学院微博协会"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/003gul7lly1i6uogvv9roj60u01hcq5e02.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/003gul7lly1i6uogvv9roj60u01hcq5e02.jpg",
+      "alt": "北京时间",
+      "width": 1920,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx4.sinaimg.cn/large/003gul7lly1i6uogvv9roj60u01hcq5e02.jpg"
+      ],
+      "user": "北京时间"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/0033ImPzly1i6vgx8d339j61hc0u0tbr02.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/0033ImPzly1i6vgx8d339j61hc0u0tbr02.jpg",
+      "alt": "今视频长天新闻",
+      "width": 1080,
+      "height": 1920,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/0033ImPzly1i6vgx8d339j61hc0u0tbr02.jpg"
+      ],
+      "user": "今视频长天新闻"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/001Oy5dFly1i6u8ga9i1cj60gb086wg202.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/001Oy5dFly1i6u8ga9i1cj60gb086wg202.jpg",
+      "alt": "中国日报",
+      "width": 294,
+      "height": 587,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/001Oy5dFly1i6u8ga9i1cj60gb086wg202.jpg"
+      ],
+      "user": "中国日报"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/003gul7lly1i6u94i7e3xj60eb0j2tj702.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/003gul7lly1i6u94i7e3xj60eb0j2tj702.jpg",
+      "alt": "北京时间",
+      "width": 686,
+      "height": 515,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/003gul7lly1i6u94i7e3xj60eb0j2tj702.jpg"
+      ],
+      "user": "北京时间"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/003z5L7fly1i6u6u9ta3dj60zk0k0myu02.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/003z5L7fly1i6u6u9ta3dj60zk0k0myu02.jpg",
+      "alt": "洪观新闻",
+      "width": 720,
+      "height": 1280,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/003z5L7fly1i6u6u9ta3dj60zk0k0myu02.jpg"
+      ],
+      "user": "洪观新闻"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/006QSl8Kly1i6ukmoz2eej30mi0u0777.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/006QSl8Kly1i6ukmoz2eej30mi0u0777.jpg",
+      "alt": "兵道之魂",
+      "width": 1080,
+      "height": 810,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/006QSl8Kly1i6ukmoz2eej30mi0u0777.jpg"
+      ],
+      "user": "兵道之魂"
+    }
+  ],
+  "html_path": "data/aicard/hourly/2025-11-01/06/21.html"
+}

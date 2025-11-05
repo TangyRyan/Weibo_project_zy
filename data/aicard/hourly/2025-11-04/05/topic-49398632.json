@@ -1,0 +1,301 @@
+{
+  "meta": {
+    "query": "#台湾省可以用高德导航了#",
+    "status_code": 200,
+    "fetched_at": "2025-11-04T05:30:21+08:00",
+    "response": {
+      "status": 2,
+      "share_text": "#台湾省可以用高德导航了#的相关内容，来智搜看看",
+      "sorted_material_list": null,
+      "uid": "",
+      "q_attr": {
+        "from_request_id": "1762205054846",
+        "reply_cid": "",
+        "comment_from_type": "",
+        "mid": "",
+        "from_uid": "2011554341"
+      },
+      "zs_risk_control": {
+        "think_text_close": 0,
+        "land_button_close": 0
+      },
+      "query": "#台湾省可以用高德导航了#",
+      "show_ctrl": {
+        "quote": {}
+      },
+      "analysis_time": 1762205175,
+      "wenda": {
+        "forward_gen": 0
+      },
+      "ext_show": {},
+      "msg": "<think><br>嗯，用户询问的是台湾省可以使用高德地图导航的消息，看起来对这则新闻的准确性和具体功能很关注。我先快速浏览所有搜索结果，发现核心信息源是歌手黄安2025年11月1日发的两条微博，他作为台湾居民实测了高德导航在台湾的可用性。这个信息被参考消息等多家媒体转发，说明事件真实可靠。<br><br>关于功能细节，黄安特别对比了高德和谷歌地图的体验差异：谷歌存在语音播报错误（如\"重庆北路\"读成\"众庆北路\"），而高德支持普通话标准播报和实时路况。更关键的是，搜索结果12提到高德在台湾的覆盖是分阶段实现的——2024年10月更新街道数据，2025年8月上线实时路况，10月底已有用户实测车道级导航。这说明黄安的发现是对现有功能的确认，并非突然上线。<br><br>技术层面值得展开分析。根据搜索结果5和14，高德的精准度依赖北斗系统，日均调用量达6000亿次，实现车道级定位；而地图标注完全遵循中国标准（如显示\"台湾省\"、取消\"海峡中线\"）。这些技术细节被大V账号\"森赛\"详细解读过，可信度高。<br><br>意外发现是搜索结果15和17提到的\"跨海大桥（拟建设）\"标识。虽然地图注明\"当前仅供查看\"，但用户从大陆任意城市输入\"台北\"都能看到这条规划路线，技术上已实现路径贯通。结合\"吉林一号\"卫星公布台湾高清影像的新闻，这些细节构成完整的技术主权表达。<br><br>文化共鸣点也很有意思。用户\"好大的奕\"提到台北街道命名（南京东路、广州街等）与高德地图结合时，产生\"一日走遍大江南北\"的奇妙体验。这与其说是导航功能，不如说是文化认同的数字化呈现，被人民日报海外版账号转载过。<br><br>需要提示风险的是：虽然导航覆盖显示技术能力，但搜索结果12明确指出\"不代表两岸通行政策已落地\"。部分网友期待\"自驾游宝岛\"的评论需理性看待，实际通行仍需政策支持。<br><br>最后检查时效性。所有结果集中在2025年11月1日至4日，其中12是系统整理的资料型结果，时效和完整性最佳，适合作为主要依据。其他媒体和大V的补充信息形成交叉验证，信息可靠性高。<br><br>考虑从\"核心事实-技术突破-文化意义-使用提示\"四维度组织答案，重点标出车道级导航、北斗系统、跨海大桥规划等硬核信息，避免过度解读政策层面。<br><br></think><br>以下是关于“台湾省可以用高德导航了”事件的综合整理与分析，结合最新信息及核心要点归纳如下：<br>### 🌟 **核心事件与功能确认**<br>1. **高德导航在台全面启用**  <br>   台湾艺人黄安于2025年11月1日实测发现，高德地图已在台湾省实现完整导航功能，覆盖全岛街道，提供与大陆完全一致的实时路况、车道级导航和卫星影像。他对比谷歌地图指出，高德修正了后者长期存在的语音错误（如“重庆北路”误读为“众庆北路”、“二段”读成“二吨”），且方向指引更符合本地习惯（如用“前后左右”替代“东南西北”）。```wbCustomBlock{\"type\": \"quoted\", \"index\": 4, \"data\": {\"num\": [2, 10, 14], \"version\": 2, \"quote_list\": [{\"name\": \"黄安\", \"scheme\": \"sinaweibo://detail?mblogid=5228070948831800\", \"index\": 2, \"label\": \"大v\"}, {\"name\": \"黄安\", \"scheme\": \"sinaweibo://detail?mblogid=5228124179796723\", \"index\": 10, \"label\": \"\"}, {\"name\": \"当年秦淮月\", \"scheme\": \"sinaweibo://detail?mblogid=5229048710299855\", \"index\": 14, \"label\": \"\"}], \"name\": \"黄安\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/002IsU5jly8hygqtufngoj60u00u00x802.jpg?KID=imgbed,tva&Expires=1762215856&ssig=6dxF4AikrR\", \"scheme\": \"sinaweibo://detail?mblogid=5228070948831800\", \"vType\": 0}}```<br><br>2. **功能覆盖时间线**  <br>   高德在台湾的服务并非突然上线，而是分阶段推进：<br>   - **2022年**：首次显示台湾街道级地图；  <br>   - **2024年**：支持路线查询；  <br>   - **2025年6月**：实测上线车道级导航，可标识红绿灯位置；  <br>   - **2025年11月**：黄安公开实测确认功能成熟。```wbCustomBlock{\"type\": \"quoted\", \"index\": 9, \"data\": {\"num\": [5, 14], \"version\": 2, \"quote_list\": [{\"name\": \"森赛\", \"scheme\": \"sinaweibo://detail?mblogid=5229064198555511\", \"index\": 5, \"label\": \"大v\"}, {\"name\": \"当年秦淮月\", \"scheme\": \"sinaweibo://detail?mblogid=5229048710299855\", \"index\": 14, \"label\": \"\"}], \"name\": \"森赛\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.996.996.50/4e938746ly8gmc6d9i1cvj20ro0rota7.jpg?KID=imgbed,tva&Expires=1762215856&ssig=9%2FtRPMDXoP\", \"scheme\": \"sinaweibo://detail?mblogid=5229064198555511\", \"vType\": 0}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5228124179796723&multi_paragraph=1&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/002IsU5jly8hygqtufngoj60u00u00x802.jpg?KID=imgbed,tva&Expires=1762215856&ssig=6dxF4AikrR) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">黄安</span><img src=\"http://wx2.sinaimg.cn/middle/002IsU5jly1i6wiv2gi2aj60u01hcwh202.jpg\" data-width=1920 data-height=1080></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5228070948831800&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=1\"><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/002IsU5jly8hygqtufngoj60u00u00x802.jpg?KID=imgbed,tva&Expires=1762215856&ssig=6dxF4AikrR) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">黄安</span><img src=\"http://wx4.sinaimg.cn/middle/002IsU5jgy1i6wcjifp9uj610o27oe0302.jpg\" data-width=2868 data-height=1320></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5229064198555511&multi_paragraph=1&multi_count=2\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.996.996.50/4e938746ly8gmc6d9i1cvj20ro0rota7.jpg?KID=imgbed,tva&Expires=1762215856&ssig=9%2FtRPMDXoP) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">森赛</span><img src=\"http://wx4.sinaimg.cn/middle/4e938746ly1i6ziu41qe8j20k00z80ty.jpg\" data-width=1268 data-height=720></div></media-block><br>### ⚙️ **技术优势与体验提升**<br>1. **北斗系统精准定位**  <br>   高德依托北斗卫星导航系统，日均调用量超6000亿次，实现**车道级精准导航**。台湾城市主干道、乡村小路甚至红绿灯倒计时均能精准标注，远超谷歌地图的本地数据精细度。```wbCustomBlock{\"type\": \"quoted\", \"index\": 12, \"data\": {\"num\": [5, 21], \"version\": 2, \"quote_list\": [{\"name\": \"晓川杂谈\", \"scheme\": \"sinaweibo://detail?mblogid=5229058347763099\", \"index\": 21, \"label\": \"大v\"}, {\"name\": \"森赛\", \"scheme\": \"sinaweibo://detail?mblogid=5229064198555511\", \"index\": 5, \"label\": \"\"}], \"name\": \"晓川杂谈\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.940.940.50/002Cc8iDly8i2rhh5vv20j60q40q4q5l02.jpg?KID=imgbed,tva&Expires=1762215856&ssig=A%2BZhoxmHWb\", \"scheme\": \"sinaweibo://detail?mblogid=5229058347763099\", \"vType\": 0}}```<br><br>2. **本土化优化**  <br>   - **语音播报**：采用标准普通话，修正谷歌的机械发音和地名误读；  <br>   - **文化细节**：台北街道以大陆城市命名（如南京东路、广州街），导航时强化“两岸同源”的认同感；  <br>   - **主权标注**：地图明确显示“台湾省”，取消“海峡中线”等争议标识。```wbCustomBlock{\"type\": \"quoted\", \"index\": 16, \"data\": {\"num\": [5, 18], \"version\": 2, \"quote_list\": [{\"name\": \"好大的奕\", \"scheme\": \"sinaweibo://detail?mblogid=5229060089186688\", \"index\": 18, \"label\": \"大v\"}, {\"name\": \"森赛\", \"scheme\": \"sinaweibo://detail?mblogid=5229064198555511\", \"index\": 5, \"label\": \"\"}], \"name\": \"好大的奕\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/006LuTCGly8i3pjvger6qj30u00u0myr.jpg?KID=imgbed,tva&Expires=1762215856&ssig=Vr09m65zkM\", \"scheme\": \"sinaweibo://detail?mblogid=5229060089186688\", \"vType\": 0}}```<br><br>3. **特色功能**  <br>   - **跨海通道规划**：高德已标注拟建的“平潭—新竹”跨海大桥（显示为“规划中”），支持从大陆任意城市输入“台北”生成完整路线；```wbCustomBlock{\"type\": \"quoted\", \"index\": 18, \"data\": {\"num\": [6, 15, 17], \"version\": 2, \"quote_list\": [{\"name\": \"小刚CSG\", \"scheme\": \"sinaweibo://detail?mblogid=5229058787902416\", \"index\": 6, \"label\": \"大v\"}, {\"name\": \"寰球镜头\", \"scheme\": \"sinaweibo://detail?mblogid=5228900552802509\", \"index\": 15, \"label\": \"\"}, {\"name\": \"大公文匯網\", \"scheme\": \"sinaweibo://detail?mblogid=5228927677372215\", \"index\": 17, \"label\": \"\"}], \"name\": \"小刚CSG\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/861c8161ly8i03s4bzdt5j20u00u0n01.jpg?KID=imgbed,tva&Expires=1762215856&ssig=jqmQwzwn3y\", \"scheme\": \"sinaweibo://detail?mblogid=5229058787902416\", \"vType\": 0}}```  <br>   - **景点覆盖**：台湾省内景点（如台北101、故宫博物院）、酒店、便利店均清晰标注，提供“必去榜单”等文旅服务。```wbCustomBlock{\"type\": \"quoted\", \"index\": 19, \"data\": {\"num\": [6, 19, 21], \"version\": 2, \"quote_list\": [{\"name\": \"云锂同学\", \"scheme\": \"sinaweibo://detail?mblogid=5229057778385619\", \"index\": 19, \"label\": \"大v\"}, {\"name\": \"小刚CSG\", \"scheme\": \"sinaweibo://detail?mblogid=5229058787902416\", \"index\": 6, \"label\": \"\"}, {\"name\": \"晓川杂谈\", \"scheme\": \"sinaweibo://detail?mblogid=5229058347763099\", \"index\": 21, \"label\": \"\"}], \"name\": \"云锂同学\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.600.600.50/9913d856ly8i53724dfmvj20go0goaas.jpg?KID=imgbed,tva&Expires=1762215856&ssig=9tFLgJru2L\", \"scheme\": \"sinaweibo://detail?mblogid=5229057778385619\", \"vType\": 0}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5229058787902416&from=search&content_show=1&mix_index=4&hide_index=1&multi_paragraph=2&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/861c8161ly8i03s4bzdt5j20u00u0n01.jpg?KID=imgbed,tva&Expires=1762215856&ssig=jqmQwzwn3y) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">小刚CSG</span><img src=\"http://wx3.sinaimg.cn/middle/861c8161gy1i6zi2yve0fj20uz1wwh8w.jpg\" data-width=2480 data-height=1115></div></media-block><br>### 🌍 **延伸意义与公众反响**<br>1. **技术连通象征团圆**  <br>   网友发现，高德导航的覆盖细节（如山西刀削面馆、福州干货店标注）让台湾街道“宛如大陆城市”，导航提示音被形容为“回家的路”。黄安调侃：“某些人喊‘别来’，结果每条街都被摸得一清二楚”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 22, \"data\": {\"num\": [2, 18, 25], \"version\": 2, \"quote_list\": [{\"name\": \"电车室长\", \"scheme\": \"sinaweibo://detail?mblogid=5229030374640199\", \"index\": 25, \"label\": \"大v\"}, {\"name\": \"黄安\", \"scheme\": \"sinaweibo://detail?mblogid=5228070948831800\", \"index\": 2, \"label\": \"\"}, {\"name\": \"好大的奕\", \"scheme\": \"sinaweibo://detail?mblogid=5229060089186688\", \"index\": 18, \"label\": \"\"}], \"name\": \"电车室长\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.512.512.50/006gOSZPly8hcfb2ch38pj30e80e8jrj.jpg?KID=imgbed,tva&Expires=1762215856&ssig=dqS5nSezaP\", \"scheme\": \"sinaweibo://detail?mblogid=5229030374640199\", \"vType\": 0}}```<br><br>2. **舆论回应争议**  <br>   针对台方“解放军在台会迷路”的言论，网友以高德精准导航反讽：“现在连车道都清清楚楚，迷路论不攻自破”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 23, \"data\": {\"num\": [13, 32], \"version\": 2, \"quote_list\": [{\"name\": \"话道君\", \"scheme\": \"sinaweibo://detail?mblogid=5228988932820500\", \"index\": 13, \"label\": \"大v\"}, {\"name\": \"小凡好摄\", \"scheme\": \"sinaweibo://detail?mblogid=5229027541387589\", \"index\": 32, \"label\": \"\"}], \"name\": \"话道君\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/008hfE7Dly8i0is2qem7uj30u00u0jsm.jpg?KID=imgbed,tva&Expires=1762215856&ssig=j4JKm%2FN%2BaY\", \"scheme\": \"sinaweibo://detail?mblogid=5228988932820500\", \"vType\": 0}}```<br>### ⚠️ **使用提示与注意事项**<br>1. **功能范围**  <br>   当前以**导航和实时路况**为核心，公交规划、完整地点搜索等功能需进一步验证。部分用户反映跨城路线（如上海至台北）仅显示“拟建跨海通道”，实际通行仍需政策支持。```wbCustomBlock{\"type\": \"quoted\", \"index\": 26, \"data\": {\"num\": [15, 33], \"version\": 2, \"quote_list\": [{\"name\": \"寰球镜头\", \"scheme\": \"sinaweibo://detail?mblogid=5228900552802509\", \"index\": 15, \"label\": \"大v\"}, {\"name\": \"游历丁丁\", \"scheme\": \"sinaweibo://detail?mblogid=5229036407360693\", \"index\": 33, \"label\": \"\"}], \"name\": \"寰球镜头\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.590.590.50/007Qt9CBly8hb3j9bs59bj30ge0gejsk.jpg?KID=imgbed,tva&Expires=1762215856&ssig=Dn%2BRy53fd5\", \"scheme\": \"sinaweibo://detail?mblogid=5228900552802509\", \"vType\": 0}}```<br><br>2. **政策关联性**  <br>   导航覆盖是技术能力的体现，**不代表两岸通行政策已开放**。用户需关注官方动态，避免误读规划路线为通行许可。```wbCustomBlock{\"type\": \"quoted\", \"index\": 27, \"data\": {\"num\": [17], \"version\": 2, \"quote_list\": [{\"name\": \"大公文匯網\", \"scheme\": \"sinaweibo://detail?mblogid=5228927677372215\", \"index\": 17, \"label\": \"大v\"}], \"name\": \"大公文匯網\", \"img\": \"https://tvax1.sinaimg.cn/crop.6.10.170.170.50/0089ZFLSly8h8uz6i4f7yj3050050dfu.jpg?KID=imgbed,tva&Expires=1762215856&ssig=WdLVNzUtk3\", \"scheme\": \"sinaweibo://detail?mblogid=5228927677372215\", \"vType\": 3}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5229036407360693&multi_paragraph=4&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/e92ae12aly8hcb36xim6lj20u00u0dnm.jpg?KID=imgbed,tva&Expires=1762215856&ssig=LlUDjaF03O) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">游历丁丁</span><img src=\"http://wx1.sinaimg.cn/middle/e92ae12agy1i6zfm13ykpj20g00zkmzf.jpg\" data-width=1280 data-height=576></div></media-block><br>### 💎 **总结**  <br>高德导航落地台湾省，既是**中国数字基建（北斗+高精地图）的里程碑**，也是**两岸文化联结的数字化表达**。从纠正语音播报的文化细节，到标注“跨海大桥”的未来愿景，技术无声传递着“家国相连”的深层寓意。未来若政策开放，高德或将成为赴台旅游的核心工具，但用户需理性区分技术功能与实际政策进程。```wbCustomBlock{\"type\": \"quoted\", \"index\": 29, \"data\": {\"num\": [5, 18], \"version\": 2, \"quote_list\": [{\"name\": \"森赛\", \"scheme\": \"sinaweibo://detail?mblogid=5229064198555511\", \"index\": 5, \"label\": \"\"}, {\"name\": \"好大的奕\", \"scheme\": \"sinaweibo://detail?mblogid=5229060089186688\", \"index\": 18, \"label\": \"\"}]}}```<br><br>> 此刻打开高德地图，输入“台北101”或任意台湾街道名，即刻体验无缝导航——技术已铺就道路，团圆之期更近一步。<br>",
+      "msg_json": "{}",
+      "abtest_info": {
+        "chat_entrance": 1
+      },
+      "mid_list": null,
+      "reference_num": 32,
+      "query_category": "",
+      "scheme": "sinaweibo://cardlist?containerid=100103type%3D225%26q%3D%23%E5%8F%B0%E6%B9%BE%E7%9C%81%E5%8F%AF%E4%BB%A5%E7%94%A8%E9%AB%98%E5%BE%B7%E5%AF%BC%E8%88%AA%E4%BA%86%23%26t%3D&extparam=ai_model%3Ddeepseek%26ori_ai_title%3D%E5%8F%82%E8%80%83%E5%8D%9A%E6%96%87%26material_version%3D1762205056",
+      "page_id": "232964f5dd8b513463645d0d80767c8f86a2f0",
+      "top_quote_list": {},
+      "unify_md5": "4939863216d93b17d3cd57dbd6be0522",
+      "version": "2025-11-04 05:24:16.006000-3416",
+      "query_field": "42",
+      "basemodel": "实验组1",
+      "link_list": [
+        "sinaweibo://detail?mblogid=5228945844735080",
+        "sinaweibo://detail?mblogid=5228070948831800",
+        "sinaweibo://detail?mblogid=5228995111030105",
+        "sinaweibo://detail?mblogid=5229030993297905",
+        "sinaweibo://detail?mblogid=5229064198555511",
+        "sinaweibo://detail?mblogid=5229058787902416",
+        "sinaweibo://detail?mblogid=5228597977026597",
+        "sinaweibo://detail?mblogid=5229029781405790",
+        "sinaweibo://detail?mblogid=5228876948050464",
+        "sinaweibo://detail?mblogid=5228124179796723",
+        "sinaweibo://detail?mblogid=5208989907288909",
+        "historyweibo://5228876948050464",
+        "sinaweibo://detail?mblogid=5228988932820500",
+        "sinaweibo://detail?mblogid=5229048710299855",
+        "sinaweibo://detail?mblogid=5228900552802509",
+        "sinaweibo://detail?mblogid=5229038580797152",
+        "sinaweibo://detail?mblogid=5228927677372215",
+        "sinaweibo://detail?mblogid=5229060089186688",
+        "sinaweibo://detail?mblogid=5229057778385619",
+        "sinaweibo://detail?mblogid=5229055765121158",
+        "sinaweibo://detail?mblogid=5229058347763099",
+        "sinaweibo://detail?mblogid=5229048913726990",
+        "sinaweibo://detail?mblogid=5229041627958930",
+        "sinaweibo://detail?mblogid=5229054347185142",
+        "sinaweibo://detail?mblogid=5229030374640199",
+        "sinaweibo://detail?mblogid=5229119065292811",
+        "sinaweibo://detail?mblogid=5229093008441856",
+        "sinaweibo://detail?mblogid=5228914387191702",
+        "sinaweibo://detail?mblogid=5229058037383204",
+        "sinaweibo://detail?mblogid=5229056805307115",
+        "sinaweibo://detail?mblogid=5229039533164229",
+        "sinaweibo://detail?mblogid=5229027541387589",
+        "sinaweibo://detail?mblogid=5229036407360693"
+      ],
+      "short_url": "http://t.cn/AXApZb83",
+      "current_time": 1762205423,
+      "profile_image_url": "",
+      "user_info": {},
+      "ab_suffix": "default",
+      "comment_info": {},
+      "card_multimodal": {
+        "data": [
+          {
+            "img": "http://wx2.sinaimg.cn/middle/002IsU5jly1i6wiv2gi2aj60u01hcwh202.jpg",
+            "type": "v",
+            "scheme": "sinaweibo://video/vvs?mid=5228124179796723&multi_paragraph=1&multi_count=0",
+            "video_url": "https://video.weibo.com/show?fid=1034:5228123789394005",
+            "hit_score_new": 99.023438,
+            "w": 1080,
+            "doc_score": 4253,
+            "img_pid": "002IsU5jly1i6wiv2gi2aj60u01hcwh202",
+            "vtype": 0,
+            "click_rate": 0.094736842105263,
+            "click_num": 0,
+            "hit_score_final": 89.014069,
+            "user_avatar": "https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/002IsU5jly8hygqtufngoj60u00u00x802.jpg?KID=imgbed,tva&Expires=1762215856&ssig=6dxF4AikrR",
+            "cur_mid": "5228124179796723",
+            "h": 1920,
+            "user_name": "黄安"
+          },
+          {
+            "img": "http://wx4.sinaimg.cn/middle/002IsU5jgy1i6wcjifp9uj610o27oe0302.jpg",
+            "type": "p",
+            "scheme": "sinaweibo://multimedia?mix_mid=5228070948831800&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=1",
+            "video_url": "",
+            "hit_score_new": 67.138672,
+            "w": 1320,
+            "doc_score": 6866,
+            "img_pid": "002IsU5jgy1i6wcjifp9uj610o27oe0302",
+            "vtype": 0,
+            "click_rate": 0.075604838709677,
+            "click_num": 0,
+            "hit_score_final": 68.683197,
+            "user_avatar": "https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/002IsU5jly8hygqtufngoj60u00u00x802.jpg?KID=imgbed,tva&Expires=1762215856&ssig=6dxF4AikrR",
+            "cur_mid": "5228070948831800",
+            "h": 2868,
+            "user_name": "黄安"
+          },
+          {
+            "img": "http://wx4.sinaimg.cn/middle/4e938746ly1i6ziu41qe8j20k00z80ty.jpg",
+            "type": "v",
+            "scheme": "sinaweibo://video/vvs?mid=5229064198555511&multi_paragraph=1&multi_count=2",
+            "video_url": "https://video.weibo.com/show?fid=1034:5229064127184932",
+            "hit_score_new": 79.296875,
+            "w": 720,
+            "doc_score": 3837,
+            "img_pid": "4e938746ly1i6ziu41qe8j20k00z80ty",
+            "vtype": 0,
+            "click_rate": 0.022026431718062,
+            "click_num": 0,
+            "hit_score_final": 76.778122,
+            "user_avatar": "https://tvax1.sinaimg.cn/crop.0.0.996.996.50/4e938746ly8gmc6d9i1cvj20ro0rota7.jpg?KID=imgbed,tva&Expires=1762215856&ssig=9%2FtRPMDXoP",
+            "cur_mid": "5229064198555511",
+            "h": 1268,
+            "user_name": "森赛"
+          },
+          {
+            "img": "http://wx2.sinaimg.cn/middle/002IsU5jly1i6wiv2gi2aj60u01hcwh202.jpg",
+            "type": "v",
+            "scheme": "sinaweibo://video/vvs?mid=5228124179796723&multi_paragraph=1&multi_count=0",
+            "video_url": "https://video.weibo.com/show?fid=1034:5228123789394005",
+            "hit_score_new": 99.023438,
+            "w": 1080,
+            "doc_score": 4253,
+            "img_pid": "002IsU5jly1i6wiv2gi2aj60u01hcwh202",
+            "vtype": 0,
+            "click_rate": 0.094736842105263,
+            "click_num": 0,
+            "hit_score_final": 89.014069,
+            "user_avatar": "https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/002IsU5jly8hygqtufngoj60u00u00x802.jpg?KID=imgbed,tva&Expires=1762215856&ssig=6dxF4AikrR",
+            "cur_mid": "5228124179796723",
+            "h": 1920,
+            "user_name": "黄安"
+          }
+        ],
+        "type": "mediablock"
+      },
+      "share_info": {
+        "status": 3,
+        "tips": "#台湾省可以用高德导航了#的相关内容，来智搜看看",
+        "display_name": "#台湾省可以用高德导航了#",
+        "page_id": "232964f5dd8b513463645d0d80767c8f86a2f0",
+        "url": "http://t.cn/AXApKmGb",
+        "unify_md5": "4939863216d93b17d3cd57dbd6be0522",
+        "comment_content": ""
+      },
+      "share_card_multimodal": {
+        "img": "http://wx2.sinaimg.cn/middle/002IsU5jly1i6wiv2gi2aj60u01hcwh202.jpg",
+        "type": "v",
+        "scheme": "sinaweibo://video/vvs?mid=5228124179796723&multi_paragraph=1&multi_count=0",
+        "video_url": "https://video.weibo.com/show?fid=1034:5228123789394005",
+        "hit_score_new": 99.023438,
+        "w": 1080,
+        "doc_score": 4253,
+        "img_pid": "002IsU5jly1i6wiv2gi2aj60u01hcwh202",
+        "vtype": 0,
+        "click_rate": 0.094736842105263,
+        "click_num": 0,
+        "hit_score_final": 89.014069,
+        "user_avatar": "https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/002IsU5jly8hygqtufngoj60u00u00x802.jpg?KID=imgbed,tva&Expires=1762215856&ssig=6dxF4AikrR",
+        "cur_mid": "5228124179796723",
+        "h": 1920,
+        "user_name": "黄安"
+      },
+      "model": "deepseek",
+      "qs_status": 0,
+      "cot": 1,
+      "qs_status_info": "{\"qs_status\":0,\"qs_c_status\":8388608,\"qs_r_status\":0,\"qs_u_status\":0,\"qs_q_status\":0,\"ab_lab\":{}}",
+      "status_stage": 4,
+      "loop_times": 200,
+      "msg_format": "markdown",
+      "chat_status_stage": 1,
+      "news_analyze": {},
+      "reliable_tips": "{\"gold_orange_v_mids\": [\"5228070948831800\", \"5228124179796723\", \"5229048710299855\", \"5229064198555511\", \"5229058347763099\", \"5229060089186688\", \"5229058787902416\", \"5228900552802509\", \"5229057778385619\", \"5229030374640199\", \"5228988932820500\", \"5229027541387589\", \"5229036407360693\", \"5229030993297905\", \"5228597977026597\", \"5229029781405790\", \"5208989907288909\", \"5229038580797152\", \"5229055765121158\", \"5229048913726990\", \"5229041627958930\", \"5229054347185142\", \"5228914387191702\", \"5229058037383204\", \"5229056805307115\", \"5229039533164229\"], \"gold_orange_v_ratio\": \"81%\", \"media_mids\": [\"5228945844735080\", \"5228995111030105\", \"5228876948050464\", \"5229093008441856\"], \"media_ratio\": \"13%\", \"verified_mids\": [\"5228927677372215\", \"5229119065292811\"], \"verified_ratio\": \"6%\", \"normal_mids\": [], \"normal_ratio\": \"0%\", \"ref_mid_rank\": {\"5228070948831800\": {\"rank\": 2}, \"5228124179796723\": {\"rank\": 10}, \"5229048710299855\": {\"rank\": 14}, \"5229064198555511\": {\"rank\": 5}, \"5229058347763099\": {\"rank\": 21}, \"5229060089186688\": {\"rank\": 18}, \"5229058787902416\": {\"rank\": 6}, \"5228900552802509\": {\"rank\": 15}, \"5228927677372215\": {\"rank\": 17}, \"5229057778385619\": {\"rank\": 19}, \"5229030374640199\": {\"rank\": 25}, \"5228988932820500\": {\"rank\": 13}, \"5229027541387589\": {\"rank\": 32}, \"5229036407360693\": {\"rank\": 33}, \"5228945844735080\": {\"rank\": 1}, \"5228995111030105\": {\"rank\": 3}, \"5229030993297905\": {\"rank\": 4}, \"5228597977026597\": {\"rank\": 7}, \"5229029781405790\": {\"rank\": 8}, \"5228876948050464\": {\"rank\": 9}, \"5208989907288909\": {\"rank\": 11}, \"5229038580797152\": {\"rank\": 16}, \"5229055765121158\": {\"rank\": 20}, \"5229048913726990\": {\"rank\": 22}, \"5229041627958930\": {\"rank\": 23}, \"5229054347185142\": {\"rank\": 24}, \"5229119065292811\": {\"rank\": 26}, \"5229093008441856\": {\"rank\": 27}, \"5228914387191702\": {\"rank\": 28}, \"5229058037383204\": {\"rank\": 29}, \"5229056805307115\": {\"rank\": 30}, \"5229039533164229\": {\"rank\": 31}}}"
+    }
+  },
+  "links": [
+    "sinaweibo://detail?mblogid=5228945844735080",
+    "sinaweibo://detail?mblogid=5228070948831800",
+    "sinaweibo://detail?mblogid=5228995111030105",
+    "sinaweibo://detail?mblogid=5229030993297905",
+    "sinaweibo://detail?mblogid=5229064198555511",
+    "sinaweibo://detail?mblogid=5229058787902416",
+    "sinaweibo://detail?mblogid=5228597977026597",
+    "sinaweibo://detail?mblogid=5229029781405790",
+    "sinaweibo://detail?mblogid=5228876948050464",
+    "sinaweibo://detail?mblogid=5228124179796723",
+    "sinaweibo://detail?mblogid=5208989907288909",
+    "historyweibo://5228876948050464",
+    "sinaweibo://detail?mblogid=5228988932820500",
+    "sinaweibo://detail?mblogid=5229048710299855",
+    "sinaweibo://detail?mblogid=5228900552802509",
+    "sinaweibo://detail?mblogid=5229038580797152",
+    "sinaweibo://detail?mblogid=5228927677372215",
+    "sinaweibo://detail?mblogid=5229060089186688",
+    "sinaweibo://detail?mblogid=5229057778385619",
+    "sinaweibo://detail?mblogid=5229055765121158",
+    "sinaweibo://detail?mblogid=5229058347763099",
+    "sinaweibo://detail?mblogid=5229048913726990",
+    "sinaweibo://detail?mblogid=5229041627958930",
+    "sinaweibo://detail?mblogid=5229054347185142",
+    "sinaweibo://detail?mblogid=5229030374640199",
+    "sinaweibo://detail?mblogid=5229119065292811",
+    "sinaweibo://detail?mblogid=5229093008441856",
+    "sinaweibo://detail?mblogid=5228914387191702",
+    "sinaweibo://detail?mblogid=5229058037383204",
+    "sinaweibo://detail?mblogid=5229056805307115",
+    "sinaweibo://detail?mblogid=5229039533164229",
+    "sinaweibo://detail?mblogid=5229027541387589",
+    "sinaweibo://detail?mblogid=5229036407360693"
+  ],
+  "media": [
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/002IsU5jly1i6wiv2gi2aj60u01hcwh202.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/002IsU5jly1i6wiv2gi2aj60u01hcwh202.jpg",
+      "alt": "黄安",
+      "width": 1920,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/002IsU5jly1i6wiv2gi2aj60u01hcwh202.jpg"
+      ],
+      "user": "黄安"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/002IsU5jgy1i6wcjifp9uj610o27oe0302.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/002IsU5jgy1i6wcjifp9uj610o27oe0302.jpg",
+      "alt": "黄安",
+      "width": 2868,
+      "height": 1320,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/002IsU5jgy1i6wcjifp9uj610o27oe0302.jpg"
+      ],
+      "user": "黄安"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/4e938746ly1i6ziu41qe8j20k00z80ty.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/4e938746ly1i6ziu41qe8j20k00z80ty.jpg",
+      "alt": "森赛",
+      "width": 1268,
+      "height": 720,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/4e938746ly1i6ziu41qe8j20k00z80ty.jpg"
+      ],
+      "user": "森赛"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/861c8161gy1i6zi2yve0fj20uz1wwh8w.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/861c8161gy1i6zi2yve0fj20uz1wwh8w.jpg",
+      "alt": "小刚CSG",
+      "width": 2480,
+      "height": 1115,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/861c8161gy1i6zi2yve0fj20uz1wwh8w.jpg"
+      ],
+      "user": "小刚CSG"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/e92ae12agy1i6zfm13ykpj20g00zkmzf.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/e92ae12agy1i6zfm13ykpj20g00zkmzf.jpg",
+      "alt": "游历丁丁",
+      "width": 1280,
+      "height": 576,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/e92ae12agy1i6zfm13ykpj20g00zkmzf.jpg"
+      ],
+      "user": "游历丁丁"
+    }
+  ],
+  "html_path": "data/aicard/hourly/2025-11-04/05/topic-49398632.html"
+}

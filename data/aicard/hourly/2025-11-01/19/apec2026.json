@@ -1,0 +1,274 @@
+{
+  "meta": {
+    "query": "#APEC2026在深圳举办#",
+    "status_code": 200,
+    "fetched_at": "2025-11-01T19:26:35+08:00",
+    "response": {
+      "uid": "",
+      "unify_md5": "2bad8fcaf9f6387f5b79d19e28ac9651",
+      "qs_status_info": "{\"qs_q_status\":0,\"qs_c_status\":8388614,\"qs_r_status\":0,\"qs_u_status\":0,\"ab_lab\":{},\"qs_status\":0}",
+      "wenda": {
+        "forward_gen": 0
+      },
+      "loop_times": 200,
+      "zs_risk_control": {
+        "think_text_close": 0,
+        "land_button_close": 0
+      },
+      "mid_list": null,
+      "msg_format": "markdown",
+      "query_category": "",
+      "cot": 1,
+      "link_list": [
+        "sinaweibo://detail?mblogid=5228130220377040",
+        "sinaweibo://detail?mblogid=5228211308072386",
+        "sinaweibo://detail?mblogid=5228134838570359",
+        "sinaweibo://detail?mblogid=5228139690855486",
+        "sinaweibo://detail?mblogid=5228201284470652",
+        "https://k.sina.cn/article_5787187353_v158f1789902001zpvq.html?from=news&subch=onews&wm=3049_0032",
+        "broadsocial_res://",
+        "ctr://",
+        "historyweibo://5228130509786915",
+        "historyweibo://5228129389122796",
+        "sinaweibo://detail?mblogid=5228134548378573",
+        "sinaweibo://detail?mblogid=5228219162957119",
+        "sinaweibo://detail?mblogid=5228150187360495",
+        "sinaweibo://detail?mblogid=5228152421089806",
+        "sinaweibo://detail?mblogid=5228249585813579",
+        "sinaweibo://detail?mblogid=5228208724118080",
+        "sinaweibo://detail?mblogid=5228209958292186",
+        "sinaweibo://detail?mblogid=5228217792725421",
+        "sinaweibo://detail?mblogid=5228217032249102",
+        "sinaweibo://detail?mblogid=5228214260598888",
+        "sinaweibo://detail?mblogid=5228218933579331",
+        "sinaweibo://detail?mblogid=5228167348357015",
+        "sinaweibo://detail?mblogid=5228148190877240",
+        "sinaweibo://detail?mblogid=5228132690558991",
+        "sinaweibo://detail?mblogid=5228167402883155",
+        "sinaweibo://detail?mblogid=5228226210697221",
+        "sinaweibo://detail?mblogid=5228175225522657",
+        "https://k.sina.cn/article_6321540324_m178cb0ce4033018rw0.html?from=news&subch=onews&wm=3049_0032"
+      ],
+      "top_quote_list": {},
+      "short_url": "http://t.cn/AXAMZlsz",
+      "card_multimodal": {
+        "data": [
+          {
+            "w": 443,
+            "cur_mid": "5228130220377040",
+            "vtype": 3,
+            "h": 720,
+            "scheme": "sinaweibo://multimedia?mix_mid=5228130220377040&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=0",
+            "user_avatar": "https://tvax2.sinaimg.cn/crop.58.61.875.875.50/001R0E0aly8h8vg6xx3srj60rs0rsdko02.jpg?KID=imgbed,tva&Expires=1762006225&ssig=MU0x7xzhBs",
+            "user_name": "新华社",
+            "video_url": "",
+            "hit_score_new": 0,
+            "doc_score": 0,
+            "img_pid": "001R0E0aly1i6wjonf4ykj60cb0k014y02",
+            "type": "p",
+            "click_rate": 0.13987167996813,
+            "hit_score_final": 0,
+            "img": "http://wx4.sinaimg.cn/middle/001R0E0aly1i6wjonf4ykj60cb0k014y02.jpg"
+          },
+          {
+            "w": 1110,
+            "cur_mid": "5228201284470652",
+            "vtype": 1,
+            "h": 624,
+            "scheme": "sinaweibo://video/vvs?mid=5228201284470652&multi_paragraph=1&multi_count=1",
+            "user_avatar": "https://tvax4.sinaimg.cn/crop.0.0.534.534.50/007Kss1jly8gdgmtev8d5j30eu0eujs4.jpg?KID=imgbed,tva&Expires=1762006225&ssig=v2Akt6XPr8",
+            "user_name": "外交部发言人办公室",
+            "video_url": "https://video.weibo.com/show?fid=1034:5228191498043413",
+            "hit_score_new": 99.023438,
+            "doc_score": 5483,
+            "img_pid": "007Kss1jly1i6wroo36hnj30uu0hck6u",
+            "type": "v",
+            "click_rate": 0,
+            "hit_score_final": 86.214066,
+            "img": "http://wx3.sinaimg.cn/middle/007Kss1jly1i6wroo36hnj30uu0hck6u.jpg"
+          },
+          {
+            "w": 1242,
+            "cur_mid": "5228150187360495",
+            "vtype": 1,
+            "h": 1656,
+            "scheme": "sinaweibo://multimedia?mix_mid=5228150187360495&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=2&multi_count=0",
+            "user_avatar": "https://tvax4.sinaimg.cn/crop.0.0.600.600.50/abaaa364ly8i3gqvj59msj20go0gowff.jpg?KID=imgbed,tva&Expires=1762006225&ssig=q7OPdLbSmc",
+            "user_name": "活力广东",
+            "video_url": "",
+            "hit_score_new": 99.023438,
+            "doc_score": 4927,
+            "img_pid": "abaaa364gy1i6u6z813ewj20yi1a0aml",
+            "type": "p",
+            "click_rate": 0.097463874963138,
+            "hit_score_final": 83.414062,
+            "img": "http://wx1.sinaimg.cn/middle/abaaa364gy1i6u6z813ewj20yi1a0aml.jpg"
+          },
+          {
+            "w": 443,
+            "cur_mid": "5228130220377040",
+            "vtype": 3,
+            "h": 720,
+            "scheme": "sinaweibo://multimedia?mix_mid=5228130220377040&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=0",
+            "user_avatar": "https://tvax2.sinaimg.cn/crop.58.61.875.875.50/001R0E0aly8h8vg6xx3srj60rs0rsdko02.jpg?KID=imgbed,tva&Expires=1762006225&ssig=MU0x7xzhBs",
+            "user_name": "新华社",
+            "video_url": "",
+            "hit_score_new": 0,
+            "doc_score": 0,
+            "img_pid": "001R0E0aly1i6wjonf4ykj60cb0k014y02",
+            "type": "p",
+            "click_rate": 0.13987167996813,
+            "hit_score_final": 0,
+            "img": "http://wx4.sinaimg.cn/middle/001R0E0aly1i6wjonf4ykj60cb0k014y02.jpg"
+          }
+        ],
+        "type": "mediablock"
+      },
+      "share_card_multimodal": {
+        "w": 443,
+        "cur_mid": "5228130220377040",
+        "vtype": 3,
+        "h": 720,
+        "scheme": "sinaweibo://multimedia?mix_mid=5228130220377040&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=0",
+        "user_avatar": "https://tvax2.sinaimg.cn/crop.58.61.875.875.50/001R0E0aly8h8vg6xx3srj60rs0rsdko02.jpg?KID=imgbed,tva&Expires=1762006225&ssig=MU0x7xzhBs",
+        "user_name": "新华社",
+        "video_url": "",
+        "hit_score_new": 0,
+        "doc_score": 0,
+        "img_pid": "001R0E0aly1i6wjonf4ykj60cb0k014y02",
+        "type": "p",
+        "click_rate": 0.13987167996813,
+        "hit_score_final": 0,
+        "img": "http://wx4.sinaimg.cn/middle/001R0E0aly1i6wjonf4ykj60cb0k014y02.jpg"
+      },
+      "msg": "<think><br>嗯，用户让我整理关于APEC 2026在深圳举办的信息。首先，我需要从搜索结果中找出关键点。首先看到结果1、3、5、10都提到中国正式宣布2026年11月在深圳举办APEC第三十三次领导人非正式会议，这是中国继2001年上海和2014年北京之后第三次担任东道主。习近平主席在APEC第三十二次会议上宣布了这一消息，强调深圳作为改革开放窗口的意义。<br><br>接下来，深圳被选为举办地的原因。结果6、8、9、13、26详细说明了深圳的城市优势。比如，深圳从渔村发展为国际大都市的奇迹，其创新科技产业（如数字经济、人工智能），以及绿色发展和智慧城市建设的成就。特别是结果26提到深圳的外贸实力和创新集群全球排名第一，增强了其作为举办地的合理性。<br><br>会议主题和议程方面，结果3、8、9提到“构建亚太共同体”的愿景，聚焦亚太自贸区、互联互通、人工智能治理等合作领域。官方主题“共赴深圳之约”将通过科技、人文、生态展示城市魅力。<br><br>国际反响部分，结果7提到中美“休战一年”的协议可能影响APEC议程，但需谨慎看待。结果16显示香港商界看好辐射效应，霍震寰认为香港将受益。结果20提到韩国总统李在明对深圳APEC的期待。<br><br>关于筹备亮点，结果6、13描述了深圳的文旅资源，如莲花山、甘坑古镇、深圳湾公园等，以及公共服务中多语言支持和超充站等设施。结果8提到深港联动和区域协同效应。<br><br>最后，需要整合信息并结构化呈现，确保引用准确。注意排除不相关内容，如结果17的健康建议和结果18的美食话题。同时验证大V和媒体账号的可信度，如邱震海的“休战”观点需结合结果7的澄清。<br><br></think><br>以下是关于APEC 2026在深圳举办的核心信息梳理，综合官方发布、城市意义及国际反响：<br>### 🎯 **一、关键事件与官方确认**<br>1. **时间地点**  <br>   APEC第三十三次领导人非正式会议将于**2026年11月**在中国广东省深圳市举办。这是中国继2001年（上海）、2014年（北京）后**第三次担任APEC东道主**，也是深圳首次承办该峰会。```wbCustomBlock{\"type\": \"quoted\", \"index\": 4, \"data\": {\"num\": [1, 3, 5, 12, 22, 25], \"version\": 2, \"quote_list\": [{\"name\": \"新华社\", \"scheme\": \"sinaweibo://detail?mblogid=5228130220377040\", \"index\": 1, \"label\": \"大v\"}, {\"name\": \"央视新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5228134838570359\", \"index\": 3, \"label\": \"\"}, {\"name\": \"外交部发言人办公室\", \"scheme\": \"sinaweibo://detail?mblogid=5228201284470652\", \"index\": 5, \"label\": \"\"}, {\"name\": \"徐顺达\", \"scheme\": \"sinaweibo://detail?mblogid=5228219162957119\", \"index\": 12, \"label\": \"\"}, {\"name\": \"88Complexes\", \"scheme\": \"sinaweibo://detail?mblogid=5228167348357015\", \"index\": 22, \"label\": \"\"}, {\"name\": \"地铁客流及运输研究阿牛\", \"scheme\": \"sinaweibo://detail?mblogid=5228167402883155\", \"index\": 25, \"label\": \"\"}], \"name\": \"新华社\", \"img\": \"https://tvax2.sinaimg.cn/crop.58.61.875.875.50/001R0E0aly8h8vg6xx3srj60rs0rsdko02.jpg?KID=imgbed,tva&Expires=1762006225&ssig=MU0x7xzhBs\", \"scheme\": \"sinaweibo://detail?mblogid=5228130220377040\", \"vType\": 3}}```  <br>   - **历史意义**：时隔12年APEC再次回到中国，体现中国深化区域合作的决心。```wbCustomBlock{\"type\": \"quoted\", \"index\": 5, \"data\": {\"num\": [19], \"version\": 2, \"quote_list\": [{\"name\": \"辽宁共青团\", \"scheme\": \"sinaweibo://detail?mblogid=5228217032249102\", \"index\": 19, \"label\": \"大v\"}], \"name\": \"辽宁共青团\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.842.842.50/7bf67cf4ly8hqniqomf55j20ne0neq3x.jpg?KID=imgbed,tva&Expires=1762006225&ssig=nSAMzAeAfI\", \"scheme\": \"sinaweibo://detail?mblogid=5228217032249102\", \"vType\": 1}}```<br><br>2. **宣布细节**  <br>   2025年11月1日，习近平主席在韩国庆州APEC第三十二次会议的东道主交接环节正式宣布此消息。习主席强调深圳是“中国改革开放的重要窗口”，其从小渔村到国际大都市的蜕变是“世界发展史上的奇迹”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 6, \"data\": {\"num\": [3], \"version\": 2, \"quote_list\": [{\"name\": \"央视新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5228134838570359\", \"index\": 3, \"label\": \"大v\"}], \"name\": \"央视新闻\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.690.690.50/002TLsr9ly8i653ifvwbtj60j60j6aai02.jpg?KID=imgbed,tva&Expires=1762006225&ssig=MxC%2B%2FYbWzG\", \"scheme\": \"sinaweibo://detail?mblogid=5228134838570359\", \"vType\": 3}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5228130220377040&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.58.61.875.875.50/001R0E0aly8h8vg6xx3srj60rs0rsdko02.jpg?KID=imgbed,tva&Expires=1762006225&ssig=MU0x7xzhBs) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">新华社</span><img src=\"http://wx4.sinaimg.cn/middle/001R0E0aly1i6wjonf4ykj60cb0k014y02.jpg\" data-width=720 data-height=443></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5228201284470652&multi_paragraph=1&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.534.534.50/007Kss1jly8gdgmtev8d5j30eu0eujs4.jpg?KID=imgbed,tva&Expires=1762006225&ssig=v2Akt6XPr8) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">外交部发言人办公室</span><img src=\"http://wx3.sinaimg.cn/middle/007Kss1jly1i6wroo36hnj30uu0hck6u.jpg\" data-width=624 data-height=1110></div></media-block><br>### 🏙️ **二、深圳为何被选为举办地？**<br>1. **城市定位**  <br>   - **创新引擎**：作为粤港澳大湾区核心城市，深圳在数字经济、人工智能、绿色技术等领域领先，契合APEC推动科技合作的议程。```wbCustomBlock{\"type\": \"quoted\", \"index\": 10, \"data\": {\"num\": [13, 26], \"version\": 2, \"quote_list\": [{\"name\": \"思想先行\", \"scheme\": \"sinaweibo://detail?mblogid=5228226210697221\", \"index\": 26, \"label\": \"大v\"}, {\"name\": \"活力广东\", \"scheme\": \"sinaweibo://detail?mblogid=5228150187360495\", \"index\": 13, \"label\": \"\"}], \"name\": \"思想先行\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/0067M8yrly8hdhlv3a091j30u00u00ve.jpg?KID=imgbed,tva&Expires=1762006225&ssig=dYWCguw16V\", \"scheme\": \"sinaweibo://detail?mblogid=5228226210697221\", \"vType\": 0}}```  <br>   - **开放象征**：深圳外贸总额连续32年居内地城市首位，2025年前三季度进出口达3.36万亿元，与APEC成员经贸联系紧密。```wbCustomBlock{\"type\": \"quoted\", \"index\": 11, \"data\": {\"num\": [26], \"version\": 2, \"quote_list\": [{\"name\": \"思想先行\", \"scheme\": \"sinaweibo://detail?mblogid=5228226210697221\", \"index\": 26, \"label\": \"\"}]}}```  <br>   - **全球影响力**：“深圳-香港-广州”创新集群跃居全球首位，PCT国际专利申请量全国第一。```wbCustomBlock{\"type\": \"quoted\", \"index\": 12, \"data\": {\"num\": [26], \"version\": 2, \"quote_list\": [{\"name\": \"思想先行\", \"scheme\": \"sinaweibo://detail?mblogid=5228226210697221\", \"index\": 26, \"label\": \"\"}]}}```<br><br>2. **城市特质展示**  <br>   会议以“**共赴深圳之约**”为主题，计划通过三大维度呈现城市魅力：```wbCustomBlock{\"type\": \"quoted\", \"index\": 13, \"data\": {\"num\": [13], \"version\": 2, \"quote_list\": [{\"name\": \"活力广东\", \"scheme\": \"sinaweibo://detail?mblogid=5228150187360495\", \"index\": 13, \"label\": \"\"}]}}```  <br>   - **科技地标**：莲花山城市中轴线、华强北科技橱窗、深中通道；  <br>   - **人文底蕴**：甘坑古镇、舞剧《咏春》、大鹏所城；  <br>   - **生态宜居**：深圳湾公园绿道、超充站数量达加油站3.7倍。<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5228150187360495&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=2&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.600.600.50/abaaa364ly8i3gqvj59msj20go0gowff.jpg?KID=imgbed,tva&Expires=1762006225&ssig=q7OPdLbSmc) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">活力广东</span><img src=\"http://wx1.sinaimg.cn/middle/abaaa364gy1i6u6z813ewj20yi1a0aml.jpg\" data-width=1656 data-height=1242></div></media-block><br>### 🌐 **三、中方愿景与国际反响**<br>1. **合作目标**  <br>   中方将推动构建“**亚太共同体**”，重点推进亚太自贸区建设、互联互通、人工智能治理等务实合作。```wbCustomBlock{\"type\": \"quoted\", \"index\": 19, \"data\": {\"num\": [3, 26], \"version\": 2, \"quote_list\": [{\"name\": \"央视新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5228134838570359\", \"index\": 3, \"label\": \"\"}, {\"name\": \"思想先行\", \"scheme\": \"sinaweibo://detail?mblogid=5228226210697221\", \"index\": 26, \"label\": \"\"}]}}```<br><br>2. **国际响应**  <br>   - **广泛支持**：与会经济体领导人一致认可中方办会理念，期待APEC“中国年”为区域发展注入新动力。```wbCustomBlock{\"type\": \"quoted\", \"index\": 21, \"data\": {\"num\": [3, 20], \"version\": 2, \"quote_list\": [{\"name\": \"直新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5228214260598888\", \"index\": 20, \"label\": \"大v\"}, {\"name\": \"央视新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5228134838570359\", \"index\": 3, \"label\": \"\"}], \"name\": \"直新闻\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/006N4ALSly8gdi6ut01v6j30u00u00tw.jpg?KID=imgbed,tva&Expires=1762006225&ssig=gFP%2Fg07Xjj\", \"scheme\": \"sinaweibo://detail?mblogid=5228214260598888\", \"vType\": 3}}```  <br>   - **特别关注**：韩国总统李在明在记者会上表示“期待在深圳与大家再相见”；香港商界领袖霍震寰称香港将“近水楼台”受益于辐射效应。```wbCustomBlock{\"type\": \"quoted\", \"index\": 22, \"data\": {\"num\": [16, 20], \"version\": 2, \"quote_list\": [{\"name\": \"香港商報\", \"scheme\": \"sinaweibo://detail?mblogid=5228208724118080\", \"index\": 16, \"label\": \"大v\"}, {\"name\": \"直新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5228214260598888\", \"index\": 20, \"label\": \"\"}], \"name\": \"香港商報\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.1024.1024.50/6e18de6fly1h8vg7331ggj20sg0sggml.jpg?KID=imgbed,tva&Expires=1762006225&ssig=QZx20mdGcp\", \"scheme\": \"sinaweibo://detail?mblogid=5228208724118080\", \"vType\": 3}}```<br>### ⚠️ **四、需理性看待的信息**<br>1. **中美博弈关联性**  <br>   有观点称深圳APEC或成中美战略博弈“分晓时刻”，但**中美‘休战一年’协议细节未获官方证实**，且APEC议程聚焦区域经济合作，中美互动仅为潜在议题之一。```wbCustomBlock{\"type\": \"quoted\", \"index\": 25, \"data\": {\"num\": [2], \"version\": 2, \"quote_list\": [{\"name\": \"邱震海\", \"scheme\": \"sinaweibo://detail?mblogid=5228211308072386\", \"index\": 2, \"label\": \"大v\"}], \"name\": \"邱震海\", \"img\": \"https://tva2.sinaimg.cn/crop.0.0.180.180.50/65e375c3jw1e8qgp5bmzyj2050050aa8.jpg?KID=imgbed,tva&Expires=1762006225&ssig=nY4ExpnkXE\", \"scheme\": \"sinaweibo://detail?mblogid=5228211308072386\", \"vType\": 0}}```<br><br>2. **城市筹备能力**  <br>   深圳已具备成熟国际会议条件：2023-2025年接待超1100批外宾团组（含26国元首），公共服务部署6700套AI翻译设备，完成主干道双语标牌优化。```wbCustomBlock{\"type\": \"quoted\", \"index\": 26, \"data\": {\"num\": [26], \"version\": 2, \"quote_list\": [{\"name\": \"思想先行\", \"scheme\": \"sinaweibo://detail?mblogid=5228226210697221\", \"index\": 26, \"label\": \"\"}]}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5228211308072386&multi_paragraph=4&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tva2.sinaimg.cn/crop.0.0.180.180.50/65e375c3jw1e8qgp5bmzyj2050050aa8.jpg?KID=imgbed,tva&Expires=1762006225&ssig=nY4ExpnkXE) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">邱震海</span><img src=\"http://wx4.sinaimg.cn/middle/65e375c3gy1i6wsrlubb3j21hc0u0h94.jpg\" data-width=1080 data-height=1920></div></media-block><br>### 💎 **总结：深圳APEC的全球期待**<br>2026年APEC不仅是国际会议，更是中国向世界传递开放决心、分享“中国式现代化”经验的窗口。这座以创新为基因的“奇迹之城”，将承载**亚太共同繁荣**的愿景，为全球治理提供新范式。```wbCustomBlock{\"type\": \"quoted\", \"index\": 28, \"data\": {\"num\": [13, 26], \"version\": 2, \"quote_list\": [{\"name\": \"活力广东\", \"scheme\": \"sinaweibo://detail?mblogid=5228150187360495\", \"index\": 13, \"label\": \"\"}, {\"name\": \"思想先行\", \"scheme\": \"sinaweibo://detail?mblogid=5228226210697221\", \"index\": 26, \"label\": \"\"}]}}```<br>",
+      "basemodel": "实验组2",
+      "ext_show": {},
+      "analysis_time": 1761995762,
+      "sorted_material_list": "[{\"mid\": \"5228130220377040\", \"rank\": 1, \"type\": \"weibo\"}, {\"mid\": \"5228134838570359\", \"rank\": 3, \"type\": \"weibo\"}, {\"mid\": \"5228201284470652\", \"rank\": 5, \"type\": \"weibo\"}, {\"mid\": \"5228219162957119\", \"rank\": 12, \"type\": \"weibo\"}, {\"mid\": \"5228167348357015\", \"rank\": 22, \"type\": \"weibo\"}, {\"mid\": \"5228167402883155\", \"rank\": 25, \"type\": \"weibo\"}, {\"mid\": \"5228217032249102\", \"rank\": 19, \"type\": \"weibo\"}, {\"mid\": \"5228150187360495\", \"rank\": 13, \"type\": \"weibo\"}, {\"mid\": \"5228226210697221\", \"rank\": 26, \"type\": \"weibo\"}, {\"mid\": \"5228214260598888\", \"rank\": 20, \"type\": \"weibo\"}, {\"mid\": \"5228208724118080\", \"rank\": 16, \"type\": \"weibo\"}, {\"mid\": \"5228211308072386\", \"rank\": 2, \"type\": \"weibo\"}, {\"mid\": \"5228139690855486\", \"rank\": 4, \"type\": \"weibo\"}, {\"mid\": \"5228134548378573\", \"rank\": 11, \"type\": \"weibo\"}, {\"mid\": \"5228152421089806\", \"rank\": 14, \"type\": \"weibo\"}, {\"mid\": \"5228249585813579\", \"rank\": 15, \"type\": \"weibo\"}, {\"mid\": \"5228209958292186\", \"rank\": 17, \"type\": \"weibo\"}, {\"mid\": \"5228217792725421\", \"rank\": 18, \"type\": \"weibo\"}, {\"mid\": \"5228218933579331\", \"rank\": 21, \"type\": \"weibo\"}, {\"mid\": \"5228148190877240\", \"rank\": 23, \"type\": \"weibo\"}, {\"mid\": \"5228132690558991\", \"rank\": 24, \"type\": \"weibo\"}, {\"mid\": \"5228175225522657\", \"rank\": 27, \"type\": \"weibo\"}]",
+      "msg_json": "{}",
+      "status": 2,
+      "scheme": "sinaweibo://cardlist?containerid=100103type%3D225%26q%3D%23apec2026%E5%9C%A8%E6%B7%B1%E5%9C%B3%E4%B8%BE%E5%8A%9E%23%26t%3D&extparam=ai_model%3Ddeepseek%26ori_ai_title%3D%E5%8F%82%E8%80%83%E5%8D%9A%E6%96%87%26material_version%3D1761995425",
+      "chat_status_stage": 1,
+      "share_text": "#APEC2026在深圳举办#的相关内容，来智搜看看",
+      "version": "2025-11-01 19:10:25.023000-3430",
+      "news_analyze": {},
+      "page_id": "2329648929e7036abae65f1bb4ea46a63f7f5a",
+      "show_ctrl": {
+        "quote": {}
+      },
+      "query": "#APEC2026在深圳举办#",
+      "query_field": "45",
+      "share_info": {
+        "status": 3,
+        "display_name": "#APEC2026在深圳举办#",
+        "url": "http://t.cn/AXAMZulU",
+        "unify_md5": "2bad8fcaf9f6387f5b79d19e28ac9651",
+        "tips": "#APEC2026在深圳举办#的相关内容，来智搜看看",
+        "comment_content": "",
+        "page_id": "2329648929e7036abae65f1bb4ea46a63f7f5a"
+      },
+      "status_stage": 4,
+      "reliable_tips": "{\"gold_orange_v_mids\": [\"5228219162957119\", \"5228167348357015\", \"5228167402883155\", \"5228226210697221\", \"5228211308072386\", \"5228249585813579\", \"5228148190877240\", \"5228132690558991\"], \"gold_orange_v_ratio\": \"36%\", \"media_mids\": [\"5228130220377040\", \"5228134838570359\", \"5228214260598888\", \"5228139690855486\", \"5228134548378573\", \"5228218933579331\", \"5228175225522657\"], \"media_ratio\": \"32%\", \"verified_mids\": [\"5228201284470652\", \"5228217032249102\", \"5228150187360495\", \"5228208724118080\", \"5228152421089806\", \"5228209958292186\", \"5228217792725421\"], \"verified_ratio\": \"32%\", \"normal_mids\": [], \"normal_ratio\": \"0%\", \"ref_mid_rank\": {\"5228130220377040\": {\"rank\": 1}, \"5228134838570359\": {\"rank\": 3}, \"5228201284470652\": {\"rank\": 5}, \"5228219162957119\": {\"rank\": 12}, \"5228167348357015\": {\"rank\": 22}, \"5228167402883155\": {\"rank\": 25}, \"5228217032249102\": {\"rank\": 19}, \"5228150187360495\": {\"rank\": 13}, \"5228226210697221\": {\"rank\": 26}, \"5228214260598888\": {\"rank\": 20}, \"5228208724118080\": {\"rank\": 16}, \"5228211308072386\": {\"rank\": 2}, \"5228139690855486\": {\"rank\": 4}, \"5228134548378573\": {\"rank\": 11}, \"5228152421089806\": {\"rank\": 14}, \"5228249585813579\": {\"rank\": 15}, \"5228209958292186\": {\"rank\": 17}, \"5228217792725421\": {\"rank\": 18}, \"5228218933579331\": {\"rank\": 21}, \"5228148190877240\": {\"rank\": 23}, \"5228132690558991\": {\"rank\": 24}, \"5228175225522657\": {\"rank\": 27}}}",
+      "model": "deepseek",
+      "comment_info": {},
+      "reference_num": 22,
+      "ab_suffix": "default",
+      "current_time": 1761996395,
+      "profile_image_url": "",
+      "user_info": {},
+      "abtest_info": {
+        "chat_entrance": 1
+      },
+      "q_attr": {
+        "reply_cid": "",
+        "from_uid": "",
+        "from_request_id": "",
+        "comment_from_type": "",
+        "mid": ""
+      },
+      "qs_status": 0
+    }
+  },
+  "links": [
+    "sinaweibo://detail?mblogid=5228130220377040",
+    "sinaweibo://detail?mblogid=5228211308072386",
+    "sinaweibo://detail?mblogid=5228134838570359",
+    "sinaweibo://detail?mblogid=5228139690855486",
+    "sinaweibo://detail?mblogid=5228201284470652",
+    "https://k.sina.cn/article_5787187353_v158f1789902001zpvq.html?from=news&subch=onews&wm=3049_0032",
+    "broadsocial_res://",
+    "ctr://",
+    "historyweibo://5228130509786915",
+    "historyweibo://5228129389122796",
+    "sinaweibo://detail?mblogid=5228134548378573",
+    "sinaweibo://detail?mblogid=5228219162957119",
+    "sinaweibo://detail?mblogid=5228150187360495",
+    "sinaweibo://detail?mblogid=5228152421089806",
+    "sinaweibo://detail?mblogid=5228249585813579",
+    "sinaweibo://detail?mblogid=5228208724118080",
+    "sinaweibo://detail?mblogid=5228209958292186",
+    "sinaweibo://detail?mblogid=5228217792725421",
+    "sinaweibo://detail?mblogid=5228217032249102",
+    "sinaweibo://detail?mblogid=5228214260598888",
+    "sinaweibo://detail?mblogid=5228218933579331",
+    "sinaweibo://detail?mblogid=5228167348357015",
+    "sinaweibo://detail?mblogid=5228148190877240",
+    "sinaweibo://detail?mblogid=5228132690558991",
+    "sinaweibo://detail?mblogid=5228167402883155",
+    "sinaweibo://detail?mblogid=5228226210697221",
+    "sinaweibo://detail?mblogid=5228175225522657",
+    "https://k.sina.cn/article_6321540324_m178cb0ce4033018rw0.html?from=news&subch=onews&wm=3049_0032"
+  ],
+  "media": [
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/001R0E0aly1i6wjonf4ykj60cb0k014y02.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/001R0E0aly1i6wjonf4ykj60cb0k014y02.jpg",
+      "alt": "新华社",
+      "width": 720,
+      "height": 443,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/001R0E0aly1i6wjonf4ykj60cb0k014y02.jpg"
+      ],
+      "user": "新华社"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/007Kss1jly1i6wroo36hnj30uu0hck6u.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/007Kss1jly1i6wroo36hnj30uu0hck6u.jpg",
+      "alt": "外交部发言人办公室",
+      "width": 624,
+      "height": 1110,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/007Kss1jly1i6wroo36hnj30uu0hck6u.jpg"
+      ],
+      "user": "外交部发言人办公室"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/abaaa364gy1i6u6z813ewj20yi1a0aml.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/abaaa364gy1i6u6z813ewj20yi1a0aml.jpg",
+      "alt": "活力广东",
+      "width": 1656,
+      "height": 1242,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/abaaa364gy1i6u6z813ewj20yi1a0aml.jpg"
+      ],
+      "user": "活力广东"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/65e375c3gy1i6wsrlubb3j21hc0u0h94.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/65e375c3gy1i6wsrlubb3j21hc0u0h94.jpg",
+      "alt": "邱震海",
+      "width": 1080,
+      "height": 1920,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/65e375c3gy1i6wsrlubb3j21hc0u0h94.jpg"
+      ],
+      "user": "邱震海"
+    }
+  ],
+  "html_path": "data/aicard/hourly/2025-11-01/19/apec2026.html"
+}

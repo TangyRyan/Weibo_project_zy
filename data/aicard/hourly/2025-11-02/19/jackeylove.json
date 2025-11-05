@@ -1,0 +1,292 @@
+{
+  "meta": {
+    "query": "#JackeyLove尽力局#",
+    "status_code": 200,
+    "fetched_at": "2025-11-02T19:31:17+08:00",
+    "response": {
+      "loop_times": 200,
+      "ext_show": {},
+      "status": 2,
+      "chat_status_stage": 1,
+      "q_attr": {
+        "mid": "",
+        "comment_from_type": "",
+        "from_uid": "",
+        "reply_cid": "",
+        "from_request_id": ""
+      },
+      "news_analyze": {},
+      "reliable_tips": "{\"gold_orange_v_mids\": [\"5228574660367835\", \"5228579534934013\", \"5228576472304417\", \"5228576212783630\", \"5228603781939918\", \"5227474310925609\", \"5225680452455690\", \"5228575524652969\", \"5213077512916681\", \"5114798980728131\", \"5115233922455996\", \"5175392450642111\", \"5228579220095404\", \"5228577386926030\"], \"gold_orange_v_ratio\": \"67%\", \"media_mids\": [], \"media_ratio\": \"0%\", \"verified_mids\": [\"5227503725318767\", \"4970906951620416\"], \"verified_ratio\": \"9%\", \"normal_mids\": [\"5228612391274775\", \"5228588276384359\", \"5228615547490878\", \"5228612997350259\", \"5228606664214890\"], \"normal_ratio\": \"24%\", \"ref_mid_rank\": {\"5228574660367835\": {\"rank\": 1}, \"5228579534934013\": {\"rank\": 3}, \"5228576472304417\": {\"rank\": 12}, \"5228576212783630\": {\"rank\": 18}, \"5228603781939918\": {\"rank\": 2}, \"5227474310925609\": {\"rank\": 21}, \"5227503725318767\": {\"rank\": 24}, \"5228612391274775\": {\"rank\": 17}, \"5228588276384359\": {\"rank\": 19}, \"5228615547490878\": {\"rank\": 15}, \"5228612997350259\": {\"rank\": 16}, \"5228606664214890\": {\"rank\": 20}, \"5225680452455690\": {\"rank\": 22}, \"5228575524652969\": {\"rank\": 14}, \"5213077512916681\": {\"rank\": 5}, \"5114798980728131\": {\"rank\": 7}, \"5115233922455996\": {\"rank\": 23}, \"5175392450642111\": {\"rank\": 4}, \"4970906951620416\": {\"rank\": 6}, \"5228579220095404\": {\"rank\": 13}, \"5228577386926030\": {\"rank\": 25}}}",
+      "query_category": "",
+      "ab_suffix": "default",
+      "qs_status_info": "{\"qs_c_status\":8388608,\"ab_lab\":{},\"qs_u_status\":0,\"qs_r_status\":0,\"qs_status\":0,\"qs_q_status\":0}",
+      "unify_md5": "f22a8c32d824f09bfee1d7a9c75b2890",
+      "share_text": "#JackeyLove尽力局#的相关内容，来智搜看看",
+      "comment_info": {},
+      "reference_num": 21,
+      "status_stage": 4,
+      "scheme": "sinaweibo://cardlist?containerid=100103type%3D225%26q%3D%23jackeylove%E5%B0%BD%E5%8A%9B%E5%B1%80%23%26t%3D&extparam=ai_model%3Ddeepseek%26ori_ai_title%3D%E5%8F%82%E8%80%83%E5%8D%9A%E6%96%87%26material_version%3D1762082639",
+      "top_quote_list": {},
+      "card_multimodal": {
+        "data": [
+          {
+            "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.600.600.50/76c0dacdly8hey0qr5bjnj20go0got9u.jpg?KID=imgbed,tva&Expires=1762093439&ssig=T8SQEdOftv",
+            "h": 2868,
+            "video_url": "",
+            "type": "p",
+            "hit_score_new": 94.287109,
+            "hit_score_final": 88.572266,
+            "doc_score": 5765,
+            "img_pid": "76c0dacdgy1i6xysu1blwj210o27onpd",
+            "vtype": 0,
+            "click_rate": 0.10280373831776,
+            "img": "http://wx4.sinaimg.cn/middle/76c0dacdgy1i6xysu1blwj210o27onpd.jpg",
+            "scheme": "sinaweibo://multimedia?mix_mid=5228576472304417&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=0",
+            "cur_mid": "5228576472304417",
+            "w": 1320,
+            "user_name": "丶涵艺"
+          },
+          {
+            "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.580.580.50/e787c94aly1g3cbk6btbgj20g40g4dgq.jpg?KID=imgbed,tva&Expires=1762093439&ssig=BMoxEaNjd9",
+            "h": 1221,
+            "video_url": "",
+            "type": "p",
+            "hit_score_new": 50.195312,
+            "hit_score_final": 51.717186,
+            "doc_score": 2771,
+            "img_pid": "e787c94agy1i6ugcg5xozj21te0xxk7p",
+            "vtype": 0,
+            "click_rate": 0.087324081313526,
+            "img": "http://wx3.sinaimg.cn/middle/e787c94agy1i6ugcg5xozj21te0xxk7p.jpg",
+            "scheme": "sinaweibo://multimedia?mix_mid=5227474310925609&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=2&multi_count=0",
+            "cur_mid": "5227474310925609",
+            "w": 2354,
+            "user_name": "尹天CLANG"
+          },
+          {
+            "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.480.480.50/dd682815ly8i4c7vl7ltnj20dc0dcgm8.jpg?KID=imgbed,tva&Expires=1762093439&ssig=wQf2X06cTe",
+            "h": 1920,
+            "video_url": "https://video.weibo.com/show?fid=1034:5227502696857699",
+            "type": "v",
+            "hit_score_new": 56.103516,
+            "hit_score_final": 56.062107,
+            "doc_score": 2593,
+            "img_pid": "dd682815ly1i6ujkbqc8fj20u01hcaed",
+            "vtype": 0,
+            "click_rate": 0.080645161290323,
+            "img": "http://wx2.sinaimg.cn/middle/dd682815ly1i6ujkbqc8fj20u01hcaed.jpg",
+            "scheme": "sinaweibo://video/vvs?mid=5227503725318767&multi_paragraph=2&multi_count=1",
+            "cur_mid": "5227503725318767",
+            "w": 1080,
+            "user_name": "一警戌砚"
+          },
+          {
+            "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.600.600.50/76c0dacdly8hey0qr5bjnj20go0got9u.jpg?KID=imgbed,tva&Expires=1762093439&ssig=T8SQEdOftv",
+            "h": 2868,
+            "video_url": "",
+            "type": "p",
+            "hit_score_new": 94.287109,
+            "hit_score_final": 88.572266,
+            "doc_score": 5765,
+            "img_pid": "76c0dacdgy1i6xysu1blwj210o27onpd",
+            "vtype": 0,
+            "click_rate": 0.10280373831776,
+            "img": "http://wx4.sinaimg.cn/middle/76c0dacdgy1i6xysu1blwj210o27onpd.jpg",
+            "scheme": "sinaweibo://multimedia?mix_mid=5228576472304417&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=0",
+            "cur_mid": "5228576472304417",
+            "w": 1320,
+            "user_name": "丶涵艺"
+          }
+        ],
+        "type": "mediablock"
+      },
+      "share_card_multimodal": {
+        "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.600.600.50/76c0dacdly8hey0qr5bjnj20go0got9u.jpg?KID=imgbed,tva&Expires=1762093439&ssig=T8SQEdOftv",
+        "h": 2868,
+        "video_url": "",
+        "type": "p",
+        "hit_score_new": 94.287109,
+        "hit_score_final": 88.572266,
+        "doc_score": 5765,
+        "img_pid": "76c0dacdgy1i6xysu1blwj210o27onpd",
+        "vtype": 0,
+        "click_rate": 0.10280373831776,
+        "img": "http://wx4.sinaimg.cn/middle/76c0dacdgy1i6xysu1blwj210o27onpd.jpg",
+        "scheme": "sinaweibo://multimedia?mix_mid=5228576472304417&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=0",
+        "cur_mid": "5228576472304417",
+        "w": 1320,
+        "user_name": "丶涵艺"
+      },
+      "basemodel": "实验组9",
+      "query": "#JackeyLove尽力局#",
+      "sorted_material_list": null,
+      "model": "deepseek",
+      "cot": 1,
+      "short_url": "http://t.cn/AXASx7KF",
+      "abtest_info": {
+        "chat_entrance": 1
+      },
+      "msg_format": "markdown",
+      "wenda": {
+        "forward_gen": 0
+      },
+      "share_info": {
+        "status": 3,
+        "display_name": "#JackeyLove尽力局#",
+        "url": "http://t.cn/AXASSu4c",
+        "comment_content": "",
+        "tips": "#JackeyLove尽力局#的相关内容，来智搜看看",
+        "unify_md5": "f22a8c32d824f09bfee1d7a9c75b2890",
+        "page_id": "2329641af8641dd4fdb17710b1caa1fe09f990"
+      },
+      "msg_json": "{}",
+      "page_id": "2329641af8641dd4fdb17710b1caa1fe09f990",
+      "link_list": [
+        "sinaweibo://detail?mblogid=5228574660367835",
+        "sinaweibo://detail?mblogid=5228603781939918",
+        "sinaweibo://detail?mblogid=5228579534934013",
+        "sinaweibo://detail?mblogid=5175392450642111",
+        "sinaweibo://detail?mblogid=5213077512916681",
+        "sinaweibo://detail?mblogid=4970906951620416",
+        "sinaweibo://detail?mblogid=5114798980728131",
+        "broadsocial_res://",
+        "historyweibo://4907929242960942",
+        "historyweibo://4932136098600608",
+        "historyweibo://4932136098600608",
+        "sinaweibo://detail?mblogid=5228576472304417",
+        "sinaweibo://detail?mblogid=5228579220095404",
+        "sinaweibo://detail?mblogid=5228575524652969",
+        "sinaweibo://detail?mblogid=5228615547490878",
+        "sinaweibo://detail?mblogid=5228612997350259",
+        "sinaweibo://detail?mblogid=5228612391274775",
+        "sinaweibo://detail?mblogid=5228576212783630",
+        "sinaweibo://detail?mblogid=5228588276384359",
+        "sinaweibo://detail?mblogid=5228606664214890",
+        "sinaweibo://detail?mblogid=5227474310925609",
+        "sinaweibo://detail?mblogid=5225680452455690",
+        "sinaweibo://detail?mblogid=5115233922455996",
+        "sinaweibo://detail?mblogid=5227503725318767",
+        "sinaweibo://detail?mblogid=5228577386926030"
+      ],
+      "mid_list": null,
+      "query_field": "47",
+      "version": "2025-11-02 19:23:59.025000-4417",
+      "profile_image_url": "",
+      "user_info": {},
+      "show_ctrl": {
+        "quote": {}
+      },
+      "qs_status": 0,
+      "msg": "<think><br><br>嗯，用户查询的是\"jackeylove尽力局\"，看起来是想了解最近电竞比赛中关于选手JackeyLove的表现评价。从搜索结果看，这主要涉及2025年英雄联盟全球总决赛（S15）TES对阵T1的半决赛情况。<br><br>用户可能是JackeyLove的粉丝或关注电竞赛事的观众，想了解比赛详情和舆论反应。需要重点呈现比赛实况、专业评价和粉丝争议三个维度。<br><br>整理搜索结果发现核心信息集中在三方面：<br>1 比赛数据与表现<br>T1以压倒性优势3:0领先，JackeyLove使用飞机时有过中路单杀Gumayusi的高光，但团战被Doran等人针对秒杀。解说指出其维鲁斯前期曾有顶级发挥，但整体受制于团队配合问题。<br><br>2 战术与团队问题<br>多名分析师提到TES存在BP失误（如选择娜美软辅而非硬辅），野辅联动弱于T1，上单369\"玩着玩着家就没了\"。战马教练直言\"游戏现在是下野的版本\"，暗示战术重心偏差。<br><br>3 舆论两极分化<br>\"尽力局\"已成梗文化，大V涵艺连续发文渲染悲情，但普通用户质疑\"顶薪选手015战绩\"。争议焦点在于个人能力与团队责任的划分。<br><br>需要特别注意时效性，优先选用11月2日比赛当天的信息[^12-16]。对于6月的WE爆冷旧闻和9月夏决内容仅作背景补充。关于\"尽力局\"的梗文化溯源可提及结果7的娱乐性内容，但非重点。<br><br>在回答结构上考虑：先客观描述赛场表现，再分析团队症结，最后呈现舆论争议。准备用分段标题增强可读性，关键数据如\"仅剩5滴血逃生\"、\"土龙魂优势\"等保留原描述。对于争议性言论如\"钢刃论\"采用直接引用但不加评判的方式呈现。<br><br></think><br>根据搜索结果中关于\"JackeyLove尽力局\"的讨论，主要集中在2025年英雄联盟全球总决赛（S15）半决赛TES对阵T1的比赛中。以下是综合信息整理：<br>### 一、赛事关键表现与背景<br>1. **比赛结果与局势**  <br>   - TES在S15半决赛中陷入绝境，T1以压倒性优势连赢两局拿到三个赛点。```wbCustomBlock{\"type\": \"quoted\", \"index\": 4, \"data\": {\"num\": [1, 3], \"version\": 2, \"quote_list\": [{\"name\": \"召唤师Park\", \"scheme\": \"sinaweibo://detail?mblogid=5228574660367835\", \"index\": 1, \"label\": \"大v\"}, {\"name\": \"小野的瓜田\", \"scheme\": \"sinaweibo://detail?mblogid=5228579534934013\", \"index\": 3, \"label\": \"\"}], \"name\": \"召唤师Park\", \"img\": \"https://tvax2.sinaimg.cn/crop.16.21.551.551.50/96542c59ly8geqtawegnej20gr0gq0to.jpg?KID=imgbed,tva&Expires=1762093439&ssig=u0Uis2VZBP\", \"scheme\": \"sinaweibo://detail?mblogid=5228574660367835\", \"vType\": 0}}```  <br>   - JackeyLove使用飞机在中路完成对Gumayusi的线杀，试图打出优势，但团战时遭T1上单Doran和其他队员集火秒杀，无法存活输出。T1野辅的绕后配合被评价为\"神级操作\"，进一步压制TES。```wbCustomBlock{\"type\": \"quoted\", \"index\": 5, \"data\": {\"num\": [1, 12, 18], \"version\": 2, \"quote_list\": [{\"name\": \"丶涵艺\", \"scheme\": \"sinaweibo://detail?mblogid=5228576472304417\", \"index\": 12, \"label\": \"大v\"}, {\"name\": \"召唤师Park\", \"scheme\": \"sinaweibo://detail?mblogid=5228574660367835\", \"index\": 1, \"label\": \"\"}, {\"name\": \"丶涵艺\", \"scheme\": \"sinaweibo://detail?mblogid=5228576212783630\", \"index\": 18, \"label\": \"\"}], \"name\": \"丶涵艺\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.600.600.50/76c0dacdly8hey0qr5bjnj20go0got9u.jpg?KID=imgbed,tva&Expires=1762093439&ssig=T8SQEdOftv\", \"scheme\": \"sinaweibo://detail?mblogid=5228576472304417\", \"vType\": 0}}```<br><br>2. **团队问题分析**  <br>   - **战术被动**：TES从对线到团战全程被压制，阵容缺乏先手能力，软辅娜美的选择被质疑\"顺从T1节奏\"，未能有效保护核心输出。```wbCustomBlock{\"type\": \"quoted\", \"index\": 7, \"data\": {\"num\": [3, 18], \"version\": 2, \"quote_list\": [{\"name\": \"小野的瓜田\", \"scheme\": \"sinaweibo://detail?mblogid=5228579534934013\", \"index\": 3, \"label\": \"大v\"}, {\"name\": \"丶涵艺\", \"scheme\": \"sinaweibo://detail?mblogid=5228576212783630\", \"index\": 18, \"label\": \"\"}], \"name\": \"小野的瓜田\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/008xCJoDly8hrq6l9fi5wj30u00u03yx.jpg?KID=imgbed,tva&Expires=1762093439&ssig=xEzfky2Xha\", \"scheme\": \"sinaweibo://detail?mblogid=5228579534934013\", \"vType\": 0}}```  <br>   - **上野脱节**：369（上单）和Kanavi（打野）未能联动，369被指\"玩着玩着家就没了\"，打野失去联赛统治力。辅助Hang与小K（Keria）的差距尤为明显。```wbCustomBlock{\"type\": \"quoted\", \"index\": 8, \"data\": {\"num\": [2, 3, 18], \"version\": 2, \"quote_list\": [{\"name\": \"游叔\", \"scheme\": \"sinaweibo://detail?mblogid=5228603781939918\", \"index\": 2, \"label\": \"大v\"}, {\"name\": \"小野的瓜田\", \"scheme\": \"sinaweibo://detail?mblogid=5228579534934013\", \"index\": 3, \"label\": \"\"}, {\"name\": \"丶涵艺\", \"scheme\": \"sinaweibo://detail?mblogid=5228576212783630\", \"index\": 18, \"label\": \"\"}], \"name\": \"游叔\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/8972f4d7ly8i6hqww3pj8j20u00u0dif.jpg?KID=imgbed,tva&Expires=1762093439&ssig=RKftXU34vr\", \"scheme\": \"sinaweibo://detail?mblogid=5228603781939918\", \"vType\": 0}}```  <br>   - **运营差距**：T1展现出机器般的战术执行力，而TES在资源争夺和团战决策中屡次失误。```wbCustomBlock{\"type\": \"quoted\", \"index\": 9, \"data\": {\"num\": [1, 2], \"version\": 2, \"quote_list\": [{\"name\": \"召唤师Park\", \"scheme\": \"sinaweibo://detail?mblogid=5228574660367835\", \"index\": 1, \"label\": \"\"}, {\"name\": \"游叔\", \"scheme\": \"sinaweibo://detail?mblogid=5228603781939918\", \"index\": 2, \"label\": \"\"}]}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5228576472304417&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.600.600.50/76c0dacdly8hey0qr5bjnj20go0got9u.jpg?KID=imgbed,tva&Expires=1762093439&ssig=T8SQEdOftv) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">丶涵艺</span><img src=\"http://wx4.sinaimg.cn/middle/76c0dacdgy1i6xysu1blwj210o27onpd.jpg\" data-width=2868 data-height=1320></div></media-block><br>### 二、关于\"尽力局\"的争议<br>1. **支持观点**  <br>   - 部分观众和解说认为JackeyLove是TES唯一稳定发挥的点，其在对线期和部分团战中的操作堪称\"顶级\"，但因团队整体劣势难以扭转局面。```wbCustomBlock{\"type\": \"quoted\", \"index\": 12, \"data\": {\"num\": [1, 21, 24], \"version\": 2, \"quote_list\": [{\"name\": \"尹天CLANG\", \"scheme\": \"sinaweibo://detail?mblogid=5227474310925609\", \"index\": 21, \"label\": \"大v\"}, {\"name\": \"召唤师Park\", \"scheme\": \"sinaweibo://detail?mblogid=5228574660367835\", \"index\": 1, \"label\": \"\"}, {\"name\": \"一警戌砚\", \"scheme\": \"sinaweibo://detail?mblogid=5227503725318767\", \"index\": 24, \"label\": \"\"}], \"name\": \"尹天CLANG\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.580.580.50/e787c94aly1g3cbk6btbgj20g40g4dgq.jpg?KID=imgbed,tva&Expires=1762093439&ssig=BMoxEaNjd9\", \"scheme\": \"sinaweibo://detail?mblogid=5227474310925609\", \"vType\": 0}}```  <br>   - 此前对阵G2时，他使用维鲁斯曾打出压制效果，被赞\"破局者\"。```wbCustomBlock{\"type\": \"quoted\", \"index\": 13, \"data\": {\"num\": [21, 24], \"version\": 2, \"quote_list\": [{\"name\": \"尹天CLANG\", \"scheme\": \"sinaweibo://detail?mblogid=5227474310925609\", \"index\": 21, \"label\": \"\"}, {\"name\": \"一警戌砚\", \"scheme\": \"sinaweibo://detail?mblogid=5227503725318767\", \"index\": 24, \"label\": \"\"}]}}```<br><br>2. **质疑声音**  <br>   - **高薪与责任**：有用户指出JackeyLove作为顶薪选手，在关键局中未能carry比赛，且存在对线被爆的情况。```wbCustomBlock{\"type\": \"quoted\", \"index\": 15, \"data\": {\"num\": [17, 19], \"version\": 2, \"quote_list\": [{\"name\": \"kikoz33\", \"scheme\": \"sinaweibo://detail?mblogid=5228612391274775\", \"index\": 17, \"label\": \"\"}, {\"name\": \"海洋小曲奇\", \"scheme\": \"sinaweibo://detail?mblogid=5228588276384359\", \"index\": 19, \"label\": \"\"}]}}```  <br>   - **\"营销论\"争议**：部分粉丝批评其团队过度营销\"尽力\"标签，掩盖了实际表现问题。```wbCustomBlock{\"type\": \"quoted\", \"index\": 16, \"data\": {\"num\": [15, 19], \"version\": 2, \"quote_list\": [{\"name\": \"晓园真甜\", \"scheme\": \"sinaweibo://detail?mblogid=5228615547490878\", \"index\": 15, \"label\": \"\"}, {\"name\": \"海洋小曲奇\", \"scheme\": \"sinaweibo://detail?mblogid=5228588276384359\", \"index\": 19, \"label\": \"\"}]}}```  <br>   - **历史对比**：姿态等主播提到，此前AL战队至少让T1\"冒汗\"，而TES本场未能逼出T1 80%的实力。```wbCustomBlock{\"type\": \"quoted\", \"index\": 17, \"data\": {\"num\": [2], \"version\": 2, \"quote_list\": [{\"name\": \"游叔\", \"scheme\": \"sinaweibo://detail?mblogid=5228603781939918\", \"index\": 2, \"label\": \"\"}]}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5227474310925609&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=2&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.580.580.50/e787c94aly1g3cbk6btbgj20g40g4dgq.jpg?KID=imgbed,tva&Expires=1762093439&ssig=BMoxEaNjd9) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">尹天CLANG</span><img src=\"http://wx3.sinaimg.cn/middle/e787c94agy1i6ugcg5xozj21te0xxk7p.jpg\" data-width=1221 data-height=2354></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5227503725318767&multi_paragraph=2&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.480.480.50/dd682815ly8i4c7vl7ltnj20dc0dcgm8.jpg?KID=imgbed,tva&Expires=1762093439&ssig=wQf2X06cTe) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">一警戌砚</span><img src=\"http://wx2.sinaimg.cn/middle/dd682815ly1i6ujkbqc8fj20u01hcaed.jpg\" data-width=1920 data-height=1080></div></media-block><br>### 三、粉丝反应与未来展望<br>- **粉丝态度分化**：部分呼吁JackeyLove离开TES寻求新突破，另一部分则希望TES调整战术重心。```wbCustomBlock{\"type\": \"quoted\", \"index\": 19, \"data\": {\"num\": [3, 16, 20, 22], \"version\": 2, \"quote_list\": [{\"name\": \"小野的瓜田\", \"scheme\": \"sinaweibo://detail?mblogid=5228579534934013\", \"index\": 3, \"label\": \"\"}, {\"name\": \"乔凌018\", \"scheme\": \"sinaweibo://detail?mblogid=5228612997350259\", \"index\": 16, \"label\": \"\"}, {\"name\": \"楪祈CM\", \"scheme\": \"sinaweibo://detail?mblogid=5228606664214890\", \"index\": 20, \"label\": \"\"}, {\"name\": \"小野的瓜田\", \"scheme\": \"sinaweibo://detail?mblogid=5225680452455690\", \"index\": 22, \"label\": \"\"}]}}```  <br>- **赛区悲观情绪**：T1的强势引发对LPL赛区竞争力的担忧，甚至出现\"希望Faker三连冠\"的言论。```wbCustomBlock{\"type\": \"quoted\", \"index\": 20, \"data\": {\"num\": [14], \"version\": 2, \"quote_list\": [{\"name\": \"__七面相\", \"scheme\": \"sinaweibo://detail?mblogid=5228575524652969\", \"index\": 14, \"label\": \"大v\"}], \"name\": \"__七面相\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/7dffd2f5ly8g94y5gx4juj20u00u00u6.jpg?KID=imgbed,tva&Expires=1762093439&ssig=xd9wLm9FBA\", \"scheme\": \"sinaweibo://detail?mblogid=5228575524652969\", \"vType\": 0}}```  <br>- **选手回应**：JackeyLove在过往采访中曾表示\"会赢下决赛，走向下一个巅峰\"，但本次赛后尚未有公开表态。```wbCustomBlock{\"type\": \"quoted\", \"index\": 21, \"data\": {\"num\": [5], \"version\": 2, \"quote_list\": [{\"name\": \"召唤师Park\", \"scheme\": \"sinaweibo://detail?mblogid=5213077512916681\", \"index\": 5, \"label\": \"\"}]}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5225680452455690&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=3&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/008xCJoDly8hrq6l9fi5wj30u00u03yx.jpg?KID=imgbed,tva&Expires=1762093439&ssig=xEzfky2Xha) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">小野的瓜田</span><img src=\"http://wx4.sinaimg.cn/middle/008xCJoDly1i6oq32wce5j30rj0fetf3.jpg\" data-width=554 data-height=991></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5228575524652969&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=3&multi_count=1\"><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/7dffd2f5ly8g94y5gx4juj20u00u00u6.jpg?KID=imgbed,tva&Expires=1762093439&ssig=xd9wLm9FBA) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">__七面相</span><img src=\"http://wx4.sinaimg.cn/middle/7dffd2f5gy1i6xypsye7rj21hc0u07cd.jpg\" data-width=1080 data-height=1920></div></media-block><br>### 四、其他关联信息<br>- **历史\"尽力局\"梗**：2024年全明星期间，JackeyLove曾与Rookie调侃\"尽力局\"概念，反映该词已成为电竞圈常见语境。```wbCustomBlock{\"type\": \"quoted\", \"index\": 23, \"data\": {\"num\": [7], \"version\": 2, \"quote_list\": [{\"name\": \"玩加电竞\", \"scheme\": \"sinaweibo://detail?mblogid=5114798980728131\", \"index\": 7, \"label\": \"大v\"}], \"name\": \"玩加电竞\", \"img\": \"https://tvax4.sinaimg.cn/crop.10.15.157.157.50/0068GZJSly8h8vlb2gse2j3050050jr6.jpg?KID=imgbed,tva&Expires=1762093439&ssig=NTD%2F6AZ%2F09\", \"scheme\": \"sinaweibo://detail?mblogid=5114798980728131\", \"vType\": 0}}```  <br>- **德杯高光**：2024年德玛西亚杯中，他使用烬完成过关键双杀，但本次S15未再现类似逆转。```wbCustomBlock{\"type\": \"quoted\", \"index\": 24, \"data\": {\"num\": [23], \"version\": 2, \"quote_list\": [{\"name\": \"英雄联盟赛事\", \"scheme\": \"sinaweibo://detail?mblogid=5115233922455996\", \"index\": 23, \"label\": \"大v\"}], \"name\": \"英雄联盟赛事\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.600.600.50/006hzhGely8i5wr5w2dcwj30go0goq3i.jpg?KID=imgbed,tva&Expires=1762093439&ssig=eNAkuQ1ykS\", \"scheme\": \"sinaweibo://detail?mblogid=5115233922455996\", \"vType\": 0}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5115233922455996&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=4&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.600.600.50/006hzhGely8i5wr5w2dcwj30go0goq3i.jpg?KID=imgbed,tva&Expires=1762093439&ssig=eNAkuQ1ykS) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">英雄联盟赛事</span><img src=\"http://wx1.sinaimg.cn/middle/006hzhGegy1hwwdat0jvtj31fv0t37wh.jpg\" data-width=1047 data-height=1867></div></media-block><br>### 综述  <br>\"JackeyLove尽力局\"本质是观众对选手在团队溃败中孤军奋战的评价，既认可其个人能力，也折射出TES战术体系、团队协作的深层问题。未来其职业选择（如转会或留队调整）及TES的阵容重组，将成为关注焦点。```wbCustomBlock{\"type\": \"quoted\", \"index\": 26, \"data\": {\"num\": [16, 20, 22], \"version\": 2, \"quote_list\": [{\"name\": \"乔凌018\", \"scheme\": \"sinaweibo://detail?mblogid=5228612997350259\", \"index\": 16, \"label\": \"\"}, {\"name\": \"楪祈CM\", \"scheme\": \"sinaweibo://detail?mblogid=5228606664214890\", \"index\": 20, \"label\": \"\"}, {\"name\": \"小野的瓜田\", \"scheme\": \"sinaweibo://detail?mblogid=5225680452455690\", \"index\": 22, \"label\": \"\"}]}}```<br>",
+      "uid": "",
+      "current_time": 1762083078,
+      "zs_risk_control": {
+        "land_button_close": 0,
+        "think_text_close": 0
+      },
+      "analysis_time": 1762082783
+    }
+  },
+  "links": [
+    "sinaweibo://detail?mblogid=5228574660367835",
+    "sinaweibo://detail?mblogid=5228603781939918",
+    "sinaweibo://detail?mblogid=5228579534934013",
+    "sinaweibo://detail?mblogid=5175392450642111",
+    "sinaweibo://detail?mblogid=5213077512916681",
+    "sinaweibo://detail?mblogid=4970906951620416",
+    "sinaweibo://detail?mblogid=5114798980728131",
+    "broadsocial_res://",
+    "historyweibo://4907929242960942",
+    "historyweibo://4932136098600608",
+    "historyweibo://4932136098600608",
+    "sinaweibo://detail?mblogid=5228576472304417",
+    "sinaweibo://detail?mblogid=5228579220095404",
+    "sinaweibo://detail?mblogid=5228575524652969",
+    "sinaweibo://detail?mblogid=5228615547490878",
+    "sinaweibo://detail?mblogid=5228612997350259",
+    "sinaweibo://detail?mblogid=5228612391274775",
+    "sinaweibo://detail?mblogid=5228576212783630",
+    "sinaweibo://detail?mblogid=5228588276384359",
+    "sinaweibo://detail?mblogid=5228606664214890",
+    "sinaweibo://detail?mblogid=5227474310925609",
+    "sinaweibo://detail?mblogid=5225680452455690",
+    "sinaweibo://detail?mblogid=5115233922455996",
+    "sinaweibo://detail?mblogid=5227503725318767",
+    "sinaweibo://detail?mblogid=5228577386926030"
+  ],
+  "media": [
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/76c0dacdgy1i6xysu1blwj210o27onpd.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/76c0dacdgy1i6xysu1blwj210o27onpd.jpg",
+      "alt": "丶涵艺",
+      "width": 2868,
+      "height": 1320,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/76c0dacdgy1i6xysu1blwj210o27onpd.jpg"
+      ],
+      "user": "丶涵艺"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/e787c94agy1i6ugcg5xozj21te0xxk7p.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/e787c94agy1i6ugcg5xozj21te0xxk7p.jpg",
+      "alt": "尹天CLANG",
+      "width": 1221,
+      "height": 2354,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/e787c94agy1i6ugcg5xozj21te0xxk7p.jpg"
+      ],
+      "user": "尹天CLANG"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/dd682815ly1i6ujkbqc8fj20u01hcaed.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/dd682815ly1i6ujkbqc8fj20u01hcaed.jpg",
+      "alt": "一警戌砚",
+      "width": 1920,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/dd682815ly1i6ujkbqc8fj20u01hcaed.jpg"
+      ],
+      "user": "一警戌砚"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/008xCJoDly1i6oq32wce5j30rj0fetf3.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/008xCJoDly1i6oq32wce5j30rj0fetf3.jpg",
+      "alt": "小野的瓜田",
+      "width": 554,
+      "height": 991,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/008xCJoDly1i6oq32wce5j30rj0fetf3.jpg"
+      ],
+      "user": "小野的瓜田"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/7dffd2f5gy1i6xypsye7rj21hc0u07cd.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/7dffd2f5gy1i6xypsye7rj21hc0u07cd.jpg",
+      "alt": "__七面相",
+      "width": 1080,
+      "height": 1920,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/7dffd2f5gy1i6xypsye7rj21hc0u07cd.jpg"
+      ],
+      "user": "__七面相"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/006hzhGegy1hwwdat0jvtj31fv0t37wh.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/006hzhGegy1hwwdat0jvtj31fv0t37wh.jpg",
+      "alt": "英雄联盟赛事",
+      "width": 1047,
+      "height": 1867,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/006hzhGegy1hwwdat0jvtj31fv0t37wh.jpg"
+      ],
+      "user": "英雄联盟赛事"
+    }
+  ],
+  "html_path": "data/aicard/hourly/2025-11-02/19/jackeylove.html"
+}

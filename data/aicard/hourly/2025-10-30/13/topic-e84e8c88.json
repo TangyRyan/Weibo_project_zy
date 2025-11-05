@@ -1,0 +1,57 @@
+{
+  "meta": {
+    "query": "#特朗普回应会晤#",
+    "status_code": 200,
+    "fetched_at": "2025-10-31T22:41:52+08:00",
+    "response": {
+      "loop_times": 200,
+      "top_quote_list": {},
+      "status": 1,
+      "wenda": {
+        "forward_gen": 0
+      },
+      "ext_show": {},
+      "analysis_time": 0,
+      "zs_risk_control": {
+        "ban_chat_enterance": 1
+      },
+      "msg_json": "",
+      "comment_info": {},
+      "status_stage": 0,
+      "scheme": "",
+      "query_category": "",
+      "abtest_info": {
+        "chat_entrance": 1
+      },
+      "current_time": 1761921712,
+      "user_info": {},
+      "version": "",
+      "model": "",
+      "query": "#特朗普回应会晤#",
+      "cot": 1,
+      "profile_image_url": "",
+      "ab_suffix": "default",
+      "msg_format": "markdown",
+      "msg": "",
+      "share_info": {
+        "comment_content": "",
+        "page_id": "",
+        "status": 1,
+        "tips": "#特朗普回应会晤#的相关内容，来智搜看看",
+        "url": "http://t.cn/AXAylmI7",
+        "display_name": "#特朗普回应会晤#",
+        "unify_md5": "e84e8c883c8a1fa0eeeab34ca49ed585"
+      },
+      "chat_status_stage": 0,
+      "share_text": "#特朗普回应会晤#的相关内容，来智搜看看",
+      "qs_status": 262208,
+      "mid_list": "",
+      "reference_num": 0,
+      "qs_status_info": "{\"qs_q_status\":256,\"qs_c_status\":262214,\"qs_status\":262208,\"qs_u_status\":0,\"qs_r_status\":0,\"ab_lab\":{}}",
+      "uid": ""
+    }
+  },
+  "links": [],
+  "media": [],
+  "html_path": "data/aicard/hourly/2025-10-30/13/topic-e84e8c88.html"
+}

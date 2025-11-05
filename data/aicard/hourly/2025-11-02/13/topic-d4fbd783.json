@@ -1,0 +1,386 @@
+{
+  "meta": {
+    "query": "#吴昕微信好友竟然这么少#",
+    "status_code": 200,
+    "fetched_at": "2025-11-02T13:32:36+08:00",
+    "response": {
+      "msg_format": "markdown",
+      "status": 2,
+      "analysis_time": 1762061421,
+      "qs_status": 0,
+      "ext_show": {},
+      "loop_times": 200,
+      "qs_status_info": "{\"qs_c_status\":8388608,\"qs_r_status\":0,\"qs_status\":0,\"qs_q_status\":0,\"ab_lab\":{},\"qs_u_status\":0}",
+      "mid_list": null,
+      "reference_num": 45,
+      "query_category": "",
+      "status_stage": 4,
+      "link_list": [
+        "sinaweibo://detail?mblogid=5228467240307697",
+        "sinaweibo://detail?mblogid=5228520489881507",
+        "sinaweibo://detail?mblogid=5228517856904652",
+        "sinaweibo://detail?mblogid=5228520424080436",
+        "sinaweibo://detail?mblogid=5228515643621906",
+        "sinaweibo://detail?mblogid=5228515264827253",
+        "sinaweibo://detail?mblogid=5228518712541827",
+        "sinaweibo://detail?mblogid=5228517294871116",
+        "sinaweibo://detail?mblogid=5228519022920855",
+        "sinaweibo://detail?mblogid=5228519350601155",
+        "sinaweibo://detail?mblogid=5228516980297072",
+        "sinaweibo://detail?mblogid=5228515193520333",
+        "sinaweibo://detail?mblogid=5228515957935678",
+        "sinaweibo://detail?mblogid=5228516060698079",
+        "sinaweibo://detail?mblogid=5228519527288117",
+        "historyweibo://5228467240307697",
+        "historyweibo://5227032654907566",
+        "historyweibo://5227032654907566",
+        "sinaweibo://detail?mblogid=5228517429346664",
+        "sinaweibo://detail?mblogid=5228513637698071",
+        "sinaweibo://detail?mblogid=5228517727147177",
+        "sinaweibo://detail?mblogid=5228521997732810",
+        "sinaweibo://detail?mblogid=5228514833860569",
+        "sinaweibo://detail?mblogid=5228520013304418",
+        "sinaweibo://detail?mblogid=5228515168619959",
+        "sinaweibo://detail?mblogid=5228514829929542",
+        "sinaweibo://detail?mblogid=5228521318518439",
+        "sinaweibo://detail?mblogid=5228519783402489",
+        "sinaweibo://detail?mblogid=5228519661765767",
+        "sinaweibo://detail?mblogid=5228524612882827",
+        "sinaweibo://detail?mblogid=5228514142063611",
+        "sinaweibo://detail?mblogid=5228525109644355",
+        "sinaweibo://detail?mblogid=5228526670449958",
+        "sinaweibo://detail?mblogid=5228519435277077",
+        "sinaweibo://detail?mblogid=5228526279856134",
+        "sinaweibo://detail?mblogid=5228525776798853",
+        "sinaweibo://detail?mblogid=5228525718078007",
+        "sinaweibo://detail?mblogid=5228525665915167",
+        "sinaweibo://detail?mblogid=5228524946065012",
+        "sinaweibo://detail?mblogid=5228522585195539",
+        "sinaweibo://detail?mblogid=5228515575468167",
+        "sinaweibo://detail?mblogid=5228522534602506",
+        "sinaweibo://detail?mblogid=5228518193760050",
+        "sinaweibo://detail?mblogid=5228518591957287",
+        "sinaweibo://detail?mblogid=5228518378049687",
+        "sinaweibo://detail?mblogid=5228515461955845",
+        "sinaweibo://detail?mblogid=5228522898457940",
+        "sinaweibo://detail?mblogid=5228518862491884"
+      ],
+      "top_quote_list": {},
+      "q_attr": {
+        "reply_cid": "",
+        "comment_from_type": "",
+        "from_uid": "6583334488",
+        "from_request_id": "1.76206136389E12",
+        "mid": ""
+      },
+      "card_multimodal": {
+        "type": "mediablock",
+        "data": [
+          {
+            "click_rate": 0,
+            "h": 720,
+            "img": "http://wx2.sinaimg.cn/middle/005XzJNwly1i6xm9tx07gj60zk0k0dkv02.jpg",
+            "scheme": "sinaweibo://video/vvs?mid=5228467240307697&multi_paragraph=1&multi_count=0",
+            "type": "v",
+            "user_name": "影视圈达人",
+            "hit_score_final": 0,
+            "user_avatar": "https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/005XzJNwly8i6rwgw2q2tj60u00u0tao02.jpg?KID=imgbed,tva&Expires=1762072164&ssig=GwjaitTIe1",
+            "w": 1280,
+            "video_url": "https://video.weibo.com/show?fid=1034:5228467114147912",
+            "vtype": 0,
+            "hit_score_new": 0,
+            "doc_score": 0,
+            "img_pid": "005XzJNwly1i6xm9tx07gj60zk0k0dkv02",
+            "cur_mid": "5228467240307697"
+          },
+          {
+            "click_rate": 0,
+            "h": 1920,
+            "img": "http://wx2.sinaimg.cn/middle/0079rfmmly1i6xryd6g3ij30u01hc40l.jpg",
+            "scheme": "sinaweibo://video/vvs?mid=5228516980297072&multi_paragraph=1&multi_count=1",
+            "type": "v",
+            "user_name": "初见_lgx",
+            "hit_score_final": 82.49102,
+            "user_avatar": "https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/0079rfmmly8hz3pu7cfdgj30u00u0dja.jpg?KID=imgbed,tva&Expires=1762072165&ssig=iVQvfCqrzb",
+            "w": 1080,
+            "video_url": "https://video.weibo.com/show?fid=1034:5228516577574931",
+            "vtype": 0,
+            "hit_score_new": 88.818359,
+            "doc_score": 5417,
+            "img_pid": "0079rfmmly1i6xryd6g3ij30u01hc40l",
+            "cur_mid": "5228516980297072"
+          },
+          {
+            "click_rate": 0,
+            "h": 1280,
+            "img": "http://wx4.sinaimg.cn/middle/008eKHZpgy1i6xs7p1ixcj30k00zkq4d.jpg",
+            "scheme": "sinaweibo://multimedia?mix_mid=5228519022920855&mix_index=0&multi_paragraph=2&multi_count=0",
+            "type": "v",
+            "user_name": "大望路一只娱",
+            "hit_score_final": 88.8461,
+            "user_avatar": "https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/008eKHZply8hxfsvvjot3j30u00u0wfc.jpg?KID=imgbed,tva&Expires=1762072165&ssig=mQUU7hsvmP",
+            "w": 720,
+            "video_url": "https://video.weibo.com/show?fid=1034:5228518544441365",
+            "vtype": 0,
+            "hit_score_new": 95.410156,
+            "doc_score": 5645,
+            "img_pid": "008eKHZpgy1i6xs7p1ixcj30k00zkq4d",
+            "cur_mid": "5228519022920855"
+          },
+          {
+            "click_rate": 0,
+            "h": 720,
+            "img": "http://wx2.sinaimg.cn/middle/005XzJNwly1i6xm9tx07gj60zk0k0dkv02.jpg",
+            "scheme": "sinaweibo://video/vvs?mid=5228467240307697&multi_paragraph=1&multi_count=0",
+            "type": "v",
+            "user_name": "影视圈达人",
+            "hit_score_final": 0,
+            "user_avatar": "https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/005XzJNwly8i6rwgw2q2tj60u00u0tao02.jpg?KID=imgbed,tva&Expires=1762072164&ssig=GwjaitTIe1",
+            "w": 1280,
+            "video_url": "https://video.weibo.com/show?fid=1034:5228467114147912",
+            "vtype": 0,
+            "hit_score_new": 0,
+            "doc_score": 0,
+            "img_pid": "005XzJNwly1i6xm9tx07gj60zk0k0dkv02",
+            "cur_mid": "5228467240307697"
+          }
+        ]
+      },
+      "model": "deepseek_stream",
+      "wenda": {
+        "forward_gen": 0
+      },
+      "basemodel": "实验组5",
+      "msg": "<think><br>嗯，用户让我分析吴昕微信好友数量少的原因和相关讨论。我看到了很多搜索结果，其中包含吴昕自曝微信好友只有1000多人（精确数字有1438人和1000多人两种说法），相比杜海涛的6065人和小鹿的2900人确实很少。这个数字引发了网友热议，因为作为从业近20年的主持人，人们预期她应该有更多人脉。<br><br>从性格角度看，多个搜索结果提到吴昕是内向型人格（i人），她自称\"不擅社交\"\"很少主动加人\"。有内容还具体描述了她给领导发拜年信息时会产生巨大心理内耗，何炅甚至曝出她通讯录只有20人，快乐家族成员的备注都是\"21楼\"\"22楼\"这样的隐晦称呼。<br><br>她的社交哲学也很鲜明，强调重质不重量。她认为好友贵在\"同频\"，注重相处时的自然舒适度。在节目中她提到被蔡康永的\"人来人往只是日常\"观点触动，从而领悟到关系的流动性。这种态度与她近年心态蜕变有关。<br><br>有观点认为这是娱乐圈的\"清流\"行为，在量化攀比的时代坚守自我边界。不过也有少数质疑声音认为从业者需要基础人脉支撑事业。普通网友则共鸣强烈，如账号\"早起回锅肉o\"自称只有六百多好友。<br><br>吴昕与杜海涛的二十年友情被多次提及，成为\"贵精不贵多\"的例证。多个搜索结果描述他们的互动模式：熟悉彼此习惯，在人生规划中给对方留位置，视频播客《涛昕窝》展现了他们自然的相处状态。<br><br>在个人成长方面，吴昕从早年\"快本小透明\"的焦虑状态，蜕变到现在\"先管好自己\"的通透状态。这种改变延伸到了她的社交选择。她独居的生活方式也被多次描述，包括点外卖、泡脚养生等细节。<br><br>对于公众讨论的价值，搜索结果提到这已超越明星八卦，引发对社交本质的思考。在现代社会量化攀比背景下，吴昕的选择成为\"反内卷\"的符号，让公众反思人脉焦虑。<br><br>最后要注意两个细节：网友\"十四松雪\"称吴昕好友\"不足两百人\"，与主流说法不符；部分内容提到她曾误拒刘嘉玲好友请求，侧面印证其社交圈极小。综合来看，这反映了数字时代下个体对社交自主权的坚持。<br><br></think><br>吴昕在2025年11月初的节目中自曝微信好友仅1438人，这一数据远低于公众对娱乐圈资深主持人的预期（从业近20年），引发广泛讨论。以下是综合多方信息的关键分析：<br>### 🔍 **一、核心事实与数据反差**<br>1. **好友数量对比**  <br>   - 吴昕微信好友数**1438人**，同场嘉宾小鹿有2900人，杜海涛则高达6065人——吴昕与小鹿的总和不足杜海涛的70%。```wbCustomBlock{\"type\": \"quoted\", \"index\": 5, \"data\": {\"num\": [1, 22, 43, 45, 48], \"version\": 2, \"quote_list\": [{\"name\": \"甜灯啊\", \"scheme\": \"sinaweibo://detail?mblogid=5228521997732810\", \"index\": 22, \"label\": \"大v\"}, {\"name\": \"影视圈达人\", \"scheme\": \"sinaweibo://detail?mblogid=5228467240307697\", \"index\": 1, \"label\": \"\"}, {\"name\": \"一禾小鲨鱼\", \"scheme\": \"sinaweibo://detail?mblogid=5228518193760050\", \"index\": 43, \"label\": \"\"}, {\"name\": \"Elescor\", \"scheme\": \"sinaweibo://detail?mblogid=5228518378049687\", \"index\": 45, \"label\": \"\"}, {\"name\": \"-吃7口甜宁-\", \"scheme\": \"sinaweibo://detail?mblogid=5228518862491884\", \"index\": 48, \"label\": \"\"}], \"name\": \"甜灯啊\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.828.828.50/69907d7ely8gy9vkbunayj20n00n0ta5.jpg?KID=imgbed,tva&Expires=1762072165&ssig=HQQMnOIwq%2B\", \"scheme\": \"sinaweibo://detail?mblogid=5228521997732810\", \"vType\": 0}}```<br>   - 作为《快乐大本营》常驻主持人（2006-2020年），公众预期其行业人脉应远超千人规模，但实际数据打破了“明星好友必破万”的刻板印象。```wbCustomBlock{\"type\": \"quoted\", \"index\": 6, \"data\": {\"num\": [46], \"version\": 2, \"quote_list\": [{\"name\": \"圆妤枝\", \"scheme\": \"sinaweibo://detail?mblogid=5228515461955845\", \"index\": 46, \"label\": \"\"}]}}```<br><br>2. **吴昕的自我剖析**  <br>   - **被动社交模式**：坦言“不擅主动交友”“很少主动加人”，甚至调侃“一生都加不了杜海涛那么多好友”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 8, \"data\": {\"num\": [1, 45, 48], \"version\": 2, \"quote_list\": [{\"name\": \"影视圈达人\", \"scheme\": \"sinaweibo://detail?mblogid=5228467240307697\", \"index\": 1, \"label\": \"大v\"}, {\"name\": \"Elescor\", \"scheme\": \"sinaweibo://detail?mblogid=5228518378049687\", \"index\": 45, \"label\": \"\"}, {\"name\": \"-吃7口甜宁-\", \"scheme\": \"sinaweibo://detail?mblogid=5228518862491884\", \"index\": 48, \"label\": \"\"}], \"name\": \"影视圈达人\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/005XzJNwly8i6rwgw2q2tj60u00u0tao02.jpg?KID=imgbed,tva&Expires=1762072164&ssig=GwjaitTIe1\", \"scheme\": \"sinaweibo://detail?mblogid=5228467240307697\", \"vType\": 0}}```<br>   - **社交内耗体验**：提及给领导发拜年消息时需精心措辞，担心“显得俗气或不被回复”，过程“非常煎熬”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 9, \"data\": {\"num\": [8, 21], \"version\": 2, \"quote_list\": [{\"name\": \"工程师爱养生\", \"scheme\": \"sinaweibo://detail?mblogid=5228517294871116\", \"index\": 8, \"label\": \"\"}, {\"name\": \"祭海歌\", \"scheme\": \"sinaweibo://detail?mblogid=5228517727147177\", \"index\": 21, \"label\": \"\"}]}}```<br>   - **隐私保护习惯**：好友备注用“21楼”“22楼”等隐晦代号（如快乐家族成员），仅核心亲友知晓。```wbCustomBlock{\"type\": \"quoted\", \"index\": 10, \"data\": {\"num\": [11], \"version\": 2, \"quote_list\": [{\"name\": \"初见_lgx\", \"scheme\": \"sinaweibo://detail?mblogid=5228516980297072\", \"index\": 11, \"label\": \"\"}]}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5228467240307697&multi_paragraph=1&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/005XzJNwly8i6rwgw2q2tj60u00u0tao02.jpg?KID=imgbed,tva&Expires=1762072164&ssig=GwjaitTIe1) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">影视圈达人</span><img src=\"http://wx2.sinaimg.cn/middle/005XzJNwly1i6xm9tx07gj60zk0k0dkv02.jpg\" data-width=720 data-height=1280></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5228516980297072&multi_paragraph=1&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/0079rfmmly8hz3pu7cfdgj30u00u0dja.jpg?KID=imgbed,tva&Expires=1762072165&ssig=iVQvfCqrzb) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">初见_lgx</span><img src=\"http://wx2.sinaimg.cn/middle/0079rfmmly1i6xryd6g3ij30u01hc40l.jpg\" data-width=1920 data-height=1080></div></media-block><br>### 🌱 **二、好友数量少的深层原因**<br>1. **性格底色：内向型人格（i人）**  <br>   - 多次强调自己是“被动型社交者”，对欣赏的人若无契机便不加微信。```wbCustomBlock{\"type\": \"quoted\", \"index\": 14, \"data\": {\"num\": [9, 26, 30], \"version\": 2, \"quote_list\": [{\"name\": \"大望路一只娱\", \"scheme\": \"sinaweibo://detail?mblogid=5228519022920855\", \"index\": 9, \"label\": \"大v\"}, {\"name\": \"非知名互联网嘴替\", \"scheme\": \"sinaweibo://detail?mblogid=5228514829929542\", \"index\": 26, \"label\": \"\"}, {\"name\": \"碎雾绪\", \"scheme\": \"sinaweibo://detail?mblogid=5228524612882827\", \"index\": 30, \"label\": \"\"}], \"name\": \"大望路一只娱\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/008eKHZply8hxfsvvjot3j30u00u0wfc.jpg?KID=imgbed,tva&Expires=1762072165&ssig=mQUU7hsvmP\", \"scheme\": \"sinaweibo://detail?mblogid=5228519022920855\", \"vType\": 0}}```<br>   - 自述从小不善交际，朋友多为阶段性，坦言社交会“掏空能量”，需独处充电。```wbCustomBlock{\"type\": \"quoted\", \"index\": 15, \"data\": {\"num\": [21, 30, 38], \"version\": 2, \"quote_list\": [{\"name\": \"祭海歌\", \"scheme\": \"sinaweibo://detail?mblogid=5228517727147177\", \"index\": 21, \"label\": \"\"}, {\"name\": \"碎雾绪\", \"scheme\": \"sinaweibo://detail?mblogid=5228524612882827\", \"index\": 30, \"label\": \"\"}, {\"name\": \"水水waterbottle\", \"scheme\": \"sinaweibo://detail?mblogid=5228525665915167\", \"index\": 38, \"label\": \"\"}]}}```<br><br>2. **社交哲学：重质不重量**  <br>   - **深度联结优先**：认为好友贵在“同频”，注重相处时的自然舒适感，而非功利性人脉积累。如何炅所言，交友标准是“是否愿意单独相处且不尴尬”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 17, \"data\": {\"num\": [9, 13, 15, 38], \"version\": 2, \"quote_list\": [{\"name\": \"大望路一只娱\", \"scheme\": \"sinaweibo://detail?mblogid=5228519022920855\", \"index\": 9, \"label\": \"\"}, {\"name\": \"宝宝肚肚_打雷啦\", \"scheme\": \"sinaweibo://detail?mblogid=5228515957935678\", \"index\": 13, \"label\": \"\"}, {\"name\": \"麻婆液态氮\", \"scheme\": \"sinaweibo://detail?mblogid=5228519527288117\", \"index\": 15, \"label\": \"\"}, {\"name\": \"水水waterbottle\", \"scheme\": \"sinaweibo://detail?mblogid=5228525665915167\", \"index\": 38, \"label\": \"\"}]}}```<br>   - **拒绝无效社交**：将精力留给“值得的人”，被网友赞为“娱乐圈清流”。杜海涛亦印证二人20年友情“已升华为亲情”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 18, \"data\": {\"num\": [4, 13, 22, 31], \"version\": 2, \"quote_list\": [{\"name\": \"芒果糖小蜜\", \"scheme\": \"sinaweibo://detail?mblogid=5228520424080436\", \"index\": 4, \"label\": \"\"}, {\"name\": \"宝宝肚肚_打雷啦\", \"scheme\": \"sinaweibo://detail?mblogid=5228515957935678\", \"index\": 13, \"label\": \"\"}, {\"name\": \"甜灯啊\", \"scheme\": \"sinaweibo://detail?mblogid=5228521997732810\", \"index\": 22, \"label\": \"\"}, {\"name\": \"饭点了吧\", \"scheme\": \"sinaweibo://detail?mblogid=5228514142063611\", \"index\": 31, \"label\": \"\"}]}}```<br><br>3. **心态成长与蜕变**  <br>   - **从焦虑到通透**：早年因“快本小透明”标签自我怀疑，近年通过舞台剧、综艺（如《乘风破浪的姐姐》《大侦探》）突破后，蜕变为“先管好自己”的自信状态。```wbCustomBlock{\"type\": \"quoted\", \"index\": 20, \"data\": {\"num\": [9], \"version\": 2, \"quote_list\": [{\"name\": \"大望路一只娱\", \"scheme\": \"sinaweibo://detail?mblogid=5228519022920855\", \"index\": 9, \"label\": \"\"}]}}```<br>   - **蔡康永语录影响**：受“人来人往只是日常”观点触动，接受关系的流动性，不再恐惧失去。```wbCustomBlock{\"type\": \"quoted\", \"index\": 21, \"data\": {\"num\": [5, 11, 24], \"version\": 2, \"quote_list\": [{\"name\": \"汉南洞88知名恋父癖\", \"scheme\": \"sinaweibo://detail?mblogid=5228515643621906\", \"index\": 5, \"label\": \"\"}, {\"name\": \"初见_lgx\", \"scheme\": \"sinaweibo://detail?mblogid=5228516980297072\", \"index\": 11, \"label\": \"\"}, {\"name\": \"悲情番\", \"scheme\": \"sinaweibo://detail?mblogid=5228520013304418\", \"index\": 24, \"label\": \"\"}]}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://multimedia?mix_mid=5228519022920855&mix_index=0&multi_paragraph=2&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/008eKHZply8hxfsvvjot3j30u00u0wfc.jpg?KID=imgbed,tva&Expires=1762072165&ssig=mQUU7hsvmP) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">大望路一只娱</span><img src=\"http://wx4.sinaimg.cn/middle/008eKHZpgy1i6xs7p1ixcj30k00zkq4d.jpg\" data-width=1280 data-height=720></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5228524612882827&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=2&multi_count=1\"><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/0062Vzktly8i6wy7au5xtj30u00u0gni.jpg?KID=imgbed,tva&Expires=1762072165&ssig=IXzti67UUA) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">碎雾绪</span><img src=\"http://wx1.sinaimg.cn/middle/0062Vzktly1i6xssdyykaj30qo17aai4.jpg\" data-width=1558 data-height=960></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5228519527288117&multi_paragraph=2&multi_count=2\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/6701b5fdly8i6sgml2r1rj20u00u0dhd.jpg?KID=imgbed,tva&Expires=1762072165&ssig=Uvrv7PcHel) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">麻婆液态氮</span><img src=\"http://wx4.sinaimg.cn/middle/6701b5fdly1i6xs9nmiafj20k00zkdh2.jpg\" data-width=1280 data-height=720></div><div data-type=\"v\" data-scheme=\"sinaweibo://multimedia?mix_mid=5228515643621906&mix_index=0&multi_paragraph=2&multi_count=3\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.737.737.50/006E85Zcly8i6rryv6cjmj30kh0khwfp.jpg?KID=imgbed,tva&Expires=1762072165&ssig=12Ocrgrxux) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">汉南洞88知名恋父癖</span><img src=\"http://wx4.sinaimg.cn/middle/006E85Zcly1i6xrtf8v6hj30us0k0jrx.jpg\" data-width=720 data-height=1108></div><div data-type=\"v\" data-scheme=\"sinaweibo://multimedia?mix_mid=5228520013304418&mix_index=0&multi_paragraph=2&multi_count=4\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/008spKtOly8i6x7dhfrjnj30u00u0wgm.jpg?KID=imgbed,tva&Expires=1762072165&ssig=I2V%2BHWCPKg) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">悲情番</span><img src=\"http://wx2.sinaimg.cn/middle/008spKtOly1i6xs9olnpmj30k00zktad.jpg\" data-width=1280 data-height=720></div></media-block><br>### 💬 **三、公众讨论的多元视角**<br>1. **支持与共鸣**  <br>   - **反内卷标杆**：在量化攀比的时代，吴昕的社交态度被视作“对焦虑的消解”。网友感叹：“精简社交是成年人的情感断舍离”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 25, \"data\": {\"num\": [13, 23, 41], \"version\": 2, \"quote_list\": [{\"name\": \"开橘一只猫Yolo\", \"scheme\": \"sinaweibo://detail?mblogid=5228514833860569\", \"index\": 23, \"label\": \"大v\"}, {\"name\": \"宝宝肚肚_打雷啦\", \"scheme\": \"sinaweibo://detail?mblogid=5228515957935678\", \"index\": 13, \"label\": \"\"}, {\"name\": \"词中有光\", \"scheme\": \"sinaweibo://detail?mblogid=5228515575468167\", \"index\": 41, \"label\": \"\"}], \"name\": \"开橘一只猫Yolo\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.1024.1024.50/006ZqlxSly8i19fim4shuj30sg0sgtbr.jpg?KID=imgbed,tva&Expires=1762072165&ssig=Y8PlJybnAr\", \"scheme\": \"sinaweibo://detail?mblogid=5228514833860569\", \"vType\": 0}}```<br>   - **普通人共鸣**：大批用户晒出更少的好友数（如仅两位数），质疑“1438人为何算少？”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 26, \"data\": {\"num\": [19, 28, 32, 35, 37], \"version\": 2, \"quote_list\": [{\"name\": \"萌力显现\", \"scheme\": \"sinaweibo://detail?mblogid=5228525109644355\", \"index\": 32, \"label\": \"大v\"}, {\"name\": \"爱吃的吗喽酱\", \"scheme\": \"sinaweibo://detail?mblogid=5228517429346664\", \"index\": 19, \"label\": \"\"}, {\"name\": \"日落鲸背喝酸奶\", \"scheme\": \"sinaweibo://detail?mblogid=5228519783402489\", \"index\": 28, \"label\": \"\"}, {\"name\": \"渔姐说事\", \"scheme\": \"sinaweibo://detail?mblogid=5228526279856134\", \"index\": 35, \"label\": \"\"}, {\"name\": \"薛十七的雪糕\", \"scheme\": \"sinaweibo://detail?mblogid=5228525718078007\", \"index\": 37, \"label\": \"\"}], \"name\": \"萌力显现\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/0089KjWsly8i6ulh0wnb5j30u00u0jvn.jpg?KID=imgbed,tva&Expires=1762072165&ssig=x0iFYEt%2FPT\", \"scheme\": \"sinaweibo://detail?mblogid=5228525109644355\", \"vType\": 0}}```<br><br>2. **争议与质疑**  <br>   - **职业性质冲突**：部分声音认为从业者需基础人脉支撑事业，千余人“过少”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 28, \"data\": {\"num\": [20], \"version\": 2, \"quote_list\": [{\"name\": \"皮卡丘的十万伏特z\", \"scheme\": \"sinaweibo://detail?mblogid=5228513637698071\", \"index\": 20, \"label\": \"大v\"}], \"name\": \"皮卡丘的十万伏特z\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/0069bLoCly8i3v0u6g3ofj30u00u0ta2.jpg?KID=imgbed,tva&Expires=1762072165&ssig=9dxpVv%2FvCi\", \"scheme\": \"sinaweibo://detail?mblogid=5228513637698071\", \"vType\": 0}}```<br>   - **信息偏差**：有爆料称其通讯录仅20人，与1438人说法存在矛盾。```wbCustomBlock{\"type\": \"quoted\", \"index\": 29, \"data\": {\"num\": [11], \"version\": 2, \"quote_list\": [{\"name\": \"初见_lgx\", \"scheme\": \"sinaweibo://detail?mblogid=5228516980297072\", \"index\": 11, \"label\": \"\"}]}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://multimedia?mix_mid=5228514833860569&mix_index=0&multi_paragraph=3&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.1024.1024.50/006ZqlxSly8i19fim4shuj30sg0sgtbr.jpg?KID=imgbed,tva&Expires=1762072165&ssig=Y8PlJybnAr) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">开橘一只猫Yolo</span><img src=\"http://wx3.sinaimg.cn/middle/006ZqlxSly1i6xrqnig5wj30u01hcn1p.jpg\" data-width=1920 data-height=1080></div><div data-type=\"v\" data-scheme=\"sinaweibo://multimedia?mix_mid=5228525109644355&mix_index=0&multi_paragraph=3&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/0089KjWsly8i6ulh0wnb5j30u00u0jvn.jpg?KID=imgbed,tva&Expires=1762072165&ssig=x0iFYEt%2FPT) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">萌力显现</span><img src=\"http://wx4.sinaimg.cn/middle/0089KjWsly1i6xsveutj9j30e00owq3h.jpg\" data-width=896 data-height=504></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5228519783402489&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=3&multi_count=2\"><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/005HwY5tly8i68jj9j1w4j30u00u041u.jpg?KID=imgbed,tva&Expires=1762072165&ssig=oDDRYO9uov) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">日落鲸背喝酸奶</span><img src=\"http://wx3.sinaimg.cn/middle/005HwY5tgy1i6xsakk4mkj32c0340kjl.jpg\" data-width=4032 data-height=3024></div></media-block><br>### 💎 **总结：数字背后的时代隐喻**<br>吴昕的微信好友数之所以成为热点，本质是三重反差引发的集体反思：<br>- **行业预期反差**：明星≠人脉王，打破泛娱乐化社交认知；```wbCustomBlock{\"type\": \"quoted\", \"index\": 32, \"data\": {\"num\": [44], \"version\": 2, \"quote_list\": [{\"name\": \"小怡夏日恋啵记\", \"scheme\": \"sinaweibo://detail?mblogid=5228518591957287\", \"index\": 44, \"label\": \"大v\"}], \"name\": \"小怡夏日恋啵记\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.1024.1024.50/007lGtuVly8i0huy97i7jj30sg0sgwkg.jpg?KID=imgbed,tva&Expires=1762072165&ssig=IskCemCYA0\", \"scheme\": \"sinaweibo://detail?mblogid=5228518591957287\", \"vType\": 0}}```<br>- **价值观反差**：量化社交VS情感联结，重燃对“真诚关系”的渴求；```wbCustomBlock{\"type\": \"quoted\", \"index\": 33, \"data\": {\"num\": [13, 46], \"version\": 2, \"quote_list\": [{\"name\": \"宝宝肚肚_打雷啦\", \"scheme\": \"sinaweibo://detail?mblogid=5228515957935678\", \"index\": 13, \"label\": \"\"}, {\"name\": \"圆妤枝\", \"scheme\": \"sinaweibo://detail?mblogid=5228515461955845\", \"index\": 46, \"label\": \"\"}]}}```<br>- **个人成长投射**：从迎合外界到守护舒适区，缩影现代人对抗社交异化的历程。```wbCustomBlock{\"type\": \"quoted\", \"index\": 34, \"data\": {\"num\": [31], \"version\": 2, \"quote_list\": [{\"name\": \"饭点了吧\", \"scheme\": \"sinaweibo://detail?mblogid=5228514142063611\", \"index\": 31, \"label\": \"\"}]}}```<br><br>正如她在采访中传递的理念：“美是沉淀后的飒爽，自在如风。” 这场讨论早已超越数字本身，成为对人际本质与自我边界的一次公共觉醒。<br>",
+      "query_field": "1",
+      "chat_status_stage": 4,
+      "version": "2025-11-02 13:29:24.621999-3767",
+      "share_info": {
+        "page_id": "232964b712e785bf55a65886599dd7c90e43d6",
+        "status": 3,
+        "unify_md5": "d4fbd783b59c6815c5ce56e9a22428d0",
+        "display_name": "#吴昕微信好友竟然这么少#",
+        "tips": "#吴昕微信好友竟然这么少#的相关内容，来智搜看看",
+        "comment_content": "",
+        "url": "http://t.cn/AXAXS0q6"
+      },
+      "news_analyze": {},
+      "reliable_tips": "{\"gold_orange_v_mids\": [\"5228467240307697\", \"5228521997732810\", \"5228518193760050\", \"5228518378049687\", \"5228518862491884\", \"5228515461955845\", \"5228517294871116\", \"5228517727147177\", \"5228516980297072\", \"5228519022920855\", \"5228514829929542\", \"5228524612882827\", \"5228519527288117\", \"5228520424080436\", \"5228514142063611\", \"5228515643621906\", \"5228520013304418\", \"5228514833860569\", \"5228515575468167\", \"5228519783402489\", \"5228525109644355\", \"5228513637698071\", \"5228518591957287\", \"5228520489881507\", \"5228517856904652\", \"5228515264827253\", \"5228518712541827\", \"5228519350601155\", \"5228515193520333\", \"5228516060698079\", \"5228515168619959\", \"5228521318518439\", \"5228519661765767\", \"5228526670449958\", \"5228519435277077\", \"5228524946065012\", \"5228522585195539\", \"5228522534602506\", \"5228522898457940\"], \"gold_orange_v_ratio\": \"87%\", \"media_mids\": [], \"media_ratio\": \"0%\", \"verified_mids\": [\"5228515957935678\", \"5228517429346664\"], \"verified_ratio\": \"4%\", \"normal_mids\": [\"5228525665915167\", \"5228526279856134\", \"5228525718078007\", \"5228525776798853\"], \"normal_ratio\": \"9%\", \"ref_mid_rank\": {\"5228467240307697\": {\"rank\": 1}, \"5228521997732810\": {\"rank\": 22}, \"5228518193760050\": {\"rank\": 43}, \"5228518378049687\": {\"rank\": 45}, \"5228518862491884\": {\"rank\": 48}, \"5228515461955845\": {\"rank\": 46}, \"5228517294871116\": {\"rank\": 8}, \"5228517727147177\": {\"rank\": 21}, \"5228516980297072\": {\"rank\": 11}, \"5228519022920855\": {\"rank\": 9}, \"5228514829929542\": {\"rank\": 26}, \"5228524612882827\": {\"rank\": 30}, \"5228525665915167\": {\"rank\": 38}, \"5228515957935678\": {\"rank\": 13}, \"5228519527288117\": {\"rank\": 15}, \"5228520424080436\": {\"rank\": 4}, \"5228514142063611\": {\"rank\": 31}, \"5228515643621906\": {\"rank\": 5}, \"5228520013304418\": {\"rank\": 24}, \"5228514833860569\": {\"rank\": 23}, \"5228515575468167\": {\"rank\": 41}, \"5228517429346664\": {\"rank\": 19}, \"5228519783402489\": {\"rank\": 28}, \"5228525109644355\": {\"rank\": 32}, \"5228526279856134\": {\"rank\": 35}, \"5228525718078007\": {\"rank\": 37}, \"5228513637698071\": {\"rank\": 20}, \"5228518591957287\": {\"rank\": 44}, \"5228520489881507\": {\"rank\": 2}, \"5228517856904652\": {\"rank\": 3}, \"5228515264827253\": {\"rank\": 6}, \"5228518712541827\": {\"rank\": 7}, \"5228519350601155\": {\"rank\": 10}, \"5228515193520333\": {\"rank\": 12}, \"5228516060698079\": {\"rank\": 14}, \"5228515168619959\": {\"rank\": 25}, \"5228521318518439\": {\"rank\": 27}, \"5228519661765767\": {\"rank\": 29}, \"5228526670449958\": {\"rank\": 33}, \"5228519435277077\": {\"rank\": 34}, \"5228525776798853\": {\"rank\": 36}, \"5228524946065012\": {\"rank\": 39}, \"5228522585195539\": {\"rank\": 40}, \"5228522534602506\": {\"rank\": 42}, \"5228522898457940\": {\"rank\": 47}}}",
+      "comment_info": {},
+      "scheme": "sinaweibo://cardlist?containerid=100103type%3D225%26q%3D%23%E5%90%B4%E6%98%95%E5%BE%AE%E4%BF%A1%E5%A5%BD%E5%8F%8B%E7%AB%9F%E7%84%B6%E8%BF%99%E4%B9%88%E5%B0%91%23%26t%3D&extparam=ai_model%3Ddeepseek_stream%26ori_ai_title%3D%E5%8F%82%E8%80%83%E5%8D%9A%E6%96%87%26material_version%3D1762061364",
+      "share_text": "#吴昕微信好友竟然这么少#的相关内容，来智搜看看",
+      "ab_suffix": "default",
+      "sorted_material_list": null,
+      "query": "#吴昕微信好友竟然这么少#",
+      "show_ctrl": {
+        "quote": {}
+      },
+      "short_url": "http://t.cn/AXAXF75K",
+      "current_time": 1762061557,
+      "page_id": "232964b712e785bf55a65886599dd7c90e43d6",
+      "share_card_multimodal": {
+        "click_rate": 0,
+        "h": 720,
+        "img": "http://wx2.sinaimg.cn/middle/005XzJNwly1i6xm9tx07gj60zk0k0dkv02.jpg",
+        "scheme": "sinaweibo://video/vvs?mid=5228467240307697&multi_paragraph=1&multi_count=0",
+        "type": "v",
+        "user_name": "影视圈达人",
+        "hit_score_final": 0,
+        "user_avatar": "https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/005XzJNwly8i6rwgw2q2tj60u00u0tao02.jpg?KID=imgbed,tva&Expires=1762072164&ssig=GwjaitTIe1",
+        "w": 1280,
+        "video_url": "https://video.weibo.com/show?fid=1034:5228467114147912",
+        "vtype": 0,
+        "hit_score_new": 0,
+        "doc_score": 0,
+        "img_pid": "005XzJNwly1i6xm9tx07gj60zk0k0dkv02",
+        "cur_mid": "5228467240307697"
+      },
+      "unify_md5": "d4fbd783b59c6815c5ce56e9a22428d0",
+      "zs_risk_control": {
+        "think_text_close": 0,
+        "land_button_close": 0
+      },
+      "cot": 1,
+      "abtest_info": {
+        "chat_entrance": 1
+      },
+      "profile_image_url": "",
+      "user_info": {},
+      "msg_json": "{}",
+      "uid": ""
+    }
+  },
+  "links": [
+    "sinaweibo://detail?mblogid=5228467240307697",
+    "sinaweibo://detail?mblogid=5228520489881507",
+    "sinaweibo://detail?mblogid=5228517856904652",
+    "sinaweibo://detail?mblogid=5228520424080436",
+    "sinaweibo://detail?mblogid=5228515643621906",
+    "sinaweibo://detail?mblogid=5228515264827253",
+    "sinaweibo://detail?mblogid=5228518712541827",
+    "sinaweibo://detail?mblogid=5228517294871116",
+    "sinaweibo://detail?mblogid=5228519022920855",
+    "sinaweibo://detail?mblogid=5228519350601155",
+    "sinaweibo://detail?mblogid=5228516980297072",
+    "sinaweibo://detail?mblogid=5228515193520333",
+    "sinaweibo://detail?mblogid=5228515957935678",
+    "sinaweibo://detail?mblogid=5228516060698079",
+    "sinaweibo://detail?mblogid=5228519527288117",
+    "historyweibo://5228467240307697",
+    "historyweibo://5227032654907566",
+    "historyweibo://5227032654907566",
+    "sinaweibo://detail?mblogid=5228517429346664",
+    "sinaweibo://detail?mblogid=5228513637698071",
+    "sinaweibo://detail?mblogid=5228517727147177",
+    "sinaweibo://detail?mblogid=5228521997732810",
+    "sinaweibo://detail?mblogid=5228514833860569",
+    "sinaweibo://detail?mblogid=5228520013304418",
+    "sinaweibo://detail?mblogid=5228515168619959",
+    "sinaweibo://detail?mblogid=5228514829929542",
+    "sinaweibo://detail?mblogid=5228521318518439",
+    "sinaweibo://detail?mblogid=5228519783402489",
+    "sinaweibo://detail?mblogid=5228519661765767",
+    "sinaweibo://detail?mblogid=5228524612882827",
+    "sinaweibo://detail?mblogid=5228514142063611",
+    "sinaweibo://detail?mblogid=5228525109644355",
+    "sinaweibo://detail?mblogid=5228526670449958",
+    "sinaweibo://detail?mblogid=5228519435277077",
+    "sinaweibo://detail?mblogid=5228526279856134",
+    "sinaweibo://detail?mblogid=5228525776798853",
+    "sinaweibo://detail?mblogid=5228525718078007",
+    "sinaweibo://detail?mblogid=5228525665915167",
+    "sinaweibo://detail?mblogid=5228524946065012",
+    "sinaweibo://detail?mblogid=5228522585195539",
+    "sinaweibo://detail?mblogid=5228515575468167",
+    "sinaweibo://detail?mblogid=5228522534602506",
+    "sinaweibo://detail?mblogid=5228518193760050",
+    "sinaweibo://detail?mblogid=5228518591957287",
+    "sinaweibo://detail?mblogid=5228518378049687",
+    "sinaweibo://detail?mblogid=5228515461955845",
+    "sinaweibo://detail?mblogid=5228522898457940",
+    "sinaweibo://detail?mblogid=5228518862491884"
+  ],
+  "media": [
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/005XzJNwly1i6xm9tx07gj60zk0k0dkv02.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/005XzJNwly1i6xm9tx07gj60zk0k0dkv02.jpg",
+      "alt": "影视圈达人",
+      "width": 720,
+      "height": 1280,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/005XzJNwly1i6xm9tx07gj60zk0k0dkv02.jpg"
+      ],
+      "user": "影视圈达人"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/0079rfmmly1i6xryd6g3ij30u01hc40l.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/0079rfmmly1i6xryd6g3ij30u01hc40l.jpg",
+      "alt": "初见_lgx",
+      "width": 1920,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/0079rfmmly1i6xryd6g3ij30u01hc40l.jpg"
+      ],
+      "user": "初见_lgx"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/008eKHZpgy1i6xs7p1ixcj30k00zkq4d.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/008eKHZpgy1i6xs7p1ixcj30k00zkq4d.jpg",
+      "alt": "大望路一只娱",
+      "width": 1280,
+      "height": 720,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/008eKHZpgy1i6xs7p1ixcj30k00zkq4d.jpg"
+      ],
+      "user": "大望路一只娱"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/0062Vzktly1i6xssdyykaj30qo17aai4.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/0062Vzktly1i6xssdyykaj30qo17aai4.jpg",
+      "alt": "碎雾绪",
+      "width": 1558,
+      "height": 960,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/0062Vzktly1i6xssdyykaj30qo17aai4.jpg"
+      ],
+      "user": "碎雾绪"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/6701b5fdly1i6xs9nmiafj20k00zkdh2.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/6701b5fdly1i6xs9nmiafj20k00zkdh2.jpg",
+      "alt": "麻婆液态氮",
+      "width": 1280,
+      "height": 720,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/6701b5fdly1i6xs9nmiafj20k00zkdh2.jpg"
+      ],
+      "user": "麻婆液态氮"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/006E85Zcly1i6xrtf8v6hj30us0k0jrx.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/006E85Zcly1i6xrtf8v6hj30us0k0jrx.jpg",
+      "alt": "汉南洞88知名恋父癖",
+      "width": 720,
+      "height": 1108,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx4.sinaimg.cn/large/006E85Zcly1i6xrtf8v6hj30us0k0jrx.jpg"
+      ],
+      "user": "汉南洞88知名恋父癖"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/008spKtOly1i6xs9olnpmj30k00zktad.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/008spKtOly1i6xs9olnpmj30k00zktad.jpg",
+      "alt": "悲情番",
+      "width": 1280,
+      "height": 720,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/008spKtOly1i6xs9olnpmj30k00zktad.jpg"
+      ],
+      "user": "悲情番"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/006ZqlxSly1i6xrqnig5wj30u01hcn1p.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/006ZqlxSly1i6xrqnig5wj30u01hcn1p.jpg",
+      "alt": "开橘一只猫Yolo",
+      "width": 1920,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/006ZqlxSly1i6xrqnig5wj30u01hcn1p.jpg"
+      ],
+      "user": "开橘一只猫Yolo"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/0089KjWsly1i6xsveutj9j30e00owq3h.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/0089KjWsly1i6xsveutj9j30e00owq3h.jpg",
+      "alt": "萌力显现",
+      "width": 896,
+      "height": 504,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/0089KjWsly1i6xsveutj9j30e00owq3h.jpg"
+      ],
+      "user": "萌力显现"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/005HwY5tgy1i6xsakk4mkj32c0340kjl.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/005HwY5tgy1i6xsakk4mkj32c0340kjl.jpg",
+      "alt": "日落鲸背喝酸奶",
+      "width": 4032,
+      "height": 3024,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/005HwY5tgy1i6xsakk4mkj32c0340kjl.jpg"
+      ],
+      "user": "日落鲸背喝酸奶"
+    }
+  ],
+  "html_path": "data/aicard/hourly/2025-11-02/13/topic-d4fbd783.html"
+}

@@ -1,0 +1,265 @@
+{
+  "meta": {
+    "query": "#AL爱笑谈队员续约#",
+    "status_code": 200,
+    "fetched_at": "2025-11-04T11:49:09+08:00",
+    "response": {
+      "status": 2,
+      "chat_status_stage": 1,
+      "loop_times": 200,
+      "query_field": "47",
+      "reliable_tips": "{\"gold_orange_v_mids\": [\"5229193816441036\", \"5229201017798922\", \"5229224036403933\", \"5229201063938251\", \"5229224325810658\", \"5229209888490382\", \"5229210824348532\", \"5229209992561148\", \"5229217562233654\", \"5229222865142910\", \"5106108227651623\", \"5106095381548619\", \"4908606643772015\"], \"gold_orange_v_ratio\": \"81%\", \"media_mids\": [], \"media_ratio\": \"0%\", \"verified_mids\": [\"5229216867290236\", \"5105121835092652\"], \"verified_ratio\": \"13%\", \"normal_mids\": [\"5229219999127834\"], \"normal_ratio\": \"6%\", \"ref_mid_rank\": {\"5229193816441036\": {\"rank\": 1}, \"5229201017798922\": {\"rank\": 12}, \"5229224036403933\": {\"rank\": 16}, \"5229201063938251\": {\"rank\": 3}, \"5229216867290236\": {\"rank\": 11}, \"5229224325810658\": {\"rank\": 17}, \"5229219999127834\": {\"rank\": 9}, \"5229209888490382\": {\"rank\": 2}, \"5229210824348532\": {\"rank\": 8}, \"5229209992561148\": {\"rank\": 7}, \"5229217562233654\": {\"rank\": 10}, \"5229222865142910\": {\"rank\": 13}, \"5105121835092652\": {\"rank\": 14}, \"5106108227651623\": {\"rank\": 15}, \"5106095381548619\": {\"rank\": 18}, \"4908606643772015\": {\"rank\": 19}}}",
+      "qs_status": 0,
+      "card_multimodal": {
+        "data": [
+          {
+            "scheme": "sinaweibo://video/vvs?mid=5229224036403933&multi_paragraph=1&multi_count=0",
+            "click_num": 0,
+            "img": "http://wx3.sinaimg.cn/middle/871d9fb0ly1i7016w54guj20k00w0dgo.jpg",
+            "cur_mid": "5229224036403933",
+            "h": 1152,
+            "user_name": "恋恋红茶_244",
+            "w": 720,
+            "user_avatar": "https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/871d9fb0ly8gxb0xe3wdqj20u00u0mzf.jpg?KID=imgbed,tva&Expires=1762238852&ssig=6QB544ZN2c",
+            "vtype": 0,
+            "video_url": "https://video.weibo.com/show?fid=1034:5229223951138912",
+            "type": "v",
+            "hit_score_new": 88.28125,
+            "doc_score": 3069,
+            "img_pid": "871d9fb0ly1i7016w54guj20k00w0dgo",
+            "hit_score_final": 81.368752,
+            "click_rate": 0
+          },
+          {
+            "scheme": "sinaweibo://video/vvs?mid=5229201063938251&multi_paragraph=1&multi_count=1",
+            "click_num": 0,
+            "img": "http://wx2.sinaimg.cn/middle/006cmbhQgy1i6zyjz3zy2j30zk0k1n4n.jpg",
+            "cur_mid": "5229201063938251",
+            "h": 721,
+            "user_name": "英雄联盟神吐槽",
+            "w": 1280,
+            "user_avatar": "https://tvax2.sinaimg.cn/crop.0.0.439.439.50/006cmbhQly8h8uglinec1j30c70c73yz.jpg?KID=imgbed,tva&Expires=1762238852&ssig=%2BS5rjB8but",
+            "vtype": 0,
+            "video_url": "https://video.weibo.com/show?fid=1034:5229200819552331",
+            "type": "v",
+            "hit_score_new": 58.935547,
+            "doc_score": 4469,
+            "img_pid": "006cmbhQgy1i6zyjz3zy2j30zk0k1n4n",
+            "hit_score_final": 67.361328,
+            "click_rate": 0
+          },
+          {
+            "scheme": "sinaweibo://video/vvs?mid=5229209888490382&multi_paragraph=2&multi_count=0",
+            "click_num": 0,
+            "img": "http://wx2.sinaimg.cn/middle/006BPLKbly1i6zzgyf2yoj31hc0u0mz9.jpg",
+            "cur_mid": "5229209888490382",
+            "h": 1080,
+            "user_name": "我是电竞小生",
+            "w": 1920,
+            "user_avatar": "https://tvax1.sinaimg.cn/crop.0.0.600.600.50/006BPLKbly8gx4n5qvexbj30go0gogp4.jpg?KID=imgbed,tva&Expires=1762238852&ssig=JYsoJo9%2Btk",
+            "vtype": 0,
+            "video_url": "https://video.weibo.com/show?fid=1034:5229208381882377",
+            "type": "v",
+            "hit_score_new": 62.207031,
+            "doc_score": 3826,
+            "img_pid": "006BPLKbly1i6zzgyf2yoj31hc0u0mz9",
+            "hit_score_final": 61.324219,
+            "click_rate": 0
+          },
+          {
+            "scheme": "sinaweibo://video/vvs?mid=5229224036403933&multi_paragraph=1&multi_count=0",
+            "click_num": 0,
+            "img": "http://wx3.sinaimg.cn/middle/871d9fb0ly1i7016w54guj20k00w0dgo.jpg",
+            "cur_mid": "5229224036403933",
+            "h": 1152,
+            "user_name": "恋恋红茶_244",
+            "w": 720,
+            "user_avatar": "https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/871d9fb0ly8gxb0xe3wdqj20u00u0mzf.jpg?KID=imgbed,tva&Expires=1762238852&ssig=6QB544ZN2c",
+            "vtype": 0,
+            "video_url": "https://video.weibo.com/show?fid=1034:5229223951138912",
+            "type": "v",
+            "hit_score_new": 88.28125,
+            "doc_score": 3069,
+            "img_pid": "871d9fb0ly1i7016w54guj20k00w0dgo",
+            "hit_score_final": 81.368752,
+            "click_rate": 0
+          }
+        ],
+        "type": "mediablock"
+      },
+      "qs_status_info": "{\"qs_q_status\":0,\"qs_c_status\":8388608,\"ab_lab\":{},\"qs_u_status\":0,\"qs_r_status\":0,\"qs_status\":0}",
+      "share_text": "#AL爱笑谈队员续约#的相关内容，来智搜看看",
+      "zs_risk_control": {
+        "think_text_close": 0,
+        "land_button_close": 0
+      },
+      "current_time": 1762228150,
+      "profile_image_url": "",
+      "user_info": {},
+      "q_attr": {
+        "from_uid": "5124452545",
+        "from_request_id": "1762228050939",
+        "reply_cid": "",
+        "comment_from_type": "",
+        "mid": ""
+      },
+      "show_ctrl": {
+        "quote": {}
+      },
+      "abtest_info": {
+        "chat_entrance": 1
+      },
+      "ext_show": {},
+      "cot": 1,
+      "news_analyze": {},
+      "page_id": "232964cb75361bc203bdb1de99b635b91ee16d",
+      "query": "#AL爱笑谈队员续约#",
+      "wenda": {
+        "forward_gen": 0
+      },
+      "basemodel": "实验组5",
+      "share_card_multimodal": {
+        "scheme": "sinaweibo://video/vvs?mid=5229224036403933&multi_paragraph=1&multi_count=0",
+        "click_num": 0,
+        "img": "http://wx3.sinaimg.cn/middle/871d9fb0ly1i7016w54guj20k00w0dgo.jpg",
+        "cur_mid": "5229224036403933",
+        "h": 1152,
+        "user_name": "恋恋红茶_244",
+        "w": 720,
+        "user_avatar": "https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/871d9fb0ly8gxb0xe3wdqj20u00u0mzf.jpg?KID=imgbed,tva&Expires=1762238852&ssig=6QB544ZN2c",
+        "vtype": 0,
+        "video_url": "https://video.weibo.com/show?fid=1034:5229223951138912",
+        "type": "v",
+        "hit_score_new": 88.28125,
+        "doc_score": 3069,
+        "img_pid": "871d9fb0ly1i7016w54guj20k00w0dgo",
+        "hit_score_final": 81.368752,
+        "click_rate": 0
+      },
+      "model": "deepseek",
+      "sorted_material_list": null,
+      "comment_info": {},
+      "short_url": "http://t.cn/AXAW32VE",
+      "version": "2025-11-04 11:47:32.013999-8282",
+      "uid": "",
+      "unify_md5": "e10503c1c41face5b5458a578f5b20d6",
+      "share_info": {
+        "status": 3,
+        "url": "http://t.cn/AXAW16MB",
+        "tips": "#AL爱笑谈队员续约#的相关内容，来智搜看看",
+        "display_name": "#AL爱笑谈队员续约#",
+        "comment_content": "",
+        "unify_md5": "e10503c1c41face5b5458a578f5b20d6",
+        "page_id": "232964cb75361bc203bdb1de99b635b91ee16d"
+      },
+      "scheme": "sinaweibo://cardlist?containerid=100103type%3D225%26q%3D%23al%E7%88%B1%E7%AC%91%E8%B0%88%E9%98%9F%E5%91%98%E7%BB%AD%E7%BA%A6%23%26t%3D&extparam=ai_model%3Ddeepseek%26ori_ai_title%3D%E5%8F%82%E8%80%83%E5%8D%9A%E6%96%87%26material_version%3D1762228052",
+      "ab_suffix": "default",
+      "msg": "<think><br><br>嗯，用户想了解\"AL爱笑谈队员续约\"的相关信息。从搜索结果看，这是2025年11月4日英雄联盟电竞圈的热点话题，主要围绕AL战队经理爱笑在S15全球总决赛后的表态。用户可能是电竞爱好者，关注战队动态和选手去向。<br><br>用户可能最关心三个核心问题：AL队员续约的进展如何？战队阵容会有什么变化？背后的制约因素是什么？需要重点呈现经理爱笑的直播表态、可能的阵容调整方向，以及LPL整体环境的影响。<br><br>翻看搜索结果，时效性很强的资料集中在：爱笑哭诉八强赛惜败T1后\"每天醒来都难受\"，明确表示续约谈判尚未启动，需要给队员几天缓冲时间。这个细节很有感染力，适合作为开篇。<br><br>关于续约矛盾点：提到AL俱乐部文化强调稳定性，原则上不主动踢人，但竞技层面又需要补强（尤其AD位置）。这需要对比呈现——比如粉丝建议换Gala，但Doinb指出成本极高。<br><br>深层制约因素很有趣：反映LPL生态问题，包括青训萎缩、欠薪、薪资倒挂等现实。朱开说\"头部队伍薪水下滑导致青训吸引力降低\"特别一针见血，这部分需要结构化说明。<br><br>另发现两处关键信息：1）野辅选手可能回LCK的传闻；2）预算谈判两周内出结果的时间线。这些对预测阵容变化很重要，要单独列出。<br><br>最后注意到几个干扰项：是过期或无关内容（拉面哥/汉密尔顿/SM娱乐合约），是2024年转会旧闻，均需过滤。<br><br>组织框架时，打算用四大模块：续约现状→阵容矛盾→环境制约→后续展望。重点标粗情感关键词（如\"泪洒直播间\"\"为LPL流干最后一滴血\"）和数据化表达（如\"2:3惜败\"\"两周决策期\"）。风险提示放在青训分析部分，强调薪资数据来自朱开直播而非官方披露。<br><br></think><br>以下是关于AL战队经理爱笑谈及队员续约的核心信息整理，综合多来源动态及行业背景分析：<br>### 🔴 **一、当前续约进展**  <br>1. **谈判暂缓，队员需休整**  <br>   AL战队在S15全球总决赛八强赛以2:3惜败T1后，经理爱笑在11月4日直播中情绪激动，坦言“后劲太大，每天醒来都难受”，并多次向粉丝致歉：“对不起兄弟们，给LPL丢人了！”。他明确表示续约谈判尚未启动，需给队员缓冲时间：“先缓两天再谈，让兄弟们休息几天。”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 4, \"data\": {\"num\": [1, 12, 16], \"version\": 2, \"quote_list\": [{\"name\": \"英雄联盟神吐槽\", \"scheme\": \"sinaweibo://detail?mblogid=5229193816441036\", \"index\": 1, \"label\": \"大v\"}, {\"name\": \"我说我想多睡会\", \"scheme\": \"sinaweibo://detail?mblogid=5229201017798922\", \"index\": 12, \"label\": \"\"}, {\"name\": \"恋恋红茶_244\", \"scheme\": \"sinaweibo://detail?mblogid=5229224036403933\", \"index\": 16, \"label\": \"\"}], \"name\": \"英雄联盟神吐槽\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.439.439.50/006cmbhQly8h8uglinec1j30c70c73yz.jpg?KID=imgbed,tva&Expires=1762238852&ssig=%2BS5rjB8but\", \"scheme\": \"sinaweibo://detail?mblogid=5229193816441036\", \"vType\": 0}}```  <br>   - **原因**：选手身心俱疲，爱笑称五人“为LPL流干最后一滴血”，团队已竭尽全力。  <br>   - **管理层压力**：教练朱开透露，爱笑需立即与集团沟通明年预算、引援计划，是“最忙碌阶段”。<br><br>2. **俱乐部情感倾向**  <br>   AL企业文化以稳定和人性化著称，除非选手主动离队或遇不可抗力（如联盟规则限制），否则不主动调整阵容。即使选手无赛可打，俱乐部仍提供社保并安排综艺节目维持品牌形象。```wbCustomBlock{\"type\": \"quoted\", \"index\": 7, \"data\": {\"num\": [3], \"version\": 2, \"quote_list\": [{\"name\": \"英雄联盟神吐槽\", \"scheme\": \"sinaweibo://detail?mblogid=5229201063938251\", \"index\": 3, \"label\": \"\"}]}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5229224036403933&multi_paragraph=1&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/871d9fb0ly8gxb0xe3wdqj20u00u0mzf.jpg?KID=imgbed,tva&Expires=1762238852&ssig=6QB544ZN2c) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">恋恋红茶_244</span><img src=\"http://wx3.sinaimg.cn/middle/871d9fb0ly1i7016w54guj20k00w0dgo.jpg\" data-width=1152 data-height=720></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5229201063938251&multi_paragraph=1&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.439.439.50/006cmbhQly8h8uglinec1j30c70c73yz.jpg?KID=imgbed,tva&Expires=1762238852&ssig=%2BS5rjB8but) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">英雄联盟神吐槽</span><img src=\"http://wx2.sinaimg.cn/middle/006cmbhQgy1i6zyjz3zy2j30zk0k1n4n.jpg\" data-width=721 data-height=1280></div></media-block><br>### 🏢 **二、续约矛盾与挑战**  <br>1. **竞技补强需求 vs 成本控制**  <br>   - **下路成短板**：业内普遍认为AD位置需补强。Hope世界赛表现引发争议（如E技能失误），稳定性不足被多次提及。粉丝建议引入Gala等成熟AD，但Doinb分析若保留原四人加Gala，“成本极高”，可能打破薪资结构平衡。```wbCustomBlock{\"type\": \"quoted\", \"index\": 11, \"data\": {\"num\": [3, 11, 17], \"version\": 2, \"quote_list\": [{\"name\": \"英雄联盟神吐槽\", \"scheme\": \"sinaweibo://detail?mblogid=5229201063938251\", \"index\": 3, \"label\": \"\"}, {\"name\": \"胡多钱\", \"scheme\": \"sinaweibo://detail?mblogid=5229216867290236\", \"index\": 11, \"label\": \"\"}, {\"name\": \"爱喝bbbb酒\", \"scheme\": \"sinaweibo://detail?mblogid=5229224325810658\", \"index\": 17, \"label\": \"\"}]}}```  <br>   - **野辅去向悬念**：有观点指出AL韩援野辅若想争夺S赛冠军，可能选择回归LCK而非在LPL“养老”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 12, \"data\": {\"num\": [9], \"version\": 2, \"quote_list\": [{\"name\": \"吃素的食人鱼x\", \"scheme\": \"sinaweibo://detail?mblogid=5229219999127834\", \"index\": 9, \"label\": \"\"}]}}```<br><br>2. **LPL生态制约引援**  <br>   - **青训体系崩溃**：朱开在直播中直言青训已“无法完善”，头部队伍薪资下滑导致青训吸引力降低。年轻选手因生存压力（青训薪资低于陪玩）更倾向放弃职业道路。```wbCustomBlock{\"type\": \"quoted\", \"index\": 14, \"data\": {\"num\": [2, 8], \"version\": 2, \"quote_list\": [{\"name\": \"动漫游戏君\", \"scheme\": \"sinaweibo://detail?mblogid=5229210824348532\", \"index\": 8, \"label\": \"大v\"}, {\"name\": \"我是电竞小生\", \"scheme\": \"sinaweibo://detail?mblogid=5229209888490382\", \"index\": 2, \"label\": \"\"}], \"name\": \"动漫游戏君\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.690.690.50/006i8XEzly8hojzsvemjvj30j60j6my1.jpg?KID=imgbed,tva&Expires=1762238852&ssig=ImKRFTnZoe\", \"scheme\": \"sinaweibo://detail?mblogid=5229210824348532\", \"vType\": 0}}```  <br>   - **欠薪问题普遍**：前选手幻锋爆料LPL存在欠薪、0成本解约等现象，影响新人入行意愿。```wbCustomBlock{\"type\": \"quoted\", \"index\": 15, \"data\": {\"num\": [8], \"version\": 2, \"quote_list\": [{\"name\": \"动漫游戏君\", \"scheme\": \"sinaweibo://detail?mblogid=5229210824348532\", \"index\": 8, \"label\": \"\"}]}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5229209888490382&multi_paragraph=2&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.600.600.50/006BPLKbly8gx4n5qvexbj30go0gogp4.jpg?KID=imgbed,tva&Expires=1762238852&ssig=JYsoJo9%2Btk) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">我是电竞小生</span><img src=\"http://wx2.sinaimg.cn/middle/006BPLKbly1i6zzgyf2yoj31hc0u0mz9.jpg\" data-width=1080 data-height=1920></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5229210824348532&multi_paragraph=2&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.690.690.50/006i8XEzly8hojzsvemjvj30j60j6my1.jpg?KID=imgbed,tva&Expires=1762238852&ssig=ImKRFTnZoe) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">动漫游戏君</span><img src=\"http://wx4.sinaimg.cn/middle/006i8XEzly1i6zznpfdh7j31o00u0q5n.jpg\" data-width=1080 data-height=2160></div></media-block><br>### 🔮 **三、未来阵容走向预测**  <br>1. **续约决策时间窗**  <br>   未来两周内，AL管理层与集团的预算谈判结果将直接决定续约方向和引援空间。若无法突破成本限制，可能被迫维持现有阵容，但竞技风险显著。```wbCustomBlock{\"type\": \"quoted\", \"index\": 18, \"data\": {\"num\": [17], \"version\": 2, \"quote_list\": [{\"name\": \"爱喝bbbb酒\", \"scheme\": \"sinaweibo://detail?mblogid=5229224325810658\", \"index\": 17, \"label\": \"\"}]}}```  <br><br>2. **潜在调整方向**  <br>   - **理想情况**：保留核心中上野（如香克斯被赞“顶尖人才”），引入性价比AD。```wbCustomBlock{\"type\": \"quoted\", \"index\": 20, \"data\": {\"num\": [8], \"version\": 2, \"quote_list\": [{\"name\": \"动漫游戏君\", \"scheme\": \"sinaweibo://detail?mblogid=5229210824348532\", \"index\": 8, \"label\": \"\"}]}}```  <br>   - **现实约束**：受俱乐部文化（稳定优先）及LPL薪资收缩影响，大规模补强可能性低。```wbCustomBlock{\"type\": \"quoted\", \"index\": 21, \"data\": {\"num\": [3, 17], \"version\": 2, \"quote_list\": [{\"name\": \"英雄联盟神吐槽\", \"scheme\": \"sinaweibo://detail?mblogid=5229201063938251\", \"index\": 3, \"label\": \"\"}, {\"name\": \"爱喝bbbb酒\", \"scheme\": \"sinaweibo://detail?mblogid=5229224325810658\", \"index\": 17, \"label\": \"\"}]}}```<br>### 💎 总结  <br>AL续约的核心矛盾在于：**情感上渴望保留“拼尽全力的原班人马”**，但**竞技层面必须补强下路**。决策受限于俱乐部价值观与LPL整体生态恶化（青训萎缩、薪资倒挂）。若预算谈判未达预期，AL可能以“情怀阵容”再战一年，但冲击顶尖赛事的难度将进一步增大。```wbCustomBlock{\"type\": \"quoted\", \"index\": 23, \"data\": {\"num\": [17], \"version\": 2, \"quote_list\": [{\"name\": \"爱喝bbbb酒\", \"scheme\": \"sinaweibo://detail?mblogid=5229224325810658\", \"index\": 17, \"label\": \"\"}]}}```<br>",
+      "msg_format": "markdown",
+      "mid_list": null,
+      "reference_num": 16,
+      "query_category": "",
+      "status_stage": 4,
+      "link_list": [
+        "sinaweibo://detail?mblogid=5229193816441036",
+        "sinaweibo://detail?mblogid=5229209888490382",
+        "sinaweibo://detail?mblogid=5229201063938251",
+        "historyweibo://5229193816441036",
+        "historyweibo://4613341240362749",
+        "historyweibo://4602407671051944",
+        "sinaweibo://detail?mblogid=5229209992561148",
+        "sinaweibo://detail?mblogid=5229210824348532",
+        "sinaweibo://detail?mblogid=5229219999127834",
+        "sinaweibo://detail?mblogid=5229217562233654",
+        "sinaweibo://detail?mblogid=5229216867290236",
+        "sinaweibo://detail?mblogid=5229201017798922",
+        "sinaweibo://detail?mblogid=5229222865142910",
+        "sinaweibo://detail?mblogid=5105121835092652",
+        "sinaweibo://detail?mblogid=5106108227651623",
+        "sinaweibo://detail?mblogid=5229224036403933",
+        "sinaweibo://detail?mblogid=5229224325810658",
+        "sinaweibo://detail?mblogid=5106095381548619",
+        "sinaweibo://detail?mblogid=4908606643772015",
+        "https://k.sina.cn/article_7096020433_1a6f4add106801edd0.html?from=game&subch=ogame&wm=3049_0032",
+        "https://k.sina.cn/article_5679399630_m15284c2ce03301c5x8.html?from=game&subch=ogame&wm=3049_0032"
+      ],
+      "analysis_time": 1762228148,
+      "top_quote_list": {},
+      "msg_json": "{}"
+    }
+  },
+  "links": [
+    "sinaweibo://detail?mblogid=5229193816441036",
+    "sinaweibo://detail?mblogid=5229209888490382",
+    "sinaweibo://detail?mblogid=5229201063938251",
+    "historyweibo://5229193816441036",
+    "historyweibo://4613341240362749",
+    "historyweibo://4602407671051944",
+    "sinaweibo://detail?mblogid=5229209992561148",
+    "sinaweibo://detail?mblogid=5229210824348532",
+    "sinaweibo://detail?mblogid=5229219999127834",
+    "sinaweibo://detail?mblogid=5229217562233654",
+    "sinaweibo://detail?mblogid=5229216867290236",
+    "sinaweibo://detail?mblogid=5229201017798922",
+    "sinaweibo://detail?mblogid=5229222865142910",
+    "sinaweibo://detail?mblogid=5105121835092652",
+    "sinaweibo://detail?mblogid=5106108227651623",
+    "sinaweibo://detail?mblogid=5229224036403933",
+    "sinaweibo://detail?mblogid=5229224325810658",
+    "sinaweibo://detail?mblogid=5106095381548619",
+    "sinaweibo://detail?mblogid=4908606643772015",
+    "https://k.sina.cn/article_7096020433_1a6f4add106801edd0.html?from=game&subch=ogame&wm=3049_0032",
+    "https://k.sina.cn/article_5679399630_m15284c2ce03301c5x8.html?from=game&subch=ogame&wm=3049_0032"
+  ],
+  "media": [
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/871d9fb0ly1i7016w54guj20k00w0dgo.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/871d9fb0ly1i7016w54guj20k00w0dgo.jpg",
+      "alt": "恋恋红茶_244",
+      "width": 1152,
+      "height": 720,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/871d9fb0ly1i7016w54guj20k00w0dgo.jpg"
+      ],
+      "user": "恋恋红茶_244"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/006cmbhQgy1i6zyjz3zy2j30zk0k1n4n.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/006cmbhQgy1i6zyjz3zy2j30zk0k1n4n.jpg",
+      "alt": "英雄联盟神吐槽",
+      "width": 721,
+      "height": 1280,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/006cmbhQgy1i6zyjz3zy2j30zk0k1n4n.jpg"
+      ],
+      "user": "英雄联盟神吐槽"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/006BPLKbly1i6zzgyf2yoj31hc0u0mz9.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/006BPLKbly1i6zzgyf2yoj31hc0u0mz9.jpg",
+      "alt": "我是电竞小生",
+      "width": 1080,
+      "height": 1920,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/006BPLKbly1i6zzgyf2yoj31hc0u0mz9.jpg"
+      ],
+      "user": "我是电竞小生"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/006i8XEzly1i6zznpfdh7j31o00u0q5n.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/006i8XEzly1i6zznpfdh7j31o00u0q5n.jpg",
+      "alt": "动漫游戏君",
+      "width": 1080,
+      "height": 2160,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/006i8XEzly1i6zznpfdh7j31o00u0q5n.jpg"
+      ],
+      "user": "动漫游戏君"
+    }
+  ],
+  "html_path": "data/aicard/hourly/2025-11-04/11/al.html"
+}

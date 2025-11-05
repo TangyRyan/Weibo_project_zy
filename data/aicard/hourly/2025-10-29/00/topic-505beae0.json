@@ -1,0 +1,311 @@
+{
+  "meta": {
+    "query": "#范玮琪方发声明辟谣#",
+    "status_code": 200,
+    "fetched_at": "2025-10-29T00:39:50+08:00",
+    "response": {
+      "status": 2,
+      "model": "deepseek",
+      "query": "#范玮琪方发声明辟谣#",
+      "query_field": "1",
+      "sorted_material_list": null,
+      "reference_num": 32,
+      "status_stage": 4,
+      "link_list": [
+        "sinaweibo://detail?mblogid=5226823141299782",
+        "sinaweibo://detail?mblogid=5226828887493654",
+        "sinaweibo://detail?mblogid=5226858603612636",
+        "sinaweibo://detail?mblogid=5226868639793224",
+        "sinaweibo://detail?mblogid=5226624896991310",
+        "sinaweibo://detail?mblogid=5226637789496105",
+        "sinaweibo://detail?mblogid=5226667159060731",
+        "sinaweibo://detail?mblogid=5226714989069794",
+        "sinaweibo://detail?mblogid=5226749202009402",
+        "https://baike.baidu.com/item/%E8%8C%83%E7%8E%AE%E7%90%AA?fromModule=search-result_lemma",
+        "broadsocial_res://",
+        "historyweibo://4917253273292820",
+        "historyweibo://5226685243857156",
+        "historyweibo://5223191190702421",
+        "sinaweibo://detail?mblogid=5226855468631685",
+        "sinaweibo://detail?mblogid=5226870142144367",
+        "sinaweibo://detail?mblogid=5226872539714114",
+        "sinaweibo://detail?mblogid=5226857064564883",
+        "sinaweibo://detail?mblogid=5226844458583680",
+        "sinaweibo://detail?mblogid=5226862379012284",
+        "sinaweibo://detail?mblogid=5226840094674533",
+        "sinaweibo://detail?mblogid=5226880798296242",
+        "sinaweibo://detail?mblogid=5226870792520098",
+        "sinaweibo://detail?mblogid=5226867839993280",
+        "sinaweibo://detail?mblogid=5226861266734895",
+        "sinaweibo://detail?mblogid=5226859342334765",
+        "sinaweibo://detail?mblogid=5226855638242754",
+        "sinaweibo://detail?mblogid=5226855431146874",
+        "sinaweibo://detail?mblogid=5226855393395924",
+        "sinaweibo://detail?mblogid=5226635458515163",
+        "sinaweibo://detail?mblogid=5226870082897394",
+        "sinaweibo://detail?mblogid=5226675815843345",
+        "sinaweibo://detail?mblogid=5226638610534780",
+        "sinaweibo://detail?mblogid=5226689923649386",
+        "sinaweibo://detail?mblogid=5226645078147734",
+        "sinaweibo://detail?mblogid=5226629840504847",
+        "sinaweibo://detail?mblogid=5226735043873179"
+      ],
+      "current_time": 1761669591,
+      "top_quote_list": {},
+      "reliable_tips": "{\"gold_orange_v_mids\": [\"5226858603612636\", \"5226624896991310\", \"5226714989069794\", \"5226638610534780\", \"5226735043873179\", \"5226857064564883\", \"5226629840504847\", \"5226840094674533\", \"5226689923649386\", \"5226855468631685\", \"5226855638242754\", \"5226868639793224\", \"5226645078147734\", \"5226862379012284\", \"5226855431146874\", \"5226855393395924\", \"5226637789496105\", \"5226667159060731\", \"5226749202009402\", \"5226870142144367\", \"5226872539714114\", \"5226635458515163\", \"5226870082897394\", \"5226675815843345\"], \"gold_orange_v_ratio\": \"75%\", \"media_mids\": [\"5226828887493654\", \"5226844458583680\"], \"media_ratio\": \"6%\", \"verified_mids\": [\"5226823141299782\", \"5226880798296242\"], \"verified_ratio\": \"6%\", \"normal_mids\": [\"5226870792520098\", \"5226867839993280\", \"5226861266734895\", \"5226859342334765\"], \"normal_ratio\": \"13%\", \"ref_mid_rank\": {\"5226823141299782\": {\"rank\": 1}, \"5226828887493654\": {\"rank\": 2}, \"5226844458583680\": {\"rank\": 19}, \"5226858603612636\": {\"rank\": 3}, \"5226624896991310\": {\"rank\": 5}, \"5226714989069794\": {\"rank\": 8}, \"5226638610534780\": {\"rank\": 33}, \"5226735043873179\": {\"rank\": 37}, \"5226857064564883\": {\"rank\": 18}, \"5226629840504847\": {\"rank\": 36}, \"5226840094674533\": {\"rank\": 21}, \"5226689923649386\": {\"rank\": 34}, \"5226855468631685\": {\"rank\": 15}, \"5226855638242754\": {\"rank\": 27}, \"5226868639793224\": {\"rank\": 4}, \"5226880798296242\": {\"rank\": 22}, \"5226870792520098\": {\"rank\": 23}, \"5226645078147734\": {\"rank\": 35}, \"5226862379012284\": {\"rank\": 20}, \"5226855431146874\": {\"rank\": 28}, \"5226855393395924\": {\"rank\": 29}, \"5226637789496105\": {\"rank\": 6}, \"5226667159060731\": {\"rank\": 7}, \"5226749202009402\": {\"rank\": 9}, \"5226870142144367\": {\"rank\": 16}, \"5226872539714114\": {\"rank\": 17}, \"5226867839993280\": {\"rank\": 24}, \"5226861266734895\": {\"rank\": 25}, \"5226859342334765\": {\"rank\": 26}, \"5226635458515163\": {\"rank\": 30}, \"5226870082897394\": {\"rank\": 31}, \"5226675815843345\": {\"rank\": 32}}}",
+      "q_attr": {
+        "from_request_id": "",
+        "from_uid": ""
+      },
+      "share_card_multimodal": {
+        "scheme": "sinaweibo://multimedia?mix_mid=5226714989069794&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=1&multi_count=0",
+        "click_rate": 0.56869408917343,
+        "type": "p",
+        "doc_score": 5057,
+        "img_pid": "9b944873gy1i6s10ygc4kj20x21ac49e",
+        "hit_score_final": 61.297264,
+        "w": 1190,
+        "hit_score_new": 66.162109,
+        "img": "http://wx3.sinaimg.cn/middle/9b944873gy1i6s10ygc4kj20x21ac49e.jpg",
+        "vtype": 0,
+        "h": 1668,
+        "user_name": "热宝女",
+        "cur_mid": "5226714989069794",
+        "user_avatar": "https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/9b944873ly8gevgdi5ks1j20u00u0di2.jpg?KID=imgbed,tva&Expires=1761679962&ssig=m%2FF3qYDCvJ",
+        "video_url": ""
+      },
+      "basemodel": "实验组2",
+      "msg_json": "{}",
+      "analysis_time": 1761669305,
+      "uid": "",
+      "ab_suffix": "default",
+      "show_ctrl": {
+        "quote": {}
+      },
+      "abtest_info": {
+        "chat_entrance": 1
+      },
+      "qs_status_info": "{\"qs_u_status\":0,\"ab_lab\":{},\"qs_status\":0,\"qs_q_status\":0,\"qs_c_status\":8388608,\"qs_r_status\":0}",
+      "share_text": "#范玮琪方发声明辟谣#的相关内容，来智搜看看",
+      "loop_times": 200,
+      "share_info": {
+        "unify_md5": "505beae08ef2b0dfdc5b3a6a47d5248b",
+        "url": "http://t.cn/AXA7pLhb",
+        "status": 3,
+        "tips": "#范玮琪方发声明辟谣#的相关内容，来智搜看看",
+        "page_id": "2329647e12c9bfb8e0ba7c6216e17100a0cebe",
+        "display_name": "#范玮琪方发声明辟谣#"
+      },
+      "ext_show": {},
+      "msg": "<think><br>嗯，用户要求我整理范玮琪方发声明辟谣的相关信息，需要基于提供的搜索结果进行分析和总结。先仔细看看这些搜索结果的内容……<br><br>在这些搜索结果中，多个微博账号都提到了范玮琪经纪公司\"山河乐文化\"在2025年10月28日发布声明，委托\"北京载实律师事务所\"辟谣。声明的核心内容是：部分媒体未经核实就报道范玮琪在演唱会上佩戴\"大S骨灰项链\"，这完全是虚假新闻。经纪公司强调相关项链与遗骨没有任何关系，这些不实报道对范玮琪名誉权造成了严重侵害。<br><br>搜索结果中有一些关键细节值得注意。时尚博主\"二毛坨子\"在分析中指出，范玮琪佩戴的其实是瑞典品牌Acne Studios的成品项链，售价约4700元。品牌客服也确认这款项链的爱心装饰\"不建议拆卸\"，拆卸后可能无法再次使用，物理上无法装入骨灰。这与小S在金钟奖后台亲证佩戴的骨灰项链在款式上明显不同。<br><br>关于\"骨灰项链\"的传闻来源，主要是一些媒体声称具俊晔制作了7条骨灰项链分赠姐妹团成员。但资料显示，这个说法从未获得具俊晔、范玮琪等当事人证实。目前只有小S本人公开承认佩戴骨灰项链，但未透露具体分配细节。<br><br>范玮琪在演唱会上的行为也被澄清。她演唱《可不可以不勇敢》后向天空飞吻，是致敬已故好友大S。这首歌曾收录大小S的和声版本，被视作三人友情的象征。整个过程中范玮琪并未提及项链有特殊意义。<br><br>这次事件引发了多种舆论反应。有网友认为媒体为流量恶意造谣，支持范玮琪维权；也有人质疑范玮琪过往争议（如学历问题、丈夫性骚扰风波），认为有炒作嫌疑；还有讨论聚焦东西方文化差异，骨灰饰品在西方属常见纪念方式，但东亚文化更强调遗体完整。<br><br>从法律角度看，声明严正要求相关方立即删除侵权信息并赔礼道歉，表示将追究法律责任。声明还提到当前中央网信办正在开展\"清朗\"系列专项行动，重点整治网络谣言，营造清朗网络空间。<br><br>现在需要把这些信息整理成结构化的回答。考虑设计几个部分：事件核心事实（包括声明要点、项链真相、致敬行为原意）、骨灰项链的真实情况（小S承认的细节、7条项链说法存疑）、舆论反应和法律维权、范玮琪与大S的友情背景、文化层面思考等。准备在关键处引用搜索结果作为依据，避免直接提到具体账号名，而是用\"声明指出\"、\"资料显示\"等表述。<br><br>在风险提示上，会注明经纪公司声明的法律性质，同时指出\"7条项链\"说法缺乏权威证实，让用户自行判断。最后强调范玮琪的舞台行为本质是友情感念，与项链属性无关，呼应清朗网络空间的倡议。<br><br></think><br>以下是关于“范玮琪方发声明辟谣”事件的深度梳理，综合多方信息与关键事实：<br>### ⚖️ **一、事件核心事实与声明要点**<br>1. **辟谣声明核心内容**  <br>   范玮琪经纪公司“山河乐文化”于2025年10月28日委托北京载实律师事务所发布声明，明确否认“佩戴大S骨灰项链”的传闻。声明指出：```wbCustomBlock{\"type\": \"quoted\", \"index\": 4, \"data\": {\"num\": [1, 2, 19], \"version\": 2, \"quote_list\": [{\"name\": \"星视频\", \"scheme\": \"sinaweibo://detail?mblogid=5226828887493654\", \"index\": 2, \"label\": \"大v\"}, {\"name\": \"山河乐文化\", \"scheme\": \"sinaweibo://detail?mblogid=5226823141299782\", \"index\": 1, \"label\": \"\"}, {\"name\": \"上游新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5226844458583680\", \"index\": 19, \"label\": \"\"}], \"name\": \"星视频\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.600.600.50/0070ni15ly8hcmk65avs5j30go0godgt.jpg?KID=imgbed,tva&Expires=1761679962&ssig=bp79mXwZsv\", \"scheme\": \"sinaweibo://detail?mblogid=5226828887493654\", \"vType\": 3}}```<br>   - **报道失实**：部分媒体在未经核实的情况下，发布范玮琪演唱会佩戴“大S骨灰项链”的不实消息，相关内容纯属捏造。<br>   - **项链性质**：范玮琪佩戴的项链与遗骨无任何关联，系普通饰品。<br>   - **法律追责**：要求相关平台立即删除侵权信息并道歉，强调将追究造谣者法律责任。```wbCustomBlock{\"type\": \"quoted\", \"index\": 7, \"data\": {\"num\": [1, 2], \"version\": 2, \"quote_list\": [{\"name\": \"山河乐文化\", \"scheme\": \"sinaweibo://detail?mblogid=5226823141299782\", \"index\": 1, \"label\": \"\"}, {\"name\": \"星视频\", \"scheme\": \"sinaweibo://detail?mblogid=5226828887493654\", \"index\": 2, \"label\": \"\"}]}}```<br><br>2. **争议源头与澄清证据**  <br>   - **项链实为品牌款**：时尚博主及品牌客服证实，范玮琪佩戴的黑色心形项链为瑞典品牌 **Acne Studios** 的复古款（售价约4700元），其设计“不可拆卸”，物理上无法装入骨灰。```wbCustomBlock{\"type\": \"quoted\", \"index\": 9, \"data\": {\"num\": [3, 5, 8, 33], \"version\": 2, \"quote_list\": [{\"name\": \"热宝女\", \"scheme\": \"sinaweibo://detail?mblogid=5226714989069794\", \"index\": 8, \"label\": \"大v\"}, {\"name\": \"lPhone103\", \"scheme\": \"sinaweibo://detail?mblogid=5226858603612636\", \"index\": 3, \"label\": \"\"}, {\"name\": \"VousEtoiles\", \"scheme\": \"sinaweibo://detail?mblogid=5226624896991310\", \"index\": 5, \"label\": \"\"}, {\"name\": \"魚卷不卷yo\", \"scheme\": \"sinaweibo://detail?mblogid=5226638610534780\", \"index\": 33, \"label\": \"\"}], \"name\": \"热宝女\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/9b944873ly8gevgdi5ks1j20u00u0di2.jpg?KID=imgbed,tva&Expires=1761679962&ssig=m%2FF3qYDCvJ\", \"scheme\": \"sinaweibo://detail?mblogid=5226714989069794\", \"vType\": 0}}```  <br>   - **与小S项链的差异**：小S在金钟奖后台亲证其佩戴的细链爱心项链内含大S骨灰，而范玮琪的项链款式、链条粗细均与小S款明显不同。```wbCustomBlock{\"type\": \"quoted\", \"index\": 10, \"data\": {\"num\": [33, 37], \"version\": 2, \"quote_list\": [{\"name\": \"魚卷不卷yo\", \"scheme\": \"sinaweibo://detail?mblogid=5226638610534780\", \"index\": 33, \"label\": \"\"}, {\"name\": \"昼是椰子\", \"scheme\": \"sinaweibo://detail?mblogid=5226735043873179\", \"index\": 37, \"label\": \"\"}]}}```<br><br>3. **舞台行为原意**  <br>   范玮琪在演唱会演唱《可不可以不勇敢》后向天空飞吻，系对大S的悼念行为。该歌曲因曾收录大小S的和声版本，被视为三人友情的象征，与项链属性无关。```wbCustomBlock{\"type\": \"quoted\", \"index\": 11, \"data\": {\"num\": [18, 36], \"version\": 2, \"quote_list\": [{\"name\": \"萌萌哒红色小象\", \"scheme\": \"sinaweibo://detail?mblogid=5226857064564883\", \"index\": 18, \"label\": \"\"}, {\"name\": \"斩陨星\", \"scheme\": \"sinaweibo://detail?mblogid=5226629840504847\", \"index\": 36, \"label\": \"\"}]}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5226714989069794&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=1&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/9b944873ly8gevgdi5ks1j20u00u0di2.jpg?KID=imgbed,tva&Expires=1761679962&ssig=m%2FF3qYDCvJ) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">热宝女</span><img src=\"http://wx3.sinaimg.cn/middle/9b944873gy1i6s10ygc4kj20x21ac49e.jpg\" data-width=1668 data-height=1190></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5226858603612636&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=1&multi_count=1\"><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/008x7sKjly8i68pg114uaj30u00u0q5r.jpg?KID=imgbed,tva&Expires=1761679962&ssig=PuYiBqZMfY) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">lPhone103</span><img src=\"http://wx3.sinaimg.cn/middle/008x7sKjgy1i6shi4m85bj30u00z5aev.jpg\" data-width=1265 data-height=1080></div></media-block><br>### 🔍 **二、骨灰项链的真实情况**<br>1. **小S的公开确认**  <br>   小S在金钟奖后台承认自己佩戴的项链内含大S骨灰（由具俊晔设计），但**未透露制作数量、分配名单或受赠者信息**。```wbCustomBlock{\"type\": \"quoted\", \"index\": 14, \"data\": {\"num\": [33], \"version\": 2, \"quote_list\": [{\"name\": \"魚卷不卷yo\", \"scheme\": \"sinaweibo://detail?mblogid=5226638610534780\", \"index\": 33, \"label\": \"\"}]}}```<br><br>2. **“7条项链”说法存疑**  <br>   网传“具俊晔制作7条骨灰项链分赠姐妹团（含范玮琪）”仅为猜测性传闻，**无具俊晔、范玮琪等当事人直接证实**，亦无权威信源支持该分配细节。```wbCustomBlock{\"type\": \"quoted\", \"index\": 15, \"data\": {\"num\": [21, 34], \"version\": 2, \"quote_list\": [{\"name\": \"信盒\", \"scheme\": \"sinaweibo://detail?mblogid=5226689923649386\", \"index\": 34, \"label\": \"大v\"}, {\"name\": \"绳辑佑香\", \"scheme\": \"sinaweibo://detail?mblogid=5226840094674533\", \"index\": 21, \"label\": \"\"}], \"name\": \"信盒\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/006S7UZjly8i6sdue708wj30u00u0gml.jpg?KID=imgbed,tva&Expires=1761679962&ssig=vJWq1Fw2Bi\", \"scheme\": \"sinaweibo://detail?mblogid=5226689923649386\", \"vType\": 0}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://multimedia?mix_mid=5226689923649386&mix_index=0&multi_paragraph=2&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/006S7UZjly8i6sdue708wj30u00u0gml.jpg?KID=imgbed,tva&Expires=1761679962&ssig=vJWq1Fw2Bi) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">信盒</span><img src=\"http://wx3.sinaimg.cn/middle/006S7UZjly1i6ry3goe04j30oo19841f.jpg\" data-width=1628 data-height=888></div></media-block><br>### 💬 **三、舆论争议与法律维权**<br>1. **支持方观点**  <br>   - 认为范玮琪的舞台致敬是真情流露，媒体误读导致无辜受害。```wbCustomBlock{\"type\": \"quoted\", \"index\": 19, \"data\": {\"num\": [15, 18, 27], \"version\": 2, \"quote_list\": [{\"name\": \"2的很有范儿-\", \"scheme\": \"sinaweibo://detail?mblogid=5226855468631685\", \"index\": 15, \"label\": \"大v\"}, {\"name\": \"萌萌哒红色小象\", \"scheme\": \"sinaweibo://detail?mblogid=5226857064564883\", \"index\": 18, \"label\": \"\"}, {\"name\": \"清纯佳人白莲花\", \"scheme\": \"sinaweibo://detail?mblogid=5226855638242754\", \"index\": 27, \"label\": \"\"}], \"name\": \"2的很有范儿-\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/7101ba91ly8haajwyxf14j20u00u0ac7.jpg?KID=imgbed,tva&Expires=1761679962&ssig=8UgBAbUSYy\", \"scheme\": \"sinaweibo://detail?mblogid=5226855468631685\", \"vType\": 0}}```  <br>   - 呼吁尊重逝者，停止消费大S，支持范玮琪依法维权。```wbCustomBlock{\"type\": \"quoted\", \"index\": 20, \"data\": {\"num\": [4, 22, 23], \"version\": 2, \"quote_list\": [{\"name\": \"淋点酱\", \"scheme\": \"sinaweibo://detail?mblogid=5226868639793224\", \"index\": 4, \"label\": \"\"}, {\"name\": \"happy版切切\", \"scheme\": \"sinaweibo://detail?mblogid=5226880798296242\", \"index\": 22, \"label\": \"\"}, {\"name\": \"用户7991917239\", \"scheme\": \"sinaweibo://detail?mblogid=5226870792520098\", \"index\": 23, \"label\": \"\"}]}}```<br><br>2. **质疑方观点**  <br>   - 部分网友结合范玮琪过往争议（如学历造假、丈夫陈建州性骚扰风波），质疑其借机炒作。  <br>   - 对“骨灰分装”伦理提出异议，认为违背“入土为安”传统。```wbCustomBlock{\"type\": \"quoted\", \"index\": 23, \"data\": {\"num\": [35], \"version\": 2, \"quote_list\": [{\"name\": \"装头痛\", \"scheme\": \"sinaweibo://detail?mblogid=5226645078147734\", \"index\": 35, \"label\": \"\"}]}}```<br><br>3. **法律行动进展**  <br>   - 声明强调当前正值中央网信办“清朗”专项行动期，重点整治网络谣言。```wbCustomBlock{\"type\": \"quoted\", \"index\": 25, \"data\": {\"num\": [1, 2], \"version\": 2, \"quote_list\": [{\"name\": \"山河乐文化\", \"scheme\": \"sinaweibo://detail?mblogid=5226823141299782\", \"index\": 1, \"label\": \"\"}, {\"name\": \"星视频\", \"scheme\": \"sinaweibo://detail?mblogid=5226828887493654\", \"index\": 2, \"label\": \"\"}]}}```  <br>   - 原报道媒体“三湘都市报”已道歉，承认“事实核查存在疏漏”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 26, \"data\": {\"num\": [20, 28], \"version\": 2, \"quote_list\": [{\"name\": \"草莓菠萝艾瑞克\", \"scheme\": \"sinaweibo://detail?mblogid=5226862379012284\", \"index\": 20, \"label\": \"大v\"}, {\"name\": \"娱扒爷\", \"scheme\": \"sinaweibo://detail?mblogid=5226855431146874\", \"index\": 28, \"label\": \"\"}], \"name\": \"草莓菠萝艾瑞克\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/0065zYEJly8hzkavcdreoj30u00u0gn2.jpg?KID=imgbed,tva&Expires=1761679962&ssig=fVKSILsszd\", \"scheme\": \"sinaweibo://detail?mblogid=5226862379012284\", \"vType\": 0}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5226868639793224&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=3&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/008hgeaHly8i4m3s3jkarj30u00u0tdh.jpg?KID=imgbed,tva&Expires=1761679962&ssig=%2Frib918P%2FE) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">淋点酱</span><img src=\"http://wx3.sinaimg.cn/middle/008hgeaHgy1i6sin781gmj30u00zqtfd.jpg\" data-width=1286 data-height=1080></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5226862379012284&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=3&multi_count=1\"><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/0065zYEJly8hzkavcdreoj30u00u0gn2.jpg?KID=imgbed,tva&Expires=1761679962&ssig=fVKSILsszd) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">草莓菠萝艾瑞克</span><img src=\"http://wx4.sinaimg.cn/middle/0065zYEJgy1i6shcrlzalj30u01uotm2.jpg\" data-width=2400 data-height=1080></div><div data-type=\"v\" data-scheme=\"sinaweibo://multimedia?mix_mid=5226645078147734&mix_index=0&multi_paragraph=3&multi_count=2\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/007bi5Idly8i6ox2oell9j30u00u0wgr.jpg?KID=imgbed,tva&Expires=1761679962&ssig=1XDTDDjH2l) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">装头痛</span><img src=\"http://wx4.sinaimg.cn/middle/007bi5Idly1i6rszqrmusj30u01hcgng.jpg\" data-width=1920 data-height=1080></div></media-block><br>### 📜 **四、范玮琪与大S的友情背景**<br>- **25年姐妹情谊**：两人自2000年相识，同属“七仙女姐妹团”。大S生前曾助范玮琪度过事业低谷，并赠送“好孕棉”支持其备孕。```wbCustomBlock{\"type\": \"quoted\", \"index\": 29, \"data\": {\"num\": [36], \"version\": 2, \"quote_list\": [{\"name\": \"斩陨星\", \"scheme\": \"sinaweibo://detail?mblogid=5226629840504847\", \"index\": 36, \"label\": \"\"}]}}```  <br>- **多次公开悼念**：2025年3月范玮琪在演唱会播放大S合影引发争议，她解释系导演提议表达思念，后续场次已撤下照片。<br>### 🌍 **五、文化差异与反思**<br>- **东西方观念冲突**：骨灰饰品在西方属常见纪念方式（称“Cremation Jewelry”），但东亚文化更强调遗体完整，因此引发争议。  <br>- **事件本质**：公众对名人私域悼念行为的过度解读，凸显网络时代信息核验机制的缺失。```wbCustomBlock{\"type\": \"quoted\", \"index\": 34, \"data\": {\"num\": [22, 29], \"version\": 2, \"quote_list\": [{\"name\": \"happy版切切\", \"scheme\": \"sinaweibo://detail?mblogid=5226880798296242\", \"index\": 22, \"label\": \"\"}, {\"name\": \"泡泡糖葫芦串\", \"scheme\": \"sinaweibo://detail?mblogid=5226855393395924\", \"index\": 29, \"label\": \"\"}]}}```<br>### 💎 **总结**<br>1. **范玮琪所戴项链非骨灰款**，实为商业饰品，媒体误读因与小S项链外形粗略相似。  <br>2. **骨灰项链仅小S公开承认持有**，“姐妹团人手一条”的说法缺乏实据。  <br>3. **舞台行为系友情纪念**，与项链属性无关，造谣者已违反法律与社会伦理。  <br><br>> 此事件警示：逝者已矣，生者更应以尊重为前提延续情感联结，而非制造无端纷争。网络信息的传播需恪守真实底线，避免对当事人造成二次伤害。```wbCustomBlock{\"type\": \"quoted\", \"index\": 40, \"data\": {\"num\": [1, 22], \"version\": 2, \"quote_list\": [{\"name\": \"山河乐文化\", \"scheme\": \"sinaweibo://detail?mblogid=5226823141299782\", \"index\": 1, \"label\": \"\"}, {\"name\": \"happy版切切\", \"scheme\": \"sinaweibo://detail?mblogid=5226880798296242\", \"index\": 22, \"label\": \"\"}]}}```<br>",
+      "card_multimodal": {
+        "data": [
+          {
+            "scheme": "sinaweibo://multimedia?mix_mid=5226714989069794&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=1&multi_count=0",
+            "click_rate": 0.56869408917343,
+            "type": "p",
+            "doc_score": 5057,
+            "img_pid": "9b944873gy1i6s10ygc4kj20x21ac49e",
+            "hit_score_final": 61.297264,
+            "w": 1190,
+            "hit_score_new": 66.162109,
+            "img": "http://wx3.sinaimg.cn/middle/9b944873gy1i6s10ygc4kj20x21ac49e.jpg",
+            "vtype": 0,
+            "h": 1668,
+            "user_name": "热宝女",
+            "cur_mid": "5226714989069794",
+            "user_avatar": "https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/9b944873ly8gevgdi5ks1j20u00u0di2.jpg?KID=imgbed,tva&Expires=1761679962&ssig=m%2FF3qYDCvJ",
+            "video_url": ""
+          },
+          {
+            "scheme": "sinaweibo://multimedia?mix_mid=5226858603612636&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=1&multi_count=1",
+            "click_rate": 0.06,
+            "type": "p",
+            "doc_score": 6646,
+            "img_pid": "008x7sKjgy1i6shi4m85bj30u00z5aev",
+            "hit_score_final": 97.061325,
+            "w": 1080,
+            "hit_score_new": 96.435547,
+            "img": "http://wx3.sinaimg.cn/middle/008x7sKjgy1i6shi4m85bj30u00z5aev.jpg",
+            "vtype": 0,
+            "h": 1265,
+            "user_name": "lPhone103",
+            "cur_mid": "5226858603612636",
+            "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/008x7sKjly8i68pg114uaj30u00u0q5r.jpg?KID=imgbed,tva&Expires=1761679962&ssig=PuYiBqZMfY",
+            "video_url": ""
+          },
+          {
+            "scheme": "sinaweibo://multimedia?mix_mid=5226689923649386&mix_index=0&multi_paragraph=2&multi_count=0",
+            "click_rate": 0,
+            "type": "v",
+            "doc_score": 3570,
+            "img_pid": "006S7UZjly1i6ry3goe04j30oo19841f",
+            "hit_score_final": 67.93515,
+            "w": 888,
+            "hit_score_new": 72.558594,
+            "img": "http://wx3.sinaimg.cn/middle/006S7UZjly1i6ry3goe04j30oo19841f.jpg",
+            "vtype": 0,
+            "h": 1628,
+            "user_name": "信盒",
+            "cur_mid": "5226689923649386",
+            "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/006S7UZjly8i6sdue708wj30u00u0gml.jpg?KID=imgbed,tva&Expires=1761679962&ssig=vJWq1Fw2Bi",
+            "video_url": "https://video.weibo.com/show?fid=1034:5226689291288619"
+          },
+          {
+            "scheme": "sinaweibo://multimedia?mix_mid=5226714989069794&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=1&multi_count=0",
+            "click_rate": 0.56869408917343,
+            "type": "p",
+            "doc_score": 5057,
+            "img_pid": "9b944873gy1i6s10ygc4kj20x21ac49e",
+            "hit_score_final": 61.297264,
+            "w": 1190,
+            "hit_score_new": 66.162109,
+            "img": "http://wx3.sinaimg.cn/middle/9b944873gy1i6s10ygc4kj20x21ac49e.jpg",
+            "vtype": 0,
+            "h": 1668,
+            "user_name": "热宝女",
+            "cur_mid": "5226714989069794",
+            "user_avatar": "https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/9b944873ly8gevgdi5ks1j20u00u0di2.jpg?KID=imgbed,tva&Expires=1761679962&ssig=m%2FF3qYDCvJ",
+            "video_url": ""
+          }
+        ],
+        "type": "mediablock"
+      },
+      "wenda": {
+        "forward_gen": 0
+      },
+      "news_analyze": {},
+      "mid_list": null,
+      "chat_status_stage": 1,
+      "query_category": "",
+      "msg_format": "markdown",
+      "page_id": "2329647e12c9bfb8e0ba7c6216e17100a0cebe",
+      "unify_md5": "505beae08ef2b0dfdc5b3a6a47d5248b",
+      "short_url": "http://t.cn/AXA78jlc",
+      "version": "2025-10-29 00:32:42.015000-9184",
+      "qs_status": 0,
+      "user_info": {},
+      "profile_image_url": "",
+      "zs_risk_control": {
+        "think_text_close": 0,
+        "land_button_close": 0
+      },
+      "cot": 1,
+      "scheme": "sinaweibo://cardlist?containerid=100103type%3D225%26q%3D%23%E8%8C%83%E7%8E%AE%E7%90%AA%E6%96%B9%E5%8F%91%E5%A3%B0%E6%98%8E%E8%BE%9F%E8%B0%A3%23%26t%3D&extparam=ai_model%3Ddeepseek%26ori_ai_title%3D%E5%8F%82%E8%80%83%E5%8D%9A%E6%96%87%26material_version%3D1761669162"
+    }
+  },
+  "links": [
+    "sinaweibo://detail?mblogid=5226823141299782",
+    "sinaweibo://detail?mblogid=5226828887493654",
+    "sinaweibo://detail?mblogid=5226858603612636",
+    "sinaweibo://detail?mblogid=5226868639793224",
+    "sinaweibo://detail?mblogid=5226624896991310",
+    "sinaweibo://detail?mblogid=5226637789496105",
+    "sinaweibo://detail?mblogid=5226667159060731",
+    "sinaweibo://detail?mblogid=5226714989069794",
+    "sinaweibo://detail?mblogid=5226749202009402",
+    "https://baike.baidu.com/item/%E8%8C%83%E7%8E%AE%E7%90%AA?fromModule=search-result_lemma",
+    "broadsocial_res://",
+    "historyweibo://4917253273292820",
+    "historyweibo://5226685243857156",
+    "historyweibo://5223191190702421",
+    "sinaweibo://detail?mblogid=5226855468631685",
+    "sinaweibo://detail?mblogid=5226870142144367",
+    "sinaweibo://detail?mblogid=5226872539714114",
+    "sinaweibo://detail?mblogid=5226857064564883",
+    "sinaweibo://detail?mblogid=5226844458583680",
+    "sinaweibo://detail?mblogid=5226862379012284",
+    "sinaweibo://detail?mblogid=5226840094674533",
+    "sinaweibo://detail?mblogid=5226880798296242",
+    "sinaweibo://detail?mblogid=5226870792520098",
+    "sinaweibo://detail?mblogid=5226867839993280",
+    "sinaweibo://detail?mblogid=5226861266734895",
+    "sinaweibo://detail?mblogid=5226859342334765",
+    "sinaweibo://detail?mblogid=5226855638242754",
+    "sinaweibo://detail?mblogid=5226855431146874",
+    "sinaweibo://detail?mblogid=5226855393395924",
+    "sinaweibo://detail?mblogid=5226635458515163",
+    "sinaweibo://detail?mblogid=5226870082897394",
+    "sinaweibo://detail?mblogid=5226675815843345",
+    "sinaweibo://detail?mblogid=5226638610534780",
+    "sinaweibo://detail?mblogid=5226689923649386",
+    "sinaweibo://detail?mblogid=5226645078147734",
+    "sinaweibo://detail?mblogid=5226629840504847",
+    "sinaweibo://detail?mblogid=5226735043873179"
+  ],
+  "media": [
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/9b944873gy1i6s10ygc4kj20x21ac49e.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/9b944873gy1i6s10ygc4kj20x21ac49e.jpg",
+      "alt": "热宝女",
+      "width": 1668,
+      "height": 1190,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/9b944873gy1i6s10ygc4kj20x21ac49e.jpg"
+      ],
+      "user": "热宝女"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/008x7sKjgy1i6shi4m85bj30u00z5aev.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/008x7sKjgy1i6shi4m85bj30u00z5aev.jpg",
+      "alt": "lPhone103",
+      "width": 1265,
+      "height": 1080,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/008x7sKjgy1i6shi4m85bj30u00z5aev.jpg"
+      ],
+      "user": "lPhone103"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/006S7UZjly1i6ry3goe04j30oo19841f.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/006S7UZjly1i6ry3goe04j30oo19841f.jpg",
+      "alt": "信盒",
+      "width": 1628,
+      "height": 888,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/006S7UZjly1i6ry3goe04j30oo19841f.jpg"
+      ],
+      "user": "信盒"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/008hgeaHgy1i6sin781gmj30u00zqtfd.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/008hgeaHgy1i6sin781gmj30u00zqtfd.jpg",
+      "alt": "淋点酱",
+      "width": 1286,
+      "height": 1080,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/008hgeaHgy1i6sin781gmj30u00zqtfd.jpg"
+      ],
+      "user": "淋点酱"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/0065zYEJgy1i6shcrlzalj30u01uotm2.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/0065zYEJgy1i6shcrlzalj30u01uotm2.jpg",
+      "alt": "草莓菠萝艾瑞克",
+      "width": 2400,
+      "height": 1080,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/0065zYEJgy1i6shcrlzalj30u01uotm2.jpg"
+      ],
+      "user": "草莓菠萝艾瑞克"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/007bi5Idly1i6rszqrmusj30u01hcgng.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/007bi5Idly1i6rszqrmusj30u01hcgng.jpg",
+      "alt": "装头痛",
+      "width": 1920,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/007bi5Idly1i6rszqrmusj30u01hcgng.jpg"
+      ],
+      "user": "装头痛"
+    }
+  ],
+  "html_path": "data/aicard/hourly/2025-10-29/00/topic-505beae0.html"
+}

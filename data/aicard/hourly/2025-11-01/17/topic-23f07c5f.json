@@ -1,0 +1,260 @@
+{
+  "meta": {
+    "query": "#于正内涵曾庆杰#",
+    "status_code": 200,
+    "fetched_at": "2025-11-01T17:33:58+08:00",
+    "response": {
+      "model": "deepseek",
+      "ab_suffix": "default",
+      "comment_info": {},
+      "status": 2,
+      "q_attr": {
+        "mid": "",
+        "from_uid": "",
+        "from_request_id": "",
+        "reply_cid": "",
+        "comment_from_type": ""
+      },
+      "sorted_material_list": null,
+      "analysis_time": 1761989236,
+      "cot": 1,
+      "current_time": 1761989638,
+      "page_id": "232964c7a4e2488195ac0c6f654cbd268a37f1",
+      "abtest_info": {
+        "chat_entrance": 1
+      },
+      "ext_show": {},
+      "short_url": "http://t.cn/AXAMJYzo",
+      "card_multimodal": {
+        "data": [
+          {
+            "cur_mid": "5228173655804689",
+            "hit_score_final": 63.687107,
+            "user_name": "搜狐娱乐",
+            "scheme": "sinaweibo://multimedia?mix_mid=5228173655804689&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=1&multi_count=0",
+            "user_avatar": "https://tvax3.sinaimg.cn/crop.3.2.96.96.50/0020LHhfly8h8p8t2d8guj602s02s0sj02.jpg?KID=imgbed,tva&Expires=1761999863&ssig=StPhGF%2FrP8",
+            "vtype": 3,
+            "video_url": "",
+            "w": 1206,
+            "hit_score_new": 65.478516,
+            "doc_score": 1986,
+            "img_pid": "0020LHhfly1i6wok5iurwj60xi0a1gmq02",
+            "img": "http://wx3.sinaimg.cn/middle/0020LHhfly1i6wok5iurwj60xi0a1gmq02.jpg",
+            "click_rate": 0.15384615384615,
+            "type": "p",
+            "h": 361
+          },
+          {
+            "cur_mid": "5228216244505671",
+            "hit_score_final": 0,
+            "user_name": "追剧大赏",
+            "scheme": "sinaweibo://multimedia?mix_mid=5228216244505671&from=search&content_show=1&mix_index=2&hide_index=1&multi_paragraph=1&multi_count=1",
+            "user_avatar": "https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/006PGz2Vly8gcdnam3emvj30u00u0jsa.jpg?KID=imgbed,tva&Expires=1761999863&ssig=Wy8BkUn3m1",
+            "vtype": 0,
+            "video_url": "",
+            "w": 905,
+            "hit_score_new": 0,
+            "doc_score": 0,
+            "img_pid": "006PGz2Vgy1i6wtfndqnmj30p50fe0v7",
+            "img": "http://wx4.sinaimg.cn/middle/006PGz2Vgy1i6wtfndqnmj30p50fe0v7.jpg",
+            "click_rate": 0.06,
+            "type": "p",
+            "h": 554
+          },
+          {
+            "cur_mid": "5228161622087331",
+            "hit_score_final": 0,
+            "user_name": "Bunny小课堂",
+            "scheme": "sinaweibo://multimedia?mix_mid=5228161622087331&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=2",
+            "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.750.750.50/006758Pyly8fg6x9s2jhtj30ku0ku74m.jpg?KID=imgbed,tva&Expires=1761999863&ssig=6vo38ne2En",
+            "vtype": 0,
+            "video_url": "",
+            "w": 1284,
+            "hit_score_new": 0,
+            "doc_score": 0,
+            "img_pid": "006758Pyly1i6wn5o79ekj30zo1gs0za",
+            "img": "http://wx2.sinaimg.cn/middle/006758Pyly1i6wn5o79ekj30zo1gs0za.jpg",
+            "click_rate": 0.06,
+            "type": "p",
+            "h": 1900
+          },
+          {
+            "cur_mid": "5228173655804689",
+            "hit_score_final": 63.687107,
+            "user_name": "搜狐娱乐",
+            "scheme": "sinaweibo://multimedia?mix_mid=5228173655804689&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=1&multi_count=0",
+            "user_avatar": "https://tvax3.sinaimg.cn/crop.3.2.96.96.50/0020LHhfly8h8p8t2d8guj602s02s0sj02.jpg?KID=imgbed,tva&Expires=1761999863&ssig=StPhGF%2FrP8",
+            "vtype": 3,
+            "video_url": "",
+            "w": 1206,
+            "hit_score_new": 65.478516,
+            "doc_score": 1986,
+            "img_pid": "0020LHhfly1i6wok5iurwj60xi0a1gmq02",
+            "img": "http://wx3.sinaimg.cn/middle/0020LHhfly1i6wok5iurwj60xi0a1gmq02.jpg",
+            "click_rate": 0.15384615384615,
+            "type": "p",
+            "h": 361
+          }
+        ],
+        "type": "mediablock"
+      },
+      "share_card_multimodal": {
+        "cur_mid": "5228173655804689",
+        "hit_score_final": 63.687107,
+        "user_name": "搜狐娱乐",
+        "scheme": "sinaweibo://multimedia?mix_mid=5228173655804689&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=1&multi_count=0",
+        "user_avatar": "https://tvax3.sinaimg.cn/crop.3.2.96.96.50/0020LHhfly8h8p8t2d8guj602s02s0sj02.jpg?KID=imgbed,tva&Expires=1761999863&ssig=StPhGF%2FrP8",
+        "vtype": 3,
+        "video_url": "",
+        "w": 1206,
+        "hit_score_new": 65.478516,
+        "doc_score": 1986,
+        "img_pid": "0020LHhfly1i6wok5iurwj60xi0a1gmq02",
+        "img": "http://wx3.sinaimg.cn/middle/0020LHhfly1i6wok5iurwj60xi0a1gmq02.jpg",
+        "click_rate": 0.15384615384615,
+        "type": "p",
+        "h": 361
+      },
+      "user_info": {},
+      "basemodel": "实验组1",
+      "query": "#于正内涵曾庆杰#",
+      "qs_status": 0,
+      "share_info": {
+        "status": 3,
+        "comment_content": "",
+        "url": "http://t.cn/AXAMx0Kt",
+        "unify_md5": "23f07c5f0537b904cd8d6f2fcef8f86a",
+        "display_name": "#于正内涵曾庆杰#",
+        "tips": "#于正内涵曾庆杰#的相关内容，来智搜看看",
+        "page_id": "232964c7a4e2488195ac0c6f654cbd268a37f1"
+      },
+      "loop_times": 200,
+      "wenda": {
+        "forward_gen": 0
+      },
+      "reliable_tips": "{\"gold_orange_v_mids\": [\"5228217452726283\", \"5228223199972053\", \"5227922354602288\", \"5228216244505671\", \"5228161622087331\", \"5227938950684580\", \"5227959700162347\", \"5227963449610034\", \"5227960861983217\", \"5227973994611094\", \"5227964608023696\", \"5227965009894684\", \"5227963004226954\", \"5227964581019803\"], \"gold_orange_v_ratio\": \"61%\", \"media_mids\": [], \"media_ratio\": \"0%\", \"verified_mids\": [\"5228173655804689\", \"5228220158574832\", \"5227960544267349\"], \"verified_ratio\": \"13%\", \"normal_mids\": [\"5228220829665489\", \"5228134817598532\", \"5228223161436042\", \"5228222230823415\", \"5228220909358493\", \"5228144495691080\"], \"normal_ratio\": \"26%\", \"ref_mid_rank\": {\"5228217452726283\": {\"rank\": 7}, \"5228220829665489\": {\"rank\": 16}, \"5228223199972053\": {\"rank\": 12}, \"5227922354602288\": {\"rank\": 27}, \"5228216244505671\": {\"rank\": 1}, \"5228173655804689\": {\"rank\": 21}, \"5228161622087331\": {\"rank\": 2}, \"5228134817598532\": {\"rank\": 18}, \"5228220158574832\": {\"rank\": 22}, \"5228223161436042\": {\"rank\": 13}, \"5228222230823415\": {\"rank\": 14}, \"5227938950684580\": {\"rank\": 10}, \"5227959700162347\": {\"rank\": 20}, \"5227963449610034\": {\"rank\": 8}, \"5227960861983217\": {\"rank\": 11}, \"5227960544267349\": {\"rank\": 25}, \"5227973994611094\": {\"rank\": 24}, \"5227964608023696\": {\"rank\": 26}, \"5227965009894684\": {\"rank\": 9}, \"5228220909358493\": {\"rank\": 15}, \"5228144495691080\": {\"rank\": 17}, \"5227963004226954\": {\"rank\": 19}, \"5227964581019803\": {\"rank\": 23}}}",
+      "news_analyze": {},
+      "share_text": "#于正内涵曾庆杰#的相关内容，来智搜看看",
+      "reference_num": 23,
+      "show_ctrl": {
+        "quote": {}
+      },
+      "unify_md5": "23f07c5f0537b904cd8d6f2fcef8f86a",
+      "msg": "<think><br><br>嗯，用户查询的是\"于正内涵曾庆杰\"事件，从搜索结果看这是2025年11月1日刚发生的娱乐圈热点。需要整合多个微博和资料内容，理清事件脉络。<br><br>先看核心冲突点：根据结果1和结果21，导演曾庆杰在10月31日手滑转发了吐槽于正新剧《金吾不禁》\"衣服丑演员脸好看\"的帖子（含黑称\"于歪\"），随后删除道歉。结果16补充了细节，提到曾庆杰用华为手机操作，内容含\"于老师您有没有看见知名导演说您新剧衣服丑\"。<br><br>而于正回应很有意思：\"他挺好的，红了，所以啥也敢说了。新人，都理解，我也不知天高地厚过。\"表面宽容实则暗讽，结果2和结果22都指出这是\"心眼子小小\"的内涵。<br><br>关于\"手滑\"争议：结果3提到微博转发机制只需点一次，删除才需二次确认，结果7网友吐槽\"转发要点两下\"。曾庆杰解释\"点错了sorry\"，但部分账号如结果9/10认为非手滑。<br><br>网友反应两极：结果11/25安利曾庆杰作品（《九重紫》《虚颜》等），结果20/23玩梗说于正已认领\"于歪\"称呼。而于正粉丝如结果13/14则维护他。<br><br>意外效果：结果24/26指出事件反而让曾庆杰作品出圈，结果17网友借此搞笑类比生活手滑经历。<br><br>补充背景：于正近期有《金吾不禁》在拍，10月曾因减肥争议和演戏原因上热搜，可能影响其情绪反应。<br><br>整理后将分三块呈现：事件经过（含双方动作）、争议焦点（是否真手滑+于正回应意图）、衍生影响（作品安利/舆论玩梗）。重点用引用确保每点都有依据，时间信息需明确标注。<br><br></think><br>关于“于正内涵曾庆杰”事件的完整梳理如下：<br>### ⚡️ **事件核心脉络**  <br>1. **起因：曾庆杰“手滑”转发争议内容**  <br>   - **时间**：2025年10月31日  <br>   - **操作细节**：导演曾庆杰使用华为手机转发了一条批评于正新剧《金吾不禁》的微博，内容包含对剧集服化道的吐槽（称“衣服丑，演员脸好看”）及于正的黑称“于歪”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 6, \"data\": {\"num\": [7, 16], \"version\": 2, \"quote_list\": [{\"name\": \"匪我思彻\", \"scheme\": \"sinaweibo://detail?mblogid=5228217452726283\", \"index\": 7, \"label\": \"\"}, {\"name\": \"蔓月莓莓莓\", \"scheme\": \"sinaweibo://detail?mblogid=5228220829665489\", \"index\": 16, \"label\": \"\"}]}}```  <br>   - **后续动作**：曾庆杰秒删该转发，并公开道歉解释为“手滑点错”（原文：“我怕是点错了sorry！”）。```wbCustomBlock{\"type\": \"quoted\", \"index\": 7, \"data\": {\"num\": [7, 12, 27], \"version\": 2, \"quote_list\": [{\"name\": \"匪我思彻\", \"scheme\": \"sinaweibo://detail?mblogid=5228217452726283\", \"index\": 7, \"label\": \"\"}, {\"name\": \"娱乐顺风车\", \"scheme\": \"sinaweibo://detail?mblogid=5228223199972053\", \"index\": 12, \"label\": \"\"}, {\"name\": \"辣辣喜辣u\", \"scheme\": \"sinaweibo://detail?mblogid=5227922354602288\", \"index\": 27, \"label\": \"\"}]}}```  <br><br>2. **于正回应：表面宽容实则暗讽**  <br>   - **时间**：2025年11月1日  <br>   - **关键言论**：在网友提问后，于正发文回应：“他挺好的，红了，所以啥也敢说了。新人，都理解，我也不知天高地厚过。”```wbCustomBlock{\"type\": \"quoted\", \"index\": 10, \"data\": {\"num\": [1, 21], \"version\": 2, \"quote_list\": [{\"name\": \"搜狐娱乐\", \"scheme\": \"sinaweibo://detail?mblogid=5228173655804689\", \"index\": 21, \"label\": \"大v\"}, {\"name\": \"追剧大赏\", \"scheme\": \"sinaweibo://detail?mblogid=5228216244505671\", \"index\": 1, \"label\": \"\"}], \"name\": \"搜狐娱乐\", \"img\": \"https://tvax3.sinaimg.cn/crop.3.2.96.96.50/0020LHhfly8h8p8t2d8guj602s02s0sj02.jpg?KID=imgbed,tva&Expires=1761999863&ssig=StPhGF%2FrP8\", \"scheme\": \"sinaweibo://detail?mblogid=5228173655804689\", \"vType\": 3}}```  <br>   - **舆论解读**：  <br>     - “红了啥也敢说”被普遍视为暗示曾庆杰“走红后飘了”；  <br>     - “不知天高地厚”直指对方缺乏分寸感，暗含贬义。```wbCustomBlock{\"type\": \"quoted\", \"index\": 13, \"data\": {\"num\": [2, 18, 22], \"version\": 2, \"quote_list\": [{\"name\": \"Bunny小课堂\", \"scheme\": \"sinaweibo://detail?mblogid=5228161622087331\", \"index\": 2, \"label\": \"大v\"}, {\"name\": \"圈圈冲浪板\", \"scheme\": \"sinaweibo://detail?mblogid=5228134817598532\", \"index\": 18, \"label\": \"\"}, {\"name\": \"咕噜噜椰\", \"scheme\": \"sinaweibo://detail?mblogid=5228220158574832\", \"index\": 22, \"label\": \"\"}], \"name\": \"Bunny小课堂\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.750.750.50/006758Pyly8fg6x9s2jhtj30ku0ku74m.jpg?KID=imgbed,tva&Expires=1761999863&ssig=6vo38ne2En\", \"scheme\": \"sinaweibo://detail?mblogid=5228161622087331\", \"vType\": 0}}```  <br>   - **网友反应**：多数认为这是“高级内涵”，吐槽于正“心眼小但语言艺术满分”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 14, \"data\": {\"num\": [2, 13, 14], \"version\": 2, \"quote_list\": [{\"name\": \"Bunny小课堂\", \"scheme\": \"sinaweibo://detail?mblogid=5228161622087331\", \"index\": 2, \"label\": \"\"}, {\"name\": \"孤鸿errrr\", \"scheme\": \"sinaweibo://detail?mblogid=5228223161436042\", \"index\": 13, \"label\": \"\"}, {\"name\": \"咕噜咕噜减减\", \"scheme\": \"sinaweibo://detail?mblogid=5228222230823415\", \"index\": 14, \"label\": \"\"}]}}```  <br><br>3. **“手滑”争议：操作动机存疑**  <br>   - **技术层面**：微博转发仅需点击一次按钮，删除操作才需二次确认。因此“手滑转发”存在操作性矛盾。```wbCustomBlock{\"type\": \"quoted\", \"index\": 16, \"data\": {\"num\": [7, 10], \"version\": 2, \"quote_list\": [{\"name\": \"匪我思彻\", \"scheme\": \"sinaweibo://detail?mblogid=5228217452726283\", \"index\": 7, \"label\": \"\"}, {\"name\": \"有趣的罗菲鱼\", \"scheme\": \"sinaweibo://detail?mblogid=5227938950684580\", \"index\": 10, \"label\": \"\"}]}}```  <br>   - **网友质疑点**：  <br>     - 曾庆杰转发的博文含黑称“于歪”，针对性明显；  <br>     - 其秒删后快速道歉被部分观点认为“公关痕迹过重”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 19, \"data\": {\"num\": [10, 12, 20], \"version\": 2, \"quote_list\": [{\"name\": \"有趣的罗菲鱼\", \"scheme\": \"sinaweibo://detail?mblogid=5227938950684580\", \"index\": 10, \"label\": \"\"}, {\"name\": \"娱乐顺风车\", \"scheme\": \"sinaweibo://detail?mblogid=5228223199972053\", \"index\": 12, \"label\": \"\"}, {\"name\": \"爱旻砖家\", \"scheme\": \"sinaweibo://detail?mblogid=5227959700162347\", \"index\": 20, \"label\": \"\"}]}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5228173655804689&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=1&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.3.2.96.96.50/0020LHhfly8h8p8t2d8guj602s02s0sj02.jpg?KID=imgbed,tva&Expires=1761999863&ssig=StPhGF%2FrP8) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">搜狐娱乐</span><img src=\"http://wx3.sinaimg.cn/middle/0020LHhfly1i6wok5iurwj60xi0a1gmq02.jpg\" data-width=361 data-height=1206></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5228216244505671&from=search&content_show=1&mix_index=2&hide_index=1&multi_paragraph=1&multi_count=1\"><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/006PGz2Vly8gcdnam3emvj30u00u0jsa.jpg?KID=imgbed,tva&Expires=1761999863&ssig=Wy8BkUn3m1) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">追剧大赏</span><img src=\"http://wx4.sinaimg.cn/middle/006PGz2Vgy1i6wtfndqnmj30p50fe0v7.jpg\" data-width=554 data-height=905></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5228161622087331&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=2\"><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.750.750.50/006758Pyly8fg6x9s2jhtj30ku0ku74m.jpg?KID=imgbed,tva&Expires=1761999863&ssig=6vo38ne2En) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">Bunny小课堂</span><img src=\"http://wx2.sinaimg.cn/middle/006758Pyly1i6wn5o79ekj30zo1gs0za.jpg\" data-width=1900 data-height=1284></div></media-block><br>### 🎭 **双方背景与舆论博弈**  <br>- **曾庆杰**：  <br>  - 新锐导演，代表作包括短剧《虚颜》《念念无明》《招惹》，长剧《九重紫》获赞“镜头语言高级”“全员升咖”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 23, \"data\": {\"num\": [8, 11, 25], \"version\": 2, \"quote_list\": [{\"name\": \"-同志亦凡人\", \"scheme\": \"sinaweibo://detail?mblogid=5227963449610034\", \"index\": 8, \"label\": \"\"}, {\"name\": \"有狐噢狐狐\", \"scheme\": \"sinaweibo://detail?mblogid=5227960861983217\", \"index\": 11, \"label\": \"\"}, {\"name\": \"葡萄脆脆饼\", \"scheme\": \"sinaweibo://detail?mblogid=5227960544267349\", \"index\": 25, \"label\": \"\"}]}}```  <br>  - 此次事件意外带火其作品，网友调侃“闯祸式出圈”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 24, \"data\": {\"num\": [24, 26], \"version\": 2, \"quote_list\": [{\"name\": \"鳥上椿樹\", \"scheme\": \"sinaweibo://detail?mblogid=5227973994611094\", \"index\": 24, \"label\": \"\"}, {\"name\": \"啵蘸吃桃\", \"scheme\": \"sinaweibo://detail?mblogid=5227964608023696\", \"index\": 26, \"label\": \"\"}]}}```  <br><br>- **于正**：  <br>  - 近期因新剧《金吾不禁》（监制并参演）陷入多重争议：  <br>    - 要求女演员赵晴减重（实际目标104斤→95斤，非网传85斤）；  <br>    - 自曝“无法接受被说胖”，立誓练腹肌出演将军角色；  <br>    - “手滑事件”发生在其新剧宣传期，舆论推测为“转移焦点或反炒”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 29, \"data\": {\"num\": [22], \"version\": 2, \"quote_list\": [{\"name\": \"咕噜噜椰\", \"scheme\": \"sinaweibo://detail?mblogid=5228220158574832\", \"index\": 22, \"label\": \"\"}]}}```  <br><br>- **公众立场分化**：  <br>  | **支持曾庆杰**                | **站队于正**                | **中立玩梗**                  |  <br>  |------------------------------|----------------------------|------------------------------|  <br>  | • 认为转发属实但“干得漂亮”  | • 批曾“蹭热度”          | • 调侃于正“主动认领于歪称号” |  <br>  | • 安利其作品“古偶全村的希望” | • 赞于“回应得体不失风度” | • 创造“清洁（曾庆杰）自求多福”梗 |<br><br>```wbCustomBlock{\"type\": \"quoted\", \"index\": 30, \"data\": {\"num\": [1, 9, 11, 12, 14, 20], \"version\": 2, \"quote_list\": [{\"name\": \"追剧大赏\", \"scheme\": \"sinaweibo://detail?mblogid=5228216244505671\", \"index\": 1, \"label\": \"\"}, {\"name\": \"Y沐公子-顾时夜1122生日快乐\", \"scheme\": \"sinaweibo://detail?mblogid=5227965009894684\", \"index\": 9, \"label\": \"\"}, {\"name\": \"有狐噢狐狐\", \"scheme\": \"sinaweibo://detail?mblogid=5227960861983217\", \"index\": 11, \"label\": \"\"}, {\"name\": \"娱乐顺风车\", \"scheme\": \"sinaweibo://detail?mblogid=5228223199972053\", \"index\": 12, \"label\": \"\"}, {\"name\": \"咕噜咕噜减减\", \"scheme\": \"sinaweibo://detail?mblogid=5228222230823415\", \"index\": 14, \"label\": \"\"}, {\"name\": \"爱旻砖家\", \"scheme\": \"sinaweibo://detail?mblogid=5227959700162347\", \"index\": 20, \"label\": \"\"}]}}```<br>### 💎 **事件本质与行业映射**  <br>1. **公关策略的典型样本**  <br>   - 曾庆杰“滑跪道歉”符合其作品“曾式抱”的温柔人设，降低舆论敌意；```wbCustomBlock{\"type\": \"quoted\", \"index\": 34, \"data\": {\"num\": [25], \"version\": 2, \"quote_list\": [{\"name\": \"葡萄脆脆饼\", \"scheme\": \"sinaweibo://detail?mblogid=5227960544267349\", \"index\": 25, \"label\": \"\"}]}}```  <br>   - 于正以“前辈包容新人”姿态回应，既维持体面又完成反击，延续其“话题营销大师”风格。```wbCustomBlock{\"type\": \"quoted\", \"index\": 35, \"data\": {\"num\": [22], \"version\": 2, \"quote_list\": [{\"name\": \"咕噜噜椰\", \"scheme\": \"sinaweibo://detail?mblogid=5228220158574832\", \"index\": 22, \"label\": \"\"}]}}```  <br><br>2. **娱乐圈权力关系的缩影**  <br>   - 新锐导演（曾庆杰）与资深制片人（于正）的碰撞，反映行业新旧势力的话语权博弈；  <br>   - 于正提及“我也曾不知天高地厚”，暗示“红人需经历规训”的潜规则。```wbCustomBlock{\"type\": \"quoted\", \"index\": 38, \"data\": {\"num\": [1, 24], \"version\": 2, \"quote_list\": [{\"name\": \"追剧大赏\", \"scheme\": \"sinaweibo://detail?mblogid=5228216244505671\", \"index\": 1, \"label\": \"\"}, {\"name\": \"鳥上椿樹\", \"scheme\": \"sinaweibo://detail?mblogid=5227973994611094\", \"index\": 24, \"label\": \"\"}]}}```  <br><br>3. **意外利好：作品曝光度激增**  <br>   - #曾庆杰手滑# 热搜带动网友深挖其作品，《九重紫》《招惹》等剧搜索量上涨；```wbCustomBlock{\"type\": \"quoted\", \"index\": 40, \"data\": {\"num\": [11, 24, 26], \"version\": 2, \"quote_list\": [{\"name\": \"有狐噢狐狐\", \"scheme\": \"sinaweibo://detail?mblogid=5227960861983217\", \"index\": 11, \"label\": \"\"}, {\"name\": \"鳥上椿樹\", \"scheme\": \"sinaweibo://detail?mblogid=5227973994611094\", \"index\": 24, \"label\": \"\"}, {\"name\": \"啵蘸吃桃\", \"scheme\": \"sinaweibo://detail?mblogid=5227964608023696\", \"index\": 26, \"label\": \"\"}]}}```  <br>   - 于正新剧《金吾不禁》因争议再获关注，形成“黑红也是红”效应。```wbCustomBlock{\"type\": \"quoted\", \"index\": 41, \"data\": {\"num\": [22], \"version\": 2, \"quote_list\": [{\"name\": \"咕噜噜椰\", \"scheme\": \"sinaweibo://detail?mblogid=5228220158574832\", \"index\": 22, \"label\": \"\"}]}}```  <br><br>**结论**：事件始于技术性乌龙，升级为双方默契的“话题共谋”。曾庆杰借机强化导演知名度，于正则以“内涵回应”维持热度——本质上是一场双赢的娱乐工业流水线产物。<br>",
+      "top_quote_list": {},
+      "scheme": "sinaweibo://cardlist?containerid=100103type%3D225%26q%3D%23%E4%BA%8E%E6%AD%A3%E5%86%85%E6%B6%B5%E6%9B%BE%E5%BA%86%E6%9D%B0%23%26t%3D&extparam=ai_model%3Ddeepseek%26ori_ai_title%3D%E5%8F%82%E8%80%83%E5%8D%9A%E6%96%87%26material_version%3D1761989063",
+      "msg_format": "markdown",
+      "profile_image_url": "",
+      "zs_risk_control": {
+        "think_text_close": 0,
+        "land_button_close": 0
+      },
+      "version": "2025-11-01 17:24:23.009000-3112",
+      "qs_status_info": "{\"qs_u_status\":0,\"qs_r_status\":0,\"qs_status\":0,\"qs_q_status\":0,\"qs_c_status\":8388608,\"ab_lab\":{}}",
+      "msg_json": "{}",
+      "query_field": "1",
+      "chat_status_stage": 1,
+      "mid_list": null,
+      "uid": "",
+      "query_category": "",
+      "status_stage": 4,
+      "link_list": [
+        "sinaweibo://detail?mblogid=5228216244505671",
+        "sinaweibo://detail?mblogid=5228161622087331",
+        "broadsocial_res://",
+        "historyweibo://5226292121175006",
+        "historyweibo://5224126511842722",
+        "historyweibo://5224117927150223",
+        "sinaweibo://detail?mblogid=5228217452726283",
+        "sinaweibo://detail?mblogid=5227963449610034",
+        "sinaweibo://detail?mblogid=5227965009894684",
+        "sinaweibo://detail?mblogid=5227938950684580",
+        "sinaweibo://detail?mblogid=5227960861983217",
+        "sinaweibo://detail?mblogid=5228223199972053",
+        "sinaweibo://detail?mblogid=5228223161436042",
+        "sinaweibo://detail?mblogid=5228222230823415",
+        "sinaweibo://detail?mblogid=5228220909358493",
+        "sinaweibo://detail?mblogid=5228220829665489",
+        "sinaweibo://detail?mblogid=5228144495691080",
+        "sinaweibo://detail?mblogid=5228134817598532",
+        "sinaweibo://detail?mblogid=5227963004226954",
+        "sinaweibo://detail?mblogid=5227959700162347",
+        "sinaweibo://detail?mblogid=5228173655804689",
+        "sinaweibo://detail?mblogid=5228220158574832",
+        "sinaweibo://detail?mblogid=5227964581019803",
+        "sinaweibo://detail?mblogid=5227973994611094",
+        "sinaweibo://detail?mblogid=5227960544267349",
+        "sinaweibo://detail?mblogid=5227964608023696",
+        "sinaweibo://detail?mblogid=5227922354602288"
+      ]
+    }
+  },
+  "links": [
+    "sinaweibo://detail?mblogid=5228216244505671",
+    "sinaweibo://detail?mblogid=5228161622087331",
+    "broadsocial_res://",
+    "historyweibo://5226292121175006",
+    "historyweibo://5224126511842722",
+    "historyweibo://5224117927150223",
+    "sinaweibo://detail?mblogid=5228217452726283",
+    "sinaweibo://detail?mblogid=5227963449610034",
+    "sinaweibo://detail?mblogid=5227965009894684",
+    "sinaweibo://detail?mblogid=5227938950684580",
+    "sinaweibo://detail?mblogid=5227960861983217",
+    "sinaweibo://detail?mblogid=5228223199972053",
+    "sinaweibo://detail?mblogid=5228223161436042",
+    "sinaweibo://detail?mblogid=5228222230823415",
+    "sinaweibo://detail?mblogid=5228220909358493",
+    "sinaweibo://detail?mblogid=5228220829665489",
+    "sinaweibo://detail?mblogid=5228144495691080",
+    "sinaweibo://detail?mblogid=5228134817598532",
+    "sinaweibo://detail?mblogid=5227963004226954",
+    "sinaweibo://detail?mblogid=5227959700162347",
+    "sinaweibo://detail?mblogid=5228173655804689",
+    "sinaweibo://detail?mblogid=5228220158574832",
+    "sinaweibo://detail?mblogid=5227964581019803",
+    "sinaweibo://detail?mblogid=5227973994611094",
+    "sinaweibo://detail?mblogid=5227960544267349",
+    "sinaweibo://detail?mblogid=5227964608023696",
+    "sinaweibo://detail?mblogid=5227922354602288"
+  ],
+  "media": [
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/0020LHhfly1i6wok5iurwj60xi0a1gmq02.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/0020LHhfly1i6wok5iurwj60xi0a1gmq02.jpg",
+      "alt": "搜狐娱乐",
+      "width": 361,
+      "height": 1206,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/0020LHhfly1i6wok5iurwj60xi0a1gmq02.jpg"
+      ],
+      "user": "搜狐娱乐"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/006PGz2Vgy1i6wtfndqnmj30p50fe0v7.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/006PGz2Vgy1i6wtfndqnmj30p50fe0v7.jpg",
+      "alt": "追剧大赏",
+      "width": 554,
+      "height": 905,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/006PGz2Vgy1i6wtfndqnmj30p50fe0v7.jpg"
+      ],
+      "user": "追剧大赏"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/006758Pyly1i6wn5o79ekj30zo1gs0za.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/006758Pyly1i6wn5o79ekj30zo1gs0za.jpg",
+      "alt": "Bunny小课堂",
+      "width": 1900,
+      "height": 1284,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/006758Pyly1i6wn5o79ekj30zo1gs0za.jpg"
+      ],
+      "user": "Bunny小课堂"
+    }
+  ],
+  "html_path": "data/aicard/hourly/2025-11-01/17/topic-23f07c5f.html"
+}

@@ -1,0 +1,359 @@
+{
+  "meta": {
+    "query": "#樊振东穿上了新队服#",
+    "status_code": 200,
+    "fetched_at": "2025-11-04T22:35:05+08:00",
+    "response": {
+      "status_stage": 4,
+      "profile_image_url": "",
+      "top_quote_list": {},
+      "short_url": "http://t.cn/AXATrP5z",
+      "card_multimodal": {
+        "type": "mediablock",
+        "data": [
+          {
+            "h": 1024,
+            "cur_mid": "5229364506527032",
+            "img": "http://wx3.sinaimg.cn/middle/67f865afly1i70hbglzyrj20g00sg77r.jpg",
+            "w": 576,
+            "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.512.512.50/67f865afly8h8vg6w30czj20e80e8t92.jpg?KID=imgbed,tva&Expires=1762277467&ssig=uV%2BMP5M4BJ",
+            "type": "v",
+            "user_name": "钱江视频",
+            "scheme": "sinaweibo://video/vvs?mid=5229364506527032&multi_paragraph=1&multi_count=0",
+            "doc_score": 4204,
+            "img_pid": "67f865afly1i70hbglzyrj20g00sg77r",
+            "hit_score_final": 65.837891,
+            "click_rate": 0.012244897959184,
+            "click_num": 0,
+            "video_url": "https://video.weibo.com/show?fid=1034:5229364305133579",
+            "vtype": 3,
+            "hit_score_new": 56.396484
+          },
+          {
+            "h": 1080,
+            "cur_mid": "5229376838831451",
+            "img": "http://wx4.sinaimg.cn/middle/ad39ccably1i70iqh6eekj20mi0u0ace.jpg",
+            "w": 810,
+            "user_avatar": "https://tvax2.sinaimg.cn/crop.0.0.1008.1008.50/ad39ccably8hoo1yageqij20s00s0gnt.jpg?KID=imgbed,tva&Expires=1762277467&ssig=00HIbEmmZ9",
+            "type": "v",
+            "user_name": "大人的汉字",
+            "scheme": "sinaweibo://video/vvs?mid=5229376838831451&multi_paragraph=1&multi_count=1",
+            "doc_score": 2806,
+            "img_pid": "ad39ccably1i70iqh6eekj20mi0u0ace",
+            "hit_score_final": 78.432426,
+            "click_rate": 0,
+            "click_num": 0,
+            "video_url": "https://video.weibo.com/show?fid=1034:5229376657358865",
+            "vtype": 0,
+            "hit_score_new": 88.720703
+          },
+          {
+            "h": 1440,
+            "cur_mid": "5229378227405443",
+            "img": "http://wx3.sinaimg.cn/middle/62a6564agy1i70inkzydej20u0140ngv.jpg",
+            "w": 1080,
+            "user_avatar": "https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/62a6564aly8h8vhk7q69hj20u00u0q3o.jpg?KID=imgbed,tva&Expires=1762277467&ssig=78J6Qvmty4",
+            "type": "v",
+            "user_name": "东方体育日报",
+            "scheme": "sinaweibo://video/vvs?mid=5229378227405443&multi_paragraph=1&multi_count=2",
+            "doc_score": 4924,
+            "img_pid": "62a6564agy1i70inkzydej20u0140ngv",
+            "hit_score_final": 82.504692,
+            "click_rate": 0,
+            "click_num": 0,
+            "video_url": "https://video.weibo.com/show?fid=1034:5229375373639684",
+            "vtype": 3,
+            "hit_score_new": 95.507812
+          },
+          {
+            "h": 1024,
+            "cur_mid": "5229364506527032",
+            "img": "http://wx3.sinaimg.cn/middle/67f865afly1i70hbglzyrj20g00sg77r.jpg",
+            "w": 576,
+            "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.512.512.50/67f865afly8h8vg6w30czj20e80e8t92.jpg?KID=imgbed,tva&Expires=1762277467&ssig=uV%2BMP5M4BJ",
+            "type": "v",
+            "user_name": "钱江视频",
+            "scheme": "sinaweibo://video/vvs?mid=5229364506527032&multi_paragraph=1&multi_count=0",
+            "doc_score": 4204,
+            "img_pid": "67f865afly1i70hbglzyrj20g00sg77r",
+            "hit_score_final": 65.837891,
+            "click_rate": 0.012244897959184,
+            "click_num": 0,
+            "video_url": "https://video.weibo.com/show?fid=1034:5229364305133579",
+            "vtype": 3,
+            "hit_score_new": 56.396484
+          }
+        ]
+      },
+      "model": "deepseek",
+      "scheme": "sinaweibo://cardlist?containerid=100103type%3D225%26q%3D%23%E6%A8%8A%E6%8C%AF%E4%B8%9C%E7%A9%BF%E4%B8%8A%E4%BA%86%E6%96%B0%E9%98%9F%E6%9C%8D%23%26t%3D&extparam=ai_model%3Ddeepseek%26ori_ai_title%3D%E5%8F%82%E8%80%83%E5%8D%9A%E6%96%87%26material_version%3D1762266667",
+      "basemodel": "实验组6",
+      "qs_status": 0,
+      "query": "#樊振东穿上了新队服#",
+      "uid": "",
+      "q_attr": {
+        "from_request_id": "",
+        "reply_cid": "",
+        "comment_from_type": "",
+        "mid": "",
+        "from_uid": ""
+      },
+      "chat_status_stage": 1,
+      "sorted_material_list": null,
+      "status": 2,
+      "unify_md5": "89c62c4b5dccdd82ecd71ae2cdc8f721",
+      "query_field": "20",
+      "version": "2025-11-04 22:31:07.016999-5485",
+      "comment_info": {},
+      "msg": "<think><br>嗯，用户让我整理关于\"樊振东穿上了新队服\"的搜索结果信息。我先看看这些结果的内容。哦，大部分都是2025年11月4日的微博，主要讲樊振东抵达澳门参加全运会时穿的新队服。<br><br>翻看着这些搜索结果，发现结果1到结果6都是11月4日的微博，提到樊振东穿上了上海队的新队服。队服设计是红蓝配色，也有紫色元素，被粉丝称为\"紫气东来\"，还有人说他瘦了好多。结果17是媒体账号发的，提到这是他第四次参加全运会，将参加男单和男团项目。<br><br>结果7有点特别，是8月份的资料，讲他在德国俱乐部穿的新球衣，蓝色带中国龙纹。但用户查询的重点明显在11月全运会的队服，所以这部分可能只需简单提及。<br><br>再看看其他结果，比如结果36提到他抵达当天就开始训练，结果29描述他穿队服的气场很好。很多粉丝在祝福他比赛顺利。<br><br>整理下来，核心信息包括：新队服属于上海队，红蓝紫配色；11月4日抵达澳门时穿着；将参加男单和男团；粉丝热议他变瘦了和队服好看。这些信息都很集中，时效性强。<br><br>我注意不要简单罗列账号内容，而是综合信息来回答。重点突出队服特点、参赛信息和粉丝反应，最后补充一点德国队服的背景作为扩展。这样结构清晰，用户关心的主要问题都能覆盖到。<br><br></think><br>以下是关于樊振东穿上新队服的核心信息整理，综合时效性、权威性和用户关注重点进行分层呈现：<br>### 🏓 **一、核心事件动态**  <br>1. **新队服亮相详情**  <br>   - **时间地点**：2025年11月4日，樊振东随上海乒乓球队抵达澳门，首次公开身穿全运会新款队服。```wbCustomBlock{\"type\": \"quoted\", \"index\": 5, \"data\": {\"num\": [1, 5, 17], \"version\": 2, \"quote_list\": [{\"name\": \"钱江视频\", \"scheme\": \"sinaweibo://detail?mblogid=5229364506527032\", \"index\": 17, \"label\": \"大v\"}, {\"name\": \"是周川呀\", \"scheme\": \"sinaweibo://detail?mblogid=5229303593435822\", \"index\": 1, \"label\": \"\"}, {\"name\": \"老特拉福德的糖猫儿\", \"scheme\": \"sinaweibo://detail?mblogid=5229300036143768\", \"index\": 5, \"label\": \"\"}], \"name\": \"钱江视频\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.512.512.50/67f865afly8h8vg6w30czj20e80e8t92.jpg?KID=imgbed,tva&Expires=1762277467&ssig=uV%2BMP5M4BJ\", \"scheme\": \"sinaweibo://detail?mblogid=5229364506527032\", \"vType\": 3}}```  <br>   - **设计亮点**：  <br>     - 主色调为红蓝交织，搭配紫色元素，被粉丝称为\"紫气东来\"（寓意吉祥）；```wbCustomBlock{\"type\": \"quoted\", \"index\": 7, \"data\": {\"num\": [2, 11, 24], \"version\": 2, \"quote_list\": [{\"name\": \"体圈小仙女\", \"scheme\": \"sinaweibo://detail?mblogid=5229350313787633\", \"index\": 2, \"label\": \"大v\"}, {\"name\": \"星说体育-\", \"scheme\": \"sinaweibo://detail?mblogid=5229378201456753\", \"index\": 11, \"label\": \"\"}, {\"name\": \"西瓜黄瓜哈密gua\", \"scheme\": \"sinaweibo://detail?mblogid=5229384455161920\", \"index\": 24, \"label\": \"\"}], \"name\": \"体圈小仙女\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.1024.1024.50/006xVZz4ly8hx3q4ruj5sj30sg0sgdit.jpg?KID=imgbed,tva&Expires=1762277467&ssig=p6M%2BB9d1rz\", \"scheme\": \"sinaweibo://detail?mblogid=5229350313787633\", \"vType\": 0}}```  <br>     - 白底衬亮色条纹，部分网友初期认为配色大胆，但樊振东凭借气质驾驭成功。```wbCustomBlock{\"type\": \"quoted\", \"index\": 8, \"data\": {\"num\": [12, 29, 30], \"version\": 2, \"quote_list\": [{\"name\": \"I毅世-淇缘\", \"scheme\": \"sinaweibo://detail?mblogid=5229311906813759\", \"index\": 12, \"label\": \"大v\"}, {\"name\": \"歌语晚冬-\", \"scheme\": \"sinaweibo://detail?mblogid=5229385679897570\", \"index\": 29, \"label\": \"\"}, {\"name\": \"一把螺螺锤\", \"scheme\": \"sinaweibo://detail?mblogid=5229384516764006\", \"index\": 30, \"label\": \"\"}], \"name\": \"I毅世-淇缘\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/007rSltply8i03tfs9znjj30u00u0abp.jpg?KID=imgbed,tva&Expires=1762277467&ssig=HShYS3gAMJ\", \"scheme\": \"sinaweibo://detail?mblogid=5229311906813759\", \"vType\": 0}}```  <br>   - **身份标识**：胸前印有\"上海\"字样，明确其代表上海队出战。```wbCustomBlock{\"type\": \"quoted\", \"index\": 9, \"data\": {\"num\": [3, 34], \"version\": 2, \"quote_list\": [{\"name\": \"大人的汉字\", \"scheme\": \"sinaweibo://detail?mblogid=5229376838831451\", \"index\": 34, \"label\": \"大v\"}, {\"name\": \"吃瓜比赛冠军\", \"scheme\": \"sinaweibo://detail?mblogid=5229264563606048\", \"index\": 3, \"label\": \"\"}], \"name\": \"大人的汉字\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.1008.1008.50/ad39ccably8hoo1yageqij20s00s0gnt.jpg?KID=imgbed,tva&Expires=1762277467&ssig=00HIbEmmZ9\", \"scheme\": \"sinaweibo://detail?mblogid=5229376838831451\", \"vType\": 0}}```<br><br>2. **参赛规划**  <br>   - **赛事项目**：第四次参加全运会，出战男单、男团两项比赛，是现役乒乓球金牌数最多运动员（5金2银2铜）。```wbCustomBlock{\"type\": \"quoted\", \"index\": 11, \"data\": {\"num\": [3, 17, 21], \"version\": 2, \"quote_list\": [{\"name\": \"吃瓜比赛冠军\", \"scheme\": \"sinaweibo://detail?mblogid=5229264563606048\", \"index\": 3, \"label\": \"大v\"}, {\"name\": \"钱江视频\", \"scheme\": \"sinaweibo://detail?mblogid=5229364506527032\", \"index\": 17, \"label\": \"\"}, {\"name\": \"柠檬糖然然\", \"scheme\": \"sinaweibo://detail?mblogid=5229271599548735\", \"index\": 21, \"label\": \"\"}], \"name\": \"吃瓜比赛冠军\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.400.400.50/006QQIz8ly8hut66gkrqaj30b40b43yq.jpg?KID=imgbed,tva&Expires=1762277467&ssig=gjtGZsuu9b\", \"scheme\": \"sinaweibo://detail?mblogid=5229264563606048\", \"vType\": 0}}```  <br>   - **赛程安排**：全运会乒乓球赛定于11月7日至20日举行。```wbCustomBlock{\"type\": \"quoted\", \"index\": 12, \"data\": {\"num\": [17, 34], \"version\": 2, \"quote_list\": [{\"name\": \"钱江视频\", \"scheme\": \"sinaweibo://detail?mblogid=5229364506527032\", \"index\": 17, \"label\": \"\"}, {\"name\": \"大人的汉字\", \"scheme\": \"sinaweibo://detail?mblogid=5229376838831451\", \"index\": 34, \"label\": \"\"}]}}```<br><br>3. **身体状态**  <br>   - 多个信源指出其身形明显消瘦，#樊振东怎么瘦这么多#成为关联热搜话题，但精神状态饱满（\"眼神锐利\"\"气场拉满\"）。```wbCustomBlock{\"type\": \"quoted\", \"index\": 14, \"data\": {\"num\": [4, 15, 17, 20, 28, 29], \"version\": 2, \"quote_list\": [{\"name\": \"宁波晚报\", \"scheme\": \"sinaweibo://detail?mblogid=5229362091656016\", \"index\": 4, \"label\": \"大v\"}, {\"name\": \"东方体育日报\", \"scheme\": \"sinaweibo://detail?mblogid=5229378227405443\", \"index\": 15, \"label\": \"\"}, {\"name\": \"钱江视频\", \"scheme\": \"sinaweibo://detail?mblogid=5229364506527032\", \"index\": 17, \"label\": \"\"}, {\"name\": \"体育课代表wik\", \"scheme\": \"sinaweibo://detail?mblogid=5229297683402623\", \"index\": 20, \"label\": \"\"}, {\"name\": \"重生之汪汪队立大功_\", \"scheme\": \"sinaweibo://detail?mblogid=5229386083340995\", \"index\": 28, \"label\": \"\"}, {\"name\": \"歌语晚冬-\", \"scheme\": \"sinaweibo://detail?mblogid=5229385679897570\", \"index\": 29, \"label\": \"\"}], \"name\": \"宁波晚报\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.600.600.50/0027bQxoly8h8w4w1eynhj60go0got9402.jpg?KID=imgbed,tva&Expires=1762277467&ssig=tFH1qqIHTQ\", \"scheme\": \"sinaweibo://detail?mblogid=5229362091656016\", \"vType\": 3}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5229364506527032&multi_paragraph=1&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.512.512.50/67f865afly8h8vg6w30czj20e80e8t92.jpg?KID=imgbed,tva&Expires=1762277467&ssig=uV%2BMP5M4BJ) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">钱江视频</span><img src=\"http://wx3.sinaimg.cn/middle/67f865afly1i70hbglzyrj20g00sg77r.jpg\" data-width=1024 data-height=576></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5229376838831451&multi_paragraph=1&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.1008.1008.50/ad39ccably8hoo1yageqij20s00s0gnt.jpg?KID=imgbed,tva&Expires=1762277467&ssig=00HIbEmmZ9) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">大人的汉字</span><img src=\"http://wx4.sinaimg.cn/middle/ad39ccably1i70iqh6eekj20mi0u0ace.jpg\" data-width=1080 data-height=810></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5229378227405443&multi_paragraph=1&multi_count=2\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/62a6564aly8h8vhk7q69hj20u00u0q3o.jpg?KID=imgbed,tva&Expires=1762277467&ssig=78J6Qvmty4) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">东方体育日报</span><img src=\"http://wx3.sinaimg.cn/middle/62a6564agy1i70inkzydej20u0140ngv.jpg\" data-width=1440 data-height=1080></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5229297683402623&multi_paragraph=1&multi_count=3\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.500.500.50/008vcLY3ly8i3nq47p5gpj30dw0dwq3s.jpg?KID=imgbed,tva&Expires=1762277467&ssig=NN8Fu5lYVK) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">体育课代表wik</span><img src=\"http://wx2.sinaimg.cn/middle/008vcLY3ly1i709mscyquj30mh0u040i.jpg\" data-width=1080 data-height=809></div></media-block><br>### 🌟 **二、延伸关注点**  <br>1. **粉丝与舆论反响**  <br>   - **颜值热议**：粉丝普遍称赞\"新队服穿出高级感\"\"纯白气质驾驭亮色\"，调侃\"时尚完成度靠脸\"。```wbCustomBlock{\"type\": \"quoted\", \"index\": 18, \"data\": {\"num\": [6, 12, 25], \"version\": 2, \"quote_list\": [{\"name\": \"莫染玄音\", \"scheme\": \"sinaweibo://detail?mblogid=5229379094580146\", \"index\": 6, \"label\": \"\"}, {\"name\": \"I毅世-淇缘\", \"scheme\": \"sinaweibo://detail?mblogid=5229311906813759\", \"index\": 12, \"label\": \"\"}, {\"name\": \"心怡0507\", \"scheme\": \"sinaweibo://detail?mblogid=5229386678932008\", \"index\": 25, \"label\": \"\"}]}}```  <br>   - **暖心支持**：多地出现粉丝应援标识，普陀山有人为其祈福；训练路透显示其抵澳当晚即投入适应性训练。```wbCustomBlock{\"type\": \"quoted\", \"index\": 19, \"data\": {\"num\": [6, 36], \"version\": 2, \"quote_list\": [{\"name\": \"破工作什么时候结束啊\", \"scheme\": \"sinaweibo://detail?mblogid=5229373567533700\", \"index\": 36, \"label\": \"大v\"}, {\"name\": \"莫染玄音\", \"scheme\": \"sinaweibo://detail?mblogid=5229379094580146\", \"index\": 6, \"label\": \"\"}], \"name\": \"破工作什么时候结束啊\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/007eFKl5ly8hqfjbetj7fj30u00u0q7l.jpg?KID=imgbed,tva&Expires=1762277467&ssig=84yKs4Eq%2Bu\", \"scheme\": \"sinaweibo://detail?mblogid=5229373567533700\", \"vType\": 0}}```  <br><br>2. **队服对比**  <br>   - **历史队服**：2025年8月27日，樊振东在德国萨尔布吕肯俱乐部身穿蓝色龙纹球衣亮相（中德文化融合设计），与本套全运队服风格迥异。```wbCustomBlock{\"type\": \"quoted\", \"index\": 21, \"data\": {\"num\": [32], \"version\": 2, \"quote_list\": [{\"name\": \"1贱说体育\", \"scheme\": \"sinaweibo://detail?mblogid=5204341734506614\", \"index\": 32, \"label\": \"\"}]}}```  <br><br>3. **上海队备战**  <br>   - 与队友马特同行抵澳，男团全员进入赛前状态；队服设计被解读为\"沉稳与锋芒并存\"，寄托团队夺金期待。```wbCustomBlock{\"type\": \"quoted\", \"index\": 23, \"data\": {\"num\": [5, 22, 38], \"version\": 2, \"quote_list\": [{\"name\": \"老特拉福德的糖猫儿\", \"scheme\": \"sinaweibo://detail?mblogid=5229300036143768\", \"index\": 5, \"label\": \"大v\"}, {\"name\": \"獻上我的千萬個祝福\", \"scheme\": \"sinaweibo://detail?mblogid=5229298832638957\", \"index\": 22, \"label\": \"\"}, {\"name\": \"蜜罐里有颗小白球\", \"scheme\": \"sinaweibo://detail?mblogid=5229316234548080\", \"index\": 38, \"label\": \"\"}], \"name\": \"老特拉福德的糖猫儿\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/69120886ly8hkxogugvjmj20u00u0n09.jpg?KID=imgbed,tva&Expires=1762277467&ssig=yiem3ysGkm\", \"scheme\": \"sinaweibo://detail?mblogid=5229300036143768\", \"vType\": 0}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5229379094580146&multi_paragraph=2&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/008vwxWMly8i5ok3vijeyj30u00u0q6y.jpg?KID=imgbed,tva&Expires=1762277467&ssig=srEucqG5dC) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">莫染玄音</span><img src=\"http://wx1.sinaimg.cn/middle/008vwxWMly1i70izguw1sj30k00zkdid.jpg\" data-width=1280 data-height=720></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5229373567533700&multi_paragraph=2&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/007eFKl5ly8hqfjbetj7fj30u00u0q7l.jpg?KID=imgbed,tva&Expires=1762277467&ssig=84yKs4Eq%2Bu) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">破工作什么时候结束啊</span><img src=\"http://wx3.sinaimg.cn/middle/007eFKl5ly1i70iccb98sj30k00kw3z3.jpg\" data-width=752 data-height=720></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5204341734506614&multi_paragraph=2&multi_count=2\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.800.800.50/007IGylVly8hwin0gaf9oj30m80m80u5.jpg?KID=imgbed,tva&Expires=1762277467&ssig=DTSKuLkbcp) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">1贱说体育</span><img src=\"http://wx2.sinaimg.cn/middle/007IGylVly1i4snhllkk3j31400u00vd.jpg\" data-width=1080 data-height=1440></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5229316234548080&multi_paragraph=2&multi_count=3\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.1024.1024.50/a93d6743ly8hynevlrftrj20sg0sgdi9.jpg?KID=imgbed,tva&Expires=1762277467&ssig=OfNh7EbHNL) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">蜜罐里有颗小白球</span><img src=\"http://wx4.sinaimg.cn/middle/a93d6743ly1i70brbxa0oj20mh0u0abe.jpg\" data-width=1080 data-height=809></div></media-block><br>### 💡 **三、深层意义与展望**  <br>- **个人里程碑**：作为卫冕冠军，本届全运会是其巩固\"超级金满贯\"地位的关键战役。```wbCustomBlock{\"type\": \"quoted\", \"index\": 26, \"data\": {\"num\": [31, 38], \"version\": 2, \"quote_list\": [{\"name\": \"Kpkate\", \"scheme\": \"sinaweibo://detail?mblogid=5229351486626428\", \"index\": 31, \"label\": \"大v\"}, {\"name\": \"蜜罐里有颗小白球\", \"scheme\": \"sinaweibo://detail?mblogid=5229316234548080\", \"index\": 38, \"label\": \"\"}], \"name\": \"Kpkate\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.1024.1024.50/006GdhS4ly8hlb3nmnbjkj30sg0sgq3l.jpg?KID=imgbed,tva&Expires=1762277467&ssig=C%2BxdKf6TEy\", \"scheme\": \"sinaweibo://detail?mblogid=5229351486626428\", \"vType\": 0}}```  <br>- **文化符号**：从德国\"龙纹战袍\"到上海\"紫气东来\"，队服成为其职业轨迹与文化认同的载体。```wbCustomBlock{\"type\": \"quoted\", \"index\": 27, \"data\": {\"num\": [29], \"version\": 2, \"quote_list\": [{\"name\": \"歌语晚冬-\", \"scheme\": \"sinaweibo://detail?mblogid=5229385679897570\", \"index\": 29, \"label\": \"\"}]}}```  <br>- **社会影响**：引发公众对运动员体型管理的讨论，部分声音呼吁\"健康比外形更重要\"。```wbCustomBlock{\"type\": \"quoted\", \"index\": 28, \"data\": {\"num\": [8, 18], \"version\": 2, \"quote_list\": [{\"name\": \"磁力片儿\", \"scheme\": \"sinaweibo://detail?mblogid=5229378495316179\", \"index\": 8, \"label\": \"\"}, {\"name\": \"·农场养猪大户·\", \"scheme\": \"sinaweibo://detail?mblogid=5229379342306261\", \"index\": 18, \"label\": \"\"}]}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5229379342306261&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=3&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.480.480.50/007f2koDly8i4flpplqpqj30dc0dc74n.jpg?KID=imgbed,tva&Expires=1762277467&ssig=x7HMlMNs52) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">·农场养猪大户·</span><img src=\"http://wx1.sinaimg.cn/middle/007f2koDgy1i70iywuhs9j30y01fsk4f.jpg\" data-width=1864 data-height=1224></div></media-block><br>### 📌 **总结**  <br>樊振东身着上海队红蓝紫新队服，标志其第四次全运会征程开启。设计争议被个人气质消解，身形变化引发健康关切，而训练照与粉丝行动印证其专注备战状态。对比海外赛事队服，此次战衣更凸显地域归属，承载\"紫气东来\"的夺冠寄望。```wbCustomBlock{\"type\": \"quoted\", \"index\": 30, \"data\": {\"num\": [2, 11, 34], \"version\": 2, \"quote_list\": [{\"name\": \"星说体育-\", \"scheme\": \"sinaweibo://detail?mblogid=5229378201456753\", \"index\": 11, \"label\": \"大v\"}, {\"name\": \"体圈小仙女\", \"scheme\": \"sinaweibo://detail?mblogid=5229350313787633\", \"index\": 2, \"label\": \"\"}, {\"name\": \"大人的汉字\", \"scheme\": \"sinaweibo://detail?mblogid=5229376838831451\", \"index\": 34, \"label\": \"\"}], \"name\": \"星说体育-\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.1.1080.1080.50/005BHmQ1ly8i391f1s0b4j30u00u0wgg.jpg?KID=imgbed,tva&Expires=1762277467&ssig=HctoDY0eZR\", \"scheme\": \"sinaweibo://detail?mblogid=5229378201456753\", \"vType\": 0}}```<br>",
+      "news_analyze": {},
+      "wenda": {
+        "forward_gen": 0
+      },
+      "query_category": "",
+      "loop_times": 200,
+      "mid_list": null,
+      "cot": 1,
+      "page_id": "23296411047507b8f4d0ca146d8443c0026034",
+      "msg_format": "markdown",
+      "show_ctrl": {
+        "quote": {}
+      },
+      "link_list": [
+        "sinaweibo://detail?mblogid=5229303593435822",
+        "sinaweibo://detail?mblogid=5229350313787633",
+        "sinaweibo://detail?mblogid=5229264563606048",
+        "sinaweibo://detail?mblogid=5229362091656016",
+        "sinaweibo://detail?mblogid=5229300036143768",
+        "sinaweibo://detail?mblogid=5229379094580146",
+        "historyweibo://5204338017567740",
+        "sinaweibo://detail?mblogid=5229378495316179",
+        "sinaweibo://detail?mblogid=5229267165381420",
+        "sinaweibo://detail?mblogid=5229377491042564",
+        "sinaweibo://detail?mblogid=5229378201456753",
+        "sinaweibo://detail?mblogid=5229311906813759",
+        "sinaweibo://detail?mblogid=5229378658896928",
+        "sinaweibo://detail?mblogid=5229385594707379",
+        "sinaweibo://detail?mblogid=5229378227405443",
+        "sinaweibo://detail?mblogid=5229302658108202",
+        "sinaweibo://detail?mblogid=5229364506527032",
+        "sinaweibo://detail?mblogid=5229379342306261",
+        "sinaweibo://detail?mblogid=5229301727232574",
+        "sinaweibo://detail?mblogid=5229297683402623",
+        "sinaweibo://detail?mblogid=5229271599548735",
+        "sinaweibo://detail?mblogid=5229298832638957",
+        "sinaweibo://detail?mblogid=5229387324064350",
+        "sinaweibo://detail?mblogid=5229384455161920",
+        "sinaweibo://detail?mblogid=5229386678932008",
+        "sinaweibo://detail?mblogid=5229386305636371",
+        "sinaweibo://detail?mblogid=5229386108505253",
+        "sinaweibo://detail?mblogid=5229386083340995",
+        "sinaweibo://detail?mblogid=5229385679897570",
+        "sinaweibo://detail?mblogid=5229384516764006",
+        "sinaweibo://detail?mblogid=5229351486626428",
+        "sinaweibo://detail?mblogid=5204341734506614",
+        "sinaweibo://detail?mblogid=5212741603951631",
+        "sinaweibo://detail?mblogid=5229376838831451",
+        "sinaweibo://detail?mblogid=5186065251434754",
+        "sinaweibo://detail?mblogid=5229373567533700",
+        "sinaweibo://detail?mblogid=5171218653382297",
+        "sinaweibo://detail?mblogid=5229316234548080"
+      ],
+      "reliable_tips": "{\"gold_orange_v_mids\": [\"5229303593435822\", \"5229300036143768\", \"5229350313787633\", \"5229378201456753\", \"5229384455161920\", \"5229311906813759\", \"5229385679897570\", \"5229384516764006\", \"5229264563606048\", \"5229376838831451\", \"5229271599548735\", \"5229297683402623\", \"5229386083340995\", \"5229379094580146\", \"5229373567533700\", \"5204341734506614\", \"5229298832638957\", \"5229316234548080\", \"5229351486626428\", \"5229378495316179\", \"5229379342306261\", \"5229267165381420\", \"5229377491042564\", \"5229378658896928\", \"5229385594707379\", \"5229302658108202\", \"5229301727232574\", \"5229387324064350\", \"5212741603951631\", \"5186065251434754\", \"5171218653382297\"], \"gold_orange_v_ratio\": \"84%\", \"media_mids\": [\"5229364506527032\", \"5229362091656016\", \"5229378227405443\"], \"media_ratio\": \"8%\", \"verified_mids\": [\"5229386305636371\"], \"verified_ratio\": \"3%\", \"normal_mids\": [\"5229386678932008\", \"5229386108505253\"], \"normal_ratio\": \"5%\", \"ref_mid_rank\": {\"5229303593435822\": {\"rank\": 1}, \"5229300036143768\": {\"rank\": 5}, \"5229364506527032\": {\"rank\": 17}, \"5229350313787633\": {\"rank\": 2}, \"5229378201456753\": {\"rank\": 11}, \"5229384455161920\": {\"rank\": 24}, \"5229311906813759\": {\"rank\": 12}, \"5229385679897570\": {\"rank\": 29}, \"5229384516764006\": {\"rank\": 30}, \"5229264563606048\": {\"rank\": 3}, \"5229376838831451\": {\"rank\": 34}, \"5229271599548735\": {\"rank\": 21}, \"5229362091656016\": {\"rank\": 4}, \"5229378227405443\": {\"rank\": 15}, \"5229297683402623\": {\"rank\": 20}, \"5229386083340995\": {\"rank\": 28}, \"5229379094580146\": {\"rank\": 6}, \"5229386678932008\": {\"rank\": 25}, \"5229373567533700\": {\"rank\": 36}, \"5204341734506614\": {\"rank\": 32}, \"5229298832638957\": {\"rank\": 22}, \"5229316234548080\": {\"rank\": 38}, \"5229351486626428\": {\"rank\": 31}, \"5229378495316179\": {\"rank\": 8}, \"5229379342306261\": {\"rank\": 18}, \"5229267165381420\": {\"rank\": 9}, \"5229377491042564\": {\"rank\": 10}, \"5229378658896928\": {\"rank\": 13}, \"5229385594707379\": {\"rank\": 14}, \"5229302658108202\": {\"rank\": 16}, \"5229301727232574\": {\"rank\": 19}, \"5229387324064350\": {\"rank\": 23}, \"5229386305636371\": {\"rank\": 26}, \"5229386108505253\": {\"rank\": 27}, \"5212741603951631\": {\"rank\": 33}, \"5186065251434754\": {\"rank\": 35}, \"5171218653382297\": {\"rank\": 37}}}",
+      "user_info": {},
+      "share_card_multimodal": {
+        "h": 1024,
+        "cur_mid": "5229364506527032",
+        "img": "http://wx3.sinaimg.cn/middle/67f865afly1i70hbglzyrj20g00sg77r.jpg",
+        "w": 576,
+        "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.512.512.50/67f865afly8h8vg6w30czj20e80e8t92.jpg?KID=imgbed,tva&Expires=1762277467&ssig=uV%2BMP5M4BJ",
+        "type": "v",
+        "user_name": "钱江视频",
+        "scheme": "sinaweibo://video/vvs?mid=5229364506527032&multi_paragraph=1&multi_count=0",
+        "doc_score": 4204,
+        "img_pid": "67f865afly1i70hbglzyrj20g00sg77r",
+        "hit_score_final": 65.837891,
+        "click_rate": 0.012244897959184,
+        "click_num": 0,
+        "video_url": "https://video.weibo.com/show?fid=1034:5229364305133579",
+        "vtype": 3,
+        "hit_score_new": 56.396484
+      },
+      "current_time": 1762266905,
+      "abtest_info": {
+        "chat_entrance": 1
+      },
+      "share_text": "#樊振东穿上了新队服#的相关内容，来智搜看看",
+      "msg_json": "{}",
+      "analysis_time": 1762266854,
+      "zs_risk_control": {
+        "think_text_close": 0,
+        "land_button_close": 0
+      },
+      "ext_show": {},
+      "share_info": {
+        "comment_content": "",
+        "status": 3,
+        "url": "http://t.cn/AXAT3udL",
+        "unify_md5": "89c62c4b5dccdd82ecd71ae2cdc8f721",
+        "tips": "#樊振东穿上了新队服#的相关内容，来智搜看看",
+        "page_id": "23296411047507b8f4d0ca146d8443c0026034",
+        "display_name": "#樊振东穿上了新队服#"
+      },
+      "ab_suffix": "default",
+      "reference_num": 37,
+      "qs_status_info": "{\"ab_lab\":{},\"qs_q_status\":0,\"qs_r_status\":0,\"qs_u_status\":0,\"qs_status\":0,\"qs_c_status\":8388608}"
+    }
+  },
+  "links": [
+    "sinaweibo://detail?mblogid=5229303593435822",
+    "sinaweibo://detail?mblogid=5229350313787633",
+    "sinaweibo://detail?mblogid=5229264563606048",
+    "sinaweibo://detail?mblogid=5229362091656016",
+    "sinaweibo://detail?mblogid=5229300036143768",
+    "sinaweibo://detail?mblogid=5229379094580146",
+    "historyweibo://5204338017567740",
+    "sinaweibo://detail?mblogid=5229378495316179",
+    "sinaweibo://detail?mblogid=5229267165381420",
+    "sinaweibo://detail?mblogid=5229377491042564",
+    "sinaweibo://detail?mblogid=5229378201456753",
+    "sinaweibo://detail?mblogid=5229311906813759",
+    "sinaweibo://detail?mblogid=5229378658896928",
+    "sinaweibo://detail?mblogid=5229385594707379",
+    "sinaweibo://detail?mblogid=5229378227405443",
+    "sinaweibo://detail?mblogid=5229302658108202",
+    "sinaweibo://detail?mblogid=5229364506527032",
+    "sinaweibo://detail?mblogid=5229379342306261",
+    "sinaweibo://detail?mblogid=5229301727232574",
+    "sinaweibo://detail?mblogid=5229297683402623",
+    "sinaweibo://detail?mblogid=5229271599548735",
+    "sinaweibo://detail?mblogid=5229298832638957",
+    "sinaweibo://detail?mblogid=5229387324064350",
+    "sinaweibo://detail?mblogid=5229384455161920",
+    "sinaweibo://detail?mblogid=5229386678932008",
+    "sinaweibo://detail?mblogid=5229386305636371",
+    "sinaweibo://detail?mblogid=5229386108505253",
+    "sinaweibo://detail?mblogid=5229386083340995",
+    "sinaweibo://detail?mblogid=5229385679897570",
+    "sinaweibo://detail?mblogid=5229384516764006",
+    "sinaweibo://detail?mblogid=5229351486626428",
+    "sinaweibo://detail?mblogid=5204341734506614",
+    "sinaweibo://detail?mblogid=5212741603951631",
+    "sinaweibo://detail?mblogid=5229376838831451",
+    "sinaweibo://detail?mblogid=5186065251434754",
+    "sinaweibo://detail?mblogid=5229373567533700",
+    "sinaweibo://detail?mblogid=5171218653382297",
+    "sinaweibo://detail?mblogid=5229316234548080"
+  ],
+  "media": [
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/67f865afly1i70hbglzyrj20g00sg77r.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/67f865afly1i70hbglzyrj20g00sg77r.jpg",
+      "alt": "钱江视频",
+      "width": 1024,
+      "height": 576,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/67f865afly1i70hbglzyrj20g00sg77r.jpg"
+      ],
+      "user": "钱江视频"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/ad39ccably1i70iqh6eekj20mi0u0ace.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/ad39ccably1i70iqh6eekj20mi0u0ace.jpg",
+      "alt": "大人的汉字",
+      "width": 1080,
+      "height": 810,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/ad39ccably1i70iqh6eekj20mi0u0ace.jpg"
+      ],
+      "user": "大人的汉字"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/62a6564agy1i70inkzydej20u0140ngv.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/62a6564agy1i70inkzydej20u0140ngv.jpg",
+      "alt": "东方体育日报",
+      "width": 1440,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/62a6564agy1i70inkzydej20u0140ngv.jpg"
+      ],
+      "user": "东方体育日报"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/008vcLY3ly1i709mscyquj30mh0u040i.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/008vcLY3ly1i709mscyquj30mh0u040i.jpg",
+      "alt": "体育课代表wik",
+      "width": 1080,
+      "height": 809,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx4.sinaimg.cn/large/008vcLY3ly1i709mscyquj30mh0u040i.jpg"
+      ],
+      "user": "体育课代表wik"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/008vwxWMly1i70izguw1sj30k00zkdid.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/008vwxWMly1i70izguw1sj30k00zkdid.jpg",
+      "alt": "莫染玄音",
+      "width": 1280,
+      "height": 720,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/008vwxWMly1i70izguw1sj30k00zkdid.jpg"
+      ],
+      "user": "莫染玄音"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/007eFKl5ly1i70iccb98sj30k00kw3z3.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/007eFKl5ly1i70iccb98sj30k00kw3z3.jpg",
+      "alt": "破工作什么时候结束啊",
+      "width": 752,
+      "height": 720,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/007eFKl5ly1i70iccb98sj30k00kw3z3.jpg"
+      ],
+      "user": "破工作什么时候结束啊"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/007IGylVly1i4snhllkk3j31400u00vd.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/007IGylVly1i4snhllkk3j31400u00vd.jpg",
+      "alt": "1贱说体育",
+      "width": 1080,
+      "height": 1440,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/007IGylVly1i4snhllkk3j31400u00vd.jpg"
+      ],
+      "user": "1贱说体育"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/a93d6743ly1i70brbxa0oj20mh0u0abe.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/a93d6743ly1i70brbxa0oj20mh0u0abe.jpg",
+      "alt": "蜜罐里有颗小白球",
+      "width": 1080,
+      "height": 809,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx4.sinaimg.cn/large/a93d6743ly1i70brbxa0oj20mh0u0abe.jpg"
+      ],
+      "user": "蜜罐里有颗小白球"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/007f2koDgy1i70iywuhs9j30y01fsk4f.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/007f2koDgy1i70iywuhs9j30y01fsk4f.jpg",
+      "alt": "·农场养猪大户·",
+      "width": 1864,
+      "height": 1224,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/007f2koDgy1i70iywuhs9j30y01fsk4f.jpg"
+      ],
+      "user": "·农场养猪大户·"
+    }
+  ],
+  "html_path": "data/aicard/hourly/2025-11-04/22/topic-89c62c4b.html"
+}

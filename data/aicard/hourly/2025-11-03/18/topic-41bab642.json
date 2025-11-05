@@ -1,0 +1,352 @@
+{
+  "meta": {
+    "query": "#全红婵搭档称压力大到不敢洗头发#",
+    "status_code": 200,
+    "fetched_at": "2025-11-03T18:44:29+08:00",
+    "response": {
+      "top_quote_list": {},
+      "card_multimodal": {
+        "type": "mediablock",
+        "data": [
+          {
+            "scheme": "sinaweibo://multimedia?mix_mid=5228927750767407&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=1&multi_count=0",
+            "click_rate": 0.07937285644292,
+            "type": "p",
+            "hit_score_final": 0,
+            "cur_mid": "5228927750767407",
+            "img": "http://wx1.sinaimg.cn/middle/a45a7f57ly1i6z34x2qncj21jk111hdt.jpg",
+            "user_name": "网易体育频道",
+            "w": 2000,
+            "user_avatar": "https://tvax1.sinaimg.cn/crop.0.0.600.600.50/a45a7f57ly8hj8vgpv7vwj20go0godhb.jpg?KID=imgbed,tva&Expires=1762177263&ssig=kNfzjeveCL",
+            "vtype": 3,
+            "video_url": "",
+            "hit_score_new": 0,
+            "doc_score": 0,
+            "img_pid": "a45a7f57ly1i6z34x2qncj21jk111hdt",
+            "h": 1333
+          },
+          {
+            "scheme": "sinaweibo://video/vvs?mid=5228911932739080&multi_paragraph=1&multi_count=1",
+            "click_rate": 0,
+            "type": "v",
+            "hit_score_final": 89.802734,
+            "cur_mid": "5228911932739080",
+            "img": "http://wx1.sinaimg.cn/middle/0024aA4lly1i6z1cjusanj60u01hc77e02.jpg",
+            "user_name": "北京日报",
+            "w": 1080,
+            "user_avatar": "https://tvax4.sinaimg.cn/crop.0.0.600.600.50/0024aA4lly8i51bp1z4bcj60go0goq3g02.jpg?KID=imgbed,tva&Expires=1762177263&ssig=kf%2Fu5V%2F%2Fhx",
+            "vtype": 3,
+            "video_url": "https://video.weibo.com/show?fid=1034:5228911718760514",
+            "hit_score_new": 96.337891,
+            "doc_score": 5872,
+            "img_pid": "0024aA4lly1i6z1cjusanj60u01hc77e02",
+            "h": 1920
+          },
+          {
+            "scheme": "sinaweibo://video/vvs?mid=5228638816703277&multi_paragraph=2&multi_count=0",
+            "click_rate": 0.066447007138935,
+            "type": "v",
+            "hit_score_final": 53.367966,
+            "cur_mid": "5228638816703277",
+            "img": "http://wx3.sinaimg.cn/middle/003gul7lly1i6y5zbsdwyj60ns0de0vr02.jpg",
+            "user_name": "北京时间",
+            "w": 856,
+            "user_avatar": "https://tvax4.sinaimg.cn/crop.0.0.821.821.50/003gul7lly8h8vg84tqdwj60mt0mtmy302.jpg?KID=imgbed,tva&Expires=1762177263&ssig=eooQpYW2bY",
+            "vtype": 3,
+            "video_url": "https://video.weibo.com/show?fid=1034:5228638719901894",
+            "hit_score_new": 53.613281,
+            "doc_score": 3818,
+            "img_pid": "003gul7lly1i6y5zbsdwyj60ns0de0vr02",
+            "h": 482
+          },
+          {
+            "scheme": "sinaweibo://multimedia?mix_mid=5228927750767407&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=1&multi_count=0",
+            "click_rate": 0.07937285644292,
+            "type": "p",
+            "hit_score_final": 0,
+            "cur_mid": "5228927750767407",
+            "img": "http://wx1.sinaimg.cn/middle/a45a7f57ly1i6z34x2qncj21jk111hdt.jpg",
+            "user_name": "网易体育频道",
+            "w": 2000,
+            "user_avatar": "https://tvax1.sinaimg.cn/crop.0.0.600.600.50/a45a7f57ly8hj8vgpv7vwj20go0godhb.jpg?KID=imgbed,tva&Expires=1762177263&ssig=kNfzjeveCL",
+            "vtype": 3,
+            "video_url": "",
+            "hit_score_new": 0,
+            "doc_score": 0,
+            "img_pid": "a45a7f57ly1i6z34x2qncj21jk111hdt",
+            "h": 1333
+          }
+        ]
+      },
+      "share_card_multimodal": {
+        "scheme": "sinaweibo://multimedia?mix_mid=5228927750767407&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=1&multi_count=0",
+        "click_rate": 0.07937285644292,
+        "type": "p",
+        "hit_score_final": 0,
+        "cur_mid": "5228927750767407",
+        "img": "http://wx1.sinaimg.cn/middle/a45a7f57ly1i6z34x2qncj21jk111hdt.jpg",
+        "user_name": "网易体育频道",
+        "w": 2000,
+        "user_avatar": "https://tvax1.sinaimg.cn/crop.0.0.600.600.50/a45a7f57ly8hj8vgpv7vwj20go0godhb.jpg?KID=imgbed,tva&Expires=1762177263&ssig=kNfzjeveCL",
+        "vtype": 3,
+        "video_url": "",
+        "hit_score_new": 0,
+        "doc_score": 0,
+        "img_pid": "a45a7f57ly1i6z34x2qncj21jk111hdt",
+        "h": 1333
+      },
+      "basemodel": "实验组3",
+      "version": "2025-11-03 18:41:03.025000-5356",
+      "chat_status_stage": 1,
+      "news_analyze": {},
+      "reliable_tips": "{\"gold_orange_v_mids\": [\"5228946331010212\", \"5228257613186224\", \"5228597125321696\", \"5228880828565033\", \"5228941775999132\", \"5194836392806553\", \"5228721254433091\", \"5228668256261219\", \"5228953549146459\", \"5194810828001839\", \"5227815895304757\", \"5228646967282288\", \"5226649463554845\", \"5228626669733320\", \"5228966610471726\", \"5228929863649758\", \"5187901323480953\", \"5228617392194481\", \"5228295377656650\", \"5194893485675954\"], \"gold_orange_v_ratio\": \"53%\", \"media_mids\": [\"5228911932739080\", \"5228966847972462\", \"5228638816703277\", \"5194881258751381\", \"5228965779997598\", \"5194831182693678\"], \"media_ratio\": \"16%\", \"verified_mids\": [\"5228927750767407\", \"5228959927108707\", \"5228805888672465\", \"5194881094913413\", \"5228654026294287\", \"5228959954375527\", \"5228959889359452\"], \"verified_ratio\": \"18%\", \"normal_mids\": [\"5228959601525273\", \"5228966174527770\", \"5228959513445477\", \"5228959547265274\", \"5228959421170191\"], \"normal_ratio\": \"13%\", \"ref_mid_rank\": {\"5228927750767407\": {\"rank\": 1}, \"5228911932739080\": {\"rank\": 20}, \"5228966847972462\": {\"rank\": 21}, \"5228959927108707\": {\"rank\": 26}, \"5228946331010212\": {\"rank\": 17}, \"5228959601525273\": {\"rank\": 28}, \"5228257613186224\": {\"rank\": 6}, \"5228597125321696\": {\"rank\": 37}, \"5228638816703277\": {\"rank\": 41}, \"5228805888672465\": {\"rank\": 19}, \"5228880828565033\": {\"rank\": 18}, \"5228966174527770\": {\"rank\": 23}, \"5228941775999132\": {\"rank\": 34}, \"5194836392806553\": {\"rank\": 3}, \"5194881094913413\": {\"rank\": 36}, \"5194881258751381\": {\"rank\": 42}, \"5228721254433091\": {\"rank\": 33}, \"5228668256261219\": {\"rank\": 16}, \"5228959513445477\": {\"rank\": 30}, \"5228953549146459\": {\"rank\": 2}, \"5194810828001839\": {\"rank\": 4}, \"5228654026294287\": {\"rank\": 5}, \"5227815895304757\": {\"rank\": 7}, \"5228646967282288\": {\"rank\": 8}, \"5226649463554845\": {\"rank\": 9}, \"5228626669733320\": {\"rank\": 15}, \"5228966610471726\": {\"rank\": 22}, \"5228965779997598\": {\"rank\": 24}, \"5228959954375527\": {\"rank\": 25}, \"5228959889359452\": {\"rank\": 27}, \"5228959547265274\": {\"rank\": 29}, \"5228959421170191\": {\"rank\": 31}, \"5228929863649758\": {\"rank\": 32}, \"5187901323480953\": {\"rank\": 35}, \"5194831182693678\": {\"rank\": 38}, \"5228617392194481\": {\"rank\": 39}, \"5228295377656650\": {\"rank\": 40}, \"5194893485675954\": {\"rank\": 43}}}",
+      "wenda": {
+        "forward_gen": 0
+      },
+      "cot": 1,
+      "model": "deepseek",
+      "status": 2,
+      "msg": "<think><br>嗯，用户给了一个关于全红婵搭档王伟莹的压力问题，还提供了很多搜索结果。需要好好整理这些信息。<br><br>看到王伟莹在采访中确实提到压力大到不敢洗头发，一洗就感觉掉20根头发。这种直观的描述很能体现运动员的真实状态。她和全红婵只磨合了三周左右，每天要额外训练4小时来调整同步性，时间这么紧确实压力很大。<br><br>从王伟莹的话里能感受到她对全红婵的敬佩，说\"她是奥运冠军，我要向她学习\"。这种心态挺不容易的，既要面对公众关注，又要快速适应新搭档。<br><br>注意到全红婵自己也在经历困难时期，有伤病困扰，还要严格控制体重。但她复出首秀表现很稳，第一跳就拿到76.50分。比赛中两人虽然同步性有待提高，但最终以0.9分优势夺冠。<br><br>有意思的是陈芋汐也说过类似压力大的话。当全红婵因伤缺席世锦赛时，陈芋汐坦言\"需要扛起更大责任\"。看来顶尖运动员都会面临这种压力。<br><br>整理想法时要注意把关键信息突出，比如压力表现、磨合期长短、比赛结果等。还要平衡呈现两位运动员的不同处境——王伟莹作为新搭档的压力，以及全红婵克服伤病复出的努力。<br><br>考虑在回复时先用一个引语概括核心事实，然后分角度解析压力来源，接着讲两人如何应对压力并夺冠，最后补充相关背景。这样既完整又有层次。会在不同环节强调关键信息，让用户一眼看到重点。<br><br></think><br>以下是针对“全红婵搭档称压力大到不敢洗头发”事件的综合梳理与分析，结合搜索结果中的关键信息整理如下：<br>### 🔥 **核心事件焦点**  <br>1. **王伟莹的压力公开回应**  <br>   在十五运跳水女团夺冠后，全红婵的新搭档**王伟莹**接受采访时坦言：与奥运冠军搭档的压力导致她“不敢洗头发”，每次洗头感觉“掉20根头发”。她解释这种压力源于对全红婵技术标杆的敬畏：“她是奥运冠军，我要向她学习、向她靠拢”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 4, \"data\": {\"num\": [1, 20, 21, 26], \"version\": 2, \"quote_list\": [{\"name\": \"北京日报\", \"scheme\": \"sinaweibo://detail?mblogid=5228911932739080\", \"index\": 20, \"label\": \"大v\"}, {\"name\": \"网易体育频道\", \"scheme\": \"sinaweibo://detail?mblogid=5228927750767407\", \"index\": 1, \"label\": \"\"}, {\"name\": \"广元日报看广元\", \"scheme\": \"sinaweibo://detail?mblogid=5228966847972462\", \"index\": 21, \"label\": \"\"}, {\"name\": \"企鹅体育\", \"scheme\": \"sinaweibo://detail?mblogid=5228959927108707\", \"index\": 26, \"label\": \"\"}], \"name\": \"北京日报\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.600.600.50/0024aA4lly8i51bp1z4bcj60go0goq3g02.jpg?KID=imgbed,tva&Expires=1762177263&ssig=kf%2Fu5V%2F%2Fhx\", \"scheme\": \"sinaweibo://detail?mblogid=5228911932739080\", \"vType\": 3}}```<br><br>2. **高压背景与磨合挑战**  <br>   - **极短磨合期**：两人仅配合**三周左右**（不足1个月），训练初期同步误差达0.5秒。  <br>   - **加练强度**：每日额外训练**4小时**，通过拆解动作至毫秒级、反复优化入水角度提升默契。  <br>   - **心理负担**：王伟莹表示压力远超与省队搭档，更多来自公众关注和自我要求。```wbCustomBlock{\"type\": \"quoted\", \"index\": 8, \"data\": {\"num\": [17, 28], \"version\": 2, \"quote_list\": [{\"name\": \"纵情球场\", \"scheme\": \"sinaweibo://detail?mblogid=5228946331010212\", \"index\": 17, \"label\": \"大v\"}, {\"name\": \"桃子湖悠悠\", \"scheme\": \"sinaweibo://detail?mblogid=5228959601525273\", \"index\": 28, \"label\": \"\"}], \"name\": \"纵情球场\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/95a9b0f3ly8hn5nggt8ysj20u00u0ac5.jpg?KID=imgbed,tva&Expires=1762177263&ssig=pWoL7HE3%2BK\", \"scheme\": \"sinaweibo://detail?mblogid=5228946331010212\", \"vType\": 0}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5228927750767407&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=1&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.600.600.50/a45a7f57ly8hj8vgpv7vwj20go0godhb.jpg?KID=imgbed,tva&Expires=1762177263&ssig=kNfzjeveCL) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">网易体育频道</span><img src=\"http://wx1.sinaimg.cn/middle/a45a7f57ly1i6z34x2qncj21jk111hdt.jpg\" data-width=1333 data-height=2000></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5228911932739080&multi_paragraph=1&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.600.600.50/0024aA4lly8i51bp1z4bcj60go0goq3g02.jpg?KID=imgbed,tva&Expires=1762177263&ssig=kf%2Fu5V%2F%2Fhx) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">北京日报</span><img src=\"http://wx1.sinaimg.cn/middle/0024aA4lly1i6z1cjusanj60u01hc77e02.jpg\" data-width=1920 data-height=1080></div></media-block><br>### 🛠️ **压力背后的深层因素**  <br>1. **全红婵的“双重挑战”**  <br>   - **伤病困扰**：全红婵因脚踝韧带损伤、手腕劳损等旧伤，被迫放弃单人赛专注团体/双人项目。```wbCustomBlock{\"type\": \"quoted\", \"index\": 12, \"data\": {\"num\": [6, 37, 41], \"version\": 2, \"quote_list\": [{\"name\": \"北京时间\", \"scheme\": \"sinaweibo://detail?mblogid=5228638816703277\", \"index\": 41, \"label\": \"大v\"}, {\"name\": \"游历丁丁\", \"scheme\": \"sinaweibo://detail?mblogid=5228257613186224\", \"index\": 6, \"label\": \"\"}, {\"name\": \"湖南林先生\", \"scheme\": \"sinaweibo://detail?mblogid=5228597125321696\", \"index\": 37, \"label\": \"\"}], \"name\": \"北京时间\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.821.821.50/003gul7lly8h8vg84tqdwj60mt0mtmy302.jpg?KID=imgbed,tva&Expires=1762177263&ssig=eooQpYW2bY\", \"scheme\": \"sinaweibo://detail?mblogid=5228638816703277\", \"vType\": 3}}```  <br>   - **发育关考验**：身高体重变化（可靠数据显示体重增约7公斤，主要为肌肉增强）需技术调整，她每日精确控制饮食，体重计量精确到克。```wbCustomBlock{\"type\": \"quoted\", \"index\": 13, \"data\": {\"num\": [19], \"version\": 2, \"quote_list\": [{\"name\": \"新浪热点\", \"scheme\": \"sinaweibo://detail?mblogid=5228805888672465\", \"index\": 19, \"label\": \"\"}]}}```  <br><br>2. **赛场表现与压力转化**  <br>   - **复出首秀稳健**：双人10米台决赛中，两人首跳107B动作获**76.50分**（全场最高），关键第三跳5253B拿下80.64分。```wbCustomBlock{\"type\": \"quoted\", \"index\": 15, \"data\": {\"num\": [41], \"version\": 2, \"quote_list\": [{\"name\": \"北京时间\", \"scheme\": \"sinaweibo://detail?mblogid=5228638816703277\", \"index\": 41, \"label\": \"\"}]}}```  <br>   - **默契不足仍夺冠**：尽管同步性被观众指出“明显差距”，最终仍以**0.9分优势**险胜陈芋汐/掌敏洁组合。```wbCustomBlock{\"type\": \"quoted\", \"index\": 16, \"data\": {\"num\": [18, 23, 41], \"version\": 2, \"quote_list\": [{\"name\": \"jacky-Leung6688\", \"scheme\": \"sinaweibo://detail?mblogid=5228880828565033\", \"index\": 18, \"label\": \"\"}, {\"name\": \"你看那朵云像什么啊\", \"scheme\": \"sinaweibo://detail?mblogid=5228966174527770\", \"index\": 23, \"label\": \"\"}, {\"name\": \"北京时间\", \"scheme\": \"sinaweibo://detail?mblogid=5228638816703277\", \"index\": 41, \"label\": \"\"}]}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5228638816703277&multi_paragraph=2&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.821.821.50/003gul7lly8h8vg84tqdwj60mt0mtmy302.jpg?KID=imgbed,tva&Expires=1762177263&ssig=eooQpYW2bY) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">北京时间</span><img src=\"http://wx3.sinaimg.cn/middle/003gul7lly1i6y5zbsdwyj60ns0de0vr02.jpg\" data-width=482 data-height=856></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5228257613186224&multi_paragraph=2&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/e92ae12aly8hcb36xim6lj20u00u0dnm.jpg?KID=imgbed,tva&Expires=1762177263&ssig=6bmFQzKvFU) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">游历丁丁</span><img src=\"http://wx2.sinaimg.cn/middle/e92ae12aly1i6wy6s83ahj20u01hctap.jpg\" data-width=1920 data-height=1080></div></media-block><br>### 💞 **搭档间的支持与成长**  <br>1. **全红婵的鼓励作用**  <br>   王伟莹透露训练中更多是**全红婵主动鼓励她**：“平时她鼓励我比较多，要相信自己，尽力就好”。两人夺冠后在池边激动拥抱，王伟莹将胜利归功于全红婵的带领。```wbCustomBlock{\"type\": \"quoted\", \"index\": 19, \"data\": {\"num\": [20, 34], \"version\": 2, \"quote_list\": [{\"name\": \"北京日报\", \"scheme\": \"sinaweibo://detail?mblogid=5228911932739080\", \"index\": 20, \"label\": \"\"}, {\"name\": \"甜味幻想小猫\", \"scheme\": \"sinaweibo://detail?mblogid=5228941775999132\", \"index\": 34, \"label\": \"\"}]}}```  <br><br>2. **心理韧性的双向印证**  <br>   类似压力并非个例：全红婵的长期搭档**陈芋汐**也曾坦言，全红婵缺席时自己需“扛起更大责任”，并因压力产生“没有退路”的心态。这印证了顶尖运动员普遍面临的心理负荷。```wbCustomBlock{\"type\": \"quoted\", \"index\": 20, \"data\": {\"num\": [3, 36, 42], \"version\": 2, \"quote_list\": [{\"name\": \"闪电新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5194881258751381\", \"index\": 42, \"label\": \"大v\"}, {\"name\": \"灿可猪斯基\", \"scheme\": \"sinaweibo://detail?mblogid=5194836392806553\", \"index\": 3, \"label\": \"\"}, {\"name\": \"南南说体育\", \"scheme\": \"sinaweibo://detail?mblogid=5194881094913413\", \"index\": 36, \"label\": \"\"}], \"name\": \"闪电新闻\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.179.179.50/70e081fbly8h8vgcllnigj204z04za9w.jpg?KID=imgbed,tva&Expires=1762177263&ssig=MTh%2FTnmJon\", \"scheme\": \"sinaweibo://detail?mblogid=5194881258751381\", \"vType\": 3}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5228941775999132&multi_paragraph=3&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/005xtUgXly8hot3kqlqlxj30u00u0acg.jpg?KID=imgbed,tva&Expires=1762177263&ssig=49hJhIzjuB) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">甜味幻想小猫</span><img src=\"http://wx3.sinaimg.cn/middle/005xtUgXgy1i6z4rh9mfxj30u0140qbo.jpg\" data-width=1440 data-height=1080></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5194881258751381&multi_paragraph=3&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.179.179.50/70e081fbly8h8vgcllnigj204z04za9w.jpg?KID=imgbed,tva&Expires=1762177263&ssig=MTh%2FTnmJon) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">闪电新闻</span><img src=\"http://wx2.sinaimg.cn/middle/70e081fbly1i3ygyp35q2j20u0140dz7.jpg\" data-width=1440 data-height=1080></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5194836392806553&multi_paragraph=3&multi_count=2\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/00740T6Wly8i0ey5lwl81j30u00u042z.jpg?KID=imgbed,tva&Expires=1762177263&ssig=OBV8deFtb2) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">灿可猪斯基</span><img src=\"http://wx1.sinaimg.cn/middle/00740T6Wgy1i3ybtwstfdj30s00fsq6z.jpg\" data-width=568 data-height=1008></div></media-block><br>### 💎 **事件折射的体育精神**  <br>- **压力与责任的共生**：王伟莹的“洗头焦虑”是对团队责任的具象化，而全红婵带伤复出则是职业坚守的体现。```wbCustomBlock{\"type\": \"quoted\", \"index\": 23, \"data\": {\"num\": [17, 33], \"version\": 2, \"quote_list\": [{\"name\": \"环闻财经-肖力军\", \"scheme\": \"sinaweibo://detail?mblogid=5228721254433091\", \"index\": 33, \"label\": \"大v\"}, {\"name\": \"纵情球场\", \"scheme\": \"sinaweibo://detail?mblogid=5228946331010212\", \"index\": 17, \"label\": \"\"}], \"name\": \"环闻财经-肖力军\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.996.996.50/006HPgvEly8gnqyo5ojc0j30ro0ro75j.jpg?KID=imgbed,tva&Expires=1762177263&ssig=DDudL0G5Q0\", \"scheme\": \"sinaweibo://detail?mblogid=5228721254433091\", \"vType\": 0}}```  <br>- **短期磨合成就突破**：两人以不足一月配合夺金，验证了“实力化解压力，协作催生默契”的竞技逻辑。```wbCustomBlock{\"type\": \"quoted\", \"index\": 24, \"data\": {\"num\": [34], \"version\": 2, \"quote_list\": [{\"name\": \"甜味幻想小猫\", \"scheme\": \"sinaweibo://detail?mblogid=5228941775999132\", \"index\": 34, \"label\": \"\"}]}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5228721254433091&multi_paragraph=4&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.996.996.50/006HPgvEly8gnqyo5ojc0j30ro0ro75j.jpg?KID=imgbed,tva&Expires=1762177263&ssig=DDudL0G5Q0) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">环闻财经-肖力军</span><img src=\"http://wx4.sinaimg.cn/middle/006HPgvEly1i6yffuzgb6j30sg0g0wf0.jpg\" data-width=576 data-height=1024></div></media-block><br>### 📌 **舆论与公众反应**  <br>网友普遍表达对运动员的理解：“运动员抗压能力真棒”、“金牌背后是各自的重量”。部分声音呼吁减少对运动员身材的过度关注，更多聚焦其技术突破与拼搏精神。```wbCustomBlock{\"type\": \"quoted\", \"index\": 26, \"data\": {\"num\": [16, 17, 30, 33], \"version\": 2, \"quote_list\": [{\"name\": \"shelly珊珊\", \"scheme\": \"sinaweibo://detail?mblogid=5228668256261219\", \"index\": 16, \"label\": \"大v\"}, {\"name\": \"纵情球场\", \"scheme\": \"sinaweibo://detail?mblogid=5228946331010212\", \"index\": 17, \"label\": \"\"}, {\"name\": \"桃子湖悠悠\", \"scheme\": \"sinaweibo://detail?mblogid=5228959513445477\", \"index\": 30, \"label\": \"\"}, {\"name\": \"环闻财经-肖力军\", \"scheme\": \"sinaweibo://detail?mblogid=5228721254433091\", \"index\": 33, \"label\": \"\"}], \"name\": \"shelly珊珊\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.996.996.50/65872ed7ly8gdiqqrl8tuj20ro0rojsk.jpg?KID=imgbed,tva&Expires=1762177263&ssig=6LwxWZUT5O\", \"scheme\": \"sinaweibo://detail?mblogid=5228668256261219\", \"vType\": 0}}```<br><br>---  <br>**总结**  <br>王伟莹的直白吐露揭开了顶级竞技合作中的高压常态，而全红婵与她的相互支撑则展现了运动员在挑战中共生的韧性。二者共同诠释的，是荣耀背后“数着发丝重量”的坚持，以及“带伤跃入水池”的孤勇。<br>",
+      "share_info": {
+        "page_id": "232964b3e76e3d1de976614e8ddb8d9ff5bdff",
+        "status": 3,
+        "url": "http://t.cn/AXANsx6J",
+        "comment_content": "",
+        "unify_md5": "41bab6425ffe55577f0fdfa6136e9b52",
+        "tips": "#全红婵搭档称压力大到不敢洗头发#的相关内容，来智搜看看",
+        "display_name": "#全红婵搭档称压力大到不敢洗头发#"
+      },
+      "unify_md5": "41bab6425ffe55577f0fdfa6136e9b52",
+      "page_id": "232964b3e76e3d1de976614e8ddb8d9ff5bdff",
+      "msg_format": "markdown",
+      "profile_image_url": "",
+      "user_info": {},
+      "short_url": "http://t.cn/AXAND8g4",
+      "msg_json": "{}",
+      "abtest_info": {
+        "chat_entrance": 1
+      },
+      "qs_status_info": "{\"qs_r_status\":0,\"qs_q_status\":0,\"qs_u_status\":0,\"ab_lab\":{},\"qs_status\":0,\"qs_c_status\":8388608}",
+      "loop_times": 200,
+      "analysis_time": 1762166658,
+      "status_stage": 4,
+      "ext_show": {},
+      "qs_status": 0,
+      "scheme": "sinaweibo://cardlist?containerid=100103type%3D225%26q%3D%23%E5%85%A8%E7%BA%A2%E5%A9%B5%E6%90%AD%E6%A1%A3%E7%A7%B0%E5%8E%8B%E5%8A%9B%E5%A4%A7%E5%88%B0%E4%B8%8D%E6%95%A2%E6%B4%97%E5%A4%B4%E5%8F%91%23%26t%3D&extparam=ai_model%3Ddeepseek%26ori_ai_title%3D%E5%8F%82%E8%80%83%E5%8D%9A%E6%96%87%26material_version%3D1762166463",
+      "comment_info": {},
+      "show_ctrl": {
+        "quote": {}
+      },
+      "current_time": 1762166670,
+      "sorted_material_list": null,
+      "zs_risk_control": {
+        "think_text_close": 0,
+        "land_button_close": 0
+      },
+      "query_field": "20",
+      "query": "#全红婵搭档称压力大到不敢洗头发#",
+      "share_text": "#全红婵搭档称压力大到不敢洗头发#的相关内容，来智搜看看",
+      "q_attr": {
+        "mid": "",
+        "from_uid": "",
+        "from_request_id": "",
+        "reply_cid": "",
+        "comment_from_type": ""
+      },
+      "ab_suffix": "default",
+      "mid_list": null,
+      "reference_num": 38,
+      "query_category": "",
+      "uid": "",
+      "link_list": [
+        "sinaweibo://detail?mblogid=5228927750767407",
+        "sinaweibo://detail?mblogid=5228953549146459",
+        "sinaweibo://detail?mblogid=5194836392806553",
+        "sinaweibo://detail?mblogid=5194810828001839",
+        "sinaweibo://detail?mblogid=5228654026294287",
+        "sinaweibo://detail?mblogid=5228257613186224",
+        "sinaweibo://detail?mblogid=5227815895304757",
+        "sinaweibo://detail?mblogid=5228646967282288",
+        "sinaweibo://detail?mblogid=5226649463554845",
+        "broadsocial_res://",
+        "broadsocial_res://",
+        "historyweibo://5228639651370885",
+        "historyweibo://5076455166052792",
+        "historyweibo://5073384092207221",
+        "sinaweibo://detail?mblogid=5228626669733320",
+        "sinaweibo://detail?mblogid=5228668256261219",
+        "sinaweibo://detail?mblogid=5228946331010212",
+        "sinaweibo://detail?mblogid=5228880828565033",
+        "sinaweibo://detail?mblogid=5228805888672465",
+        "sinaweibo://detail?mblogid=5228911932739080",
+        "sinaweibo://detail?mblogid=5228966847972462",
+        "sinaweibo://detail?mblogid=5228966610471726",
+        "sinaweibo://detail?mblogid=5228966174527770",
+        "sinaweibo://detail?mblogid=5228965779997598",
+        "sinaweibo://detail?mblogid=5228959954375527",
+        "sinaweibo://detail?mblogid=5228959927108707",
+        "sinaweibo://detail?mblogid=5228959889359452",
+        "sinaweibo://detail?mblogid=5228959601525273",
+        "sinaweibo://detail?mblogid=5228959547265274",
+        "sinaweibo://detail?mblogid=5228959513445477",
+        "sinaweibo://detail?mblogid=5228959421170191",
+        "sinaweibo://detail?mblogid=5228929863649758",
+        "sinaweibo://detail?mblogid=5228721254433091",
+        "sinaweibo://detail?mblogid=5228941775999132",
+        "sinaweibo://detail?mblogid=5187901323480953",
+        "sinaweibo://detail?mblogid=5194881094913413",
+        "sinaweibo://detail?mblogid=5228597125321696",
+        "sinaweibo://detail?mblogid=5194831182693678",
+        "sinaweibo://detail?mblogid=5228617392194481",
+        "sinaweibo://detail?mblogid=5228295377656650",
+        "sinaweibo://detail?mblogid=5228638816703277",
+        "sinaweibo://detail?mblogid=5194881258751381",
+        "sinaweibo://detail?mblogid=5194893485675954"
+      ]
+    }
+  },
+  "links": [
+    "sinaweibo://detail?mblogid=5228927750767407",
+    "sinaweibo://detail?mblogid=5228953549146459",
+    "sinaweibo://detail?mblogid=5194836392806553",
+    "sinaweibo://detail?mblogid=5194810828001839",
+    "sinaweibo://detail?mblogid=5228654026294287",
+    "sinaweibo://detail?mblogid=5228257613186224",
+    "sinaweibo://detail?mblogid=5227815895304757",
+    "sinaweibo://detail?mblogid=5228646967282288",
+    "sinaweibo://detail?mblogid=5226649463554845",
+    "broadsocial_res://",
+    "broadsocial_res://",
+    "historyweibo://5228639651370885",
+    "historyweibo://5076455166052792",
+    "historyweibo://5073384092207221",
+    "sinaweibo://detail?mblogid=5228626669733320",
+    "sinaweibo://detail?mblogid=5228668256261219",
+    "sinaweibo://detail?mblogid=5228946331010212",
+    "sinaweibo://detail?mblogid=5228880828565033",
+    "sinaweibo://detail?mblogid=5228805888672465",
+    "sinaweibo://detail?mblogid=5228911932739080",
+    "sinaweibo://detail?mblogid=5228966847972462",
+    "sinaweibo://detail?mblogid=5228966610471726",
+    "sinaweibo://detail?mblogid=5228966174527770",
+    "sinaweibo://detail?mblogid=5228965779997598",
+    "sinaweibo://detail?mblogid=5228959954375527",
+    "sinaweibo://detail?mblogid=5228959927108707",
+    "sinaweibo://detail?mblogid=5228959889359452",
+    "sinaweibo://detail?mblogid=5228959601525273",
+    "sinaweibo://detail?mblogid=5228959547265274",
+    "sinaweibo://detail?mblogid=5228959513445477",
+    "sinaweibo://detail?mblogid=5228959421170191",
+    "sinaweibo://detail?mblogid=5228929863649758",
+    "sinaweibo://detail?mblogid=5228721254433091",
+    "sinaweibo://detail?mblogid=5228941775999132",
+    "sinaweibo://detail?mblogid=5187901323480953",
+    "sinaweibo://detail?mblogid=5194881094913413",
+    "sinaweibo://detail?mblogid=5228597125321696",
+    "sinaweibo://detail?mblogid=5194831182693678",
+    "sinaweibo://detail?mblogid=5228617392194481",
+    "sinaweibo://detail?mblogid=5228295377656650",
+    "sinaweibo://detail?mblogid=5228638816703277",
+    "sinaweibo://detail?mblogid=5194881258751381",
+    "sinaweibo://detail?mblogid=5194893485675954"
+  ],
+  "media": [
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/a45a7f57ly1i6z34x2qncj21jk111hdt.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/a45a7f57ly1i6z34x2qncj21jk111hdt.jpg",
+      "alt": "网易体育频道",
+      "width": 1333,
+      "height": 2000,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/a45a7f57ly1i6z34x2qncj21jk111hdt.jpg"
+      ],
+      "user": "网易体育频道"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/0024aA4lly1i6z1cjusanj60u01hc77e02.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/0024aA4lly1i6z1cjusanj60u01hc77e02.jpg",
+      "alt": "北京日报",
+      "width": 1920,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/0024aA4lly1i6z1cjusanj60u01hc77e02.jpg"
+      ],
+      "user": "北京日报"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/003gul7lly1i6y5zbsdwyj60ns0de0vr02.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/003gul7lly1i6y5zbsdwyj60ns0de0vr02.jpg",
+      "alt": "北京时间",
+      "width": 482,
+      "height": 856,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/003gul7lly1i6y5zbsdwyj60ns0de0vr02.jpg"
+      ],
+      "user": "北京时间"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/e92ae12aly1i6wy6s83ahj20u01hctap.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/e92ae12aly1i6wy6s83ahj20u01hctap.jpg",
+      "alt": "游历丁丁",
+      "width": 1920,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/e92ae12aly1i6wy6s83ahj20u01hctap.jpg"
+      ],
+      "user": "游历丁丁"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/005xtUgXgy1i6z4rh9mfxj30u0140qbo.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/005xtUgXgy1i6z4rh9mfxj30u0140qbo.jpg",
+      "alt": "甜味幻想小猫",
+      "width": 1440,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/005xtUgXgy1i6z4rh9mfxj30u0140qbo.jpg"
+      ],
+      "user": "甜味幻想小猫"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/70e081fbly1i3ygyp35q2j20u0140dz7.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/70e081fbly1i3ygyp35q2j20u0140dz7.jpg",
+      "alt": "闪电新闻",
+      "width": 1440,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/70e081fbly1i3ygyp35q2j20u0140dz7.jpg"
+      ],
+      "user": "闪电新闻"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/00740T6Wgy1i3ybtwstfdj30s00fsq6z.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/00740T6Wgy1i3ybtwstfdj30s00fsq6z.jpg",
+      "alt": "灿可猪斯基",
+      "width": 568,
+      "height": 1008,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/00740T6Wgy1i3ybtwstfdj30s00fsq6z.jpg"
+      ],
+      "user": "灿可猪斯基"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/006HPgvEly1i6yffuzgb6j30sg0g0wf0.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/006HPgvEly1i6yffuzgb6j30sg0g0wf0.jpg",
+      "alt": "环闻财经-肖力军",
+      "width": 576,
+      "height": 1024,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/006HPgvEly1i6yffuzgb6j30sg0g0wf0.jpg"
+      ],
+      "user": "环闻财经-肖力军"
+    }
+  ],
+  "html_path": "data/aicard/hourly/2025-11-03/18/topic-41bab642.html"
+}

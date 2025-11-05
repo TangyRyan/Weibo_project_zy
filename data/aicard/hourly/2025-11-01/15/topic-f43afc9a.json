@@ -1,0 +1,320 @@
+{
+  "meta": {
+    "query": "#李冰冰大花含金量还在上升#",
+    "status_code": 200,
+    "fetched_at": "2025-11-01T15:31:03+08:00",
+    "response": {
+      "card_multimodal": {
+        "type": "mediablock",
+        "data": [
+          {
+            "user_avatar": "https://tvax2.sinaimg.cn/crop.0.118.266.266.50/5992cdcaly8fvmr3qpknjj20800dcjri.jpg?KID=imgbed,tva&Expires=1761992176&ssig=uDGvaaSL5v",
+            "h": 1080,
+            "w": 1440,
+            "hit_score_new": 0,
+            "type": "p",
+            "img_pid": "001DHz9oly1i6wn6l0mvhj61400u011502",
+            "vtype": 0,
+            "img": "http://wx3.sinaimg.cn/middle/001DHz9oly1i6wn6l0mvhj61400u011502.jpg",
+            "doc_score": 0,
+            "scheme": "sinaweibo://multimedia?mix_mid=5228162335117381&from=search&content_show=1&mix_index=4&hide_index=1&multi_paragraph=1&multi_count=0",
+            "hit_score_final": 0,
+            "video_url": "",
+            "cur_mid": "5228162335117381",
+            "user_name": "娱乐侦察社",
+            "click_rate": 0.070175438596491
+          },
+          {
+            "user_avatar": "https://tvax2.sinaimg.cn/crop.0.0.800.800.50/006Zvp3Nly8hjjdmor601j30m80m8jt3.jpg?KID=imgbed,tva&Expires=1761992176&ssig=37tF%2Bxnzk5",
+            "h": 3425,
+            "w": 2823,
+            "hit_score_new": 71.289062,
+            "type": "p",
+            "img_pid": "006Zvp3Nly1hwqhhcpw6xj326f2n5b2b",
+            "vtype": 0,
+            "img": "http://wx1.sinaimg.cn/middle/006Zvp3Nly1hwqhhcpw6xj326f2n5b2b.jpg",
+            "doc_score": 2800,
+            "scheme": "sinaweibo://multimedia?mix_mid=5113389984253861&from=search&content_show=1&mix_index=8&hide_index=1&multi_paragraph=2&multi_count=0",
+            "hit_score_final": 62.773438,
+            "video_url": "",
+            "cur_mid": "5113389984253861",
+            "user_name": "MegastarCover",
+            "click_rate": 0.07843137254902
+          },
+          {
+            "user_avatar": "https://tvax2.sinaimg.cn/crop.0.118.266.266.50/5992cdcaly8fvmr3qpknjj20800dcjri.jpg?KID=imgbed,tva&Expires=1761992176&ssig=uDGvaaSL5v",
+            "h": 1440,
+            "w": 1080,
+            "hit_score_new": 86.572266,
+            "type": "p",
+            "img_pid": "001DHz9oly1i177ck7bd1j60u0140wm002",
+            "vtype": 0,
+            "img": "http://wx4.sinaimg.cn/middle/001DHz9oly1i177ck7bd1j60u0140wm002.jpg",
+            "doc_score": 4853,
+            "scheme": "sinaweibo://multimedia?mix_mid=5163765759214481&from=search&content_show=1&mix_index=4&hide_index=1&multi_paragraph=2&multi_count=1",
+            "hit_score_final": 74.343361,
+            "video_url": "",
+            "cur_mid": "5163765759214481",
+            "user_name": "娱乐侦察社",
+            "click_rate": 0.06
+          },
+          {
+            "user_avatar": "https://tvax2.sinaimg.cn/crop.0.118.266.266.50/5992cdcaly8fvmr3qpknjj20800dcjri.jpg?KID=imgbed,tva&Expires=1761992176&ssig=uDGvaaSL5v",
+            "h": 1080,
+            "w": 1440,
+            "hit_score_new": 0,
+            "type": "p",
+            "img_pid": "001DHz9oly1i6wn6l0mvhj61400u011502",
+            "vtype": 0,
+            "img": "http://wx3.sinaimg.cn/middle/001DHz9oly1i6wn6l0mvhj61400u011502.jpg",
+            "doc_score": 0,
+            "scheme": "sinaweibo://multimedia?mix_mid=5228162335117381&from=search&content_show=1&mix_index=4&hide_index=1&multi_paragraph=1&multi_count=0",
+            "hit_score_final": 0,
+            "video_url": "",
+            "cur_mid": "5228162335117381",
+            "user_name": "娱乐侦察社",
+            "click_rate": 0.070175438596491
+          }
+        ]
+      },
+      "msg_format": "markdown",
+      "status": 2,
+      "basemodel": "实验组8",
+      "qs_status_info": "{\"qs_r_status\":0,\"ab_lab\":{},\"qs_status\":0,\"qs_q_status\":0,\"qs_u_status\":0,\"qs_c_status\":8388608}",
+      "wenda": {
+        "forward_gen": 0
+      },
+      "msg_json": "{}",
+      "ab_suffix": "default",
+      "uid": "",
+      "cot": 1,
+      "page_id": "23296448265961f76c37bca91255d8c3513933",
+      "show_ctrl": {
+        "quote": {}
+      },
+      "chat_status_stage": 1,
+      "version": "2025-11-01 15:16:16.017999-9315",
+      "news_analyze": {},
+      "reliable_tips": "{\"gold_orange_v_mids\": [\"5228162335117381\", \"5005622771453492\", \"5163765759214481\", \"5222381540344172\", \"5113389984253861\", \"4989106465014303\", \"4802476216420676\", \"5060159996690773\", \"5163924634732655\", \"5224237239633126\", \"4802504515125987\", \"5163815437336779\"], \"gold_orange_v_ratio\": \"34%\", \"media_mids\": [], \"media_ratio\": \"0%\", \"verified_mids\": [\"4823120000589057\", \"5017261081365921\", \"4989785598334466\", \"5017727286645534\", \"4906131107089738\"], \"verified_ratio\": \"14%\", \"normal_mids\": [\"5228190616261076\", \"5228171973886436\", \"5228171773610372\", \"5228171553411843\", \"5228171691561792\", \"5228167556239402\", \"5228183706407152\", \"5228183657909551\", \"5228183599186112\", \"5228183533387787\", \"5228183444263231\", \"5228183326560271\", \"5228171899438626\", \"5228171840717853\", \"5228171638345768\", \"5228171225992422\", \"5228167438539809\", \"5228167342329567\"], \"normal_ratio\": \"52%\", \"ref_mid_rank\": {\"5228162335117381\": {\"rank\": 1}, \"5228190616261076\": {\"rank\": 11}, \"5228171973886436\": {\"rank\": 18}, \"5228171773610372\": {\"rank\": 21}, \"5005622771453492\": {\"rank\": 39}, \"4823120000589057\": {\"rank\": 3}, \"5163765759214481\": {\"rank\": 30}, \"5222381540344172\": {\"rank\": 9}, \"5113389984253861\": {\"rank\": 35}, \"4989106465014303\": {\"rank\": 2}, \"5017261081365921\": {\"rank\": 38}, \"4802476216420676\": {\"rank\": 29}, \"4989785598334466\": {\"rank\": 32}, \"5060159996690773\": {\"rank\": 37}, \"5228171553411843\": {\"rank\": 24}, \"5228171691561792\": {\"rank\": 22}, \"5228167556239402\": {\"rank\": 26}, \"5163924634732655\": {\"rank\": 4}, \"5224237239633126\": {\"rank\": 10}, \"5228183706407152\": {\"rank\": 12}, \"5228183657909551\": {\"rank\": 13}, \"5228183599186112\": {\"rank\": 14}, \"5228183533387787\": {\"rank\": 15}, \"5228183444263231\": {\"rank\": 16}, \"5228183326560271\": {\"rank\": 17}, \"5228171899438626\": {\"rank\": 19}, \"5228171840717853\": {\"rank\": 20}, \"5228171638345768\": {\"rank\": 23}, \"5228171225992422\": {\"rank\": 25}, \"5228167438539809\": {\"rank\": 27}, \"5228167342329567\": {\"rank\": 28}, \"4802504515125987\": {\"rank\": 31}, \"5017727286645534\": {\"rank\": 33}, \"4906131107089738\": {\"rank\": 34}, \"5163815437336779\": {\"rank\": 36}}}",
+      "share_info": {
+        "unify_md5": "f43afc9a92fd604c7632ed31536db82b",
+        "page_id": "23296448265961f76c37bca91255d8c3513933",
+        "status": 3,
+        "tips": "#李冰冰大花含金量还在上升#的相关内容，来智搜看看",
+        "comment_content": "",
+        "display_name": "#李冰冰大花含金量还在上升#",
+        "url": "http://t.cn/AXAM0fjS"
+      },
+      "share_card_multimodal": {
+        "user_avatar": "https://tvax2.sinaimg.cn/crop.0.118.266.266.50/5992cdcaly8fvmr3qpknjj20800dcjri.jpg?KID=imgbed,tva&Expires=1761992176&ssig=uDGvaaSL5v",
+        "h": 1080,
+        "w": 1440,
+        "hit_score_new": 0,
+        "type": "p",
+        "img_pid": "001DHz9oly1i6wn6l0mvhj61400u011502",
+        "vtype": 0,
+        "img": "http://wx3.sinaimg.cn/middle/001DHz9oly1i6wn6l0mvhj61400u011502.jpg",
+        "doc_score": 0,
+        "scheme": "sinaweibo://multimedia?mix_mid=5228162335117381&from=search&content_show=1&mix_index=4&hide_index=1&multi_paragraph=1&multi_count=0",
+        "hit_score_final": 0,
+        "video_url": "",
+        "cur_mid": "5228162335117381",
+        "user_name": "娱乐侦察社",
+        "click_rate": 0.070175438596491
+      },
+      "sorted_material_list": null,
+      "comment_info": {},
+      "unify_md5": "f43afc9a92fd604c7632ed31536db82b",
+      "msg": "<think><br><br>嗯，用户发来了关于“李冰冰大花含金量还在上升”的搜索结果，要求我整理成一个有深度的回答。这里面内容很丰富啊，需要好好梳理一下。<br><br>先看看用户可能的需求。这个话题明显是讨论李冰冰在娱乐圈的地位和影响力，特别是“含金量上升”这个点。用户可能是娱乐行业从业者、追星族或者对娱乐圈生态感兴趣的人，想了解这位资深演员如何维持甚至提升自己的行业地位。<br><br>从搜索结果看，核心信息集中在几个方面：李冰冰最近的APEC峰会参与情况，她的国际影响力表现，时尚领域的独特资源，以及在行业内的标杆地位。时效性最强的就是2025年11月1日关于她参加韩国APEC峰会的消息，这个应该是重点。<br><br>让我分析下具体内容。结果1、5、11-28都是关于APEC的最新动态，她作为亚太文化交流大使要发表演讲，还会见秘书长等政要。这种外交级别的活动确实很提升咖位。结果6和7是资料类内容，系统分析了她的国际影响力、时尚资源和行业地位，信息量很大但需要验证。结果2提到了业内以她2018年的成就作为“大花守门员标准”，这个角度很专业。时尚资源方面结果3、30、35、39都显示她穿古董高定、拿双顶奢代言的独特地位。<br><br>有意思的是结果35提到她2024年没有新作品，但依然靠积累维持地位，这说明“含金量”不完全依赖曝光率。结果38说她提携后辈，这也是大花格局的体现。需要小心的是一些普通账号的吹捧内容，虽然能反映舆情但不够客观。<br><br>在组织回答时，应该突出“上升”这个关键词。可以把APEC峰会作为开头的亮点，然后分国际影响力、时尚统治力、行业地位、个人品牌四个维度展开。特别要强调她与其他大花的差异化：不是靠新作品，而是靠国际身份和文化高度。最后点明这种“稀缺性资源积累”才是含金量上升的本质。<br><br>风险提示方面，结果7已经指出《巨齿鲨》是团队成果，她也缺金像影后，这些客观局限要在总结时提及，避免过度神化。时间线上注意她实际52岁，不要写错年龄。<br><br>好，现在可以开始整合这些内容了。会用清晰的分类和具体数据来展现，关键信息加粗强调，最后给出辩证的总结。这样应该能全面呈现李冰冰如何在内娱生态中持续提升自己的“含金量”。<br><br></think><br>李冰冰作为华语影坛“四旦双冰”时代的代表，其“大花”含金量在2025年呈现持续上升趋势，核心体现在以下维度：<br>### 🌍 **一、国际影响力突破：文化外交符号化**  <br>1. **高端政经舞台的标杆性亮相**  <br>   以**亚太文化交流大使**身份出席2025年韩国APEC峰会，发表个人主题演讲并与APEC秘书长、工商咨询理事会秘书长等国际政要会面，展现东方演员的国际专业形象。此类高规格外交活动参与频次（如全球气候峰会、联合国演讲）远超娱乐范畴，标志其国际角色从演员转型为**文化外交符号**。```wbCustomBlock{\"type\": \"quoted\", \"index\": 4, \"data\": {\"num\": [1, 11, 18, 21], \"version\": 2, \"quote_list\": [{\"name\": \"娱乐侦察社\", \"scheme\": \"sinaweibo://detail?mblogid=5228162335117381\", \"index\": 1, \"label\": \"大v\"}, {\"name\": \"熊二877800\", \"scheme\": \"sinaweibo://detail?mblogid=5228190616261076\", \"index\": 11, \"label\": \"\"}, {\"name\": \"八方聚财25756\", \"scheme\": \"sinaweibo://detail?mblogid=5228171973886436\", \"index\": 18, \"label\": \"\"}, {\"name\": \"居山远鹤\", \"scheme\": \"sinaweibo://detail?mblogid=5228171773610372\", \"index\": 21, \"label\": \"\"}], \"name\": \"娱乐侦察社\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.118.266.266.50/5992cdcaly8fvmr3qpknjj20800dcjri.jpg?KID=imgbed,tva&Expires=1761992176&ssig=uDGvaaSL5v\", \"scheme\": \"sinaweibo://detail?mblogid=5228162335117381\", \"vType\": 0}}```  <br><br>2. **国际身份体系的深化**  <br>   长期担任联合国环境署亲善大使、奥斯卡终身评委，通过持续参与国际高端议程，巩固全球性影响力护城河。其国际认可度已形成“身份闭环”：**高端活动曝光→政商资源积累→文化话语权提升→身份权威强化**。<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5228162335117381&from=search&content_show=1&mix_index=4&hide_index=1&multi_paragraph=1&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.118.266.266.50/5992cdcaly8fvmr3qpknjj20800dcjri.jpg?KID=imgbed,tva&Expires=1761992176&ssig=uDGvaaSL5v) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">娱乐侦察社</span><img src=\"http://wx3.sinaimg.cn/middle/001DHz9oly1i6wn6l0mvhj61400u011502.jpg\" data-width=1080 data-height=1440></div></media-block><br>### 💼 **二、时尚统治力：稀缺资源垄断者**  <br>1. **蓝血品牌双冠王**  <br>   2024年空降Givenchy全球代言人，成为首位同时持有**GUCCI（历史性全球代言）与Givenchy双顶奢**的华人女星，打破奢侈品牌“竞品排斥”惯例。```wbCustomBlock{\"type\": \"quoted\", \"index\": 8, \"data\": {\"num\": [39], \"version\": 2, \"quote_list\": [{\"name\": \"-肥西肥西-\", \"scheme\": \"sinaweibo://detail?mblogid=5005622771453492\", \"index\": 39, \"label\": \"\"}]}}```  <br><br>2. **古董高定定义者**  <br>   多次获Armani Privé支持，2022年两度身穿该品牌**2006年绝版古董高定礼服**（复刻损耗率超40%），稀缺性资源掌控力碾压同期艺人。业内视此待遇为“时尚界最高礼遇”，凸显其超越潮流周期的地位。```wbCustomBlock{\"type\": \"quoted\", \"index\": 9, \"data\": {\"num\": [3, 30], \"version\": 2, \"quote_list\": [{\"name\": \"婚纱设计师诸岚\", \"scheme\": \"sinaweibo://detail?mblogid=4823120000589057\", \"index\": 3, \"label\": \"\"}, {\"name\": \"娱乐侦察社\", \"scheme\": \"sinaweibo://detail?mblogid=5163765759214481\", \"index\": 30, \"label\": \"\"}]}}```  <br><br>3. **主流女刊持续统治**  <br>   2024年登封《嘉人》《时尚COSMO》《T中文版》三大刊，均由蓝血品牌推封。对比2014年即垄断“金九刊”（大花专属资源），十年间封面含金量未减，成衣与珠宝推封数量持续领跑。```wbCustomBlock{\"type\": \"quoted\", \"index\": 10, \"data\": {\"num\": [9, 35], \"version\": 2, \"quote_list\": [{\"name\": \"MegastarCover\", \"scheme\": \"sinaweibo://detail?mblogid=5113389984253861\", \"index\": 35, \"label\": \"大v\"}, {\"name\": \"wendy0207\", \"scheme\": \"sinaweibo://detail?mblogid=5222381540344172\", \"index\": 9, \"label\": \"\"}], \"name\": \"MegastarCover\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.800.800.50/006Zvp3Nly8hjjdmor601j30m80m8jt3.jpg?KID=imgbed,tva&Expires=1761992176&ssig=37tF%2Bxnzk5\", \"scheme\": \"sinaweibo://detail?mblogid=5113389984253861\", \"vType\": 0}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5113389984253861&from=search&content_show=1&mix_index=8&hide_index=1&multi_paragraph=2&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.800.800.50/006Zvp3Nly8hjjdmor601j30m80m8jt3.jpg?KID=imgbed,tva&Expires=1761992176&ssig=37tF%2Bxnzk5) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">MegastarCover</span><img src=\"http://wx1.sinaimg.cn/middle/006Zvp3Nly1hwqhhcpw6xj326f2n5b2b.jpg\" data-width=3425 data-height=2823></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5163765759214481&from=search&content_show=1&mix_index=4&hide_index=1&multi_paragraph=2&multi_count=1\"><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.118.266.266.50/5992cdcaly8fvmr3qpknjj20800dcjri.jpg?KID=imgbed,tva&Expires=1761992176&ssig=uDGvaaSL5v) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">娱乐侦察社</span><img src=\"http://wx4.sinaimg.cn/middle/001DHz9oly1i177ck7bd1j60u0140wm002.jpg\" data-width=1440 data-height=1080></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=4823120000589057&multi_paragraph=2&multi_count=2\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.512.512.50/6a42e8a1ly8hec1ekz6p3j20e80e8mya.jpg?KID=imgbed,tva&Expires=1761992176&ssig=9CXdwaO1vl) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">婚纱设计师诸岚</span><img src=\"http://wx3.sinaimg.cn/middle/6a42e8a1ly1h70gqnd7otj20u0141dmg.jpg\" data-width=1441 data-height=1080></div></media-block><br>### 🏆 **三、行业实绩：大花守门员的硬核标杆**  <br>据业内共识（以2018年《巨齿鲨》为节点），其上位大花的硬指标成为新生代难以逾越的门槛：  <br>| **维度**       | **实绩**                   | **含金量**               |  <br>|----------------|----------------------------|---------------------------|  <br>| **国际票房**   | 《巨齿鲨》全球票房5.3亿美元 | 华语女星好莱坞三番内最高纪录 |  <br>| **奖项厚度**   | 金马影后×1 + 百花/华表影后×3 | 非三金大满贯（缺金像奖）但奖项权威性稳固 |  <br>| **星光权威**   | GUCCI全球代言+硬广         | 蓝血品牌最高title认证     |  <br>| **艺术深度**   | 威尼斯主竞赛×2（《狄仁杰》《过年回家》） | 欧洲三大电影节背书 |<br><br>```wbCustomBlock{\"type\": \"quoted\", \"index\": 12, \"data\": {\"num\": [2], \"version\": 2, \"quote_list\": [{\"name\": \"索菲娅罗兰的小玫园\", \"scheme\": \"sinaweibo://detail?mblogid=4989106465014303\", \"index\": 2, \"label\": \"\"}]}}```  <br><br>> 💡 **行业现状**：新生代女星至今无人同时达标该守门员标准。```wbCustomBlock{\"type\": \"quoted\", \"index\": 13, \"data\": {\"num\": [2], \"version\": 2, \"quote_list\": [{\"name\": \"索菲娅罗兰的小玫园\", \"scheme\": \"sinaweibo://detail?mblogid=4989106465014303\", \"index\": 2, \"label\": \"\"}]}}```<br>### 🌟 **四、个人品牌进化：格局与稀缺性并重**  <br>1. **后辈提携的领袖格局**  <br>   主动带赵丽颖、周也等新生代登上五大女刊封面，被赞“资源分享式传承”，强化行业领袖形象。```wbCustomBlock{\"type\": \"quoted\", \"index\": 16, \"data\": {\"num\": [38], \"version\": 2, \"quote_list\": [{\"name\": \"娱村懒大王\", \"scheme\": \"sinaweibo://detail?mblogid=5017261081365921\", \"index\": 38, \"label\": \"\"}]}}```  <br><br>2. **形象管理的巅峰状态**  <br>   52岁仍以全背头湿发、暗夜蝴蝶礼服等先锋造型亮相，红毯气场被认证为“压轴级”，打破年龄焦虑。```wbCustomBlock{\"type\": \"quoted\", \"index\": 17, \"data\": {\"num\": [29, 32, 37], \"version\": 2, \"quote_list\": [{\"name\": \"汉南洞脸赞路人\", \"scheme\": \"sinaweibo://detail?mblogid=4802476216420676\", \"index\": 29, \"label\": \"大v\"}, {\"name\": \"仓酱_\", \"scheme\": \"sinaweibo://detail?mblogid=4989785598334466\", \"index\": 32, \"label\": \"\"}, {\"name\": \"生图星赏\", \"scheme\": \"sinaweibo://detail?mblogid=5060159996690773\", \"index\": 37, \"label\": \"\"}], \"name\": \"汉南洞脸赞路人\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.446.446.50/6974b688ly8h0kq9c02g7j20ce0cet94.jpg?KID=imgbed,tva&Expires=1761992176&ssig=DFRaBAbChh\", \"scheme\": \"sinaweibo://detail?mblogid=4802476216420676\", \"vType\": 0}}```  <br><br>3. **赛道差异化护城河**  <br>   对比章子怡（奖项厚度）、周迅（演技灵气），李冰冰以 **“国际身份+顶奢垄断+文化大使”** 开辟独家赛道。当新生代争夺当季高定时，她已掌控古董高定话语权；当同行聚焦本土市场时，她通过APEC演讲等非娱乐场景重构影响力标尺。```wbCustomBlock{\"type\": \"quoted\", \"index\": 18, \"data\": {\"num\": [24], \"version\": 2, \"quote_list\": [{\"name\": \"二维码换肤2458\", \"scheme\": \"sinaweibo://detail?mblogid=5228171553411843\", \"index\": 24, \"label\": \"\"}]}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5017261081365921&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=4&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/0088hupply8hqid9364epj30u00u075u.jpg?KID=imgbed,tva&Expires=1761992176&ssig=TqSkNY1XZB) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">娱村懒大王</span><img src=\"http://wx2.sinaimg.cn/middle/0088hupply1ho7tl71m9ij30u012idpa.jpg\" data-width=1386 data-height=1080></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=4989785598334466&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=4&multi_count=1\"><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.995.995.50/006gHfe8ly8hg4zl2dxyjj30rn0rnq4g.jpg?KID=imgbed,tva&Expires=1761992176&ssig=gW3mt6MeQ7) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">仓酱_</span><img src=\"http://wx2.sinaimg.cn/middle/006gHfe8ly1hls624abvvj311y1kwdki.jpg\" data-width=2048 data-height=1366></div></media-block><br>### ⚠️ **风险提示与争议点**  <br>1. **作品空窗期的隐忧**  <br>   2024年无新作播出/拍摄，影视领域存在“吃老本”争议（《少年包青天》《云水谣》等经典角色持续支撑口碑）。```wbCustomBlock{\"type\": \"quoted\", \"index\": 21, \"data\": {\"num\": [30, 35], \"version\": 2, \"quote_list\": [{\"name\": \"娱乐侦察社\", \"scheme\": \"sinaweibo://detail?mblogid=5163765759214481\", \"index\": 30, \"label\": \"\"}, {\"name\": \"MegastarCover\", \"scheme\": \"sinaweibo://detail?mblogid=5113389984253861\", \"index\": 35, \"label\": \"\"}]}}```  <br><br>2. **奖项与票房局限性**  <br>   - 《巨齿鲨》票房属团队成果，非个人扛票房能力直接证明；  <br>   - 未获金像影后，华语“三金大满贯”未达成。<br>### 💎 **含金量上升的本质：不可替代的稀缺性积累**  <br>李冰冰的进阶印证了顶级大花的生存法则：**国际曝光＞时尚资源＞奖项沉淀＞票房实绩**。其持续占领APEC峰会演讲台、古董高定复刻权、蓝血双代言等**不可再生资源**，形成与内娱生态的代际差。这种通过全球化布局、文化价值升维建立的护城河，使其含金量在业内评判体系中始终呈上升曲线。```wbCustomBlock{\"type\": \"quoted\", \"index\": 26, \"data\": {\"num\": [22, 26], \"version\": 2, \"quote_list\": [{\"name\": \"十里桃花24555\", \"scheme\": \"sinaweibo://detail?mblogid=5228171691561792\", \"index\": 22, \"label\": \"\"}, {\"name\": \"麻烦制造这\", \"scheme\": \"sinaweibo://detail?mblogid=5228167556239402\", \"index\": 26, \"label\": \"\"}]}}```<br>",
+      "profile_image_url": "",
+      "model": "deepseek",
+      "loop_times": 200,
+      "query_category": "Ip",
+      "query_field": "1",
+      "zs_risk_control": {
+        "think_text_close": 0,
+        "land_button_close": 0
+      },
+      "analysis_time": 1761981547,
+      "current_time": 1761982264,
+      "query": "#李冰冰大花含金量还在上升#",
+      "share_text": "#李冰冰大花含金量还在上升#的相关内容，来智搜看看",
+      "qs_status": 0,
+      "scheme": "sinaweibo://cardlist?containerid=100103type%3D225%26q%3D%23%E6%9D%8E%E5%86%B0%E5%86%B0%E5%A4%A7%E8%8A%B1%E5%90%AB%E9%87%91%E9%87%8F%E8%BF%98%E5%9C%A8%E4%B8%8A%E5%8D%87%23%26t%3D&extparam=ai_model%3Ddeepseek%26ori_ai_title%3D%E5%8F%82%E8%80%83%E5%8D%9A%E6%96%87%26material_version%3D1761981376",
+      "user_info": {},
+      "ext_show": {},
+      "mid_list": null,
+      "reference_num": 35,
+      "abtest_info": {
+        "chat_entrance": 1
+      },
+      "status_stage": 4,
+      "link_list": [
+        "sinaweibo://detail?mblogid=5228162335117381",
+        "sinaweibo://detail?mblogid=4989106465014303",
+        "sinaweibo://detail?mblogid=4823120000589057",
+        "sinaweibo://detail?mblogid=5163924634732655",
+        "broadsocial_res://",
+        "historyweibo://5228162335117381",
+        "historyweibo://5228162335117381",
+        "historyweibo://5225022029566931",
+        "sinaweibo://detail?mblogid=5222381540344172",
+        "sinaweibo://detail?mblogid=5224237239633126",
+        "sinaweibo://detail?mblogid=5228190616261076",
+        "sinaweibo://detail?mblogid=5228183706407152",
+        "sinaweibo://detail?mblogid=5228183657909551",
+        "sinaweibo://detail?mblogid=5228183599186112",
+        "sinaweibo://detail?mblogid=5228183533387787",
+        "sinaweibo://detail?mblogid=5228183444263231",
+        "sinaweibo://detail?mblogid=5228183326560271",
+        "sinaweibo://detail?mblogid=5228171973886436",
+        "sinaweibo://detail?mblogid=5228171899438626",
+        "sinaweibo://detail?mblogid=5228171840717853",
+        "sinaweibo://detail?mblogid=5228171773610372",
+        "sinaweibo://detail?mblogid=5228171691561792",
+        "sinaweibo://detail?mblogid=5228171638345768",
+        "sinaweibo://detail?mblogid=5228171553411843",
+        "sinaweibo://detail?mblogid=5228171225992422",
+        "sinaweibo://detail?mblogid=5228167556239402",
+        "sinaweibo://detail?mblogid=5228167438539809",
+        "sinaweibo://detail?mblogid=5228167342329567",
+        "sinaweibo://detail?mblogid=4802476216420676",
+        "sinaweibo://detail?mblogid=5163765759214481",
+        "sinaweibo://detail?mblogid=4802504515125987",
+        "sinaweibo://detail?mblogid=4989785598334466",
+        "sinaweibo://detail?mblogid=5017727286645534",
+        "sinaweibo://detail?mblogid=4906131107089738",
+        "sinaweibo://detail?mblogid=5113389984253861",
+        "sinaweibo://detail?mblogid=5163815437336779",
+        "sinaweibo://detail?mblogid=5060159996690773",
+        "sinaweibo://detail?mblogid=5017261081365921",
+        "sinaweibo://detail?mblogid=5005622771453492"
+      ],
+      "q_attr": {
+        "from_request_id": "",
+        "from_uid": "",
+        "mid": "",
+        "reply_cid": "",
+        "comment_from_type": ""
+      },
+      "top_quote_list": {},
+      "short_url": "http://t.cn/AXAM9iXF"
+    }
+  },
+  "links": [
+    "sinaweibo://detail?mblogid=5228162335117381",
+    "sinaweibo://detail?mblogid=4989106465014303",
+    "sinaweibo://detail?mblogid=4823120000589057",
+    "sinaweibo://detail?mblogid=5163924634732655",
+    "broadsocial_res://",
+    "historyweibo://5228162335117381",
+    "historyweibo://5228162335117381",
+    "historyweibo://5225022029566931",
+    "sinaweibo://detail?mblogid=5222381540344172",
+    "sinaweibo://detail?mblogid=5224237239633126",
+    "sinaweibo://detail?mblogid=5228190616261076",
+    "sinaweibo://detail?mblogid=5228183706407152",
+    "sinaweibo://detail?mblogid=5228183657909551",
+    "sinaweibo://detail?mblogid=5228183599186112",
+    "sinaweibo://detail?mblogid=5228183533387787",
+    "sinaweibo://detail?mblogid=5228183444263231",
+    "sinaweibo://detail?mblogid=5228183326560271",
+    "sinaweibo://detail?mblogid=5228171973886436",
+    "sinaweibo://detail?mblogid=5228171899438626",
+    "sinaweibo://detail?mblogid=5228171840717853",
+    "sinaweibo://detail?mblogid=5228171773610372",
+    "sinaweibo://detail?mblogid=5228171691561792",
+    "sinaweibo://detail?mblogid=5228171638345768",
+    "sinaweibo://detail?mblogid=5228171553411843",
+    "sinaweibo://detail?mblogid=5228171225992422",
+    "sinaweibo://detail?mblogid=5228167556239402",
+    "sinaweibo://detail?mblogid=5228167438539809",
+    "sinaweibo://detail?mblogid=5228167342329567",
+    "sinaweibo://detail?mblogid=4802476216420676",
+    "sinaweibo://detail?mblogid=5163765759214481",
+    "sinaweibo://detail?mblogid=4802504515125987",
+    "sinaweibo://detail?mblogid=4989785598334466",
+    "sinaweibo://detail?mblogid=5017727286645534",
+    "sinaweibo://detail?mblogid=4906131107089738",
+    "sinaweibo://detail?mblogid=5113389984253861",
+    "sinaweibo://detail?mblogid=5163815437336779",
+    "sinaweibo://detail?mblogid=5060159996690773",
+    "sinaweibo://detail?mblogid=5017261081365921",
+    "sinaweibo://detail?mblogid=5005622771453492"
+  ],
+  "media": [
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/001DHz9oly1i6wn6l0mvhj61400u011502.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/001DHz9oly1i6wn6l0mvhj61400u011502.jpg",
+      "alt": "娱乐侦察社",
+      "width": 1080,
+      "height": 1440,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/001DHz9oly1i6wn6l0mvhj61400u011502.jpg"
+      ],
+      "user": "娱乐侦察社"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/006Zvp3Nly1hwqhhcpw6xj326f2n5b2b.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/006Zvp3Nly1hwqhhcpw6xj326f2n5b2b.jpg",
+      "alt": "MegastarCover",
+      "width": 3425,
+      "height": 2823,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/006Zvp3Nly1hwqhhcpw6xj326f2n5b2b.jpg"
+      ],
+      "user": "MegastarCover"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/001DHz9oly1i177ck7bd1j60u0140wm002.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/001DHz9oly1i177ck7bd1j60u0140wm002.jpg",
+      "alt": "娱乐侦察社",
+      "width": 1440,
+      "height": 1080,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/001DHz9oly1i177ck7bd1j60u0140wm002.jpg"
+      ],
+      "user": "娱乐侦察社"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/6a42e8a1ly1h70gqnd7otj20u0141dmg.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/6a42e8a1ly1h70gqnd7otj20u0141dmg.jpg",
+      "alt": "婚纱设计师诸岚",
+      "width": 1441,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/6a42e8a1ly1h70gqnd7otj20u0141dmg.jpg"
+      ],
+      "user": "婚纱设计师诸岚"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/0088hupply1ho7tl71m9ij30u012idpa.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/0088hupply1ho7tl71m9ij30u012idpa.jpg",
+      "alt": "娱村懒大王",
+      "width": 1386,
+      "height": 1080,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/0088hupply1ho7tl71m9ij30u012idpa.jpg"
+      ],
+      "user": "娱村懒大王"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/006gHfe8ly1hls624abvvj311y1kwdki.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/006gHfe8ly1hls624abvvj311y1kwdki.jpg",
+      "alt": "仓酱_",
+      "width": 2048,
+      "height": 1366,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/006gHfe8ly1hls624abvvj311y1kwdki.jpg"
+      ],
+      "user": "仓酱_"
+    }
+  ],
+  "html_path": "data/aicard/hourly/2025-11-01/15/topic-f43afc9a.html"
+}

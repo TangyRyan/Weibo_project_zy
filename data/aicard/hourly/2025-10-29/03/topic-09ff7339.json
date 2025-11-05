@@ -1,0 +1,259 @@
+{
+  "meta": {
+    "query": "#济南市民排百米长队买奶皮子糖葫芦#",
+    "status_code": 200,
+    "fetched_at": "2025-10-29T03:26:59+08:00",
+    "response": {
+      "news_analyze": {},
+      "reliable_tips": "{\"gold_orange_v_mids\": [\"5226894060684942\", \"5226799798948193\", \"5226890710221049\", \"5224548800659599\", \"5226860889768421\", \"5226809194710714\", \"5226830978357225\", \"5226856321128885\", \"5225959915524874\", \"5226830177241659\", \"5226855149863157\", \"5225908654835955\", \"5226821341938376\", \"5225297956044827\", \"5112279136211973\", \"5225286232967419\"], \"gold_orange_v_ratio\": \"67%\", \"media_mids\": [\"5226663893796553\"], \"media_ratio\": \"4%\", \"verified_mids\": [\"5226857274542880\", \"5226753464730556\", \"5226683097682665\"], \"verified_ratio\": \"12%\", \"normal_mids\": [\"5226871227683950\", \"5226870727773370\", \"5226752638452341\", \"5108146928617669\"], \"normal_ratio\": \"17%\", \"ref_mid_rank\": {\"5226663893796553\": {\"rank\": 1}, \"5226857274542880\": {\"rank\": 17}, \"5226894060684942\": {\"rank\": 13}, \"5226799798948193\": {\"rank\": 23}, \"5226890710221049\": {\"rank\": 14}, \"5226753464730556\": {\"rank\": 9}, \"5224548800659599\": {\"rank\": 24}, \"5226860889768421\": {\"rank\": 21}, \"5226809194710714\": {\"rank\": 12}, \"5226830978357225\": {\"rank\": 2}, \"5226856321128885\": {\"rank\": 8}, \"5225959915524874\": {\"rank\": 10}, \"5226830177241659\": {\"rank\": 11}, \"5226871227683950\": {\"rank\": 15}, \"5226870727773370\": {\"rank\": 16}, \"5226855149863157\": {\"rank\": 18}, \"5226752638452341\": {\"rank\": 19}, \"5226683097682665\": {\"rank\": 20}, \"5225908654835955\": {\"rank\": 22}, \"5226821341938376\": {\"rank\": 25}, \"5225297956044827\": {\"rank\": 26}, \"5112279136211973\": {\"rank\": 27}, \"5225286232967419\": {\"rank\": 28}, \"5108146928617669\": {\"rank\": 29}}}",
+      "profile_image_url": "",
+      "mid_list": null,
+      "reference_num": 24,
+      "status_stage": 4,
+      "model": "deepseek",
+      "top_quote_list": {},
+      "card_multimodal": {
+        "type": "mediablock",
+        "data": [
+          {
+            "click_rate": 0,
+            "w": 720,
+            "doc_score": 0,
+            "img": "http://wx1.sinaimg.cn/middle/002c6guQly1i6rv5vvobzj60k00zkgni02.jpg",
+            "type": "v",
+            "vtype": 3,
+            "scheme": "sinaweibo://video/vvs?mid=5226663893796553&multi_paragraph=1&multi_count=0",
+            "hit_score_final": 0,
+            "hit_score_new": 0,
+            "cur_mid": "5226663893796553",
+            "user_name": "齐鲁晚报",
+            "h": 1280,
+            "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.590.590.50/002c6guQly8hksm8b8b64j60ge0geaal02.jpg?KID=imgbed,tva&Expires=1761689941&ssig=yitPHy8f8U",
+            "img_pid": "002c6guQly1i6rv5vvobzj60k00zkgni02",
+            "video_url": "https://video.weibo.com/show?fid=1034:5226663232077856"
+          },
+          {
+            "click_rate": 0.16666666666667,
+            "w": 3024,
+            "doc_score": 2852,
+            "img": "http://wx4.sinaimg.cn/middle/7425e879ly1i6saqei5sbj22c0340hdu.jpg",
+            "type": "p",
+            "vtype": 0,
+            "scheme": "sinaweibo://multimedia?mix_mid=5226799798948193&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=2&multi_count=0",
+            "hit_score_final": 57.621483,
+            "hit_score_new": 53.369141,
+            "cur_mid": "5226799798948193",
+            "user_name": "一朵_Dora",
+            "h": 4032,
+            "user_avatar": "https://tva2.sinaimg.cn/crop.0.0.1241.1241.50/7425e879jw8etrm6by2rqj20yi0yhwh5.jpg?KID=imgbed,tva&Expires=1761689941&ssig=EzmlGTTfTe",
+            "img_pid": "7425e879ly1i6saqei5sbj22c0340hdu",
+            "video_url": ""
+          },
+          {
+            "click_rate": 0,
+            "w": 720,
+            "doc_score": 2352,
+            "img": "http://wx3.sinaimg.cn/middle/006TYMNUly1i6l48dqxp5j30k00zktc3.jpg",
+            "type": "v",
+            "vtype": 0,
+            "scheme": "sinaweibo://video/vvs?mid=5224548800659599&multi_paragraph=3&multi_count=0",
+            "hit_score_final": 51.864845,
+            "hit_score_new": 52.441406,
+            "cur_mid": "5224548800659599",
+            "user_name": "桃树下有个李子",
+            "h": 1280,
+            "user_avatar": "https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/006TYMNUly8hv6rr2n5zmj30u00u0dia.jpg?KID=imgbed,tva&Expires=1761689941&ssig=ngKlHrwWfE",
+            "img_pid": "006TYMNUly1i6l48dqxp5j30k00zktc3",
+            "video_url": "https://video.weibo.com/show?fid=1034:5224548543692902"
+          },
+          {
+            "click_rate": 0,
+            "w": 720,
+            "doc_score": 0,
+            "img": "http://wx1.sinaimg.cn/middle/002c6guQly1i6rv5vvobzj60k00zkgni02.jpg",
+            "type": "v",
+            "vtype": 3,
+            "scheme": "sinaweibo://video/vvs?mid=5226663893796553&multi_paragraph=1&multi_count=0",
+            "hit_score_final": 0,
+            "hit_score_new": 0,
+            "cur_mid": "5226663893796553",
+            "user_name": "齐鲁晚报",
+            "h": 1280,
+            "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.590.590.50/002c6guQly8hksm8b8b64j60ge0geaal02.jpg?KID=imgbed,tva&Expires=1761689941&ssig=yitPHy8f8U",
+            "img_pid": "002c6guQly1i6rv5vvobzj60k00zkgni02",
+            "video_url": "https://video.weibo.com/show?fid=1034:5226663232077856"
+          }
+        ]
+      },
+      "share_card_multimodal": {
+        "click_rate": 0,
+        "w": 720,
+        "doc_score": 0,
+        "img": "http://wx1.sinaimg.cn/middle/002c6guQly1i6rv5vvobzj60k00zkgni02.jpg",
+        "type": "v",
+        "vtype": 3,
+        "scheme": "sinaweibo://video/vvs?mid=5226663893796553&multi_paragraph=1&multi_count=0",
+        "hit_score_final": 0,
+        "hit_score_new": 0,
+        "cur_mid": "5226663893796553",
+        "user_name": "齐鲁晚报",
+        "h": 1280,
+        "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.590.590.50/002c6guQly8hksm8b8b64j60ge0geaal02.jpg?KID=imgbed,tva&Expires=1761689941&ssig=yitPHy8f8U",
+        "img_pid": "002c6guQly1i6rv5vvobzj60k00zkgni02",
+        "video_url": "https://video.weibo.com/show?fid=1034:5226663232077856"
+      },
+      "share_text": "#济南市民排百米长队买奶皮子糖葫芦#的相关内容，来智搜看看",
+      "msg_json": "{}",
+      "user_info": {},
+      "zs_risk_control": {
+        "think_text_close": 0,
+        "land_button_close": 0
+      },
+      "short_url": "http://t.cn/AXwsEg20",
+      "ext_show": {},
+      "version": "2025-10-29 03:19:01.035000-4654",
+      "show_ctrl": {
+        "quote": {}
+      },
+      "abtest_info": {
+        "chat_entrance": 1
+      },
+      "basemodel": "实验组2",
+      "loop_times": 200,
+      "share_info": {
+        "url": "http://t.cn/AXwsm69P",
+        "tips": "#济南市民排百米长队买奶皮子糖葫芦#的相关内容，来智搜看看",
+        "display_name": "#济南市民排百米长队买奶皮子糖葫芦#",
+        "page_id": "232964c0f11a98ce3a4c18d22acb7d4869241e",
+        "unify_md5": "09ff73396fac1aa461e322c26a42caab",
+        "status": 3
+      },
+      "unify_md5": "09ff73396fac1aa461e322c26a42caab",
+      "qs_status": 0,
+      "chat_status_stage": 1,
+      "page_id": "232964c0f11a98ce3a4c18d22acb7d4869241e",
+      "ab_suffix": "default",
+      "query_field": "7",
+      "q_attr": {
+        "from_uid": "",
+        "from_request_id": ""
+      },
+      "wenda": {
+        "forward_gen": 0
+      },
+      "query": "#济南市民排百米长队买奶皮子糖葫芦#",
+      "sorted_material_list": null,
+      "status": 2,
+      "cot": 1,
+      "query_category": "",
+      "scheme": "sinaweibo://cardlist?containerid=100103type%3D225%26q%3D%23%E6%B5%8E%E5%8D%97%E5%B8%82%E6%B0%91%E6%8E%92%E7%99%BE%E7%B1%B3%E9%95%BF%E9%98%9F%E4%B9%B0%E5%A5%B6%E7%9A%AE%E5%AD%90%E7%B3%96%E8%91%AB%E8%8A%A6%23%26t%3D&extparam=ai_model%3Ddeepseek%26ori_ai_title%3D%E5%8F%82%E8%80%83%E5%8D%9A%E6%96%87%26material_version%3D1761679141",
+      "current_time": 1761679620,
+      "analysis_time": 1761679406,
+      "msg_format": "markdown",
+      "qs_status_info": "{\"qs_status\":0,\"qs_c_status\":8388608,\"qs_r_status\":0,\"qs_q_status\":0,\"qs_u_status\":0,\"ab_lab\":{}}",
+      "msg": "<think><br><br>嗯，用户输入了一个关于\"济南市民排百米长队买奶皮子糖葫芦\"的查询，并给了一堆搜索结果。需要基于这些搜索结果来整理答案。<br><br>先看看搜索结果中有什么关键信息。结果1提到济南大观园的李记冰糖葫芦店有消费者排队购买冷萃酸奶奶皮子糖葫芦，在唐冶的一家店外队伍甚至达到百米长。这是齐鲁晚报的报道，可信度高。<br><br>价格方面，结果2、6和11都提到奶皮子糖葫芦卖到40元一串，这个价格引发了讨论。结果6详细解释了价格高的原因：奶皮子原料需要8-10斤鲜奶才能熬1斤，成本较高。<br><br>口味评价在结果13中非常详细，是一位亲自体验过的消费者分享的。他说基础款山楂奶皮子25元，咬下去有脆糖壳碎裂感，奶皮子软乎乎带奶香，山楂的酸味中和了甜腻。但46元的晴王葡萄款就太甜了，盖过了奶皮子香味。<br><br>结果14则分享了在家复制的经验，成本只要8元左右，还避免了排队辛苦。结果5和6提到全国多地都出现类似排队现象，杭州日售4000串，南京甚至出现200元代排服务。<br><br>结果7分析了爆火原因，包括三重口感的创新、短视频传播的推动、以及年轻人将其视为社交货币。结果21也提到话题阅读量超3亿。<br><br>对于争议点，结果5提到南京摊主\"燃姐\"否认了\"月入几十万\"的传言，结果6则记录了消费者\"糖葫芦刺客\"的吐槽。<br><br>时效性方面，今天是2025年10月29日，大部分结果都是10月26-28日的，很新。只有结果27和29是2024年的，可能不太相关。<br><br>在组织回答时，考虑将内容分为几个部分：现象描述、价格分析、口味体验、爆火原因、争议质疑和理性建议。准备重点突出25元基础款性价比高、46元葡萄款不值的对比，以及\"三重口感\"这个创新点。最后给出选择基础款、避开高峰、警惕黄牛等实用建议，并提一下在家复制的可能性。<br><br>会在回复时引用搜索结果作为支持，但不会堆砌账号信息或直接复制内容，而是整合成连贯的叙述。关键数据如价格、排队时间、销量等都会准确呈现。<br><br></think><br>### 🍡 济南奶皮子糖葫芦爆火现象解析<br>#### 🔥 **一、现象级排队热潮**  <br>1. **济南排队盛况**  <br>   - **大观园“李记冰糖葫芦”**：10月26日傍晚，消费者排队超40分钟购买冷萃酸奶奶皮子糖葫芦，工作日高峰时段队伍仍超十余人。```wbCustomBlock{\"type\": \"quoted\", \"index\": 5, \"data\": {\"num\": [1, 17], \"version\": 2, \"quote_list\": [{\"name\": \"齐鲁晚报\", \"scheme\": \"sinaweibo://detail?mblogid=5226663893796553\", \"index\": 1, \"label\": \"大v\"}, {\"name\": \"时视频\", \"scheme\": \"sinaweibo://detail?mblogid=5226857274542880\", \"index\": 17, \"label\": \"\"}], \"name\": \"齐鲁晚报\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.590.590.50/002c6guQly8hksm8b8b64j60ge0geaal02.jpg?KID=imgbed,tva&Expires=1761689941&ssig=yitPHy8f8U\", \"scheme\": \"sinaweibo://detail?mblogid=5226663893796553\", \"vType\": 3}}```  <br>   - **唐冶糖葫芦店**：周末队伍长达百米，部分顾客为子女尝鲜甘愿长时间等候。```wbCustomBlock{\"type\": \"quoted\", \"index\": 6, \"data\": {\"num\": [1, 13], \"version\": 2, \"quote_list\": [{\"name\": \"齐鲁晚报\", \"scheme\": \"sinaweibo://detail?mblogid=5226663893796553\", \"index\": 1, \"label\": \"\"}, {\"name\": \"墨染半笺清欢\", \"scheme\": \"sinaweibo://detail?mblogid=5226894060684942\", \"index\": 13, \"label\": \"\"}]}}```  <br>   - **全国蔓延**：杭州门店限购仍日售4000串，南京现“200元代排”服务，哈尔滨顾客排队2小时。<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5226663893796553&multi_paragraph=1&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.590.590.50/002c6guQly8hksm8b8b64j60ge0geaal02.jpg?KID=imgbed,tva&Expires=1761689941&ssig=yitPHy8f8U) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">齐鲁晚报</span><img src=\"http://wx1.sinaimg.cn/middle/002c6guQly1i6rv5vvobzj60k00zkgni02.jpg\" data-width=1280 data-height=720></div></media-block><br>#### 💰 **二、高价争议与消费两极分化**  <br>1. **定价阶梯**  <br>   - **基础款（山楂/草莓）**：25-35元/串，叠加奶皮子后溢价明显（传统糖葫芦约3-15元）。```wbCustomBlock{\"type\": \"quoted\", \"index\": 10, \"data\": {\"num\": [13], \"version\": 2, \"quote_list\": [{\"name\": \"墨染半笺清欢\", \"scheme\": \"sinaweibo://detail?mblogid=5226894060684942\", \"index\": 13, \"label\": \"\"}]}}```  <br>   - **高阶款（晴王葡萄+炒米）**：40-46元/串，被吐槽“糖葫芦刺客”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 11, \"data\": {\"num\": [23], \"version\": 2, \"quote_list\": [{\"name\": \"一朵_Dora\", \"scheme\": \"sinaweibo://detail?mblogid=5226799798948193\", \"index\": 23, \"label\": \"大v\"}], \"name\": \"一朵_Dora\", \"img\": \"https://tva2.sinaimg.cn/crop.0.0.1241.1241.50/7425e879jw8etrm6by2rqj20yi0yhwh5.jpg?KID=imgbed,tva&Expires=1761689941&ssig=EzmlGTTfTe\", \"scheme\": \"sinaweibo://detail?mblogid=5226799798948193\", \"vType\": 0}}```  <br>2. **消费者评价**  <br>   - **支持派**：赞三重口感——脆糖衣+绵密奶皮子+果酸，称“奶香中和甜腻，比传统款丰富”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 13, \"data\": {\"num\": [13, 17], \"version\": 2, \"quote_list\": [{\"name\": \"时视频\", \"scheme\": \"sinaweibo://detail?mblogid=5226857274542880\", \"index\": 17, \"label\": \"大v\"}, {\"name\": \"墨染半笺清欢\", \"scheme\": \"sinaweibo://detail?mblogid=5226894060684942\", \"index\": 13, \"label\": \"\"}], \"name\": \"时视频\", \"img\": \"https://tvax4.sinaimg.cn/crop.261.246.600.600.50/006Dv8Kdly8gw92blwkqlj30u00u0wet.jpg?KID=imgbed,tva&Expires=1761689941&ssig=19BCZ9hLEz\", \"scheme\": \"sinaweibo://detail?mblogid=5226857274542880\", \"vType\": 3}}```  <br>   - **质疑派**：认为高价不合理（如晴王葡萄款过甜喧宾夺主），性价比低。```wbCustomBlock{\"type\": \"quoted\", \"index\": 14, \"data\": {\"num\": [13, 14], \"version\": 2, \"quote_list\": [{\"name\": \"脆皮奶团子\", \"scheme\": \"sinaweibo://detail?mblogid=5226890710221049\", \"index\": 14, \"label\": \"大v\"}, {\"name\": \"墨染半笺清欢\", \"scheme\": \"sinaweibo://detail?mblogid=5226894060684942\", \"index\": 13, \"label\": \"\"}], \"name\": \"脆皮奶团子\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/008AR5Jkly8hxyomkxqz6j30u00u00xu.jpg?KID=imgbed,tva&Expires=1761689941&ssig=BkP4EawpMc\", \"scheme\": \"sinaweibo://detail?mblogid=5226890710221049\", \"vType\": 0}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5226799798948193&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=2&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tva2.sinaimg.cn/crop.0.0.1241.1241.50/7425e879jw8etrm6by2rqj20yi0yhwh5.jpg?KID=imgbed,tva&Expires=1761689941&ssig=EzmlGTTfTe) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">一朵_Dora</span><img src=\"http://wx4.sinaimg.cn/middle/7425e879ly1i6saqei5sbj22c0340hdu.jpg\" data-width=4032 data-height=3024></div></media-block><br>#### 🥛 **三、产品创新与走红逻辑**  <br>1. **口感与文化融合**  <br>   - **工艺特色**：内蒙古非遗奶皮子（8-10斤鲜奶熬1斤）叠加糖衣脆壳，形成“脆→醇厚奶香→果酸”层次。```wbCustomBlock{\"type\": \"quoted\", \"index\": 17, \"data\": {\"num\": [9], \"version\": 2, \"quote_list\": [{\"name\": \"内蒙古青年\", \"scheme\": \"sinaweibo://detail?mblogid=5226753464730556\", \"index\": 9, \"label\": \"大v\"}], \"name\": \"内蒙古青年\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.1023.1023.50/91922131ly8h8vgjy66xlj20sf0sfaba.jpg?KID=imgbed,tva&Expires=1761689941&ssig=gijn1QSE7w\", \"scheme\": \"sinaweibo://detail?mblogid=5226753464730556\", \"vType\": 1}}```  <br>   - **创新变体**：冷萃酸奶、炒米、糯米等添加丰富口感，晴王款成打卡道具。```wbCustomBlock{\"type\": \"quoted\", \"index\": 18, \"data\": {\"num\": [24], \"version\": 2, \"quote_list\": [{\"name\": \"桃树下有个李子\", \"scheme\": \"sinaweibo://detail?mblogid=5224548800659599\", \"index\": 24, \"label\": \"大v\"}], \"name\": \"桃树下有个李子\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/006TYMNUly8hv6rr2n5zmj30u00u0dia.jpg?KID=imgbed,tva&Expires=1761689941&ssig=ngKlHrwWfE\", \"scheme\": \"sinaweibo://detail?mblogid=5224548800659599\", \"vType\": 0}}```  <br>2. **社交传播推力**  <br>   - 短视频展示制作过程（如拉丝奶皮子）触发全网模仿，话题阅读量超3亿。```wbCustomBlock{\"type\": \"quoted\", \"index\": 20, \"data\": {\"num\": [21], \"version\": 2, \"quote_list\": [{\"name\": \"KiKu_爱与陪伴一直在\", \"scheme\": \"sinaweibo://detail?mblogid=5226860889768421\", \"index\": 21, \"label\": \"\"}]}}```  <br>   - 年轻人视“排队晒照”为入冬仪式感，赋予其“社交货币”属性。```wbCustomBlock{\"type\": \"quoted\", \"index\": 21, \"data\": {\"num\": [21], \"version\": 2, \"quote_list\": [{\"name\": \"KiKu_爱与陪伴一直在\", \"scheme\": \"sinaweibo://detail?mblogid=5226860889768421\", \"index\": 21, \"label\": \"\"}]}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5224548800659599&multi_paragraph=3&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/006TYMNUly8hv6rr2n5zmj30u00u0dia.jpg?KID=imgbed,tva&Expires=1761689941&ssig=ngKlHrwWfE) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">桃树下有个李子</span><img src=\"http://wx3.sinaimg.cn/middle/006TYMNUly1i6l48dqxp5j30k00zktc3.jpg\" data-width=1280 data-height=720></div></media-block><br>#### ⚠️ **四、争议与隐忧**  <br>1. **市场乱象**  <br>   - 黄牛加价倒卖、代排服务扰乱秩序，南京因人流过大暂停出摊。  <br>   - 部分店铺品控不稳：奶皮子变硬“像嚼橡皮”，糖衣易融化粘连。```wbCustomBlock{\"type\": \"quoted\", \"index\": 25, \"data\": {\"num\": [14], \"version\": 2, \"quote_list\": [{\"name\": \"脆皮奶团子\", \"scheme\": \"sinaweibo://detail?mblogid=5226890710221049\", \"index\": 14, \"label\": \"\"}]}}```  <br>2. **可持续性质疑**  <br>   - 高定价复购率低，类比“钟薛高”式短暂网红。```wbCustomBlock{\"type\": \"quoted\", \"index\": 27, \"data\": {\"num\": [12], \"version\": 2, \"quote_list\": [{\"name\": \"股市安吉拉\", \"scheme\": \"sinaweibo://detail?mblogid=5226809194710714\", \"index\": 12, \"label\": \"大v\"}], \"name\": \"股市安吉拉\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/6fa97eb5ly8hbr6ophonpj20u00u00up.jpg?KID=imgbed,tva&Expires=1761689941&ssig=byzyqsItdC\", \"scheme\": \"sinaweibo://detail?mblogid=5226809194710714\", \"vType\": 0}}```  <br>   - 商家产能不足（奶皮子需每日空运），口碑依赖手工现做。<br>#### 💡 **五、理性消费建议**  <br>1. **选择性价比款**：25元山楂基础款口感平衡，高价创新款慎选。```wbCustomBlock{\"type\": \"quoted\", \"index\": 30, \"data\": {\"num\": [13], \"version\": 2, \"quote_list\": [{\"name\": \"墨染半笺清欢\", \"scheme\": \"sinaweibo://detail?mblogid=5226894060684942\", \"index\": 13, \"label\": \"\"}]}}```  <br>2. **错峰购买**：工作日下午5点前排队可减少20分钟。```wbCustomBlock{\"type\": \"quoted\", \"index\": 31, \"data\": {\"num\": [13], \"version\": 2, \"quote_list\": [{\"name\": \"墨染半笺清欢\", \"scheme\": \"sinaweibo://detail?mblogid=5226894060684942\", \"index\": 13, \"label\": \"\"}]}}```  <br>3. **警惕代排陷阱**：加价50元免排队服务不划算，现场秩序混乱。```wbCustomBlock{\"type\": \"quoted\", \"index\": 32, \"data\": {\"num\": [13], \"version\": 2, \"quote_list\": [{\"name\": \"墨染半笺清欢\", \"scheme\": \"sinaweibo://detail?mblogid=5226894060684942\", \"index\": 13, \"label\": \"\"}]}}```  <br>4. **尝试家庭复刻**：普通奶皮子碎+水果裹糖浆，成本约8元/串。```wbCustomBlock{\"type\": \"quoted\", \"index\": 33, \"data\": {\"num\": [14], \"version\": 2, \"quote_list\": [{\"name\": \"脆皮奶团子\", \"scheme\": \"sinaweibo://detail?mblogid=5226890710221049\", \"index\": 14, \"label\": \"\"}]}}```  <br><br>> **总结**：奶皮子糖葫芦的爆火是“传统小吃微创新+短视频裂变+冬季限定社交仪式”的共同结果。其本质仍是糖葫芦，尝鲜需理性，莫为“打卡滤镜”透支体验。能否从网红变长红，取决于商家对品质的坚守与溢价合理性的平衡。```wbCustomBlock{\"type\": \"quoted\", \"index\": 34, \"data\": {\"num\": [12, 14], \"version\": 2, \"quote_list\": [{\"name\": \"股市安吉拉\", \"scheme\": \"sinaweibo://detail?mblogid=5226809194710714\", \"index\": 12, \"label\": \"\"}, {\"name\": \"脆皮奶团子\", \"scheme\": \"sinaweibo://detail?mblogid=5226890710221049\", \"index\": 14, \"label\": \"\"}]}}```<br>",
+      "uid": "",
+      "link_list": [
+        "sinaweibo://detail?mblogid=5226663893796553",
+        "sinaweibo://detail?mblogid=5226830978357225",
+        "broadsocial_res://",
+        "broadsocial_res://",
+        "historyweibo://5226424051962062",
+        "historyweibo://5226744483416875",
+        "historyweibo://5226483389562958",
+        "sinaweibo://detail?mblogid=5226856321128885",
+        "sinaweibo://detail?mblogid=5226753464730556",
+        "sinaweibo://detail?mblogid=5225959915524874",
+        "sinaweibo://detail?mblogid=5226830177241659",
+        "sinaweibo://detail?mblogid=5226809194710714",
+        "sinaweibo://detail?mblogid=5226894060684942",
+        "sinaweibo://detail?mblogid=5226890710221049",
+        "sinaweibo://detail?mblogid=5226871227683950",
+        "sinaweibo://detail?mblogid=5226870727773370",
+        "sinaweibo://detail?mblogid=5226857274542880",
+        "sinaweibo://detail?mblogid=5226855149863157",
+        "sinaweibo://detail?mblogid=5226752638452341",
+        "sinaweibo://detail?mblogid=5226683097682665",
+        "sinaweibo://detail?mblogid=5226860889768421",
+        "sinaweibo://detail?mblogid=5225908654835955",
+        "sinaweibo://detail?mblogid=5226799798948193",
+        "sinaweibo://detail?mblogid=5224548800659599",
+        "sinaweibo://detail?mblogid=5226821341938376",
+        "sinaweibo://detail?mblogid=5225297956044827",
+        "sinaweibo://detail?mblogid=5112279136211973",
+        "sinaweibo://detail?mblogid=5225286232967419",
+        "sinaweibo://detail?mblogid=5108146928617669"
+      ]
+    }
+  },
+  "links": [
+    "sinaweibo://detail?mblogid=5226663893796553",
+    "sinaweibo://detail?mblogid=5226830978357225",
+    "broadsocial_res://",
+    "broadsocial_res://",
+    "historyweibo://5226424051962062",
+    "historyweibo://5226744483416875",
+    "historyweibo://5226483389562958",
+    "sinaweibo://detail?mblogid=5226856321128885",
+    "sinaweibo://detail?mblogid=5226753464730556",
+    "sinaweibo://detail?mblogid=5225959915524874",
+    "sinaweibo://detail?mblogid=5226830177241659",
+    "sinaweibo://detail?mblogid=5226809194710714",
+    "sinaweibo://detail?mblogid=5226894060684942",
+    "sinaweibo://detail?mblogid=5226890710221049",
+    "sinaweibo://detail?mblogid=5226871227683950",
+    "sinaweibo://detail?mblogid=5226870727773370",
+    "sinaweibo://detail?mblogid=5226857274542880",
+    "sinaweibo://detail?mblogid=5226855149863157",
+    "sinaweibo://detail?mblogid=5226752638452341",
+    "sinaweibo://detail?mblogid=5226683097682665",
+    "sinaweibo://detail?mblogid=5226860889768421",
+    "sinaweibo://detail?mblogid=5225908654835955",
+    "sinaweibo://detail?mblogid=5226799798948193",
+    "sinaweibo://detail?mblogid=5224548800659599",
+    "sinaweibo://detail?mblogid=5226821341938376",
+    "sinaweibo://detail?mblogid=5225297956044827",
+    "sinaweibo://detail?mblogid=5112279136211973",
+    "sinaweibo://detail?mblogid=5225286232967419",
+    "sinaweibo://detail?mblogid=5108146928617669"
+  ],
+  "media": [
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/002c6guQly1i6rv5vvobzj60k00zkgni02.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/002c6guQly1i6rv5vvobzj60k00zkgni02.jpg",
+      "alt": "齐鲁晚报",
+      "width": 1280,
+      "height": 720,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/002c6guQly1i6rv5vvobzj60k00zkgni02.jpg"
+      ],
+      "user": "齐鲁晚报"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/7425e879ly1i6saqei5sbj22c0340hdu.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/7425e879ly1i6saqei5sbj22c0340hdu.jpg",
+      "alt": "一朵_Dora",
+      "width": 4032,
+      "height": 3024,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/7425e879ly1i6saqei5sbj22c0340hdu.jpg"
+      ],
+      "user": "一朵_Dora"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/006TYMNUly1i6l48dqxp5j30k00zktc3.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/006TYMNUly1i6l48dqxp5j30k00zktc3.jpg",
+      "alt": "桃树下有个李子",
+      "width": 1280,
+      "height": 720,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/006TYMNUly1i6l48dqxp5j30k00zktc3.jpg"
+      ],
+      "user": "桃树下有个李子"
+    }
+  ],
+  "html_path": "data/aicard/hourly/2025-10-29/03/topic-09ff7339.html"
+}

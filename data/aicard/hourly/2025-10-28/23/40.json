@@ -1,0 +1,401 @@
+{
+  "meta": {
+    "query": "#奶皮子糖葫芦卖到40元一串#",
+    "status_code": 200,
+    "fetched_at": "2025-10-28T23:38:06+08:00",
+    "response": {
+      "mid_list": null,
+      "reference_num": 42,
+      "query_category": "",
+      "status_stage": 4,
+      "link_list": [
+        "sinaweibo://detail?mblogid=5226744483416875",
+        "sinaweibo://detail?mblogid=5226805600719779",
+        "sinaweibo://detail?mblogid=5226772492980324",
+        "sinaweibo://detail?mblogid=5226821341938376",
+        "sinaweibo://detail?mblogid=5226816504857148",
+        "sinaweibo://detail?mblogid=5226663893796553",
+        "sinaweibo://detail?mblogid=5226483389562958",
+        "sinaweibo://detail?mblogid=5226653569516787",
+        "sinaweibo://detail?mblogid=5226833982783844",
+        "sinaweibo://detail?mblogid=5226839876311911",
+        "sinaweibo://detail?mblogid=5224549090331123",
+        "sinaweibo://detail?mblogid=5226768484535971",
+        "sinaweibo://detail?mblogid=5226807579115739",
+        "broadsocial_res://",
+        "historyweibo://5226744483416875",
+        "historyweibo://5225620332089899",
+        "historyweibo://5226424051962062",
+        "sinaweibo://detail?mblogid=5226818317847714",
+        "sinaweibo://detail?mblogid=5226797035684235",
+        "sinaweibo://detail?mblogid=5226830978357225",
+        "sinaweibo://detail?mblogid=5226820708599304",
+        "sinaweibo://detail?mblogid=5226829686243577",
+        "sinaweibo://detail?mblogid=5226844173369840",
+        "sinaweibo://detail?mblogid=5226849263161054",
+        "sinaweibo://detail?mblogid=5226835640058760",
+        "sinaweibo://detail?mblogid=5226821621645802",
+        "sinaweibo://detail?mblogid=5226827285268920",
+        "sinaweibo://detail?mblogid=5226851607774203",
+        "sinaweibo://detail?mblogid=5226769068069902",
+        "sinaweibo://detail?mblogid=5226806538146483",
+        "sinaweibo://detail?mblogid=5226797153387044",
+        "sinaweibo://detail?mblogid=5226765116244703",
+        "sinaweibo://detail?mblogid=5226799798948193",
+        "sinaweibo://detail?mblogid=5226863406351918",
+        "sinaweibo://detail?mblogid=5226814692657023",
+        "sinaweibo://detail?mblogid=5226828391517613",
+        "sinaweibo://detail?mblogid=5226769323656380",
+        "sinaweibo://detail?mblogid=5226807315926774",
+        "sinaweibo://detail?mblogid=5226809673388307",
+        "sinaweibo://detail?mblogid=5226810360206845",
+        "sinaweibo://detail?mblogid=5225627301973560",
+        "sinaweibo://detail?mblogid=5224828596389631",
+        "sinaweibo://detail?mblogid=5226747425459578",
+        "sinaweibo://detail?mblogid=5226114424242513",
+        "sinaweibo://detail?mblogid=5225061919233642",
+        "sinaweibo://detail?mblogid=4691817846801863"
+      ],
+      "analysis_time": 1761665787,
+      "top_quote_list": {},
+      "card_multimodal": {
+        "type": "mediablock",
+        "data": [
+          {
+            "scheme": "sinaweibo://video/vvs?mid=5226653569516787&multi_paragraph=1&multi_count=0",
+            "img": "http://wx3.sinaimg.cn/middle/532f80ebly1i6rtyf3nw0j20zk0k0acl.jpg",
+            "hit_score_final": 68.708984,
+            "cur_mid": "5226653569516787",
+            "type": "v",
+            "w": 1280,
+            "vtype": 3,
+            "user_avatar": "https://tvax4.sinaimg.cn/crop.0.0.600.600.50/532f80ebly8hcoorptl3xj20go0gojs1.jpg?KID=imgbed,tva&Expires=1761676413&ssig=nUSAckHgh0",
+            "user_name": "浙江经视",
+            "video_url": "https://video.weibo.com/show?fid=1034:5226653261955091",
+            "h": 720,
+            "click_rate": 0,
+            "hit_score_new": 61.181641,
+            "doc_score": 3821,
+            "img_pid": "532f80ebly1i6rtyf3nw0j20zk0k0acl"
+          },
+          {
+            "scheme": "sinaweibo://video/vvs?mid=5226772492980324&multi_paragraph=1&multi_count=1",
+            "img": "http://wx1.sinaimg.cn/middle/008eSizIly1i6s7dgew68j30k00zkmyo.jpg",
+            "hit_score_final": 91.814064,
+            "cur_mid": "5226772492980324",
+            "type": "v",
+            "w": 720,
+            "vtype": 0,
+            "user_avatar": "https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/008eSizIly8hbn02nye15j30u00u0q56.jpg?KID=imgbed,tva&Expires=1761676413&ssig=RyxBz9rymT",
+            "user_name": "海那个角",
+            "video_url": "https://video.weibo.com/show?fid=1034:5226770115526717",
+            "h": 1280,
+            "click_rate": 0,
+            "hit_score_new": 99.023438,
+            "doc_score": 5952,
+            "img_pid": "008eSizIly1i6s7dgew68j30k00zkmyo"
+          },
+          {
+            "scheme": "sinaweibo://video/vvs?mid=5226663893796553&multi_paragraph=1&multi_count=2",
+            "img": "http://wx1.sinaimg.cn/middle/002c6guQly1i6rv5vvobzj60k00zkgni02.jpg",
+            "hit_score_final": 80,
+            "cur_mid": "5226663893796553",
+            "type": "v",
+            "w": 720,
+            "vtype": 3,
+            "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.590.590.50/002c6guQly8hksm8b8b64j60ge0geaal02.jpg?KID=imgbed,tva&Expires=1761676413&ssig=9n8XIhqUYk",
+            "user_name": "齐鲁晚报",
+            "video_url": "https://video.weibo.com/show?fid=1034:5226663232077856",
+            "h": 1280,
+            "click_rate": 0,
+            "hit_score_new": 0,
+            "doc_score": 4534,
+            "img_pid": "002c6guQly1i6rv5vvobzj60k00zkgni02"
+          },
+          {
+            "scheme": "sinaweibo://video/vvs?mid=5226653569516787&multi_paragraph=1&multi_count=0",
+            "img": "http://wx3.sinaimg.cn/middle/532f80ebly1i6rtyf3nw0j20zk0k0acl.jpg",
+            "hit_score_final": 68.708984,
+            "cur_mid": "5226653569516787",
+            "type": "v",
+            "w": 1280,
+            "vtype": 3,
+            "user_avatar": "https://tvax4.sinaimg.cn/crop.0.0.600.600.50/532f80ebly8hcoorptl3xj20go0gojs1.jpg?KID=imgbed,tva&Expires=1761676413&ssig=nUSAckHgh0",
+            "user_name": "浙江经视",
+            "video_url": "https://video.weibo.com/show?fid=1034:5226653261955091",
+            "h": 720,
+            "click_rate": 0,
+            "hit_score_new": 61.181641,
+            "doc_score": 3821,
+            "img_pid": "532f80ebly1i6rtyf3nw0j20zk0k0acl"
+          }
+        ]
+      },
+      "share_card_multimodal": {
+        "scheme": "sinaweibo://video/vvs?mid=5226653569516787&multi_paragraph=1&multi_count=0",
+        "img": "http://wx3.sinaimg.cn/middle/532f80ebly1i6rtyf3nw0j20zk0k0acl.jpg",
+        "hit_score_final": 68.708984,
+        "cur_mid": "5226653569516787",
+        "type": "v",
+        "w": 1280,
+        "vtype": 3,
+        "user_avatar": "https://tvax4.sinaimg.cn/crop.0.0.600.600.50/532f80ebly8hcoorptl3xj20go0gojs1.jpg?KID=imgbed,tva&Expires=1761676413&ssig=nUSAckHgh0",
+        "user_name": "浙江经视",
+        "video_url": "https://video.weibo.com/show?fid=1034:5226653261955091",
+        "h": 720,
+        "click_rate": 0,
+        "hit_score_new": 61.181641,
+        "doc_score": 3821,
+        "img_pid": "532f80ebly1i6rtyf3nw0j20zk0k0acl"
+      },
+      "q_attr": {
+        "from_uid": "",
+        "from_request_id": ""
+      },
+      "user_info": {},
+      "zs_risk_control": {
+        "think_text_close": 0,
+        "land_button_close": 0
+      },
+      "ab_suffix": "default",
+      "msg_format": "markdown",
+      "show_ctrl": {
+        "quote": {}
+      },
+      "status": 2,
+      "msg_json": "{}",
+      "loop_times": 200,
+      "share_info": {
+        "url": "http://t.cn/AXAPp3xn",
+        "status": 3,
+        "unify_md5": "7ac57c55d7c194c68d71cd4494c8edbb",
+        "display_name": "#奶皮子糖葫芦卖到40元一串#",
+        "tips": "#奶皮子糖葫芦卖到40元一串#的相关内容，来智搜看看",
+        "page_id": "2329644b4f5bae58dc078c344e2299a5f93915"
+      },
+      "scheme": "sinaweibo://cardlist?containerid=100103type%3D225%26q%3D%23%E5%A5%B6%E7%9A%AE%E5%AD%90%E7%B3%96%E8%91%AB%E8%8A%A6%E5%8D%96%E5%88%B040%E5%85%83%E4%B8%80%E4%B8%B2%23%26t%3D&extparam=ai_model%3Ddeepseek%26ori_ai_title%3D%E5%8F%82%E8%80%83%E5%8D%9A%E6%96%87%26material_version%3D1761665613",
+      "uid": "",
+      "profile_image_url": "",
+      "query_field": "7",
+      "chat_status_stage": 1,
+      "news_analyze": {},
+      "reliable_tips": "{\"gold_orange_v_mids\": [\"5226772492980324\", \"5224828596389631\", \"5226820708599304\", \"5226835640058760\", \"5226863406351918\", \"5226821341938376\", \"5226849263161054\", \"5224549090331123\", \"5226765116244703\", \"5226769068069902\", \"5226807315926774\", \"5226816504857148\", \"5226806538146483\", \"5226805600719779\", \"5226483389562958\", \"5226839876311911\", \"5226807579115739\", \"5226818317847714\", \"5226797035684235\", \"5226830978357225\", \"5226829686243577\", \"5226844173369840\", \"5226821621645802\", \"5226851607774203\", \"5226797153387044\", \"5226799798948193\", \"5226814692657023\", \"5226828391517613\", \"5226769323656380\", \"5226809673388307\", \"5226810360206845\", \"5225627301973560\"], \"gold_orange_v_ratio\": \"76%\", \"media_mids\": [\"5226653569516787\", \"5226663893796553\", \"5226768484535971\", \"5226833982783844\"], \"media_ratio\": \"10%\", \"verified_mids\": [\"5226744483416875\", \"5226827285268920\", \"5226747425459578\"], \"verified_ratio\": \"7%\", \"normal_mids\": [\"5226114424242513\", \"5225061919233642\", \"4691817846801863\"], \"normal_ratio\": \"7%\", \"ref_mid_rank\": {\"5226653569516787\": {\"rank\": 8}, \"5226772492980324\": {\"rank\": 3}, \"5226663893796553\": {\"rank\": 6}, \"5226768484535971\": {\"rank\": 12}, \"5226744483416875\": {\"rank\": 1}, \"5224828596389631\": {\"rank\": 42}, \"5226820708599304\": {\"rank\": 21}, \"5226835640058760\": {\"rank\": 25}, \"5226827285268920\": {\"rank\": 27}, \"5226863406351918\": {\"rank\": 34}, \"5226821341938376\": {\"rank\": 4}, \"5226849263161054\": {\"rank\": 24}, \"5224549090331123\": {\"rank\": 11}, \"5226765116244703\": {\"rank\": 32}, \"5226769068069902\": {\"rank\": 29}, \"5226807315926774\": {\"rank\": 38}, \"5226816504857148\": {\"rank\": 5}, \"5226806538146483\": {\"rank\": 30}, \"5226805600719779\": {\"rank\": 2}, \"5226483389562958\": {\"rank\": 7}, \"5226833982783844\": {\"rank\": 9}, \"5226839876311911\": {\"rank\": 10}, \"5226807579115739\": {\"rank\": 13}, \"5226818317847714\": {\"rank\": 18}, \"5226797035684235\": {\"rank\": 19}, \"5226830978357225\": {\"rank\": 20}, \"5226829686243577\": {\"rank\": 22}, \"5226844173369840\": {\"rank\": 23}, \"5226821621645802\": {\"rank\": 26}, \"5226851607774203\": {\"rank\": 28}, \"5226797153387044\": {\"rank\": 31}, \"5226799798948193\": {\"rank\": 33}, \"5226814692657023\": {\"rank\": 35}, \"5226828391517613\": {\"rank\": 36}, \"5226769323656380\": {\"rank\": 37}, \"5226809673388307\": {\"rank\": 39}, \"5226810360206845\": {\"rank\": 40}, \"5225627301973560\": {\"rank\": 41}, \"5226747425459578\": {\"rank\": 43}, \"5226114424242513\": {\"rank\": 44}, \"5225061919233642\": {\"rank\": 45}, \"4691817846801863\": {\"rank\": 46}}}",
+      "version": "2025-10-28 23:33:33.023000-9668",
+      "wenda": {
+        "forward_gen": 0
+      },
+      "query": "#奶皮子糖葫芦卖到40元一串#",
+      "sorted_material_list": null,
+      "unify_md5": "7ac57c55d7c194c68d71cd4494c8edbb",
+      "msg": "<think><br>嗯，用户提供的搜索结果主要是关于奶皮子糖葫芦卖40元一串的现象，看起来这已经成为一个社会热点话题。用户可能想了解背后的原因、争议点以及市场反应，也可能是想评估这个价格是否合理。<br><br>从搜索结果来看，这个话题有几个关键维度值得梳理：价格争议的焦点（为什么卖这么贵）、全国爆火的现象（到底有多火）、商家解释的成本构成（成本真的高吗）、消费者两极分化的评价（值不值得买），以及行业反思（会不会是昙花一现）。<br><br>最核心的争论点在于价格。普通糖葫芦只要3-15元，加了奶皮子就跳到25-40元。商家解释是奶皮子原料紧缺（几十元一张）、水果涨价（尤其草莓）、租金和人工成本高——杭州有店员三天没睡觉赶制4000串，南京甚至出现200元代排费。但网友算账说一张奶皮子能做多串，折算后单串成本不该超15元，质疑溢价过度。<br><br>口感评价也很两极。有人赞三重口感惊艳（脆糖衣+酸果+醇厚奶皮），尤其冷萃酸奶款能平衡甜腻；但更多人吐槽甜腻齁嗓、性价比低。有意思的是，排队本身成了社交货币——哈尔滨有人排2小时觉得值，成都、济南的百米长队甚至催生黄牛产业。<br><br>更深层看，这是网红美食模式的典型缩影：创新混搭（非遗奶皮子+传统糖葫芦）+短视频传播（抖音话题超630万）+饥饿营销（断货、限购）。但风险在于，当年钟薛高就因类似高溢价翻车，现在商家试图用平价款（山楂糯米款15元）和优化口感（加炒米解腻）维持长期性。<br><br>最后想提醒用户，如果纯粹想尝鲜，可以找本地平价替代款；若享受打卡仪式感，排队时不妨带本书消磨时间——毕竟热度退潮后，能留下的终将是那些肯在口味上下功夫的店。<br><br></think><br>奶皮子糖葫芦以40元/串的高价成为现象级网红美食，其爆火与争议可从以下角度分析：<br>### 🔥 **一、爆火现象与市场热度**  <br>1. **全国性排队潮**  <br>   - **杭州**：门店单日销量达4000串，顾客排队1.5小时，商家需限购；队伍长达300米，店员每晚劝退队尾顾客。```wbCustomBlock{\"type\": \"quoted\", \"index\": 4, \"data\": {\"num\": [8], \"version\": 2, \"quote_list\": [{\"name\": \"浙江经视\", \"scheme\": \"sinaweibo://detail?mblogid=5226653569516787\", \"index\": 8, \"label\": \"大v\"}], \"name\": \"浙江经视\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.600.600.50/532f80ebly8hcoorptl3xj20go0gojs1.jpg?KID=imgbed,tva&Expires=1761676413&ssig=nUSAckHgh0\", \"scheme\": \"sinaweibo://detail?mblogid=5226653569516787\", \"vType\": 3}}```  <br>   - **南京**：移动摊位因排队超百人导致混乱，摊主暂停出摊后转型固定店铺；出现“200元代排费”服务。  <br>   - **哈尔滨**：起源店排队长达2小时，外地消费者求代购邮寄。```wbCustomBlock{\"type\": \"quoted\", \"index\": 6, \"data\": {\"num\": [3], \"version\": 2, \"quote_list\": [{\"name\": \"海那个角\", \"scheme\": \"sinaweibo://detail?mblogid=5226772492980324\", \"index\": 3, \"label\": \"\"}]}}```  <br>   - **成都/济南**：地铁站摊位排队1小时，济南出现“百米长队”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 7, \"data\": {\"num\": [6, 12], \"version\": 2, \"quote_list\": [{\"name\": \"齐鲁晚报\", \"scheme\": \"sinaweibo://detail?mblogid=5226663893796553\", \"index\": 6, \"label\": \"大v\"}, {\"name\": \"四川观察\", \"scheme\": \"sinaweibo://detail?mblogid=5226768484535971\", \"index\": 12, \"label\": \"\"}], \"name\": \"齐鲁晚报\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.590.590.50/002c6guQly8hksm8b8b64j60ge0geaal02.jpg?KID=imgbed,tva&Expires=1761676413&ssig=9n8XIhqUYk\", \"scheme\": \"sinaweibo://detail?mblogid=5226663893796553\", \"vType\": 3}}```  <br><br>2. **价格争议焦点**  <br>   - **基础款**：普通草莓糖葫芦15元/串，添加奶皮子后涨至**25-35元**；**高阶款**（如草莓、晴王葡萄+炒米）达**40-46元/串**。```wbCustomBlock{\"type\": \"quoted\", \"index\": 9, \"data\": {\"num\": [1, 6, 42], \"version\": 2, \"quote_list\": [{\"name\": \"梨视频\", \"scheme\": \"sinaweibo://detail?mblogid=5226744483416875\", \"index\": 1, \"label\": \"大v\"}, {\"name\": \"齐鲁晚报\", \"scheme\": \"sinaweibo://detail?mblogid=5226663893796553\", \"index\": 6, \"label\": \"\"}, {\"name\": \"来一味灵丹妙药\", \"scheme\": \"sinaweibo://detail?mblogid=5224828596389631\", \"index\": 42, \"label\": \"\"}], \"name\": \"梨视频\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.600.600.50/006yllNVly8h8wegdfz5fj30go0gojru.jpg?KID=imgbed,tva&Expires=1761676413&ssig=eVLX0XtN6v\", \"scheme\": \"sinaweibo://detail?mblogid=5226744483416875\", \"vType\": 3}}```  <br>   - **商家解释**：奶皮子原料紧缺（几十元/张）、水果涨价、租金高，坦言“我也感觉贵，尝尝就行”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 10, \"data\": {\"num\": [1], \"version\": 2, \"quote_list\": [{\"name\": \"梨视频\", \"scheme\": \"sinaweibo://detail?mblogid=5226744483416875\", \"index\": 1, \"label\": \"\"}]}}```  <br>   - **消费者吐槽**：部分认为“口感一般”“性价比低”，甚至称“糖葫芦刺客”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 11, \"data\": {\"num\": [21, 25], \"version\": 2, \"quote_list\": [{\"name\": \"李玉儿聊车\", \"scheme\": \"sinaweibo://detail?mblogid=5226820708599304\", \"index\": 21, \"label\": \"大v\"}, {\"name\": \"小胖小胖人间宝藏\", \"scheme\": \"sinaweibo://detail?mblogid=5226835640058760\", \"index\": 25, \"label\": \"\"}], \"name\": \"李玉儿聊车\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/b4984967ly8i1s3kv6ydzj20u00u0gox.jpg?KID=imgbed,tva&Expires=1761676413&ssig=sxCyf6xFKC\", \"scheme\": \"sinaweibo://detail?mblogid=5226820708599304\", \"vType\": 0}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5226653569516787&multi_paragraph=1&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.600.600.50/532f80ebly8hcoorptl3xj20go0gojs1.jpg?KID=imgbed,tva&Expires=1761676413&ssig=nUSAckHgh0) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">浙江经视</span><img src=\"http://wx3.sinaimg.cn/middle/532f80ebly1i6rtyf3nw0j20zk0k0acl.jpg\" data-width=720 data-height=1280></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5226772492980324&multi_paragraph=1&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/008eSizIly8hbn02nye15j30u00u0q56.jpg?KID=imgbed,tva&Expires=1761676413&ssig=RyxBz9rymT) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">海那个角</span><img src=\"http://wx1.sinaimg.cn/middle/008eSizIly1i6s7dgew68j30k00zkmyo.jpg\" data-width=1280 data-height=720></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5226663893796553&multi_paragraph=1&multi_count=2\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.590.590.50/002c6guQly8hksm8b8b64j60ge0geaal02.jpg?KID=imgbed,tva&Expires=1761676413&ssig=9n8XIhqUYk) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">齐鲁晚报</span><img src=\"http://wx1.sinaimg.cn/middle/002c6guQly1i6rv5vvobzj60k00zkgni02.jpg\" data-width=1280 data-height=720></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5226768484535971&multi_paragraph=1&multi_count=3\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.600.600.50/beebff5fly8i6aou48o1nj20go0got9j.jpg?KID=imgbed,tva&Expires=1761676413&ssig=GLbKP4z6eP) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">四川观察</span><img src=\"http://wx2.sinaimg.cn/middle/beebff5fgy1i6s763s94yj20u01401kx.jpg\" data-width=1440 data-height=1080></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5226744483416875&multi_paragraph=1&multi_count=4\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.600.600.50/006yllNVly8h8wegdfz5fj30go0gojru.jpg?KID=imgbed,tva&Expires=1761676413&ssig=eVLX0XtN6v) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">梨视频</span><img src=\"http://wx2.sinaimg.cn/middle/006yllNVly1i6s4f4avwrj30k00zkq4u.jpg\" data-width=1280 data-height=720></div></media-block><br>### 🥛 **二、产品特色与走红逻辑**  <br>1. **创新口感与文化赋能**  <br>   - **三重口感**：脆糖衣+非遗奶皮子（8-10斤鲜奶熬1斤）+水果/冷萃酸奶，形成“脆→酸→醇厚奶香”层次。```wbCustomBlock{\"type\": \"quoted\", \"index\": 14, \"data\": {\"num\": [6, 27, 34], \"version\": 2, \"quote_list\": [{\"name\": \"央证公开课\", \"scheme\": \"sinaweibo://detail?mblogid=5226827285268920\", \"index\": 27, \"label\": \"大v\"}, {\"name\": \"齐鲁晚报\", \"scheme\": \"sinaweibo://detail?mblogid=5226663893796553\", \"index\": 6, \"label\": \"\"}, {\"name\": \"合肥看点\", \"scheme\": \"sinaweibo://detail?mblogid=5226863406351918\", \"index\": 34, \"label\": \"\"}], \"name\": \"央证公开课\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.1024.1024.50/002dwEfRly8h8wqydz3slj60sg0sggm802.jpg?KID=imgbed,tva&Expires=1761676413&ssig=5998JL%2B%2Fw%2F\", \"scheme\": \"sinaweibo://detail?mblogid=5226827285268920\", \"vType\": 3}}```  <br>   - **地域融合**：内蒙古奶皮子（察干伊德）赋予“草原奶香+市井烟火”文化符号。```wbCustomBlock{\"type\": \"quoted\", \"index\": 15, \"data\": {\"num\": [27], \"version\": 2, \"quote_list\": [{\"name\": \"央证公开课\", \"scheme\": \"sinaweibo://detail?mblogid=5226827285268920\", \"index\": 27, \"label\": \"\"}]}}```  <br><br>2. **社交传播推动爆火**  <br>   - 哈尔滨、杭州商家通过短视频展示制作过程，触发全国打卡潮，相关话题阅读量超3亿。  <br>   - 年轻人将排队购买视为“社交货币”，晒照成潮流仪式。```wbCustomBlock{\"type\": \"quoted\", \"index\": 18, \"data\": {\"num\": [4, 24], \"version\": 2, \"quote_list\": [{\"name\": \"夏说\", \"scheme\": \"sinaweibo://detail?mblogid=5226849263161054\", \"index\": 24, \"label\": \"大v\"}, {\"name\": \"不看电视看PPT\", \"scheme\": \"sinaweibo://detail?mblogid=5226821341938376\", \"index\": 4, \"label\": \"\"}], \"name\": \"夏说\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/87b903d9ly8i45owqm8f6j20u00u0q5u.jpg?KID=imgbed,tva&Expires=1761676413&ssig=8ep%2FKLkeBQ\", \"scheme\": \"sinaweibo://detail?mblogid=5226849263161054\", \"vType\": 0}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5226849263161054&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=2&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/87b903d9ly8i45owqm8f6j20u00u0q5u.jpg?KID=imgbed,tva&Expires=1761676413&ssig=8ep%2FKLkeBQ) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">夏说</span><img src=\"http://wx3.sinaimg.cn/middle/87b903d9ly1i6sggan6yxj23b04eo1ky.jpg\" data-width=5712 data-height=4284></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5226827285268920&multi_paragraph=2&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.1024.1024.50/002dwEfRly8h8wqydz3slj60sg0sggm802.jpg?KID=imgbed,tva&Expires=1761676413&ssig=5998JL%2B%2Fw%2F) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">央证公开课</span><img src=\"http://wx4.sinaimg.cn/middle/6b0e1e9dly1i6r2v8fa1ij20u01hcwin.jpg\" data-width=1920 data-height=1080></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5226863406351918&multi_paragraph=2&multi_count=2\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.180.180.50/ae3f50f0ly8gdk1luwpd5j2050050746.jpg?KID=imgbed,tva&Expires=1761676413&ssig=blkCuh7v%2F5) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">合肥看点</span><img src=\"http://wx4.sinaimg.cn/middle/ae3f50f0ly1i6si2s1vd2j20k00zkac3.jpg\" data-width=1280 data-height=720></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5226821341938376&multi_paragraph=2&multi_count=3\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/007BmjaQly8i3yicdwlnsj30u00u0gpe.jpg?KID=imgbed,tva&Expires=1761676413&ssig=T%2BFdsKJkNL) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">不看电视看PPT</span><img src=\"http://wx2.sinaimg.cn/middle/007BmjaQly1i6sd7yrzjpj30u01hcmzt.jpg\" data-width=1920 data-height=1080></div></media-block><br>### ⚠️ **三、争议与行业挑战**  <br>1. **衍生乱象**  <br>   - 黄牛加价倒卖、代排服务泛滥，扰乱市场秩序。  <br>   - 部分店铺因产能不足限购或停业，引发消费者不满。```wbCustomBlock{\"type\": \"quoted\", \"index\": 22, \"data\": {\"num\": [8], \"version\": 2, \"quote_list\": [{\"name\": \"浙江经视\", \"scheme\": \"sinaweibo://detail?mblogid=5226653569516787\", \"index\": 8, \"label\": \"\"}]}}```  <br><br>2. **可持续性质疑**  <br>   - **口感两极分化**：有人赞“奶香绵密”，也有人批“甜腻齁嗓”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 24, \"data\": {\"num\": [1, 3, 11, 32], \"version\": 2, \"quote_list\": [{\"name\": \"梨视频\", \"scheme\": \"sinaweibo://detail?mblogid=5226744483416875\", \"index\": 1, \"label\": \"\"}, {\"name\": \"海那个角\", \"scheme\": \"sinaweibo://detail?mblogid=5226772492980324\", \"index\": 3, \"label\": \"\"}, {\"name\": \"姩姩有元\", \"scheme\": \"sinaweibo://detail?mblogid=5224549090331123\", \"index\": 11, \"label\": \"\"}, {\"name\": \"幸运KIWI花花\", \"scheme\": \"sinaweibo://detail?mblogid=5226765116244703\", \"index\": 32, \"label\": \"\"}]}}```  <br>   - **高价合理性**：网友调侃“镶金子”，质疑创新是否支撑溢价；类比“钟薛高”模式，担忧热度退潮。```wbCustomBlock{\"type\": \"quoted\", \"index\": 25, \"data\": {\"num\": [25, 29, 38], \"version\": 2, \"quote_list\": [{\"name\": \"小胖小胖人间宝藏\", \"scheme\": \"sinaweibo://detail?mblogid=5226835640058760\", \"index\": 25, \"label\": \"大v\"}, {\"name\": \"财姥姥姥\", \"scheme\": \"sinaweibo://detail?mblogid=5226769068069902\", \"index\": 29, \"label\": \"\"}, {\"name\": \"彡色猫\", \"scheme\": \"sinaweibo://detail?mblogid=5226807315926774\", \"index\": 38, \"label\": \"\"}], \"name\": \"小胖小胖人间宝藏\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.1002.1002.50/66ffdd68ly8g3rp1sxftdj20ru0ruabl.jpg?KID=imgbed,tva&Expires=1761676413&ssig=LWSOKL%2Bodm\", \"scheme\": \"sinaweibo://detail?mblogid=5226835640058760\", \"vType\": 0}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5224549090331123&multi_paragraph=3&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/008sC3kfly8i6nmdsxlaij30u00u041n.jpg?KID=imgbed,tva&Expires=1761676413&ssig=zronOUdgmW) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">姩姩有元</span><img src=\"http://wx3.sinaimg.cn/middle/008sC3kfly1i6l49i616aj30k00zk40l.jpg\" data-width=1280 data-height=720></div></media-block><br>### 💎 **四、商家回应与未来趋势**  <br>1. **产能与品质平衡**  <br>   - 杭州商家“三天未休息”手工制作，拒为增量降质；```wbCustomBlock{\"type\": \"quoted\", \"index\": 28, \"data\": {\"num\": [8], \"version\": 2, \"quote_list\": [{\"name\": \"浙江经视\", \"scheme\": \"sinaweibo://detail?mblogid=5226653569516787\", \"index\": 8, \"label\": \"\"}]}}```  <br>   - 南京摊主澄清“月入几十万不实”，呼吁理性消费。  <br><br>2. **长期化可能性**  <br>   - 若深耕“口感创新+文化符号”，或成冬季长效IP；若忽视性价比，恐步沈阳同款“昙花一现”后尘。```wbCustomBlock{\"type\": \"quoted\", \"index\": 31, \"data\": {\"num\": [27, 29, 34], \"version\": 2, \"quote_list\": [{\"name\": \"财姥姥姥\", \"scheme\": \"sinaweibo://detail?mblogid=5226769068069902\", \"index\": 29, \"label\": \"大v\"}, {\"name\": \"央证公开课\", \"scheme\": \"sinaweibo://detail?mblogid=5226827285268920\", \"index\": 27, \"label\": \"\"}, {\"name\": \"合肥看点\", \"scheme\": \"sinaweibo://detail?mblogid=5226863406351918\", \"index\": 34, \"label\": \"\"}], \"name\": \"财姥姥姥\", \"img\": \"https://tva3.sinaimg.cn/crop.36.36.108.108.50/b88363d3gw1etu4qgjx4cj2050050q32.jpg?KID=imgbed,tva&Expires=1761676413&ssig=E6ER6%2Bpkgm\", \"scheme\": \"sinaweibo://detail?mblogid=5226769068069902\", \"vType\": 0}}```  <br><br>> 💡 **消费者提示**：尝鲜需理性，避免盲目跟风排队；关注本地平价替代款（如山楂糯米奶皮子15元/串），或尝试在家复刻。```wbCustomBlock{\"type\": \"quoted\", \"index\": 32, \"data\": {\"num\": [5, 30, 42], \"version\": 2, \"quote_list\": [{\"name\": \"圆圆圈圈圆圈呀\", \"scheme\": \"sinaweibo://detail?mblogid=5226816504857148\", \"index\": 5, \"label\": \"大v\"}, {\"name\": \"October乱讲话\", \"scheme\": \"sinaweibo://detail?mblogid=5226806538146483\", \"index\": 30, \"label\": \"\"}, {\"name\": \"来一味灵丹妙药\", \"scheme\": \"sinaweibo://detail?mblogid=5224828596389631\", \"index\": 42, \"label\": \"\"}], \"name\": \"圆圆圈圈圆圈呀\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/006324Uwly8hy30088cj6j30u00u0tai.jpg?KID=imgbed,tva&Expires=1761676413&ssig=nOrJYSCu0Y\", \"scheme\": \"sinaweibo://detail?mblogid=5226816504857148\", \"vType\": 0}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5226816504857148&multi_paragraph=4&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/006324Uwly8hy30088cj6j30u00u0tai.jpg?KID=imgbed,tva&Expires=1761676413&ssig=nOrJYSCu0Y) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">圆圆圈圈圆圈呀</span><img src=\"http://wx2.sinaimg.cn/middle/006324Uwly1i6scor8bo7j30k00qpdko.jpg\" data-width=961 data-height=720></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5226806538146483&multi_paragraph=4&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/008gh3ZSly8i5qxo130rej30u00u0jt5.jpg?KID=imgbed,tva&Expires=1761676413&ssig=Rh%2BUw82TdI) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">October乱讲话</span><img src=\"http://wx2.sinaimg.cn/middle/008gh3ZSgy1i6sbjk40w8j30k00qpai8.jpg\" data-width=961 data-height=720></div></media-block><br>",
+      "short_url": "http://t.cn/AXAP7iTd",
+      "basemodel": "实验组2",
+      "model": "deepseek",
+      "qs_status": 0,
+      "qs_status_info": "{\"qs_u_status\":0,\"qs_status\":0,\"ab_lab\":{},\"qs_q_status\":0,\"qs_c_status\":8388608,\"qs_r_status\":0}",
+      "share_text": "#奶皮子糖葫芦卖到40元一串#的相关内容，来智搜看看",
+      "page_id": "2329644b4f5bae58dc078c344e2299a5f93915",
+      "ext_show": {},
+      "cot": 1,
+      "current_time": 1761665887,
+      "abtest_info": {
+        "chat_entrance": 1
+      }
+    }
+  },
+  "links": [
+    "sinaweibo://detail?mblogid=5226744483416875",
+    "sinaweibo://detail?mblogid=5226805600719779",
+    "sinaweibo://detail?mblogid=5226772492980324",
+    "sinaweibo://detail?mblogid=5226821341938376",
+    "sinaweibo://detail?mblogid=5226816504857148",
+    "sinaweibo://detail?mblogid=5226663893796553",
+    "sinaweibo://detail?mblogid=5226483389562958",
+    "sinaweibo://detail?mblogid=5226653569516787",
+    "sinaweibo://detail?mblogid=5226833982783844",
+    "sinaweibo://detail?mblogid=5226839876311911",
+    "sinaweibo://detail?mblogid=5224549090331123",
+    "sinaweibo://detail?mblogid=5226768484535971",
+    "sinaweibo://detail?mblogid=5226807579115739",
+    "broadsocial_res://",
+    "historyweibo://5226744483416875",
+    "historyweibo://5225620332089899",
+    "historyweibo://5226424051962062",
+    "sinaweibo://detail?mblogid=5226818317847714",
+    "sinaweibo://detail?mblogid=5226797035684235",
+    "sinaweibo://detail?mblogid=5226830978357225",
+    "sinaweibo://detail?mblogid=5226820708599304",
+    "sinaweibo://detail?mblogid=5226829686243577",
+    "sinaweibo://detail?mblogid=5226844173369840",
+    "sinaweibo://detail?mblogid=5226849263161054",
+    "sinaweibo://detail?mblogid=5226835640058760",
+    "sinaweibo://detail?mblogid=5226821621645802",
+    "sinaweibo://detail?mblogid=5226827285268920",
+    "sinaweibo://detail?mblogid=5226851607774203",
+    "sinaweibo://detail?mblogid=5226769068069902",
+    "sinaweibo://detail?mblogid=5226806538146483",
+    "sinaweibo://detail?mblogid=5226797153387044",
+    "sinaweibo://detail?mblogid=5226765116244703",
+    "sinaweibo://detail?mblogid=5226799798948193",
+    "sinaweibo://detail?mblogid=5226863406351918",
+    "sinaweibo://detail?mblogid=5226814692657023",
+    "sinaweibo://detail?mblogid=5226828391517613",
+    "sinaweibo://detail?mblogid=5226769323656380",
+    "sinaweibo://detail?mblogid=5226807315926774",
+    "sinaweibo://detail?mblogid=5226809673388307",
+    "sinaweibo://detail?mblogid=5226810360206845",
+    "sinaweibo://detail?mblogid=5225627301973560",
+    "sinaweibo://detail?mblogid=5224828596389631",
+    "sinaweibo://detail?mblogid=5226747425459578",
+    "sinaweibo://detail?mblogid=5226114424242513",
+    "sinaweibo://detail?mblogid=5225061919233642",
+    "sinaweibo://detail?mblogid=4691817846801863"
+  ],
+  "media": [
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/532f80ebly1i6rtyf3nw0j20zk0k0acl.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/532f80ebly1i6rtyf3nw0j20zk0k0acl.jpg",
+      "alt": "浙江经视",
+      "width": 720,
+      "height": 1280,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/532f80ebly1i6rtyf3nw0j20zk0k0acl.jpg"
+      ],
+      "user": "浙江经视"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/008eSizIly1i6s7dgew68j30k00zkmyo.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/008eSizIly1i6s7dgew68j30k00zkmyo.jpg",
+      "alt": "海那个角",
+      "width": 1280,
+      "height": 720,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/008eSizIly1i6s7dgew68j30k00zkmyo.jpg"
+      ],
+      "user": "海那个角"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/002c6guQly1i6rv5vvobzj60k00zkgni02.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/002c6guQly1i6rv5vvobzj60k00zkgni02.jpg",
+      "alt": "齐鲁晚报",
+      "width": 1280,
+      "height": 720,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/002c6guQly1i6rv5vvobzj60k00zkgni02.jpg"
+      ],
+      "user": "齐鲁晚报"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/beebff5fgy1i6s763s94yj20u01401kx.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/beebff5fgy1i6s763s94yj20u01401kx.jpg",
+      "alt": "四川观察",
+      "width": 1440,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx4.sinaimg.cn/large/beebff5fgy1i6s763s94yj20u01401kx.jpg"
+      ],
+      "user": "四川观察"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/006yllNVly1i6s4f4avwrj30k00zkq4u.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/006yllNVly1i6s4f4avwrj30k00zkq4u.jpg",
+      "alt": "梨视频",
+      "width": 1280,
+      "height": 720,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/006yllNVly1i6s4f4avwrj30k00zkq4u.jpg"
+      ],
+      "user": "梨视频"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/87b903d9ly1i6sggan6yxj23b04eo1ky.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/87b903d9ly1i6sggan6yxj23b04eo1ky.jpg",
+      "alt": "夏说",
+      "width": 5712,
+      "height": 4284,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/87b903d9ly1i6sggan6yxj23b04eo1ky.jpg"
+      ],
+      "user": "夏说"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/6b0e1e9dly1i6r2v8fa1ij20u01hcwin.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/6b0e1e9dly1i6r2v8fa1ij20u01hcwin.jpg",
+      "alt": "央证公开课",
+      "width": 1920,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/6b0e1e9dly1i6r2v8fa1ij20u01hcwin.jpg"
+      ],
+      "user": "央证公开课"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/ae3f50f0ly1i6si2s1vd2j20k00zkac3.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/ae3f50f0ly1i6si2s1vd2j20k00zkac3.jpg",
+      "alt": "合肥看点",
+      "width": 1280,
+      "height": 720,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/ae3f50f0ly1i6si2s1vd2j20k00zkac3.jpg"
+      ],
+      "user": "合肥看点"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/007BmjaQly1i6sd7yrzjpj30u01hcmzt.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/007BmjaQly1i6sd7yrzjpj30u01hcmzt.jpg",
+      "alt": "不看电视看PPT",
+      "width": 1920,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx4.sinaimg.cn/large/007BmjaQly1i6sd7yrzjpj30u01hcmzt.jpg"
+      ],
+      "user": "不看电视看PPT"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/008sC3kfly1i6l49i616aj30k00zk40l.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/008sC3kfly1i6l49i616aj30k00zk40l.jpg",
+      "alt": "姩姩有元",
+      "width": 1280,
+      "height": 720,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/008sC3kfly1i6l49i616aj30k00zk40l.jpg"
+      ],
+      "user": "姩姩有元"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/006324Uwly1i6scor8bo7j30k00qpdko.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/006324Uwly1i6scor8bo7j30k00qpdko.jpg",
+      "alt": "圆圆圈圈圆圈呀",
+      "width": 961,
+      "height": 720,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/006324Uwly1i6scor8bo7j30k00qpdko.jpg"
+      ],
+      "user": "圆圆圈圈圆圈呀"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/008gh3ZSgy1i6sbjk40w8j30k00qpai8.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/008gh3ZSgy1i6sbjk40w8j30k00qpai8.jpg",
+      "alt": "October乱讲话",
+      "width": 961,
+      "height": 720,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/008gh3ZSgy1i6sbjk40w8j30k00qpai8.jpg"
+      ],
+      "user": "October乱讲话"
+    }
+  ],
+  "html_path": "data/aicard/hourly/2025-10-28/23/40.html"
+}

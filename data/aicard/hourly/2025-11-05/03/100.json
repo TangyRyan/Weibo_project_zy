@@ -1,0 +1,47 @@
+{
+  "meta": {
+    "query": "#100秒回顾习近平韩国之行#",
+    "status_code": 200,
+    "fetched_at": "2025-11-05T03:32:22+08:00",
+    "response": {
+      "query": "#100秒回顾习近平韩国之行#",
+      "status": 3,
+      "analysis_time": 0,
+      "qs_status": 10,
+      "abtest_info": {
+        "chat_entrance": 1
+      },
+      "uid": "",
+      "ext_show": {},
+      "wenda": {
+        "forward_gen": 0
+      },
+      "qs_status_info": "{\"qs_r_status\":0,\"qs_status\":10,\"qs_q_status\":8218,\"ab_lab\":{},\"qs_u_status\":0,\"qs_c_status\":0}",
+      "share_info": {
+        "tips": "#100秒回顾习近平韩国之行#的相关内容，来智搜看看",
+        "status": 1,
+        "comment_content": "",
+        "unify_md5": "30f44968b7cc1ac67893b51a7350468d",
+        "display_name": "#100秒回顾习近平韩国之行#",
+        "url": "http://t.cn/AXATm5fW",
+        "page_id": ""
+      },
+      "loop_times": 200,
+      "zs_risk_control": {
+        "think_text_close": 1,
+        "land_button_close": 1,
+        "ban_chat_enterance": 1,
+        "share": 1,
+        "may_be_ask_show": 0
+      },
+      "ab_suffix": "default",
+      "msg": "抱歉，这个问题我暂时无法回答，换个问题试试吧",
+      "cot": 1,
+      "comment_info": {},
+      "model": ""
+    }
+  },
+  "links": [],
+  "media": [],
+  "html_path": "data/aicard/hourly/2025-11-05/03/100.html"
+}

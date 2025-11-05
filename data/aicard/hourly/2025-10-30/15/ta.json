@@ -1,0 +1,302 @@
+{
+  "meta": {
+    "query": "#比老司机还丝滑的原来是TA#",
+    "status_code": 200,
+    "fetched_at": "2025-10-31T22:43:09+08:00",
+    "response": {
+      "top_quote_list": {},
+      "card_multimodal": {
+        "type": "mediablock",
+        "data": [
+          {
+            "scheme": "sinaweibo://multimedia?mix_mid=5227550414734351&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=0",
+            "type": "p",
+            "vtype": 0,
+            "user_avatar": "https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/005Rwhyely8i0wezyl3t7j60u00u0whe02.jpg?KID=imgbed,tva&Expires=1761899429&ssig=Bt7nXUBSx7",
+            "w": 1594,
+            "cur_mid": "5227550414734351",
+            "img": "http://wx1.sinaimg.cn/middle/008AKMDmly8i6uo7ugh7hj318a0ou1kx.jpg",
+            "h": 894,
+            "user_name": "科技小凡",
+            "hit_score_final": 82.888672,
+            "click_rate": 0,
+            "video_url": "",
+            "hit_score_new": 84.814453,
+            "doc_score": 4137,
+            "img_pid": "008AKMDmly8i6uo7ugh7hj318a0ou1kx"
+          },
+          {
+            "scheme": "sinaweibo://multimedia?mix_mid=5227541687442596&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=1",
+            "type": "p",
+            "vtype": 0,
+            "user_avatar": "https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/006KLUONly8hwhy53sp5uj30u00u0tei.jpg?KID=imgbed,tva&Expires=1761899429&ssig=tNMb3Jvkny",
+            "w": 1280,
+            "cur_mid": "5227541687442596",
+            "img": "http://wx3.sinaimg.cn/middle/008AKMDmly8i6un5hjl85j30zk0mcn3a.jpg",
+            "h": 804,
+            "user_name": "科技超人小蛋仔",
+            "hit_score_final": 84.119141,
+            "click_rate": 0,
+            "video_url": "",
+            "hit_score_new": 86.865234,
+            "doc_score": 6058,
+            "img_pid": "008AKMDmly8i6un5hjl85j30zk0mcn3a"
+          },
+          {
+            "scheme": "sinaweibo://video/vvs?mid=5227466588161389&multi_paragraph=1&multi_count=2",
+            "type": "v",
+            "vtype": 0,
+            "user_avatar": "https://tvax4.sinaimg.cn/crop.0.0.996.996.50/981c44f9ly8fxqyq9znguj20ro0rogmr.jpg?KID=imgbed,tva&Expires=1761899429&ssig=csZ8xoIwiq",
+            "w": 1920,
+            "cur_mid": "5227466588161389",
+            "img": "http://wx3.sinaimg.cn/middle/981c44f9ly1i6ufbyu7qkj21hc0u0td1.jpg",
+            "h": 1080,
+            "user_name": "李学用-奇瑞集团",
+            "hit_score_final": 60,
+            "click_rate": 0,
+            "video_url": "https://video.weibo.com/show?fid=1034:5227466126458979",
+            "hit_score_new": 0,
+            "doc_score": 3506,
+            "img_pid": "981c44f9ly1i6ufbyu7qkj21hc0u0td1"
+          },
+          {
+            "scheme": "sinaweibo://multimedia?mix_mid=5227550414734351&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=0",
+            "type": "p",
+            "vtype": 0,
+            "user_avatar": "https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/005Rwhyely8i0wezyl3t7j60u00u0whe02.jpg?KID=imgbed,tva&Expires=1761899429&ssig=Bt7nXUBSx7",
+            "w": 1594,
+            "cur_mid": "5227550414734351",
+            "img": "http://wx1.sinaimg.cn/middle/008AKMDmly8i6uo7ugh7hj318a0ou1kx.jpg",
+            "h": 894,
+            "user_name": "科技小凡",
+            "hit_score_final": 82.888672,
+            "click_rate": 0,
+            "video_url": "",
+            "hit_score_new": 84.814453,
+            "doc_score": 4137,
+            "img_pid": "008AKMDmly8i6uo7ugh7hj318a0ou1kx"
+          }
+        ]
+      },
+      "share_card_multimodal": {
+        "scheme": "sinaweibo://multimedia?mix_mid=5227550414734351&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=0",
+        "type": "p",
+        "vtype": 0,
+        "user_avatar": "https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/005Rwhyely8i0wezyl3t7j60u00u0whe02.jpg?KID=imgbed,tva&Expires=1761899429&ssig=Bt7nXUBSx7",
+        "w": 1594,
+        "cur_mid": "5227550414734351",
+        "img": "http://wx1.sinaimg.cn/middle/008AKMDmly8i6uo7ugh7hj318a0ou1kx.jpg",
+        "h": 894,
+        "user_name": "科技小凡",
+        "hit_score_final": 82.888672,
+        "click_rate": 0,
+        "video_url": "",
+        "hit_score_new": 84.814453,
+        "doc_score": 4137,
+        "img_pid": "008AKMDmly8i6uo7ugh7hj318a0ou1kx"
+      },
+      "basemodel": "实验组1",
+      "page_id": "2329640ecf1b5385cecf9f7680d62fcce140f5",
+      "query": "#比老司机还丝滑的原来是TA#",
+      "status": 2,
+      "loop_times": 200,
+      "sorted_material_list": null,
+      "share_info": {
+        "url": "http://t.cn/AXALxhmd",
+        "status": 3,
+        "unify_md5": "13505f5cba0059df08fd380764b0e58e",
+        "tips": "#比老司机还丝滑的原来是TA#的相关内容，来智搜看看",
+        "display_name": "#比老司机还丝滑的原来是TA#",
+        "page_id": "2329640ecf1b5385cecf9f7680d62fcce140f5",
+        "comment_content": ""
+      },
+      "short_url": "http://t.cn/AXAAknXe",
+      "news_analyze": {},
+      "ext_show": {},
+      "wenda": {
+        "forward_gen": 0
+      },
+      "query_field": "37",
+      "reliable_tips": "{\"gold_orange_v_mids\": [\"5227541687442596\", \"5227544112533197\", \"5227548638448781\", \"5227517179856092\", \"5227466588161389\", \"5227542894089746\", \"5227545478043909\", \"5227542896446453\", \"5227544116461569\", \"5227550416307846\", \"5227547895791964\", \"5227547895006484\", \"5227577305993144\", \"5227351492265659\", \"5227238046043205\", \"5227376785230934\", \"5227559306660601\", \"5227353546425568\"], \"gold_orange_v_ratio\": \"64%\", \"media_mids\": [], \"media_ratio\": \"0%\", \"verified_mids\": [\"5227550414734351\", \"5227541687436197\", \"5227508968197784\", \"5227549145696084\", \"5227551665689645\", \"5227401404744966\", \"5227145452060855\", \"5227238673092461\", \"5227389493969729\"], \"verified_ratio\": \"32%\", \"normal_mids\": [\"5227450352276042\"], \"normal_ratio\": \"4%\", \"ref_mid_rank\": {\"5227550414734351\": {\"rank\": 2}, \"5227541687442596\": {\"rank\": 10}, \"5227544112533197\": {\"rank\": 14}, \"5227548638448781\": {\"rank\": 16}, \"5227517179856092\": {\"rank\": 3}, \"5227466588161389\": {\"rank\": 5}, \"5227542894089746\": {\"rank\": 11}, \"5227545478043909\": {\"rank\": 28}, \"5227541687436197\": {\"rank\": 21}, \"5227508968197784\": {\"rank\": 30}, \"5227542896446453\": {\"rank\": 4}, \"5227544116461569\": {\"rank\": 13}, \"5227550416307846\": {\"rank\": 15}, \"5227549145696084\": {\"rank\": 18}, \"5227551665689645\": {\"rank\": 12}, \"5227547895791964\": {\"rank\": 19}, \"5227547895006484\": {\"rank\": 20}, \"5227577305993144\": {\"rank\": 6}, \"5227351492265659\": {\"rank\": 22}, \"5227401404744966\": {\"rank\": 17}, \"5227145452060855\": {\"rank\": 1}, \"5227450352276042\": {\"rank\": 7}, \"5227238673092461\": {\"rank\": 23}, \"5227238046043205\": {\"rank\": 24}, \"5227376785230934\": {\"rank\": 25}, \"5227389493969729\": {\"rank\": 26}, \"5227559306660601\": {\"rank\": 27}, \"5227353546425568\": {\"rank\": 29}}}",
+      "model": "deepseek",
+      "comment_info": {},
+      "show_ctrl": {
+        "quote": {}
+      },
+      "current_time": 1761921789,
+      "profile_image_url": "",
+      "user_info": {},
+      "q_attr": {
+        "from_uid": "",
+        "reply_cid": "",
+        "comment_from_type": "",
+        "mid": "",
+        "from_request_id": ""
+      },
+      "uid": "",
+      "ab_suffix": "default",
+      "query_category": "",
+      "share_text": "#比老司机还丝滑的原来是TA#的相关内容，来智搜看看",
+      "version": "2025-10-31 13:30:29.010999-3913",
+      "unify_md5": "13505f5cba0059df08fd380764b0e58e",
+      "cot": 1,
+      "analysis_time": 1761888684,
+      "scheme": "sinaweibo://cardlist?containerid=100103type%3D225%26q%3D%23%E6%AF%94%E8%80%81%E5%8F%B8%E6%9C%BA%E8%BF%98%E4%B8%9D%E6%BB%91%E7%9A%84%E5%8E%9F%E6%9D%A5%E6%98%AFta%23%26t%3D&extparam=ai_model%3Ddeepseek%26ori_ai_title%3D%E5%8F%82%E8%80%83%E5%8D%9A%E6%96%87%26material_version%3D1761888629",
+      "abtest_info": {
+        "chat_entrance": 1
+      },
+      "msg_json": "{}",
+      "msg": "<think><br>嗯，用户让我分析关于\"比老司机还丝滑的原来是ta\"的搜索结果，并提供回答。这个问题看起来是在询问某个汽车智能驾驶系统的表现。<br><br>先看看搜索结果里有什么信息。风云T11这款车的智能驾驶系统被多次提到，特别是它的\"猎鹰700\"高阶辅助驾驶系统。搜索结果里有很多实际测试的反馈，比如科技小凡说这个系统在堵车时自动跟车、避让加塞车辆很稳，科技超人小蛋仔提到它能识别旁边车道打转向灯的车辆并提前减速。<br><br>用户可能对这款车的真实表现感兴趣。从搜索结果看，这款车进行了从芜湖到北京的长距离测试，全程1100公里，测试了城市和高速等各种路况。围棋世界冠军柯洁也参与了测试，评价说系统决策像高明棋手般精准稳妥。<br><br>关于具体功能，搜索结果提到几个亮点：城市NOA功能在早晚高峰表现不错，无保护路口能提前减速让行行人，还能在没有划线的车位自动泊车。数码刘同学提到它的快充效率很高，15分钟能从30%充到80%。<br><br>舒适性方面，午夜Drive说二排零重力座椅很舒服，连续坐4小时都不会腰酸。科技婉儿提到三排空间也够用，不到一米八的人坐进去膝盖不顶腿。静谧性被多次称赞，菲菲测评用分贝仪测试显示噪音很小，科技徐老师说120km/h车速下前排对话清晰。<br><br>也有一些质疑声音。阿唐看车认为目前的智能驾驶还无法完全模拟人类驾驶经验和性格化决策。芒果芝士小绵羊提到专家指出\"丝滑\"可能只适用于标准化路况。<br><br>价格方面，Xauto报告提到限时抢鲜价17.99万元起，搜狐汽车提到搭载1.5T增程系统，综合续航超1400km。<br><br>我会考虑从智能驾驶表现、续航与能耗、豪华舒适体验、上市信息与市场反馈这几个方面来组织回答，准备用标题、图标和分隔线让内容更易读，同时会在适当位置加粗关键信息。对于争议部分也会客观提及，保持信息全面性。<br><br></think><br>以下是关于风云T11智能驾驶系统及相关产品亮点的综合解析，结合用户查询主题“比老司机还丝滑的原来是TA”的搜索结果整理：<br>### 🚗 一、智能驾驶核心亮点：猎鹰700系统  <br>1. **全场景丝滑体验**  <br>   - **城市NOA**：早/晚高峰拥堵路段自动跟车、避让加塞车辆，27个感知单元（1颗激光雷达+2颗800万像素摄像头）精准预判周围车辆转向意图，无顿挫减速。```wbCustomBlock{\"type\": \"quoted\", \"index\": 4, \"data\": {\"num\": [2, 10, 14], \"version\": 2, \"quote_list\": [{\"name\": \"科技小凡\", \"scheme\": \"sinaweibo://detail?mblogid=5227550414734351\", \"index\": 2, \"label\": \"大v\"}, {\"name\": \"科技超人小蛋仔\", \"scheme\": \"sinaweibo://detail?mblogid=5227541687442596\", \"index\": 10, \"label\": \"\"}, {\"name\": \"楚沐风\", \"scheme\": \"sinaweibo://detail?mblogid=5227544112533197\", \"index\": 14, \"label\": \"\"}], \"name\": \"科技小凡\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/005Rwhyely8i0wezyl3t7j60u00u0whe02.jpg?KID=imgbed,tva&Expires=1761899429&ssig=Bt7nXUBSx7\", \"scheme\": \"sinaweibo://detail?mblogid=5227550414734351\", \"vType\": 0}}```  <br>   - **高速智能变道**：自动过匝道、超车一气呵成，120km/h巡航时决策逻辑拟人化，避免急刹或犹豫。```wbCustomBlock{\"type\": \"quoted\", \"index\": 5, \"data\": {\"num\": [2, 16], \"version\": 2, \"quote_list\": [{\"name\": \"晓枫科技\", \"scheme\": \"sinaweibo://detail?mblogid=5227548638448781\", \"index\": 16, \"label\": \"大v\"}, {\"name\": \"科技小凡\", \"scheme\": \"sinaweibo://detail?mblogid=5227550414734351\", \"index\": 2, \"label\": \"\"}], \"name\": \"晓枫科技\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.512.512.50/003kTC8Vly8hrp5kh36o2j60e80e8wfa02.jpg?KID=imgbed,tva&Expires=1761899429&ssig=turhyIYOdv\", \"scheme\": \"sinaweibo://detail?mblogid=5227548638448781\", \"vType\": 0}}```  <br>   - **复杂路况应对**：环岛车流中精准识别电瓶车抢道，无保护路口主动避让行人，覆盖28大类2000+复杂场景。```wbCustomBlock{\"type\": \"quoted\", \"index\": 6, \"data\": {\"num\": [14, 16], \"version\": 2, \"quote_list\": [{\"name\": \"楚沐风\", \"scheme\": \"sinaweibo://detail?mblogid=5227544112533197\", \"index\": 14, \"label\": \"大v\"}, {\"name\": \"晓枫科技\", \"scheme\": \"sinaweibo://detail?mblogid=5227548638448781\", \"index\": 16, \"label\": \"\"}], \"name\": \"楚沐风\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.512.512.50/6e54e46fly8gotu0r58mnj20e80e8gly.jpg?KID=imgbed,tva&Expires=1761899429&ssig=aMtAHKHPsb\", \"scheme\": \"sinaweibo://detail?mblogid=5227544112533197\", \"vType\": 0}}```  <br><br>2. **泊车黑科技**  <br>   - **无划线车位泊入**：支持跨楼层记忆泊车，遇障碍物自动绕行，窄车位成功率极高，被用户称为“新手福音”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 8, \"data\": {\"num\": [2, 3, 14], \"version\": 2, \"quote_list\": [{\"name\": \"科技小凡\", \"scheme\": \"sinaweibo://detail?mblogid=5227550414734351\", \"index\": 2, \"label\": \"\"}, {\"name\": \"芒果芝士小绵羊\", \"scheme\": \"sinaweibo://detail?mblogid=5227517179856092\", \"index\": 3, \"label\": \"\"}, {\"name\": \"楚沐风\", \"scheme\": \"sinaweibo://detail?mblogid=5227544112533197\", \"index\": 14, \"label\": \"\"}]}}```  <br>   - **离车遥控泊车**：通过手机APP远程操控，车辆自主规划路径停入车位，李学用（奇瑞副总）直播展示此功能引发热议。```wbCustomBlock{\"type\": \"quoted\", \"index\": 9, \"data\": {\"num\": [5, 14], \"version\": 2, \"quote_list\": [{\"name\": \"李学用-奇瑞集团\", \"scheme\": \"sinaweibo://detail?mblogid=5227466588161389\", \"index\": 5, \"label\": \"\"}, {\"name\": \"楚沐风\", \"scheme\": \"sinaweibo://detail?mblogid=5227544112533197\", \"index\": 14, \"label\": \"\"}]}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5227550414734351&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/005Rwhyely8i0wezyl3t7j60u00u0whe02.jpg?KID=imgbed,tva&Expires=1761899429&ssig=Bt7nXUBSx7) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">科技小凡</span><img src=\"http://wx1.sinaimg.cn/middle/008AKMDmly8i6uo7ugh7hj318a0ou1kx.jpg\" data-width=894 data-height=1594></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5227541687442596&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=1\"><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/006KLUONly8hwhy53sp5uj30u00u0tei.jpg?KID=imgbed,tva&Expires=1761899429&ssig=tNMb3Jvkny) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">科技超人小蛋仔</span><img src=\"http://wx3.sinaimg.cn/middle/008AKMDmly8i6un5hjl85j30zk0mcn3a.jpg\" data-width=804 data-height=1280></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5227466588161389&multi_paragraph=1&multi_count=2\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.996.996.50/981c44f9ly8fxqyq9znguj20ro0rogmr.jpg?KID=imgbed,tva&Expires=1761899429&ssig=csZ8xoIwiq) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">李学用-奇瑞集团</span><img src=\"http://wx3.sinaimg.cn/middle/981c44f9ly1i6ufbyu7qkj21hc0u0td1.jpg\" data-width=1080 data-height=1920></div></media-block><br>### ⚡ 二、续航与能耗：增程系统的突破  <br>1. **高效补能与低耗**  <br>   - 39.9kWh犀牛方刀电池支持快充，**15分钟从30%充至80%**，咖啡未凉已满电。```wbCustomBlock{\"type\": \"quoted\", \"index\": 12, \"data\": {\"num\": [11, 28], \"version\": 2, \"quote_list\": [{\"name\": \"搞机梓凡\", \"scheme\": \"sinaweibo://detail?mblogid=5227545478043909\", \"index\": 28, \"label\": \"大v\"}, {\"name\": \"数码刘同学\", \"scheme\": \"sinaweibo://detail?mblogid=5227542894089746\", \"index\": 11, \"label\": \"\"}], \"name\": \"搞机梓凡\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.512.512.50/e78cbe7bly8gr38kn7dfoj20e80e83yo.jpg?KID=imgbed,tva&Expires=1761899429&ssig=%2F5iSQQWlRF\", \"scheme\": \"sinaweibo://detail?mblogid=5227545478043909\", \"vType\": 0}}```  <br>   - 1.5TGDI增程专用发动机热效率达45.79%，WLTC馈电油耗仅6.1L/100km（后驱），馈电时零百加速仍保持5.4秒，无动力衰减。```wbCustomBlock{\"type\": \"quoted\", \"index\": 13, \"data\": {\"num\": [21, 28], \"version\": 2, \"quote_list\": [{\"name\": \"车轮Roller\", \"scheme\": \"sinaweibo://detail?mblogid=5227541687436197\", \"index\": 21, \"label\": \"\"}, {\"name\": \"搞机梓凡\", \"scheme\": \"sinaweibo://detail?mblogid=5227545478043909\", \"index\": 28, \"label\": \"\"}]}}```  <br><br>2. **超长续航能力**  <br>   - CLTC综合续航1400km，纯电续航220km，实测1100公里芜湖至北京长测仅补能1次，续航达成率超预期。```wbCustomBlock{\"type\": \"quoted\", \"index\": 15, \"data\": {\"num\": [21, 30], \"version\": 2, \"quote_list\": [{\"name\": \"搜狐汽车\", \"scheme\": \"sinaweibo://detail?mblogid=5227508968197784\", \"index\": 30, \"label\": \"大v\"}, {\"name\": \"车轮Roller\", \"scheme\": \"sinaweibo://detail?mblogid=5227541687436197\", \"index\": 21, \"label\": \"\"}], \"name\": \"搜狐汽车\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.600.600.50/7502a1afly8hnacn1npwij20go0go74w.jpg?KID=imgbed,tva&Expires=1761899429&ssig=udhSv3XzUw\", \"scheme\": \"sinaweibo://detail?mblogid=5227508968197784\", \"vType\": 3}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5227542894089746&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=2&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.600.600.50/002TucIOly8hpfwhmrxzwj60go0go74h02.jpg?KID=imgbed,tva&Expires=1761899429&ssig=pTaO43lFMG) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">数码刘同学</span><img src=\"http://wx4.sinaimg.cn/middle/008AKMDmly8i6unbjfonmj31890ov1kx.jpg\" data-width=895 data-height=1593></div></media-block><br>### 🛋️ 三、豪华舒适体验：移动头等舱  <br>1. **静谧性技术**  <br>   - 全车双层夹胶静音玻璃+100+项吸音材料+ENC主动降噪，增程模式与纯电模式噪音差异**小于0.5dB**，120km/h巡航时车内语言清晰度达80.4%（正常音量对话无压力）。```wbCustomBlock{\"type\": \"quoted\", \"index\": 18, \"data\": {\"num\": [4, 13, 15, 18], \"version\": 2, \"quote_list\": [{\"name\": \"科技阿诚\", \"scheme\": \"sinaweibo://detail?mblogid=5227550416307846\", \"index\": 15, \"label\": \"大v\"}, {\"name\": \"菲菲测评\", \"scheme\": \"sinaweibo://detail?mblogid=5227542896446453\", \"index\": 4, \"label\": \"\"}, {\"name\": \"酷玩少女星小语\", \"scheme\": \"sinaweibo://detail?mblogid=5227544116461569\", \"index\": 13, \"label\": \"\"}, {\"name\": \"说车的小白\", \"scheme\": \"sinaweibo://detail?mblogid=5227549145696084\", \"index\": 18, \"label\": \"\"}], \"name\": \"科技阿诚\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.179.1080.1080.50/0081Pfqely8gg97pgc689j30u013zt9p.jpg?KID=imgbed,tva&Expires=1761899429&ssig=h%2Bpl9aErf6\", \"scheme\": \"sinaweibo://detail?mblogid=5227550416307846\", \"vType\": 0}}```  <br><br>2. **座椅与空间设计**  <br>   - **二排零重力座椅**：14项电动调节+通风/加热+50D高回弹海绵，连续乘坐4小时无腰酸感。```wbCustomBlock{\"type\": \"quoted\", \"index\": 20, \"data\": {\"num\": [12, 19], \"version\": 2, \"quote_list\": [{\"name\": \"科技婉儿\", \"scheme\": \"sinaweibo://detail?mblogid=5227547895791964\", \"index\": 19, \"label\": \"大v\"}, {\"name\": \"午夜Drive\", \"scheme\": \"sinaweibo://detail?mblogid=5227551665689645\", \"index\": 12, \"label\": \"\"}], \"name\": \"科技婉儿\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/006NYEG6ly8hxci1g0eonj30u00u0adn.jpg?KID=imgbed,tva&Expires=1761899429&ssig=KzoGvTXL4N\", \"scheme\": \"sinaweibo://detail?mblogid=5227547895791964\", \"vType\": 0}}```  <br>   - **三排实用空间**：1.8米身高膝部余两拳，支持加热功能，后备箱标准容积无缩水。```wbCustomBlock{\"type\": \"quoted\", \"index\": 21, \"data\": {\"num\": [12, 19], \"version\": 2, \"quote_list\": [{\"name\": \"午夜Drive\", \"scheme\": \"sinaweibo://detail?mblogid=5227551665689645\", \"index\": 12, \"label\": \"\"}, {\"name\": \"科技婉儿\", \"scheme\": \"sinaweibo://detail?mblogid=5227547895791964\", \"index\": 19, \"label\": \"\"}]}}```  <br><br>3. **智能娱乐配置**  <br>   - 前排30英寸6K寰宇屏（支持分屏）+后舱17.3吋娱乐屏+23扬声器音响；9.2L智能冷暖冰箱（-18℃至50℃），APP远程控温。```wbCustomBlock{\"type\": \"quoted\", \"index\": 23, \"data\": {\"num\": [19, 20, 30], \"version\": 2, \"quote_list\": [{\"name\": \"科技徐老师\", \"scheme\": \"sinaweibo://detail?mblogid=5227547895006484\", \"index\": 20, \"label\": \"大v\"}, {\"name\": \"科技婉儿\", \"scheme\": \"sinaweibo://detail?mblogid=5227547895791964\", \"index\": 19, \"label\": \"\"}, {\"name\": \"搜狐汽车\", \"scheme\": \"sinaweibo://detail?mblogid=5227508968197784\", \"index\": 30, \"label\": \"\"}], \"name\": \"科技徐老师\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.512.512.50/006XCSptly8g7clg0m9srj30e80e8wev.jpg?KID=imgbed,tva&Expires=1761899429&ssig=rirO6BuzFe\", \"scheme\": \"sinaweibo://detail?mblogid=5227547895006484\", \"vType\": 0}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5227542896446453&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=3&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.600.600.50/006K3shRly8hm6txummwij30go0gotb2.jpg?KID=imgbed,tva&Expires=1761899429&ssig=sHFj69fX6D) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">菲菲测评</span><img src=\"http://wx1.sinaimg.cn/middle/008AKMDmly8i6un9v9083j318e0ov7wh.jpg\" data-width=895 data-height=1598></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5227551665689645&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=3&multi_count=1\"><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.960.960.50/7270315aly8i3tsv6qij5j20qo0qowiw.jpg?KID=imgbed,tva&Expires=1761899429&ssig=HIS2buqS4f) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">午夜Drive</span><img src=\"http://wx2.sinaimg.cn/middle/008AKMDmly8i6uoe23egwj320414qb29.jpg\" data-width=1466 data-height=2596></div></media-block><br>### 📢 四、上市动态与用户反馈  <br>- **上市信息**：10月30日全球发布，限时抢鲜价17.99万起，定位“智享大六座旗舰SUV”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 25, \"data\": {\"num\": [6, 22, 30], \"version\": 2, \"quote_list\": [{\"name\": \"Xauto报告\", \"scheme\": \"sinaweibo://detail?mblogid=5227577305993144\", \"index\": 6, \"label\": \"大v\"}, {\"name\": \"Xauto报告\", \"scheme\": \"sinaweibo://detail?mblogid=5227351492265659\", \"index\": 22, \"label\": \"\"}, {\"name\": \"搜狐汽车\", \"scheme\": \"sinaweibo://detail?mblogid=5227508968197784\", \"index\": 30, \"label\": \"\"}], \"name\": \"Xauto报告\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/008utJnLly8hfag8gbf91j30u00u0wex.jpg?KID=imgbed,tva&Expires=1761899429&ssig=pmL4bYQ5oh\", \"scheme\": \"sinaweibo://detail?mblogid=5227577305993144\", \"vType\": 0}}```  <br>- **实测验证**：柯洁评价系统决策“如棋手般精准稳妥”，长测直播强化公信力。```wbCustomBlock{\"type\": \"quoted\", \"index\": 26, \"data\": {\"num\": [3, 14], \"version\": 2, \"quote_list\": [{\"name\": \"芒果芝士小绵羊\", \"scheme\": \"sinaweibo://detail?mblogid=5227517179856092\", \"index\": 3, \"label\": \"\"}, {\"name\": \"楚沐风\", \"scheme\": \"sinaweibo://detail?mblogid=5227544112533197\", \"index\": 14, \"label\": \"\"}]}}```  <br>- **争议点**：部分专家质疑“丝滑”仅限于标准化路况，复杂突发场景（极端天气/无规则障碍）仍有待检验。```wbCustomBlock{\"type\": \"quoted\", \"index\": 27, \"data\": {\"num\": [3, 17], \"version\": 2, \"quote_list\": [{\"name\": \"芒果芝士小绵羊\", \"scheme\": \"sinaweibo://detail?mblogid=5227517179856092\", \"index\": 3, \"label\": \"\"}, {\"name\": \"阿唐看车\", \"scheme\": \"sinaweibo://detail?mblogid=5227401404744966\", \"index\": 17, \"label\": \"\"}]}}```<br>### 💎 总结  <br>风云T11以**“猎鹰700”智驾系统**为核心卖点，通过真实长测验证其城市/高速/泊车场景的丝滑体验，结合超长续航、极致静谧性与豪华座舱，试图重新定义30万内智能SUV标准。尽管部分技术承诺需长期验证，但其实测表现已颠覆多数用户对国产智驾的认知。```wbCustomBlock{\"type\": \"quoted\", \"index\": 28, \"data\": {\"num\": [3, 14, 21], \"version\": 2, \"quote_list\": [{\"name\": \"芒果芝士小绵羊\", \"scheme\": \"sinaweibo://detail?mblogid=5227517179856092\", \"index\": 3, \"label\": \"\"}, {\"name\": \"楚沐风\", \"scheme\": \"sinaweibo://detail?mblogid=5227544112533197\", \"index\": 14, \"label\": \"\"}, {\"name\": \"车轮Roller\", \"scheme\": \"sinaweibo://detail?mblogid=5227541687436197\", \"index\": 21, \"label\": \"\"}]}}```<br>",
+      "qs_status_info": "{\"qs_c_status\":8388608,\"qs_r_status\":0,\"ab_lab\":{},\"qs_u_status\":0,\"qs_status\":0,\"qs_q_status\":0}",
+      "zs_risk_control": {
+        "land_button_close": 0,
+        "think_text_close": 0
+      },
+      "qs_status": 0,
+      "msg_format": "markdown",
+      "chat_status_stage": 1,
+      "mid_list": null,
+      "reference_num": 28,
+      "status_stage": 4,
+      "link_list": [
+        "sinaweibo://detail?mblogid=5227145452060855",
+        "sinaweibo://detail?mblogid=5227550414734351",
+        "sinaweibo://detail?mblogid=5227517179856092",
+        "sinaweibo://detail?mblogid=5227542896446453",
+        "sinaweibo://detail?mblogid=5227466588161389",
+        "sinaweibo://detail?mblogid=5227577305993144",
+        "sinaweibo://detail?mblogid=5227450352276042",
+        "https://aikahao.xcar.com.cn/video/3707414.html",
+        "https://c.m.163.com/news/sub/T1469634351886.html",
+        "sinaweibo://detail?mblogid=5227541687442596",
+        "sinaweibo://detail?mblogid=5227542894089746",
+        "sinaweibo://detail?mblogid=5227551665689645",
+        "sinaweibo://detail?mblogid=5227544116461569",
+        "sinaweibo://detail?mblogid=5227544112533197",
+        "sinaweibo://detail?mblogid=5227550416307846",
+        "sinaweibo://detail?mblogid=5227548638448781",
+        "sinaweibo://detail?mblogid=5227401404744966",
+        "sinaweibo://detail?mblogid=5227549145696084",
+        "sinaweibo://detail?mblogid=5227547895791964",
+        "sinaweibo://detail?mblogid=5227547895006484",
+        "sinaweibo://detail?mblogid=5227541687436197",
+        "sinaweibo://detail?mblogid=5227351492265659",
+        "sinaweibo://detail?mblogid=5227238673092461",
+        "sinaweibo://detail?mblogid=5227238046043205",
+        "sinaweibo://detail?mblogid=5227376785230934",
+        "sinaweibo://detail?mblogid=5227389493969729",
+        "sinaweibo://detail?mblogid=5227559306660601",
+        "sinaweibo://detail?mblogid=5227545478043909",
+        "sinaweibo://detail?mblogid=5227353546425568",
+        "sinaweibo://detail?mblogid=5227508968197784"
+      ]
+    }
+  },
+  "links": [
+    "sinaweibo://detail?mblogid=5227145452060855",
+    "sinaweibo://detail?mblogid=5227550414734351",
+    "sinaweibo://detail?mblogid=5227517179856092",
+    "sinaweibo://detail?mblogid=5227542896446453",
+    "sinaweibo://detail?mblogid=5227466588161389",
+    "sinaweibo://detail?mblogid=5227577305993144",
+    "sinaweibo://detail?mblogid=5227450352276042",
+    "https://aikahao.xcar.com.cn/video/3707414.html",
+    "https://c.m.163.com/news/sub/T1469634351886.html",
+    "sinaweibo://detail?mblogid=5227541687442596",
+    "sinaweibo://detail?mblogid=5227542894089746",
+    "sinaweibo://detail?mblogid=5227551665689645",
+    "sinaweibo://detail?mblogid=5227544116461569",
+    "sinaweibo://detail?mblogid=5227544112533197",
+    "sinaweibo://detail?mblogid=5227550416307846",
+    "sinaweibo://detail?mblogid=5227548638448781",
+    "sinaweibo://detail?mblogid=5227401404744966",
+    "sinaweibo://detail?mblogid=5227549145696084",
+    "sinaweibo://detail?mblogid=5227547895791964",
+    "sinaweibo://detail?mblogid=5227547895006484",
+    "sinaweibo://detail?mblogid=5227541687436197",
+    "sinaweibo://detail?mblogid=5227351492265659",
+    "sinaweibo://detail?mblogid=5227238673092461",
+    "sinaweibo://detail?mblogid=5227238046043205",
+    "sinaweibo://detail?mblogid=5227376785230934",
+    "sinaweibo://detail?mblogid=5227389493969729",
+    "sinaweibo://detail?mblogid=5227559306660601",
+    "sinaweibo://detail?mblogid=5227545478043909",
+    "sinaweibo://detail?mblogid=5227353546425568",
+    "sinaweibo://detail?mblogid=5227508968197784"
+  ],
+  "media": [
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/008AKMDmly8i6uo7ugh7hj318a0ou1kx.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/008AKMDmly8i6uo7ugh7hj318a0ou1kx.jpg",
+      "alt": "科技小凡",
+      "width": 894,
+      "height": 1594,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/008AKMDmly8i6uo7ugh7hj318a0ou1kx.jpg"
+      ],
+      "user": "科技小凡"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/008AKMDmly8i6un5hjl85j30zk0mcn3a.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/008AKMDmly8i6un5hjl85j30zk0mcn3a.jpg",
+      "alt": "科技超人小蛋仔",
+      "width": 804,
+      "height": 1280,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/008AKMDmly8i6un5hjl85j30zk0mcn3a.jpg"
+      ],
+      "user": "科技超人小蛋仔"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/981c44f9ly1i6ufbyu7qkj21hc0u0td1.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/981c44f9ly1i6ufbyu7qkj21hc0u0td1.jpg",
+      "alt": "李学用-奇瑞集团",
+      "width": 1080,
+      "height": 1920,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/981c44f9ly1i6ufbyu7qkj21hc0u0td1.jpg"
+      ],
+      "user": "李学用-奇瑞集团"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/008AKMDmly8i6unbjfonmj31890ov1kx.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/008AKMDmly8i6unbjfonmj31890ov1kx.jpg",
+      "alt": "数码刘同学",
+      "width": 895,
+      "height": 1593,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/008AKMDmly8i6unbjfonmj31890ov1kx.jpg"
+      ],
+      "user": "数码刘同学"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/008AKMDmly8i6un9v9083j318e0ov7wh.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/008AKMDmly8i6un9v9083j318e0ov7wh.jpg",
+      "alt": "菲菲测评",
+      "width": 895,
+      "height": 1598,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/008AKMDmly8i6un9v9083j318e0ov7wh.jpg"
+      ],
+      "user": "菲菲测评"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/008AKMDmly8i6uoe23egwj320414qb29.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/008AKMDmly8i6uoe23egwj320414qb29.jpg",
+      "alt": "午夜Drive",
+      "width": 1466,
+      "height": 2596,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/008AKMDmly8i6uoe23egwj320414qb29.jpg"
+      ],
+      "user": "午夜Drive"
+    }
+  ],
+  "html_path": "data/aicard/hourly/2025-10-30/15/ta.html"
+}

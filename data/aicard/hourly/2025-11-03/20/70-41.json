@@ -1,0 +1,115 @@
+{
+  "meta": {
+    "query": "#特朗普70分钟采访提及中国41次#",
+    "status_code": 200,
+    "fetched_at": "2025-11-03T20:47:39+08:00",
+    "response": {
+      "abtest_info": {
+        "chat_entrance": 1
+      },
+      "mid_list": null,
+      "reference_num": 2,
+      "query_category": "Ip",
+      "status_stage": 4,
+      "link_list": [
+        "sinaweibo://detail?mblogid=5228925937780020",
+        "sinaweibo://detail?mblogid=5160759286038977"
+      ],
+      "msg_format": "markdown",
+      "top_quote_list": {},
+      "q_attr": {
+        "reply_cid": "",
+        "comment_from_type": "",
+        "from_uid": "",
+        "from_request_id": "",
+        "mid": ""
+      },
+      "msg_json": "{}",
+      "ab_suffix": "default",
+      "query": "#特朗普70分钟采访提及中国41次#",
+      "page_id": "232964f0e02a3749e0d2f44c65b1989cf4fefd",
+      "model": "deepseek",
+      "show_ctrl": {
+        "quote": {}
+      },
+      "cot": 1,
+      "query_field": "45",
+      "chat_status_stage": 1,
+      "status": 2,
+      "scheme": "sinaweibo://cardlist?containerid=100103type%3D225%26q%3D%23%E7%89%B9%E6%9C%97%E6%99%AE70%E5%88%86%E9%92%9F%E9%87%87%E8%AE%BF%E6%8F%90%E5%8F%8A%E4%B8%AD%E5%9B%BD41%E6%AC%A1%23%26t%3D&extparam=ai_model%3Ddeepseek%26ori_ai_title%3D%E5%8F%82%E8%80%83%E5%8D%9A%E6%96%87%26material_version%3D1762171010",
+      "news_analyze": {},
+      "reliable_tips": "{\"gold_orange_v_mids\": [], \"gold_orange_v_ratio\": \"0%\", \"media_mids\": [\"5228925937780020\", \"5160759286038977\"], \"media_ratio\": \"100%\", \"verified_mids\": [], \"verified_ratio\": \"0%\", \"normal_mids\": [], \"normal_ratio\": \"0%\", \"ref_mid_rank\": {\"5228925937780020\": {\"rank\": 1}, \"5160759286038977\": {\"rank\": 2}}}",
+      "short_url": "http://t.cn/AXApo1C5",
+      "current_time": 1762174060,
+      "profile_image_url": "",
+      "user_info": {},
+      "wenda": {
+        "forward_gen": 0
+      },
+      "card_multimodal": {},
+      "share_card_multimodal": {
+        "img": "http://wx4.sinaimg.cn/middle/6e05a6daly8i6z2uezdm1j20u01hcafd.jpg",
+        "hit_score_new": 99.023438,
+        "h": 1920,
+        "scheme": "sinaweibo://video/vvs?mid=5228925937780020&multi_paragraph=1&multi_count=0",
+        "video_url": "https://video.weibo.com/show?fid=1034:5228924922167330",
+        "click_rate": 0,
+        "type": "v",
+        "vtype": 3,
+        "doc_score": 5782,
+        "hit_score_final": 91.414062,
+        "cur_mid": "5228925937780020",
+        "user_name": "看看新闻Knews",
+        "w": 1080,
+        "user_avatar": "https://tvax2.sinaimg.cn/crop.0.0.410.410.50/6e05a6daly1h8vg7kmg7ej20be0bemxf.jpg?KID=imgbed,tva&Expires=1762181810&ssig=0A4pDYGe%2F9",
+        "img_pid": "6e05a6daly8i6z2uezdm1j20u01hcafd"
+      },
+      "share_text": "#特朗普70分钟采访提及中国41次#的相关内容，来智搜看看",
+      "basemodel": "实验组7",
+      "sorted_material_list": null,
+      "zs_risk_control": {
+        "think_text_close": 0,
+        "ban_chat_enterance": 1,
+        "land_button_close": 0
+      },
+      "unify_md5": "8ba90c74dabaae2dde802a993163557c",
+      "qs_status_info": "{\"qs_r_status\":0,\"qs_u_status\":0,\"qs_q_status\":256,\"qs_status\":0,\"ab_lab\":{},\"qs_c_status\":8388608}",
+      "version": "2025-11-03 19:56:50.023000-8951",
+      "loop_times": 200,
+      "uid": "",
+      "msg": "<think><br>嗯，用户提供了一组关于特朗普70分钟采访提及中国41次的搜索结果数据，要求我根据这些信息整理回答。用户特别强调了引用格式要规范，每个参考点必须标注[^编号]。<br><br>先看搜索结果内容：结果1来自看看新闻Knews（媒体账号），发布于今天（2025年11月3日），属于优质搜索结果。它明确指出在11月2日播出的CBS《60分钟》采访中，特朗普70分钟内提到中国41次，远超俄罗斯和日本，还自带道具夸耀解决战争问题。结果2是澎湃新闻4月的报道，提到特朗普在贸易谈判话题中打断记者提及中国。<br><br>用户的核心关注点显然是\"41次\"这个具体数据及其背景。由于结果1时效性强且为优质结果，应作为主要依据；结果2虽时效较弱，但能补充特朗普对中国话题的回避倾向，可作次要参考。<br><br>组织回答时考虑分三个层次：首先用数据突出41次提及的体量，对比其他国家数据体现特殊性；其次分析他打断记者谈中国的行为模式；最后补充他起诉媒体又和解的轶事增加趣味性。关键事实如日期、节目名称、具体频次必须保留，引用编号严格对应。<br><br>风险控制方面：两个来源均为权威媒体账号，可信度较高。但特朗普自带道具等细节可能存在主观性，准备用\"称\"\"描述\"等中性动词表述，避免绝对化判断。结尾补充数据来源说明，既符合规范又暗示用户可追溯原始信息。<br><br></think><br>根据相关搜索结果，关于特朗普在70分钟采访中提及中国41次的核心信息及背景如下：<br>### 一、核心事件要点<br>1. **采访基本情况**  <br>   2025年11月2日，美国CBS电视台播出了特朗普接受《60分钟》栏目的专访。整个采访时长约70分钟，特朗普在谈话中累计**提及中国41次**，提及频率远超其他国家（例如俄罗斯、日本），而欧洲多国未被提及。```wbCustomBlock{\"type\": \"quoted\", \"index\": 3, \"data\": {\"num\": [1], \"version\": 2, \"quote_list\": [{\"name\": \"看看新闻Knews\", \"scheme\": \"sinaweibo://detail?mblogid=5228925937780020\", \"index\": 1, \"label\": \"大v\"}], \"name\": \"看看新闻Knews\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.410.410.50/6e05a6daly1h8vg7kmg7ej20be0bemxf.jpg?KID=imgbed,tva&Expires=1762181810&ssig=0A4pDYGe%2F9\", \"scheme\": \"sinaweibo://detail?mblogid=5228925937780020\", \"vType\": 3}}```<br><br>2. **中国话题的集中性**  <br>   - **高频聚焦**：中国成为整场采访中最突出的国际话题，41次的提及量显示其对中美关系的重点关注。  <br>   - **对比数据**：俄罗斯和日本虽被提及，但频次远低于中国，欧洲国家则未被讨论。```wbCustomBlock{\"type\": \"quoted\", \"index\": 6, \"data\": {\"num\": [1], \"version\": 2, \"quote_list\": [{\"name\": \"看看新闻Knews\", \"scheme\": \"sinaweibo://detail?mblogid=5228925937780020\", \"index\": 1, \"label\": \"\"}]}}```<br><br>3. **回避提问的细节补充**  <br>   此前报道显示，特朗普在回应涉华问题时曾表现出回避态度。例如2025年4月，当记者在贸易谈判话题中提到“中国”时，他立即打断发言，转而强调关税政策和“积极进展”，反映出其对相关问题的敏感性。```wbCustomBlock{\"type\": \"quoted\", \"index\": 7, \"data\": {\"num\": [2], \"version\": 2, \"quote_list\": [{\"name\": \"澎湃新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5160759286038977\", \"index\": 2, \"label\": \"大v\"}], \"name\": \"澎湃新闻\", \"img\": \"https://tvax1.sinaimg.cn/crop.11.10.275.275.50/005vnhZYly8ftjmwo0bx4j308c08cq32.jpg?KID=imgbed,tva&Expires=1762181810&ssig=0B0E5F3Yqb\", \"scheme\": \"sinaweibo://detail?mblogid=5160759286038977\", \"vType\": 3}}```<br><br>4. **采访前争议背景**  <br>   特朗普曾指控《60分钟》“偏袒竞选对手哈里斯”，并起诉其母公司派拉蒙索赔100亿美元。最终双方以**派拉蒙赔偿1500万美元达成和解**，此次采访即在此背景下进行。```wbCustomBlock{\"type\": \"quoted\", \"index\": 8, \"data\": {\"num\": [1], \"version\": 2, \"quote_list\": [{\"name\": \"看看新闻Knews\", \"scheme\": \"sinaweibo://detail?mblogid=5228925937780020\", \"index\": 1, \"label\": \"\"}]}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5228925937780020&multi_paragraph=1&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.410.410.50/6e05a6daly1h8vg7kmg7ej20be0bemxf.jpg?KID=imgbed,tva&Expires=1762181810&ssig=0A4pDYGe%2F9) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">看看新闻Knews</span><img src=\"http://wx4.sinaimg.cn/middle/6e05a6daly8i6z2uezdm1j20u01hcafd.jpg\" data-width=1920 data-height=1080></div></media-block><br>### 二、特朗普的自我宣传行为  <br>- **自带道具“邀功”**：采访中，特朗普准备了道具展示其政绩，声称“上任后8个月内解决了8场战争”，试图强化其外交成果的形象。```wbCustomBlock{\"type\": \"quoted\", \"index\": 10, \"data\": {\"num\": [1], \"version\": 2, \"quote_list\": [{\"name\": \"看看新闻Knews\", \"scheme\": \"sinaweibo://detail?mblogid=5228925937780020\", \"index\": 1, \"label\": \"\"}]}}```  <br>- **争议性叙事**：此类表述与其实际政策效果存在广泛争议，但成为其巩固支持者认同的策略之一。<br>### 三、事件总结  <br>此次采访通过密集提及中国凸显特朗普对中美关系的战略定位，同时借助回避提问、邀功式表达强化个人政治叙事。其与媒体的法律纠纷及和解结果（1500万美元赔偿），进一步增加了该事件的戏剧性和舆论关注度。```wbCustomBlock{\"type\": \"quoted\", \"index\": 12, \"data\": {\"num\": [1, 2], \"version\": 2, \"quote_list\": [{\"name\": \"看看新闻Knews\", \"scheme\": \"sinaweibo://detail?mblogid=5228925937780020\", \"index\": 1, \"label\": \"\"}, {\"name\": \"澎湃新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5160759286038977\", \"index\": 2, \"label\": \"\"}]}}```<br>",
+      "qs_status": 0,
+      "ext_show": {},
+      "comment_info": {},
+      "analysis_time": 1762171071,
+      "share_info": {
+        "comment_content": "",
+        "url": "http://t.cn/AXApoOEZ",
+        "unify_md5": "8ba90c74dabaae2dde802a993163557c",
+        "page_id": "232964f0e02a3749e0d2f44c65b1989cf4fefd",
+        "status": 3,
+        "tips": "#特朗普70分钟采访提及中国41次#的相关内容，来智搜看看",
+        "display_name": "#特朗普70分钟采访提及中国41次#"
+      }
+    }
+  },
+  "links": [
+    "sinaweibo://detail?mblogid=5228925937780020",
+    "sinaweibo://detail?mblogid=5160759286038977"
+  ],
+  "media": [
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/6e05a6daly8i6z2uezdm1j20u01hcafd.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/6e05a6daly8i6z2uezdm1j20u01hcafd.jpg",
+      "alt": "看看新闻Knews",
+      "width": 1920,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/6e05a6daly8i6z2uezdm1j20u01hcafd.jpg"
+      ],
+      "user": "看看新闻Knews"
+    }
+  ],
+  "html_path": "data/aicard/hourly/2025-11-03/20/70-41.html"
+}

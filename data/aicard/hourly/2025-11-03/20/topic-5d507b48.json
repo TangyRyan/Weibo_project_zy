@@ -1,0 +1,366 @@
+{
+  "meta": {
+    "query": "#陈若琳来看全红婵比赛了#",
+    "status_code": 200,
+    "fetched_at": "2025-11-03T20:47:44+08:00",
+    "response": {
+      "analysis_time": 1762173872,
+      "status": 2,
+      "mid_list": null,
+      "reference_num": 40,
+      "user_info": {},
+      "status_stage": 4,
+      "link_list": [
+        "sinaweibo://detail?mblogid=5228845630489252",
+        "sinaweibo://detail?mblogid=5228667462748924",
+        "sinaweibo://detail?mblogid=5228986638796440",
+        "sinaweibo://detail?mblogid=5209264876421436",
+        "sinaweibo://detail?mblogid=5219141654938633",
+        "sinaweibo://detail?mblogid=5154927573472818",
+        "broadsocial_res://",
+        "ctr://",
+        "historyweibo://5064504927325392",
+        "historyweibo://5073911840247535",
+        "sinaweibo://detail?mblogid=5228982866805056",
+        "sinaweibo://detail?mblogid=5228982653946516",
+        "sinaweibo://detail?mblogid=5228985542771115",
+        "sinaweibo://detail?mblogid=5228983575649844",
+        "sinaweibo://detail?mblogid=5228973492800319",
+        "sinaweibo://detail?mblogid=5228852726204741",
+        "sinaweibo://detail?mblogid=5228997739025201",
+        "sinaweibo://detail?mblogid=5228987367300455",
+        "sinaweibo://detail?mblogid=5228985006949205",
+        "sinaweibo://detail?mblogid=5228983181377596",
+        "sinaweibo://detail?mblogid=5228971748491941",
+        "sinaweibo://detail?mblogid=5228934447762543",
+        "sinaweibo://detail?mblogid=5065145760091601",
+        "sinaweibo://detail?mblogid=5228985971643356",
+        "sinaweibo://detail?mblogid=5228983290692894",
+        "sinaweibo://detail?mblogid=5228989190767015",
+        "sinaweibo://detail?mblogid=5228980832575037",
+        "sinaweibo://detail?mblogid=5162275841772876",
+        "sinaweibo://detail?mblogid=5162258695459656",
+        "sinaweibo://detail?mblogid=5153540785049598",
+        "sinaweibo://detail?mblogid=5162277297196158",
+        "sinaweibo://detail?mblogid=5171353133258203",
+        "sinaweibo://detail?mblogid=5116113193271724",
+        "sinaweibo://detail?mblogid=5228989347532694",
+        "sinaweibo://detail?mblogid=5064684260561206",
+        "sinaweibo://detail?mblogid=5228990827596433",
+        "sinaweibo://detail?mblogid=5228971199037482",
+        "sinaweibo://detail?mblogid=5228993389271140",
+        "sinaweibo://detail?mblogid=5228993953665457",
+        "sinaweibo://detail?mblogid=5228971465638148",
+        "sinaweibo://detail?mblogid=5228989440594009",
+        "sinaweibo://detail?mblogid=5228971307828290",
+        "sinaweibo://detail?mblogid=5154523082393790",
+        "sinaweibo://detail?mblogid=5162048841581732"
+      ],
+      "page_id": "2329642045ff7c0663cf0691348a932f6c0f86",
+      "q_attr": {
+        "reply_cid": "",
+        "comment_from_type": "",
+        "from_request_id": "",
+        "mid": "",
+        "from_uid": ""
+      },
+      "card_multimodal": {
+        "type": "mediablock",
+        "data": [
+          {
+            "hit_score_final": 0,
+            "img": "http://wx4.sinaimg.cn/middle/bb8b394cly1i6yto8mgkdj20ng10ct9u.jpg",
+            "vtype": 0,
+            "w": 844,
+            "img_pid": "bb8b394cly1i6yto8mgkdj20ng10ct9u",
+            "doc_score": 0,
+            "scheme": "sinaweibo://video/vvs?mid=5228845630489252&multi_paragraph=1&multi_count=0",
+            "click_rate": 0.014097439775305,
+            "hit_score_new": 0,
+            "h": 1308,
+            "video_url": "https://video.weibo.com/show?fid=1034:5228845008355405",
+            "cur_mid": "5228845630489252",
+            "user_name": "圈内漂流瓶",
+            "type": "v",
+            "user_avatar": "https://tvax2.sinaimg.cn/crop.0.0.512.512.50/bb8b394cly8ha22s3nc24j20e80e8q3b.jpg?KID=imgbed,tva&Expires=1762184488&ssig=WeJXhxnbYB"
+          },
+          {
+            "hit_score_final": 83.88047,
+            "img": "http://wx3.sinaimg.cn/middle/008n5dCAgy1i6z9xiacpfj30k00qp0wu.jpg",
+            "vtype": 0,
+            "w": 720,
+            "img_pid": "008n5dCAgy1i6z9xiacpfj30k00qp0wu",
+            "doc_score": 3688,
+            "scheme": "sinaweibo://video/vvs?mid=5228986638796440&multi_paragraph=1&multi_count=1",
+            "click_rate": 0,
+            "hit_score_new": 95.800781,
+            "h": 961,
+            "video_url": "https://video.weibo.com/show?fid=1034:5228986306068504",
+            "cur_mid": "5228986638796440",
+            "user_name": "宇宙中孤独且稀有的小星星",
+            "type": "v",
+            "user_avatar": "https://tvax4.sinaimg.cn/crop.0.0.512.512.50/008n5dCAly8hv8bm6gk6qj30e80e8q3a.jpg?KID=imgbed,tva&Expires=1762184488&ssig=9%2BNAnpc0ps"
+          },
+          {
+            "hit_score_final": 91.414062,
+            "img": "http://wx2.sinaimg.cn/middle/005Cujoely1i6z8e1gs0rj30k00zkgng.jpg",
+            "vtype": 0,
+            "w": 720,
+            "img_pid": "005Cujoely1i6z8e1gs0rj30k00zkgng",
+            "doc_score": 5241,
+            "scheme": "sinaweibo://video/vvs?mid=5228973492800319&multi_paragraph=1&multi_count=2",
+            "click_rate": 0,
+            "hit_score_new": 99.023438,
+            "h": 1280,
+            "video_url": "https://video.weibo.com/show?fid=1034:5228973152731276",
+            "cur_mid": "5228973492800319",
+            "user_name": "週茉",
+            "type": "v",
+            "user_avatar": "https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/005Cujoely8h6j545ccf5j30u00u0dh7.jpg?KID=imgbed,tva&Expires=1762184488&ssig=6AjeUfnWMf"
+          },
+          {
+            "hit_score_final": 0,
+            "img": "http://wx4.sinaimg.cn/middle/bb8b394cly1i6yto8mgkdj20ng10ct9u.jpg",
+            "vtype": 0,
+            "w": 844,
+            "img_pid": "bb8b394cly1i6yto8mgkdj20ng10ct9u",
+            "doc_score": 0,
+            "scheme": "sinaweibo://video/vvs?mid=5228845630489252&multi_paragraph=1&multi_count=0",
+            "click_rate": 0.014097439775305,
+            "hit_score_new": 0,
+            "h": 1308,
+            "video_url": "https://video.weibo.com/show?fid=1034:5228845008355405",
+            "cur_mid": "5228845630489252",
+            "user_name": "圈内漂流瓶",
+            "type": "v",
+            "user_avatar": "https://tvax2.sinaimg.cn/crop.0.0.512.512.50/bb8b394cly8ha22s3nc24j20e80e8q3b.jpg?KID=imgbed,tva&Expires=1762184488&ssig=WeJXhxnbYB"
+          }
+        ]
+      },
+      "news_analyze": {},
+      "share_info": {
+        "page_id": "2329642045ff7c0663cf0691348a932f6c0f86",
+        "tips": "#陈若琳来看全红婵比赛了#的相关内容，来智搜看看",
+        "unify_md5": "5d507b48981fa86424d54de449b7da93",
+        "url": "http://t.cn/AXACJ6sZ",
+        "status": 3,
+        "display_name": "#陈若琳来看全红婵比赛了#",
+        "comment_content": ""
+      },
+      "basemodel": "实验组10",
+      "msg": "<think><br>嗯，用户查询的是\"陈若琳来看全红婵比赛了\"，看起来对这对师徒的互动很关注。从搜索结果来看，这发生在2025年11月2-3日的全运会跳水比赛期间。<br><br>用户可能是体育迷，尤其关注跳水项目，想了解这次观赛的具体情况和背后的师徒情谊。考虑到事件刚发生（今天是11月3日），应该优先呈现最新细节。<br><br>翻看搜索结果，有几个关键信息点值得整合：<br>1️⃣ 比赛背景：全红婵伤愈183天后复出，参加全运会女双10米台，搭档王伟莹夺冠<br>2️⃣ 观赛细节：陈若琳特意选正对跳台位置，全程用设备记录动作，裁判打分时紧张攥拳，看到高分后欣慰微笑<br>3️⃣ 师徒关系：陈若琳自2023年巴黎奥运周期执教全红婵，助她度过发育关和伤病期，全红婵曾说教练\"像母亲\"<br>4️⃣ 历史互动：巴黎奥运夺冠时相拥而泣，陈若琳包裡常备全红婵喜欢的乌龟玩偶<br><br>注意到结果7纠正了常见误解：陈若琳并非2021年就执教全红婵，而是2023年才接手。这个细节需要明确提及以免误导用户。<br><br>用户可能还想了解比赛精彩程度。结果1提到\"水花消失术重现\"，结果22强调\"无论胖瘦都压住水花\"，结果2详细描述了五轮激烈角逐——这些可以糅合成夺冠过程的亮点。<br><br>最后考虑增加些人情味细节：比如全红婵夺冠后\"撤回哈欠\"的可爱瞬间，以及观赛时何威仪教练帮她捡玩偶的温馨场面。这些能让回答更生动。<br><br>准备用\"赛场聚焦+师徒纽带+舆论反响\"三段式结构，开头用奖杯emoji吸引注意。关键数据（183天伤停、235.86分等）要加粗突出，避免淹没在文本中。所有信息点都确保有搜索结果支撑，尤其时效性强的11月3日内容优先引用。<br><br></think><br>根据2025年11月2日至3日第十五届全运会跳水比赛的现场动态及相关报道，陈若琳现身观看全红婵比赛的核心信息如下：<br>### 🏆 **一、事件背景与关键细节**  <br>1. **赛事与成绩**  <br>   - 全红婵在伤愈183天后复出首秀，搭档王伟莹出战女子双人10米台比赛，以235.86分的总成绩排名第一，助力广东队卫冕女团冠军。```wbCustomBlock{\"type\": \"quoted\", \"index\": 4, \"data\": {\"num\": [3, 39], \"version\": 2, \"quote_list\": [{\"name\": \"宇宙中孤独且稀有的小星星\", \"scheme\": \"sinaweibo://detail?mblogid=5228986638796440\", \"index\": 3, \"label\": \"大v\"}, {\"name\": \"晨念家的小鱼\", \"scheme\": \"sinaweibo://detail?mblogid=5228993953665457\", \"index\": 39, \"label\": \"\"}], \"name\": \"宇宙中孤独且稀有的小星星\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.512.512.50/008n5dCAly8hv8bm6gk6qj30e80e8q3a.jpg?KID=imgbed,tva&Expires=1762184488&ssig=9%2BNAnpc0ps\", \"scheme\": \"sinaweibo://detail?mblogid=5228986638796440\", \"vType\": 0}}```  <br>   - 比赛中她重现“水花消失术”，动作精准稳定，被赞“复出即王者”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 5, \"data\": {\"num\": [1, 12, 22], \"version\": 2, \"quote_list\": [{\"name\": \"圈内漂流瓶\", \"scheme\": \"sinaweibo://detail?mblogid=5228845630489252\", \"index\": 1, \"label\": \"大v\"}, {\"name\": \"站在高处看秃顶\", \"scheme\": \"sinaweibo://detail?mblogid=5228982653946516\", \"index\": 12, \"label\": \"\"}, {\"name\": \"圈内漂流瓶\", \"scheme\": \"sinaweibo://detail?mblogid=5228934447762543\", \"index\": 22, \"label\": \"\"}], \"name\": \"圈内漂流瓶\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.512.512.50/bb8b394cly8ha22s3nc24j20e80e8q3b.jpg?KID=imgbed,tva&Expires=1762184488&ssig=WeJXhxnbYB\", \"scheme\": \"sinaweibo://detail?mblogid=5228845630489252\", \"vType\": 0}}```<br><br>2. **陈若琳的现场动态**  <br>   - **专注观赛**：陈若琳作为国家队主管教练，特意坐在观众席正对跳台的位置，全程紧盯全红婵的每一跳，用设备记录动作细节；裁判评分时她紧张攥拳，成绩公布后露出欣慰笑容。```wbCustomBlock{\"type\": \"quoted\", \"index\": 7, \"data\": {\"num\": [3, 15, 25, 37], \"version\": 2, \"quote_list\": [{\"name\": \"李诗情Aileen\", \"scheme\": \"sinaweibo://detail?mblogid=5228971199037482\", \"index\": 37, \"label\": \"大v\"}, {\"name\": \"宇宙中孤独且稀有的小星星\", \"scheme\": \"sinaweibo://detail?mblogid=5228986638796440\", \"index\": 3, \"label\": \"\"}, {\"name\": \"週茉\", \"scheme\": \"sinaweibo://detail?mblogid=5228973492800319\", \"index\": 15, \"label\": \"\"}, {\"name\": \"星眠曲-\", \"scheme\": \"sinaweibo://detail?mblogid=5228983290692894\", \"index\": 25, \"label\": \"\"}], \"name\": \"李诗情Aileen\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.690.690.50/0067k012ly8hwlvmfc6iyj30j60j6my9.jpg?KID=imgbed,tva&Expires=1762184488&ssig=UxYnbqHGDj\", \"scheme\": \"sinaweibo://detail?mblogid=5228971199037482\", \"vType\": 0}}```  <br>   - **场外互动**：赛后陈若琳向全红婵递水，师徒简短交流，默契十足。此外，广东队教练何威仪在场边协助全红婵整理观众抛送的玩偶礼物，场面温馨。```wbCustomBlock{\"type\": \"quoted\", \"index\": 8, \"data\": {\"num\": [3, 34, 41], \"version\": 2, \"quote_list\": [{\"name\": \"I毅世-淇缘\", \"scheme\": \"sinaweibo://detail?mblogid=5228989347532694\", \"index\": 34, \"label\": \"大v\"}, {\"name\": \"宇宙中孤独且稀有的小星星\", \"scheme\": \"sinaweibo://detail?mblogid=5228986638796440\", \"index\": 3, \"label\": \"\"}, {\"name\": \"星落舞银河\", \"scheme\": \"sinaweibo://detail?mblogid=5228989440594009\", \"index\": 41, \"label\": \"\"}], \"name\": \"I毅世-淇缘\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/007rSltply8i03tfs9znjj30u00u0abp.jpg?KID=imgbed,tva&Expires=1762184488&ssig=%2FL3Y7w8xMm\", \"scheme\": \"sinaweibo://detail?mblogid=5228989347532694\", \"vType\": 0}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5228845630489252&multi_paragraph=1&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.512.512.50/bb8b394cly8ha22s3nc24j20e80e8q3b.jpg?KID=imgbed,tva&Expires=1762184488&ssig=WeJXhxnbYB) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">圈内漂流瓶</span><img src=\"http://wx4.sinaimg.cn/middle/bb8b394cly1i6yto8mgkdj20ng10ct9u.jpg\" data-width=1308 data-height=844></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5228986638796440&multi_paragraph=1&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.512.512.50/008n5dCAly8hv8bm6gk6qj30e80e8q3a.jpg?KID=imgbed,tva&Expires=1762184488&ssig=9%2BNAnpc0ps) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">宇宙中孤独且稀有的小星星</span><img src=\"http://wx3.sinaimg.cn/middle/008n5dCAgy1i6z9xiacpfj30k00qp0wu.jpg\" data-width=961 data-height=720></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5228973492800319&multi_paragraph=1&multi_count=2\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/005Cujoely8h6j545ccf5j30u00u0dh7.jpg?KID=imgbed,tva&Expires=1762184488&ssig=6AjeUfnWMf) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">週茉</span><img src=\"http://wx2.sinaimg.cn/middle/005Cujoely1i6z8e1gs0rj30k00zkgng.jpg\" data-width=1280 data-height=720></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5228983290692894&multi_paragraph=1&multi_count=3\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/005tHGm9ly1i2rt6rk5npj30u00u0ju3.jpg?KID=imgbed,tva&Expires=1762184488&ssig=rJzGQlDW0b) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">星眠曲-</span><img src=\"http://wx1.sinaimg.cn/middle/005tHGm9ly1i6z9jdepx4j30dc0dcglq.jpg\" data-width=480 data-height=480></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5228989347532694&multi_paragraph=1&multi_count=4\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/007rSltply8i03tfs9znjj30u00u0abp.jpg?KID=imgbed,tva&Expires=1762184488&ssig=%2FL3Y7w8xMm) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">I毅世-淇缘</span><img src=\"http://wx2.sinaimg.cn/middle/007rSltply1i6za892r8vj31hh0u0ad6.jpg\" data-width=1080 data-height=1925></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5228989440594009&multi_paragraph=1&multi_count=5\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.928.928.50/d3f600b4ly8hu4jlul5soj20ps0ps441.jpg?KID=imgbed,tva&Expires=1762184488&ssig=msRnJG7SEq) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">星落舞银河</span><img src=\"http://wx4.sinaimg.cn/middle/d3f600b4ly1i6za8yre7cj20k00zkwg1.jpg\" data-width=1280 data-height=720></div></media-block><br>### 💎 **二、师徒关系的深层解读**  <br>1. **执教历程与技术突破**  <br>   - 陈若琳自2023年巴黎奥运周期起担任全红婵国家队主管教练，此前全红婵由何威仪指导（东京奥运周期）。```wbCustomBlock{\"type\": \"quoted\", \"index\": 11, \"data\": {\"num\": [22, 43], \"version\": 2, \"quote_list\": [{\"name\": \"纵情球场\", \"scheme\": \"sinaweibo://detail?mblogid=5154523082393790\", \"index\": 43, \"label\": \"大v\"}, {\"name\": \"圈内漂流瓶\", \"scheme\": \"sinaweibo://detail?mblogid=5228934447762543\", \"index\": 22, \"label\": \"\"}], \"name\": \"纵情球场\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/95a9b0f3ly8hn5nggt8ysj20u00u0ac5.jpg?KID=imgbed,tva&Expires=1762184488&ssig=a0BuXrBjzH\", \"scheme\": \"sinaweibo://detail?mblogid=5154523082393790\", \"vType\": 0}}```  <br>   - 全红婵曾因发育关和伤病面临技术挑战（如207C动作失误），陈若琳通过延长训练、分解动作指导助其调整，此次复出夺冠印证师徒协同突破瓶颈的成效。```wbCustomBlock{\"type\": \"quoted\", \"index\": 12, \"data\": {\"num\": [6, 18, 30], \"version\": 2, \"quote_list\": [{\"name\": \"环球人物\", \"scheme\": \"sinaweibo://detail?mblogid=5154927573472818\", \"index\": 6, \"label\": \"大v\"}, {\"name\": \"珉公\", \"scheme\": \"sinaweibo://detail?mblogid=5228987367300455\", \"index\": 18, \"label\": \"\"}, {\"name\": \"三石益友\", \"scheme\": \"sinaweibo://detail?mblogid=5153540785049598\", \"index\": 30, \"label\": \"\"}], \"name\": \"环球人物\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.600.600.50/001NvxaAly8hhq6gjuwjpj60go0gojrs02.jpg?KID=imgbed,tva&Expires=1762184488&ssig=ld7SJ%2FBT6U\", \"scheme\": \"sinaweibo://detail?mblogid=5154927573472818\", \"vType\": 3}}```<br><br>2. **情感纽带与精神支持**  <br>   - **亦师亦母**：全红婵公开表示陈若琳“很像母亲”，陈若琳生活中对其关怀备至，包中常备全红婵喜爱的乌龟玩偶。  <br>   - **双向奔赴**：巴黎奥运夺冠时两人相拥落泪；此次全运会陈若琳带伤观赛（腰部贴膏药），以行动传递支持。```wbCustomBlock{\"type\": \"reliability\", \"data\": {\"tag_name\": \"存疑\", \"tag_normal_color\": \"#EF8B00\", \"tag_dark_color\": \"#D77D00\", \"tips\": \"带伤观赛描述可能误用自2025年4月世界杯事件，全运会相关引用无直接证据支持。\"}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5154523082393790&multi_paragraph=2&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/95a9b0f3ly8hn5nggt8ysj20u00u0ac5.jpg?KID=imgbed,tva&Expires=1762184488&ssig=a0BuXrBjzH) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">纵情球场</span><img src=\"http://wx3.sinaimg.cn/middle/95a9b0f3ly1i0dpw91jcvj20u01lagog.jpg\" data-width=2062 data-height=1080></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5154927573472818&multi_paragraph=2&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.600.600.50/001NvxaAly8hhq6gjuwjpj60go0gojrs02.jpg?KID=imgbed,tva&Expires=1762184488&ssig=ld7SJ%2FBT6U) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">环球人物</span><img src=\"http://wx3.sinaimg.cn/middle/001NvxaAly1i0f0c5urx2j60u01hcgwh02.jpg\" data-width=1920 data-height=1080></div></media-block><br>### 🌟 **三、舆论反响与意义**  <br>- **媒体聚焦**：师徒同框画面引发“王者传承”的讨论，网友感慨“金牌背后是教练的默默托举”。  <br>- **体育精神象征**：陈若琳的现身不仅是专业督导，更体现了中国跳水队“严师如亲”的传承文化，成为超越比赛胜负的动人篇章。<br>### 📊 总结  <br>陈若琳的观赛既是技术督导，更是情感支撑。全红婵以伤愈后的巅峰表现回应信任，两人共同诠释了竞技体育中师徒情的深度与厚度，也为中国跳水队的精神传承写下新注脚。```wbCustomBlock{\"type\": \"quoted\", \"index\": 15, \"data\": {\"num\": [3, 27, 30, 34, 37, 40, 41], \"version\": 2, \"quote_list\": [{\"name\": \"体界风云\", \"scheme\": \"sinaweibo://detail?mblogid=5228980832575037\", \"index\": 27, \"label\": \"大v\"}, {\"name\": \"宇宙中孤独且稀有的小星星\", \"scheme\": \"sinaweibo://detail?mblogid=5228986638796440\", \"index\": 3, \"label\": \"\"}, {\"name\": \"三石益友\", \"scheme\": \"sinaweibo://detail?mblogid=5153540785049598\", \"index\": 30, \"label\": \"\"}, {\"name\": \"I毅世-淇缘\", \"scheme\": \"sinaweibo://detail?mblogid=5228989347532694\", \"index\": 34, \"label\": \"\"}, {\"name\": \"李诗情Aileen\", \"scheme\": \"sinaweibo://detail?mblogid=5228971199037482\", \"index\": 37, \"label\": \"\"}, {\"name\": \"天命女主\", \"scheme\": \"sinaweibo://detail?mblogid=5228971465638148\", \"index\": 40, \"label\": \"\"}, {\"name\": \"星落舞银河\", \"scheme\": \"sinaweibo://detail?mblogid=5228989440594009\", \"index\": 41, \"label\": \"\"}], \"name\": \"体界风云\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.499.499.50/0074reLQly8hvkuakxttjj30dv0dv74j.jpg?KID=imgbed,tva&Expires=1762184488&ssig=%2B28WA4QuEi\", \"scheme\": \"sinaweibo://detail?mblogid=5228980832575037\", \"vType\": 0}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5228980832575037&multi_paragraph=4&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.499.499.50/0074reLQly8hvkuakxttjj30dv0dv74j.jpg?KID=imgbed,tva&Expires=1762184488&ssig=%2B28WA4QuEi) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">体界风云</span><img src=\"http://wx4.sinaimg.cn/middle/0074reLQly1i6z99hhuljj30k00zkwfh.jpg\" data-width=1280 data-height=720></div></media-block><br>",
+      "loop_times": 200,
+      "qs_status_info": "{\"qs_u_status\":0,\"qs_r_status\":0,\"qs_c_status\":8388608,\"qs_status\":0,\"qs_q_status\":0,\"ab_lab\":{}}",
+      "unify_md5": "5d507b48981fa86424d54de449b7da93",
+      "wenda": {
+        "forward_gen": 0
+      },
+      "ext_show": {},
+      "msg_format": "markdown",
+      "short_url": "http://t.cn/AXAC5oTn",
+      "msg_json": "{}",
+      "abtest_info": {
+        "chat_entrance": 1
+      },
+      "reliable_tips": "{\"gold_orange_v_mids\": [\"5228986638796440\", \"5228845630489252\", \"5228982653946516\", \"5228934447762543\", \"5228973492800319\", \"5228983290692894\", \"5228971199037482\", \"5228989347532694\", \"5228989440594009\", \"5154523082393790\", \"5228987367300455\", \"5153540785049598\", \"5228980832575037\", \"5228971465638148\", \"5228667462748924\", \"5209264876421436\", \"5219141654938633\", \"5228982866805056\", \"5228985542771115\", \"5228983575649844\", \"5228985006949205\", \"5228983181377596\", \"5228971748491941\", \"5065145760091601\", \"5228985971643356\", \"5228989190767015\", \"5162275841772876\", \"5162277297196158\", \"5116113193271724\", \"5064684260561206\", \"5228971307828290\"], \"gold_orange_v_ratio\": \"78%\", \"media_mids\": [\"5154927573472818\", \"5228997739025201\", \"5162258695459656\", \"5171353133258203\", \"5228990827596433\", \"5228993389271140\"], \"media_ratio\": \"15%\", \"verified_mids\": [\"5228993953665457\"], \"verified_ratio\": \"2%\", \"normal_mids\": [\"5228852726204741\", \"5162048841581732\"], \"normal_ratio\": \"5%\", \"ref_mid_rank\": {\"5228986638796440\": {\"rank\": 3}, \"5228993953665457\": {\"rank\": 39}, \"5228845630489252\": {\"rank\": 1}, \"5228982653946516\": {\"rank\": 12}, \"5228934447762543\": {\"rank\": 22}, \"5228973492800319\": {\"rank\": 15}, \"5228983290692894\": {\"rank\": 25}, \"5228971199037482\": {\"rank\": 37}, \"5228989347532694\": {\"rank\": 34}, \"5228989440594009\": {\"rank\": 41}, \"5154523082393790\": {\"rank\": 43}, \"5154927573472818\": {\"rank\": 6}, \"5228987367300455\": {\"rank\": 18}, \"5153540785049598\": {\"rank\": 30}, \"5228980832575037\": {\"rank\": 27}, \"5228971465638148\": {\"rank\": 40}, \"5228667462748924\": {\"rank\": 2}, \"5209264876421436\": {\"rank\": 4}, \"5219141654938633\": {\"rank\": 5}, \"5228982866805056\": {\"rank\": 11}, \"5228985542771115\": {\"rank\": 13}, \"5228983575649844\": {\"rank\": 14}, \"5228852726204741\": {\"rank\": 16}, \"5228997739025201\": {\"rank\": 17}, \"5228985006949205\": {\"rank\": 19}, \"5228983181377596\": {\"rank\": 20}, \"5228971748491941\": {\"rank\": 21}, \"5065145760091601\": {\"rank\": 23}, \"5228985971643356\": {\"rank\": 24}, \"5228989190767015\": {\"rank\": 26}, \"5162275841772876\": {\"rank\": 28}, \"5162258695459656\": {\"rank\": 29}, \"5162277297196158\": {\"rank\": 31}, \"5171353133258203\": {\"rank\": 32}, \"5116113193271724\": {\"rank\": 33}, \"5064684260561206\": {\"rank\": 35}, \"5228990827596433\": {\"rank\": 36}, \"5228993389271140\": {\"rank\": 38}, \"5228971307828290\": {\"rank\": 42}, \"5162048841581732\": {\"rank\": 44}}}",
+      "current_time": 1762174065,
+      "profile_image_url": "",
+      "share_text": "#陈若琳来看全红婵比赛了#的相关内容，来智搜看看",
+      "share_card_multimodal": {
+        "hit_score_final": 0,
+        "img": "http://wx4.sinaimg.cn/middle/bb8b394cly1i6yto8mgkdj20ng10ct9u.jpg",
+        "vtype": 0,
+        "w": 844,
+        "img_pid": "bb8b394cly1i6yto8mgkdj20ng10ct9u",
+        "doc_score": 0,
+        "scheme": "sinaweibo://video/vvs?mid=5228845630489252&multi_paragraph=1&multi_count=0",
+        "click_rate": 0.014097439775305,
+        "hit_score_new": 0,
+        "h": 1308,
+        "video_url": "https://video.weibo.com/show?fid=1034:5228845008355405",
+        "cur_mid": "5228845630489252",
+        "user_name": "圈内漂流瓶",
+        "type": "v",
+        "user_avatar": "https://tvax2.sinaimg.cn/crop.0.0.512.512.50/bb8b394cly8ha22s3nc24j20e80e8q3b.jpg?KID=imgbed,tva&Expires=1762184488&ssig=WeJXhxnbYB"
+      },
+      "zs_risk_control": {
+        "think_text_close": 0,
+        "land_button_close": 0
+      },
+      "top_quote_list": {},
+      "cot": 1,
+      "model": "deepseek",
+      "version": "2025-11-03 20:41:28.020999-9570",
+      "ab_suffix": "default",
+      "uid": "",
+      "scheme": "sinaweibo://cardlist?containerid=100103type%3D225%26q%3D%23%E9%99%88%E8%8B%A5%E7%90%B3%E6%9D%A5%E7%9C%8B%E5%85%A8%E7%BA%A2%E5%A9%B5%E6%AF%94%E8%B5%9B%E4%BA%86%23%26t%3D&extparam=ai_model%3Ddeepseek%26ori_ai_title%3D%E5%8F%82%E8%80%83%E5%8D%9A%E6%96%87%26material_version%3D1762173688",
+      "sorted_material_list": null,
+      "query_category": "",
+      "comment_info": {},
+      "chat_status_stage": 1,
+      "show_ctrl": {
+        "quote": {}
+      },
+      "qs_status": 0,
+      "query": "#陈若琳来看全红婵比赛了#",
+      "query_field": "20"
+    }
+  },
+  "links": [
+    "sinaweibo://detail?mblogid=5228845630489252",
+    "sinaweibo://detail?mblogid=5228667462748924",
+    "sinaweibo://detail?mblogid=5228986638796440",
+    "sinaweibo://detail?mblogid=5209264876421436",
+    "sinaweibo://detail?mblogid=5219141654938633",
+    "sinaweibo://detail?mblogid=5154927573472818",
+    "broadsocial_res://",
+    "ctr://",
+    "historyweibo://5064504927325392",
+    "historyweibo://5073911840247535",
+    "sinaweibo://detail?mblogid=5228982866805056",
+    "sinaweibo://detail?mblogid=5228982653946516",
+    "sinaweibo://detail?mblogid=5228985542771115",
+    "sinaweibo://detail?mblogid=5228983575649844",
+    "sinaweibo://detail?mblogid=5228973492800319",
+    "sinaweibo://detail?mblogid=5228852726204741",
+    "sinaweibo://detail?mblogid=5228997739025201",
+    "sinaweibo://detail?mblogid=5228987367300455",
+    "sinaweibo://detail?mblogid=5228985006949205",
+    "sinaweibo://detail?mblogid=5228983181377596",
+    "sinaweibo://detail?mblogid=5228971748491941",
+    "sinaweibo://detail?mblogid=5228934447762543",
+    "sinaweibo://detail?mblogid=5065145760091601",
+    "sinaweibo://detail?mblogid=5228985971643356",
+    "sinaweibo://detail?mblogid=5228983290692894",
+    "sinaweibo://detail?mblogid=5228989190767015",
+    "sinaweibo://detail?mblogid=5228980832575037",
+    "sinaweibo://detail?mblogid=5162275841772876",
+    "sinaweibo://detail?mblogid=5162258695459656",
+    "sinaweibo://detail?mblogid=5153540785049598",
+    "sinaweibo://detail?mblogid=5162277297196158",
+    "sinaweibo://detail?mblogid=5171353133258203",
+    "sinaweibo://detail?mblogid=5116113193271724",
+    "sinaweibo://detail?mblogid=5228989347532694",
+    "sinaweibo://detail?mblogid=5064684260561206",
+    "sinaweibo://detail?mblogid=5228990827596433",
+    "sinaweibo://detail?mblogid=5228971199037482",
+    "sinaweibo://detail?mblogid=5228993389271140",
+    "sinaweibo://detail?mblogid=5228993953665457",
+    "sinaweibo://detail?mblogid=5228971465638148",
+    "sinaweibo://detail?mblogid=5228989440594009",
+    "sinaweibo://detail?mblogid=5228971307828290",
+    "sinaweibo://detail?mblogid=5154523082393790",
+    "sinaweibo://detail?mblogid=5162048841581732"
+  ],
+  "media": [
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/bb8b394cly1i6yto8mgkdj20ng10ct9u.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/bb8b394cly1i6yto8mgkdj20ng10ct9u.jpg",
+      "alt": "圈内漂流瓶",
+      "width": 1308,
+      "height": 844,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/bb8b394cly1i6yto8mgkdj20ng10ct9u.jpg"
+      ],
+      "user": "圈内漂流瓶"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/008n5dCAgy1i6z9xiacpfj30k00qp0wu.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/008n5dCAgy1i6z9xiacpfj30k00qp0wu.jpg",
+      "alt": "宇宙中孤独且稀有的小星星",
+      "width": 961,
+      "height": 720,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/008n5dCAgy1i6z9xiacpfj30k00qp0wu.jpg"
+      ],
+      "user": "宇宙中孤独且稀有的小星星"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/005Cujoely1i6z8e1gs0rj30k00zkgng.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/005Cujoely1i6z8e1gs0rj30k00zkgng.jpg",
+      "alt": "週茉",
+      "width": 1280,
+      "height": 720,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/005Cujoely1i6z8e1gs0rj30k00zkgng.jpg"
+      ],
+      "user": "週茉"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/005tHGm9ly1i6z9jdepx4j30dc0dcglq.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/005tHGm9ly1i6z9jdepx4j30dc0dcglq.jpg",
+      "alt": "星眠曲-",
+      "width": 480,
+      "height": 480,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx4.sinaimg.cn/large/005tHGm9ly1i6z9jdepx4j30dc0dcglq.jpg"
+      ],
+      "user": "星眠曲-"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/007rSltply1i6za892r8vj31hh0u0ad6.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/007rSltply1i6za892r8vj31hh0u0ad6.jpg",
+      "alt": "I毅世-淇缘",
+      "width": 1080,
+      "height": 1925,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/007rSltply1i6za892r8vj31hh0u0ad6.jpg"
+      ],
+      "user": "I毅世-淇缘"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/d3f600b4ly1i6za8yre7cj20k00zkwg1.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/d3f600b4ly1i6za8yre7cj20k00zkwg1.jpg",
+      "alt": "星落舞银河",
+      "width": 1280,
+      "height": 720,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/d3f600b4ly1i6za8yre7cj20k00zkwg1.jpg"
+      ],
+      "user": "星落舞银河"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/95a9b0f3ly1i0dpw91jcvj20u01lagog.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/95a9b0f3ly1i0dpw91jcvj20u01lagog.jpg",
+      "alt": "纵情球场",
+      "width": 2062,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/95a9b0f3ly1i0dpw91jcvj20u01lagog.jpg"
+      ],
+      "user": "纵情球场"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/001NvxaAly1i0f0c5urx2j60u01hcgwh02.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/001NvxaAly1i0f0c5urx2j60u01hcgwh02.jpg",
+      "alt": "环球人物",
+      "width": 1920,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/001NvxaAly1i0f0c5urx2j60u01hcgwh02.jpg"
+      ],
+      "user": "环球人物"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/0074reLQly1i6z99hhuljj30k00zkwfh.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/0074reLQly1i6z99hhuljj30k00zkwfh.jpg",
+      "alt": "体界风云",
+      "width": 1280,
+      "height": 720,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/0074reLQly1i6z99hhuljj30k00zkwfh.jpg"
+      ],
+      "user": "体界风云"
+    }
+  ],
+  "html_path": "data/aicard/hourly/2025-11-03/20/topic-5d507b48.html"
+}

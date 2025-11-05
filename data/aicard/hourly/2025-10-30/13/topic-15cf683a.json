@@ -1,0 +1,350 @@
+{
+  "meta": {
+    "query": "#变老是从哪一刻开始的#",
+    "status_code": 200,
+    "fetched_at": "2025-10-31T22:42:07+08:00",
+    "response": {
+      "top_quote_list": {},
+      "card_multimodal": {
+        "data": [
+          {
+            "cur_mid": "5208272858513602",
+            "hit_score_final": 56.116798,
+            "user_name": "貔貅视点",
+            "h": 3200,
+            "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.1009.1009.50/538bc62dly8huv6yh7lzsj20s10s1tce.jpg?KID=imgbed,tva&Expires=1761916695&ssig=Qiyo2xFS9y",
+            "w": 1440,
+            "video_url": "",
+            "hit_score_new": 82.861328,
+            "type": "p",
+            "img_pid": "538bc62dgy1i556ywt1b0j21402gwdkn",
+            "scheme": "sinaweibo://multimedia?mix_mid=5208272858513602&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=1&multi_count=0",
+            "click_rate": 0.06,
+            "vtype": 0,
+            "doc_score": 2982,
+            "img": "http://wx4.sinaimg.cn/middle/538bc62dgy1i556ywt1b0j21402gwdkn.jpg"
+          },
+          {
+            "cur_mid": "5227375802974442",
+            "hit_score_final": 75.380859,
+            "user_name": "fairy财猪猪",
+            "h": 691,
+            "user_avatar": "https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/006tLGDuly8hp3go12v0oj30u00u077m.jpg?KID=imgbed,tva&Expires=1761916695&ssig=HEfdN2EiLV",
+            "w": 578,
+            "video_url": "",
+            "hit_score_new": 75.634766,
+            "type": "p",
+            "img_pid": "006tLGDugy1i6tailqw8uj30g20j741l",
+            "scheme": "sinaweibo://multimedia?mix_mid=5227375802974442&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=2&multi_count=0",
+            "click_rate": 0.061538461538462,
+            "vtype": 0,
+            "doc_score": 3726,
+            "img": "http://wx2.sinaimg.cn/middle/006tLGDugy1i6tailqw8uj30g20j741l.jpg"
+          },
+          {
+            "cur_mid": "5227375497578125",
+            "hit_score_final": 64.753906,
+            "user_name": "小六忠诚",
+            "h": 480,
+            "user_avatar": "https://tva3.sinaimg.cn/crop.0.0.180.180.50/45fbd716jw1e8qgp5bmzyj2050050aa8.jpg?KID=imgbed,tva&Expires=1761916695&ssig=gfzdfnWHNH",
+            "w": 854,
+            "video_url": "https://video.weibo.com/show?fid=1034:5227126765322283",
+            "hit_score_new": 54.589844,
+            "type": "v",
+            "img_pid": "45fbd716gy1i6tcc3judqj20nq0dcjsc",
+            "scheme": "sinaweibo://video/vvs?mid=5227375497578125&multi_paragraph=2&multi_count=1",
+            "click_rate": 0.016528925619835,
+            "vtype": 0,
+            "doc_score": 3803,
+            "img": "http://wx3.sinaimg.cn/middle/45fbd716gy1i6tcc3judqj20nq0dcjsc.jpg"
+          },
+          {
+            "cur_mid": "5208272858513602",
+            "hit_score_final": 56.116798,
+            "user_name": "貔貅视点",
+            "h": 3200,
+            "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.1009.1009.50/538bc62dly8huv6yh7lzsj20s10s1tce.jpg?KID=imgbed,tva&Expires=1761916695&ssig=Qiyo2xFS9y",
+            "w": 1440,
+            "video_url": "",
+            "hit_score_new": 82.861328,
+            "type": "p",
+            "img_pid": "538bc62dgy1i556ywt1b0j21402gwdkn",
+            "scheme": "sinaweibo://multimedia?mix_mid=5208272858513602&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=1&multi_count=0",
+            "click_rate": 0.06,
+            "vtype": 0,
+            "doc_score": 2982,
+            "img": "http://wx4.sinaimg.cn/middle/538bc62dgy1i556ywt1b0j21402gwdkn.jpg"
+          }
+        ],
+        "type": "mediablock"
+      },
+      "share_card_multimodal": {
+        "cur_mid": "5208272858513602",
+        "hit_score_final": 56.116798,
+        "user_name": "貔貅视点",
+        "h": 3200,
+        "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.1009.1009.50/538bc62dly8huv6yh7lzsj20s10s1tce.jpg?KID=imgbed,tva&Expires=1761916695&ssig=Qiyo2xFS9y",
+        "w": 1440,
+        "video_url": "",
+        "hit_score_new": 82.861328,
+        "type": "p",
+        "img_pid": "538bc62dgy1i556ywt1b0j21402gwdkn",
+        "scheme": "sinaweibo://multimedia?mix_mid=5208272858513602&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=1&multi_count=0",
+        "click_rate": 0.06,
+        "vtype": 0,
+        "doc_score": 2982,
+        "img": "http://wx4.sinaimg.cn/middle/538bc62dgy1i556ywt1b0j21402gwdkn.jpg"
+      },
+      "basemodel": "实验组4",
+      "ext_show": {},
+      "uid": "",
+      "q_attr": {
+        "mid": "",
+        "reply_cid": "",
+        "comment_from_type": "",
+        "from_request_id": "",
+        "from_uid": ""
+      },
+      "query_field": "6",
+      "chat_status_stage": 1,
+      "short_url": "http://t.cn/AXwsqYub",
+      "scheme": "sinaweibo://cardlist?containerid=100103type%3D225%26q%3D%23%E5%8F%98%E8%80%81%E6%98%AF%E4%BB%8E%E5%93%AA%E4%B8%80%E5%88%BB%E5%BC%80%E5%A7%8B%E7%9A%84%23%26t%3D&extparam=ai_model%3Ddeepseek%26ori_ai_title%3D%E5%8F%82%E8%80%83%E5%8D%9A%E6%96%87%26material_version%3D1761905894",
+      "sorted_material_list": null,
+      "news_analyze": {},
+      "cot": 1,
+      "query": "#变老是从哪一刻开始的#",
+      "user_info": {},
+      "msg": "<think><br>嗯，用户问的是\"变老是从哪一刻开始的\"，这个问题看起来简单，但涉及生理、心理、社会多个层面。用户可能是在某个瞬间意识到自己或家人老了，想寻找共鸣，也可能是想为老龄化社会做准备。<br><br>翻看搜索结果，这个话题在2025年10月底被集中讨论，主要和\"2035年中国60岁以上老人将突破4亿\"的预测相关。材料非常丰富，有数据报告、名人观点、普通人故事，还有科学解释。<br><br>最打动我的是那些生活细节：帮妈妈染头发时发现白发盖不住，教父亲用手机他反复问同一个问题，突然发现父母吃饭口味变重。这些比白发皱纹更能刺痛人——变老原来藏在亲人小心翼翼的\"我是不是太笨\"里。<br><br>科学角度有几个关键节点值得注意：<br>34岁胶原蛋白断崖下跌，熬夜晚恢复<br>60岁感官退化明显，常尝不出咸淡<br>78岁免疫力脆弱，认知衰退加速<br><br>但数据报告提醒我们：变老更是种社会体验。老人最怕的不是病痛，而是\"敬老卡\"的提示音让全车人侧目，是过街天桥的台阶像山一样高。贝壳公益的报告里，68.8%的老人跌倒发生在未改造的卫生间——这些数字背后是具体的尊严困境。<br><br>有意思的是，不同人面对衰老差异很大。倪萍66岁说\"顾不上老\"还在挖人生潜力，而有些人才50岁就活成旁观者。心态或许比年龄更重要，就像那位70岁上老年大学、每天逛景区的阿姨。<br><br>对于用户个体，可能需要分几个维度思考：<br>如果关心父母衰老信号，可以注意他们是否藏药瓶、走路扶墙、怕麻烦子女<br>如果担忧自身初老，34岁的代谢下降和60岁的体检指标都值得关注<br>若考虑社会应对，社区适老化改造和\"年轻老人照顾高龄老人\"模式正兴起<br><br>最后想起纪伯伦那句治愈的话：\"变老像夏天天黑得很慢，我们有整整一个午后准备迎接夜色\"。或许答案不在某个时刻，而在我们如何回应那些细微的征兆。<br><br></think><br>变老并非始于某个具体时刻，而是由生理、心理和社会角色等多重维度共同构建的过程。以下是综合个体体验、科学研究和群体观察后的关键节点与分析：<br>### ⏳ **一、生理功能的悄然转折**<br>1. **感官与体能的背叛**  <br>   - **味觉退化**：子女吃着咸的菜，父母却觉得“没味道”；```wbCustomBlock{\"type\": \"quoted\", \"index\": 5, \"data\": {\"num\": [1, 22], \"version\": 2, \"quote_list\": [{\"name\": \"财经网\", \"scheme\": \"sinaweibo://detail?mblogid=5227371847745904\", \"index\": 22, \"label\": \"大v\"}, {\"name\": \"新浪财经\", \"scheme\": \"sinaweibo://detail?mblogid=5227179306911953\", \"index\": 1, \"label\": \"\"}], \"name\": \"财经网\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.511.511.50/001N82aNly8h8vhmw7f3dj60e70e774n02.jpg?KID=imgbed,tva&Expires=1761916695&ssig=z%2BLn3xuZMV\", \"scheme\": \"sinaweibo://detail?mblogid=5227371847745904\", \"vType\": 3}}```  <br>   - **行动迟滞**：五分钟路程需半小时，拎油桶如搬巨石；```wbCustomBlock{\"type\": \"quoted\", \"index\": 6, \"data\": {\"num\": [1], \"version\": 2, \"quote_list\": [{\"name\": \"新浪财经\", \"scheme\": \"sinaweibo://detail?mblogid=5227179306911953\", \"index\": 1, \"label\": \"\"}]}}```  <br>   - **睡眠碎片化**：深睡眠减少，夜间易醒成常态。  <br>   *科学佐证*：34岁胶原蛋白断崖下跌，60岁骨密度骤降，78岁免疫系统脆弱化。```wbCustomBlock{\"type\": \"quoted\", \"index\": 7, \"data\": {\"num\": [34, 38], \"version\": 2, \"quote_list\": [{\"name\": \"内蒙古青年\", \"scheme\": \"sinaweibo://detail?mblogid=5227379559498392\", \"index\": 38, \"label\": \"大v\"}, {\"name\": \"貔貅视点\", \"scheme\": \"sinaweibo://detail?mblogid=5208272858513602\", \"index\": 34, \"label\": \"\"}], \"name\": \"内蒙古青年\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.1023.1023.50/91922131ly8h8vgjy66xlj20sf0sfaba.jpg?KID=imgbed,tva&Expires=1761916694&ssig=MhoHB%2Bqrl8\", \"scheme\": \"sinaweibo://detail?mblogid=5227379559498392\", \"vType\": 1}}```<br><br>2. **外貌与健康的显性信号**  <br>   - 白发从零星到染发膏难以覆盖，久坐后起身需扶物支撑；  <br>   - 体检报告异常项增多，关节隐痛成为“沉默伙伴”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 10, \"data\": {\"num\": [21, 38], \"version\": 2, \"quote_list\": [{\"name\": \"闲云野鹤1273\", \"scheme\": \"sinaweibo://detail?mblogid=5227375492596059\", \"index\": 21, \"label\": \"大v\"}, {\"name\": \"内蒙古青年\", \"scheme\": \"sinaweibo://detail?mblogid=5227379559498392\", \"index\": 38, \"label\": \"\"}], \"name\": \"闲云野鹤1273\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/deec1987ly8hxklq2gk9qj20u00u075j.jpg?KID=imgbed,tva&Expires=1761916695&ssig=%2B%2BRuFDO3NG\", \"scheme\": \"sinaweibo://detail?mblogid=5227375492596059\", \"vType\": 0}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5208272858513602&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=1&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.1009.1009.50/538bc62dly8huv6yh7lzsj20s10s1tce.jpg?KID=imgbed,tva&Expires=1761916695&ssig=Qiyo2xFS9y) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">貔貅视点</span><img src=\"http://wx4.sinaimg.cn/middle/538bc62dgy1i556ywt1b0j21402gwdkn.jpg\" data-width=3200 data-height=1440></div></media-block><br>### 🧠 **二、心理认知的微妙转变**<br>1. **学习能力的焦虑**  <br>   - 父母面对智能设备时手足无措，反复询问“怕点错扣钱”；```wbCustomBlock{\"type\": \"quoted\", \"index\": 14, \"data\": {\"num\": [6, 12], \"version\": 2, \"quote_list\": [{\"name\": \"小六忠诚\", \"scheme\": \"sinaweibo://detail?mblogid=5227375497578125\", \"index\": 6, \"label\": \"大v\"}, {\"name\": \"fairy财猪猪\", \"scheme\": \"sinaweibo://detail?mblogid=5227375802974442\", \"index\": 12, \"label\": \"\"}], \"name\": \"小六忠诚\", \"img\": \"https://tva3.sinaimg.cn/crop.0.0.180.180.50/45fbd716jw1e8qgp5bmzyj2050050aa8.jpg?KID=imgbed,tva&Expires=1761916695&ssig=gfzdfnWHNH\", \"scheme\": \"sinaweibo://detail?mblogid=5227375497578125\", \"vType\": 0}}```  <br>   - 曾张罗年夜饭的巧手，被微蒸烤一体机的按钮困住。```wbCustomBlock{\"type\": \"quoted\", \"index\": 15, \"data\": {\"num\": [13, 33], \"version\": 2, \"quote_list\": [{\"name\": \"麒麟神侯\", \"scheme\": \"sinaweibo://detail?mblogid=5227376279814952\", \"index\": 13, \"label\": \"\"}, {\"name\": \"新浪科技\", \"scheme\": \"sinaweibo://detail?mblogid=5227363081129144\", \"index\": 33, \"label\": \"\"}]}}```<br><br>2. **时间感知的加速**  <br>   - 30岁后感觉“一年如三月”，年初计划未完成已近年底；```wbCustomBlock{\"type\": \"quoted\", \"index\": 17, \"data\": {\"num\": [14], \"version\": 2, \"quote_list\": [{\"name\": \"sssgenius\", \"scheme\": \"sinaweibo://detail?mblogid=5227387262599757\", \"index\": 14, \"label\": \"大v\"}], \"name\": \"sssgenius\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.996.996.50/8e932f9fly8grndmg1ezej20ro0rodh8.jpg?KID=imgbed,tva&Expires=1761916695&ssig=r6x%2BGP4%2B2%2F\", \"scheme\": \"sinaweibo://detail?mblogid=5227387262599757\", \"vType\": 0}}```  <br>   - 怀旧频率超过对新事物的兴趣，明星已成“老艺术家”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 18, \"data\": {\"num\": [3], \"version\": 2, \"quote_list\": [{\"name\": \"默默姐爱定投\", \"scheme\": \"sinaweibo://detail?mblogid=5227376247570647\", \"index\": 3, \"label\": \"大v\"}], \"name\": \"默默姐爱定投\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.1024.1024.50/007YNsZmly8hx5a0jdokrj30sg0sgn04.jpg?KID=imgbed,tva&Expires=1761916694&ssig=4Z50WrejwF\", \"scheme\": \"sinaweibo://detail?mblogid=5227376247570647\", \"vType\": 0}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5227375802974442&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=2&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/006tLGDuly8hp3go12v0oj30u00u077m.jpg?KID=imgbed,tva&Expires=1761916695&ssig=HEfdN2EiLV) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">fairy财猪猪</span><img src=\"http://wx2.sinaimg.cn/middle/006tLGDugy1i6tailqw8uj30g20j741l.jpg\" data-width=691 data-height=578></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5227375497578125&multi_paragraph=2&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tva3.sinaimg.cn/crop.0.0.180.180.50/45fbd716jw1e8qgp5bmzyj2050050aa8.jpg?KID=imgbed,tva&Expires=1761916695&ssig=gfzdfnWHNH) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">小六忠诚</span><img src=\"http://wx3.sinaimg.cn/middle/45fbd716gy1i6tcc3judqj20nq0dcjsc.jpg\" data-width=480 data-height=854></div></media-block><br>### 👨‍👩‍👧 **三、代际关系的角色反转**<br>1. **从权威到依赖**  <br>   - 父母的决策从“命令”变为“商量”，常说“你决定就好”；```wbCustomBlock{\"type\": \"quoted\", \"index\": 22, \"data\": {\"num\": [3, 26], \"version\": 2, \"quote_list\": [{\"name\": \"许文臣\", \"scheme\": \"sinaweibo://detail?mblogid=5227375807692910\", \"index\": 26, \"label\": \"大v\"}, {\"name\": \"默默姐爱定投\", \"scheme\": \"sinaweibo://detail?mblogid=5227376247570647\", \"index\": 3, \"label\": \"\"}], \"name\": \"许文臣\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.512.512.50/005T9IAAly8gnigb74kr7j30e80e8mxh.jpg?KID=imgbed,tva&Expires=1761916695&ssig=9rSa%2FYtETa\", \"scheme\": \"sinaweibo://detail?mblogid=5227375807692910\", \"vType\": 0}}```  <br>   - 教扫码支付时，曾教你写字的手在屏幕上颤抖。```wbCustomBlock{\"type\": \"quoted\", \"index\": 23, \"data\": {\"num\": [11], \"version\": 2, \"quote_list\": [{\"name\": \"不伤仲永\", \"scheme\": \"sinaweibo://detail?mblogid=5227375701787189\", \"index\": 11, \"label\": \"\"}]}}```<br><br>2. **身体缩小的视觉冲击**  <br>   - 拥抱母亲时察觉她“缩小了”，父亲佝偻背影与旧照判若两人；```wbCustomBlock{\"type\": \"quoted\", \"index\": 25, \"data\": {\"num\": [1, 16, 25], \"version\": 2, \"quote_list\": [{\"name\": \"暴风雪天\", \"scheme\": \"sinaweibo://detail?mblogid=5227375492596056\", \"index\": 25, \"label\": \"大v\"}, {\"name\": \"新浪财经\", \"scheme\": \"sinaweibo://detail?mblogid=5227179306911953\", \"index\": 1, \"label\": \"\"}, {\"name\": \"海棠菜菜\", \"scheme\": \"sinaweibo://detail?mblogid=5227377224581335\", \"index\": 16, \"label\": \"\"}], \"name\": \"暴风雪天\", \"img\": \"https://tva4.sinaimg.cn/crop.62.0.222.222.50/557759ebjw8ew0ug6ardjj207x09mjs1.jpg?KID=imgbed,tva&Expires=1761916695&ssig=lvNd4hpIT7\", \"scheme\": \"sinaweibo://detail?mblogid=5227375492596056\", \"vType\": 0}}```  <br>   - 子女成为药瓶整理者，父母生病后偷偷藏起药片。```wbCustomBlock{\"type\": \"quoted\", \"index\": 26, \"data\": {\"num\": [15, 23], \"version\": 2, \"quote_list\": [{\"name\": \"北京王飞鹏\", \"scheme\": \"sinaweibo://detail?mblogid=5227375492858381\", \"index\": 23, \"label\": \"大v\"}, {\"name\": \"z002财斧哥\", \"scheme\": \"sinaweibo://detail?mblogid=5227375492858018\", \"index\": 15, \"label\": \"\"}], \"name\": \"北京王飞鹏\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.600.600.50/3c628b80ly8hokg49zbi2j20go0got94.jpg?KID=imgbed,tva&Expires=1761916695&ssig=CgzDd1bEXR\", \"scheme\": \"sinaweibo://detail?mblogid=5227375492858381\", \"vType\": 0}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5227375492858381&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=3&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.600.600.50/3c628b80ly8hokg49zbi2j20go0got94.jpg?KID=imgbed,tva&Expires=1761916695&ssig=CgzDd1bEXR) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">北京王飞鹏</span><img src=\"http://wx1.sinaimg.cn/middle/3c628b80ly1i6tak2m99wj20ey0dcgml.jpg\" data-width=480 data-height=538></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5227375701787189&multi_paragraph=3&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/94be6943ly8i328dp7av6j20u00u0wfy.jpg?KID=imgbed,tva&Expires=1761916694&ssig=WoeaZhe5Gg) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">不伤仲永</span><img src=\"http://wx1.sinaimg.cn/middle/94be6943ly1i6ta0fx4mzj21hc0u0tbf.jpg\" data-width=1080 data-height=1920></div></media-block><br>### 🌐 **四、社会参与的退场信号**<br>1. **公共空间的隐形障碍**  <br>   - 公交车“敬老卡”提示音引发侧目，过街天桥台阶成天堑；```wbCustomBlock{\"type\": \"quoted\", \"index\": 30, \"data\": {\"num\": [1, 9, 22], \"version\": 2, \"quote_list\": [{\"name\": \"南方周末\", \"scheme\": \"sinaweibo://detail?mblogid=5227360938625546\", \"index\": 9, \"label\": \"大v\"}, {\"name\": \"新浪财经\", \"scheme\": \"sinaweibo://detail?mblogid=5227179306911953\", \"index\": 1, \"label\": \"\"}, {\"name\": \"财经网\", \"scheme\": \"sinaweibo://detail?mblogid=5227371847745904\", \"index\": 22, \"label\": \"\"}], \"name\": \"南方周末\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.512.512.50/001MXawKly8h8vhd5hnl7j60e80e8dgh02.jpg?KID=imgbed,tva&Expires=1761916694&ssig=OyROGEo6ks\", \"scheme\": \"sinaweibo://detail?mblogid=5227360938625546\", \"vType\": 3}}```  <br>   - 独居老人因电梯故障被困高楼，活动半径只剩家门。```wbCustomBlock{\"type\": \"quoted\", \"index\": 31, \"data\": {\"num\": [1, 32], \"version\": 2, \"quote_list\": [{\"name\": \"百足虫儿\", \"scheme\": \"sinaweibo://detail?mblogid=5227375744516619\", \"index\": 32, \"label\": \"\"}, {\"name\": \"新浪财经\", \"scheme\": \"sinaweibo://detail?mblogid=5227179306911953\", \"index\": 1, \"label\": \"\"}], \"name\": \"百足虫儿\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.996.996.50/005MWv9Ely8i47ky3stn2j30ro0rowfi.jpg?KID=imgbed,tva&Expires=1761916694&ssig=CsJu2tUO0H\", \"scheme\": \"sinaweibo://detail?mblogid=5227375744516619\", \"vType\": 0}}```<br><br>2. **价值认同的瓦解**  <br>   - 退休后沦为“旁观者”，担忧“失能后尊严丧失”；```wbCustomBlock{\"type\": \"quoted\", \"index\": 33, \"data\": {\"num\": [1, 39], \"version\": 2, \"quote_list\": [{\"name\": \"金融八卦女\", \"scheme\": \"sinaweibo://detail?mblogid=5227378315104045\", \"index\": 39, \"label\": \"\"}, {\"name\": \"新浪财经\", \"scheme\": \"sinaweibo://detail?mblogid=5227179306911953\", \"index\": 1, \"label\": \"\"}], \"name\": \"金融八卦女\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.812.812.50/44d512fbly8gdim3d06aaj20mk0mkgn6.jpg?KID=imgbed,tva&Expires=1761916694&ssig=MijcpE0tgr\", \"scheme\": \"sinaweibo://detail?mblogid=5227378315104045\", \"vType\": 0}}```  <br>   - 职场中年轻人称“老师傅”，却不再听取建议。```wbCustomBlock{\"type\": \"quoted\", \"index\": 34, \"data\": {\"num\": [27], \"version\": 2, \"quote_list\": [{\"name\": \"人生趣事悟语\", \"scheme\": \"sinaweibo://detail?mblogid=5227423320769724\", \"index\": 27, \"label\": \"\"}], \"name\": \"人生趣事悟语\", \"img\": \"https://tva1.sinaimg.cn/crop.0.0.996.996.50/0069qObnjw8f7xzguta01j30ro0rogo0.jpg?KID=imgbed,tva&Expires=1761916695&ssig=PomuJmO1Sv\", \"scheme\": \"sinaweibo://detail?mblogid=5227423320769724\", \"vType\": 0}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5227378315104045&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=4&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.812.812.50/44d512fbly8gdim3d06aaj20mk0mkgn6.jpg?KID=imgbed,tva&Expires=1761916694&ssig=MijcpE0tgr) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">金融八卦女</span><img src=\"http://wx4.sinaimg.cn/middle/44d512fbly1i6u4rl2yttj20z71bugpv.jpg\" data-width=1722 data-height=1267></div></media-block><br>### 🌟 **五、对抗衰老的破局点**<br>1. **个体层面的主动干预**  <br>   - **生理**：34岁后加强力量训练（深蹲、臀桥），60岁重点防跌倒（卫生间装扶手）；```wbCustomBlock{\"type\": \"quoted\", \"index\": 38, \"data\": {\"num\": [1, 28, 31], \"version\": 2, \"quote_list\": [{\"name\": \"武侯残联\", \"scheme\": \"sinaweibo://detail?mblogid=5227831743222453\", \"index\": 28, \"label\": \"\"}, {\"name\": \"新浪财经\", \"scheme\": \"sinaweibo://detail?mblogid=5227179306911953\", \"index\": 1, \"label\": \"\"}, {\"name\": \"新浪财经\", \"scheme\": \"sinaweibo://detail?mblogid=5227356643131771\", \"index\": 31, \"label\": \"\"}], \"name\": \"武侯残联\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.150.150.50/abac483ely8h8w4zilm2kj2046046mx1.jpg?KID=imgbed,tva&Expires=1761916694&ssig=RaQvyYHTIj\", \"scheme\": \"sinaweibo://detail?mblogid=5227831743222453\", \"vType\": 1}}```  <br>   - **心理**：学习新技能激活大脑（如倪萍66岁学绘画），保持社交避免封闭。```wbCustomBlock{\"type\": \"quoted\", \"index\": 39, \"data\": {\"num\": [18, 29], \"version\": 2, \"quote_list\": [{\"name\": \"知书少年果麦麦\", \"scheme\": \"sinaweibo://detail?mblogid=5227387005960381\", \"index\": 18, \"label\": \"\"}, {\"name\": \"倪萍\", \"scheme\": \"sinaweibo://detail?mblogid=5227452253083264\", \"index\": 29, \"label\": \"\"}], \"name\": \"知书少年果麦麦\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.640.640.50/0070AfZJly8fsnm4b1j9wj30hs0hsten.jpg?KID=imgbed,tva&Expires=1761916695&ssig=0LAC7oBVf%2B\", \"scheme\": \"sinaweibo://detail?mblogid=5227387005960381\", \"vType\": 0}}```<br><br>2. **社会支持的系统重构**  <br>   - **社区改造**：加装电梯、无障碍通道，68.8%跌倒发生在未改造居室；```wbCustomBlock{\"type\": \"quoted\", \"index\": 41, \"data\": {\"num\": [1, 22], \"version\": 2, \"quote_list\": [{\"name\": \"新浪财经\", \"scheme\": \"sinaweibo://detail?mblogid=5227179306911953\", \"index\": 1, \"label\": \"\"}, {\"name\": \"财经网\", \"scheme\": \"sinaweibo://detail?mblogid=5227371847745904\", \"index\": 22, \"label\": \"\"}]}}```  <br>   - **互助模式**：低龄老人服务高龄老人，填补养老服务缺口。```wbCustomBlock{\"type\": \"quoted\", \"index\": 42, \"data\": {\"num\": [6, 24], \"version\": 2, \"quote_list\": [{\"name\": \"格物金融兮\", \"scheme\": \"sinaweibo://detail?mblogid=5227375744516864\", \"index\": 24, \"label\": \"\"}, {\"name\": \"小六忠诚\", \"scheme\": \"sinaweibo://detail?mblogid=5227375497578125\", \"index\": 6, \"label\": \"\"}], \"name\": \"格物金融兮\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.512.512.50/64551d6cly8glkym51q90j20e80e8aav.jpg?KID=imgbed,tva&Expires=1761916695&ssig=U2msLCvlpx\", \"scheme\": \"sinaweibo://detail?mblogid=5227375744516864\", \"vType\": 0}}```<br><br>3. **衰老认知的重塑**  <br>   > “皱纹是时光颁发的勋章，赖活着不如好好活。”  <br>   - 如91岁老人坚持跑步读书，80岁阿姨带队骑行；```wbCustomBlock{\"type\": \"quoted\", \"index\": 45, \"data\": {\"num\": [2, 6], \"version\": 2, \"quote_list\": [{\"name\": \"财经旅长\", \"scheme\": \"sinaweibo://detail?mblogid=5227376750365661\", \"index\": 2, \"label\": \"\"}, {\"name\": \"小六忠诚\", \"scheme\": \"sinaweibo://detail?mblogid=5227375497578125\", \"index\": 6, \"label\": \"\"}], \"name\": \"财经旅长\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.790.790.50/6594fbc8ly8hw6espvtp9j20ly0lyq5g.jpg?KID=imgbed,tva&Expires=1761916694&ssig=I9KgCUvSIO\", \"scheme\": \"sinaweibo://detail?mblogid=5227376750365661\", \"vType\": 0}}```  <br>   - 正如倪萍所言：“成长本身即是对衰老的抵抗”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 46, \"data\": {\"num\": [18, 29], \"version\": 2, \"quote_list\": [{\"name\": \"知书少年果麦麦\", \"scheme\": \"sinaweibo://detail?mblogid=5227387005960381\", \"index\": 18, \"label\": \"\"}, {\"name\": \"倪萍\", \"scheme\": \"sinaweibo://detail?mblogid=5227452253083264\", \"index\": 29, \"label\": \"\"}]}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5227387005960381&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=5&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.640.640.50/0070AfZJly8fsnm4b1j9wj30hs0hsten.jpg?KID=imgbed,tva&Expires=1761916695&ssig=0LAC7oBVf%2B) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">知书少年果麦麦</span><img src=\"http://wx3.sinaimg.cn/middle/0070AfZJgy1i6tmc0ceb4j31lg2jix6p.jpg\" data-width=3294 data-height=2068></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5227376750365661&multi_paragraph=5&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.790.790.50/6594fbc8ly8hw6espvtp9j20ly0lyq5g.jpg?KID=imgbed,tva&Expires=1761916694&ssig=I9KgCUvSIO) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">财经旅长</span><img src=\"http://wx2.sinaimg.cn/middle/6594fbc8gy1i6tekm2kxtj211a0kzttr.jpg\" data-width=755 data-height=1342></div></media-block><br>### 💎 **核心结论**<br>衰老始于**身体背叛的初兆**（久坐起身的僵硬），显于**权力让渡的瞬间**（父母向你请教手机操作），终于**社会角色的褪色**（退出职场核心圈）。面对4亿人共同穿越的银发浪潮，每一份“老去”都是独特的故事，而**回应衰老的方式，决定了生命的质感**。<br>",
+      "comment_info": {},
+      "ab_suffix": "default",
+      "wenda": {
+        "forward_gen": 0
+      },
+      "show_ctrl": {
+        "quote": {}
+      },
+      "page_id": "2329645b38d53a89eb5f6c59e858b02bf91e3a",
+      "qs_status_info": "{\"qs_u_status\":0,\"qs_c_status\":8388608,\"qs_r_status\":0,\"qs_status\":0,\"qs_q_status\":0,\"ab_lab\":{}}",
+      "model": "deepseek",
+      "loop_times": 200,
+      "profile_image_url": "",
+      "reliable_tips": "{\"gold_orange_v_mids\": [\"5208272858513602\", \"5227375492596059\", \"5227375497578125\", \"5227375802974442\", \"5227376279814952\", \"5227387262599757\", \"5227376247570647\", \"5227375807692910\", \"5227375701787189\", \"5227377224581335\", \"5227375492596056\", \"5227375492858018\", \"5227375492858381\", \"5227375744516619\", \"5227378315104045\", \"5227423320769724\", \"5227387005960381\", \"5227375744516864\", \"5227376750365661\", \"5227373731251014\", \"5227376247570640\", \"5227371717726772\", \"5227396489284200\", \"5227375572288138\", \"5208262467128544\", \"5227372220514541\", \"5082027928585775\"], \"gold_orange_v_ratio\": \"69%\", \"media_mids\": [\"5227360938625546\"], \"media_ratio\": \"3%\", \"verified_mids\": [\"5227179306911953\", \"5227371847745904\", \"5227379559498392\", \"5227363081129144\", \"5227831743222453\", \"5227356643131771\", \"5227452253083264\", \"5227447219914219\", \"5227442601984517\", \"5188407231780315\", \"4588947093328387\"], \"verified_ratio\": \"28%\", \"normal_mids\": [], \"normal_ratio\": \"0%\", \"ref_mid_rank\": {\"5227179306911953\": {\"rank\": 1}, \"5227371847745904\": {\"rank\": 22}, \"5208272858513602\": {\"rank\": 34}, \"5227379559498392\": {\"rank\": 38}, \"5227375492596059\": {\"rank\": 21}, \"5227375497578125\": {\"rank\": 6}, \"5227375802974442\": {\"rank\": 12}, \"5227376279814952\": {\"rank\": 13}, \"5227363081129144\": {\"rank\": 33}, \"5227387262599757\": {\"rank\": 14}, \"5227376247570647\": {\"rank\": 3}, \"5227375807692910\": {\"rank\": 26}, \"5227375701787189\": {\"rank\": 11}, \"5227377224581335\": {\"rank\": 16}, \"5227375492596056\": {\"rank\": 25}, \"5227375492858018\": {\"rank\": 15}, \"5227375492858381\": {\"rank\": 23}, \"5227360938625546\": {\"rank\": 9}, \"5227375744516619\": {\"rank\": 32}, \"5227378315104045\": {\"rank\": 39}, \"5227423320769724\": {\"rank\": 27}, \"5227831743222453\": {\"rank\": 28}, \"5227356643131771\": {\"rank\": 31}, \"5227387005960381\": {\"rank\": 18}, \"5227452253083264\": {\"rank\": 29}, \"5227375744516864\": {\"rank\": 24}, \"5227376750365661\": {\"rank\": 2}, \"5227447219914219\": {\"rank\": 4}, \"5227442601984517\": {\"rank\": 5}, \"5227373731251014\": {\"rank\": 10}, \"5227376247570640\": {\"rank\": 17}, \"5227371717726772\": {\"rank\": 19}, \"5227396489284200\": {\"rank\": 20}, \"5227375572288138\": {\"rank\": 30}, \"5188407231780315\": {\"rank\": 35}, \"5208262467128544\": {\"rank\": 36}, \"5227372220514541\": {\"rank\": 37}, \"5082027928585775\": {\"rank\": 40}, \"4588947093328387\": {\"rank\": 41}}}",
+      "current_time": 1761921727,
+      "msg_json": "{}",
+      "analysis_time": 1761906011,
+      "version": "2025-10-31 18:18:14.007999-9627",
+      "share_text": "#变老是从哪一刻开始的#的相关内容，来智搜看看",
+      "unify_md5": "15cf683af85ff45ae446d07153cebda9",
+      "qs_status": 0,
+      "abtest_info": {
+        "chat_entrance": 1
+      },
+      "msg_format": "markdown",
+      "share_info": {
+        "display_name": "#变老是从哪一刻开始的#",
+        "status": 3,
+        "comment_content": "",
+        "unify_md5": "15cf683af85ff45ae446d07153cebda9",
+        "page_id": "2329645b38d53a89eb5f6c59e858b02bf91e3a",
+        "url": "http://t.cn/AXwebReL",
+        "tips": "#变老是从哪一刻开始的#的相关内容，来智搜看看"
+      },
+      "status": 2,
+      "zs_risk_control": {
+        "think_text_close": 0,
+        "land_button_close": 0
+      },
+      "mid_list": null,
+      "reference_num": 39,
+      "query_category": "",
+      "status_stage": 4,
+      "link_list": [
+        "sinaweibo://detail?mblogid=5227179306911953",
+        "sinaweibo://detail?mblogid=5227376750365661",
+        "sinaweibo://detail?mblogid=5227376247570647",
+        "sinaweibo://detail?mblogid=5227447219914219",
+        "sinaweibo://detail?mblogid=5227442601984517",
+        "sinaweibo://detail?mblogid=5227375497578125",
+        "historyweibo://5227179306911953",
+        "historyweibo://5178317679626303",
+        "sinaweibo://detail?mblogid=5227360938625546",
+        "sinaweibo://detail?mblogid=5227373731251014",
+        "sinaweibo://detail?mblogid=5227375701787189",
+        "sinaweibo://detail?mblogid=5227375802974442",
+        "sinaweibo://detail?mblogid=5227376279814952",
+        "sinaweibo://detail?mblogid=5227387262599757",
+        "sinaweibo://detail?mblogid=5227375492858018",
+        "sinaweibo://detail?mblogid=5227377224581335",
+        "sinaweibo://detail?mblogid=5227376247570640",
+        "sinaweibo://detail?mblogid=5227387005960381",
+        "sinaweibo://detail?mblogid=5227371717726772",
+        "sinaweibo://detail?mblogid=5227396489284200",
+        "sinaweibo://detail?mblogid=5227375492596059",
+        "sinaweibo://detail?mblogid=5227371847745904",
+        "sinaweibo://detail?mblogid=5227375492858381",
+        "sinaweibo://detail?mblogid=5227375744516864",
+        "sinaweibo://detail?mblogid=5227375492596056",
+        "sinaweibo://detail?mblogid=5227375807692910",
+        "sinaweibo://detail?mblogid=5227423320769724",
+        "sinaweibo://detail?mblogid=5227831743222453",
+        "sinaweibo://detail?mblogid=5227452253083264",
+        "sinaweibo://detail?mblogid=5227375572288138",
+        "sinaweibo://detail?mblogid=5227356643131771",
+        "sinaweibo://detail?mblogid=5227375744516619",
+        "sinaweibo://detail?mblogid=5227363081129144",
+        "sinaweibo://detail?mblogid=5208272858513602",
+        "sinaweibo://detail?mblogid=5188407231780315",
+        "sinaweibo://detail?mblogid=5208262467128544",
+        "sinaweibo://detail?mblogid=5227372220514541",
+        "sinaweibo://detail?mblogid=5227379559498392",
+        "sinaweibo://detail?mblogid=5227378315104045",
+        "sinaweibo://detail?mblogid=5082027928585775",
+        "sinaweibo://detail?mblogid=4588947093328387",
+        "https://k.sina.cn/article_2895759815_mac99c9c703302eshg.html?from=mood&wm=3049_0032"
+      ]
+    }
+  },
+  "links": [
+    "sinaweibo://detail?mblogid=5227179306911953",
+    "sinaweibo://detail?mblogid=5227376750365661",
+    "sinaweibo://detail?mblogid=5227376247570647",
+    "sinaweibo://detail?mblogid=5227447219914219",
+    "sinaweibo://detail?mblogid=5227442601984517",
+    "sinaweibo://detail?mblogid=5227375497578125",
+    "historyweibo://5227179306911953",
+    "historyweibo://5178317679626303",
+    "sinaweibo://detail?mblogid=5227360938625546",
+    "sinaweibo://detail?mblogid=5227373731251014",
+    "sinaweibo://detail?mblogid=5227375701787189",
+    "sinaweibo://detail?mblogid=5227375802974442",
+    "sinaweibo://detail?mblogid=5227376279814952",
+    "sinaweibo://detail?mblogid=5227387262599757",
+    "sinaweibo://detail?mblogid=5227375492858018",
+    "sinaweibo://detail?mblogid=5227377224581335",
+    "sinaweibo://detail?mblogid=5227376247570640",
+    "sinaweibo://detail?mblogid=5227387005960381",
+    "sinaweibo://detail?mblogid=5227371717726772",
+    "sinaweibo://detail?mblogid=5227396489284200",
+    "sinaweibo://detail?mblogid=5227375492596059",
+    "sinaweibo://detail?mblogid=5227371847745904",
+    "sinaweibo://detail?mblogid=5227375492858381",
+    "sinaweibo://detail?mblogid=5227375744516864",
+    "sinaweibo://detail?mblogid=5227375492596056",
+    "sinaweibo://detail?mblogid=5227375807692910",
+    "sinaweibo://detail?mblogid=5227423320769724",
+    "sinaweibo://detail?mblogid=5227831743222453",
+    "sinaweibo://detail?mblogid=5227452253083264",
+    "sinaweibo://detail?mblogid=5227375572288138",
+    "sinaweibo://detail?mblogid=5227356643131771",
+    "sinaweibo://detail?mblogid=5227375744516619",
+    "sinaweibo://detail?mblogid=5227363081129144",
+    "sinaweibo://detail?mblogid=5208272858513602",
+    "sinaweibo://detail?mblogid=5188407231780315",
+    "sinaweibo://detail?mblogid=5208262467128544",
+    "sinaweibo://detail?mblogid=5227372220514541",
+    "sinaweibo://detail?mblogid=5227379559498392",
+    "sinaweibo://detail?mblogid=5227378315104045",
+    "sinaweibo://detail?mblogid=5082027928585775",
+    "sinaweibo://detail?mblogid=4588947093328387",
+    "https://k.sina.cn/article_2895759815_mac99c9c703302eshg.html?from=mood&wm=3049_0032"
+  ],
+  "media": [
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/538bc62dgy1i556ywt1b0j21402gwdkn.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/538bc62dgy1i556ywt1b0j21402gwdkn.jpg",
+      "alt": "貔貅视点",
+      "width": 3200,
+      "height": 1440,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/538bc62dgy1i556ywt1b0j21402gwdkn.jpg"
+      ],
+      "user": "貔貅视点"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/006tLGDugy1i6tailqw8uj30g20j741l.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/006tLGDugy1i6tailqw8uj30g20j741l.jpg",
+      "alt": "fairy财猪猪",
+      "width": 691,
+      "height": 578,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/006tLGDugy1i6tailqw8uj30g20j741l.jpg"
+      ],
+      "user": "fairy财猪猪"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/45fbd716gy1i6tcc3judqj20nq0dcjsc.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/45fbd716gy1i6tcc3judqj20nq0dcjsc.jpg",
+      "alt": "小六忠诚",
+      "width": 480,
+      "height": 854,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/45fbd716gy1i6tcc3judqj20nq0dcjsc.jpg"
+      ],
+      "user": "小六忠诚"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/3c628b80ly1i6tak2m99wj20ey0dcgml.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/3c628b80ly1i6tak2m99wj20ey0dcgml.jpg",
+      "alt": "北京王飞鹏",
+      "width": 480,
+      "height": 538,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/3c628b80ly1i6tak2m99wj20ey0dcgml.jpg"
+      ],
+      "user": "北京王飞鹏"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/94be6943ly1i6ta0fx4mzj21hc0u0tbf.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/94be6943ly1i6ta0fx4mzj21hc0u0tbf.jpg",
+      "alt": "不伤仲永",
+      "width": 1080,
+      "height": 1920,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/94be6943ly1i6ta0fx4mzj21hc0u0tbf.jpg"
+      ],
+      "user": "不伤仲永"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/44d512fbly1i6u4rl2yttj20z71bugpv.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/44d512fbly1i6u4rl2yttj20z71bugpv.jpg",
+      "alt": "金融八卦女",
+      "width": 1722,
+      "height": 1267,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/44d512fbly1i6u4rl2yttj20z71bugpv.jpg"
+      ],
+      "user": "金融八卦女"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/0070AfZJgy1i6tmc0ceb4j31lg2jix6p.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/0070AfZJgy1i6tmc0ceb4j31lg2jix6p.jpg",
+      "alt": "知书少年果麦麦",
+      "width": 3294,
+      "height": 2068,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/0070AfZJgy1i6tmc0ceb4j31lg2jix6p.jpg"
+      ],
+      "user": "知书少年果麦麦"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/6594fbc8gy1i6tekm2kxtj211a0kzttr.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/6594fbc8gy1i6tekm2kxtj211a0kzttr.jpg",
+      "alt": "财经旅长",
+      "width": 755,
+      "height": 1342,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/6594fbc8gy1i6tekm2kxtj211a0kzttr.jpg"
+      ],
+      "user": "财经旅长"
+    }
+  ],
+  "html_path": "data/aicard/hourly/2025-10-30/13/topic-15cf683a.html"
+}

@@ -1,0 +1,273 @@
+{
+  "meta": {
+    "query": "#沈腾 又被南村群童欺负了#",
+    "status_code": 200,
+    "fetched_at": "2025-11-04T19:30:40+08:00",
+    "response": {
+      "model": "deepseek",
+      "mid_list": null,
+      "profile_image_url": "",
+      "query_category": "",
+      "status_stage": 4,
+      "link_list": [
+        "sinaweibo://detail?mblogid=5229278171497598",
+        "sinaweibo://detail?mblogid=5113259231548240",
+        "sinaweibo://detail?mblogid=5105342671226739",
+        "sinaweibo://detail?mblogid=5199252879839951",
+        "sinaweibo://detail?mblogid=5204209784851577",
+        "sinaweibo://detail?mblogid=5112562838147348",
+        "broadsocial_res://",
+        "historyweibo://5229298034415773",
+        "historyweibo://5229278171497598",
+        "historyweibo://5227074010219441",
+        "sinaweibo://detail?mblogid=5229340150203964",
+        "sinaweibo://detail?mblogid=5229338703433436",
+        "sinaweibo://detail?mblogid=5229338025007951",
+        "sinaweibo://detail?mblogid=5229337574900076",
+        "sinaweibo://detail?mblogid=5229337055860046",
+        "sinaweibo://detail?mblogid=5229336534714573",
+        "sinaweibo://detail?mblogid=5229336120794227",
+        "sinaweibo://detail?mblogid=5229336061283095",
+        "sinaweibo://detail?mblogid=5229335994174655",
+        "sinaweibo://detail?mblogid=5229335342482408",
+        "sinaweibo://detail?mblogid=5229330439341605",
+        "sinaweibo://detail?mblogid=4786373850041329",
+        "sinaweibo://detail?mblogid=5229340066583903",
+        "sinaweibo://detail?mblogid=5189443531049693",
+        "sinaweibo://detail?mblogid=5094893170985075"
+      ],
+      "q_attr": {
+        "reply_cid": "",
+        "from_uid": "",
+        "from_request_id": "",
+        "mid": "",
+        "comment_from_type": ""
+      },
+      "card_multimodal": {
+        "type": "mediablock",
+        "data": [
+          {
+            "img": "http://wx4.sinaimg.cn/middle/005XzJNwly1i7079t9cjig60fs08wkjr02.gif",
+            "w": 568,
+            "cur_mid": "5229278171497598",
+            "vtype": 0,
+            "user_name": "影视圈达人",
+            "type": "p",
+            "user_avatar": "https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/005XzJNwly8i6rwgw2q2tj60u00u0tao02.jpg?KID=imgbed,tva&Expires=1762266121&ssig=E7KogyatBf",
+            "scheme": "sinaweibo://multimedia?mix_mid=5229278171497598&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=1&multi_count=0",
+            "h": 320,
+            "hit_score_final": 0,
+            "hit_score_new": 0,
+            "doc_score": 0,
+            "img_pid": "005XzJNwly1i7079t9cjig60fs08wkjr02",
+            "video_url": "",
+            "click_rate": 0.06,
+            "click_num": 0
+          },
+          {
+            "img": "http://wx3.sinaimg.cn/middle/0020P0ngly1h3r8fs08jtj60l50hgdpd02.jpg",
+            "w": 761,
+            "cur_mid": "4786373850041329",
+            "vtype": 0,
+            "user_name": "萌酱爱摸鱼",
+            "type": "p",
+            "user_avatar": "https://tvax2.sinaimg.cn/crop.0.0.1024.1024.50/0020P0ngly8hxej2vmezdj60sg0sg76502.jpg?KID=imgbed,tva&Expires=1762266121&ssig=STdIUor%2B7N",
+            "scheme": "sinaweibo://multimedia?mix_mid=4786373850041329&from=search&content_show=1&mix_index=4&hide_index=1&multi_paragraph=2&multi_count=0",
+            "h": 628,
+            "hit_score_final": 65.660156,
+            "hit_score_new": 69.433594,
+            "doc_score": 3374,
+            "img_pid": "0020P0ngly1h3r8fs08jtj60l50hgdpd02",
+            "video_url": "",
+            "click_rate": 0.06,
+            "click_num": 0
+          },
+          {
+            "img": "http://wx2.sinaimg.cn/middle/0077BVEXgy1i3h4gt8nmyj30k00zkjsn.jpg",
+            "w": 720,
+            "cur_mid": "5189443531049693",
+            "vtype": 3,
+            "user_name": "这剧会火",
+            "type": "v",
+            "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.200.200.50/0077BVEXly1fqe7k7sh7cj305k05kaaa.jpg?KID=imgbed,tva&Expires=1762266121&ssig=IywhVhJkRb",
+            "scheme": "sinaweibo://video/vvs?mid=5189443531049693&multi_paragraph=2&multi_count=1",
+            "h": 1280,
+            "hit_score_final": 77.445312,
+            "hit_score_new": 85.742188,
+            "doc_score": 1806,
+            "img_pid": "0077BVEXgy1i3h4gt8nmyj30k00zkjsn",
+            "video_url": "https://video.weibo.com/show?fid=1034:5189438930878530",
+            "click_rate": 0,
+            "click_num": 0
+          },
+          {
+            "img": "http://wx4.sinaimg.cn/middle/005XzJNwly1i7079t9cjig60fs08wkjr02.gif",
+            "w": 568,
+            "cur_mid": "5229278171497598",
+            "vtype": 0,
+            "user_name": "影视圈达人",
+            "type": "p",
+            "user_avatar": "https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/005XzJNwly8i6rwgw2q2tj60u00u0tao02.jpg?KID=imgbed,tva&Expires=1762266121&ssig=E7KogyatBf",
+            "scheme": "sinaweibo://multimedia?mix_mid=5229278171497598&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=1&multi_count=0",
+            "h": 320,
+            "hit_score_final": 0,
+            "hit_score_new": 0,
+            "doc_score": 0,
+            "img_pid": "005XzJNwly1i7079t9cjig60fs08wkjr02",
+            "video_url": "",
+            "click_rate": 0.06,
+            "click_num": 0
+          }
+        ]
+      },
+      "share_card_multimodal": {
+        "img": "http://wx4.sinaimg.cn/middle/005XzJNwly1i7079t9cjig60fs08wkjr02.gif",
+        "w": 568,
+        "cur_mid": "5229278171497598",
+        "vtype": 0,
+        "user_name": "影视圈达人",
+        "type": "p",
+        "user_avatar": "https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/005XzJNwly8i6rwgw2q2tj60u00u0tao02.jpg?KID=imgbed,tva&Expires=1762266121&ssig=E7KogyatBf",
+        "scheme": "sinaweibo://multimedia?mix_mid=5229278171497598&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=1&multi_count=0",
+        "h": 320,
+        "hit_score_final": 0,
+        "hit_score_new": 0,
+        "doc_score": 0,
+        "img_pid": "005XzJNwly1i7079t9cjig60fs08wkjr02",
+        "video_url": "",
+        "click_rate": 0.06,
+        "click_num": 0
+      },
+      "reliable_tips": "{\"gold_orange_v_mids\": [\"5229278171497598\", \"4786373850041329\", \"5199252879839951\", \"5229335994174655\", \"5113259231548240\", \"5105342671226739\", \"5112562838147348\", \"5229336061283095\", \"5229330439341605\"], \"gold_orange_v_ratio\": \"43%\", \"media_mids\": [], \"media_ratio\": \"0%\", \"verified_mids\": [\"5189443531049693\", \"5229340150203964\", \"5204209784851577\", \"5229340066583903\"], \"verified_ratio\": \"19%\", \"normal_mids\": [\"5229338703433436\", \"5229338025007951\", \"5229336534714573\", \"5229336120794227\", \"5229337574900076\", \"5229337055860046\", \"5229335342482408\", \"5094893170985075\"], \"normal_ratio\": \"38%\", \"ref_mid_rank\": {\"5229278171497598\": {\"rank\": 1}, \"5229338703433436\": {\"rank\": 12}, \"5229338025007951\": {\"rank\": 13}, \"5229336534714573\": {\"rank\": 16}, \"5229336120794227\": {\"rank\": 17}, \"4786373850041329\": {\"rank\": 22}, \"5189443531049693\": {\"rank\": 24}, \"5199252879839951\": {\"rank\": 4}, \"5229340150203964\": {\"rank\": 11}, \"5229335994174655\": {\"rank\": 19}, \"5113259231548240\": {\"rank\": 2}, \"5105342671226739\": {\"rank\": 3}, \"5204209784851577\": {\"rank\": 5}, \"5112562838147348\": {\"rank\": 6}, \"5229337574900076\": {\"rank\": 14}, \"5229337055860046\": {\"rank\": 15}, \"5229336061283095\": {\"rank\": 18}, \"5229335342482408\": {\"rank\": 20}, \"5229330439341605\": {\"rank\": 21}, \"5229340066583903\": {\"rank\": 23}, \"5094893170985075\": {\"rank\": 25}}}",
+      "basemodel": "实验组5",
+      "ext_show": {},
+      "status": 2,
+      "current_time": 1762255840,
+      "user_info": {},
+      "comment_info": {},
+      "unify_md5": "2e7d8922c767383a2ab61cc74b1c7438",
+      "query": "#沈腾 又被南村群童欺负了#",
+      "loop_times": 200,
+      "news_analyze": {},
+      "msg_format": "markdown",
+      "short_url": "http://t.cn/AXAjLQCR",
+      "msg_json": "{}",
+      "abtest_info": {
+        "chat_entrance": 1
+      },
+      "wenda": {
+        "forward_gen": 0
+      },
+      "reference_num": 21,
+      "ab_suffix": "default",
+      "top_quote_list": {},
+      "query_field": "0",
+      "share_info": {
+        "unify_md5": "2e7d8922c767383a2ab61cc74b1c7438",
+        "tips": "#沈腾 又被南村群童欺负了#的相关内容，来智搜看看",
+        "status": 3,
+        "comment_content": "",
+        "page_id": "2329647d5aca46d51db9d80f40c29cb1620a70",
+        "display_name": "#沈腾 又被南村群童欺负了#",
+        "url": "http://t.cn/AXAYXkuA"
+      },
+      "sorted_material_list": null,
+      "qs_status_info": "{\"qs_r_status\":0,\"qs_u_status\":0,\"qs_status\":0,\"qs_q_status\":0,\"ab_lab\":{},\"qs_c_status\":8388608}",
+      "cot": 1,
+      "chat_status_stage": 1,
+      "version": "2025-11-04 19:22:01.178999-6241",
+      "analysis_time": 1762255494,
+      "page_id": "2329647d5aca46d51db9d80f40c29cb1620a70",
+      "uid": "",
+      "scheme": "sinaweibo://cardlist?containerid=100103type%3D225%26q%3D%23%E6%B2%88%E8%85%BE%20%E5%8F%88%E8%A2%AB%E5%8D%97%E6%9D%91%E7%BE%A4%E7%AB%A5%E6%AC%BA%E8%B4%9F%E4%BA%86%23%26t%3D&extparam=ai_model%3Ddeepseek%26ori_ai_title%3D%E5%8F%82%E8%80%83%E5%8D%9A%E6%96%87%26material_version%3D1762255321",
+      "zs_risk_control": {
+        "think_text_close": 0,
+        "land_button_close": 0
+      },
+      "qs_status": 0,
+      "msg": "<think><br>嗯，用户查询了\"沈腾 又被南村群童欺负了\"相关内容，看起来是想了解最近关于沈腾的综艺搞笑事件。这个问题挺有意思的，沈腾作为喜剧演员经常在节目中有一些有趣的表现。<br><br>我先看看搜索结果里有什么信息。第一条是2025年11月4日的微博，讲述了在《现在就出发》节目中的一个游戏环节。沈腾在\"心有灵犀两点通\"游戏中需要表演\"冷酷无情的杀手\"场景，但自己上场时语塞，只能\"咳咳\"两下。这时其他年轻嘉宾们开始发挥，孙千喊\"我命不久矣\"、范丞丞接\"我年事已高\"、王安宇补刀\"不动刀也活不了多久了\"。这个场景被调侃为\"南村群童欺我无力\"。<br><br>第二条微博是2024年12月19日的，提到沈腾在节目中\"光受弟弟妹妹们的欺负\"，还提到了狼人杀环节中\"不知道狼人就先投腾哥\"的操作。<br><br>第三条微博是2024年11月27日的，也说\"南村群童欺我老无力，两小孩嚯嚯沈腾\"，说明这个梗由来已久。<br><br>第七条资料解释了\"南村群童\"这个梗的来源，是化用杜甫的诗句，并说明沈腾\"被年轻嘉宾欺负\"的综艺人设是长期形成的，在不同节目中都有类似情况。<br><br>第八条资料详细分析了沈腾在综艺中被\"压制\"的各种类型，包括语言压制类、熟人压制类、规则与体力类等，解释了为什么\"沈腾被拿捏\"更搞笑的原因。<br><br>第九条资料专门分析了2025年11月4日的热点话题\"沈腾又被南村群童欺负了\"，详细描述了游戏过程，并分析了这个梗的由来与延伸。<br><br>其他搜索结果大多是微博用户对这个话题的讨论和调侃，一致觉得沈腾的这种表现特别搞笑。<br><br>综合来看，用户可能是看到了相关热搜或节目片段，想了解这个梗的来龙去脉。我需要在回答中解释清楚：\"南村群童\"的来源典故；最新事件的具体情况；沈腾在综艺中的长期人设；观众和业内人士对这个现象的评价。<br><br>我会在回答中重点突出游戏现场的戏剧性反差（沈腾猜测别人题目时妙语连珠vs自己表演时语塞）、年轻嘉宾们集体创作的欢乐场景、沈腾包容的应对方式，以及这个现象背后的喜剧原理。由于很多用户可能没看过原节目，我会用生动语言还原现场画面感。<br><br>考虑到沈腾是国民级喜剧演员，回答风格可以轻松幽默一些，但也要保持信息准确性。对于引用不同来源的内容，我会做好引用标记。<br><br></think><br>关于沈腾在综艺节目中被调侃“被南村群童欺负”的现象，本质上是其经典喜剧人设的延续与升华。以下综合最新事件及背景脉络深度解析：<br>### 🔍 **核心事件还原：默契游戏中的“反杀”现场**<br>在2025年11月《现在就出发》的“心有灵犀两点通”游戏中，沈腾需表演“冷酷杀手被一句话打动而放过反派”的设定。```wbCustomBlock{\"type\": \"quoted\", \"index\": 3, \"data\": {\"num\": [1, 12], \"version\": 2, \"quote_list\": [{\"name\": \"影视圈达人\", \"scheme\": \"sinaweibo://detail?mblogid=5229278171497598\", \"index\": 1, \"label\": \"大v\"}, {\"name\": \"lzl啊\", \"scheme\": \"sinaweibo://detail?mblogid=5229338703433436\", \"index\": 12, \"label\": \"\"}], \"name\": \"影视圈达人\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/005XzJNwly8i6rwgw2q2tj60u00u0tao02.jpg?KID=imgbed,tva&Expires=1762266121&ssig=E7KogyatBf\", \"scheme\": \"sinaweibo://detail?mblogid=5229278171497598\", \"vType\": 0}}```  <br>- **反差名场面**：当其他嘉宾表演时，沈腾作为旁观者妙语连珠，精准预测台词走向；轮到自己上场时却突然语塞，仅发出“咳咳”两声，陷入呆滞状态。```wbCustomBlock{\"type\": \"quoted\", \"index\": 4, \"data\": {\"num\": [1, 13], \"version\": 2, \"quote_list\": [{\"name\": \"影视圈达人\", \"scheme\": \"sinaweibo://detail?mblogid=5229278171497598\", \"index\": 1, \"label\": \"\"}, {\"name\": \"慧敏最爱你\", \"scheme\": \"sinaweibo://detail?mblogid=5229338025007951\", \"index\": 13, \"label\": \"\"}]}}```  <br>- **集体创作爆发**：年轻嘉宾瞬间化身“魔童军团”替他编词——孙千高喊“我命不久矣！”，范丞丞接力“我年事已高！”，王安宇补刀“不动刀也活不了多久了！”。沈腾的苦笑与众人七嘴八舌的场面被网友戏称为“南村群童欺腾坐地下”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 5, \"data\": {\"num\": [1, 12, 16, 17], \"version\": 2, \"quote_list\": [{\"name\": \"影视圈达人\", \"scheme\": \"sinaweibo://detail?mblogid=5229278171497598\", \"index\": 1, \"label\": \"\"}, {\"name\": \"lzl啊\", \"scheme\": \"sinaweibo://detail?mblogid=5229338703433436\", \"index\": 12, \"label\": \"\"}, {\"name\": \"小肚小肚o我在\", \"scheme\": \"sinaweibo://detail?mblogid=5229336534714573\", \"index\": 16, \"label\": \"\"}, {\"name\": \"牛奶蘑菇妞妞\", \"scheme\": \"sinaweibo://detail?mblogid=5229336120794227\", \"index\": 17, \"label\": \"\"}]}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5229278171497598&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=1&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/005XzJNwly8i6rwgw2q2tj60u00u0tao02.jpg?KID=imgbed,tva&Expires=1762266121&ssig=E7KogyatBf) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">影视圈达人</span><img src=\"http://wx4.sinaimg.cn/middle/005XzJNwly1i7079t9cjig60fs08wkjr02.gif\" data-width=320 data-height=568></div></media-block><br>### 📜 **“南村群童”梗的由来与深化**<br>1. **文学化用溯源**：  <br>   该词化用杜甫《茅屋为秋风所破歌》中“南村群童欺我老无力”的诗句。早在2022年《快乐大本营》中，陈晓用锁喉动作“欺负”沈腾时，已有观众用此句调侃；2024年《麻花特开心》狼人杀环节，沈腾因“反应慢”被集体针对，梗进一步发酵。```wbCustomBlock{\"type\": \"quoted\", \"index\": 8, \"data\": {\"num\": [22, 24], \"version\": 2, \"quote_list\": [{\"name\": \"萌酱爱摸鱼\", \"scheme\": \"sinaweibo://detail?mblogid=4786373850041329\", \"index\": 22, \"label\": \"大v\"}, {\"name\": \"这剧会火\", \"scheme\": \"sinaweibo://detail?mblogid=5189443531049693\", \"index\": 24, \"label\": \"\"}], \"name\": \"萌酱爱摸鱼\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.1024.1024.50/0020P0ngly8hxej2vmezdj60sg0sg76502.jpg?KID=imgbed,tva&Expires=1762266121&ssig=STdIUor%2B7N\", \"scheme\": \"sinaweibo://detail?mblogid=4786373850041329\", \"vType\": 0}}```  <br><br>2. **跨节目人设强化**：  <br>   - **体力压制**：2025年8月同节目中，胡先煦在体力游戏中压制沈腾，后者自嘲“老无力”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 10, \"data\": {\"num\": [4], \"version\": 2, \"quote_list\": [{\"name\": \"不另外加糖的冰美式\", \"scheme\": \"sinaweibo://detail?mblogid=5199252879839951\", \"index\": 4, \"label\": \"\"}]}}```  <br>   - **语言暴击**：王安宇用无厘头情话“这里有同学要表白吗？”致沈腾语塞；姜妍则以高智商拆解逻辑让其“强撑沉默”。  <br>   - **熟人制裁**：马丽在抢拖鞋游戏中预判其耍赖，直接推翻沈腾；沙溢靠师兄血脉压制令其抱头躲闪。<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=4786373850041329&from=search&content_show=1&mix_index=4&hide_index=1&multi_paragraph=2&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.1024.1024.50/0020P0ngly8hxej2vmezdj60sg0sg76502.jpg?KID=imgbed,tva&Expires=1762266121&ssig=STdIUor%2B7N) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">萌酱爱摸鱼</span><img src=\"http://wx3.sinaimg.cn/middle/0020P0ngly1h3r8fs08jtj60l50hgdpd02.jpg\" data-width=628 data-height=761></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5189443531049693&multi_paragraph=2&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.200.200.50/0077BVEXly1fqe7k7sh7cj305k05kaaa.jpg?KID=imgbed,tva&Expires=1762266121&ssig=IywhVhJkRb) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">这剧会火</span><img src=\"http://wx2.sinaimg.cn/middle/0077BVEXgy1i3h4gt8nmyj30k00zkjsn.jpg\" data-width=1280 data-height=720></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5199252879839951&multi_paragraph=2&multi_count=2\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.750.750.50/008cWByjly8i5w6c98vqij30ku0kuglz.jpg?KID=imgbed,tva&Expires=1762266121&ssig=RKuibAdxo9) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">不另外加糖的冰美式</span><img src=\"http://wx3.sinaimg.cn/middle/008cWByjly1i4cel7t57dj30qo0k0my8.jpg\" data-width=720 data-height=960></div></media-block><br>### 💡 **喜剧原理：为何“被欺负”的沈腾更搞笑？**<br>1. **反差萌最大化**：  <br>   嘴上自称“控场王者”，行动却漏洞百出——猜题时的敏捷思维vs表演时的突然宕机，形成极致反差。```wbCustomBlock{\"type\": \"quoted\", \"index\": 15, \"data\": {\"num\": [11], \"version\": 2, \"quote_list\": [{\"name\": \"我哥应恒阳\", \"scheme\": \"sinaweibo://detail?mblogid=5229340150203964\", \"index\": 11, \"label\": \"\"}]}}```  <br><br>2. **群体互动范式**：  <br>   年轻嘉宾的调侃基于熟人局默契（如孙千、范丞丞与沈腾多次合作），分寸感把控精准。沈腾以苦笑、瞳孔地震等“身体喜剧”回应，反将意外转化为高光时刻。```wbCustomBlock{\"type\": \"quoted\", \"index\": 16, \"data\": {\"num\": [11, 17], \"version\": 2, \"quote_list\": [{\"name\": \"我哥应恒阳\", \"scheme\": \"sinaweibo://detail?mblogid=5229340150203964\", \"index\": 11, \"label\": \"\"}, {\"name\": \"牛奶蘑菇妞妞\", \"scheme\": \"sinaweibo://detail?mblogid=5229336120794227\", \"index\": 17, \"label\": \"\"}]}}```  <br><br>3. **人设真实感**：  <br>   观众已形成“沈腾=团欺喜剧人”的认知，其接纳自黑的态度（如主动接梗“南村群童”）凸显真实人格魅力。```wbCustomBlock{\"type\": \"quoted\", \"index\": 17, \"data\": {\"num\": [11, 19], \"version\": 2, \"quote_list\": [{\"name\": \"财喜善\", \"scheme\": \"sinaweibo://detail?mblogid=5229335994174655\", \"index\": 19, \"label\": \"大v\"}, {\"name\": \"我哥应恒阳\", \"scheme\": \"sinaweibo://detail?mblogid=5229340150203964\", \"index\": 11, \"label\": \"\"}], \"name\": \"财喜善\", \"img\": \"https://tvax4.sinaimg.cn/crop.42.35.153.153.50/670e9839ly8fwh1nab95bj205k05k3yq.jpg?KID=imgbed,tva&Expires=1762266121&ssig=%2FTfAdPgZqg\", \"scheme\": \"sinaweibo://detail?mblogid=5229335994174655\", \"vType\": 0}}```<br>### ⚠️ **争议与行业价值**<br>- **权威感削弱？**  <br>  部分观点担忧过度调侃削弱其主导性，但更多观众认为：  <br>  - 沈腾始终掌握综艺节奏，通过“被压制”激发群体喜剧效应；```wbCustomBlock{\"type\": \"quoted\", \"index\": 21, \"data\": {\"num\": [11], \"version\": 2, \"quote_list\": [{\"name\": \"我哥应恒阳\", \"scheme\": \"sinaweibo://detail?mblogid=5229340150203964\", \"index\": 11, \"label\": \"\"}]}}```  <br>  - 制作方巧妙设计“前期铺垫-反转卡壳-集体创作”流程，使场面自然鲜活。```wbCustomBlock{\"type\": \"quoted\", \"index\": 22, \"data\": {\"num\": [16], \"version\": 2, \"quote_list\": [{\"name\": \"小肚小肚o我在\", \"scheme\": \"sinaweibo://detail?mblogid=5229336534714573\", \"index\": 16, \"label\": \"\"}]}}```  <br>- **行业启示**：  <br>  沈腾的“被欺负”实则是顶级现挂能力的体现——用失控成就可控笑点，为真人秀提供“沉浸式喜剧”范本。<br>### 📌 **关联事件区分**<br>需注意本次“南村群童”特指2025年11月默契游戏事件，与2025年10月沈腾杨幂“互扶小品”、2024年“狼人杀围攻”属不同场景，但共同强化了其喜剧人设的统一性。```wbCustomBlock{\"type\": \"quoted\", \"index\": 25, \"data\": {\"num\": [1], \"version\": 2, \"quote_list\": [{\"name\": \"影视圈达人\", \"scheme\": \"sinaweibo://detail?mblogid=5229278171497598\", \"index\": 1, \"label\": \"\"}]}}```<br>",
+      "show_ctrl": {
+        "quote": {}
+      },
+      "share_text": "#沈腾 又被南村群童欺负了#的相关内容，来智搜看看"
+    }
+  },
+  "links": [
+    "sinaweibo://detail?mblogid=5229278171497598",
+    "sinaweibo://detail?mblogid=5113259231548240",
+    "sinaweibo://detail?mblogid=5105342671226739",
+    "sinaweibo://detail?mblogid=5199252879839951",
+    "sinaweibo://detail?mblogid=5204209784851577",
+    "sinaweibo://detail?mblogid=5112562838147348",
+    "broadsocial_res://",
+    "historyweibo://5229298034415773",
+    "historyweibo://5229278171497598",
+    "historyweibo://5227074010219441",
+    "sinaweibo://detail?mblogid=5229340150203964",
+    "sinaweibo://detail?mblogid=5229338703433436",
+    "sinaweibo://detail?mblogid=5229338025007951",
+    "sinaweibo://detail?mblogid=5229337574900076",
+    "sinaweibo://detail?mblogid=5229337055860046",
+    "sinaweibo://detail?mblogid=5229336534714573",
+    "sinaweibo://detail?mblogid=5229336120794227",
+    "sinaweibo://detail?mblogid=5229336061283095",
+    "sinaweibo://detail?mblogid=5229335994174655",
+    "sinaweibo://detail?mblogid=5229335342482408",
+    "sinaweibo://detail?mblogid=5229330439341605",
+    "sinaweibo://detail?mblogid=4786373850041329",
+    "sinaweibo://detail?mblogid=5229340066583903",
+    "sinaweibo://detail?mblogid=5189443531049693",
+    "sinaweibo://detail?mblogid=5094893170985075"
+  ],
+  "media": [
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/005XzJNwly1i7079t9cjig60fs08wkjr02.gif",
+      "secure_url": "https://wx4.sinaimg.cn/middle/005XzJNwly1i7079t9cjig60fs08wkjr02.gif",
+      "alt": "影视圈达人",
+      "width": 320,
+      "height": 568,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/005XzJNwly1i7079t9cjig60fs08wkjr02.jpg"
+      ],
+      "user": "影视圈达人"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/0020P0ngly1h3r8fs08jtj60l50hgdpd02.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/0020P0ngly1h3r8fs08jtj60l50hgdpd02.jpg",
+      "alt": "萌酱爱摸鱼",
+      "width": 628,
+      "height": 761,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/0020P0ngly1h3r8fs08jtj60l50hgdpd02.jpg"
+      ],
+      "user": "萌酱爱摸鱼"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/0077BVEXgy1i3h4gt8nmyj30k00zkjsn.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/0077BVEXgy1i3h4gt8nmyj30k00zkjsn.jpg",
+      "alt": "这剧会火",
+      "width": 1280,
+      "height": 720,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/0077BVEXgy1i3h4gt8nmyj30k00zkjsn.jpg"
+      ],
+      "user": "这剧会火"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/008cWByjly1i4cel7t57dj30qo0k0my8.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/008cWByjly1i4cel7t57dj30qo0k0my8.jpg",
+      "alt": "不另外加糖的冰美式",
+      "width": 720,
+      "height": 960,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/008cWByjly1i4cel7t57dj30qo0k0my8.jpg"
+      ],
+      "user": "不另外加糖的冰美式"
+    }
+  ],
+  "html_path": "data/aicard/hourly/2025-11-04/19/topic-2e7d8922.html"
+}

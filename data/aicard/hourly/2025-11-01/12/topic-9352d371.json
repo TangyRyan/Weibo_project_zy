@@ -1,0 +1,43 @@
+{
+  "meta": {
+    "query": "#共同开创可持续的美好明天#",
+    "status_code": 200,
+    "fetched_at": "2025-11-01T12:36:57+08:00",
+    "response": {
+      "model": "",
+      "loop_times": 200,
+      "status": 3,
+      "qs_status": 2,
+      "msg": "抱歉，这个问题我暂时无法回答，换个问题试试吧",
+      "query": "#共同开创可持续的美好明天#",
+      "analysis_time": 0,
+      "zs_risk_control": {
+        "may_be_ask_show": 0
+      },
+      "ext_show": {},
+      "uid": "",
+      "ab_suffix": "default",
+      "qs_status_info": "{\"qs_c_status\":0,\"qs_r_status\":0,\"qs_u_status\":0,\"qs_status\":2,\"qs_q_status\":2,\"ab_lab\":{}}",
+      "abtest_info": {
+        "chat_entrance": 1
+      },
+      "comment_info": {},
+      "cot": 1,
+      "wenda": {
+        "forward_gen": 0
+      },
+      "share_info": {
+        "display_name": "#共同开创可持续的美好明天#",
+        "url": "http://t.cn/AXAMLOsS",
+        "tips": "#共同开创可持续的美好明天#的相关内容，来智搜看看",
+        "unify_md5": "9352d37148a7b289445089259b4ffc62",
+        "page_id": "",
+        "status": 1,
+        "comment_content": ""
+      }
+    }
+  },
+  "links": [],
+  "media": [],
+  "html_path": "data/aicard/hourly/2025-11-01/12/topic-9352d371.html"
+}

@@ -1,0 +1,340 @@
+{
+  "meta": {
+    "query": "#饶雪漫回复翁青雅#",
+    "status_code": 200,
+    "fetched_at": "2025-11-03T11:54:08+08:00",
+    "response": {
+      "short_url": "http://t.cn/AXA92XiF",
+      "show_ctrl": {
+        "quote": {}
+      },
+      "loop_times": 200,
+      "comment_info": {},
+      "scheme": "sinaweibo://cardlist?containerid=100103type%3D225%26q%3D%23%E9%A5%B6%E9%9B%AA%E6%BC%AB%E5%9B%9E%E5%A4%8D%E7%BF%81%E9%9D%92%E9%9B%85%23%26t%3D&extparam=ai_model%3Ddeepseek%26ori_ai_title%3D%E5%8F%82%E8%80%83%E5%8D%9A%E6%96%87%26material_version%3D1762141807",
+      "query": "#饶雪漫回复翁青雅#",
+      "share_text": "#饶雪漫回复翁青雅#的相关内容，来智搜看看",
+      "basemodel": "实验组9",
+      "sorted_material_list": null,
+      "profile_image_url": "",
+      "ab_suffix": "default",
+      "abtest_info": {
+        "chat_entrance": 1
+      },
+      "status": 2,
+      "wenda": {
+        "forward_gen": 0
+      },
+      "uid": "",
+      "q_attr": {
+        "from_request_id": "",
+        "mid": "",
+        "comment_from_type": "",
+        "from_uid": "",
+        "reply_cid": ""
+      },
+      "chat_status_stage": 1,
+      "qs_status_info": "{\"qs_c_status\":8388608,\"qs_r_status\":0,\"qs_u_status\":0,\"qs_q_status\":0,\"qs_status\":0,\"ab_lab\":{}}",
+      "news_analyze": {},
+      "msg_json": "{}",
+      "unify_md5": "9aff8ebbf3c6af08842797278746b450",
+      "zs_risk_control": {
+        "think_text_close": 0,
+        "land_button_close": 0
+      },
+      "model": "deepseek",
+      "msg_format": "markdown",
+      "top_quote_list": {},
+      "query_field": "1",
+      "query_category": "Gossip",
+      "share_card_multimodal": {
+        "hit_score_final": 85.374611,
+        "cur_mid": "5228855406365216",
+        "img": "http://wx3.sinaimg.cn/middle/008xsv5pgy1i6yutef8j5j31i30u0wk5.jpg",
+        "user_name": "祈愿菟",
+        "w": 1947,
+        "user_avatar": "https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/008xsv5ply8i6x1wtfdcmj30u00u0410.jpg?KID=imgbed,tva&Expires=1762152607&ssig=r9hfLDFN%2FG",
+        "vtype": 0,
+        "type": "p",
+        "h": 1080,
+        "click_rate": 0.06,
+        "hit_score_new": 98.291016,
+        "doc_score": 6151,
+        "img_pid": "008xsv5pgy1i6yutef8j5j31i30u0wk5",
+        "scheme": "sinaweibo://multimedia?mix_mid=5228855406365216&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=1&multi_count=0",
+        "video_url": ""
+      },
+      "reliable_tips": "{\"gold_orange_v_mids\": [\"5228857003084819\", \"5228529593092897\", \"5228855406365216\", \"5228827230078925\", \"5228627174362495\", \"5228825222842359\", \"5228826138512431\", \"5228842195094910\", \"5228848040120719\", \"5228824695670112\", \"5228850469407180\", \"5098132989545950\", \"5098728007139591\", \"5228817503487404\", \"5228831830181012\", \"5098153861449312\", \"5228803451521636\", \"5228810169749410\", \"5228833519176393\", \"5228835396125629\", \"5228830021128973\", \"5228828060290310\", \"5228826452035025\", \"5228827476755962\", \"5228839011355159\", \"5228863929451321\", \"5228863840062390\"], \"gold_orange_v_ratio\": \"79%\", \"media_mids\": [\"5228668635058748\", \"5228851874759720\", \"5228828882370703\"], \"media_ratio\": \"9%\", \"verified_mids\": [\"5228643883419786\"], \"verified_ratio\": \"3%\", \"normal_mids\": [\"5228826095519018\", \"5228863743592256\", \"5198254972077371\"], \"normal_ratio\": \"9%\", \"ref_mid_rank\": {\"5228857003084819\": {\"rank\": 4}, \"5228529593092897\": {\"rank\": 14}, \"5228855406365216\": {\"rank\": 6}, \"5228827230078925\": {\"rank\": 21}, \"5228627174362495\": {\"rank\": 2}, \"5228825222842359\": {\"rank\": 23}, \"5228826138512431\": {\"rank\": 12}, \"5228668635058748\": {\"rank\": 28}, \"5228842195094910\": {\"rank\": 1}, \"5228848040120719\": {\"rank\": 11}, \"5228824695670112\": {\"rank\": 13}, \"5228850469407180\": {\"rank\": 5}, \"5098132989545950\": {\"rank\": 35}, \"5098728007139591\": {\"rank\": 37}, \"5228817503487404\": {\"rank\": 15}, \"5228831830181012\": {\"rank\": 25}, \"5098153861449312\": {\"rank\": 36}, \"5228803451521636\": {\"rank\": 10}, \"5228810169749410\": {\"rank\": 29}, \"5228833519176393\": {\"rank\": 22}, \"5228851874759720\": {\"rank\": 30}, \"5228828882370703\": {\"rank\": 16}, \"5228826095519018\": {\"rank\": 24}, \"5228835396125629\": {\"rank\": 26}, \"5228830021128973\": {\"rank\": 3}, \"5228643883419786\": {\"rank\": 17}, \"5228828060290310\": {\"rank\": 18}, \"5228826452035025\": {\"rank\": 19}, \"5228827476755962\": {\"rank\": 20}, \"5228839011355159\": {\"rank\": 27}, \"5228863929451321\": {\"rank\": 31}, \"5228863840062390\": {\"rank\": 32}, \"5228863743592256\": {\"rank\": 33}, \"5198254972077371\": {\"rank\": 34}}}",
+      "share_info": {
+        "unify_md5": "9aff8ebbf3c6af08842797278746b450",
+        "tips": "#饶雪漫回复翁青雅#的相关内容，来智搜看看",
+        "page_id": "232964ef81be4a802580895a57c87e26e5b6b3",
+        "display_name": "#饶雪漫回复翁青雅#",
+        "status": 3,
+        "url": "http://t.cn/AXA9gSjV",
+        "comment_content": ""
+      },
+      "cot": 1,
+      "status_stage": 4,
+      "link_list": [
+        "sinaweibo://detail?mblogid=5228842195094910",
+        "sinaweibo://detail?mblogid=5228627174362495",
+        "sinaweibo://detail?mblogid=5228830021128973",
+        "sinaweibo://detail?mblogid=5228857003084819",
+        "sinaweibo://detail?mblogid=5228850469407180",
+        "sinaweibo://detail?mblogid=5228855406365216",
+        "ctr://",
+        "historyweibo://5098588032206655",
+        "historyweibo://5098588032206655",
+        "sinaweibo://detail?mblogid=5228803451521636",
+        "sinaweibo://detail?mblogid=5228848040120719",
+        "sinaweibo://detail?mblogid=5228826138512431",
+        "sinaweibo://detail?mblogid=5228824695670112",
+        "sinaweibo://detail?mblogid=5228529593092897",
+        "sinaweibo://detail?mblogid=5228817503487404",
+        "sinaweibo://detail?mblogid=5228828882370703",
+        "sinaweibo://detail?mblogid=5228643883419786",
+        "sinaweibo://detail?mblogid=5228828060290310",
+        "sinaweibo://detail?mblogid=5228826452035025",
+        "sinaweibo://detail?mblogid=5228827476755962",
+        "sinaweibo://detail?mblogid=5228827230078925",
+        "sinaweibo://detail?mblogid=5228833519176393",
+        "sinaweibo://detail?mblogid=5228825222842359",
+        "sinaweibo://detail?mblogid=5228826095519018",
+        "sinaweibo://detail?mblogid=5228831830181012",
+        "sinaweibo://detail?mblogid=5228835396125629",
+        "sinaweibo://detail?mblogid=5228839011355159",
+        "sinaweibo://detail?mblogid=5228668635058748",
+        "sinaweibo://detail?mblogid=5228810169749410",
+        "sinaweibo://detail?mblogid=5228851874759720",
+        "sinaweibo://detail?mblogid=5228863929451321",
+        "sinaweibo://detail?mblogid=5228863840062390",
+        "sinaweibo://detail?mblogid=5228863743592256",
+        "sinaweibo://detail?mblogid=5198254972077371",
+        "sinaweibo://detail?mblogid=5098132989545950",
+        "sinaweibo://detail?mblogid=5098153861449312",
+        "sinaweibo://detail?mblogid=5098728007139591"
+      ],
+      "msg": "<think><br>嗯，用户想了解\"饶雪漫回复翁青雅\"事件的来龙去脉。这个问题明显是娱乐八卦类查询，用户可能是关注娱乐圈动态的网友，想了解这个热搜事件的详细情况和舆论反应。<br><br>看看搜索结果，核心事件脉络很清晰：11月1日翁青雅采访朱珠时出现重大失误，被网友批评为\"社交灾难\"。具体问题包括：进门后自己先坐让嘉宾关门、提问卡壳、品牌理念背诵生硬等专业素养问题。11月2日翁青雅道歉，但用语\"造成打扰了\"被批语法错误，PS部分更被指抖机灵。<br><br>关键点在于11月2日饶雪漫在翁青雅道歉微博下回复\"哈哈哈哈哈哈\"，这个看似平常的互动引发两极分化：支持者认为是朋友间调侃，质疑者批评是回避职业素养问题。而朱珠回应\"早就翻儿啦\"则被赞大气。<br><br>两人关系早有渊源：在《心动的信号7》中，饶雪漫是观察员，曾公开支持翁青雅，节目后多次私下聚餐。2024年11月高雅CP分手时，饶雪漫还为他们辩护过。<br><br>舆论焦点很有趣：翁青雅伦敦艺术大学传媒硕士的学历与现场表现形成强烈反差；网友分两派，包容派呼吁给新人成长空间，批评派直指其\"基本礼仪缺失\"。<br><br>事件影响方面：品牌方删除直播回放，朱珠专业应对获赞，而翁青雅需要实际行动挽回信任。<br><br>我需要在回答中突出三个层次：事件本身、饶雪漫回复引发的舆论分裂、事件背后的行业启示。特别要注意平衡呈现各方观点，毕竟娱乐圈事件容易情绪化。时间线上要理清从采访失误(11.1)→道歉(11.2)→饶雪漫回复(11.2)→朱珠回应(11.2)→持续发酵(11.3)这个完整脉络。<br><br>专业角度可以补充：危机公关中朋友声援与专业评价的边界问题，以及跨界艺人专业素养的公众期待。最后用朱珠的应对作为正面案例收尾比较得体。<br><br></think><br>“饶雪漫回复翁青雅”事件源于翁青雅跨界主持采访演员朱珠时的表现失误及其后续道歉引发的舆论风波，以下是核心脉络与各方反应的完整梳理：<br>### 📌 **一、事件核心时间线**<br>1. **采访失误（11月1日）**  <br>翁青雅作为探访官采访朱珠时被指专业素养不足：  <br>   - **礼仪争议**：未引导嘉宾入座，反让朱珠自己关门；```wbCustomBlock{\"type\": \"quoted\", \"index\": 5, \"data\": {\"num\": [4, 14], \"version\": 2, \"quote_list\": [{\"name\": \"以爱为妍\", \"scheme\": \"sinaweibo://detail?mblogid=5228857003084819\", \"index\": 4, \"label\": \"\"}, {\"name\": \"欲吻彻\", \"scheme\": \"sinaweibo://detail?mblogid=5228529593092897\", \"index\": 14, \"label\": \"\"}]}}```  <br>   - **业务能力问题**：提问卡顿、品牌理念阐述生硬，需工作人员救场；```wbCustomBlock{\"type\": \"quoted\", \"index\": 6, \"data\": {\"num\": [4, 6], \"version\": 2, \"quote_list\": [{\"name\": \"以爱为妍\", \"scheme\": \"sinaweibo://detail?mblogid=5228857003084819\", \"index\": 4, \"label\": \"\"}, {\"name\": \"祈愿菟\", \"scheme\": \"sinaweibo://detail?mblogid=5228855406365216\", \"index\": 6, \"label\": \"\"}]}}```  <br>   - **态度质疑**：小动作频繁（撩头发、凹造型），被批“随意怠慢”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 7, \"data\": {\"num\": [21], \"version\": 2, \"quote_list\": [{\"name\": \"抢猪美少女\", \"scheme\": \"sinaweibo://detail?mblogid=5228827230078925\", \"index\": 21, \"label\": \"\"}]}}```<br><br>2. **翁青雅道歉（11月2日）**  <br>   翁青雅发文称因“首次见面太激动紧张”致歉，但文案中“给您在网上造成打扰了”被批语法错误，结尾PS“闯祸可看我的探访”被指抖机灵缺乏诚意。```wbCustomBlock{\"type\": \"quoted\", \"index\": 8, \"data\": {\"num\": [2, 6, 23], \"version\": 2, \"quote_list\": [{\"name\": \"翁青雅Evelyn\", \"scheme\": \"sinaweibo://detail?mblogid=5228627174362495\", \"index\": 2, \"label\": \"大v\"}, {\"name\": \"祈愿菟\", \"scheme\": \"sinaweibo://detail?mblogid=5228855406365216\", \"index\": 6, \"label\": \"\"}, {\"name\": \"电子巫师Sam\", \"scheme\": \"sinaweibo://detail?mblogid=5228825222842359\", \"index\": 23, \"label\": \"\"}], \"name\": \"翁青雅Evelyn\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.512.512.50/7453df49ly8hsq22io256j20e80e8ab7.jpg?KID=imgbed,tva&Expires=1762152607&ssig=32yq3iLFzM\", \"scheme\": \"sinaweibo://detail?mblogid=5228627174362495\", \"vType\": 0}}```<br><br>3. **关键人物回应（11月2日-3日）**  <br>   - **朱珠回复**：“没关系，早就翻儿啦”——被赞体面大气，化解尴尬；```wbCustomBlock{\"type\": \"quoted\", \"index\": 10, \"data\": {\"num\": [12, 14, 28], \"version\": 2, \"quote_list\": [{\"name\": \"大皖新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5228668635058748\", \"index\": 28, \"label\": \"大v\"}, {\"name\": \"2Culvert\", \"scheme\": \"sinaweibo://detail?mblogid=5228826138512431\", \"index\": 12, \"label\": \"\"}, {\"name\": \"欲吻彻\", \"scheme\": \"sinaweibo://detail?mblogid=5228529593092897\", \"index\": 14, \"label\": \"\"}], \"name\": \"大皖新闻\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.1023.1023.50/001Uy0Wgly8hbemb0m53cj60sg0sfmy202.jpg?KID=imgbed,tva&Expires=1762152607&ssig=5LAg2S%2F1%2B2\", \"scheme\": \"sinaweibo://detail?mblogid=5228668635058748\", \"vType\": 3}}```  <br>   - **饶雪漫评论**：在翁青雅道歉博下回复“哈哈哈哈哈哈哈哈哈哈”，引发舆论两极分化。```wbCustomBlock{\"type\": \"quoted\", \"index\": 11, \"data\": {\"num\": [1, 11, 13], \"version\": 2, \"quote_list\": [{\"name\": \"娱乐榜姐\", \"scheme\": \"sinaweibo://detail?mblogid=5228842195094910\", \"index\": 1, \"label\": \"大v\"}, {\"name\": \"春水砚\", \"scheme\": \"sinaweibo://detail?mblogid=5228848040120719\", \"index\": 11, \"label\": \"\"}, {\"name\": \"工程师爱养生\", \"scheme\": \"sinaweibo://detail?mblogid=5228824695670112\", \"index\": 13, \"label\": \"\"}], \"name\": \"娱乐榜姐\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.996.996.50/9e2f67dely8h8v42t2e7nj20ro0roq3x.jpg?KID=imgbed,tva&Expires=1762152607&ssig=mwUOEE0N7O\", \"scheme\": \"sinaweibo://detail?mblogid=5228842195094910\", \"vType\": 0}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5228855406365216&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=1&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/008xsv5ply8i6x1wtfdcmj30u00u0410.jpg?KID=imgbed,tva&Expires=1762152607&ssig=r9hfLDFN%2FG) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">祈愿菟</span><img src=\"http://wx3.sinaimg.cn/middle/008xsv5pgy1i6yutef8j5j31i30u0wk5.jpg\" data-width=1080 data-height=1947></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5228842195094910&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=1\"><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.996.996.50/9e2f67dely8h8v42t2e7nj20ro0roq3x.jpg?KID=imgbed,tva&Expires=1762152607&ssig=mwUOEE0N7O) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">娱乐榜姐</span><img src=\"http://wx2.sinaimg.cn/middle/9e2f67degy1i6ytag6bg0j20i205u74t.jpg\" data-width=210 data-height=650></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5228857003084819&multi_paragraph=1&multi_count=2\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.638.638.50/008tzusRly8hdnvmlnt1qj30hq0hq3zw.jpg?KID=imgbed,tva&Expires=1762152607&ssig=JBvEQI%2Boic) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">以爱为妍</span><img src=\"http://wx1.sinaimg.cn/middle/008tzusRgy1i6yv1l8be4j30mh0u0q5i.jpg\" data-width=1080 data-height=809></div></media-block><br>### 🔥 **二、饶雪漫回复的争议焦点**<br>1. **支持观点**：视为朋友间调侃，体现两人私交亲密  <br>   - 饶雪漫在《心动的信号7》担任观察员时便欣赏翁青雅，节目结束后多次私下聚餐互动；```wbCustomBlock{\"type\": \"quoted\", \"index\": 15, \"data\": {\"num\": [5, 13, 35], \"version\": 2, \"quote_list\": [{\"name\": \"卡洛琳Channing\", \"scheme\": \"sinaweibo://detail?mblogid=5228850469407180\", \"index\": 5, \"label\": \"大v\"}, {\"name\": \"工程师爱养生\", \"scheme\": \"sinaweibo://detail?mblogid=5228824695670112\", \"index\": 13, \"label\": \"\"}, {\"name\": \"我可不是饭团\", \"scheme\": \"sinaweibo://detail?mblogid=5098132989545950\", \"index\": 35, \"label\": \"\"}], \"name\": \"卡洛琳Channing\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.1024.1024.50/0089uhJXly8i653lcljy3j30sg0sgq4p.jpg?KID=imgbed,tva&Expires=1762152607&ssig=TDPa7zPcvb\", \"scheme\": \"sinaweibo://detail?mblogid=5228850469407180\", \"vType\": 0}}```  <br>   - 2024年翁青雅与彭高分手时，饶雪漫也曾公开为其辩护，称分手因“生活方式差异”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 16, \"data\": {\"num\": [37], \"version\": 2, \"quote_list\": [{\"name\": \"冰雪火舞_\", \"scheme\": \"sinaweibo://detail?mblogid=5098728007139591\", \"index\": 37, \"label\": \"\"}]}}```<br><br>2. **批评声音**：被指回避职业素养问题，有“护短”嫌疑  <br>   - 网友质疑饶雪漫未正视翁青雅的专业失误，轻描淡写化严肃问题；```wbCustomBlock{\"type\": \"quoted\", \"index\": 18, \"data\": {\"num\": [11, 15, 25], \"version\": 2, \"quote_list\": [{\"name\": \"春水砚\", \"scheme\": \"sinaweibo://detail?mblogid=5228848040120719\", \"index\": 11, \"label\": \"\"}, {\"name\": \"VousEtoiles\", \"scheme\": \"sinaweibo://detail?mblogid=5228817503487404\", \"index\": 15, \"label\": \"\"}, {\"name\": \"维祐力尼\", \"scheme\": \"sinaweibo://detail?mblogid=5228831830181012\", \"index\": 25, \"label\": \"\"}]}}```  <br>   - 部分舆论猜测二人或有商业合作（如影视项目），互动含利益动机。```wbCustomBlock{\"type\": \"quoted\", \"index\": 19, \"data\": {\"num\": [15, 36], \"version\": 2, \"quote_list\": [{\"name\": \"VousEtoiles\", \"scheme\": \"sinaweibo://detail?mblogid=5228817503487404\", \"index\": 15, \"label\": \"\"}, {\"name\": \"显眼包\", \"scheme\": \"sinaweibo://detail?mblogid=5098153861449312\", \"index\": 36, \"label\": \"\"}]}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5098132989545950&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=2&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/008dTIkUly8i5fnamq7u1j30u00u0q4m.jpg?KID=imgbed,tva&Expires=1762152607&ssig=6uXW4j6Aez) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">我可不是饭团</span><img src=\"http://wx2.sinaimg.cn/middle/008dTIkUly1hvdtljrisjj30u01gm0zt.jpg\" data-width=1894 data-height=1080></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5228831830181012&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=2&multi_count=1\"><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.1060.1060.50/006BWEOEly8i5iuheu5f7j30tg0tgq46.jpg?KID=imgbed,tva&Expires=1762152607&ssig=A2wXlN2IYp) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">维祐力尼</span><img src=\"http://wx1.sinaimg.cn/middle/006BWEOEgy1i6ys533467j30wr0kk423.jpg\" data-width=740 data-height=1179></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5098728007139591&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=2&multi_count=2\"><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/008tAuBqly8hus462rop6j30u00u0wfw.jpg?KID=imgbed,tva&Expires=1762152607&ssig=6JC8eYL8RC) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">冰雪火舞_</span><img src=\"http://wx3.sinaimg.cn/middle/008tAuBqly1hvfpxnyaj2j30wi1jm7hg.jpg\" data-width=2002 data-height=1170></div><div data-type=\"v\" data-scheme=\"sinaweibo://multimedia?mix_mid=5228850469407180&mix_index=0&multi_paragraph=2&multi_count=3\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.1024.1024.50/0089uhJXly8i653lcljy3j30sg0sgq4p.jpg?KID=imgbed,tva&Expires=1762152607&ssig=TDPa7zPcvb) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">卡洛琳Channing</span><img src=\"http://wx3.sinaimg.cn/middle/0089uhJXly1i6yua73njaj30qo0k00th.jpg\" data-width=720 data-height=960></div></media-block><br>### ⚖️ **三、舆论对翁青雅的批评核心**<br>1. **学历与能力反差**：  <br>   - 翁青雅本科毕业于伦敦大学金史密斯学院（媒体专业），硕士就读伦敦艺术大学传媒学院（QS全球艺术第2），但主持表现被讽“大脑长期不转的茫然感”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 23, \"data\": {\"num\": [10, 29], \"version\": 2, \"quote_list\": [{\"name\": \"甜仃\", \"scheme\": \"sinaweibo://detail?mblogid=5228803451521636\", \"index\": 10, \"label\": \"大v\"}, {\"name\": \"夜誓迷月\", \"scheme\": \"sinaweibo://detail?mblogid=5228810169749410\", \"index\": 29, \"label\": \"\"}], \"name\": \"甜仃\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/006CKmHvly8i1p8ppclo7j30u00u076t.jpg?KID=imgbed,tva&Expires=1762152607&ssig=QrNbUkt3O1\", \"scheme\": \"sinaweibo://detail?mblogid=5228803451521636\", \"vType\": 0}}```<br><br>2. **道歉诚意不足**：  <br>   - “造成打扰了”等用语被批语法混乱，“PS抖机灵”被指转移焦点；```wbCustomBlock{\"type\": \"quoted\", \"index\": 25, \"data\": {\"num\": [22, 23], \"version\": 2, \"quote_list\": [{\"name\": \"电子巫师Sam\", \"scheme\": \"sinaweibo://detail?mblogid=5228825222842359\", \"index\": 23, \"label\": \"大v\"}, {\"name\": \"允承kevin\", \"scheme\": \"sinaweibo://detail?mblogid=5228833519176393\", \"index\": 22, \"label\": \"\"}], \"name\": \"电子巫师Sam\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.600.600.50/006ql9Ksly8hm778nb4e2j30go0godhz.jpg?KID=imgbed,tva&Expires=1762152607&ssig=SYB0Hw7OPR\", \"scheme\": \"sinaweibo://detail?mblogid=5228825222842359\", \"vType\": 0}}```  <br>   - 对比朱珠的体面回应，翁青雅被批“危机公关失败”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 26, \"data\": {\"num\": [6, 12, 30], \"version\": 2, \"quote_list\": [{\"name\": \"中国蓝新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5228851874759720\", \"index\": 30, \"label\": \"大v\"}, {\"name\": \"祈愿菟\", \"scheme\": \"sinaweibo://detail?mblogid=5228855406365216\", \"index\": 6, \"label\": \"\"}, {\"name\": \"2Culvert\", \"scheme\": \"sinaweibo://detail?mblogid=5228826138512431\", \"index\": 12, \"label\": \"\"}], \"name\": \"中国蓝新闻\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.1000.1000.50/8842ff52ly8heqfusvnwbj20rs0rsmxx.jpg?KID=imgbed,tva&Expires=1762152607&ssig=%2F7aXhC%2BbyZ\", \"scheme\": \"sinaweibo://detail?mblogid=5228851874759720\", \"vType\": 3}}```<br><br>3. **特权质疑**：  <br>   - 网友指出其“顶级白富美”身份（曾参加综艺获此标签），质疑资源获取与实力不匹配。```wbCustomBlock{\"type\": \"quoted\", \"index\": 28, \"data\": {\"num\": [16, 24], \"version\": 2, \"quote_list\": [{\"name\": \"中国蓝新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5228828882370703\", \"index\": 16, \"label\": \"\"}, {\"name\": \"我有强心脏\", \"scheme\": \"sinaweibo://detail?mblogid=5228826095519018\", \"index\": 24, \"label\": \"\"}]}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5228851874759720&multi_paragraph=3&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.1000.1000.50/8842ff52ly8heqfusvnwbj20rs0rsmxx.jpg?KID=imgbed,tva&Expires=1762152607&ssig=%2F7aXhC%2BbyZ) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">中国蓝新闻</span><img src=\"http://wx4.sinaimg.cn/middle/8842ff52ly1i6yufgsxbsj20u0140ti8.jpg\" data-width=1440 data-height=1080></div></media-block><br>### 💎 **四、事件影响与行业反思**<br>1. **短期结果**：  <br>   - 品牌方删除采访直播回放；  <br>   - 翁青雅承诺“未来继续努力”，但公众信任需实际行动重建。```wbCustomBlock{\"type\": \"quoted\", \"index\": 33, \"data\": {\"num\": [30], \"version\": 2, \"quote_list\": [{\"name\": \"中国蓝新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5228851874759720\", \"index\": 30, \"label\": \"\"}]}}```<br><br>2. **深层启示**：  <br>   - **专业素养重要性**：跨界需扎实准备，紧张非万能借口；```wbCustomBlock{\"type\": \"quoted\", \"index\": 35, \"data\": {\"num\": [4, 26], \"version\": 2, \"quote_list\": [{\"name\": \"Atong数码\", \"scheme\": \"sinaweibo://detail?mblogid=5228835396125629\", \"index\": 26, \"label\": \"大v\"}, {\"name\": \"以爱为妍\", \"scheme\": \"sinaweibo://detail?mblogid=5228857003084819\", \"index\": 4, \"label\": \"\"}], \"name\": \"Atong数码\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.587.587.50/008eSsAjly8hbee1oi270j30gb0gbjrv.jpg?KID=imgbed,tva&Expires=1762152607&ssig=OunG6SZJhs\", \"scheme\": \"sinaweibo://detail?mblogid=5228835396125629\", \"vType\": 0}}```  <br>   - **危机公关教训**：真诚直面问题＞抖机灵回避；```wbCustomBlock{\"type\": \"quoted\", \"index\": 36, \"data\": {\"num\": [6, 12], \"version\": 2, \"quote_list\": [{\"name\": \"祈愿菟\", \"scheme\": \"sinaweibo://detail?mblogid=5228855406365216\", \"index\": 6, \"label\": \"\"}, {\"name\": \"2Culvert\", \"scheme\": \"sinaweibo://detail?mblogid=5228826138512431\", \"index\": 12, \"label\": \"\"}]}}```  <br>   - **公众人物互动风险**：朋友声援可能放大争议。```wbCustomBlock{\"type\": \"quoted\", \"index\": 37, \"data\": {\"num\": [25], \"version\": 2, \"quote_list\": [{\"name\": \"维祐力尼\", \"scheme\": \"sinaweibo://detail?mblogid=5228831830181012\", \"index\": 25, \"label\": \"\"}]}}```<br>### 💬 **五、事件核心立场对比**<br>| **人物** | **态度** | **公众评价** |  <br>|----------|----------|--------------|  <br>| 翁青雅 | 道歉称紧张失误 | 批评为主（能力、诚意不足） |  <br>| 朱珠 | 回应“翻篇了” | 广泛赞誉（大气专业） |  <br>| 饶雪漫 | 回复“哈哈哈” | 两极分化（友情支持 vs 回避问题） |<br><br>```wbCustomBlock{\"type\": \"quoted\", \"index\": 39, \"data\": {\"num\": [1, 4, 14, 15, 23, 30], \"version\": 2, \"quote_list\": [{\"name\": \"娱乐榜姐\", \"scheme\": \"sinaweibo://detail?mblogid=5228842195094910\", \"index\": 1, \"label\": \"\"}, {\"name\": \"以爱为妍\", \"scheme\": \"sinaweibo://detail?mblogid=5228857003084819\", \"index\": 4, \"label\": \"\"}, {\"name\": \"欲吻彻\", \"scheme\": \"sinaweibo://detail?mblogid=5228529593092897\", \"index\": 14, \"label\": \"\"}, {\"name\": \"VousEtoiles\", \"scheme\": \"sinaweibo://detail?mblogid=5228817503487404\", \"index\": 15, \"label\": \"\"}, {\"name\": \"电子巫师Sam\", \"scheme\": \"sinaweibo://detail?mblogid=5228825222842359\", \"index\": 23, \"label\": \"\"}, {\"name\": \"中国蓝新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5228851874759720\", \"index\": 30, \"label\": \"\"}]}}```  <br><br>---<br><br>**总结**：饶雪漫的回复本质是朋友间的轻松互动，但因叠加在翁青雅职业素养争议上，反而成为事件放大器。公众对翁青雅的包容度将取决于其后续能否以专业表现证明成长，而朱珠的应对则为行业树立了面对突发危机的典范。```wbCustomBlock{\"type\": \"quoted\", \"index\": 41, \"data\": {\"num\": [30], \"version\": 2, \"quote_list\": [{\"name\": \"中国蓝新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5228851874759720\", \"index\": 30, \"label\": \"\"}]}}```<br>",
+      "version": "2025-11-03 11:50:07.025000-5756",
+      "card_multimodal": {
+        "type": "mediablock",
+        "data": [
+          {
+            "hit_score_final": 85.374611,
+            "cur_mid": "5228855406365216",
+            "img": "http://wx3.sinaimg.cn/middle/008xsv5pgy1i6yutef8j5j31i30u0wk5.jpg",
+            "user_name": "祈愿菟",
+            "w": 1947,
+            "user_avatar": "https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/008xsv5ply8i6x1wtfdcmj30u00u0410.jpg?KID=imgbed,tva&Expires=1762152607&ssig=r9hfLDFN%2FG",
+            "vtype": 0,
+            "type": "p",
+            "h": 1080,
+            "click_rate": 0.06,
+            "hit_score_new": 98.291016,
+            "doc_score": 6151,
+            "img_pid": "008xsv5pgy1i6yutef8j5j31i30u0wk5",
+            "scheme": "sinaweibo://multimedia?mix_mid=5228855406365216&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=1&multi_count=0",
+            "video_url": ""
+          },
+          {
+            "hit_score_final": 0,
+            "cur_mid": "5228842195094910",
+            "img": "http://wx2.sinaimg.cn/middle/9e2f67degy1i6ytag6bg0j20i205u74t.jpg",
+            "user_name": "娱乐榜姐",
+            "w": 650,
+            "user_avatar": "https://tvax4.sinaimg.cn/crop.0.0.996.996.50/9e2f67dely8h8v42t2e7nj20ro0roq3x.jpg?KID=imgbed,tva&Expires=1762152607&ssig=mwUOEE0N7O",
+            "vtype": 0,
+            "type": "p",
+            "h": 210,
+            "click_rate": 0.06,
+            "hit_score_new": 0,
+            "doc_score": 0,
+            "img_pid": "9e2f67degy1i6ytag6bg0j20i205u74t",
+            "scheme": "sinaweibo://multimedia?mix_mid=5228842195094910&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=1",
+            "video_url": ""
+          },
+          {
+            "hit_score_final": 90.242188,
+            "cur_mid": "5228857003084819",
+            "img": "http://wx1.sinaimg.cn/middle/008tzusRgy1i6yv1l8be4j30mh0u0q5i.jpg",
+            "user_name": "以爱为妍",
+            "w": 809,
+            "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.638.638.50/008tzusRly8hdnvmlnt1qj30hq0hq3zw.jpg?KID=imgbed,tva&Expires=1762152607&ssig=JBvEQI%2Boic",
+            "vtype": 0,
+            "type": "v",
+            "h": 1080,
+            "click_rate": 0,
+            "hit_score_new": 97.070312,
+            "doc_score": 5843,
+            "img_pid": "008tzusRgy1i6yv1l8be4j30mh0u0q5i",
+            "scheme": "sinaweibo://video/vvs?mid=5228857003084819&multi_paragraph=1&multi_count=2",
+            "video_url": "https://video.weibo.com/show?fid=1034:5228856639160384"
+          },
+          {
+            "hit_score_final": 85.374611,
+            "cur_mid": "5228855406365216",
+            "img": "http://wx3.sinaimg.cn/middle/008xsv5pgy1i6yutef8j5j31i30u0wk5.jpg",
+            "user_name": "祈愿菟",
+            "w": 1947,
+            "user_avatar": "https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/008xsv5ply8i6x1wtfdcmj30u00u0410.jpg?KID=imgbed,tva&Expires=1762152607&ssig=r9hfLDFN%2FG",
+            "vtype": 0,
+            "type": "p",
+            "h": 1080,
+            "click_rate": 0.06,
+            "hit_score_new": 98.291016,
+            "doc_score": 6151,
+            "img_pid": "008xsv5pgy1i6yutef8j5j31i30u0wk5",
+            "scheme": "sinaweibo://multimedia?mix_mid=5228855406365216&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=1&multi_count=0",
+            "video_url": ""
+          }
+        ]
+      },
+      "mid_list": null,
+      "reference_num": 34,
+      "page_id": "232964ef81be4a802580895a57c87e26e5b6b3",
+      "ext_show": {},
+      "analysis_time": 1762142000,
+      "user_info": {},
+      "current_time": 1762142048,
+      "qs_status": 0
+    }
+  },
+  "links": [
+    "sinaweibo://detail?mblogid=5228842195094910",
+    "sinaweibo://detail?mblogid=5228627174362495",
+    "sinaweibo://detail?mblogid=5228830021128973",
+    "sinaweibo://detail?mblogid=5228857003084819",
+    "sinaweibo://detail?mblogid=5228850469407180",
+    "sinaweibo://detail?mblogid=5228855406365216",
+    "ctr://",
+    "historyweibo://5098588032206655",
+    "historyweibo://5098588032206655",
+    "sinaweibo://detail?mblogid=5228803451521636",
+    "sinaweibo://detail?mblogid=5228848040120719",
+    "sinaweibo://detail?mblogid=5228826138512431",
+    "sinaweibo://detail?mblogid=5228824695670112",
+    "sinaweibo://detail?mblogid=5228529593092897",
+    "sinaweibo://detail?mblogid=5228817503487404",
+    "sinaweibo://detail?mblogid=5228828882370703",
+    "sinaweibo://detail?mblogid=5228643883419786",
+    "sinaweibo://detail?mblogid=5228828060290310",
+    "sinaweibo://detail?mblogid=5228826452035025",
+    "sinaweibo://detail?mblogid=5228827476755962",
+    "sinaweibo://detail?mblogid=5228827230078925",
+    "sinaweibo://detail?mblogid=5228833519176393",
+    "sinaweibo://detail?mblogid=5228825222842359",
+    "sinaweibo://detail?mblogid=5228826095519018",
+    "sinaweibo://detail?mblogid=5228831830181012",
+    "sinaweibo://detail?mblogid=5228835396125629",
+    "sinaweibo://detail?mblogid=5228839011355159",
+    "sinaweibo://detail?mblogid=5228668635058748",
+    "sinaweibo://detail?mblogid=5228810169749410",
+    "sinaweibo://detail?mblogid=5228851874759720",
+    "sinaweibo://detail?mblogid=5228863929451321",
+    "sinaweibo://detail?mblogid=5228863840062390",
+    "sinaweibo://detail?mblogid=5228863743592256",
+    "sinaweibo://detail?mblogid=5198254972077371",
+    "sinaweibo://detail?mblogid=5098132989545950",
+    "sinaweibo://detail?mblogid=5098153861449312",
+    "sinaweibo://detail?mblogid=5098728007139591"
+  ],
+  "media": [
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/008xsv5pgy1i6yutef8j5j31i30u0wk5.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/008xsv5pgy1i6yutef8j5j31i30u0wk5.jpg",
+      "alt": "祈愿菟",
+      "width": 1080,
+      "height": 1947,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/008xsv5pgy1i6yutef8j5j31i30u0wk5.jpg"
+      ],
+      "user": "祈愿菟"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/9e2f67degy1i6ytag6bg0j20i205u74t.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/9e2f67degy1i6ytag6bg0j20i205u74t.jpg",
+      "alt": "娱乐榜姐",
+      "width": 210,
+      "height": 650,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/9e2f67degy1i6ytag6bg0j20i205u74t.jpg"
+      ],
+      "user": "娱乐榜姐"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/008tzusRgy1i6yv1l8be4j30mh0u0q5i.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/008tzusRgy1i6yv1l8be4j30mh0u0q5i.jpg",
+      "alt": "以爱为妍",
+      "width": 1080,
+      "height": 809,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/008tzusRgy1i6yv1l8be4j30mh0u0q5i.jpg"
+      ],
+      "user": "以爱为妍"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/008dTIkUly1hvdtljrisjj30u01gm0zt.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/008dTIkUly1hvdtljrisjj30u01gm0zt.jpg",
+      "alt": "我可不是饭团",
+      "width": 1894,
+      "height": 1080,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/008dTIkUly1hvdtljrisjj30u01gm0zt.jpg"
+      ],
+      "user": "我可不是饭团"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/006BWEOEgy1i6ys533467j30wr0kk423.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/006BWEOEgy1i6ys533467j30wr0kk423.jpg",
+      "alt": "维祐力尼",
+      "width": 740,
+      "height": 1179,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/006BWEOEgy1i6ys533467j30wr0kk423.jpg"
+      ],
+      "user": "维祐力尼"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/008tAuBqly1hvfpxnyaj2j30wi1jm7hg.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/008tAuBqly1hvfpxnyaj2j30wi1jm7hg.jpg",
+      "alt": "冰雪火舞_",
+      "width": 2002,
+      "height": 1170,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/008tAuBqly1hvfpxnyaj2j30wi1jm7hg.jpg"
+      ],
+      "user": "冰雪火舞_"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/0089uhJXly1i6yua73njaj30qo0k00th.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/0089uhJXly1i6yua73njaj30qo0k00th.jpg",
+      "alt": "卡洛琳Channing",
+      "width": 720,
+      "height": 960,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx4.sinaimg.cn/large/0089uhJXly1i6yua73njaj30qo0k00th.jpg"
+      ],
+      "user": "卡洛琳Channing"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/8842ff52ly1i6yufgsxbsj20u0140ti8.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/8842ff52ly1i6yufgsxbsj20u0140ti8.jpg",
+      "alt": "中国蓝新闻",
+      "width": 1440,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/8842ff52ly1i6yufgsxbsj20u0140ti8.jpg"
+      ],
+      "user": "中国蓝新闻"
+    }
+  ],
+  "html_path": "data/aicard/hourly/2025-11-03/11/topic-9aff8ebb.html"
+}

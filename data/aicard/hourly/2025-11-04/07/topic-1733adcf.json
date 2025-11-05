@@ -1,0 +1,419 @@
+{
+  "meta": {
+    "query": "#后台收到了关晓彤送的彩椒碗#",
+    "status_code": 200,
+    "fetched_at": "2025-11-04T07:33:28+08:00",
+    "response": {
+      "basemodel": "实验组5",
+      "status": 2,
+      "ab_suffix": "default",
+      "scheme": "sinaweibo://cardlist?containerid=100103type%3D225%26q%3D%23%E5%90%8E%E5%8F%B0%E6%94%B6%E5%88%B0%E4%BA%86%E5%85%B3%E6%99%93%E5%BD%A4%E9%80%81%E7%9A%84%E5%BD%A9%E6%A4%92%E7%A2%97%23%26t%3D&extparam=ai_model%3Ddeepseek%26ori_ai_title%3D%E5%8F%82%E8%80%83%E5%8D%9A%E6%96%87%26material_version%3D1762212484",
+      "model": "deepseek",
+      "news_analyze": {},
+      "status_stage": 4,
+      "query": "#后台收到了关晓彤送的彩椒碗#",
+      "sorted_material_list": null,
+      "share_card_multimodal": {
+        "user_name": "萨摩耶搜剧队",
+        "doc_score": 0,
+        "user_avatar": "https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/9bea22c3ly8i21efj4i82j20u00u0t9h.jpg?KID=imgbed,tva&Expires=1762223284&ssig=z8IWU1XD%2Fw",
+        "scheme": "sinaweibo://multimedia?mix_mid=5229003772002452&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=1&multi_count=0",
+        "type": "p",
+        "hit_score_new": 0,
+        "h": 3024,
+        "img_pid": "9bea22c3gy1i6zbvzwwqzj23402c0b2b",
+        "w": 4032,
+        "click_rate": 0.52954912734324,
+        "click_num": 0,
+        "vtype": 0,
+        "video_url": "",
+        "hit_score_final": 0,
+        "img": "http://wx1.sinaimg.cn/middle/9bea22c3gy1i6zbvzwwqzj23402c0b2b.jpg",
+        "cur_mid": "5229003772002452"
+      },
+      "analysis_time": 1762212638,
+      "user_info": {},
+      "chat_status_stage": 1,
+      "zs_risk_control": {
+        "think_text_close": 0,
+        "land_button_close": 0
+      },
+      "comment_info": {},
+      "share_text": "#后台收到了关晓彤送的彩椒碗#的相关内容，来智搜看看",
+      "share_info": {
+        "page_id": "2329645a694855d18b910d76c0db4076e8cfa8",
+        "status": 3,
+        "unify_md5": "1733adcf94332660ed51105a7e1f29d2",
+        "url": "http://t.cn/AXAOmy5l",
+        "tips": "#后台收到了关晓彤送的彩椒碗#的相关内容，来智搜看看",
+        "display_name": "#后台收到了关晓彤送的彩椒碗#",
+        "comment_content": ""
+      },
+      "loop_times": 200,
+      "short_url": "http://t.cn/AXAO9wlD",
+      "wenda": {
+        "forward_gen": 0
+      },
+      "version": "2025-11-04 07:28:04.006999-3793",
+      "unify_md5": "1733adcf94332660ed51105a7e1f29d2",
+      "abtest_info": {
+        "chat_entrance": 1
+      },
+      "cot": 1,
+      "show_ctrl": {
+        "quote": {}
+      },
+      "msg_format": "markdown",
+      "profile_image_url": "",
+      "current_time": 1762212809,
+      "page_id": "2329645a694855d18b910d76c0db4076e8cfa8",
+      "msg_json": "{}",
+      "uid": "",
+      "ext_show": {},
+      "qs_status_info": "{\"qs_r_status\":0,\"qs_u_status\":0,\"qs_status\":0,\"ab_lab\":{},\"qs_q_status\":0,\"qs_c_status\":8388608}",
+      "reliable_tips": "{\"gold_orange_v_mids\": [\"5229003772002452\", \"5228940160925750\", \"5229047348986665\", \"5188441136693572\", \"5188576456474710\", \"5198758822281820\", \"5184373528989683\", \"5192291031712060\", \"5227768225993843\", \"5198097178952949\", \"5229052879437969\", \"5202144073614564\", \"5202123001430338\", \"5229050445696443\", \"5229050815842543\", \"5229041448916745\", \"5229062192890335\", \"5228939534667258\", \"5184348813003356\", \"5191517085897249\", \"5229062176114452\", \"5229051696645784\", \"5204752259616845\", \"5198824564066827\", \"5198837872071371\", \"5198816170479705\", \"5229070344521482\", \"5228965125689127\", \"5228936355384238\", \"5228971803287841\", \"5229048886460422\", \"5229069944752416\", \"5205047067543561\", \"5198842664583895\", \"5187965547708918\", \"5198846457808789\", \"5191474564301495\"], \"gold_orange_v_ratio\": \"81%\", \"media_mids\": [\"5228947945816918\", \"5191259272774211\"], \"media_ratio\": \"4%\", \"verified_mids\": [\"5228931633384775\", \"5228963477063631\", \"5188438846082233\", \"5227794503567304\", \"5229083820556689\"], \"verified_ratio\": \"11%\", \"normal_mids\": [\"5229069379569277\", \"5229130968728122\"], \"normal_ratio\": \"4%\", \"ref_mid_rank\": {\"5229003772002452\": {\"rank\": 1}, \"5228931633384775\": {\"rank\": 30}, \"5228940160925750\": {\"rank\": 28}, \"5228963477063631\": {\"rank\": 46}, \"5229047348986665\": {\"rank\": 41}, \"5188441136693572\": {\"rank\": 3}, \"5188576456474710\": {\"rank\": 7}, \"5198758822281820\": {\"rank\": 10}, \"5184373528989683\": {\"rank\": 15}, \"5192291031712060\": {\"rank\": 20}, \"5227768225993843\": {\"rank\": 5}, \"5198097178952949\": {\"rank\": 12}, \"5229052879437969\": {\"rank\": 27}, \"5202144073614564\": {\"rank\": 13}, \"5202123001430338\": {\"rank\": 16}, \"5229050445696443\": {\"rank\": 6}, \"5229050815842543\": {\"rank\": 39}, \"5229041448916745\": {\"rank\": 43}, \"5229062192890335\": {\"rank\": 40}, \"5229069379569277\": {\"rank\": 38}, \"5228939534667258\": {\"rank\": 2}, \"5228947945816918\": {\"rank\": 4}, \"5184348813003356\": {\"rank\": 17}, \"5191517085897249\": {\"rank\": 47}, \"5229062176114452\": {\"rank\": 8}, \"5229051696645784\": {\"rank\": 9}, \"5204752259616845\": {\"rank\": 11}, \"5198824564066827\": {\"rank\": 14}, \"5198837872071371\": {\"rank\": 18}, \"5188438846082233\": {\"rank\": 19}, \"5198816170479705\": {\"rank\": 21}, \"5227794503567304\": {\"rank\": 26}, \"5229070344521482\": {\"rank\": 29}, \"5228965125689127\": {\"rank\": 31}, \"5228936355384238\": {\"rank\": 32}, \"5228971803287841\": {\"rank\": 33}, \"5229048886460422\": {\"rank\": 34}, \"5229130968728122\": {\"rank\": 35}, \"5229083820556689\": {\"rank\": 36}, \"5229069944752416\": {\"rank\": 37}, \"5205047067543561\": {\"rank\": 42}, \"5198842664583895\": {\"rank\": 44}, \"5187965547708918\": {\"rank\": 45}, \"5198846457808789\": {\"rank\": 48}, \"5191474564301495\": {\"rank\": 49}, \"5191259272774211\": {\"rank\": 50}}}",
+      "query_field": "1",
+      "qs_status": 0,
+      "mid_list": null,
+      "reference_num": 46,
+      "query_category": "",
+      "link_list": [
+        "sinaweibo://detail?mblogid=5229003772002452",
+        "sinaweibo://detail?mblogid=5228939534667258",
+        "sinaweibo://detail?mblogid=5188441136693572",
+        "sinaweibo://detail?mblogid=5228947945816918",
+        "sinaweibo://detail?mblogid=5227768225993843",
+        "sinaweibo://detail?mblogid=5229050445696443",
+        "sinaweibo://detail?mblogid=5188576456474710",
+        "sinaweibo://detail?mblogid=5229062176114452",
+        "sinaweibo://detail?mblogid=5229051696645784",
+        "sinaweibo://detail?mblogid=5198758822281820",
+        "sinaweibo://detail?mblogid=5204752259616845",
+        "sinaweibo://detail?mblogid=5198097178952949",
+        "sinaweibo://detail?mblogid=5202144073614564",
+        "sinaweibo://detail?mblogid=5198824564066827",
+        "sinaweibo://detail?mblogid=5184373528989683",
+        "sinaweibo://detail?mblogid=5202123001430338",
+        "sinaweibo://detail?mblogid=5184348813003356",
+        "sinaweibo://detail?mblogid=5198837872071371",
+        "sinaweibo://detail?mblogid=5188438846082233",
+        "sinaweibo://detail?mblogid=5192291031712060",
+        "sinaweibo://detail?mblogid=5198816170479705",
+        "broadsocial_res://",
+        "ctr://",
+        "historyweibo://5226704869786235",
+        "historyweibo://5226694001561435",
+        "sinaweibo://detail?mblogid=5227794503567304",
+        "sinaweibo://detail?mblogid=5229052879437969",
+        "sinaweibo://detail?mblogid=5228940160925750",
+        "sinaweibo://detail?mblogid=5229070344521482",
+        "sinaweibo://detail?mblogid=5228931633384775",
+        "sinaweibo://detail?mblogid=5228965125689127",
+        "sinaweibo://detail?mblogid=5228936355384238",
+        "sinaweibo://detail?mblogid=5228971803287841",
+        "sinaweibo://detail?mblogid=5229048886460422",
+        "sinaweibo://detail?mblogid=5229130968728122",
+        "sinaweibo://detail?mblogid=5229083820556689",
+        "sinaweibo://detail?mblogid=5229069944752416",
+        "sinaweibo://detail?mblogid=5229069379569277",
+        "sinaweibo://detail?mblogid=5229050815842543",
+        "sinaweibo://detail?mblogid=5229062192890335",
+        "sinaweibo://detail?mblogid=5229047348986665",
+        "sinaweibo://detail?mblogid=5205047067543561",
+        "sinaweibo://detail?mblogid=5229041448916745",
+        "sinaweibo://detail?mblogid=5198842664583895",
+        "sinaweibo://detail?mblogid=5187965547708918",
+        "sinaweibo://detail?mblogid=5228963477063631",
+        "sinaweibo://detail?mblogid=5191517085897249",
+        "sinaweibo://detail?mblogid=5198846457808789",
+        "sinaweibo://detail?mblogid=5191474564301495",
+        "sinaweibo://detail?mblogid=5191259272774211"
+      ],
+      "q_attr": {
+        "mid": "",
+        "reply_cid": "",
+        "comment_from_type": "",
+        "from_request_id": "",
+        "from_uid": ""
+      },
+      "top_quote_list": {},
+      "card_multimodal": {
+        "type": "mediablock",
+        "data": [
+          {
+            "user_name": "萨摩耶搜剧队",
+            "doc_score": 0,
+            "user_avatar": "https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/9bea22c3ly8i21efj4i82j20u00u0t9h.jpg?KID=imgbed,tva&Expires=1762223284&ssig=z8IWU1XD%2Fw",
+            "scheme": "sinaweibo://multimedia?mix_mid=5229003772002452&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=1&multi_count=0",
+            "type": "p",
+            "hit_score_new": 0,
+            "h": 3024,
+            "img_pid": "9bea22c3gy1i6zbvzwwqzj23402c0b2b",
+            "w": 4032,
+            "click_rate": 0.52954912734324,
+            "click_num": 0,
+            "vtype": 0,
+            "video_url": "",
+            "hit_score_final": 0,
+            "img": "http://wx1.sinaimg.cn/middle/9bea22c3gy1i6zbvzwwqzj23402c0b2b.jpg",
+            "cur_mid": "5229003772002452"
+          },
+          {
+            "user_name": "熙悦彤",
+            "doc_score": 3245,
+            "user_avatar": "https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/008yimmOly8hv19epbz9dj30u00u00uv.jpg?KID=imgbed,tva&Expires=1762223284&ssig=uMaACISo7O",
+            "scheme": "sinaweibo://video/vvs?mid=5228963477063631&multi_paragraph=1&multi_count=1",
+            "type": "v",
+            "hit_score_new": 76.171875,
+            "h": 720,
+            "img_pid": "008yimmOly1i6z76g3318j30qo0k0t9b",
+            "w": 960,
+            "click_rate": 0.0625,
+            "click_num": 0,
+            "vtype": 0,
+            "video_url": "https://video.weibo.com/show?fid=1034:5228962570502166",
+            "hit_score_final": 67.703125,
+            "img": "http://wx4.sinaimg.cn/middle/008yimmOly1i6z76g3318j30qo0k0t9b.jpg",
+            "cur_mid": "5228963477063631"
+          },
+          {
+            "user_name": "美丽鹿城包头",
+            "doc_score": 2505,
+            "user_avatar": "https://tvax4.sinaimg.cn/crop.26.17.203.203.50/7e77fb11ly8fgr17riv84j206z065q2t.jpg?KID=imgbed,tva&Expires=1762223284&ssig=mDXT9J%2FQ9w",
+            "scheme": "sinaweibo://video/vvs?mid=5229047348986665&multi_paragraph=1&multi_count=2",
+            "type": "v",
+            "hit_score_new": 77.685547,
+            "h": 607,
+            "img_pid": "7e77fb11gy1i6zgwkrs3yj20u00gvmzg",
+            "w": 1080,
+            "click_rate": 0,
+            "click_num": 0,
+            "vtype": 0,
+            "video_url": "https://video.weibo.com/show?fid=1034:5229047131602984",
+            "hit_score_final": 74.611328,
+            "img": "http://wx2.sinaimg.cn/middle/7e77fb11gy1i6zgwkrs3yj20u00gvmzg.jpg",
+            "cur_mid": "5229047348986665"
+          },
+          {
+            "user_name": "萨摩耶搜剧队",
+            "doc_score": 0,
+            "user_avatar": "https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/9bea22c3ly8i21efj4i82j20u00u0t9h.jpg?KID=imgbed,tva&Expires=1762223284&ssig=z8IWU1XD%2Fw",
+            "scheme": "sinaweibo://multimedia?mix_mid=5229003772002452&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=1&multi_count=0",
+            "type": "p",
+            "hit_score_new": 0,
+            "h": 3024,
+            "img_pid": "9bea22c3gy1i6zbvzwwqzj23402c0b2b",
+            "w": 4032,
+            "click_rate": 0.52954912734324,
+            "click_num": 0,
+            "vtype": 0,
+            "video_url": "",
+            "hit_score_final": 0,
+            "img": "http://wx1.sinaimg.cn/middle/9bea22c3gy1i6zbvzwwqzj23402c0b2b.jpg",
+            "cur_mid": "5229003772002452"
+          }
+        ]
+      },
+      "msg": "<think><br><br>嗯，用户搜索了\"后台收到了关晓彤送的彩椒碗\"，看来是想了解这个事件的来龙去脉和相关细节。从搜索结果看，这其实是发生在2025年11月3日微博视界大会期间的一个有趣事件。<br><br>用户可能是个关注明星动态或健康饮食的人，想了解关晓彤这个彩椒碗的具体情况。考虑到关晓彤是当红明星，她的饮食分享经常会引起关注，这次在后台送彩椒碗确实挺特别的。<br><br>从搜索结果看，这个事件有几个关键点：首先是关晓彤在微博视界大会红毯上带着妈妈做的彩椒碗，一共带了8个准备分发给后台的团队和艺人朋友。她在现场还分享了两种口味：金枪鱼和鸡胸肉的。有意思的是，她自己也说彩椒碗出圈后就没再吃过了，可能是因为分享后反而没兴趣了。<br><br>这个彩椒碗其实是关晓彤2025年7月首次分享的健康减脂餐，用彩椒当容器，里面放鸡胸肉、胡萝卜、土豆等健康食材。后来还升级过海鲜版本。不少明星都尝试过，比如蒋欣、张萌和高露。<br><br>用户可能还想知道这个彩椒碗为什么受欢迎。从资料看，它符合健康饮食趋势，高颜值又低卡，关晓彤还因此瘦了十几斤。不过也有人质疑口味或觉得吃多了没效果。<br><br>现场收到彩椒碗的人都在微博上晒了，挺热闹的。关晓彤这个举动既展示了亲民形象，又推广了健康理念。<br><br>回答时需要注意平衡正面和负面评价，毕竟有人觉得好吃，也有人觉得天天吃不一定能瘦。还要注意时间线，从7月首创到11月现场赠送，完整呈现这个健康饮食概念的传播过程。<br><br></think><br>以下是关于“后台收到了关晓彤送的彩椒碗”事件的综合整理：<br>### 🍽️ **1. 事件核心：微博视界大会后台互动**  <br>- **活动背景**：2025年11月3日，关晓彤参加**微博视界大会**，身着粉色刺绣礼服亮相红毯，同时携带了**妈妈亲手制作的彩椒碗**作为后台伴手礼分发给工作人员及艺人朋友。```wbCustomBlock{\"type\": \"quoted\", \"index\": 3, \"data\": {\"num\": [1, 30], \"version\": 2, \"quote_list\": [{\"name\": \"萨摩耶搜剧队\", \"scheme\": \"sinaweibo://detail?mblogid=5229003772002452\", \"index\": 1, \"label\": \"\"}, {\"name\": \"微博视界大会\", \"scheme\": \"sinaweibo://detail?mblogid=5228931633384775\", \"index\": 30, \"label\": \"\"}]}}```  <br>- **现场互动**：她在后台主动分享彩椒碗，并幽默提醒品尝时“注意别花妆”。工作人员透露共准备了**8份**（部分信息称9份），分发给后台团队及合作艺人。```wbCustomBlock{\"type\": \"quoted\", \"index\": 4, \"data\": {\"num\": [28, 46], \"version\": 2, \"quote_list\": [{\"name\": \"柳飘飘有点飘\", \"scheme\": \"sinaweibo://detail?mblogid=5228940160925750\", \"index\": 28, \"label\": \"大v\"}, {\"name\": \"熙悦彤\", \"scheme\": \"sinaweibo://detail?mblogid=5228963477063631\", \"index\": 46, \"label\": \"\"}], \"name\": \"柳飘飘有点飘\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.996.996.50/e8601a4cly8ggdrka4lokj20ro0ro75p.jpg?KID=imgbed,tva&Expires=1762223284&ssig=lYp5JZKAEG\", \"scheme\": \"sinaweibo://detail?mblogid=5228940160925750\", \"vType\": 0}}```  <br>- **彩椒碗细节**：包含**金枪鱼**和**鸡胸肉**两种口味，食材新鲜、色彩鲜艳，兼具健康与美观。```wbCustomBlock{\"type\": \"quoted\", \"index\": 5, \"data\": {\"num\": [30, 41], \"version\": 2, \"quote_list\": [{\"name\": \"美丽鹿城包头\", \"scheme\": \"sinaweibo://detail?mblogid=5229047348986665\", \"index\": 41, \"label\": \"大v\"}, {\"name\": \"微博视界大会\", \"scheme\": \"sinaweibo://detail?mblogid=5228931633384775\", \"index\": 30, \"label\": \"\"}], \"name\": \"美丽鹿城包头\", \"img\": \"https://tvax4.sinaimg.cn/crop.26.17.203.203.50/7e77fb11ly8fgr17riv84j206z065q2t.jpg?KID=imgbed,tva&Expires=1762223284&ssig=mDXT9J%2FQ9w\", \"scheme\": \"sinaweibo://detail?mblogid=5229047348986665\", \"vType\": 0}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5229003772002452&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=1&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/9bea22c3ly8i21efj4i82j20u00u0t9h.jpg?KID=imgbed,tva&Expires=1762223284&ssig=z8IWU1XD%2Fw) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">萨摩耶搜剧队</span><img src=\"http://wx1.sinaimg.cn/middle/9bea22c3gy1i6zbvzwwqzj23402c0b2b.jpg\" data-width=3024 data-height=4032></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5228963477063631&multi_paragraph=1&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/008yimmOly8hv19epbz9dj30u00u00uv.jpg?KID=imgbed,tva&Expires=1762223284&ssig=uMaACISo7O) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">熙悦彤</span><img src=\"http://wx4.sinaimg.cn/middle/008yimmOly1i6z76g3318j30qo0k0t9b.jpg\" data-width=720 data-height=960></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5229047348986665&multi_paragraph=1&multi_count=2\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.26.17.203.203.50/7e77fb11ly8fgr17riv84j206z065q2t.jpg?KID=imgbed,tva&Expires=1762223284&ssig=mDXT9J%2FQ9w) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">美丽鹿城包头</span><img src=\"http://wx2.sinaimg.cn/middle/7e77fb11gy1i6zgwkrs3yj20u00gvmzg.jpg\" data-width=607 data-height=1080></div></media-block><br>### 🌟 **2. 彩椒碗的“出圈史”**  <br>- **起源与走红**：关晓彤于**2025年7月**首次在微博分享彩椒碗食谱，因“高颜值+低卡+饱腹”特性登上热搜。随后蒋欣、张萌、高露等明星纷纷复刻，引发全网模仿热潮。```wbCustomBlock{\"type\": \"quoted\", \"index\": 7, \"data\": {\"num\": [3, 7, 10, 15, 20], \"version\": 2, \"quote_list\": [{\"name\": \"张萌\", \"scheme\": \"sinaweibo://detail?mblogid=5198758822281820\", \"index\": 10, \"label\": \"大v\"}, {\"name\": \"独孤九鎗\", \"scheme\": \"sinaweibo://detail?mblogid=5188441136693572\", \"index\": 3, \"label\": \"\"}, {\"name\": \"一份篮球\", \"scheme\": \"sinaweibo://detail?mblogid=5188576456474710\", \"index\": 7, \"label\": \"\"}, {\"name\": \"欢乐爆笑\", \"scheme\": \"sinaweibo://detail?mblogid=5184373528989683\", \"index\": 15, \"label\": \"\"}, {\"name\": \"碎嘴小喇叭\", \"scheme\": \"sinaweibo://detail?mblogid=5192291031712060\", \"index\": 20, \"label\": \"\"}], \"name\": \"张萌\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/001kHEe0ly8hynedhkx3cj60u00u0gnw02.jpg?KID=imgbed,tva&Expires=1762223284&ssig=cQpEpGy01%2B\", \"scheme\": \"sinaweibo://detail?mblogid=5198758822281820\", \"vType\": 0}}```  <br>- **健康价值**：以彩椒为容器，内填鸡胸肉、土豆泥、胡萝卜等高蛋白低脂食材，实现“蛋白质+膳食纤维+复合碳水”的科学搭配，被网友称为“减脂神器”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 8, \"data\": {\"num\": [5, 12, 27], \"version\": 2, \"quote_list\": [{\"name\": \"圆圆圈圈圆圈呀\", \"scheme\": \"sinaweibo://detail?mblogid=5227768225993843\", \"index\": 5, \"label\": \"大v\"}, {\"name\": \"以爱为妍\", \"scheme\": \"sinaweibo://detail?mblogid=5198097178952949\", \"index\": 12, \"label\": \"\"}, {\"name\": \"圈圈正能量光\", \"scheme\": \"sinaweibo://detail?mblogid=5229052879437969\", \"index\": 27, \"label\": \"\"}], \"name\": \"圆圆圈圈圆圈呀\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/006324Uwly8hy30088cj6j30u00u0tai.jpg?KID=imgbed,tva&Expires=1762223284&ssig=myhf8mKVGW\", \"scheme\": \"sinaweibo://detail?mblogid=5227768225993843\", \"vType\": 0}}```  <br>- **升级迭代**：8月关晓彤推出**海鲜豪华版**，加入鲍鱼、蟹肉、牛油果泥等食材，并搭配山楂树下饮品解腻。```wbCustomBlock{\"type\": \"quoted\", \"index\": 9, \"data\": {\"num\": [13, 16], \"version\": 2, \"quote_list\": [{\"name\": \"关晓彤星球巡游队\", \"scheme\": \"sinaweibo://detail?mblogid=5202144073614564\", \"index\": 13, \"label\": \"大v\"}, {\"name\": \"啵啵奶彤\", \"scheme\": \"sinaweibo://detail?mblogid=5202123001430338\", \"index\": 16, \"label\": \"\"}], \"name\": \"关晓彤星球巡游队\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/005K8Utgly8i42ud381x6j30u00u040r.jpg?KID=imgbed,tva&Expires=1762223284&ssig=CZINkpmzdn\", \"scheme\": \"sinaweibo://detail?mblogid=5202144073614564\", \"vType\": 0}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5227768225993843&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=2&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/006324Uwly8hy30088cj6j30u00u0tai.jpg?KID=imgbed,tva&Expires=1762223284&ssig=myhf8mKVGW) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">圆圆圈圈圆圈呀</span><img src=\"http://wx3.sinaimg.cn/middle/006324Uwly1i6vdzo9bbfj30yi1a4k4x.jpg\" data-width=1660 data-height=1242></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5188576456474710&multi_paragraph=2&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tva4.sinaimg.cn/crop.0.0.512.512.50/dad5bf5djw8eza4u9ak5oj20e80e83z8.jpg?KID=imgbed,tva&Expires=1762223284&ssig=qHMsDfa%2BzI) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">一份篮球</span><img src=\"http://wx2.sinaimg.cn/middle/dad5bf5dly1i3ecvfbhzaj20u01hcq4g.jpg\" data-width=1920 data-height=1080></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5184373528989683&multi_paragraph=2&multi_count=2\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.996.996.50/007QKHSWly8g7sicq5vyvj30ro0rowg9.jpg?KID=imgbed,tva&Expires=1762223284&ssig=dD1SI8p9UU) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">欢乐爆笑</span><img src=\"http://wx3.sinaimg.cn/middle/007QKHSWly1i30y64g0haj30u0140tav.jpg\" data-width=1440 data-height=1080></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5192291031712060&multi_paragraph=2&multi_count=3\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/0076EeXYly8i3ygn806fcj30u00u076i.jpg?KID=imgbed,tva&Expires=1762223284&ssig=MVgaMbzw%2Bh) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">碎嘴小喇叭</span><img src=\"http://wx4.sinaimg.cn/middle/0076EeXYly1i3q7f9wp8fj30k00zkmyc.jpg\" data-width=1280 data-height=720></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5198097178952949&multi_paragraph=2&multi_count=4\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.638.638.50/008tzusRly8hdnvmlnt1qj30hq0hq3zw.jpg?KID=imgbed,tva&Expires=1762223284&ssig=KM9vsf79UX) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">以爱为妍</span><img src=\"http://wx3.sinaimg.cn/middle/008tzusRgy1i48qbqu8a6j30mh0u0wh6.jpg\" data-width=1080 data-height=809></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5202123001430338&multi_paragraph=2&multi_count=5\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/007gLOM1ly8i5lo16878ij30u00u0n0e.jpg?KID=imgbed,tva&Expires=1762223284&ssig=Cke2kcnq5a) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">啵啵奶彤</span><img src=\"http://wx1.sinaimg.cn/middle/007gLOM1ly1i4lko33sipj30k00zkwfl.jpg\" data-width=1280 data-height=720></div></media-block><br>### 💬 **3. 公众反响与争议**  <br>- **正向评价**：  <br>  - 收到彩椒碗的工作人员及艺人晒图表达惊喜，赞其“贴心又健康”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 12, \"data\": {\"num\": [6, 39, 43], \"version\": 2, \"quote_list\": [{\"name\": \"娱洛洛\", \"scheme\": \"sinaweibo://detail?mblogid=5229041448916745\", \"index\": 43, \"label\": \"大v\"}, {\"name\": \"财海一粟\", \"scheme\": \"sinaweibo://detail?mblogid=5229050445696443\", \"index\": 6, \"label\": \"\"}, {\"name\": \"大橘裔锭\", \"scheme\": \"sinaweibo://detail?mblogid=5229050815842543\", \"index\": 39, \"label\": \"\"}], \"name\": \"娱洛洛\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.507.507.50/005U6Kq6ly8hsy1dqjp5bj30e30e3jrv.jpg?KID=imgbed,tva&Expires=1762223284&ssig=CmqVw%2FtF0a\", \"scheme\": \"sinaweibo://detail?mblogid=5229041448916745\", \"vType\": 0}}```  <br>  - 网友称其为“明星伴手礼天花板”，打破艺人送礼“华而不实”的刻板印象。```wbCustomBlock{\"type\": \"quoted\", \"index\": 13, \"data\": {\"num\": [40], \"version\": 2, \"quote_list\": [{\"name\": \"別吃我铮皎\", \"scheme\": \"sinaweibo://detail?mblogid=5229062192890335\", \"index\": 40, \"label\": \"\"}]}}```  <br>- **争议与调侃**：  <br>  - 部分网友质疑口味：“生彩椒口感涩”“鸡胸肉寡淡”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 15, \"data\": {\"num\": [3, 38], \"version\": 2, \"quote_list\": [{\"name\": \"独孤九鎗\", \"scheme\": \"sinaweibo://detail?mblogid=5188441136693572\", \"index\": 3, \"label\": \"大v\"}, {\"name\": \"oO爱吃炸鸡柳\", \"scheme\": \"sinaweibo://detail?mblogid=5229069379569277\", \"index\": 38, \"label\": \"\"}], \"name\": \"独孤九鎗\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.828.828.50/61079d1cly8i0mg2hf5nmj20n00n0jsx.jpg?KID=imgbed,tva&Expires=1762223284&ssig=nLEAk8AZDS\", \"scheme\": \"sinaweibo://detail?mblogid=5188441136693572\", \"vType\": 0}}```  <br>  - 关晓彤在活动中自嘲：“分享后反而不敢吃了，怕被说营销人设”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 16, \"data\": {\"num\": [2, 4], \"version\": 2, \"quote_list\": [{\"name\": \"北京卫视\", \"scheme\": \"sinaweibo://detail?mblogid=5228947945816918\", \"index\": 4, \"label\": \"大v\"}, {\"name\": \"新娱\", \"scheme\": \"sinaweibo://detail?mblogid=5228939534667258\", \"index\": 2, \"label\": \"\"}], \"name\": \"北京卫视\", \"img\": \"https://tvax3.sinaimg.cn/crop.19.19.980.980.50/001Ws19Dly8guqvg2yufsj60rs0rs3z202.jpg?KID=imgbed,tva&Expires=1762223284&ssig=a8Ie7%2BVLQ7\", \"scheme\": \"sinaweibo://detail?mblogid=5228947945816918\", \"vType\": 3}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5228939534667258&multi_paragraph=3&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.600.600.50/a5dc5be4ly8hx6d7d1g26j20go0gowf5.jpg?KID=imgbed,tva&Expires=1762223284&ssig=mSsltUpMiR) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">新娱</span><img src=\"http://wx1.sinaimg.cn/middle/a5dc5be4gy1i6z4ggp2hbj20u01hctd4.jpg\" data-width=1920 data-height=1080></div></media-block><br>### 📌 **4. 幕后故事与延伸影响**  <br>- **亲情纽带**：彩椒碗由关晓彤妈妈亲手制作，融入“家庭健康理念”，强化其“养生自律”形象。```wbCustomBlock{\"type\": \"quoted\", \"index\": 18, \"data\": {\"num\": [1, 17], \"version\": 2, \"quote_list\": [{\"name\": \"萨摩耶搜剧队\", \"scheme\": \"sinaweibo://detail?mblogid=5229003772002452\", \"index\": 1, \"label\": \"\"}, {\"name\": \"从良春春\", \"scheme\": \"sinaweibo://detail?mblogid=5184348813003356\", \"index\": 17, \"label\": \"\"}]}}```  <br>- **文化符号化**：从私房减脂餐升级为**明星社交礼物**，成为融合健康科学、亲情与娱乐文化的现象级IP。```wbCustomBlock{\"type\": \"quoted\", \"index\": 19, \"data\": {\"num\": [47], \"version\": 2, \"quote_list\": [{\"name\": \"雪飘过Miley\", \"scheme\": \"sinaweibo://detail?mblogid=5191517085897249\", \"index\": 47, \"label\": \"大v\"}], \"name\": \"雪飘过Miley\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.996.996.50/56c899a8ly8gjj4bd2pvlj20ro0ro40t.jpg?KID=imgbed,tva&Expires=1762223284&ssig=vbTMDZ6U84\", \"scheme\": \"sinaweibo://detail?mblogid=5191517085897249\", \"vType\": 0}}```  <br>- **商业联动**：关晓彤作为山楂树下代言人，多次在彩椒碗教程中推荐该饮品，形成“健康餐+解腻饮”的搭配营销。```wbCustomBlock{\"type\": \"quoted\", \"index\": 20, \"data\": {\"num\": [13, 16], \"version\": 2, \"quote_list\": [{\"name\": \"啵啵奶彤\", \"scheme\": \"sinaweibo://detail?mblogid=5202123001430338\", \"index\": 16, \"label\": \"大v\"}, {\"name\": \"关晓彤星球巡游队\", \"scheme\": \"sinaweibo://detail?mblogid=5202144073614564\", \"index\": 13, \"label\": \"\"}], \"name\": \"啵啵奶彤\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/007gLOM1ly8i5lo16878ij30u00u0n0e.jpg?KID=imgbed,tva&Expires=1762223284&ssig=Cke2kcnq5a\", \"scheme\": \"sinaweibo://detail?mblogid=5202123001430338\", \"vType\": 0}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5191517085897249&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=4&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.996.996.50/56c899a8ly8gjj4bd2pvlj20ro0ro40t.jpg?KID=imgbed,tva&Expires=1762223284&ssig=vbTMDZ6U84) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">雪飘过Miley</span><img src=\"http://wx4.sinaimg.cn/middle/56c899a8ly1i3nqkhngy9j20z015adua.jpg\" data-width=1486 data-height=1260></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5184348813003356&multi_paragraph=4&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.664.664.50/008h5Ib3ly8h6gzifsuvaj30ig0ig74y.jpg?KID=imgbed,tva&Expires=1762223284&ssig=PkmLCHnAp2) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">从良春春</span><img src=\"http://wx2.sinaimg.cn/middle/008h5Ib3gy1i30vc4avedj30k00qogmy.jpg\" data-width=960 data-height=720></div></media-block><br>### 💎 **总结**  <br>关晓彤在微博视界大会后台赠送彩椒碗，本质是借助**健康饮食符号**完成一次亲民互动。通过妈妈牌手艺、明星效应与实用价值的结合，既强化了自身“自律养生”标签，也以接地气的方式拉近了与公众的距离。彩椒碗的持续热度（7月首发至11月赠送）印证了真实分享的生命力，而其背后的健康理念仍在不断迭代升级。```wbCustomBlock{\"type\": \"quoted\", \"index\": 21, \"data\": {\"num\": [40], \"version\": 2, \"quote_list\": [{\"name\": \"別吃我铮皎\", \"scheme\": \"sinaweibo://detail?mblogid=5229062192890335\", \"index\": 40, \"label\": \"\"}]}}```<br>"
+    }
+  },
+  "links": [
+    "sinaweibo://detail?mblogid=5229003772002452",
+    "sinaweibo://detail?mblogid=5228939534667258",
+    "sinaweibo://detail?mblogid=5188441136693572",
+    "sinaweibo://detail?mblogid=5228947945816918",
+    "sinaweibo://detail?mblogid=5227768225993843",
+    "sinaweibo://detail?mblogid=5229050445696443",
+    "sinaweibo://detail?mblogid=5188576456474710",
+    "sinaweibo://detail?mblogid=5229062176114452",
+    "sinaweibo://detail?mblogid=5229051696645784",
+    "sinaweibo://detail?mblogid=5198758822281820",
+    "sinaweibo://detail?mblogid=5204752259616845",
+    "sinaweibo://detail?mblogid=5198097178952949",
+    "sinaweibo://detail?mblogid=5202144073614564",
+    "sinaweibo://detail?mblogid=5198824564066827",
+    "sinaweibo://detail?mblogid=5184373528989683",
+    "sinaweibo://detail?mblogid=5202123001430338",
+    "sinaweibo://detail?mblogid=5184348813003356",
+    "sinaweibo://detail?mblogid=5198837872071371",
+    "sinaweibo://detail?mblogid=5188438846082233",
+    "sinaweibo://detail?mblogid=5192291031712060",
+    "sinaweibo://detail?mblogid=5198816170479705",
+    "broadsocial_res://",
+    "ctr://",
+    "historyweibo://5226704869786235",
+    "historyweibo://5226694001561435",
+    "sinaweibo://detail?mblogid=5227794503567304",
+    "sinaweibo://detail?mblogid=5229052879437969",
+    "sinaweibo://detail?mblogid=5228940160925750",
+    "sinaweibo://detail?mblogid=5229070344521482",
+    "sinaweibo://detail?mblogid=5228931633384775",
+    "sinaweibo://detail?mblogid=5228965125689127",
+    "sinaweibo://detail?mblogid=5228936355384238",
+    "sinaweibo://detail?mblogid=5228971803287841",
+    "sinaweibo://detail?mblogid=5229048886460422",
+    "sinaweibo://detail?mblogid=5229130968728122",
+    "sinaweibo://detail?mblogid=5229083820556689",
+    "sinaweibo://detail?mblogid=5229069944752416",
+    "sinaweibo://detail?mblogid=5229069379569277",
+    "sinaweibo://detail?mblogid=5229050815842543",
+    "sinaweibo://detail?mblogid=5229062192890335",
+    "sinaweibo://detail?mblogid=5229047348986665",
+    "sinaweibo://detail?mblogid=5205047067543561",
+    "sinaweibo://detail?mblogid=5229041448916745",
+    "sinaweibo://detail?mblogid=5198842664583895",
+    "sinaweibo://detail?mblogid=5187965547708918",
+    "sinaweibo://detail?mblogid=5228963477063631",
+    "sinaweibo://detail?mblogid=5191517085897249",
+    "sinaweibo://detail?mblogid=5198846457808789",
+    "sinaweibo://detail?mblogid=5191474564301495",
+    "sinaweibo://detail?mblogid=5191259272774211"
+  ],
+  "media": [
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/9bea22c3gy1i6zbvzwwqzj23402c0b2b.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/9bea22c3gy1i6zbvzwwqzj23402c0b2b.jpg",
+      "alt": "萨摩耶搜剧队",
+      "width": 3024,
+      "height": 4032,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/9bea22c3gy1i6zbvzwwqzj23402c0b2b.jpg"
+      ],
+      "user": "萨摩耶搜剧队"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/008yimmOly1i6z76g3318j30qo0k0t9b.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/008yimmOly1i6z76g3318j30qo0k0t9b.jpg",
+      "alt": "熙悦彤",
+      "width": 720,
+      "height": 960,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/008yimmOly1i6z76g3318j30qo0k0t9b.jpg"
+      ],
+      "user": "熙悦彤"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/7e77fb11gy1i6zgwkrs3yj20u00gvmzg.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/7e77fb11gy1i6zgwkrs3yj20u00gvmzg.jpg",
+      "alt": "美丽鹿城包头",
+      "width": 607,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/7e77fb11gy1i6zgwkrs3yj20u00gvmzg.jpg"
+      ],
+      "user": "美丽鹿城包头"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/006324Uwly1i6vdzo9bbfj30yi1a4k4x.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/006324Uwly1i6vdzo9bbfj30yi1a4k4x.jpg",
+      "alt": "圆圆圈圈圆圈呀",
+      "width": 1660,
+      "height": 1242,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/006324Uwly1i6vdzo9bbfj30yi1a4k4x.jpg"
+      ],
+      "user": "圆圆圈圈圆圈呀"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/dad5bf5dly1i3ecvfbhzaj20u01hcq4g.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/dad5bf5dly1i3ecvfbhzaj20u01hcq4g.jpg",
+      "alt": "一份篮球",
+      "width": 1920,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/dad5bf5dly1i3ecvfbhzaj20u01hcq4g.jpg"
+      ],
+      "user": "一份篮球"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/007QKHSWly1i30y64g0haj30u0140tav.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/007QKHSWly1i30y64g0haj30u0140tav.jpg",
+      "alt": "欢乐爆笑",
+      "width": 1440,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/007QKHSWly1i30y64g0haj30u0140tav.jpg"
+      ],
+      "user": "欢乐爆笑"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/0076EeXYly1i3q7f9wp8fj30k00zkmyc.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/0076EeXYly1i3q7f9wp8fj30k00zkmyc.jpg",
+      "alt": "碎嘴小喇叭",
+      "width": 1280,
+      "height": 720,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx4.sinaimg.cn/large/0076EeXYly1i3q7f9wp8fj30k00zkmyc.jpg"
+      ],
+      "user": "碎嘴小喇叭"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/008tzusRgy1i48qbqu8a6j30mh0u0wh6.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/008tzusRgy1i48qbqu8a6j30mh0u0wh6.jpg",
+      "alt": "以爱为妍",
+      "width": 1080,
+      "height": 809,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/008tzusRgy1i48qbqu8a6j30mh0u0wh6.jpg"
+      ],
+      "user": "以爱为妍"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/007gLOM1ly1i4lko33sipj30k00zkwfl.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/007gLOM1ly1i4lko33sipj30k00zkwfl.jpg",
+      "alt": "啵啵奶彤",
+      "width": 1280,
+      "height": 720,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/007gLOM1ly1i4lko33sipj30k00zkwfl.jpg"
+      ],
+      "user": "啵啵奶彤"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/a5dc5be4gy1i6z4ggp2hbj20u01hctd4.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/a5dc5be4gy1i6z4ggp2hbj20u01hctd4.jpg",
+      "alt": "新娱",
+      "width": 1920,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/a5dc5be4gy1i6z4ggp2hbj20u01hctd4.jpg"
+      ],
+      "user": "新娱"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/56c899a8ly1i3nqkhngy9j20z015adua.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/56c899a8ly1i3nqkhngy9j20z015adua.jpg",
+      "alt": "雪飘过Miley",
+      "width": 1486,
+      "height": 1260,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/56c899a8ly1i3nqkhngy9j20z015adua.jpg"
+      ],
+      "user": "雪飘过Miley"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/008h5Ib3gy1i30vc4avedj30k00qogmy.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/008h5Ib3gy1i30vc4avedj30k00qogmy.jpg",
+      "alt": "从良春春",
+      "width": 960,
+      "height": 720,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/008h5Ib3gy1i30vc4avedj30k00qogmy.jpg"
+      ],
+      "user": "从良春春"
+    }
+  ],
+  "html_path": "data/aicard/hourly/2025-11-04/07/topic-1733adcf.html"
+}

@@ -1,0 +1,317 @@
+{
+  "meta": {
+    "query": "#樊振东的Labubu是D#",
+    "status_code": 200,
+    "fetched_at": "2025-11-04T19:30:35+08:00",
+    "response": {
+      "model": "deepseek_stream",
+      "mid_list": null,
+      "profile_image_url": "",
+      "query_category": "",
+      "status_stage": 4,
+      "link_list": [
+        "sinaweibo://detail?mblogid=5229304616847334",
+        "sinaweibo://detail?mblogid=5211093828109511",
+        "sinaweibo://detail?mblogid=5210837683011964",
+        "sinaweibo://detail?mblogid=5213450809639675",
+        "sinaweibo://detail?mblogid=5210844168454876",
+        "historyweibo://5229299986072403",
+        "historyweibo://5210837394393697",
+        "sinaweibo://detail?mblogid=5229330189782375",
+        "sinaweibo://detail?mblogid=5229327530068625",
+        "sinaweibo://detail?mblogid=5229310344696927",
+        "sinaweibo://detail?mblogid=5229327885013392",
+        "sinaweibo://detail?mblogid=5229327482357991",
+        "sinaweibo://detail?mblogid=5229342038952109",
+        "sinaweibo://detail?mblogid=5229334707311138",
+        "sinaweibo://detail?mblogid=5229334915975224",
+        "sinaweibo://detail?mblogid=5229317589306023",
+        "sinaweibo://detail?mblogid=5229338229214398",
+        "sinaweibo://detail?mblogid=5229339806796268",
+        "sinaweibo://detail?mblogid=5229336888345913",
+        "sinaweibo://detail?mblogid=5229314564164195",
+        "sinaweibo://detail?mblogid=5229298911020248",
+        "sinaweibo://detail?mblogid=5210932101252059",
+        "sinaweibo://detail?mblogid=5229332012468207",
+        "sinaweibo://detail?mblogid=5210841592365520",
+        "sinaweibo://detail?mblogid=5210867828263984",
+        "sinaweibo://detail?mblogid=5210842506986202",
+        "sinaweibo://detail?mblogid=5229328863858252",
+        "sinaweibo://detail?mblogid=5229337309875748",
+        "sinaweibo://detail?mblogid=5210943390747047",
+        "sinaweibo://detail?mblogid=5210935708091292",
+        "sinaweibo://detail?mblogid=5229328638154549",
+        "sinaweibo://detail?mblogid=5210932952700959",
+        "sinaweibo://detail?mblogid=5212151040180998",
+        "sinaweibo://detail?mblogid=5211040393987013",
+        "sinaweibo://detail?mblogid=5229339637717386"
+      ],
+      "q_attr": {
+        "reply_cid": "",
+        "from_uid": "2306168351",
+        "from_request_id": "1762255777770",
+        "mid": "",
+        "comment_from_type": ""
+      },
+      "card_multimodal": {
+        "type": "mediablock",
+        "data": [
+          {
+            "hit_score_new": 95.166016,
+            "cur_mid": "5229332012468207",
+            "h": 8032,
+            "vtype": 0,
+            "scheme": "sinaweibo://multimedia?mix_mid=5229332012468207&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=2&multi_count=0",
+            "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.480.480.50/007f2koDly8i4flpplqpqj30dc0dc74n.jpg?KID=imgbed,tva&Expires=1762266579&ssig=ybb5aLq%2FLp",
+            "type": "p",
+            "img": "http://wx3.sinaimg.cn/middle/007f2koDgy1i70d6z6cuij32nm674hdt.jpg",
+            "doc_score": 6521,
+            "img_pid": "007f2koDgy1i70d6z6cuij32nm674hdt",
+            "click_num": 0,
+            "click_rate": 0,
+            "hit_score_final": 90.379608,
+            "user_name": "·农场养猪大户·",
+            "video_url": "",
+            "w": 3442
+          },
+          {
+            "hit_score_new": 98.730469,
+            "cur_mid": "5229328863858252",
+            "h": 1080,
+            "vtype": 0,
+            "scheme": "sinaweibo://video/vvs?mid=5229328863858252&multi_paragraph=2&multi_count=1",
+            "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/005tHGm9ly1i2rt6rk5npj30u00u0ju3.jpg?KID=imgbed,tva&Expires=1762266579&ssig=ReoqpiO7zh",
+            "type": "v",
+            "img": "http://wx3.sinaimg.cn/middle/005tHGm9ly1i70d85k5ioj30u00u0q44.jpg",
+            "doc_score": 5482,
+            "img_pid": "005tHGm9ly1i70d85k5ioj30u00u0q44",
+            "click_num": 0,
+            "click_rate": 0,
+            "hit_score_final": 94.118286,
+            "user_name": "星眠曲-",
+            "video_url": "https://video.weibo.com/show?fid=1034:5229328724852743",
+            "w": 1080
+          },
+          {
+            "hit_score_new": 98.388672,
+            "cur_mid": "5229327885013392",
+            "h": 1080,
+            "vtype": 0,
+            "scheme": "sinaweibo://video/vvs?mid=5229327885013392&multi_paragraph=3&multi_count=0",
+            "user_avatar": "https://tvax2.sinaimg.cn/crop.0.0.400.400.50/d1af46bdly8hbbh7fxlsqj20b40b4weq.jpg?KID=imgbed,tva&Expires=1762266578&ssig=ZQYeEFOjVx",
+            "type": "v",
+            "img": "http://wx4.sinaimg.cn/middle/d1af46bdly1i70d4bnz84j20u00u0ab3.jpg",
+            "doc_score": 5365,
+            "img_pid": "d1af46bdly1i70d4bnz84j20u00u0ab3",
+            "click_num": 0,
+            "click_rate": 0,
+            "hit_score_final": 91.033203,
+            "user_name": "体圈星酱",
+            "video_url": "https://video.weibo.com/show?fid=1034:5229327797911592",
+            "w": 1080
+          },
+          {
+            "hit_score_new": 95.166016,
+            "cur_mid": "5229332012468207",
+            "h": 8032,
+            "vtype": 0,
+            "scheme": "sinaweibo://multimedia?mix_mid=5229332012468207&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=2&multi_count=0",
+            "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.480.480.50/007f2koDly8i4flpplqpqj30dc0dc74n.jpg?KID=imgbed,tva&Expires=1762266579&ssig=ybb5aLq%2FLp",
+            "type": "p",
+            "img": "http://wx3.sinaimg.cn/middle/007f2koDgy1i70d6z6cuij32nm674hdt.jpg",
+            "doc_score": 6521,
+            "img_pid": "007f2koDgy1i70d6z6cuij32nm674hdt",
+            "click_num": 0,
+            "click_rate": 0,
+            "hit_score_final": 90.379608,
+            "user_name": "·农场养猪大户·",
+            "video_url": "",
+            "w": 3442
+          }
+        ]
+      },
+      "share_card_multimodal": {
+        "hit_score_new": 95.166016,
+        "cur_mid": "5229332012468207",
+        "h": 8032,
+        "vtype": 0,
+        "scheme": "sinaweibo://multimedia?mix_mid=5229332012468207&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=2&multi_count=0",
+        "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.480.480.50/007f2koDly8i4flpplqpqj30dc0dc74n.jpg?KID=imgbed,tva&Expires=1762266579&ssig=ybb5aLq%2FLp",
+        "type": "p",
+        "img": "http://wx3.sinaimg.cn/middle/007f2koDgy1i70d6z6cuij32nm674hdt.jpg",
+        "doc_score": 6521,
+        "img_pid": "007f2koDgy1i70d6z6cuij32nm674hdt",
+        "click_num": 0,
+        "click_rate": 0,
+        "hit_score_final": 90.379608,
+        "user_name": "·农场养猪大户·",
+        "video_url": "",
+        "w": 3442
+      },
+      "reliable_tips": "{\"gold_orange_v_mids\": [\"5229310344696927\", \"5229336888345913\", \"5210943390747047\", \"5229339637717386\", \"5229332012468207\", \"5229328863858252\", \"5229337309875748\", \"5229327885013392\", \"5229328638154549\", \"5229342038952109\", \"5229339806796268\", \"5210842506986202\", \"5211040393987013\", \"5229314564164195\", \"5229304616847334\", \"5210837683011964\", \"5210844168454876\", \"5229330189782375\", \"5229327530068625\", \"5229327482357991\", \"5229334707311138\", \"5229317589306023\", \"5229338229214398\", \"5229298911020248\", \"5210932101252059\", \"5210841592365520\", \"5210867828263984\"], \"gold_orange_v_ratio\": \"82%\", \"media_mids\": [\"5211093828109511\"], \"media_ratio\": \"3%\", \"verified_mids\": [\"5229334915975224\"], \"verified_ratio\": \"3%\", \"normal_mids\": [\"5210932952700959\", \"5213450809639675\", \"5210935708091292\", \"5212151040180998\"], \"normal_ratio\": \"12%\", \"ref_mid_rank\": {\"5229310344696927\": {\"rank\": 10}, \"5229336888345913\": {\"rank\": 19}, \"5210943390747047\": {\"rank\": 29}, \"5229339637717386\": {\"rank\": 35}, \"5229332012468207\": {\"rank\": 23}, \"5229328863858252\": {\"rank\": 27}, \"5229337309875748\": {\"rank\": 28}, \"5229327885013392\": {\"rank\": 11}, \"5229328638154549\": {\"rank\": 31}, \"5229342038952109\": {\"rank\": 13}, \"5229339806796268\": {\"rank\": 18}, \"5211093828109511\": {\"rank\": 2}, \"5210842506986202\": {\"rank\": 26}, \"5210932952700959\": {\"rank\": 32}, \"5211040393987013\": {\"rank\": 34}, \"5229314564164195\": {\"rank\": 20}, \"5229304616847334\": {\"rank\": 1}, \"5210837683011964\": {\"rank\": 3}, \"5213450809639675\": {\"rank\": 4}, \"5210844168454876\": {\"rank\": 5}, \"5229330189782375\": {\"rank\": 8}, \"5229327530068625\": {\"rank\": 9}, \"5229327482357991\": {\"rank\": 12}, \"5229334707311138\": {\"rank\": 14}, \"5229334915975224\": {\"rank\": 15}, \"5229317589306023\": {\"rank\": 16}, \"5229338229214398\": {\"rank\": 17}, \"5229298911020248\": {\"rank\": 21}, \"5210932101252059\": {\"rank\": 22}, \"5210841592365520\": {\"rank\": 24}, \"5210867828263984\": {\"rank\": 25}, \"5210935708091292\": {\"rank\": 30}, \"5212151040180998\": {\"rank\": 33}}}",
+      "basemodel": "实验组1",
+      "ext_show": {},
+      "status": 2,
+      "current_time": 1762255835,
+      "user_info": {},
+      "comment_info": {},
+      "unify_md5": "826d9eeef4d19ebb5f236b86de555cc0",
+      "query": "#樊振东的Labubu是D#",
+      "loop_times": 200,
+      "news_analyze": {},
+      "msg_format": "markdown",
+      "short_url": "http://t.cn/AXAT7W8B",
+      "msg_json": "{}",
+      "abtest_info": {
+        "chat_entrance": 1
+      },
+      "wenda": {
+        "forward_gen": 0
+      },
+      "reference_num": 33,
+      "ab_suffix": "default",
+      "top_quote_list": {},
+      "query_field": "20",
+      "share_info": {
+        "unify_md5": "826d9eeef4d19ebb5f236b86de555cc0",
+        "tips": "#樊振东的Labubu是D#的相关内容，来智搜看看",
+        "status": 3,
+        "comment_content": "",
+        "page_id": "232964499ff437e8f644f61ed3b7f966511b79",
+        "display_name": "#樊振东的Labubu是D#",
+        "url": "http://t.cn/AXAYEPcg"
+      },
+      "sorted_material_list": null,
+      "qs_status_info": "{\"qs_r_status\":0,\"qs_u_status\":0,\"qs_status\":0,\"qs_q_status\":0,\"ab_lab\":{},\"qs_c_status\":8388608}",
+      "cot": 1,
+      "chat_status_stage": 4,
+      "version": "2025-11-04 19:29:38.592000-2688",
+      "analysis_time": 1762255822,
+      "page_id": "232964499ff437e8f644f61ed3b7f966511b79",
+      "uid": "",
+      "scheme": "sinaweibo://cardlist?containerid=100103type%3D225%26q%3D%23%E6%A8%8A%E6%8C%AF%E4%B8%9C%E7%9A%84labubu%E6%98%AFd%23%26t%3D&extparam=ai_model%3Ddeepseek_stream%26ori_ai_title%3D%E5%8F%82%E8%80%83%E5%8D%9A%E6%96%87%26material_version%3D1762255778",
+      "zs_risk_control": {
+        "think_text_close": 0,
+        "land_button_close": 0
+      },
+      "qs_status": 0,
+      "show_ctrl": {
+        "quote": {}
+      },
+      "msg": "<think><br>嗯，用户查询的是\"樊振东的labubu是d\"，需要基于搜索结果进行整理。从这些结果来看，核心信息集中在2025年11月4日曝光的挂饰创意事件，也涉及9月德国赛事的皇马球衣彩蛋。<br><br>用户可能是樊振东粉丝或关注体育明星趣味细节的网友。ta想了解的\"labubu是d\"其实有两层含义：首先是9月事件中绿色青提果果款Labubu的D系列属性；更重要的是11月新发现的姓名缩写彩蛋——Labubu D作为FZD中的\"D\"组成部分。两个事件都展现了樊振东将个人元素融入潮玩的独特风格。<br><br>最需要优先呈现的是姓名缩写设计这个新颖的细节，因为：<br>①它发生在最近的11月4日（今天），时效性强；<br>②信息更完整，有\"青蛙F+字母Z+Labubu D=FZD\"的完整链条；<br>③引发大量认证账号讨论，可信度高。<br><br>对于德国赛事中的皇马Labubu事件，虽然时间较早但形成重要背景：说明Labubu确是其长期随身物，且早有定制化先例。这部分可作补充解读，但不必喧宾夺主。<br><br>用户或许还想知道D系列Labubu的实际形象？搜索结果提到它是泡泡玛特旗下尖牙精灵造型，绿色款配皇马球衣，但无具体图片。这点可结合潮玩常识描述。<br><br>风险提示点：有普通账号宣称二手市场价格波动，但缺乏权威数据，仅引用事件本身不提商业影响更稳妥。<br><br>最后注意到结果23列举樊振东历年挂饰收集史，虽有趣但偏离核心问题，可作为背景一笔带过。<br><br></think><br>以下关于“樊振东的Labubu是D”的核心信息整理如下：<br>### 一、事件核心：姓名缩写的创意表达  <br>1. **挂饰组合含义**  <br>   樊振东背包上的挂饰包含三个关键元素：  <br>   - **青蛙玩偶（Frog）** → 代表字母 **F**  <br>   - **字母“Z”挂件** → 代表字母 **Z**  <br>   - **Labubu系列“D款”娃娃** → 代表字母 **D**  <br>   三者组合巧妙构成其姓名缩写 **“FZD”**。  <br><br>2. **设计特点**  <br>   所有挂件均为市售常见款式（非定制），通过自由搭配实现创意，体现低调的仪式感和细腻心思。该小巧思于2025年11月4日其出发参加全运会时曝光并引发热议。```wbCustomBlock{\"type\": \"quoted\", \"index\": 7, \"data\": {\"num\": [10, 19], \"version\": 2, \"quote_list\": [{\"name\": \"磁力片儿\", \"scheme\": \"sinaweibo://detail?mblogid=5229310344696927\", \"index\": 10, \"label\": \"\"}, {\"name\": \"椰yeeee_\", \"scheme\": \"sinaweibo://detail?mblogid=5229336888345913\", \"index\": 19, \"label\": \"\"}]}}```<br>### 二、关于Labubu玩偶的背景  <br>1. **Labubu D款属性**  <br>   - Labubu是潮玩品牌泡泡玛特（POP MART）的经典IP，以尖牙凶萌造型闻名。```wbCustomBlock{\"type\": \"quoted\", \"index\": 10, \"data\": {\"num\": [29], \"version\": 2, \"quote_list\": [{\"name\": \"财智贤\", \"scheme\": \"sinaweibo://detail?mblogid=5210943390747047\", \"index\": 29, \"label\": \"大v\"}], \"name\": \"财智贤\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/008FGEnEly8i0oxuk8cvrj30u00u0af2.jpg?KID=imgbed,tva&Expires=1762266579&ssig=mQJe0FxjmK\", \"scheme\": \"sinaweibo://detail?mblogid=5210943390747047\", \"vType\": 0}}```  <br>   - 樊振东所选“D款”属于该系列的特定设计分支，其绿色青提果果配色搭配迷你皇马球衣曾引发此前关注。```wbCustomBlock{\"type\": \"quoted\", \"index\": 11, \"data\": {\"num\": [35], \"version\": 2, \"quote_list\": [{\"name\": \"琦妙体育\", \"scheme\": \"sinaweibo://detail?mblogid=5229339637717386\", \"index\": 35, \"label\": \"\"}]}}```  <br><br>2. **与个人爱好的关联**  <br>   樊振东有长期收藏玩偶的习惯：除Labubu外，其背包还出现过哆啦A梦、Jellycat毛绒玩偶、小熊猫钥匙扣等多种挂饰。此次将Labubu D融入姓名缩写，进一步强化玩偶的个性化符号意义。```wbCustomBlock{\"type\": \"quoted\", \"index\": 12, \"data\": {\"num\": [19, 23, 27, 28], \"version\": 2, \"quote_list\": [{\"name\": \"椰yeeee_\", \"scheme\": \"sinaweibo://detail?mblogid=5229336888345913\", \"index\": 19, \"label\": \"\"}, {\"name\": \"·农场养猪大户·\", \"scheme\": \"sinaweibo://detail?mblogid=5229332012468207\", \"index\": 23, \"label\": \"\"}, {\"name\": \"星眠曲-\", \"scheme\": \"sinaweibo://detail?mblogid=5229328863858252\", \"index\": 27, \"label\": \"\"}, {\"name\": \"默HE北_\", \"scheme\": \"sinaweibo://detail?mblogid=5229337309875748\", \"index\": 28, \"label\": \"\"}]}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5229332012468207&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=2&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.480.480.50/007f2koDly8i4flpplqpqj30dc0dc74n.jpg?KID=imgbed,tva&Expires=1762266579&ssig=ybb5aLq%2FLp) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">·农场养猪大户·</span><img src=\"http://wx3.sinaimg.cn/middle/007f2koDgy1i70d6z6cuij32nm674hdt.jpg\" data-width=8032 data-height=3442></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5229328863858252&multi_paragraph=2&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/005tHGm9ly1i2rt6rk5npj30u00u0ju3.jpg?KID=imgbed,tva&Expires=1762266579&ssig=ReoqpiO7zh) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">星眠曲-</span><img src=\"http://wx3.sinaimg.cn/middle/005tHGm9ly1i70d85k5ioj30u00u0q44.jpg\" data-width=1080 data-height=1080></div></media-block><br>### 三、事件反响与延伸  <br>1. **粉丝情感共鸣**  <br>   该创意被粉丝形容为“冷幽默式浪漫”，赛场霸气形象与生活小巧思的反差萌强化其“温柔细腻”人设，相关话题如`#樊振东的Labubu是D#`单日阅读量超千万。```wbCustomBlock{\"type\": \"quoted\", \"index\": 14, \"data\": {\"num\": [11, 19, 27, 31], \"version\": 2, \"quote_list\": [{\"name\": \"体圈星酱\", \"scheme\": \"sinaweibo://detail?mblogid=5229327885013392\", \"index\": 11, \"label\": \"大v\"}, {\"name\": \"椰yeeee_\", \"scheme\": \"sinaweibo://detail?mblogid=5229336888345913\", \"index\": 19, \"label\": \"\"}, {\"name\": \"星眠曲-\", \"scheme\": \"sinaweibo://detail?mblogid=5229328863858252\", \"index\": 27, \"label\": \"\"}, {\"name\": \"碗吹\", \"scheme\": \"sinaweibo://detail?mblogid=5229328638154549\", \"index\": 31, \"label\": \"\"}], \"name\": \"体圈星酱\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.400.400.50/d1af46bdly8hbbh7fxlsqj20b40b4weq.jpg?KID=imgbed,tva&Expires=1762266578&ssig=ZQYeEFOjVx\", \"scheme\": \"sinaweibo://detail?mblogid=5229327885013392\", \"vType\": 0}}```  <br><br>2. **符号化延伸**  <br>   “FZD”此前多作为其姓名缩写或商业商标（如安踏装备商标），此次通过日常物品赋予新解读，被视作“守护初心”的竞技哲学象征；亦有粉丝将其解读为全运会“福泽多”的吉祥寓意。```wbCustomBlock{\"type\": \"quoted\", \"index\": 15, \"data\": {\"num\": [13, 18], \"version\": 2, \"quote_list\": [{\"name\": \"路遇彼岸花\", \"scheme\": \"sinaweibo://detail?mblogid=5229342038952109\", \"index\": 13, \"label\": \"\"}, {\"name\": \"小兔宅智\", \"scheme\": \"sinaweibo://detail?mblogid=5229339806796268\", \"index\": 18, \"label\": \"\"}]}}```  <br><br>3. **跨事件关联**  <br>   本次小巧思与前序事件形成呼应：  <br>   - **2025年9月德甲赛场**：他因给绿色Labubu穿上定制皇马球衣登上热搜，展现铁杆球迷身份。```wbCustomBlock{\"type\": \"quoted\", \"index\": 17, \"data\": {\"num\": [2, 26], \"version\": 2, \"quote_list\": [{\"name\": \"四川观察\", \"scheme\": \"sinaweibo://detail?mblogid=5211093828109511\", \"index\": 2, \"label\": \"大v\"}, {\"name\": \"竞技体育爱好者-F\", \"scheme\": \"sinaweibo://detail?mblogid=5210842506986202\", \"index\": 26, \"label\": \"\"}], \"name\": \"四川观察\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.600.600.50/beebff5fly8i6aou48o1nj20go0got9j.jpg?KID=imgbed,tva&Expires=1762266579&ssig=K0ubd%2B52PV\", \"scheme\": \"sinaweibo://detail?mblogid=5211093828109511\", \"vType\": 3}}```  <br>   - **商业联动**：同款Labubu玩偶及球衣一度售罄，二手市场价格短期上涨30%。```wbCustomBlock{\"type\": \"quoted\", \"index\": 18, \"data\": {\"num\": [32], \"version\": 2, \"quote_list\": [{\"name\": \"one1111ice\", \"scheme\": \"sinaweibo://detail?mblogid=5210932952700959\", \"index\": 32, \"label\": \"\"}]}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5229327885013392&multi_paragraph=3&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.400.400.50/d1af46bdly8hbbh7fxlsqj20b40b4weq.jpg?KID=imgbed,tva&Expires=1762266578&ssig=ZQYeEFOjVx) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">体圈星酱</span><img src=\"http://wx4.sinaimg.cn/middle/d1af46bdly1i70d4bnz84j20u00u0ab3.jpg\" data-width=1080 data-height=1080></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5229328638154549&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=3&multi_count=1\"><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/006DBSaSly8i0n3smgl5mj30u00u1jtv.jpg?KID=imgbed,tva&Expires=1762266579&ssig=zJFVlQWeGY) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">碗吹</span><img src=\"http://wx1.sinaimg.cn/middle/006DBSaSgy1i70d7kwto5j30k00qpju5.jpg\" data-width=961 data-height=720></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5211093828109511&multi_paragraph=3&multi_count=2\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.600.600.50/beebff5fly8i6aou48o1nj20go0got9j.jpg?KID=imgbed,tva&Expires=1762266579&ssig=K0ubd%2B52PV) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">四川观察</span><img src=\"http://wx3.sinaimg.cn/middle/beebff5fly1i5e6yyulwkj20u01hcdja.jpg\" data-width=1920 data-height=1080></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5210842506986202&multi_paragraph=3&multi_count=3\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.512.512.50/d585dc19ly8hs054isorfj20e80e8755.jpg?KID=imgbed,tva&Expires=1762266579&ssig=gHZPoxQwGf) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">竞技体育爱好者-F</span><img src=\"http://wx2.sinaimg.cn/middle/d585dc19ly1i5de3d2lcoj20u01hcjty.jpg\" data-width=1920 data-height=1080></div></media-block><br>### 四、总结  <br>樊振东的“Labubu是D”本质是以潮玩为载体的个性化表达：  <br>- **符号价值**：D款Labubu不仅是玩偶收藏的延伸，更成为其姓名缩写的创意组成部分，在竞技严肃性与生活烟火气间建立联结。```wbCustomBlock{\"type\": \"quoted\", \"index\": 20, \"data\": {\"num\": [34], \"version\": 2, \"quote_list\": [{\"name\": \"国球人生\", \"scheme\": \"sinaweibo://detail?mblogid=5211040393987013\", \"index\": 34, \"label\": \"大v\"}], \"name\": \"国球人生\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.600.600.50/006ehHTSly8gxz64icyxoj30go0go75c.jpg?KID=imgbed,tva&Expires=1762266579&ssig=t563SPkLb6\", \"scheme\": \"sinaweibo://detail?mblogid=5211040393987013\", \"vType\": 0}}```  <br>- **精神投射**：挂饰随其征战国际赛场，既象征“保留本真”的初心，也被视为高压赛事中的精神慰藉。```wbCustomBlock{\"type\": \"quoted\", \"index\": 21, \"data\": {\"num\": [20, 23], \"version\": 2, \"quote_list\": [{\"name\": \"磁力片儿\", \"scheme\": \"sinaweibo://detail?mblogid=5229314564164195\", \"index\": 20, \"label\": \"\"}, {\"name\": \"·农场养猪大户·\", \"scheme\": \"sinaweibo://detail?mblogid=5229332012468207\", \"index\": 23, \"label\": \"\"}]}}```<br>",
+      "share_text": "#樊振东的Labubu是D#的相关内容，来智搜看看"
+    }
+  },
+  "links": [
+    "sinaweibo://detail?mblogid=5229304616847334",
+    "sinaweibo://detail?mblogid=5211093828109511",
+    "sinaweibo://detail?mblogid=5210837683011964",
+    "sinaweibo://detail?mblogid=5213450809639675",
+    "sinaweibo://detail?mblogid=5210844168454876",
+    "historyweibo://5229299986072403",
+    "historyweibo://5210837394393697",
+    "sinaweibo://detail?mblogid=5229330189782375",
+    "sinaweibo://detail?mblogid=5229327530068625",
+    "sinaweibo://detail?mblogid=5229310344696927",
+    "sinaweibo://detail?mblogid=5229327885013392",
+    "sinaweibo://detail?mblogid=5229327482357991",
+    "sinaweibo://detail?mblogid=5229342038952109",
+    "sinaweibo://detail?mblogid=5229334707311138",
+    "sinaweibo://detail?mblogid=5229334915975224",
+    "sinaweibo://detail?mblogid=5229317589306023",
+    "sinaweibo://detail?mblogid=5229338229214398",
+    "sinaweibo://detail?mblogid=5229339806796268",
+    "sinaweibo://detail?mblogid=5229336888345913",
+    "sinaweibo://detail?mblogid=5229314564164195",
+    "sinaweibo://detail?mblogid=5229298911020248",
+    "sinaweibo://detail?mblogid=5210932101252059",
+    "sinaweibo://detail?mblogid=5229332012468207",
+    "sinaweibo://detail?mblogid=5210841592365520",
+    "sinaweibo://detail?mblogid=5210867828263984",
+    "sinaweibo://detail?mblogid=5210842506986202",
+    "sinaweibo://detail?mblogid=5229328863858252",
+    "sinaweibo://detail?mblogid=5229337309875748",
+    "sinaweibo://detail?mblogid=5210943390747047",
+    "sinaweibo://detail?mblogid=5210935708091292",
+    "sinaweibo://detail?mblogid=5229328638154549",
+    "sinaweibo://detail?mblogid=5210932952700959",
+    "sinaweibo://detail?mblogid=5212151040180998",
+    "sinaweibo://detail?mblogid=5211040393987013",
+    "sinaweibo://detail?mblogid=5229339637717386"
+  ],
+  "media": [
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/007f2koDgy1i70d6z6cuij32nm674hdt.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/007f2koDgy1i70d6z6cuij32nm674hdt.jpg",
+      "alt": "·农场养猪大户·",
+      "width": 8032,
+      "height": 3442,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/007f2koDgy1i70d6z6cuij32nm674hdt.jpg"
+      ],
+      "user": "·农场养猪大户·"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/005tHGm9ly1i70d85k5ioj30u00u0q44.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/005tHGm9ly1i70d85k5ioj30u00u0q44.jpg",
+      "alt": "星眠曲-",
+      "width": 1080,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/005tHGm9ly1i70d85k5ioj30u00u0q44.jpg"
+      ],
+      "user": "星眠曲-"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/d1af46bdly1i70d4bnz84j20u00u0ab3.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/d1af46bdly1i70d4bnz84j20u00u0ab3.jpg",
+      "alt": "体圈星酱",
+      "width": 1080,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/d1af46bdly1i70d4bnz84j20u00u0ab3.jpg"
+      ],
+      "user": "体圈星酱"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/006DBSaSgy1i70d7kwto5j30k00qpju5.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/006DBSaSgy1i70d7kwto5j30k00qpju5.jpg",
+      "alt": "碗吹",
+      "width": 961,
+      "height": 720,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/006DBSaSgy1i70d7kwto5j30k00qpju5.jpg"
+      ],
+      "user": "碗吹"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/beebff5fly1i5e6yyulwkj20u01hcdja.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/beebff5fly1i5e6yyulwkj20u01hcdja.jpg",
+      "alt": "四川观察",
+      "width": 1920,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/beebff5fly1i5e6yyulwkj20u01hcdja.jpg"
+      ],
+      "user": "四川观察"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/d585dc19ly1i5de3d2lcoj20u01hcjty.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/d585dc19ly1i5de3d2lcoj20u01hcjty.jpg",
+      "alt": "竞技体育爱好者-F",
+      "width": 1920,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx4.sinaimg.cn/large/d585dc19ly1i5de3d2lcoj20u01hcjty.jpg"
+      ],
+      "user": "竞技体育爱好者-F"
+    }
+  ],
+  "html_path": "data/aicard/hourly/2025-11-04/19/labubu-d.html"
+}

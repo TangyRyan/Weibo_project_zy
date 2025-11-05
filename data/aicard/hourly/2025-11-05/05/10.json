@@ -1,0 +1,157 @@
+{
+  "meta": {
+    "query": "#程序员被裁后卖卤肉饭10元一盒#",
+    "status_code": 200,
+    "fetched_at": "2025-11-05T05:35:08+08:00",
+    "response": {
+      "reference_num": 21,
+      "query_category": "",
+      "status_stage": 4,
+      "link_list": [
+        "sinaweibo://detail?mblogid=5229368239461914",
+        "sinaweibo://detail?mblogid=5229309922903013",
+        "broadsocial_res://",
+        "historyweibo://5229368239461914",
+        "sinaweibo://detail?mblogid=5229409533166045",
+        "sinaweibo://detail?mblogid=5229381876449594",
+        "sinaweibo://detail?mblogid=5229409066816072",
+        "sinaweibo://detail?mblogid=5229025199915361",
+        "sinaweibo://detail?mblogid=5229408211174209",
+        "sinaweibo://detail?mblogid=5229386647212795",
+        "sinaweibo://detail?mblogid=5229403363870772",
+        "sinaweibo://detail?mblogid=5229405656850231",
+        "sinaweibo://detail?mblogid=5229409741050316",
+        "sinaweibo://detail?mblogid=5229372426687570",
+        "sinaweibo://detail?mblogid=5229411068544091",
+        "sinaweibo://detail?mblogid=5229388003279428",
+        "sinaweibo://detail?mblogid=5229420186697918",
+        "sinaweibo://detail?mblogid=5229417464071879",
+        "sinaweibo://detail?mblogid=5229378541191685",
+        "sinaweibo://detail?mblogid=5229475079914407",
+        "sinaweibo://detail?mblogid=5229445426448009",
+        "sinaweibo://detail?mblogid=5229436054013604",
+        "sinaweibo://detail?mblogid=5229379899623010"
+      ],
+      "msg_format": "markdown",
+      "top_quote_list": {},
+      "card_multimodal": {},
+      "share_card_multimodal": {
+        "vtype": 3,
+        "click_rate": 0.1834151311747,
+        "click_num": 0,
+        "hit_score_new": 0,
+        "w": 720,
+        "cur_mid": "5229368239461914",
+        "h": 1280,
+        "user_name": "潇湘晨报",
+        "img": "http://wx3.sinaimg.cn/middle/001O24LNly1i70hr7hicbj60k00zk76n02.jpg",
+        "user_avatar": "https://tvax4.sinaimg.cn/crop.0.0.826.826.50/001O24LNly8h8viu4nck1j60my0myq3m02.jpg?KID=imgbed,tva&Expires=1762302319&ssig=1ZCsow%2Bt00",
+        "type": "v",
+        "video_url": "https://video.weibo.com/show?fid=1034:5229368130338884",
+        "scheme": "sinaweibo://video/vvs?mid=5229368239461914&multi_paragraph=1&multi_count=0",
+        "hit_score_final": 0,
+        "doc_score": 0,
+        "img_pid": "001O24LNly1i70hr7hicbj60k00zk76n02"
+      },
+      "model": "deepseek",
+      "zs_risk_control": {
+        "think_text_close": 0,
+        "land_button_close": 0
+      },
+      "share_info": {
+        "status": 3,
+        "display_name": "#程序员被裁后卖卤肉饭10元一盒#",
+        "comment_content": "",
+        "page_id": "2329649ee68ea7d30914b4bf0022fbeba9f829",
+        "unify_md5": "582a2b9828fb547da85da58f756d3cb7",
+        "url": "http://t.cn/AXATDIJD",
+        "tips": "#程序员被裁后卖卤肉饭10元一盒#的相关内容，来智搜看看"
+      },
+      "query_field": "60",
+      "uid": "",
+      "news_analyze": {},
+      "reliable_tips": "{\"gold_orange_v_mids\": [\"5229409066816072\", \"5229381876449594\", \"5229379899623010\", \"5229408211174209\", \"5229405656850231\", \"5229386647212795\", \"5229388003279428\", \"5229409533166045\", \"5229409741050316\", \"5229025199915361\", \"5229403363870772\", \"5229372426687570\", \"5229411068544091\", \"5229420186697918\", \"5229417464071879\", \"5229378541191685\"], \"gold_orange_v_ratio\": \"76%\", \"media_mids\": [\"5229368239461914\", \"5229309922903013\"], \"media_ratio\": \"10%\", \"verified_mids\": [], \"verified_ratio\": \"0%\", \"normal_mids\": [\"5229475079914407\", \"5229445426448009\", \"5229436054013604\"], \"normal_ratio\": \"14%\", \"ref_mid_rank\": {\"5229368239461914\": {\"rank\": 1}, \"5229409066816072\": {\"rank\": 7}, \"5229381876449594\": {\"rank\": 6}, \"5229379899623010\": {\"rank\": 23}, \"5229309922903013\": {\"rank\": 2}, \"5229408211174209\": {\"rank\": 9}, \"5229405656850231\": {\"rank\": 12}, \"5229386647212795\": {\"rank\": 10}, \"5229388003279428\": {\"rank\": 16}, \"5229409533166045\": {\"rank\": 5}, \"5229409741050316\": {\"rank\": 13}, \"5229025199915361\": {\"rank\": 8}, \"5229403363870772\": {\"rank\": 11}, \"5229372426687570\": {\"rank\": 14}, \"5229411068544091\": {\"rank\": 15}, \"5229420186697918\": {\"rank\": 17}, \"5229417464071879\": {\"rank\": 18}, \"5229378541191685\": {\"rank\": 19}, \"5229475079914407\": {\"rank\": 20}, \"5229445426448009\": {\"rank\": 21}, \"5229436054013604\": {\"rank\": 22}}}",
+      "ext_show": {},
+      "current_time": 1762292109,
+      "profile_image_url": "",
+      "q_attr": {
+        "reply_cid": "",
+        "comment_from_type": "",
+        "from_uid": "",
+        "from_request_id": "",
+        "mid": ""
+      },
+      "comment_info": {},
+      "sorted_material_list": null,
+      "show_ctrl": {
+        "quote": {}
+      },
+      "msg": "<think><br>嗯，用户给了一个挺热门的新闻事件查询，关于程序员被裁后转行卖10元卤肉饭的。从搜索结果看，这个话题在社交媒体上引发了广泛讨论，需要帮用户梳理出核心事实和多元观点。<br><br>先看核心人物陆先生的背景：扬州大学毕业的程序员，被裁员后在上海卖卤肉饭。定价10元/盒的特色在于肉量足、干净卫生，主要客户是工地工人和写字楼白领。有意思的是他还运用了程序员特长，做了精确的备料流程表和微信点单小程序——这个细节很有职业转型的象征意义。<br><br>关于经营状况要特别注意几个数据：每盒成本7-8元，净利润仅1.5-3元，日销量从30份涨到近百份。但资料3明确指出，这种微利模式依赖短视频流量补贴才能维持，用户@植物人史军也提到要考虑时间成本——这些都是分析商业可持续性的关键点。<br><br>转型动机部分很打动人心。陆先生明确表示更喜欢现在的工作状态：摆脱职场PUA和加班压力，虽然收入少了但\"心里踏实\"。这种职业价值重估在结果23被升华成\"用心生活就是体面\"，结果4则提炼出\"心灵自由＞收入数字\"的价值观转变。<br><br>舆论争议集中在三个方面：首先是定价合理性，@财陈陈直指10元定价低于市场价，@蘑菇的二姐认为必须结合自媒体才有出路；其次是教育资源浪费问题，结果5尖锐质疑\"高学历卖饭是否人才浪费\"；最后引发职场文化反思，@科技青青提到\"不想被PUA\"引发共鸣。<br><br>延伸现象也值得关注：结果8提到99年沪漂程序员在工地摆摊，结果4列举杭州大厂员工卖烧烤等案例，显示这已成为青年就业新趋势。而@律风吟韵强调的职业平等观，@颜控就是好提议结合直播，则提供了观察这件事的不同视角。<br><br>最让我在意的是商业模式的脆弱性。结果3用数据说明，理论月收入4500-9000元未包含经营波动损耗，@饭饭小兔叽干脆断言\"挣钱肯定不可能\"。但反对方如@科技怪谈君则认为精神价值更重要——这本质上是对\"成功标准\"的认知冲突。<br><br>最后呈现时考虑设计几个版块：先用人物故事切入，重点突出\"程序员方法论用在餐饮\"的细节；然后用对比表格呈现正反观点，特别标注依赖流量补贴的风险；价值观部分直接引用当事人原话增强感染力。避免简单判断对错，而是展示这种选择背后的社会意义——就像结果4结语说的\"对成功标准的重新诠释\"。<br><br></think><br>以下是关于“程序员被裁后卖卤肉饭10元一盒”事件的综合分析，结合核心事实、舆论争议及社会意义，按逻辑分层呈现：<br>### 🔍 **一、核心事件与人物背景**  <br>1. **人物经历**  <br>   - 当事人陆先生为扬州大学毕业生，原为程序员，因行业裁员失业，转行在上海街头摆摊售卖卤肉饭，定价10元/盒，主打“肉量足、干净卫生”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 5, \"data\": {\"num\": [1], \"version\": 2, \"quote_list\": [{\"name\": \"潇湘晨报\", \"scheme\": \"sinaweibo://detail?mblogid=5229368239461914\", \"index\": 1, \"label\": \"大v\"}], \"name\": \"潇湘晨报\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.826.826.50/001O24LNly8h8viu4nck1j60my0myq3m02.jpg?KID=imgbed,tva&Expires=1762302319&ssig=1ZCsow%2Bt00\", \"scheme\": \"sinaweibo://detail?mblogid=5229368239461914\", \"vType\": 3}}```  <br>   - 他坦言相比程序员工作，更享受卖盒饭的自由：“摆脱职场PUA和加班压力”，顾客满意的反馈“比年终奖更开心”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 6, \"data\": {\"num\": [7], \"version\": 2, \"quote_list\": [{\"name\": \"科技怪谈君\", \"scheme\": \"sinaweibo://detail?mblogid=5229409066816072\", \"index\": 7, \"label\": \"大v\"}], \"name\": \"科技怪谈君\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.1059.1059.50/0084a6drly8hvz2qem1alj30tf0tfwfs.jpg?KID=imgbed,tva&Expires=1762302319&ssig=MGpsjgWNh5\", \"scheme\": \"sinaweibo://detail?mblogid=5229409066816072\", \"vType\": 0}}```<br><br>2. **经营模式创新**  <br>   - **成本与利润**：每盒成本约7-8元，净利润仅1.5-3元/盒，日销量从30份增至近百份，理论月收入4500-9000元（未计算经营波动损耗）。```wbCustomBlock{\"type\": \"quoted\", \"index\": 8, \"data\": {\"num\": [6], \"version\": 2, \"quote_list\": [{\"name\": \"财陈陈\", \"scheme\": \"sinaweibo://detail?mblogid=5229381876449594\", \"index\": 6, \"label\": \"大v\"}], \"name\": \"财陈陈\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.1022.1022.50/007c9j0Kly8i1izxktd8sj30se0sewgx.jpg?KID=imgbed,tva&Expires=1762302319&ssig=4sbP%2FNrfmg\", \"scheme\": \"sinaweibo://detail?mblogid=5229381876449594\", \"vType\": 0}}```  <br>   - **程序员思维应用**：设计标准化备料流程表（精确到调料克数、炖煮时间），开发微信点单小程序提升效率。```wbCustomBlock{\"type\": \"quoted\", \"index\": 9, \"data\": {\"num\": [23], \"version\": 2, \"quote_list\": [{\"name\": \"律风吟韵\", \"scheme\": \"sinaweibo://detail?mblogid=5229379899623010\", \"index\": 23, \"label\": \"\"}]}}```  <br>   - **暖心调整**：因工人反馈“半碗饭吃不饱”，改为“一碗饭一碗菜”模式，坚持低价惠民。```wbCustomBlock{\"type\": \"quoted\", \"index\": 10, \"data\": {\"num\": [2], \"version\": 2, \"quote_list\": [{\"name\": \"风芒新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5229309922903013\", \"index\": 2, \"label\": \"\"}]}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5229368239461914&multi_paragraph=1&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.826.826.50/001O24LNly8h8viu4nck1j60my0myq3m02.jpg?KID=imgbed,tva&Expires=1762302319&ssig=1ZCsow%2Bt00) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">潇湘晨报</span><img src=\"http://wx3.sinaimg.cn/middle/001O24LNly1i70hr7hicbj60k00zk76n02.jpg\" data-width=1280 data-height=720></div></media-block><br>### ⚖️ **二、舆论争议焦点**  <br>1. **定价是否可持续？**  <br>   - **质疑**：  <br>     - 肉价波动、人工时间成本未充分计算，净利润微薄，长期难维系。```wbCustomBlock{\"type\": \"quoted\", \"index\": 15, \"data\": {\"num\": [6, 9, 12], \"version\": 2, \"quote_list\": [{\"name\": \"植物人史军\", \"scheme\": \"sinaweibo://detail?mblogid=5229405656850231\", \"index\": 12, \"label\": \"大v\"}, {\"name\": \"财陈陈\", \"scheme\": \"sinaweibo://detail?mblogid=5229381876449594\", \"index\": 6, \"label\": \"\"}, {\"name\": \"蘑菇的二姐\", \"scheme\": \"sinaweibo://detail?mblogid=5229408211174209\", \"index\": 9, \"label\": \"\"}], \"name\": \"植物人史军\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/54174acfly8h8wbziifobj20u00u0jwk.jpg?KID=imgbed,tva&Expires=1762302319&ssig=C9paM0vgba\", \"scheme\": \"sinaweibo://detail?mblogid=5229405656850231\", \"vType\": 0}}```  <br>     - 实际收入依赖短视频流量收益补贴，脱离自媒体支持后模式恐难持续。```wbCustomBlock{\"type\": \"quoted\", \"index\": 16, \"data\": {\"num\": [9, 10], \"version\": 2, \"quote_list\": [{\"name\": \"蘑菇的二姐\", \"scheme\": \"sinaweibo://detail?mblogid=5229408211174209\", \"index\": 9, \"label\": \"大v\"}, {\"name\": \"饭饭小兔叽\", \"scheme\": \"sinaweibo://detail?mblogid=5229386647212795\", \"index\": 10, \"label\": \"\"}], \"name\": \"蘑菇的二姐\", \"img\": \"https://tva2.sinaimg.cn/crop.0.1.750.750.50/a19169fbjw8ep0mir735oj20ku0kxmy5.jpg?KID=imgbed,tva&Expires=1762302319&ssig=Auu79h31aa\", \"scheme\": \"sinaweibo://detail?mblogid=5229408211174209\", \"vType\": 0}}```  <br>   - **支持**：  <br>     - 薄利可获口碑与流量，建议结合直播、短视频拓展收入。```wbCustomBlock{\"type\": \"quoted\", \"index\": 18, \"data\": {\"num\": [16, 23], \"version\": 2, \"quote_list\": [{\"name\": \"颜控就是好\", \"scheme\": \"sinaweibo://detail?mblogid=5229388003279428\", \"index\": 16, \"label\": \"大v\"}, {\"name\": \"律风吟韵\", \"scheme\": \"sinaweibo://detail?mblogid=5229379899623010\", \"index\": 23, \"label\": \"\"}], \"name\": \"颜控就是好\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/006A1wptly8i648k747xxj30u00u0gmb.jpg?KID=imgbed,tva&Expires=1762302319&ssig=196WPmco2X\", \"scheme\": \"sinaweibo://detail?mblogid=5229388003279428\", \"vType\": 0}}```  <br>     - 亲民定价满足工地工人、白领需求，体现社会价值。```wbCustomBlock{\"type\": \"quoted\", \"index\": 19, \"data\": {\"num\": [2], \"version\": 2, \"quote_list\": [{\"name\": \"风芒新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5229309922903013\", \"index\": 2, \"label\": \"\"}]}}```<br><br>2. **高学历转行是否资源浪费？**  <br>   - **批判观点**：程序员从事低技能职业反映就业市场结构失衡，高学历人才未充分调用。```wbCustomBlock{\"type\": \"quoted\", \"index\": 21, \"data\": {\"num\": [5], \"version\": 2, \"quote_list\": [{\"name\": \"鸩羽毒舞\", \"scheme\": \"sinaweibo://detail?mblogid=5229409533166045\", \"index\": 5, \"label\": \"大v\"}], \"name\": \"鸩羽毒舞\", \"img\": \"https://tva1.sinaimg.cn/crop.51.40.201.201.50/4d721317jw1e89l6571z2j209b080wf4.jpg?KID=imgbed,tva&Expires=1762302319&ssig=PdshRixBN%2B\", \"scheme\": \"sinaweibo://detail?mblogid=5229409533166045\", \"vType\": 0}}```  <br>   - **力挺观点**：  <br>     - 职业选择应尊重个人价值取向，“脱下孔乙己长衫”是清醒的生活态度。```wbCustomBlock{\"type\": \"quoted\", \"index\": 23, \"data\": {\"num\": [23], \"version\": 2, \"quote_list\": [{\"name\": \"律风吟韵\", \"scheme\": \"sinaweibo://detail?mblogid=5229379899623010\", \"index\": 23, \"label\": \"\"}]}}```  <br>     - 职业无贵贱，卖饭需控成本、拓客源，与“调试代码本质相同”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 24, \"data\": {\"num\": [7], \"version\": 2, \"quote_list\": [{\"name\": \"科技怪谈君\", \"scheme\": \"sinaweibo://detail?mblogid=5229409066816072\", \"index\": 7, \"label\": \"\"}]}}```<br><br>3. **职场文化反思**  <br>   - 陆先生“不想被PUA”引发共鸣，舆论呼吁企业减少高压管理、杜绝无效内卷。```wbCustomBlock{\"type\": \"quoted\", \"index\": 26, \"data\": {\"num\": [13], \"version\": 2, \"quote_list\": [{\"name\": \"科技青青\", \"scheme\": \"sinaweibo://detail?mblogid=5229409741050316\", \"index\": 13, \"label\": \"大v\"}], \"name\": \"科技青青\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.512.512.50/8a468525ly8i3ib7680xpj20e80e8gm1.jpg?KID=imgbed,tva&Expires=1762302319&ssig=Tel7IeCYQQ\", \"scheme\": \"sinaweibo://detail?mblogid=5229409741050316\", \"vType\": 0}}```<br>### 🌟 **三、社会意义与延伸价值**  <br>1. **多元职业路径探索**  <br>   - 类似案例涌现：杭州大厂员工卖烧烤、沪漂99年程序员工地摆摊等，反映年轻人尝试“去标签化”生存。```wbCustomBlock{\"type\": \"quoted\", \"index\": 30, \"data\": {\"num\": [8], \"version\": 2, \"quote_list\": [{\"name\": \"沪语说唱Mrweezy\", \"scheme\": \"sinaweibo://detail?mblogid=5229025199915361\", \"index\": 8, \"label\": \"大v\"}], \"name\": \"沪语说唱Mrweezy\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.751.751.50/4655cf59ly8fymmn5gp5sj20kv0kvac0.jpg?KID=imgbed,tva&Expires=1762302319&ssig=1j6dP4qr31\", \"scheme\": \"sinaweibo://detail?mblogid=5229025199915361\", \"vType\": 0}}```  <br>   - 打破“体面工作”刻板印象，重构“成功标准”：心灵自由＞收入数字，自我实现＞社会评价。```wbCustomBlock{\"type\": \"quoted\", \"index\": 31, \"data\": {\"num\": [23], \"version\": 2, \"quote_list\": [{\"name\": \"律风吟韵\", \"scheme\": \"sinaweibo://detail?mblogid=5229379899623010\", \"index\": 23, \"label\": \"\"}]}}```<br><br>2. **小生意的创新潜力**  <br>   - **标准化运营**：若实现品牌化、预制菜开发，可突破摆摊局限。```wbCustomBlock{\"type\": \"quoted\", \"index\": 33, \"data\": {\"num\": [9], \"version\": 2, \"quote_list\": [{\"name\": \"蘑菇的二姐\", \"scheme\": \"sinaweibo://detail?mblogid=5229408211174209\", \"index\": 9, \"label\": \"\"}]}}```  <br>   - **流量经济结合**：自媒体赋能传统餐饮，短视频内容成新盈利点（如直播制作过程、分享创业故事）。```wbCustomBlock{\"type\": \"quoted\", \"index\": 34, \"data\": {\"num\": [9, 16], \"version\": 2, \"quote_list\": [{\"name\": \"蘑菇的二姐\", \"scheme\": \"sinaweibo://detail?mblogid=5229408211174209\", \"index\": 9, \"label\": \"\"}, {\"name\": \"颜控就是好\", \"scheme\": \"sinaweibo://detail?mblogid=5229388003279428\", \"index\": 16, \"label\": \"\"}]}}```<br><br>3. **社会情绪共鸣**  <br>   - 事件承载个体对抗职场异化的实践，传递“市井烟火中的踏实感亦是成功”的理念。```wbCustomBlock{\"type\": \"quoted\", \"index\": 36, \"data\": {\"num\": [7], \"version\": 2, \"quote_list\": [{\"name\": \"科技怪谈君\", \"scheme\": \"sinaweibo://detail?mblogid=5229409066816072\", \"index\": 7, \"label\": \"\"}]}}```  <br>   - 公众热议推动职业平等观与生存尊严的探讨。```wbCustomBlock{\"type\": \"quoted\", \"index\": 37, \"data\": {\"num\": [13], \"version\": 2, \"quote_list\": [{\"name\": \"科技青青\", \"scheme\": \"sinaweibo://detail?mblogid=5229409741050316\", \"index\": 13, \"label\": \"\"}]}}```<br>### 💎 **四、风险与挑战**  <br>- **经营脆弱性**：天气、政策监管（如摆摊限制）、肉价上涨等因素直接影响生存。```wbCustomBlock{\"type\": \"quoted\", \"index\": 40, \"data\": {\"num\": [12], \"version\": 2, \"quote_list\": [{\"name\": \"植物人史军\", \"scheme\": \"sinaweibo://detail?mblogid=5229405656850231\", \"index\": 12, \"label\": \"\"}]}}```  <br>- **收入不确定性**：若自媒体流量消退，需提价或转型（如改定价至15元/盒），否则难覆盖成本。```wbCustomBlock{\"type\": \"quoted\", \"index\": 41, \"data\": {\"num\": [5, 6, 9], \"version\": 2, \"quote_list\": [{\"name\": \"鸩羽毒舞\", \"scheme\": \"sinaweibo://detail?mblogid=5229409533166045\", \"index\": 5, \"label\": \"\"}, {\"name\": \"财陈陈\", \"scheme\": \"sinaweibo://detail?mblogid=5229381876449594\", \"index\": 6, \"label\": \"\"}, {\"name\": \"蘑菇的二姐\", \"scheme\": \"sinaweibo://detail?mblogid=5229408211174209\", \"index\": 9, \"label\": \"\"}]}}```<br>### 💡 **五、启示**  <br>陆先生的选择既是失业后的积极自救，也折射出当代青年对工作本质的重新思考——当代码世界的光环褪去，市井烟火中的自由与尊严成为另一种值得尊敬的答案。社会热议背后，是公众对多元职业价值认可的深化，以及对职场人性化的迫切期待。```wbCustomBlock{\"type\": \"quoted\", \"index\": 43, \"data\": {\"num\": [13, 23], \"version\": 2, \"quote_list\": [{\"name\": \"科技青青\", \"scheme\": \"sinaweibo://detail?mblogid=5229409741050316\", \"index\": 13, \"label\": \"\"}, {\"name\": \"律风吟韵\", \"scheme\": \"sinaweibo://detail?mblogid=5229379899623010\", \"index\": 23, \"label\": \"\"}]}}```  <br><br>> 📌 **注**：当前模式可持续性依赖流量补贴，建议关注其长期转型策略（如品牌化、差异化产品）以抵御风险。```wbCustomBlock{\"type\": \"quoted\", \"index\": 44, \"data\": {\"num\": [9, 12], \"version\": 2, \"quote_list\": [{\"name\": \"蘑菇的二姐\", \"scheme\": \"sinaweibo://detail?mblogid=5229408211174209\", \"index\": 9, \"label\": \"\"}, {\"name\": \"植物人史军\", \"scheme\": \"sinaweibo://detail?mblogid=5229405656850231\", \"index\": 12, \"label\": \"\"}]}}```<br>",
+      "ab_suffix": "default",
+      "page_id": "2329649ee68ea7d30914b4bf0022fbeba9f829",
+      "scheme": "sinaweibo://cardlist?containerid=100103type%3D225%26q%3D%23%E7%A8%8B%E5%BA%8F%E5%91%98%E8%A2%AB%E8%A3%81%E5%90%8E%E5%8D%96%E5%8D%A4%E8%82%89%E9%A5%AD10%E5%85%83%E4%B8%80%E7%9B%92%23%26t%3D&extparam=ai_model%3Ddeepseek%26ori_ai_title%3D%E5%8F%82%E8%80%83%E5%8D%9A%E6%96%87%26material_version%3D1762291519",
+      "wenda": {
+        "forward_gen": 0
+      },
+      "loop_times": 200,
+      "basemodel": "实验组4",
+      "msg_json": "{}",
+      "short_url": "http://t.cn/AXATdJRR",
+      "query": "#程序员被裁后卖卤肉饭10元一盒#",
+      "analysis_time": 1762291648,
+      "unify_md5": "582a2b9828fb547da85da58f756d3cb7",
+      "share_text": "#程序员被裁后卖卤肉饭10元一盒#的相关内容，来智搜看看",
+      "user_info": {},
+      "status": 2,
+      "version": "2025-11-05 05:25:19.013999-6053",
+      "qs_status": 0,
+      "qs_status_info": "{\"qs_c_status\":8388608,\"qs_r_status\":0,\"ab_lab\":{},\"qs_status\":0,\"qs_u_status\":0,\"qs_q_status\":0}",
+      "cot": 1,
+      "chat_status_stage": 1,
+      "abtest_info": {
+        "chat_entrance": 1
+      },
+      "mid_list": null
+    }
+  },
+  "links": [
+    "sinaweibo://detail?mblogid=5229368239461914",
+    "sinaweibo://detail?mblogid=5229309922903013",
+    "broadsocial_res://",
+    "historyweibo://5229368239461914",
+    "sinaweibo://detail?mblogid=5229409533166045",
+    "sinaweibo://detail?mblogid=5229381876449594",
+    "sinaweibo://detail?mblogid=5229409066816072",
+    "sinaweibo://detail?mblogid=5229025199915361",
+    "sinaweibo://detail?mblogid=5229408211174209",
+    "sinaweibo://detail?mblogid=5229386647212795",
+    "sinaweibo://detail?mblogid=5229403363870772",
+    "sinaweibo://detail?mblogid=5229405656850231",
+    "sinaweibo://detail?mblogid=5229409741050316",
+    "sinaweibo://detail?mblogid=5229372426687570",
+    "sinaweibo://detail?mblogid=5229411068544091",
+    "sinaweibo://detail?mblogid=5229388003279428",
+    "sinaweibo://detail?mblogid=5229420186697918",
+    "sinaweibo://detail?mblogid=5229417464071879",
+    "sinaweibo://detail?mblogid=5229378541191685",
+    "sinaweibo://detail?mblogid=5229475079914407",
+    "sinaweibo://detail?mblogid=5229445426448009",
+    "sinaweibo://detail?mblogid=5229436054013604",
+    "sinaweibo://detail?mblogid=5229379899623010"
+  ],
+  "media": [
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/001O24LNly1i70hr7hicbj60k00zk76n02.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/001O24LNly1i70hr7hicbj60k00zk76n02.jpg",
+      "alt": "潇湘晨报",
+      "width": 1280,
+      "height": 720,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/001O24LNly1i70hr7hicbj60k00zk76n02.jpg"
+      ],
+      "user": "潇湘晨报"
+    }
+  ],
+  "html_path": "data/aicard/hourly/2025-11-05/05/10.html"
+}

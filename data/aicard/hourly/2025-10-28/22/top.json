@@ -1,0 +1,355 @@
+{
+  "meta": {
+    "query": "#TOP 洗剪吹男团#",
+    "status_code": 200,
+    "fetched_at": "2025-10-28T22:36:47+08:00",
+    "response": {
+      "unify_md5": "e3604ac11fd5940cdcff67a921eb3a48",
+      "query_field": "1",
+      "status_stage": 4,
+      "analysis_time": 1761661726,
+      "top_quote_list": {},
+      "sorted_material_list": null,
+      "scheme": "sinaweibo://cardlist?containerid=100103type%3D225%26q%3D%23top%20%E6%B4%97%E5%89%AA%E5%90%B9%E7%94%B7%E5%9B%A2%23%26t%3D&extparam=ai_model%3Ddeepseek%26ori_ai_title%3D%E5%8F%82%E8%80%83%E5%8D%9A%E6%96%87%26material_version%3D1761661591",
+      "card_multimodal": {
+        "type": "mediablock",
+        "data": [
+          {
+            "user_name": "蒜鸟笑一下蒜鸟",
+            "h": 1038,
+            "user_avatar": "https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/93a90f3dly8i25mig8o0rj20u00u0n01.jpg?KID=imgbed,tva&Expires=1761672391&ssig=OUp7M8Yjja",
+            "video_url": "https://video.weibo.com/show?fid=1034:5226809243926581",
+            "w": 1920,
+            "click_rate": 0,
+            "hit_score_new": 0,
+            "vtype": 0,
+            "doc_score": 0,
+            "img_pid": "93a90f3dly1i6sbvnjiw0j21hc0suq50",
+            "hit_score_final": 0,
+            "img": "http://wx1.sinaimg.cn/middle/93a90f3dly1i6sbvnjiw0j21hc0suq50.jpg",
+            "scheme": "sinaweibo://video/vvs?mid=5226809454235405&multi_paragraph=0&multi_count=0",
+            "cur_mid": "5226809454235405",
+            "type": "v"
+          },
+          {
+            "user_name": "Bunny小课堂",
+            "h": 1440,
+            "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.750.750.50/006758Pyly8fg6x9s2jhtj30ku0ku74m.jpg?KID=imgbed,tva&Expires=1761672391&ssig=nE6xOHskhZ",
+            "video_url": "",
+            "w": 1080,
+            "click_rate": 0.10909090909091,
+            "hit_score_new": 78.466797,
+            "vtype": 0,
+            "doc_score": 4123,
+            "img_pid": "006758Pyly1i6s910vzarj30u0140783",
+            "hit_score_final": 61.080078,
+            "img": "http://wx3.sinaimg.cn/middle/006758Pyly1i6s910vzarj30u0140783.jpg",
+            "scheme": "sinaweibo://multimedia?mix_mid=5226784830522197&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=1&multi_count=0",
+            "cur_mid": "5226784830522197",
+            "type": "p"
+          },
+          {
+            "user_name": "綦江私立幼儿园",
+            "h": 1857,
+            "user_avatar": "https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/007YB2EXly8hxjcab848fj30u00u0dhu.jpg?KID=imgbed,tva&Expires=1761672391&ssig=lIMsv313Sr",
+            "video_url": "",
+            "w": 1392,
+            "click_rate": 0.07843137254902,
+            "hit_score_new": 87.988281,
+            "vtype": 0,
+            "doc_score": 5893,
+            "img_pid": "007YB2EXly1i6s9wfr9u1j312o1fldwi",
+            "hit_score_final": 84.792969,
+            "img": "http://wx2.sinaimg.cn/middle/007YB2EXly1i6s9wfr9u1j312o1fldwi.jpg",
+            "scheme": "sinaweibo://multimedia?mix_mid=5226792164263556&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=1",
+            "cur_mid": "5226792164263556",
+            "type": "p"
+          },
+          {
+            "user_name": "蒜鸟笑一下蒜鸟",
+            "h": 1038,
+            "user_avatar": "https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/93a90f3dly8i25mig8o0rj20u00u0n01.jpg?KID=imgbed,tva&Expires=1761672391&ssig=OUp7M8Yjja",
+            "video_url": "https://video.weibo.com/show?fid=1034:5226809243926581",
+            "w": 1920,
+            "click_rate": 0,
+            "hit_score_new": 0,
+            "vtype": 0,
+            "doc_score": 0,
+            "img_pid": "93a90f3dly1i6sbvnjiw0j21hc0suq50",
+            "hit_score_final": 0,
+            "img": "http://wx1.sinaimg.cn/middle/93a90f3dly1i6sbvnjiw0j21hc0suq50.jpg",
+            "scheme": "sinaweibo://video/vvs?mid=5226809454235405&multi_paragraph=0&multi_count=0",
+            "cur_mid": "5226809454235405",
+            "type": "v"
+          }
+        ]
+      },
+      "share_card_multimodal": {
+        "user_name": "蒜鸟笑一下蒜鸟",
+        "h": 1038,
+        "user_avatar": "https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/93a90f3dly8i25mig8o0rj20u00u0n01.jpg?KID=imgbed,tva&Expires=1761672391&ssig=OUp7M8Yjja",
+        "video_url": "https://video.weibo.com/show?fid=1034:5226809243926581",
+        "w": 1920,
+        "click_rate": 0,
+        "hit_score_new": 0,
+        "vtype": 0,
+        "doc_score": 0,
+        "img_pid": "93a90f3dly1i6sbvnjiw0j21hc0suq50",
+        "hit_score_final": 0,
+        "img": "http://wx1.sinaimg.cn/middle/93a90f3dly1i6sbvnjiw0j21hc0suq50.jpg",
+        "scheme": "sinaweibo://video/vvs?mid=5226809454235405&multi_paragraph=0&multi_count=0",
+        "cur_mid": "5226809454235405",
+        "type": "v"
+      },
+      "query": "#TOP 洗剪吹男团#",
+      "msg_format": "markdown",
+      "chat_status_stage": 1,
+      "news_analyze": {},
+      "reliable_tips": "{\"gold_orange_v_mids\": [\"5226809454235405\", \"5226847240981142\", \"5226841498978112\", \"5226839016211645\", \"5226842908789605\", \"5226835756717483\", \"5226842628032437\", \"5226784830522197\", \"5226846098557699\", \"5226847726208369\", \"5226840677423423\", \"5226849106137653\", \"5226783230134286\", \"5226792164263556\", \"5226768098919077\", \"5226839975140189\", \"5226849762543408\", \"5226839582179876\", \"5226846881058958\", \"5042763341498585\", \"5226839392129839\"], \"gold_orange_v_ratio\": \"60%\", \"media_mids\": [], \"media_ratio\": \"0%\", \"verified_mids\": [\"5226848499008854\", \"5042956687901485\", \"5226848363480098\"], \"verified_ratio\": \"9%\", \"normal_mids\": [\"5226846368825458\", \"5226840505452892\", \"5226844003505266\", \"5226844464349563\", \"5226843290733890\", \"5226841839239266\", \"5226831766623237\", \"5226845045784857\", \"5004349264628808\", \"5226843043006980\", \"4774776431970556\"], \"normal_ratio\": \"31%\", \"ref_mid_rank\": {\"5226809454235405\": {\"rank\": 2}, \"5226847240981142\": {\"rank\": 16}, \"5226841498978112\": {\"rank\": 18}, \"5226839016211645\": {\"rank\": 7}, \"5226842908789605\": {\"rank\": 10}, \"5226835756717483\": {\"rank\": 12}, \"5226842628032437\": {\"rank\": 34}, \"5226784830522197\": {\"rank\": 28}, \"5226846098557699\": {\"rank\": 3}, \"5226846368825458\": {\"rank\": 20}, \"5226840505452892\": {\"rank\": 31}, \"5226847726208369\": {\"rank\": 6}, \"5226840677423423\": {\"rank\": 8}, \"5226844003505266\": {\"rank\": 29}, \"5226849106137653\": {\"rank\": 5}, \"5226783230134286\": {\"rank\": 13}, \"5226844464349563\": {\"rank\": 35}, \"5226792164263556\": {\"rank\": 4}, \"5226848499008854\": {\"rank\": 27}, \"5226843290733890\": {\"rank\": 32}, \"5226768098919077\": {\"rank\": 1}, \"5226839975140189\": {\"rank\": 9}, \"5226841839239266\": {\"rank\": 11}, \"5226849762543408\": {\"rank\": 14}, \"5226839582179876\": {\"rank\": 15}, \"5226846881058958\": {\"rank\": 17}, \"5226831766623237\": {\"rank\": 19}, \"5226845045784857\": {\"rank\": 21}, \"5042763341498585\": {\"rank\": 22}, \"5042956687901485\": {\"rank\": 23}, \"5004349264628808\": {\"rank\": 24}, \"5226843043006980\": {\"rank\": 25}, \"5226848363480098\": {\"rank\": 26}, \"4774776431970556\": {\"rank\": 30}, \"5226839392129839\": {\"rank\": 33}}}",
+      "short_url": "http://t.cn/AXA7LlMs",
+      "msg_json": "{}",
+      "uid": "",
+      "model": "deepseek",
+      "reference_num": 35,
+      "ext_show": {},
+      "wenda": {
+        "forward_gen": 0
+      },
+      "qs_status": 0,
+      "current_time": 1761662207,
+      "profile_image_url": "",
+      "user_info": {},
+      "qs_status_info": "{\"qs_u_status\":0,\"qs_c_status\":8388608,\"qs_q_status\":0,\"qs_r_status\":0,\"ab_lab\":{},\"qs_status\":0}",
+      "abtest_info": {
+        "chat_entrance": 1
+      },
+      "version": "2025-10-28 22:26:31.019999-4610",
+      "q_attr": {
+        "from_uid": "",
+        "from_request_id": ""
+      },
+      "cot": 1,
+      "link_list": [
+        "sinaweibo://detail?mblogid=5226768098919077",
+        "sinaweibo://detail?mblogid=5226809454235405",
+        "sinaweibo://detail?mblogid=5226846098557699",
+        "sinaweibo://detail?mblogid=5226792164263556",
+        "sinaweibo://detail?mblogid=5226849106137653",
+        "sinaweibo://detail?mblogid=5226847726208369",
+        "sinaweibo://detail?mblogid=5226839016211645",
+        "sinaweibo://detail?mblogid=5226840677423423",
+        "sinaweibo://detail?mblogid=5226839975140189",
+        "sinaweibo://detail?mblogid=5226842908789605",
+        "sinaweibo://detail?mblogid=5226841839239266",
+        "sinaweibo://detail?mblogid=5226835756717483",
+        "sinaweibo://detail?mblogid=5226783230134286",
+        "sinaweibo://detail?mblogid=5226849762543408",
+        "sinaweibo://detail?mblogid=5226839582179876",
+        "sinaweibo://detail?mblogid=5226847240981142",
+        "sinaweibo://detail?mblogid=5226846881058958",
+        "sinaweibo://detail?mblogid=5226841498978112",
+        "sinaweibo://detail?mblogid=5226831766623237",
+        "sinaweibo://detail?mblogid=5226846368825458",
+        "sinaweibo://detail?mblogid=5226845045784857",
+        "sinaweibo://detail?mblogid=5042763341498585",
+        "sinaweibo://detail?mblogid=5042956687901485",
+        "sinaweibo://detail?mblogid=5004349264628808",
+        "sinaweibo://detail?mblogid=5226843043006980",
+        "sinaweibo://detail?mblogid=5226848363480098",
+        "sinaweibo://detail?mblogid=5226848499008854",
+        "sinaweibo://detail?mblogid=5226784830522197",
+        "sinaweibo://detail?mblogid=5226844003505266",
+        "sinaweibo://detail?mblogid=4774776431970556",
+        "sinaweibo://detail?mblogid=5226840505452892",
+        "sinaweibo://detail?mblogid=5226843290733890",
+        "sinaweibo://detail?mblogid=5226839392129839",
+        "sinaweibo://detail?mblogid=5226842628032437",
+        "sinaweibo://detail?mblogid=5226844464349563"
+      ],
+      "status": 2,
+      "mid_list": null,
+      "page_id": "2329647b33476fb3d437c5cf4ca4bfb9992c3d",
+      "zs_risk_control": {
+        "think_text_close": 0,
+        "land_button_close": 0
+      },
+      "show_ctrl": {
+        "quote": {}
+      },
+      "msg": "<think><br><br>首先，用户查询是“top 洗剪吹男团”，我需要基于提供的搜索结果来构建回答。搜索结果主要是微博帖子，集中在2025年10月28日，讨论一个叫“TOP登陆少年”的男团，成员包括朱志鑫、张泽禹、张极、左航、苏新皓。他们在ELLE风尚大典的红毯上亮相，因为多样的发色和造型被网友戏称为“洗剪吹男团”。  <br><br>关键点从搜索结果中提取：<br>- 热搜标签是#TOP洗剪吹男团#，源于他们在2025年10月28日ELLE活动上的造型。<br>- 成员发色包括红、蓝、粉、黑等，导致网友调侃像理发店模板。<br>- 网友评价两极分化：有人吐槽造型杂乱、团队协调性差，有人称赞个别成员如朱志鑫、张泽禹、苏新皓的颜值。<br>- TOP登陆少年是TF家族的三代男团，定位为乐队男团，有特定成员角色。<br>- 事件引发了对偶像工业的讨论，如时尚跨界困境。<br><br>我的回答需要结构化：<br>1. **开篇引导**：吸引用户注意，突出关键词。例如，从“TOP洗剪吹男团”的热搜事件切入，描述其由ELLE红毯造型引发热议。<br>2. **回答主体**：综合搜索结果：<br>   - 解释“TOP洗剪吹男团”的含义：指TOP登陆少年团的ELLE造型被调侃。<br>   - 描述事件背景：2025年10月28日ELLE风尚大典。<br>   - 成员详情：列出五人及网友对各自的评价。<br>   - 争议焦点：造型评价、团队协调性等。<br>   - 引申讨论：如内娱偶像生态。<br>3. **引用格式**：按照指令，在相关内容后添加引用编号如[^X]，确保每个支持点都有引用。例如，提到发色多样性时引用。<br>4. **格式**：使用标题、分段、加粗关键词增强可读性。避免罗列账号名。<br>5. **风险控制**：网友评价主观，需中立表述，如“部分网友认为...”。<br>6. **结尾**：不添加引用说明，直接结束。<br><br>最终回答大纲：<br>- **开篇**：简述热搜事件。<br>- **事件详解**：时间、地点、成员、造型细节。<br>- **网友反应**：吐槽和赞誉。<br>- **团队背景**：TOP登陆少年的身份。<br>- **总结影响**：话题热度反映的行业问题。<br><br></think><br>### TOP洗剪吹男团：ELLE红毯造型引爆热议  <br>“TOP洗剪吹男团”是2025年10月28日微博热搜话题，特指中国新生代偶像组合“TOP登陆少年”（成员：朱志鑫、张泽禹、张极、左航、苏新皓）在ELLE风尚大典红毯上的造型。因成员发色杂乱（红、蓝、粉、黑四种颜色）、走位松散，被网友调侃酷似“理发店宣传模板”，引发广泛争议。话题热度极高，折射出内娱偶像团体在时尚跨界中的挑战与公众审美的两极分化。以下是核心内容整理：```wbCustomBlock{\"type\": \"quoted\", \"index\": 2, \"data\": {\"num\": [2, 16, 18], \"version\": 2, \"quote_list\": [{\"name\": \"蒜鸟笑一下蒜鸟\", \"scheme\": \"sinaweibo://detail?mblogid=5226809454235405\", \"index\": 2, \"label\": \"\"}, {\"name\": \"冬忆初醒-T\", \"scheme\": \"sinaweibo://detail?mblogid=5226847240981142\", \"index\": 16, \"label\": \"\"}, {\"name\": \"财说养生\", \"scheme\": \"sinaweibo://detail?mblogid=5226841498978112\", \"index\": 18, \"label\": \"\"}]}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5226809454235405&multi_paragraph=0&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/93a90f3dly8i25mig8o0rj20u00u0n01.jpg?KID=imgbed,tva&Expires=1761672391&ssig=OUp7M8Yjja) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">蒜鸟笑一下蒜鸟</span><img src=\"http://wx1.sinaimg.cn/middle/93a90f3dly1i6sbvnjiw0j21hc0suq50.jpg\" data-width=1038 data-height=1920></div></media-block><br>### 🔥 **事件核心：ELLE红毯造型争议**  <br>- **时间与场景**：2025年10月28日，TOP登陆少年组合亮相ELLE风尚大典红毯。五名成员以多色发型和风格迥异的服装登场，发色包括朱志鑫（金发/浅色）、张泽禹（红发）、左航（粉发/黑发）、苏新皓（黑发）等，搭配休闲西装或格子衬衫，被指“像托尼老师开年会”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 5, \"data\": {\"num\": [2, 7, 16], \"version\": 2, \"quote_list\": [{\"name\": \"mmxx2o20\", \"scheme\": \"sinaweibo://detail?mblogid=5226839016211645\", \"index\": 7, \"label\": \"大v\"}, {\"name\": \"蒜鸟笑一下蒜鸟\", \"scheme\": \"sinaweibo://detail?mblogid=5226809454235405\", \"index\": 2, \"label\": \"\"}, {\"name\": \"冬忆初醒-T\", \"scheme\": \"sinaweibo://detail?mblogid=5226847240981142\", \"index\": 16, \"label\": \"\"}], \"name\": \"mmxx2o20\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.480.480.50/0069SfRely8i01rkdaakrj30dc0dcjr5.jpg?KID=imgbed,tva&Expires=1761672391&ssig=ndELMB1f1d\", \"scheme\": \"sinaweibo://detail?mblogid=5226839016211645\", \"vType\": 0}}```  <br>- **网友吐槽点**：  <br>  - 发色杂乱被嘲“杀马特”，五人身高、仪态差异明显，红毯走位松散缺乏团队感。```wbCustomBlock{\"type\": \"quoted\", \"index\": 7, \"data\": {\"num\": [10, 12, 16], \"version\": 2, \"quote_list\": [{\"name\": \"友谊已走到尽头啦\", \"scheme\": \"sinaweibo://detail?mblogid=5226835756717483\", \"index\": 12, \"label\": \"大v\"}, {\"name\": \"洛洛洛费\", \"scheme\": \"sinaweibo://detail?mblogid=5226842908789605\", \"index\": 10, \"label\": \"\"}, {\"name\": \"冬忆初醒-T\", \"scheme\": \"sinaweibo://detail?mblogid=5226847240981142\", \"index\": 16, \"label\": \"\"}], \"name\": \"友谊已走到尽头啦\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.896.896.50/005yxpy7ly8gw1tgfwedhj30ow0owwi8.jpg?KID=imgbed,tva&Expires=1761672391&ssig=e5GxRCAP12\", \"scheme\": \"sinaweibo://detail?mblogid=5226835756717483\", \"vType\": 0}}```  <br>  - 服装风格朴素，被调侃“像公司老板私服”或“理发店促销广告”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 8, \"data\": {\"num\": [18, 34], \"version\": 2, \"quote_list\": [{\"name\": \"财说养生\", \"scheme\": \"sinaweibo://detail?mblogid=5226841498978112\", \"index\": 18, \"label\": \"\"}, {\"name\": \"愫吖_\", \"scheme\": \"sinaweibo://detail?mblogid=5226842628032437\", \"index\": 34, \"label\": \"\"}]}}```  <br>  - 部分评论认为年轻偶像“质量堪忧”，造型暴露内娱新人团体的定位模糊。```wbCustomBlock{\"type\": \"quoted\", \"index\": 9, \"data\": {\"num\": [12, 28], \"version\": 2, \"quote_list\": [{\"name\": \"Bunny小课堂\", \"scheme\": \"sinaweibo://detail?mblogid=5226784830522197\", \"index\": 28, \"label\": \"大v\"}, {\"name\": \"友谊已走到尽头啦\", \"scheme\": \"sinaweibo://detail?mblogid=5226835756717483\", \"index\": 12, \"label\": \"\"}], \"name\": \"Bunny小课堂\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.750.750.50/006758Pyly8fg6x9s2jhtj30ku0ku74m.jpg?KID=imgbed,tva&Expires=1761672391&ssig=nE6xOHskhZ\", \"scheme\": \"sinaweibo://detail?mblogid=5226784830522197\", \"vType\": 0}}```  <br>- **亮点与赞誉**：  <br>  - **朱志鑫**（队长）因高颜值被频繁提及，网友称其“天神下凡”“拉高全团档次”，单人照与短片演技获好评。```wbCustomBlock{\"type\": \"quoted\", \"index\": 11, \"data\": {\"num\": [3, 20, 31], \"version\": 2, \"quote_list\": [{\"name\": \"A-ZI阿紫\", \"scheme\": \"sinaweibo://detail?mblogid=5226846098557699\", \"index\": 3, \"label\": \"大v\"}, {\"name\": \"我说不睡啦\", \"scheme\": \"sinaweibo://detail?mblogid=5226846368825458\", \"index\": 20, \"label\": \"\"}, {\"name\": \"zleromsfzx\", \"scheme\": \"sinaweibo://detail?mblogid=5226840505452892\", \"index\": 31, \"label\": \"\"}], \"name\": \"A-ZI阿紫\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.525.525.50/006sRDRkly8h01p8fvyrtj30el0elmxh.jpg?KID=imgbed,tva&Expires=1761672391&ssig=nZN2OwF89E\", \"scheme\": \"sinaweibo://detail?mblogid=5226846098557699\", \"vType\": 0}}```  <br>  - **张泽禹**（红发）被赞“门面担当”“帅得耀眼”，气质突出。```wbCustomBlock{\"type\": \"quoted\", \"index\": 12, \"data\": {\"num\": [6, 8, 29], \"version\": 2, \"quote_list\": [{\"name\": \"首席禹帝\", \"scheme\": \"sinaweibo://detail?mblogid=5226847726208369\", \"index\": 6, \"label\": \"\"}, {\"name\": \"淤狗_\", \"scheme\": \"sinaweibo://detail?mblogid=5226840677423423\", \"index\": 8, \"label\": \"\"}, {\"name\": \"雉羊\", \"scheme\": \"sinaweibo://detail?mblogid=5226844003505266\", \"index\": 29, \"label\": \"\"}]}}```  <br>  - **苏新皓**（黑发）以干净形象和明媚笑容吸粉，粉丝称“轻松拿捏红毯”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 13, \"data\": {\"num\": [5, 13, 35], \"version\": 2, \"quote_list\": [{\"name\": \"来一杯冰阔乐吗\", \"scheme\": \"sinaweibo://detail?mblogid=5226783230134286\", \"index\": 13, \"label\": \"大v\"}, {\"name\": \"呆不呆斗_\", \"scheme\": \"sinaweibo://detail?mblogid=5226849106137653\", \"index\": 5, \"label\": \"\"}, {\"name\": \"XxxYyyZzzS\", \"scheme\": \"sinaweibo://detail?mblogid=5226844464349563\", \"index\": 35, \"label\": \"\"}], \"name\": \"来一杯冰阔乐吗\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/005JeyhXly8hr9lvfeno5j30u00u0dhi.jpg?KID=imgbed,tva&Expires=1761672391&ssig=wfCQ%2FwFCsh\", \"scheme\": \"sinaweibo://detail?mblogid=5226783230134286\", \"vType\": 0}}```  <br>  - **左航**粉发或黑发造型引发讨论，部分认为黑发更显气质。```wbCustomBlock{\"type\": \"quoted\", \"index\": 14, \"data\": {\"num\": [4, 7], \"version\": 2, \"quote_list\": [{\"name\": \"綦江私立幼儿园\", \"scheme\": \"sinaweibo://detail?mblogid=5226792164263556\", \"index\": 4, \"label\": \"\"}, {\"name\": \"mmxx2o20\", \"scheme\": \"sinaweibo://detail?mblogid=5226839016211645\", \"index\": 7, \"label\": \"\"}]}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5226784830522197&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=1&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.750.750.50/006758Pyly8fg6x9s2jhtj30ku0ku74m.jpg?KID=imgbed,tva&Expires=1761672391&ssig=nE6xOHskhZ) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">Bunny小课堂</span><img src=\"http://wx3.sinaimg.cn/middle/006758Pyly1i6s910vzarj30u0140783.jpg\" data-width=1440 data-height=1080></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5226792164263556&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=1\"><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/007YB2EXly8hxjcab848fj30u00u0dhu.jpg?KID=imgbed,tva&Expires=1761672391&ssig=lIMsv313Sr) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">綦江私立幼儿园</span><img src=\"http://wx2.sinaimg.cn/middle/007YB2EXly1i6s9wfr9u1j312o1fldwi.jpg\" data-width=1857 data-height=1392></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5226835756717483&from=search&content_show=1&mix_index=3&hide_index=1&multi_paragraph=1&multi_count=2\"><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.896.896.50/005yxpy7ly8gw1tgfwedhj30ow0owwi8.jpg?KID=imgbed,tva&Expires=1761672391&ssig=e5GxRCAP12) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">友谊已走到尽头啦</span><img src=\"http://wx3.sinaimg.cn/middle/005yxpy7gy1i6sevzhnqwj30u0140dtb.jpg\" data-width=1440 data-height=1080></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5226842908789605&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=3\"><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.690.690.50/005uK1qoly8hg87rf4t3uj30j60j6dgw.jpg?KID=imgbed,tva&Expires=1761672391&ssig=DZHUqibrjd) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">洛洛洛费</span><img src=\"http://wx3.sinaimg.cn/middle/005uK1qoly1i6sfoztztdj31jk1124fj.jpg\" data-width=1334 data-height=2000></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5226840677423423&from=search&content_show=1&mix_index=5&hide_index=1&multi_paragraph=1&multi_count=4\"><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.512.512.50/008AlPFBly8hztrj2w3gsj30e80e8jrg.jpg?KID=imgbed,tva&Expires=1761672391&ssig=zCY4G3Gwjd) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">淤狗_</span><img src=\"http://wx3.sinaimg.cn/middle/008AlPFBgy1i6sfgprno9j30u00k03zw.jpg\" data-width=720 data-height=1080></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5226846098557699&multi_paragraph=1&multi_count=5\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.525.525.50/006sRDRkly8h01p8fvyrtj30el0elmxh.jpg?KID=imgbed,tva&Expires=1761672391&ssig=nZN2OwF89E) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">A-ZI阿紫</span><img src=\"http://wx3.sinaimg.cn/middle/006sRDRkgy1i6sg35n83dj30zk0k0dkq.jpg\" data-width=720 data-height=1280></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5226847726208369&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=6\"><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/006VL49Hly8i3u6yo58auj30u00u1gov.jpg?KID=imgbed,tva&Expires=1761672391&ssig=4fTE6AzEk%2F) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">首席禹帝</span><img src=\"http://wx3.sinaimg.cn/middle/006VL49Hly1i6sg9fwjjnj32bc3gzkjo.jpg\" data-width=4499 data-height=3000></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5226844003505266&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=7\"><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/008e3Zu5ly8i6jraip59vj30u00u0ac4.jpg?KID=imgbed,tva&Expires=1761672391&ssig=wQh9%2BW4v9k) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">雉羊</span><img src=\"http://wx4.sinaimg.cn/middle/008e3Zu5gy1i6sfumzbrcj31hw28u1ky.jpg\" data-width=2910 data-height=1940></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5226783230134286&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=8\"><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/005JeyhXly8hr9lvfeno5j30u00u0dhi.jpg?KID=imgbed,tva&Expires=1761672391&ssig=wfCQ%2FwFCsh) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">来一杯冰阔乐吗</span><img src=\"http://wx1.sinaimg.cn/middle/005JeyhXly1i6s8z3u9s8j30u01hc440.jpg\" data-width=1920 data-height=1080></div></media-block><br>### 👥 **团队背景与争议本质**  <br>- **TOP登陆少年是谁？**  <br>  TF家族三代男团，定位“乐队男团”（含贝斯、吉他、钢琴等配置），成员年龄18-19岁。作为TFBOYS和时代少年团的师弟团，2024年出道，以养成系风格著称。本次事件是其首次大型时尚活动亮相。```wbCustomBlock{\"type\": \"quoted\", \"index\": 17, \"data\": {\"num\": [16, 27, 32], \"version\": 2, \"quote_list\": [{\"name\": \"碰到你是真烦\", \"scheme\": \"sinaweibo://detail?mblogid=5226848499008854\", \"index\": 27, \"label\": \"大v\"}, {\"name\": \"冬忆初醒-T\", \"scheme\": \"sinaweibo://detail?mblogid=5226847240981142\", \"index\": 16, \"label\": \"\"}, {\"name\": \"鲸鱼TOP\", \"scheme\": \"sinaweibo://detail?mblogid=5226843290733890\", \"index\": 32, \"label\": \"\"}], \"name\": \"碰到你是真烦\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/008aRXNMly8i5mqlfkw1uj30u00u0aeb.jpg?KID=imgbed,tva&Expires=1761672391&ssig=mpKOi7nP6o\", \"scheme\": \"sinaweibo://detail?mblogid=5226848499008854\", \"vType\": 0}}```  <br>- **争议反映的行业问题**：  <br>  - 造型被指暴露团队协调性不足，发色和服装未统一，削弱专业感。```wbCustomBlock{\"type\": \"quoted\", \"index\": 19, \"data\": {\"num\": [10, 34], \"version\": 2, \"quote_list\": [{\"name\": \"洛洛洛费\", \"scheme\": \"sinaweibo://detail?mblogid=5226842908789605\", \"index\": 10, \"label\": \"\"}, {\"name\": \"愫吖_\", \"scheme\": \"sinaweibo://detail?mblogid=5226842628032437\", \"index\": 34, \"label\": \"\"}]}}```  <br>  - 部分粉丝强调成员实力（如乐队技能），呼吁关注舞台表现而非外表。```wbCustomBlock{\"type\": \"quoted\", \"index\": 20, \"data\": {\"num\": [16, 32], \"version\": 2, \"quote_list\": [{\"name\": \"冬忆初醒-T\", \"scheme\": \"sinaweibo://detail?mblogid=5226847240981142\", \"index\": 16, \"label\": \"\"}, {\"name\": \"鲸鱼TOP\", \"scheme\": \"sinaweibo://detail?mblogid=5226843290733890\", \"index\": 32, \"label\": \"\"}]}}```  <br>  - 舆情显示公众对偶像工业“过度包装”的反感，话题高热或成团队认知度提升的契机。```wbCustomBlock{\"type\": \"quoted\", \"index\": 21, \"data\": {\"num\": [18, 34], \"version\": 2, \"quote_list\": [{\"name\": \"财说养生\", \"scheme\": \"sinaweibo://detail?mblogid=5226841498978112\", \"index\": 18, \"label\": \"\"}, {\"name\": \"愫吖_\", \"scheme\": \"sinaweibo://detail?mblogid=5226842628032437\", \"index\": 34, \"label\": \"\"}]}}```<br>### 💎 **总结：美丑之争下的内娱生态**  <br>“TOP洗剪吹男团”标签本质是网友对造型的戏谑化表达，虽引发对年轻偶像“颜值滑坡”的质疑，但也凸显了成员个人魅力（如朱志鑫、张泽禹的颜值认可度）。未来团队需在造型统一性与风格定位上优化，才能将争议转化为长期红利。```wbCustomBlock{\"type\": \"quoted\", \"index\": 23, \"data\": {\"num\": [3, 6, 12, 34], \"version\": 2, \"quote_list\": [{\"name\": \"A-ZI阿紫\", \"scheme\": \"sinaweibo://detail?mblogid=5226846098557699\", \"index\": 3, \"label\": \"\"}, {\"name\": \"首席禹帝\", \"scheme\": \"sinaweibo://detail?mblogid=5226847726208369\", \"index\": 6, \"label\": \"\"}, {\"name\": \"友谊已走到尽头啦\", \"scheme\": \"sinaweibo://detail?mblogid=5226835756717483\", \"index\": 12, \"label\": \"\"}, {\"name\": \"愫吖_\", \"scheme\": \"sinaweibo://detail?mblogid=5226842628032437\", \"index\": 34, \"label\": \"\"}]}}```<br>",
+      "query_category": "",
+      "ab_suffix": "default",
+      "loop_times": 200,
+      "share_info": {
+        "unify_md5": "e3604ac11fd5940cdcff67a921eb3a48",
+        "url": "http://t.cn/AXA7CRkL",
+        "display_name": "#TOP 洗剪吹男团#",
+        "tips": "#TOP 洗剪吹男团#的相关内容，来智搜看看",
+        "page_id": "2329647b33476fb3d437c5cf4ca4bfb9992c3d",
+        "status": 3
+      },
+      "share_text": "#TOP 洗剪吹男团#的相关内容，来智搜看看",
+      "basemodel": "实验组5"
+    }
+  },
+  "links": [
+    "sinaweibo://detail?mblogid=5226768098919077",
+    "sinaweibo://detail?mblogid=5226809454235405",
+    "sinaweibo://detail?mblogid=5226846098557699",
+    "sinaweibo://detail?mblogid=5226792164263556",
+    "sinaweibo://detail?mblogid=5226849106137653",
+    "sinaweibo://detail?mblogid=5226847726208369",
+    "sinaweibo://detail?mblogid=5226839016211645",
+    "sinaweibo://detail?mblogid=5226840677423423",
+    "sinaweibo://detail?mblogid=5226839975140189",
+    "sinaweibo://detail?mblogid=5226842908789605",
+    "sinaweibo://detail?mblogid=5226841839239266",
+    "sinaweibo://detail?mblogid=5226835756717483",
+    "sinaweibo://detail?mblogid=5226783230134286",
+    "sinaweibo://detail?mblogid=5226849762543408",
+    "sinaweibo://detail?mblogid=5226839582179876",
+    "sinaweibo://detail?mblogid=5226847240981142",
+    "sinaweibo://detail?mblogid=5226846881058958",
+    "sinaweibo://detail?mblogid=5226841498978112",
+    "sinaweibo://detail?mblogid=5226831766623237",
+    "sinaweibo://detail?mblogid=5226846368825458",
+    "sinaweibo://detail?mblogid=5226845045784857",
+    "sinaweibo://detail?mblogid=5042763341498585",
+    "sinaweibo://detail?mblogid=5042956687901485",
+    "sinaweibo://detail?mblogid=5004349264628808",
+    "sinaweibo://detail?mblogid=5226843043006980",
+    "sinaweibo://detail?mblogid=5226848363480098",
+    "sinaweibo://detail?mblogid=5226848499008854",
+    "sinaweibo://detail?mblogid=5226784830522197",
+    "sinaweibo://detail?mblogid=5226844003505266",
+    "sinaweibo://detail?mblogid=4774776431970556",
+    "sinaweibo://detail?mblogid=5226840505452892",
+    "sinaweibo://detail?mblogid=5226843290733890",
+    "sinaweibo://detail?mblogid=5226839392129839",
+    "sinaweibo://detail?mblogid=5226842628032437",
+    "sinaweibo://detail?mblogid=5226844464349563"
+  ],
+  "media": [
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/93a90f3dly1i6sbvnjiw0j21hc0suq50.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/93a90f3dly1i6sbvnjiw0j21hc0suq50.jpg",
+      "alt": "蒜鸟笑一下蒜鸟",
+      "width": 1038,
+      "height": 1920,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/93a90f3dly1i6sbvnjiw0j21hc0suq50.jpg"
+      ],
+      "user": "蒜鸟笑一下蒜鸟"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/006758Pyly1i6s910vzarj30u0140783.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/006758Pyly1i6s910vzarj30u0140783.jpg",
+      "alt": "Bunny小课堂",
+      "width": 1440,
+      "height": 1080,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/006758Pyly1i6s910vzarj30u0140783.jpg"
+      ],
+      "user": "Bunny小课堂"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/007YB2EXly1i6s9wfr9u1j312o1fldwi.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/007YB2EXly1i6s9wfr9u1j312o1fldwi.jpg",
+      "alt": "綦江私立幼儿园",
+      "width": 1857,
+      "height": 1392,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/007YB2EXly1i6s9wfr9u1j312o1fldwi.jpg"
+      ],
+      "user": "綦江私立幼儿园"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/005yxpy7gy1i6sevzhnqwj30u0140dtb.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/005yxpy7gy1i6sevzhnqwj30u0140dtb.jpg",
+      "alt": "友谊已走到尽头啦",
+      "width": 1440,
+      "height": 1080,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/005yxpy7gy1i6sevzhnqwj30u0140dtb.jpg"
+      ],
+      "user": "友谊已走到尽头啦"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/005uK1qoly1i6sfoztztdj31jk1124fj.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/005uK1qoly1i6sfoztztdj31jk1124fj.jpg",
+      "alt": "洛洛洛费",
+      "width": 1334,
+      "height": 2000,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx4.sinaimg.cn/large/005uK1qoly1i6sfoztztdj31jk1124fj.jpg"
+      ],
+      "user": "洛洛洛费"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/008AlPFBgy1i6sfgprno9j30u00k03zw.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/008AlPFBgy1i6sfgprno9j30u00k03zw.jpg",
+      "alt": "淤狗_",
+      "width": 720,
+      "height": 1080,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/008AlPFBgy1i6sfgprno9j30u00k03zw.jpg"
+      ],
+      "user": "淤狗_"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/006sRDRkgy1i6sg35n83dj30zk0k0dkq.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/006sRDRkgy1i6sg35n83dj30zk0k0dkq.jpg",
+      "alt": "A-ZI阿紫",
+      "width": 720,
+      "height": 1280,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/006sRDRkgy1i6sg35n83dj30zk0k0dkq.jpg"
+      ],
+      "user": "A-ZI阿紫"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/006VL49Hly1i6sg9fwjjnj32bc3gzkjo.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/006VL49Hly1i6sg9fwjjnj32bc3gzkjo.jpg",
+      "alt": "首席禹帝",
+      "width": 4499,
+      "height": 3000,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/006VL49Hly1i6sg9fwjjnj32bc3gzkjo.jpg"
+      ],
+      "user": "首席禹帝"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/008e3Zu5gy1i6sfumzbrcj31hw28u1ky.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/008e3Zu5gy1i6sfumzbrcj31hw28u1ky.jpg",
+      "alt": "雉羊",
+      "width": 2910,
+      "height": 1940,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx4.sinaimg.cn/large/008e3Zu5gy1i6sfumzbrcj31hw28u1ky.jpg"
+      ],
+      "user": "雉羊"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/005JeyhXly1i6s8z3u9s8j30u01hc440.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/005JeyhXly1i6s8z3u9s8j30u01hc440.jpg",
+      "alt": "来一杯冰阔乐吗",
+      "width": 1920,
+      "height": 1080,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/005JeyhXly1i6s8z3u9s8j30u01hc440.jpg"
+      ],
+      "user": "来一杯冰阔乐吗"
+    }
+  ],
+  "html_path": "data/aicard/hourly/2025-10-28/22/top.html"
+}

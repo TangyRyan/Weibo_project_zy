@@ -1,0 +1,336 @@
+{
+  "meta": {
+    "query": "#这些公务员不能辞职#",
+    "status_code": 200,
+    "fetched_at": "2025-11-01T20:48:18+08:00",
+    "response": {
+      "abtest_info": {
+        "chat_entrance": 1
+      },
+      "page_id": "2329647fd8656b5ecaad198681b99b782109d8",
+      "msg_format": "markdown",
+      "status": 2,
+      "current_time": 1762001298,
+      "profile_image_url": "",
+      "user_info": {},
+      "query": "#这些公务员不能辞职#",
+      "link_list": [
+        "sinaweibo://detail?mblogid=5228121970446124",
+        "sinaweibo://detail?mblogid=5227826942578181",
+        "sinaweibo://detail?mblogid=5227738367003183",
+        "sinaweibo://detail?mblogid=5228221160753698",
+        "sinaweibo://detail?mblogid=5228201655665434",
+        "sinaweibo://detail?mblogid=5223796613057785",
+        "sinaweibo://detail?mblogid=5223753598109984",
+        "sinaweibo://detail?mblogid=5227451644121647",
+        "sinaweibo://detail?mblogid=5227368369095897",
+        "sinaweibo://detail?mblogid=5227228742030341",
+        "sinaweibo://detail?mblogid=5223814465587064",
+        "historyweibo://5227738367003183",
+        "historyweibo://5020477585624947",
+        "historyweibo://5227568308689942",
+        "sinaweibo://detail?mblogid=5228199896418213",
+        "sinaweibo://detail?mblogid=5228195903441519",
+        "sinaweibo://detail?mblogid=5228221668263984",
+        "sinaweibo://detail?mblogid=5228213047658739",
+        "sinaweibo://detail?mblogid=5228223340484226",
+        "sinaweibo://detail?mblogid=5228223489114404",
+        "sinaweibo://detail?mblogid=5228230371443226",
+        "sinaweibo://detail?mblogid=5228243053712003",
+        "sinaweibo://detail?mblogid=5227848815089974",
+        "sinaweibo://detail?mblogid=5228273706472441",
+        "sinaweibo://detail?mblogid=5228270995905406",
+        "sinaweibo://detail?mblogid=5228270553400677",
+        "sinaweibo://detail?mblogid=5228265280636306",
+        "sinaweibo://detail?mblogid=5228262805740526",
+        "sinaweibo://detail?mblogid=5228260197928927",
+        "sinaweibo://detail?mblogid=5228258818003548",
+        "sinaweibo://detail?mblogid=5227848663041820",
+        "sinaweibo://detail?mblogid=5228215815900530",
+        "sinaweibo://detail?mblogid=5227832665967742",
+        "sinaweibo://detail?mblogid=5227858253318137",
+        "sinaweibo://detail?mblogid=5227371148083325",
+        "sinaweibo://detail?mblogid=5227852987369848",
+        "sinaweibo://detail?mblogid=5228227066855997",
+        "sinaweibo://detail?mblogid=5227840526093103",
+        "sinaweibo://detail?mblogid=5228240479981121",
+        "sinaweibo://detail?mblogid=5223793123398680",
+        "sinaweibo://detail?mblogid=5223823433269413"
+      ],
+      "zs_risk_control": {
+        "think_text_close": 0,
+        "land_button_close": 0
+      },
+      "reliable_tips": "{\"gold_orange_v_mids\": [\"5227826942578181\", \"5228221160753698\", \"5227848663041820\", \"5227832665967742\", \"5223814465587064\", \"5227371148083325\", \"5223793123398680\", \"5228201655665434\", \"5223796613057785\", \"5223753598109984\", \"5227368369095897\", \"5227228742030341\", \"5228199896418213\", \"5228195903441519\", \"5228221668263984\", \"5228213047658739\", \"5228223340484226\", \"5228230371443226\", \"5228243053712003\", \"5227848815089974\", \"5228273706472441\", \"5228215815900530\", \"5227858253318137\", \"5227852987369848\", \"5228227066855997\", \"5227840526093103\", \"5228240479981121\", \"5223823433269413\"], \"gold_orange_v_ratio\": \"74%\", \"media_mids\": [\"5228121970446124\", \"5227451644121647\", \"5227738367003183\", \"5228262805740526\"], \"media_ratio\": \"10%\", \"verified_mids\": [\"5228223489114404\", \"5228270553400677\", \"5228265280636306\"], \"verified_ratio\": \"8%\", \"normal_mids\": [\"5228260197928927\", \"5228270995905406\", \"5228258818003548\"], \"normal_ratio\": \"8%\", \"ref_mid_rank\": {\"5228121970446124\": {\"rank\": 1}, \"5227826942578181\": {\"rank\": 2}, \"5228221160753698\": {\"rank\": 4}, \"5228260197928927\": {\"rank\": 29}, \"5227848663041820\": {\"rank\": 31}, \"5227832665967742\": {\"rank\": 33}, \"5223814465587064\": {\"rank\": 11}, \"5227371148083325\": {\"rank\": 35}, \"5223793123398680\": {\"rank\": 40}, \"5228223489114404\": {\"rank\": 20}, \"5227451644121647\": {\"rank\": 8}, \"5227738367003183\": {\"rank\": 3}, \"5228201655665434\": {\"rank\": 5}, \"5223796613057785\": {\"rank\": 6}, \"5223753598109984\": {\"rank\": 7}, \"5227368369095897\": {\"rank\": 9}, \"5227228742030341\": {\"rank\": 10}, \"5228199896418213\": {\"rank\": 15}, \"5228195903441519\": {\"rank\": 16}, \"5228221668263984\": {\"rank\": 17}, \"5228213047658739\": {\"rank\": 18}, \"5228223340484226\": {\"rank\": 19}, \"5228230371443226\": {\"rank\": 21}, \"5228243053712003\": {\"rank\": 22}, \"5227848815089974\": {\"rank\": 23}, \"5228273706472441\": {\"rank\": 24}, \"5228270995905406\": {\"rank\": 25}, \"5228270553400677\": {\"rank\": 26}, \"5228265280636306\": {\"rank\": 27}, \"5228262805740526\": {\"rank\": 28}, \"5228258818003548\": {\"rank\": 30}, \"5228215815900530\": {\"rank\": 32}, \"5227858253318137\": {\"rank\": 34}, \"5227852987369848\": {\"rank\": 36}, \"5228227066855997\": {\"rank\": 37}, \"5227840526093103\": {\"rank\": 38}, \"5228240479981121\": {\"rank\": 39}, \"5223823433269413\": {\"rank\": 41}}}",
+      "loop_times": 200,
+      "share_card_multimodal": {
+        "h": 1280,
+        "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.600.600.50/beebff5fly8i6aou48o1nj20go0got9j.jpg?KID=imgbed,tva&Expires=1762012014&ssig=Pn%2Fy6exVdf",
+        "vtype": 3,
+        "img": "http://wx3.sinaimg.cn/middle/beebff5fly1i6wim4yy2fj20k00zkdin.jpg",
+        "hit_score_new": 0,
+        "doc_score": 0,
+        "img_pid": "beebff5fly1i6wim4yy2fj20k00zkdin",
+        "w": 720,
+        "click_rate": 0.13672378881774,
+        "type": "v",
+        "scheme": "sinaweibo://video/vvs?mid=5228121970446124&multi_paragraph=0&multi_count=0",
+        "video_url": "https://video.weibo.com/show?fid=1034:5228121855819821",
+        "cur_mid": "5228121970446124",
+        "hit_score_final": 0,
+        "user_name": "四川观察"
+      },
+      "model": "deepseek",
+      "qs_status": 0,
+      "cot": 1,
+      "analysis_time": 1762001275,
+      "reference_num": 38,
+      "unify_md5": "27ae23fecdbd4c5ac15b7bdb46140182",
+      "status_stage": 4,
+      "q_attr": {
+        "reply_cid": "",
+        "comment_from_type": "",
+        "from_request_id": "1762001211599",
+        "from_uid": "7874121486",
+        "mid": ""
+      },
+      "version": "2025-11-01 20:46:54.035000-9961",
+      "basemodel": "实验组5",
+      "uid": "",
+      "sorted_material_list": null,
+      "ext_show": {},
+      "scheme": "sinaweibo://cardlist?containerid=100103type%3D225%26q%3D%23%E8%BF%99%E4%BA%9B%E5%85%AC%E5%8A%A1%E5%91%98%E4%B8%8D%E8%83%BD%E8%BE%9E%E8%81%8C%23%26t%3D&extparam=ai_model%3Ddeepseek%26ori_ai_title%3D%E5%8F%82%E8%80%83%E5%8D%9A%E6%96%87%26material_version%3D1762001214",
+      "comment_info": {},
+      "wenda": {
+        "forward_gen": 0
+      },
+      "share_info": {
+        "url": "http://t.cn/AXAIefCm",
+        "tips": "#这些公务员不能辞职#的相关内容，来智搜看看",
+        "comment_content": "",
+        "page_id": "2329647fd8656b5ecaad198681b99b782109d8",
+        "unify_md5": "27ae23fecdbd4c5ac15b7bdb46140182",
+        "display_name": "#这些公务员不能辞职#",
+        "status": 3
+      },
+      "news_analyze": {},
+      "short_url": "http://t.cn/AXAMuxPQ",
+      "top_quote_list": {},
+      "mid_list": null,
+      "chat_status_stage": 1,
+      "query_field": "49",
+      "query_category": "Ip",
+      "qs_status_info": "{\"qs_status\":0,\"qs_q_status\":0,\"ab_lab\":{},\"qs_c_status\":8388608,\"qs_r_status\":0,\"qs_u_status\":0}",
+      "share_text": "#这些公务员不能辞职#的相关内容，来智搜看看",
+      "card_multimodal": {
+        "type": "mediablock",
+        "data": [
+          {
+            "h": 1280,
+            "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.600.600.50/beebff5fly8i6aou48o1nj20go0got9j.jpg?KID=imgbed,tva&Expires=1762012014&ssig=Pn%2Fy6exVdf",
+            "vtype": 3,
+            "img": "http://wx3.sinaimg.cn/middle/beebff5fly1i6wim4yy2fj20k00zkdin.jpg",
+            "hit_score_new": 0,
+            "doc_score": 0,
+            "img_pid": "beebff5fly1i6wim4yy2fj20k00zkdin",
+            "w": 720,
+            "click_rate": 0.13672378881774,
+            "type": "v",
+            "scheme": "sinaweibo://video/vvs?mid=5228121970446124&multi_paragraph=0&multi_count=0",
+            "video_url": "https://video.weibo.com/show?fid=1034:5228121855819821",
+            "cur_mid": "5228121970446124",
+            "hit_score_final": 0,
+            "user_name": "四川观察"
+          },
+          {
+            "h": 530,
+            "user_avatar": "https://tvax4.sinaimg.cn/crop.0.0.512.512.50/005Mx9O2ly8hkmi3gz1myj30e80e8q5a.jpg?KID=imgbed,tva&Expires=1762012014&ssig=Ki3PCfQGzZ",
+            "vtype": 0,
+            "img": "http://wx3.sinaimg.cn/middle/005Mx9O2gy1i6vleg0v45j30wi0eq405.jpg",
+            "hit_score_new": 90.625,
+            "doc_score": 3956,
+            "img_pid": "005Mx9O2gy1i6vleg0v45j30wi0eq405",
+            "w": 1170,
+            "click_rate": 0.13272010512484,
+            "type": "p",
+            "scheme": "sinaweibo://multimedia?mix_mid=5227832665967742&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=0&multi_count=1",
+            "video_url": "",
+            "cur_mid": "5227832665967742",
+            "hit_score_final": 81.575005,
+            "user_name": "财二财"
+          },
+          {
+            "h": 720,
+            "user_avatar": "https://tvax4.sinaimg.cn/crop.0.0.996.996.50/0084LG9uly8gfi9y95dlyj30ro0ron0o.jpg?KID=imgbed,tva&Expires=1762012014&ssig=d2BWlTU81D",
+            "vtype": 0,
+            "img": "http://wx2.sinaimg.cn/middle/0084LG9uly1i6vn85wd55j30zk0k0q4g.jpg",
+            "hit_score_new": 85.107422,
+            "doc_score": 3421,
+            "img_pid": "0084LG9uly1i6vn85wd55j30zk0k0q4g",
+            "w": 1280,
+            "click_rate": 0.043103448275862,
+            "type": "v",
+            "scheme": "sinaweibo://video/vvs?mid=5227848663041820&multi_paragraph=0&multi_count=2",
+            "video_url": "https://video.weibo.com/show?fid=1034:5227848487600167",
+            "cur_mid": "5227848663041820",
+            "hit_score_final": 77.880455,
+            "user_name": "资本大事纪"
+          },
+          {
+            "h": 1280,
+            "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.600.600.50/beebff5fly8i6aou48o1nj20go0got9j.jpg?KID=imgbed,tva&Expires=1762012014&ssig=Pn%2Fy6exVdf",
+            "vtype": 3,
+            "img": "http://wx3.sinaimg.cn/middle/beebff5fly1i6wim4yy2fj20k00zkdin.jpg",
+            "hit_score_new": 0,
+            "doc_score": 0,
+            "img_pid": "beebff5fly1i6wim4yy2fj20k00zkdin",
+            "w": 720,
+            "click_rate": 0.13672378881774,
+            "type": "v",
+            "scheme": "sinaweibo://video/vvs?mid=5228121970446124&multi_paragraph=0&multi_count=0",
+            "video_url": "https://video.weibo.com/show?fid=1034:5228121855819821",
+            "cur_mid": "5228121970446124",
+            "hit_score_final": 0,
+            "user_name": "四川观察"
+          }
+        ]
+      },
+      "msg": "<think><br><br>嗯，用户搜索的是\"这些公务员不能辞职\"，看起来是想了解公务员辞职的限制条件。从搜索结果来看，这个话题最近很热，中央纪委国家监委在10月底刚发布了《公务员辞去公职规定》，多个媒体和大V都在讨论。<br><br>用户可能是个正在考虑辞职的公务员，或者是个准备考公的人在了解政策。也可能是普通网友对公务员制度好奇。从话题热度看，大家都对\"铁饭碗\"能不能随便摔很感兴趣。<br><br>让我梳理下核心信息：公务员辞职确实有限制，主要是五种情形不能辞：服务年限不满的（通常5年）、涉密岗位的、有重要工作没交接完的、正被审查审计的、以及法律规定的其他情形。这些在结果1、2、4、12、29里都反复提到。<br><br>有意思的是，还发现了相关现象：有人想\"曲线离职\"，比如故意旷工15天触发辞退。但这样风险很大，辞退会留档案记录，五年内不能再考。最近湖南和贵州真有公务员因此被登报辞退。<br><br>用户可能没明说但会关心的点：辞职流程、违约金怎么算、辞职后从业限制。特别是领导辞职后三年内都不能在原管辖范围做生意，普通公务员两年内不能做老本行，还得每年向原单位报告。<br><br>还注意到地域差异：山东网友说在老家辞职会被亲戚骂，但马上有人反驳说山东辞职的也不少。看来文化压力确实存在，但实际选择因人而异。<br><br>时效性很重要，今天是2025年11月1日，结果1、15-19都是今天的新内容，优先参考。政策文件和媒体解读可信度更高，个人观点可以补充但需标注。<br><br>最后要提醒风险点：故意旷工辞退的隐患、试用期放弃录用的特殊通道、以及\"辞退\"和\"开除\"的天壤之别。这些对真正想离职的人很关键。<br><br></think><br>关于公务员辞职的限制规定，核心信息整理如下：<br><br>📌 **一、禁止辞职的法定情形**  <br>根据《公务员辞去公职规定》，存在以下情况之一者不予批准辞职：```wbCustomBlock{\"type\": \"quoted\", \"index\": 2, \"data\": {\"num\": [1, 2, 4], \"version\": 2, \"quote_list\": [{\"name\": \"四川观察\", \"scheme\": \"sinaweibo://detail?mblogid=5228121970446124\", \"index\": 1, \"label\": \"大v\"}, {\"name\": \"爱偷懒的刘女士\", \"scheme\": \"sinaweibo://detail?mblogid=5227826942578181\", \"index\": 2, \"label\": \"\"}, {\"name\": \"洪师弟\", \"scheme\": \"sinaweibo://detail?mblogid=5228221160753698\", \"index\": 4, \"label\": \"\"}], \"name\": \"四川观察\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.600.600.50/beebff5fly8i6aou48o1nj20go0got9j.jpg?KID=imgbed,tva&Expires=1762012014&ssig=Pn%2Fy6exVdf\", \"scheme\": \"sinaweibo://detail?mblogid=5228121970446124\", \"vType\": 3}}```  <br>1. **未满最低服务年限**：新录用公务员需服务满5年（含试用期），未满者不得辞职。试用期内可申请“取消录用”，但需正当理由（如健康问题）且可能影响后续报考。```wbCustomBlock{\"type\": \"quoted\", \"index\": 3, \"data\": {\"num\": [29], \"version\": 2, \"quote_list\": [{\"name\": \"恩醬妻\", \"scheme\": \"sinaweibo://detail?mblogid=5228260197928927\", \"index\": 29, \"label\": \"\"}]}}```  <br>2. **涉密岗位未脱密**：在国家安全、机要等特殊职位任职，或脱密期未满者（通常1-3年）。```wbCustomBlock{\"type\": \"quoted\", \"index\": 4, \"data\": {\"num\": [1], \"version\": 2, \"quote_list\": [{\"name\": \"四川观察\", \"scheme\": \"sinaweibo://detail?mblogid=5228121970446124\", \"index\": 1, \"label\": \"\"}]}}```  <br>3. **公务未完结或接受审查**：  <br>   - 重要公务需本人继续处理；  <br>   - 正接受审计、纪律审查、监察调查或司法程序未终结。```wbCustomBlock{\"type\": \"quoted\", \"index\": 7, \"data\": {\"num\": [1, 4, 31], \"version\": 2, \"quote_list\": [{\"name\": \"洪师弟\", \"scheme\": \"sinaweibo://detail?mblogid=5228221160753698\", \"index\": 4, \"label\": \"大v\"}, {\"name\": \"四川观察\", \"scheme\": \"sinaweibo://detail?mblogid=5228121970446124\", \"index\": 1, \"label\": \"\"}, {\"name\": \"资本大事纪\", \"scheme\": \"sinaweibo://detail?mblogid=5227848663041820\", \"index\": 31, \"label\": \"\"}], \"name\": \"洪师弟\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.1024.1024.50/8ab5cb5bly8i3rhmhh6qzj20sg0sgmzh.jpg?KID=imgbed,tva&Expires=1762012014&ssig=8DvE2X8Iun\", \"scheme\": \"sinaweibo://detail?mblogid=5228221160753698\", \"vType\": 0}}```  <br>4. **专项培训协议未到期**：未满约定服务期者需支付违约金（金额≤未履行年限分摊的培训费用）。```wbCustomBlock{\"type\": \"quoted\", \"index\": 8, \"data\": {\"num\": [2, 31], \"version\": 2, \"quote_list\": [{\"name\": \"爱偷懒的刘女士\", \"scheme\": \"sinaweibo://detail?mblogid=5227826942578181\", \"index\": 2, \"label\": \"大v\"}, {\"name\": \"资本大事纪\", \"scheme\": \"sinaweibo://detail?mblogid=5227848663041820\", \"index\": 31, \"label\": \"\"}], \"name\": \"爱偷懒的刘女士\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/0071yfo0ly8i32yd70trnj30u00u0wgc.jpg?KID=imgbed,tva&Expires=1762012014&ssig=x43Bnx7Oy6\", \"scheme\": \"sinaweibo://detail?mblogid=5227826942578181\", \"vType\": 0}}```<br><br>⚠️ **二、辞职流程与违规风险**  <br>1. **辞职程序**：  <br>   - 提交书面申请及《公务员辞去公职申请表》，县处级副职以上需报告个人事项；  <br>   - 组织审核（重点核查禁止情形及从业限制）；  <br>   - 审批时限：普通公务员30日，领导成员90日；  <br>   - 批准后10日内完成公务交接，否则可撤销决定并开除。```wbCustomBlock{\"type\": \"quoted\", \"index\": 14, \"data\": {\"num\": [4, 33], \"version\": 2, \"quote_list\": [{\"name\": \"财二财\", \"scheme\": \"sinaweibo://detail?mblogid=5227832665967742\", \"index\": 33, \"label\": \"大v\"}, {\"name\": \"洪师弟\", \"scheme\": \"sinaweibo://detail?mblogid=5228221160753698\", \"index\": 4, \"label\": \"\"}], \"name\": \"财二财\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.512.512.50/005Mx9O2ly8hkmi3gz1myj30e80e8q5a.jpg?KID=imgbed,tva&Expires=1762012014&ssig=Ki3PCfQGzZ\", \"scheme\": \"sinaweibo://detail?mblogid=5227832665967742\", \"vType\": 0}}```  <br>2. **“曲线离职”风险**：  <br>   - 未满服务期者若故意旷工触发辞退（如连续旷工≥15日），将面临开除处分，且5年内禁考公务员；  <br>   - **辞退≠辞职**：辞退保留再考机会（5年后可报考），但开除永久禁入。```wbCustomBlock{\"type\": \"quoted\", \"index\": 17, \"data\": {\"num\": [11, 35, 40], \"version\": 2, \"quote_list\": [{\"name\": \"厚恩投资张延昆\", \"scheme\": \"sinaweibo://detail?mblogid=5223814465587064\", \"index\": 11, \"label\": \"大v\"}, {\"name\": \"空浅没空a_\", \"scheme\": \"sinaweibo://detail?mblogid=5227371148083325\", \"index\": 35, \"label\": \"\"}, {\"name\": \"游历丁丁\", \"scheme\": \"sinaweibo://detail?mblogid=5223793123398680\", \"index\": 40, \"label\": \"\"}], \"name\": \"厚恩投资张延昆\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/404cdd30ly8gdih9m7oraj20u00u0whj.jpg?KID=imgbed,tva&Expires=1762012014&ssig=Tl5FNxSUKJ\", \"scheme\": \"sinaweibo://detail?mblogid=5223814465587064\", \"vType\": 0}}```<br><br>🔒 **三、辞职后从业限制**  <br>1. **从业禁区**：  <br>   - **领导成员/县处级以上**：离职3年内不得在**原管辖地区或业务范围**内受聘营利性组织或从事相关活动；  <br>   - **其他公务员**：离职2年内不得从事**与原工作业务直接相关**的营利性活动。```wbCustomBlock{\"type\": \"quoted\", \"index\": 21, \"data\": {\"num\": [4, 20, 31], \"version\": 2, \"quote_list\": [{\"name\": \"洪师弟\", \"scheme\": \"sinaweibo://detail?mblogid=5228221160753698\", \"index\": 4, \"label\": \"\"}, {\"name\": \"卧龙学长_\", \"scheme\": \"sinaweibo://detail?mblogid=5228223489114404\", \"index\": 20, \"label\": \"\"}, {\"name\": \"资本大事纪\", \"scheme\": \"sinaweibo://detail?mblogid=5227848663041820\", \"index\": 31, \"label\": \"\"}]}}```  <br>2. **违规后果**：  <br>   - 没收违法所得，接收单位最高罚违法所得5倍；  <br>   - 限制期内需每年向原单位报告从业情况。```wbCustomBlock{\"type\": \"quoted\", \"index\": 24, \"data\": {\"num\": [4, 31], \"version\": 2, \"quote_list\": [{\"name\": \"洪师弟\", \"scheme\": \"sinaweibo://detail?mblogid=5228221160753698\", \"index\": 4, \"label\": \"\"}, {\"name\": \"资本大事纪\", \"scheme\": \"sinaweibo://detail?mblogid=5227848663041820\", \"index\": 31, \"label\": \"\"}]}}```<br><br>💎 **四、政策趋势与社会争议**  <br>- **破除“铁饭碗”误区**：2024年全国机关事业单位辞退8.5万人，同比增长18.7%，凸显“能进能出”机制常态化。  <br>- **争议焦点**：  <br>   - 失联人员辞退程序被质疑缺乏安全核查（如未联系家属或报警）；```wbCustomBlock{\"type\": \"quoted\", \"index\": 28, \"data\": {\"num\": [11, 40], \"version\": 2, \"quote_list\": [{\"name\": \"游历丁丁\", \"scheme\": \"sinaweibo://detail?mblogid=5223793123398680\", \"index\": 40, \"label\": \"大v\"}, {\"name\": \"厚恩投资张延昆\", \"scheme\": \"sinaweibo://detail?mblogid=5223814465587064\", \"index\": 11, \"label\": \"\"}], \"name\": \"游历丁丁\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/e92ae12aly8hcb36xim6lj20u00u0dnm.jpg?KID=imgbed,tva&Expires=1762012014&ssig=7Ciu%2Bp65XY\", \"scheme\": \"sinaweibo://detail?mblogid=5223793123398680\", \"vType\": 0}}```  <br>   - 公众担忧制度执行存在选择性（如“只辞没背景者”）。```wbCustomBlock{\"type\": \"quoted\", \"index\": 29, \"data\": {\"num\": [11], \"version\": 2, \"quote_list\": [{\"name\": \"厚恩投资张延昆\", \"scheme\": \"sinaweibo://detail?mblogid=5223814465587064\", \"index\": 11, \"label\": \"\"}]}}```  <br>- **社会认知**：公务员职业稳定性以履职为前提，“躺平”、旷工等行为面临刚性惩处。```wbCustomBlock{\"type\": \"quoted\", \"index\": 30, \"data\": {\"num\": [8, 31], \"version\": 2, \"quote_list\": [{\"name\": \"封面新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5227451644121647\", \"index\": 8, \"label\": \"大v\"}, {\"name\": \"资本大事纪\", \"scheme\": \"sinaweibo://detail?mblogid=5227848663041820\", \"index\": 31, \"label\": \"\"}], \"name\": \"封面新闻\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.690.690.50/001DitQply8h8vhzzl20mj60j60j6jrn02.jpg?KID=imgbed,tva&Expires=1762012014&ssig=CMHDCxeUAz\", \"scheme\": \"sinaweibo://detail?mblogid=5227451644121647\", \"vType\": 3}}```<br><br>**建议行动**：  <br>- 计划辞职者提前确认服务年限及协议条款；  <br>- 从业限制期人员需合规报告职业动向；  <br>- 单位需平衡程序刚性与人文关怀（如失联时增加家属联系环节）。```wbCustomBlock{\"type\": \"quoted\", \"index\": 34, \"data\": {\"num\": [31], \"version\": 2, \"quote_list\": [{\"name\": \"资本大事纪\", \"scheme\": \"sinaweibo://detail?mblogid=5227848663041820\", \"index\": 31, \"label\": \"\"}]}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5228121970446124&multi_paragraph=0&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.600.600.50/beebff5fly8i6aou48o1nj20go0got9j.jpg?KID=imgbed,tva&Expires=1762012014&ssig=Pn%2Fy6exVdf) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">四川观察</span><img src=\"http://wx3.sinaimg.cn/middle/beebff5fly1i6wim4yy2fj20k00zkdin.jpg\" data-width=1280 data-height=720></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5227832665967742&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=0&multi_count=1\"><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.512.512.50/005Mx9O2ly8hkmi3gz1myj30e80e8q5a.jpg?KID=imgbed,tva&Expires=1762012014&ssig=Ki3PCfQGzZ) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">财二财</span><img src=\"http://wx3.sinaimg.cn/middle/005Mx9O2gy1i6vleg0v45j30wi0eq405.jpg\" data-width=530 data-height=1170></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5227848663041820&multi_paragraph=0&multi_count=2\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.996.996.50/0084LG9uly8gfi9y95dlyj30ro0ron0o.jpg?KID=imgbed,tva&Expires=1762012014&ssig=d2BWlTU81D) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">资本大事纪</span><img src=\"http://wx2.sinaimg.cn/middle/0084LG9uly1i6vn85wd55j30zk0k0q4g.jpg\" data-width=720 data-height=1280></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5227826942578181&multi_paragraph=0&multi_count=3\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/0071yfo0ly8i32yd70trnj30u00u0wgc.jpg?KID=imgbed,tva&Expires=1762012014&ssig=x43Bnx7Oy6) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">爱偷懒的刘女士</span><img src=\"http://wx2.sinaimg.cn/middle/0071yfo0ly1i6vkp942rzj30zk0k0abt.jpg\" data-width=720 data-height=1280></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5223814465587064&multi_paragraph=0&multi_count=4\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/404cdd30ly8gdih9m7oraj20u00u0whj.jpg?KID=imgbed,tva&Expires=1762012014&ssig=Tl5FNxSUKJ) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">厚恩投资张延昆</span><img src=\"http://wx4.sinaimg.cn/middle/404cdd30ly1i6irwuq36hj20f00qomxp.jpg\" data-width=960 data-height=540></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5223793123398680&multi_paragraph=0&multi_count=5\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/e92ae12aly8hcb36xim6lj20u00u0dnm.jpg?KID=imgbed,tva&Expires=1762012014&ssig=7Ciu%2Bp65XY) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">游历丁丁</span><img src=\"http://wx4.sinaimg.cn/middle/e92ae12aly1i6ipght3o1j20k014sdhn.jpg\" data-width=1468 data-height=720></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5227451644121647&multi_paragraph=0&multi_count=6\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.690.690.50/001DitQply8h8vhzzl20mj60j60j6jrn02.jpg?KID=imgbed,tva&Expires=1762012014&ssig=CMHDCxeUAz) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">封面新闻</span><img src=\"http://wx4.sinaimg.cn/middle/008JMNguly1i6umoewl1cj30k00zkmyn.jpg\" data-width=1280 data-height=720></div></media-block><br>",
+      "show_ctrl": {
+        "quote": {}
+      },
+      "ab_suffix": "default",
+      "msg_json": "{}"
+    }
+  },
+  "links": [
+    "sinaweibo://detail?mblogid=5228121970446124",
+    "sinaweibo://detail?mblogid=5227826942578181",
+    "sinaweibo://detail?mblogid=5227738367003183",
+    "sinaweibo://detail?mblogid=5228221160753698",
+    "sinaweibo://detail?mblogid=5228201655665434",
+    "sinaweibo://detail?mblogid=5223796613057785",
+    "sinaweibo://detail?mblogid=5223753598109984",
+    "sinaweibo://detail?mblogid=5227451644121647",
+    "sinaweibo://detail?mblogid=5227368369095897",
+    "sinaweibo://detail?mblogid=5227228742030341",
+    "sinaweibo://detail?mblogid=5223814465587064",
+    "historyweibo://5227738367003183",
+    "historyweibo://5020477585624947",
+    "historyweibo://5227568308689942",
+    "sinaweibo://detail?mblogid=5228199896418213",
+    "sinaweibo://detail?mblogid=5228195903441519",
+    "sinaweibo://detail?mblogid=5228221668263984",
+    "sinaweibo://detail?mblogid=5228213047658739",
+    "sinaweibo://detail?mblogid=5228223340484226",
+    "sinaweibo://detail?mblogid=5228223489114404",
+    "sinaweibo://detail?mblogid=5228230371443226",
+    "sinaweibo://detail?mblogid=5228243053712003",
+    "sinaweibo://detail?mblogid=5227848815089974",
+    "sinaweibo://detail?mblogid=5228273706472441",
+    "sinaweibo://detail?mblogid=5228270995905406",
+    "sinaweibo://detail?mblogid=5228270553400677",
+    "sinaweibo://detail?mblogid=5228265280636306",
+    "sinaweibo://detail?mblogid=5228262805740526",
+    "sinaweibo://detail?mblogid=5228260197928927",
+    "sinaweibo://detail?mblogid=5228258818003548",
+    "sinaweibo://detail?mblogid=5227848663041820",
+    "sinaweibo://detail?mblogid=5228215815900530",
+    "sinaweibo://detail?mblogid=5227832665967742",
+    "sinaweibo://detail?mblogid=5227858253318137",
+    "sinaweibo://detail?mblogid=5227371148083325",
+    "sinaweibo://detail?mblogid=5227852987369848",
+    "sinaweibo://detail?mblogid=5228227066855997",
+    "sinaweibo://detail?mblogid=5227840526093103",
+    "sinaweibo://detail?mblogid=5228240479981121",
+    "sinaweibo://detail?mblogid=5223793123398680",
+    "sinaweibo://detail?mblogid=5223823433269413"
+  ],
+  "media": [
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/beebff5fly1i6wim4yy2fj20k00zkdin.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/beebff5fly1i6wim4yy2fj20k00zkdin.jpg",
+      "alt": "四川观察",
+      "width": 1280,
+      "height": 720,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/beebff5fly1i6wim4yy2fj20k00zkdin.jpg"
+      ],
+      "user": "四川观察"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/005Mx9O2gy1i6vleg0v45j30wi0eq405.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/005Mx9O2gy1i6vleg0v45j30wi0eq405.jpg",
+      "alt": "财二财",
+      "width": 530,
+      "height": 1170,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/005Mx9O2gy1i6vleg0v45j30wi0eq405.jpg"
+      ],
+      "user": "财二财"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/0084LG9uly1i6vn85wd55j30zk0k0q4g.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/0084LG9uly1i6vn85wd55j30zk0k0q4g.jpg",
+      "alt": "资本大事纪",
+      "width": 720,
+      "height": 1280,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/0084LG9uly1i6vn85wd55j30zk0k0q4g.jpg"
+      ],
+      "user": "资本大事纪"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/0071yfo0ly1i6vkp942rzj30zk0k0abt.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/0071yfo0ly1i6vkp942rzj30zk0k0abt.jpg",
+      "alt": "爱偷懒的刘女士",
+      "width": 720,
+      "height": 1280,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx4.sinaimg.cn/large/0071yfo0ly1i6vkp942rzj30zk0k0abt.jpg"
+      ],
+      "user": "爱偷懒的刘女士"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/404cdd30ly1i6irwuq36hj20f00qomxp.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/404cdd30ly1i6irwuq36hj20f00qomxp.jpg",
+      "alt": "厚恩投资张延昆",
+      "width": 960,
+      "height": 540,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/404cdd30ly1i6irwuq36hj20f00qomxp.jpg"
+      ],
+      "user": "厚恩投资张延昆"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/e92ae12aly1i6ipght3o1j20k014sdhn.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/e92ae12aly1i6ipght3o1j20k014sdhn.jpg",
+      "alt": "游历丁丁",
+      "width": 1468,
+      "height": 720,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/e92ae12aly1i6ipght3o1j20k014sdhn.jpg"
+      ],
+      "user": "游历丁丁"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/008JMNguly1i6umoewl1cj30k00zkmyn.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/008JMNguly1i6umoewl1cj30k00zkmyn.jpg",
+      "alt": "封面新闻",
+      "width": 1280,
+      "height": 720,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/008JMNguly1i6umoewl1cj30k00zkmyn.jpg"
+      ],
+      "user": "封面新闻"
+    }
+  ],
+  "html_path": "data/aicard/hourly/2025-11-01/20/topic-27ae23fe.html"
+}

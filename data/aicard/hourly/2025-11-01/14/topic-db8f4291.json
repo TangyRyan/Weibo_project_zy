@@ -1,0 +1,318 @@
+{
+  "meta": {
+    "query": "#范志毅演我爸爸吃薯片#",
+    "status_code": 200,
+    "fetched_at": "2025-11-01T14:39:34+08:00",
+    "response": {
+      "chat_status_stage": 1,
+      "model": "deepseek",
+      "query_category": "Ip",
+      "cot": 1,
+      "reliable_tips": "{\"gold_orange_v_mids\": [\"5228119147152521\", \"5228134261855006\", \"5228157122380158\", \"5228160112919042\", \"5228156895889671\", \"5228157135487450\", \"5228156895625944\", \"5228156949627243\", \"5228157768569886\", \"5228114135484287\", \"5228130480164036\", \"5228149802797704\", \"5228154131057449\", \"5228156895889606\", \"5228162669871397\", \"5228158049585355\", \"5228157053437551\", \"5228149348505135\", \"5228150199946580\", \"5228150027977221\", \"5228151336862338\", \"5228157844326774\", \"5228164171170319\", \"5228156891174802\", \"5228149953528036\", \"5228159013226919\", \"5228151061874573\", \"5228150508227341\", \"5228149921026001\", \"5228151518271654\"], \"gold_orange_v_ratio\": \"94%\", \"media_mids\": [\"5228180333397655\"], \"media_ratio\": \"3%\", \"verified_mids\": [\"5228119613245942\"], \"verified_ratio\": \"3%\", \"normal_mids\": [], \"normal_ratio\": \"0%\", \"ref_mid_rank\": {\"5228119613245942\": {\"rank\": 1}, \"5228119147152521\": {\"rank\": 2}, \"5228134261855006\": {\"rank\": 4}, \"5228157122380158\": {\"rank\": 5}, \"5228160112919042\": {\"rank\": 8}, \"5228156895889671\": {\"rank\": 11}, \"5228157135487450\": {\"rank\": 6}, \"5228156895625944\": {\"rank\": 9}, \"5228156949627243\": {\"rank\": 16}, \"5228157768569886\": {\"rank\": 20}, \"5228114135484287\": {\"rank\": 3}, \"5228130480164036\": {\"rank\": 21}, \"5228149802797704\": {\"rank\": 14}, \"5228154131057449\": {\"rank\": 26}, \"5228156895889606\": {\"rank\": 22}, \"5228162669871397\": {\"rank\": 7}, \"5228158049585355\": {\"rank\": 17}, \"5228157053437551\": {\"rank\": 25}, \"5228149348505135\": {\"rank\": 24}, \"5228150199946580\": {\"rank\": 28}, \"5228150027977221\": {\"rank\": 31}, \"5228151336862338\": {\"rank\": 29}, \"5228157844326774\": {\"rank\": 10}, \"5228164171170319\": {\"rank\": 12}, \"5228156891174802\": {\"rank\": 13}, \"5228149953528036\": {\"rank\": 15}, \"5228159013226919\": {\"rank\": 18}, \"5228151061874573\": {\"rank\": 19}, \"5228180333397655\": {\"rank\": 23}, \"5228150508227341\": {\"rank\": 27}, \"5228149921026001\": {\"rank\": 30}, \"5228151518271654\": {\"rank\": 32}}}",
+      "ab_suffix": "default",
+      "qs_status": 0,
+      "version": "2025-11-01 14:33:31.017999-3306",
+      "show_ctrl": {
+        "quote": {}
+      },
+      "profile_image_url": "",
+      "share_text": "#范志毅演我爸爸吃薯片#的相关内容，来智搜看看",
+      "news_analyze": {},
+      "status": 2,
+      "mid_list": null,
+      "reference_num": 32,
+      "zs_risk_control": {
+        "think_text_close": 0,
+        "land_button_close": 0
+      },
+      "link_list": [
+        "sinaweibo://detail?mblogid=5228119613245942",
+        "sinaweibo://detail?mblogid=5228119147152521",
+        "sinaweibo://detail?mblogid=5228114135484287",
+        "sinaweibo://detail?mblogid=5228134261855006",
+        "sinaweibo://detail?mblogid=5228157122380158",
+        "sinaweibo://detail?mblogid=5228157135487450",
+        "sinaweibo://detail?mblogid=5228162669871397",
+        "sinaweibo://detail?mblogid=5228160112919042",
+        "sinaweibo://detail?mblogid=5228156895625944",
+        "sinaweibo://detail?mblogid=5228157844326774",
+        "sinaweibo://detail?mblogid=5228156895889671",
+        "sinaweibo://detail?mblogid=5228164171170319",
+        "sinaweibo://detail?mblogid=5228156891174802",
+        "sinaweibo://detail?mblogid=5228149802797704",
+        "sinaweibo://detail?mblogid=5228149953528036",
+        "sinaweibo://detail?mblogid=5228156949627243",
+        "sinaweibo://detail?mblogid=5228158049585355",
+        "sinaweibo://detail?mblogid=5228159013226919",
+        "sinaweibo://detail?mblogid=5228151061874573",
+        "sinaweibo://detail?mblogid=5228157768569886",
+        "sinaweibo://detail?mblogid=5228130480164036",
+        "sinaweibo://detail?mblogid=5228156895889606",
+        "sinaweibo://detail?mblogid=5228180333397655",
+        "sinaweibo://detail?mblogid=5228149348505135",
+        "sinaweibo://detail?mblogid=5228157053437551",
+        "sinaweibo://detail?mblogid=5228154131057449",
+        "sinaweibo://detail?mblogid=5228150508227341",
+        "sinaweibo://detail?mblogid=5228150199946580",
+        "sinaweibo://detail?mblogid=5228151336862338",
+        "sinaweibo://detail?mblogid=5228149921026001",
+        "sinaweibo://detail?mblogid=5228150027977221",
+        "sinaweibo://detail?mblogid=5228151518271654"
+      ],
+      "unify_md5": "db8f42916f8003ac46ce08ebdd78ee78",
+      "top_quote_list": {},
+      "analysis_time": 1761978946,
+      "share_card_multimodal": {
+        "doc_score": 0,
+        "img_pid": "4d9685a0ly1i6vle1rrnij20u01hcdgu",
+        "click_rate": 0,
+        "h": 1920,
+        "w": 1080,
+        "type": "v",
+        "img": "http://wx2.sinaimg.cn/middle/4d9685a0ly1i6vle1rrnij20u01hcdgu.jpg",
+        "hit_score_final": 0,
+        "user_name": "新浪足球",
+        "cur_mid": "5228119613245942",
+        "user_avatar": "https://tvax4.sinaimg.cn/crop.0.0.160.160.50/6f0b57d3ly8h8v7s4lmwaj204g04gmx3.jpg?KID=imgbed,tva&Expires=1761989611&ssig=Hfzqtczye%2F",
+        "scheme": "sinaweibo://video/vvs?mid=5228119613245942&multi_paragraph=1&multi_count=0",
+        "video_url": "https://video.weibo.com/show?fid=1034:5227832238866457",
+        "vtype": 7,
+        "hit_score_new": 0
+      },
+      "share_info": {
+        "status": 3,
+        "display_name": "#范志毅演我爸爸吃薯片#",
+        "tips": "#范志毅演我爸爸吃薯片#的相关内容，来智搜看看",
+        "url": "http://t.cn/AXAMA7g0",
+        "page_id": "23296411bfa571b6e4bd65d2fc7fa5eafc835c",
+        "comment_content": "",
+        "unify_md5": "db8f42916f8003ac46ce08ebdd78ee78"
+      },
+      "basemodel": "实验组1",
+      "qs_status_info": "{\"qs_u_status\":0,\"qs_c_status\":8388608,\"ab_lab\":{},\"qs_r_status\":0,\"qs_q_status\":0,\"qs_status\":0}",
+      "q_attr": {
+        "reply_cid": "",
+        "comment_from_type": "",
+        "from_uid": "",
+        "from_request_id": "",
+        "mid": ""
+      },
+      "ext_show": {},
+      "short_url": "http://t.cn/AXAbGdSC",
+      "scheme": "sinaweibo://cardlist?containerid=100103type%3D225%26q%3D%23%E8%8C%83%E5%BF%97%E6%AF%85%E6%BC%94%E6%88%91%E7%88%B8%E7%88%B8%E5%90%83%E8%96%AF%E7%89%87%23%26t%3D&extparam=ai_model%3Ddeepseek%26ori_ai_title%3D%E5%8F%82%E8%80%83%E5%8D%9A%E6%96%87%26material_version%3D1761978811",
+      "abtest_info": {
+        "chat_entrance": 1
+      },
+      "current_time": 1761979175,
+      "user_info": {},
+      "query": "#范志毅演我爸爸吃薯片#",
+      "msg_format": "markdown",
+      "page_id": "23296411bfa571b6e4bd65d2fc7fa5eafc835c",
+      "wenda": {
+        "forward_gen": 0
+      },
+      "card_multimodal": {
+        "data": [
+          {
+            "doc_score": 0,
+            "img_pid": "4d9685a0ly1i6vle1rrnij20u01hcdgu",
+            "click_rate": 0,
+            "h": 1920,
+            "w": 1080,
+            "type": "v",
+            "img": "http://wx2.sinaimg.cn/middle/4d9685a0ly1i6vle1rrnij20u01hcdgu.jpg",
+            "hit_score_final": 0,
+            "user_name": "新浪足球",
+            "cur_mid": "5228119613245942",
+            "user_avatar": "https://tvax4.sinaimg.cn/crop.0.0.160.160.50/6f0b57d3ly8h8v7s4lmwaj204g04gmx3.jpg?KID=imgbed,tva&Expires=1761989611&ssig=Hfzqtczye%2F",
+            "scheme": "sinaweibo://video/vvs?mid=5228119613245942&multi_paragraph=1&multi_count=0",
+            "video_url": "https://video.weibo.com/show?fid=1034:5227832238866457",
+            "vtype": 7,
+            "hit_score_new": 0
+          },
+          {
+            "doc_score": 5738,
+            "img_pid": "006WrXi8gy1i6wmxzaiegj33402c04qs",
+            "click_rate": 0,
+            "h": 3024,
+            "w": 4032,
+            "type": "p",
+            "img": "http://wx1.sinaimg.cn/middle/006WrXi8gy1i6wmxzaiegj33402c04qs.jpg",
+            "hit_score_final": 90.359375,
+            "user_name": "科技小参谋",
+            "cur_mid": "5228160112919042",
+            "user_avatar": "https://tvax2.sinaimg.cn/crop.0.0.512.512.50/006WrXi8ly8hrvvmn51hcj30e80e874h.jpg?KID=imgbed,tva&Expires=1761989611&ssig=F5neIWnJ5E",
+            "scheme": "sinaweibo://multimedia?mix_mid=5228160112919042&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=1",
+            "video_url": "",
+            "vtype": 0,
+            "hit_score_new": 97.265625
+          },
+          {
+            "doc_score": 5754,
+            "img_pid": "9c3a206dly1i6wju5496ij20xs1o0gzo",
+            "click_rate": 0,
+            "h": 2160,
+            "w": 1216,
+            "type": "p",
+            "img": "http://wx2.sinaimg.cn/middle/9c3a206dly1i6wju5496ij20xs1o0gzo.jpg",
+            "hit_score_final": 88.826958,
+            "user_name": "喊我豆奶酱",
+            "cur_mid": "5228156895889671",
+            "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/9c3a206dly8h7r3jrqpw2j20u00u0mzi.jpg?KID=imgbed,tva&Expires=1761989611&ssig=2HC4jRILvj",
+            "scheme": "sinaweibo://multimedia?mix_mid=5228156895889671&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=2",
+            "video_url": "",
+            "vtype": 0,
+            "hit_score_new": 96.044922
+          },
+          {
+            "doc_score": 0,
+            "img_pid": "4d9685a0ly1i6vle1rrnij20u01hcdgu",
+            "click_rate": 0,
+            "h": 1920,
+            "w": 1080,
+            "type": "v",
+            "img": "http://wx2.sinaimg.cn/middle/4d9685a0ly1i6vle1rrnij20u01hcdgu.jpg",
+            "hit_score_final": 0,
+            "user_name": "新浪足球",
+            "cur_mid": "5228119613245942",
+            "user_avatar": "https://tvax4.sinaimg.cn/crop.0.0.160.160.50/6f0b57d3ly8h8v7s4lmwaj204g04gmx3.jpg?KID=imgbed,tva&Expires=1761989611&ssig=Hfzqtczye%2F",
+            "scheme": "sinaweibo://video/vvs?mid=5228119613245942&multi_paragraph=1&multi_count=0",
+            "video_url": "https://video.weibo.com/show?fid=1034:5227832238866457",
+            "vtype": 7,
+            "hit_score_new": 0
+          }
+        ],
+        "type": "mediablock"
+      },
+      "sorted_material_list": null,
+      "msg_json": "{}",
+      "comment_info": {},
+      "query_field": "20",
+      "loop_times": 200,
+      "msg": "<think><br>嗯，用户搜索的是\"范志毅演我爸爸吃薯片\"，看起来是个很有趣的梗。让我看看搜索结果里有什么内容。<br><br>哇，原来这是乐事薯片的一个营销活动。范志毅在视频里躺在沙发上吃薯片的样子，让很多网友觉得特别像自己爸爸的日常状态。用户可能是在社交媒体上看到这个话题，想了解具体怎么回事。<br><br>翻看这些微博内容，发现几个关键点：范志毅11月1日发了自己吃乐事薯片的视频，很多网友觉得他那种随意的姿势和神态特别像中年爸爸们。有个网友说\"这不就是我爸本人吗\"，还有人形容那是\"上海爷叔的劲儿\"。<br><br>这个活动还挺有意思的，乐事推出了\"100%中奖\"的活动，扫描薯片包装上的二维码可以参加抽奖，奖品包括现金红包和明星见面机会。范志毅和王鹤棣都是活动代言人。<br><br>网友们的反应特别真实。有人说爸爸也是那样\"窝在沙发里，一手刷手机一手塞薯片\"，还有人说爸爸会\"光明正大蹭吃，理直气壮点评\"。这种共鸣让#范志毅演我爸爸吃薯片#这个话题火了。<br><br>除了讨论范志毅的形象，很多网友也分享了自己喜欢的薯片吃法。有人推荐酸奶蘸薯片、薯片蛋炒饭等创意吃法。不同口味也很受欢迎，原味、黄瓜味、番茄味都有粉丝。<br><br>这个活动的持续时间是2025年10月20日到2026年4月30日，所以现在参与还来得及。好多大V账号都在讨论这个话题，看来营销效果不错。<br><br>用户可能只是想了解这个梗的由来，也可能对参与活动感兴趣。在回复时我会把事件的来龙去脉说清楚，包括范志毅的视频内容、网友的反响、活动的具体信息，以及薯片的创意吃法等。这样应该能满足用户的需求。<br><br></think><br>“范志毅演我爸爸吃薯片”是近期微博热议话题，核心源于足球名将范志毅为乐事薯片拍摄的广告视频及其引发的广泛共鸣。以下是关键信息整合：<br>### 🎬 一、事件起源：范志毅的“老爸式”吃薯片形象<br>1. **广告内容**：范志毅在乐事广告中身穿休闲装，放松地躺在沙发上边刷手机边吃薯片，神态自然松弛，动作随性。```wbCustomBlock{\"type\": \"quoted\", \"index\": 3, \"data\": {\"num\": [1, 2], \"version\": 2, \"quote_list\": [{\"name\": \"范志毅\", \"scheme\": \"sinaweibo://detail?mblogid=5228119147152521\", \"index\": 2, \"label\": \"大v\"}, {\"name\": \"新浪足球\", \"scheme\": \"sinaweibo://detail?mblogid=5228119613245942\", \"index\": 1, \"label\": \"\"}], \"name\": \"范志毅\", \"img\": \"https://tva3.sinaimg.cn/crop.0.0.640.640.50/4d9685a0jw8egpo93cyj4j20hs0hs75l.jpg?KID=imgbed,tva&Expires=1761989611&ssig=h1N0uS6UQv\", \"scheme\": \"sinaweibo://detail?mblogid=5228119147152521\", \"vType\": 0}}```  <br>2. **用户共鸣**：  <br>   - 网友直呼其神态与生活中常见的“中年老爸”高度相似：“拿腔作势的样子一个模子刻出来的”“嘴角沾薯片碎屑浑然不觉”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 5, \"data\": {\"num\": [4, 5], \"version\": 2, \"quote_list\": [{\"name\": \"袁湘琴的恋爱日记\", \"scheme\": \"sinaweibo://detail?mblogid=5228134261855006\", \"index\": 4, \"label\": \"大v\"}, {\"name\": \"川北小哥\", \"scheme\": \"sinaweibo://detail?mblogid=5228157122380158\", \"index\": 5, \"label\": \"\"}], \"name\": \"袁湘琴的恋爱日记\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/58eb90a5ly8gbvtjkqqs5j20u00u075z.jpg?KID=imgbed,tva&Expires=1761989611&ssig=JEWudGIBLk\", \"scheme\": \"sinaweibo://detail?mblogid=5228134261855006\", \"vType\": 0}}```  <br>   - 被调侃为“薯片小偷”同款：像极了“嘴上说尝两口，转眼炫完半包还嫌不够脆”的爸爸。```wbCustomBlock{\"type\": \"quoted\", \"index\": 6, \"data\": {\"num\": [5, 8], \"version\": 2, \"quote_list\": [{\"name\": \"川北小哥\", \"scheme\": \"sinaweibo://detail?mblogid=5228157122380158\", \"index\": 5, \"label\": \"大v\"}, {\"name\": \"科技小参谋\", \"scheme\": \"sinaweibo://detail?mblogid=5228160112919042\", \"index\": 8, \"label\": \"\"}], \"name\": \"川北小哥\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.1002.1002.50/5d4af653ly8gwguq9j0z7j20ru0rugmk.jpg?KID=imgbed,tva&Expires=1761989611&ssig=h7suOA4aun\", \"scheme\": \"sinaweibo://detail?mblogid=5228157122380158\", \"vType\": 0}}```  <br>   - 上海网友尤其共鸣其“爷叔”气质，称“下一秒就要开始上人生课”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 7, \"data\": {\"num\": [4, 11], \"version\": 2, \"quote_list\": [{\"name\": \"喊我豆奶酱\", \"scheme\": \"sinaweibo://detail?mblogid=5228156895889671\", \"index\": 11, \"label\": \"大v\"}, {\"name\": \"袁湘琴的恋爱日记\", \"scheme\": \"sinaweibo://detail?mblogid=5228134261855006\", \"index\": 4, \"label\": \"\"}], \"name\": \"喊我豆奶酱\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/9c3a206dly8h7r3jrqpw2j20u00u0mzi.jpg?KID=imgbed,tva&Expires=1761989611&ssig=2HC4jRILvj\", \"scheme\": \"sinaweibo://detail?mblogid=5228156895889671\", \"vType\": 0}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5228119613245942&multi_paragraph=1&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.160.160.50/6f0b57d3ly8h8v7s4lmwaj204g04gmx3.jpg?KID=imgbed,tva&Expires=1761989611&ssig=Hfzqtczye%2F) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">新浪足球</span><img src=\"http://wx2.sinaimg.cn/middle/4d9685a0ly1i6vle1rrnij20u01hcdgu.jpg\" data-width=1920 data-height=1080></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5228160112919042&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=1\"><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.512.512.50/006WrXi8ly8hrvvmn51hcj30e80e874h.jpg?KID=imgbed,tva&Expires=1761989611&ssig=F5neIWnJ5E) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">科技小参谋</span><img src=\"http://wx1.sinaimg.cn/middle/006WrXi8gy1i6wmxzaiegj33402c04qs.jpg\" data-width=3024 data-height=4032></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5228156895889671&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=2\"><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/9c3a206dly8h7r3jrqpw2j20u00u0mzi.jpg?KID=imgbed,tva&Expires=1761989611&ssig=2HC4jRILvj) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">喊我豆奶酱</span><img src=\"http://wx2.sinaimg.cn/middle/9c3a206dly1i6wju5496ij20xs1o0gzo.jpg\" data-width=2160 data-height=1216></div></media-block><br>### 🎯 二、背后动机：乐事薯片营销活动<br>范志毅的广告实为乐事“吃乐事有乐事”活动的宣传，核心福利包括：  <br>1. **100%中奖机制**：购买包装标注“100%中奖”的乐事薯片，扫码即可参与抽奖。```wbCustomBlock{\"type\": \"quoted\", \"index\": 9, \"data\": {\"num\": [6, 9, 16], \"version\": 2, \"quote_list\": [{\"name\": \"好大的奕\", \"scheme\": \"sinaweibo://detail?mblogid=5228157135487450\", \"index\": 6, \"label\": \"大v\"}, {\"name\": \"互联网三爷\", \"scheme\": \"sinaweibo://detail?mblogid=5228156895625944\", \"index\": 9, \"label\": \"\"}, {\"name\": \"蘑菇的二姐\", \"scheme\": \"sinaweibo://detail?mblogid=5228156949627243\", \"index\": 16, \"label\": \"\"}], \"name\": \"好大的奕\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/006LuTCGly8i3pjvger6qj30u00u0myr.jpg?KID=imgbed,tva&Expires=1761989611&ssig=bJ0hbxD7wo\", \"scheme\": \"sinaweibo://detail?mblogid=5228157135487450\", \"vType\": 0}}```  <br>2. **双重奖励**：  <br>   - **现金红包**：金额从几毛到上万元不等（有用户实测中奖几毛）。```wbCustomBlock{\"type\": \"quoted\", \"index\": 11, \"data\": {\"num\": [6, 20], \"version\": 2, \"quote_list\": [{\"name\": \"说说\", \"scheme\": \"sinaweibo://detail?mblogid=5228157768569886\", \"index\": 20, \"label\": \"大v\"}, {\"name\": \"好大的奕\", \"scheme\": \"sinaweibo://detail?mblogid=5228157135487450\", \"index\": 6, \"label\": \"\"}], \"name\": \"说说\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/6f260a3aly8i6s4nn8m3cj20u00u040u.jpg?KID=imgbed,tva&Expires=1761989611&ssig=Xaw%2BMkZOM1\", \"scheme\": \"sinaweibo://detail?mblogid=5228157768569886\", \"vType\": 0}}```  <br>   - **明星见面机会**：可赢取与范志毅、王鹤棣等代言人面对面互动资格。```wbCustomBlock{\"type\": \"quoted\", \"index\": 12, \"data\": {\"num\": [2, 3, 21], \"version\": 2, \"quote_list\": [{\"name\": \"王鹤棣_Dylan\", \"scheme\": \"sinaweibo://detail?mblogid=5228114135484287\", \"index\": 3, \"label\": \"大v\"}, {\"name\": \"范志毅\", \"scheme\": \"sinaweibo://detail?mblogid=5228119147152521\", \"index\": 2, \"label\": \"\"}, {\"name\": \"青春影视室\", \"scheme\": \"sinaweibo://detail?mblogid=5228130480164036\", \"index\": 21, \"label\": \"\"}], \"name\": \"王鹤棣_Dylan\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.512.512.50/a2d2ddc4ly8i0wfg1gw2gj20e80e8gm5.jpg?KID=imgbed,tva&Expires=1761989611&ssig=KiEkdStCd%2B\", \"scheme\": \"sinaweibo://detail?mblogid=5228114135484287\", \"vType\": 0}}```  <br>3. **活动时间**：2025年10月20日至2026年4月30日。```wbCustomBlock{\"type\": \"quoted\", \"index\": 13, \"data\": {\"num\": [14, 26], \"version\": 2, \"quote_list\": [{\"name\": \"爱足球的谢宇宁\", \"scheme\": \"sinaweibo://detail?mblogid=5228154131057449\", \"index\": 26, \"label\": \"大v\"}, {\"name\": \"灵魂小妖作妖纪\", \"scheme\": \"sinaweibo://detail?mblogid=5228149802797704\", \"index\": 14, \"label\": \"\"}], \"name\": \"爱足球的谢宇宁\", \"img\": \"https://tvax3.sinaimg.cn/crop.175.0.450.450.50/0075SSPbly1gprozqjobbj30m80ciab2.jpg?KID=imgbed,tva&Expires=1761989611&ssig=tKtiek80l1\", \"scheme\": \"sinaweibo://detail?mblogid=5228154131057449\", \"vType\": 0}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5228157135487450&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=2&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/006LuTCGly8i3pjvger6qj30u00u0myr.jpg?KID=imgbed,tva&Expires=1761989611&ssig=bJ0hbxD7wo) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">好大的奕</span><img src=\"http://wx4.sinaimg.cn/middle/006LuTCGgy1i6wjw3y8ehj30xi1i1417.jpg\" data-width=1945 data-height=1206></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5228156895625944&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=2&multi_count=1\"><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/006OBdIqly8h8v5pffuxcj30u00u07al.jpg?KID=imgbed,tva&Expires=1761989611&ssig=Zlj4Dv8E8N) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">互联网三爷</span><img src=\"http://wx3.sinaimg.cn/middle/006OBdIqgy1i6wm4ym42gj30u01gsgna.jpg\" data-width=1900 data-height=1080></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5228156949627243&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=2&multi_count=2\"><span class=\"vator\" style=\"display: none;background: url(https://tva2.sinaimg.cn/crop.0.1.750.750.50/a19169fbjw8ep0mir735oj20ku0kxmy5.jpg?KID=imgbed,tva&Expires=1761989611&ssig=3QTft7so%2FI) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">蘑菇的二姐</span><img src=\"http://wx2.sinaimg.cn/middle/a19169fbgy1i6wkpiup7oj20us1audil.jpg\" data-width=1686 data-height=1108></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5228114135484287&multi_paragraph=2&multi_count=3\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.512.512.50/a2d2ddc4ly8i0wfg1gw2gj20e80e8gm5.jpg?KID=imgbed,tva&Expires=1761989611&ssig=KiEkdStCd%2B) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">王鹤棣_Dylan</span><img src=\"http://wx2.sinaimg.cn/middle/a2d2ddc4ly1i6wgtmiftrj20u01hcab1.jpg\" data-width=1920 data-height=1080></div></media-block><br>### 💬 三、网友衍生互动：从模仿到创意<br>1. **家庭场景复刻**：网友晒出自家老爸同款“沙发薯片瘫”照片，话题#范志毅演我爸爸吃薯片#成为亲子幽默现场。```wbCustomBlock{\"type\": \"quoted\", \"index\": 15, \"data\": {\"num\": [4, 5, 22], \"version\": 2, \"quote_list\": [{\"name\": \"李桂江\", \"scheme\": \"sinaweibo://detail?mblogid=5228156895889606\", \"index\": 22, \"label\": \"大v\"}, {\"name\": \"袁湘琴的恋爱日记\", \"scheme\": \"sinaweibo://detail?mblogid=5228134261855006\", \"index\": 4, \"label\": \"\"}, {\"name\": \"川北小哥\", \"scheme\": \"sinaweibo://detail?mblogid=5228157122380158\", \"index\": 5, \"label\": \"\"}], \"name\": \"李桂江\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.751.751.50/88ed5480ly8gdinf4ca2lj20kv0kv0tq.jpg?KID=imgbed,tva&Expires=1761989611&ssig=1cEEfHncti\", \"scheme\": \"sinaweibo://detail?mblogid=5228156895889606\", \"vType\": 0}}```  <br>2. **薯片创意吃法**：  <br>   - 酸奶蘸薯片、火鸡面配薯片解辣、薯片蛋炒饭等“隐藏菜单”走红。```wbCustomBlock{\"type\": \"quoted\", \"index\": 17, \"data\": {\"num\": [7, 17], \"version\": 2, \"quote_list\": [{\"name\": \"32号科技所\", \"scheme\": \"sinaweibo://detail?mblogid=5228158049585355\", \"index\": 17, \"label\": \"大v\"}, {\"name\": \"拾壹-HOME\", \"scheme\": \"sinaweibo://detail?mblogid=5228162669871397\", \"index\": 7, \"label\": \"\"}], \"name\": \"32号科技所\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.512.512.50/6adb564ely8hdxrs1nzcpj20e80e8q4j.jpg?KID=imgbed,tva&Expires=1761989611&ssig=x5UQ%2BaKfbf\", \"scheme\": \"sinaweibo://detail?mblogid=5228158049585355\", \"vType\": 0}}```  <br>   - 冷冻黄瓜味薯片提升清凉感等新奇尝试被分享。```wbCustomBlock{\"type\": \"quoted\", \"index\": 18, \"data\": {\"num\": [17], \"version\": 2, \"quote_list\": [{\"name\": \"32号科技所\", \"scheme\": \"sinaweibo://detail?mblogid=5228158049585355\", \"index\": 17, \"label\": \"\"}]}}```  <br>3. **口味偏好讨论**：原味、青柠味、番茄味成为高频推荐，芥末味引发好奇尝试。```wbCustomBlock{\"type\": \"quoted\", \"index\": 19, \"data\": {\"num\": [9, 11, 25], \"version\": 2, \"quote_list\": [{\"name\": \"战营\", \"scheme\": \"sinaweibo://detail?mblogid=5228157053437551\", \"index\": 25, \"label\": \"\"}, {\"name\": \"互联网三爷\", \"scheme\": \"sinaweibo://detail?mblogid=5228156895625944\", \"index\": 9, \"label\": \"\"}, {\"name\": \"喊我豆奶酱\", \"scheme\": \"sinaweibo://detail?mblogid=5228156895889671\", \"index\": 11, \"label\": \"\"}], \"name\": \"战营\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/006y8UNFly8i3iobp0j1lj30u00u0tcl.jpg?KID=imgbed,tva&Expires=1761989611&ssig=S2BCZENDG8\", \"scheme\": \"sinaweibo://detail?mblogid=5228157053437551\", \"vType\": 0}}```<br>### ⭐ 四、范志毅的“破圈”效应<br>1. **形象反差**：从足球场“范大将军”到客厅“零食老爸”，其真实接地气的演绎打破年龄圈层，吸引00后参与话题。```wbCustomBlock{\"type\": \"quoted\", \"index\": 21, \"data\": {\"num\": [24, 28, 31], \"version\": 2, \"quote_list\": [{\"name\": \"解说苏克\", \"scheme\": \"sinaweibo://detail?mblogid=5228150199946580\", \"index\": 28, \"label\": \"\"}, {\"name\": \"晶刚专属\", \"scheme\": \"sinaweibo://detail?mblogid=5228149348505135\", \"index\": 24, \"label\": \"\"}, {\"name\": \"米奇兔-柳十四\", \"scheme\": \"sinaweibo://detail?mblogid=5228150027977221\", \"index\": 31, \"label\": \"\"}], \"name\": \"解说苏克\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.700.700.50/81092025ly8i4bldb0dczj20jg0jggmp.jpg?KID=imgbed,tva&Expires=1761989611&ssig=%2F04%2FQbbUQf\", \"scheme\": \"sinaweibo://detail?mblogid=5228150199946580\", \"vType\": 0}}```  <br>2. **金句联动**：网友结合其经典语录调侃：“脸都不要了？这福利总得要吧！”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 22, \"data\": {\"num\": [28, 29], \"version\": 2, \"quote_list\": [{\"name\": \"红魔之家1988\", \"scheme\": \"sinaweibo://detail?mblogid=5228151336862338\", \"index\": 29, \"label\": \"\"}, {\"name\": \"解说苏克\", \"scheme\": \"sinaweibo://detail?mblogid=5228150199946580\", \"index\": 28, \"label\": \"\"}], \"name\": \"红魔之家1988\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.351.351.50/007gwSrNly8hxeulau1apj309r09rweo.jpg?KID=imgbed,tva&Expires=1761989611&ssig=xh6B%2BARxrM\", \"scheme\": \"sinaweibo://detail?mblogid=5228151336862338\", \"vType\": 0}}```<br>### 💎 总结<br>该事件本质是乐事结合范志毅国民度打造的沉浸式营销：通过精准捕捉“中年老爸吃零食”的生活化场景，触发用户情感共鸣，并借扫码抽奖机制推动购买转化。活动持续至2026年4月，参与需认准“100%中奖”包装，理性看待中奖概率（小额现金居多）。```wbCustomBlock{\"type\": \"quoted\", \"index\": 23, \"data\": {\"num\": [6, 20], \"version\": 2, \"quote_list\": [{\"name\": \"好大的奕\", \"scheme\": \"sinaweibo://detail?mblogid=5228157135487450\", \"index\": 6, \"label\": \"\"}, {\"name\": \"说说\", \"scheme\": \"sinaweibo://detail?mblogid=5228157768569886\", \"index\": 20, \"label\": \"\"}]}}```<br>",
+      "uid": "",
+      "status_stage": 4
+    }
+  },
+  "links": [
+    "sinaweibo://detail?mblogid=5228119613245942",
+    "sinaweibo://detail?mblogid=5228119147152521",
+    "sinaweibo://detail?mblogid=5228114135484287",
+    "sinaweibo://detail?mblogid=5228134261855006",
+    "sinaweibo://detail?mblogid=5228157122380158",
+    "sinaweibo://detail?mblogid=5228157135487450",
+    "sinaweibo://detail?mblogid=5228162669871397",
+    "sinaweibo://detail?mblogid=5228160112919042",
+    "sinaweibo://detail?mblogid=5228156895625944",
+    "sinaweibo://detail?mblogid=5228157844326774",
+    "sinaweibo://detail?mblogid=5228156895889671",
+    "sinaweibo://detail?mblogid=5228164171170319",
+    "sinaweibo://detail?mblogid=5228156891174802",
+    "sinaweibo://detail?mblogid=5228149802797704",
+    "sinaweibo://detail?mblogid=5228149953528036",
+    "sinaweibo://detail?mblogid=5228156949627243",
+    "sinaweibo://detail?mblogid=5228158049585355",
+    "sinaweibo://detail?mblogid=5228159013226919",
+    "sinaweibo://detail?mblogid=5228151061874573",
+    "sinaweibo://detail?mblogid=5228157768569886",
+    "sinaweibo://detail?mblogid=5228130480164036",
+    "sinaweibo://detail?mblogid=5228156895889606",
+    "sinaweibo://detail?mblogid=5228180333397655",
+    "sinaweibo://detail?mblogid=5228149348505135",
+    "sinaweibo://detail?mblogid=5228157053437551",
+    "sinaweibo://detail?mblogid=5228154131057449",
+    "sinaweibo://detail?mblogid=5228150508227341",
+    "sinaweibo://detail?mblogid=5228150199946580",
+    "sinaweibo://detail?mblogid=5228151336862338",
+    "sinaweibo://detail?mblogid=5228149921026001",
+    "sinaweibo://detail?mblogid=5228150027977221",
+    "sinaweibo://detail?mblogid=5228151518271654"
+  ],
+  "media": [
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/4d9685a0ly1i6vle1rrnij20u01hcdgu.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/4d9685a0ly1i6vle1rrnij20u01hcdgu.jpg",
+      "alt": "新浪足球",
+      "width": 1920,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/4d9685a0ly1i6vle1rrnij20u01hcdgu.jpg"
+      ],
+      "user": "新浪足球"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/006WrXi8gy1i6wmxzaiegj33402c04qs.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/006WrXi8gy1i6wmxzaiegj33402c04qs.jpg",
+      "alt": "科技小参谋",
+      "width": 3024,
+      "height": 4032,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/006WrXi8gy1i6wmxzaiegj33402c04qs.jpg"
+      ],
+      "user": "科技小参谋"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/9c3a206dly1i6wju5496ij20xs1o0gzo.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/9c3a206dly1i6wju5496ij20xs1o0gzo.jpg",
+      "alt": "喊我豆奶酱",
+      "width": 2160,
+      "height": 1216,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/9c3a206dly1i6wju5496ij20xs1o0gzo.jpg"
+      ],
+      "user": "喊我豆奶酱"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/006LuTCGgy1i6wjw3y8ehj30xi1i1417.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/006LuTCGgy1i6wjw3y8ehj30xi1i1417.jpg",
+      "alt": "好大的奕",
+      "width": 1945,
+      "height": 1206,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/006LuTCGgy1i6wjw3y8ehj30xi1i1417.jpg"
+      ],
+      "user": "好大的奕"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/006OBdIqgy1i6wm4ym42gj30u01gsgna.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/006OBdIqgy1i6wm4ym42gj30u01gsgna.jpg",
+      "alt": "互联网三爷",
+      "width": 1900,
+      "height": 1080,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/006OBdIqgy1i6wm4ym42gj30u01gsgna.jpg"
+      ],
+      "user": "互联网三爷"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/a19169fbgy1i6wkpiup7oj20us1audil.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/a19169fbgy1i6wkpiup7oj20us1audil.jpg",
+      "alt": "蘑菇的二姐",
+      "width": 1686,
+      "height": 1108,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/a19169fbgy1i6wkpiup7oj20us1audil.jpg"
+      ],
+      "user": "蘑菇的二姐"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/a2d2ddc4ly1i6wgtmiftrj20u01hcab1.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/a2d2ddc4ly1i6wgtmiftrj20u01hcab1.jpg",
+      "alt": "王鹤棣_Dylan",
+      "width": 1920,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx4.sinaimg.cn/large/a2d2ddc4ly1i6wgtmiftrj20u01hcab1.jpg"
+      ],
+      "user": "王鹤棣_Dylan"
+    }
+  ],
+  "html_path": "data/aicard/hourly/2025-11-01/14/topic-db8f4291.html"
+}

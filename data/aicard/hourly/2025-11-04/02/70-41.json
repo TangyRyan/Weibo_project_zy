@@ -1,0 +1,226 @@
+{
+  "meta": {
+    "query": "#特朗普70分钟采访提及中国41次#",
+    "status_code": 200,
+    "fetched_at": "2025-11-04T02:46:08+08:00",
+    "response": {
+      "sorted_material_list": null,
+      "chat_status_stage": 1,
+      "q_attr": {
+        "from_request_id": "",
+        "reply_cid": "",
+        "comment_from_type": "",
+        "from_uid": "",
+        "mid": ""
+      },
+      "mid_list": null,
+      "reference_num": 7,
+      "version": "2025-11-04 02:38:02.025000-2867",
+      "status_stage": 4,
+      "link_list": [
+        "sinaweibo://detail?mblogid=5228925937780020",
+        "sinaweibo://detail?mblogid=5229083694727866",
+        "sinaweibo://detail?mblogid=5229015087448647",
+        "sinaweibo://detail?mblogid=5229013971764031",
+        "sinaweibo://detail?mblogid=5229012109761186",
+        "sinaweibo://detail?mblogid=5228992384207399",
+        "sinaweibo://detail?mblogid=5229019970929492"
+      ],
+      "current_time": 1762195569,
+      "profile_image_url": "",
+      "user_info": {},
+      "share_card_multimodal": {
+        "scheme": "sinaweibo://video/vvs?mid=5228925937780020&multi_paragraph=1&multi_count=0",
+        "video_url": "https://video.weibo.com/show?fid=1034:5228924922167330",
+        "click_rate": 0.31619973897341,
+        "hit_score_new": 0,
+        "doc_score": 0,
+        "img_pid": "6e05a6daly8i6z2uezdm1j20u01hcafd",
+        "cur_mid": "5228925937780020",
+        "vtype": 3,
+        "click_num": 0,
+        "hit_score_final": 0,
+        "type": "v",
+        "h": 1920,
+        "w": 1080,
+        "user_name": "看看新闻Knews",
+        "img": "http://wx4.sinaimg.cn/middle/6e05a6daly8i6z2uezdm1j20u01hcafd.jpg",
+        "user_avatar": "https://tvax2.sinaimg.cn/crop.0.0.410.410.50/6e05a6daly1h8vg7kmg7ej20be0bemxf.jpg?KID=imgbed,tva&Expires=1762205882&ssig=vuPoJ0FUxq"
+      },
+      "basemodel": "实验组7",
+      "qs_status_info": "{\"qs_u_status\":0,\"ab_lab\":{},\"qs_status\":0,\"qs_q_status\":256,\"qs_c_status\":8388608,\"qs_r_status\":0}",
+      "share_text": "#特朗普70分钟采访提及中国41次#的相关内容，来智搜看看",
+      "loop_times": 200,
+      "comment_info": {},
+      "scheme": "sinaweibo://cardlist?containerid=100103type%3D225%26q%3D%23%E7%89%B9%E6%9C%97%E6%99%AE70%E5%88%86%E9%92%9F%E9%87%87%E8%AE%BF%E6%8F%90%E5%8F%8A%E4%B8%AD%E5%9B%BD41%E6%AC%A1%23%26t%3D&extparam=ai_model%3Ddeepseek%26ori_ai_title%3D%E5%8F%82%E8%80%83%E5%8D%9A%E6%96%87%26material_version%3D1762195082",
+      "news_analyze": {},
+      "model": "deepseek",
+      "cot": 1,
+      "share_info": {
+        "comment_content": "",
+        "status": 3,
+        "url": "http://t.cn/AXApoOEZ",
+        "unify_md5": "8ba90c74dabaae2dde802a993163557c",
+        "tips": "#特朗普70分钟采访提及中国41次#的相关内容，来智搜看看",
+        "page_id": "2329649bab000f0370b0e944e3e1e41d3f8918",
+        "display_name": "#特朗普70分钟采访提及中国41次#"
+      },
+      "wenda": {
+        "forward_gen": 0
+      },
+      "top_quote_list": {},
+      "qs_status": 0,
+      "short_url": "http://t.cn/AXApo1C5",
+      "zs_risk_control": {
+        "ban_chat_enterance": 1,
+        "think_text_close": 0,
+        "land_button_close": 0
+      },
+      "reliable_tips": "{\"gold_orange_v_mids\": [], \"gold_orange_v_ratio\": \"0%\", \"media_mids\": [\"5228925937780020\", \"5229083694727866\", \"5229013971764031\", \"5229012109761186\", \"5228992384207399\", \"5229019970929492\", \"5229015087448647\"], \"media_ratio\": \"100%\", \"verified_mids\": [], \"verified_ratio\": \"0%\", \"normal_mids\": [], \"normal_ratio\": \"0%\", \"ref_mid_rank\": {\"5228925937780020\": {\"rank\": 1}, \"5229083694727866\": {\"rank\": 2}, \"5229013971764031\": {\"rank\": 4}, \"5229012109761186\": {\"rank\": 5}, \"5228992384207399\": {\"rank\": 6}, \"5229019970929492\": {\"rank\": 7}, \"5229015087448647\": {\"rank\": 3}}}",
+      "msg_format": "markdown",
+      "ab_suffix": "default",
+      "abtest_info": {
+        "chat_entrance": 1
+      },
+      "uid": "",
+      "query": "#特朗普70分钟采访提及中国41次#",
+      "msg_json": "{}",
+      "unify_md5": "8ba90c74dabaae2dde802a993163557c",
+      "status": 2,
+      "query_field": "45",
+      "msg": "<think><br>嗯，用户想了解特朗普采访中为何41次提及中国。我先看看搜索结果。第一个搜索结果提到特朗普接受CBS采访，70分钟里提了中国41次，远超俄罗斯和日本，而且欧洲国家都没提到。这个内容出现在多个媒体账号里，包括看看新闻、山西日报等，说明是广泛报道的热点。<br><br>再看其他内容。第七个搜索结果显示特朗普说\"中美处得挺好\"，认为合作比打压好。第六个搜索结果还提到特朗普说与中国合作能让美国更强大。这应该是他在采访中对中美关系的主要态度。<br><br>第五个搜索结果有具体例子，特朗普说台湾芯片企业因关税转移到美国，还提到要发展AI等高科技产业。这解释了他提中国多的部分原因——在谈产业竞争时很自然就会提到中国。<br><br>第三个和第四个搜索结果显示这事上了《直播港澳台》节目，还关联了APEC会议。考虑到采访时间在2025年11月2日，而APEC将在中国深圳举办，这个时机很微妙。<br><br>用户可能想通过这个高频提及的现象，看特朗普对华政策走向。需要突出三点：一是具体数据证明提及频率很高；二是他表态愿意合作；三是结合产业转移案例说明实际政策方向。媒体账号都认证过，信息可信度较高。最后总结时要点明，虽然表面积极但本质还是竞争主导，这是典型特朗普式对华策略——用关税施压产业转移，同时喊话合作。<br><br></think><br>关于特朗普70分钟专访中41次提及中国的事件，综合权威媒体报道的核心信息如下：<br>### 🔍 **高频提及背景与焦点**<br>1. **事件核心**  <br>   2025年11月2日，美国CBS播出特朗普接受《60分钟》栏目的专访，时长约70分钟。统计显示，特朗普在对话中提及“中国”达41次，远超俄罗斯、日本等其他国家，欧洲国家未被提及。```wbCustomBlock{\"type\": \"quoted\", \"index\": 3, \"data\": {\"num\": [1, 2, 4, 5], \"version\": 2, \"quote_list\": [{\"name\": \"看看新闻Knews\", \"scheme\": \"sinaweibo://detail?mblogid=5228925937780020\", \"index\": 1, \"label\": \"大v\"}, {\"name\": \"山西日报\", \"scheme\": \"sinaweibo://detail?mblogid=5229083694727866\", \"index\": 2, \"label\": \"\"}, {\"name\": \"深圳卫视_直播港澳台\", \"scheme\": \"sinaweibo://detail?mblogid=5229013971764031\", \"index\": 4, \"label\": \"\"}, {\"name\": \"热度新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5229012109761186\", \"index\": 5, \"label\": \"\"}], \"name\": \"看看新闻Knews\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.410.410.50/6e05a6daly1h8vg7kmg7ej20be0bemxf.jpg?KID=imgbed,tva&Expires=1762205882&ssig=vuPoJ0FUxq\", \"scheme\": \"sinaweibo://detail?mblogid=5228925937780020\", \"vType\": 3}}```<br><br>2. **争议道具与主张**  <br>   特朗普在采访中自备道具“邀功”，声称其上任后8个月内解决了8场战争，并将部分政策成果与中国关联。例如，他宣称因美国加征关税，台湾大型芯片企业正将生产线转移至美国，并预测未来美国将控制全球40%-50%的芯片市场份额。```wbCustomBlock{\"type\": \"quoted\", \"index\": 4, \"data\": {\"num\": [5], \"version\": 2, \"quote_list\": [{\"name\": \"热度新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5229012109761186\", \"index\": 5, \"label\": \"大v\"}], \"name\": \"热度新闻\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/92aeec11ly8hlwg775m3ej20u00u0wgf.jpg?KID=imgbed,tva&Expires=1762205882&ssig=OPTYjk3ORZ\", \"scheme\": \"sinaweibo://detail?mblogid=5229012109761186\", \"vType\": 3}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5228925937780020&multi_paragraph=1&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.410.410.50/6e05a6daly1h8vg7kmg7ej20be0bemxf.jpg?KID=imgbed,tva&Expires=1762205882&ssig=vuPoJ0FUxq) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">看看新闻Knews</span><img src=\"http://wx4.sinaimg.cn/middle/6e05a6daly8i6z2uezdm1j20u01hcafd.jpg\" data-width=1920 data-height=1080></div></media-block><br>### 💬 **对华政策表态**<br>1. **合作优先论调**  <br>   特朗普明确表示“中美相处得很好”，强调“与中国合作能让美国更强大”，认为竞争关系中保持合作符合美国利益，并称“与其打压不如与中方合作”。美国财政部长贝森特同日亦表态“无意与中国脱钩”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 7, \"data\": {\"num\": [6, 7], \"version\": 2, \"quote_list\": [{\"name\": \"央视网\", \"scheme\": \"sinaweibo://detail?mblogid=5228992384207399\", \"index\": 6, \"label\": \"大v\"}, {\"name\": \"澎湃新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5229019970929492\", \"index\": 7, \"label\": \"\"}], \"name\": \"央视网\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.180.180.50/003z5L7fly8h8ursf868gj6050050mwz02.jpg?KID=imgbed,tva&Expires=1762205882&ssig=ZtBIw6aVvc\", \"scheme\": \"sinaweibo://detail?mblogid=5228992384207399\", \"vType\": 3}}```<br><br>2. **战略竞争逻辑**  <br>   在技术领域，特朗普提出“分工策略”：要求美国主导人工智能、芯片等高端技术研发，同时将廉价商品（如内衣、日用品）生产转移至国外，以低价进口。```wbCustomBlock{\"type\": \"quoted\", \"index\": 8, \"data\": {\"num\": [5], \"version\": 2, \"quote_list\": [{\"name\": \"热度新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5229012109761186\", \"index\": 5, \"label\": \"\"}]}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5229019970929492&multi_paragraph=2&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.11.10.275.275.50/005vnhZYly8ftjmwo0bx4j308c08cq32.jpg?KID=imgbed,tva&Expires=1762205882&ssig=S3MFlnNU%2FG) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">澎湃新闻</span><img src=\"http://wx4.sinaimg.cn/middle/005vnhZYgy1i6zdqvzkl2j609j0cqdht02.jpg\" data-width=458 data-height=343></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5228992384207399&multi_paragraph=2&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.180.180.50/003z5L7fly8h8ursf868gj6050050mwz02.jpg?KID=imgbed,tva&Expires=1762205882&ssig=ZtBIw6aVvc) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">央视网</span><img src=\"http://wx1.sinaimg.cn/middle/003z5L7fly1i6zakp5kd6j60dc07it8v02.jpg\" data-width=270 data-height=480></div></media-block><br>### ⚖️ **采访背后的政治博弈**<br>- **节目制作风波**  <br>  此前特朗普曾指控《60分钟》“偏袒竞选对手哈里斯”，起诉其母公司派拉蒙并索赔100亿美元。最终派拉蒙以支付1500万美元赔偿达成和解，此次采访被视为和解后的“破冰”行动。```wbCustomBlock{\"type\": \"quoted\", \"index\": 11, \"data\": {\"num\": [1, 2], \"version\": 2, \"quote_list\": [{\"name\": \"山西日报\", \"scheme\": \"sinaweibo://detail?mblogid=5229083694727866\", \"index\": 2, \"label\": \"大v\"}, {\"name\": \"看看新闻Knews\", \"scheme\": \"sinaweibo://detail?mblogid=5228925937780020\", \"index\": 1, \"label\": \"\"}], \"name\": \"山西日报\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.1024.1024.50/004g2OE2ly8h8vgl51vchj60sg0sg76202.jpg?KID=imgbed,tva&Expires=1762205882&ssig=qonK6u%2FHzX\", \"scheme\": \"sinaweibo://detail?mblogid=5229083694727866\", \"vType\": 3}}```<br><br>- **APEC会议关联**  <br>  多家媒体将此次采访与即将召开的APEC会议（深圳之约）关联分析，认为特朗普密集提及中国意在为中美元首会晤预热，呼应“中美应落实釜山会晤共识”的议题。```wbCustomBlock{\"type\": \"quoted\", \"index\": 12, \"data\": {\"num\": [3, 4, 7], \"version\": 2, \"quote_list\": [{\"name\": \"直新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5229015087448647\", \"index\": 3, \"label\": \"大v\"}, {\"name\": \"深圳卫视_直播港澳台\", \"scheme\": \"sinaweibo://detail?mblogid=5229013971764031\", \"index\": 4, \"label\": \"\"}, {\"name\": \"澎湃新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5229019970929492\", \"index\": 7, \"label\": \"\"}], \"name\": \"直新闻\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/006N4ALSly8gdi6ut01v6j30u00u00tw.jpg?KID=imgbed,tva&Expires=1762205882&ssig=co4R%2FCGgTt\", \"scheme\": \"sinaweibo://detail?mblogid=5229015087448647\", \"vType\": 3}}```<br>### 💎 **关键结论**<br>- **高频提中国的主因**：涵盖经贸竞争（芯片产业转移）、技术主导权争夺、APEC外交预热三大维度。```wbCustomBlock{\"type\": \"quoted\", \"index\": 15, \"data\": {\"num\": [3, 5, 7], \"version\": 2, \"quote_list\": [{\"name\": \"澎湃新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5229019970929492\", \"index\": 7, \"label\": \"大v\"}, {\"name\": \"直新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5229015087448647\", \"index\": 3, \"label\": \"\"}, {\"name\": \"热度新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5229012109761186\", \"index\": 5, \"label\": \"\"}], \"name\": \"澎湃新闻\", \"img\": \"https://tvax1.sinaimg.cn/crop.11.10.275.275.50/005vnhZYly8ftjmwo0bx4j308c08cq32.jpg?KID=imgbed,tva&Expires=1762205882&ssig=S3MFlnNU%2FG\", \"scheme\": \"sinaweibo://detail?mblogid=5229019970929492\", \"vType\": 3}}```  <br>- **政策双重性**：表面释放合作信号，实质延续“美国优先”策略，通过关税施压产业回流，同时划定技术竞争红线。```wbCustomBlock{\"type\": \"quoted\", \"index\": 16, \"data\": {\"num\": [5, 6, 7], \"version\": 2, \"quote_list\": [{\"name\": \"热度新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5229012109761186\", \"index\": 5, \"label\": \"\"}, {\"name\": \"央视网\", \"scheme\": \"sinaweibo://detail?mblogid=5228992384207399\", \"index\": 6, \"label\": \"\"}, {\"name\": \"澎湃新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5229019970929492\", \"index\": 7, \"label\": \"\"}]}}```  <br>- **政治意图**：借媒体曝光为政策背书，化解此前司法纠纷，并为大选周期积累外交叙事。```wbCustomBlock{\"type\": \"quoted\", \"index\": 17, \"data\": {\"num\": [1, 2, 4], \"version\": 2, \"quote_list\": [{\"name\": \"深圳卫视_直播港澳台\", \"scheme\": \"sinaweibo://detail?mblogid=5229013971764031\", \"index\": 4, \"label\": \"大v\"}, {\"name\": \"看看新闻Knews\", \"scheme\": \"sinaweibo://detail?mblogid=5228925937780020\", \"index\": 1, \"label\": \"\"}, {\"name\": \"山西日报\", \"scheme\": \"sinaweibo://detail?mblogid=5229083694727866\", \"index\": 2, \"label\": \"\"}], \"name\": \"深圳卫视_直播港澳台\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.976.976.50/477818b1ly8i3yj91cpzfj20r40r475r.jpg?KID=imgbed,tva&Expires=1762205882&ssig=HLdSNhEnOG\", \"scheme\": \"sinaweibo://detail?mblogid=5229013971764031\", \"vType\": 3}}```<br>",
+      "page_id": "2329649bab000f0370b0e944e3e1e41d3f8918",
+      "query_category": "Ip",
+      "analysis_time": 1762195180,
+      "show_ctrl": {
+        "quote": {}
+      },
+      "ext_show": {},
+      "card_multimodal": {
+        "type": "mediablock",
+        "data": [
+          {
+            "scheme": "sinaweibo://video/vvs?mid=5228925937780020&multi_paragraph=1&multi_count=0",
+            "video_url": "https://video.weibo.com/show?fid=1034:5228924922167330",
+            "click_rate": 0.31619973897341,
+            "hit_score_new": 0,
+            "doc_score": 0,
+            "img_pid": "6e05a6daly8i6z2uezdm1j20u01hcafd",
+            "cur_mid": "5228925937780020",
+            "vtype": 3,
+            "click_num": 0,
+            "hit_score_final": 0,
+            "type": "v",
+            "h": 1920,
+            "w": 1080,
+            "user_name": "看看新闻Knews",
+            "img": "http://wx4.sinaimg.cn/middle/6e05a6daly8i6z2uezdm1j20u01hcafd.jpg",
+            "user_avatar": "https://tvax2.sinaimg.cn/crop.0.0.410.410.50/6e05a6daly1h8vg7kmg7ej20be0bemxf.jpg?KID=imgbed,tva&Expires=1762205882&ssig=vuPoJ0FUxq"
+          },
+          {
+            "scheme": "sinaweibo://video/vvs?mid=5229019970929492&multi_paragraph=2&multi_count=0",
+            "video_url": "https://video.weibo.com/show?fid=1034:5229019684339741",
+            "click_rate": 0.067752698724239,
+            "hit_score_new": 82.519531,
+            "doc_score": 3970,
+            "img_pid": "005vnhZYgy1i6zdqvzkl2j609j0cqdht02",
+            "cur_mid": "5229019970929492",
+            "vtype": 3,
+            "click_num": 0,
+            "hit_score_final": 70.311722,
+            "type": "v",
+            "h": 458,
+            "w": 343,
+            "user_name": "澎湃新闻",
+            "img": "http://wx4.sinaimg.cn/middle/005vnhZYgy1i6zdqvzkl2j609j0cqdht02.jpg",
+            "user_avatar": "https://tvax1.sinaimg.cn/crop.11.10.275.275.50/005vnhZYly8ftjmwo0bx4j308c08cq32.jpg?KID=imgbed,tva&Expires=1762205882&ssig=S3MFlnNU%2FG"
+          },
+          {
+            "scheme": "sinaweibo://video/vvs?mid=5228992384207399&multi_paragraph=2&multi_count=1",
+            "video_url": "https://video.weibo.com/show?fid=1034:5228992199065702",
+            "click_rate": 0.06507413509061,
+            "hit_score_new": 83.740234,
+            "doc_score": 3863,
+            "img_pid": "003z5L7fly1i6zakp5kd6j60dc07it8v02",
+            "cur_mid": "5228992384207399",
+            "vtype": 3,
+            "click_num": 0,
+            "hit_score_final": 70.244141,
+            "type": "v",
+            "h": 270,
+            "w": 480,
+            "user_name": "央视网",
+            "img": "http://wx1.sinaimg.cn/middle/003z5L7fly1i6zakp5kd6j60dc07it8v02.jpg",
+            "user_avatar": "https://tvax4.sinaimg.cn/crop.0.0.180.180.50/003z5L7fly8h8ursf868gj6050050mwz02.jpg?KID=imgbed,tva&Expires=1762205882&ssig=ZtBIw6aVvc"
+          },
+          {
+            "scheme": "sinaweibo://video/vvs?mid=5228925937780020&multi_paragraph=1&multi_count=0",
+            "video_url": "https://video.weibo.com/show?fid=1034:5228924922167330",
+            "click_rate": 0.31619973897341,
+            "hit_score_new": 0,
+            "doc_score": 0,
+            "img_pid": "6e05a6daly8i6z2uezdm1j20u01hcafd",
+            "cur_mid": "5228925937780020",
+            "vtype": 3,
+            "click_num": 0,
+            "hit_score_final": 0,
+            "type": "v",
+            "h": 1920,
+            "w": 1080,
+            "user_name": "看看新闻Knews",
+            "img": "http://wx4.sinaimg.cn/middle/6e05a6daly8i6z2uezdm1j20u01hcafd.jpg",
+            "user_avatar": "https://tvax2.sinaimg.cn/crop.0.0.410.410.50/6e05a6daly1h8vg7kmg7ej20be0bemxf.jpg?KID=imgbed,tva&Expires=1762205882&ssig=vuPoJ0FUxq"
+          }
+        ]
+      }
+    }
+  },
+  "links": [
+    "sinaweibo://detail?mblogid=5228925937780020",
+    "sinaweibo://detail?mblogid=5229083694727866",
+    "sinaweibo://detail?mblogid=5229015087448647",
+    "sinaweibo://detail?mblogid=5229013971764031",
+    "sinaweibo://detail?mblogid=5229012109761186",
+    "sinaweibo://detail?mblogid=5228992384207399",
+    "sinaweibo://detail?mblogid=5229019970929492"
+  ],
+  "media": [
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/6e05a6daly8i6z2uezdm1j20u01hcafd.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/6e05a6daly8i6z2uezdm1j20u01hcafd.jpg",
+      "alt": "看看新闻Knews",
+      "width": 1920,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/6e05a6daly8i6z2uezdm1j20u01hcafd.jpg"
+      ],
+      "user": "看看新闻Knews"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/005vnhZYgy1i6zdqvzkl2j609j0cqdht02.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/005vnhZYgy1i6zdqvzkl2j609j0cqdht02.jpg",
+      "alt": "澎湃新闻",
+      "width": 458,
+      "height": 343,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/005vnhZYgy1i6zdqvzkl2j609j0cqdht02.jpg"
+      ],
+      "user": "澎湃新闻"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/003z5L7fly1i6zakp5kd6j60dc07it8v02.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/003z5L7fly1i6zakp5kd6j60dc07it8v02.jpg",
+      "alt": "央视网",
+      "width": 270,
+      "height": 480,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/003z5L7fly1i6zakp5kd6j60dc07it8v02.jpg"
+      ],
+      "user": "央视网"
+    }
+  ],
+  "html_path": "data/aicard/hourly/2025-11-04/02/70-41.html"
+}

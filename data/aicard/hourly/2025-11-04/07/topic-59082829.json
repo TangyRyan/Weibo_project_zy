@@ -1,0 +1,397 @@
+{
+  "meta": {
+    "query": "#马斯克称自己永远不会自杀#",
+    "status_code": 200,
+    "fetched_at": "2025-11-04T07:33:26+08:00",
+    "response": {
+      "card_multimodal": {
+        "data": [
+          {
+            "cur_mid": "5228924449853842",
+            "user_name": "今日俄罗斯RT",
+            "img": "http://wx3.sinaimg.cn/middle/006OBvBvly1i6z1abr3buj30dc0nqjrs.jpg",
+            "user_avatar": "https://tvax4.sinaimg.cn/crop.0.0.600.600.50/006OBvBvly8i1krmv9iq6j30go0goglu.jpg?KID=imgbed,tva&Expires=1762223284&ssig=dpWKE7vWMk",
+            "h": 854,
+            "video_url": "https://video.weibo.com/show?fid=1034:5228911290679314",
+            "vtype": 3,
+            "type": "v",
+            "doc_score": 0,
+            "scheme": "sinaweibo://video/vvs?mid=5228924449853842&multi_paragraph=1&multi_count=0",
+            "hit_score_new": 0,
+            "click_rate": 0.26675641025641,
+            "click_num": 0,
+            "img_pid": "006OBvBvly1i6z1abr3buj30dc0nqjrs",
+            "w": 480,
+            "hit_score_final": 0
+          },
+          {
+            "cur_mid": "5229002216441296",
+            "user_name": "中国新闻网",
+            "img": "http://wx2.sinaimg.cn/middle/001WLsZ7ly1i6zbpk4x9tj60u01hcjta02.jpg",
+            "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.300.300.50/001WLsZ7ly8h8vgjl2u01j608c08caa302.jpg?KID=imgbed,tva&Expires=1762223284&ssig=lDtIkoyJYE",
+            "h": 1920,
+            "video_url": "https://video.weibo.com/show?fid=1034:5229001959211020",
+            "vtype": 3,
+            "type": "v",
+            "doc_score": 3820,
+            "scheme": "sinaweibo://video/vvs?mid=5229002216441296&multi_paragraph=1&multi_count=1",
+            "hit_score_new": 98.925781,
+            "click_rate": 0.070175438596491,
+            "click_num": 0,
+            "img_pid": "001WLsZ7ly1i6zbpk4x9tj60u01hcjta02",
+            "w": 1080,
+            "hit_score_final": 85.355469
+          },
+          {
+            "cur_mid": "4843305039299235",
+            "user_name": "赵盛烨",
+            "img": "http://wx4.sinaimg.cn/middle/56a0b2edly1h8sv02z8moj20u01b1452.jpg",
+            "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/56a0b2edly8i261lntrndj20u00u0tac.jpg?KID=imgbed,tva&Expires=1762223284&ssig=cuXZgid1P0",
+            "h": 1693,
+            "video_url": "",
+            "vtype": 0,
+            "type": "p",
+            "doc_score": 4533,
+            "scheme": "sinaweibo://multimedia?mix_mid=4843305039299235&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=2",
+            "hit_score_new": 73.046875,
+            "click_rate": 0.067307692307692,
+            "click_num": 0,
+            "img_pid": "56a0b2edly1h8sv02z8moj20u01b1452",
+            "w": 1080,
+            "hit_score_final": 66.628128
+          },
+          {
+            "cur_mid": "5228924449853842",
+            "user_name": "今日俄罗斯RT",
+            "img": "http://wx3.sinaimg.cn/middle/006OBvBvly1i6z1abr3buj30dc0nqjrs.jpg",
+            "user_avatar": "https://tvax4.sinaimg.cn/crop.0.0.600.600.50/006OBvBvly8i1krmv9iq6j30go0goglu.jpg?KID=imgbed,tva&Expires=1762223284&ssig=dpWKE7vWMk",
+            "h": 854,
+            "video_url": "https://video.weibo.com/show?fid=1034:5228911290679314",
+            "vtype": 3,
+            "type": "v",
+            "doc_score": 0,
+            "scheme": "sinaweibo://video/vvs?mid=5228924449853842&multi_paragraph=1&multi_count=0",
+            "hit_score_new": 0,
+            "click_rate": 0.26675641025641,
+            "click_num": 0,
+            "img_pid": "006OBvBvly1i6z1abr3buj30dc0nqjrs",
+            "w": 480,
+            "hit_score_final": 0
+          }
+        ],
+        "type": "mediablock"
+      },
+      "model": "deepseek",
+      "basemodel": "实验组6",
+      "query_field": "42",
+      "version": "2025-11-04 07:28:04.005000-7003",
+      "scheme": "sinaweibo://cardlist?containerid=100103type%3D225%26q%3D%23%E9%A9%AC%E6%96%AF%E5%85%8B%E7%A7%B0%E8%87%AA%E5%B7%B1%E6%B0%B8%E8%BF%9C%E4%B8%8D%E4%BC%9A%E8%87%AA%E6%9D%80%23%26t%3D&extparam=ai_model%3Ddeepseek%26ori_ai_title%3D%E5%8F%82%E8%80%83%E5%8D%9A%E6%96%87%26material_version%3D1762212484",
+      "show_ctrl": {
+        "quote": {}
+      },
+      "cot": 1,
+      "query": "#马斯克称自己永远不会自杀#",
+      "qs_status": 0,
+      "current_time": 1762212808,
+      "user_info": {},
+      "uid": "",
+      "zs_risk_control": {
+        "think_text_close": 0,
+        "land_button_close": 0
+      },
+      "chat_status_stage": 1,
+      "news_analyze": {},
+      "reliable_tips": "{\"gold_orange_v_mids\": [\"5229058297432700\", \"4843305039299235\", \"4843302727192253\", \"4843324689088578\", \"5229034335112648\", \"5229029150166714\", \"5229054682989227\", \"5229061152444118\", \"5229050983091692\", \"5229159404012059\", \"5229065472574635\", \"5229055920047464\", \"5229049561749529\", \"5229034994404981\", \"5229032632488291\", \"4843338412589328\", \"5229127315751169\", \"5229029064183017\", \"5229043827082600\", \"5229025112623622\", \"5229027015001407\", \"5229136786489412\", \"5229054208511192\", \"5229049800556547\", \"5229049318476908\", \"5229049115053875\", \"5229045008565661\", \"4843247665686250\", \"4843328379559210\", \"4843237619012989\", \"4843240833156972\", \"5228471257400386\", \"5229028185211671\", \"4843317303706213\"], \"gold_orange_v_ratio\": \"72%\", \"media_mids\": [\"5229002216441296\", \"5228984294179609\", \"5228984034132050\"], \"media_ratio\": \"7%\", \"verified_mids\": [\"5228924449853842\", \"5229046946598229\", \"4843367383438394\", \"4971323038106477\", \"4844159133287560\", \"5229148041642478\", \"5229133061947446\", \"4843252539195955\", \"4843278824375348\"], \"verified_ratio\": \"19%\", \"normal_mids\": [\"4843188928118890\"], \"normal_ratio\": \"2%\", \"ref_mid_rank\": {\"5228924449853842\": {\"rank\": 1}, \"5229002216441296\": {\"rank\": 5}, \"5228984294179609\": {\"rank\": 7}, \"5229046946598229\": {\"rank\": 15}, \"5229058297432700\": {\"rank\": 27}, \"4843305039299235\": {\"rank\": 2}, \"4843302727192253\": {\"rank\": 36}, \"4843367383438394\": {\"rank\": 37}, \"4843324689088578\": {\"rank\": 44}, \"4971323038106477\": {\"rank\": 3}, \"5229034335112648\": {\"rank\": 8}, \"4844159133287560\": {\"rank\": 10}, \"5229029150166714\": {\"rank\": 40}, \"5229054682989227\": {\"rank\": 6}, \"5229061152444118\": {\"rank\": 26}, \"5229050983091692\": {\"rank\": 17}, \"5229159404012059\": {\"rank\": 20}, \"5229148041642478\": {\"rank\": 21}, \"5229065472574635\": {\"rank\": 25}, \"5229055920047464\": {\"rank\": 28}, \"5229049561749529\": {\"rank\": 31}, \"5229034994404981\": {\"rank\": 43}, \"5229032632488291\": {\"rank\": 49}, \"4843338412589328\": {\"rank\": 35}, \"5229127315751169\": {\"rank\": 4}, \"5229029064183017\": {\"rank\": 9}, \"5229043827082600\": {\"rank\": 16}, \"5229025112623622\": {\"rank\": 18}, \"5228984034132050\": {\"rank\": 19}, \"5229027015001407\": {\"rank\": 22}, \"5229136786489412\": {\"rank\": 23}, \"5229133061947446\": {\"rank\": 24}, \"5229054208511192\": {\"rank\": 29}, \"5229049800556547\": {\"rank\": 30}, \"5229049318476908\": {\"rank\": 32}, \"5229049115053875\": {\"rank\": 33}, \"5229045008565661\": {\"rank\": 34}, \"4843247665686250\": {\"rank\": 38}, \"4843252539195955\": {\"rank\": 39}, \"4843328379559210\": {\"rank\": 41}, \"4843237619012989\": {\"rank\": 42}, \"4843188928118890\": {\"rank\": 45}, \"4843240833156972\": {\"rank\": 46}, \"5228471257400386\": {\"rank\": 47}, \"4843278824375348\": {\"rank\": 48}, \"5229028185211671\": {\"rank\": 50}, \"4843317303706213\": {\"rank\": 51}}}",
+      "qs_status_info": "{\"ab_lab\":{},\"qs_q_status\":0,\"qs_status\":0,\"qs_r_status\":0,\"qs_u_status\":0,\"qs_c_status\":8388608}",
+      "loop_times": 200,
+      "sorted_material_list": "[{\"mid\": \"5228924449853842\", \"rank\": 1, \"type\": \"weibo\"}, {\"mid\": \"5229002216441296\", \"rank\": 5, \"type\": \"weibo\"}, {\"mid\": \"5228984294179609\", \"rank\": 6, \"type\": \"weibo\"}, {\"mid\": \"5229046946598229\", \"rank\": 16, \"type\": \"weibo\"}, {\"mid\": \"5228984034132050\", \"rank\": 17, \"type\": \"weibo\"}, {\"mid\": \"4843305039299235\", \"rank\": 3, \"type\": \"weibo\"}, {\"mid\": \"4843302727192253\", \"rank\": 30, \"type\": \"weibo\"}, {\"mid\": \"4843367383438394\", \"rank\": 31, \"type\": \"weibo\"}, {\"mid\": \"4843328379559210\", \"rank\": 35, \"type\": \"weibo\"}, {\"mid\": \"4843278824375348\", \"rank\": 42, \"type\": \"weibo\"}, {\"mid\": \"4971323038106477\", \"rank\": 2, \"type\": \"weibo\"}, {\"mid\": \"4844159133287560\", \"rank\": 9, \"type\": \"weibo\"}, {\"mid\": \"5229054682989227\", \"rank\": 4, \"type\": \"weibo\"}, {\"mid\": \"5229034335112648\", \"rank\": 7, \"type\": \"weibo\"}, {\"mid\": \"4843324689088578\", \"rank\": 37, \"type\": \"weibo\"}, {\"mid\": \"5229061152444118\", \"rank\": 27, \"type\": \"weibo\"}, {\"mid\": \"5229029150166714\", \"rank\": 21, \"type\": \"weibo\"}, {\"mid\": \"5229028185211671\", \"rank\": 44, \"type\": \"weibo\"}, {\"mid\": \"5229148041642478\", \"rank\": 23, \"type\": \"weibo\"}, {\"mid\": \"5229065472574635\", \"rank\": 14, \"type\": \"weibo\"}, {\"mid\": \"5229038551437322\", \"rank\": 19, \"type\": \"weibo\"}, {\"mid\": \"5229041204336472\", \"rank\": 22, \"type\": \"weibo\"}, {\"mid\": \"5229034994404981\", \"rank\": 34, \"type\": \"weibo\"}, {\"mid\": \"5229050983091692\", \"rank\": 20, \"type\": \"weibo\"}, {\"mid\": \"5229032632488291\", \"rank\": 43, \"type\": \"weibo\"}, {\"mid\": \"5229049800556547\", \"rank\": 39, \"type\": \"weibo\"}, {\"mid\": \"5229029064183017\", \"rank\": 8, \"type\": \"weibo\"}, {\"mid\": \"5229043827082600\", \"rank\": 15, \"type\": \"weibo\"}, {\"mid\": \"5229025112623622\", \"rank\": 18, \"type\": \"weibo\"}, {\"mid\": \"5229027015001407\", \"rank\": 24, \"type\": \"weibo\"}, {\"mid\": \"5229136786489412\", \"rank\": 25, \"type\": \"weibo\"}, {\"mid\": \"5229133061947446\", \"rank\": 26, \"type\": \"weibo\"}, {\"mid\": \"5229058297432700\", \"rank\": 28, \"type\": \"weibo\"}, {\"mid\": \"4843338412589328\", \"rank\": 29, \"type\": \"weibo\"}, {\"mid\": \"4843247665686250\", \"rank\": 32, \"type\": \"weibo\"}, {\"mid\": \"4843252539195955\", \"rank\": 33, \"type\": \"weibo\"}, {\"mid\": \"4843237619012989\", \"rank\": 36, \"type\": \"weibo\"}, {\"mid\": \"4843240833156972\", \"rank\": 38, \"type\": \"weibo\"}, {\"mid\": \"4843188928118890\", \"rank\": 40, \"type\": \"weibo\"}, {\"mid\": \"5228471257400386\", \"rank\": 41, \"type\": \"weibo\"}, {\"mid\": \"4843317303706213\", \"rank\": 45, \"type\": \"weibo\"}]",
+      "share_text": "#马斯克称自己永远不会自杀#的相关内容，来智搜看看",
+      "wenda": {
+        "forward_gen": 0
+      },
+      "abtest_info": {
+        "chat_entrance": 1
+      },
+      "ext_show": {},
+      "msg": "<think><br><br>嗯，用户想要我整理关于\"马斯克称自己永远不会自杀\"的搜索结果。这个话题挺有意思的，马斯克作为世界首富多次公开表示\"永远不会自杀\"，背后肯定有故事。<br><br>我看搜索结果发现马斯克在2025年11月的播客节目上再次强调这个说法。这次是在讨论外星生命时说的，他回应了\"任何发现外星秘密的人都会遭遇神秘结局\"的阴谋论。这个说法其实不是第一次了，他早在2022年12月就说过类似的话，当时是因为曝光了拜登儿子的丑闻。<br><br>用户可能想知道为什么马斯克要反复强调这个。从搜索结果看有几个原因：首先是他认为自己的安全确实受到威胁。2022年那次他就说过\"被枪杀的风险很高\"，拒绝参加露天活动。其次是他触及了很多敏感话题，比如要求公布爱泼斯坦案客户名单、揭露推特曾帮拜登删帖等。另外他还批评过犹太财团，引起很大争议。<br><br>马斯克的处境很特别，他的企业如SpaceX、星链都深度绑定美国国家利益，可以说是\"大到不能倒\"，但同时又站在了传统权力集团的对立面。这种矛盾位置让他感到不安，所以用公开声明作为\"防身武器\"。<br><br>这个话题还引发了一些阴谋论联想。网友把他和爱泼斯坦、约翰·迈克菲等\"可疑自杀\"案例联系起来。有人甚至建议他移居中国保安全。不过这些说法都缺乏权威证据。<br><br>心理学角度也很有趣，有分析认为这种公开声明是\"心理防御机制\"，把恐惧透明化既是对威胁的震慑，也是给自己穿上心理铠甲。普通网友@闪闪发光的月芽儿说得挺有道理：感觉生命有价值的人是不会自杀的，而马斯克显然属于这类人。<br><br>关于风险提示，搜索结果指出阴谋论缺乏实证，马斯克的政治立场也有弹性。比如他对特朗普的评价从\"令人作呕\"变成了\"非完美但非恶魔\"。这种立场的转变反映的是利益博弈。<br><br>综合来看，马斯克的\"永不自杀\"宣言已经超越了个人安全范畴，成了观察美国政治暗流与顶级资本博弈的一个切口。当世界首富需要公开防范\"被自杀\"，这本身就是这个时代的一种荒诞。<br><br>我注意到有些无关内容混进来了，比如薇薇安·詹娜·威尔逊的百科、手机消亡预测、在美华人遭遇等，这些和用户查询无关，应该忽略。还有些内容质量不高，比如讨论宇宙订单句式的，或者纯粹调侃的，这些也不需要采用。<br><br>我会在回复时聚焦马斯克声明的背景、动机、各方解读这三个核心维度，用清晰的逻辑组织信息，同时突出关键事实和深度分析。<br><br></think><br>根据搜索结果中关于“马斯克称自己永远不会自杀”的公开表态及相关背景分析，综合整理核心信息如下：<br>### 🔍 **一、事件核心脉络**<br>1. **最新表态（2025年11月）**  <br>   马斯克在播客节目《乔·罗根秀》讨论外星生命时，针对“知晓外星秘密者会遭灭口”的阴谋论宣称：“如果发现外星人证据定会公开，但我永远不会自杀，这点必须说清楚。”该言论被解读为对“神秘死亡”传言的预防性声明。```wbCustomBlock{\"type\": \"quoted\", \"index\": 4, \"data\": {\"num\": [1, 5, 7, 15], \"version\": 2, \"quote_list\": [{\"name\": \"中国新闻网\", \"scheme\": \"sinaweibo://detail?mblogid=5229002216441296\", \"index\": 5, \"label\": \"大v\"}, {\"name\": \"今日俄罗斯RT\", \"scheme\": \"sinaweibo://detail?mblogid=5228924449853842\", \"index\": 1, \"label\": \"\"}, {\"name\": \"新京报\", \"scheme\": \"sinaweibo://detail?mblogid=5228984294179609\", \"index\": 7, \"label\": \"\"}, {\"name\": \"车圈玩家\", \"scheme\": \"sinaweibo://detail?mblogid=5229046946598229\", \"index\": 15, \"label\": \"\"}], \"name\": \"中国新闻网\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.300.300.50/001WLsZ7ly8h8vgjl2u01j608c08caa302.jpg?KID=imgbed,tva&Expires=1762223284&ssig=lDtIkoyJYE\", \"scheme\": \"sinaweibo://detail?mblogid=5229002216441296\", \"vType\": 3}}```  <br>   - **背景关联**：话题源于对星际天体3I/ATLAS的讨论（此前哈佛学者曾猜测其为外星飞船），马斯克强调天体实为普通彗星，但借机重申个人安全立场。```wbCustomBlock{\"type\": \"quoted\", \"index\": 5, \"data\": {\"num\": [15, 27], \"version\": 2, \"quote_list\": [{\"name\": \"车圈玩家\", \"scheme\": \"sinaweibo://detail?mblogid=5229046946598229\", \"index\": 15, \"label\": \"\"}, {\"name\": \"拾锤\", \"scheme\": \"sinaweibo://detail?mblogid=5229058297432700\", \"index\": 27, \"label\": \"\"}]}}```<br><br>2. **历史重复声明**  <br>   - **2022年12月**：曝光拜登儿子丑闻内幕后，马斯克在推特音频活动中称：“我没有任何自杀想法，如果我自杀，那绝不是真的。”同时透露面临“被枪杀的高风险”，拒绝参加露天活动。```wbCustomBlock{\"type\": \"quoted\", \"index\": 7, \"data\": {\"num\": [2, 36, 37, 44], \"version\": 2, \"quote_list\": [{\"name\": \"萝卜报告\", \"scheme\": \"sinaweibo://detail?mblogid=4843302727192253\", \"index\": 36, \"label\": \"大v\"}, {\"name\": \"赵盛烨\", \"scheme\": \"sinaweibo://detail?mblogid=4843305039299235\", \"index\": 2, \"label\": \"\"}, {\"name\": \"今日俄罗斯RT\", \"scheme\": \"sinaweibo://detail?mblogid=4843367383438394\", \"index\": 37, \"label\": \"\"}, {\"name\": \"乙游君\", \"scheme\": \"sinaweibo://detail?mblogid=4843324689088578\", \"index\": 44, \"label\": \"\"}], \"name\": \"萝卜报告\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/005JvqR1ly8hdx3yekvs2j60u00u0jsn02.jpg?KID=imgbed,tva&Expires=1762223284&ssig=p1HGcWLJ9y\", \"scheme\": \"sinaweibo://detail?mblogid=4843302727192253\", \"vType\": 0}}```  <br>   - **2023年11月**：因批评犹太财团、解封特朗普账号等行为遭死亡威胁，再次强调“绝不会出现自杀行为”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 8, \"data\": {\"num\": [3], \"version\": 2, \"quote_list\": [{\"name\": \"思索深一度\", \"scheme\": \"sinaweibo://detail?mblogid=4971323038106477\", \"index\": 3, \"label\": \"\"}]}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5228924449853842&multi_paragraph=1&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.600.600.50/006OBvBvly8i1krmv9iq6j30go0goglu.jpg?KID=imgbed,tva&Expires=1762223284&ssig=dpWKE7vWMk) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">今日俄罗斯RT</span><img src=\"http://wx3.sinaimg.cn/middle/006OBvBvly1i6z1abr3buj30dc0nqjrs.jpg\" data-width=854 data-height=480></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5229002216441296&multi_paragraph=1&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.300.300.50/001WLsZ7ly8h8vgjl2u01j608c08caa302.jpg?KID=imgbed,tva&Expires=1762223284&ssig=lDtIkoyJYE) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">中国新闻网</span><img src=\"http://wx2.sinaimg.cn/middle/001WLsZ7ly1i6zbpk4x9tj60u01hcjta02.jpg\" data-width=1920 data-height=1080></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=4843305039299235&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=2\"><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/56a0b2edly8i261lntrndj20u00u0tac.jpg?KID=imgbed,tva&Expires=1762223284&ssig=cuXZgid1P0) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">赵盛烨</span><img src=\"http://wx4.sinaimg.cn/middle/56a0b2edly1h8sv02z8moj20u01b1452.jpg\" data-width=1693 data-height=1080></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=4843324689088578&from=search&content_show=1&mix_index=2&hide_index=1&multi_paragraph=1&multi_count=3\"><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.512.512.50/006dMd5bly8hr8o35vi97j30e80e83z0.jpg?KID=imgbed,tva&Expires=1762223284&ssig=0ec%2Fyatb9S) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">乙游君</span><img src=\"http://wx3.sinaimg.cn/middle/006dMd5bgy1h8sx9iske3j30hs0c2js3.jpg\" data-width=434 data-height=640></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5228984294179609&multi_paragraph=1&multi_count=4\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.512.512.50/001Ngxkily8h8vm7jc1igj60e80e8q3a02.jpg?KID=imgbed,tva&Expires=1762223284&ssig=Wgrlu65h1B) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">新京报</span><img src=\"http://wx3.sinaimg.cn/middle/001Ngxkily1i6z9m6jcw8j61hc0u01c702.jpg\" data-width=1080 data-height=1920></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=4843302727192253&multi_paragraph=1&multi_count=5\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/005JvqR1ly8hdx3yekvs2j60u00u0jsn02.jpg?KID=imgbed,tva&Expires=1762223284&ssig=p1HGcWLJ9y) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">萝卜报告</span><img src=\"http://wx2.sinaimg.cn/middle/005JvqR1ly1h8supb8x23j61hc0u0gma02.jpg\" data-width=1080 data-height=1920></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=4971323038106477&multi_paragraph=1&multi_count=6\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.600.600.50/008ehMd4ly8i578qe0j1tj30go0gojt8.jpg?KID=imgbed,tva&Expires=1762223284&ssig=YYaidu%2FxwP) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">思索深一度</span><img src=\"http://wx4.sinaimg.cn/middle/008ehMd4gy1hk59llzjgmj31hc0u00yu.jpg\" data-width=1080 data-height=1920></div></media-block><br>### ⚠️ **二、深层动因分析**<br>1. **政治与资本博弈风险**  <br>   - **敏感行动树敌**：  <br>     - 要求公布爱泼斯坦案客户名单，揭露推特曾为拜登政府删帖；```wbCustomBlock{\"type\": \"quoted\", \"index\": 13, \"data\": {\"num\": [8, 10, 40], \"version\": 2, \"quote_list\": [{\"name\": \"枪-和玫瑰\", \"scheme\": \"sinaweibo://detail?mblogid=4844159133287560\", \"index\": 10, \"label\": \"大v\"}, {\"name\": \"山中影娱客\", \"scheme\": \"sinaweibo://detail?mblogid=5229034335112648\", \"index\": 8, \"label\": \"\"}, {\"name\": \"盛世牛博\", \"scheme\": \"sinaweibo://detail?mblogid=5229029150166714\", \"index\": 40, \"label\": \"\"}], \"name\": \"枪-和玫瑰\", \"img\": \"https://tvax3.sinaimg.cn/crop.110.0.426.426.50/005Aulwnly1g634axgefvj30hz0bu75c.jpg?KID=imgbed,tva&Expires=1762223284&ssig=Vuo5bBN8Vh\", \"scheme\": \"sinaweibo://detail?mblogid=4844159133287560\", \"vType\": 0}}```  <br>     - 担任美国政府效率部负责人期间，裁撤国际开发署等机构，指控其资金浪费；```wbCustomBlock{\"type\": \"quoted\", \"index\": 14, \"data\": {\"num\": [6], \"version\": 2, \"quote_list\": [{\"name\": \"陈陈陈陈陈梦想\", \"scheme\": \"sinaweibo://detail?mblogid=5229054682989227\", \"index\": 6, \"label\": \"大v\"}], \"name\": \"陈陈陈陈陈梦想\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.690.690.50/bd27f1a1ly8hw6ehgww0dj20j60j6dg4.jpg?KID=imgbed,tva&Expires=1762223284&ssig=NfNIdG4hM6\", \"scheme\": \"sinaweibo://detail?mblogid=5229054682989227\", \"vType\": 0}}```  <br>     - 公开批评索罗斯等金融大鳄，被指触及犹太财团利益。```wbCustomBlock{\"type\": \"quoted\", \"index\": 15, \"data\": {\"num\": [3], \"version\": 2, \"quote_list\": [{\"name\": \"思索深一度\", \"scheme\": \"sinaweibo://detail?mblogid=4971323038106477\", \"index\": 3, \"label\": \"\"}]}}```  <br>   - **商业帝国牵动国本**：SpaceX主导NASA太空任务，星链支撑美军全球通信，特斯拉绑定美国新能源战略，使其成为“大到不能倒却危险重重”的存在。```wbCustomBlock{\"type\": \"quoted\", \"index\": 16, \"data\": {\"num\": [6, 40], \"version\": 2, \"quote_list\": [{\"name\": \"盛世牛博\", \"scheme\": \"sinaweibo://detail?mblogid=5229029150166714\", \"index\": 40, \"label\": \"大v\"}, {\"name\": \"陈陈陈陈陈梦想\", \"scheme\": \"sinaweibo://detail?mblogid=5229054682989227\", \"index\": 6, \"label\": \"\"}], \"name\": \"盛世牛博\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/d53c0919ly8hznbz0gm2ej20u00u0456.jpg?KID=imgbed,tva&Expires=1762223284&ssig=BPLhjXZQev\", \"scheme\": \"sinaweibo://detail?mblogid=5229029150166714\", \"vType\": 0}}```<br><br>2. **安全威胁与公众联想**  <br>   - **死亡案例关联**：网友将其表态与爱泼斯坦（监狱中离奇死亡）、约翰·迈克菲（涉黑料后狱中“自杀”）等事件类比。```wbCustomBlock{\"type\": \"quoted\", \"index\": 18, \"data\": {\"num\": [10, 40], \"version\": 2, \"quote_list\": [{\"name\": \"枪-和玫瑰\", \"scheme\": \"sinaweibo://detail?mblogid=4844159133287560\", \"index\": 10, \"label\": \"\"}, {\"name\": \"盛世牛博\", \"scheme\": \"sinaweibo://detail?mblogid=5229029150166714\", \"index\": 40, \"label\": \"\"}]}}```  <br>   - **政权更迭压力**：2025年特朗普胜选后政策转向（如取消电动车补贴），加剧马斯克与民主党矛盾，传白宫曾策划针对他的“绞杀计划”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 19, \"data\": {\"num\": [6, 26], \"version\": 2, \"quote_list\": [{\"name\": \"网路游侠\", \"scheme\": \"sinaweibo://detail?mblogid=5229061152444118\", \"index\": 26, \"label\": \"大v\"}, {\"name\": \"陈陈陈陈陈梦想\", \"scheme\": \"sinaweibo://detail?mblogid=5229054682989227\", \"index\": 6, \"label\": \"\"}], \"name\": \"网路游侠\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/53f795bdly8hhv3vbjkqaj20u00u0n2r.jpg?KID=imgbed,tva&Expires=1762223284&ssig=4agL6xLXOw\", \"scheme\": \"sinaweibo://detail?mblogid=5229061152444118\", \"vType\": 0}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5229034335112648&multi_paragraph=2&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.640.640.50/008iTVdfly8he67v59dl6j30hs0hs75a.jpg?KID=imgbed,tva&Expires=1762223284&ssig=0OeUwxWNd%2F) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">山中影娱客</span><img src=\"http://wx2.sinaimg.cn/middle/008iTVdfgy1i6zfdajwwmj30mh0u0gnd.jpg\" data-width=1080 data-height=809></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=4844159133287560&multi_paragraph=2&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.110.0.426.426.50/005Aulwnly1g634axgefvj30hz0bu75c.jpg?KID=imgbed,tva&Expires=1762223284&ssig=Vuo5bBN8Vh) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">枪-和玫瑰</span><img src=\"http://wx4.sinaimg.cn/middle/005Aulwngy1h8vl2mtauuj30mh0u0n03.jpg\" data-width=1080 data-height=809></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5229054682989227&multi_paragraph=2&multi_count=2\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.690.690.50/bd27f1a1ly8hw6ehgww0dj20j60j6dg4.jpg?KID=imgbed,tva&Expires=1762223284&ssig=NfNIdG4hM6) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">陈陈陈陈陈梦想</span><img src=\"http://wx2.sinaimg.cn/middle/bd27f1a1ly1i6zhpmiylnj21hc0u00ta.jpg\" data-width=1080 data-height=1920></div></media-block><br>### 🤔 **三、各方解读与争议点**<br>| **视角**          | **核心观点**                                                                 |  <br>|-------------------|-----------------------------------------------------------------------------|  <br>| **生存策略论**    | 声明是权力暗斗中的“预防性自保”，通过舆论施压降低被害风险。 |  <br>| **心理防御机制**  | 公开将恐惧透明化，既震慑潜在威胁，亦构建自我心理保护。          |  <br>| **阴谋论质疑**    | 反复强调反显异常，或助长无根据猜测（如“犹太财团操控”“政府暗杀”）。 |  <br>| **荒诞性投射**    | 首富需声明“不会自杀”，折射美国顶层权力博弈的极端残酷性。    |<br><br>```wbCustomBlock{\"type\": \"quoted\", \"index\": 21, \"data\": {\"num\": [17, 20, 21, 25, 28, 31, 40, 43, 49], \"version\": 2, \"quote_list\": [{\"name\": \"闪闪发光的月芽儿\", \"scheme\": \"sinaweibo://detail?mblogid=5229050983091692\", \"index\": 17, \"label\": \"大v\"}, {\"name\": \"余丰慧\", \"scheme\": \"sinaweibo://detail?mblogid=5229159404012059\", \"index\": 20, \"label\": \"\"}, {\"name\": \"邵先生命理\", \"scheme\": \"sinaweibo://detail?mblogid=5229148041642478\", \"index\": 21, \"label\": \"\"}, {\"name\": \"西子丹聊斋\", \"scheme\": \"sinaweibo://detail?mblogid=5229065472574635\", \"index\": 25, \"label\": \"\"}, {\"name\": \"TheMoment852\", \"scheme\": \"sinaweibo://detail?mblogid=5229055920047464\", \"index\": 28, \"label\": \"\"}, {\"name\": \"天选顶流男主\", \"scheme\": \"sinaweibo://detail?mblogid=5229049561749529\", \"index\": 31, \"label\": \"\"}, {\"name\": \"盛世牛博\", \"scheme\": \"sinaweibo://detail?mblogid=5229029150166714\", \"index\": 40, \"label\": \"\"}, {\"name\": \"潜意识操控\", \"scheme\": \"sinaweibo://detail?mblogid=5229034994404981\", \"index\": 43, \"label\": \"\"}, {\"name\": \"-小星厨-\", \"scheme\": \"sinaweibo://detail?mblogid=5229032632488291\", \"index\": 49, \"label\": \"\"}], \"name\": \"闪闪发光的月芽儿\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/59385777ly8i47yiqfy2uj20u00u0tay.jpg?KID=imgbed,tva&Expires=1762223284&ssig=GPec4DuJ6b\", \"scheme\": \"sinaweibo://detail?mblogid=5229050983091692\", \"vType\": 0}}```<br>### ⚠️ **需理性看待的争议**<br>1. **阴谋论缺乏实证**：  <br>   - “犹太财团操控世界”“克林顿死亡名单”等说法无权威证据支撑；  <br>   - “国家元首级安保”“植入芯片防身”仅为网络猜测。```wbCustomBlock{\"type\": \"quoted\", \"index\": 26, \"data\": {\"num\": [40], \"version\": 2, \"quote_list\": [{\"name\": \"盛世牛博\", \"scheme\": \"sinaweibo://detail?mblogid=5229029150166714\", \"index\": 40, \"label\": \"\"}]}}```  <br>2. **政治立场弹性**：  <br>   - 马斯克对特朗普评价从“令人作呕”（2025年6月）转为“非完美但非恶魔”（2025年10月），反映利益导向的立场调整。```wbCustomBlock{\"type\": \"quoted\", \"index\": 28, \"data\": {\"num\": [26], \"version\": 2, \"quote_list\": [{\"name\": \"网路游侠\", \"scheme\": \"sinaweibo://detail?mblogid=5229061152444118\", \"index\": 26, \"label\": \"\"}]}}```  <br>3. **声明悖论效应**：  <br>   - 频繁表态可能加剧公众对“神秘死亡”的联想，形成自我强化循环。```wbCustomBlock{\"type\": \"quoted\", \"index\": 30, \"data\": {\"num\": [35], \"version\": 2, \"quote_list\": [{\"name\": \"胖虎堂\", \"scheme\": \"sinaweibo://detail?mblogid=4843338412589328\", \"index\": 35, \"label\": \"大v\"}], \"name\": \"胖虎堂\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.1125.1125.50/006IPnIFly8fwltfbadaij30v90v9404.jpg?KID=imgbed,tva&Expires=1762223284&ssig=FQGoDXknhs\", \"scheme\": \"sinaweibo://detail?mblogid=4843338412589328\", \"vType\": 0}}```<br>### 💎 **总结**  <br>马斯克的“永不自杀”宣言，本质是科技巨头在政治暗流中的特殊生存策略。其价值不在于验证阴谋论真伪，而在于揭示：**当个体影响力深度绑定国家命脉且挑战传统权力时，公开声明可能成为最后的防身武器**。然而，理性审视需压倒情绪化联想——真正的安全应建立在法治与透明度之上，而非预设“被自杀”的叙事框架。```wbCustomBlock{\"type\": \"quoted\", \"index\": 32, \"data\": {\"num\": [6, 20, 28], \"version\": 2, \"quote_list\": [{\"name\": \"余丰慧\", \"scheme\": \"sinaweibo://detail?mblogid=5229159404012059\", \"index\": 20, \"label\": \"大v\"}, {\"name\": \"陈陈陈陈陈梦想\", \"scheme\": \"sinaweibo://detail?mblogid=5229054682989227\", \"index\": 6, \"label\": \"\"}, {\"name\": \"TheMoment852\", \"scheme\": \"sinaweibo://detail?mblogid=5229055920047464\", \"index\": 28, \"label\": \"\"}], \"name\": \"余丰慧\", \"img\": \"https://tva4.sinaimg.cn/crop.0.0.1242.1242.50/45554c9ajw8f3rexuzxm9j20yi0yigpg.jpg?KID=imgbed,tva&Expires=1762223284&ssig=otg6F0TMUY\", \"scheme\": \"sinaweibo://detail?mblogid=5229159404012059\", \"vType\": 0}}```<br>",
+      "link_list": [
+        "sinaweibo://detail?mblogid=5228924449853842",
+        "sinaweibo://detail?mblogid=4843305039299235",
+        "sinaweibo://detail?mblogid=4971323038106477",
+        "sinaweibo://detail?mblogid=5229127315751169",
+        "sinaweibo://detail?mblogid=5229002216441296",
+        "sinaweibo://detail?mblogid=5229054682989227",
+        "sinaweibo://detail?mblogid=5228984294179609",
+        "sinaweibo://detail?mblogid=5229034335112648",
+        "sinaweibo://detail?mblogid=5229029064183017",
+        "sinaweibo://detail?mblogid=4844159133287560",
+        "https://baike.baidu.com/item/%E8%96%87%E8%96%87%E5%AE%89%C2%B7%E8%A9%B9%E5%A8%9C%C2%B7%E5%A8%81%E5%B0%94%E9%80%8A/61586031?fromtitle=%E6%B3%BD%E7%BB%B4%E5%B0%94%C2%B7%E4%BA%9A%E5%8E%86%E5%B1%B1%E5%A4%A7%C2%B7%E9%A9%AC%E6%96%AF%E5%85%8B&fromid=61551240",
+        "historyweibo://5228924449853842",
+        "historyweibo://5228544810551733",
+        "historyweibo://5174334424875478",
+        "sinaweibo://detail?mblogid=5229046946598229",
+        "sinaweibo://detail?mblogid=5229043827082600",
+        "sinaweibo://detail?mblogid=5229050983091692",
+        "sinaweibo://detail?mblogid=5229025112623622",
+        "sinaweibo://detail?mblogid=5228984034132050",
+        "sinaweibo://detail?mblogid=5229159404012059",
+        "sinaweibo://detail?mblogid=5229148041642478",
+        "sinaweibo://detail?mblogid=5229027015001407",
+        "sinaweibo://detail?mblogid=5229136786489412",
+        "sinaweibo://detail?mblogid=5229133061947446",
+        "sinaweibo://detail?mblogid=5229065472574635",
+        "sinaweibo://detail?mblogid=5229061152444118",
+        "sinaweibo://detail?mblogid=5229058297432700",
+        "sinaweibo://detail?mblogid=5229055920047464",
+        "sinaweibo://detail?mblogid=5229054208511192",
+        "sinaweibo://detail?mblogid=5229049800556547",
+        "sinaweibo://detail?mblogid=5229049561749529",
+        "sinaweibo://detail?mblogid=5229049318476908",
+        "sinaweibo://detail?mblogid=5229049115053875",
+        "sinaweibo://detail?mblogid=5229045008565661",
+        "sinaweibo://detail?mblogid=4843338412589328",
+        "sinaweibo://detail?mblogid=4843302727192253",
+        "sinaweibo://detail?mblogid=4843367383438394",
+        "sinaweibo://detail?mblogid=4843247665686250",
+        "sinaweibo://detail?mblogid=4843252539195955",
+        "sinaweibo://detail?mblogid=5229029150166714",
+        "sinaweibo://detail?mblogid=4843328379559210",
+        "sinaweibo://detail?mblogid=4843237619012989",
+        "sinaweibo://detail?mblogid=5229034994404981",
+        "sinaweibo://detail?mblogid=4843324689088578",
+        "sinaweibo://detail?mblogid=4843188928118890",
+        "sinaweibo://detail?mblogid=4843240833156972",
+        "sinaweibo://detail?mblogid=5228471257400386",
+        "sinaweibo://detail?mblogid=4843278824375348",
+        "sinaweibo://detail?mblogid=5229032632488291",
+        "sinaweibo://detail?mblogid=5229028185211671",
+        "sinaweibo://detail?mblogid=4843317303706213"
+      ],
+      "comment_info": {},
+      "status": 2,
+      "analysis_time": 1762212588,
+      "share_info": {
+        "status": 3,
+        "page_id": "2329648ad28daf345527db6e327ac3781b9257",
+        "unify_md5": "59082829664d1af3e7fd453b3b83d455",
+        "tips": "#马斯克称自己永远不会自杀#的相关内容，来智搜看看",
+        "display_name": "#马斯克称自己永远不会自杀#",
+        "comment_content": "",
+        "url": "http://t.cn/AXAOYYlR"
+      },
+      "unify_md5": "59082829664d1af3e7fd453b3b83d455",
+      "profile_image_url": "",
+      "page_id": "2329648ad28daf345527db6e327ac3781b9257",
+      "msg_json": "{}",
+      "q_attr": {
+        "reply_cid": "",
+        "from_request_id": "1762212482154",
+        "mid": "",
+        "comment_from_type": "",
+        "from_uid": "2527535357"
+      },
+      "share_card_multimodal": {
+        "cur_mid": "5228924449853842",
+        "user_name": "今日俄罗斯RT",
+        "img": "http://wx3.sinaimg.cn/middle/006OBvBvly1i6z1abr3buj30dc0nqjrs.jpg",
+        "user_avatar": "https://tvax4.sinaimg.cn/crop.0.0.600.600.50/006OBvBvly8i1krmv9iq6j30go0goglu.jpg?KID=imgbed,tva&Expires=1762223284&ssig=dpWKE7vWMk",
+        "h": 854,
+        "video_url": "https://video.weibo.com/show?fid=1034:5228911290679314",
+        "vtype": 3,
+        "type": "v",
+        "doc_score": 0,
+        "scheme": "sinaweibo://video/vvs?mid=5228924449853842&multi_paragraph=1&multi_count=0",
+        "hit_score_new": 0,
+        "click_rate": 0.26675641025641,
+        "click_num": 0,
+        "img_pid": "006OBvBvly1i6z1abr3buj30dc0nqjrs",
+        "w": 480,
+        "hit_score_final": 0
+      },
+      "mid_list": null,
+      "reference_num": 47,
+      "query_category": "",
+      "status_stage": 4,
+      "msg_format": "markdown",
+      "ab_suffix": "default",
+      "top_quote_list": {},
+      "short_url": "http://t.cn/AXANDbqh"
+    }
+  },
+  "links": [
+    "sinaweibo://detail?mblogid=5228924449853842",
+    "sinaweibo://detail?mblogid=4843305039299235",
+    "sinaweibo://detail?mblogid=4971323038106477",
+    "sinaweibo://detail?mblogid=5229127315751169",
+    "sinaweibo://detail?mblogid=5229002216441296",
+    "sinaweibo://detail?mblogid=5229054682989227",
+    "sinaweibo://detail?mblogid=5228984294179609",
+    "sinaweibo://detail?mblogid=5229034335112648",
+    "sinaweibo://detail?mblogid=5229029064183017",
+    "sinaweibo://detail?mblogid=4844159133287560",
+    "https://baike.baidu.com/item/%E8%96%87%E8%96%87%E5%AE%89%C2%B7%E8%A9%B9%E5%A8%9C%C2%B7%E5%A8%81%E5%B0%94%E9%80%8A/61586031?fromtitle=%E6%B3%BD%E7%BB%B4%E5%B0%94%C2%B7%E4%BA%9A%E5%8E%86%E5%B1%B1%E5%A4%A7%C2%B7%E9%A9%AC%E6%96%AF%E5%85%8B&fromid=61551240",
+    "historyweibo://5228924449853842",
+    "historyweibo://5228544810551733",
+    "historyweibo://5174334424875478",
+    "sinaweibo://detail?mblogid=5229046946598229",
+    "sinaweibo://detail?mblogid=5229043827082600",
+    "sinaweibo://detail?mblogid=5229050983091692",
+    "sinaweibo://detail?mblogid=5229025112623622",
+    "sinaweibo://detail?mblogid=5228984034132050",
+    "sinaweibo://detail?mblogid=5229159404012059",
+    "sinaweibo://detail?mblogid=5229148041642478",
+    "sinaweibo://detail?mblogid=5229027015001407",
+    "sinaweibo://detail?mblogid=5229136786489412",
+    "sinaweibo://detail?mblogid=5229133061947446",
+    "sinaweibo://detail?mblogid=5229065472574635",
+    "sinaweibo://detail?mblogid=5229061152444118",
+    "sinaweibo://detail?mblogid=5229058297432700",
+    "sinaweibo://detail?mblogid=5229055920047464",
+    "sinaweibo://detail?mblogid=5229054208511192",
+    "sinaweibo://detail?mblogid=5229049800556547",
+    "sinaweibo://detail?mblogid=5229049561749529",
+    "sinaweibo://detail?mblogid=5229049318476908",
+    "sinaweibo://detail?mblogid=5229049115053875",
+    "sinaweibo://detail?mblogid=5229045008565661",
+    "sinaweibo://detail?mblogid=4843338412589328",
+    "sinaweibo://detail?mblogid=4843302727192253",
+    "sinaweibo://detail?mblogid=4843367383438394",
+    "sinaweibo://detail?mblogid=4843247665686250",
+    "sinaweibo://detail?mblogid=4843252539195955",
+    "sinaweibo://detail?mblogid=5229029150166714",
+    "sinaweibo://detail?mblogid=4843328379559210",
+    "sinaweibo://detail?mblogid=4843237619012989",
+    "sinaweibo://detail?mblogid=5229034994404981",
+    "sinaweibo://detail?mblogid=4843324689088578",
+    "sinaweibo://detail?mblogid=4843188928118890",
+    "sinaweibo://detail?mblogid=4843240833156972",
+    "sinaweibo://detail?mblogid=5228471257400386",
+    "sinaweibo://detail?mblogid=4843278824375348",
+    "sinaweibo://detail?mblogid=5229032632488291",
+    "sinaweibo://detail?mblogid=5229028185211671",
+    "sinaweibo://detail?mblogid=4843317303706213"
+  ],
+  "media": [
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/006OBvBvly1i6z1abr3buj30dc0nqjrs.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/006OBvBvly1i6z1abr3buj30dc0nqjrs.jpg",
+      "alt": "今日俄罗斯RT",
+      "width": 854,
+      "height": 480,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/006OBvBvly1i6z1abr3buj30dc0nqjrs.jpg"
+      ],
+      "user": "今日俄罗斯RT"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/001WLsZ7ly1i6zbpk4x9tj60u01hcjta02.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/001WLsZ7ly1i6zbpk4x9tj60u01hcjta02.jpg",
+      "alt": "中国新闻网",
+      "width": 1920,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/001WLsZ7ly1i6zbpk4x9tj60u01hcjta02.jpg"
+      ],
+      "user": "中国新闻网"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/56a0b2edly1h8sv02z8moj20u01b1452.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/56a0b2edly1h8sv02z8moj20u01b1452.jpg",
+      "alt": "赵盛烨",
+      "width": 1693,
+      "height": 1080,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/56a0b2edly1h8sv02z8moj20u01b1452.jpg"
+      ],
+      "user": "赵盛烨"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/006dMd5bgy1h8sx9iske3j30hs0c2js3.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/006dMd5bgy1h8sx9iske3j30hs0c2js3.jpg",
+      "alt": "乙游君",
+      "width": 434,
+      "height": 640,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx4.sinaimg.cn/large/006dMd5bgy1h8sx9iske3j30hs0c2js3.jpg"
+      ],
+      "user": "乙游君"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/001Ngxkily1i6z9m6jcw8j61hc0u01c702.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/001Ngxkily1i6z9m6jcw8j61hc0u01c702.jpg",
+      "alt": "新京报",
+      "width": 1080,
+      "height": 1920,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/001Ngxkily1i6z9m6jcw8j61hc0u01c702.jpg"
+      ],
+      "user": "新京报"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/005JvqR1ly1h8supb8x23j61hc0u0gma02.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/005JvqR1ly1h8supb8x23j61hc0u0gma02.jpg",
+      "alt": "萝卜报告",
+      "width": 1080,
+      "height": 1920,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/005JvqR1ly1h8supb8x23j61hc0u0gma02.jpg"
+      ],
+      "user": "萝卜报告"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/008ehMd4gy1hk59llzjgmj31hc0u00yu.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/008ehMd4gy1hk59llzjgmj31hc0u00yu.jpg",
+      "alt": "思索深一度",
+      "width": 1080,
+      "height": 1920,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/008ehMd4gy1hk59llzjgmj31hc0u00yu.jpg"
+      ],
+      "user": "思索深一度"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/008iTVdfgy1i6zfdajwwmj30mh0u0gnd.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/008iTVdfgy1i6zfdajwwmj30mh0u0gnd.jpg",
+      "alt": "山中影娱客",
+      "width": 1080,
+      "height": 809,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/008iTVdfgy1i6zfdajwwmj30mh0u0gnd.jpg"
+      ],
+      "user": "山中影娱客"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/005Aulwngy1h8vl2mtauuj30mh0u0n03.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/005Aulwngy1h8vl2mtauuj30mh0u0n03.jpg",
+      "alt": "枪-和玫瑰",
+      "width": 1080,
+      "height": 809,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/005Aulwngy1h8vl2mtauuj30mh0u0n03.jpg"
+      ],
+      "user": "枪-和玫瑰"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/bd27f1a1ly1i6zhpmiylnj21hc0u00ta.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/bd27f1a1ly1i6zhpmiylnj21hc0u00ta.jpg",
+      "alt": "陈陈陈陈陈梦想",
+      "width": 1080,
+      "height": 1920,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/bd27f1a1ly1i6zhpmiylnj21hc0u00ta.jpg"
+      ],
+      "user": "陈陈陈陈陈梦想"
+    }
+  ],
+  "html_path": "data/aicard/hourly/2025-11-04/07/topic-59082829.html"
+}

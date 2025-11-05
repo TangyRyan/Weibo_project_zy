@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "query": "#习近平参观故宫博物院展览#",
+    "status_code": 200,
+    "fetched_at": "2025-10-28T17:49:42+08:00",
+    "response": {
+      "wenda": {
+        "forward_gen": 0
+      },
+      "model": "",
+      "analysis_time": 0,
+      "ext_show": {},
+      "abtest_info": {
+        "chat_entrance": 1
+      },
+      "status": 3,
+      "zs_risk_control": {
+        "may_be_ask_show": 0,
+        "think_text_close": 1,
+        "share": 1,
+        "ban_chat_enterance": 1,
+        "land_button_close": 1
+      },
+      "cot": 1,
+      "qs_status_info": "{\"qs_c_status\":0,\"ab_lab\":{},\"qs_u_status\":0,\"qs_status\":10,\"qs_r_status\":0,\"qs_q_status\":8218}",
+      "uid": "",
+      "loop_times": 200,
+      "share_info": {
+        "url": "http://t.cn/AXwFMGiP",
+        "display_name": "#习近平参观故宫博物院展览#",
+        "page_id": "",
+        "status": 1,
+        "unify_md5": "c9ce641ac184dcc6968dd29f72582a84",
+        "tips": "#习近平参观故宫博物院展览#的相关内容，来智搜看看"
+      },
+      "query": "#习近平参观故宫博物院展览#",
+      "ab_suffix": "default",
+      "msg": "抱歉，这个问题我暂时无法回答，换个问题试试吧",
+      "qs_status": 10
+    }
+  },
+  "links": [],
+  "media": [],
+  "html_path": "data/aicard/hourly/2025-10-28/16/topic-c9ce641a.html"
+}

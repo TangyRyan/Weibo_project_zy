@@ -1,0 +1,301 @@
+{
+  "meta": {
+    "query": "#张远一下班就去了孙燕姿演唱会#",
+    "status_code": 200,
+    "fetched_at": "2025-10-28T17:58:51+08:00",
+    "response": {
+      "ext_show": {},
+      "show_ctrl": {
+        "quote": {}
+      },
+      "msg_json": "{}",
+      "analysis_time": 1761626790,
+      "loop_times": 200,
+      "share_info": {
+        "unify_md5": "516e6ad24c2e615abee185af30bb347c",
+        "status": 3,
+        "url": "http://t.cn/AXwD96d8",
+        "tips": "#张远一下班就去了孙燕姿演唱会#的相关内容，来智搜看看",
+        "page_id": "232964117ac32f28e9e0d18a374eba9f3b67bd",
+        "display_name": "#张远一下班就去了孙燕姿演唱会#"
+      },
+      "zs_risk_control": {
+        "think_text_close": 0,
+        "land_button_close": 0
+      },
+      "basemodel": "实验组1",
+      "unify_md5": "516e6ad24c2e615abee185af30bb347c",
+      "mid_list": null,
+      "reference_num": 32,
+      "abtest_info": {
+        "chat_entrance": 1
+      },
+      "link_list": [
+        "sinaweibo://detail?mblogid=5226402859189182",
+        "sinaweibo://detail?mblogid=5226443634382140",
+        "sinaweibo://detail?mblogid=5226367902814135",
+        "sinaweibo://detail?mblogid=5111574703115741",
+        "sinaweibo://detail?mblogid=5226489563844446",
+        "sinaweibo://detail?mblogid=5226487072691612",
+        "sinaweibo://detail?mblogid=5106573571526233",
+        "http://video.sina.com.cn/p/finance/2025-10-27/detail-infvixhf4996982.d.html",
+        "https://baike.baidu.com/item/%E5%AD%99%E7%87%95%E5%A7%BF%E2%80%9C%E5%85%8B%E5%8D%9C%E5%8B%92%E2%80%9D%E4%B8%96%E7%95%8C%E5%B7%A1%E5%9B%9E%E6%BC%94%E5%94%B1%E4%BC%9A?fromModule=search-result_lemma",
+        "historyweibo://5226126357038698",
+        "historyweibo://5226402859189182",
+        "historyweibo://5225387313332806",
+        "sinaweibo://detail?mblogid=5226305870368500",
+        "sinaweibo://detail?mblogid=5226460065566476",
+        "sinaweibo://detail?mblogid=5226511653145594",
+        "sinaweibo://detail?mblogid=5226438940954512",
+        "sinaweibo://detail?mblogid=5226447372551886",
+        "sinaweibo://detail?mblogid=5226468458365140",
+        "sinaweibo://detail?mblogid=5226442258648957",
+        "sinaweibo://detail?mblogid=5226441855734704",
+        "sinaweibo://detail?mblogid=5226131927599641",
+        "sinaweibo://detail?mblogid=5226471815645372",
+        "sinaweibo://detail?mblogid=5226439020383704",
+        "sinaweibo://detail?mblogid=5226524951446410",
+        "sinaweibo://detail?mblogid=5226456661885208",
+        "sinaweibo://detail?mblogid=5226451269848040",
+        "sinaweibo://detail?mblogid=5226450192171568",
+        "sinaweibo://detail?mblogid=5226465864981622",
+        "sinaweibo://detail?mblogid=5226472956760623",
+        "sinaweibo://detail?mblogid=5226381433635662",
+        "sinaweibo://detail?mblogid=5226315538236115",
+        "sinaweibo://detail?mblogid=5226650157714759",
+        "sinaweibo://detail?mblogid=5226478481969623",
+        "sinaweibo://detail?mblogid=5226463990912784",
+        "sinaweibo://detail?mblogid=5226442372678907",
+        "sinaweibo://detail?mblogid=5226440937179019",
+        "sinaweibo://detail?mblogid=5226473315107319",
+        "https://kandian.sina.cn/article_2814059080_a7bb2248040019nso.html"
+      ],
+      "model": "deepseek",
+      "top_quote_list": {},
+      "cot": 1,
+      "share_card_multimodal": {
+        "scheme": "sinaweibo://multimedia?mix_mid=5226402859189182&mix_index=0&multi_paragraph=1&multi_count=0",
+        "img_pid": "0025IMDlly1i6r11c38uoj60k00zk0tn02",
+        "hit_score_new": 0,
+        "doc_score": 0,
+        "type": "v",
+        "vtype": 0,
+        "cur_mid": "5226402859189182",
+        "h": 1280,
+        "img": "http://wx4.sinaimg.cn/middle/0025IMDlly1i6r11c38uoj60k00zk0tn02.jpg",
+        "w": 720,
+        "user_avatar": "https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/0025IMDlly8i57lhzzkfbj60u00u0dhy02.jpg?KID=imgbed,tva&Expires=1761637499&ssig=TbAXae12bq",
+        "user_name": "Hey喜塔",
+        "video_url": "https://video.weibo.com/show?fid=1034:5226401482342446",
+        "click_rate": 0,
+        "hit_score_final": 0
+      },
+      "scheme": "sinaweibo://cardlist?containerid=100103type%3D225%26q%3D%23%E5%BC%A0%E8%BF%9C%E4%B8%80%E4%B8%8B%E7%8F%AD%E5%B0%B1%E5%8E%BB%E4%BA%86%E5%AD%99%E7%87%95%E5%A7%BF%E6%BC%94%E5%94%B1%E4%BC%9A%23%26t%3D&extparam=ai_model%3Ddeepseek%26ori_ai_title%3D%E5%8F%82%E8%80%83%E5%8D%9A%E6%96%87%26material_version%3D1761626699",
+      "qs_status": 0,
+      "msg_format": "markdown",
+      "query": "#张远一下班就去了孙燕姿演唱会#",
+      "wenda": {
+        "forward_gen": 0
+      },
+      "q_attr": {
+        "from_uid": "1229523232",
+        "from_request_id": "1761626697292"
+      },
+      "chat_status_stage": 1,
+      "news_analyze": {},
+      "sorted_material_list": null,
+      "status_stage": 4,
+      "query_category": "Gossip",
+      "card_multimodal": {
+        "type": "mediablock",
+        "data": [
+          {
+            "scheme": "sinaweibo://multimedia?mix_mid=5226402859189182&mix_index=0&multi_paragraph=1&multi_count=0",
+            "img_pid": "0025IMDlly1i6r11c38uoj60k00zk0tn02",
+            "hit_score_new": 0,
+            "doc_score": 0,
+            "type": "v",
+            "vtype": 0,
+            "cur_mid": "5226402859189182",
+            "h": 1280,
+            "img": "http://wx4.sinaimg.cn/middle/0025IMDlly1i6r11c38uoj60k00zk0tn02.jpg",
+            "w": 720,
+            "user_avatar": "https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/0025IMDlly8i57lhzzkfbj60u00u0dhy02.jpg?KID=imgbed,tva&Expires=1761637499&ssig=TbAXae12bq",
+            "user_name": "Hey喜塔",
+            "video_url": "https://video.weibo.com/show?fid=1034:5226401482342446",
+            "click_rate": 0,
+            "hit_score_final": 0
+          },
+          {
+            "scheme": "sinaweibo://video/vvs?mid=5226305870368500&multi_paragraph=1&multi_count=1",
+            "img_pid": "8842ff52ly1i6qq0xvo5nj20u01hcwgv",
+            "hit_score_new": 98.730469,
+            "doc_score": 5144,
+            "type": "v",
+            "vtype": 3,
+            "cur_mid": "5226305870368500",
+            "h": 1920,
+            "img": "http://wx4.sinaimg.cn/middle/8842ff52ly1i6qq0xvo5nj20u01hcwgv.jpg",
+            "w": 1080,
+            "user_avatar": "https://tvax2.sinaimg.cn/crop.0.0.1000.1000.50/8842ff52ly8heqfusvnwbj20rs0rsmxx.jpg?KID=imgbed,tva&Expires=1761637499&ssig=gBjKLU%2BgJB",
+            "user_name": "中国蓝新闻",
+            "video_url": "https://video.weibo.com/show?fid=1034:5226305596358729",
+            "click_rate": 0,
+            "hit_score_final": 91.238281
+          },
+          {
+            "scheme": "sinaweibo://video/vvs?mid=5226468458365140&multi_paragraph=2&multi_count=0",
+            "img_pid": "e43a8ba5gy1hyuke3rqf2j20k00qogp3",
+            "hit_score_new": 98.925781,
+            "doc_score": 4662,
+            "type": "v",
+            "vtype": 0,
+            "cur_mid": "5226468458365140",
+            "h": 960,
+            "img": "http://wx2.sinaimg.cn/middle/e43a8ba5gy1hyuke3rqf2j20k00qogp3.jpg",
+            "w": 720,
+            "user_avatar": "https://tvax4.sinaimg.cn/crop.0.0.1000.1000.50/e43a8ba5ly8i0779fkevkj20rs0rsgmr.jpg?KID=imgbed,tva&Expires=1761637499&ssig=%2FBhSDVKDOU",
+            "user_name": "请问你要来一份鼠鼠酱吗",
+            "video_url": "https://video.weibo.com/show?fid=1034:5137234186403872",
+            "click_rate": 0,
+            "hit_score_final": 88.955475
+          },
+          {
+            "scheme": "sinaweibo://multimedia?mix_mid=5226402859189182&mix_index=0&multi_paragraph=1&multi_count=0",
+            "img_pid": "0025IMDlly1i6r11c38uoj60k00zk0tn02",
+            "hit_score_new": 0,
+            "doc_score": 0,
+            "type": "v",
+            "vtype": 0,
+            "cur_mid": "5226402859189182",
+            "h": 1280,
+            "img": "http://wx4.sinaimg.cn/middle/0025IMDlly1i6r11c38uoj60k00zk0tn02.jpg",
+            "w": 720,
+            "user_avatar": "https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/0025IMDlly8i57lhzzkfbj60u00u0dhy02.jpg?KID=imgbed,tva&Expires=1761637499&ssig=TbAXae12bq",
+            "user_name": "Hey喜塔",
+            "video_url": "https://video.weibo.com/show?fid=1034:5226401482342446",
+            "click_rate": 0,
+            "hit_score_final": 0
+          }
+        ]
+      },
+      "query_field": "1",
+      "reliable_tips": "{\"gold_orange_v_mids\": [\"5226402859189182\", \"5226131927599641\", \"5226367902814135\", \"5106573571526233\", \"5226468458365140\", \"5226451269848040\", \"5111574703115741\", \"5226471815645372\", \"5226472956760623\", \"5226439020383704\", \"5226381433635662\", \"5226456661885208\", \"5226460065566476\", \"5226511653145594\", \"5226438940954512\", \"5226442258648957\", \"5226450192171568\"], \"gold_orange_v_ratio\": \"53%\", \"media_mids\": [\"5226305870368500\", \"5226478481969623\"], \"media_ratio\": \"6%\", \"verified_mids\": [\"5226440937179019\", \"5226443634382140\"], \"verified_ratio\": \"6%\", \"normal_mids\": [\"5226473315107319\", \"5226442372678907\", \"5226487072691612\", \"5226489563844446\", \"5226447372551886\", \"5226441855734704\", \"5226524951446410\", \"5226465864981622\", \"5226315538236115\", \"5226650157714759\", \"5226463990912784\"], \"normal_ratio\": \"35%\"}",
+      "short_url": "http://t.cn/AXwDot6e",
+      "page_id": "232964117ac32f28e9e0d18a374eba9f3b67bd",
+      "profile_image_url": "",
+      "msg": "<think><br><br>嗯，用户查询的是\"张远一下班就去了孙燕姿演唱会\"相关事件，看起来是想了解这个热点事件的具体情况。用户可能是张远或孙燕姿的粉丝，也可能是关注娱乐新闻的普通网友。<br><br>从搜索结果看，这个事件发生在2025年10月26日，算是比较新的娱乐新闻。我需要整理几个关键信息点：张远当天的行程安排、他追星的具体表现、与孙燕姿的音乐渊源，以及这场演唱会的特殊意义。<br><br>用户可能不仅想知道事件经过，还想了解背后的故事和情感联结。特别是张远作为专业歌手追星的特殊视角，以及孙燕姿这场演唱会的特殊意义。<br><br>搜索结果1、8、11、13、21都详细描述了张远当天的行程：他先在南京参加汽水音乐节演出，然后赶商务直播，结束工作后立刻跑去孙燕姿演唱会，虽然迟到一小时，但全程很投入。这个细节很打动人，说明他真是一个狂热粉丝。<br><br>搜索结果11、18、22提到张远多次在演唱会上翻唱孙燕姿的歌，比如《开始懂了》《咕叽咕叽》，这种专业歌手对偶像的致敬很有故事性。特别是10月26日这场，孙燕姿安可环节唱的就是《开始懂了》，对张远来说肯定特别有意义。<br><br>搜索结果10、12显示这场是孙燕姿内地巡演收官场，有很多亮点：首次安可返场、南京方言互动、唱了25年未唱的冷门曲目等。张远选择这场赶去，真是挑对时候了。<br><br>搜索结果35、23提到张远的\"高能量\"体质，一天赶三个工作还能精神饱满追星，这个点网友讨论很多。粉丝还调侃他是\"当代追星女写照\"。<br><br>搜索结果37、22有深度内容，关于张远如何从偶像身上获取力量，以及\"白\"巡回演唱会主题的寓意。这种精神层面的联结比单纯追星行为更有价值。<br><br>我会考虑把这些信息组织成事件经过、追星细节、音乐渊源、演唱会意义和公众反应五个部分。准备用标题分隔使结构清晰，重点突出张远作为专业粉丝的特殊性，以及这场双向奔赴的情感价值。结尾会提到孙燕姿明年巡演和张远跨年演唱会的消息，给粉丝期待感。<br><br></think><br>张远于2025年10月26日在南京完成高强度工作后，马不停蹄奔赴孙燕姿演唱会现场的行为，展现了艺人身份与粉丝情怀的双重共鸣。以下是事件核心脉络及深层意义：<br>### ⏰ **一、事件关键细节**<br>1. **高强度行程衔接**  <br>   张远当日完成南京“汽水音乐节”演出及商务直播后，未作休息直奔孙燕姿“就在日落以后巡回演唱会”南京收官场。尽管因工作错过开场1小时，他仍在观众席手持荧光棒沉浸式观演，随音乐摇摆的状态被形容为“当代追星女真实写照”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 4, \"data\": {\"num\": [1, 13, 21], \"version\": 2, \"quote_list\": [{\"name\": \"中国蓝新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5226305870368500\", \"index\": 13, \"label\": \"大v\"}, {\"name\": \"Hey喜塔\", \"scheme\": \"sinaweibo://detail?mblogid=5226402859189182\", \"index\": 1, \"label\": \"\"}, {\"name\": \"一级逃跑选手\", \"scheme\": \"sinaweibo://detail?mblogid=5226131927599641\", \"index\": 21, \"label\": \"\"}], \"name\": \"中国蓝新闻\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.1000.1000.50/8842ff52ly8heqfusvnwbj20rs0rsmxx.jpg?KID=imgbed,tva&Expires=1761637499&ssig=gBjKLU%2BgJB\", \"scheme\": \"sinaweibo://detail?mblogid=5226305870368500\", \"vType\": 3}}```  <br>   - **离场花絮**：他询问工作人员“荧光棒能否带走”，并获赠咖啡豆玩偶盲盒，次日需飞云南录制综艺，24小时内完成音乐节、直播、追星三项行程。```wbCustomBlock{\"type\": \"quoted\", \"index\": 5, \"data\": {\"num\": [21], \"version\": 2, \"quote_list\": [{\"name\": \"一级逃跑选手\", \"scheme\": \"sinaweibo://detail?mblogid=5226131927599641\", \"index\": 21, \"label\": \"大v\"}], \"name\": \"一级逃跑选手\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.480.480.50/67e4d6b1ly8i1t4r1aw9vj20dc0dct8u.jpg?KID=imgbed,tva&Expires=1761637499&ssig=u%2BRsYHt2gN\", \"scheme\": \"sinaweibo://detail?mblogid=5226131927599641\", \"vType\": 0}}```<br><br>2. **情感爆发式回应**  <br>   张远在社交平台激动发文：“我终于在今年收官前看到了偶像演唱会！白T燕姿出现的那一刻…她永远是我青春里最干净纯粹可爱率性的少女！”配图中紧握荧光棒打卡。```wbCustomBlock{\"type\": \"quoted\", \"index\": 6, \"data\": {\"num\": [1, 13], \"version\": 2, \"quote_list\": [{\"name\": \"Hey喜塔\", \"scheme\": \"sinaweibo://detail?mblogid=5226402859189182\", \"index\": 1, \"label\": \"大v\"}, {\"name\": \"中国蓝新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5226305870368500\", \"index\": 13, \"label\": \"\"}], \"name\": \"Hey喜塔\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/0025IMDlly8i57lhzzkfbj60u00u0dhy02.jpg?KID=imgbed,tva&Expires=1761637499&ssig=TbAXae12bq\", \"scheme\": \"sinaweibo://detail?mblogid=5226402859189182\", \"vType\": 0}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://multimedia?mix_mid=5226402859189182&mix_index=0&multi_paragraph=1&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/0025IMDlly8i57lhzzkfbj60u00u0dhy02.jpg?KID=imgbed,tva&Expires=1761637499&ssig=TbAXae12bq) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">Hey喜塔</span><img src=\"http://wx4.sinaimg.cn/middle/0025IMDlly1i6r11c38uoj60k00zk0tn02.jpg\" data-width=1280 data-height=720></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5226305870368500&multi_paragraph=1&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.1000.1000.50/8842ff52ly8heqfusvnwbj20rs0rsmxx.jpg?KID=imgbed,tva&Expires=1761637499&ssig=gBjKLU%2BgJB) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">中国蓝新闻</span><img src=\"http://wx4.sinaimg.cn/middle/8842ff52ly1i6qq0xvo5nj20u01hcwgv.jpg\" data-width=1920 data-height=1080></div></media-block><br>### 🎵 **二、张远与孙燕姿的音乐联结**<br>1. **长期偶像情结**  <br>   - 作为孙燕姿多年歌迷，张远曾在个人巡演中多次致敬：新加坡站翻唱《开始懂了》，北京站演绎《咕叽咕叽》，均融入个人风格编曲。```wbCustomBlock{\"type\": \"quoted\", \"index\": 10, \"data\": {\"num\": [1, 3, 7, 18, 26], \"version\": 2, \"quote_list\": [{\"name\": \"恰了这碗细糠\", \"scheme\": \"sinaweibo://detail?mblogid=5226367902814135\", \"index\": 3, \"label\": \"大v\"}, {\"name\": \"Hey喜塔\", \"scheme\": \"sinaweibo://detail?mblogid=5226402859189182\", \"index\": 1, \"label\": \"\"}, {\"name\": \"南岸柚屿\", \"scheme\": \"sinaweibo://detail?mblogid=5106573571526233\", \"index\": 7, \"label\": \"\"}, {\"name\": \"请问你要来一份鼠鼠酱吗\", \"scheme\": \"sinaweibo://detail?mblogid=5226468458365140\", \"index\": 18, \"label\": \"\"}, {\"name\": \"Birdy说一研为定_\", \"scheme\": \"sinaweibo://detail?mblogid=5226451269848040\", \"index\": 26, \"label\": \"\"}], \"name\": \"恰了这碗细糠\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.512.512.50/006r1T0Lly8i098rcwz8hj30e80e83za.jpg?KID=imgbed,tva&Expires=1761637499&ssig=rEzP9r5zTl\", \"scheme\": \"sinaweibo://detail?mblogid=5226367902814135\", \"vType\": 0}}```  <br>   - 厦门演唱会表演《开始懂了》时，引发全场合唱，被观众称为“青春BGM的接力”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 11, \"data\": {\"num\": [4, 7, 22], \"version\": 2, \"quote_list\": [{\"name\": \"鹿野子-\", \"scheme\": \"sinaweibo://detail?mblogid=5111574703115741\", \"index\": 4, \"label\": \"大v\"}, {\"name\": \"南岸柚屿\", \"scheme\": \"sinaweibo://detail?mblogid=5106573571526233\", \"index\": 7, \"label\": \"\"}, {\"name\": \"大小樱\", \"scheme\": \"sinaweibo://detail?mblogid=5226471815645372\", \"index\": 22, \"label\": \"\"}], \"name\": \"鹿野子-\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/005wHSsPly8gpravfm5r5j30u00u0wgb.jpg?KID=imgbed,tva&Expires=1761637499&ssig=OmhWskkMBG\", \"scheme\": \"sinaweibo://detail?mblogid=5111574703115741\", \"vType\": 0}}```<br><br>2. **双向艺术共鸣**  <br>   此次南京场恰逢孙燕姿安可环节演唱《开始懂了》——张远最常翻唱的曲目。此举被解读为“跨越身份的追星奔赴”，粉丝称其体现“优秀歌手间的情感共振”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 12, \"data\": {\"num\": [18, 22, 29], \"version\": 2, \"quote_list\": [{\"name\": \"请问你要来一份鼠鼠酱吗\", \"scheme\": \"sinaweibo://detail?mblogid=5226468458365140\", \"index\": 18, \"label\": \"大v\"}, {\"name\": \"大小樱\", \"scheme\": \"sinaweibo://detail?mblogid=5226471815645372\", \"index\": 22, \"label\": \"\"}, {\"name\": \"快快快快198110\", \"scheme\": \"sinaweibo://detail?mblogid=5226472956760623\", \"index\": 29, \"label\": \"\"}], \"name\": \"请问你要来一份鼠鼠酱吗\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.1000.1000.50/e43a8ba5ly8i0779fkevkj20rs0rsgmr.jpg?KID=imgbed,tva&Expires=1761637499&ssig=%2FBhSDVKDOU\", \"scheme\": \"sinaweibo://detail?mblogid=5226468458365140\", \"vType\": 0}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5226468458365140&multi_paragraph=2&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.1000.1000.50/e43a8ba5ly8i0779fkevkj20rs0rsgmr.jpg?KID=imgbed,tva&Expires=1761637499&ssig=%2FBhSDVKDOU) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">请问你要来一份鼠鼠酱吗</span><img src=\"http://wx2.sinaimg.cn/middle/e43a8ba5gy1hyuke3rqf2j20k00qogp3.jpg\" data-width=960 data-height=720></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5226471815645372&multi_paragraph=2&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/6f67b9d0ly8i2fwg2t1alj20u00u0diw.jpg?KID=imgbed,tva&Expires=1761637499&ssig=76COVLBhOx) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">大小樱</span><img src=\"http://wx3.sinaimg.cn/middle/6f67b9d0gy1i6r90lzwntj20mh0u0wia.jpg\" data-width=1080 data-height=809></div></media-block><br>### 🌟 **三、南京演唱会的特殊意义**<br>1. **内地收官场历史性时刻**  <br>   - **破纪录安可**：观众高呼10分钟后，孙燕姿返场演唱《开始懂了》，临时将散场曲改为《接下来》呼应“明年见”承诺。  <br>   - **冷门曲重启**：演唱25年未公开的《坏天气》，激活跨代际集体记忆。  <br>   - **票房神话**：南京站创女歌手单场票房纪录，累计想看人数超1048万。<br><br>2. **张远现身的场景共鸣**  <br>   其行为与演唱会“日落后的情感联结”主题深度契合。观众感慨：“纸质票变二维码，Walkman变手机，但每首歌前奏一响仍能脱口唱出，爱是肌肉记忆”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 19, \"data\": {\"num\": [22, 37], \"version\": 2, \"quote_list\": [{\"name\": \"大小樱\", \"scheme\": \"sinaweibo://detail?mblogid=5226471815645372\", \"index\": 22, \"label\": \"大v\"}, {\"name\": \"趁着黄昏大步流星Y\", \"scheme\": \"sinaweibo://detail?mblogid=5226473315107319\", \"index\": 37, \"label\": \"\"}], \"name\": \"大小樱\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/6f67b9d0ly8i2fwg2t1alj20u00u0diw.jpg?KID=imgbed,tva&Expires=1761637499&ssig=76COVLBhOx\", \"scheme\": \"sinaweibo://detail?mblogid=5226471815645372\", \"vType\": 0}}```<br>### 💬 **四、公众反响与现象讨论**<br>1. **追星的平等性**  <br>   网友指出张远“下班赶场”的行为证明“追星无阶层之分”：他询问工作人员细节、注意台阶提示等，与普通粉丝体验完全一致。粉丝晒出相似经历：“我也常下班直奔张远演唱会，幸福感应相通”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 22, \"data\": {\"num\": [23, 30, 36], \"version\": 2, \"quote_list\": [{\"name\": \"小鸟团团转\", \"scheme\": \"sinaweibo://detail?mblogid=5226439020383704\", \"index\": 23, \"label\": \"\"}, {\"name\": \"请问你要来一份鼠鼠酱吗\", \"scheme\": \"sinaweibo://detail?mblogid=5226381433635662\", \"index\": 30, \"label\": \"\"}, {\"name\": \"光弘文艺\", \"scheme\": \"sinaweibo://detail?mblogid=5226440937179019\", \"index\": 36, \"label\": \"\"}]}}```<br><br>2. **高能量体质引热议**  <br>   #高能量张远#话题下，粉丝惊叹其“体力堪比特种兵”，并期待他将同等精力投入12月31日广州大学城体育场跨年演唱会。```wbCustomBlock{\"type\": \"quoted\", \"index\": 23, \"data\": {\"num\": [25, 35], \"version\": 2, \"quote_list\": [{\"name\": \"少年弹一曲什么歌\", \"scheme\": \"sinaweibo://detail?mblogid=5226456661885208\", \"index\": 25, \"label\": \"大v\"}, {\"name\": \"吹皱岂止一池春水\", \"scheme\": \"sinaweibo://detail?mblogid=5226442372678907\", \"index\": 35, \"label\": \"\"}], \"name\": \"少年弹一曲什么歌\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/008bLpwwly8hwadmmabxxj30u00u0q5z.jpg?KID=imgbed,tva&Expires=1761637499&ssig=EfSh2CTSA9\", \"scheme\": \"sinaweibo://detail?mblogid=5226456661885208\", \"vType\": 0}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5226381433635662&multi_paragraph=4&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.1000.1000.50/e43a8ba5ly8i0779fkevkj20rs0rsgmr.jpg?KID=imgbed,tva&Expires=1761637499&ssig=%2FBhSDVKDOU) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">请问你要来一份鼠鼠酱吗</span><img src=\"http://wx2.sinaimg.cn/middle/e43a8ba5ly1i6qypwecrgj20k00zkju2.jpg\" data-width=1280 data-height=720></div></media-block><br>### 💎 **情感联结的三重维度**<br>1. **艺术传承**：专业歌手对前辈的致敬，体现音乐跨越代际的力量；  <br>2. **纯粹热爱**：无论明星或素人，奔赴偶像时的急切与幸福感本质相通；  <br>3. **城市记忆**：南京场方言互动、公益行动（歌迷捐赠脊髓性肌萎缩症儿童设备）与张远的现身，共同构成巡演收官的情感注脚。```wbCustomBlock{\"type\": \"quoted\", \"index\": 28, \"data\": {\"num\": [22], \"version\": 2, \"quote_list\": [{\"name\": \"大小樱\", \"scheme\": \"sinaweibo://detail?mblogid=5226471815645372\", \"index\": 22, \"label\": \"\"}]}}```<br><br>> **下一站期待**：孙燕姿已官宣2026年新增巡演城市（广州、上海呼声最高），而张远粉丝正催其“速官宣跨年场次”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 29, \"data\": {\"num\": [6, 35], \"version\": 2, \"quote_list\": [{\"name\": \"宫规森严不可信口雌黄女士\", \"scheme\": \"sinaweibo://detail?mblogid=5226487072691612\", \"index\": 6, \"label\": \"\"}, {\"name\": \"吹皱岂止一池春水\", \"scheme\": \"sinaweibo://detail?mblogid=5226442372678907\", \"index\": 35, \"label\": \"\"}]}}```<br>",
+      "current_time": 1761645531,
+      "version": "2025-10-28 12:44:59.013000-3138",
+      "user_info": {},
+      "status": 2,
+      "ab_suffix": "default",
+      "share_text": "#张远一下班就去了孙燕姿演唱会#的相关内容，来智搜看看",
+      "uid": "",
+      "qs_status_info": "{\"ab_lab\":{},\"qs_q_status\":0,\"qs_c_status\":8388608,\"qs_r_status\":0,\"qs_u_status\":0,\"qs_status\":0}"
+    }
+  },
+  "links": [
+    "sinaweibo://detail?mblogid=5226402859189182",
+    "sinaweibo://detail?mblogid=5226443634382140",
+    "sinaweibo://detail?mblogid=5226367902814135",
+    "sinaweibo://detail?mblogid=5111574703115741",
+    "sinaweibo://detail?mblogid=5226489563844446",
+    "sinaweibo://detail?mblogid=5226487072691612",
+    "sinaweibo://detail?mblogid=5106573571526233",
+    "http://video.sina.com.cn/p/finance/2025-10-27/detail-infvixhf4996982.d.html",
+    "https://baike.baidu.com/item/%E5%AD%99%E7%87%95%E5%A7%BF%E2%80%9C%E5%85%8B%E5%8D%9C%E5%8B%92%E2%80%9D%E4%B8%96%E7%95%8C%E5%B7%A1%E5%9B%9E%E6%BC%94%E5%94%B1%E4%BC%9A?fromModule=search-result_lemma",
+    "historyweibo://5226126357038698",
+    "historyweibo://5226402859189182",
+    "historyweibo://5225387313332806",
+    "sinaweibo://detail?mblogid=5226305870368500",
+    "sinaweibo://detail?mblogid=5226460065566476",
+    "sinaweibo://detail?mblogid=5226511653145594",
+    "sinaweibo://detail?mblogid=5226438940954512",
+    "sinaweibo://detail?mblogid=5226447372551886",
+    "sinaweibo://detail?mblogid=5226468458365140",
+    "sinaweibo://detail?mblogid=5226442258648957",
+    "sinaweibo://detail?mblogid=5226441855734704",
+    "sinaweibo://detail?mblogid=5226131927599641",
+    "sinaweibo://detail?mblogid=5226471815645372",
+    "sinaweibo://detail?mblogid=5226439020383704",
+    "sinaweibo://detail?mblogid=5226524951446410",
+    "sinaweibo://detail?mblogid=5226456661885208",
+    "sinaweibo://detail?mblogid=5226451269848040",
+    "sinaweibo://detail?mblogid=5226450192171568",
+    "sinaweibo://detail?mblogid=5226465864981622",
+    "sinaweibo://detail?mblogid=5226472956760623",
+    "sinaweibo://detail?mblogid=5226381433635662",
+    "sinaweibo://detail?mblogid=5226315538236115",
+    "sinaweibo://detail?mblogid=5226650157714759",
+    "sinaweibo://detail?mblogid=5226478481969623",
+    "sinaweibo://detail?mblogid=5226463990912784",
+    "sinaweibo://detail?mblogid=5226442372678907",
+    "sinaweibo://detail?mblogid=5226440937179019",
+    "sinaweibo://detail?mblogid=5226473315107319",
+    "https://kandian.sina.cn/article_2814059080_a7bb2248040019nso.html"
+  ],
+  "media": [
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/0025IMDlly1i6r11c38uoj60k00zk0tn02.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/0025IMDlly1i6r11c38uoj60k00zk0tn02.jpg",
+      "alt": "Hey喜塔",
+      "width": 1280,
+      "height": 720,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/0025IMDlly1i6r11c38uoj60k00zk0tn02.jpg"
+      ],
+      "user": "Hey喜塔"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/8842ff52ly1i6qq0xvo5nj20u01hcwgv.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/8842ff52ly1i6qq0xvo5nj20u01hcwgv.jpg",
+      "alt": "中国蓝新闻",
+      "width": 1920,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/8842ff52ly1i6qq0xvo5nj20u01hcwgv.jpg"
+      ],
+      "user": "中国蓝新闻"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/e43a8ba5gy1hyuke3rqf2j20k00qogp3.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/e43a8ba5gy1hyuke3rqf2j20k00qogp3.jpg",
+      "alt": "请问你要来一份鼠鼠酱吗",
+      "width": 960,
+      "height": 720,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/e43a8ba5gy1hyuke3rqf2j20k00qogp3.jpg"
+      ],
+      "user": "请问你要来一份鼠鼠酱吗"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/6f67b9d0gy1i6r90lzwntj20mh0u0wia.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/6f67b9d0gy1i6r90lzwntj20mh0u0wia.jpg",
+      "alt": "大小樱",
+      "width": 1080,
+      "height": 809,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/6f67b9d0gy1i6r90lzwntj20mh0u0wia.jpg"
+      ],
+      "user": "大小樱"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/e43a8ba5ly1i6qypwecrgj20k00zkju2.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/e43a8ba5ly1i6qypwecrgj20k00zkju2.jpg",
+      "alt": "请问你要来一份鼠鼠酱吗",
+      "width": 1280,
+      "height": 720,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/e43a8ba5ly1i6qypwecrgj20k00zkju2.jpg"
+      ],
+      "user": "请问你要来一份鼠鼠酱吗"
+    }
+  ],
+  "html_path": "data/aicard/hourly/2025-10-27/20/topic-516e6ad2.html"
+}

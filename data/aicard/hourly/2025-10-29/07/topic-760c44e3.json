@@ -1,0 +1,295 @@
+{
+  "meta": {
+    "query": "#王者虐待五旬老人#",
+    "status_code": 200,
+    "fetched_at": "2025-10-29T07:29:16+08:00",
+    "response": {
+      "status": 2,
+      "model": "deepseek",
+      "query": "#王者虐待五旬老人#",
+      "query_field": "1",
+      "sorted_material_list": null,
+      "reference_num": 26,
+      "status_stage": 4,
+      "link_list": [
+        "sinaweibo://detail?mblogid=5226378289220930",
+        "sinaweibo://detail?mblogid=5226488448423325",
+        "sinaweibo://detail?mblogid=5226363432997654",
+        "sinaweibo://detail?mblogid=5226477205592278",
+        "sinaweibo://detail?mblogid=5215177655978414",
+        "sinaweibo://detail?mblogid=5226307420948243",
+        "ctr://",
+        "historyweibo://5226363432997654",
+        "historyweibo://5201735297794535",
+        "sinaweibo://detail?mblogid=5226817193249903",
+        "sinaweibo://detail?mblogid=5226837908917072",
+        "sinaweibo://detail?mblogid=5226790642783787",
+        "sinaweibo://detail?mblogid=5226485624342132",
+        "sinaweibo://detail?mblogid=5226478595735611",
+        "sinaweibo://detail?mblogid=5226977640580380",
+        "sinaweibo://detail?mblogid=5226972013920375",
+        "sinaweibo://detail?mblogid=5226971521090555",
+        "sinaweibo://detail?mblogid=5226964833010393",
+        "sinaweibo://detail?mblogid=5226791716261214",
+        "sinaweibo://detail?mblogid=5226790972819807",
+        "sinaweibo://detail?mblogid=5202623638275363",
+        "sinaweibo://detail?mblogid=5226442415671843",
+        "sinaweibo://detail?mblogid=5226935424647820",
+        "sinaweibo://detail?mblogid=5226364119814292",
+        "sinaweibo://detail?mblogid=5226083364635504",
+        "sinaweibo://detail?mblogid=5183690506507508",
+        "sinaweibo://detail?mblogid=5182615297725761",
+        "sinaweibo://detail?mblogid=5164487520551476",
+        "sinaweibo://detail?mblogid=5094411262234051"
+      ],
+      "current_time": 1761694157,
+      "top_quote_list": {},
+      "reliable_tips": "{\"gold_orange_v_mids\": [\"5226378289220930\", \"5226307420948243\", \"5226478595735611\", \"5226363432997654\", \"5226477205592278\", \"5226485624342132\", \"5226977640580380\", \"5226488448423325\", \"5226964833010393\", \"5215177655978414\", \"5202623638275363\", \"5226837908917072\", \"5226790642783787\", \"5226971521090555\", \"5226791716261214\", \"5226442415671843\", \"5226083364635504\", \"5183690506507508\", \"5182615297725761\", \"5164487520551476\", \"5094411262234051\"], \"gold_orange_v_ratio\": \"81%\", \"media_mids\": [], \"media_ratio\": \"0%\", \"verified_mids\": [\"5226817193249903\", \"5226364119814292\", \"5226972013920375\", \"5226790972819807\", \"5226935424647820\"], \"verified_ratio\": \"19%\", \"normal_mids\": [], \"normal_ratio\": \"0%\", \"ref_mid_rank\": {\"5226378289220930\": {\"rank\": 1}, \"5226307420948243\": {\"rank\": 6}, \"5226817193249903\": {\"rank\": 10}, \"5226478595735611\": {\"rank\": 14}, \"5226363432997654\": {\"rank\": 3}, \"5226477205592278\": {\"rank\": 4}, \"5226485624342132\": {\"rank\": 13}, \"5226977640580380\": {\"rank\": 15}, \"5226488448423325\": {\"rank\": 2}, \"5226364119814292\": {\"rank\": 24}, \"5226964833010393\": {\"rank\": 18}, \"5215177655978414\": {\"rank\": 5}, \"5202623638275363\": {\"rank\": 21}, \"5226837908917072\": {\"rank\": 11}, \"5226790642783787\": {\"rank\": 12}, \"5226972013920375\": {\"rank\": 16}, \"5226971521090555\": {\"rank\": 17}, \"5226791716261214\": {\"rank\": 19}, \"5226790972819807\": {\"rank\": 20}, \"5226442415671843\": {\"rank\": 22}, \"5226935424647820\": {\"rank\": 23}, \"5226083364635504\": {\"rank\": 25}, \"5183690506507508\": {\"rank\": 26}, \"5182615297725761\": {\"rank\": 27}, \"5164487520551476\": {\"rank\": 28}, \"5094411262234051\": {\"rank\": 29}}}",
+      "q_attr": {
+        "from_request_id": "",
+        "from_uid": ""
+      },
+      "share_card_multimodal": {
+        "scheme": "sinaweibo://multimedia?mix_mid=5226378289220930&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=1&multi_count=0",
+        "user_name": "请你吃垃圾",
+        "type": "p",
+        "hit_score_final": 0,
+        "video_url": "",
+        "click_rate": 0.59537755613916,
+        "hit_score_new": 0,
+        "doc_score": 0,
+        "img_pid": "69fbda6cgy1i6qyce9toqj20wr095abj",
+        "img": "http://wx4.sinaimg.cn/middle/69fbda6cgy1i6qyce9toqj20wr095abj.jpg",
+        "h": 329,
+        "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/69fbda6cly8gqju8wqdojj20u00u0taf.jpg?KID=imgbed,tva&Expires=1761704217&ssig=yHLqQxlvCV",
+        "w": 1179,
+        "vtype": 0,
+        "cur_mid": "5226378289220930"
+      },
+      "basemodel": "实验组9",
+      "msg_json": "{}",
+      "analysis_time": 1761693578,
+      "uid": "",
+      "ab_suffix": "default",
+      "show_ctrl": {
+        "quote": {}
+      },
+      "abtest_info": {
+        "chat_entrance": 1
+      },
+      "qs_status_info": "{\"qs_u_status\":0,\"ab_lab\":{},\"qs_status\":0,\"qs_q_status\":0,\"qs_c_status\":8388608,\"qs_r_status\":0}",
+      "share_text": "#王者虐待五旬老人#的相关内容，来智搜看看",
+      "loop_times": 200,
+      "share_info": {
+        "unify_md5": "760c44e30a267f31f9d2968b47c52aa6",
+        "url": "http://t.cn/AXAhSWUf",
+        "status": 3,
+        "tips": "#王者虐待五旬老人#的相关内容，来智搜看看",
+        "page_id": "2329643437d85cb73a6324a5bb45136a73942a",
+        "display_name": "#王者虐待五旬老人#"
+      },
+      "ext_show": {},
+      "msg": "<think><br><br>嗯，用户查询的是\"王者虐待五旬老人\"，从搜索结果来看，这其实是近期的一个网络热梗。我需要仔细梳理这些信息点。<br><br>用户可能是在社交媒体上看到相关讨论，想了解事件全貌。考虑到这个话题的娱乐属性，用户或许带着好奇或调侃的心态提问。<br><br>搜索结果很丰富，主要集中在微博和资料类信息。最核心的是结果1、6、7、8、10等，它们详细描述了事件经过：2025年10月27日王者荣耀十周年活动上，主持人何炅把游戏术语\"T0区\"念成了\"to区\"。这个口误被网友善意调侃成\"不要虐待五旬老人\"。<br><br>特别值得注意的是资料类结果7和8，它们提供了深度解析。原来何炅是误以为其他主持人口误，主动\"纠正\"为to区，这种专业救场反而制造了喜剧效果。网友的\"虐待老人\"说法其实是对他敬业精神的另类赞美——毕竟51岁的何炅为主持游戏活动做了充分准备。<br><br>时间线上，这个梗最早出现在10月27日活动当晚，两天内衍生出大量二创内容。有趣的是，8月份《密室大逃脱》里何炅就因照顾新人说过类似的话，说明\"五旬老人\"已成为他特有的综艺人设。<br><br>需要区分的是结果5关于美国案件的报道，明显是关键词误匹配，和主题完全无关。其他如结果23的玩家抱怨、结果26的沈腾梗也都是不同语境下的\"虐待老人\"表述，与本事件无关。<br><br>用户可能还想知道舆论反应。从结果看，网友主要分三类：一是玩梗派制作表情包呼吁\"给提词器加拼音\"；二是敬佩派称赞何炅的控场能力；三是共鸣派讨论年龄与新兴文化的碰撞。整体氛围非常友善。<br><br>最后要强调事件的温暖内核。结果8那段总结很到位：网友用\"虐待\"梗实际是在进行情感代偿。何炅从业二十多年帮无数人救场，这次轮到大家用幽默守护他——毕竟能坦然接受被调侃的前辈，本身就值得温柔相待。<br><br></think><br>以下是关于“王者虐待五旬老人”事件的完整解析，综合信息要点如下：<br>### 🔥 **事件核心：何炅口误引发的全网玩梗**<br>1. **名场面起因**  <br>   2025年10月27日《王者荣耀十周年共创之夜》活动中，主持人何炅（51岁）在解说环节听到游戏术语“T0区”（顶级英雄梯队）时，误以为同事口误，主动纠正为“to区”并流畅衔接流程。其专业救场姿态与认知误差形成强烈反差，片段被网友截取传播。```wbCustomBlock{\"type\": \"quoted\", \"index\": 4, \"data\": {\"num\": [1, 6, 10, 14], \"version\": 2, \"quote_list\": [{\"name\": \"王者荣耀游戏攻略\", \"scheme\": \"sinaweibo://detail?mblogid=5226817193249903\", \"index\": 10, \"label\": \"大v\"}, {\"name\": \"请你吃垃圾\", \"scheme\": \"sinaweibo://detail?mblogid=5226378289220930\", \"index\": 1, \"label\": \"\"}, {\"name\": \"电视剧透社\", \"scheme\": \"sinaweibo://detail?mblogid=5226307420948243\", \"index\": 6, \"label\": \"\"}, {\"name\": \"JR体角日记\", \"scheme\": \"sinaweibo://detail?mblogid=5226478595735611\", \"index\": 14, \"label\": \"\"}], \"name\": \"王者荣耀游戏攻略\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.512.512.50/006xD7jtly8hwq0wx1qdkj30e80e8t90.jpg?KID=imgbed,tva&Expires=1761704217&ssig=cwh74VExc8\", \"scheme\": \"sinaweibo://detail?mblogid=5226817193249903\", \"vType\": 0}}```  <br><br>2. **“游戏黑洞”历史被挖**  <br>   网友翻出何炅早年解说游戏的经典“抽象发言”：曾将战斗场景描述为“一坨绿色的东西在蠕动”“蓝色的过来打红色的”，此次“to区”事件与其“游戏绝缘体”人设一脉相承。```wbCustomBlock{\"type\": \"quoted\", \"index\": 5, \"data\": {\"num\": [14], \"version\": 2, \"quote_list\": [{\"name\": \"JR体角日记\", \"scheme\": \"sinaweibo://detail?mblogid=5226478595735611\", \"index\": 14, \"label\": \"\"}]}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5226378289220930&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=1&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/69fbda6cly8gqju8wqdojj20u00u0taf.jpg?KID=imgbed,tva&Expires=1761704217&ssig=yHLqQxlvCV) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">请你吃垃圾</span><img src=\"http://wx4.sinaimg.cn/middle/69fbda6cgy1i6qyce9toqj20wr095abj.jpg\" data-width=329 data-height=1179></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5226307420948243&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=1&multi_count=1\"><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.983.983.50/a93e75acly8h8ve9lm9orj20rb0rb404.jpg?KID=imgbed,tva&Expires=1761704217&ssig=z3Gjr8fvEW) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">电视剧透社</span><img src=\"http://wx1.sinaimg.cn/middle/a93e75acly1i6qq4gpwlgj20u013wdhx.jpg\" data-width=1436 data-height=1080></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5226478595735611&multi_paragraph=1&multi_count=2\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/007Jn7WOly8gsi5lw8wkmj30u00u0wgn.jpg?KID=imgbed,tva&Expires=1761704217&ssig=6HnVoXFEW%2F) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">JR体角日记</span><img src=\"http://wx4.sinaimg.cn/middle/007Jn7WOly1i6r9v9ieqyj30u01hcmza.jpg\" data-width=1920 data-height=1080></div></media-block><br>### 😂 **公众反应：善意调侃背后的三重情感**<br>1. **“五旬老人”的集体玩梗**  <br>   网友以“不要虐待五旬老人”为主题制作表情包，配文“TO区受害者”“给提词器加拼音吧”，甚至建议游戏分区改名谐音“兔区”。相关话题如#王者虐待五旬老人#、#何炅把T0念成TO# 登顶热搜。```wbCustomBlock{\"type\": \"quoted\", \"index\": 8, \"data\": {\"num\": [3, 4, 10, 13, 15], \"version\": 2, \"quote_list\": [{\"name\": \"科技怪咖\", \"scheme\": \"sinaweibo://detail?mblogid=5226977640580380\", \"index\": 15, \"label\": \"大v\"}, {\"name\": \"鱿鱿游意思\", \"scheme\": \"sinaweibo://detail?mblogid=5226363432997654\", \"index\": 3, \"label\": \"\"}, {\"name\": \"小猴不练弹跳\", \"scheme\": \"sinaweibo://detail?mblogid=5226477205592278\", \"index\": 4, \"label\": \"\"}, {\"name\": \"王者荣耀游戏攻略\", \"scheme\": \"sinaweibo://detail?mblogid=5226817193249903\", \"index\": 10, \"label\": \"\"}, {\"name\": \"小琳漫馆\", \"scheme\": \"sinaweibo://detail?mblogid=5226485624342132\", \"index\": 13, \"label\": \"\"}], \"name\": \"科技怪咖\", \"img\": \"https://tvax2.sinaimg.cn/crop.72.0.536.536.50/b8f862fdly8gdizsyt4lqj20j60j6t9b.jpg?KID=imgbed,tva&Expires=1761704217&ssig=M%2FLOLKjXw%2B\", \"scheme\": \"sinaweibo://detail?mblogid=5226977640580380\", \"vType\": 0}}```  <br><br>2. **对敬业精神的深度共情**  <br>   尽管不熟悉游戏术语，何炅仍以顶级主持素养控场：  <br>   - 被解说抢话时高情商衔接流程，化解尴尬；  <br>   - 念拗口皮肤名时保持情感张力，被赞“节奏完美”。  <br>   网友感叹：“他救过那么多人的场，这次谁来救他？”```wbCustomBlock{\"type\": \"quoted\", \"index\": 11, \"data\": {\"num\": [2, 6, 24], \"version\": 2, \"quote_list\": [{\"name\": \"综圈表姐\", \"scheme\": \"sinaweibo://detail?mblogid=5226488448423325\", \"index\": 2, \"label\": \"大v\"}, {\"name\": \"电视剧透社\", \"scheme\": \"sinaweibo://detail?mblogid=5226307420948243\", \"index\": 6, \"label\": \"\"}, {\"name\": \"娱乐星\", \"scheme\": \"sinaweibo://detail?mblogid=5226364119814292\", \"index\": 24, \"label\": \"\"}], \"name\": \"综圈表姐\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.1002.1002.50/807695d2ly8goid3af4zij20ru0ruabr.jpg?KID=imgbed,tva&Expires=1761704217&ssig=XI5Xyqxlww\", \"scheme\": \"sinaweibo://detail?mblogid=5226488448423325\", \"vType\": 0}}```  <br><br>3. **代际隔阂的投射**  <br>   何炅此前公开坦言51岁的困扰：老花眼导致阅读提词器困难，体力下滑影响高强度工作。口误事件中视力与反应力问题被放大，引发对**职场年龄焦虑**的广泛讨论。```wbCustomBlock{\"type\": \"quoted\", \"index\": 12, \"data\": {\"num\": [18], \"version\": 2, \"quote_list\": [{\"name\": \"貔貅视点\", \"scheme\": \"sinaweibo://detail?mblogid=5226964833010393\", \"index\": 18, \"label\": \"大v\"}], \"name\": \"貔貅视点\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.1009.1009.50/538bc62dly8huv6yh7lzsj20s10s1tce.jpg?KID=imgbed,tva&Expires=1761704217&ssig=jQ8cmU%2BkYI\", \"scheme\": \"sinaweibo://detail?mblogid=5226964833010393\", \"vType\": 0}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5226363432997654&multi_paragraph=2&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.1042.1042.50/008q5VLhly8i54isla6lzj30sy0syq5b.jpg?KID=imgbed,tva&Expires=1761704217&ssig=KsajRgRCee) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">鱿鱿游意思</span><img src=\"http://wx1.sinaimg.cn/middle/008q5VLhgy1i6qwntfbkuj30qm0f0ta5.jpg\" data-width=540 data-height=958></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5226477205592278&multi_paragraph=2&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.500.500.50/006zDyVuly8hpuy444hqnj30dw0dw3yt.jpg?KID=imgbed,tva&Expires=1761704217&ssig=h7p1IdfOR6) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">小猴不练弹跳</span><img src=\"http://wx4.sinaimg.cn/middle/006zDyVuly1i6r9puyz64j30k00zkq3x.jpg\" data-width=1280 data-height=720></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5226488448423325&multi_paragraph=2&multi_count=2\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.1002.1002.50/807695d2ly8goid3af4zij20ru0ruabr.jpg?KID=imgbed,tva&Expires=1761704217&ssig=XI5Xyqxlww) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">综圈表姐</span><img src=\"http://wx1.sinaimg.cn/middle/807695d2ly1i6raztp3kqj20zk0k0q3w.jpg\" data-width=720 data-height=1280></div></media-block><br>### 💎 **深层解读：为何公众选择守护何炅？**<br>1. **人格背书的信任积累**  <br>   何炅从业26年积累的公众形象成事件缓冲垫：  <br>   - 多次帮艺人化解危机，“随时可求助”的承诺坚持6年无破绽；  <br>   - 业内公认“有他控场的节目无需查风评”，其价值已成行业温度符号。  <br><br>2. **双向奔赴的温柔叙事**  <br>   “虐待老人”实为公众的**反向致敬**：  <br>   - **幽默化解窘迫**：用玩梗传递“无伤大雅”的宽容，避免其陷入尴尬；  <br>   - **致敬少年心性**：50岁仍愿为陌生领域拼尽全力，被赞“内娱永动机”。<br>### ⚠️ **关联事件澄清**<br>1. **与暴力事件无关**  <br>   结果5提到的“美国男子追杀恋童癖老人”、结果21的“打游戏燃尽”内容，均因关键词“虐待老人”被误匹配，与何炅事件无实质关联。```wbCustomBlock{\"type\": \"quoted\", \"index\": 23, \"data\": {\"num\": [5, 21], \"version\": 2, \"quote_list\": [{\"name\": \"娱乐新鲜送\", \"scheme\": \"sinaweibo://detail?mblogid=5215177655978414\", \"index\": 5, \"label\": \"大v\"}, {\"name\": \"花泽类结衣_\", \"scheme\": \"sinaweibo://detail?mblogid=5202623638275363\", \"index\": 21, \"label\": \"\"}], \"name\": \"娱乐新鲜送\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.512.512.50/006aSFZKly8i0ecyejzd9j30e80e8wfn.jpg?KID=imgbed,tva&Expires=1761704217&ssig=TUpWyb9Nb%2B\", \"scheme\": \"sinaweibo://detail?mblogid=5215177655978414\", \"vType\": 0}}```  <br><br>2. **同类梗的延伸**  <br>   “五旬老人”梗早有渊源：2025年8月《密室大逃脱》中，何炅因保护新人多次触发惩罚装置，苦笑呼吁“不要虐待五旬老人”，当时已显敬业担当。<br>### 💬 **舆论总结**<br>正如网友所言：“何炅的不老神话，从不是容颜永驻，而是被世界调侃后依然笑得像孩子的温柔。” 这场乌龙本质是公众对何炅的**情感代偿**——用幽默守护一位始终真诚的前辈，在代际碰撞中传递包容与敬意。<br>",
+      "card_multimodal": {
+        "data": [
+          {
+            "scheme": "sinaweibo://multimedia?mix_mid=5226378289220930&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=1&multi_count=0",
+            "user_name": "请你吃垃圾",
+            "type": "p",
+            "hit_score_final": 0,
+            "video_url": "",
+            "click_rate": 0.59537755613916,
+            "hit_score_new": 0,
+            "doc_score": 0,
+            "img_pid": "69fbda6cgy1i6qyce9toqj20wr095abj",
+            "img": "http://wx4.sinaimg.cn/middle/69fbda6cgy1i6qyce9toqj20wr095abj.jpg",
+            "h": 329,
+            "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/69fbda6cly8gqju8wqdojj20u00u0taf.jpg?KID=imgbed,tva&Expires=1761704217&ssig=yHLqQxlvCV",
+            "w": 1179,
+            "vtype": 0,
+            "cur_mid": "5226378289220930"
+          },
+          {
+            "scheme": "sinaweibo://multimedia?mix_mid=5226307420948243&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=1&multi_count=1",
+            "user_name": "电视剧透社",
+            "type": "p",
+            "hit_score_final": 68.317184,
+            "video_url": "",
+            "click_rate": 0.097324544397053,
+            "hit_score_new": 75.195312,
+            "doc_score": 2857,
+            "img_pid": "a93e75acly1i6qq4gpwlgj20u013wdhx",
+            "img": "http://wx1.sinaimg.cn/middle/a93e75acly1i6qq4gpwlgj20u013wdhx.jpg",
+            "h": 1436,
+            "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.983.983.50/a93e75acly8h8ve9lm9orj20rb0rb404.jpg?KID=imgbed,tva&Expires=1761704217&ssig=z3Gjr8fvEW",
+            "w": 1080,
+            "vtype": 0,
+            "cur_mid": "5226307420948243"
+          },
+          {
+            "scheme": "sinaweibo://video/vvs?mid=5226478595735611&multi_paragraph=1&multi_count=2",
+            "user_name": "JR体角日记",
+            "type": "v",
+            "hit_score_final": 69.705078,
+            "video_url": "https://video.weibo.com/show?fid=1034:5226478384906267",
+            "click_rate": 0,
+            "hit_score_new": 62.841797,
+            "doc_score": 3548,
+            "img_pid": "007Jn7WOly1i6r9v9ieqyj30u01hcmza",
+            "img": "http://wx4.sinaimg.cn/middle/007Jn7WOly1i6r9v9ieqyj30u01hcmza.jpg",
+            "h": 1920,
+            "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/007Jn7WOly8gsi5lw8wkmj30u00u0wgn.jpg?KID=imgbed,tva&Expires=1761704217&ssig=6HnVoXFEW%2F",
+            "w": 1080,
+            "vtype": 0,
+            "cur_mid": "5226478595735611"
+          },
+          {
+            "scheme": "sinaweibo://multimedia?mix_mid=5226378289220930&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=1&multi_count=0",
+            "user_name": "请你吃垃圾",
+            "type": "p",
+            "hit_score_final": 0,
+            "video_url": "",
+            "click_rate": 0.59537755613916,
+            "hit_score_new": 0,
+            "doc_score": 0,
+            "img_pid": "69fbda6cgy1i6qyce9toqj20wr095abj",
+            "img": "http://wx4.sinaimg.cn/middle/69fbda6cgy1i6qyce9toqj20wr095abj.jpg",
+            "h": 329,
+            "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/69fbda6cly8gqju8wqdojj20u00u0taf.jpg?KID=imgbed,tva&Expires=1761704217&ssig=yHLqQxlvCV",
+            "w": 1179,
+            "vtype": 0,
+            "cur_mid": "5226378289220930"
+          }
+        ],
+        "type": "mediablock"
+      },
+      "wenda": {
+        "forward_gen": 0
+      },
+      "news_analyze": {},
+      "mid_list": null,
+      "chat_status_stage": 1,
+      "query_category": "",
+      "msg_format": "markdown",
+      "page_id": "2329643437d85cb73a6324a5bb45136a73942a",
+      "unify_md5": "760c44e30a267f31f9d2968b47c52aa6",
+      "short_url": "http://t.cn/AXAhhbVy",
+      "version": "2025-10-29 07:16:57.009000-9154",
+      "qs_status": 0,
+      "user_info": {},
+      "profile_image_url": "",
+      "zs_risk_control": {
+        "think_text_close": 0,
+        "land_button_close": 0
+      },
+      "cot": 1,
+      "scheme": "sinaweibo://cardlist?containerid=100103type%3D225%26q%3D%23%E7%8E%8B%E8%80%85%E8%99%90%E5%BE%85%E4%BA%94%E6%97%AC%E8%80%81%E4%BA%BA%23%26t%3D&extparam=ai_model%3Ddeepseek%26ori_ai_title%3D%E5%8F%82%E8%80%83%E5%8D%9A%E6%96%87%26material_version%3D1761693417"
+    }
+  },
+  "links": [
+    "sinaweibo://detail?mblogid=5226378289220930",
+    "sinaweibo://detail?mblogid=5226488448423325",
+    "sinaweibo://detail?mblogid=5226363432997654",
+    "sinaweibo://detail?mblogid=5226477205592278",
+    "sinaweibo://detail?mblogid=5215177655978414",
+    "sinaweibo://detail?mblogid=5226307420948243",
+    "ctr://",
+    "historyweibo://5226363432997654",
+    "historyweibo://5201735297794535",
+    "sinaweibo://detail?mblogid=5226817193249903",
+    "sinaweibo://detail?mblogid=5226837908917072",
+    "sinaweibo://detail?mblogid=5226790642783787",
+    "sinaweibo://detail?mblogid=5226485624342132",
+    "sinaweibo://detail?mblogid=5226478595735611",
+    "sinaweibo://detail?mblogid=5226977640580380",
+    "sinaweibo://detail?mblogid=5226972013920375",
+    "sinaweibo://detail?mblogid=5226971521090555",
+    "sinaweibo://detail?mblogid=5226964833010393",
+    "sinaweibo://detail?mblogid=5226791716261214",
+    "sinaweibo://detail?mblogid=5226790972819807",
+    "sinaweibo://detail?mblogid=5202623638275363",
+    "sinaweibo://detail?mblogid=5226442415671843",
+    "sinaweibo://detail?mblogid=5226935424647820",
+    "sinaweibo://detail?mblogid=5226364119814292",
+    "sinaweibo://detail?mblogid=5226083364635504",
+    "sinaweibo://detail?mblogid=5183690506507508",
+    "sinaweibo://detail?mblogid=5182615297725761",
+    "sinaweibo://detail?mblogid=5164487520551476",
+    "sinaweibo://detail?mblogid=5094411262234051"
+  ],
+  "media": [
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/69fbda6cgy1i6qyce9toqj20wr095abj.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/69fbda6cgy1i6qyce9toqj20wr095abj.jpg",
+      "alt": "请你吃垃圾",
+      "width": 329,
+      "height": 1179,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/69fbda6cgy1i6qyce9toqj20wr095abj.jpg"
+      ],
+      "user": "请你吃垃圾"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/a93e75acly1i6qq4gpwlgj20u013wdhx.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/a93e75acly1i6qq4gpwlgj20u013wdhx.jpg",
+      "alt": "电视剧透社",
+      "width": 1436,
+      "height": 1080,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/a93e75acly1i6qq4gpwlgj20u013wdhx.jpg"
+      ],
+      "user": "电视剧透社"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/007Jn7WOly1i6r9v9ieqyj30u01hcmza.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/007Jn7WOly1i6r9v9ieqyj30u01hcmza.jpg",
+      "alt": "JR体角日记",
+      "width": 1920,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/007Jn7WOly1i6r9v9ieqyj30u01hcmza.jpg"
+      ],
+      "user": "JR体角日记"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/008q5VLhgy1i6qwntfbkuj30qm0f0ta5.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/008q5VLhgy1i6qwntfbkuj30qm0f0ta5.jpg",
+      "alt": "鱿鱿游意思",
+      "width": 540,
+      "height": 958,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/008q5VLhgy1i6qwntfbkuj30qm0f0ta5.jpg"
+      ],
+      "user": "鱿鱿游意思"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/006zDyVuly1i6r9puyz64j30k00zkq3x.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/006zDyVuly1i6r9puyz64j30k00zkq3x.jpg",
+      "alt": "小猴不练弹跳",
+      "width": 1280,
+      "height": 720,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/006zDyVuly1i6r9puyz64j30k00zkq3x.jpg"
+      ],
+      "user": "小猴不练弹跳"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/807695d2ly1i6raztp3kqj20zk0k0q3w.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/807695d2ly1i6raztp3kqj20zk0k0q3w.jpg",
+      "alt": "综圈表姐",
+      "width": 720,
+      "height": 1280,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/807695d2ly1i6raztp3kqj20zk0k0q3w.jpg"
+      ],
+      "user": "综圈表姐"
+    }
+  ],
+  "html_path": "data/aicard/hourly/2025-10-29/07/topic-760c44e3.html"
+}

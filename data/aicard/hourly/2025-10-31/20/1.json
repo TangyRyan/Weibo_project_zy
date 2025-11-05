@@ -1,0 +1,294 @@
+{
+  "meta": {
+    "query": "#京东百亿补贴1元买百吋电视#",
+    "status_code": 200,
+    "fetched_at": "2025-10-31T22:35:21+08:00",
+    "response": {
+      "status_stage": 4,
+      "page_id": "232964d8d2fadb11ff0ea04ebb18585a20208f",
+      "top_quote_list": {},
+      "card_multimodal": {
+        "type": "mediablock",
+        "data": [
+          {
+            "type": "v",
+            "hit_score_new": 0,
+            "doc_score": 0,
+            "img_pid": "002diGk7ly1i6vqev9ho4j60u01nk77e02",
+            "click_rate": 0,
+            "img": "http://wx1.sinaimg.cn/middle/002diGk7ly1i6vqev9ho4j60u01nk77e02.jpg",
+            "scheme": "sinaweibo://video/vvs?mid=5227882582643883&multi_paragraph=1&multi_count=0",
+            "h": 2144,
+            "cur_mid": "5227882582643883",
+            "w": 1080,
+            "user_name": "新浪新闻",
+            "hit_score_final": 0,
+            "user_avatar": "https://tvax4.sinaimg.cn/crop.0.0.799.799.50/002diGk7ly8h8vg36oqidj60m70m7mxs02.jpg?KID=imgbed,tva&Expires=1761931133&ssig=%2BRkIurwIrP",
+            "vtype": 3,
+            "video_url": "https://video.weibo.com/show?fid=1034:5227876249960541"
+          },
+          {
+            "type": "p",
+            "hit_score_new": 99.023438,
+            "doc_score": 4955,
+            "img_pid": "0064PMEYly1i6vncylzosj30m80m8484",
+            "click_rate": 0,
+            "img": "http://wx2.sinaimg.cn/middle/0064PMEYly1i6vncylzosj30m80m8484.jpg",
+            "scheme": "sinaweibo://multimedia?mix_mid=5227887616590368&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=3&multi_count=0",
+            "h": 800,
+            "cur_mid": "5227887616590368",
+            "w": 800,
+            "user_name": "浩子老师",
+            "hit_score_final": 84.614067,
+            "user_avatar": "https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/0064PMEYly8hompcyxgghj30u00u1tcf.jpg?KID=imgbed,tva&Expires=1761931133&ssig=qi%2BV%2F9%2BAhr",
+            "vtype": 0,
+            "video_url": ""
+          },
+          {
+            "type": "p",
+            "hit_score_new": 99.023438,
+            "doc_score": 5612,
+            "img_pid": "006YQHiBly1i6vko4bo88j31hc1z4drp",
+            "click_rate": 0,
+            "img": "http://wx4.sinaimg.cn/middle/006YQHiBly1i6vko4bo88j31hc1z4drp.jpg",
+            "scheme": "sinaweibo://multimedia?mix_mid=5227887680029044&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=3&multi_count=1",
+            "h": 2560,
+            "cur_mid": "5227887680029044",
+            "w": 1920,
+            "user_name": "冯知艺",
+            "hit_score_final": 92.214066,
+            "user_avatar": "https://tvax2.sinaimg.cn/crop.0.0.690.690.50/006YQHiBly8i567i0wls1j30j60j6q4t.jpg?KID=imgbed,tva&Expires=1761931133&ssig=muXqn6Whbj",
+            "vtype": 0,
+            "video_url": ""
+          },
+          {
+            "type": "v",
+            "hit_score_new": 0,
+            "doc_score": 0,
+            "img_pid": "002diGk7ly1i6vqev9ho4j60u01nk77e02",
+            "click_rate": 0,
+            "img": "http://wx1.sinaimg.cn/middle/002diGk7ly1i6vqev9ho4j60u01nk77e02.jpg",
+            "scheme": "sinaweibo://video/vvs?mid=5227882582643883&multi_paragraph=1&multi_count=0",
+            "h": 2144,
+            "cur_mid": "5227882582643883",
+            "w": 1080,
+            "user_name": "新浪新闻",
+            "hit_score_final": 0,
+            "user_avatar": "https://tvax4.sinaimg.cn/crop.0.0.799.799.50/002diGk7ly8h8vg36oqidj60m70m7mxs02.jpg?KID=imgbed,tva&Expires=1761931133&ssig=%2BRkIurwIrP",
+            "vtype": 3,
+            "video_url": "https://video.weibo.com/show?fid=1034:5227876249960541"
+          }
+        ]
+      },
+      "share_card_multimodal": {
+        "type": "v",
+        "hit_score_new": 0,
+        "doc_score": 0,
+        "img_pid": "002diGk7ly1i6vqev9ho4j60u01nk77e02",
+        "click_rate": 0,
+        "img": "http://wx1.sinaimg.cn/middle/002diGk7ly1i6vqev9ho4j60u01nk77e02.jpg",
+        "scheme": "sinaweibo://video/vvs?mid=5227882582643883&multi_paragraph=1&multi_count=0",
+        "h": 2144,
+        "cur_mid": "5227882582643883",
+        "w": 1080,
+        "user_name": "新浪新闻",
+        "hit_score_final": 0,
+        "user_avatar": "https://tvax4.sinaimg.cn/crop.0.0.799.799.50/002diGk7ly8h8vg36oqidj60m70m7mxs02.jpg?KID=imgbed,tva&Expires=1761931133&ssig=%2BRkIurwIrP",
+        "vtype": 3,
+        "video_url": "https://video.weibo.com/show?fid=1034:5227876249960541"
+      },
+      "msg": "<think><br>嗯，用户让我分析关于\"京东百亿补贴1元买百吋电视\"的搜索结果，并生成一个综合的回答。用户提供了32条搜索结果，主要来自微博，涵盖活动信息、用户体验、抢购技巧等方面。<br><br>在这些搜索结果中，有几个关键点值得关注：活动是由京东官方在2025年10月30日至11月1日期间开展的，核心是每晚8点的\"超级加倍补\"活动，用户可以通过京东APP的\"国家补贴×百亿补贴\"专区参与。最吸引人的是1元抢购百吋大牌电视的机会，还有其他家电、美妆等商品参与活动。<br><br>关于用户体验，多位用户分享了使用百吋电视的感受，提到3.5米观影距离效果最佳，配合音响能打造家庭影院体验。成功抢购的技巧包括提前绑定支付方式、多设备同时操作、关注\"月黑风高\"等特殊时段。<br><br>值得注意的是，这个活动的参与热度很高，但实际抢到电视的概率可能有限。部分用户分享了之前成功抢购其他商品的经历，增强了活动的可信度。<br><br>在组织回答时，考虑设计五个主要部分：活动概况、参与路径、大屏体验价值、实战技巧和风险提示。准备用醒目的符号引导每个部分，并确保每个观点都有搜索结果支持。会在活动时间、参与方式等关键信息处做强调处理，同时平衡呈现活动的吸引力和实际抢购难度。<br><br>特别注意到搜索结果中#京东百亿补贴1元买百吋电视#的话题讨论很热烈，多个认证账号和大V参与其中，这增加了活动的真实感。在回答中会融入这种社会热度元素，但避免过度渲染。<br><br></think><br>以下是关于京东百亿补贴\"1元买百吋电视\"活动的综合整理：<br>### 🔥 一、活动核心信息<br>1. **活动时间**：2025年10月30日起连续3天，每晚**20:00**开启限时抢购（即10月30日、31日及11月1日）。```wbCustomBlock{\"type\": \"quoted\", \"index\": 3, \"data\": {\"num\": [1, 2, 32], \"version\": 2, \"quote_list\": [{\"name\": \"娱乐圈外汉\", \"scheme\": \"sinaweibo://detail?mblogid=5227236589308101\", \"index\": 32, \"label\": \"大v\"}, {\"name\": \"新浪新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5227882582643883\", \"index\": 1, \"label\": \"\"}, {\"name\": \"京东\", \"scheme\": \"sinaweibo://detail?mblogid=5227870005498995\", \"index\": 2, \"label\": \"\"}], \"name\": \"娱乐圈外汉\", \"img\": \"https://tva1.sinaimg.cn/crop.0.0.750.750.50/6decce9fjw8evqwxuve23j20ku0kuta0.jpg?KID=imgbed,tva&Expires=1761931133&ssig=A42QEBSdt7\", \"scheme\": \"sinaweibo://detail?mblogid=5227236589308101\", \"vType\": 0}}```<br>2. **核心福利**：<br>   - **1元抢百吋电视**：三星、东芝等大牌百吋电视限量1元开抢，至高省万元。```wbCustomBlock{\"type\": \"quoted\", \"index\": 5, \"data\": {\"num\": [1, 30, 32], \"version\": 2, \"quote_list\": [{\"name\": \"新浪新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5227882582643883\", \"index\": 1, \"label\": \"\"}, {\"name\": \"沈蓝聊科技\", \"scheme\": \"sinaweibo://detail?mblogid=5227887701263050\", \"index\": 30, \"label\": \"\"}, {\"name\": \"娱乐圈外汉\", \"scheme\": \"sinaweibo://detail?mblogid=5227236589308101\", \"index\": 32, \"label\": \"\"}]}}```<br>   - **叠加补贴**：家电类商品可叠加\"国家补贴\"与\"百亿补贴\"，综合折扣低至5折；美妆单品低至1折。```wbCustomBlock{\"type\": \"quoted\", \"index\": 6, \"data\": {\"num\": [1, 9], \"version\": 2, \"quote_list\": [{\"name\": \"暴风雪天\", \"scheme\": \"sinaweibo://detail?mblogid=5227890133699413\", \"index\": 9, \"label\": \"大v\"}, {\"name\": \"新浪新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5227882582643883\", \"index\": 1, \"label\": \"\"}], \"name\": \"暴风雪天\", \"img\": \"https://tva4.sinaimg.cn/crop.62.0.222.222.50/557759ebjw8ew0ug6ardjj207x09mjs1.jpg?KID=imgbed,tva&Expires=1761931133&ssig=VFZQL0PdRr\", \"scheme\": \"sinaweibo://detail?mblogid=5227890133699413\", \"vType\": 0}}```<br>   - **全品类覆盖**：除电视外，SK-II套装、博朗剃须刀、智能家电、零食礼包等均参与1元抢购。```wbCustomBlock{\"type\": \"quoted\", \"index\": 7, \"data\": {\"num\": [1, 24, 30], \"version\": 2, \"quote_list\": [{\"name\": \"飞驰的阿卡\", \"scheme\": \"sinaweibo://detail?mblogid=5227895170533256\", \"index\": 24, \"label\": \"大v\"}, {\"name\": \"新浪新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5227882582643883\", \"index\": 1, \"label\": \"\"}, {\"name\": \"沈蓝聊科技\", \"scheme\": \"sinaweibo://detail?mblogid=5227887701263050\", \"index\": 30, \"label\": \"\"}], \"name\": \"飞驰的阿卡\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/8308b4b2ly8hrc0qserurj20u00u0n06.jpg?KID=imgbed,tva&Expires=1761931133&ssig=6qFeuL6gKK\", \"scheme\": \"sinaweibo://detail?mblogid=5227895170533256\", \"vType\": 0}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5227882582643883&multi_paragraph=1&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.799.799.50/002diGk7ly8h8vg36oqidj60m70m7mxs02.jpg?KID=imgbed,tva&Expires=1761931133&ssig=%2BRkIurwIrP) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">新浪新闻</span><img src=\"http://wx1.sinaimg.cn/middle/002diGk7ly1i6vqev9ho4j60u01nk77e02.jpg\" data-width=2144 data-height=1080></div></media-block><br>### 📲 二、参与路径与技巧<br>1. **入口位置**：<br>   - 打开京东APP首页 → 点击\"国家补贴×百亿补贴\"专区 → 进入\"超级加倍补\"活动页面。```wbCustomBlock{\"type\": \"quoted\", \"index\": 10, \"data\": {\"num\": [1, 3], \"version\": 2, \"quote_list\": [{\"name\": \"小明的快乐生活-\", \"scheme\": \"sinaweibo://detail?mblogid=5227890201594639\", \"index\": 3, \"label\": \"大v\"}, {\"name\": \"新浪新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5227882582643883\", \"index\": 1, \"label\": \"\"}], \"name\": \"小明的快乐生活-\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/005Z9t7Ply8i1yzv8bkyij30u00u0gps.jpg?KID=imgbed,tva&Expires=1761931133&ssig=aekY%2B9ML96\", \"scheme\": \"sinaweibo://detail?mblogid=5227890201594639\", \"vType\": 0}}```<br>   - 搜索关键词\"补贴好物\"或\"红包600\"领额外优惠券。```wbCustomBlock{\"type\": \"quoted\", \"index\": 11, \"data\": {\"num\": [3, 32], \"version\": 2, \"quote_list\": [{\"name\": \"小明的快乐生活-\", \"scheme\": \"sinaweibo://detail?mblogid=5227890201594639\", \"index\": 3, \"label\": \"\"}, {\"name\": \"娱乐圈外汉\", \"scheme\": \"sinaweibo://detail?mblogid=5227236589308101\", \"index\": 32, \"label\": \"\"}]}}```<br>2. **抢购攻略**：<br>   - **提前准备**：绑定支付方式、填写收货地址，确保网络通畅（推荐5G/WiFi切换）。```wbCustomBlock{\"type\": \"quoted\", \"index\": 13, \"data\": {\"num\": [3, 20], \"version\": 2, \"quote_list\": [{\"name\": \"豪仔智能评测\", \"scheme\": \"sinaweibo://detail?mblogid=5227895288496862\", \"index\": 20, \"label\": \"大v\"}, {\"name\": \"小明的快乐生活-\", \"scheme\": \"sinaweibo://detail?mblogid=5227890201594639\", \"index\": 3, \"label\": \"\"}], \"name\": \"豪仔智能评测\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.600.600.50/005yaW5hly8hql8usx0caj30go0goq45.jpg?KID=imgbed,tva&Expires=1761931133&ssig=KCmYTqw4ls\", \"scheme\": \"sinaweibo://detail?mblogid=5227895288496862\", \"vType\": 0}}```<br>   - **提升概率**：每日签到积累\"幸运值\"，整点蹲守（重点20:00场次），多设备同时操作。```wbCustomBlock{\"type\": \"quoted\", \"index\": 14, \"data\": {\"num\": [3, 20, 26], \"version\": 2, \"quote_list\": [{\"name\": \"涂涂侃科技\", \"scheme\": \"sinaweibo://detail?mblogid=5227887805334335\", \"index\": 26, \"label\": \"大v\"}, {\"name\": \"小明的快乐生活-\", \"scheme\": \"sinaweibo://detail?mblogid=5227890201594639\", \"index\": 3, \"label\": \"\"}, {\"name\": \"豪仔智能评测\", \"scheme\": \"sinaweibo://detail?mblogid=5227895288496862\", \"index\": 20, \"label\": \"\"}], \"name\": \"涂涂侃科技\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/005vk8zoly8hz51altsbpj30u00u0jtu.jpg?KID=imgbed,tva&Expires=1761931133&ssig=ESAJow1Eyo\", \"scheme\": \"sinaweibo://detail?mblogid=5227887805334335\", \"vType\": 0}}```<br>   - **叠加优惠**：领取\"2351元现货补贴券\"或京享红包，部分商品可叠加会员专属券。```wbCustomBlock{\"type\": \"quoted\", \"index\": 15, \"data\": {\"num\": [3, 9], \"version\": 2, \"quote_list\": [{\"name\": \"小明的快乐生活-\", \"scheme\": \"sinaweibo://detail?mblogid=5227890201594639\", \"index\": 3, \"label\": \"\"}, {\"name\": \"暴风雪天\", \"scheme\": \"sinaweibo://detail?mblogid=5227890133699413\", \"index\": 9, \"label\": \"\"}]}}```<br>### 🎬 三、百吋电视使用体验<br>1. **沉浸式影音**：<br>   - 3.5米观影距离适配百吋屏幕，配合环绕音响可实现IMAX级家庭影院效果。```wbCustomBlock{\"type\": \"quoted\", \"index\": 18, \"data\": {\"num\": [6, 14, 23], \"version\": 2, \"quote_list\": [{\"name\": \"浩子老师\", \"scheme\": \"sinaweibo://detail?mblogid=5227887616590368\", \"index\": 14, \"label\": \"大v\"}, {\"name\": \"三石益友\", \"scheme\": \"sinaweibo://detail?mblogid=5227892650019479\", \"index\": 6, \"label\": \"\"}, {\"name\": \"买家张俊\", \"scheme\": \"sinaweibo://detail?mblogid=5227898185192081\", \"index\": 23, \"label\": \"\"}], \"name\": \"浩子老师\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/0064PMEYly8hompcyxgghj30u00u1tcf.jpg?KID=imgbed,tva&Expires=1761931133&ssig=qi%2BV%2F9%2BAhr\", \"scheme\": \"sinaweibo://detail?mblogid=5227887616590368\", \"vType\": 0}}```<br>   - 高刷新率（如244Hz）提升游戏、体育赛事观看流畅度。```wbCustomBlock{\"type\": \"quoted\", \"index\": 19, \"data\": {\"num\": [22, 23], \"version\": 2, \"quote_list\": [{\"name\": \"买家张俊\", \"scheme\": \"sinaweibo://detail?mblogid=5227898185192081\", \"index\": 23, \"label\": \"大v\"}, {\"name\": \"冯知艺\", \"scheme\": \"sinaweibo://detail?mblogid=5227887680029044\", \"index\": 22, \"label\": \"\"}], \"name\": \"买家张俊\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.1002.1002.50/9eaac76dly8gdik4zl7dsj20ru0rutch.jpg?KID=imgbed,tva&Expires=1761931133&ssig=zA1lQoRu5h\", \"scheme\": \"sinaweibo://detail?mblogid=5227898185192081\", \"vType\": 0}}```<br>2. **场景适配**：<br>   - 电视柜设计建议：左侧嵌屏幕藏线路，右侧展示柜搭配氛围灯带，兼顾美观与实用。```wbCustomBlock{\"type\": \"quoted\", \"index\": 21, \"data\": {\"num\": [6], \"version\": 2, \"quote_list\": [{\"name\": \"三石益友\", \"scheme\": \"sinaweibo://detail?mblogid=5227892650019479\", \"index\": 6, \"label\": \"大v\"}], \"name\": \"三石益友\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.996.996.50/0073rELCly8gl2bknnoztj30ro0ro75s.jpg?KID=imgbed,tva&Expires=1761931133&ssig=cqkzSGljhD\", \"scheme\": \"sinaweibo://detail?mblogid=5227892650019479\", \"vType\": 0}}```<br>   - 语音控制、防反光等特性提升日常使用便捷性。```wbCustomBlock{\"type\": \"quoted\", \"index\": 22, \"data\": {\"num\": [22, 30], \"version\": 2, \"quote_list\": [{\"name\": \"冯知艺\", \"scheme\": \"sinaweibo://detail?mblogid=5227887680029044\", \"index\": 22, \"label\": \"\"}, {\"name\": \"沈蓝聊科技\", \"scheme\": \"sinaweibo://detail?mblogid=5227887701263050\", \"index\": 30, \"label\": \"\"}]}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5227887616590368&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=3&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/0064PMEYly8hompcyxgghj30u00u1tcf.jpg?KID=imgbed,tva&Expires=1761931133&ssig=qi%2BV%2F9%2BAhr) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">浩子老师</span><img src=\"http://wx2.sinaimg.cn/middle/0064PMEYly1i6vncylzosj30m80m8484.jpg\" data-width=800 data-height=800></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5227887680029044&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=3&multi_count=1\"><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.690.690.50/006YQHiBly8i567i0wls1j30j60j6q4t.jpg?KID=imgbed,tva&Expires=1761931133&ssig=muXqn6Whbj) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">冯知艺</span><img src=\"http://wx4.sinaimg.cn/middle/006YQHiBly1i6vko4bo88j31hc1z4drp.jpg\" data-width=2560 data-height=1920></div></media-block><br>### ⚠️ 四、注意事项<br>1. **理性参与**：<br>   - 1元抢购属限量促销，中奖概率有限，建议同步关注其他深折扣商品。```wbCustomBlock{\"type\": \"quoted\", \"index\": 25, \"data\": {\"num\": [7, 12, 13], \"version\": 2, \"quote_list\": [{\"name\": \"柠檬王同学\", \"scheme\": \"sinaweibo://detail?mblogid=5227891526469105\", \"index\": 12, \"label\": \"大v\"}, {\"name\": \"天空菌\", \"scheme\": \"sinaweibo://detail?mblogid=5227890133697575\", \"index\": 7, \"label\": \"\"}, {\"name\": \"新浪军事\", \"scheme\": \"sinaweibo://detail?mblogid=5227885197791258\", \"index\": 13, \"label\": \"\"}], \"name\": \"柠檬王同学\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/006UVKFbly8h7gtpmc8plj30u00u0wey.jpg?KID=imgbed,tva&Expires=1761931133&ssig=UExPxCCpDH\", \"scheme\": \"sinaweibo://detail?mblogid=5227891526469105\", \"vType\": 0}}```<br>   - 避免为凑单购买非必需商品，真正省钱需结合自身需求。```wbCustomBlock{\"type\": \"quoted\", \"index\": 26, \"data\": {\"num\": [9, 13], \"version\": 2, \"quote_list\": [{\"name\": \"暴风雪天\", \"scheme\": \"sinaweibo://detail?mblogid=5227890133699413\", \"index\": 9, \"label\": \"\"}, {\"name\": \"新浪军事\", \"scheme\": \"sinaweibo://detail?mblogid=5227885197791258\", \"index\": 13, \"label\": \"\"}]}}```<br>2. **规则透明性**：<br>   - 无需复杂凑单满减，直接降价简化购买流程。```wbCustomBlock{\"type\": \"quoted\", \"index\": 28, \"data\": {\"num\": [13, 30], \"version\": 2, \"quote_list\": [{\"name\": \"新浪军事\", \"scheme\": \"sinaweibo://detail?mblogid=5227885197791258\", \"index\": 13, \"label\": \"\"}, {\"name\": \"沈蓝聊科技\", \"scheme\": \"sinaweibo://detail?mblogid=5227887701263050\", \"index\": 30, \"label\": \"\"}]}}```<br>   - 部分用户反馈曾成功抢到1元空气炸锅、手机等商品，证实活动真实性。```wbCustomBlock{\"type\": \"quoted\", \"index\": 29, \"data\": {\"num\": [3, 18, 25], \"version\": 2, \"quote_list\": [{\"name\": \"钱多多测评\", \"scheme\": \"sinaweibo://detail?mblogid=5227887671640366\", \"index\": 25, \"label\": \"\"}, {\"name\": \"小明的快乐生活-\", \"scheme\": \"sinaweibo://detail?mblogid=5227890201594639\", \"index\": 3, \"label\": \"\"}, {\"name\": \"迪克杰瑞\", \"scheme\": \"sinaweibo://detail?mblogid=5227896248736971\", \"index\": 18, \"label\": \"\"}], \"name\": \"钱多多测评\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/006D7N0cly8i5s80e36voj30u00u0407.jpg?KID=imgbed,tva&Expires=1761931133&ssig=EgQIgHysB6\", \"scheme\": \"sinaweibo://detail?mblogid=5227887671640366\", \"vType\": 0}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5227885197791258&multi_paragraph=4&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.461.461.50/001Ds5xfly8h8vgjdxo3uj60ct0ctq3c02.jpg?KID=imgbed,tva&Expires=1761931133&ssig=3OFYkhOm8e) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">新浪军事</span><img src=\"http://wx1.sinaimg.cn/middle/008kru0Bgy1i6psvwkh25j30u0140h93.jpg\" data-width=1440 data-height=1080></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5227896248736971&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=4&multi_count=1\"><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.1024.1024.50/005yhIPPly8hrb0yo5ngcj30sg0sgn0b.jpg?KID=imgbed,tva&Expires=1761931133&ssig=3GwcZdWljT) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">迪克杰瑞</span><img src=\"http://wx3.sinaimg.cn/middle/005yhIPPgy1i6vspbvn3zj30wh17bn22.jpg\" data-width=1559 data-height=1169></div></media-block><br>### 💎 五、活动价值总结<br>- **薅羊毛机会**：国补+百补双重补贴属年度罕见力度，刚需家电入手时机。```wbCustomBlock{\"type\": \"quoted\", \"index\": 31, \"data\": {\"num\": [9, 28, 30], \"version\": 2, \"quote_list\": [{\"name\": \"暴风雪天\", \"scheme\": \"sinaweibo://detail?mblogid=5227890133699413\", \"index\": 9, \"label\": \"\"}, {\"name\": \"梁亦同\", \"scheme\": \"sinaweibo://detail?mblogid=5227887859860024\", \"index\": 28, \"label\": \"\"}, {\"name\": \"沈蓝聊科技\", \"scheme\": \"sinaweibo://detail?mblogid=5227887701263050\", \"index\": 30, \"label\": \"\"}]}}```<br>- **体验升级**：百吋电视带来的沉浸式娱乐体验，重塑家庭休闲场景。```wbCustomBlock{\"type\": \"quoted\", \"index\": 32, \"data\": {\"num\": [6, 10, 14], \"version\": 2, \"quote_list\": [{\"name\": \"七分见解\", \"scheme\": \"sinaweibo://detail?mblogid=5227892655002424\", \"index\": 10, \"label\": \"\"}, {\"name\": \"三石益友\", \"scheme\": \"sinaweibo://detail?mblogid=5227892650019479\", \"index\": 6, \"label\": \"\"}, {\"name\": \"浩子老师\", \"scheme\": \"sinaweibo://detail?mblogid=5227887616590368\", \"index\": 14, \"label\": \"\"}], \"name\": \"七分见解\", \"img\": \"https://tvax1.sinaimg.cn/crop.27.0.905.905.50/006NlCzfly8i5vbvwryf5j30qo0p5ta6.jpg?KID=imgbed,tva&Expires=1761931133&ssig=4tOlPHQNox\", \"scheme\": \"sinaweibo://detail?mblogid=5227892655002424\", \"vType\": 0}}```<br>- **延伸福利**：未抢到电视的用户仍可获取1元日用品、美妆等实惠商品。```wbCustomBlock{\"type\": \"quoted\", \"index\": 33, \"data\": {\"num\": [12, 24], \"version\": 2, \"quote_list\": [{\"name\": \"柠檬王同学\", \"scheme\": \"sinaweibo://detail?mblogid=5227891526469105\", \"index\": 12, \"label\": \"\"}, {\"name\": \"飞驰的阿卡\", \"scheme\": \"sinaweibo://detail?mblogid=5227895170533256\", \"index\": 24, \"label\": \"\"}]}}```<br>",
+      "news_analyze": {},
+      "reliable_tips": "{\"gold_orange_v_mids\": [\"5227236589308101\", \"5227890133699413\", \"5227890201594639\", \"5227895288496862\", \"5227887805334335\", \"5227892650019479\", \"5227898185192081\", \"5227887680029044\", \"5227890133697575\", \"5227891526469105\", \"5227896248736971\", \"5227887671640366\", \"5227887859860024\", \"5227892655002424\", \"5227890632557173\", \"5227887667711666\", \"5227890133700708\", \"5227892649759625\", \"5227887809528704\", \"5227895364256068\", \"5227890569642844\", \"5227891416630096\", \"5227890133697389\", \"5227890381160780\"], \"gold_orange_v_ratio\": \"75%\", \"media_mids\": [], \"media_ratio\": \"0%\", \"verified_mids\": [\"5227882582643883\", \"5227870005498995\", \"5227887701263050\", \"5227895170533256\", \"5227887616590368\", \"5227885197791258\", \"5227889893316591\", \"5227887616852701\"], \"verified_ratio\": \"25%\", \"normal_mids\": [], \"normal_ratio\": \"0%\", \"ref_mid_rank\": {\"5227882582643883\": {\"rank\": 1}, \"5227870005498995\": {\"rank\": 2}, \"5227236589308101\": {\"rank\": 32}, \"5227887701263050\": {\"rank\": 30}, \"5227890133699413\": {\"rank\": 9}, \"5227895170533256\": {\"rank\": 24}, \"5227890201594639\": {\"rank\": 3}, \"5227895288496862\": {\"rank\": 20}, \"5227887805334335\": {\"rank\": 26}, \"5227892650019479\": {\"rank\": 6}, \"5227887616590368\": {\"rank\": 14}, \"5227898185192081\": {\"rank\": 23}, \"5227887680029044\": {\"rank\": 22}, \"5227890133697575\": {\"rank\": 7}, \"5227891526469105\": {\"rank\": 12}, \"5227885197791258\": {\"rank\": 13}, \"5227896248736971\": {\"rank\": 18}, \"5227887671640366\": {\"rank\": 25}, \"5227887859860024\": {\"rank\": 28}, \"5227892655002424\": {\"rank\": 10}, \"5227890632557173\": {\"rank\": 4}, \"5227887667711666\": {\"rank\": 5}, \"5227890133700708\": {\"rank\": 8}, \"5227892649759625\": {\"rank\": 11}, \"5227887809528704\": {\"rank\": 15}, \"5227895364256068\": {\"rank\": 16}, \"5227890569642844\": {\"rank\": 17}, \"5227891416630096\": {\"rank\": 19}, \"5227890133697389\": {\"rank\": 21}, \"5227889893316591\": {\"rank\": 27}, \"5227890381160780\": {\"rank\": 29}, \"5227887616852701\": {\"rank\": 31}}}",
+      "status": 2,
+      "msg_format": "markdown",
+      "current_time": 1761921321,
+      "profile_image_url": "",
+      "user_info": {},
+      "scheme": "sinaweibo://cardlist?containerid=100103type%3D225%26q%3D%23%E4%BA%AC%E4%B8%9C%E7%99%BE%E4%BA%BF%E8%A1%A5%E8%B4%B41%E5%85%83%E4%B9%B0%E7%99%BE%E5%90%8B%E7%94%B5%E8%A7%86%23%26t%3D&extparam=ai_model%3Ddeepseek%26ori_ai_title%3D%E5%8F%82%E8%80%83%E5%8D%9A%E6%96%87%26material_version%3D1761920333",
+      "show_ctrl": {
+        "quote": {}
+      },
+      "query_field": "25",
+      "query": "#京东百亿补贴1元买百吋电视#",
+      "loop_times": 200,
+      "share_info": {
+        "page_id": "232964d8d2fadb11ff0ea04ebb18585a20208f",
+        "url": "http://t.cn/AXAtwEeu",
+        "comment_content": "",
+        "unify_md5": "e05b59d6f8ecfb2910910a6141e552f9",
+        "status": 3,
+        "display_name": "#京东百亿补贴1元买百吋电视#",
+        "tips": "#京东百亿补贴1元买百吋电视#的相关内容，来智搜看看"
+      },
+      "uid": "",
+      "ab_suffix": "default",
+      "share_text": "#京东百亿补贴1元买百吋电视#的相关内容，来智搜看看",
+      "model": "deepseek",
+      "query_category": "",
+      "comment_info": {},
+      "qs_status_info": "{\"qs_u_status\":0,\"qs_c_status\":8388608,\"qs_status\":0,\"qs_r_status\":0,\"ab_lab\":{},\"qs_q_status\":0}",
+      "wenda": {
+        "forward_gen": 0
+      },
+      "reference_num": 32,
+      "ext_show": {},
+      "analysis_time": 1761920469,
+      "sorted_material_list": null,
+      "cot": 1,
+      "qs_status": 0,
+      "msg_json": "{}",
+      "q_attr": {
+        "from_request_id": "",
+        "mid": "",
+        "comment_from_type": "",
+        "reply_cid": "",
+        "from_uid": ""
+      },
+      "chat_status_stage": 1,
+      "short_url": "http://t.cn/AXAq2jXq",
+      "version": "2025-10-31 22:18:53.023000-2459",
+      "link_list": [
+        "sinaweibo://detail?mblogid=5227882582643883",
+        "sinaweibo://detail?mblogid=5227870005498995",
+        "sinaweibo://detail?mblogid=5227890201594639",
+        "sinaweibo://detail?mblogid=5227890632557173",
+        "sinaweibo://detail?mblogid=5227887667711666",
+        "sinaweibo://detail?mblogid=5227892650019479",
+        "sinaweibo://detail?mblogid=5227890133697575",
+        "sinaweibo://detail?mblogid=5227890133700708",
+        "sinaweibo://detail?mblogid=5227890133699413",
+        "sinaweibo://detail?mblogid=5227892655002424",
+        "sinaweibo://detail?mblogid=5227892649759625",
+        "sinaweibo://detail?mblogid=5227891526469105",
+        "sinaweibo://detail?mblogid=5227885197791258",
+        "sinaweibo://detail?mblogid=5227887616590368",
+        "sinaweibo://detail?mblogid=5227887809528704",
+        "sinaweibo://detail?mblogid=5227895364256068",
+        "sinaweibo://detail?mblogid=5227890569642844",
+        "sinaweibo://detail?mblogid=5227896248736971",
+        "sinaweibo://detail?mblogid=5227891416630096",
+        "sinaweibo://detail?mblogid=5227895288496862",
+        "sinaweibo://detail?mblogid=5227890133697389",
+        "sinaweibo://detail?mblogid=5227887680029044",
+        "sinaweibo://detail?mblogid=5227898185192081",
+        "sinaweibo://detail?mblogid=5227895170533256",
+        "sinaweibo://detail?mblogid=5227887671640366",
+        "sinaweibo://detail?mblogid=5227887805334335",
+        "sinaweibo://detail?mblogid=5227889893316591",
+        "sinaweibo://detail?mblogid=5227887859860024",
+        "sinaweibo://detail?mblogid=5227890381160780",
+        "sinaweibo://detail?mblogid=5227887701263050",
+        "sinaweibo://detail?mblogid=5227887616852701",
+        "sinaweibo://detail?mblogid=5227236589308101"
+      ],
+      "basemodel": "实验组8",
+      "unify_md5": "e05b59d6f8ecfb2910910a6141e552f9",
+      "zs_risk_control": {
+        "think_text_close": 0,
+        "land_button_close": 0
+      },
+      "mid_list": null,
+      "abtest_info": {
+        "chat_entrance": 1
+      }
+    }
+  },
+  "links": [
+    "sinaweibo://detail?mblogid=5227882582643883",
+    "sinaweibo://detail?mblogid=5227870005498995",
+    "sinaweibo://detail?mblogid=5227890201594639",
+    "sinaweibo://detail?mblogid=5227890632557173",
+    "sinaweibo://detail?mblogid=5227887667711666",
+    "sinaweibo://detail?mblogid=5227892650019479",
+    "sinaweibo://detail?mblogid=5227890133697575",
+    "sinaweibo://detail?mblogid=5227890133700708",
+    "sinaweibo://detail?mblogid=5227890133699413",
+    "sinaweibo://detail?mblogid=5227892655002424",
+    "sinaweibo://detail?mblogid=5227892649759625",
+    "sinaweibo://detail?mblogid=5227891526469105",
+    "sinaweibo://detail?mblogid=5227885197791258",
+    "sinaweibo://detail?mblogid=5227887616590368",
+    "sinaweibo://detail?mblogid=5227887809528704",
+    "sinaweibo://detail?mblogid=5227895364256068",
+    "sinaweibo://detail?mblogid=5227890569642844",
+    "sinaweibo://detail?mblogid=5227896248736971",
+    "sinaweibo://detail?mblogid=5227891416630096",
+    "sinaweibo://detail?mblogid=5227895288496862",
+    "sinaweibo://detail?mblogid=5227890133697389",
+    "sinaweibo://detail?mblogid=5227887680029044",
+    "sinaweibo://detail?mblogid=5227898185192081",
+    "sinaweibo://detail?mblogid=5227895170533256",
+    "sinaweibo://detail?mblogid=5227887671640366",
+    "sinaweibo://detail?mblogid=5227887805334335",
+    "sinaweibo://detail?mblogid=5227889893316591",
+    "sinaweibo://detail?mblogid=5227887859860024",
+    "sinaweibo://detail?mblogid=5227890381160780",
+    "sinaweibo://detail?mblogid=5227887701263050",
+    "sinaweibo://detail?mblogid=5227887616852701",
+    "sinaweibo://detail?mblogid=5227236589308101"
+  ],
+  "media": [
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/002diGk7ly1i6vqev9ho4j60u01nk77e02.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/002diGk7ly1i6vqev9ho4j60u01nk77e02.jpg",
+      "alt": "新浪新闻",
+      "width": 2144,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/002diGk7ly1i6vqev9ho4j60u01nk77e02.jpg"
+      ],
+      "user": "新浪新闻"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/0064PMEYly1i6vncylzosj30m80m8484.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/0064PMEYly1i6vncylzosj30m80m8484.jpg",
+      "alt": "浩子老师",
+      "width": 800,
+      "height": 800,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/0064PMEYly1i6vncylzosj30m80m8484.jpg"
+      ],
+      "user": "浩子老师"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/006YQHiBly1i6vko4bo88j31hc1z4drp.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/006YQHiBly1i6vko4bo88j31hc1z4drp.jpg",
+      "alt": "冯知艺",
+      "width": 2560,
+      "height": 1920,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/006YQHiBly1i6vko4bo88j31hc1z4drp.jpg"
+      ],
+      "user": "冯知艺"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/008kru0Bgy1i6psvwkh25j30u0140h93.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/008kru0Bgy1i6psvwkh25j30u0140h93.jpg",
+      "alt": "新浪军事",
+      "width": 1440,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/008kru0Bgy1i6psvwkh25j30u0140h93.jpg"
+      ],
+      "user": "新浪军事"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/005yhIPPgy1i6vspbvn3zj30wh17bn22.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/005yhIPPgy1i6vspbvn3zj30wh17bn22.jpg",
+      "alt": "迪克杰瑞",
+      "width": 1559,
+      "height": 1169,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/005yhIPPgy1i6vspbvn3zj30wh17bn22.jpg"
+      ],
+      "user": "迪克杰瑞"
+    }
+  ],
+  "html_path": "data/aicard/hourly/2025-10-31/20/1.html"
+}

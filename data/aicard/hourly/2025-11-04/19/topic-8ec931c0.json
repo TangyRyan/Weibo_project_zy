@@ -1,0 +1,44 @@
+{
+  "meta": {
+    "query": "#今日辟谣#",
+    "status_code": 200,
+    "fetched_at": "2025-11-04T19:30:47+08:00",
+    "response": {
+      "abtest_info": {
+        "chat_entrance": 1
+      },
+      "ab_suffix": "default",
+      "qs_status_info": "{\"qs_status\":2,\"qs_r_status\":0,\"qs_u_status\":0,\"ab_lab\":{},\"qs_q_status\":258,\"qs_c_status\":0}",
+      "ext_show": {},
+      "model": "",
+      "msg": "抱歉，这个问题我暂时无法回答，换个问题试试吧",
+      "cot": 1,
+      "comment_info": {},
+      "zs_risk_control": {
+        "ban_chat_enterance": 1,
+        "may_be_ask_show": 0
+      },
+      "query": "#今日辟谣#",
+      "qs_status": 2,
+      "wenda": {
+        "forward_gen": 0
+      },
+      "loop_times": 200,
+      "status": 3,
+      "uid": "",
+      "share_info": {
+        "display_name": "#今日辟谣#",
+        "page_id": "",
+        "unify_md5": "8ec931c07a03d160d79e69fcad0d8243",
+        "comment_content": "",
+        "url": "http://t.cn/A6DxyECD",
+        "status": 1,
+        "tips": "#今日辟谣#的相关内容，来智搜看看"
+      },
+      "analysis_time": 0
+    }
+  },
+  "links": [],
+  "media": [],
+  "html_path": "data/aicard/hourly/2025-11-04/19/topic-8ec931c0.html"
+}

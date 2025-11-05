@@ -1,0 +1,362 @@
+{
+  "meta": {
+    "query": "#TF家族 阿巴阿巴描述大会#",
+    "status_code": 200,
+    "fetched_at": "2025-11-01T00:39:24+08:00",
+    "response": {
+      "model": "deepseek",
+      "query_category": "",
+      "analysis_time": 1761928394,
+      "sorted_material_list": null,
+      "mid_list": null,
+      "reference_num": 38,
+      "uid": "",
+      "top_quote_list": {},
+      "msg_format": "markdown",
+      "share_card_multimodal": {
+        "w": 1440,
+        "hit_score_new": 81.738281,
+        "doc_score": 5255,
+        "scheme": "sinaweibo://multimedia?mix_mid=5227888573946048&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=0",
+        "click_rate": 0.063492063492063,
+        "type": "p",
+        "video_url": "",
+        "h": 1080,
+        "cur_mid": "5227888573946048",
+        "img": "http://wx2.sinaimg.cn/middle/007Ip8tdgy1i6vrtguf0tj31400u041c.jpg",
+        "vtype": 0,
+        "user_name": "白色可可栗",
+        "hit_score_final": 81.042969,
+        "user_avatar": "https://tvax2.sinaimg.cn/crop.0.0.941.941.50/007Ip8tdly8ht2xraiaqxj30q50q5myi.jpg?KID=imgbed,tva&Expires=1761939010&ssig=Sqw22JYlrE",
+        "img_pid": "007Ip8tdgy1i6vrtguf0tj31400u041c"
+      },
+      "chat_status_stage": 1,
+      "basemodel": "实验组8",
+      "version": "2025-11-01 00:30:10.030999-3805",
+      "reliable_tips": "{\"gold_orange_v_mids\": [\"5227897193502203\", \"5227895207494551\", \"5227888573946048\", \"5227896417289928\", \"5227899173210301\", \"5227900111685723\", \"5227902033468057\", \"5227901488207895\", \"5227894458811883\", \"5227893439337849\", \"5227895742270664\", \"5227886161432825\", \"5227902085896740\", \"5227900619199572\", \"5227897790929306\", \"5227962232212675\", \"5227955724485383\", \"5227956637014114\", \"5227896177954668\", \"5227895811212881\", \"5227898967168492\", \"5227901453863340\", \"5227896148856240\", \"5227896780361223\", \"5227897805344897\", \"5227962654001740\", \"5227901147680887\", \"5227895766910927\", \"5227892101619953\", \"5227900224673670\", \"5227896493051428\", \"5227900552875192\"], \"gold_orange_v_ratio\": \"84%\", \"media_mids\": [], \"media_ratio\": \"0%\", \"verified_mids\": [\"5227885105252611\", \"5227897134516101\", \"5227896597908854\", \"5227902570598188\", \"5227890369364590\"], \"verified_ratio\": \"13%\", \"normal_mids\": [\"5227896295656723\"], \"normal_ratio\": \"3%\", \"ref_mid_rank\": {\"5227885105252611\": {\"rank\": 1}, \"5227897193502203\": {\"rank\": 28}, \"5227895207494551\": {\"rank\": 12}, \"5227888573946048\": {\"rank\": 16}, \"5227897134516101\": {\"rank\": 2}, \"5227896417289928\": {\"rank\": 25}, \"5227899173210301\": {\"rank\": 36}, \"5227900111685723\": {\"rank\": 9}, \"5227902033468057\": {\"rank\": 14}, \"5227901488207895\": {\"rank\": 26}, \"5227896597908854\": {\"rank\": 27}, \"5227894458811883\": {\"rank\": 32}, \"5227893439337849\": {\"rank\": 21}, \"5227902570598188\": {\"rank\": 38}, \"5227895742270664\": {\"rank\": 31}, \"5227886161432825\": {\"rank\": 37}, \"5227902085896740\": {\"rank\": 17}, \"5227900619199572\": {\"rank\": 20}, \"5227897790929306\": {\"rank\": 24}, \"5227962232212675\": {\"rank\": 3}, \"5227955724485383\": {\"rank\": 10}, \"5227956637014114\": {\"rank\": 40}, \"5227896177954668\": {\"rank\": 39}, \"5227895811212881\": {\"rank\": 29}, \"5227898967168492\": {\"rank\": 34}, \"5227890369364590\": {\"rank\": 8}, \"5227901453863340\": {\"rank\": 11}, \"5227896148856240\": {\"rank\": 13}, \"5227896780361223\": {\"rank\": 15}, \"5227897805344897\": {\"rank\": 18}, \"5227962654001740\": {\"rank\": 19}, \"5227901147680887\": {\"rank\": 22}, \"5227895766910927\": {\"rank\": 23}, \"5227892101619953\": {\"rank\": 30}, \"5227896295656723\": {\"rank\": 33}, \"5227900224673670\": {\"rank\": 35}, \"5227896493051428\": {\"rank\": 41}, \"5227900552875192\": {\"rank\": 42}}}",
+      "comment_info": {},
+      "link_list": [
+        "sinaweibo://detail?mblogid=5227885105252611",
+        "sinaweibo://detail?mblogid=5227897134516101",
+        "sinaweibo://detail?mblogid=5227962232212675",
+        "broadsocial_res://",
+        "historyweibo://5227885105252611",
+        "historyweibo://5220277648362616",
+        "historyweibo://5218534416453579",
+        "sinaweibo://detail?mblogid=5227890369364590",
+        "sinaweibo://detail?mblogid=5227900111685723",
+        "sinaweibo://detail?mblogid=5227955724485383",
+        "sinaweibo://detail?mblogid=5227901453863340",
+        "sinaweibo://detail?mblogid=5227895207494551",
+        "sinaweibo://detail?mblogid=5227896148856240",
+        "sinaweibo://detail?mblogid=5227902033468057",
+        "sinaweibo://detail?mblogid=5227896780361223",
+        "sinaweibo://detail?mblogid=5227888573946048",
+        "sinaweibo://detail?mblogid=5227902085896740",
+        "sinaweibo://detail?mblogid=5227897805344897",
+        "sinaweibo://detail?mblogid=5227962654001740",
+        "sinaweibo://detail?mblogid=5227900619199572",
+        "sinaweibo://detail?mblogid=5227893439337849",
+        "sinaweibo://detail?mblogid=5227901147680887",
+        "sinaweibo://detail?mblogid=5227895766910927",
+        "sinaweibo://detail?mblogid=5227897790929306",
+        "sinaweibo://detail?mblogid=5227896417289928",
+        "sinaweibo://detail?mblogid=5227901488207895",
+        "sinaweibo://detail?mblogid=5227896597908854",
+        "sinaweibo://detail?mblogid=5227897193502203",
+        "sinaweibo://detail?mblogid=5227895811212881",
+        "sinaweibo://detail?mblogid=5227892101619953",
+        "sinaweibo://detail?mblogid=5227895742270664",
+        "sinaweibo://detail?mblogid=5227894458811883",
+        "sinaweibo://detail?mblogid=5227896295656723",
+        "sinaweibo://detail?mblogid=5227898967168492",
+        "sinaweibo://detail?mblogid=5227900224673670",
+        "sinaweibo://detail?mblogid=5227899173210301",
+        "sinaweibo://detail?mblogid=5227886161432825",
+        "sinaweibo://detail?mblogid=5227902570598188",
+        "sinaweibo://detail?mblogid=5227896177954668",
+        "sinaweibo://detail?mblogid=5227956637014114",
+        "sinaweibo://detail?mblogid=5227896493051428",
+        "sinaweibo://detail?mblogid=5227900552875192"
+      ],
+      "msg": "<think><br>嗯，用户让我整理关于\"TF家族 阿巴阿巴描述大会\"的信息。首先，我需要仔细看看搜索结果的内容。根据结果1和8，这是TF家族在《星期五练习生》系列中的一个节目，发布于2025年10月31日。节目内容主要包括抽象画描述挑战、角色扮演和猜食物游戏，这些都是无厘头搞笑的环节。<br><br>接下来，成员表现方面，结果5详细列出了各个成员的亮点。比如左奇函和杨博文的合作舞台被称为\"四代第一美帝组合\"，王橹杰的颜值引发热议，陈浚铭被称为全能ACE，张函瑞展现主唱实力。还有张桂源的反差萌，这些都来自粉丝的反馈。<br><br>粉丝反应部分，结果2、9、11、12等微博显示粉丝们积极安利各自的担，尤其是王橹杰的颜值和陈浚铭的真诚人设。同时，CP组合如\"奇文\"（左奇函和杨博文）和\"杨桂\"（杨博文和张桂源）被多次提及，结果36还提到他们的舞台数据很好，播放量破百万。<br><br>争议点方面，结果24提到李煜东的镜头问题，粉丝抱怨镜头分配不均。而陈奕恒的缺席引发不少粉丝要求回归，如结果3、10、19、40，这些微博都在追问他的回归时间。结果4澄清了商务车超载事件与本次节目无关，属于历史问题。<br><br>另外，结果7提到陈奕恒之前的争议事件，比如私生问题和辱华动漫临摹，公司已经回应，但粉丝仍有分歧。这可能会影响四代的口碑，但节目本身似乎没有直接涉及这些。<br><br>时效性方面，大部分结果都是10月31日的，最新的是11月1日，所以信息应该是最新的。需要确认哪些内容是最相关的，避免引用过时信息。<br><br>综合来看，用户可能需要一个全面的节目介绍，包括内容、成员表现、粉丝反应和争议。需要结构清晰，分点整理，同时注意引用多个结果支持不同部分，比如节目内容用结果1、5，成员表现用5、12、32，粉丝安利用9、11、17，争议部分用24、3、40。同时提醒争议点，如李煜东镜头和陈奕恒回归问题，让用户注意信息差异。<br><br></think><br>以下是关于 **TF家族《阿巴阿巴描述大会》** 的全面整理，结合节目内容、成员表现及粉丝热议焦点：<br>### 🎬 **一、节目核心内容与亮点**  <br>1. **创意挑战环节**  <br>   - **抽象画描述**：成员需对抽象画作进行即兴解读，如将脚趾比作“古风山峦”，展现脑洞与幽默感。```wbCustomBlock{\"type\": \"quoted\", \"index\": 5, \"data\": {\"num\": [1], \"version\": 2, \"quote_list\": [{\"name\": \"TF家族\", \"scheme\": \"sinaweibo://detail?mblogid=5227885105252611\", \"index\": 1, \"label\": \"大v\"}], \"name\": \"TF家族\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/e8715032ly8fxtwzkdg6jj20u00u00tj.jpg?KID=imgbed,tva&Expires=1761939010&ssig=UJAez9NqJY\", \"scheme\": \"sinaweibo://detail?mblogid=5227885105252611\", \"vType\": 7}}```  <br>   - **角色扮演**：包括“尔康式深情”“紫薇式柔弱”“霸总攻陷小白兔”等经典桥段即兴演绎，笑点密集。```wbCustomBlock{\"type\": \"quoted\", \"index\": 6, \"data\": {\"num\": [1], \"version\": 2, \"quote_list\": [{\"name\": \"TF家族\", \"scheme\": \"sinaweibo://detail?mblogid=5227885105252611\", \"index\": 1, \"label\": \"\"}]}}```  <br>   - **猜食物大战**：蒙眼猜食物环节，同步考验腰力与脑力，角逐“食力赢家”称号。```wbCustomBlock{\"type\": \"quoted\", \"index\": 7, \"data\": {\"num\": [1], \"version\": 2, \"quote_list\": [{\"name\": \"TF家族\", \"scheme\": \"sinaweibo://detail?mblogid=5227885105252611\", \"index\": 1, \"label\": \"\"}]}}```  <br><br>2. **喜剧效果**  <br>   - 成员多次因无厘头描述笑场（如张桂源的“装凶小狗”反差萌），综艺感拉满。```wbCustomBlock{\"type\": \"quoted\", \"index\": 9, \"data\": {\"num\": [28], \"version\": 2, \"quote_list\": [{\"name\": \"桂桂岁岁_好运来\", \"scheme\": \"sinaweibo://detail?mblogid=5227897193502203\", \"index\": 28, \"label\": \"\"}]}}```  <br>   - 王橹杰花絮中翘起的呆毛、陈浚铭因“帅到听不清说话”成热议细节。```wbCustomBlock{\"type\": \"quoted\", \"index\": 10, \"data\": {\"num\": [12, 16], \"version\": 2, \"quote_list\": [{\"name\": \"白色可可栗\", \"scheme\": \"sinaweibo://detail?mblogid=5227888573946048\", \"index\": 16, \"label\": \"大v\"}, {\"name\": \"波波爱吃猪排\", \"scheme\": \"sinaweibo://detail?mblogid=5227895207494551\", \"index\": 12, \"label\": \"\"}], \"name\": \"白色可可栗\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.941.941.50/007Ip8tdly8ht2xraiaqxj30q50q5myi.jpg?KID=imgbed,tva&Expires=1761939010&ssig=Sqw22JYlrE\", \"scheme\": \"sinaweibo://detail?mblogid=5227888573946048\", \"vType\": 0}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5227888573946048&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.941.941.50/007Ip8tdly8ht2xraiaqxj30q50q5myi.jpg?KID=imgbed,tva&Expires=1761939010&ssig=Sqw22JYlrE) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">白色可可栗</span><img src=\"http://wx2.sinaimg.cn/middle/007Ip8tdgy1i6vrtguf0tj31400u041c.jpg\" data-width=1080 data-height=1440></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5227885105252611&multi_paragraph=1&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/e8715032ly8fxtwzkdg6jj20u00u00tj.jpg?KID=imgbed,tva&Expires=1761939010&ssig=UJAez9NqJY) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">TF家族</span><img src=\"http://wx4.sinaimg.cn/middle/e8715032ly1i6voaabrnpj218a0oxh8u.jpg\" data-width=897 data-height=1594></div></media-block><br>### 🌟 **二、成员表现与高光时刻**  <br>1. **舞台与合作**  <br>   - **左奇函 × 杨博文**：  <br>     - 鼓手与贝斯双强联动，舞台被赞“四代第一美帝组合”，眼神互动登热搜。```wbCustomBlock{\"type\": \"quoted\", \"index\": 15, \"data\": {\"num\": [2, 25], \"version\": 2, \"quote_list\": [{\"name\": \"小馒不困Y\", \"scheme\": \"sinaweibo://detail?mblogid=5227896417289928\", \"index\": 25, \"label\": \"大v\"}, {\"name\": \"Song_Yke里里\", \"scheme\": \"sinaweibo://detail?mblogid=5227897134516101\", \"index\": 2, \"label\": \"\"}], \"name\": \"小馒不困Y\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/006VhFtfly8i6sjc2pst4j30u00u00ui.jpg?KID=imgbed,tva&Expires=1761939010&ssig=%2BtutyFArXC\", \"scheme\": \"sinaweibo://detail?mblogid=5227896417289928\", \"vType\": 0}}```  <br>   - **杨博文 × 张桂源**：  <br>     - 双主舞组合“杨桂”，Cover舞台播放量破百万，获公司老板转发认证。```wbCustomBlock{\"type\": \"quoted\", \"index\": 17, \"data\": {\"num\": [36], \"version\": 2, \"quote_list\": [{\"name\": \"GPFYE_杨桂妃\", \"scheme\": \"sinaweibo://detail?mblogid=5227899173210301\", \"index\": 36, \"label\": \"\"}]}}```  <br><br>2. **个人亮眼表现**  <br>   - **王橹杰**：门面主唱颜值刷屏，粉丝称“帅到阿巴阿巴”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 19, \"data\": {\"num\": [9, 14, 26], \"version\": 2, \"quote_list\": [{\"name\": \"桃色纵晚\", \"scheme\": \"sinaweibo://detail?mblogid=5227900111685723\", \"index\": 9, \"label\": \"\"}, {\"name\": \"松羽噔噔\", \"scheme\": \"sinaweibo://detail?mblogid=5227902033468057\", \"index\": 14, \"label\": \"\"}, {\"name\": \"养豚守则\", \"scheme\": \"sinaweibo://detail?mblogid=5227901488207895\", \"index\": 26, \"label\": \"\"}]}}```  <br>   - **陈浚铭**：  <br>     - “四代全能门面ACE”，吉他考核A+，公演中主动分应援物给队友，立住“真诚小狗”人设。```wbCustomBlock{\"type\": \"quoted\", \"index\": 21, \"data\": {\"num\": [27, 32], \"version\": 2, \"quote_list\": [{\"name\": \"铭猪肉肉\", \"scheme\": \"sinaweibo://detail?mblogid=5227896597908854\", \"index\": 27, \"label\": \"\"}, {\"name\": \"嘻嘻嘿嘿的妈妈\", \"scheme\": \"sinaweibo://detail?mblogid=5227894458811883\", \"index\": 32, \"label\": \"\"}]}}```  <br>   - **张函瑞**：主唱展现“灵魂歌手”实力，舞台表情管理被誉“权威脸”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 22, \"data\": {\"num\": [21, 38], \"version\": 2, \"quote_list\": [{\"name\": \"ShineMus_Cat\", \"scheme\": \"sinaweibo://detail?mblogid=5227893439337849\", \"index\": 21, \"label\": \"\"}, {\"name\": \"拾光春露\", \"scheme\": \"sinaweibo://detail?mblogid=5227902570598188\", \"index\": 38, \"label\": \"\"}]}}```  <br>   - **张桂源**：综艺感突出，重庆话按摩片段圈粉。```wbCustomBlock{\"type\": \"quoted\", \"index\": 23, \"data\": {\"num\": [31, 37], \"version\": 2, \"quote_list\": [{\"name\": \"予辞哄源\", \"scheme\": \"sinaweibo://detail?mblogid=5227895742270664\", \"index\": 31, \"label\": \"大v\"}, {\"name\": \"小猫的白兰地_\", \"scheme\": \"sinaweibo://detail?mblogid=5227886161432825\", \"index\": 37, \"label\": \"\"}], \"name\": \"予辞哄源\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.1024.1024.50/006W85nply8i6uqwnyv76j30sg0sgwg7.jpg?KID=imgbed,tva&Expires=1761939010&ssig=NZQOD3jkjG\", \"scheme\": \"sinaweibo://detail?mblogid=5227895742270664\", \"vType\": 0}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5227897134516101&from=search&content_show=1&mix_index=7&hide_index=1&multi_paragraph=2&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/008aku3Ily8i5zkqe3tf3j30u00u0783.jpg?KID=imgbed,tva&Expires=1761939010&ssig=6SDkRohVzf) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">Song_Yke里里</span><img src=\"http://wx3.sinaimg.cn/middle/008aku3Ily1i6vssnuxwtj30qo0zktev.jpg\" data-width=1280 data-height=960></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5227896597908854&from=search&content_show=1&mix_index=2&hide_index=1&multi_paragraph=2&multi_count=1\"><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/008AKygRly8i6j6vl8fswj30u00u0mzm.jpg?KID=imgbed,tva&Expires=1761939010&ssig=RkBPa%2Fcp%2BY) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">铭猪肉肉</span><img src=\"http://wx2.sinaimg.cn/middle/008AKygRgy1i6vsq58jucj30qo0zkq8l.jpg\" data-width=1280 data-height=960></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5227902570598188&from=search&content_show=1&mix_index=3&hide_index=1&multi_paragraph=2&multi_count=2\"><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/008gQEBUly8i5s0l1k4lkj30u00u1761.jpg?KID=imgbed,tva&Expires=1761939010&ssig=CQgANcMqTY) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">拾光春露</span><img src=\"http://wx3.sinaimg.cn/middle/008gQEBUgy1i6vtefnti0j30zk0qon0w.jpg\" data-width=960 data-height=1280></div></media-block><br>### 💬 **三、粉丝热议焦点**  <br>1. **CP安利风暴**  <br>   - **“奇文”（左奇函×杨博文）**：因鼓贝斯合作舞台登“四代美帝”宝座。```wbCustomBlock{\"type\": \"quoted\", \"index\": 27, \"data\": {\"num\": [17, 25], \"version\": 2, \"quote_list\": [{\"name\": \"奇乐多多_\", \"scheme\": \"sinaweibo://detail?mblogid=5227902085896740\", \"index\": 17, \"label\": \"\"}, {\"name\": \"小馒不困Y\", \"scheme\": \"sinaweibo://detail?mblogid=5227896417289928\", \"index\": 25, \"label\": \"\"}]}}```  <br>   - **“杨桂”（杨博文×张桂源）**：双人舞台默契获封“废土风神作”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 28, \"data\": {\"num\": [36], \"version\": 2, \"quote_list\": [{\"name\": \"GPFYE_杨桂妃\", \"scheme\": \"sinaweibo://detail?mblogid=5227899173210301\", \"index\": 36, \"label\": \"\"}]}}```  <br><br>2. **个人应援争议**  <br>   - **李煜东**：粉丝抗议“一小时物料仅3分钟镜头”，质疑公司区别对待。```wbCustomBlock{\"type\": \"quoted\", \"index\": 30, \"data\": {\"num\": [20, 24], \"version\": 2, \"quote_list\": [{\"name\": \"易斯荔枝\", \"scheme\": \"sinaweibo://detail?mblogid=5227900619199572\", \"index\": 20, \"label\": \"\"}, {\"name\": \"馒头车厘子\", \"scheme\": \"sinaweibo://detail?mblogid=5227897790929306\", \"index\": 24, \"label\": \"\"}]}}```  <br>   - **陈奕恒**：  <br>     - 暂离成员（原因：素人期私生争议+历史临摹画争议），粉丝刷屏要求回归时间表。```wbCustomBlock{\"type\": \"quoted\", \"index\": 32, \"data\": {\"num\": [3, 10, 40], \"version\": 2, \"quote_list\": [{\"name\": \"-海盐芝士焗饭-\", \"scheme\": \"sinaweibo://detail?mblogid=5227962232212675\", \"index\": 3, \"label\": \"\"}, {\"name\": \"-奕心一奕\", \"scheme\": \"sinaweibo://detail?mblogid=5227955724485383\", \"index\": 10, \"label\": \"\"}, {\"name\": \"彻夜绘\", \"scheme\": \"sinaweibo://detail?mblogid=5227956637014114\", \"index\": 40, \"label\": \"\"}]}}```  <br>     - 关联明信片现身话题，引发矛盾。```wbCustomBlock{\"type\": \"quoted\", \"index\": 33, \"data\": {\"num\": [39], \"version\": 2, \"quote_list\": [{\"name\": \"爱豆乐舞小社\", \"scheme\": \"sinaweibo://detail?mblogid=5227896177954668\", \"index\": 39, \"label\": \"\"}]}}```  <br><br>3. **称号争夺战**  <br>   - 粉丝争辩“四代第一主舞”“四代第一主唱”等头衔归属（如张桂源vs杨博文、张函瑞）。```wbCustomBlock{\"type\": \"quoted\", \"index\": 35, \"data\": {\"num\": [21, 29, 34], \"version\": 2, \"quote_list\": [{\"name\": \"ShineMus_Cat\", \"scheme\": \"sinaweibo://detail?mblogid=5227893439337849\", \"index\": 21, \"label\": \"\"}, {\"name\": \"屁纯元\", \"scheme\": \"sinaweibo://detail?mblogid=5227895811212881\", \"index\": 29, \"label\": \"\"}, {\"name\": \"桃浦香菜\", \"scheme\": \"sinaweibo://detail?mblogid=5227898967168492\", \"index\": 34, \"label\": \"\"}]}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5227902085896740&multi_paragraph=3&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/008BAk8ily8i60urnxz5vj30u00u0q69.jpg?KID=imgbed,tva&Expires=1761939010&ssig=0ljo8TJUv%2B) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">奇乐多多_</span><img src=\"http://wx2.sinaimg.cn/middle/008Fl6nRly1i4is13pnenj31hc0u0766.jpg\" data-width=1080 data-height=1920></div><div data-type=\"v\" data-scheme=\"sinaweibo://multimedia?mix_mid=5227955724485383&mix_index=0&multi_paragraph=3&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/008A16Tqly8i5p2thha6uj30u00u0ta9.jpg?KID=imgbed,tva&Expires=1761939010&ssig=LDOF45kkcm) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">-奕心一奕</span><img src=\"http://wx2.sinaimg.cn/middle/008A16Tqly1i6vziy1pjgj30zk0k0t9h.jpg\" data-width=720 data-height=1280></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5227956637014114&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=3&multi_count=2\"><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.512.512.50/007Xhg3Dly8i051f10uiij30e80e8dh8.jpg?KID=imgbed,tva&Expires=1761939010&ssig=zdLzxzjcjj) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">彻夜绘</span><img src=\"http://wx3.sinaimg.cn/middle/007Xhg3Dgy1i6vzmqjwnqj32s03p9x6p.jpg\" data-width=4797 data-height=3600></div></media-block><br>### ⚠️ **四、争议与风险提示**  <br>1. **镜头分配不均**：李煜东、陈奕恒关联内容存在曝光量争议，需以官宣为准。```wbCustomBlock{\"type\": \"quoted\", \"index\": 38, \"data\": {\"num\": [24], \"version\": 2, \"quote_list\": [{\"name\": \"馒头车厘子\", \"scheme\": \"sinaweibo://detail?mblogid=5227897790929306\", \"index\": 24, \"label\": \"\"}]}}```  <br>2. **成员历史事件**：  <br>   - 商务车超载事件（核载7人实载14人）属历史管理疏漏，与本次节目无关。  <br>   - 陈奕恒争议事件未完全平息，回归可能引发舆情反弹。<br>### 📌 **总结**  <br>《阿巴阿巴描述大会》以**无厘头挑战+成员化学反应**为核心卖点，四代练习生通过综艺感与舞台魅力持续圈粉。节目适合偏好轻松搞笑、热衷挖掘新人潜力的观众，但需注意：  <br>- 官方渠道：正片与花絮通过 **TF家族官博及FanClub APP** 发布；```wbCustomBlock{\"type\": \"quoted\", \"index\": 44, \"data\": {\"num\": [8], \"version\": 2, \"quote_list\": [{\"name\": \"TF家族\", \"scheme\": \"sinaweibo://detail?mblogid=5227890369364590\", \"index\": 8, \"label\": \"\"}]}}```  <br>- 理性看待：粉丝安利中的“四代第一XX”等称号属主观评价，镜头分配争议需以官方物料为准。<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5227890369364590&from=search&content_show=1&mix_index=2&hide_index=1&multi_paragraph=5&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/e8715032ly8fxtwzkdg6jj20u00u00tj.jpg?KID=imgbed,tva&Expires=1761939010&ssig=UJAez9NqJY) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">TF家族</span><img src=\"http://wx2.sinaimg.cn/middle/e8715032gy1i6vrzqriusj20yr3jb4qp.jpg\" data-width=4583 data-height=1251></div></media-block><br>",
+      "current_time": 1761928764,
+      "profile_image_url": "",
+      "scheme": "sinaweibo://cardlist?containerid=100103type%3D225%26q%3D%23tf%E5%AE%B6%E6%97%8F%20%E9%98%BF%E5%B7%B4%E9%98%BF%E5%B7%B4%E6%8F%8F%E8%BF%B0%E5%A4%A7%E4%BC%9A%23%26t%3D&extparam=ai_model%3Ddeepseek%26ori_ai_title%3D%E5%8F%82%E8%80%83%E5%8D%9A%E6%96%87%26material_version%3D1761928210",
+      "msg_json": "{}",
+      "share_text": "#TF家族 阿巴阿巴描述大会#的相关内容，来智搜看看",
+      "ext_show": {},
+      "query_field": "1",
+      "qs_status_info": "{\"qs_c_status\":8388608,\"qs_status\":0,\"qs_q_status\":0,\"ab_lab\":{},\"qs_r_status\":0,\"qs_u_status\":0}",
+      "page_id": "232964811768bc7e94aa6de754eaada86839b1",
+      "loop_times": 200,
+      "wenda": {
+        "forward_gen": 0
+      },
+      "share_info": {
+        "unify_md5": "20b138db045b0e3dcec83490d2b32429",
+        "comment_content": "",
+        "url": "http://t.cn/AXAVMrGN",
+        "status": 3,
+        "page_id": "232964811768bc7e94aa6de754eaada86839b1",
+        "tips": "#TF家族 阿巴阿巴描述大会#的相关内容，来智搜看看",
+        "display_name": "#TF家族 阿巴阿巴描述大会#"
+      },
+      "cot": 1,
+      "q_attr": {
+        "reply_cid": "",
+        "comment_from_type": "",
+        "mid": "",
+        "from_uid": "",
+        "from_request_id": ""
+      },
+      "news_analyze": {},
+      "card_multimodal": {
+        "type": "mediablock",
+        "data": [
+          {
+            "w": 1440,
+            "hit_score_new": 81.738281,
+            "doc_score": 5255,
+            "scheme": "sinaweibo://multimedia?mix_mid=5227888573946048&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=0",
+            "click_rate": 0.063492063492063,
+            "type": "p",
+            "video_url": "",
+            "h": 1080,
+            "cur_mid": "5227888573946048",
+            "img": "http://wx2.sinaimg.cn/middle/007Ip8tdgy1i6vrtguf0tj31400u041c.jpg",
+            "vtype": 0,
+            "user_name": "白色可可栗",
+            "hit_score_final": 81.042969,
+            "user_avatar": "https://tvax2.sinaimg.cn/crop.0.0.941.941.50/007Ip8tdly8ht2xraiaqxj30q50q5myi.jpg?KID=imgbed,tva&Expires=1761939010&ssig=Sqw22JYlrE",
+            "img_pid": "007Ip8tdgy1i6vrtguf0tj31400u041c"
+          },
+          {
+            "w": 1594,
+            "hit_score_new": 0,
+            "doc_score": 0,
+            "scheme": "sinaweibo://video/vvs?mid=5227885105252611&multi_paragraph=1&multi_count=1",
+            "click_rate": 0.041551548640396,
+            "type": "v",
+            "video_url": "https://video.weibo.com/show?fid=1034:5227822852276270",
+            "h": 897,
+            "cur_mid": "5227885105252611",
+            "img": "http://wx4.sinaimg.cn/middle/e8715032ly1i6voaabrnpj218a0oxh8u.jpg",
+            "vtype": 7,
+            "user_name": "TF家族",
+            "hit_score_final": 0,
+            "user_avatar": "https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/e8715032ly8fxtwzkdg6jj20u00u00tj.jpg?KID=imgbed,tva&Expires=1761939010&ssig=UJAez9NqJY",
+            "img_pid": "e8715032ly1i6voaabrnpj218a0oxh8u"
+          },
+          {
+            "w": 960,
+            "hit_score_new": 68.066406,
+            "doc_score": 2028,
+            "scheme": "sinaweibo://multimedia?mix_mid=5227897134516101&from=search&content_show=1&mix_index=7&hide_index=1&multi_paragraph=2&multi_count=0",
+            "click_rate": 0.06,
+            "type": "p",
+            "video_url": "",
+            "h": 1280,
+            "cur_mid": "5227897134516101",
+            "img": "http://wx3.sinaimg.cn/middle/008aku3Ily1i6vssnuxwtj30qo0zktev.jpg",
+            "vtype": 0,
+            "user_name": "Song_Yke里里",
+            "hit_score_final": 62.839844,
+            "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/008aku3Ily8i5zkqe3tf3j30u00u0783.jpg?KID=imgbed,tva&Expires=1761939010&ssig=6SDkRohVzf",
+            "img_pid": "008aku3Ily1i6vssnuxwtj30qo0zktev"
+          },
+          {
+            "w": 1440,
+            "hit_score_new": 81.738281,
+            "doc_score": 5255,
+            "scheme": "sinaweibo://multimedia?mix_mid=5227888573946048&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=0",
+            "click_rate": 0.063492063492063,
+            "type": "p",
+            "video_url": "",
+            "h": 1080,
+            "cur_mid": "5227888573946048",
+            "img": "http://wx2.sinaimg.cn/middle/007Ip8tdgy1i6vrtguf0tj31400u041c.jpg",
+            "vtype": 0,
+            "user_name": "白色可可栗",
+            "hit_score_final": 81.042969,
+            "user_avatar": "https://tvax2.sinaimg.cn/crop.0.0.941.941.50/007Ip8tdly8ht2xraiaqxj30q50q5myi.jpg?KID=imgbed,tva&Expires=1761939010&ssig=Sqw22JYlrE",
+            "img_pid": "007Ip8tdgy1i6vrtguf0tj31400u041c"
+          }
+        ]
+      },
+      "short_url": "http://t.cn/AXAVJ6w5",
+      "user_info": {},
+      "zs_risk_control": {
+        "think_text_close": 0,
+        "land_button_close": 0
+      },
+      "unify_md5": "20b138db045b0e3dcec83490d2b32429",
+      "qs_status": 0,
+      "show_ctrl": {
+        "quote": {}
+      },
+      "query": "#TF家族 阿巴阿巴描述大会#",
+      "status": 2,
+      "ab_suffix": "default",
+      "abtest_info": {
+        "chat_entrance": 1
+      },
+      "status_stage": 4
+    }
+  },
+  "links": [
+    "sinaweibo://detail?mblogid=5227885105252611",
+    "sinaweibo://detail?mblogid=5227897134516101",
+    "sinaweibo://detail?mblogid=5227962232212675",
+    "broadsocial_res://",
+    "historyweibo://5227885105252611",
+    "historyweibo://5220277648362616",
+    "historyweibo://5218534416453579",
+    "sinaweibo://detail?mblogid=5227890369364590",
+    "sinaweibo://detail?mblogid=5227900111685723",
+    "sinaweibo://detail?mblogid=5227955724485383",
+    "sinaweibo://detail?mblogid=5227901453863340",
+    "sinaweibo://detail?mblogid=5227895207494551",
+    "sinaweibo://detail?mblogid=5227896148856240",
+    "sinaweibo://detail?mblogid=5227902033468057",
+    "sinaweibo://detail?mblogid=5227896780361223",
+    "sinaweibo://detail?mblogid=5227888573946048",
+    "sinaweibo://detail?mblogid=5227902085896740",
+    "sinaweibo://detail?mblogid=5227897805344897",
+    "sinaweibo://detail?mblogid=5227962654001740",
+    "sinaweibo://detail?mblogid=5227900619199572",
+    "sinaweibo://detail?mblogid=5227893439337849",
+    "sinaweibo://detail?mblogid=5227901147680887",
+    "sinaweibo://detail?mblogid=5227895766910927",
+    "sinaweibo://detail?mblogid=5227897790929306",
+    "sinaweibo://detail?mblogid=5227896417289928",
+    "sinaweibo://detail?mblogid=5227901488207895",
+    "sinaweibo://detail?mblogid=5227896597908854",
+    "sinaweibo://detail?mblogid=5227897193502203",
+    "sinaweibo://detail?mblogid=5227895811212881",
+    "sinaweibo://detail?mblogid=5227892101619953",
+    "sinaweibo://detail?mblogid=5227895742270664",
+    "sinaweibo://detail?mblogid=5227894458811883",
+    "sinaweibo://detail?mblogid=5227896295656723",
+    "sinaweibo://detail?mblogid=5227898967168492",
+    "sinaweibo://detail?mblogid=5227900224673670",
+    "sinaweibo://detail?mblogid=5227899173210301",
+    "sinaweibo://detail?mblogid=5227886161432825",
+    "sinaweibo://detail?mblogid=5227902570598188",
+    "sinaweibo://detail?mblogid=5227896177954668",
+    "sinaweibo://detail?mblogid=5227956637014114",
+    "sinaweibo://detail?mblogid=5227896493051428",
+    "sinaweibo://detail?mblogid=5227900552875192"
+  ],
+  "media": [
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/007Ip8tdgy1i6vrtguf0tj31400u041c.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/007Ip8tdgy1i6vrtguf0tj31400u041c.jpg",
+      "alt": "白色可可栗",
+      "width": 1080,
+      "height": 1440,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/007Ip8tdgy1i6vrtguf0tj31400u041c.jpg"
+      ],
+      "user": "白色可可栗"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/e8715032ly1i6voaabrnpj218a0oxh8u.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/e8715032ly1i6voaabrnpj218a0oxh8u.jpg",
+      "alt": "TF家族",
+      "width": 897,
+      "height": 1594,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/e8715032ly1i6voaabrnpj218a0oxh8u.jpg"
+      ],
+      "user": "TF家族"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/008aku3Ily1i6vssnuxwtj30qo0zktev.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/008aku3Ily1i6vssnuxwtj30qo0zktev.jpg",
+      "alt": "Song_Yke里里",
+      "width": 1280,
+      "height": 960,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/008aku3Ily1i6vssnuxwtj30qo0zktev.jpg"
+      ],
+      "user": "Song_Yke里里"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/008AKygRgy1i6vsq58jucj30qo0zkq8l.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/008AKygRgy1i6vsq58jucj30qo0zkq8l.jpg",
+      "alt": "铭猪肉肉",
+      "width": 1280,
+      "height": 960,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/008AKygRgy1i6vsq58jucj30qo0zkq8l.jpg"
+      ],
+      "user": "铭猪肉肉"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/008gQEBUgy1i6vtefnti0j30zk0qon0w.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/008gQEBUgy1i6vtefnti0j30zk0qon0w.jpg",
+      "alt": "拾光春露",
+      "width": 960,
+      "height": 1280,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/008gQEBUgy1i6vtefnti0j30zk0qon0w.jpg"
+      ],
+      "user": "拾光春露"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/008Fl6nRly1i4is13pnenj31hc0u0766.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/008Fl6nRly1i4is13pnenj31hc0u0766.jpg",
+      "alt": "奇乐多多_",
+      "width": 1080,
+      "height": 1920,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/008Fl6nRly1i4is13pnenj31hc0u0766.jpg"
+      ],
+      "user": "奇乐多多_"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/008A16Tqly1i6vziy1pjgj30zk0k0t9h.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/008A16Tqly1i6vziy1pjgj30zk0k0t9h.jpg",
+      "alt": "-奕心一奕",
+      "width": 720,
+      "height": 1280,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/008A16Tqly1i6vziy1pjgj30zk0k0t9h.jpg"
+      ],
+      "user": "-奕心一奕"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/007Xhg3Dgy1i6vzmqjwnqj32s03p9x6p.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/007Xhg3Dgy1i6vzmqjwnqj32s03p9x6p.jpg",
+      "alt": "彻夜绘",
+      "width": 4797,
+      "height": 3600,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/007Xhg3Dgy1i6vzmqjwnqj32s03p9x6p.jpg"
+      ],
+      "user": "彻夜绘"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/e8715032gy1i6vrzqriusj20yr3jb4qp.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/e8715032gy1i6vrzqriusj20yr3jb4qp.jpg",
+      "alt": "TF家族",
+      "width": 4583,
+      "height": 1251,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/e8715032gy1i6vrzqriusj20yr3jb4qp.jpg"
+      ],
+      "user": "TF家族"
+    }
+  ],
+  "html_path": "data/aicard/hourly/2025-11-01/00/tf.html"
+}

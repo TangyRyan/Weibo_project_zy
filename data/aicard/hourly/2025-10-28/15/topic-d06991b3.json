@@ -1,0 +1,210 @@
+{
+  "meta": {
+    "query": "#烟台理工学院通报学生坠楼身亡#",
+    "status_code": 200,
+    "fetched_at": "2025-10-28T17:48:56+08:00",
+    "response": {
+      "news_analyze": {},
+      "reliable_tips": "{\"gold_orange_v_mids\": [], \"gold_orange_v_ratio\": \"0%\", \"media_mids\": [\"5226694639620295\", \"5226719096084136\", \"5226696078791980\", \"5226746547012994\"], \"media_ratio\": \"100%\", \"verified_mids\": [], \"verified_ratio\": \"0%\", \"normal_mids\": [], \"normal_ratio\": \"0%\", \"ref_mid_rank\": {\"5226694639620295\": {\"rank\": 1}, \"5226719096084136\": {\"rank\": 2}, \"5226696078791980\": {\"rank\": 3}, \"5226746547012994\": {\"rank\": 4}}}",
+      "qs_status_info": "{\"qs_status\":0,\"qs_c_status\":8388608,\"ab_lab\":{},\"qs_u_status\":0,\"qs_r_status\":0,\"qs_q_status\":256}",
+      "mid_list": null,
+      "reference_num": 4,
+      "query_category": "Ip",
+      "status": 2,
+      "link_list": [
+        "sinaweibo://detail?mblogid=5226694639620295",
+        "sinaweibo://detail?mblogid=5226719096084136",
+        "sinaweibo://detail?mblogid=5226696078791980",
+        "sinaweibo://detail?mblogid=5226746547012994"
+      ],
+      "msg_json": "{}",
+      "top_quote_list": {},
+      "short_url": "http://t.cn/AXAv7TKe",
+      "card_multimodal": {
+        "data": [
+          {
+            "h": 1920,
+            "scheme": "sinaweibo://video/vvs?mid=5226719096084136&multi_paragraph=1&multi_count=0",
+            "user_avatar": "https://tvax4.sinaimg.cn/crop.0.0.600.600.50/6b0e1e9dly8i5r6s6bgzlj20go0go40f.jpg?KID=imgbed,tva&Expires=1761655207&ssig=V9wI1kPNd2",
+            "cur_mid": "5226719096084136",
+            "img": "http://wx3.sinaimg.cn/middle/6b0e1e9dly1i6s1i92vh4j20u01hcwhj.jpg",
+            "user_name": "荔枝新闻",
+            "click_rate": 0,
+            "hit_score_new": 99.023438,
+            "doc_score": 7690,
+            "img_pid": "6b0e1e9dly1i6s1i92vh4j20u01hcwhj",
+            "type": "v",
+            "w": 1080,
+            "video_url": "https://video.weibo.com/show?fid=1034:5226716382035980",
+            "hit_score_final": 91.414062,
+            "vtype": 3
+          },
+          {
+            "h": 1920,
+            "scheme": "sinaweibo://video/vvs?mid=5226696078791980&multi_paragraph=1&multi_count=1",
+            "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.1024.1024.50/001Q8zQmly8h8vgdbgwr3j60sg0sgmxm02.jpg?KID=imgbed,tva&Expires=1761655207&ssig=mQVXjdh8ZQ",
+            "cur_mid": "5226696078791980",
+            "img": "http://wx3.sinaimg.cn/middle/001Q8zQmly1i6s1grtdvxj60u01hctad02.jpg",
+            "user_name": "环球网",
+            "click_rate": 0,
+            "hit_score_new": 99.023438,
+            "doc_score": 4448,
+            "img_pid": "001Q8zQmly1i6s1grtdvxj60u01hctad02",
+            "type": "v",
+            "w": 1080,
+            "video_url": "https://video.weibo.com/show?fid=1034:5226718663999589",
+            "hit_score_final": 91.414062,
+            "vtype": 3
+          },
+          {
+            "h": 720,
+            "scheme": "sinaweibo://multimedia?mix_mid=5226746547012994&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=3&multi_count=0",
+            "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.600.600.50/7e144d0ely8he0dt39f2sj20go0go75m.jpg?KID=imgbed,tva&Expires=1761655207&ssig=eX2amTkq8N",
+            "cur_mid": "5226746547012994",
+            "img": "http://wx4.sinaimg.cn/middle/7e144d0egy1i6s4nj4pvej20a00k0wg5.jpg",
+            "user_name": "洪观新闻",
+            "click_rate": 0.06,
+            "hit_score_new": 98.925781,
+            "doc_score": 3714,
+            "img_pid": "7e144d0egy1i6s4nj4pvej20a00k0wg5",
+            "type": "p",
+            "w": 360,
+            "video_url": "",
+            "hit_score_final": 90.555473,
+            "vtype": 3
+          },
+          {
+            "h": 1920,
+            "scheme": "sinaweibo://video/vvs?mid=5226719096084136&multi_paragraph=1&multi_count=0",
+            "user_avatar": "https://tvax4.sinaimg.cn/crop.0.0.600.600.50/6b0e1e9dly8i5r6s6bgzlj20go0go40f.jpg?KID=imgbed,tva&Expires=1761655207&ssig=V9wI1kPNd2",
+            "cur_mid": "5226719096084136",
+            "img": "http://wx3.sinaimg.cn/middle/6b0e1e9dly1i6s1i92vh4j20u01hcwhj.jpg",
+            "user_name": "荔枝新闻",
+            "click_rate": 0,
+            "hit_score_new": 99.023438,
+            "doc_score": 7690,
+            "img_pid": "6b0e1e9dly1i6s1i92vh4j20u01hcwhj",
+            "type": "v",
+            "w": 1080,
+            "video_url": "https://video.weibo.com/show?fid=1034:5226716382035980",
+            "hit_score_final": 91.414062,
+            "vtype": 3
+          }
+        ],
+        "type": "mediablock"
+      },
+      "share_card_multimodal": {
+        "h": 1920,
+        "scheme": "sinaweibo://video/vvs?mid=5226719096084136&multi_paragraph=1&multi_count=0",
+        "user_avatar": "https://tvax4.sinaimg.cn/crop.0.0.600.600.50/6b0e1e9dly8i5r6s6bgzlj20go0go40f.jpg?KID=imgbed,tva&Expires=1761655207&ssig=V9wI1kPNd2",
+        "cur_mid": "5226719096084136",
+        "img": "http://wx3.sinaimg.cn/middle/6b0e1e9dly1i6s1i92vh4j20u01hcwhj.jpg",
+        "user_name": "荔枝新闻",
+        "click_rate": 0,
+        "hit_score_new": 99.023438,
+        "doc_score": 7690,
+        "img_pid": "6b0e1e9dly1i6s1i92vh4j20u01hcwhj",
+        "type": "v",
+        "w": 1080,
+        "video_url": "https://video.weibo.com/show?fid=1034:5226716382035980",
+        "hit_score_final": 91.414062,
+        "vtype": 3
+      },
+      "basemodel": "实验组2",
+      "q_attr": {
+        "from_uid": "",
+        "from_request_id": ""
+      },
+      "scheme": "sinaweibo://cardlist?containerid=100103type%3D225%26q%3D%23%E7%83%9F%E5%8F%B0%E7%90%86%E5%B7%A5%E5%AD%A6%E9%99%A2%E9%80%9A%E6%8A%A5%E5%AD%A6%E7%94%9F%E5%9D%A0%E6%A5%BC%E8%BA%AB%E4%BA%A1%23%26t%3D&extparam=ai_model%3Ddeepseek%26ori_ai_title%3D%E5%8F%82%E8%80%83%E5%8D%9A%E6%96%87%26material_version%3D1761644407",
+      "sorted_material_list": null,
+      "msg": "<think><br>嗯，用户让我处理关于\"烟台理工学院学生坠楼身亡\"事件的搜索结果，并生成总结报告。用户提供了四个搜索结果，需要整合信息并引用来源。<br><br>首先看一下搜索结果的内容：<br>是北京日报的微博，通报了事件的基本情况：10月22日傍晚学生仲某某在教学楼六楼消防通道坠亡，排除刑案，学校已通知家属。<br>来自荔枝新闻，补充了家属说法：母亲称女生是在栏杆上压腿时意外坠落，且学校71分钟后才发现，坠楼点离保安室仅20多米。这个时间差和位置细节很重要。<br>环球网的通报与结果1基本一致，但增加了具体通报时间是10月28日11:41。<br>洪观新闻的内容比较特殊，是高层防坠落安全知识，可能与事件无直接关联。<br><br>注意到今天正好是2025年10月28日，所有通报都是当天发布的，时效性很强。家属说法和学校通报存在明显矛盾点：学校称\"立即报警\"，但家属质疑71分钟延误，这需要重点标注。<br><br>准备这样组织报告：<br>先概述事件核心事实（时间地点人物），然后分三块展开：<br>1 学校通报内容<br>2 家属质疑点（突出结果2的71分钟响应延迟）<br>3 安全警示（结果4的防坠知识作为衍生内容）<br><br>需要特别处理矛盾点：在陈述学校\"立即报警\"的说法时，同步标注家属的71分钟质疑，用括号注明时间差矛盾。最后补充公安机关排除刑案的结论。<br><br>安全提示部分会简化，主要提取护栏安全间隙、禁放攀爬物等实用建议，避免冲淡主题。<br><br>引用处理上：<br>- 基本事实用<br>- 家属质疑单独用<br>- 安全知识归<br>这样用户能清晰追溯信息来源。<br><br></think><br>关于烟台理工学院学生坠楼事件的核心信息整理如下：<br>### ⚙️ 一、事件基本情况  <br>1. **时间与地点**：2025年10月22日17时37分许，学生仲某某于烟台理工学院教学楼六楼消防通道拐角处翻越栏杆坠楼身亡。```wbCustomBlock{\"type\": \"quoted\", \"index\": 3, \"data\": {\"num\": [1, 2, 3], \"version\": 2, \"quote_list\": [{\"name\": \"北京日报\", \"scheme\": \"sinaweibo://detail?mblogid=5226694639620295\", \"index\": 1, \"label\": \"大v\"}, {\"name\": \"荔枝新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5226719096084136\", \"index\": 2, \"label\": \"\"}, {\"name\": \"环球网\", \"scheme\": \"sinaweibo://detail?mblogid=5226696078791980\", \"index\": 3, \"label\": \"\"}], \"name\": \"北京日报\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.600.600.50/0024aA4lly8i51bp1z4bcj60go0goq3g02.jpg?KID=imgbed,tva&Expires=1761655207&ssig=T3MgrZwri1\", \"scheme\": \"sinaweibo://detail?mblogid=5226694639620295\", \"vType\": 3}}```  <br>2. **警方结论**：公安机关通过监控视频调查，排除刑事案件可能。```wbCustomBlock{\"type\": \"quoted\", \"index\": 4, \"data\": {\"num\": [1, 3], \"version\": 2, \"quote_list\": [{\"name\": \"环球网\", \"scheme\": \"sinaweibo://detail?mblogid=5226696078791980\", \"index\": 3, \"label\": \"大v\"}, {\"name\": \"北京日报\", \"scheme\": \"sinaweibo://detail?mblogid=5226694639620295\", \"index\": 1, \"label\": \"\"}], \"name\": \"环球网\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.1024.1024.50/001Q8zQmly8h8vgdbgwr3j60sg0sgmxm02.jpg?KID=imgbed,tva&Expires=1761655207&ssig=mQVXjdh8ZQ\", \"scheme\": \"sinaweibo://detail?mblogid=5226696078791980\", \"vType\": 3}}```  <br>3. **校方响应**：学校发现后拨打120及110，120到场确认仲某某无生命体征，并立即通知家属。```wbCustomBlock{\"type\": \"quoted\", \"index\": 5, \"data\": {\"num\": [1, 2], \"version\": 2, \"quote_list\": [{\"name\": \"荔枝新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5226719096084136\", \"index\": 2, \"label\": \"大v\"}, {\"name\": \"北京日报\", \"scheme\": \"sinaweibo://detail?mblogid=5226694639620295\", \"index\": 1, \"label\": \"\"}], \"name\": \"荔枝新闻\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.600.600.50/6b0e1e9dly8i5r6s6bgzlj20go0go40f.jpg?KID=imgbed,tva&Expires=1761655207&ssig=V9wI1kPNd2\", \"scheme\": \"sinaweibo://detail?mblogid=5226719096084136\", \"vType\": 3}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5226719096084136&multi_paragraph=1&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.600.600.50/6b0e1e9dly8i5r6s6bgzlj20go0go40f.jpg?KID=imgbed,tva&Expires=1761655207&ssig=V9wI1kPNd2) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">荔枝新闻</span><img src=\"http://wx3.sinaimg.cn/middle/6b0e1e9dly1i6s1i92vh4j20u01hcwhj.jpg\" data-width=1920 data-height=1080></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5226696078791980&multi_paragraph=1&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.1024.1024.50/001Q8zQmly8h8vgdbgwr3j60sg0sgmxm02.jpg?KID=imgbed,tva&Expires=1761655207&ssig=mQVXjdh8ZQ) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">环球网</span><img src=\"http://wx3.sinaimg.cn/middle/001Q8zQmly1i6s1grtdvxj60u01hctad02.jpg\" data-width=1920 data-height=1080></div></media-block><br>### ⚠️ 二、争议焦点  <br>1. **家属质疑响应时效**：  <br>   - 据家属透露，坠楼位置距保安室仅20余米，但事发后71分钟校方才发现并报警施救。```wbCustomBlock{\"type\": \"quoted\", \"index\": 8, \"data\": {\"num\": [2], \"version\": 2, \"quote_list\": [{\"name\": \"荔枝新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5226719096084136\", \"index\": 2, \"label\": \"\"}]}}```  <br>   - 家属称仲某某为\"活泼开朗的大四学生\"，坠楼原因疑为\"课间压腿活动时意外跌落\"。```wbCustomBlock{\"type\": \"quoted\", \"index\": 9, \"data\": {\"num\": [2], \"version\": 2, \"quote_list\": [{\"name\": \"荔枝新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5226719096084136\", \"index\": 2, \"label\": \"\"}]}}```  <br>   - **矛盾点**：家属的71分钟响应延迟指控与校方通报的\"立即报警\"存在出入。```wbCustomBlock{\"type\": \"quoted\", \"index\": 10, \"data\": {\"num\": [1, 2], \"version\": 2, \"quote_list\": [{\"name\": \"北京日报\", \"scheme\": \"sinaweibo://detail?mblogid=5226694639620295\", \"index\": 1, \"label\": \"\"}, {\"name\": \"荔枝新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5226719096084136\", \"index\": 2, \"label\": \"\"}]}}```<br>### 🕊️ 三、后续处理  <br>1. **校方表态**：学校对事件\"深感惋惜和悲痛\"，正与家属沟通善后事宜。```wbCustomBlock{\"type\": \"quoted\", \"index\": 12, \"data\": {\"num\": [1, 3], \"version\": 2, \"quote_list\": [{\"name\": \"北京日报\", \"scheme\": \"sinaweibo://detail?mblogid=5226694639620295\", \"index\": 1, \"label\": \"\"}, {\"name\": \"环球网\", \"scheme\": \"sinaweibo://detail?mblogid=5226696078791980\", \"index\": 3, \"label\": \"\"}]}}```  <br>2. **社会警示**：  <br>   - 部分媒体同步发布高层防坠落安全提示，强调护栏间隙需≤10cm、窗边禁放可攀爬物、定期检查设施牢固性等防护措施。```wbCustomBlock{\"type\": \"quoted\", \"index\": 14, \"data\": {\"num\": [4], \"version\": 2, \"quote_list\": [{\"name\": \"洪观新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5226746547012994\", \"index\": 4, \"label\": \"大v\"}], \"name\": \"洪观新闻\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.600.600.50/7e144d0ely8he0dt39f2sj20go0go75m.jpg?KID=imgbed,tva&Expires=1761655207&ssig=eX2amTkq8N\", \"scheme\": \"sinaweibo://detail?mblogid=5226746547012994\", \"vType\": 3}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5226746547012994&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=3&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.600.600.50/7e144d0ely8he0dt39f2sj20go0go75m.jpg?KID=imgbed,tva&Expires=1761655207&ssig=eX2amTkq8N) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">洪观新闻</span><img src=\"http://wx4.sinaimg.cn/middle/7e144d0egy1i6s4nj4pvej20a00k0wg5.jpg\" data-width=720 data-height=360></div></media-block><br>### 💎 核心信息摘要  <br>| **关键项**       | **内容摘要**                                                                 |<br>|------------------|-----------------------------------------------------------------------------|<br>| **事件时间**     | 2025年10月22日17:37                                                          |<br>| **地点**         | 教学楼六楼消防通道拐角处                                                      |<br>| **警方结论**     | 排除刑事案件（监控证实翻越栏杆行为）                                  |<br>| **家属质疑**     | 校方71分钟才发现坠楼（距保安室20米）                                      |<br>| **善后进展**     | 校方与家属协商中                                                            |<br><br>```wbCustomBlock{\"type\": \"quoted\", \"index\": 15, \"data\": {\"num\": [1, 2, 3], \"version\": 2, \"quote_list\": [{\"name\": \"北京日报\", \"scheme\": \"sinaweibo://detail?mblogid=5226694639620295\", \"index\": 1, \"label\": \"\"}, {\"name\": \"荔枝新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5226719096084136\", \"index\": 2, \"label\": \"\"}, {\"name\": \"环球网\", \"scheme\": \"sinaweibo://detail?mblogid=5226696078791980\", \"index\": 3, \"label\": \"\"}]}}```  <br><br>事件的核心矛盾集中于校方应急响应时效的争议，公安机关的刑案排除结论已明确事件性质，但家属对救援延迟的质疑仍需进一步澄清。<br>",
+      "query": "#烟台理工学院通报学生坠楼身亡#",
+      "cot": 1,
+      "page_id": "232964d6fd93407a9d1283726c631af74c283b",
+      "model": "deepseek",
+      "qs_status": 0,
+      "zs_risk_control": {
+        "land_button_close": 0,
+        "think_text_close": 0,
+        "ban_chat_enterance": 1
+      },
+      "current_time": 1761644936,
+      "profile_image_url": "",
+      "user_info": {},
+      "msg_format": "markdown",
+      "show_ctrl": {
+        "quote": {}
+      },
+      "abtest_info": {
+        "chat_entrance": 1
+      },
+      "version": "2025-10-28 17:40:07.026000-2358",
+      "unify_md5": "d06991b3951dd60ff0c095a785e7fc53",
+      "ext_show": {},
+      "wenda": {
+        "forward_gen": 0
+      },
+      "query_field": "60",
+      "share_info": {
+        "status": 3,
+        "unify_md5": "d06991b3951dd60ff0c095a785e7fc53",
+        "url": "http://t.cn/AXAvzwOv",
+        "tips": "#烟台理工学院通报学生坠楼身亡#的相关内容，来智搜看看",
+        "display_name": "#烟台理工学院通报学生坠楼身亡#",
+        "page_id": "232964d6fd93407a9d1283726c631af74c283b"
+      },
+      "share_text": "#烟台理工学院通报学生坠楼身亡#的相关内容，来智搜看看",
+      "analysis_time": 1761644510,
+      "status_stage": 4,
+      "loop_times": 200,
+      "uid": "",
+      "ab_suffix": "default",
+      "chat_status_stage": 1
+    }
+  },
+  "links": [
+    "sinaweibo://detail?mblogid=5226694639620295",
+    "sinaweibo://detail?mblogid=5226719096084136",
+    "sinaweibo://detail?mblogid=5226696078791980",
+    "sinaweibo://detail?mblogid=5226746547012994"
+  ],
+  "media": [
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/6b0e1e9dly1i6s1i92vh4j20u01hcwhj.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/6b0e1e9dly1i6s1i92vh4j20u01hcwhj.jpg",
+      "alt": "荔枝新闻",
+      "width": 1920,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/6b0e1e9dly1i6s1i92vh4j20u01hcwhj.jpg"
+      ],
+      "user": "荔枝新闻"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/001Q8zQmly1i6s1grtdvxj60u01hctad02.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/001Q8zQmly1i6s1grtdvxj60u01hctad02.jpg",
+      "alt": "环球网",
+      "width": 1920,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/001Q8zQmly1i6s1grtdvxj60u01hctad02.jpg"
+      ],
+      "user": "环球网"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/7e144d0egy1i6s4nj4pvej20a00k0wg5.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/7e144d0egy1i6s4nj4pvej20a00k0wg5.jpg",
+      "alt": "洪观新闻",
+      "width": 720,
+      "height": 360,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/7e144d0egy1i6s4nj4pvej20a00k0wg5.jpg"
+      ],
+      "user": "洪观新闻"
+    }
+  ],
+  "html_path": "data/aicard/hourly/2025-10-28/15/topic-d06991b3.html"
+}

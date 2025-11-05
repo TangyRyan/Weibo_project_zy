@@ -1,0 +1,376 @@
+{
+  "meta": {
+    "query": "#关注第八届进博会#",
+    "status_code": 200,
+    "fetched_at": "2025-11-03T06:26:41+08:00",
+    "response": {
+      "short_url": "http://t.cn/AXA6sKZC",
+      "show_ctrl": {
+        "quote": {}
+      },
+      "loop_times": 200,
+      "comment_info": {},
+      "scheme": "sinaweibo://cardlist?containerid=100103type%3D225%26q%3D%23%E5%85%B3%E6%B3%A8%E7%AC%AC%E5%85%AB%E5%B1%8A%E8%BF%9B%E5%8D%9A%E4%BC%9A%23%26t%3D&extparam=ai_model%3Ddeepseek%26ori_ai_title%3D%E5%8F%82%E8%80%83%E5%8D%9A%E6%96%87%26material_version%3D1762122018",
+      "query": "#关注第八届进博会#",
+      "share_text": "#关注第八届进博会#的相关内容，来智搜看看",
+      "basemodel": "实验组10",
+      "sorted_material_list": null,
+      "profile_image_url": "",
+      "ab_suffix": "default",
+      "abtest_info": {
+        "chat_entrance": 1
+      },
+      "status": 2,
+      "wenda": {
+        "forward_gen": 0
+      },
+      "uid": "",
+      "q_attr": {
+        "from_request_id": "",
+        "mid": "",
+        "comment_from_type": "",
+        "from_uid": "",
+        "reply_cid": ""
+      },
+      "chat_status_stage": 1,
+      "qs_status_info": "{\"qs_c_status\":8388608,\"qs_r_status\":0,\"qs_u_status\":0,\"qs_q_status\":0,\"qs_status\":0,\"ab_lab\":{}}",
+      "news_analyze": {},
+      "msg_json": "{}",
+      "unify_md5": "a5315a2d148a415282de703ef2ed4c1d",
+      "zs_risk_control": {
+        "think_text_close": 0,
+        "land_button_close": 0
+      },
+      "model": "deepseek",
+      "msg_format": "markdown",
+      "top_quote_list": {},
+      "query_field": "60",
+      "query_category": "",
+      "share_card_multimodal": {
+        "hit_score_final": 93.014069,
+        "cur_mid": "5226671461893822",
+        "user_name": "央视三农",
+        "h": 720,
+        "vtype": 3,
+        "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.600.600.50/007XX2J2ly8hw91nmkhqqj30go0go75j.jpg?KID=imgbed,tva&Expires=1762132818&ssig=lFIMYv%2FpvS",
+        "video_url": "",
+        "type": "p",
+        "doc_score": 3100,
+        "img_pid": "007XX2J2ly1i6rw0lgvx7j30k00k0aby",
+        "hit_score_new": 99.023438,
+        "click_rate": 0.06,
+        "img": "http://wx1.sinaimg.cn/middle/007XX2J2ly1i6rw0lgvx7j30k00k0aby.jpg",
+        "scheme": "sinaweibo://multimedia?mix_mid=5226671461893822&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=0",
+        "w": 720
+      },
+      "reliable_tips": "{\"gold_orange_v_mids\": [\"5228663962604019\", \"5228660650934386\", \"5228685265474186\", \"5227719010551606\", \"5228664260395711\", \"5228734547231674\", \"5228713897887332\", \"5228706965488205\", \"5228688092169346\", \"5228683514090085\", \"5227354176620512\"], \"gold_orange_v_ratio\": \"25%\", \"media_mids\": [\"5228138181165468\", \"5226671461893822\", \"5225963186297339\", \"5227203277357680\", \"5228421137039460\", \"5228591458553169\", \"5228079228126901\", \"5226665409251050\", \"5227833662375555\"], \"media_ratio\": \"20%\", \"verified_mids\": [\"5228699446413367\", \"5227467669505104\", \"5228688042103700\", \"5227854901281662\", \"5227460610491034\", \"5227809603061899\", \"5228109131415594\", \"5227079646839820\", \"5228534383247555\", \"5222312653882128\", \"5227417028267603\", \"5227009460667030\", \"5228749796934366\", \"5228713145008915\", \"5228691005117160\", \"5228690239393257\", \"5228687597242379\", \"5228684148474569\"], \"verified_ratio\": \"41%\", \"normal_mids\": [\"5228704298959360\", \"5228675910867841\", \"5228764381577243\", \"5228704147965424\", \"5228694813803297\", \"5228685209899260\"], \"normal_ratio\": \"14%\", \"ref_mid_rank\": {\"5228138181165468\": {\"rank\": 9}, \"5226671461893822\": {\"rank\": 46}, \"5228704298959360\": {\"rank\": 26}, \"5228699446413367\": {\"rank\": 28}, \"5228663962604019\": {\"rank\": 44}, \"5228660650934386\": {\"rank\": 42}, \"5227467669505104\": {\"rank\": 45}, \"5228688042103700\": {\"rank\": 33}, \"5227854901281662\": {\"rank\": 40}, \"5227460610491034\": {\"rank\": 43}, \"5227809603061899\": {\"rank\": 47}, \"5228109131415594\": {\"rank\": 10}, \"5227079646839820\": {\"rank\": 12}, \"5228685265474186\": {\"rank\": 35}, \"5228534383247555\": {\"rank\": 4}, \"5225963186297339\": {\"rank\": 8}, \"5222312653882128\": {\"rank\": 7}, \"5227203277357680\": {\"rank\": 11}, \"5227417028267603\": {\"rank\": 41}, \"5227009460667030\": {\"rank\": 49}, \"5228675910867841\": {\"rank\": 19}, \"5228421137039460\": {\"rank\": 1}, \"5227719010551606\": {\"rank\": 2}, \"5228591458553169\": {\"rank\": 3}, \"5228079228126901\": {\"rank\": 5}, \"5226665409251050\": {\"rank\": 6}, \"5228664260395711\": {\"rank\": 18}, \"5228764381577243\": {\"rank\": 20}, \"5228749796934366\": {\"rank\": 21}, \"5228734547231674\": {\"rank\": 22}, \"5228713897887332\": {\"rank\": 23}, \"5228713145008915\": {\"rank\": 24}, \"5228706965488205\": {\"rank\": 25}, \"5228704147965424\": {\"rank\": 27}, \"5228694813803297\": {\"rank\": 29}, \"5228691005117160\": {\"rank\": 30}, \"5228690239393257\": {\"rank\": 31}, \"5228688092169346\": {\"rank\": 32}, \"5228687597242379\": {\"rank\": 34}, \"5228685209899260\": {\"rank\": 36}, \"5228684148474569\": {\"rank\": 37}, \"5228683514090085\": {\"rank\": 38}, \"5227354176620512\": {\"rank\": 39}, \"5227833662375555\": {\"rank\": 48}}}",
+      "share_info": {
+        "unify_md5": "a5315a2d148a415282de703ef2ed4c1d",
+        "tips": "#关注第八届进博会#的相关内容，来智搜看看",
+        "page_id": "232964835d87f7c7a367c9b7c0b98cd3ce9d65",
+        "display_name": "#关注第八届进博会#",
+        "status": 3,
+        "url": "http://t.cn/AXAay821",
+        "comment_content": ""
+      },
+      "cot": 1,
+      "status_stage": 4,
+      "link_list": [
+        "sinaweibo://detail?mblogid=5228421137039460",
+        "sinaweibo://detail?mblogid=5227719010551606",
+        "sinaweibo://detail?mblogid=5228591458553169",
+        "sinaweibo://detail?mblogid=5228534383247555",
+        "sinaweibo://detail?mblogid=5228079228126901",
+        "sinaweibo://detail?mblogid=5226665409251050",
+        "sinaweibo://detail?mblogid=5222312653882128",
+        "sinaweibo://detail?mblogid=5225963186297339",
+        "sinaweibo://detail?mblogid=5228138181165468",
+        "sinaweibo://detail?mblogid=5228109131415594",
+        "sinaweibo://detail?mblogid=5227203277357680",
+        "sinaweibo://detail?mblogid=5227079646839820",
+        "broadsocial_res://",
+        "broadsocial_res://",
+        "historyweibo://5226660800501876",
+        "historyweibo://4962820690806973",
+        "historyweibo://4962590792353317",
+        "sinaweibo://detail?mblogid=5228664260395711",
+        "sinaweibo://detail?mblogid=5228675910867841",
+        "sinaweibo://detail?mblogid=5228764381577243",
+        "sinaweibo://detail?mblogid=5228749796934366",
+        "sinaweibo://detail?mblogid=5228734547231674",
+        "sinaweibo://detail?mblogid=5228713897887332",
+        "sinaweibo://detail?mblogid=5228713145008915",
+        "sinaweibo://detail?mblogid=5228706965488205",
+        "sinaweibo://detail?mblogid=5228704298959360",
+        "sinaweibo://detail?mblogid=5228704147965424",
+        "sinaweibo://detail?mblogid=5228699446413367",
+        "sinaweibo://detail?mblogid=5228694813803297",
+        "sinaweibo://detail?mblogid=5228691005117160",
+        "sinaweibo://detail?mblogid=5228690239393257",
+        "sinaweibo://detail?mblogid=5228688092169346",
+        "sinaweibo://detail?mblogid=5228688042103700",
+        "sinaweibo://detail?mblogid=5228687597242379",
+        "sinaweibo://detail?mblogid=5228685265474186",
+        "sinaweibo://detail?mblogid=5228685209899260",
+        "sinaweibo://detail?mblogid=5228684148474569",
+        "sinaweibo://detail?mblogid=5228683514090085",
+        "sinaweibo://detail?mblogid=5227354176620512",
+        "sinaweibo://detail?mblogid=5227854901281662",
+        "sinaweibo://detail?mblogid=5227417028267603",
+        "sinaweibo://detail?mblogid=5228660650934386",
+        "sinaweibo://detail?mblogid=5227460610491034",
+        "sinaweibo://detail?mblogid=5228663962604019",
+        "sinaweibo://detail?mblogid=5227467669505104",
+        "sinaweibo://detail?mblogid=5226671461893822",
+        "sinaweibo://detail?mblogid=5227809603061899",
+        "sinaweibo://detail?mblogid=5227833662375555",
+        "sinaweibo://detail?mblogid=5227009460667030"
+      ],
+      "msg": "<think><br><br>嗯，用户希望了解第八届进博会的相关信息。从查询内容看，用户可能是普通观众、参展商或关注经济贸易的公众，需要全面了解本届进博会的核心亮点和实用信息。<br><br>在这些搜索结果中，我注意到多个权威来源提供了丰富信息。新华网的置顶微博显示国家会展中心已完成装饰，而看看新闻透露本届展览面积超43万平方米创历史新高。最值得关注的是创新专区设置：资料显示首次设立\"最不发达国家产品专区\"，央视三农提到配套的\"全球南方农业可持续发展论坛\"，体现进博会对弱势经济体的扶持。<br><br>对于参展企业，花王将展示138年匠心品质的特别展区，特斯拉Cybercab无人车将进行亚太首秀。联合国儿童基金会也设立了展台和边会活动，显示进博会的国际吸引力。<br><br>关于参会指南，上海发布详细介绍了停车预约系统和\"随申行\"APP的交通服务，东方卫视则提供了完整的轨道交通攻略。志愿者方面，3865名\"小叶子\"已宣誓上岗，包含港澳台和外籍志愿者。<br><br>需要提醒用户注意两点：一是资料显示非洲零关税政策需满足双边协议和检疫标准，二是上海市场监管公告的特殊食品临时许可流程。这些政策细节可能影响参展体验。<br><br>综合所有信息，将从四个维度组织回复：展会概况（规模数据、创新专区）、参展亮点（科技/国际/服务）、参会指南（交通/票务）和延伸价值（溢出效应）。最后补充一个彩蛋——特斯拉无人车的首秀信息，增加趣味性。<br><br></think><br>以下是第八届中国国际进口博览会（2025年）的核心信息综合整理：<br>### 🔥 **一、展会概况与核心亮点**  <br>1. **规模创新高**  <br>   - **展览面积**：超43万平方米，创历届之最。```wbCustomBlock{\"type\": \"quoted\", \"index\": 4, \"data\": {\"num\": [9, 46], \"version\": 2, \"quote_list\": [{\"name\": \"看看新闻Knews\", \"scheme\": \"sinaweibo://detail?mblogid=5228138181165468\", \"index\": 9, \"label\": \"大v\"}, {\"name\": \"央视三农\", \"scheme\": \"sinaweibo://detail?mblogid=5226671461893822\", \"index\": 46, \"label\": \"\"}], \"name\": \"看看新闻Knews\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.410.410.50/6e05a6daly1h8vg7kmg7ej20be0bemxf.jpg?KID=imgbed,tva&Expires=1762132818&ssig=%2FgV0rssDL8\", \"scheme\": \"sinaweibo://detail?mblogid=5228138181165468\", \"vType\": 3}}```  <br>   - **参与方**：155个国家/地区及国际组织，4108家境外企业参展，60个海外展团规模达历史峰值。```wbCustomBlock{\"type\": \"quoted\", \"index\": 5, \"data\": {\"num\": [9, 26], \"version\": 2, \"quote_list\": [{\"name\": \"看看新闻Knews\", \"scheme\": \"sinaweibo://detail?mblogid=5228138181165468\", \"index\": 9, \"label\": \"\"}, {\"name\": \"早餐买麻油_\", \"scheme\": \"sinaweibo://detail?mblogid=5228704298959360\", \"index\": 26, \"label\": \"\"}]}}```  <br>   - **首发经济**：461项新产品、新技术、新服务集中展示，中国成为“全球创新试验场”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 6, \"data\": {\"num\": [9, 28], \"version\": 2, \"quote_list\": [{\"name\": \"看看新闻Knews\", \"scheme\": \"sinaweibo://detail?mblogid=5228138181165468\", \"index\": 9, \"label\": \"\"}, {\"name\": \"禹妹小宅\", \"scheme\": \"sinaweibo://detail?mblogid=5228699446413367\", \"index\": 28, \"label\": \"\"}]}}```  <br><br>2. **特色展区与机制创新**  <br>   - **最不发达国家专区**：首次设立，覆盖53个非洲建交国，推动零关税入华（需满足双边协议及中国检疫标准）。```wbCustomBlock{\"type\": \"quoted\", \"index\": 8, \"data\": {\"num\": [44], \"version\": 2, \"quote_list\": [{\"name\": \"萝bro喜欢color\", \"scheme\": \"sinaweibo://detail?mblogid=5228663962604019\", \"index\": 44, \"label\": \"\"}]}}```  <br>   - **非洲产品专区扩容**：新增哈萨克斯坦阿拉木图市等国际友城联展。```wbCustomBlock{\"type\": \"quoted\", \"index\": 9, \"data\": {\"num\": [42], \"version\": 2, \"quote_list\": [{\"name\": \"禹粥真真\", \"scheme\": \"sinaweibo://detail?mblogid=5228660650934386\", \"index\": 42, \"label\": \"\"}]}}```  <br>   - **科技前沿**：以色列展团聚焦农业滴灌技术，美企参展面积连续7年第一（如乔山健康科技首发AI健身生态）。```wbCustomBlock{\"type\": \"quoted\", \"index\": 10, \"data\": {\"num\": [45], \"version\": 2, \"quote_list\": [{\"name\": \"IT之家\", \"scheme\": \"sinaweibo://detail?mblogid=5227467669505104\", \"index\": 45, \"label\": \"大v\"}], \"name\": \"IT之家\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.600.600.50/001ZzMwgly8gurhm3cm5jj60go0godfv02.jpg?KID=imgbed,tva&Expires=1762132818&ssig=R9Q91fAvfx\", \"scheme\": \"sinaweibo://detail?mblogid=5227467669505104\", \"vType\": 3}}```  <br><br>3. **虹桥论坛升级**  <br>   - **分论坛**：33场分论坛及闭门会，新增“全球南方农业可持续发展论坛”（商务部与央视联合承办）。```wbCustomBlock{\"type\": \"quoted\", \"index\": 12, \"data\": {\"num\": [46], \"version\": 2, \"quote_list\": [{\"name\": \"央视三农\", \"scheme\": \"sinaweibo://detail?mblogid=5226671461893822\", \"index\": 46, \"label\": \"大v\"}], \"name\": \"央视三农\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.600.600.50/007XX2J2ly8hw91nmkhqqj30go0go75j.jpg?KID=imgbed,tva&Expires=1762132818&ssig=lFIMYv%2FpvS\", \"scheme\": \"sinaweibo://detail?mblogid=5226671461893822\", \"vType\": 3}}```  <br>   - **顶尖参与**：8位诺贝尔奖得主、400余位政商学界人士共议全球治理议题。```wbCustomBlock{\"type\": \"quoted\", \"index\": 13, \"data\": {\"num\": [9, 42], \"version\": 2, \"quote_list\": [{\"name\": \"看看新闻Knews\", \"scheme\": \"sinaweibo://detail?mblogid=5228138181165468\", \"index\": 9, \"label\": \"\"}, {\"name\": \"禹粥真真\", \"scheme\": \"sinaweibo://detail?mblogid=5228660650934386\", \"index\": 42, \"label\": \"\"}]}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5226671461893822&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.600.600.50/007XX2J2ly8hw91nmkhqqj30go0go75j.jpg?KID=imgbed,tva&Expires=1762132818&ssig=lFIMYv%2FpvS) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">央视三农</span><img src=\"http://wx1.sinaimg.cn/middle/007XX2J2ly1i6rw0lgvx7j30k00k0aby.jpg\" data-width=720 data-height=720></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5228138181165468&multi_paragraph=1&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.410.410.50/6e05a6daly1h8vg7kmg7ej20be0bemxf.jpg?KID=imgbed,tva&Expires=1762132818&ssig=%2FgV0rssDL8) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">看看新闻Knews</span><img src=\"http://wx1.sinaimg.cn/middle/6e05a6daly8i6wkgvpqsej20yd0jcjvx.jpg\" data-width=696 data-height=1237></div></media-block><br>### 🌍 **二、参展企业与全球合作**  <br>1. **国际企业重磅亮相**  <br>   - **特斯拉**：Cybercab无人驾驶出租车亚太首秀，定位低成本自动驾驶车型（预计2026年投产）。```wbCustomBlock{\"type\": \"quoted\", \"index\": 17, \"data\": {\"num\": [33, 45], \"version\": 2, \"quote_list\": [{\"name\": \"黄惟冰\", \"scheme\": \"sinaweibo://detail?mblogid=5228688042103700\", \"index\": 33, \"label\": \"\"}, {\"name\": \"IT之家\", \"scheme\": \"sinaweibo://detail?mblogid=5227467669505104\", \"index\": 45, \"label\": \"\"}]}}```  <br>   - **花王**：打造“技术与品质”主题展区，展示138年匠心工艺与用户需求转化链路。```wbCustomBlock{\"type\": \"quoted\", \"index\": 18, \"data\": {\"num\": [40], \"version\": 2, \"quote_list\": [{\"name\": \"日本花王\", \"scheme\": \"sinaweibo://detail?mblogid=5227854901281662\", \"index\": 40, \"label\": \"\"}]}}```  <br>   - **联合国儿童基金会**：设展位（A4-03｜5.2号馆）并举办供应链专题边会。```wbCustomBlock{\"type\": \"quoted\", \"index\": 19, \"data\": {\"num\": [43], \"version\": 2, \"quote_list\": [{\"name\": \"联合国儿童基金会\", \"scheme\": \"sinaweibo://detail?mblogid=5227460610491034\", \"index\": 43, \"label\": \"大v\"}], \"name\": \"联合国儿童基金会\", \"img\": \"https://tvax4.sinaimg.cn/crop.17.7.670.670.50/6843b943ly8gk7k1zqi1hj20j60j6aau.jpg?KID=imgbed,tva&Expires=1762132818&ssig=8wWKDe8OcM\", \"scheme\": \"sinaweibo://detail?mblogid=5227460610491034\", \"vType\": 1}}```  <br><br>2. **产业链深化**  <br>   - **青浦区“招商百人团”**：精准对接280家参展企业，推动“展商变投资商”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 21, \"data\": {\"num\": [42], \"version\": 2, \"quote_list\": [{\"name\": \"禹粥真真\", \"scheme\": \"sinaweibo://detail?mblogid=5228660650934386\", \"index\": 42, \"label\": \"\"}]}}```  <br>   - **昌平交易分团**：赴上海、成都、重庆开展合成生物等产业靶向招商。```wbCustomBlock{\"type\": \"quoted\", \"index\": 22, \"data\": {\"num\": [47], \"version\": 2, \"quote_list\": [{\"name\": \"北京昌平\", \"scheme\": \"sinaweibo://detail?mblogid=5227809603061899\", \"index\": 47, \"label\": \"大v\"}], \"name\": \"北京昌平\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.600.600.50/961b0597ly8i0irixyktcj20go0go3zb.jpg?KID=imgbed,tva&Expires=1762132818&ssig=vYvTs9M98s\", \"scheme\": \"sinaweibo://detail?mblogid=5227809603061899\", \"vType\": 1}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5227460610491034&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=2&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.17.7.670.670.50/6843b943ly8gk7k1zqi1hj20j60j6aau.jpg?KID=imgbed,tva&Expires=1762132818&ssig=8wWKDe8OcM) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">联合国儿童基金会</span><img src=\"http://wx3.sinaimg.cn/middle/6843b943ly1i6uelir3s7j20zj213hb1.jpg\" data-width=2631 data-height=1279></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5227854901281662&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=2&multi_count=1\"><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.600.600.50/007mpekzly8gxmdnst8vxj30go0gomxg.jpg?KID=imgbed,tva&Expires=1762132818&ssig=sSTKH7nUr4) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">日本花王</span><img src=\"http://wx1.sinaimg.cn/middle/007mpekzgy1i6s28rdwh6j33341qk4qp.jpg\" data-width=2252 data-height=4000></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5227809603061899&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=2&multi_count=2\"><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.600.600.50/961b0597ly8i0irixyktcj20go0go3zb.jpg?KID=imgbed,tva&Expires=1762132818&ssig=vYvTs9M98s) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">北京昌平</span><img src=\"http://wx3.sinaimg.cn/middle/961b0597gy1i6vdd3n1ecj20ob0do41g.jpg\" data-width=492 data-height=875></div></media-block><br>### 🚇 **三、参会指南与城市服务**  <br>1. **交通出行优化**  <br>   - **停车预约**：通过“上海停车”APP/小程序、“随申行”APP预约15处进博会停车场，可提前1小时锁定车位。```wbCustomBlock{\"type\": \"quoted\", \"index\": 26, \"data\": {\"num\": [10, 12], \"version\": 2, \"quote_list\": [{\"name\": \"上海发布\", \"scheme\": \"sinaweibo://detail?mblogid=5228109131415594\", \"index\": 10, \"label\": \"大v\"}, {\"name\": \"东方卫视番茄台\", \"scheme\": \"sinaweibo://detail?mblogid=5227079646839820\", \"index\": 12, \"label\": \"\"}], \"name\": \"上海发布\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.640.640.50/002LTpVoly1h8vidpaln1j60hs0hst9f02.jpg?KID=imgbed,tva&Expires=1762132818&ssig=N1RVXBz%2Fd5\", \"scheme\": \"sinaweibo://detail?mblogid=5228109131415594\", \"vType\": 1}}```  <br>   - **公共交通**：  <br>     - 轨道交通：2/17号线直达国家会展中心，建议避峰选17号线。```wbCustomBlock{\"type\": \"quoted\", \"index\": 28, \"data\": {\"num\": [12], \"version\": 2, \"quote_list\": [{\"name\": \"东方卫视番茄台\", \"scheme\": \"sinaweibo://detail?mblogid=5227079646839820\", \"index\": 12, \"label\": \"大v\"}], \"name\": \"东方卫视番茄台\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.500.500.50/001VDYkMly8hx9ufk04czj60dw0dwmxd02.jpg?KID=imgbed,tva&Expires=1762132818&ssig=0Y2ueFKohv\", \"scheme\": \"sinaweibo://detail?mblogid=5227079646839820\", \"vType\": 3}}```  <br>     - 接驳专线：71路进博专线免费乘车，新增浦东机场进博定制线。```wbCustomBlock{\"type\": \"quoted\", \"index\": 29, \"data\": {\"num\": [10, 12], \"version\": 2, \"quote_list\": [{\"name\": \"上海发布\", \"scheme\": \"sinaweibo://detail?mblogid=5228109131415594\", \"index\": 10, \"label\": \"\"}, {\"name\": \"东方卫视番茄台\", \"scheme\": \"sinaweibo://detail?mblogid=5227079646839820\", \"index\": 12, \"label\": \"\"}]}}```  <br>   - **即停即走下客点**：P0、P1、P6、P8、P15停车场（开放时段各异）。```wbCustomBlock{\"type\": \"quoted\", \"index\": 30, \"data\": {\"num\": [12], \"version\": 2, \"quote_list\": [{\"name\": \"东方卫视番茄台\", \"scheme\": \"sinaweibo://detail?mblogid=5227079646839820\", \"index\": 12, \"label\": \"\"}]}}```  <br><br>2. **文旅融合服务**  <br>   - **“随申行”APP专区**：整合交通指引、展馆导航、碳积分兑换（可换1元立减券）。```wbCustomBlock{\"type\": \"quoted\", \"index\": 32, \"data\": {\"num\": [10, 35, 44], \"version\": 2, \"quote_list\": [{\"name\": \"上海发布\", \"scheme\": \"sinaweibo://detail?mblogid=5228109131415594\", \"index\": 10, \"label\": \"\"}, {\"name\": \"凌冬顺嬷-忱然热恋ing\", \"scheme\": \"sinaweibo://detail?mblogid=5228685265474186\", \"index\": 35, \"label\": \"\"}, {\"name\": \"萝bro喜欢color\", \"scheme\": \"sinaweibo://detail?mblogid=5228663962604019\", \"index\": 44, \"label\": \"\"}]}}```  <br>   - **文旅优惠**：  <br>     - 持证免费乘坐11条双层观光巴士。```wbCustomBlock{\"type\": \"quoted\", \"index\": 34, \"data\": {\"num\": [10], \"version\": 2, \"quote_list\": [{\"name\": \"上海发布\", \"scheme\": \"sinaweibo://detail?mblogid=5228109131415594\", \"index\": 10, \"label\": \"\"}]}}```  <br>     - 浦江游览专享价、青浦微度假巴士串联朱家角古镇。```wbCustomBlock{\"type\": \"quoted\", \"index\": 35, \"data\": {\"num\": [10, 44], \"version\": 2, \"quote_list\": [{\"name\": \"上海发布\", \"scheme\": \"sinaweibo://detail?mblogid=5228109131415594\", \"index\": 10, \"label\": \"\"}, {\"name\": \"萝bro喜欢color\", \"scheme\": \"sinaweibo://detail?mblogid=5228663962604019\", \"index\": 44, \"label\": \"\"}]}}```  <br><br>3. **证件与便利化措施**  <br>   - **复用历史证件**：第五至七届进博会证件可复用。  <br>   - **电子口岸签证**：外籍展客商全程网办入境。<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5227079646839820&from=search&content_show=1&mix_index=2&hide_index=1&multi_paragraph=3&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.500.500.50/001VDYkMly8hx9ufk04czj60dw0dwmxd02.jpg?KID=imgbed,tva&Expires=1762132818&ssig=0Y2ueFKohv) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">东方卫视番茄台</span><img src=\"http://wx3.sinaimg.cn/middle/001VDYkMgy1i6t6wz7ni6j60hs9407wi02.jpg\" data-width=11808 data-height=640></div></media-block><br>### 💡 **四、保障与溢出效应**  <br>1. **城市保障升级**  <br>   - **通信**：上海联通以高科技服务护航网络畅通。```wbCustomBlock{\"type\": \"quoted\", \"index\": 42, \"data\": {\"num\": [4], \"version\": 2, \"quote_list\": [{\"name\": \"中国联通\", \"scheme\": \"sinaweibo://detail?mblogid=5228534383247555\", \"index\": 4, \"label\": \"大v\"}], \"name\": \"中国联通\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.600.600.50/002buObFly8h8vhqa7fqnj60go0godgl02.jpg?KID=imgbed,tva&Expires=1762132818&ssig=b3k3AGtBST\", \"scheme\": \"sinaweibo://detail?mblogid=5228534383247555\", \"vType\": 2}}```  <br>   - **海事安全**：闵行海事局严控船舶入沪安检，24小时应急值守。```wbCustomBlock{\"type\": \"quoted\", \"index\": 43, \"data\": {\"num\": [8], \"version\": 2, \"quote_list\": [{\"name\": \"中国水运报\", \"scheme\": \"sinaweibo://detail?mblogid=5225963186297339\", \"index\": 8, \"label\": \"大v\"}], \"name\": \"中国水运报\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.160.160.50/8ca239f8ly8gdi4vx0ztej204g04g0sz.jpg?KID=imgbed,tva&Expires=1762132818&ssig=RFEQD5A1S2\", \"scheme\": \"sinaweibo://detail?mblogid=5225963186297339\", \"vType\": 3}}```  <br>   - **食品安全**：上海市监局开通进口特殊食品临时许可通道。```wbCustomBlock{\"type\": \"quoted\", \"index\": 44, \"data\": {\"num\": [7], \"version\": 2, \"quote_list\": [{\"name\": \"上海市场监管\", \"scheme\": \"sinaweibo://detail?mblogid=5222312653882128\", \"index\": 7, \"label\": \"大v\"}], \"name\": \"上海市场监管\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.640.640.50/93f54799ly1h8vkvnc3nmj20hs0hsjth.jpg?KID=imgbed,tva&Expires=1762132818&ssig=Ca0oW1ntAP\", \"scheme\": \"sinaweibo://detail?mblogid=5222312653882128\", \"vType\": 1}}```  <br><br>2. **志愿者服务**  <br>   - **“小叶子”团队**：3865名志愿者上岗，含71名港澳台志愿者及30名外籍留学生，首设“小语种志愿者联盟”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 46, \"data\": {\"num\": [11, 41, 49], \"version\": 2, \"quote_list\": [{\"name\": \"看看新闻Knews\", \"scheme\": \"sinaweibo://detail?mblogid=5227203277357680\", \"index\": 11, \"label\": \"\"}, {\"name\": \"上海校园\", \"scheme\": \"sinaweibo://detail?mblogid=5227417028267603\", \"index\": 41, \"label\": \"\"}, {\"name\": \"上海校园\", \"scheme\": \"sinaweibo://detail?mblogid=5227009460667030\", \"index\": 49, \"label\": \"\"}]}}```  <br><br>3. **绿色与可持续**  <br>   - **“零碳会议”**：发放超万份绿色出行优惠券，碳积分可兑换公共交通折扣。```wbCustomBlock{\"type\": \"quoted\", \"index\": 48, \"data\": {\"num\": [10, 44], \"version\": 2, \"quote_list\": [{\"name\": \"上海发布\", \"scheme\": \"sinaweibo://detail?mblogid=5228109131415594\", \"index\": 10, \"label\": \"\"}, {\"name\": \"萝bro喜欢color\", \"scheme\": \"sinaweibo://detail?mblogid=5228663962604019\", \"index\": 44, \"label\": \"\"}]}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5222312653882128&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=4&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.640.640.50/93f54799ly1h8vkvnc3nmj20hs0hsjth.jpg?KID=imgbed,tva&Expires=1762132818&ssig=Ca0oW1ntAP) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">上海市场监管</span><img src=\"http://wx4.sinaimg.cn/middle/93f54799gy1i6dzeyom4zj20nl1foe81.jpg\" data-width=1860 data-height=849></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5227009460667030&multi_paragraph=4&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.512.512.50/770229d4ly8h8vd2gkupgj20e80e8q3n.jpg?KID=imgbed,tva&Expires=1762132818&ssig=e2TZUvDlbE) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">上海校园</span><img src=\"http://wx4.sinaimg.cn/middle/770229d4ly1i6sg6lgaxrj20zk0k0ads.jpg\" data-width=720 data-height=1280></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5228534383247555&multi_paragraph=4&multi_count=2\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.600.600.50/002buObFly8h8vhqa7fqnj60go0godgl02.jpg?KID=imgbed,tva&Expires=1762132818&ssig=b3k3AGtBST) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">中国联通</span><img src=\"http://wx2.sinaimg.cn/middle/002buObFly1i6wlmzbrj8j61pd0yie8102.jpg\" data-width=1242 data-height=2209></div></media-block><br>### 💎 **总结**  <br>第八届进博会以 **“扩大开放确定性应对全球不确定性”** 为内核，通过规模扩容、机制创新（如零关税专区）及服务升级，彰显中国市场的全球枢纽作用。观众可提前通过官方渠道规划行程，体验这场融汇科技、文化与合作的国际盛会！```wbCustomBlock{\"type\": \"quoted\", \"index\": 50, \"data\": {\"num\": [19, 42, 44], \"version\": 2, \"quote_list\": [{\"name\": \"单字御\", \"scheme\": \"sinaweibo://detail?mblogid=5228675910867841\", \"index\": 19, \"label\": \"\"}, {\"name\": \"禹粥真真\", \"scheme\": \"sinaweibo://detail?mblogid=5228660650934386\", \"index\": 42, \"label\": \"\"}, {\"name\": \"萝bro喜欢color\", \"scheme\": \"sinaweibo://detail?mblogid=5228663962604019\", \"index\": 44, \"label\": \"\"}]}}```<br>",
+      "version": "2025-11-03 06:20:18.006000-6993",
+      "card_multimodal": {
+        "type": "mediablock",
+        "data": [
+          {
+            "hit_score_final": 93.014069,
+            "cur_mid": "5226671461893822",
+            "user_name": "央视三农",
+            "h": 720,
+            "vtype": 3,
+            "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.600.600.50/007XX2J2ly8hw91nmkhqqj30go0go75j.jpg?KID=imgbed,tva&Expires=1762132818&ssig=lFIMYv%2FpvS",
+            "video_url": "",
+            "type": "p",
+            "doc_score": 3100,
+            "img_pid": "007XX2J2ly1i6rw0lgvx7j30k00k0aby",
+            "hit_score_new": 99.023438,
+            "click_rate": 0.06,
+            "img": "http://wx1.sinaimg.cn/middle/007XX2J2ly1i6rw0lgvx7j30k00k0aby.jpg",
+            "scheme": "sinaweibo://multimedia?mix_mid=5226671461893822&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=0",
+            "w": 720
+          },
+          {
+            "hit_score_final": 95.014069,
+            "cur_mid": "5228138181165468",
+            "user_name": "看看新闻Knews",
+            "h": 696,
+            "vtype": 3,
+            "user_avatar": "https://tvax2.sinaimg.cn/crop.0.0.410.410.50/6e05a6daly1h8vg7kmg7ej20be0bemxf.jpg?KID=imgbed,tva&Expires=1762132818&ssig=%2FgV0rssDL8",
+            "video_url": "https://video.weibo.com/show?fid=1034:5228138008084502",
+            "type": "v",
+            "doc_score": 3709,
+            "img_pid": "6e05a6daly8i6wkgvpqsej20yd0jcjvx",
+            "hit_score_new": 99.023438,
+            "click_rate": 0.055555555555556,
+            "img": "http://wx1.sinaimg.cn/middle/6e05a6daly8i6wkgvpqsej20yd0jcjvx.jpg",
+            "scheme": "sinaweibo://video/vvs?mid=5228138181165468&multi_paragraph=1&multi_count=1",
+            "w": 1237
+          },
+          {
+            "hit_score_final": 87.296875,
+            "cur_mid": "5227460610491034",
+            "user_name": "联合国儿童基金会",
+            "h": 2631,
+            "vtype": 1,
+            "user_avatar": "https://tvax4.sinaimg.cn/crop.17.7.670.670.50/6843b943ly8gk7k1zqi1hj20j60j6aau.jpg?KID=imgbed,tva&Expires=1762132818&ssig=8wWKDe8OcM",
+            "video_url": "",
+            "type": "p",
+            "doc_score": 3387,
+            "img_pid": "6843b943ly1i6uelir3s7j20zj213hb1",
+            "hit_score_new": 98.828125,
+            "click_rate": 0.12658227848101,
+            "img": "http://wx3.sinaimg.cn/middle/6843b943ly1i6uelir3s7j20zj213hb1.jpg",
+            "scheme": "sinaweibo://multimedia?mix_mid=5227460610491034&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=2&multi_count=0",
+            "w": 1279
+          },
+          {
+            "hit_score_final": 93.014069,
+            "cur_mid": "5226671461893822",
+            "user_name": "央视三农",
+            "h": 720,
+            "vtype": 3,
+            "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.600.600.50/007XX2J2ly8hw91nmkhqqj30go0go75j.jpg?KID=imgbed,tva&Expires=1762132818&ssig=lFIMYv%2FpvS",
+            "video_url": "",
+            "type": "p",
+            "doc_score": 3100,
+            "img_pid": "007XX2J2ly1i6rw0lgvx7j30k00k0aby",
+            "hit_score_new": 99.023438,
+            "click_rate": 0.06,
+            "img": "http://wx1.sinaimg.cn/middle/007XX2J2ly1i6rw0lgvx7j30k00k0aby.jpg",
+            "scheme": "sinaweibo://multimedia?mix_mid=5226671461893822&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=0",
+            "w": 720
+          }
+        ]
+      },
+      "mid_list": null,
+      "reference_num": 44,
+      "page_id": "232964835d87f7c7a367c9b7c0b98cd3ce9d65",
+      "ext_show": {},
+      "analysis_time": 1762122303,
+      "user_info": {},
+      "current_time": 1762122401,
+      "qs_status": 0
+    }
+  },
+  "links": [
+    "sinaweibo://detail?mblogid=5228421137039460",
+    "sinaweibo://detail?mblogid=5227719010551606",
+    "sinaweibo://detail?mblogid=5228591458553169",
+    "sinaweibo://detail?mblogid=5228534383247555",
+    "sinaweibo://detail?mblogid=5228079228126901",
+    "sinaweibo://detail?mblogid=5226665409251050",
+    "sinaweibo://detail?mblogid=5222312653882128",
+    "sinaweibo://detail?mblogid=5225963186297339",
+    "sinaweibo://detail?mblogid=5228138181165468",
+    "sinaweibo://detail?mblogid=5228109131415594",
+    "sinaweibo://detail?mblogid=5227203277357680",
+    "sinaweibo://detail?mblogid=5227079646839820",
+    "broadsocial_res://",
+    "broadsocial_res://",
+    "historyweibo://5226660800501876",
+    "historyweibo://4962820690806973",
+    "historyweibo://4962590792353317",
+    "sinaweibo://detail?mblogid=5228664260395711",
+    "sinaweibo://detail?mblogid=5228675910867841",
+    "sinaweibo://detail?mblogid=5228764381577243",
+    "sinaweibo://detail?mblogid=5228749796934366",
+    "sinaweibo://detail?mblogid=5228734547231674",
+    "sinaweibo://detail?mblogid=5228713897887332",
+    "sinaweibo://detail?mblogid=5228713145008915",
+    "sinaweibo://detail?mblogid=5228706965488205",
+    "sinaweibo://detail?mblogid=5228704298959360",
+    "sinaweibo://detail?mblogid=5228704147965424",
+    "sinaweibo://detail?mblogid=5228699446413367",
+    "sinaweibo://detail?mblogid=5228694813803297",
+    "sinaweibo://detail?mblogid=5228691005117160",
+    "sinaweibo://detail?mblogid=5228690239393257",
+    "sinaweibo://detail?mblogid=5228688092169346",
+    "sinaweibo://detail?mblogid=5228688042103700",
+    "sinaweibo://detail?mblogid=5228687597242379",
+    "sinaweibo://detail?mblogid=5228685265474186",
+    "sinaweibo://detail?mblogid=5228685209899260",
+    "sinaweibo://detail?mblogid=5228684148474569",
+    "sinaweibo://detail?mblogid=5228683514090085",
+    "sinaweibo://detail?mblogid=5227354176620512",
+    "sinaweibo://detail?mblogid=5227854901281662",
+    "sinaweibo://detail?mblogid=5227417028267603",
+    "sinaweibo://detail?mblogid=5228660650934386",
+    "sinaweibo://detail?mblogid=5227460610491034",
+    "sinaweibo://detail?mblogid=5228663962604019",
+    "sinaweibo://detail?mblogid=5227467669505104",
+    "sinaweibo://detail?mblogid=5226671461893822",
+    "sinaweibo://detail?mblogid=5227809603061899",
+    "sinaweibo://detail?mblogid=5227833662375555",
+    "sinaweibo://detail?mblogid=5227009460667030"
+  ],
+  "media": [
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/007XX2J2ly1i6rw0lgvx7j30k00k0aby.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/007XX2J2ly1i6rw0lgvx7j30k00k0aby.jpg",
+      "alt": "央视三农",
+      "width": 720,
+      "height": 720,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/007XX2J2ly1i6rw0lgvx7j30k00k0aby.jpg"
+      ],
+      "user": "央视三农"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/6e05a6daly8i6wkgvpqsej20yd0jcjvx.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/6e05a6daly8i6wkgvpqsej20yd0jcjvx.jpg",
+      "alt": "看看新闻Knews",
+      "width": 696,
+      "height": 1237,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/6e05a6daly8i6wkgvpqsej20yd0jcjvx.jpg"
+      ],
+      "user": "看看新闻Knews"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/6843b943ly1i6uelir3s7j20zj213hb1.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/6843b943ly1i6uelir3s7j20zj213hb1.jpg",
+      "alt": "联合国儿童基金会",
+      "width": 2631,
+      "height": 1279,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/6843b943ly1i6uelir3s7j20zj213hb1.jpg"
+      ],
+      "user": "联合国儿童基金会"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/007mpekzgy1i6s28rdwh6j33341qk4qp.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/007mpekzgy1i6s28rdwh6j33341qk4qp.jpg",
+      "alt": "日本花王",
+      "width": 2252,
+      "height": 4000,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/007mpekzgy1i6s28rdwh6j33341qk4qp.jpg"
+      ],
+      "user": "日本花王"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/961b0597gy1i6vdd3n1ecj20ob0do41g.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/961b0597gy1i6vdd3n1ecj20ob0do41g.jpg",
+      "alt": "北京昌平",
+      "width": 492,
+      "height": 875,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/961b0597gy1i6vdd3n1ecj20ob0do41g.jpg"
+      ],
+      "user": "北京昌平"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/001VDYkMgy1i6t6wz7ni6j60hs9407wi02.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/001VDYkMgy1i6t6wz7ni6j60hs9407wi02.jpg",
+      "alt": "东方卫视番茄台",
+      "width": 11808,
+      "height": 640,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/001VDYkMgy1i6t6wz7ni6j60hs9407wi02.jpg"
+      ],
+      "user": "东方卫视番茄台"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/93f54799gy1i6dzeyom4zj20nl1foe81.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/93f54799gy1i6dzeyom4zj20nl1foe81.jpg",
+      "alt": "上海市场监管",
+      "width": 1860,
+      "height": 849,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/93f54799gy1i6dzeyom4zj20nl1foe81.jpg"
+      ],
+      "user": "上海市场监管"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/770229d4ly1i6sg6lgaxrj20zk0k0ads.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/770229d4ly1i6sg6lgaxrj20zk0k0ads.jpg",
+      "alt": "上海校园",
+      "width": 720,
+      "height": 1280,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/770229d4ly1i6sg6lgaxrj20zk0k0ads.jpg"
+      ],
+      "user": "上海校园"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/002buObFly1i6wlmzbrj8j61pd0yie8102.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/002buObFly1i6wlmzbrj8j61pd0yie8102.jpg",
+      "alt": "中国联通",
+      "width": 1242,
+      "height": 2209,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/002buObFly1i6wlmzbrj8j61pd0yie8102.jpg"
+      ],
+      "user": "中国联通"
+    }
+  ],
+  "html_path": "data/aicard/hourly/2025-11-03/06/topic-a5315a2d.html"
+}

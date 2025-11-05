@@ -1,0 +1,317 @@
+{
+  "meta": {
+    "query": "#白鹿关晓彤李兰迪 红毯妈咪级别#",
+    "status_code": 200,
+    "fetched_at": "2025-10-28T17:56:13+08:00",
+    "response": {
+      "abtest_info": {
+        "chat_entrance": 1
+      },
+      "query_category": "",
+      "current_time": 1761645373,
+      "user_info": {},
+      "model": "deepseek",
+      "analysis_time": 1761631270,
+      "cot": 1,
+      "zs_risk_control": {
+        "think_text_close": 0,
+        "land_button_close": 0
+      },
+      "q_attr": {
+        "from_uid": "7539308324",
+        "from_request_id": "1761631209764"
+      },
+      "show_ctrl": {
+        "quote": {}
+      },
+      "mid_list": null,
+      "reference_num": 31,
+      "status_stage": 4,
+      "link_list": [
+        "sinaweibo://detail?mblogid=5226335283973651",
+        "sinaweibo://detail?mblogid=5226370276004044",
+        "sinaweibo://detail?mblogid=5226342775259650",
+        "sinaweibo://detail?mblogid=5226374107236919",
+        "historyweibo://5226335283973651",
+        "historyweibo://5211543799336378",
+        "historyweibo://5211830709388725",
+        "sinaweibo://detail?mblogid=5226369028197968",
+        "sinaweibo://detail?mblogid=5226380851151480",
+        "sinaweibo://detail?mblogid=5226365868837324",
+        "sinaweibo://detail?mblogid=5226354601624502",
+        "sinaweibo://detail?mblogid=5226368914952215",
+        "sinaweibo://detail?mblogid=5226366859477004",
+        "sinaweibo://detail?mblogid=5226352418488734",
+        "sinaweibo://detail?mblogid=5226365278225971",
+        "sinaweibo://detail?mblogid=5226394766541170",
+        "sinaweibo://detail?mblogid=5226383758590063",
+        "sinaweibo://detail?mblogid=5226355488198282",
+        "sinaweibo://detail?mblogid=5226440518797198",
+        "sinaweibo://detail?mblogid=5226356589987367",
+        "sinaweibo://detail?mblogid=5226438572638867",
+        "sinaweibo://detail?mblogid=5226438905303906",
+        "sinaweibo://detail?mblogid=5226360887056230",
+        "sinaweibo://detail?mblogid=5226375738559047",
+        "sinaweibo://detail?mblogid=5226425105517878",
+        "sinaweibo://detail?mblogid=5226520324868419",
+        "sinaweibo://detail?mblogid=5226496681576522",
+        "sinaweibo://detail?mblogid=5226344256636552",
+        "sinaweibo://detail?mblogid=5122033591519433",
+        "sinaweibo://detail?mblogid=5226412807554316",
+        "sinaweibo://detail?mblogid=5097460000623834",
+        "sinaweibo://detail?mblogid=5226381697880598",
+        "sinaweibo://detail?mblogid=5226396456846665",
+        "sinaweibo://detail?mblogid=5226381246204403"
+      ],
+      "share_info": {
+        "display_name": "#白鹿关晓彤李兰迪 红毯妈咪级别#",
+        "unify_md5": "53ca413256df681b0252068c90cec5a4",
+        "url": "http://t.cn/AXwgkAWx",
+        "page_id": "232964dede667147f012540047b16892c4ca76",
+        "status": 3,
+        "tips": "#白鹿关晓彤李兰迪 红毯妈咪级别#的相关内容，来智搜看看"
+      },
+      "ext_show": {},
+      "msg_json": "{}",
+      "share_card_multimodal": {
+        "click_rate": 0,
+        "type": "p",
+        "doc_score": 4391,
+        "vtype": 3,
+        "hit_score_new": 96.533203,
+        "img_pid": "00237iRply1i6qvc4mk13j60u01p47hd02",
+        "w": 1080,
+        "cur_mid": "5226352418488734",
+        "user_avatar": "https://tvax2.sinaimg.cn/crop.0.0.996.996.50/00237iRply8h8v3qn6hwkj60ro0romyj02.jpg?KID=imgbed,tva&Expires=1761642013&ssig=2D9dK7ef0R",
+        "hit_score_final": 85.119926,
+        "img": "http://wx4.sinaimg.cn/middle/00237iRply1i6qvc4mk13j60u01p47hd02.jpg",
+        "h": 2200,
+        "user_name": "新浪综艺",
+        "video_url": "",
+        "scheme": "sinaweibo://multimedia?mix_mid=5226352418488734&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=0"
+      },
+      "basemodel": "实验组7",
+      "uid": "",
+      "query_field": "1",
+      "chat_status_stage": 1,
+      "news_analyze": {},
+      "reliable_tips": "{\"gold_orange_v_mids\": [\"5226335283973651\", \"5226342775259650\", \"5226369028197968\", \"5226354601624502\", \"5226368914952215\", \"5226366859477004\", \"5226356589987367\", \"5226381246204403\", \"5226394766541170\", \"5226381697880598\", \"5226370276004044\", \"5226374107236919\", \"5226380851151480\", \"5226365868837324\", \"5226365278225971\", \"5226355488198282\", \"5226438572638867\", \"5226438905303906\", \"5226344256636552\", \"5122033591519433\", \"5226412807554316\", \"5097460000623834\", \"5226396456846665\"], \"gold_orange_v_ratio\": \"74%\", \"media_mids\": [\"5226520324868419\", \"5226425105517878\"], \"media_ratio\": \"6%\", \"verified_mids\": [\"5226352418488734\", \"5226360887056230\", \"5226496681576522\"], \"verified_ratio\": \"10%\", \"normal_mids\": [\"5226383758590063\", \"5226440518797198\", \"5226375738559047\"], \"normal_ratio\": \"10%\"}",
+      "msg": "<think><br>嗯，用户查询的是\"白鹿关晓彤李兰迪 红毯妈咪级别\"，看起来是在关注三位女星即将同台走红毯的娱乐事件。从搜索结果看，这确实是个热门话题，主要围绕她们11月3日要在微博视界大会红毯合体的事。<br><br>用户可能是个追星族或娱乐爱好者，想了解这次红毯的看点。从搜索结果看最核心的信息在结果5，完整解释了\"红毯妈咪\"称号的由来——指她们红毯表现稳定、气场强大如\"镇场妈咪\"。这个比喻挺有意思的。<br><br>具体需要整理的关键点包括：<br>三位女星的风格差异很明显：关晓彤172cm身高走女王路线，白鹿擅长明艳复古风，李兰迪则以淡雅松弛感著称。粉丝们似乎特别期待她们再现经典场面，比如李兰迪的\"扫腿舞\"和关晓彤的\"冷脸比心\"。<br><br>还发现些延伸信息：她们都有待播剧可能带来热度加成，比如白鹿的《莫离》刚放出吻戏预告就上热搜了，李兰迪也有《喀什恋歌》等剧集在拍。不过要注意结果6、7是早前的关联话题，和本次红毯无关可以不提。<br><br>时间上所有有效信息都是10月27日发布的，很新鲜。但要注意结果29、31是更早的红毯生图对比，与本次事件无关。<br><br>呈现方式上，考虑用分段式结构：先解释事件和称号，再分述三人特色，最后补充延伸期待点。准备把\"红毯妈咪\"加粗突出，三种风格用破折号分隔更清晰。引用主要来自结果3、5、11等优质或认证账号内容，结果2、4等无关内容直接忽略。<br><br></think><br>以下是关于“白鹿关晓彤李兰迪 红毯妈咪级别”的核心信息整理及分析，结合2025年10月27日发布的权威内容综合呈现：<br>### 🔥 **事件焦点：微博视界大会红毯合体**  <br>1. **称号与背景**  <br>   - **“红毯妈咪”标签**：源于网友对三位女星过往红毯表现的高度认可，意指其造型稳定、气场强大，堪称“镇场级”存在。```wbCustomBlock{\"type\": \"quoted\", \"index\": 5, \"data\": {\"num\": [14], \"version\": 2, \"quote_list\": [{\"name\": \"新浪综艺\", \"scheme\": \"sinaweibo://detail?mblogid=5226352418488734\", \"index\": 14, \"label\": \"\"}]}}```  <br>   - **同台契机**：三人确认出席**2025年11月3日**举办的微博视界大会，首次以该称号合体亮相，引发全网期待。```wbCustomBlock{\"type\": \"quoted\", \"index\": 6, \"data\": {\"num\": [1, 23], \"version\": 2, \"quote_list\": [{\"name\": \"搜狐娱乐\", \"scheme\": \"sinaweibo://detail?mblogid=5226360887056230\", \"index\": 23, \"label\": \"大v\"}, {\"name\": \"追星组长\", \"scheme\": \"sinaweibo://detail?mblogid=5226335283973651\", \"index\": 1, \"label\": \"\"}], \"name\": \"搜狐娱乐\", \"img\": \"https://tvax3.sinaimg.cn/crop.3.2.96.96.50/0020LHhfly8h8p8t2d8guj602s02s0sj02.jpg?KID=imgbed,tva&Expires=1761642013&ssig=tr5up4fSVq\", \"scheme\": \"sinaweibo://detail?mblogid=5226360887056230\", \"vType\": 3}}```<br><br>2. **风格定位与亮点**  <br>   | **艺人**   | **风格定位**               | **核心优势**                     | **粉丝期待**                     |  <br>   |------------|----------------------------|----------------------------------|----------------------------------|  <br>   | **关晓彤** | 女王气场雕塑感             | 172cm身高优势，擅长高开衩/高腰礼服凸显比例 | “冷脸比心”反差萌再现 |  <br>   | **白鹿**   | 明艳复古风                 | 生图抗打，甜美与飒爽兼具         | 盘发造型、新剧《莫离》热度加成 |  <br>   | **李兰迪** | 淡颜叙事感                 | 松弛氛围打破“白幼瘦”审美         | “扫腿舞”等反差名场面重现 |<br><br>```wbCustomBlock{\"type\": \"quoted\", \"index\": 7, \"data\": {\"num\": [3, 8, 11, 12, 13, 20, 26, 34], \"version\": 2, \"quote_list\": [{\"name\": \"中网传播\", \"scheme\": \"sinaweibo://detail?mblogid=5226520324868419\", \"index\": 26, \"label\": \"大v\"}, {\"name\": \"灵儿乐厨\", \"scheme\": \"sinaweibo://detail?mblogid=5226342775259650\", \"index\": 3, \"label\": \"\"}, {\"name\": \"潇骑校尉曹操\", \"scheme\": \"sinaweibo://detail?mblogid=5226369028197968\", \"index\": 8, \"label\": \"\"}, {\"name\": \"娱扒爹\", \"scheme\": \"sinaweibo://detail?mblogid=5226354601624502\", \"index\": 11, \"label\": \"\"}, {\"name\": \"啵啵奶彤\", \"scheme\": \"sinaweibo://detail?mblogid=5226368914952215\", \"index\": 12, \"label\": \"\"}, {\"name\": \"青黄\", \"scheme\": \"sinaweibo://detail?mblogid=5226366859477004\", \"index\": 13, \"label\": \"\"}, {\"name\": \"六元吃莞鱼粥粥\", \"scheme\": \"sinaweibo://detail?mblogid=5226356589987367\", \"index\": 20, \"label\": \"\"}, {\"name\": \"在灯关下漫步-\", \"scheme\": \"sinaweibo://detail?mblogid=5226381246204403\", \"index\": 34, \"label\": \"\"}], \"name\": \"中网传播\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.1000.1000.50/0086ll1lly8hw9cc28gcpj30rs0rs3yx.jpg?KID=imgbed,tva&Expires=1761642013&ssig=oCzgWYJN9Q\", \"scheme\": \"sinaweibo://detail?mblogid=5226520324868419\", \"vType\": 3}}```  <br><br>3. **行业意义与争议**  <br>   - **95花标杆对决**：三人被视为内娱95后女星红毯表现力巅峰，其健康美、原生脸与业务能力或重塑行业标准。```wbCustomBlock{\"type\": \"quoted\", \"index\": 9, \"data\": {\"num\": [16], \"version\": 2, \"quote_list\": [{\"name\": \"比奇堡键盘侠\", \"scheme\": \"sinaweibo://detail?mblogid=5226394766541170\", \"index\": 16, \"label\": \"\"}]}}```  <br>   - **争议点澄清**：  <br>     - 网传关晓彤“外媒称雕塑感比例”、李兰迪“200万直播观看量”等数据缺乏官方证实；  <br>     - 关联话题（如鹿晗关晓彤恋情）与本次红毯主题无关。<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5226352418488734&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.996.996.50/00237iRply8h8v3qn6hwkj60ro0romyj02.jpg?KID=imgbed,tva&Expires=1761642013&ssig=2D9dK7ef0R) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">新浪综艺</span><img src=\"http://wx4.sinaimg.cn/middle/00237iRply1i6qvc4mk13j60u01p47hd02.jpg\" data-width=2200 data-height=1080></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5226335283973651&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=1\"><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/006I0Zl6ly8i4wtv3gx9aj30u00u0div.jpg?KID=imgbed,tva&Expires=1761642013&ssig=Tq8I1RSvSG) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">追星组长</span><img src=\"http://wx4.sinaimg.cn/middle/006I0Zl6gy1i6qtfa3dvij30zk1bfq7r.jpg\" data-width=1707 data-height=1280></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5226354601624502&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=2\"><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.500.500.50/005UCmYely8hnvbmns2wsj30dw0dwglq.jpg?KID=imgbed,tva&Expires=1761642013&ssig=5Y7t101HgK) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">娱扒爹</span><img src=\"http://wx4.sinaimg.cn/middle/005UCmYely1i6qvmuz91pj30k60zun2o.jpg\" data-width=1290 data-height=726></div><div data-type=\"v\" data-scheme=\"sinaweibo://multimedia?mix_mid=5226369028197968&mix_index=0&multi_paragraph=1&multi_count=3\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.1023.1023.50/007GrijXly8i34c903sxjj30sg0sfwi7.jpg?KID=imgbed,tva&Expires=1761642013&ssig=9J0gccxacO) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">潇骑校尉曹操</span><img src=\"http://wx3.sinaimg.cn/middle/007GrijXly1i6qx9dvhe9j30u01kxgoj.jpg\" data-width=2049 data-height=1080></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5226368914952215&multi_paragraph=1&multi_count=4\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/007gLOM1ly8i5lo16878ij30u00u0n0e.jpg?KID=imgbed,tva&Expires=1761642013&ssig=D7E%2B0mFD4n) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">啵啵奶彤</span><img src=\"http://wx4.sinaimg.cn/middle/007gLOM1ly1i6qxa23mxwj31hc0u0tc9.jpg\" data-width=1080 data-height=1920></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5226394766541170&multi_paragraph=1&multi_count=5\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/006XPCcgly8i3cv02jfgrj30u00u041w.jpg?KID=imgbed,tva&Expires=1761642013&ssig=2srYv6mpNx) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">比奇堡键盘侠</span><img src=\"http://wx4.sinaimg.cn/middle/006XPCcgly1i6r08rrffjj30u0140abv.jpg\" data-width=1440 data-height=1080></div></media-block><br>### 💎 **延伸期待与热点关联**  <br>1. **待播剧热度反哺**  <br>   - 白鹿《莫离》预告片吻戏登热搜（叶璃主动吻墨修尧的“救赎感”镜头引发热议）；```wbCustomBlock{\"type\": \"quoted\", \"index\": 16, \"data\": {\"num\": [26], \"version\": 2, \"quote_list\": [{\"name\": \"中网传播\", \"scheme\": \"sinaweibo://detail?mblogid=5226520324868419\", \"index\": 26, \"label\": \"\"}]}}```  <br>   - 李兰迪《欢聚》《喀什恋歌》等剧集入围视界大会，演技口碑受关注；```wbCustomBlock{\"type\": \"quoted\", \"index\": 17, \"data\": {\"num\": [20, 27], \"version\": 2, \"quote_list\": [{\"name\": \"六元吃莞鱼粥粥\", \"scheme\": \"sinaweibo://detail?mblogid=5226356589987367\", \"index\": 20, \"label\": \"\"}, {\"name\": \"Landy的芋头\", \"scheme\": \"sinaweibo://detail?mblogid=5226496681576522\", \"index\": 27, \"label\": \"\"}]}}```  <br>   - 关晓彤《小巷人家》都市题材受期待。<br><br>2. **粉丝热议方向**  <br>   - **审美多样性**：浓颜冲击力（白鹿）、比例雕塑感（关晓彤）、淡颜叙事性（李兰迪）共存，诠释“美不被定义”；```wbCustomBlock{\"type\": \"quoted\", \"index\": 20, \"data\": {\"num\": [3, 16], \"version\": 2, \"quote_list\": [{\"name\": \"灵儿乐厨\", \"scheme\": \"sinaweibo://detail?mblogid=5226342775259650\", \"index\": 3, \"label\": \"\"}, {\"name\": \"比奇堡键盘侠\", \"scheme\": \"sinaweibo://detail?mblogid=5226394766541170\", \"index\": 16, \"label\": \"\"}]}}```  <br>   - **红毯进化趋势**：从单一比美转向气质表达，如关晓彤的冷感、白鹿的生命力、李兰迪的沉静。```wbCustomBlock{\"type\": \"quoted\", \"index\": 21, \"data\": {\"num\": [32], \"version\": 2, \"quote_list\": [{\"name\": \"丑鸭qq\", \"scheme\": \"sinaweibo://detail?mblogid=5226381697880598\", \"index\": 32, \"label\": \"\"}]}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5226381697880598&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=2&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/008uPNysly8i4vmmomujhj30u00u0q5p.jpg?KID=imgbed,tva&Expires=1761642013&ssig=Oti4pXx60y) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">丑鸭qq</span><img src=\"http://wx2.sinaimg.cn/middle/008uPNysgy1i6qyrc9wevj30qo1400xi.jpg\" data-width=1440 data-height=960></div></media-block><br>### ⚠️ **注意事项**  <br>- **活动时间**：微博视界大会红毯将于**2025年11月3日**举行，届时可验证造型表现；```wbCustomBlock{\"type\": \"quoted\", \"index\": 24, \"data\": {\"num\": [23], \"version\": 2, \"quote_list\": [{\"name\": \"搜狐娱乐\", \"scheme\": \"sinaweibo://detail?mblogid=5226360887056230\", \"index\": 23, \"label\": \"\"}]}}```  <br>- **标签本质**：“红毯妈咪”为网友趣味赞誉，非官方称号，需理性看待其娱乐属性；  <br>- **信息甄别**：部分传播数据（如外媒评价、直播量）未获权威证实，建议以官方发布为准。<br>",
+      "sorted_material_list": null,
+      "version": "2025-10-28 14:00:13.010999-9198",
+      "wenda": {
+        "forward_gen": 0
+      },
+      "short_url": "http://t.cn/AXwgmwaH",
+      "unify_md5": "53ca413256df681b0252068c90cec5a4",
+      "query": "#白鹿关晓彤李兰迪 红毯妈咪级别#",
+      "card_multimodal": {
+        "data": [
+          {
+            "click_rate": 0,
+            "type": "p",
+            "doc_score": 4391,
+            "vtype": 3,
+            "hit_score_new": 96.533203,
+            "img_pid": "00237iRply1i6qvc4mk13j60u01p47hd02",
+            "w": 1080,
+            "cur_mid": "5226352418488734",
+            "user_avatar": "https://tvax2.sinaimg.cn/crop.0.0.996.996.50/00237iRply8h8v3qn6hwkj60ro0romyj02.jpg?KID=imgbed,tva&Expires=1761642013&ssig=2D9dK7ef0R",
+            "hit_score_final": 85.119926,
+            "img": "http://wx4.sinaimg.cn/middle/00237iRply1i6qvc4mk13j60u01p47hd02.jpg",
+            "h": 2200,
+            "user_name": "新浪综艺",
+            "video_url": "",
+            "scheme": "sinaweibo://multimedia?mix_mid=5226352418488734&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=0"
+          },
+          {
+            "click_rate": 0,
+            "type": "p",
+            "doc_score": 0,
+            "vtype": 0,
+            "hit_score_new": 0,
+            "img_pid": "006I0Zl6gy1i6qtfa3dvij30zk1bfq7r",
+            "w": 1280,
+            "cur_mid": "5226335283973651",
+            "user_avatar": "https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/006I0Zl6ly8i4wtv3gx9aj30u00u0div.jpg?KID=imgbed,tva&Expires=1761642013&ssig=Tq8I1RSvSG",
+            "hit_score_final": 0,
+            "img": "http://wx4.sinaimg.cn/middle/006I0Zl6gy1i6qtfa3dvij30zk1bfq7r.jpg",
+            "h": 1707,
+            "user_name": "追星组长",
+            "video_url": "",
+            "scheme": "sinaweibo://multimedia?mix_mid=5226335283973651&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=1"
+          },
+          {
+            "click_rate": 0,
+            "type": "p",
+            "doc_score": 5087,
+            "vtype": 0,
+            "hit_score_new": 86.328125,
+            "img_pid": "005UCmYely1i6qvmuz91pj30k60zun2o",
+            "w": 726,
+            "cur_mid": "5226354601624502",
+            "user_avatar": "https://tvax2.sinaimg.cn/crop.0.0.500.500.50/005UCmYely8hnvbmns2wsj30dw0dwglq.jpg?KID=imgbed,tva&Expires=1761642013&ssig=5Y7t101HgK",
+            "hit_score_final": 83.796875,
+            "img": "http://wx4.sinaimg.cn/middle/005UCmYely1i6qvmuz91pj30k60zun2o.jpg",
+            "h": 1290,
+            "user_name": "娱扒爹",
+            "video_url": "",
+            "scheme": "sinaweibo://multimedia?mix_mid=5226354601624502&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=2"
+          },
+          {
+            "click_rate": 0,
+            "type": "p",
+            "doc_score": 4391,
+            "vtype": 3,
+            "hit_score_new": 96.533203,
+            "img_pid": "00237iRply1i6qvc4mk13j60u01p47hd02",
+            "w": 1080,
+            "cur_mid": "5226352418488734",
+            "user_avatar": "https://tvax2.sinaimg.cn/crop.0.0.996.996.50/00237iRply8h8v3qn6hwkj60ro0romyj02.jpg?KID=imgbed,tva&Expires=1761642013&ssig=2D9dK7ef0R",
+            "hit_score_final": 85.119926,
+            "img": "http://wx4.sinaimg.cn/middle/00237iRply1i6qvc4mk13j60u01p47hd02.jpg",
+            "h": 2200,
+            "user_name": "新浪综艺",
+            "video_url": "",
+            "scheme": "sinaweibo://multimedia?mix_mid=5226352418488734&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=0"
+          }
+        ],
+        "type": "mediablock"
+      },
+      "share_text": "#白鹿关晓彤李兰迪 红毯妈咪级别#的相关内容，来智搜看看",
+      "profile_image_url": "",
+      "msg_format": "markdown",
+      "top_quote_list": {},
+      "page_id": "232964dede667147f012540047b16892c4ca76",
+      "qs_status": 0,
+      "qs_status_info": "{\"qs_status\":0,\"qs_r_status\":0,\"ab_lab\":{},\"qs_u_status\":0,\"qs_c_status\":8388608,\"qs_q_status\":0}",
+      "ab_suffix": "default",
+      "loop_times": 200,
+      "status": 2,
+      "scheme": "sinaweibo://cardlist?containerid=100103type%3D225%26q%3D%23%E7%99%BD%E9%B9%BF%E5%85%B3%E6%99%93%E5%BD%A4%E6%9D%8E%E5%85%B0%E8%BF%AA%20%E7%BA%A2%E6%AF%AF%E5%A6%88%E5%92%AA%E7%BA%A7%E5%88%AB%23%26t%3D&extparam=ai_model%3Ddeepseek%26ori_ai_title%3D%E5%8F%82%E8%80%83%E5%8D%9A%E6%96%87%26material_version%3D1761631213"
+    }
+  },
+  "links": [
+    "sinaweibo://detail?mblogid=5226335283973651",
+    "sinaweibo://detail?mblogid=5226370276004044",
+    "sinaweibo://detail?mblogid=5226342775259650",
+    "sinaweibo://detail?mblogid=5226374107236919",
+    "historyweibo://5226335283973651",
+    "historyweibo://5211543799336378",
+    "historyweibo://5211830709388725",
+    "sinaweibo://detail?mblogid=5226369028197968",
+    "sinaweibo://detail?mblogid=5226380851151480",
+    "sinaweibo://detail?mblogid=5226365868837324",
+    "sinaweibo://detail?mblogid=5226354601624502",
+    "sinaweibo://detail?mblogid=5226368914952215",
+    "sinaweibo://detail?mblogid=5226366859477004",
+    "sinaweibo://detail?mblogid=5226352418488734",
+    "sinaweibo://detail?mblogid=5226365278225971",
+    "sinaweibo://detail?mblogid=5226394766541170",
+    "sinaweibo://detail?mblogid=5226383758590063",
+    "sinaweibo://detail?mblogid=5226355488198282",
+    "sinaweibo://detail?mblogid=5226440518797198",
+    "sinaweibo://detail?mblogid=5226356589987367",
+    "sinaweibo://detail?mblogid=5226438572638867",
+    "sinaweibo://detail?mblogid=5226438905303906",
+    "sinaweibo://detail?mblogid=5226360887056230",
+    "sinaweibo://detail?mblogid=5226375738559047",
+    "sinaweibo://detail?mblogid=5226425105517878",
+    "sinaweibo://detail?mblogid=5226520324868419",
+    "sinaweibo://detail?mblogid=5226496681576522",
+    "sinaweibo://detail?mblogid=5226344256636552",
+    "sinaweibo://detail?mblogid=5122033591519433",
+    "sinaweibo://detail?mblogid=5226412807554316",
+    "sinaweibo://detail?mblogid=5097460000623834",
+    "sinaweibo://detail?mblogid=5226381697880598",
+    "sinaweibo://detail?mblogid=5226396456846665",
+    "sinaweibo://detail?mblogid=5226381246204403"
+  ],
+  "media": [
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/00237iRply1i6qvc4mk13j60u01p47hd02.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/00237iRply1i6qvc4mk13j60u01p47hd02.jpg",
+      "alt": "新浪综艺",
+      "width": 2200,
+      "height": 1080,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/00237iRply1i6qvc4mk13j60u01p47hd02.jpg"
+      ],
+      "user": "新浪综艺"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/006I0Zl6gy1i6qtfa3dvij30zk1bfq7r.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/006I0Zl6gy1i6qtfa3dvij30zk1bfq7r.jpg",
+      "alt": "追星组长",
+      "width": 1707,
+      "height": 1280,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/006I0Zl6gy1i6qtfa3dvij30zk1bfq7r.jpg"
+      ],
+      "user": "追星组长"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/005UCmYely1i6qvmuz91pj30k60zun2o.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/005UCmYely1i6qvmuz91pj30k60zun2o.jpg",
+      "alt": "娱扒爹",
+      "width": 1290,
+      "height": 726,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/005UCmYely1i6qvmuz91pj30k60zun2o.jpg"
+      ],
+      "user": "娱扒爹"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/007GrijXly1i6qx9dvhe9j30u01kxgoj.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/007GrijXly1i6qx9dvhe9j30u01kxgoj.jpg",
+      "alt": "潇骑校尉曹操",
+      "width": 2049,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx4.sinaimg.cn/large/007GrijXly1i6qx9dvhe9j30u01kxgoj.jpg"
+      ],
+      "user": "潇骑校尉曹操"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/007gLOM1ly1i6qxa23mxwj31hc0u0tc9.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/007gLOM1ly1i6qxa23mxwj31hc0u0tc9.jpg",
+      "alt": "啵啵奶彤",
+      "width": 1080,
+      "height": 1920,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/007gLOM1ly1i6qxa23mxwj31hc0u0tc9.jpg"
+      ],
+      "user": "啵啵奶彤"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/006XPCcgly1i6r08rrffjj30u0140abv.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/006XPCcgly1i6r08rrffjj30u0140abv.jpg",
+      "alt": "比奇堡键盘侠",
+      "width": 1440,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/006XPCcgly1i6r08rrffjj30u0140abv.jpg"
+      ],
+      "user": "比奇堡键盘侠"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/008uPNysgy1i6qyrc9wevj30qo1400xi.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/008uPNysgy1i6qyrc9wevj30qo1400xi.jpg",
+      "alt": "丑鸭qq",
+      "width": 1440,
+      "height": 960,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/008uPNysgy1i6qyrc9wevj30qo1400xi.jpg"
+      ],
+      "user": "丑鸭qq"
+    }
+  ],
+  "html_path": "data/aicard/hourly/2025-10-27/14/topic-53ca4132.html"
+}

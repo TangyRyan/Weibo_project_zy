@@ -1,0 +1,140 @@
+{
+  "meta": {
+    "query": "#国台办回应中国台湾省最新卫星图像#",
+    "status_code": 200,
+    "fetched_at": "2025-11-05T12:35:12+08:00",
+    "response": {
+      "msg_json": "{}",
+      "scheme": "sinaweibo://cardlist?containerid=100103type%3D225%26q%3D%23%E5%9B%BD%E5%8F%B0%E5%8A%9E%E5%9B%9E%E5%BA%94%E4%B8%AD%E5%9B%BD%E5%8F%B0%E6%B9%BE%E7%9C%81%E6%9C%80%E6%96%B0%E5%8D%AB%E6%98%9F%E5%9B%BE%E5%83%8F%23%26t%3D&extparam=ai_model%3Ddeepseek%26ori_ai_title%3D%E5%8F%82%E8%80%83%E5%8D%9A%E6%96%87%26material_version%3D1762317019",
+      "query_field": "45",
+      "chat_status_stage": 1,
+      "share_info": {
+        "unify_md5": "55700ad6affc8e0c1cee560bd92935a8",
+        "url": "http://t.cn/AXAQMCcT",
+        "display_name": "#国台办回应中国台湾省最新卫星图像#",
+        "status": 3,
+        "page_id": "2329646b32b4c29005cfbd7944d782a9163e89",
+        "comment_content": "",
+        "tips": "#国台办回应中国台湾省最新卫星图像#的相关内容，来智搜看看"
+      },
+      "uid": "",
+      "sorted_material_list": null,
+      "ab_suffix": "default",
+      "current_time": 1762317313,
+      "profile_image_url": "",
+      "user_info": {},
+      "wenda": {
+        "forward_gen": 0
+      },
+      "analysis_time": 1762317128,
+      "qs_status_info": "{\"qs_q_status\":256,\"qs_c_status\":8388608,\"qs_r_status\":0,\"qs_u_status\":0,\"qs_status\":0,\"ab_lab\":{}}",
+      "share_text": "#国台办回应中国台湾省最新卫星图像#的相关内容，来智搜看看",
+      "show_ctrl": {
+        "quote": {}
+      },
+      "status": 2,
+      "ext_show": {},
+      "page_id": "2329646b32b4c29005cfbd7944d782a9163e89",
+      "mid_list": null,
+      "reference_num": 8,
+      "abtest_info": {
+        "chat_entrance": 1
+      },
+      "status_stage": 4,
+      "link_list": [
+        "sinaweibo://detail?mblogid=5229574628838753",
+        "sinaweibo://detail?mblogid=5224523469423538",
+        "sinaweibo://detail?mblogid=5227478318844357",
+        "sinaweibo://detail?mblogid=5221976136223264",
+        "sinaweibo://detail?mblogid=5229280881810087",
+        "sinaweibo://detail?mblogid=5229578890248963",
+        "sinaweibo://detail?mblogid=5229586644468121",
+        "sinaweibo://detail?mblogid=5227040762757759"
+      ],
+      "model": "deepseek",
+      "top_quote_list": {},
+      "cot": 1,
+      "share_card_multimodal": {
+        "img_pid": "002TLsr9ly1i715g3g82vj60u01uoqgq02",
+        "click_num": 0,
+        "click_rate": 0,
+        "hit_score_final": 0,
+        "img": "http://wx3.sinaimg.cn/middle/002TLsr9ly1i715g3g82vj60u01uoqgq02.jpg",
+        "w": 1080,
+        "scheme": "sinaweibo://multimedia?mix_mid=5229574628838753&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=0&multi_count=0",
+        "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.690.690.50/002TLsr9ly8i653ifvwbtj60j60j6aai02.jpg?KID=imgbed,tva&Expires=1762327819&ssig=4qDflezRrE",
+        "vtype": 3,
+        "user_name": "央视新闻",
+        "cur_mid": "5229574628838753",
+        "type": "p",
+        "h": 2400,
+        "video_url": "",
+        "hit_score_new": 0,
+        "doc_score": 0
+      },
+      "comment_info": {},
+      "basemodel": "实验组5",
+      "loop_times": 200,
+      "q_attr": {
+        "from_request_id": "",
+        "mid": "",
+        "reply_cid": "",
+        "comment_from_type": "",
+        "from_uid": ""
+      },
+      "version": "2025-11-05 12:30:19.043999-4578",
+      "card_multimodal": {},
+      "qs_status": 0,
+      "news_analyze": {},
+      "unify_md5": "55700ad6affc8e0c1cee560bd92935a8",
+      "zs_risk_control": {
+        "land_button_close": 0,
+        "think_text_close": 0,
+        "ban_chat_enterance": 1
+      },
+      "reliable_tips": "{\"gold_orange_v_mids\": [], \"gold_orange_v_ratio\": \"0%\", \"media_mids\": [\"5229574628838753\", \"5229578890248963\", \"5227478318844357\", \"5229280881810087\", \"5227040762757759\", \"5224523469423538\", \"5221976136223264\"], \"media_ratio\": \"88%\", \"verified_mids\": [\"5229586644468121\"], \"verified_ratio\": \"12%\", \"normal_mids\": [], \"normal_ratio\": \"0%\", \"ref_mid_rank\": {\"5229574628838753\": {\"rank\": 1}, \"5229578890248963\": {\"rank\": 6}, \"5227478318844357\": {\"rank\": 3}, \"5229586644468121\": {\"rank\": 7}, \"5229280881810087\": {\"rank\": 5}, \"5227040762757759\": {\"rank\": 8}, \"5224523469423538\": {\"rank\": 2}, \"5221976136223264\": {\"rank\": 4}}}",
+      "short_url": "http://t.cn/AXAQ5N3G",
+      "msg_format": "markdown",
+      "msg": "<think><br><br>嗯，用户让我根据提供的搜索结果来整理关于\"国台办回应中国台湾省最新卫星图像\"的信息。我需要仔细分析这些搜索结果，提取关键信息，并按照要求进行引用。<br><br>先看一下用户的需求是了解国台办对卫星图像的回应。搜索结果1、3、5、6、7都直接相关。其中结果1和6是最新且优质的，发布于2025年11月5日，来自央视新闻和人民日报的媒体账号，内容可信度高。<br><br>在结果1中，国台办发言人张晗的回应强调这是\"家的俯瞰\"，并提到大陆科技水平提升带来的精准测绘能力。结果6补充了台湾网友在卫星图中找自家房子的细节，以及\"家\"的比喻。这些内容需要整合到回应要点中。<br><br>结果3是国防部10月30日的回应，用\"看看中国大好河山很正常\"的表述，可以作为补充背景。结果5提到地图导航显示武汉到台北的路线，虽然与卫星图像不直接相关，但能体现两岸互联互通的趋势，可以简要提及。<br><br>其他结果如2、4、8关于芯片投资和统一后的前景，与当前查询关联度较低，但结果8中\"祖国做后盾\"的表述可以作为收尾的升华点。<br><br>在组织内容时，会分成四个部分：核心回应、技术背景、民众反应和情感升华。每个要点都会标注引用来源，比如张晗的发言引用结果1和6，国防部回应引用结果3。时间信息要准确呈现，特别是11月5日的最新回应。<br><br>特别注意避免简单罗列账号信息，而是综合多个相关内容。比如\"家的俯瞰\"这个概念来自多个信源，需要合并引用。结尾处用结果8的\"腰杆更硬\"形成呼应，但不展开其他话题。<br><br>最后检查所有引用是否符合[^X]格式要求，确保没有集中在末尾说明来源。<br><br></think><br>关于国台办对中国台湾省最新卫星图像的回应，核心信息如下：<br><br>一、**核心回应：卫星影像是“家的俯瞰”**  <br>2025年11月5日，国台办发言人张晗针对“吉林一号”卫星公布的高清台湾影像回应称：  <br>1. **主权宣示**：明确表示“台湾是祖国的宝岛”，卫星图像中清晰可见的台湾省街道、日月潭、台北港等景观，均属于中国的锦绣河山和中华民族的美好家园。```wbCustomBlock{\"type\": \"quoted\", \"index\": 3, \"data\": {\"num\": [1, 6], \"version\": 2, \"quote_list\": [{\"name\": \"央视新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5229574628838753\", \"index\": 1, \"label\": \"大v\"}, {\"name\": \"人民日报\", \"scheme\": \"sinaweibo://detail?mblogid=5229578890248963\", \"index\": 6, \"label\": \"\"}], \"name\": \"央视新闻\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.690.690.50/002TLsr9ly8i653ifvwbtj60j60j6aai02.jpg?KID=imgbed,tva&Expires=1762327819&ssig=4qDflezRrE\", \"scheme\": \"sinaweibo://detail?mblogid=5229574628838753\", \"vType\": 3}}```  <br>2. **科技与国土意义**：强调大陆科技水平持续提升，使国土丈量更精准、家园守护更坚实。此举被解读为展示大陆卫星技术实力及对祖国统一的坚定信心。```wbCustomBlock{\"type\": \"quoted\", \"index\": 4, \"data\": {\"num\": [1, 3, 6], \"version\": 2, \"quote_list\": [{\"name\": \"中国新闻网\", \"scheme\": \"sinaweibo://detail?mblogid=5227478318844357\", \"index\": 3, \"label\": \"大v\"}, {\"name\": \"央视新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5229574628838753\", \"index\": 1, \"label\": \"\"}, {\"name\": \"人民日报\", \"scheme\": \"sinaweibo://detail?mblogid=5229578890248963\", \"index\": 6, \"label\": \"\"}], \"name\": \"中国新闻网\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.300.300.50/001WLsZ7ly8h8vgjl2u01j608c08caa302.jpg?KID=imgbed,tva&Expires=1762327819&ssig=4CSTBrx5JS\", \"scheme\": \"sinaweibo://detail?mblogid=5227478318844357\", \"vType\": 3}}```  <br>3. **情感号召**：以“家的俯瞰”比喻卫星影像，呼吁台湾同胞来大陆参观，感受“家的温暖”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 5, \"data\": {\"num\": [1, 6, 7], \"version\": 2, \"quote_list\": [{\"name\": \"人民日报\", \"scheme\": \"sinaweibo://detail?mblogid=5229578890248963\", \"index\": 6, \"label\": \"大v\"}, {\"name\": \"央视新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5229574628838753\", \"index\": 1, \"label\": \"\"}, {\"name\": \"共青团大连市委\", \"scheme\": \"sinaweibo://detail?mblogid=5229586644468121\", \"index\": 7, \"label\": \"\"}], \"name\": \"人民日报\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.1018.1018.50/0033ImPzly8h8vgemh8kxj60sa0sadgw02.jpg?KID=imgbed,tva&Expires=1762327819&ssig=EtdzLeDArp\", \"scheme\": \"sinaweibo://detail?mblogid=5229578890248963\", \"vType\": 3}}```<br><br>二、**技术背景与国防部态度**  <br>- **“吉林一号”卫星能力**：10月25日（台湾光复纪念日）公布的影像中，台湾省内每条街道清晰可见，台湾网民甚至在图中寻找自家房屋。```wbCustomBlock{\"type\": \"quoted\", \"index\": 7, \"data\": {\"num\": [3, 6], \"version\": 2, \"quote_list\": [{\"name\": \"中国新闻网\", \"scheme\": \"sinaweibo://detail?mblogid=5227478318844357\", \"index\": 3, \"label\": \"\"}, {\"name\": \"人民日报\", \"scheme\": \"sinaweibo://detail?mblogid=5229578890248963\", \"index\": 6, \"label\": \"\"}]}}```  <br>- **国防部表态**：10月30日，国防部发言人张晓刚回应称“中国的卫星看看中国的大好河山很正常”，淡化军事意图，突出主权归属。```wbCustomBlock{\"type\": \"quoted\", \"index\": 8, \"data\": {\"num\": [3], \"version\": 2, \"quote_list\": [{\"name\": \"中国新闻网\", \"scheme\": \"sinaweibo://detail?mblogid=5227478318844357\", \"index\": 3, \"label\": \"\"}]}}```<br><br>三、**关联动态：两岸互联互通趋势**  <br>1. **地图导航进展**：高德、百度地图已可导航大陆至台湾的路线（如武汉至台北需42小时），并显示“两岸未来通行路线”及“跨海大桥（拟建设）”规划。```wbCustomBlock{\"type\": \"quoted\", \"index\": 10, \"data\": {\"num\": [5], \"version\": 2, \"quote_list\": [{\"name\": \"支点财经\", \"scheme\": \"sinaweibo://detail?mblogid=5229280881810087\", \"index\": 5, \"label\": \"大v\"}], \"name\": \"支点财经\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.1242.1242.50/707d4aa8ly8fo7wsxv1r5j20yi0yiq4d.jpg?KID=imgbed,tva&Expires=1762327819&ssig=IU7weVS4OX\", \"scheme\": \"sinaweibo://detail?mblogid=5229280881810087\", \"vType\": 3}}```  <br>2. **统一前景**：国台办此前曾表示，和平统一后台湾将获得更大发展空间和安全保障，两岸资源共享将提升台湾同胞生活便利性。```wbCustomBlock{\"type\": \"quoted\", \"index\": 11, \"data\": {\"num\": [8], \"version\": 2, \"quote_list\": [{\"name\": \"人民日报\", \"scheme\": \"sinaweibo://detail?mblogid=5227040762757759\", \"index\": 8, \"label\": \"\"}]}}```<br><br>四、**延伸对比：驳斥“技术让渡”论**  <br>国台办同期批评民进党当局对美芯片产业合作是“割肉饲虎”，指出台湾优势产业因“倚外谋独”沦为美国巧取豪夺对象，与大陆自主科技成就形成鲜明对比。```wbCustomBlock{\"type\": \"quoted\", \"index\": 12, \"data\": {\"num\": [2, 4], \"version\": 2, \"quote_list\": [{\"name\": \"央视军事\", \"scheme\": \"sinaweibo://detail?mblogid=5221976136223264\", \"index\": 4, \"label\": \"大v\"}, {\"name\": \"央视新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5224523469423538\", \"index\": 2, \"label\": \"\"}], \"name\": \"央视军事\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.858.858.50/006KQV1Aly8h8vgacooavj30nu0nu75z.jpg?KID=imgbed,tva&Expires=1762327819&ssig=52CbgDMPd0\", \"scheme\": \"sinaweibo://detail?mblogid=5221976136223264\", \"vType\": 3}}```<br><br>> 💎 **总结**：此次回应以卫星影像为切入点，融合科技成就、主权宣示与情感纽带三重信息，既展现大陆技术实力，也重申“两岸一家”理念，同时呼应民众对互联互通的期待。```wbCustomBlock{\"type\": \"quoted\", \"index\": 13, \"data\": {\"num\": [1, 5, 6], \"version\": 2, \"quote_list\": [{\"name\": \"央视新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5229574628838753\", \"index\": 1, \"label\": \"\"}, {\"name\": \"支点财经\", \"scheme\": \"sinaweibo://detail?mblogid=5229280881810087\", \"index\": 5, \"label\": \"\"}, {\"name\": \"人民日报\", \"scheme\": \"sinaweibo://detail?mblogid=5229578890248963\", \"index\": 6, \"label\": \"\"}]}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5229574628838753&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=0&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.690.690.50/002TLsr9ly8i653ifvwbtj60j60j6aai02.jpg?KID=imgbed,tva&Expires=1762327819&ssig=4qDflezRrE) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">央视新闻</span><img src=\"http://wx3.sinaimg.cn/middle/002TLsr9ly1i715g3g82vj60u01uoqgq02.jpg\" data-width=2400 data-height=1080></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5221976136223264&multi_paragraph=0&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.858.858.50/006KQV1Aly8h8vgacooavj30nu0nu75z.jpg?KID=imgbed,tva&Expires=1762327819&ssig=52CbgDMPd0) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">央视军事</span><img src=\"http://wx1.sinaimg.cn/middle/006KQV1Aly1i6cwrpa09gj30o00diabe.jpg\" data-width=486 data-height=864></div></media-block><br>",
+      "query_category": "Ip",
+      "query": "#国台办回应中国台湾省最新卫星图像#"
+    }
+  },
+  "links": [
+    "sinaweibo://detail?mblogid=5229574628838753",
+    "sinaweibo://detail?mblogid=5224523469423538",
+    "sinaweibo://detail?mblogid=5227478318844357",
+    "sinaweibo://detail?mblogid=5221976136223264",
+    "sinaweibo://detail?mblogid=5229280881810087",
+    "sinaweibo://detail?mblogid=5229578890248963",
+    "sinaweibo://detail?mblogid=5229586644468121",
+    "sinaweibo://detail?mblogid=5227040762757759"
+  ],
+  "media": [
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/002TLsr9ly1i715g3g82vj60u01uoqgq02.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/002TLsr9ly1i715g3g82vj60u01uoqgq02.jpg",
+      "alt": "央视新闻",
+      "width": 2400,
+      "height": 1080,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/002TLsr9ly1i715g3g82vj60u01uoqgq02.jpg"
+      ],
+      "user": "央视新闻"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/006KQV1Aly1i6cwrpa09gj30o00diabe.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/006KQV1Aly1i6cwrpa09gj30o00diabe.jpg",
+      "alt": "央视军事",
+      "width": 486,
+      "height": 864,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/006KQV1Aly1i6cwrpa09gj30o00diabe.jpg"
+      ],
+      "user": "央视军事"
+    }
+  ],
+  "html_path": "data/aicard/hourly/2025-11-05/12/topic-55700ad6.html"
+}

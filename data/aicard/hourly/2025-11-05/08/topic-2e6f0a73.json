@@ -1,0 +1,385 @@
+{
+  "meta": {
+    "query": "#美财长回应与马斯克在白宫打架#",
+    "status_code": 200,
+    "fetched_at": "2025-11-05T08:49:26+08:00",
+    "response": {
+      "version": "2025-11-05 08:42:04.013000-5867",
+      "ext_show": {},
+      "model": "deepseek",
+      "wenda": {
+        "forward_gen": 0
+      },
+      "cot": 1,
+      "scheme": "sinaweibo://cardlist?containerid=100103type%3D225%26q%3D%23%E7%BE%8E%E8%B4%A2%E9%95%BF%E5%9B%9E%E5%BA%94%E4%B8%8E%E9%A9%AC%E6%96%AF%E5%85%8B%E5%9C%A8%E7%99%BD%E5%AE%AB%E6%89%93%E6%9E%B6%23%26t%3D&extparam=ai_model%3Ddeepseek%26ori_ai_title%3D%E5%8F%82%E8%80%83%E5%8D%9A%E6%96%87%26material_version%3D1762303324",
+      "qs_status": 0,
+      "query": "#美财长回应与马斯克在白宫打架#",
+      "mid_list": null,
+      "reference_num": 42,
+      "query_category": "Ip",
+      "status_stage": 4,
+      "short_url": "http://t.cn/AXAYx28G",
+      "share_info": {
+        "status": 3,
+        "url": "http://t.cn/AXAY1com",
+        "page_id": "2329644431bfa7e646b77b31615d099c41d1a7",
+        "unify_md5": "2e6f0a7347828697d0343c9cd74af283",
+        "tips": "#美财长回应与马斯克在白宫打架#的相关内容，来智搜看看",
+        "display_name": "#美财长回应与马斯克在白宫打架#",
+        "comment_content": ""
+      },
+      "card_multimodal": {
+        "type": "mediablock",
+        "data": [
+          {
+            "img": "http://wx4.sinaimg.cn/middle/007MYv3sgy1i24dc9u6g9j30u0238tpb.jpg",
+            "doc_score": 3512,
+            "hit_score_new": 97.314453,
+            "h": 2708,
+            "cur_mid": "5174161669622524",
+            "w": 1080,
+            "user_name": "数味寻踪",
+            "scheme": "sinaweibo://multimedia?mix_mid=5174161669622524&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=1&multi_count=0",
+            "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/007MYv3sly8i3n5hnazyej30u00u1n10.jpg?KID=imgbed,tva&Expires=1762314124&ssig=HFzrhtoOvr",
+            "vtype": 0,
+            "video_url": "",
+            "type": "p",
+            "hit_score_final": 87.988678,
+            "img_pid": "007MYv3sgy1i24dc9u6g9j30u0238tpb",
+            "click_num": 0,
+            "click_rate": 0.06
+          },
+          {
+            "img": "http://wx4.sinaimg.cn/middle/963a4bb9gy1i27qtdal58j20k00zktab.jpg",
+            "doc_score": 3029,
+            "hit_score_new": 98.291016,
+            "h": 1280,
+            "cur_mid": "5175219197053977",
+            "w": 720,
+            "user_name": "晶刚专属",
+            "scheme": "sinaweibo://video/vvs?mid=5175219197053977&multi_paragraph=1&multi_count=1",
+            "user_avatar": "https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/963a4bb9ly8hhzbz346zzj20u00u0wg7.jpg?KID=imgbed,tva&Expires=1762314124&ssig=9Xi2vkpzwn",
+            "vtype": 0,
+            "video_url": "https://video.weibo.com/show?fid=1034:5175219023970397",
+            "type": "v",
+            "hit_score_final": 88.974609,
+            "img_pid": "963a4bb9gy1i27qtdal58j20k00zktab",
+            "click_num": 0,
+            "click_rate": 0
+          },
+          {
+            "img": "http://wx1.sinaimg.cn/middle/005SZ2Zygy1i70mhx8srmj31hc0u0dhi.jpg",
+            "doc_score": 4739,
+            "hit_score_new": 87.060547,
+            "h": 1080,
+            "cur_mid": "5229409553612915",
+            "w": 1920,
+            "user_name": "寰亚SYHP",
+            "scheme": "sinaweibo://video/vvs?mid=5229409553612915&multi_paragraph=2&multi_count=0",
+            "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.995.995.50/005SZ2Zyly8h8ux90e7h7j30rn0rn76s.jpg?KID=imgbed,tva&Expires=1762314124&ssig=H2lVERMkfR",
+            "vtype": 0,
+            "video_url": "https://video.weibo.com/show?fid=1034:5229409272004705",
+            "type": "v",
+            "hit_score_final": 79.436333,
+            "img_pid": "005SZ2Zygy1i70mhx8srmj31hc0u0dhi",
+            "click_num": 0,
+            "click_rate": 0.16304347826087
+          },
+          {
+            "img": "http://wx4.sinaimg.cn/middle/007MYv3sgy1i24dc9u6g9j30u0238tpb.jpg",
+            "doc_score": 3512,
+            "hit_score_new": 97.314453,
+            "h": 2708,
+            "cur_mid": "5174161669622524",
+            "w": 1080,
+            "user_name": "数味寻踪",
+            "scheme": "sinaweibo://multimedia?mix_mid=5174161669622524&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=1&multi_count=0",
+            "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/007MYv3sly8i3n5hnazyej30u00u1n10.jpg?KID=imgbed,tva&Expires=1762314124&ssig=HFzrhtoOvr",
+            "vtype": 0,
+            "video_url": "",
+            "type": "p",
+            "hit_score_final": 87.988678,
+            "img_pid": "007MYv3sgy1i24dc9u6g9j30u0238tpb",
+            "click_num": 0,
+            "click_rate": 0.06
+          }
+        ]
+      },
+      "share_card_multimodal": {
+        "img": "http://wx4.sinaimg.cn/middle/007MYv3sgy1i24dc9u6g9j30u0238tpb.jpg",
+        "doc_score": 3512,
+        "hit_score_new": 97.314453,
+        "h": 2708,
+        "cur_mid": "5174161669622524",
+        "w": 1080,
+        "user_name": "数味寻踪",
+        "scheme": "sinaweibo://multimedia?mix_mid=5174161669622524&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=1&multi_count=0",
+        "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/007MYv3sly8i3n5hnazyej30u00u1n10.jpg?KID=imgbed,tva&Expires=1762314124&ssig=HFzrhtoOvr",
+        "vtype": 0,
+        "video_url": "",
+        "type": "p",
+        "hit_score_final": 87.988678,
+        "img_pid": "007MYv3sgy1i24dc9u6g9j30u0238tpb",
+        "click_num": 0,
+        "click_rate": 0.06
+      },
+      "basemodel": "实验组2",
+      "msg_json": "{}",
+      "sorted_material_list": "[{\"mid\": \"5229317446438774\", \"rank\": 1, \"type\": \"weibo\"}, {\"mid\": \"5229373411039075\", \"rank\": 9, \"type\": \"weibo\"}, {\"mid\": \"5229314519337395\", \"rank\": 21, \"type\": \"weibo\"}, {\"mid\": \"5229251607398654\", \"rank\": 24, \"type\": \"weibo\"}, {\"mid\": \"5229372014857774\", \"rank\": 25, \"type\": \"weibo\"}, {\"mid\": \"5229360569124023\", \"rank\": 23, \"type\": \"weibo\"}, {\"mid\": \"5229409553612915\", \"rank\": 35, \"type\": \"weibo\"}, {\"mid\": \"5229520119924205\", \"rank\": 36, \"type\": \"weibo\"}, {\"mid\": \"5175192766908519\", \"rank\": 2, \"type\": \"weibo\"}, {\"mid\": \"5229370890783476\", \"rank\": 20, \"type\": \"weibo\"}, {\"mid\": \"5159687751992071\", \"rank\": 5, \"type\": \"weibo\"}, {\"mid\": \"5174161669622524\", \"rank\": 13, \"type\": \"weibo\"}, {\"mid\": \"5175174527191562\", \"rank\": 38, \"type\": \"weibo\"}, {\"mid\": \"5175219197053977\", \"rank\": 44, \"type\": \"weibo\"}, {\"mid\": \"5159667416434608\", \"rank\": 3, \"type\": \"weibo\"}, {\"mid\": \"5173817761596942\", \"rank\": 43, \"type\": \"weibo\"}, {\"mid\": \"5209225108391475\", \"rank\": 6, \"type\": \"weibo\"}, {\"mid\": \"5208883594268792\", \"rank\": 42, \"type\": \"weibo\"}, {\"mid\": \"5229539355263597\", \"rank\": 29, \"type\": \"weibo\"}, {\"mid\": \"5229538133152282\", \"rank\": 30, \"type\": \"weibo\"}, {\"mid\": \"5159004373517873\", \"rank\": 4, \"type\": \"weibo\"}, {\"mid\": \"5175276808962865\", \"rank\": 7, \"type\": \"weibo\"}, {\"mid\": \"5159681559892142\", \"rank\": 8, \"type\": \"weibo\"}, {\"mid\": \"5208862757751269\", \"rank\": 10, \"type\": \"weibo\"}, {\"mid\": \"5175261067739551\", \"rank\": 11, \"type\": \"weibo\"}, {\"mid\": \"5159691542597278\", \"rank\": 12, \"type\": \"weibo\"}, {\"mid\": \"5175270917281859\", \"rank\": 14, \"type\": \"weibo\"}, {\"mid\": \"5159716499229537\", \"rank\": 15, \"type\": \"weibo\"}, {\"mid\": \"5159037834363022\", \"rank\": 16, \"type\": \"weibo\"}, {\"mid\": \"5229531004932434\", \"rank\": 22, \"type\": \"weibo\"}, {\"mid\": \"5229384233386246\", \"rank\": 26, \"type\": \"weibo\"}, {\"mid\": \"5229540339092632\", \"rank\": 27, \"type\": \"weibo\"}, {\"mid\": \"5229540322575849\", \"rank\": 28, \"type\": \"weibo\"}, {\"mid\": \"5229536908414107\", \"rank\": 31, \"type\": \"weibo\"}, {\"mid\": \"5229536113593090\", \"rank\": 32, \"type\": \"weibo\"}, {\"mid\": \"5229530910558523\", \"rank\": 33, \"type\": \"weibo\"}, {\"mid\": \"5229529450679048\", \"rank\": 34, \"type\": \"weibo\"}, {\"mid\": \"5159710677272522\", \"rank\": 37, \"type\": \"weibo\"}, {\"mid\": \"5175284107577005\", \"rank\": 39, \"type\": \"weibo\"}, {\"mid\": \"5175265832993015\", \"rank\": 40, \"type\": \"weibo\"}, {\"mid\": \"5159693744082106\", \"rank\": 41, \"type\": \"weibo\"}]",
+      "unify_md5": "2e6f0a7347828697d0343c9cd74af283",
+      "query_field": "45",
+      "chat_status_stage": 1,
+      "link_list": [
+        "sinaweibo://detail?mblogid=5229317446438774",
+        "sinaweibo://detail?mblogid=5175192766908519",
+        "sinaweibo://detail?mblogid=5159667416434608",
+        "sinaweibo://detail?mblogid=5159004373517873",
+        "sinaweibo://detail?mblogid=5159687751992071",
+        "sinaweibo://detail?mblogid=5175276808962865",
+        "sinaweibo://detail?mblogid=5159681559892142",
+        "sinaweibo://detail?mblogid=5229373411039075",
+        "sinaweibo://detail?mblogid=5208862757751269",
+        "sinaweibo://detail?mblogid=5175261067739551",
+        "sinaweibo://detail?mblogid=5159691542597278",
+        "sinaweibo://detail?mblogid=5175270917281859",
+        "sinaweibo://detail?mblogid=5174161669622524",
+        "sinaweibo://detail?mblogid=5159037834363022",
+        "sinaweibo://detail?mblogid=5159716499229537",
+        "sinaweibo://detail?mblogid=5159692188256821",
+        "historyweibo://5175192766908519",
+        "historyweibo://5159667416434608",
+        "historyweibo://5158890468542699",
+        "sinaweibo://detail?mblogid=5229370890783476",
+        "sinaweibo://detail?mblogid=5229384233386246",
+        "sinaweibo://detail?mblogid=5229314519337395",
+        "sinaweibo://detail?mblogid=5229360569124023",
+        "sinaweibo://detail?mblogid=5229251607398654",
+        "sinaweibo://detail?mblogid=5229540322575849",
+        "sinaweibo://detail?mblogid=5229539355263597",
+        "sinaweibo://detail?mblogid=5229529450679048",
+        "sinaweibo://detail?mblogid=5229516593301274",
+        "sinaweibo://detail?mblogid=5229514697476656",
+        "sinaweibo://detail?mblogid=5229512144980269",
+        "sinaweibo://detail?mblogid=5229510268289999",
+        "sinaweibo://detail?mblogid=5229378724431762",
+        "sinaweibo://detail?mblogid=5209225108391475",
+        "sinaweibo://detail?mblogid=5175953702781885",
+        "sinaweibo://detail?mblogid=5175249315824087",
+        "sinaweibo://detail?mblogid=5229409553612915",
+        "sinaweibo://detail?mblogid=5229520119924205",
+        "sinaweibo://detail?mblogid=5159710677272522",
+        "sinaweibo://detail?mblogid=5175174527191562",
+        "sinaweibo://detail?mblogid=5175284107577005",
+        "sinaweibo://detail?mblogid=5159693744082106",
+        "sinaweibo://detail?mblogid=5175265832993015",
+        "sinaweibo://detail?mblogid=5208883594268792",
+        "sinaweibo://detail?mblogid=5173817761596942",
+        "sinaweibo://detail?mblogid=5175219197053977"
+      ],
+      "zs_risk_control": {
+        "think_text_close": 0,
+        "land_button_close": 0
+      },
+      "uid": "",
+      "news_analyze": {},
+      "current_time": 1762303767,
+      "profile_image_url": "",
+      "user_info": {},
+      "msg_format": "markdown",
+      "show_ctrl": {
+        "quote": {}
+      },
+      "reliable_tips": "{\"gold_orange_v_mids\": [\"5229370890783476\", \"5174161669622524\", \"5175219197053977\", \"5159687751992071\", \"5229510268289999\", \"5229360569124023\", \"5229409553612915\", \"5159004373517873\", \"5159691542597278\", \"5175174527191562\", \"5159692188256821\", \"5175265832993015\", \"5175276808962865\", \"5159681559892142\", \"5208862757751269\", \"5175261067739551\", \"5159716499229537\", \"5229516593301274\", \"5229514697476656\", \"5229512144980269\", \"5229378724431762\", \"5209225108391475\", \"5229520119924205\", \"5159710677272522\", \"5175284107577005\", \"5159693744082106\"], \"gold_orange_v_ratio\": \"62%\", \"media_mids\": [\"5175192766908519\", \"5229373411039075\", \"5229314519337395\", \"5159037834363022\", \"5159667416434608\", \"5175270917281859\", \"5229529450679048\"], \"media_ratio\": \"17%\", \"verified_mids\": [\"5229317446438774\", \"5229384233386246\", \"5229251607398654\", \"5175953702781885\", \"5229539355263597\", \"5175249315824087\", \"5229540322575849\", \"5208883594268792\"], \"verified_ratio\": \"19%\", \"normal_mids\": [\"5173817761596942\"], \"normal_ratio\": \"2%\", \"ref_mid_rank\": {\"5175192766908519\": {\"rank\": 2}, \"5229370890783476\": {\"rank\": 20}, \"5174161669622524\": {\"rank\": 13}, \"5175219197053977\": {\"rank\": 45}, \"5159687751992071\": {\"rank\": 5}, \"5229510268289999\": {\"rank\": 31}, \"5229317446438774\": {\"rank\": 1}, \"5229373411039075\": {\"rank\": 8}, \"5229384233386246\": {\"rank\": 21}, \"5229360569124023\": {\"rank\": 23}, \"5229314519337395\": {\"rank\": 22}, \"5229251607398654\": {\"rank\": 24}, \"5229409553612915\": {\"rank\": 36}, \"5159037834363022\": {\"rank\": 14}, \"5175953702781885\": {\"rank\": 34}, \"5159004373517873\": {\"rank\": 4}, \"5229539355263597\": {\"rank\": 26}, \"5159667416434608\": {\"rank\": 3}, \"5159691542597278\": {\"rank\": 11}, \"5175174527191562\": {\"rank\": 39}, \"5159692188256821\": {\"rank\": 16}, \"5175270917281859\": {\"rank\": 12}, \"5175249315824087\": {\"rank\": 35}, \"5175265832993015\": {\"rank\": 42}, \"5175276808962865\": {\"rank\": 6}, \"5159681559892142\": {\"rank\": 7}, \"5208862757751269\": {\"rank\": 9}, \"5175261067739551\": {\"rank\": 10}, \"5159716499229537\": {\"rank\": 15}, \"5229540322575849\": {\"rank\": 25}, \"5229529450679048\": {\"rank\": 27}, \"5229516593301274\": {\"rank\": 28}, \"5229514697476656\": {\"rank\": 29}, \"5229512144980269\": {\"rank\": 30}, \"5229378724431762\": {\"rank\": 32}, \"5209225108391475\": {\"rank\": 33}, \"5229520119924205\": {\"rank\": 37}, \"5159710677272522\": {\"rank\": 38}, \"5175284107577005\": {\"rank\": 40}, \"5159693744082106\": {\"rank\": 41}, \"5208883594268792\": {\"rank\": 43}, \"5173817761596942\": {\"rank\": 44}}}",
+      "comment_info": {},
+      "msg": "<think><br>嗯，用户想了解\"美财长回应与马斯克在白宫打架\"的相关情况。这个问题挺有意思的，白宫高层打架这种新闻本身就很有戏剧性。<br><br>从搜索结果来看，这件事发生在2025年4月，当时美国财政部长贝森特和时任政府效率部门负责人的马斯克在白宫走廊发生了激烈冲突。两人因为国税局代理局长人选问题产生分歧。马斯克推荐加里·沙普利，而贝森特主张由财政部副部长迈克尔·福尔肯德担任。特朗普最终支持了贝森特的人选。<br><br>冲突现场据说很激烈，有报道描述马斯克\"像橄榄球运动员一样\"用肩膀撞向贝森特的胸口，贝森特随即反击，两人扭打在一起，直到被工作人员制止。有意思的是，当时意大利总理梅洛尼正在白宫访问，其翻译因紧张还出现了失误。<br><br>现在到了11月，贝森特在接受福克斯新闻采访时被问到这件事。当主持人问\"堂堂财政部长不会揪他的衣领吧？\"时，贝森特回应说：\"他穿T恤——没有领子可以抓\"。他还补充说\"我和埃隆都充满热情\"。这个回答挺巧妙的，既没有直接否认冲突，又用幽默的方式化解了尴尬。<br><br>特朗普对此事的态度也有变化。冲突发生后，特朗普表示\"这太过分了\"，但6月份又否认亲眼看到他们打架。到了11月，特朗普和马斯克的关系似乎已经破裂，甚至单方面宣布\"与马斯克断交\"。<br><br>这件事的背景是两人长期的权力斗争。马斯克主张激进改革，要砍掉政府2万亿美元支出，用AI替代税务审计员；而贝森特更倾向于渐进式改革。两人在关税政策上也有对立，贝森特支持对华加征关税，而马斯克因特斯拉业务受损坚决反对。这场冲突导致马斯克个人财富在100天内蒸发了约1500亿美元。<br><br>有意思的是，还有传闻说马斯克后来出现在白宫时眼眶有乌青，虽然他自己解释是儿子不小心打的，但外界猜测可能与这场冲突有关。<br><br>用户可能是看到这个新闻觉得有趣想了解详情，也可能是关注美国政治内幕。我会在回复时全面介绍事件经过、背景、当事人回应和后续影响，特别是贝森特那个巧妙的\"T恤没领子\"回应。考虑到话题的戏剧性，我会用稍带幽默但不失客观的方式组织内容。<br><br></think><br>关于美国财长贝森特回应与马斯克在白宫冲突事件的核心事实与背景如下：<br>### 🎯 **一、冲突事件关键细节**<br>1. **冲突过程**  <br>    - 2025年4月，贝森特与马斯克因美国国税局代理局长人选分歧（贝森特支持福尔肯德，马斯克力推沙普利），在白宫椭圆形办公室外爆发争执。```wbCustomBlock{\"type\": \"quoted\", \"index\": 5, \"data\": {\"num\": [2, 20], \"version\": 2, \"quote_list\": [{\"name\": \"环球网\", \"scheme\": \"sinaweibo://detail?mblogid=5175192766908519\", \"index\": 2, \"label\": \"大v\"}, {\"name\": \"白鹤-老邓\", \"scheme\": \"sinaweibo://detail?mblogid=5229370890783476\", \"index\": 20, \"label\": \"\"}], \"name\": \"环球网\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.1024.1024.50/001Q8zQmly8h8vgdbgwr3j60sg0sgmxm02.jpg?KID=imgbed,tva&Expires=1762314124&ssig=gP4%2F75ctLZ\", \"scheme\": \"sinaweibo://detail?mblogid=5175192766908519\", \"vType\": 3}}```  <br>    - 目击者称两人互飙脏话，马斯克以“橄榄球冲撞式”用肩膀顶撞贝森特胸口，贝森特反击，双方扭打至国家安全顾问办公室门前才被工作人员拉开。```wbCustomBlock{\"type\": \"quoted\", \"index\": 6, \"data\": {\"num\": [2, 13, 45], \"version\": 2, \"quote_list\": [{\"name\": \"晶刚专属\", \"scheme\": \"sinaweibo://detail?mblogid=5175219197053977\", \"index\": 45, \"label\": \"大v\"}, {\"name\": \"环球网\", \"scheme\": \"sinaweibo://detail?mblogid=5175192766908519\", \"index\": 2, \"label\": \"\"}, {\"name\": \"数味寻踪\", \"scheme\": \"sinaweibo://detail?mblogid=5174161669622524\", \"index\": 13, \"label\": \"\"}], \"name\": \"晶刚专属\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/963a4bb9ly8hhzbz346zzj20u00u0wg7.jpg?KID=imgbed,tva&Expires=1762314124&ssig=9Xi2vkpzwn\", \"scheme\": \"sinaweibo://detail?mblogid=5175219197053977\", \"vType\": 0}}```  <br>    - **争议焦点**：贝森特指责马斯克“未兑现1万亿美元财政削减承诺”，马斯克反呛其为“索罗斯代理人”并嘲讽其金融履历。```wbCustomBlock{\"type\": \"quoted\", \"index\": 7, \"data\": {\"num\": [5], \"version\": 2, \"quote_list\": [{\"name\": \"碗吹\", \"scheme\": \"sinaweibo://detail?mblogid=5159687751992071\", \"index\": 5, \"label\": \"\"}]}}```<br><br>2. **国际影响**  <br>    意大利总理梅洛尼当时正在白宫访问，其翻译因冲突紧张失误，最终由梅洛尼亲自翻译，事件引发国际舆论关注。```wbCustomBlock{\"type\": \"quoted\", \"index\": 8, \"data\": {\"num\": [5, 31], \"version\": 2, \"quote_list\": [{\"name\": \"碗吹\", \"scheme\": \"sinaweibo://detail?mblogid=5159687751992071\", \"index\": 5, \"label\": \"\"}, {\"name\": \"星野诗话\", \"scheme\": \"sinaweibo://detail?mblogid=5229510268289999\", \"index\": 31, \"label\": \"\"}]}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5174161669622524&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=1&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/007MYv3sly8i3n5hnazyej30u00u1n10.jpg?KID=imgbed,tva&Expires=1762314124&ssig=HFzrhtoOvr) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">数味寻踪</span><img src=\"http://wx4.sinaimg.cn/middle/007MYv3sgy1i24dc9u6g9j30u0238tpb.jpg\" data-width=2708 data-height=1080></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5175219197053977&multi_paragraph=1&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/963a4bb9ly8hhzbz346zzj20u00u0wg7.jpg?KID=imgbed,tva&Expires=1762314124&ssig=9Xi2vkpzwn) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">晶刚专属</span><img src=\"http://wx4.sinaimg.cn/middle/963a4bb9gy1i27qtdal58j20k00zktab.jpg\" data-width=1280 data-height=720></div></media-block><br>### 💬 **二、贝森特的回应（2025年11月）**<br>1. **核心表态**  <br>    - 在被问及“是否揪住马斯克衣领”时，贝森特幽默回应：“**埃隆穿的是T恤，没有领子可抓**”，并强调“**我和埃隆都充满热情**”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 12, \"data\": {\"num\": [1, 8, 21, 23], \"version\": 2, \"quote_list\": [{\"name\": \"新京报\", \"scheme\": \"sinaweibo://detail?mblogid=5229373411039075\", \"index\": 8, \"label\": \"大v\"}, {\"name\": \"新浪军事\", \"scheme\": \"sinaweibo://detail?mblogid=5229317446438774\", \"index\": 1, \"label\": \"\"}, {\"name\": \"观察者网\", \"scheme\": \"sinaweibo://detail?mblogid=5229384233386246\", \"index\": 21, \"label\": \"\"}, {\"name\": \"墨染诗婳\", \"scheme\": \"sinaweibo://detail?mblogid=5229360569124023\", \"index\": 23, \"label\": \"\"}], \"name\": \"新京报\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.512.512.50/001Ngxkily8h8vm7jc1igj60e80e8q3a02.jpg?KID=imgbed,tva&Expires=1762314124&ssig=8GuZze03uV\", \"scheme\": \"sinaweibo://detail?mblogid=5229373411039075\", \"vType\": 3}}```  <br>    - 回应回避直接承认或否认肢体冲突，但暗示两人存在激烈对立。```wbCustomBlock{\"type\": \"quoted\", \"index\": 13, \"data\": {\"num\": [22, 24, 36], \"version\": 2, \"quote_list\": [{\"name\": \"参考消息\", \"scheme\": \"sinaweibo://detail?mblogid=5229314519337395\", \"index\": 22, \"label\": \"大v\"}, {\"name\": \"今日俄罗斯RT\", \"scheme\": \"sinaweibo://detail?mblogid=5229251607398654\", \"index\": 24, \"label\": \"\"}, {\"name\": \"寰亚SYHP\", \"scheme\": \"sinaweibo://detail?mblogid=5229409553612915\", \"index\": 36, \"label\": \"\"}], \"name\": \"参考消息\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.512.512.50/002AJCr1ly8h8vh2ucc4tj60e80e8q3602.jpg?KID=imgbed,tva&Expires=1762314124&ssig=yOQ%2Fd%2BN4mx\", \"scheme\": \"sinaweibo://detail?mblogid=5229314519337395\", \"vType\": 3}}```<br><br>2. **白宫态度**  <br>    - 白宫发言人曾淡化事件，称分歧是“政策讨论的正常现象”。特朗普最初表态冲突“太过分”，但后续否认目睹打架过程，仅承认“发生过争吵”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 15, \"data\": {\"num\": [2, 14, 20, 34], \"version\": 2, \"quote_list\": [{\"name\": \"澎湃新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5159037834363022\", \"index\": 14, \"label\": \"大v\"}, {\"name\": \"环球网\", \"scheme\": \"sinaweibo://detail?mblogid=5175192766908519\", \"index\": 2, \"label\": \"\"}, {\"name\": \"白鹤-老邓\", \"scheme\": \"sinaweibo://detail?mblogid=5229370890783476\", \"index\": 20, \"label\": \"\"}, {\"name\": \"苹果君\", \"scheme\": \"sinaweibo://detail?mblogid=5175953702781885\", \"index\": 34, \"label\": \"\"}], \"name\": \"澎湃新闻\", \"img\": \"https://tvax1.sinaimg.cn/crop.11.10.275.275.50/005vnhZYly8ftjmwo0bx4j308c08cq32.jpg?KID=imgbed,tva&Expires=1762314124&ssig=VNMorFhXw8\", \"scheme\": \"sinaweibo://detail?mblogid=5159037834363022\", \"vType\": 3}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5229409553612915&multi_paragraph=2&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.995.995.50/005SZ2Zyly8h8ux90e7h7j30rn0rn76s.jpg?KID=imgbed,tva&Expires=1762314124&ssig=H2lVERMkfR) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">寰亚SYHP</span><img src=\"http://wx1.sinaimg.cn/middle/005SZ2Zygy1i70mhx8srmj31hc0u0dhi.jpg\" data-width=1080 data-height=1920></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5229373411039075&multi_paragraph=2&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.512.512.50/001Ngxkily8h8vm7jc1igj60e80e8q3a02.jpg?KID=imgbed,tva&Expires=1762314124&ssig=8GuZze03uV) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">新京报</span><img src=\"http://wx3.sinaimg.cn/middle/001Ngxkily1i70ickkh5yj61hc0u00um02.jpg\" data-width=1080 data-height=1920></div></media-block><br>### ⚔️ **三、深层矛盾背景**<br>1. **权力斗争**  <br>    - **人事权争夺**：马斯克试图通过“政府效率部”改革扩权，绕过财政部安插亲信，遭贝森特强烈反对。  <br>    - **政策对立**：马斯克主张AI替代50%税务人员、激进削减预算；贝森特坚持渐进式改革，担忧引发公务员系统动荡。```wbCustomBlock{\"type\": \"quoted\", \"index\": 20, \"data\": {\"num\": [5, 31], \"version\": 2, \"quote_list\": [{\"name\": \"碗吹\", \"scheme\": \"sinaweibo://detail?mblogid=5159687751992071\", \"index\": 5, \"label\": \"\"}, {\"name\": \"星野诗话\", \"scheme\": \"sinaweibo://detail?mblogid=5229510268289999\", \"index\": 31, \"label\": \"\"}]}}```<br><br>2. **利益冲突**  <br>    - **关税分歧**：贝森特支持对华加征关税，马斯克因特斯拉在华业务受损坚决反对。```wbCustomBlock{\"type\": \"quoted\", \"index\": 22, \"data\": {\"num\": [4], \"version\": 2, \"quote_list\": [{\"name\": \"邱震海\", \"scheme\": \"sinaweibo://detail?mblogid=5159004373517873\", \"index\": 4, \"label\": \"大v\"}], \"name\": \"邱震海\", \"img\": \"https://tva2.sinaimg.cn/crop.0.0.180.180.50/65e375c3jw1e8qgp5bmzyj2050050aa8.jpg?KID=imgbed,tva&Expires=1762314124&ssig=xN0vMUt4vh\", \"scheme\": \"sinaweibo://detail?mblogid=5159004373517873\", \"vType\": 0}}```  <br>    - **阵营割裂**：马斯克代表实体产业资本，贝森特被指与索罗斯金融资本关联，反映美国政商联盟的脆弱性。```wbCustomBlock{\"type\": \"quoted\", \"index\": 23, \"data\": {\"num\": [26], \"version\": 2, \"quote_list\": [{\"name\": \"夕琳看世界\", \"scheme\": \"sinaweibo://detail?mblogid=5229539355263597\", \"index\": 26, \"label\": \"\"}]}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5159004373517873&multi_paragraph=3&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tva2.sinaimg.cn/crop.0.0.180.180.50/65e375c3jw1e8qgp5bmzyj2050050aa8.jpg?KID=imgbed,tva&Expires=1762314124&ssig=xN0vMUt4vh) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">邱震海</span><img src=\"http://wx1.sinaimg.cn/middle/65e375c3gy1i0s09voqu9j21hc0u0tzk.jpg\" data-width=1080 data-height=1920></div></media-block><br>### 📉 **四、事件后续影响**<br>1. **马斯克政治挫败**  <br>    - 其推荐的国税局长人选被撤换，个人财富缩水超1500亿美元，最终退出政府工作回归特斯拉。```wbCustomBlock{\"type\": \"quoted\", \"index\": 27, \"data\": {\"num\": [3, 5, 11, 39], \"version\": 2, \"quote_list\": [{\"name\": \"央视新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5159667416434608\", \"index\": 3, \"label\": \"大v\"}, {\"name\": \"碗吹\", \"scheme\": \"sinaweibo://detail?mblogid=5159687751992071\", \"index\": 5, \"label\": \"\"}, {\"name\": \"偶然大叔嘞\", \"scheme\": \"sinaweibo://detail?mblogid=5159691542597278\", \"index\": 11, \"label\": \"\"}, {\"name\": \"西雅图夏至\", \"scheme\": \"sinaweibo://detail?mblogid=5175174527191562\", \"index\": 39, \"label\": \"\"}], \"name\": \"央视新闻\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.690.690.50/002TLsr9ly8i653ifvwbtj60j60j6aai02.jpg?KID=imgbed,tva&Expires=1762314124&ssig=7mXToCrEOi\", \"scheme\": \"sinaweibo://detail?mblogid=5159667416434608\", \"vType\": 3}}```<br><br>2. **特朗普团队分裂**  <br>    - 国务卿卢比奥、贸易顾问纳瓦罗等与马斯克多次公开冲突，62%民众认为事件暴露政府失能。```wbCustomBlock{\"type\": \"quoted\", \"index\": 29, \"data\": {\"num\": [5, 16], \"version\": 2, \"quote_list\": [{\"name\": \"羊又走丢了\", \"scheme\": \"sinaweibo://detail?mblogid=5159692188256821\", \"index\": 16, \"label\": \"大v\"}, {\"name\": \"碗吹\", \"scheme\": \"sinaweibo://detail?mblogid=5159687751992071\", \"index\": 5, \"label\": \"\"}], \"name\": \"羊又走丢了\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/005WLO0dgy1hyjo8lczhoj30u00u0dio.jpg?KID=imgbed,tva&Expires=1762314124&ssig=u4er0QB3vN\", \"scheme\": \"sinaweibo://detail?mblogid=5159692188256821\", \"vType\": 0}}```  <br>    - 特朗普6月单方面宣布与马斯克“断交”，关系彻底破裂。```wbCustomBlock{\"type\": \"quoted\", \"index\": 30, \"data\": {\"num\": [12, 35], \"version\": 2, \"quote_list\": [{\"name\": \"央视网\", \"scheme\": \"sinaweibo://detail?mblogid=5175270917281859\", \"index\": 12, \"label\": \"大v\"}, {\"name\": \"科技吟游者\", \"scheme\": \"sinaweibo://detail?mblogid=5175249315824087\", \"index\": 35, \"label\": \"\"}], \"name\": \"央视网\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.180.180.50/003z5L7fly8h8ursf868gj6050050mwz02.jpg?KID=imgbed,tva&Expires=1762314124&ssig=bi9uajHlvO\", \"scheme\": \"sinaweibo://detail?mblogid=5175270917281859\", \"vType\": 3}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5175174527191562&from=search&content_show=1&mix_index=2&hide_index=1&multi_paragraph=4&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/74d500dcly8gxgwleo20qj20u00u0t9e.jpg?KID=imgbed,tva&Expires=1762314124&ssig=DbLGGtHdFh) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">西雅图夏至</span><img src=\"http://wx1.sinaimg.cn/middle/74d500dcgy1i27l8aqw02j218z0u00zd.jpg\" data-width=1080 data-height=1619></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5159667416434608&multi_paragraph=4&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.690.690.50/002TLsr9ly8i653ifvwbtj60j60j6aai02.jpg?KID=imgbed,tva&Expires=1762314124&ssig=7mXToCrEOi) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">央视新闻</span><img src=\"http://wx1.sinaimg.cn/middle/002TLsr9ly1i0xudw27ggj618g0p0b2902.jpg\" data-width=900 data-height=1600></div><div data-type=\"v\" data-scheme=\"sinaweibo://multimedia?mix_mid=5159692188256821&mix_index=0&multi_paragraph=4&multi_count=2\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/005WLO0dgy1hyjo8lczhoj30u00u0dio.jpg?KID=imgbed,tva&Expires=1762314124&ssig=u4er0QB3vN) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">羊又走丢了</span><img src=\"http://wx2.sinaimg.cn/middle/005WLO0dgy1i0u7konr9mj30u00gwgon.jpg\" data-width=608 data-height=1080></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5175270917281859&multi_paragraph=4&multi_count=3\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.180.180.50/003z5L7fly8h8ursf868gj6050050mwz02.jpg?KID=imgbed,tva&Expires=1762314124&ssig=bi9uajHlvO) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">央视网</span><img src=\"http://wx2.sinaimg.cn/middle/003z5L7fly1i27vuegzq1j60zk0k0abr02.jpg\" data-width=720 data-height=1280></div></media-block><br>### 🔍 **五、争议与猜测**<br>- **马斯克“黑眼圈”疑云**：冲突后马斯克现身白宫时右眼淤青，自称“被儿子误伤”，但外界猜测与贝森特冲突相关。```wbCustomBlock{\"type\": \"quoted\", \"index\": 33, \"data\": {\"num\": [13, 42], \"version\": 2, \"quote_list\": [{\"name\": \"一枚搞机的原子弹\", \"scheme\": \"sinaweibo://detail?mblogid=5175265832993015\", \"index\": 42, \"label\": \"大v\"}, {\"name\": \"数味寻踪\", \"scheme\": \"sinaweibo://detail?mblogid=5174161669622524\", \"index\": 13, \"label\": \"\"}], \"name\": \"一枚搞机的原子弹\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.1002.1002.50/75b0b312ly8gdj443kyd4j20ru0rujt7.jpg?KID=imgbed,tva&Expires=1762314124&ssig=zvyYwEy0CJ\", \"scheme\": \"sinaweibo://detail?mblogid=5175265832993015\", \"vType\": 0}}```  <br>- **药物滥用传闻**：《纽约时报》称马斯克冲突前可能服用氯胺酮等药物，加剧行为失控，但未获证实。```wbCustomBlock{\"type\": \"quoted\", \"index\": 34, \"data\": {\"num\": [13, 34], \"version\": 2, \"quote_list\": [{\"name\": \"数味寻踪\", \"scheme\": \"sinaweibo://detail?mblogid=5174161669622524\", \"index\": 13, \"label\": \"\"}, {\"name\": \"苹果君\", \"scheme\": \"sinaweibo://detail?mblogid=5175953702781885\", \"index\": 34, \"label\": \"\"}]}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5175265832993015&from=search&content_show=1&mix_index=2&hide_index=1&multi_paragraph=5&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.1002.1002.50/75b0b312ly8gdj443kyd4j20ru0rujt7.jpg?KID=imgbed,tva&Expires=1762314124&ssig=zvyYwEy0CJ) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">一枚搞机的原子弹</span><img src=\"http://wx1.sinaimg.cn/middle/75b0b312gy1i27vpy0m3pj20ow0hsgo6.jpg\" data-width=640 data-height=896></div></media-block><br>### 💎 **总结**<br>贝森特的回应以幽默化解冲突细节，却未能否认权力博弈的本质。这场“白宫全武行”暴露了美国政治精英在财政控制权、改革路线上的深层撕裂，而马斯克的退出标志着硅谷激进派与传统金融建制派较量的阶段性失败。```wbCustomBlock{\"type\": \"quoted\", \"index\": 36, \"data\": {\"num\": [5, 26], \"version\": 2, \"quote_list\": [{\"name\": \"碗吹\", \"scheme\": \"sinaweibo://detail?mblogid=5159687751992071\", \"index\": 5, \"label\": \"\"}, {\"name\": \"夕琳看世界\", \"scheme\": \"sinaweibo://detail?mblogid=5229539355263597\", \"index\": 26, \"label\": \"\"}]}}```<br>",
+      "top_quote_list": {},
+      "page_id": "2329644431bfa7e646b77b31615d099c41d1a7",
+      "analysis_time": 1762303417,
+      "status": 2,
+      "qs_status_info": "{\"qs_q_status\":0,\"qs_c_status\":8388608,\"qs_r_status\":0,\"qs_u_status\":0,\"ab_lab\":{},\"qs_status\":0}",
+      "ab_suffix": "default",
+      "loop_times": 200,
+      "share_text": "#美财长回应与马斯克在白宫打架#的相关内容，来智搜看看",
+      "q_attr": {
+        "mid": "",
+        "reply_cid": "",
+        "from_uid": "5116356267",
+        "comment_from_type": "",
+        "from_request_id": ""
+      },
+      "abtest_info": {
+        "chat_entrance": 1
+      }
+    }
+  },
+  "links": [
+    "sinaweibo://detail?mblogid=5229317446438774",
+    "sinaweibo://detail?mblogid=5175192766908519",
+    "sinaweibo://detail?mblogid=5159667416434608",
+    "sinaweibo://detail?mblogid=5159004373517873",
+    "sinaweibo://detail?mblogid=5159687751992071",
+    "sinaweibo://detail?mblogid=5175276808962865",
+    "sinaweibo://detail?mblogid=5159681559892142",
+    "sinaweibo://detail?mblogid=5229373411039075",
+    "sinaweibo://detail?mblogid=5208862757751269",
+    "sinaweibo://detail?mblogid=5175261067739551",
+    "sinaweibo://detail?mblogid=5159691542597278",
+    "sinaweibo://detail?mblogid=5175270917281859",
+    "sinaweibo://detail?mblogid=5174161669622524",
+    "sinaweibo://detail?mblogid=5159037834363022",
+    "sinaweibo://detail?mblogid=5159716499229537",
+    "sinaweibo://detail?mblogid=5159692188256821",
+    "historyweibo://5175192766908519",
+    "historyweibo://5159667416434608",
+    "historyweibo://5158890468542699",
+    "sinaweibo://detail?mblogid=5229370890783476",
+    "sinaweibo://detail?mblogid=5229384233386246",
+    "sinaweibo://detail?mblogid=5229314519337395",
+    "sinaweibo://detail?mblogid=5229360569124023",
+    "sinaweibo://detail?mblogid=5229251607398654",
+    "sinaweibo://detail?mblogid=5229540322575849",
+    "sinaweibo://detail?mblogid=5229539355263597",
+    "sinaweibo://detail?mblogid=5229529450679048",
+    "sinaweibo://detail?mblogid=5229516593301274",
+    "sinaweibo://detail?mblogid=5229514697476656",
+    "sinaweibo://detail?mblogid=5229512144980269",
+    "sinaweibo://detail?mblogid=5229510268289999",
+    "sinaweibo://detail?mblogid=5229378724431762",
+    "sinaweibo://detail?mblogid=5209225108391475",
+    "sinaweibo://detail?mblogid=5175953702781885",
+    "sinaweibo://detail?mblogid=5175249315824087",
+    "sinaweibo://detail?mblogid=5229409553612915",
+    "sinaweibo://detail?mblogid=5229520119924205",
+    "sinaweibo://detail?mblogid=5159710677272522",
+    "sinaweibo://detail?mblogid=5175174527191562",
+    "sinaweibo://detail?mblogid=5175284107577005",
+    "sinaweibo://detail?mblogid=5159693744082106",
+    "sinaweibo://detail?mblogid=5175265832993015",
+    "sinaweibo://detail?mblogid=5208883594268792",
+    "sinaweibo://detail?mblogid=5173817761596942",
+    "sinaweibo://detail?mblogid=5175219197053977"
+  ],
+  "media": [
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/007MYv3sgy1i24dc9u6g9j30u0238tpb.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/007MYv3sgy1i24dc9u6g9j30u0238tpb.jpg",
+      "alt": "数味寻踪",
+      "width": 2708,
+      "height": 1080,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/007MYv3sgy1i24dc9u6g9j30u0238tpb.jpg"
+      ],
+      "user": "数味寻踪"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/963a4bb9gy1i27qtdal58j20k00zktab.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/963a4bb9gy1i27qtdal58j20k00zktab.jpg",
+      "alt": "晶刚专属",
+      "width": 1280,
+      "height": 720,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/963a4bb9gy1i27qtdal58j20k00zktab.jpg"
+      ],
+      "user": "晶刚专属"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/005SZ2Zygy1i70mhx8srmj31hc0u0dhi.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/005SZ2Zygy1i70mhx8srmj31hc0u0dhi.jpg",
+      "alt": "寰亚SYHP",
+      "width": 1080,
+      "height": 1920,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/005SZ2Zygy1i70mhx8srmj31hc0u0dhi.jpg"
+      ],
+      "user": "寰亚SYHP"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/001Ngxkily1i70ickkh5yj61hc0u00um02.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/001Ngxkily1i70ickkh5yj61hc0u00um02.jpg",
+      "alt": "新京报",
+      "width": 1080,
+      "height": 1920,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/001Ngxkily1i70ickkh5yj61hc0u00um02.jpg"
+      ],
+      "user": "新京报"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/65e375c3gy1i0s09voqu9j21hc0u0tzk.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/65e375c3gy1i0s09voqu9j21hc0u0tzk.jpg",
+      "alt": "邱震海",
+      "width": 1080,
+      "height": 1920,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/65e375c3gy1i0s09voqu9j21hc0u0tzk.jpg"
+      ],
+      "user": "邱震海"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/74d500dcgy1i27l8aqw02j218z0u00zd.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/74d500dcgy1i27l8aqw02j218z0u00zd.jpg",
+      "alt": "西雅图夏至",
+      "width": 1080,
+      "height": 1619,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/74d500dcgy1i27l8aqw02j218z0u00zd.jpg"
+      ],
+      "user": "西雅图夏至"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/002TLsr9ly1i0xudw27ggj618g0p0b2902.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/002TLsr9ly1i0xudw27ggj618g0p0b2902.jpg",
+      "alt": "央视新闻",
+      "width": 900,
+      "height": 1600,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/002TLsr9ly1i0xudw27ggj618g0p0b2902.jpg"
+      ],
+      "user": "央视新闻"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/005WLO0dgy1i0u7konr9mj30u00gwgon.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/005WLO0dgy1i0u7konr9mj30u00gwgon.jpg",
+      "alt": "羊又走丢了",
+      "width": 608,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/005WLO0dgy1i0u7konr9mj30u00gwgon.jpg"
+      ],
+      "user": "羊又走丢了"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/003z5L7fly1i27vuegzq1j60zk0k0abr02.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/003z5L7fly1i27vuegzq1j60zk0k0abr02.jpg",
+      "alt": "央视网",
+      "width": 720,
+      "height": 1280,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx4.sinaimg.cn/large/003z5L7fly1i27vuegzq1j60zk0k0abr02.jpg"
+      ],
+      "user": "央视网"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/75b0b312gy1i27vpy0m3pj20ow0hsgo6.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/75b0b312gy1i27vpy0m3pj20ow0hsgo6.jpg",
+      "alt": "一枚搞机的原子弹",
+      "width": 640,
+      "height": 896,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/75b0b312gy1i27vpy0m3pj20ow0hsgo6.jpg"
+      ],
+      "user": "一枚搞机的原子弹"
+    }
+  ],
+  "html_path": "data/aicard/hourly/2025-11-05/08/topic-2e6f0a73.html"
+}

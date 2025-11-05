@@ -1,0 +1,376 @@
+{
+  "meta": {
+    "query": "#Angelababy精灵羽翼妆#",
+    "status_code": 200,
+    "fetched_at": "2025-11-02T19:31:19+08:00",
+    "response": {
+      "card_multimodal": {
+        "data": [
+          {
+            "video_url": "https://video.weibo.com/show?fid=1034:4917694583996441",
+            "hit_score_final": 85.014069,
+            "hit_score_new": 99.023438,
+            "doc_score": 6675,
+            "img_pid": "4cf831b7ly1hfe6j6fv1kj20u01hc7hb",
+            "w": 1080,
+            "img": "http://wx2.sinaimg.cn/middle/4cf831b7ly1hfe6j6fv1kj20u01hc7hb.jpg",
+            "click_rate": 0,
+            "vtype": 0,
+            "user_name": "春楠",
+            "cur_mid": "4917698784134468",
+            "scheme": "sinaweibo://video/vvs?mid=4917698784134468&multi_paragraph=1&multi_count=0",
+            "type": "v",
+            "h": 1920,
+            "user_avatar": "https://tvax2.sinaimg.cn/crop.0.0.512.512.50/4cf831b7ly8hy0sp5z282j20e80e8jrh.jpg?KID=imgbed,tva&Expires=1762093385&ssig=Parz5ajCGo"
+          },
+          {
+            "video_url": "",
+            "hit_score_final": 80.209381,
+            "hit_score_new": 91.015625,
+            "doc_score": 4431,
+            "img_pid": "006ZMPsmgy1i35r7plx35j31400qowjr",
+            "w": 1440,
+            "img": "http://wx4.sinaimg.cn/middle/006ZMPsmgy1i35r7plx35j31400qowjr.jpg",
+            "click_rate": 0.5,
+            "vtype": 0,
+            "user_name": "熹妃娘娘有喜了",
+            "cur_mid": "5185881828757384",
+            "scheme": "sinaweibo://multimedia?mix_mid=5185881828757384&from=search&content_show=1&mix_index=2&hide_index=1&multi_paragraph=2&multi_count=0",
+            "type": "p",
+            "h": 960,
+            "user_avatar": "https://tvax1.sinaimg.cn/crop.0.0.498.498.50/006ZMPsmly8i022nb8tpkj30du0duweu.jpg?KID=imgbed,tva&Expires=1762093385&ssig=dssjd6ElPX"
+          },
+          {
+            "video_url": "https://video.weibo.com/show?fid=1034:5185852687712305",
+            "hit_score_final": 62.905075,
+            "hit_score_new": 62.841797,
+            "doc_score": 4425,
+            "img_pid": "005ZVeFYly1i35o2l196qj30k00zk758",
+            "w": 720,
+            "img": "http://wx3.sinaimg.cn/middle/005ZVeFYly1i35o2l196qj30k00zk758.jpg",
+            "click_rate": 0,
+            "vtype": 0,
+            "user_name": "Stars_HauteCouture",
+            "cur_mid": "5185853076803951",
+            "scheme": "sinaweibo://video/vvs?mid=5185853076803951&multi_paragraph=2&multi_count=1",
+            "type": "v",
+            "h": 1280,
+            "user_avatar": "https://tvax1.sinaimg.cn/crop.0.0.960.960.50/005ZVeFYly8h8mhiofqzqj30qo0qo40y.jpg?KID=imgbed,tva&Expires=1762093385&ssig=8wz53aqNSD"
+          },
+          {
+            "video_url": "https://video.weibo.com/show?fid=1034:4917694583996441",
+            "hit_score_final": 85.014069,
+            "hit_score_new": 99.023438,
+            "doc_score": 6675,
+            "img_pid": "4cf831b7ly1hfe6j6fv1kj20u01hc7hb",
+            "w": 1080,
+            "img": "http://wx2.sinaimg.cn/middle/4cf831b7ly1hfe6j6fv1kj20u01hc7hb.jpg",
+            "click_rate": 0,
+            "vtype": 0,
+            "user_name": "春楠",
+            "cur_mid": "4917698784134468",
+            "scheme": "sinaweibo://video/vvs?mid=4917698784134468&multi_paragraph=1&multi_count=0",
+            "type": "v",
+            "h": 1920,
+            "user_avatar": "https://tvax2.sinaimg.cn/crop.0.0.512.512.50/4cf831b7ly8hy0sp5z282j20e80e8jrh.jpg?KID=imgbed,tva&Expires=1762093385&ssig=Parz5ajCGo"
+          }
+        ],
+        "type": "mediablock"
+      },
+      "share_card_multimodal": {
+        "video_url": "https://video.weibo.com/show?fid=1034:4917694583996441",
+        "hit_score_final": 85.014069,
+        "hit_score_new": 99.023438,
+        "doc_score": 6675,
+        "img_pid": "4cf831b7ly1hfe6j6fv1kj20u01hc7hb",
+        "w": 1080,
+        "img": "http://wx2.sinaimg.cn/middle/4cf831b7ly1hfe6j6fv1kj20u01hc7hb.jpg",
+        "click_rate": 0,
+        "vtype": 0,
+        "user_name": "春楠",
+        "cur_mid": "4917698784134468",
+        "scheme": "sinaweibo://video/vvs?mid=4917698784134468&multi_paragraph=1&multi_count=0",
+        "type": "v",
+        "h": 1920,
+        "user_avatar": "https://tvax2.sinaimg.cn/crop.0.0.512.512.50/4cf831b7ly8hy0sp5z282j20e80e8jrh.jpg?KID=imgbed,tva&Expires=1762093385&ssig=Parz5ajCGo"
+      },
+      "query_category": "Ip",
+      "basemodel": "实验组6",
+      "unify_md5": "ed736cd4c4633ca5ff61fe4e697c4d49",
+      "sorted_material_list": null,
+      "chat_status_stage": 1,
+      "wenda": {
+        "forward_gen": 0
+      },
+      "cot": 1,
+      "current_time": 1762083080,
+      "news_analyze": {},
+      "user_info": {},
+      "msg_format": "markdown",
+      "ab_suffix": "default",
+      "abtest_info": {
+        "chat_entrance": 1
+      },
+      "qs_status": 0,
+      "msg_json": "{}",
+      "analysis_time": 1762082771,
+      "qs_status_info": "{\"qs_r_status\":0,\"qs_u_status\":0,\"ab_lab\":{},\"qs_status\":0,\"qs_q_status\":0,\"qs_c_status\":8388608}",
+      "loop_times": 200,
+      "uid": "",
+      "ext_show": {},
+      "share_text": "#Angelababy精灵羽翼妆#的相关内容，来智搜看看",
+      "msg": "<think><br>嗯，用户想了解Angelababy的精灵羽翼妆。我看到了很多搜索结果，需要整理出关键信息。<br><br>从搜索结果看，这个妆容的核心信息来自化妆师春楠的微博，发布于2025年11月2日，时效性很强。妆容的特点是眼尾用蓝色睫毛打造羽翼效果，配合裸棕色眼影和野生眉。当时搭配的是森林系造型，有绿叶裙和金色长发。<br><br>注意到用户可能还想知道这个造型的背景。这是为巴黎高定周Iris van Herpen秀场打造的，时间在2025年7月。有趣的是提到有人误以为是早期绿色羽毛裙造型，其实这次是新作品。<br><br>关于传播效果，#Angelababy精灵羽翼妆#话题下有很多实时讨论，普通网友和认证账号都在赞叹\"生图能打\"\"童话感\"。专业角度上，提到这个妆是\"连接幻想与现实的视觉符号\"，说得挺准确。<br><br>需要区分的是，Angelababy历史上多次尝试过精灵/羽翼主题，但这次是全新创作。特别是澄清了与商业代言无关，避免误导。<br><br>最后保留一个专业细节：春楠在提到过类似妆容的低饱和度技巧，这次可能也运用了。韩国仿妆视频间接证明这类妆容的跨文化感染力。<br><br>整体可以围绕妆容解析、造型协同、传播现象三个维度展开，突出2025年这次创作的独特性。要特别注意区分历史类似造型，避免信息混淆。<br><br></think><br>Angelababy的精灵羽翼妆是2025年11月由知名化妆师春楠打造的标志性妆容，以奇幻灵动的设计引发全网热议。该妆容的核心特点及背景信息如下：<br>### 🌟 **一、妆容技术解析**  <br>1. **眼妆设计**  <br>   - **羽翼元素**：眼尾采用蓝色睫毛点缀，模拟展开的精灵翅膀形态，叠加裸棕色眼影晕染眼窝，增强立体感的同时注入奇幻色彩。```wbCustomBlock{\"type\": \"quoted\", \"index\": 4, \"data\": {\"num\": [1], \"version\": 2, \"quote_list\": [{\"name\": \"春楠\", \"scheme\": \"sinaweibo://detail?mblogid=5228543756735579\", \"index\": 1, \"label\": \"\"}]}}```  <br>   - **细闪与钻饰**：面颊与眼周搭配水钻和冰晶贴纸，营造星光层叠的视觉效果，呼应森林光影主题。```wbCustomBlock{\"type\": \"quoted\", \"index\": 5, \"data\": {\"num\": [2, 4], \"version\": 2, \"quote_list\": [{\"name\": \"菠萝星动\", \"scheme\": \"sinaweibo://detail?mblogid=5228612745953511\", \"index\": 2, \"label\": \"\"}, {\"name\": \"春楠\", \"scheme\": \"sinaweibo://detail?mblogid=4917698784134468\", \"index\": 4, \"label\": \"\"}]}}```  <br><br>2. **整体色调**  <br>   - **低饱和度统一**：奶茶色系贯穿眼妆、腮红及唇妆，降低色彩明度，与金色长发形成和谐搭配，突出精灵的空灵感。```wbCustomBlock{\"type\": \"quoted\", \"index\": 7, \"data\": {\"num\": [4], \"version\": 2, \"quote_list\": [{\"name\": \"春楠\", \"scheme\": \"sinaweibo://detail?mblogid=4917698784134468\", \"index\": 4, \"label\": \"\"}]}}```  <br>   - **野生眉处理**：保留毛流感，强调眉峰转折与眉尾微拉，提升眉眼灵动神采。```wbCustomBlock{\"type\": \"quoted\", \"index\": 8, \"data\": {\"num\": [1], \"version\": 2, \"quote_list\": [{\"name\": \"春楠\", \"scheme\": \"sinaweibo://detail?mblogid=5228543756735579\", \"index\": 1, \"label\": \"\"}]}}```  <br><br>3. **底妆工艺**  <br>   - **呼吸感肌底**：轻薄粉底与肌肤高度融合，呈现细腻透亮的“原生瓷肌”效果，为奇幻元素奠定自然基调。```wbCustomBlock{\"type\": \"quoted\", \"index\": 10, \"data\": {\"num\": [1], \"version\": 2, \"quote_list\": [{\"name\": \"春楠\", \"scheme\": \"sinaweibo://detail?mblogid=5228543756735579\", \"index\": 1, \"label\": \"\"}]}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=4917698784134468&multi_paragraph=1&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.512.512.50/4cf831b7ly8hy0sp5z282j20e80e8jrh.jpg?KID=imgbed,tva&Expires=1762093385&ssig=Parz5ajCGo) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">春楠</span><img src=\"http://wx2.sinaimg.cn/middle/4cf831b7ly1hfe6j6fv1kj20u01hc7hb.jpg\" data-width=1920 data-height=1080></div></media-block><br>### 🧚‍♀️ **二、造型协同与主题呈现**  <br>1. **森林精灵意象**  <br>   - 金色长发搭配绿叶刺绣长裙（设计师王峰作品），脸颊装饰蜻蜓翅膀，耳畔点缀蝴蝶配饰，宛如雨滴森林中的幻化精灵。```wbCustomBlock{\"type\": \"quoted\", \"index\": 13, \"data\": {\"num\": [2, 13], \"version\": 2, \"quote_list\": [{\"name\": \"菠萝星动\", \"scheme\": \"sinaweibo://detail?mblogid=5228612745953511\", \"index\": 2, \"label\": \"\"}, {\"name\": \"Stars_HauteCouture\", \"scheme\": \"sinaweibo://detail?mblogid=5185853076803951\", \"index\": 13, \"label\": \"\"}]}}```  <br>   - 场景设计融合雨滴、光影等自然元素，强化童话氛围。```wbCustomBlock{\"type\": \"quoted\", \"index\": 14, \"data\": {\"num\": [2], \"version\": 2, \"quote_list\": [{\"name\": \"菠萝星动\", \"scheme\": \"sinaweibo://detail?mblogid=5228612745953511\", \"index\": 2, \"label\": \"\"}]}}```  <br><br>2. **高定时装周背景**  <br>   - 该造型亮相2025年7月巴黎高定时装周Iris van Herpen大秀，品牌官方INS首发认领，外媒评价其为“科技与自然的诗意碰撞”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 16, \"data\": {\"num\": [13, 36], \"version\": 2, \"quote_list\": [{\"name\": \"熹妃娘娘有喜了\", \"scheme\": \"sinaweibo://detail?mblogid=5185881828757384\", \"index\": 36, \"label\": \"大v\"}, {\"name\": \"Stars_HauteCouture\", \"scheme\": \"sinaweibo://detail?mblogid=5185853076803951\", \"index\": 13, \"label\": \"\"}], \"name\": \"熹妃娘娘有喜了\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.498.498.50/006ZMPsmly8i022nb8tpkj30du0duweu.jpg?KID=imgbed,tva&Expires=1762093385&ssig=dssjd6ElPX\", \"scheme\": \"sinaweibo://detail?mblogid=5185881828757384\", \"vType\": 0}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5185881828757384&from=search&content_show=1&mix_index=2&hide_index=1&multi_paragraph=2&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.498.498.50/006ZMPsmly8i022nb8tpkj30du0duweu.jpg?KID=imgbed,tva&Expires=1762093385&ssig=dssjd6ElPX) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">熹妃娘娘有喜了</span><img src=\"http://wx4.sinaimg.cn/middle/006ZMPsmgy1i35r7plx35j31400qowjr.jpg\" data-width=960 data-height=1440></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5185853076803951&multi_paragraph=2&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.960.960.50/005ZVeFYly8h8mhiofqzqj30qo0qo40y.jpg?KID=imgbed,tva&Expires=1762093385&ssig=8wz53aqNSD) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">Stars_HauteCouture</span><img src=\"http://wx3.sinaimg.cn/middle/005ZVeFYly1i35o2l196qj30k00zk758.jpg\" data-width=1280 data-height=720></div></media-block><br>### 💥 **三、传播现象与文化影响**  <br>1. **全网仿妆热潮**  <br>   - 因眼尾羽翼睫毛的易复刻性，美妆博主纷纷推出教程（如眼角水钻点睛技法），网友称“仙气秘诀在于蓝羽翼的飘逸感”。```wbCustomBlock{\"type\": \"reliability\", \"data\": {\"tag_name\": \"存疑\", \"tag_normal_color\": \"#EF8B00\", \"tag_dark_color\": \"#D77D00\", \"tips\": \"引用的仿妆教程来源（结果12，2022年4月）早于本次妆容事件（2025年11月），时间不匹配，信息可能无关或夸大复刻性。\"}}``````wbCustomBlock{\"type\": \"quoted\", \"index\": 19, \"data\": {\"num\": [12, 25], \"version\": 2, \"quote_list\": [{\"name\": \"娱乐圈扒姐\", \"scheme\": \"sinaweibo://detail?mblogid=5228600116906364\", \"index\": 25, \"label\": \"大v\"}, {\"name\": \"七叶酱-\", \"scheme\": \"sinaweibo://detail?mblogid=4755660560666149\", \"index\": 12, \"label\": \"\"}], \"name\": \"娱乐圈扒姐\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.613.613.50/c17fd038ly8fi941hlv92j20h10i6qb9.jpg?KID=imgbed,tva&Expires=1762093385&ssig=SMalqpxGv3\", \"scheme\": \"sinaweibo://detail?mblogid=5228600116906364\", \"vType\": 0}}```  <br>   - 相关话题#Angelababy精灵羽翼妆#单日讨论量破万，衍生“菜市场精灵”“神颜天花板”等出圈热词。```wbCustomBlock{\"type\": \"quoted\", \"index\": 20, \"data\": {\"num\": [19, 21, 23], \"version\": 2, \"quote_list\": [{\"name\": \"看完大球看小球\", \"scheme\": \"sinaweibo://detail?mblogid=5228599986623589\", \"index\": 19, \"label\": \"大v\"}, {\"name\": \"木木不想更新\", \"scheme\": \"sinaweibo://detail?mblogid=5228601752683232\", \"index\": 21, \"label\": \"\"}, {\"name\": \"星星柠_\", \"scheme\": \"sinaweibo://detail?mblogid=5228610025950697\", \"index\": 23, \"label\": \"\"}], \"name\": \"看完大球看小球\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.960.960.50/007CPSklly8ho8pxsyl37j30qo0qodht.jpg?KID=imgbed,tva&Expires=1762093385&ssig=M6xBzLgHi9\", \"scheme\": \"sinaweibo://detail?mblogid=5228599986623589\", \"vType\": 0}}```  <br><br>2. **公众情感投射**  <br>   - 粉丝形容其“笑靥如童话成真”，生图状态被赞“打破现实与幻想的图层壁垒”；```wbCustomBlock{\"type\": \"quoted\", \"index\": 22, \"data\": {\"num\": [20, 27], \"version\": 2, \"quote_list\": [{\"name\": \"颖祎迪\", \"scheme\": \"sinaweibo://detail?mblogid=5228597431240678\", \"index\": 20, \"label\": \"\"}, {\"name\": \"65432l\", \"scheme\": \"sinaweibo://detail?mblogid=5228610252181633\", \"index\": 27, \"label\": \"\"}]}}```  <br>   - 争议风波后（2023年舆论事件），此造型被视为“用美学逆袭重构公众记忆”的符号。```wbCustomBlock{\"type\": \"quoted\", \"index\": 23, \"data\": {\"num\": [24], \"version\": 2, \"quote_list\": [{\"name\": \"sheep忆\", \"scheme\": \"sinaweibo://detail?mblogid=5228602105005081\", \"index\": 24, \"label\": \"\"}]}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5228599986623589&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=3&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.960.960.50/007CPSklly8ho8pxsyl37j30qo0qodht.jpg?KID=imgbed,tva&Expires=1762093385&ssig=M6xBzLgHi9) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">看完大球看小球</span><img src=\"http://wx1.sinaimg.cn/middle/007CPSklgy1i6y1ilcu19j30u00zogqr.jpg\" data-width=1284 data-height=1080></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5228601752683232&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=3&multi_count=1\"><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/007mCtcWly8i6iwk7g3snj30u00u0wgm.jpg?KID=imgbed,tva&Expires=1762093385&ssig=%2F%2BxrRnQ3f7) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">木木不想更新</span><img src=\"http://wx3.sinaimg.cn/middle/007mCtcWly1i6y1oy32wrj30wi0kbk0r.jpg\" data-width=731 data-height=1170></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=4755660560666149&multi_paragraph=3&multi_count=2\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/007e5Xj1ly8gzkxup0mi5j30u00u0wg7.jpg?KID=imgbed,tva&Expires=1762093385&ssig=Xzo9bzQFPf) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">七叶酱-</span><img src=\"http://wx1.sinaimg.cn/middle/007e5Xj1gy1h1192r17rnj30u01410y1.jpg\" data-width=1441 data-height=1080></div></media-block><br>### ⚠️ **四、相关混淆澄清**  <br>1. **区别于历史造型**：网友误关联2022年“天鹅羽翼白裙”（钻石羽毛裙）或2023年“暗夜天使3D翅膀”，实则本次为全新独立创作；```wbCustomBlock{\"type\": \"quoted\", \"index\": 25, \"data\": {\"num\": [3, 32, 34], \"version\": 2, \"quote_list\": [{\"name\": \"杨颖工作室\", \"scheme\": \"sinaweibo://detail?mblogid=4815859372001193\", \"index\": 3, \"label\": \"大v\"}, {\"name\": \"星酱娱乐\", \"scheme\": \"sinaweibo://detail?mblogid=4815845165105206\", \"index\": 32, \"label\": \"\"}, {\"name\": \"杨颖工作室\", \"scheme\": \"sinaweibo://detail?mblogid=4883290983532922\", \"index\": 34, \"label\": \"\"}], \"name\": \"杨颖工作室\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/9c8a3b69ly8hn8gvejejlj20u00u040l.jpg?KID=imgbed,tva&Expires=1762093385&ssig=j%2FoyI%2F5k3q\", \"scheme\": \"sinaweibo://detail?mblogid=4815859372001193\", \"vType\": 7}}```  <br>2. **商业关联说明**：无证据表明妆容与同期官宣的“企鹅户外代言”存在主题联动。<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=4815859372001193&from=search&content_show=1&mix_index=6&hide_index=1&multi_paragraph=4&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/9c8a3b69ly8hn8gvejejlj20u00u040l.jpg?KID=imgbed,tva&Expires=1762093385&ssig=j%2FoyI%2F5k3q) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">杨颖工作室</span><img src=\"http://wx4.sinaimg.cn/middle/9c8a3b69gy1h6dav42xlpj24mo336e83.jpg\" data-width=4002 data-height=6000></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=4815845165105206&multi_paragraph=4&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.512.512.50/005NXfqGly8h2ibzcxzvmj30e80e83ys.jpg?KID=imgbed,tva&Expires=1762093385&ssig=zYUKZYmGCq) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">星酱娱乐</span><img src=\"http://wx2.sinaimg.cn/middle/005NXfqGly1h6d9a08aoej30u0141411.jpg\" data-width=1441 data-height=1080></div></media-block><br>### 💎 **核心价值总结**  <br>精灵羽翼妆通过**蓝羽翼睫毛的符号化设计**与**低饱和度色调的先锋运用**，将高定秀场概念转化为大众审美共鸣，既延续了Angelababy“奇幻妆容开创者”的标签（如早期精灵妆、洛可可蔷薇妆），亦成为2025年现象级视觉文化样本。```wbCustomBlock{\"type\": \"quoted\", \"index\": 27, \"data\": {\"num\": [31], \"version\": 2, \"quote_list\": [{\"name\": \"爱鼻小杰\", \"scheme\": \"sinaweibo://detail?mblogid=5191672176053957\", \"index\": 31, \"label\": \"\"}]}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5191672176053957&multi_paragraph=5&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.569.569.50/006yr80Lly8i29zuymucij30ft0ftq3g.jpg?KID=imgbed,tva&Expires=1762093385&ssig=i1ufmLOXMy) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">爱鼻小杰</span><img src=\"http://wx3.sinaimg.cn/middle/006yr80Lly1h7iot8i7jhj30u01hc0xb.jpg\" data-width=1920 data-height=1080></div></media-block><br>",
+      "share_info": {
+        "unify_md5": "ed736cd4c4633ca5ff61fe4e697c4d49",
+        "status": 3,
+        "tips": "#Angelababy精灵羽翼妆#的相关内容，来智搜看看",
+        "url": "http://t.cn/AXAoc1Mc",
+        "display_name": "#Angelababy精灵羽翼妆#",
+        "comment_content": "",
+        "page_id": "23296438a80ca742ad9c527a170530d2ff43ae"
+      },
+      "version": "2025-11-02 19:23:05.020999-3686",
+      "link_list": [
+        "sinaweibo://detail?mblogid=5228543756735579",
+        "sinaweibo://detail?mblogid=5228612745953511",
+        "sinaweibo://detail?mblogid=4815859372001193",
+        "sinaweibo://detail?mblogid=4917698784134468",
+        "sinaweibo://detail?mblogid=4815848798425338",
+        "sinaweibo://detail?mblogid=5185849454496839",
+        "sinaweibo://detail?mblogid=5185840632304047",
+        "sinaweibo://detail?mblogid=4837219053866020",
+        "sinaweibo://detail?mblogid=4815892742149211",
+        "sinaweibo://detail?mblogid=4792174472336567",
+        "sinaweibo://detail?mblogid=5214874175020676",
+        "sinaweibo://detail?mblogid=4755660560666149",
+        "sinaweibo://detail?mblogid=5185853076803951",
+        "sinaweibo://detail?mblogid=4917703364316110",
+        "broadsocial_res://",
+        "historyweibo://5222765842138880",
+        "historyweibo://5220697429512702",
+        "historyweibo://5220327396741489",
+        "sinaweibo://detail?mblogid=5228599986623589",
+        "sinaweibo://detail?mblogid=5228597431240678",
+        "sinaweibo://detail?mblogid=5228601752683232",
+        "sinaweibo://detail?mblogid=5228615667289635",
+        "sinaweibo://detail?mblogid=5228610025950697",
+        "sinaweibo://detail?mblogid=5228602105005081",
+        "sinaweibo://detail?mblogid=5228600116906364",
+        "sinaweibo://detail?mblogid=5228569808603492",
+        "sinaweibo://detail?mblogid=5228610252181633",
+        "sinaweibo://detail?mblogid=5228609461814392",
+        "sinaweibo://detail?mblogid=5228600884465800",
+        "sinaweibo://detail?mblogid=5228601197987923",
+        "sinaweibo://detail?mblogid=5191672176053957",
+        "sinaweibo://detail?mblogid=4815845165105206",
+        "sinaweibo://detail?mblogid=4938988919718216",
+        "sinaweibo://detail?mblogid=4883290983532922",
+        "sinaweibo://detail?mblogid=4815849494416447",
+        "sinaweibo://detail?mblogid=5185881828757384",
+        "sinaweibo://detail?mblogid=4883228635173377",
+        "sinaweibo://detail?mblogid=4856105693614986",
+        "sinaweibo://detail?mblogid=5185864481116121",
+        "sinaweibo://detail?mblogid=4857003883627459",
+        "sinaweibo://detail?mblogid=5186042758170351",
+        "sinaweibo://detail?mblogid=5101343377198007",
+        "sinaweibo://detail?mblogid=5141878384886675",
+        "sinaweibo://detail?mblogid=5052691937755615",
+        "sinaweibo://detail?mblogid=5055667822657728",
+        "sinaweibo://detail?mblogid=5186911384637051",
+        "sinaweibo://detail?mblogid=5151723288005317",
+        "sinaweibo://detail?mblogid=4907237882990844",
+        "sinaweibo://detail?mblogid=4742694276177461"
+      ],
+      "q_attr": {
+        "comment_from_type": "",
+        "mid": "",
+        "from_uid": "",
+        "from_request_id": "",
+        "reply_cid": ""
+      },
+      "scheme": "sinaweibo://cardlist?containerid=100103type%3D225%26q%3D%23angelababy%E7%B2%BE%E7%81%B5%E7%BE%BD%E7%BF%BC%E5%A6%86%23%26t%3D&extparam=ai_model%3Ddeepseek%26ori_ai_title%3D%E5%8F%82%E8%80%83%E5%8D%9A%E6%96%87%26material_version%3D1762082585",
+      "status": 2,
+      "model": "deepseek",
+      "query": "#Angelababy精灵羽翼妆#",
+      "zs_risk_control": {
+        "land_button_close": 0,
+        "think_text_close": 0
+      },
+      "show_ctrl": {
+        "quote": {}
+      },
+      "short_url": "http://t.cn/AXASdhC4",
+      "query_field": "1",
+      "page_id": "23296438a80ca742ad9c527a170530d2ff43ae",
+      "reliable_tips": "{\"gold_orange_v_mids\": [\"5228543756735579\", \"5228612745953511\", \"4917698784134468\", \"5185853076803951\", \"5185881828757384\", \"5228600116906364\", \"5228599986623589\", \"5228601752683232\", \"5228610025950697\", \"5228602105005081\", \"5191672176053957\", \"5185849454496839\", \"5185840632304047\", \"5214874175020676\", \"5228569808603492\", \"4938988919718216\", \"4815849494416447\", \"5186042758170351\", \"5141878384886675\", \"5055667822657728\", \"5186911384637051\", \"5151723288005317\", \"4742694276177461\"], \"gold_orange_v_ratio\": \"51%\", \"media_mids\": [], \"media_ratio\": \"0%\", \"verified_mids\": [\"4755660560666149\", \"4815859372001193\", \"4815845165105206\", \"4883290983532922\", \"4815848798425338\", \"4837219053866020\", \"4815892742149211\", \"4917703364316110\", \"5228615667289635\", \"5228601197987923\", \"4883228635173377\", \"5185864481116121\", \"5101343377198007\", \"5052691937755615\", \"4907237882990844\"], \"verified_ratio\": \"33%\", \"normal_mids\": [\"5228597431240678\", \"5228610252181633\", \"4792174472336567\", \"5228609461814392\", \"5228600884465800\", \"4856105693614986\", \"4857003883627459\"], \"normal_ratio\": \"16%\", \"ref_mid_rank\": {\"5228543756735579\": {\"rank\": 1}, \"5228612745953511\": {\"rank\": 2}, \"4917698784134468\": {\"rank\": 4}, \"5185853076803951\": {\"rank\": 13}, \"5185881828757384\": {\"rank\": 36}, \"4755660560666149\": {\"rank\": 12}, \"5228600116906364\": {\"rank\": 25}, \"5228599986623589\": {\"rank\": 19}, \"5228601752683232\": {\"rank\": 21}, \"5228610025950697\": {\"rank\": 23}, \"5228597431240678\": {\"rank\": 20}, \"5228610252181633\": {\"rank\": 27}, \"5228602105005081\": {\"rank\": 24}, \"4815859372001193\": {\"rank\": 3}, \"4815845165105206\": {\"rank\": 32}, \"4883290983532922\": {\"rank\": 34}, \"5191672176053957\": {\"rank\": 31}, \"4815848798425338\": {\"rank\": 5}, \"5185849454496839\": {\"rank\": 6}, \"5185840632304047\": {\"rank\": 7}, \"4837219053866020\": {\"rank\": 8}, \"4815892742149211\": {\"rank\": 9}, \"4792174472336567\": {\"rank\": 10}, \"5214874175020676\": {\"rank\": 11}, \"4917703364316110\": {\"rank\": 14}, \"5228615667289635\": {\"rank\": 22}, \"5228569808603492\": {\"rank\": 26}, \"5228609461814392\": {\"rank\": 28}, \"5228600884465800\": {\"rank\": 29}, \"5228601197987923\": {\"rank\": 30}, \"4938988919718216\": {\"rank\": 33}, \"4815849494416447\": {\"rank\": 35}, \"4883228635173377\": {\"rank\": 37}, \"4856105693614986\": {\"rank\": 38}, \"5185864481116121\": {\"rank\": 39}, \"4857003883627459\": {\"rank\": 40}, \"5186042758170351\": {\"rank\": 41}, \"5101343377198007\": {\"rank\": 42}, \"5141878384886675\": {\"rank\": 43}, \"5052691937755615\": {\"rank\": 44}, \"5055667822657728\": {\"rank\": 45}, \"5186911384637051\": {\"rank\": 46}, \"5151723288005317\": {\"rank\": 47}, \"4907237882990844\": {\"rank\": 48}, \"4742694276177461\": {\"rank\": 49}}}",
+      "mid_list": null,
+      "reference_num": 45,
+      "status_stage": 4,
+      "comment_info": {},
+      "profile_image_url": "",
+      "top_quote_list": {}
+    }
+  },
+  "links": [
+    "sinaweibo://detail?mblogid=5228543756735579",
+    "sinaweibo://detail?mblogid=5228612745953511",
+    "sinaweibo://detail?mblogid=4815859372001193",
+    "sinaweibo://detail?mblogid=4917698784134468",
+    "sinaweibo://detail?mblogid=4815848798425338",
+    "sinaweibo://detail?mblogid=5185849454496839",
+    "sinaweibo://detail?mblogid=5185840632304047",
+    "sinaweibo://detail?mblogid=4837219053866020",
+    "sinaweibo://detail?mblogid=4815892742149211",
+    "sinaweibo://detail?mblogid=4792174472336567",
+    "sinaweibo://detail?mblogid=5214874175020676",
+    "sinaweibo://detail?mblogid=4755660560666149",
+    "sinaweibo://detail?mblogid=5185853076803951",
+    "sinaweibo://detail?mblogid=4917703364316110",
+    "broadsocial_res://",
+    "historyweibo://5222765842138880",
+    "historyweibo://5220697429512702",
+    "historyweibo://5220327396741489",
+    "sinaweibo://detail?mblogid=5228599986623589",
+    "sinaweibo://detail?mblogid=5228597431240678",
+    "sinaweibo://detail?mblogid=5228601752683232",
+    "sinaweibo://detail?mblogid=5228615667289635",
+    "sinaweibo://detail?mblogid=5228610025950697",
+    "sinaweibo://detail?mblogid=5228602105005081",
+    "sinaweibo://detail?mblogid=5228600116906364",
+    "sinaweibo://detail?mblogid=5228569808603492",
+    "sinaweibo://detail?mblogid=5228610252181633",
+    "sinaweibo://detail?mblogid=5228609461814392",
+    "sinaweibo://detail?mblogid=5228600884465800",
+    "sinaweibo://detail?mblogid=5228601197987923",
+    "sinaweibo://detail?mblogid=5191672176053957",
+    "sinaweibo://detail?mblogid=4815845165105206",
+    "sinaweibo://detail?mblogid=4938988919718216",
+    "sinaweibo://detail?mblogid=4883290983532922",
+    "sinaweibo://detail?mblogid=4815849494416447",
+    "sinaweibo://detail?mblogid=5185881828757384",
+    "sinaweibo://detail?mblogid=4883228635173377",
+    "sinaweibo://detail?mblogid=4856105693614986",
+    "sinaweibo://detail?mblogid=5185864481116121",
+    "sinaweibo://detail?mblogid=4857003883627459",
+    "sinaweibo://detail?mblogid=5186042758170351",
+    "sinaweibo://detail?mblogid=5101343377198007",
+    "sinaweibo://detail?mblogid=5141878384886675",
+    "sinaweibo://detail?mblogid=5052691937755615",
+    "sinaweibo://detail?mblogid=5055667822657728",
+    "sinaweibo://detail?mblogid=5186911384637051",
+    "sinaweibo://detail?mblogid=5151723288005317",
+    "sinaweibo://detail?mblogid=4907237882990844",
+    "sinaweibo://detail?mblogid=4742694276177461"
+  ],
+  "media": [
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/4cf831b7ly1hfe6j6fv1kj20u01hc7hb.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/4cf831b7ly1hfe6j6fv1kj20u01hc7hb.jpg",
+      "alt": "春楠",
+      "width": 1920,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/4cf831b7ly1hfe6j6fv1kj20u01hc7hb.jpg"
+      ],
+      "user": "春楠"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/006ZMPsmgy1i35r7plx35j31400qowjr.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/006ZMPsmgy1i35r7plx35j31400qowjr.jpg",
+      "alt": "熹妃娘娘有喜了",
+      "width": 960,
+      "height": 1440,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/006ZMPsmgy1i35r7plx35j31400qowjr.jpg"
+      ],
+      "user": "熹妃娘娘有喜了"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/005ZVeFYly1i35o2l196qj30k00zk758.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/005ZVeFYly1i35o2l196qj30k00zk758.jpg",
+      "alt": "Stars_HauteCouture",
+      "width": 1280,
+      "height": 720,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/005ZVeFYly1i35o2l196qj30k00zk758.jpg"
+      ],
+      "user": "Stars_HauteCouture"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/007CPSklgy1i6y1ilcu19j30u00zogqr.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/007CPSklgy1i6y1ilcu19j30u00zogqr.jpg",
+      "alt": "看完大球看小球",
+      "width": 1284,
+      "height": 1080,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/007CPSklgy1i6y1ilcu19j30u00zogqr.jpg"
+      ],
+      "user": "看完大球看小球"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/007mCtcWly1i6y1oy32wrj30wi0kbk0r.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/007mCtcWly1i6y1oy32wrj30wi0kbk0r.jpg",
+      "alt": "木木不想更新",
+      "width": 731,
+      "height": 1170,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/007mCtcWly1i6y1oy32wrj30wi0kbk0r.jpg"
+      ],
+      "user": "木木不想更新"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/007e5Xj1gy1h1192r17rnj30u01410y1.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/007e5Xj1gy1h1192r17rnj30u01410y1.jpg",
+      "alt": "七叶酱-",
+      "width": 1441,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/007e5Xj1gy1h1192r17rnj30u01410y1.jpg"
+      ],
+      "user": "七叶酱-"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/9c8a3b69gy1h6dav42xlpj24mo336e83.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/9c8a3b69gy1h6dav42xlpj24mo336e83.jpg",
+      "alt": "杨颖工作室",
+      "width": 4002,
+      "height": 6000,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/9c8a3b69gy1h6dav42xlpj24mo336e83.jpg"
+      ],
+      "user": "杨颖工作室"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/005NXfqGly1h6d9a08aoej30u0141411.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/005NXfqGly1h6d9a08aoej30u0141411.jpg",
+      "alt": "星酱娱乐",
+      "width": 1441,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/005NXfqGly1h6d9a08aoej30u0141411.jpg"
+      ],
+      "user": "星酱娱乐"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/006yr80Lly1h7iot8i7jhj30u01hc0xb.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/006yr80Lly1h7iot8i7jhj30u01hc0xb.jpg",
+      "alt": "爱鼻小杰",
+      "width": 1920,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/006yr80Lly1h7iot8i7jhj30u01hc0xb.jpg"
+      ],
+      "user": "爱鼻小杰"
+    }
+  ],
+  "html_path": "data/aicard/hourly/2025-11-02/19/angelababy.html"
+}

@@ -1,0 +1,422 @@
+{
+  "meta": {
+    "query": "#练背真的可以瘦脸#",
+    "status_code": 200,
+    "fetched_at": "2025-11-03T09:51:30+08:00",
+    "response": {
+      "current_time": 1762134691,
+      "profile_image_url": "",
+      "user_info": {},
+      "query_category": "",
+      "msg_json": "{}",
+      "abtest_info": {
+        "chat_entrance": 1
+      },
+      "ab_suffix": "default",
+      "unify_md5": "6bcdd894474a82b8938c0aba9871f97b",
+      "version": "2025-11-03 09:47:01.028000-7494",
+      "scheme": "sinaweibo://cardlist?containerid=100103type%3D225%26q%3D%23%E7%BB%83%E8%83%8C%E7%9C%9F%E7%9A%84%E5%8F%AF%E4%BB%A5%E7%98%A6%E8%84%B8%23%26t%3D&extparam=ai_model%3Ddeepseek%26ori_ai_title%3D%E5%8F%82%E8%80%83%E5%8D%9A%E6%96%87%26material_version%3D1762134421",
+      "zs_risk_control": {
+        "think_text_close": 0,
+        "land_button_close": 0
+      },
+      "analysis_time": 1762134654,
+      "sorted_material_list": null,
+      "uid": "",
+      "wenda": {
+        "forward_gen": 0
+      },
+      "basemodel": "实验组6",
+      "card_multimodal": {
+        "type": "mediablock",
+        "data": [
+          {
+            "user_avatar": "https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/005P4ZOKly8h994jz3vlzj30u00u0aa3.jpg?KID=imgbed,tva&Expires=1762145221&ssig=szEsjbYG2k",
+            "video_url": "",
+            "hit_score_new": 99.023438,
+            "doc_score": 4921,
+            "w": 1621,
+            "h": 1080,
+            "click_rate": 0.20666666666667,
+            "type": "p",
+            "scheme": "sinaweibo://multimedia?mix_mid=5228223555700957&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=0",
+            "hit_score_final": 86.214066,
+            "img": "http://wx1.sinaimg.cn/middle/005P4ZOKgy1i6wu9z3tb9j31910u0q91.jpg",
+            "vtype": 0,
+            "cur_mid": "5228223555700957",
+            "user_name": "一颗小叶-",
+            "img_pid": "005P4ZOKgy1i6wu9z3tb9j31910u0q91"
+          },
+          {
+            "user_avatar": "https://tva4.sinaimg.cn/crop.0.0.640.640.50/559368bdjw8eh3hz2z2d6j20hs0hswgh.jpg?KID=imgbed,tva&Expires=1762145221&ssig=g2q8TtgibL",
+            "video_url": "",
+            "hit_score_new": 83.935547,
+            "doc_score": 5743,
+            "w": 854,
+            "h": 1310,
+            "click_rate": 0.11764705882353,
+            "type": "p",
+            "scheme": "sinaweibo://multimedia?mix_mid=5177707801346533&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=1&multi_count=1",
+            "hit_score_final": 75.961334,
+            "img": "http://wx1.sinaimg.cn/middle/559368bdly1i2foodnlfdg20nq10e1kx.gif",
+            "vtype": 0,
+            "cur_mid": "5177707801346533",
+            "user_name": "医疗圈那点事",
+            "img_pid": "559368bdly1i2foodnlfdg20nq10e1kx"
+          },
+          {
+            "user_avatar": "https://tvax1.sinaimg.cn/crop.0.0.995.995.50/b73c4911ly8h8vgjleo3ej20rn0rndho.jpg?KID=imgbed,tva&Expires=1762145221&ssig=qpiX3DKNIA",
+            "video_url": "",
+            "hit_score_new": 90.771484,
+            "doc_score": 5718,
+            "w": 690,
+            "h": 919,
+            "click_rate": 0.06,
+            "type": "p",
+            "scheme": "sinaweibo://multimedia?mix_mid=4998161406362899&from=search&content_show=1&mix_index=3&hide_index=1&multi_paragraph=1&multi_count=2",
+            "hit_score_final": 82.862892,
+            "img": "http://wx2.sinaimg.cn/middle/b73c4911ly1hmiw0psqd3j20j60pj0xz.jpg",
+            "vtype": 1,
+            "cur_mid": "4998161406362899",
+            "user_name": "津彩青春",
+            "img_pid": "b73c4911ly1hmiw0psqd3j20j60pj0xz"
+          },
+          {
+            "user_avatar": "https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/005P4ZOKly8h994jz3vlzj30u00u0aa3.jpg?KID=imgbed,tva&Expires=1762145221&ssig=szEsjbYG2k",
+            "video_url": "",
+            "hit_score_new": 99.023438,
+            "doc_score": 4921,
+            "w": 1621,
+            "h": 1080,
+            "click_rate": 0.20666666666667,
+            "type": "p",
+            "scheme": "sinaweibo://multimedia?mix_mid=5228223555700957&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=0",
+            "hit_score_final": 86.214066,
+            "img": "http://wx1.sinaimg.cn/middle/005P4ZOKgy1i6wu9z3tb9j31910u0q91.jpg",
+            "vtype": 0,
+            "cur_mid": "5228223555700957",
+            "user_name": "一颗小叶-",
+            "img_pid": "005P4ZOKgy1i6wu9z3tb9j31910u0q91"
+          }
+        ]
+      },
+      "qs_status_info": "{\"qs_c_status\":8388608,\"qs_q_status\":0,\"ab_lab\":{},\"qs_r_status\":0,\"qs_u_status\":0,\"qs_status\":0}",
+      "mid_list": null,
+      "reference_num": 56,
+      "msg_format": "markdown",
+      "link_list": [
+        "sinaweibo://detail?mblogid=5228570087788395",
+        "sinaweibo://detail?mblogid=5226861429785650",
+        "sinaweibo://detail?mblogid=5010726441454046",
+        "sinaweibo://detail?mblogid=5207472710879110",
+        "sinaweibo://detail?mblogid=5176676008070369",
+        "sinaweibo://detail?mblogid=5089426776785234",
+        "sinaweibo://detail?mblogid=5039325135504461",
+        "sinaweibo://detail?mblogid=5038643355849004",
+        "sinaweibo://detail?mblogid=5046998552019470",
+        "sinaweibo://detail?mblogid=5177706832462626",
+        "sinaweibo://detail?mblogid=5206016251922850",
+        "sinaweibo://detail?mblogid=5197330638964407",
+        "sinaweibo://detail?mblogid=5027725942722957",
+        "sinaweibo://detail?mblogid=5094514392039564",
+        "sinaweibo://detail?mblogid=5178195171345510",
+        "sinaweibo://detail?mblogid=5159731920898793",
+        "sinaweibo://detail?mblogid=5177707801346533",
+        "sinaweibo://detail?mblogid=5133313622674807",
+        "sinaweibo://detail?mblogid=5003628110943606",
+        "sinaweibo://detail?mblogid=4990024458440818",
+        "sinaweibo://detail?mblogid=4996253974530608",
+        "sinaweibo://detail?mblogid=4988885394261872",
+        "sinaweibo://detail?mblogid=5226862130498516",
+        "sinaweibo://detail?mblogid=5223886507740379",
+        "sinaweibo://detail?mblogid=4978806094562493",
+        "sinaweibo://detail?mblogid=5226868972193556",
+        "sinaweibo://detail?mblogid=5219967446286812",
+        "sinaweibo://detail?mblogid=5219988514540217",
+        "sinaweibo://detail?mblogid=4974091356866193",
+        "sinaweibo://detail?mblogid=4960412660925355",
+        "sinaweibo://detail?mblogid=5213937893115078",
+        "sinaweibo://detail?mblogid=5014179218457418",
+        "sinaweibo://detail?mblogid=5014131041635888",
+        "sinaweibo://detail?mblogid=5132570418743610",
+        "sinaweibo://detail?mblogid=4996236703438661",
+        "broadsocial_res://",
+        "historyweibo://5228570087788395",
+        "historyweibo://5157537336263986",
+        "historyweibo://5089528471358727",
+        "sinaweibo://detail?mblogid=5228683312762422",
+        "sinaweibo://detail?mblogid=5228674875134187",
+        "sinaweibo://detail?mblogid=5228640078925596",
+        "sinaweibo://detail?mblogid=5228678202261518",
+        "sinaweibo://detail?mblogid=5228784362980515",
+        "sinaweibo://detail?mblogid=5228677563680790",
+        "sinaweibo://detail?mblogid=5228223555700957",
+        "sinaweibo://detail?mblogid=5228540343880985",
+        "sinaweibo://detail?mblogid=5228832593282351",
+        "sinaweibo://detail?mblogid=5228823627171146",
+        "sinaweibo://detail?mblogid=5228830307648574",
+        "sinaweibo://detail?mblogid=5228829092347918",
+        "sinaweibo://detail?mblogid=5228828113766849",
+        "sinaweibo://detail?mblogid=5228827609663868",
+        "sinaweibo://detail?mblogid=5228826931236519",
+        "sinaweibo://detail?mblogid=5228825606621495",
+        "sinaweibo://detail?mblogid=5115791353577512",
+        "sinaweibo://detail?mblogid=5070127958328151",
+        "sinaweibo://detail?mblogid=4998161406362899",
+        "sinaweibo://detail?mblogid=5226828391258904",
+        "sinaweibo://detail?mblogid=5219969744766142"
+      ],
+      "qs_status": 0,
+      "top_quote_list": {},
+      "query": "#练背真的可以瘦脸#",
+      "show_ctrl": {
+        "quote": {}
+      },
+      "query_field": "51",
+      "chat_status_stage": 1,
+      "news_analyze": {},
+      "cot": 1,
+      "status_stage": 4,
+      "q_attr": {
+        "mid": "",
+        "reply_cid": "",
+        "comment_from_type": "",
+        "from_request_id": "",
+        "from_uid": ""
+      },
+      "reliable_tips": "{\"gold_orange_v_mids\": [\"5177707801346533\", \"5223886507740379\", \"5228223555700957\", \"5115791353577512\", \"5219988514540217\", \"5228678202261518\", \"5133313622674807\", \"4990024458440818\", \"4960412660925355\", \"4996236703438661\", \"5206016251922850\", \"5228570087788395\", \"5226861429785650\", \"5010726441454046\", \"5176676008070369\", \"5046998552019470\", \"5177706832462626\", \"5197330638964407\", \"5027725942722957\", \"5094514392039564\", \"5178195171345510\", \"4996253974530608\", \"4988885394261872\", \"5226862130498516\", \"4978806094562493\", \"5226868972193556\", \"5219967446286812\", \"4974091356866193\", \"5213937893115078\", \"5228683312762422\", \"5228674875134187\", \"5228784362980515\", \"5228823627171146\", \"5228829092347918\", \"5228828113766849\", \"5228826931236519\", \"5228825606621495\", \"5070127958328151\", \"5226828391258904\", \"5219969744766142\"], \"gold_orange_v_ratio\": \"71%\", \"media_mids\": [\"5207472710879110\"], \"media_ratio\": \"2%\", \"verified_mids\": [\"4998161406362899\", \"5089426776785234\", \"5039325135504461\", \"5159731920898793\", \"5132570418743610\", \"5038643355849004\", \"5003628110943606\", \"5014179218457418\", \"5014131041635888\", \"5228640078925596\", \"5228832593282351\", \"5228830307648574\", \"5228827609663868\"], \"verified_ratio\": \"23%\", \"normal_mids\": [\"5228677563680790\", \"5228540343880985\"], \"normal_ratio\": \"4%\", \"ref_mid_rank\": {\"5207472710879110\": {\"rank\": 4}, \"5177707801346533\": {\"rank\": 17}, \"4998161406362899\": {\"rank\": 58}, \"5089426776785234\": {\"rank\": 6}, \"5223886507740379\": {\"rank\": 24}, \"5228223555700957\": {\"rank\": 46}, \"5115791353577512\": {\"rank\": 56}, \"5039325135504461\": {\"rank\": 7}, \"5219988514540217\": {\"rank\": 28}, \"5228678202261518\": {\"rank\": 43}, \"5133313622674807\": {\"rank\": 18}, \"4990024458440818\": {\"rank\": 20}, \"4960412660925355\": {\"rank\": 30}, \"4996236703438661\": {\"rank\": 35}, \"5206016251922850\": {\"rank\": 11}, \"5159731920898793\": {\"rank\": 16}, \"5132570418743610\": {\"rank\": 34}, \"5228570087788395\": {\"rank\": 1}, \"5226861429785650\": {\"rank\": 2}, \"5010726441454046\": {\"rank\": 3}, \"5176676008070369\": {\"rank\": 5}, \"5038643355849004\": {\"rank\": 8}, \"5046998552019470\": {\"rank\": 9}, \"5177706832462626\": {\"rank\": 10}, \"5197330638964407\": {\"rank\": 12}, \"5027725942722957\": {\"rank\": 13}, \"5094514392039564\": {\"rank\": 14}, \"5178195171345510\": {\"rank\": 15}, \"5003628110943606\": {\"rank\": 19}, \"4996253974530608\": {\"rank\": 21}, \"4988885394261872\": {\"rank\": 22}, \"5226862130498516\": {\"rank\": 23}, \"4978806094562493\": {\"rank\": 25}, \"5226868972193556\": {\"rank\": 26}, \"5219967446286812\": {\"rank\": 27}, \"4974091356866193\": {\"rank\": 29}, \"5213937893115078\": {\"rank\": 31}, \"5014179218457418\": {\"rank\": 32}, \"5014131041635888\": {\"rank\": 33}, \"5228683312762422\": {\"rank\": 40}, \"5228674875134187\": {\"rank\": 41}, \"5228640078925596\": {\"rank\": 42}, \"5228784362980515\": {\"rank\": 44}, \"5228677563680790\": {\"rank\": 45}, \"5228540343880985\": {\"rank\": 47}, \"5228832593282351\": {\"rank\": 48}, \"5228823627171146\": {\"rank\": 49}, \"5228830307648574\": {\"rank\": 50}, \"5228829092347918\": {\"rank\": 51}, \"5228828113766849\": {\"rank\": 52}, \"5228827609663868\": {\"rank\": 53}, \"5228826931236519\": {\"rank\": 54}, \"5228825606621495\": {\"rank\": 55}, \"5070127958328151\": {\"rank\": 57}, \"5226828391258904\": {\"rank\": 59}, \"5219969744766142\": {\"rank\": 60}}, \"reliable_summary\": \"该说法可靠程度较低。解剖学表明面部与背部肌肉无直接连接，无法直接瘦脸；实际效果源于体态矫正或全身减脂导致的视觉改善，而非生理性瘦脸。\"}",
+      "share_text": "#练背真的可以瘦脸#的相关内容，来智搜看看",
+      "short_url": "http://t.cn/AXAKcALn",
+      "msg": "<think><br>嗯，用户查询\"练背真的可以瘦脸\"引起了我的兴趣。这看起来是个关于健身和美容结合的有趣话题，我需要仔细梳理搜索结果中的专业观点和争议点。<br><br>首先注意到搜索结果里存在明显对立的两派观点。大部分健身博主如耳朵儿朵儿、小野由里奈等通过亲身经历宣称练背确实能瘦脸紧致下颌线；而医疗科普账号如\"做疝气手术的曾博士\"则从解剖学角度质疑这种说法的科学性。这种分歧值得深入分析。<br><br>翻看专业资料部分，发现关键争议点在于肌肉筋膜链理论。原来人体后表链筋膜仅连接背部和额头，根本无法直接影响下颌区域。那些\"练背提拉脸部\"的描述可能混淆了因果关系——真正起作用的其实是体态矫正：驼背改善后颈阔肌松弛减轻，下颌线自然显得清晰。<br><br>关于见效机制，多份资料指出三点核心：一是圆肩驼背矫正后颈部皮肤不再下拉，双下巴视觉改善；二是背部训练促进全身代谢，间接减少面部浮肿；三是体态挺拔产生的\"视觉显小\"效应。但必须澄清，这并非直接燃烧面部脂肪。<br><br>有趣的是，很多用户反馈提到\"脸变小\"时往往同时在进行全身减脂。曾博士的质疑视频正好佐证这点——他展示的案例证明体脂下降才是主因。这也解释了为何单纯练背却体脂偏高者效果有限。<br><br>在动作建议方面，靠墙天使、俯身划船等被反复推荐，但都强调\"沉肩\"要领。否则错误发力会导致斜方肌代偿肥大，反而显脸宽。这点在舞蹈生教学视频中也有生动演示。<br><br>对于不同需求的人群，方案应有侧重：体脂高者需搭配有氧减脂；已有皮肤松弛者可能需要医美干预；办公室人群适合门框拉伸这类碎片化训练。不过\"6分钟奇迹\"类宣传可能夸大，真实效果通常需持续1-3个月。<br><br>最后看到消防官方账号也在推广练背时，意识到话题热度很高。但医疗账号的解剖图清晰显示颈阔肌与背部并无直接连接，那些\"筋膜提拉\"的说法缺乏依据。更推荐综合方案：体态矫正+减脂+适度面部护理可能才是最优解。<br><br>要不要在回复时设计个对比表格呢？把支持派和反对派的核心论据并置，再加个\"科学真相\"栏揭示原理。动作推荐部分可以用分类方式呈现，针对不同场景给出适配方案。最后用显眼的提示框强调沉肩要点和预期见效时间，避免用户产生不切实际的期待。<br><br></think><br>关于“练背是否能瘦脸”的问题，综合医学原理、健身实践及用户反馈，以下是关键结论与科学解释：<br>### 🔍 **核心结论**  <br>1. **直接瘦脸不成立，但可间接改善轮廓**  <br>   - **解剖学依据**：面部与背部肌肉无直接连接，筋膜链（如后表链）对下颌线区域无提拉作用。  <br>   - **视觉改善机制**：练背通过矫正体态（如圆肩驼背、头前倾），缓解颈阔肌下拉张力，使下颌线更清晰，形成“脸显小”的视觉效果。```wbCustomBlock{\"type\": \"quoted\", \"index\": 5, \"data\": {\"num\": [4, 17], \"version\": 2, \"quote_list\": [{\"name\": \"生命时报\", \"scheme\": \"sinaweibo://detail?mblogid=5207472710879110\", \"index\": 4, \"label\": \"大v\"}, {\"name\": \"医疗圈那点事\", \"scheme\": \"sinaweibo://detail?mblogid=5177707801346533\", \"index\": 17, \"label\": \"\"}], \"name\": \"生命时报\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.512.512.50/001W3LkXly8h8w4pp4azmj60e80e8q3b02.jpg?KID=imgbed,tva&Expires=1762145221&ssig=hQddf5oO58\", \"scheme\": \"sinaweibo://detail?mblogid=5207472710879110\", \"vType\": 3}}```<br><br>2. **核心作用：体态矫正与代谢提升**  <br>   - **体态调整**：强化背部肌肉（如菱形肌、斜方肌下束）可打开胸廓，回缩肩胛骨，减少颈部皮肤下垂，改善双下巴和法令纹。```wbCustomBlock{\"type\": \"quoted\", \"index\": 7, \"data\": {\"num\": [17, 58], \"version\": 2, \"quote_list\": [{\"name\": \"津彩青春\", \"scheme\": \"sinaweibo://detail?mblogid=4998161406362899\", \"index\": 58, \"label\": \"大v\"}, {\"name\": \"医疗圈那点事\", \"scheme\": \"sinaweibo://detail?mblogid=5177707801346533\", \"index\": 17, \"label\": \"\"}], \"name\": \"津彩青春\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.995.995.50/b73c4911ly8h8vgjleo3ej20rn0rndho.jpg?KID=imgbed,tva&Expires=1762145221&ssig=qpiX3DKNIA\", \"scheme\": \"sinaweibo://detail?mblogid=4998161406362899\", \"vType\": 1}}```  <br>   - **循环与代谢**：背部训练促进全身血液循环，减少面部水肿，提升皮肤紧致度（需结合减脂）。```wbCustomBlock{\"type\": \"quoted\", \"index\": 8, \"data\": {\"num\": [6], \"version\": 2, \"quote_list\": [{\"name\": \"小野由里奈\", \"scheme\": \"sinaweibo://detail?mblogid=5089426776785234\", \"index\": 6, \"label\": \"大v\"}], \"name\": \"小野由里奈\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.828.828.50/006lYv80ly8h0c3vek2dpj30n00n0q49.jpg?KID=imgbed,tva&Expires=1762145221&ssig=5%2FauJMVqZW\", \"scheme\": \"sinaweibo://detail?mblogid=5089426776785234\", \"vType\": 0}}```<br><br>3. **用户反馈的真相**  <br>   - 多数“脸变小”案例源于体脂下降（如结合有氧运动）或体态优化后的轮廓重塑，并非直接减脂。```wbCustomBlock{\"type\": \"quoted\", \"index\": 10, \"data\": {\"num\": [24], \"version\": 2, \"quote_list\": [{\"name\": \"做疝气手术的曾博士\", \"scheme\": \"sinaweibo://detail?mblogid=5223886507740379\", \"index\": 24, \"label\": \"大v\"}], \"name\": \"做疝气手术的曾博士\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/45cbbe77ly8h23i7ws7foj20u00u0myg.jpg?KID=imgbed,tva&Expires=1762145221&ssig=0mkYqAlJW6\", \"scheme\": \"sinaweibo://detail?mblogid=5223886507740379\", \"vType\": 0}}```  <br>   - 长期驼背者改善体态后，下颌线清晰度显著提升，被误认为“瘦脸”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 11, \"data\": {\"num\": [46, 56], \"version\": 2, \"quote_list\": [{\"name\": \"小九Cindy_\", \"scheme\": \"sinaweibo://detail?mblogid=5115791353577512\", \"index\": 56, \"label\": \"大v\"}, {\"name\": \"一颗小叶-\", \"scheme\": \"sinaweibo://detail?mblogid=5228223555700957\", \"index\": 46, \"label\": \"\"}], \"name\": \"小九Cindy_\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/0068p2t9ly8hvw5jezasvj30u00u0jxg.jpg?KID=imgbed,tva&Expires=1762145221&ssig=f63w0hD61N\", \"scheme\": \"sinaweibo://detail?mblogid=5115791353577512\", \"vType\": 0}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5228223555700957&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/005P4ZOKly8h994jz3vlzj30u00u0aa3.jpg?KID=imgbed,tva&Expires=1762145221&ssig=szEsjbYG2k) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">一颗小叶-</span><img src=\"http://wx1.sinaimg.cn/middle/005P4ZOKgy1i6wu9z3tb9j31910u0q91.jpg\" data-width=1080 data-height=1621></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5177707801346533&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=1&multi_count=1\"><span class=\"vator\" style=\"display: none;background: url(https://tva4.sinaimg.cn/crop.0.0.640.640.50/559368bdjw8eh3hz2z2d6j20hs0hswgh.jpg?KID=imgbed,tva&Expires=1762145221&ssig=g2q8TtgibL) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">医疗圈那点事</span><img src=\"http://wx1.sinaimg.cn/middle/559368bdly1i2foodnlfdg20nq10e1kx.gif\" data-width=1310 data-height=854></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=4998161406362899&from=search&content_show=1&mix_index=3&hide_index=1&multi_paragraph=1&multi_count=2\"><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.995.995.50/b73c4911ly8h8vgjleo3ej20rn0rndho.jpg?KID=imgbed,tva&Expires=1762145221&ssig=qpiX3DKNIA) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">津彩青春</span><img src=\"http://wx2.sinaimg.cn/middle/b73c4911ly1hmiw0psqd3j20j60pj0xz.jpg\" data-width=919 data-height=690></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5089426776785234&multi_paragraph=1&multi_count=3\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.828.828.50/006lYv80ly8h0c3vek2dpj30n00n0q49.jpg?KID=imgbed,tva&Expires=1762145221&ssig=5%2FauJMVqZW) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">小野由里奈</span><img src=\"http://wx2.sinaimg.cn/middle/006lYv80gy1hum1pbjurqj30zk0k0wja.jpg\" data-width=720 data-height=1280></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5223886507740379&multi_paragraph=1&multi_count=4\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/45cbbe77ly8h23i7ws7foj20u00u0myg.jpg?KID=imgbed,tva&Expires=1762145221&ssig=0mkYqAlJW6) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">做疝气手术的曾博士</span><img src=\"http://wx4.sinaimg.cn/middle/45cbbe77ly1i6iuq6xyfgj20u01hcgo0.jpg\" data-width=1920 data-height=1080></div></media-block><br>### ⚠️ **争议与误区**  <br>1. **筋膜链理论的局限性**  <br>   - 后表链筋膜仅影响额头区域，无法提拉下面部皮肤，网传“背部筋膜拉紧脸部”无解剖依据。  <br><br>2. **肌肉代偿风险**  <br>   - 错误练背（如耸肩发力）会导致斜方肌肥大，反而显脸宽。需确保“沉肩”（肩胛骨下沉后缩）。```wbCustomBlock{\"type\": \"quoted\", \"index\": 17, \"data\": {\"num\": [7, 28, 43], \"version\": 2, \"quote_list\": [{\"name\": \"手捧星星的追夢人\", \"scheme\": \"sinaweibo://detail?mblogid=5228678202261518\", \"index\": 43, \"label\": \"大v\"}, {\"name\": \"绿茵-红魔\", \"scheme\": \"sinaweibo://detail?mblogid=5039325135504461\", \"index\": 7, \"label\": \"\"}, {\"name\": \"你担又有瓜\", \"scheme\": \"sinaweibo://detail?mblogid=5219988514540217\", \"index\": 28, \"label\": \"\"}], \"name\": \"手捧星星的追夢人\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/cf5cc4fely8i2x0eczgamj20u00u0ad3.jpg?KID=imgbed,tva&Expires=1762145221&ssig=gec%2FR2Io2F\", \"scheme\": \"sinaweibo://detail?mblogid=5228678202261518\", \"vType\": 0}}```  <br><br>3. **医美与运动的边界**  <br>   - 严重皮肤松弛需医美干预（如超声刀），练背仅预防性延缓垮脸。```wbCustomBlock{\"type\": \"quoted\", \"index\": 19, \"data\": {\"num\": [24], \"version\": 2, \"quote_list\": [{\"name\": \"做疝气手术的曾博士\", \"scheme\": \"sinaweibo://detail?mblogid=5223886507740379\", \"index\": 24, \"label\": \"\"}]}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5039325135504461&multi_paragraph=2&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.915.915.50/eca7879aly8i3w318rwd1j20pf0pf424.jpg?KID=imgbed,tva&Expires=1762145221&ssig=5AsMB6VjWu) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">绿茵-红魔</span><img src=\"http://wx1.sinaimg.cn/middle/eca7879agy1hq674phzcuj20mh0u0q5e.jpg\" data-width=1080 data-height=809></div></media-block><br>### 💪 **科学练背方案**<br>#### **动作推荐（针对体态改善）**  <br>| **动作**       | **要点**                                      | **效果**                  |  <br>|----------------|---------------------------------------------|-------------------------|  <br>| **靠墙天使**   | 背贴墙，手臂沿墙面滑动呈Y/W形，保持沉肩        | 打开胸廓，矫正圆肩 |  <br>| **俯身划船**   | 屈髋70°，哑铃上提至臀部，挤压肩胛骨            | 强化背阔肌、菱形肌 |  <br>| **门框拉伸**   | 腋下卡门框，上下滑动身体，感受背部拉伸          | 改善头前倾，拉伸胸肌 |  <br>| **俯卧YW伸展** | 趴卧抬手呈Y/W形，收紧肩胛骨                  | 激活中下斜方肌 |<br><br>```wbCustomBlock{\"type\": \"quoted\", \"index\": 22, \"data\": {\"num\": [4, 18, 20, 30, 35, 43, 58], \"version\": 2, \"quote_list\": [{\"name\": \"郑房有问有答\", \"scheme\": \"sinaweibo://detail?mblogid=5133313622674807\", \"index\": 18, \"label\": \"大v\"}, {\"name\": \"生命时报\", \"scheme\": \"sinaweibo://detail?mblogid=5207472710879110\", \"index\": 4, \"label\": \"\"}, {\"name\": \"小炯很快乐\", \"scheme\": \"sinaweibo://detail?mblogid=4990024458440818\", \"index\": 20, \"label\": \"\"}, {\"name\": \"娄倩moon\", \"scheme\": \"sinaweibo://detail?mblogid=4960412660925355\", \"index\": 30, \"label\": \"\"}, {\"name\": \"songery\", \"scheme\": \"sinaweibo://detail?mblogid=4996236703438661\", \"index\": 35, \"label\": \"\"}, {\"name\": \"手捧星星的追夢人\", \"scheme\": \"sinaweibo://detail?mblogid=5228678202261518\", \"index\": 43, \"label\": \"\"}, {\"name\": \"津彩青春\", \"scheme\": \"sinaweibo://detail?mblogid=4998161406362899\", \"index\": 58, \"label\": \"\"}], \"name\": \"郑房有问有答\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.960.960.50/a5cc9b77ly8fhibihr0xqj20qo0qota8.jpg?KID=imgbed,tva&Expires=1762145221&ssig=jf1HpKx2au\", \"scheme\": \"sinaweibo://detail?mblogid=5133313622674807\", \"vType\": 0}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=4990024458440818&multi_paragraph=4&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.1062.1062.50/008yFmCgly8hgh3g3mcimj30ti0tiq7f.jpg?KID=imgbed,tva&Expires=1762145221&ssig=qC%2FXluf26V) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">小炯很快乐</span><img src=\"http://wx1.sinaimg.cn/middle/008yFmCggy1hlsxhqbyyzj30mh0u077f.jpg\" data-width=1080 data-height=809></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=4996236703438661&multi_paragraph=4&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/b5e24f60ly8h46j30ssohj20u00u0wgo.jpg?KID=imgbed,tva&Expires=1762145221&ssig=G%2FYMp1HgKG) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">songery</span><img src=\"http://wx2.sinaimg.cn/middle/b5e24f60ly1hmcqyx7925j20u01hc77d.jpg\" data-width=1920 data-height=1080></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=4960412660925355&multi_paragraph=4&multi_count=2\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/594d9177ly8h184bqs9udj20u00u0gs7.jpg?KID=imgbed,tva&Expires=1762145221&ssig=BV0jTNZZ6I) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">娄倩moon</span><img src=\"http://wx2.sinaimg.cn/middle/594d9177gy1hj6ajbmh68j20u0140wqv.jpg\" data-width=1440 data-height=1080></div></media-block><br>#### **训练建议**  <br>- **频次**：每周3-4次，每次20-30分钟。```wbCustomBlock{\"type\": \"quoted\", \"index\": 24, \"data\": {\"num\": [11], \"version\": 2, \"quote_list\": [{\"name\": \"耳朵儿朵儿\", \"scheme\": \"sinaweibo://detail?mblogid=5206016251922850\", \"index\": 11, \"label\": \"大v\"}], \"name\": \"耳朵儿朵儿\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/a6bd7d6ely8hu2nk57jv1j20u00u0gnw.jpg?KID=imgbed,tva&Expires=1762145221&ssig=ukf9pBXKvu\", \"scheme\": \"sinaweibo://detail?mblogid=5206016251922850\", \"vType\": 0}}```  <br>- **组合训练**：搭配有氧（如跳绳、跑步）减脂，效果更佳。```wbCustomBlock{\"type\": \"quoted\", \"index\": 25, \"data\": {\"num\": [6, 56], \"version\": 2, \"quote_list\": [{\"name\": \"小野由里奈\", \"scheme\": \"sinaweibo://detail?mblogid=5089426776785234\", \"index\": 6, \"label\": \"\"}, {\"name\": \"小九Cindy_\", \"scheme\": \"sinaweibo://detail?mblogid=5115791353577512\", \"index\": 56, \"label\": \"\"}]}}```  <br>- **新手注意**：先用弹力带或水瓶替代哑铃，避免负重过大。```wbCustomBlock{\"type\": \"quoted\", \"index\": 26, \"data\": {\"num\": [16, 34], \"version\": 2, \"quote_list\": [{\"name\": \"小野由里奈\", \"scheme\": \"sinaweibo://detail?mblogid=5159731920898793\", \"index\": 16, \"label\": \"\"}, {\"name\": \"小野由里奈\", \"scheme\": \"sinaweibo://detail?mblogid=5132570418743610\", \"index\": 34, \"label\": \"\"}]}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5206016251922850&from=search&content_show=1&mix_index=2&hide_index=1&multi_paragraph=5&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/a6bd7d6ely8hu2nk57jv1j20u00u0gnw.jpg?KID=imgbed,tva&Expires=1762145221&ssig=ukf9pBXKvu) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">耳朵儿朵儿</span><img src=\"http://wx1.sinaimg.cn/middle/a6bd7d6egy1i4xb3gcky2j20wr1jtqcm.jpg\" data-width=2009 data-height=1179></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5159731920898793&multi_paragraph=5&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.828.828.50/006lYv80ly8h0c3vek2dpj30n00n0q49.jpg?KID=imgbed,tva&Expires=1762145221&ssig=5%2FauJMVqZW) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">小野由里奈</span><img src=\"http://wx4.sinaimg.cn/middle/006lYv80gy1htm955nt7oj30zk0k0k15.jpg\" data-width=720 data-height=1280></div></media-block><br>### ❗ **关键提醒**  <br>1. **勿替代面部护理**：练背无法消除脂肪型胖脸，需结合饮食管理。```wbCustomBlock{\"type\": \"quoted\", \"index\": 29, \"data\": {\"num\": [24], \"version\": 2, \"quote_list\": [{\"name\": \"做疝气手术的曾博士\", \"scheme\": \"sinaweibo://detail?mblogid=5223886507740379\", \"index\": 24, \"label\": \"\"}]}}```  <br>2. **体态优先于强度**：动作质量＞次数，避免代偿发力（可跟练“沉肩教程”）。```wbCustomBlock{\"type\": \"quoted\", \"index\": 30, \"data\": {\"num\": [7, 43], \"version\": 2, \"quote_list\": [{\"name\": \"绿茵-红魔\", \"scheme\": \"sinaweibo://detail?mblogid=5039325135504461\", \"index\": 7, \"label\": \"大v\"}, {\"name\": \"手捧星星的追夢人\", \"scheme\": \"sinaweibo://detail?mblogid=5228678202261518\", \"index\": 43, \"label\": \"\"}], \"name\": \"绿茵-红魔\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.915.915.50/eca7879aly8i3w318rwd1j20pf0pf424.jpg?KID=imgbed,tva&Expires=1762145221&ssig=5AsMB6VjWu\", \"scheme\": \"sinaweibo://detail?mblogid=5039325135504461\", \"vType\": 0}}```  <br>3. **耐心与坚持**：体态改善需1-3个月见效，速效瘦脸宣传需警惕。```wbCustomBlock{\"type\": \"quoted\", \"index\": 31, \"data\": {\"num\": [28], \"version\": 2, \"quote_list\": [{\"name\": \"你担又有瓜\", \"scheme\": \"sinaweibo://detail?mblogid=5219988514540217\", \"index\": 28, \"label\": \"\"}]}}```  <br><br>> **最终建议**：若追求紧致轮廓，**练背+体态矫正+减脂**三管齐下；若已出现明显松弛，需咨询医美或康复医师。```wbCustomBlock{\"type\": \"quoted\", \"index\": 32, \"data\": {\"num\": [24], \"version\": 2, \"quote_list\": [{\"name\": \"做疝气手术的曾博士\", \"scheme\": \"sinaweibo://detail?mblogid=5223886507740379\", \"index\": 24, \"label\": \"\"}]}}```<br>",
+      "status": 2,
+      "model": "deepseek",
+      "comment_info": {},
+      "share_info": {
+        "comment_content": "",
+        "url": "http://t.cn/AXAKQNXm",
+        "status": 3,
+        "page_id": "232964a85f5cd4f1d89706f8272d0165ccba5a",
+        "unify_md5": "6bcdd894474a82b8938c0aba9871f97b",
+        "tips": "#练背真的可以瘦脸#的相关内容，来智搜看看",
+        "display_name": "#练背真的可以瘦脸#"
+      },
+      "page_id": "232964a85f5cd4f1d89706f8272d0165ccba5a",
+      "loop_times": 200,
+      "share_card_multimodal": {
+        "user_avatar": "https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/005P4ZOKly8h994jz3vlzj30u00u0aa3.jpg?KID=imgbed,tva&Expires=1762145221&ssig=szEsjbYG2k",
+        "video_url": "",
+        "hit_score_new": 99.023438,
+        "doc_score": 4921,
+        "w": 1621,
+        "h": 1080,
+        "click_rate": 0.20666666666667,
+        "type": "p",
+        "scheme": "sinaweibo://multimedia?mix_mid=5228223555700957&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=0",
+        "hit_score_final": 86.214066,
+        "img": "http://wx1.sinaimg.cn/middle/005P4ZOKgy1i6wu9z3tb9j31910u0q91.jpg",
+        "vtype": 0,
+        "cur_mid": "5228223555700957",
+        "user_name": "一颗小叶-",
+        "img_pid": "005P4ZOKgy1i6wu9z3tb9j31910u0q91"
+      },
+      "ext_show": {}
+    }
+  },
+  "links": [
+    "sinaweibo://detail?mblogid=5228570087788395",
+    "sinaweibo://detail?mblogid=5226861429785650",
+    "sinaweibo://detail?mblogid=5010726441454046",
+    "sinaweibo://detail?mblogid=5207472710879110",
+    "sinaweibo://detail?mblogid=5176676008070369",
+    "sinaweibo://detail?mblogid=5089426776785234",
+    "sinaweibo://detail?mblogid=5039325135504461",
+    "sinaweibo://detail?mblogid=5038643355849004",
+    "sinaweibo://detail?mblogid=5046998552019470",
+    "sinaweibo://detail?mblogid=5177706832462626",
+    "sinaweibo://detail?mblogid=5206016251922850",
+    "sinaweibo://detail?mblogid=5197330638964407",
+    "sinaweibo://detail?mblogid=5027725942722957",
+    "sinaweibo://detail?mblogid=5094514392039564",
+    "sinaweibo://detail?mblogid=5178195171345510",
+    "sinaweibo://detail?mblogid=5159731920898793",
+    "sinaweibo://detail?mblogid=5177707801346533",
+    "sinaweibo://detail?mblogid=5133313622674807",
+    "sinaweibo://detail?mblogid=5003628110943606",
+    "sinaweibo://detail?mblogid=4990024458440818",
+    "sinaweibo://detail?mblogid=4996253974530608",
+    "sinaweibo://detail?mblogid=4988885394261872",
+    "sinaweibo://detail?mblogid=5226862130498516",
+    "sinaweibo://detail?mblogid=5223886507740379",
+    "sinaweibo://detail?mblogid=4978806094562493",
+    "sinaweibo://detail?mblogid=5226868972193556",
+    "sinaweibo://detail?mblogid=5219967446286812",
+    "sinaweibo://detail?mblogid=5219988514540217",
+    "sinaweibo://detail?mblogid=4974091356866193",
+    "sinaweibo://detail?mblogid=4960412660925355",
+    "sinaweibo://detail?mblogid=5213937893115078",
+    "sinaweibo://detail?mblogid=5014179218457418",
+    "sinaweibo://detail?mblogid=5014131041635888",
+    "sinaweibo://detail?mblogid=5132570418743610",
+    "sinaweibo://detail?mblogid=4996236703438661",
+    "broadsocial_res://",
+    "historyweibo://5228570087788395",
+    "historyweibo://5157537336263986",
+    "historyweibo://5089528471358727",
+    "sinaweibo://detail?mblogid=5228683312762422",
+    "sinaweibo://detail?mblogid=5228674875134187",
+    "sinaweibo://detail?mblogid=5228640078925596",
+    "sinaweibo://detail?mblogid=5228678202261518",
+    "sinaweibo://detail?mblogid=5228784362980515",
+    "sinaweibo://detail?mblogid=5228677563680790",
+    "sinaweibo://detail?mblogid=5228223555700957",
+    "sinaweibo://detail?mblogid=5228540343880985",
+    "sinaweibo://detail?mblogid=5228832593282351",
+    "sinaweibo://detail?mblogid=5228823627171146",
+    "sinaweibo://detail?mblogid=5228830307648574",
+    "sinaweibo://detail?mblogid=5228829092347918",
+    "sinaweibo://detail?mblogid=5228828113766849",
+    "sinaweibo://detail?mblogid=5228827609663868",
+    "sinaweibo://detail?mblogid=5228826931236519",
+    "sinaweibo://detail?mblogid=5228825606621495",
+    "sinaweibo://detail?mblogid=5115791353577512",
+    "sinaweibo://detail?mblogid=5070127958328151",
+    "sinaweibo://detail?mblogid=4998161406362899",
+    "sinaweibo://detail?mblogid=5226828391258904",
+    "sinaweibo://detail?mblogid=5219969744766142"
+  ],
+  "media": [
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/005P4ZOKgy1i6wu9z3tb9j31910u0q91.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/005P4ZOKgy1i6wu9z3tb9j31910u0q91.jpg",
+      "alt": "一颗小叶-",
+      "width": 1080,
+      "height": 1621,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/005P4ZOKgy1i6wu9z3tb9j31910u0q91.jpg"
+      ],
+      "user": "一颗小叶-"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/559368bdly1i2foodnlfdg20nq10e1kx.gif",
+      "secure_url": "https://wx1.sinaimg.cn/middle/559368bdly1i2foodnlfdg20nq10e1kx.gif",
+      "alt": "医疗圈那点事",
+      "width": 1310,
+      "height": 854,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/559368bdly1i2foodnlfdg20nq10e1kx.jpg"
+      ],
+      "user": "医疗圈那点事"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/b73c4911ly1hmiw0psqd3j20j60pj0xz.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/b73c4911ly1hmiw0psqd3j20j60pj0xz.jpg",
+      "alt": "津彩青春",
+      "width": 919,
+      "height": 690,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/b73c4911ly1hmiw0psqd3j20j60pj0xz.jpg"
+      ],
+      "user": "津彩青春"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/006lYv80gy1hum1pbjurqj30zk0k0wja.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/006lYv80gy1hum1pbjurqj30zk0k0wja.jpg",
+      "alt": "小野由里奈",
+      "width": 720,
+      "height": 1280,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx4.sinaimg.cn/large/006lYv80gy1hum1pbjurqj30zk0k0wja.jpg"
+      ],
+      "user": "小野由里奈"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/45cbbe77ly1i6iuq6xyfgj20u01hcgo0.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/45cbbe77ly1i6iuq6xyfgj20u01hcgo0.jpg",
+      "alt": "做疝气手术的曾博士",
+      "width": 1920,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/45cbbe77ly1i6iuq6xyfgj20u01hcgo0.jpg"
+      ],
+      "user": "做疝气手术的曾博士"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/eca7879agy1hq674phzcuj20mh0u0q5e.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/eca7879agy1hq674phzcuj20mh0u0q5e.jpg",
+      "alt": "绿茵-红魔",
+      "width": 1080,
+      "height": 809,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/eca7879agy1hq674phzcuj20mh0u0q5e.jpg"
+      ],
+      "user": "绿茵-红魔"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/008yFmCggy1hlsxhqbyyzj30mh0u077f.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/008yFmCggy1hlsxhqbyyzj30mh0u077f.jpg",
+      "alt": "小炯很快乐",
+      "width": 1080,
+      "height": 809,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/008yFmCggy1hlsxhqbyyzj30mh0u077f.jpg"
+      ],
+      "user": "小炯很快乐"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/b5e24f60ly1hmcqyx7925j20u01hc77d.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/b5e24f60ly1hmcqyx7925j20u01hc77d.jpg",
+      "alt": "songery",
+      "width": 1920,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/b5e24f60ly1hmcqyx7925j20u01hc77d.jpg"
+      ],
+      "user": "songery"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/594d9177gy1hj6ajbmh68j20u0140wqv.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/594d9177gy1hj6ajbmh68j20u0140wqv.jpg",
+      "alt": "娄倩moon",
+      "width": 1440,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/594d9177gy1hj6ajbmh68j20u0140wqv.jpg"
+      ],
+      "user": "娄倩moon"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/a6bd7d6egy1i4xb3gcky2j20wr1jtqcm.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/a6bd7d6egy1i4xb3gcky2j20wr1jtqcm.jpg",
+      "alt": "耳朵儿朵儿",
+      "width": 2009,
+      "height": 1179,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/a6bd7d6egy1i4xb3gcky2j20wr1jtqcm.jpg"
+      ],
+      "user": "耳朵儿朵儿"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/006lYv80gy1htm955nt7oj30zk0k0k15.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/006lYv80gy1htm955nt7oj30zk0k0k15.jpg",
+      "alt": "小野由里奈",
+      "width": 720,
+      "height": 1280,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/006lYv80gy1htm955nt7oj30zk0k0k15.jpg"
+      ],
+      "user": "小野由里奈"
+    }
+  ],
+  "html_path": "data/aicard/hourly/2025-11-03/09/topic-6bcdd894.html"
+}

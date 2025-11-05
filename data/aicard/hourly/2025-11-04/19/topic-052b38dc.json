@@ -1,0 +1,307 @@
+{
+  "meta": {
+    "query": "#教练说全红婵疼得无法正常行动#",
+    "status_code": 200,
+    "fetched_at": "2025-11-04T19:30:41+08:00",
+    "response": {
+      "model": "deepseek",
+      "mid_list": null,
+      "profile_image_url": "",
+      "query_category": "",
+      "status_stage": 4,
+      "link_list": [
+        "sinaweibo://detail?mblogid=5229298320933163",
+        "sinaweibo://detail?mblogid=5229181320823775",
+        "historyweibo://5229298320933163",
+        "historyweibo://5229181320823775",
+        "historyweibo://5229203280890991",
+        "sinaweibo://detail?mblogid=5229048013788817",
+        "sinaweibo://detail?mblogid=5229279514462386",
+        "sinaweibo://detail?mblogid=5229221074174948",
+        "sinaweibo://detail?mblogid=5229185056375367",
+        "sinaweibo://detail?mblogid=5229304579360180",
+        "sinaweibo://detail?mblogid=5229174215412161",
+        "sinaweibo://detail?mblogid=5229203280890991",
+        "sinaweibo://detail?mblogid=5229206117548049",
+        "sinaweibo://detail?mblogid=5229250523435467",
+        "sinaweibo://detail?mblogid=5229223096618584",
+        "sinaweibo://detail?mblogid=5229205190609369",
+        "sinaweibo://detail?mblogid=5229202058251434",
+        "sinaweibo://detail?mblogid=5229058291925401",
+        "sinaweibo://detail?mblogid=5229338103644796",
+        "sinaweibo://detail?mblogid=5228257613186224",
+        "sinaweibo://detail?mblogid=5143088716579481",
+        "sinaweibo://detail?mblogid=5228992030313711",
+        "sinaweibo://detail?mblogid=5228254653056636",
+        "sinaweibo://detail?mblogid=5228622053118538",
+        "sinaweibo://detail?mblogid=5229160643167946",
+        "sinaweibo://detail?mblogid=5228332931350969",
+        "sinaweibo://detail?mblogid=5171280656731216",
+        "sinaweibo://detail?mblogid=5228245081653357",
+        "sinaweibo://detail?mblogid=5228327289226461",
+        "sinaweibo://detail?mblogid=5228244506511942"
+      ],
+      "q_attr": {
+        "reply_cid": "",
+        "from_uid": "",
+        "from_request_id": "",
+        "mid": "",
+        "comment_from_type": ""
+      },
+      "card_multimodal": {
+        "type": "mediablock",
+        "data": [
+          {
+            "cur_mid": "5229203280890991",
+            "type": "v",
+            "user_name": "钱江视频",
+            "vtype": 3,
+            "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.512.512.50/67f865afly8h8vg6w30czj20e80e8t92.jpg?KID=imgbed,tva&Expires=1762266064&ssig=vifT%2B8rKvy",
+            "scheme": "sinaweibo://video/vvs?mid=5229203280890991&multi_paragraph=1&multi_count=0",
+            "video_url": "https://video.weibo.com/show?fid=1034:5229202748669992",
+            "hit_score_new": 76.611328,
+            "h": 1920,
+            "doc_score": 4228,
+            "img_pid": "67f865afly1i6zyr9kzmkj20u01hc770",
+            "hit_score_final": 77.966797,
+            "click_rate": 0.15290806754221,
+            "click_num": 0,
+            "img": "http://wx4.sinaimg.cn/middle/67f865afly1i6zyr9kzmkj20u01hc770.jpg",
+            "w": 1080
+          },
+          {
+            "cur_mid": "5229160643167946",
+            "type": "v",
+            "user_name": "四月好甜",
+            "vtype": 0,
+            "user_avatar": "https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/6851e46bly8i6mln631b3j20u00u0770.jpg?KID=imgbed,tva&Expires=1762266064&ssig=tt%2FniBcmRC",
+            "scheme": "sinaweibo://video/vvs?mid=5229160643167946&multi_paragraph=1&multi_count=1",
+            "video_url": "https://video.weibo.com/show?fid=1034:5229155617275927",
+            "hit_score_new": 60.693359,
+            "h": 1280,
+            "doc_score": 3314,
+            "img_pid": "6851e46bgy1i6ztcens4oj20k00zkzlh",
+            "hit_score_final": 59.616013,
+            "click_rate": 0.11475409836066,
+            "click_num": 0,
+            "img": "http://wx1.sinaimg.cn/middle/6851e46bgy1i6ztcens4oj20k00zkzlh.jpg",
+            "w": 720
+          },
+          {
+            "cur_mid": "5229206117548049",
+            "type": "v",
+            "user_name": "封面新闻",
+            "vtype": 3,
+            "user_avatar": "https://tvax4.sinaimg.cn/crop.0.0.690.690.50/001DitQply8h8vhzzl20mj60j60j6jrn02.jpg?KID=imgbed,tva&Expires=1762266064&ssig=UBnuTII63y",
+            "scheme": "sinaweibo://video/vvs?mid=5229206117548049&multi_paragraph=1&multi_count=2",
+            "video_url": "https://video.weibo.com/show?fid=1034:5229205710110780",
+            "hit_score_new": 75.195312,
+            "h": 1920,
+            "doc_score": 3868,
+            "img_pid": "001DitQply1i6zz4uimnqj60u01hc0vj02",
+            "hit_score_final": 77.117188,
+            "click_rate": 0.1,
+            "click_num": 0,
+            "img": "http://wx2.sinaimg.cn/middle/001DitQply1i6zz4uimnqj60u01hc0vj02.jpg",
+            "w": 1080
+          },
+          {
+            "cur_mid": "5229203280890991",
+            "type": "v",
+            "user_name": "钱江视频",
+            "vtype": 3,
+            "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.512.512.50/67f865afly8h8vg6w30czj20e80e8t92.jpg?KID=imgbed,tva&Expires=1762266064&ssig=vifT%2B8rKvy",
+            "scheme": "sinaweibo://video/vvs?mid=5229203280890991&multi_paragraph=1&multi_count=0",
+            "video_url": "https://video.weibo.com/show?fid=1034:5229202748669992",
+            "hit_score_new": 76.611328,
+            "h": 1920,
+            "doc_score": 4228,
+            "img_pid": "67f865afly1i6zyr9kzmkj20u01hc770",
+            "hit_score_final": 77.966797,
+            "click_rate": 0.15290806754221,
+            "click_num": 0,
+            "img": "http://wx4.sinaimg.cn/middle/67f865afly1i6zyr9kzmkj20u01hc770.jpg",
+            "w": 1080
+          }
+        ]
+      },
+      "share_card_multimodal": {
+        "cur_mid": "5229203280890991",
+        "type": "v",
+        "user_name": "钱江视频",
+        "vtype": 3,
+        "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.512.512.50/67f865afly8h8vg6w30czj20e80e8t92.jpg?KID=imgbed,tva&Expires=1762266064&ssig=vifT%2B8rKvy",
+        "scheme": "sinaweibo://video/vvs?mid=5229203280890991&multi_paragraph=1&multi_count=0",
+        "video_url": "https://video.weibo.com/show?fid=1034:5229202748669992",
+        "hit_score_new": 76.611328,
+        "h": 1920,
+        "doc_score": 4228,
+        "img_pid": "67f865afly1i6zyr9kzmkj20u01hc770",
+        "hit_score_final": 77.966797,
+        "click_rate": 0.15290806754221,
+        "click_num": 0,
+        "img": "http://wx4.sinaimg.cn/middle/67f865afly1i6zyr9kzmkj20u01hc770.jpg",
+        "w": 1080
+      },
+      "reliable_tips": "{\"gold_orange_v_mids\": [\"5229048013788817\", \"5229160643167946\", \"5228992030313711\", \"5228245081653357\", \"5229185056375367\", \"5228244506511942\", \"5229250523435467\", \"5228622053118538\", \"5229202058251434\", \"5229205190609369\", \"5229058291925401\", \"5228257613186224\", \"5143088716579481\", \"5228254653056636\", \"5228332931350969\", \"5171280656731216\", \"5228327289226461\"], \"gold_orange_v_ratio\": \"63%\", \"media_mids\": [\"5229279514462386\", \"5229298320933163\", \"5229174215412161\", \"5229221074174948\", \"5229203280890991\", \"5229206117548049\", \"5229304579360180\", \"5229223096618584\", \"5229338103644796\"], \"media_ratio\": \"33%\", \"verified_mids\": [\"5229181320823775\"], \"verified_ratio\": \"4%\", \"normal_mids\": [], \"normal_ratio\": \"0%\", \"ref_mid_rank\": {\"5229279514462386\": {\"rank\": 7}, \"5229298320933163\": {\"rank\": 1}, \"5229181320823775\": {\"rank\": 2}, \"5229048013788817\": {\"rank\": 6}, \"5229174215412161\": {\"rank\": 11}, \"5229221074174948\": {\"rank\": 8}, \"5229203280890991\": {\"rank\": 12}, \"5229206117548049\": {\"rank\": 13}, \"5229160643167946\": {\"rank\": 25}, \"5228992030313711\": {\"rank\": 22}, \"5228245081653357\": {\"rank\": 28}, \"5229185056375367\": {\"rank\": 9}, \"5228244506511942\": {\"rank\": 30}, \"5229304579360180\": {\"rank\": 10}, \"5229250523435467\": {\"rank\": 14}, \"5228622053118538\": {\"rank\": 24}, \"5229202058251434\": {\"rank\": 17}, \"5229205190609369\": {\"rank\": 16}, \"5229223096618584\": {\"rank\": 15}, \"5229058291925401\": {\"rank\": 18}, \"5229338103644796\": {\"rank\": 19}, \"5228257613186224\": {\"rank\": 20}, \"5143088716579481\": {\"rank\": 21}, \"5228254653056636\": {\"rank\": 23}, \"5228332931350969\": {\"rank\": 26}, \"5171280656731216\": {\"rank\": 27}, \"5228327289226461\": {\"rank\": 29}}}",
+      "basemodel": "实验组1",
+      "ext_show": {},
+      "status": 2,
+      "current_time": 1762255841,
+      "user_info": {},
+      "comment_info": {},
+      "unify_md5": "052b38dcedc76948e7814d14e51846e4",
+      "query": "#教练说全红婵疼得无法正常行动#",
+      "loop_times": 200,
+      "news_analyze": {},
+      "msg_format": "markdown",
+      "short_url": "http://t.cn/AXAjQOaC",
+      "msg_json": "{}",
+      "abtest_info": {
+        "chat_entrance": 1
+      },
+      "wenda": {
+        "forward_gen": 0
+      },
+      "reference_num": 27,
+      "ab_suffix": "default",
+      "top_quote_list": {},
+      "query_field": "20",
+      "share_info": {
+        "unify_md5": "052b38dcedc76948e7814d14e51846e4",
+        "tips": "#教练说全红婵疼得无法正常行动#的相关内容，来智搜看看",
+        "status": 3,
+        "comment_content": "",
+        "page_id": "232964d3f9b706be06eaf31a8b005caa351908",
+        "display_name": "#教练说全红婵疼得无法正常行动#",
+        "url": "http://t.cn/AXAYlFMz"
+      },
+      "sorted_material_list": null,
+      "qs_status_info": "{\"qs_r_status\":0,\"qs_u_status\":0,\"qs_status\":0,\"qs_q_status\":0,\"ab_lab\":{},\"qs_c_status\":8388608}",
+      "cot": 1,
+      "chat_status_stage": 1,
+      "version": "2025-11-04 19:21:04.029999-2093",
+      "analysis_time": 1762255484,
+      "page_id": "232964d3f9b706be06eaf31a8b005caa351908",
+      "uid": "",
+      "scheme": "sinaweibo://cardlist?containerid=100103type%3D225%26q%3D%23%E6%95%99%E7%BB%83%E8%AF%B4%E5%85%A8%E7%BA%A2%E5%A9%B5%E7%96%BC%E5%BE%97%E6%97%A0%E6%B3%95%E6%AD%A3%E5%B8%B8%E8%A1%8C%E5%8A%A8%23%26t%3D&extparam=ai_model%3Ddeepseek%26ori_ai_title%3D%E5%8F%82%E8%80%83%E5%8D%9A%E6%96%87%26material_version%3D1762255264",
+      "zs_risk_control": {
+        "think_text_close": 0,
+        "land_button_close": 0
+      },
+      "qs_status": 0,
+      "show_ctrl": {
+        "quote": {}
+      },
+      "msg": "<think><br>嗯，用户想了解全红婵的伤病情况，特别是教练提到她疼得无法正常行动的具体细节。从搜索结果看，这个话题在2025年11月初的全运会期间是热点，多个媒体和认证账号都在报道。<br><br>最核心的信息来源是广东队教练何威仪的多段采访。他透露全红婵的伤病主要集中在胫骨和双侧踝关节，属于长期劳损性损伤，还伴有腰椎间盘突出和关节腔积液。每天训练前要用冰敷镇痛才能起跳，结束后又要冰敷消炎，形成“敷冰→起跳→再敷冰”的循环。教练原话是“她每天疼得不得了”，甚至用“很艰难很艰难”形容她的状态。<br><br>值得注意的是伤情的隐蔽性——观众很难发现异常，因为她全身贴满肌效贴固定关节。这种专业运动胶布像第二层皮肤一样包裹着伤处，但何教练提到她“背的包里都是肌贴”，暗示用量很大。<br><br>伤病成因主要有两点：一是巴黎奥运周期高强度训练积累的劳损，二是发育期身体变化(身高从1.43米长到1.58米，体重38公斤增至48公斤以上)加重了关节负荷。其实2025年5月她就因伤退过赛，休养5个月仍未痊愈。<br><br>比较触动的是参赛策略的调整：她放弃需要连跳三天的单人项目，只参加团体和双人10米台。这样能和搭档王伟莹配合降低动作难度，用同步性分担身体压力。结果证明策略有效——11月2日她们以235.86分卫冕女团金牌，第三跳5253B还再现了“水花消失术”。<br><br>团队还在澄清误解：体重增加被造谣“不自律”，实际是发育期和治疗期正常现象；退赛被误读为“状态下滑”，实属医疗评估结果。教练主动公开伤情，就是希望停止“放纵”“退役”等恶意揣测。<br><br>看到粉丝留言说“肌贴是冠军的勋章”时，突然理解了她赛后反复抚摸金牌说“我真棒”的心情。这种坚韧比金牌更珍贵，就像周继红领队说的：“健康的全红婵是中国跳水最宝贵的财富”。<br><br></think><br>全红婵带伤征战第十五届全运会的情况引发广泛关注，其伤病细节、坚持参赛的表现及团队回应要点如下：<br>### ⚠️ **一、伤病严重程度与日常状态**<br>1. **伤病部位与症状**  <br>   - **核心伤情**：胫骨和双侧踝关节存在劳损性损伤（包括距腓前韧带损伤、关节腔积液），同时伴有腰椎间盘突出等全身性劳损。```wbCustomBlock{\"type\": \"quoted\", \"index\": 5, \"data\": {\"num\": [7], \"version\": 2, \"quote_list\": [{\"name\": \"闪电新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5229279514462386\", \"index\": 7, \"label\": \"大v\"}], \"name\": \"闪电新闻\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.179.179.50/70e081fbly8h8vgcllnigj204z04za9w.jpg?KID=imgbed,tva&Expires=1762266064&ssig=6Tlv4WWc7J\", \"scheme\": \"sinaweibo://detail?mblogid=5229279514462386\", \"vType\": 3}}```  <br>   - **疼痛程度**：广东队教练何威仪多次强调“她每天疼得不得了”，需依赖冰敷短暂镇痛后才能起跳，训练后需再次冰敷消炎，形成“敷冰→起跳→再敷冰”的循环。```wbCustomBlock{\"type\": \"quoted\", \"index\": 6, \"data\": {\"num\": [1, 2, 6, 11], \"version\": 2, \"quote_list\": [{\"name\": \"九派新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5229174215412161\", \"index\": 11, \"label\": \"大v\"}, {\"name\": \"深度视频\", \"scheme\": \"sinaweibo://detail?mblogid=5229298320933163\", \"index\": 1, \"label\": \"\"}, {\"name\": \"新浪热点\", \"scheme\": \"sinaweibo://detail?mblogid=5229181320823775\", \"index\": 2, \"label\": \"\"}, {\"name\": \"全Perfectionism_收录\", \"scheme\": \"sinaweibo://detail?mblogid=5229048013788817\", \"index\": 6, \"label\": \"\"}], \"name\": \"九派新闻\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.600.600.50/008cHdLily8h8vgz2g178j30go0go0tm.jpg?KID=imgbed,tva&Expires=1762266064&ssig=zwcnrmcv9d\", \"scheme\": \"sinaweibo://detail?mblogid=5229174215412161\", \"vType\": 3}}```  <br>   - **隐蔽性**：体表贴满肌效贴（肌贴）固定关节以缓解疼痛，但实际动作承受力显著下降。```wbCustomBlock{\"type\": \"quoted\", \"index\": 7, \"data\": {\"num\": [8, 12, 13], \"version\": 2, \"quote_list\": [{\"name\": \"山东商报\", \"scheme\": \"sinaweibo://detail?mblogid=5229221074174948\", \"index\": 8, \"label\": \"大v\"}, {\"name\": \"钱江视频\", \"scheme\": \"sinaweibo://detail?mblogid=5229203280890991\", \"index\": 12, \"label\": \"\"}, {\"name\": \"封面新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5229206117548049\", \"index\": 13, \"label\": \"\"}], \"name\": \"山东商报\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.511.511.50/001HpyiQly8h8vglaiz0lj60e70e7dg702.jpg?KID=imgbed,tva&Expires=1762266064&ssig=6lxu2XOuf9\", \"scheme\": \"sinaweibo://detail?mblogid=5229221074174948\", \"vType\": 3}}```<br><br>2. **伤病根源**  <br>   - **长期劳损积累**：伤病源于巴黎奥运周期的高强度训练，近年因身高增长（1.43米→1.58米）、体重增加（38公斤→48公斤以上），发育期变化加剧关节负荷。```wbCustomBlock{\"type\": \"quoted\", \"index\": 9, \"data\": {\"num\": [25], \"version\": 2, \"quote_list\": [{\"name\": \"四月好甜\", \"scheme\": \"sinaweibo://detail?mblogid=5229160643167946\", \"index\": 25, \"label\": \"\"}]}}```  <br>   - **旧伤反复**：2025年5月因脚踝旧伤复发退出全国冠军赛，休整5个月后仍未完全康复。```wbCustomBlock{\"type\": \"quoted\", \"index\": 10, \"data\": {\"num\": [22, 28], \"version\": 2, \"quote_list\": [{\"name\": \"陶陶然me\", \"scheme\": \"sinaweibo://detail?mblogid=5228992030313711\", \"index\": 22, \"label\": \"\"}, {\"name\": \"煜丸觉觉\", \"scheme\": \"sinaweibo://detail?mblogid=5228245081653357\", \"index\": 28, \"label\": \"\"}]}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5229203280890991&multi_paragraph=1&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.512.512.50/67f865afly8h8vg6w30czj20e80e8t92.jpg?KID=imgbed,tva&Expires=1762266064&ssig=vifT%2B8rKvy) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">钱江视频</span><img src=\"http://wx4.sinaimg.cn/middle/67f865afly1i6zyr9kzmkj20u01hc770.jpg\" data-width=1920 data-height=1080></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5229160643167946&multi_paragraph=1&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/6851e46bly8i6mln631b3j20u00u0770.jpg?KID=imgbed,tva&Expires=1762266064&ssig=tt%2FniBcmRC) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">四月好甜</span><img src=\"http://wx1.sinaimg.cn/middle/6851e46bgy1i6ztcens4oj20k00zkzlh.jpg\" data-width=1280 data-height=720></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5229206117548049&multi_paragraph=1&multi_count=2\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.690.690.50/001DitQply8h8vhzzl20mj60j60j6jrn02.jpg?KID=imgbed,tva&Expires=1762266064&ssig=UBnuTII63y) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">封面新闻</span><img src=\"http://wx2.sinaimg.cn/middle/001DitQply1i6zz4uimnqj60u01hc0vj02.jpg\" data-width=1920 data-height=1080></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5229298320933163&multi_paragraph=1&multi_count=3\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.600.600.50/007YVCm1ly8hrowfk36x0j30go0go3za.jpg?KID=imgbed,tva&Expires=1762266064&ssig=fraxdsMcoC) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">深度视频</span><img src=\"http://wx2.sinaimg.cn/middle/007YVCm1gy1i709pklba5j30u01401kx.jpg\" data-width=1440 data-height=1080></div></media-block><br>### 🏅 **二、带伤参赛策略与赛场表现**<br>1. **战术调整**  <br>   - **放弃单人项目**：为避免预赛、半决赛、决赛连续三天高强度赛程加重伤势，仅参加团体及双人10米台项目。```wbCustomBlock{\"type\": \"quoted\", \"index\": 14, \"data\": {\"num\": [9, 22, 30], \"version\": 2, \"quote_list\": [{\"name\": \"国球人生\", \"scheme\": \"sinaweibo://detail?mblogid=5229185056375367\", \"index\": 9, \"label\": \"大v\"}, {\"name\": \"陶陶然me\", \"scheme\": \"sinaweibo://detail?mblogid=5228992030313711\", \"index\": 22, \"label\": \"\"}, {\"name\": \"邪恶男主角\", \"scheme\": \"sinaweibo://detail?mblogid=5228244506511942\", \"index\": 30, \"label\": \"\"}], \"name\": \"国球人生\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.600.600.50/006ehHTSly8gxz64icyxoj30go0go75c.jpg?KID=imgbed,tva&Expires=1762266064&ssig=Al8SSCoqJh\", \"scheme\": \"sinaweibo://detail?mblogid=5229185056375367\", \"vType\": 0}}```  <br>   - **搭档分担压力**：与王伟莹搭档，依靠同步性降低动作难度和身体负荷，赛前仅合练三周。```wbCustomBlock{\"type\": \"quoted\", \"index\": 15, \"data\": {\"num\": [10], \"version\": 2, \"quote_list\": [{\"name\": \"中国蓝新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5229304579360180\", \"index\": 10, \"label\": \"大v\"}], \"name\": \"中国蓝新闻\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.1000.1000.50/8842ff52ly8heqfusvnwbj20rs0rsmxx.jpg?KID=imgbed,tva&Expires=1762266064&ssig=7LEvBmvM1I\", \"scheme\": \"sinaweibo://detail?mblogid=5229304579360180\", \"vType\": 3}}```<br><br>2. **赛场表现**  <br>   - **全运会夺金**：11月2日带伤完成三跳，与王伟莹以总分**235.86分**（首跳76.50分全场最高）助广东队卫冕女子团体金牌。```wbCustomBlock{\"type\": \"quoted\", \"index\": 17, \"data\": {\"num\": [7, 14], \"version\": 2, \"quote_list\": [{\"name\": \"闪电新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5229279514462386\", \"index\": 7, \"label\": \"\"}, {\"name\": \"樱漫书屋\", \"scheme\": \"sinaweibo://detail?mblogid=5229250523435467\", \"index\": 14, \"label\": \"\"}]}}```  <br>   - **技术亮点**：第三跳5253B再现“水花消失术”，入水控制力获业内赞誉（称“法拉利长大了还是法拉利”）。```wbCustomBlock{\"type\": \"quoted\", \"index\": 18, \"data\": {\"num\": [9, 14], \"version\": 2, \"quote_list\": [{\"name\": \"国球人生\", \"scheme\": \"sinaweibo://detail?mblogid=5229185056375367\", \"index\": 9, \"label\": \"\"}, {\"name\": \"樱漫书屋\", \"scheme\": \"sinaweibo://detail?mblogid=5229250523435467\", \"index\": 14, \"label\": \"\"}]}}```<br>### 💬 **三、团队回应与舆论争议**<br>1. **澄清误解**  <br>   - **体重质疑**：教练明确表示体重波动属发育期自然现象及治疗期生理调整，与“不自律”无关。```wbCustomBlock{\"type\": \"quoted\", \"index\": 22, \"data\": {\"num\": [9, 25], \"version\": 2, \"quote_list\": [{\"name\": \"国球人生\", \"scheme\": \"sinaweibo://detail?mblogid=5229185056375367\", \"index\": 9, \"label\": \"\"}, {\"name\": \"四月好甜\", \"scheme\": \"sinaweibo://detail?mblogid=5229160643167946\", \"index\": 25, \"label\": \"\"}]}}```  <br>   - **退赛争议**：团队强调缺席国际赛事是医疗评估结果，非状态下滑或放弃职业生涯。```wbCustomBlock{\"type\": \"quoted\", \"index\": 23, \"data\": {\"num\": [9, 24, 28], \"version\": 2, \"quote_list\": [{\"name\": \"老李论谈\", \"scheme\": \"sinaweibo://detail?mblogid=5228622053118538\", \"index\": 24, \"label\": \"大v\"}, {\"name\": \"国球人生\", \"scheme\": \"sinaweibo://detail?mblogid=5229185056375367\", \"index\": 9, \"label\": \"\"}, {\"name\": \"煜丸觉觉\", \"scheme\": \"sinaweibo://detail?mblogid=5228245081653357\", \"index\": 28, \"label\": \"\"}], \"name\": \"老李论谈\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.512.512.50/b7355d17ly8i59ronwd2lj20e80e874q.jpg?KID=imgbed,tva&Expires=1762266064&ssig=CdmK9SAElA\", \"scheme\": \"sinaweibo://detail?mblogid=5228622053118538\", \"vType\": 0}}```<br><br>2. **呼吁保护运动员**  <br>   - 何威仪主动公开伤情，呼吁停止“放纵”“退役”等恶意揣测，强调需重视运动员心理健康。```wbCustomBlock{\"type\": \"quoted\", \"index\": 25, \"data\": {\"num\": [9, 14, 17], \"version\": 2, \"quote_list\": [{\"name\": \"国球人生\", \"scheme\": \"sinaweibo://detail?mblogid=5229185056375367\", \"index\": 9, \"label\": \"\"}, {\"name\": \"樱漫书屋\", \"scheme\": \"sinaweibo://detail?mblogid=5229250523435467\", \"index\": 14, \"label\": \"\"}, {\"name\": \"三分球与高马尾\", \"scheme\": \"sinaweibo://detail?mblogid=5229202058251434\", \"index\": 17, \"label\": \"\"}]}}```  <br>   - 公众以“肌贴是冠军的勋章”等表达支持。```wbCustomBlock{\"type\": \"quoted\", \"index\": 26, \"data\": {\"num\": [14, 16], \"version\": 2, \"quote_list\": [{\"name\": \"小球闲谈\", \"scheme\": \"sinaweibo://detail?mblogid=5229205190609369\", \"index\": 16, \"label\": \"大v\"}, {\"name\": \"樱漫书屋\", \"scheme\": \"sinaweibo://detail?mblogid=5229250523435467\", \"index\": 14, \"label\": \"\"}], \"name\": \"小球闲谈\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.1.1078.1078.50/005wF7kZly8i59wgrl5y8j30ty0u03z6.jpg?KID=imgbed,tva&Expires=1762266064&ssig=BfzsIBEzqf\", \"scheme\": \"sinaweibo://detail?mblogid=5229205190609369\", \"vType\": 0}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5228622053118538&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=3&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.512.512.50/b7355d17ly8i59ronwd2lj20e80e874q.jpg?KID=imgbed,tva&Expires=1762266064&ssig=CdmK9SAElA) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">老李论谈</span><img src=\"http://wx3.sinaimg.cn/middle/b7355d17gy1i6y426fmorj20zk0ph0zd.jpg\" data-width=917 data-height=1280></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5229205190609369&multi_paragraph=3&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.1.1078.1078.50/005wF7kZly8i59wgrl5y8j30ty0u03z6.jpg?KID=imgbed,tva&Expires=1762266064&ssig=BfzsIBEzqf) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">小球闲谈</span><img src=\"http://wx2.sinaimg.cn/middle/005wF7kZly1i6zyyqgtasj30k00k00to.jpg\" data-width=720 data-height=720></div></media-block><br>### 🔮 **四、后续计划与展望**<br>- **短期目标**：11月6日再战女子双人10米台决赛，冲击个人全运会第四金。  <br>- **长期规划**：系统性康复结合体重控制，为2028年洛杉矶奥运会蓄力。```wbCustomBlock{\"type\": \"quoted\", \"index\": 30, \"data\": {\"num\": [30], \"version\": 2, \"quote_list\": [{\"name\": \"邪恶男主角\", \"scheme\": \"sinaweibo://detail?mblogid=5228244506511942\", \"index\": 30, \"label\": \"\"}]}}```  <br>- **业内信心**：国家跳水队领队周继红称“健康的全红婵是中国跳水最宝贵的财富”。<br>### 💎 **总结**  <br>全红婵的坚持不仅是技术的胜利，更是体育精神的极致诠释。每一跳背后，是无数个“敷冰再跳”的瞬间，是少年英雄以伤痛为阶的成长勋章。正如她赛后的自评：“我真棒！”——这份乐观与坚韧，远比金牌更动人。```wbCustomBlock{\"type\": \"quoted\", \"index\": 33, \"data\": {\"num\": [7, 14], \"version\": 2, \"quote_list\": [{\"name\": \"闪电新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5229279514462386\", \"index\": 7, \"label\": \"\"}, {\"name\": \"樱漫书屋\", \"scheme\": \"sinaweibo://detail?mblogid=5229250523435467\", \"index\": 14, \"label\": \"\"}]}}```<br>",
+      "share_text": "#教练说全红婵疼得无法正常行动#的相关内容，来智搜看看"
+    }
+  },
+  "links": [
+    "sinaweibo://detail?mblogid=5229298320933163",
+    "sinaweibo://detail?mblogid=5229181320823775",
+    "historyweibo://5229298320933163",
+    "historyweibo://5229181320823775",
+    "historyweibo://5229203280890991",
+    "sinaweibo://detail?mblogid=5229048013788817",
+    "sinaweibo://detail?mblogid=5229279514462386",
+    "sinaweibo://detail?mblogid=5229221074174948",
+    "sinaweibo://detail?mblogid=5229185056375367",
+    "sinaweibo://detail?mblogid=5229304579360180",
+    "sinaweibo://detail?mblogid=5229174215412161",
+    "sinaweibo://detail?mblogid=5229203280890991",
+    "sinaweibo://detail?mblogid=5229206117548049",
+    "sinaweibo://detail?mblogid=5229250523435467",
+    "sinaweibo://detail?mblogid=5229223096618584",
+    "sinaweibo://detail?mblogid=5229205190609369",
+    "sinaweibo://detail?mblogid=5229202058251434",
+    "sinaweibo://detail?mblogid=5229058291925401",
+    "sinaweibo://detail?mblogid=5229338103644796",
+    "sinaweibo://detail?mblogid=5228257613186224",
+    "sinaweibo://detail?mblogid=5143088716579481",
+    "sinaweibo://detail?mblogid=5228992030313711",
+    "sinaweibo://detail?mblogid=5228254653056636",
+    "sinaweibo://detail?mblogid=5228622053118538",
+    "sinaweibo://detail?mblogid=5229160643167946",
+    "sinaweibo://detail?mblogid=5228332931350969",
+    "sinaweibo://detail?mblogid=5171280656731216",
+    "sinaweibo://detail?mblogid=5228245081653357",
+    "sinaweibo://detail?mblogid=5228327289226461",
+    "sinaweibo://detail?mblogid=5228244506511942"
+  ],
+  "media": [
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/67f865afly1i6zyr9kzmkj20u01hc770.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/67f865afly1i6zyr9kzmkj20u01hc770.jpg",
+      "alt": "钱江视频",
+      "width": 1920,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/67f865afly1i6zyr9kzmkj20u01hc770.jpg"
+      ],
+      "user": "钱江视频"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/6851e46bgy1i6ztcens4oj20k00zkzlh.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/6851e46bgy1i6ztcens4oj20k00zkzlh.jpg",
+      "alt": "四月好甜",
+      "width": 1280,
+      "height": 720,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/6851e46bgy1i6ztcens4oj20k00zkzlh.jpg"
+      ],
+      "user": "四月好甜"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/001DitQply1i6zz4uimnqj60u01hc0vj02.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/001DitQply1i6zz4uimnqj60u01hc0vj02.jpg",
+      "alt": "封面新闻",
+      "width": 1920,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/001DitQply1i6zz4uimnqj60u01hc0vj02.jpg"
+      ],
+      "user": "封面新闻"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/007YVCm1gy1i709pklba5j30u01401kx.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/007YVCm1gy1i709pklba5j30u01401kx.jpg",
+      "alt": "深度视频",
+      "width": 1440,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx4.sinaimg.cn/large/007YVCm1gy1i709pklba5j30u01401kx.jpg"
+      ],
+      "user": "深度视频"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/b7355d17gy1i6y426fmorj20zk0ph0zd.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/b7355d17gy1i6y426fmorj20zk0ph0zd.jpg",
+      "alt": "老李论谈",
+      "width": 917,
+      "height": 1280,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/b7355d17gy1i6y426fmorj20zk0ph0zd.jpg"
+      ],
+      "user": "老李论谈"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/005wF7kZly1i6zyyqgtasj30k00k00to.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/005wF7kZly1i6zyyqgtasj30k00k00to.jpg",
+      "alt": "小球闲谈",
+      "width": 720,
+      "height": 720,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/005wF7kZly1i6zyyqgtasj30k00k00to.jpg"
+      ],
+      "user": "小球闲谈"
+    }
+  ],
+  "html_path": "data/aicard/hourly/2025-11-04/19/topic-052b38dc.html"
+}

@@ -1,0 +1,346 @@
+{
+  "meta": {
+    "query": "#女子故意夹门赶地铁#",
+    "status_code": 200,
+    "fetched_at": "2025-11-01T13:28:19+08:00",
+    "response": {
+      "abtest_info": {
+        "chat_entrance": 1
+      },
+      "ab_suffix": "default",
+      "link_list": [
+        "sinaweibo://detail?mblogid=5227958363226191",
+        "sinaweibo://detail?mblogid=5228161889473168",
+        "sinaweibo://detail?mblogid=5175199217485165",
+        "sinaweibo://detail?mblogid=4972989886759105",
+        "sinaweibo://detail?mblogid=4729477470620878",
+        "sinaweibo://detail?mblogid=4945162066462710",
+        "sinaweibo://detail?mblogid=4729401483460746",
+        "sinaweibo://detail?mblogid=5056809968863362",
+        "sinaweibo://detail?mblogid=4947089298819014",
+        "sinaweibo://detail?mblogid=4945168720203233",
+        "historyweibo://5175199217485165",
+        "historyweibo://5175199217485165",
+        "historyweibo://5192317029057318",
+        "sinaweibo://detail?mblogid=5228160221186265",
+        "sinaweibo://detail?mblogid=5228161463747930",
+        "sinaweibo://detail?mblogid=5228160263128292",
+        "sinaweibo://detail?mblogid=5228159559533985",
+        "sinaweibo://detail?mblogid=5228159033412556",
+        "sinaweibo://detail?mblogid=5228158465086447",
+        "sinaweibo://detail?mblogid=5227770416468494",
+        "sinaweibo://detail?mblogid=5224101094361532",
+        "sinaweibo://detail?mblogid=5148899649785525",
+        "sinaweibo://detail?mblogid=4945176872880681",
+        "sinaweibo://detail?mblogid=5228156064896105",
+        "sinaweibo://detail?mblogid=4956064102744811",
+        "sinaweibo://detail?mblogid=4945167008137392",
+        "sinaweibo://detail?mblogid=5183229826698472",
+        "sinaweibo://detail?mblogid=4975917372279366",
+        "sinaweibo://detail?mblogid=5226231055516097",
+        "sinaweibo://detail?mblogid=5030459692294500",
+        "sinaweibo://detail?mblogid=4945157990911407",
+        "sinaweibo://detail?mblogid=5227963370963617",
+        "sinaweibo://detail?mblogid=4945448740063092",
+        "sinaweibo://detail?mblogid=4947275060346903"
+      ],
+      "top_quote_list": {},
+      "qs_status_info": "{\"ab_lab\":{},\"qs_status\":0,\"qs_q_status\":0,\"qs_c_status\":8388608,\"qs_r_status\":0,\"qs_u_status\":0}",
+      "cot": 1,
+      "unify_md5": "36bbc5c3b6c13f4f9811244e53e9e218",
+      "card_multimodal": {
+        "type": "mediablock",
+        "data": [
+          {
+            "h": 1600,
+            "cur_mid": "5227958363226191",
+            "w": 720,
+            "vtype": 0,
+            "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/006o1re3ly8hkpfjn85idj30u00u0ab7.jpg?KID=imgbed,tva&Expires=1761985446&ssig=L22439Tp3A",
+            "img": "http://wx2.sinaimg.cn/middle/006o1re3ly1i6vzs9d903j30k018g3zm.jpg",
+            "video_url": "https://video.weibo.com/show?fid=1034:5227957850144921",
+            "user_name": "蓝色的烟卷",
+            "hit_score_new": 0,
+            "doc_score": 0,
+            "img_pid": "006o1re3ly1i6vzs9d903j30k018g3zm",
+            "hit_score_final": 0,
+            "click_rate": 0,
+            "type": "v",
+            "scheme": "sinaweibo://video/vvs?mid=5227958363226191&multi_paragraph=1&multi_count=0"
+          },
+          {
+            "h": 1278,
+            "cur_mid": "5175199217485165",
+            "w": 720,
+            "vtype": 3,
+            "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.450.450.50/002wVUFrly8h8vgt7mcs2j60ci0ci0t002.jpg?KID=imgbed,tva&Expires=1761985446&ssig=fPIbdsBJOQ",
+            "img": "http://wx3.sinaimg.cn/middle/002wVUFrly1i27oeaidblj60k00zi0v002.jpg",
+            "video_url": "https://video.weibo.com/show?fid=1034:5175197993468016",
+            "user_name": "新浪热点",
+            "hit_score_new": 88.818359,
+            "doc_score": 5558,
+            "img_pid": "002wVUFrly1i27oeaidblj60k00zi0v002",
+            "hit_score_final": 77.291016,
+            "click_rate": 0,
+            "type": "v",
+            "scheme": "sinaweibo://video/vvs?mid=5175199217485165&multi_paragraph=2&multi_count=0"
+          },
+          {
+            "h": 1080,
+            "cur_mid": "4945162066462710",
+            "w": 1920,
+            "vtype": 3,
+            "user_avatar": "https://tvax1.sinaimg.cn/crop.0.0.600.600.50/0070ni15ly8hcmk65avs5j30go0godgt.jpg?KID=imgbed,tva&Expires=1761985446&ssig=hEGPLAGGxx",
+            "img": "http://wx4.sinaimg.cn/middle/0070ni15gy1hhtt29sinwj31hc0u0tdf.jpg",
+            "video_url": "https://video.weibo.com/show?fid=1034:4945161474474071",
+            "user_name": "星视频",
+            "hit_score_new": 82.763672,
+            "doc_score": 3123,
+            "img_pid": "0070ni15gy1hhtt29sinwj31hc0u0tdf",
+            "hit_score_final": 74.858208,
+            "click_rate": 0,
+            "type": "v",
+            "scheme": "sinaweibo://video/vvs?mid=4945162066462710&multi_paragraph=2&multi_count=1"
+          },
+          {
+            "h": 1600,
+            "cur_mid": "5227958363226191",
+            "w": 720,
+            "vtype": 0,
+            "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/006o1re3ly8hkpfjn85idj30u00u0ab7.jpg?KID=imgbed,tva&Expires=1761985446&ssig=L22439Tp3A",
+            "img": "http://wx2.sinaimg.cn/middle/006o1re3ly1i6vzs9d903j30k018g3zm.jpg",
+            "video_url": "https://video.weibo.com/show?fid=1034:5227957850144921",
+            "user_name": "蓝色的烟卷",
+            "hit_score_new": 0,
+            "doc_score": 0,
+            "img_pid": "006o1re3ly1i6vzs9d903j30k018g3zm",
+            "hit_score_final": 0,
+            "click_rate": 0,
+            "type": "v",
+            "scheme": "sinaweibo://video/vvs?mid=5227958363226191&multi_paragraph=1&multi_count=0"
+          }
+        ]
+      },
+      "ext_show": {},
+      "share_card_multimodal": {
+        "h": 1600,
+        "cur_mid": "5227958363226191",
+        "w": 720,
+        "vtype": 0,
+        "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/006o1re3ly8hkpfjn85idj30u00u0ab7.jpg?KID=imgbed,tva&Expires=1761985446&ssig=L22439Tp3A",
+        "img": "http://wx2.sinaimg.cn/middle/006o1re3ly1i6vzs9d903j30k018g3zm.jpg",
+        "video_url": "https://video.weibo.com/show?fid=1034:5227957850144921",
+        "user_name": "蓝色的烟卷",
+        "hit_score_new": 0,
+        "doc_score": 0,
+        "img_pid": "006o1re3ly1i6vzs9d903j30k018g3zm",
+        "hit_score_final": 0,
+        "click_rate": 0,
+        "type": "v",
+        "scheme": "sinaweibo://video/vvs?mid=5227958363226191&multi_paragraph=1&multi_count=0"
+      },
+      "version": "2025-11-01 13:24:06.023999-3211",
+      "zs_risk_control": {
+        "think_text_close": 0,
+        "land_button_close": 0
+      },
+      "scheme": "sinaweibo://cardlist?containerid=100103type%3D225%26q%3D%23%E5%A5%B3%E5%AD%90%E6%95%85%E6%84%8F%E5%A4%B9%E9%97%A8%E8%B5%B6%E5%9C%B0%E9%93%81%23%26t%3D&extparam=ai_model%3Ddeepseek%26ori_ai_title%3D%E5%8F%82%E8%80%83%E5%8D%9A%E6%96%87%26material_version%3D1761974646",
+      "chat_status_stage": 1,
+      "msg_json": "{}",
+      "short_url": "http://t.cn/AXAMVB5K",
+      "uid": "",
+      "wenda": {
+        "forward_gen": 0
+      },
+      "query_field": "60",
+      "mid_list": null,
+      "status_stage": 4,
+      "share_text": "#女子故意夹门赶地铁#的相关内容，来智搜看看",
+      "qs_status": 0,
+      "comment_info": {},
+      "query": "#女子故意夹门赶地铁#",
+      "current_time": 1761974900,
+      "profile_image_url": "",
+      "reference_num": 31,
+      "news_analyze": {},
+      "reliable_tips": "{\"gold_orange_v_mids\": [\"5227958363226191\", \"5228160221186265\", \"5228156064896105\", \"4947089298819014\", \"5030459692294500\", \"5228161889473168\", \"4729401483460746\", \"5148899649785525\", \"5226231055516097\", \"5227963370963617\", \"4945448740063092\"], \"gold_orange_v_ratio\": \"36%\", \"media_mids\": [\"4945162066462710\", \"4945168720203233\", \"4956064102744811\", \"4975917372279366\", \"4972989886759105\", \"4729477470620878\", \"5056809968863362\", \"4945176872880681\", \"5183229826698472\"], \"media_ratio\": \"29%\", \"verified_mids\": [\"5175199217485165\", \"4945157990911407\", \"4947275060346903\", \"5228160263128292\", \"4945167008137392\"], \"verified_ratio\": \"16%\", \"normal_mids\": [\"5228161463747930\", \"5228159559533985\", \"5228159033412556\", \"5228158465086447\", \"5227770416468494\", \"5224101094361532\"], \"normal_ratio\": \"19%\", \"ref_mid_rank\": {\"5227958363226191\": {\"rank\": 1}, \"5228160221186265\": {\"rank\": 14}, \"5228156064896105\": {\"rank\": 24}, \"5175199217485165\": {\"rank\": 3}, \"4945162066462710\": {\"rank\": 6}, \"4945168720203233\": {\"rank\": 10}, \"4945157990911407\": {\"rank\": 31}, \"4947089298819014\": {\"rank\": 9}, \"4947275060346903\": {\"rank\": 34}, \"5228161463747930\": {\"rank\": 15}, \"5228160263128292\": {\"rank\": 16}, \"5228159559533985\": {\"rank\": 17}, \"5228159033412556\": {\"rank\": 18}, \"5228158465086447\": {\"rank\": 19}, \"5227770416468494\": {\"rank\": 20}, \"4956064102744811\": {\"rank\": 25}, \"4975917372279366\": {\"rank\": 28}, \"4972989886759105\": {\"rank\": 4}, \"5030459692294500\": {\"rank\": 30}, \"5228161889473168\": {\"rank\": 2}, \"4729477470620878\": {\"rank\": 5}, \"4729401483460746\": {\"rank\": 7}, \"5056809968863362\": {\"rank\": 8}, \"5224101094361532\": {\"rank\": 21}, \"5148899649785525\": {\"rank\": 22}, \"4945176872880681\": {\"rank\": 23}, \"4945167008137392\": {\"rank\": 26}, \"5183229826698472\": {\"rank\": 27}, \"5226231055516097\": {\"rank\": 29}, \"5227963370963617\": {\"rank\": 32}, \"4945448740063092\": {\"rank\": 33}}, \"reliable_summary\": \"事件核心细节如发生时间、地点及行为目的缺乏官方证实，信息源主要为社交媒体用户描述，存在主观解读风险；关联案例虽存在但无法直接佐证本次事件真实性。\"}",
+      "show_ctrl": {
+        "quote": {}
+      },
+      "analysis_time": 1761974808,
+      "msg": "<think><br><br>嗯，用户查询的是\"女子故意夹门赶地铁\"，从搜索结果看这应该是近期一个热门事件。整理信息时发现几个关键点：<br><br>搜索结果1和24详细描述了事件经过——女子在地铁关门瞬间故意甩包卡门，利用屏蔽门未关则列车无法启动的安全机制，触发车门防夹系统重新开门后上车。这种钻系统漏洞的行为被网友称为\"精致利己主义\"。<br><br>公众反应相当激烈，多个认证账号和普通用户都要求严惩。这种情绪背后其实是对公共安全风险的担忧：结果3显示6月上海发生过类似甩包逼停地铁事件，而结果7提到2022年上海地铁夹人致死事故——可见冲门行为可能引发的后果远超常人想象。<br><br>技术层面也值得关注：结果14提到地铁车门虽有遇阻自动弹开功能，但结果11补充说明防夹系统对细小物品（如包带）可能失效。这意味着故意卡门不仅危险，还可能导致系统异常。<br><br>法律争议点在于处罚力度：结果12提到警方对6月甩包事件仅批评教育，引发\"违法成本太低\"的质疑。网友呼吁参照《治安管理处罚法》第二十三条进行拘留，这与轨道交通专家建议建立\"黑名单制度\"的提议形成对比。<br><br>最后注意到时效性问题：搜索结果集中在2025年10月底至11月初，说明事件刚发酵。而历史案例（2023年女子被夹背痛哭等）则印证了此类行为的持续性风险。<br><br>综合来看，这既是公共规则意识的讨论，也暴露出地铁应急机制与违规惩戒的深层矛盾。<br><br></think><br>关于“女子故意夹门赶地铁”事件，综合最新信息及关联案例，核心情况梳理如下：<br>### 🔍 **事件核心经过**  <br>根据网友描述与官方技术说明，该事件发生在2025年10月底（具体时间未公开），涉事女子在地铁车门即将关闭时，故意将手提包等物品甩入车门与屏蔽门之间的缝隙，触发地铁安全机制：  <br>1. **操作原理**：  <br>   - 地铁设计上，若屏蔽门未完全关闭，列车无法启动；  <br>   - 车门防夹系统检测到异物（如包带、衣物）可能自动弹开。```wbCustomBlock{\"type\": \"quoted\", \"index\": 6, \"data\": {\"num\": [1, 14, 24], \"version\": 2, \"quote_list\": [{\"name\": \"蓝色的烟卷\", \"scheme\": \"sinaweibo://detail?mblogid=5227958363226191\", \"index\": 1, \"label\": \"\"}, {\"name\": \"二七塔日记\", \"scheme\": \"sinaweibo://detail?mblogid=5228160221186265\", \"index\": 14, \"label\": \"\"}, {\"name\": \"蓝磕儿\", \"scheme\": \"sinaweibo://detail?mblogid=5228156064896105\", \"index\": 24, \"label\": \"\"}]}}```  <br>2. **行为目的**：  <br>   利用系统漏洞强行拖延关门时间，使车门重启后趁机上车，被批为“钻规则空子的精致利己行为”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 7, \"data\": {\"num\": [1, 24], \"version\": 2, \"quote_list\": [{\"name\": \"蓝色的烟卷\", \"scheme\": \"sinaweibo://detail?mblogid=5227958363226191\", \"index\": 1, \"label\": \"\"}, {\"name\": \"蓝磕儿\", \"scheme\": \"sinaweibo://detail?mblogid=5228156064896105\", \"index\": 24, \"label\": \"\"}]}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5227958363226191&multi_paragraph=1&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/006o1re3ly8hkpfjn85idj30u00u0ab7.jpg?KID=imgbed,tva&Expires=1761985446&ssig=L22439Tp3A) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">蓝色的烟卷</span><img src=\"http://wx2.sinaimg.cn/middle/006o1re3ly1i6vzs9d903j30k018g3zm.jpg\" data-width=1600 data-height=720></div></media-block><br>### ⚠️ **风险与危害**  <br>1. **安全威胁**：  <br>   - 易引发车门机械故障或传感系统误判，导致紧急制动（如上海6月甩包逼停事件中列车暂停1分钟）；```wbCustomBlock{\"type\": \"quoted\", \"index\": 11, \"data\": {\"num\": [3], \"version\": 2, \"quote_list\": [{\"name\": \"新浪热点\", \"scheme\": \"sinaweibo://detail?mblogid=5175199217485165\", \"index\": 3, \"label\": \"\"}]}}```  <br>   - 若防夹失效（如细小物品未触发感应），人或物品可能被夹住拖行（参考上海女子背夹车门痛哭案例）。```wbCustomBlock{\"type\": \"quoted\", \"index\": 12, \"data\": {\"num\": [6, 10, 31], \"version\": 2, \"quote_list\": [{\"name\": \"星视频\", \"scheme\": \"sinaweibo://detail?mblogid=4945162066462710\", \"index\": 6, \"label\": \"大v\"}, {\"name\": \"021视频\", \"scheme\": \"sinaweibo://detail?mblogid=4945168720203233\", \"index\": 10, \"label\": \"\"}, {\"name\": \"新浪新闻\", \"scheme\": \"sinaweibo://detail?mblogid=4945157990911407\", \"index\": 31, \"label\": \"\"}], \"name\": \"星视频\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.600.600.50/0070ni15ly8hcmk65avs5j30go0godgt.jpg?KID=imgbed,tva&Expires=1761985446&ssig=hEGPLAGGxx\", \"scheme\": \"sinaweibo://detail?mblogid=4945162066462710\", \"vType\": 3}}```  <br>2. **公共影响**：  <br>   - 扰乱运营秩序，可能引发连锁延误（虽本次未通报延误，但类似事件需应急处置）；```wbCustomBlock{\"type\": \"quoted\", \"index\": 14, \"data\": {\"num\": [3], \"version\": 2, \"quote_list\": [{\"name\": \"新浪热点\", \"scheme\": \"sinaweibo://detail?mblogid=5175199217485165\", \"index\": 3, \"label\": \"\"}]}}```  <br>   - 激化乘客矛盾（如浙江地铁因堵门推搡引发的争吵）。```wbCustomBlock{\"type\": \"quoted\", \"index\": 15, \"data\": {\"num\": [9, 34], \"version\": 2, \"quote_list\": [{\"name\": \"毛骨悚然的奇闻\", \"scheme\": \"sinaweibo://detail?mblogid=4947089298819014\", \"index\": 9, \"label\": \"\"}, {\"name\": \"南华视频\", \"scheme\": \"sinaweibo://detail?mblogid=4947275060346903\", \"index\": 34, \"label\": \"\"}]}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5175199217485165&multi_paragraph=2&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.450.450.50/002wVUFrly8h8vgt7mcs2j60ci0ci0t002.jpg?KID=imgbed,tva&Expires=1761985446&ssig=fPIbdsBJOQ) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">新浪热点</span><img src=\"http://wx3.sinaimg.cn/middle/002wVUFrly1i27oeaidblj60k00zi0v002.jpg\" data-width=1278 data-height=720></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=4945162066462710&multi_paragraph=2&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.600.600.50/0070ni15ly8hcmk65avs5j30go0godgt.jpg?KID=imgbed,tva&Expires=1761985446&ssig=hEGPLAGGxx) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">星视频</span><img src=\"http://wx4.sinaimg.cn/middle/0070ni15gy1hhtt29sinwj31hc0u0tdf.jpg\" data-width=1080 data-height=1920></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=4945168720203233&multi_paragraph=2&multi_count=2\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.600.600.50/006607Oxly8h8vcuhyev0j30go0goq3q.jpg?KID=imgbed,tva&Expires=1761985446&ssig=143NkfMZZa) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">021视频</span><img src=\"http://wx3.sinaimg.cn/middle/006607Oxgy1hhttujhto3j30k00qo45r.jpg\" data-width=960 data-height=720></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=4947089298819014&multi_paragraph=2&multi_count=3\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.31.564.564.50/0066QLA7ly8gbkamff4n6j30fo0jldhk.jpg?KID=imgbed,tva&Expires=1761985446&ssig=5%2BsAyVKmuS) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">毛骨悚然的奇闻</span><img src=\"http://wx3.sinaimg.cn/middle/0066QLA7ly1hhzy9tehe7j30u01hctev.jpg\" data-width=1920 data-height=1080></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=4947275060346903&multi_paragraph=2&multi_count=4\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/007KRtdLly8i4yg4qs9xhj30u00u0gmc.jpg?KID=imgbed,tva&Expires=1761985446&ssig=094zmnVwsD) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">南华视频</span><img src=\"http://wx4.sinaimg.cn/middle/007KRtdLgy1hi0jq1x1qsj30u01hcdki.jpg\" data-width=1920 data-height=1080></div></media-block><br>### 💬 **公众争议焦点**  <br>1. **处罚力度不足**：  <br>   - 多数网友质疑仅批评教育缺乏震慑力，呼吁行政拘留或罚款（参照《治安管理处罚法》第二十三条）；```wbCustomBlock{\"type\": \"quoted\", \"index\": 19, \"data\": {\"num\": [15, 16, 17], \"version\": 2, \"quote_list\": [{\"name\": \"苑承建\", \"scheme\": \"sinaweibo://detail?mblogid=5228161463747930\", \"index\": 15, \"label\": \"\"}, {\"name\": \"鲷鱼烧好香o\", \"scheme\": \"sinaweibo://detail?mblogid=5228160263128292\", \"index\": 16, \"label\": \"\"}, {\"name\": \"乔乔的小世界呀\", \"scheme\": \"sinaweibo://detail?mblogid=5228159559533985\", \"index\": 17, \"label\": \"\"}]}}```  <br>   - 对比2025年5月上海地铁踹人事件涉事者被行政处罚，公众要求统一执法标准。  <br>2. **模仿风险**：  <br>   - 部分网友讽刺“不罚就集体学习”，担心低成本违规引发效仿。```wbCustomBlock{\"type\": \"quoted\", \"index\": 22, \"data\": {\"num\": [18, 19], \"version\": 2, \"quote_list\": [{\"name\": \"谪居NymphsRepose\", \"scheme\": \"sinaweibo://detail?mblogid=5228159033412556\", \"index\": 18, \"label\": \"\"}, {\"name\": \"92645493不是qq号哟\", \"scheme\": \"sinaweibo://detail?mblogid=5228158465086447\", \"index\": 19, \"label\": \"\"}]}}```<br>### 🛠️ **地铁方的应对与技术局限**  <br>1. **现行处置**：  <br>   - 工作人员需紧急暂停列车（如激活关闭按钮），协调重启车门；```wbCustomBlock{\"type\": \"quoted\", \"index\": 26, \"data\": {\"num\": [3, 14], \"version\": 2, \"quote_list\": [{\"name\": \"新浪热点\", \"scheme\": \"sinaweibo://detail?mblogid=5175199217485165\", \"index\": 3, \"label\": \"\"}, {\"name\": \"二七塔日记\", \"scheme\": \"sinaweibo://detail?mblogid=5228160221186265\", \"index\": 14, \"label\": \"\"}]}}```  <br>   - 依赖人工干预，效率受客流密度影响（如早高峰头发、衣物被夹多发）。```wbCustomBlock{\"type\": \"quoted\", \"index\": 27, \"data\": {\"num\": [20, 25, 28], \"version\": 2, \"quote_list\": [{\"name\": \"农民频道\", \"scheme\": \"sinaweibo://detail?mblogid=4956064102744811\", \"index\": 25, \"label\": \"大v\"}, {\"name\": \"小小羊酱mm\", \"scheme\": \"sinaweibo://detail?mblogid=5227770416468494\", \"index\": 20, \"label\": \"\"}, {\"name\": \"先锋新闻\", \"scheme\": \"sinaweibo://detail?mblogid=4975917372279366\", \"index\": 28, \"label\": \"\"}], \"name\": \"农民频道\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/7a7b4b6bly8i15rq16385j20u00u00tf.jpg?KID=imgbed,tva&Expires=1761985446&ssig=%2ByqM8sA9Qh\", \"scheme\": \"sinaweibo://detail?mblogid=4956064102744811\", \"vType\": 3}}```  <br>2. **技术短板**：  <br>   - 防夹功能对大于25mm×60mm的刚性物敏感，但细软物品（包带、发丝）易漏检；```wbCustomBlock{\"type\": \"quoted\", \"index\": 29, \"data\": {\"num\": [14], \"version\": 2, \"quote_list\": [{\"name\": \"二七塔日记\", \"scheme\": \"sinaweibo://detail?mblogid=5228160221186265\", \"index\": 14, \"label\": \"\"}]}}```  <br>   - 部分线路屏蔽门与车门联动存在延迟（如南京夹人事故中双门反复开关）。```wbCustomBlock{\"type\": \"quoted\", \"index\": 30, \"data\": {\"num\": [4], \"version\": 2, \"quote_list\": [{\"name\": \"我苏特稿\", \"scheme\": \"sinaweibo://detail?mblogid=4972989886759105\", \"index\": 4, \"label\": \"大v\"}], \"name\": \"我苏特稿\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/0089OwKBly8hwk5bgpqa3j30u00u0413.jpg?KID=imgbed,tva&Expires=1761985446&ssig=ocuchBlbst\", \"scheme\": \"sinaweibo://detail?mblogid=4972989886759105\", \"vType\": 3}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=4956064102744811&multi_paragraph=4&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/7a7b4b6bly8i15rq16385j20u00u00tf.jpg?KID=imgbed,tva&Expires=1761985446&ssig=%2ByqM8sA9Qh) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">农民频道</span><img src=\"http://wx1.sinaimg.cn/middle/7a7b4b6bly1hisl6skp13j20mh0tzadi.jpg\" data-width=1079 data-height=809></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=4975917372279366&multi_paragraph=4&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.512.512.50/0026Hhp9ly8hlotcex901j60e80e8mxn02.jpg?KID=imgbed,tva&Expires=1761985446&ssig=pgjHo19%2FaY) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">先锋新闻</span><img src=\"http://wx2.sinaimg.cn/middle/0026Hhp9ly1hkjxb60f7ij60u01hctao02.jpg\" data-width=1920 data-height=1080></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=4972989886759105&multi_paragraph=4&multi_count=2\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/0089OwKBly8hwk5bgpqa3j30u00u0413.jpg?KID=imgbed,tva&Expires=1761985446&ssig=ocuchBlbst) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">我苏特稿</span><img src=\"http://wx2.sinaimg.cn/middle/0089OwKBly1hkantlrqmtj31h40twwhc.jpg\" data-width=1076 data-height=1912></div></media-block><br>### 📌 **安全呼吁与建议**  <br>1. **对乘客**：  <br>   - ❌ 切勿冲门、抛掷物品阻挡车门，避免“争秒”酿险（如南宁女子抢门致包带断裂，险伤手指）；```wbCustomBlock{\"type\": \"quoted\", \"index\": 34, \"data\": {\"num\": [30], \"version\": 2, \"quote_list\": [{\"name\": \"芝士奶盖微甜\", \"scheme\": \"sinaweibo://detail?mblogid=5030459692294500\", \"index\": 30, \"label\": \"\"}]}}```  <br>   - ✅ 若物品被夹，立即联系工作人员，勿强行拉拽。```wbCustomBlock{\"type\": \"quoted\", \"index\": 35, \"data\": {\"num\": [3], \"version\": 2, \"quote_list\": [{\"name\": \"新浪热点\", \"scheme\": \"sinaweibo://detail?mblogid=5175199217485165\", \"index\": 3, \"label\": \"\"}]}}```  <br>2. **对管理部门**：  <br>   - 升级传感技术（如推广红外检测或光柱系统）；```wbCustomBlock{\"type\": \"quoted\", \"index\": 37, \"data\": {\"num\": [14], \"version\": 2, \"quote_list\": [{\"name\": \"二七塔日记\", \"scheme\": \"sinaweibo://detail?mblogid=5228160221186265\", \"index\": 14, \"label\": \"\"}]}}```  <br>   - 探索“黑名单制度”惩戒多次违规者，并加强高峰时段引导。  <br><br>> **规则是公共安全的基石，钻漏洞的“聪明”终将付出代价。** 每起个案都在推动技术进步与规则完善，但生命与秩序的底线，容不得试探。<br>",
+      "model": "deepseek",
+      "msg_format": "markdown",
+      "share_info": {
+        "unify_md5": "36bbc5c3b6c13f4f9811244e53e9e218",
+        "tips": "#女子故意夹门赶地铁#的相关内容，来智搜看看",
+        "status": 3,
+        "page_id": "23296486216156842fb523d98290c046b7c484",
+        "comment_content": "",
+        "display_name": "#女子故意夹门赶地铁#",
+        "url": "http://t.cn/AXAMKFky"
+      },
+      "query_category": "",
+      "loop_times": 200,
+      "basemodel": "实验组5",
+      "user_info": {},
+      "page_id": "23296486216156842fb523d98290c046b7c484",
+      "q_attr": {
+        "comment_from_type": "",
+        "mid": "",
+        "from_uid": "",
+        "reply_cid": "",
+        "from_request_id": ""
+      },
+      "sorted_material_list": null,
+      "status": 2
+    }
+  },
+  "links": [
+    "sinaweibo://detail?mblogid=5227958363226191",
+    "sinaweibo://detail?mblogid=5228161889473168",
+    "sinaweibo://detail?mblogid=5175199217485165",
+    "sinaweibo://detail?mblogid=4972989886759105",
+    "sinaweibo://detail?mblogid=4729477470620878",
+    "sinaweibo://detail?mblogid=4945162066462710",
+    "sinaweibo://detail?mblogid=4729401483460746",
+    "sinaweibo://detail?mblogid=5056809968863362",
+    "sinaweibo://detail?mblogid=4947089298819014",
+    "sinaweibo://detail?mblogid=4945168720203233",
+    "historyweibo://5175199217485165",
+    "historyweibo://5175199217485165",
+    "historyweibo://5192317029057318",
+    "sinaweibo://detail?mblogid=5228160221186265",
+    "sinaweibo://detail?mblogid=5228161463747930",
+    "sinaweibo://detail?mblogid=5228160263128292",
+    "sinaweibo://detail?mblogid=5228159559533985",
+    "sinaweibo://detail?mblogid=5228159033412556",
+    "sinaweibo://detail?mblogid=5228158465086447",
+    "sinaweibo://detail?mblogid=5227770416468494",
+    "sinaweibo://detail?mblogid=5224101094361532",
+    "sinaweibo://detail?mblogid=5148899649785525",
+    "sinaweibo://detail?mblogid=4945176872880681",
+    "sinaweibo://detail?mblogid=5228156064896105",
+    "sinaweibo://detail?mblogid=4956064102744811",
+    "sinaweibo://detail?mblogid=4945167008137392",
+    "sinaweibo://detail?mblogid=5183229826698472",
+    "sinaweibo://detail?mblogid=4975917372279366",
+    "sinaweibo://detail?mblogid=5226231055516097",
+    "sinaweibo://detail?mblogid=5030459692294500",
+    "sinaweibo://detail?mblogid=4945157990911407",
+    "sinaweibo://detail?mblogid=5227963370963617",
+    "sinaweibo://detail?mblogid=4945448740063092",
+    "sinaweibo://detail?mblogid=4947275060346903"
+  ],
+  "media": [
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/006o1re3ly1i6vzs9d903j30k018g3zm.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/006o1re3ly1i6vzs9d903j30k018g3zm.jpg",
+      "alt": "蓝色的烟卷",
+      "width": 1600,
+      "height": 720,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/006o1re3ly1i6vzs9d903j30k018g3zm.jpg"
+      ],
+      "user": "蓝色的烟卷"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/002wVUFrly1i27oeaidblj60k00zi0v002.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/002wVUFrly1i27oeaidblj60k00zi0v002.jpg",
+      "alt": "新浪热点",
+      "width": 1278,
+      "height": 720,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/002wVUFrly1i27oeaidblj60k00zi0v002.jpg"
+      ],
+      "user": "新浪热点"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/0070ni15gy1hhtt29sinwj31hc0u0tdf.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/0070ni15gy1hhtt29sinwj31hc0u0tdf.jpg",
+      "alt": "星视频",
+      "width": 1080,
+      "height": 1920,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/0070ni15gy1hhtt29sinwj31hc0u0tdf.jpg"
+      ],
+      "user": "星视频"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/006607Oxgy1hhttujhto3j30k00qo45r.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/006607Oxgy1hhttujhto3j30k00qo45r.jpg",
+      "alt": "021视频",
+      "width": 960,
+      "height": 720,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/006607Oxgy1hhttujhto3j30k00qo45r.jpg"
+      ],
+      "user": "021视频"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/0066QLA7ly1hhzy9tehe7j30u01hctev.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/0066QLA7ly1hhzy9tehe7j30u01hctev.jpg",
+      "alt": "毛骨悚然的奇闻",
+      "width": 1920,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx4.sinaimg.cn/large/0066QLA7ly1hhzy9tehe7j30u01hctev.jpg"
+      ],
+      "user": "毛骨悚然的奇闻"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/007KRtdLgy1hi0jq1x1qsj30u01hcdki.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/007KRtdLgy1hi0jq1x1qsj30u01hcdki.jpg",
+      "alt": "南华视频",
+      "width": 1920,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/007KRtdLgy1hi0jq1x1qsj30u01hcdki.jpg"
+      ],
+      "user": "南华视频"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/7a7b4b6bly1hisl6skp13j20mh0tzadi.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/7a7b4b6bly1hisl6skp13j20mh0tzadi.jpg",
+      "alt": "农民频道",
+      "width": 1079,
+      "height": 809,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/7a7b4b6bly1hisl6skp13j20mh0tzadi.jpg"
+      ],
+      "user": "农民频道"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/0026Hhp9ly1hkjxb60f7ij60u01hctao02.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/0026Hhp9ly1hkjxb60f7ij60u01hctao02.jpg",
+      "alt": "先锋新闻",
+      "width": 1920,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/0026Hhp9ly1hkjxb60f7ij60u01hctao02.jpg"
+      ],
+      "user": "先锋新闻"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/0089OwKBly1hkantlrqmtj31h40twwhc.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/0089OwKBly1hkantlrqmtj31h40twwhc.jpg",
+      "alt": "我苏特稿",
+      "width": 1076,
+      "height": 1912,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/0089OwKBly1hkantlrqmtj31h40twwhc.jpg"
+      ],
+      "user": "我苏特稿"
+    }
+  ],
+  "html_path": "data/aicard/hourly/2025-11-01/13/topic-36bbc5c3.html"
+}

@@ -1,0 +1,356 @@
+{
+  "meta": {
+    "query": "#桂花很笨#",
+    "status_code": 200,
+    "fetched_at": "2025-10-31T22:45:43+08:00",
+    "response": {
+      "msg_format": "markdown",
+      "share_card_multimodal": {
+        "type": "v",
+        "cur_mid": "5225317405819373",
+        "user_name": "央视财经",
+        "vtype": 3,
+        "img": "http://wx2.sinaimg.cn/middle/002sRokily1i6nhj736guj60rr0fmdt802.jpg",
+        "scheme": "sinaweibo://video/vvs?mid=5225317405819373&multi_paragraph=1&multi_count=0",
+        "video_url": "https://video.weibo.com/show?fid=1034:5225289517826086",
+        "user_avatar": "https://tvax2.sinaimg.cn/crop.0.0.700.700.50/002sRokily8h8vg8b1kf7j60jg0jgwf602.jpg?KID=imgbed,tva&Expires=1761926235&ssig=svF%2BTtw7IC",
+        "hit_score_new": 52.734375,
+        "doc_score": 2609,
+        "img_pid": "002sRokily1i6nhj736guj60rr0fmdt802",
+        "w": 999,
+        "click_rate": 0,
+        "hit_score_final": 54.840626,
+        "h": 562
+      },
+      "zs_risk_control": {
+        "think_text_close": 0,
+        "land_button_close": 0
+      },
+      "share_info": {
+        "comment_content": "",
+        "status": 3,
+        "unify_md5": "cca0d3455e1f09e32b4595c6b92c1844",
+        "page_id": "232964272b5fabe4e3a2750621d9d6d1e983a6",
+        "url": "http://t.cn/AXAbnkvv",
+        "tips": "#桂花很笨#的相关内容，来智搜看看",
+        "display_name": "#桂花很笨#"
+      },
+      "short_url": "http://t.cn/AXAyudKO",
+      "cot": 1,
+      "qs_status_info": "{\"qs_status\":0,\"qs_c_status\":8388608,\"qs_q_status\":0,\"ab_lab\":{},\"qs_r_status\":0,\"qs_u_status\":0}",
+      "ext_show": {},
+      "query_field": "2",
+      "status_stage": 4,
+      "analysis_time": 1761915512,
+      "reliable_tips": "{\"gold_orange_v_mids\": [\"5227554206385956\", \"5227571656524910\", \"5227218192040749\", \"5227540679754079\", \"5227546914063778\", \"5227786453390434\", \"5227534371523507\", \"5227541021591959\", \"5227553637794602\", \"5227541063535666\", \"5227531334583519\", \"5227604743553836\", \"5227544842602613\", \"5227562542304429\", \"5227549032448347\", \"5227531789666107\", \"5227428716745272\", \"5227545918178462\", \"5227796605702296\", \"5227568664943630\", \"5227528290570912\", \"5227535232144572\", \"5227721522677092\", \"5227588919234663\", \"5227529310044421\", \"5227548356121809\", \"5227556439589453\", \"5227539107681301\"], \"gold_orange_v_ratio\": \"78%\", \"media_mids\": [\"5225317405819373\", \"5227540869553554\"], \"media_ratio\": \"6%\", \"verified_mids\": [\"5227548174979401\", \"5227546190807763\", \"5227752233895050\"], \"verified_ratio\": \"8%\", \"normal_mids\": [\"5227572153548991\", \"5227562109509096\", \"5227557805889848\"], \"normal_ratio\": \"8%\", \"ref_mid_rank\": {\"5227554206385956\": {\"rank\": 13}, \"5227571656524910\": {\"rank\": 17}, \"5225317405819373\": {\"rank\": 39}, \"5227548174979401\": {\"rank\": 9}, \"5227218192040749\": {\"rank\": 1}, \"5227540679754079\": {\"rank\": 10}, \"5227546914063778\": {\"rank\": 22}, \"5227786453390434\": {\"rank\": 32}, \"5227534371523507\": {\"rank\": 5}, \"5227572153548991\": {\"rank\": 34}, \"5227541021591959\": {\"rank\": 2}, \"5227553637794602\": {\"rank\": 23}, \"5227562109509096\": {\"rank\": 31}, \"5227541063535666\": {\"rank\": 24}, \"5227546190807763\": {\"rank\": 36}, \"5227531334583519\": {\"rank\": 3}, \"5227604743553836\": {\"rank\": 4}, \"5227544842602613\": {\"rank\": 11}, \"5227562542304429\": {\"rank\": 12}, \"5227549032448347\": {\"rank\": 14}, \"5227557805889848\": {\"rank\": 15}, \"5227531789666107\": {\"rank\": 16}, \"5227428716745272\": {\"rank\": 18}, \"5227545918178462\": {\"rank\": 19}, \"5227796605702296\": {\"rank\": 20}, \"5227568664943630\": {\"rank\": 21}, \"5227528290570912\": {\"rank\": 25}, \"5227535232144572\": {\"rank\": 26}, \"5227721522677092\": {\"rank\": 27}, \"5227752233895050\": {\"rank\": 28}, \"5227588919234663\": {\"rank\": 29}, \"5227529310044421\": {\"rank\": 30}, \"5227548356121809\": {\"rank\": 33}, \"5227556439589453\": {\"rank\": 35}, \"5227540869553554\": {\"rank\": 37}, \"5227539107681301\": {\"rank\": 38}}}",
+      "current_time": 1761921943,
+      "profile_image_url": "",
+      "user_info": {},
+      "status": 2,
+      "model": "deepseek",
+      "wenda": {
+        "forward_gen": 0
+      },
+      "version": "2025-10-31 20:57:15.017999-5863",
+      "loop_times": 200,
+      "show_ctrl": {
+        "quote": {}
+      },
+      "page_id": "232964272b5fabe4e3a2750621d9d6d1e983a6",
+      "qs_status": 0,
+      "msg": "<think><br>嗯，用户让我分析关于\"桂花很笨\"的搜索结果，并生成一个综合的回答。首先需要理清楚各个搜索结果的核心观点，特别是那些优质搜索结果的解读。<br><br>结果1提到桂花容易被温度欺骗，反复开花凋谢，网友觉得这是在隐喻人。这个观点在后面的结果中多次出现，比如结果13和39也提到气候异常导致桂花多次开放的现象。这里可以看出，用户可能对\"笨\"的拟人化表达感兴趣。<br><br>然后看资料类的结果6，它详细解释了\"笨\"的科学原因：桂花对温度敏感，需要低温催芽但高温促开花，今年的异常气候导致花期紊乱。这个点被结果17补充，强调这是植物的应激策略而非真正的笨，属于生存智慧。这里需要将科学解释和人文解读结合起来。<br><br>情感投射方面，结果9山东消防的比喻很关键，认为桂花的\"笨\"其实是不计后果的奉献精神。结果22和25进一步升华，把这种笨拙转化为对真诚、勇敢的赞美。用户可能希望突出这种正面解读。<br><br>文化差异和地域特色在结果2、4、23中都有体现，比如南方的摇花习俗、北方少见桂花的遗憾。结果5和17提到不同品种的桂花特性，金桂浓香、银桂淡雅，可以丰富品种差异的部分。<br><br>关于假桂花的事件是个有趣的延伸，说明人们对桂花的期待如此之高，以至于公园用假花来弥补遗憾。这侧面反映了桂花在文化中的重要性。<br><br>最后需要总结，强调\"笨\"背后的深层含义：自然的适应机制和人类的情感共鸣。结果17和31都提到桂花的香气带来的治愈感，这部分可以放在结尾，让整体回答既有科学又有诗意。<br><br>综合所有信息，回答的结构可以分四个部分：科学解释、情感隐喻、文化意义、总结升华。每个部分引用对应的搜索结果，尤其是优质结果和权威账号如山东消防、央视财经的内容，确保可信度。同时注意时效性，优先2025年10月底的数据。<br><br></think><br>以下是关于“桂花很笨”现象的深度解析，综合科学本质、文化隐喻与公众共鸣三个维度呈现：<br>### 🌸 **一、科学本质：气候敏感性的生存智慧**  <br>1. **“笨”的生物学机制**  <br>   桂花的花芽分化需累积20天以上5-15℃低温，而开花需20℃以上高温触发。2025年秋老虎延长导致多地花期推迟20余天（如上海、杭州），而骤冷骤暖则使合肥等地出现“二次开花”。这种反复非“笨”，而是植物为抓住短暂授粉期的进化策略——四季桂甚至演化出“高频开花”特性提高生存概率。```wbCustomBlock{\"type\": \"quoted\", \"index\": 4, \"data\": {\"num\": [13, 17, 39], \"version\": 2, \"quote_list\": [{\"name\": \"央视财经\", \"scheme\": \"sinaweibo://detail?mblogid=5225317405819373\", \"index\": 39, \"label\": \"大v\"}, {\"name\": \"yi颗小番茄啊\", \"scheme\": \"sinaweibo://detail?mblogid=5227554206385956\", \"index\": 13, \"label\": \"\"}, {\"name\": \"云间漫歌\", \"scheme\": \"sinaweibo://detail?mblogid=5227571656524910\", \"index\": 17, \"label\": \"\"}], \"name\": \"央视财经\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.700.700.50/002sRokily8h8vg8b1kf7j60jg0jgwf602.jpg?KID=imgbed,tva&Expires=1761926235&ssig=svF%2BTtw7IC\", \"scheme\": \"sinaweibo://detail?mblogid=5225317405819373\", \"vType\": 3}}```<br><br>2. **气象异常放大现象**  <br>   全球气候异常加剧花期紊乱：浙江高温“诱骗”桂花开放后突遇降温，网友戏称“杭州桂花被剪成蘑菇头”；山东消防比喻其“明知凋零仍香满人间的倔强”，凸显自然应对极端气候的韧性。```wbCustomBlock{\"type\": \"quoted\", \"index\": 5, \"data\": {\"num\": [9, 39], \"version\": 2, \"quote_list\": [{\"name\": \"山东消防\", \"scheme\": \"sinaweibo://detail?mblogid=5227548174979401\", \"index\": 9, \"label\": \"大v\"}, {\"name\": \"央视财经\", \"scheme\": \"sinaweibo://detail?mblogid=5225317405819373\", \"index\": 39, \"label\": \"\"}], \"name\": \"山东消防\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/d6e57f89ly8hi1lcrfa6lj20u00u041n.jpg?KID=imgbed,tva&Expires=1761926235&ssig=9GBsxp6QqX\", \"scheme\": \"sinaweibo://detail?mblogid=5227548174979401\", \"vType\": 1}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5225317405819373&multi_paragraph=1&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.700.700.50/002sRokily8h8vg8b1kf7j60jg0jgwf602.jpg?KID=imgbed,tva&Expires=1761926235&ssig=svF%2BTtw7IC) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">央视财经</span><img src=\"http://wx2.sinaimg.cn/middle/002sRokily1i6nhj736guj60rr0fmdt802.jpg\" data-width=562 data-height=999></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5227554206385956&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=1\"><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.512.512.50/dff56730ly8g0y311c9vjj20e80e8jro.jpg?KID=imgbed,tva&Expires=1761926235&ssig=CPGl2%2Bfjpa) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">yi颗小番茄啊</span><img src=\"http://wx2.sinaimg.cn/middle/dff56730gy1i6upa87rg5j23b04eo1l0.jpg\" data-width=5712 data-height=4284></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5227571656524910&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=2\"><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/008aLx0Dly8i274dhmlkxj30u00u0mzr.jpg?KID=imgbed,tva&Expires=1761926235&ssig=hQ4TIItHVJ) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">云间漫歌</span><img src=\"http://wx4.sinaimg.cn/middle/008aLx0Dgy1i6ures0kf7j30r2127jv3.jpg\" data-width=1375 data-height=974></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5227548174979401&multi_paragraph=1&multi_count=3\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/d6e57f89ly8hi1lcrfa6lj20u00u041n.jpg?KID=imgbed,tva&Expires=1761926235&ssig=9GBsxp6QqX) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">山东消防</span><img src=\"http://wx4.sinaimg.cn/middle/d6e57f89ly1i6uopwhw4pj20u0141alz.jpg\" data-width=1441 data-height=1080></div></media-block><br>### 💫 **二、情感投射：当代社会的集体共鸣**  <br>1. **自嘲式共情**  <br>   “被温度欺骗就开花”被解读为现代人缩影：感受到温暖便毫无保留付出，无视潜在伤害，如同桂花在反复降温中坚持绽放。网友```wbCustomBlock{\"type\": \"midquoted\", \"index\": \"5686037114_1\", \"data\": {\"name\": \"捏兎\", \"scheme\": \"https://weibo.com/u/5686037114\"}}```称其为“唯自己幸福主义”——感受爱时盛放，无爱时决然凋零。```wbCustomBlock{\"type\": \"quoted\", \"index\": 8, \"data\": {\"num\": [1, 10], \"version\": 2, \"quote_list\": [{\"name\": \"胖子很可以\", \"scheme\": \"sinaweibo://detail?mblogid=5227218192040749\", \"index\": 1, \"label\": \"大v\"}, {\"name\": \"捏兎\", \"scheme\": \"sinaweibo://detail?mblogid=5227540679754079\", \"index\": 10, \"label\": \"\"}], \"name\": \"胖子很可以\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.996.996.50/0074ukeBly8gf28wvmul7j30ro0roq57.jpg?KID=imgbed,tva&Expires=1761926235&ssig=mSo%2BsnGpm1\", \"scheme\": \"sinaweibo://detail?mblogid=5227218192040749\", \"vType\": 0}}```<br><br>2. **笨拙美学升华**  <br>   - **奉献象征**：桂花凋落后仍以糕点、茶饮延续价值，恰如平凡者的真诚奉献；```wbCustomBlock{\"type\": \"quoted\", \"index\": 10, \"data\": {\"num\": [22], \"version\": 2, \"quote_list\": [{\"name\": \"素笺淡墨0807\", \"scheme\": \"sinaweibo://detail?mblogid=5227546914063778\", \"index\": 22, \"label\": \"大v\"}], \"name\": \"素笺淡墨0807\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/006NLtmXly8hcq5oor5a2j30u00u0772.jpg?KID=imgbed,tva&Expires=1761926235&ssig=dqpd7VMuCU\", \"scheme\": \"sinaweibo://detail?mblogid=5227546914063778\", \"vType\": 0}}```  <br>   - **勇敢哲学**：学生```wbCustomBlock{\"type\": \"midquoted\", \"index\": \"6053922896_1\", \"data\": {\"name\": \"一本正经的日记sky\", \"scheme\": \"https://weibo.com/u/6053922896\"}}```从中领悟“无需瞻前顾后，抓住时机即是勇敢”；```wbCustomBlock{\"type\": \"quoted\", \"index\": 11, \"data\": {\"num\": [32], \"version\": 2, \"quote_list\": [{\"name\": \"一本正经的日记sky\", \"scheme\": \"sinaweibo://detail?mblogid=5227786453390434\", \"index\": 32, \"label\": \"大v\"}], \"name\": \"一本正经的日记sky\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.1008.1008.50/006BHDTGly8gvlrbr0nz7j60s00s0tao02.jpg?KID=imgbed,tva&Expires=1761926235&ssig=OJruqoHD8a\", \"scheme\": \"sinaweibo://detail?mblogid=5227786453390434\", \"vType\": 0}}```  <br>   - **通透态度**：作家```wbCustomBlock{\"type\": \"midquoted\", \"index\": \"6232151771_1\", \"data\": {\"name\": \"素笺淡墨0807\", \"scheme\": \"https://weibo.com/u/6232151771\"}}```赞其“不争春色、含蓄飘香”，诠释藏拙的智慧。```wbCustomBlock{\"type\": \"quoted\", \"index\": 12, \"data\": {\"num\": [22], \"version\": 2, \"quote_list\": [{\"name\": \"素笺淡墨0807\", \"scheme\": \"sinaweibo://detail?mblogid=5227546914063778\", \"index\": 22, \"label\": \"\"}]}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://multimedia?mix_mid=5227540679754079&mix_index=0&multi_paragraph=2&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/006cO202ly8i6fuul1cuqj30u00u0dig.jpg?KID=imgbed,tva&Expires=1761926235&ssig=j4Acftb9lo) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">捏兎</span><img src=\"http://wx3.sinaimg.cn/middle/006cO202gy1i6unuqnb11j30u0140gom.jpg\" data-width=1440 data-height=1080></div></media-block><br>### 🏮 **三、文化解构：从调侃到诗意重生**  <br>1. **颠覆传统认知**  <br>   有观点批评大众仅视桂花为“秋日标签”，强调需懂其层次：金桂霸道浓烈称“王者香”，银桂幽远如私语谓“魂魄香”，丹桂胜在色而非香，四季桂以勤奋刷存在感。网友自嘲“除丹桂橙红外，永远分不清品种”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 15, \"data\": {\"num\": [5, 17, 34], \"version\": 2, \"quote_list\": [{\"name\": \"解藥副作用\", \"scheme\": \"sinaweibo://detail?mblogid=5227534371523507\", \"index\": 5, \"label\": \"\"}, {\"name\": \"云间漫歌\", \"scheme\": \"sinaweibo://detail?mblogid=5227571656524910\", \"index\": 17, \"label\": \"\"}, {\"name\": \"闭眼听风过无痕\", \"scheme\": \"sinaweibo://detail?mblogid=5227572153548991\", \"index\": 34, \"label\": \"\"}]}}```<br><br>2. **乡土记忆载体**  <br>   南方人借#桂花很笨#追忆童年：雨后打落桂花制糕（“摇花乐”），香气串联奶奶的铁皮饼干盒、秋雨中的杭州老街。北方网友```wbCustomBlock{\"type\": \"midquoted\", \"index\": \"2684192063_1\", \"data\": {\"name\": \"熙熙and两只葫芦娃\", \"scheme\": \"https://weibo.com/u/2684192063\"}}```感慨“只会在南方开，来北方定更珍贵”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 16, \"data\": {\"num\": [2, 23, 31], \"version\": 2, \"quote_list\": [{\"name\": \"海那个角\", \"scheme\": \"sinaweibo://detail?mblogid=5227541021591959\", \"index\": 2, \"label\": \"\"}, {\"name\": \"熙熙and两只葫芦娃\", \"scheme\": \"sinaweibo://detail?mblogid=5227553637794602\", \"index\": 23, \"label\": \"\"}, {\"name\": \"吃奶酪的昭儿\", \"scheme\": \"sinaweibo://detail?mblogid=5227562109509096\", \"index\": 31, \"label\": \"\"}]}}```<br><br>3. **假桂花事件延伸**  <br>   苏州公园曾因花期延迟绑塑料桂花引发争议，市民最终共识：人造景观难替代自然体验，气候教育比形式补救更重要。侧面印证人们对桂花的情感依赖远超观赏需求。<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5227534371523507&multi_paragraph=3&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/008pfNuzly8i6pkure4jbj30u00u0acz.jpg?KID=imgbed,tva&Expires=1761926235&ssig=on%2FSumOuRM) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">解藥副作用</span><img src=\"http://wx1.sinaimg.cn/middle/008pfNuzly1i6un4hpk2zj30u01hcgoh.jpg\" data-width=1920 data-height=1080></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5227541021591959&multi_paragraph=3&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/008eSizIly8hbn02nye15j30u00u0q56.jpg?KID=imgbed,tva&Expires=1761926235&ssig=lCxWpGuxkO) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">海那个角</span><img src=\"http://wx1.sinaimg.cn/middle/008eSizIly1i6unviuh2uj30u01hcwi6.jpg\" data-width=1920 data-height=1080></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5227553637794602&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=3&multi_count=2\"><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.1024.1024.50/9ffd853fly8i0r2hzfoedj20sg0sgtfw.jpg?KID=imgbed,tva&Expires=1761926235&ssig=FdFfomVelO) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">熙熙and两只葫芦娃</span><img src=\"http://wx4.sinaimg.cn/middle/9ffd853fly1i6up9mktbzj20tq10mdo8.jpg\" data-width=1318 data-height=1070></div></media-block><br>### 💎 **四、本质揭示：自然法则与人文思考的交融**  <br>所谓“笨”，实为**千万年演化的高效生存策略**——以敏感捕捉短暂适宜期，最大化繁衍机会。其反复开花现象恰如哲学家```wbCustomBlock{\"type\": \"midquoted\", \"index\": \"6082187489_1\", \"data\": {\"name\": \"蝶蝶不羞\", \"scheme\": \"https://weibo.com/u/6082187489\"}}```所言：“事无常，花有信，兑现的是与秋天的古老约定”。当城市中弥漫起“免费的空气香水”（```wbCustomBlock{\"type\": \"midquoted\", \"index\": \"3120319221_1\", \"data\": {\"name\": \"lucky大碗\", \"scheme\": \"https://weibo.com/u/3120319221\"}}```语），人们真正迷恋的，正是这份**不计得失的生命力**——在荒诞现实中，笨拙地传递温柔。```wbCustomBlock{\"type\": \"quoted\", \"index\": 19, \"data\": {\"num\": [17, 24, 36], \"version\": 2, \"quote_list\": [{\"name\": \"云间漫歌\", \"scheme\": \"sinaweibo://detail?mblogid=5227571656524910\", \"index\": 17, \"label\": \"\"}, {\"name\": \"蝶蝶不羞\", \"scheme\": \"sinaweibo://detail?mblogid=5227541063535666\", \"index\": 24, \"label\": \"\"}, {\"name\": \"lucky大碗\", \"scheme\": \"sinaweibo://detail?mblogid=5227546190807763\", \"index\": 36, \"label\": \"\"}]}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5227541063535666&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=4&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.736.736.50/006DCeOdly8geyvke8suyj30kg0kgq5a.jpg?KID=imgbed,tva&Expires=1761926235&ssig=l7ijYHpDhk) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">蝶蝶不羞</span><img src=\"http://wx1.sinaimg.cn/middle/006DCeOdgy1i6unv2qynzj30v01fywtz.jpg\" data-width=1870 data-height=1116></div></media-block><br>",
+      "comment_info": {},
+      "query": "#桂花很笨#",
+      "q_attr": {
+        "from_request_id": "1761915433429",
+        "reply_cid": "",
+        "comment_from_type": "",
+        "from_uid": "6039917841",
+        "mid": ""
+      },
+      "sorted_material_list": null,
+      "share_text": "#桂花很笨#的相关内容，来智搜看看",
+      "unify_md5": "cca0d3455e1f09e32b4595c6b92c1844",
+      "mid_list": null,
+      "ab_suffix": "default",
+      "basemodel": "实验组1",
+      "msg_json": "{}",
+      "chat_status_stage": 1,
+      "news_analyze": {},
+      "reference_num": 36,
+      "query_category": "",
+      "link_list": [
+        "sinaweibo://detail?mblogid=5227218192040749",
+        "sinaweibo://detail?mblogid=5227541021591959",
+        "sinaweibo://detail?mblogid=5227531334583519",
+        "sinaweibo://detail?mblogid=5227604743553836",
+        "sinaweibo://detail?mblogid=5227534371523507",
+        "historyweibo://5227218192040749",
+        "historyweibo://5222081714198133",
+        "historyweibo://5220292415717959",
+        "sinaweibo://detail?mblogid=5227548174979401",
+        "sinaweibo://detail?mblogid=5227540679754079",
+        "sinaweibo://detail?mblogid=5227544842602613",
+        "sinaweibo://detail?mblogid=5227562542304429",
+        "sinaweibo://detail?mblogid=5227554206385956",
+        "sinaweibo://detail?mblogid=5227549032448347",
+        "sinaweibo://detail?mblogid=5227557805889848",
+        "sinaweibo://detail?mblogid=5227531789666107",
+        "sinaweibo://detail?mblogid=5227571656524910",
+        "sinaweibo://detail?mblogid=5227428716745272",
+        "sinaweibo://detail?mblogid=5227545918178462",
+        "sinaweibo://detail?mblogid=5227796605702296",
+        "sinaweibo://detail?mblogid=5227568664943630",
+        "sinaweibo://detail?mblogid=5227546914063778",
+        "sinaweibo://detail?mblogid=5227553637794602",
+        "sinaweibo://detail?mblogid=5227541063535666",
+        "sinaweibo://detail?mblogid=5227528290570912",
+        "sinaweibo://detail?mblogid=5227535232144572",
+        "sinaweibo://detail?mblogid=5227721522677092",
+        "sinaweibo://detail?mblogid=5227752233895050",
+        "sinaweibo://detail?mblogid=5227588919234663",
+        "sinaweibo://detail?mblogid=5227529310044421",
+        "sinaweibo://detail?mblogid=5227562109509096",
+        "sinaweibo://detail?mblogid=5227786453390434",
+        "sinaweibo://detail?mblogid=5227548356121809",
+        "sinaweibo://detail?mblogid=5227572153548991",
+        "sinaweibo://detail?mblogid=5227556439589453",
+        "sinaweibo://detail?mblogid=5227546190807763",
+        "sinaweibo://detail?mblogid=5227540869553554",
+        "sinaweibo://detail?mblogid=5227539107681301",
+        "sinaweibo://detail?mblogid=5225317405819373"
+      ],
+      "card_multimodal": {
+        "type": "mediablock",
+        "data": [
+          {
+            "type": "v",
+            "cur_mid": "5225317405819373",
+            "user_name": "央视财经",
+            "vtype": 3,
+            "img": "http://wx2.sinaimg.cn/middle/002sRokily1i6nhj736guj60rr0fmdt802.jpg",
+            "scheme": "sinaweibo://video/vvs?mid=5225317405819373&multi_paragraph=1&multi_count=0",
+            "video_url": "https://video.weibo.com/show?fid=1034:5225289517826086",
+            "user_avatar": "https://tvax2.sinaimg.cn/crop.0.0.700.700.50/002sRokily8h8vg8b1kf7j60jg0jgwf602.jpg?KID=imgbed,tva&Expires=1761926235&ssig=svF%2BTtw7IC",
+            "hit_score_new": 52.734375,
+            "doc_score": 2609,
+            "img_pid": "002sRokily1i6nhj736guj60rr0fmdt802",
+            "w": 999,
+            "click_rate": 0,
+            "hit_score_final": 54.840626,
+            "h": 562
+          },
+          {
+            "type": "p",
+            "cur_mid": "5227554206385956",
+            "user_name": "yi颗小番茄啊",
+            "vtype": 0,
+            "img": "http://wx2.sinaimg.cn/middle/dff56730gy1i6upa87rg5j23b04eo1l0.jpg",
+            "scheme": "sinaweibo://multimedia?mix_mid=5227554206385956&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=1",
+            "video_url": "",
+            "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.512.512.50/dff56730ly8g0y311c9vjj20e80e8jro.jpg?KID=imgbed,tva&Expires=1761926235&ssig=CPGl2%2Bfjpa",
+            "hit_score_new": 99.023438,
+            "doc_score": 4406,
+            "img_pid": "dff56730gy1i6upa87rg5j23b04eo1l0",
+            "w": 4284,
+            "click_rate": 0,
+            "hit_score_final": 91.414062,
+            "h": 5712
+          },
+          {
+            "type": "p",
+            "cur_mid": "5227571656524910",
+            "user_name": "云间漫歌",
+            "vtype": 0,
+            "img": "http://wx4.sinaimg.cn/middle/008aLx0Dgy1i6ures0kf7j30r2127jv3.jpg",
+            "scheme": "sinaweibo://multimedia?mix_mid=5227571656524910&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=2",
+            "video_url": "",
+            "user_avatar": "https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/008aLx0Dly8i274dhmlkxj30u00u0mzr.jpg?KID=imgbed,tva&Expires=1761926235&ssig=hQ4TIItHVJ",
+            "hit_score_new": 99.023438,
+            "doc_score": 4556,
+            "img_pid": "008aLx0Dgy1i6ures0kf7j30r2127jv3",
+            "w": 974,
+            "click_rate": 0,
+            "hit_score_final": 91.414062,
+            "h": 1375
+          },
+          {
+            "type": "v",
+            "cur_mid": "5225317405819373",
+            "user_name": "央视财经",
+            "vtype": 3,
+            "img": "http://wx2.sinaimg.cn/middle/002sRokily1i6nhj736guj60rr0fmdt802.jpg",
+            "scheme": "sinaweibo://video/vvs?mid=5225317405819373&multi_paragraph=1&multi_count=0",
+            "video_url": "https://video.weibo.com/show?fid=1034:5225289517826086",
+            "user_avatar": "https://tvax2.sinaimg.cn/crop.0.0.700.700.50/002sRokily8h8vg8b1kf7j60jg0jgwf602.jpg?KID=imgbed,tva&Expires=1761926235&ssig=svF%2BTtw7IC",
+            "hit_score_new": 52.734375,
+            "doc_score": 2609,
+            "img_pid": "002sRokily1i6nhj736guj60rr0fmdt802",
+            "w": 999,
+            "click_rate": 0,
+            "hit_score_final": 54.840626,
+            "h": 562
+          }
+        ]
+      },
+      "top_quote_list": {},
+      "uid": "",
+      "scheme": "sinaweibo://cardlist?containerid=100103type%3D225%26q%3D%23%E6%A1%82%E8%8A%B1%E5%BE%88%E7%AC%A8%23%26t%3D&extparam=ai_model%3Ddeepseek%26ori_ai_title%3D%E5%8F%82%E8%80%83%E5%8D%9A%E6%96%87%26material_version%3D1761915435",
+      "abtest_info": {
+        "chat_entrance": 1
+      }
+    }
+  },
+  "links": [
+    "sinaweibo://detail?mblogid=5227218192040749",
+    "sinaweibo://detail?mblogid=5227541021591959",
+    "sinaweibo://detail?mblogid=5227531334583519",
+    "sinaweibo://detail?mblogid=5227604743553836",
+    "sinaweibo://detail?mblogid=5227534371523507",
+    "historyweibo://5227218192040749",
+    "historyweibo://5222081714198133",
+    "historyweibo://5220292415717959",
+    "sinaweibo://detail?mblogid=5227548174979401",
+    "sinaweibo://detail?mblogid=5227540679754079",
+    "sinaweibo://detail?mblogid=5227544842602613",
+    "sinaweibo://detail?mblogid=5227562542304429",
+    "sinaweibo://detail?mblogid=5227554206385956",
+    "sinaweibo://detail?mblogid=5227549032448347",
+    "sinaweibo://detail?mblogid=5227557805889848",
+    "sinaweibo://detail?mblogid=5227531789666107",
+    "sinaweibo://detail?mblogid=5227571656524910",
+    "sinaweibo://detail?mblogid=5227428716745272",
+    "sinaweibo://detail?mblogid=5227545918178462",
+    "sinaweibo://detail?mblogid=5227796605702296",
+    "sinaweibo://detail?mblogid=5227568664943630",
+    "sinaweibo://detail?mblogid=5227546914063778",
+    "sinaweibo://detail?mblogid=5227553637794602",
+    "sinaweibo://detail?mblogid=5227541063535666",
+    "sinaweibo://detail?mblogid=5227528290570912",
+    "sinaweibo://detail?mblogid=5227535232144572",
+    "sinaweibo://detail?mblogid=5227721522677092",
+    "sinaweibo://detail?mblogid=5227752233895050",
+    "sinaweibo://detail?mblogid=5227588919234663",
+    "sinaweibo://detail?mblogid=5227529310044421",
+    "sinaweibo://detail?mblogid=5227562109509096",
+    "sinaweibo://detail?mblogid=5227786453390434",
+    "sinaweibo://detail?mblogid=5227548356121809",
+    "sinaweibo://detail?mblogid=5227572153548991",
+    "sinaweibo://detail?mblogid=5227556439589453",
+    "sinaweibo://detail?mblogid=5227546190807763",
+    "sinaweibo://detail?mblogid=5227540869553554",
+    "sinaweibo://detail?mblogid=5227539107681301",
+    "sinaweibo://detail?mblogid=5225317405819373"
+  ],
+  "media": [
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/002sRokily1i6nhj736guj60rr0fmdt802.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/002sRokily1i6nhj736guj60rr0fmdt802.jpg",
+      "alt": "央视财经",
+      "width": 562,
+      "height": 999,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/002sRokily1i6nhj736guj60rr0fmdt802.jpg"
+      ],
+      "user": "央视财经"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/dff56730gy1i6upa87rg5j23b04eo1l0.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/dff56730gy1i6upa87rg5j23b04eo1l0.jpg",
+      "alt": "yi颗小番茄啊",
+      "width": 5712,
+      "height": 4284,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/dff56730gy1i6upa87rg5j23b04eo1l0.jpg"
+      ],
+      "user": "yi颗小番茄啊"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/008aLx0Dgy1i6ures0kf7j30r2127jv3.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/008aLx0Dgy1i6ures0kf7j30r2127jv3.jpg",
+      "alt": "云间漫歌",
+      "width": 1375,
+      "height": 974,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/008aLx0Dgy1i6ures0kf7j30r2127jv3.jpg"
+      ],
+      "user": "云间漫歌"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/d6e57f89ly1i6uopwhw4pj20u0141alz.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/d6e57f89ly1i6uopwhw4pj20u0141alz.jpg",
+      "alt": "山东消防",
+      "width": 1441,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx4.sinaimg.cn/large/d6e57f89ly1i6uopwhw4pj20u0141alz.jpg"
+      ],
+      "user": "山东消防"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/006cO202gy1i6unuqnb11j30u0140gom.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/006cO202gy1i6unuqnb11j30u0140gom.jpg",
+      "alt": "捏兎",
+      "width": 1440,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/006cO202gy1i6unuqnb11j30u0140gom.jpg"
+      ],
+      "user": "捏兎"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/008pfNuzly1i6un4hpk2zj30u01hcgoh.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/008pfNuzly1i6un4hpk2zj30u01hcgoh.jpg",
+      "alt": "解藥副作用",
+      "width": 1920,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/008pfNuzly1i6un4hpk2zj30u01hcgoh.jpg"
+      ],
+      "user": "解藥副作用"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/008eSizIly1i6unviuh2uj30u01hcwi6.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/008eSizIly1i6unviuh2uj30u01hcwi6.jpg",
+      "alt": "海那个角",
+      "width": 1920,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/008eSizIly1i6unviuh2uj30u01hcwi6.jpg"
+      ],
+      "user": "海那个角"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/9ffd853fly1i6up9mktbzj20tq10mdo8.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/9ffd853fly1i6up9mktbzj20tq10mdo8.jpg",
+      "alt": "熙熙and两只葫芦娃",
+      "width": 1318,
+      "height": 1070,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/9ffd853fly1i6up9mktbzj20tq10mdo8.jpg"
+      ],
+      "user": "熙熙and两只葫芦娃"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/006DCeOdgy1i6unv2qynzj30v01fywtz.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/006DCeOdgy1i6unv2qynzj30v01fywtz.jpg",
+      "alt": "蝶蝶不羞",
+      "width": 1870,
+      "height": 1116,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/006DCeOdgy1i6unv2qynzj30v01fywtz.jpg"
+      ],
+      "user": "蝶蝶不羞"
+    }
+  ],
+  "html_path": "data/aicard/hourly/2025-10-30/21/topic-cca0d345.html"
+}

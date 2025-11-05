@@ -1,0 +1,265 @@
+{
+  "meta": {
+    "query": "#吴泽林cha了go#",
+    "status_code": 200,
+    "fetched_at": "2025-11-04T13:32:05+08:00",
+    "response": {
+      "user_info": {},
+      "news_analyze": {},
+      "reliable_tips": "{\"gold_orange_v_mids\": [\"5229206872261244\", \"5229249839501097\", \"5228208816393670\", \"5188228818667997\", \"4507007002889888\", \"5225268378600395\", \"5210563799421843\", \"5206218274505685\"], \"gold_orange_v_ratio\": \"47%\", \"media_mids\": [\"5224284512846816\", \"5151866233817849\"], \"media_ratio\": \"12%\", \"verified_mids\": [\"5228205964530251\", \"5229250316861715\", \"5229247956257469\", \"5205351622511584\", \"5229250069138282\", \"5205122692942372\"], \"verified_ratio\": \"35%\", \"normal_mids\": [\"5229250367981147\"], \"normal_ratio\": \"6%\", \"ref_mid_rank\": {\"5228205964530251\": {\"rank\": 6}, \"5229206872261244\": {\"rank\": 1}, \"5229249839501097\": {\"rank\": 10}, \"5229250316861715\": {\"rank\": 8}, \"5229247956257469\": {\"rank\": 11}, \"5228208816393670\": {\"rank\": 12}, \"5229250367981147\": {\"rank\": 7}, \"5205351622511584\": {\"rank\": 14}, \"5224284512846816\": {\"rank\": 17}, \"5188228818667997\": {\"rank\": 16}, \"5229250069138282\": {\"rank\": 9}, \"4507007002889888\": {\"rank\": 13}, \"5225268378600395\": {\"rank\": 15}, \"5210563799421843\": {\"rank\": 18}, \"5206218274505685\": {\"rank\": 19}, \"5151866233817849\": {\"rank\": 20}, \"5205122692942372\": {\"rank\": 21}}}",
+      "qs_status_info": "{\"qs_c_status\":8388608,\"qs_r_status\":0,\"ab_lab\":{},\"qs_status\":0,\"qs_q_status\":0,\"qs_u_status\":0}",
+      "version": "2025-11-04 13:28:59.010999-7814",
+      "analysis_time": 1762234322,
+      "abtest_info": {
+        "chat_entrance": 1
+      },
+      "model": "deepseek",
+      "mid_list": null,
+      "page_id": "232964fed5bd913a95339b4c8f82c9dbe3fdfc",
+      "query_category": "",
+      "zs_risk_control": {
+        "think_text_close": 0,
+        "land_button_close": 0
+      },
+      "show_ctrl": {
+        "quote": {}
+      },
+      "top_quote_list": {},
+      "card_multimodal": {
+        "type": "mediablock",
+        "data": [
+          {
+            "w": 1280,
+            "scheme": "sinaweibo://multimedia?mix_mid=5229206872261244&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=1&multi_count=0",
+            "click_rate": 0.06,
+            "hit_score_final": 0,
+            "h": 634,
+            "img": "http://wx1.sinaimg.cn/middle/0071Bxmfgy1i6zz481cljg30zk0hmb2k.gif",
+            "img_pid": "0071Bxmfgy1i6zz481cljg30zk0hmb2k",
+            "vtype": 0,
+            "cur_mid": "5229206872261244",
+            "user_name": "茶妹爱追星",
+            "type": "p",
+            "user_avatar": "https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/0071Bxmfly8hcleh27e2bj30u00u076l.jpg?KID=imgbed,tva&Expires=1762244939&ssig=NM0MzsnEkB",
+            "click_num": 0,
+            "video_url": "",
+            "hit_score_new": 0,
+            "doc_score": 0
+          },
+          {
+            "w": 1080,
+            "scheme": "sinaweibo://video/vvs?mid=5205351622511584&multi_paragraph=3&multi_count=0",
+            "click_rate": 0,
+            "hit_score_final": 57.837891,
+            "h": 1920,
+            "img": "http://wx1.sinaimg.cn/middle/0072We1gly1i4v4nio5waj30u01hc413.jpg",
+            "img_pid": "0072We1gly1i4v4nio5waj30u01hc413",
+            "vtype": 3,
+            "cur_mid": "5205351622511584",
+            "user_name": "湖南卫视你好星期六",
+            "type": "v",
+            "user_avatar": "https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/0072We1gly8hzudr6upkpj30u00u0404.jpg?KID=imgbed,tva&Expires=1762244939&ssig=RoVPMMNjlM",
+            "click_num": 0,
+            "video_url": "https://video.weibo.com/show?fid=1034:5205109563654206",
+            "hit_score_new": 56.396484,
+            "doc_score": 3636
+          },
+          {
+            "w": 1080,
+            "scheme": "sinaweibo://video/vvs?mid=5224284512846816&multi_paragraph=3&multi_count=1",
+            "click_rate": 0,
+            "hit_score_final": 53.992188,
+            "h": 1620,
+            "img": "http://wx2.sinaimg.cn/middle/001MTwmaly1i6k9uyxdlfj60u0190dhx02.jpg",
+            "img_pid": "001MTwmaly1i6k9uyxdlfj60u0190dhx02",
+            "vtype": 3,
+            "cur_mid": "5224284512846816",
+            "user_name": "湖南卫视",
+            "type": "v",
+            "user_avatar": "https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/001MTwmaly8h8vlu6go9hj60u00u0mxm02.jpg?KID=imgbed,tva&Expires=1762244939&ssig=Kof%2BmZyhn%2B",
+            "click_num": 0,
+            "video_url": "https://video.weibo.com/show?fid=1034:5224284079980581",
+            "hit_score_new": 53.320312,
+            "doc_score": 3154
+          },
+          {
+            "w": 1280,
+            "scheme": "sinaweibo://multimedia?mix_mid=5229206872261244&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=1&multi_count=0",
+            "click_rate": 0.06,
+            "hit_score_final": 0,
+            "h": 634,
+            "img": "http://wx1.sinaimg.cn/middle/0071Bxmfgy1i6zz481cljg30zk0hmb2k.gif",
+            "img_pid": "0071Bxmfgy1i6zz481cljg30zk0hmb2k",
+            "vtype": 0,
+            "cur_mid": "5229206872261244",
+            "user_name": "茶妹爱追星",
+            "type": "p",
+            "user_avatar": "https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/0071Bxmfly8hcleh27e2bj30u00u076l.jpg?KID=imgbed,tva&Expires=1762244939&ssig=NM0MzsnEkB",
+            "click_num": 0,
+            "video_url": "",
+            "hit_score_new": 0,
+            "doc_score": 0
+          }
+        ]
+      },
+      "qs_status": 0,
+      "basemodel": "实验组4",
+      "wenda": {
+        "forward_gen": 0
+      },
+      "current_time": 1762234327,
+      "unify_md5": "34061522517c6a14e7076f093739ca89",
+      "status": 2,
+      "ext_show": {},
+      "msg_format": "markdown",
+      "link_list": [
+        "sinaweibo://detail?mblogid=5229206872261244",
+        "broadsocial_res://",
+        "historyweibo://5229206872261244",
+        "historyweibo://5180072306933922",
+        "historyweibo://5179586582418326",
+        "sinaweibo://detail?mblogid=5228205964530251",
+        "sinaweibo://detail?mblogid=5229250367981147",
+        "sinaweibo://detail?mblogid=5229250316861715",
+        "sinaweibo://detail?mblogid=5229250069138282",
+        "sinaweibo://detail?mblogid=5229249839501097",
+        "sinaweibo://detail?mblogid=5229247956257469",
+        "sinaweibo://detail?mblogid=5228208816393670",
+        "sinaweibo://detail?mblogid=4507007002889888",
+        "sinaweibo://detail?mblogid=5205351622511584",
+        "sinaweibo://detail?mblogid=5225268378600395",
+        "sinaweibo://detail?mblogid=5188228818667997",
+        "sinaweibo://detail?mblogid=5224284512846816",
+        "sinaweibo://detail?mblogid=5210563799421843",
+        "sinaweibo://detail?mblogid=5206218274505685",
+        "sinaweibo://detail?mblogid=5151866233817849",
+        "sinaweibo://detail?mblogid=5205122692942372"
+      ],
+      "msg": "<think><br>嗯，用户搜索了\"吴泽林cha了go\"，看起来是个综艺相关话题。从搜索结果看，这指的是吴泽林在《你好星期六》节目中的舞台表演事件。用户可能是粉丝或综艺观众，想了解这个梗的来龙去脉。<br><br>需要重点抓几个核心信息：首先是舞台亮点，开场很帅但三秒后失误的反差萌，这个点在多个微博都被提到；其次是歌曲信息，是吴泽林的新单曲《GO!》；还有节目背景，是2025年11月1日播出的双十一特辑。<br><br>有个细节要注意，结果2特别澄清了\"啃黄瓜\"表情包是6月份的旧梗，和本次舞台无关，这个容易混淆的事实需要单独说明。吴泽林的成长线也很有意思，从8月被调侃\"跳舞像老实人豁出去\"到现在的进步，但依然保持\"喜剧人\"特质。<br><br>用户可能还想知道外界反应。湖南卫视官微发了直拍，很多认证账号用\"帅不过三秒\"\"人机感\"等描述反差效果。资料类结果3的分析很专业，提到他建立\"努力但笨拙\"的独特标签。<br><br>时间线上要注意混淆点：16号结果的演技梗是7月的，5号结果的\"别急我在编\"是6月游戏梗，都和本次舞台无关。需要把11月1日的舞台事件和这些旧梗区分开。<br><br>最后呈现时，考虑用\"舞台亮点-背景信息-个人特质\"三层结构，重点突出反差萌的喜剧效果和成长性，那些淘宝乱码内容明显是图片文字识别错误，直接忽略。<br><br></think><br>吴泽林在综艺节目《你好星期六》中表演个人单曲《GO!》的舞台表现引发热议，核心信息整理如下：<br>### 🎤 **一、舞台亮点与反差名场面**<br>1. **“帅不过3秒”的喜剧效果**  <br>   - 开场起范极具舞台王者风范，表情管理和舞蹈动作精准有力，感染力十足；```wbCustomBlock{\"type\": \"quoted\", \"index\": 5, \"data\": {\"num\": [6], \"version\": 2, \"quote_list\": [{\"name\": \"湖南卫视你好星期六\", \"scheme\": \"sinaweibo://detail?mblogid=5228205964530251\", \"index\": 6, \"label\": \"大v\"}], \"name\": \"湖南卫视你好星期六\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/0072We1gly8hzudr6upkpj30u00u0404.jpg?KID=imgbed,tva&Expires=1762244939&ssig=RoVPMMNjlM\", \"scheme\": \"sinaweibo://detail?mblogid=5228205964530251\", \"vType\": 3}}```  <br>   - 后续突然出现手脚不协调的失误，从酷飒切换至呆萌状态，真实反应引发全场爆笑，被观众调侃为“抽象派舞者”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 6, \"data\": {\"num\": [1, 10], \"version\": 2, \"quote_list\": [{\"name\": \"茶妹爱追星\", \"scheme\": \"sinaweibo://detail?mblogid=5229206872261244\", \"index\": 1, \"label\": \"大v\"}, {\"name\": \"是小红_\", \"scheme\": \"sinaweibo://detail?mblogid=5229249839501097\", \"index\": 10, \"label\": \"\"}], \"name\": \"茶妹爱追星\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/0071Bxmfly8hcleh27e2bj30u00u076l.jpg?KID=imgbed,tva&Expires=1762244939&ssig=NM0MzsnEkB\", \"scheme\": \"sinaweibo://detail?mblogid=5229206872261244\", \"vType\": 0}}```  <br>   - 这种强烈反差成为话题焦点，网友评价其“前3秒帅到犯规，后面萌出人机感”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 7, \"data\": {\"num\": [8, 11], \"version\": 2, \"quote_list\": [{\"name\": \"叁叁點幾訓覺先\", \"scheme\": \"sinaweibo://detail?mblogid=5229250316861715\", \"index\": 8, \"label\": \"\"}, {\"name\": \"-找不到昵称_\", \"scheme\": \"sinaweibo://detail?mblogid=5229247956257469\", \"index\": 11, \"label\": \"\"}]}}```<br><br>2. **多元曲目串烧**  <br>   - 表演包含《爱你》《奇思妙想喜羊羊》《GO!》三首曲目连跳，部分段落动作卡点精准，湖南卫视官微直拍视频称赞“每个动作都狙击人心”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 9, \"data\": {\"num\": [6, 12], \"version\": 2, \"quote_list\": [{\"name\": \"湖南卫视你好星期六\", \"scheme\": \"sinaweibo://detail?mblogid=5228205964530251\", \"index\": 6, \"label\": \"\"}, {\"name\": \"星子落在裙摆\", \"scheme\": \"sinaweibo://detail?mblogid=5228208816393670\", \"index\": 12, \"label\": \"\"}]}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5229206872261244&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=1&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/0071Bxmfly8hcleh27e2bj30u00u076l.jpg?KID=imgbed,tva&Expires=1762244939&ssig=NM0MzsnEkB) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">茶妹爱追星</span><img src=\"http://wx1.sinaimg.cn/middle/0071Bxmfgy1i6zz481cljg30zk0hmb2k.gif\" data-width=634 data-height=1280></div></media-block><br>### 📺 **二、表演背景与观众反馈**<br>1. **节目信息**  <br>   - 舞台出自**2025年11月1日播出的《你好星期六》**，系双十一主题预热内容。```wbCustomBlock{\"type\": \"quoted\", \"index\": 13, \"data\": {\"num\": [6], \"version\": 2, \"quote_list\": [{\"name\": \"湖南卫视你好星期六\", \"scheme\": \"sinaweibo://detail?mblogid=5228205964530251\", \"index\": 6, \"label\": \"\"}]}}```  <br>   - 同场节目衍生话题包括#cha舞赛道也是被吴泽林闯进来了#，反映其积极尝试舞蹈的定位。```wbCustomBlock{\"type\": \"quoted\", \"index\": 14, \"data\": {\"num\": [6], \"version\": 2, \"quote_list\": [{\"name\": \"湖南卫视你好星期六\", \"scheme\": \"sinaweibo://detail?mblogid=5228205964530251\", \"index\": 6, \"label\": \"\"}]}}```<br><br>2. **观众反响**  <br>   - 尽管存在失误，真实自然的搞笑反应反而增强观赏性，现场观众表示“惊喜又好笑”；  <br>   - 网友呼吁发布完整版直拍，认为其反差魅力兼具“进步潜力”与“喜剧人特质”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 17, \"data\": {\"num\": [7, 8, 11], \"version\": 2, \"quote_list\": [{\"name\": \"電量告急WARNING\", \"scheme\": \"sinaweibo://detail?mblogid=5229250367981147\", \"index\": 7, \"label\": \"\"}, {\"name\": \"叁叁點幾訓覺先\", \"scheme\": \"sinaweibo://detail?mblogid=5229250316861715\", \"index\": 8, \"label\": \"\"}, {\"name\": \"-找不到昵称_\", \"scheme\": \"sinaweibo://detail?mblogid=5229247956257469\", \"index\": 11, \"label\": \"\"}]}}```<br>### 💫 **三、吴泽林的舞台成长与个人风格**<br>1. **舞蹈实力进化**  <br>   - 对比2025年8月《Super Girl》舞台被调侃“像老实人豁出去了”，此次《GO!》表演的眼神专注力和动作力度明显提升；```wbCustomBlock{\"type\": \"quoted\", \"index\": 21, \"data\": {\"num\": [14], \"version\": 2, \"quote_list\": [{\"name\": \"湖南卫视你好星期六\", \"scheme\": \"sinaweibo://detail?mblogid=5205351622511584\", \"index\": 14, \"label\": \"\"}]}}```  <br>   - 湖南卫视多次推送其舞台直拍（如衬衫西裤跳《九万字》），肯定其进步。```wbCustomBlock{\"type\": \"quoted\", \"index\": 22, \"data\": {\"num\": [17], \"version\": 2, \"quote_list\": [{\"name\": \"湖南卫视\", \"scheme\": \"sinaweibo://detail?mblogid=5224284512846816\", \"index\": 17, \"label\": \"大v\"}], \"name\": \"湖南卫视\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/001MTwmaly8h8vlu6go9hj60u00u0mxm02.jpg?KID=imgbed,tva&Expires=1762244939&ssig=Kof%2BmZyhn%2B\", \"scheme\": \"sinaweibo://detail?mblogid=5224284512846816\", \"vType\": 3}}```<br><br>2. **“喜剧人”标签强化**  <br>   - 延续此前综艺中“一本正经搞笑”风格：  <br>     - 演戏突然下跪制造反差（2025年7月）；```wbCustomBlock{\"type\": \"quoted\", \"index\": 25, \"data\": {\"num\": [16], \"version\": 2, \"quote_list\": [{\"name\": \"赵瞾说事\", \"scheme\": \"sinaweibo://detail?mblogid=5188228818667997\", \"index\": 16, \"label\": \"大v\"}], \"name\": \"赵瞾说事\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.996.996.50/006tCJrvly8gdieefywc3j30ro0ron03.jpg?KID=imgbed,tva&Expires=1762244939&ssig=ATqb5CXAsB\", \"scheme\": \"sinaweibo://detail?mblogid=5188228818667997\", \"vType\": 0}}```  <br>     - 游戏环节因心虚脱口而出“别急我在编了”成经典梗（2025年6月）；  <br>   - 此次舞台再次凸显其 **“努力但笨拙”的讨喜特质**，形成鲜明个人标签。```wbCustomBlock{\"type\": \"quoted\", \"index\": 27, \"data\": {\"num\": [9, 11], \"version\": 2, \"quote_list\": [{\"name\": \"前夫变成给的那个雨夜\", \"scheme\": \"sinaweibo://detail?mblogid=5229250069138282\", \"index\": 9, \"label\": \"\"}, {\"name\": \"-找不到昵称_\", \"scheme\": \"sinaweibo://detail?mblogid=5229247956257469\", \"index\": 11, \"label\": \"\"}]}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5205351622511584&multi_paragraph=3&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/0072We1gly8hzudr6upkpj30u00u0404.jpg?KID=imgbed,tva&Expires=1762244939&ssig=RoVPMMNjlM) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">湖南卫视你好星期六</span><img src=\"http://wx1.sinaimg.cn/middle/0072We1gly1i4v4nio5waj30u01hc413.jpg\" data-width=1920 data-height=1080></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5224284512846816&multi_paragraph=3&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/001MTwmaly8h8vlu6go9hj60u00u0mxm02.jpg?KID=imgbed,tva&Expires=1762244939&ssig=Kof%2BmZyhn%2B) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">湖南卫视</span><img src=\"http://wx2.sinaimg.cn/middle/001MTwmaly1i6k9uyxdlfj60u0190dhx02.jpg\" data-width=1620 data-height=1080></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5188228818667997&multi_paragraph=3&multi_count=2\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.996.996.50/006tCJrvly8gdieefywc3j30ro0ron03.jpg?KID=imgbed,tva&Expires=1762244939&ssig=ATqb5CXAsB) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">赵瞾说事</span><img src=\"http://wx2.sinaimg.cn/middle/006tCJrvgy1i3d8y6qzpjj30k0130wfc.jpg\" data-width=1404 data-height=720></div></media-block><br>### 📌 **四、相关澄清与延伸**<br>- **“啃黄瓜”表情包无关本次舞台**：该梗源于2025年6月《森林进化论》游戏慌张场面，与《GO!》表演无关联。  <br>- **友情支持**：张颜齐曾帮助吴泽林缓解舞台焦虑，二人双向治愈的友情广受好评（2025年6月话题）。<br>### 💎 **总结**  <br>吴泽林通过《GO!》舞台展现了 **成长性与娱乐性的平衡**：舞蹈实力提升获官方背书，而真实失误制造的“反差萌”进一步巩固其独特观众缘。这种“敢尝试、不怕垮”的态度，成为其连接舞台表演与综艺效果的核心竞争力。```wbCustomBlock{\"type\": \"quoted\", \"index\": 33, \"data\": {\"num\": [9, 11], \"version\": 2, \"quote_list\": [{\"name\": \"前夫变成给的那个雨夜\", \"scheme\": \"sinaweibo://detail?mblogid=5229250069138282\", \"index\": 9, \"label\": \"\"}, {\"name\": \"-找不到昵称_\", \"scheme\": \"sinaweibo://detail?mblogid=5229247956257469\", \"index\": 11, \"label\": \"\"}]}}```<br>",
+      "q_attr": {
+        "from_uid": "",
+        "mid": "",
+        "from_request_id": "",
+        "comment_from_type": "",
+        "reply_cid": ""
+      },
+      "share_card_multimodal": {
+        "w": 1280,
+        "scheme": "sinaweibo://multimedia?mix_mid=5229206872261244&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=1&multi_count=0",
+        "click_rate": 0.06,
+        "hit_score_final": 0,
+        "h": 634,
+        "img": "http://wx1.sinaimg.cn/middle/0071Bxmfgy1i6zz481cljg30zk0hmb2k.gif",
+        "img_pid": "0071Bxmfgy1i6zz481cljg30zk0hmb2k",
+        "vtype": 0,
+        "cur_mid": "5229206872261244",
+        "user_name": "茶妹爱追星",
+        "type": "p",
+        "user_avatar": "https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/0071Bxmfly8hcleh27e2bj30u00u076l.jpg?KID=imgbed,tva&Expires=1762244939&ssig=NM0MzsnEkB",
+        "click_num": 0,
+        "video_url": "",
+        "hit_score_new": 0,
+        "doc_score": 0
+      },
+      "msg_json": "{}",
+      "share_text": "#吴泽林cha了go#的相关内容，来智搜看看",
+      "sorted_material_list": null,
+      "query_field": "0",
+      "scheme": "sinaweibo://cardlist?containerid=100103type%3D225%26q%3D%23%E5%90%B4%E6%B3%BD%E6%9E%97cha%E4%BA%86go%23%26t%3D&extparam=ai_model%3Ddeepseek%26ori_ai_title%3D%E5%8F%82%E8%80%83%E5%8D%9A%E6%96%87%26material_version%3D1762234139",
+      "status_stage": 4,
+      "reference_num": 17,
+      "cot": 1,
+      "share_info": {
+        "status": 3,
+        "url": "http://t.cn/AXAlzrgM",
+        "tips": "#吴泽林cha了go#的相关内容，来智搜看看",
+        "page_id": "232964fed5bd913a95339b4c8f82c9dbe3fdfc",
+        "comment_content": "",
+        "unify_md5": "34061522517c6a14e7076f093739ca89",
+        "display_name": "#吴泽林cha了go#"
+      },
+      "loop_times": 200,
+      "query": "#吴泽林cha了go#",
+      "comment_info": {},
+      "profile_image_url": "",
+      "ab_suffix": "default",
+      "chat_status_stage": 1,
+      "uid": "",
+      "short_url": "http://t.cn/AXAWeprU"
+    }
+  },
+  "links": [
+    "sinaweibo://detail?mblogid=5229206872261244",
+    "broadsocial_res://",
+    "historyweibo://5229206872261244",
+    "historyweibo://5180072306933922",
+    "historyweibo://5179586582418326",
+    "sinaweibo://detail?mblogid=5228205964530251",
+    "sinaweibo://detail?mblogid=5229250367981147",
+    "sinaweibo://detail?mblogid=5229250316861715",
+    "sinaweibo://detail?mblogid=5229250069138282",
+    "sinaweibo://detail?mblogid=5229249839501097",
+    "sinaweibo://detail?mblogid=5229247956257469",
+    "sinaweibo://detail?mblogid=5228208816393670",
+    "sinaweibo://detail?mblogid=4507007002889888",
+    "sinaweibo://detail?mblogid=5205351622511584",
+    "sinaweibo://detail?mblogid=5225268378600395",
+    "sinaweibo://detail?mblogid=5188228818667997",
+    "sinaweibo://detail?mblogid=5224284512846816",
+    "sinaweibo://detail?mblogid=5210563799421843",
+    "sinaweibo://detail?mblogid=5206218274505685",
+    "sinaweibo://detail?mblogid=5151866233817849",
+    "sinaweibo://detail?mblogid=5205122692942372"
+  ],
+  "media": [
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/0071Bxmfgy1i6zz481cljg30zk0hmb2k.gif",
+      "secure_url": "https://wx1.sinaimg.cn/middle/0071Bxmfgy1i6zz481cljg30zk0hmb2k.gif",
+      "alt": "茶妹爱追星",
+      "width": 634,
+      "height": 1280,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/0071Bxmfgy1i6zz481cljg30zk0hmb2k.jpg"
+      ],
+      "user": "茶妹爱追星"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/0072We1gly1i4v4nio5waj30u01hc413.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/0072We1gly1i4v4nio5waj30u01hc413.jpg",
+      "alt": "湖南卫视你好星期六",
+      "width": 1920,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/0072We1gly1i4v4nio5waj30u01hc413.jpg"
+      ],
+      "user": "湖南卫视你好星期六"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/001MTwmaly1i6k9uyxdlfj60u0190dhx02.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/001MTwmaly1i6k9uyxdlfj60u0190dhx02.jpg",
+      "alt": "湖南卫视",
+      "width": 1620,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/001MTwmaly1i6k9uyxdlfj60u0190dhx02.jpg"
+      ],
+      "user": "湖南卫视"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/006tCJrvgy1i3d8y6qzpjj30k0130wfc.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/006tCJrvgy1i3d8y6qzpjj30k0130wfc.jpg",
+      "alt": "赵瞾说事",
+      "width": 1404,
+      "height": 720,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/006tCJrvgy1i3d8y6qzpjj30k0130wfc.jpg"
+      ],
+      "user": "赵瞾说事"
+    }
+  ],
+  "html_path": "data/aicard/hourly/2025-11-04/13/cha-go.html"
+}

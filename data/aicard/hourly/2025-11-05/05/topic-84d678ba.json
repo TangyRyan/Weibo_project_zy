@@ -1,0 +1,331 @@
+{
+  "meta": {
+    "query": "#金饰清洗多少损耗属于正常范围#",
+    "status_code": 200,
+    "fetched_at": "2025-11-05T05:35:09+08:00",
+    "response": {
+      "scheme": "sinaweibo://cardlist?containerid=100103type%3D225%26q%3D%23%E9%87%91%E9%A5%B0%E6%B8%85%E6%B4%97%E5%A4%9A%E5%B0%91%E6%8D%9F%E8%80%97%E5%B1%9E%E4%BA%8E%E6%AD%A3%E5%B8%B8%E8%8C%83%E5%9B%B4%23%26t%3D&extparam=ai_model%3Ddeepseek%26ori_ai_title%3D%E5%8F%82%E8%80%83%E5%8D%9A%E6%96%87%26material_version%3D1762291437",
+      "mid_list": null,
+      "reference_num": 20,
+      "query_category": "ObjectiveFacts",
+      "query": "#金饰清洗多少损耗属于正常范围#",
+      "link_list": [
+        "sinaweibo://detail?mblogid=5229362208571747",
+        "sinaweibo://detail?mblogid=5224894091495722",
+        "sinaweibo://detail?mblogid=5224944683977145",
+        "sinaweibo://detail?mblogid=5198973591883463",
+        "sinaweibo://detail?mblogid=5027091185142801",
+        "sinaweibo://detail?mblogid=5226086206015430",
+        "sinaweibo://detail?mblogid=5181434027574240",
+        "broadsocial_res://",
+        "historyweibo://5229226238413167",
+        "historyweibo://5229192070824116",
+        "historyweibo://5229362208571747",
+        "sinaweibo://detail?mblogid=5229372405450943",
+        "sinaweibo://detail?mblogid=5229462503293821",
+        "sinaweibo://detail?mblogid=5206423102292508",
+        "sinaweibo://detail?mblogid=5199054365261855",
+        "sinaweibo://detail?mblogid=5225052226453976",
+        "sinaweibo://detail?mblogid=5224902270651421",
+        "sinaweibo://detail?mblogid=5221304920969397",
+        "sinaweibo://detail?mblogid=5224912556134375",
+        "sinaweibo://detail?mblogid=5224865837878390",
+        "sinaweibo://detail?mblogid=5224896810452490",
+        "sinaweibo://detail?mblogid=5224899951988067",
+        "sinaweibo://detail?mblogid=5198879223456851",
+        "sinaweibo://detail?mblogid=5224880255012545"
+      ],
+      "msg_json": "{}",
+      "top_quote_list": {},
+      "profile_image_url": "",
+      "share_card_multimodal": {
+        "doc_score": 5816,
+        "scheme": "sinaweibo://video/vvs?mid=5229362208571747&multi_paragraph=1&multi_count=0",
+        "h": 1093,
+        "video_url": "https://video.weibo.com/show?fid=1034:5229360823861332",
+        "vtype": 3,
+        "hit_score_new": 96.777344,
+        "type": "v",
+        "img_pid": "002TLsr9ly1i70gx5ehsgj61i00ud4qn02",
+        "w": 1944,
+        "click_rate": 0.22875816993464,
+        "click_num": 0,
+        "cur_mid": "5229362208571747",
+        "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.690.690.50/002TLsr9ly8i653ifvwbtj60j60j6aai02.jpg?KID=imgbed,tva&Expires=1762302237&ssig=EOZwor7N74",
+        "hit_score_final": 78.066406,
+        "img": "http://wx3.sinaimg.cn/middle/002TLsr9ly1i70gx5ehsgj61i00ud4qn02.jpg",
+        "user_name": "央视新闻"
+      },
+      "basemodel": "实验组1",
+      "zs_risk_control": {
+        "think_text_close": 0,
+        "land_button_close": 0
+      },
+      "current_time": 1762292109,
+      "user_info": {},
+      "unify_md5": "84d678badd8ceaa6fb5300ab4aac6370",
+      "chat_status_stage": 1,
+      "news_analyze": {},
+      "reliable_tips": "{\"gold_orange_v_mids\": [\"5224912556134375\", \"5199054365261855\", \"5206423102292508\", \"5224894091495722\", \"5198973591883463\", \"5224944683977145\", \"5224899951988067\", \"5224880255012545\", \"5224902270651421\", \"5221304920969397\", \"5181434027574240\", \"5226086206015430\", \"5027091185142801\", \"5224865837878390\", \"5224896810452490\"], \"gold_orange_v_ratio\": \"75%\", \"media_mids\": [\"5229362208571747\", \"5229372405450943\", \"5225052226453976\", \"5198879223456851\"], \"media_ratio\": \"20%\", \"verified_mids\": [], \"verified_ratio\": \"0%\", \"normal_mids\": [\"5229462503293821\"], \"normal_ratio\": \"5%\", \"ref_mid_rank\": {\"5229362208571747\": {\"rank\": 1}, \"5229372405450943\": {\"rank\": 12}, \"5224912556134375\": {\"rank\": 19}, \"5199054365261855\": {\"rank\": 15}, \"5206423102292508\": {\"rank\": 14}, \"5225052226453976\": {\"rank\": 16}, \"5198879223456851\": {\"rank\": 23}, \"5224894091495722\": {\"rank\": 2}, \"5198973591883463\": {\"rank\": 4}, \"5224944683977145\": {\"rank\": 3}, \"5224899951988067\": {\"rank\": 22}, \"5224880255012545\": {\"rank\": 24}, \"5224902270651421\": {\"rank\": 17}, \"5221304920969397\": {\"rank\": 18}, \"5181434027574240\": {\"rank\": 7}, \"5226086206015430\": {\"rank\": 6}, \"5027091185142801\": {\"rank\": 5}, \"5229462503293821\": {\"rank\": 13}, \"5224865837878390\": {\"rank\": 20}, \"5224896810452490\": {\"rank\": 21}}}",
+      "short_url": "http://t.cn/AXAHaKbK",
+      "uid": "",
+      "q_attr": {
+        "from_request_id": "",
+        "from_uid": "",
+        "reply_cid": "",
+        "comment_from_type": "",
+        "mid": ""
+      },
+      "comment_info": {},
+      "show_ctrl": {
+        "quote": {}
+      },
+      "share_text": "#金饰清洗多少损耗属于正常范围#的相关内容，来智搜看看",
+      "model": "deepseek",
+      "cot": 1,
+      "ab_suffix": "default",
+      "wenda": {
+        "forward_gen": 0
+      },
+      "status_stage": 4,
+      "msg": "<think><br><br>嗯，用户询问金饰清洗的正常损耗范围是多少。这个问题很实际，因为很多人可能不知道清洗黄金首饰时合理的重量减少范围，容易上当受骗。<br><br>从搜索结果来看，有多条信息都明确指出了行业标准。央视新闻发布的内容提到，正规清洗如超声波清洗、中性清洁剂清洗或低温火枪加热，正常损耗在0.02克之内。央视网的报道也确认了这一点，强调正规金店的清洗损耗控制在0.02克以内。<br><br>还有资料进一步指出，损耗超过0.05克就应引起高度警觉并报警，因为可能涉及盗窃等非法操作如化学溶金。这比0.5克的阈值要低很多，说明消费者权益保护意识在提高。<br><br>关于清洗方式，有多个结果都提到一些骗子使用\"王水\"偷金的手法。央视新闻和每日经济新闻都报道了浙江临海一女子在集市免费清洗金手镯后少了5.33克的案例，骗子就是用王水溶解黄金然后提炼据为己有。<br><br>对于不同清洗方式的损耗差异，搜索结果也提供了信息。微博用户\"神精险冒向方反\"指出，原来说偏差超0.03克才算有问题不准确，黄金维修的合理损耗需根据工艺复杂度而定。简单清洗、抛光损耗通常在0.1克以内，熔炼、焊接等工序损耗可能略高，但一般不超过0.5克。<br><br>在家清洗方面，有建议用温水加中性洗洁精和软毛刷轻轻清洗，或者使用肥皂水、白醋处理铂金。但要注意避免使用牙膏，因为牙膏中的摩擦剂可能造成细微磨损，长期使用可能导致克重减少。<br><br>用户\"莲子白鹤\"从行业角度指出，\"不偷金\"和\"零损耗\"是两个概念，正常的工艺损耗是不可避免的，就像倒水会有损耗一样。如果一味强调零损耗而工费又低，店铺就很可能通过偷金来补偿。<br><br>为了保护自己的权益，多位用户建议在清洗前后必须称重。央视新闻也提醒消费者要做好清洗前后的称重记录。如果发现重量减少明显，应立即报警。<br><br></think><br>金饰清洗的正常损耗范围及相关注意事项如下：<br>### ⚖️ 一、正常损耗范围（行业标准）<br>1. **常规清洗**  <br>   - **超声波清洗/中性清洁剂清洗/低温火枪加热**：正规操作下损耗不超过 **0.02克**，属于合理范围。```wbCustomBlock{\"type\": \"quoted\", \"index\": 4, \"data\": {\"num\": [1, 12, 19], \"version\": 2, \"quote_list\": [{\"name\": \"央视新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5229362208571747\", \"index\": 1, \"label\": \"大v\"}, {\"name\": \"央视网\", \"scheme\": \"sinaweibo://detail?mblogid=5229372405450943\", \"index\": 12, \"label\": \"\"}, {\"name\": \"荣荣和飞\", \"scheme\": \"sinaweibo://detail?mblogid=5224912556134375\", \"index\": 19, \"label\": \"\"}], \"name\": \"央视新闻\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.690.690.50/002TLsr9ly8i653ifvwbtj60j60j6aai02.jpg?KID=imgbed,tva&Expires=1762302237&ssig=EOZwor7N74\", \"scheme\": \"sinaweibo://detail?mblogid=5229362208571747\", \"vType\": 3}}```  <br>   - **复秤误差**：若重量减少超过 **0.05克**，需立即引起警惕并报警，可能涉及非法操作（如化学溶金）。```wbCustomBlock{\"type\": \"quoted\", \"index\": 5, \"data\": {\"num\": [12], \"version\": 2, \"quote_list\": [{\"name\": \"央视网\", \"scheme\": \"sinaweibo://detail?mblogid=5229372405450943\", \"index\": 12, \"label\": \"大v\"}], \"name\": \"央视网\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.180.180.50/003z5L7fly8h8ursf868gj6050050mwz02.jpg?KID=imgbed,tva&Expires=1762302237&ssig=AmSTer1tns\", \"scheme\": \"sinaweibo://detail?mblogid=5229372405450943\", \"vType\": 3}}```<br><br>2. **维修或复杂工艺**  <br>   - 抛光、翻新等简单工序损耗通常在 **0.1克以内**；熔炼、焊接等复杂工序可能略高，但一般不超过 **0.5克**。```wbCustomBlock{\"type\": \"quoted\", \"index\": 7, \"data\": {\"num\": [15], \"version\": 2, \"quote_list\": [{\"name\": \"神精险冒向方反\", \"scheme\": \"sinaweibo://detail?mblogid=5199054365261855\", \"index\": 15, \"label\": \"大v\"}], \"name\": \"神精险冒向方反\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/ea072391ly8i6t8mnyribj20u00u0dip.jpg?KID=imgbed,tva&Expires=1762302237&ssig=%2B0sE%2FbHPA9\", \"scheme\": \"sinaweibo://detail?mblogid=5199054365261855\", \"vType\": 0}}```  <br>   - 若商家声称“零损耗”，需警惕偷金风险。```wbCustomBlock{\"type\": \"quoted\", \"index\": 8, \"data\": {\"num\": [14], \"version\": 2, \"quote_list\": [{\"name\": \"莲子白鹤\", \"scheme\": \"sinaweibo://detail?mblogid=5206423102292508\", \"index\": 14, \"label\": \"大v\"}], \"name\": \"莲子白鹤\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/7aad1239ly8he9tondn33j20u00u00xo.jpg?KID=imgbed,tva&Expires=1762302237&ssig=D0LPlMYfJm\", \"scheme\": \"sinaweibo://detail?mblogid=5206423102292508\", \"vType\": 0}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5229362208571747&multi_paragraph=1&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.690.690.50/002TLsr9ly8i653ifvwbtj60j60j6aai02.jpg?KID=imgbed,tva&Expires=1762302237&ssig=EOZwor7N74) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">央视新闻</span><img src=\"http://wx3.sinaimg.cn/middle/002TLsr9ly1i70gx5ehsgj61i00ud4qn02.jpg\" data-width=1093 data-height=1944></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5199054365261855&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=1\"><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/ea072391ly8i6t8mnyribj20u00u0dip.jpg?KID=imgbed,tva&Expires=1762302237&ssig=%2B0sE%2FbHPA9) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">神精险冒向方反</span><img src=\"http://wx2.sinaimg.cn/middle/ea072391gy1i4bs91ueyjj20wi0ec414.jpg\" data-width=516 data-height=1170></div></media-block><br>### ⚠️ 二、异常损耗的预警信号（超0.05克需行动）<br>1. **化学偷金手段**  <br>   - **“王水”陷阱**：骗子使用浓硝酸+浓盐酸混合液溶解黄金，事后提炼牟利（如浙江临海案例，金镯被溶掉5.33克）。```wbCustomBlock{\"type\": \"quoted\", \"index\": 11, \"data\": {\"num\": [1, 16, 23], \"version\": 2, \"quote_list\": [{\"name\": \"每日经济新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5225052226453976\", \"index\": 16, \"label\": \"大v\"}, {\"name\": \"央视新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5229362208571747\", \"index\": 1, \"label\": \"\"}, {\"name\": \"东营网官方微博\", \"scheme\": \"sinaweibo://detail?mblogid=5198879223456851\", \"index\": 23, \"label\": \"\"}], \"name\": \"每日经济新闻\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.600.600.50/001NBLkrly8h8viaqqljmj60go0gomxj02.jpg?KID=imgbed,tva&Expires=1762302237&ssig=5syP8t5jZy\", \"scheme\": \"sinaweibo://detail?mblogid=5225052226453976\", \"vType\": 3}}```  <br>   - **隐蔽性**：溶液呈黄绿色或红褐色，浸泡后金饰变软、变轻，肉眼难察觉。```wbCustomBlock{\"type\": \"quoted\", \"index\": 12, \"data\": {\"num\": [2, 19], \"version\": 2, \"quote_list\": [{\"name\": \"一丈凡尘\", \"scheme\": \"sinaweibo://detail?mblogid=5224894091495722\", \"index\": 2, \"label\": \"大v\"}, {\"name\": \"荣荣和飞\", \"scheme\": \"sinaweibo://detail?mblogid=5224912556134375\", \"index\": 19, \"label\": \"\"}], \"name\": \"一丈凡尘\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/005zilAkgy1i3kxeojuvcj30u00u0juf.jpg?KID=imgbed,tva&Expires=1762302237&ssig=C5Ru%2FPkn3H\", \"scheme\": \"sinaweibo://detail?mblogid=5224894091495722\", \"vType\": 0}}```<br><br>2. **套路识别**  <br>   - **流动摊贩话术**：以“免费清洗/整形”吸引中老年人，操作时遮挡视线，拒绝提供称重。```wbCustomBlock{\"type\": \"quoted\", \"index\": 14, \"data\": {\"num\": [4, 19, 23], \"version\": 2, \"quote_list\": [{\"name\": \"东营网官方微博\", \"scheme\": \"sinaweibo://detail?mblogid=5198879223456851\", \"index\": 23, \"label\": \"大v\"}, {\"name\": \"纸鸢载梦天涯\", \"scheme\": \"sinaweibo://detail?mblogid=5198973591883463\", \"index\": 4, \"label\": \"\"}, {\"name\": \"荣荣和飞\", \"scheme\": \"sinaweibo://detail?mblogid=5224912556134375\", \"index\": 19, \"label\": \"\"}], \"name\": \"东营网官方微博\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.500.500.50/73662ff6ly8h8vgrvey8ej20dw0dwgm2.jpg?KID=imgbed,tva&Expires=1762302237&ssig=3qdnmbbM6k\", \"scheme\": \"sinaweibo://detail?mblogid=5198879223456851\", \"vType\": 3}}```  <br>   - **推诿借口**：声称“污垢脱落导致减重”或“熔炼正常损耗”，但远超行业标准。```wbCustomBlock{\"type\": \"quoted\", \"index\": 15, \"data\": {\"num\": [4, 15], \"version\": 2, \"quote_list\": [{\"name\": \"纸鸢载梦天涯\", \"scheme\": \"sinaweibo://detail?mblogid=5198973591883463\", \"index\": 4, \"label\": \"\"}, {\"name\": \"神精险冒向方反\", \"scheme\": \"sinaweibo://detail?mblogid=5199054365261855\", \"index\": 15, \"label\": \"\"}]}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5224894091495722&multi_paragraph=2&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/005zilAkgy1i3kxeojuvcj30u00u0juf.jpg?KID=imgbed,tva&Expires=1762302237&ssig=C5Ru%2FPkn3H) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">一丈凡尘</span><img src=\"http://wx2.sinaimg.cn/middle/005zilAkgy1i6m7wf0sbaj30mh0u0tar.jpg\" data-width=1080 data-height=809></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5198879223456851&multi_paragraph=2&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.500.500.50/73662ff6ly8h8vgrvey8ej20dw0dwgm2.jpg?KID=imgbed,tva&Expires=1762302237&ssig=3qdnmbbM6k) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">东营网官方微博</span><img src=\"http://wx2.sinaimg.cn/middle/001DjCJOgy1i4atessfnxj60u01hc0vs02.jpg\" data-width=1920 data-height=1080></div></media-block><br>### 🛡️ 三、安全清洗与维权指南<br>1. **选择正规渠道**  <br>   - 优先前往品牌金店、银行或官方授权点，要求操作前后当面称重并记录克数。```wbCustomBlock{\"type\": \"quoted\", \"index\": 18, \"data\": {\"num\": [3, 12, 22], \"version\": 2, \"quote_list\": [{\"name\": \"爱偷懒的刘女士\", \"scheme\": \"sinaweibo://detail?mblogid=5224944683977145\", \"index\": 3, \"label\": \"大v\"}, {\"name\": \"央视网\", \"scheme\": \"sinaweibo://detail?mblogid=5229372405450943\", \"index\": 12, \"label\": \"\"}, {\"name\": \"徐晚胜\", \"scheme\": \"sinaweibo://detail?mblogid=5224899951988067\", \"index\": 22, \"label\": \"\"}], \"name\": \"爱偷懒的刘女士\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/0071yfo0ly8i32yd70trnj30u00u0wgc.jpg?KID=imgbed,tva&Expires=1762302237&ssig=VaLOJ%2FgmT%2B\", \"scheme\": \"sinaweibo://detail?mblogid=5224944683977145\", \"vType\": 0}}```  <br>   - 拒绝街头流动摊点的“免费”服务，此类诈骗占比超90%。```wbCustomBlock{\"type\": \"quoted\", \"index\": 19, \"data\": {\"num\": [19, 23, 24], \"version\": 2, \"quote_list\": [{\"name\": \"荣荣和飞\", \"scheme\": \"sinaweibo://detail?mblogid=5224912556134375\", \"index\": 19, \"label\": \"大v\"}, {\"name\": \"东营网官方微博\", \"scheme\": \"sinaweibo://detail?mblogid=5198879223456851\", \"index\": 23, \"label\": \"\"}, {\"name\": \"银河系小猫总\", \"scheme\": \"sinaweibo://detail?mblogid=5224880255012545\", \"index\": 24, \"label\": \"\"}], \"name\": \"荣荣和飞\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/a802a0e7ly8hld9g15zdqj20u00u0tbs.jpg?KID=imgbed,tva&Expires=1762302237&ssig=xRBYp1mL8R\", \"scheme\": \"sinaweibo://detail?mblogid=5224912556134375\", \"vType\": 0}}```<br><br>2. **家庭清洁方法**  <br>   - **黄金**：温水+中性洗洁精+软毛刷轻刷，清水冲净擦干。```wbCustomBlock{\"type\": \"quoted\", \"index\": 21, \"data\": {\"num\": [17, 18, 22], \"version\": 2, \"quote_list\": [{\"name\": \"杭田视频\", \"scheme\": \"sinaweibo://detail?mblogid=5221304920969397\", \"index\": 18, \"label\": \"大v\"}, {\"name\": \"傻傻智慧舟\", \"scheme\": \"sinaweibo://detail?mblogid=5224902270651421\", \"index\": 17, \"label\": \"\"}, {\"name\": \"徐晚胜\", \"scheme\": \"sinaweibo://detail?mblogid=5224899951988067\", \"index\": 22, \"label\": \"\"}], \"name\": \"杭田视频\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/008wfxDrly8hbc6p2kjssj30u00u1jrv.jpg?KID=imgbed,tva&Expires=1762302237&ssig=Rq0sbD7JE2\", \"scheme\": \"sinaweibo://detail?mblogid=5221304920969397\", \"vType\": 0}}```  <br>   - **避免损伤**：禁用牙膏（摩擦剂磨损表面）、白醋（酸性腐蚀）、小苏打（长期可能加速氧化）。```wbCustomBlock{\"type\": \"quoted\", \"index\": 22, \"data\": {\"num\": [4, 7, 19], \"version\": 2, \"quote_list\": [{\"name\": \"音娱数码菌\", \"scheme\": \"sinaweibo://detail?mblogid=5181434027574240\", \"index\": 7, \"label\": \"\"}, {\"name\": \"纸鸢载梦天涯\", \"scheme\": \"sinaweibo://detail?mblogid=5198973591883463\", \"index\": 4, \"label\": \"\"}, {\"name\": \"荣荣和飞\", \"scheme\": \"sinaweibo://detail?mblogid=5224912556134375\", \"index\": 19, \"label\": \"\"}], \"name\": \"音娱数码菌\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.600.600.50/7d87b058ly8hbeju1hwkij20go0goq4l.jpg?KID=imgbed,tva&Expires=1762302237&ssig=Tcd9%2BoQVQG\", \"scheme\": \"sinaweibo://detail?mblogid=5181434027574240\", \"vType\": 0}}```<br><br>3. **维权关键步骤**  <br>   - **保留证据**：清洗前称重拍照/录像，索要服务凭证。```wbCustomBlock{\"type\": \"quoted\", \"index\": 24, \"data\": {\"num\": [3, 12], \"version\": 2, \"quote_list\": [{\"name\": \"爱偷懒的刘女士\", \"scheme\": \"sinaweibo://detail?mblogid=5224944683977145\", \"index\": 3, \"label\": \"\"}, {\"name\": \"央视网\", \"scheme\": \"sinaweibo://detail?mblogid=5229372405450943\", \"index\": 12, \"label\": \"\"}]}}```  <br>   - **立即复秤**：发现减重超0.05克，当场质疑并报警，同时要求第三方机构检测。```wbCustomBlock{\"type\": \"quoted\", \"index\": 25, \"data\": {\"num\": [15], \"version\": 2, \"quote_list\": [{\"name\": \"神精险冒向方反\", \"scheme\": \"sinaweibo://detail?mblogid=5199054365261855\", \"index\": 15, \"label\": \"\"}]}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5224944683977145&multi_paragraph=3&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/0071yfo0ly8i32yd70trnj30u00u0wgc.jpg?KID=imgbed,tva&Expires=1762302237&ssig=VaLOJ%2FgmT%2B) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">爱偷懒的刘女士</span><img src=\"http://wx2.sinaimg.cn/middle/0071yfo0ly1i6mdp5fdnkj30u01hctav.jpg\" data-width=1920 data-height=1080></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5221304920969397&multi_paragraph=3&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/008wfxDrly8hbc6p2kjssj30u00u1jrv.jpg?KID=imgbed,tva&Expires=1762302237&ssig=Rq0sbD7JE2) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">杭田视频</span><img src=\"http://wx1.sinaimg.cn/middle/008wfxDrly1i6arok5zigj30mh0u0q6c.jpg\" data-width=1080 data-height=809></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5224902270651421&multi_paragraph=3&multi_count=2\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/4daaee70ly8i6ta6k7pojj20u00u00uu.jpg?KID=imgbed,tva&Expires=1762302237&ssig=f8WobCR1PK) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">傻傻智慧舟</span><img src=\"http://wx2.sinaimg.cn/middle/4daaee70gy1i6m8uiv86kj20u00gv0vx.jpg\" data-width=607 data-height=1080></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5181434027574240&multi_paragraph=3&multi_count=3\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.600.600.50/7d87b058ly8hbeju1hwkij20go0goq4l.jpg?KID=imgbed,tva&Expires=1762302237&ssig=Tcd9%2BoQVQG) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">音娱数码菌</span><img src=\"http://wx3.sinaimg.cn/middle/7d87b058ly1i2qtt65jq1j20k00zkq45.jpg\" data-width=1280 data-height=720></div></media-block><br>### 💎 四、行业真相与误区澄清<br>- **“零损耗”不现实**：黄金加工存在物理损耗（如熔炼时微量飞溅），但商家应提前告知合理范围。```wbCustomBlock{\"type\": \"quoted\", \"index\": 27, \"data\": {\"num\": [14, 15], \"version\": 2, \"quote_list\": [{\"name\": \"莲子白鹤\", \"scheme\": \"sinaweibo://detail?mblogid=5206423102292508\", \"index\": 14, \"label\": \"\"}, {\"name\": \"神精险冒向方反\", \"scheme\": \"sinaweibo://detail?mblogid=5199054365261855\", \"index\": 15, \"label\": \"\"}]}}```  <br>- **品牌店套路**：警惕“一口价”换新（不标克数）、旧饰回收时故意压秤等手段。```wbCustomBlock{\"type\": \"quoted\", \"index\": 28, \"data\": {\"num\": [4, 6], \"version\": 2, \"quote_list\": [{\"name\": \"纸鸢载梦天涯\", \"scheme\": \"sinaweibo://detail?mblogid=5198973591883463\", \"index\": 4, \"label\": \"\"}, {\"name\": \"老牛慧眼观市\", \"scheme\": \"sinaweibo://detail?mblogid=5226086206015430\", \"index\": 6, \"label\": \"\"}]}}```<br><br>> 📌 **终极原则**：黄金无“免费午餐”，**清洗前后称重**是识破骗局的核心手段。守住0.02克损耗红线，超0.05克必维权！<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5226086206015430&multi_paragraph=4&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.512.512.50/770074fbly8i1dyexckawj20e80e8wfz.jpg?KID=imgbed,tva&Expires=1762302237&ssig=T1mn2d9SdE) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">老牛慧眼观市</span><img src=\"http://wx4.sinaimg.cn/middle/770074fbgy1i6q0sqgagsj20u014147i.jpg\" data-width=1441 data-height=1080></div></media-block><br>",
+      "sorted_material_list": null,
+      "abtest_info": {
+        "chat_entrance": 1
+      },
+      "card_multimodal": {
+        "type": "mediablock",
+        "data": [
+          {
+            "doc_score": 5816,
+            "scheme": "sinaweibo://video/vvs?mid=5229362208571747&multi_paragraph=1&multi_count=0",
+            "h": 1093,
+            "video_url": "https://video.weibo.com/show?fid=1034:5229360823861332",
+            "vtype": 3,
+            "hit_score_new": 96.777344,
+            "type": "v",
+            "img_pid": "002TLsr9ly1i70gx5ehsgj61i00ud4qn02",
+            "w": 1944,
+            "click_rate": 0.22875816993464,
+            "click_num": 0,
+            "cur_mid": "5229362208571747",
+            "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.690.690.50/002TLsr9ly8i653ifvwbtj60j60j6aai02.jpg?KID=imgbed,tva&Expires=1762302237&ssig=EOZwor7N74",
+            "hit_score_final": 78.066406,
+            "img": "http://wx3.sinaimg.cn/middle/002TLsr9ly1i70gx5ehsgj61i00ud4qn02.jpg",
+            "user_name": "央视新闻"
+          },
+          {
+            "doc_score": 1306,
+            "scheme": "sinaweibo://multimedia?mix_mid=5199054365261855&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=1",
+            "h": 516,
+            "video_url": "",
+            "vtype": 0,
+            "hit_score_new": 62.5,
+            "type": "p",
+            "img_pid": "ea072391gy1i4bs91ueyjj20wi0ec414",
+            "w": 1170,
+            "click_rate": 0.06,
+            "click_num": 0,
+            "cur_mid": "5199054365261855",
+            "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/ea072391ly8i6t8mnyribj20u00u0dip.jpg?KID=imgbed,tva&Expires=1762302237&ssig=%2B0sE%2FbHPA9",
+            "hit_score_final": 60.699997,
+            "img": "http://wx2.sinaimg.cn/middle/ea072391gy1i4bs91ueyjj20wi0ec414.jpg",
+            "user_name": "神精险冒向方反"
+          },
+          {
+            "doc_score": 3475,
+            "scheme": "sinaweibo://video/vvs?mid=5224894091495722&multi_paragraph=2&multi_count=0",
+            "h": 1080,
+            "video_url": "https://video.weibo.com/show?fid=1034:5224893982113819",
+            "vtype": 0,
+            "hit_score_new": 72.949219,
+            "type": "v",
+            "img_pid": "005zilAkgy1i6m7wf0sbaj30mh0u0tar",
+            "w": 809,
+            "click_rate": 0.010619469026549,
+            "click_num": 0,
+            "cur_mid": "5224894091495722",
+            "user_avatar": "https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/005zilAkgy1i3kxeojuvcj30u00u0juf.jpg?KID=imgbed,tva&Expires=1762302237&ssig=C5Ru%2FPkn3H",
+            "hit_score_final": 64.169533,
+            "img": "http://wx2.sinaimg.cn/middle/005zilAkgy1i6m7wf0sbaj30mh0u0tar.jpg",
+            "user_name": "一丈凡尘"
+          },
+          {
+            "doc_score": 5816,
+            "scheme": "sinaweibo://video/vvs?mid=5229362208571747&multi_paragraph=1&multi_count=0",
+            "h": 1093,
+            "video_url": "https://video.weibo.com/show?fid=1034:5229360823861332",
+            "vtype": 3,
+            "hit_score_new": 96.777344,
+            "type": "v",
+            "img_pid": "002TLsr9ly1i70gx5ehsgj61i00ud4qn02",
+            "w": 1944,
+            "click_rate": 0.22875816993464,
+            "click_num": 0,
+            "cur_mid": "5229362208571747",
+            "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.690.690.50/002TLsr9ly8i653ifvwbtj60j60j6aai02.jpg?KID=imgbed,tva&Expires=1762302237&ssig=EOZwor7N74",
+            "hit_score_final": 78.066406,
+            "img": "http://wx3.sinaimg.cn/middle/002TLsr9ly1i70gx5ehsgj61i00ud4qn02.jpg",
+            "user_name": "央视新闻"
+          }
+        ]
+      },
+      "qs_status": 0,
+      "ext_show": {},
+      "version": "2025-11-05 05:23:57.006000-5872",
+      "page_id": "232964a4b8348bdea7a74a6155d149c2309bce",
+      "analysis_time": 1762291609,
+      "query_field": "56",
+      "msg_format": "markdown",
+      "qs_status_info": "{\"qs_r_status\":0,\"qs_u_status\":0,\"ab_lab\":{},\"qs_status\":0,\"qs_q_status\":0,\"qs_c_status\":8388608}",
+      "status": 2,
+      "loop_times": 200,
+      "share_info": {
+        "page_id": "232964a4b8348bdea7a74a6155d149c2309bce",
+        "comment_content": "",
+        "tips": "#金饰清洗多少损耗属于正常范围#的相关内容，来智搜看看",
+        "display_name": "#金饰清洗多少损耗属于正常范围#",
+        "unify_md5": "84d678badd8ceaa6fb5300ab4aac6370",
+        "status": 3,
+        "url": "http://t.cn/AXAHS4cz"
+      }
+    }
+  },
+  "links": [
+    "sinaweibo://detail?mblogid=5229362208571747",
+    "sinaweibo://detail?mblogid=5224894091495722",
+    "sinaweibo://detail?mblogid=5224944683977145",
+    "sinaweibo://detail?mblogid=5198973591883463",
+    "sinaweibo://detail?mblogid=5027091185142801",
+    "sinaweibo://detail?mblogid=5226086206015430",
+    "sinaweibo://detail?mblogid=5181434027574240",
+    "broadsocial_res://",
+    "historyweibo://5229226238413167",
+    "historyweibo://5229192070824116",
+    "historyweibo://5229362208571747",
+    "sinaweibo://detail?mblogid=5229372405450943",
+    "sinaweibo://detail?mblogid=5229462503293821",
+    "sinaweibo://detail?mblogid=5206423102292508",
+    "sinaweibo://detail?mblogid=5199054365261855",
+    "sinaweibo://detail?mblogid=5225052226453976",
+    "sinaweibo://detail?mblogid=5224902270651421",
+    "sinaweibo://detail?mblogid=5221304920969397",
+    "sinaweibo://detail?mblogid=5224912556134375",
+    "sinaweibo://detail?mblogid=5224865837878390",
+    "sinaweibo://detail?mblogid=5224896810452490",
+    "sinaweibo://detail?mblogid=5224899951988067",
+    "sinaweibo://detail?mblogid=5198879223456851",
+    "sinaweibo://detail?mblogid=5224880255012545"
+  ],
+  "media": [
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/002TLsr9ly1i70gx5ehsgj61i00ud4qn02.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/002TLsr9ly1i70gx5ehsgj61i00ud4qn02.jpg",
+      "alt": "央视新闻",
+      "width": 1093,
+      "height": 1944,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/002TLsr9ly1i70gx5ehsgj61i00ud4qn02.jpg"
+      ],
+      "user": "央视新闻"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/ea072391gy1i4bs91ueyjj20wi0ec414.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/ea072391gy1i4bs91ueyjj20wi0ec414.jpg",
+      "alt": "神精险冒向方反",
+      "width": 516,
+      "height": 1170,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/ea072391gy1i4bs91ueyjj20wi0ec414.jpg"
+      ],
+      "user": "神精险冒向方反"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/005zilAkgy1i6m7wf0sbaj30mh0u0tar.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/005zilAkgy1i6m7wf0sbaj30mh0u0tar.jpg",
+      "alt": "一丈凡尘",
+      "width": 1080,
+      "height": 809,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/005zilAkgy1i6m7wf0sbaj30mh0u0tar.jpg"
+      ],
+      "user": "一丈凡尘"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/001DjCJOgy1i4atessfnxj60u01hc0vs02.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/001DjCJOgy1i4atessfnxj60u01hc0vs02.jpg",
+      "alt": "东营网官方微博",
+      "width": 1920,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/001DjCJOgy1i4atessfnxj60u01hc0vs02.jpg"
+      ],
+      "user": "东营网官方微博"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/0071yfo0ly1i6mdp5fdnkj30u01hctav.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/0071yfo0ly1i6mdp5fdnkj30u01hctav.jpg",
+      "alt": "爱偷懒的刘女士",
+      "width": 1920,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/0071yfo0ly1i6mdp5fdnkj30u01hctav.jpg"
+      ],
+      "user": "爱偷懒的刘女士"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/008wfxDrly1i6arok5zigj30mh0u0q6c.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/008wfxDrly1i6arok5zigj30mh0u0q6c.jpg",
+      "alt": "杭田视频",
+      "width": 1080,
+      "height": 809,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/008wfxDrly1i6arok5zigj30mh0u0q6c.jpg"
+      ],
+      "user": "杭田视频"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/4daaee70gy1i6m8uiv86kj20u00gv0vx.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/4daaee70gy1i6m8uiv86kj20u00gv0vx.jpg",
+      "alt": "傻傻智慧舟",
+      "width": 607,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/4daaee70gy1i6m8uiv86kj20u00gv0vx.jpg"
+      ],
+      "user": "傻傻智慧舟"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/7d87b058ly1i2qtt65jq1j20k00zkq45.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/7d87b058ly1i2qtt65jq1j20k00zkq45.jpg",
+      "alt": "音娱数码菌",
+      "width": 1280,
+      "height": 720,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx4.sinaimg.cn/large/7d87b058ly1i2qtt65jq1j20k00zkq45.jpg"
+      ],
+      "user": "音娱数码菌"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/770074fbgy1i6q0sqgagsj20u014147i.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/770074fbgy1i6q0sqgagsj20u014147i.jpg",
+      "alt": "老牛慧眼观市",
+      "width": 1441,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/770074fbgy1i6q0sqgagsj20u014147i.jpg"
+      ],
+      "user": "老牛慧眼观市"
+    }
+  ],
+  "html_path": "data/aicard/hourly/2025-11-05/05/topic-84d678ba.html"
+}

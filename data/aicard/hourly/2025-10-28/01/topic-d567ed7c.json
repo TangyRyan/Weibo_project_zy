@@ -1,0 +1,459 @@
+{
+  "meta": {
+    "query": "#王权富贵好温柔#",
+    "status_code": 200,
+    "fetched_at": "2025-10-28T17:43:10+08:00",
+    "response": {
+      "news_analyze": {},
+      "model": "deepseek",
+      "mid_list": null,
+      "reference_num": 53,
+      "status_stage": 4,
+      "link_list": [
+        "sinaweibo://detail?mblogid=5226446960200250",
+        "sinaweibo://detail?mblogid=5226476523749469",
+        "sinaweibo://detail?mblogid=5226480268214676",
+        "sinaweibo://detail?mblogid=5226457941934964",
+        "sinaweibo://detail?mblogid=5226472178714241",
+        "sinaweibo://detail?mblogid=5226483195054857",
+        "sinaweibo://detail?mblogid=5226480871412759",
+        "sinaweibo://detail?mblogid=5225680830992497",
+        "sinaweibo://detail?mblogid=5226442694857239",
+        "sinaweibo://detail?mblogid=5226164394394551",
+        "sinaweibo://detail?mblogid=5226397649866084",
+        "sinaweibo://detail?mblogid=5226654504322029",
+        "sinaweibo://detail?mblogid=5226330116587868",
+        "sinaweibo://detail?mblogid=5226445022429512",
+        "sinaweibo://detail?mblogid=5226626008744817",
+        "sinaweibo://detail?mblogid=5226384709651098",
+        "sinaweibo://detail?mblogid=5225959922862661",
+        "sinaweibo://detail?mblogid=5226465253919523",
+        "sinaweibo://detail?mblogid=5226145084873779",
+        "sinaweibo://detail?mblogid=5225967841710661",
+        "sinaweibo://detail?mblogid=5225725302148587",
+        "sinaweibo://detail?mblogid=5226390515619856",
+        "sinaweibo://detail?mblogid=5225877361393733",
+        "sinaweibo://detail?mblogid=5208213987528333",
+        "sinaweibo://detail?mblogid=4988345709233726",
+        "sinaweibo://detail?mblogid=4997654361415784",
+        "https://m.sohu.com/a/947719655_121985743",
+        "https://m.163.com/dy/article/KCQHVOUM0517TF3H.html",
+        "https://m.douban.com/movie/review/17165398//",
+        "https://baike.baidu.com/item/%E7%8E%8B%E6%9D%83%E5%AF%8C%E8%B4%B5/24167025?fromModule=search-result_lemma",
+        "historyweibo://5226446960200250",
+        "historyweibo://5226446960200250",
+        "historyweibo://5226330116587868",
+        "sinaweibo://detail?mblogid=5226467245954924",
+        "sinaweibo://detail?mblogid=5226466225947760",
+        "sinaweibo://detail?mblogid=5226486207352948",
+        "sinaweibo://detail?mblogid=5226317180309281",
+        "sinaweibo://detail?mblogid=5226494156867811",
+        "sinaweibo://detail?mblogid=5226339394388825",
+        "sinaweibo://detail?mblogid=5226484266441089",
+        "sinaweibo://detail?mblogid=5226475667066342",
+        "sinaweibo://detail?mblogid=5226481146139654",
+        "sinaweibo://detail?mblogid=5226467512550906",
+        "sinaweibo://detail?mblogid=5225948073957502",
+        "sinaweibo://detail?mblogid=5226352896902610",
+        "sinaweibo://detail?mblogid=5226351959216487",
+        "sinaweibo://detail?mblogid=5225911630698137",
+        "sinaweibo://detail?mblogid=5226506575942091",
+        "sinaweibo://detail?mblogid=5226389981627124",
+        "sinaweibo://detail?mblogid=5226364462695048",
+        "sinaweibo://detail?mblogid=5225818731317161",
+        "sinaweibo://detail?mblogid=5226220698468938",
+        "sinaweibo://detail?mblogid=5226299783381232",
+        "sinaweibo://detail?mblogid=5226373949949466",
+        "sinaweibo://detail?mblogid=5226687937645464",
+        "sinaweibo://detail?mblogid=5226708757647351",
+        "sinaweibo://detail?mblogid=5226486907016310",
+        "sinaweibo://detail?mblogid=5226377510916357",
+        "sinaweibo://detail?mblogid=5194455581723957",
+        "sinaweibo://detail?mblogid=5188984835938614",
+        "https://m.sohu.com/a/947932091_121956424",
+        "https://mbd.baidu.com/newspage/data/dtlandingsuper?nid=dt_4430119532404768943&from=2001k&from=2001k",
+        "https://m.toutiao.com/a7565698341028364850/"
+      ],
+      "top_quote_list": {},
+      "query_category": "",
+      "share_card_multimodal": {
+        "user_name": "闻汤识面泡剧",
+        "w": 1920,
+        "user_avatar": "https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/69dbddb1ly8gdi7fgptdnj20u00u0wfy.jpg?KID=imgbed,tva&Expires=1761644679&ssig=Lvg193QqnU",
+        "type": "v",
+        "video_url": "https://video.weibo.com/show?fid=1034:5225595072872511",
+        "h": 1080,
+        "hit_score_new": 98.925781,
+        "doc_score": 5947,
+        "img_pid": "69dbddb1ly1i6oggh35npj21hc0u040w",
+        "click_rate": 0,
+        "img": "http://wx3.sinaimg.cn/middle/69dbddb1ly1i6oggh35npj21hc0u040w.jpg",
+        "vtype": 0,
+        "scheme": "sinaweibo://video/vvs?mid=5225680830992497&multi_paragraph=1&multi_count=0",
+        "hit_score_final": 91.355469,
+        "cur_mid": "5225680830992497"
+      },
+      "basemodel": "实验组7",
+      "q_attr": {
+        "from_uid": "7288354122",
+        "from_request_id": "1761633877343"
+      },
+      "short_url": "http://t.cn/AXwgpqEY",
+      "current_time": 1761644590,
+      "profile_image_url": "",
+      "user_info": {},
+      "query": "#王权富贵好温柔#",
+      "uid": "",
+      "unify_md5": "d567ed7c71a4ac583a06cd72bc0ad4cc",
+      "scheme": "sinaweibo://cardlist?containerid=100103type%3D225%26q%3D%23%E7%8E%8B%E6%9D%83%E5%AF%8C%E8%B4%B5%E5%A5%BD%E6%B8%A9%E6%9F%94%23%26t%3D&extparam=ai_model%3Ddeepseek%26ori_ai_title%3D%E5%8F%82%E8%80%83%E5%8D%9A%E6%96%87%26material_version%3D1761633879",
+      "share_text": "#王权富贵好温柔#的相关内容，来智搜看看",
+      "loop_times": 200,
+      "share_info": {
+        "status": 3,
+        "unify_md5": "d567ed7c71a4ac583a06cd72bc0ad4cc",
+        "tips": "#王权富贵好温柔#的相关内容，来智搜看看",
+        "page_id": "232964649daf03fa92bf2964ee61c9a392bf86",
+        "display_name": "#王权富贵好温柔#",
+        "url": "http://t.cn/AXwFXWQl"
+      },
+      "query_field": "1",
+      "msg": "<think><br>嗯，用户想了解\"王权富贵好温柔\"这个主题的相关信息。用户可能是个追剧的观众，或者是成毅的粉丝，想深入了解王权富贵这个角色的温柔特质。用户可能刚看完《天地剑心》的最新剧集，对角色产生了共鸣。<br><br>我看到了很多搜索结果，需要整理出王权富贵的温柔特质具体体现在哪些方面。搜索结果里有很多剧透内容，包括王权富贵为救小蜘蛛精折损十年寿命、拒绝师妹表白时展现的温柔、以及各种细节表现。<br><br>这些温柔特质可以分为几个维度：对生命的尊重（救小蜘蛛时说的\"任何努力求生的生灵都值得被成全\"）、引导型恋人的表现（教清瞳剑法自保）、以及表面冷漠与内心温柔的反差。演员成毅的表演也很关键，通过眼神戏和微表情展现温柔内核。<br><br>用户可能还想知道这种温柔特质的来源。从搜索结果看，这源于王权富贵自幼被训练为\"道门兵人\"的孤独经历，缺爱的环境反而让他更珍视每一份善意。<br><br>这个话题最近很热，大量讨论集中在10月27日左右，应该和《天地剑心》最新剧集播出时间吻合。不少观众被王权富贵拒绝师妹的场面打动，相关话题#王权富贵好温柔#阅读量很高。<br><br>在整理回复时，我会突出几个关键场景：竹林拒绝师妹的温柔克制、救清瞳的自我牺牲、以及日常细节中体现的温暖。还要强调演员表演对角色塑造的加成作用，成毅通过细腻演技放大了角色魅力。<br><br>值得注意的风险点是搜索结果中有较多剧透内容，特别是关于\"万剑穿心\"的关键剧情。在回答时需要把握好剧透程度，既要说明温柔特质的具体表现，又不要破坏用户观剧体验。<br><br></think><br>王权富贵这一角色在《天地剑心》（改编自《狐妖小红娘》王权篇）中展现的“温柔”特质，是清冷表象下极具反差感的灵魂内核。以下结合剧情、角色塑造及观众反馈，从多维度解析其温柔本质：<br>### 🌟 **一、温柔的本质：悲悯众生，尊重生命**<br>1. **对弱小生命的共情与守护**  <br>   作为道门最强兵人，王权富贵却对身份可疑的小蜘蛛精清瞳伸出援手。他折损十年寿命助其化形，只因“看到你努力想活，不想你被命运碾死”；即使面对清瞳被迫下毒，他第一反应是关心她的伤势而非质问背叛。这种超越立场的悲悯，源于对生命尊严的平等敬畏——“想活下去并没有错”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 4, \"data\": {\"num\": [8, 13], \"version\": 2, \"quote_list\": [{\"name\": \"闻汤识面泡剧\", \"scheme\": \"sinaweibo://detail?mblogid=5225680830992497\", \"index\": 8, \"label\": \"大v\"}, {\"name\": \"思想聚焦\", \"scheme\": \"sinaweibo://detail?mblogid=5226330116587868\", \"index\": 13, \"label\": \"\"}], \"name\": \"闻汤识面泡剧\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/69dbddb1ly8gdi7fgptdnj20u00u0wfy.jpg?KID=imgbed,tva&Expires=1761644679&ssig=Lvg193QqnU\", \"scheme\": \"sinaweibo://detail?mblogid=5225680830992497\", \"vType\": 0}}```  <br><br>2. **无声的包容与牺牲**  <br>   - **隐瞒付出**：用道家法宝“翼灵珠”救清瞳后轻描淡写称“赖着不走的代价”，隐瞒折寿真相。  <br>   - **以命换命**：中毒时将唯一解药喂给清瞳，自己忍痛取蛊虫。<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5225680830992497&multi_paragraph=1&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/69dbddb1ly8gdi7fgptdnj20u00u0wfy.jpg?KID=imgbed,tva&Expires=1761644679&ssig=Lvg193QqnU) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">闻汤识面泡剧</span><img src=\"http://wx3.sinaimg.cn/middle/69dbddb1ly1i6oggh35npj21hc0u040w.jpg\" data-width=1080 data-height=1920></div><div data-type=\"v\" data-scheme=\"sinaweibo://multimedia?mix_mid=5226330116587868&mix_index=0&multi_paragraph=1&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.180.180.50/67dd74e0ly8fvv8h7c3ylj2050050aac.jpg?KID=imgbed,tva&Expires=1761644679&ssig=Cqlhwpu0IK) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">思想聚焦</span><img src=\"http://wx2.sinaimg.cn/middle/001TVDbigy1i6pujkrn6cj60zi0k074t02.jpg\" data-width=720 data-height=1278></div></media-block><br>### 💞 **二、温柔的形式：引导型恋人的极致苏感**<br>1. **赋予自由，拒绝占有**  <br>   - 为清瞳取名“清瞳”，寓意“能看清世界的瞳眸”，赋予她认知世界的权利。```wbCustomBlock{\"type\": \"quoted\", \"index\": 11, \"data\": {\"num\": [19], \"version\": 2, \"quote_list\": [{\"name\": \"再见不再见cy\", \"scheme\": \"sinaweibo://detail?mblogid=5226145084873779\", \"index\": 19, \"label\": \"大v\"}], \"name\": \"再见不再见cy\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/a5748ecbly8hdb6g6cpb4j20u00u0abn.jpg?KID=imgbed,tva&Expires=1761644679&ssig=6YZwn%2FRiK3\", \"scheme\": \"sinaweibo://detail?mblogid=5226145084873779\", \"vType\": 0}}```  <br>   - **经典台词**：“你不属于我，但我可以给你起个名字”，被观众誉为“苏感天花板”，彰显对独立人格的尊重。```wbCustomBlock{\"type\": \"quoted\", \"index\": 12, \"data\": {\"num\": [17, 19], \"version\": 2, \"quote_list\": [{\"name\": \"顶流预备役i\", \"scheme\": \"sinaweibo://detail?mblogid=5225959922862661\", \"index\": 17, \"label\": \"大v\"}, {\"name\": \"再见不再见cy\", \"scheme\": \"sinaweibo://detail?mblogid=5226145084873779\", \"index\": 19, \"label\": \"\"}], \"name\": \"顶流预备役i\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.512.512.50/537b9367ly8hw6zksg2wej20e80e83z1.jpg?KID=imgbed,tva&Expires=1761644679&ssig=x6g4Yj5lTb\", \"scheme\": \"sinaweibo://detail?mblogid=5225959922862661\", \"vType\": 0}}```  <br><br>2. **“授人以渔”的守护**  <br>   明知清瞳是间谍，仍教她剑法自保：“你的愿望要自己去实现”，拒绝包办人生。```wbCustomBlock{\"type\": \"quoted\", \"index\": 13, \"data\": {\"num\": [20], \"version\": 2, \"quote_list\": [{\"name\": \"追剧seven仙女\", \"scheme\": \"sinaweibo://detail?mblogid=5225967841710661\", \"index\": 20, \"label\": \"\"}]}}```  <br><br>3. **细节中的珍视**  <br>   - 清瞳感叹药苦时偷偷备糖；  <br>   - 被她编织的“外界锦画”触动，温柔回应：“外面的一切应该很美，因为，你很开心”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 16, \"data\": {\"num\": [13], \"version\": 2, \"quote_list\": [{\"name\": \"思想聚焦\", \"scheme\": \"sinaweibo://detail?mblogid=5226330116587868\", \"index\": 13, \"label\": \"大v\"}], \"name\": \"思想聚焦\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.180.180.50/67dd74e0ly8fvv8h7c3ylj2050050aac.jpg?KID=imgbed,tva&Expires=1761644679&ssig=Cqlhwpu0IK\", \"scheme\": \"sinaweibo://detail?mblogid=5226330116587868\", \"vType\": 0}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://multimedia?mix_mid=5226145084873779&mix_index=0&multi_paragraph=2&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/a5748ecbly8hdb6g6cpb4j20u00u0abn.jpg?KID=imgbed,tva&Expires=1761644679&ssig=6YZwn%2FRiK3) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">再见不再见cy</span><img src=\"http://wx2.sinaimg.cn/middle/a5748ecbly1i6q7k22intj20u0140q4b.jpg\" data-width=1440 data-height=1080></div><div data-type=\"v\" data-scheme=\"sinaweibo://multimedia?mix_mid=5225959922862661&mix_index=0&multi_paragraph=2&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.512.512.50/537b9367ly8hw6zksg2wej20e80e83z1.jpg?KID=imgbed,tva&Expires=1761644679&ssig=x6g4Yj5lTb) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">顶流预备役i</span><img src=\"http://wx2.sinaimg.cn/middle/537b9367ly1i6piixq7ypj21hc0u0dio.jpg\" data-width=1080 data-height=1920></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5225967841710661&multi_paragraph=2&multi_count=2\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/7582cb5bly8h8ui37ba71j20u00u0jv1.jpg?KID=imgbed,tva&Expires=1761644679&ssig=6bJK38o%2FY4) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">追剧seven仙女</span><img src=\"http://wx4.sinaimg.cn/middle/7582cb5bly1i6pn7ztm8wj20zk0k0t9g.jpg\" data-width=720 data-height=1280></div></media-block><br>### ❄️ **三、温柔溯源：孤独淬炼的神性**<br>1. **缺爱环境滋养大爱**  <br>   自幼被训练为无感情兵人，在寒潭独居时记录“火烧云消失时间”，在寂寥中培育对美的感知。因从未被坚定选择，反而更珍视每一份善意，形成“未被爱却深谙爱人”的赤诚。  <br><br>2. **清冷与温柔的戏剧张力**  <br>   - 表面疏离寡言，拒绝师妹风庭云时却以信任化解尴尬：“因为你是风庭云，你的剑意潇洒如风，舒展如云”；```wbCustomBlock{\"type\": \"quoted\", \"index\": 21, \"data\": {\"num\": [9, 14, 34], \"version\": 2, \"quote_list\": [{\"name\": \"机智的内娱生活\", \"scheme\": \"sinaweibo://detail?mblogid=5226442694857239\", \"index\": 9, \"label\": \"大v\"}, {\"name\": \"飞升顶流的一天\", \"scheme\": \"sinaweibo://detail?mblogid=5226445022429512\", \"index\": 14, \"label\": \"\"}, {\"name\": \"岱岱爱吃薯片RollsRoyce\", \"scheme\": \"sinaweibo://detail?mblogid=5226467245954924\", \"index\": 34, \"label\": \"\"}], \"name\": \"机智的内娱生活\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.700.700.50/007zBLQAly8hwbbkkc9qrj30jg0jgq4r.jpg?KID=imgbed,tva&Expires=1761644679&ssig=Xaiw92hUtL\", \"scheme\": \"sinaweibo://detail?mblogid=5226442694857239\", \"vType\": 0}}```  <br>   - 演员成毅通过 **眼神戏与微表情** 演绎层次：月色下低头浅笑的羞赧，打戏收招时的片刻迟疑。```wbCustomBlock{\"type\": \"quoted\", \"index\": 22, \"data\": {\"num\": [21], \"version\": 2, \"quote_list\": [{\"name\": \"一个有品位的观众\", \"scheme\": \"sinaweibo://detail?mblogid=5225725302148587\", \"index\": 21, \"label\": \"\"}]}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5226445022429512&multi_paragraph=3&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.480.480.50/005IxC1tly8i01rluzttmj30dc0dcjrp.jpg?KID=imgbed,tva&Expires=1761644679&ssig=MUQqFwOY%2F0) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">飞升顶流的一天</span><img src=\"http://wx4.sinaimg.cn/middle/005IxC1tly1i6r6155qyej30qo0f1q6r.jpg\" data-width=541 data-height=960></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5226442694857239&multi_paragraph=3&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.700.700.50/007zBLQAly8hwbbkkc9qrj30jg0jgq4r.jpg?KID=imgbed,tva&Expires=1761644679&ssig=Xaiw92hUtL) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">机智的内娱生活</span><img src=\"http://wx4.sinaimg.cn/middle/007zBLQAgy1i6r5rj2vb2j30wt0ihn41.jpg\" data-width=665 data-height=1181></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5226467245954924&multi_paragraph=3&multi_count=2\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/006A8Z5cly8i4x2v1czcdj30u00u0421.jpg?KID=imgbed,tva&Expires=1761644679&ssig=eDvotGnWsb) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">岱岱爱吃薯片RollsRoyce</span><img src=\"http://wx1.sinaimg.cn/middle/006A8Z5cly1i6r8kw6oc0j30qo0k00ts.jpg\" data-width=720 data-height=960></div></media-block><br>### ⚔️ **四、温柔的力量：颠覆传统角色范式**<br>1. **“强”与“柔”的辩证统一**  <br>   - **武力值巅峰**：90%打戏亲自完成，剑招行云流水（如蒙眼战损戏），被赞“重构武侠美学”；```wbCustomBlock{\"type\": \"quoted\", \"index\": 26, \"data\": {\"num\": [23, 59], \"version\": 2, \"quote_list\": [{\"name\": \"娱圈咖啡喵\", \"scheme\": \"sinaweibo://detail?mblogid=5225877361393733\", \"index\": 23, \"label\": \"大v\"}, {\"name\": \"淇长命百岁\", \"scheme\": \"sinaweibo://detail?mblogid=5194455581723957\", \"index\": 59, \"label\": \"\"}], \"name\": \"娱圈咖啡喵\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.512.512.50/bb02f265ly8hgtapzedocj20e80e8mxg.jpg?KID=imgbed,tva&Expires=1761644679&ssig=upCTtKVAfW\", \"scheme\": \"sinaweibo://detail?mblogid=5225877361393733\", \"vType\": 0}}```  <br>   - **精神内核更强**：面对父亲压迫仅以“可问剑王权”反击，坚守“天下乃众生之天下”的信念。```wbCustomBlock{\"type\": \"quoted\", \"index\": 27, \"data\": {\"num\": [53, 56], \"version\": 2, \"quote_list\": [{\"name\": \"毅豆柚柚酱-天地剑心众生版\", \"scheme\": \"sinaweibo://detail?mblogid=5226299783381232\", \"index\": 53, \"label\": \"大v\"}, {\"name\": \"言情小姐姐\", \"scheme\": \"sinaweibo://detail?mblogid=5226708757647351\", \"index\": 56, \"label\": \"\"}], \"name\": \"毅豆柚柚酱-天地剑心众生版\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.688.688.50/67810b70ly8i219ppp2buj20j40j4jrw.jpg?KID=imgbed,tva&Expires=1761644679&ssig=rQCt9FQr4c\", \"scheme\": \"sinaweibo://detail?mblogid=5226299783381232\", \"vType\": 0}}```  <br><br>2. **健康情感范本**  <br>   引导型关系引发全网共鸣，#一户一富贵# 成社交热梗，网友感叹：“他教会我们——最冰冷的兵器内核，亦可包裹至暖的人性辉光”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 28, \"data\": {\"num\": [20, 38], \"version\": 2, \"quote_list\": [{\"name\": \"追剧seven仙女\", \"scheme\": \"sinaweibo://detail?mblogid=5225967841710661\", \"index\": 20, \"label\": \"\"}, {\"name\": \"ee还是那个毅毅\", \"scheme\": \"sinaweibo://detail?mblogid=5226494156867811\", \"index\": 38, \"label\": \"\"}]}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5225877361393733&multi_paragraph=4&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.512.512.50/bb02f265ly8hgtapzedocj20e80e8mxg.jpg?KID=imgbed,tva&Expires=1761644679&ssig=upCTtKVAfW) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">娱圈咖啡喵</span><img src=\"http://wx2.sinaimg.cn/middle/bb02f265ly1i6p06btjpzj21hc0u076j.jpg\" data-width=1080 data-height=1920></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5226708757647351&multi_paragraph=4&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/005SzWQily8i6c2mwq89bj30u00u0whj.jpg?KID=imgbed,tva&Expires=1761644679&ssig=WOHU8sbPqf) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">言情小姐姐</span><img src=\"http://wx3.sinaimg.cn/middle/005SzWQigy1i6s0aqq3uij30u00gugn4.jpg\" data-width=606 data-height=1080></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5226494156867811&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=4&multi_count=2\"><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/006Cq5Nuly8i6lklr59l8j30u00u0gp0.jpg?KID=imgbed,tva&Expires=1761644679&ssig=25wjH25iCw) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">ee还是那个毅毅</span><img src=\"http://wx1.sinaimg.cn/middle/006Cq5Nugy1i6rbn7pz7cj31900u07b2.jpg\" data-width=1080 data-height=1620></div></media-block><br>### 🎭 **演员加持：成毅的细节铸魂**<br>- **打戏即心戏**：前期招式如杀人机器，后期融守护之意（护清瞳时收剑放缓）；```wbCustomBlock{\"type\": \"quoted\", \"index\": 31, \"data\": {\"num\": [23, 58], \"version\": 2, \"quote_list\": [{\"name\": \"娱圈咖啡喵\", \"scheme\": \"sinaweibo://detail?mblogid=5225877361393733\", \"index\": 23, \"label\": \"\"}, {\"name\": \"吟c毅然果\", \"scheme\": \"sinaweibo://detail?mblogid=5226377510916357\", \"index\": 58, \"label\": \"\"}]}}```  <br>- **文学解构力**：将角色塑造成“孤独神祇以温柔抵万难”的经典形象，央视评“传递时代精神”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 32, \"data\": {\"num\": [22, 46], \"version\": 2, \"quote_list\": [{\"name\": \"雪魂青狂\", \"scheme\": \"sinaweibo://detail?mblogid=5226390515619856\", \"index\": 22, \"label\": \"\"}, {\"name\": \"E昕E毅-17\", \"scheme\": \"sinaweibo://detail?mblogid=5226351959216487\", \"index\": 46, \"label\": \"\"}]}}```  <br><br>---<br><br>> **最终注解**：王权富贵的温柔是“覆雪春山下涌动的暖流”，他以一身孤寂为薪柴，点燃照亮众生的火焰。恰如观众所言：“他强大到不问归途，是独行人间的神祇，以一身温柔抵世间万难。”```wbCustomBlock{\"type\": \"quoted\", \"index\": 34, \"data\": {\"num\": [45], \"version\": 2, \"quote_list\": [{\"name\": \"一辈子一起走517\", \"scheme\": \"sinaweibo://detail?mblogid=5226352896902610\", \"index\": 45, \"label\": \"大v\"}], \"name\": \"一辈子一起走517\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/855f3f6fly8i6ggd30jlhj20u00u0wh9.jpg?KID=imgbed,tva&Expires=1761644679&ssig=2SucwCYHWt\", \"scheme\": \"sinaweibo://detail?mblogid=5226352896902610\", \"vType\": 0}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5226377510916357&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=5&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/005PvUGnly8i6ms3kmstkj30u00u0gp0.jpg?KID=imgbed,tva&Expires=1761644679&ssig=dx8zzwSSKA) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">吟c毅然果</span><img src=\"http://wx4.sinaimg.cn/middle/005PvUGngy1i6qy9su6ujj34pd7214qw.jpg\" data-width=9145 data-height=6097></div><div data-type=\"v\" data-scheme=\"sinaweibo://multimedia?mix_mid=5226351959216487&mix_index=0&multi_paragraph=5&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.586.586.50/008BlAzmgy1i6qa1hr2fsj30ga0gadgi.jpg?KID=imgbed,tva&Expires=1761644679&ssig=P22ifRG%2FFW) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">E昕E毅-17</span><img src=\"http://wx3.sinaimg.cn/middle/008BlAzmly1i6qvc9l5zgj30qo0k00sx.jpg\" data-width=720 data-height=960></div><div data-type=\"v\" data-scheme=\"sinaweibo://multimedia?mix_mid=5226352896902610&mix_index=0&multi_paragraph=5&multi_count=2\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/855f3f6fly8i6ggd30jlhj20u00u0wh9.jpg?KID=imgbed,tva&Expires=1761644679&ssig=2SucwCYHWt) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">一辈子一起走517</span><img src=\"http://wx2.sinaimg.cn/middle/855f3f6fly1i6qvfpc7frj218g0u0gnc.jpg\" data-width=1080 data-height=1600></div></media-block><br>",
+      "version": "2025-10-28 14:44:39.012000-3406",
+      "reliable_tips": "{\"gold_orange_v_mids\": [\"5225680830992497\", \"5226330116587868\", \"5226145084873779\", \"5225959922862661\", \"5225967841710661\", \"5226442694857239\", \"5226445022429512\", \"5226467245954924\", \"5225725302148587\", \"5225877361393733\", \"5226299783381232\", \"5226708757647351\", \"5226494156867811\", \"5226377510916357\", \"5226390515619856\", \"5226351959216487\", \"5226352896902610\", \"5226476523749469\", \"5226480268214676\", \"5226457941934964\", \"5226472178714241\", \"5226483195054857\", \"5226480871412759\", \"5226164394394551\", \"5226397649866084\", \"5226654504322029\", \"5226626008744817\", \"5226384709651098\", \"5226465253919523\", \"5208213987528333\", \"4988345709233726\", \"5226466225947760\", \"5226486207352948\", \"5226317180309281\", \"5226339394388825\", \"5226484266441089\", \"5226475667066342\", \"5226481146139654\", \"5225911630698137\", \"5226506575942091\", \"5226389981627124\", \"5226364462695048\", \"5226220698468938\", \"5226373949949466\", \"5226687937645464\", \"5226486907016310\", \"5188984835938614\"], \"gold_orange_v_ratio\": \"89%\", \"media_mids\": [], \"media_ratio\": \"0%\", \"verified_mids\": [\"4997654361415784\", \"5225948073957502\"], \"verified_ratio\": \"4%\", \"normal_mids\": [\"5194455581723957\", \"5226446960200250\", \"5226467512550906\", \"5225818731317161\"], \"normal_ratio\": \"7%\"}",
+      "msg_format": "markdown",
+      "ext_show": {},
+      "status": 2,
+      "zs_risk_control": {
+        "think_text_close": 0,
+        "land_button_close": 0
+      },
+      "msg_json": "{}",
+      "page_id": "232964649daf03fa92bf2964ee61c9a392bf86",
+      "abtest_info": {
+        "chat_entrance": 1
+      },
+      "qs_status": 0,
+      "sorted_material_list": null,
+      "card_multimodal": {
+        "type": "mediablock",
+        "data": [
+          {
+            "user_name": "闻汤识面泡剧",
+            "w": 1920,
+            "user_avatar": "https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/69dbddb1ly8gdi7fgptdnj20u00u0wfy.jpg?KID=imgbed,tva&Expires=1761644679&ssig=Lvg193QqnU",
+            "type": "v",
+            "video_url": "https://video.weibo.com/show?fid=1034:5225595072872511",
+            "h": 1080,
+            "hit_score_new": 98.925781,
+            "doc_score": 5947,
+            "img_pid": "69dbddb1ly1i6oggh35npj21hc0u040w",
+            "click_rate": 0,
+            "img": "http://wx3.sinaimg.cn/middle/69dbddb1ly1i6oggh35npj21hc0u040w.jpg",
+            "vtype": 0,
+            "scheme": "sinaweibo://video/vvs?mid=5225680830992497&multi_paragraph=1&multi_count=0",
+            "hit_score_final": 91.355469,
+            "cur_mid": "5225680830992497"
+          },
+          {
+            "user_name": "思想聚焦",
+            "w": 1278,
+            "user_avatar": "https://tvax2.sinaimg.cn/crop.0.0.180.180.50/67dd74e0ly8fvv8h7c3ylj2050050aac.jpg?KID=imgbed,tva&Expires=1761644679&ssig=Cqlhwpu0IK",
+            "type": "v",
+            "video_url": "https://video.weibo.com/show?fid=1034:5226031414444067",
+            "h": 720,
+            "hit_score_new": 99.023438,
+            "doc_score": 6104,
+            "img_pid": "001TVDbigy1i6pujkrn6cj60zi0k074t02",
+            "click_rate": 0,
+            "img": "http://wx2.sinaimg.cn/middle/001TVDbigy1i6pujkrn6cj60zi0k074t02.jpg",
+            "vtype": 0,
+            "scheme": "sinaweibo://multimedia?mix_mid=5226330116587868&mix_index=0&multi_paragraph=1&multi_count=1",
+            "hit_score_final": 93.014069,
+            "cur_mid": "5226330116587868"
+          },
+          {
+            "user_name": "再见不再见cy",
+            "w": 1080,
+            "user_avatar": "https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/a5748ecbly8hdb6g6cpb4j20u00u0abn.jpg?KID=imgbed,tva&Expires=1761644679&ssig=6YZwn%2FRiK3",
+            "type": "v",
+            "video_url": "https://video.weibo.com/show?fid=1034:5226144786743345",
+            "h": 1440,
+            "hit_score_new": 79.443359,
+            "doc_score": 4486,
+            "img_pid": "a5748ecbly1i6q7k22intj20u0140q4b",
+            "click_rate": 0,
+            "img": "http://wx2.sinaimg.cn/middle/a5748ecbly1i6q7k22intj20u0140q4b.jpg",
+            "vtype": 0,
+            "scheme": "sinaweibo://multimedia?mix_mid=5226145084873779&mix_index=0&multi_paragraph=2&multi_count=0",
+            "hit_score_final": 70.466019,
+            "cur_mid": "5226145084873779"
+          },
+          {
+            "user_name": "闻汤识面泡剧",
+            "w": 1920,
+            "user_avatar": "https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/69dbddb1ly8gdi7fgptdnj20u00u0wfy.jpg?KID=imgbed,tva&Expires=1761644679&ssig=Lvg193QqnU",
+            "type": "v",
+            "video_url": "https://video.weibo.com/show?fid=1034:5225595072872511",
+            "h": 1080,
+            "hit_score_new": 98.925781,
+            "doc_score": 5947,
+            "img_pid": "69dbddb1ly1i6oggh35npj21hc0u040w",
+            "click_rate": 0,
+            "img": "http://wx3.sinaimg.cn/middle/69dbddb1ly1i6oggh35npj21hc0u040w.jpg",
+            "vtype": 0,
+            "scheme": "sinaweibo://video/vvs?mid=5225680830992497&multi_paragraph=1&multi_count=0",
+            "hit_score_final": 91.355469,
+            "cur_mid": "5225680830992497"
+          }
+        ]
+      },
+      "cot": 1,
+      "wenda": {
+        "forward_gen": 0
+      },
+      "show_ctrl": {
+        "quote": {}
+      },
+      "analysis_time": 1761634005,
+      "ab_suffix": "default",
+      "qs_status_info": "{\"qs_q_status\":0,\"ab_lab\":{},\"qs_status\":0,\"qs_c_status\":8388608,\"qs_u_status\":0,\"qs_r_status\":0}",
+      "chat_status_stage": 1
+    }
+  },
+  "links": [
+    "sinaweibo://detail?mblogid=5226446960200250",
+    "sinaweibo://detail?mblogid=5226476523749469",
+    "sinaweibo://detail?mblogid=5226480268214676",
+    "sinaweibo://detail?mblogid=5226457941934964",
+    "sinaweibo://detail?mblogid=5226472178714241",
+    "sinaweibo://detail?mblogid=5226483195054857",
+    "sinaweibo://detail?mblogid=5226480871412759",
+    "sinaweibo://detail?mblogid=5225680830992497",
+    "sinaweibo://detail?mblogid=5226442694857239",
+    "sinaweibo://detail?mblogid=5226164394394551",
+    "sinaweibo://detail?mblogid=5226397649866084",
+    "sinaweibo://detail?mblogid=5226654504322029",
+    "sinaweibo://detail?mblogid=5226330116587868",
+    "sinaweibo://detail?mblogid=5226445022429512",
+    "sinaweibo://detail?mblogid=5226626008744817",
+    "sinaweibo://detail?mblogid=5226384709651098",
+    "sinaweibo://detail?mblogid=5225959922862661",
+    "sinaweibo://detail?mblogid=5226465253919523",
+    "sinaweibo://detail?mblogid=5226145084873779",
+    "sinaweibo://detail?mblogid=5225967841710661",
+    "sinaweibo://detail?mblogid=5225725302148587",
+    "sinaweibo://detail?mblogid=5226390515619856",
+    "sinaweibo://detail?mblogid=5225877361393733",
+    "sinaweibo://detail?mblogid=5208213987528333",
+    "sinaweibo://detail?mblogid=4988345709233726",
+    "sinaweibo://detail?mblogid=4997654361415784",
+    "https://m.sohu.com/a/947719655_121985743",
+    "https://m.163.com/dy/article/KCQHVOUM0517TF3H.html",
+    "https://m.douban.com/movie/review/17165398//",
+    "https://baike.baidu.com/item/%E7%8E%8B%E6%9D%83%E5%AF%8C%E8%B4%B5/24167025?fromModule=search-result_lemma",
+    "historyweibo://5226446960200250",
+    "historyweibo://5226446960200250",
+    "historyweibo://5226330116587868",
+    "sinaweibo://detail?mblogid=5226467245954924",
+    "sinaweibo://detail?mblogid=5226466225947760",
+    "sinaweibo://detail?mblogid=5226486207352948",
+    "sinaweibo://detail?mblogid=5226317180309281",
+    "sinaweibo://detail?mblogid=5226494156867811",
+    "sinaweibo://detail?mblogid=5226339394388825",
+    "sinaweibo://detail?mblogid=5226484266441089",
+    "sinaweibo://detail?mblogid=5226475667066342",
+    "sinaweibo://detail?mblogid=5226481146139654",
+    "sinaweibo://detail?mblogid=5226467512550906",
+    "sinaweibo://detail?mblogid=5225948073957502",
+    "sinaweibo://detail?mblogid=5226352896902610",
+    "sinaweibo://detail?mblogid=5226351959216487",
+    "sinaweibo://detail?mblogid=5225911630698137",
+    "sinaweibo://detail?mblogid=5226506575942091",
+    "sinaweibo://detail?mblogid=5226389981627124",
+    "sinaweibo://detail?mblogid=5226364462695048",
+    "sinaweibo://detail?mblogid=5225818731317161",
+    "sinaweibo://detail?mblogid=5226220698468938",
+    "sinaweibo://detail?mblogid=5226299783381232",
+    "sinaweibo://detail?mblogid=5226373949949466",
+    "sinaweibo://detail?mblogid=5226687937645464",
+    "sinaweibo://detail?mblogid=5226708757647351",
+    "sinaweibo://detail?mblogid=5226486907016310",
+    "sinaweibo://detail?mblogid=5226377510916357",
+    "sinaweibo://detail?mblogid=5194455581723957",
+    "sinaweibo://detail?mblogid=5188984835938614",
+    "https://m.sohu.com/a/947932091_121956424",
+    "https://mbd.baidu.com/newspage/data/dtlandingsuper?nid=dt_4430119532404768943&from=2001k&from=2001k",
+    "https://m.toutiao.com/a7565698341028364850/"
+  ],
+  "media": [
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/69dbddb1ly1i6oggh35npj21hc0u040w.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/69dbddb1ly1i6oggh35npj21hc0u040w.jpg",
+      "alt": "闻汤识面泡剧",
+      "width": 1080,
+      "height": 1920,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/69dbddb1ly1i6oggh35npj21hc0u040w.jpg"
+      ],
+      "user": "闻汤识面泡剧"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/001TVDbigy1i6pujkrn6cj60zi0k074t02.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/001TVDbigy1i6pujkrn6cj60zi0k074t02.jpg",
+      "alt": "思想聚焦",
+      "width": 720,
+      "height": 1278,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/001TVDbigy1i6pujkrn6cj60zi0k074t02.jpg"
+      ],
+      "user": "思想聚焦"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/a5748ecbly1i6q7k22intj20u0140q4b.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/a5748ecbly1i6q7k22intj20u0140q4b.jpg",
+      "alt": "再见不再见cy",
+      "width": 1440,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/a5748ecbly1i6q7k22intj20u0140q4b.jpg"
+      ],
+      "user": "再见不再见cy"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/537b9367ly1i6piixq7ypj21hc0u0dio.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/537b9367ly1i6piixq7ypj21hc0u0dio.jpg",
+      "alt": "顶流预备役i",
+      "width": 1080,
+      "height": 1920,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/537b9367ly1i6piixq7ypj21hc0u0dio.jpg"
+      ],
+      "user": "顶流预备役i"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/7582cb5bly1i6pn7ztm8wj20zk0k0t9g.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/7582cb5bly1i6pn7ztm8wj20zk0k0t9g.jpg",
+      "alt": "追剧seven仙女",
+      "width": 720,
+      "height": 1280,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/7582cb5bly1i6pn7ztm8wj20zk0k0t9g.jpg"
+      ],
+      "user": "追剧seven仙女"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/005IxC1tly1i6r6155qyej30qo0f1q6r.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/005IxC1tly1i6r6155qyej30qo0f1q6r.jpg",
+      "alt": "飞升顶流的一天",
+      "width": 541,
+      "height": 960,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/005IxC1tly1i6r6155qyej30qo0f1q6r.jpg"
+      ],
+      "user": "飞升顶流的一天"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/007zBLQAgy1i6r5rj2vb2j30wt0ihn41.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/007zBLQAgy1i6r5rj2vb2j30wt0ihn41.jpg",
+      "alt": "机智的内娱生活",
+      "width": 665,
+      "height": 1181,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/007zBLQAgy1i6r5rj2vb2j30wt0ihn41.jpg"
+      ],
+      "user": "机智的内娱生活"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/006A8Z5cly1i6r8kw6oc0j30qo0k00ts.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/006A8Z5cly1i6r8kw6oc0j30qo0k00ts.jpg",
+      "alt": "岱岱爱吃薯片RollsRoyce",
+      "width": 720,
+      "height": 960,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/006A8Z5cly1i6r8kw6oc0j30qo0k00ts.jpg"
+      ],
+      "user": "岱岱爱吃薯片RollsRoyce"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/bb02f265ly1i6p06btjpzj21hc0u076j.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/bb02f265ly1i6p06btjpzj21hc0u076j.jpg",
+      "alt": "娱圈咖啡喵",
+      "width": 1080,
+      "height": 1920,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/bb02f265ly1i6p06btjpzj21hc0u076j.jpg"
+      ],
+      "user": "娱圈咖啡喵"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/005SzWQigy1i6s0aqq3uij30u00gugn4.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/005SzWQigy1i6s0aqq3uij30u00gugn4.jpg",
+      "alt": "言情小姐姐",
+      "width": 606,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/005SzWQigy1i6s0aqq3uij30u00gugn4.jpg"
+      ],
+      "user": "言情小姐姐"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/006Cq5Nugy1i6rbn7pz7cj31900u07b2.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/006Cq5Nugy1i6rbn7pz7cj31900u07b2.jpg",
+      "alt": "ee还是那个毅毅",
+      "width": 1080,
+      "height": 1620,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/006Cq5Nugy1i6rbn7pz7cj31900u07b2.jpg"
+      ],
+      "user": "ee还是那个毅毅"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/005PvUGngy1i6qy9su6ujj34pd7214qw.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/005PvUGngy1i6qy9su6ujj34pd7214qw.jpg",
+      "alt": "吟c毅然果",
+      "width": 9145,
+      "height": 6097,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/005PvUGngy1i6qy9su6ujj34pd7214qw.jpg"
+      ],
+      "user": "吟c毅然果"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/008BlAzmly1i6qvc9l5zgj30qo0k00sx.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/008BlAzmly1i6qvc9l5zgj30qo0k00sx.jpg",
+      "alt": "E昕E毅-17",
+      "width": 720,
+      "height": 960,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/008BlAzmly1i6qvc9l5zgj30qo0k00sx.jpg"
+      ],
+      "user": "E昕E毅-17"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/855f3f6fly1i6qvfpc7frj218g0u0gnc.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/855f3f6fly1i6qvfpc7frj218g0u0gnc.jpg",
+      "alt": "一辈子一起走517",
+      "width": 1080,
+      "height": 1600,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/855f3f6fly1i6qvfpc7frj218g0u0gnc.jpg"
+      ],
+      "user": "一辈子一起走517"
+    }
+  ],
+  "html_path": "data/aicard/hourly/2025-10-28/01/topic-d567ed7c.html"
+}

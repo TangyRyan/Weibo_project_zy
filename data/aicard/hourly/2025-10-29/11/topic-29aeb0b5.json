@@ -1,0 +1,331 @@
+{
+  "meta": {
+    "query": "#美国又有实验用猴跑了#",
+    "status_code": 200,
+    "fetched_at": "2025-10-29T11:45:34+08:00",
+    "response": {
+      "abtest_info": {
+        "chat_entrance": 1
+      },
+      "cot": 1,
+      "wenda": {
+        "forward_gen": 0
+      },
+      "ext_show": {},
+      "unify_md5": "29aeb0b50f99c140829f03e12eda1313",
+      "query_category": "Ip",
+      "ab_suffix": "default",
+      "current_time": 1761709534,
+      "user_info": {},
+      "uid": "",
+      "short_url": "http://t.cn/AXAz3nmX",
+      "sorted_material_list": null,
+      "qs_status": 0,
+      "query_field": "60",
+      "msg_format": "markdown",
+      "status": 2,
+      "zs_risk_control": {
+        "think_text_close": 0,
+        "land_button_close": 0
+      },
+      "show_ctrl": {
+        "quote": {}
+      },
+      "news_analyze": {},
+      "reliable_tips": "{\"gold_orange_v_mids\": [\"5227026806211278\", \"5098558217001463\", \"4729794199815940\", \"4729910213477421\", \"4771242530571152\", \"4729865204929217\", \"5227030658679832\", \"5098892165386529\", \"5227033426395410\", \"5098180301293263\", \"5227021961789895\", \"5098850816361182\", \"5098927756676455\", \"4772782082362589\", \"5227035819770081\", \"5227037931602850\", \"5227033577654687\"], \"gold_orange_v_ratio\": \"53%\", \"media_mids\": [\"5227016689551405\", \"5227004884683519\", \"5227008490997353\", \"5227026441310263\", \"5227028781731412\", \"5098379313415765\", \"5098916297577134\", \"5227025285253821\", \"5227025000567809\"], \"media_ratio\": \"28%\", \"verified_mids\": [\"4729839624393764\", \"5099159923462629\", \"5227017865005776\", \"4729864450739777\", \"5227007958058405\"], \"verified_ratio\": \"16%\", \"normal_mids\": [\"5227047972766518\"], \"normal_ratio\": \"3%\", \"ref_mid_rank\": {\"5227016689551405\": {\"rank\": 16}, \"5227004884683519\": {\"rank\": 18}, \"5227008490997353\": {\"rank\": 20}, \"5227026441310263\": {\"rank\": 33}, \"5227028781731412\": {\"rank\": 6}, \"5227026806211278\": {\"rank\": 21}, \"5098379313415765\": {\"rank\": 1}, \"5098916297577134\": {\"rank\": 24}, \"5098558217001463\": {\"rank\": 28}, \"4729794199815940\": {\"rank\": 8}, \"4729910213477421\": {\"rank\": 34}, \"4729839624393764\": {\"rank\": 35}, \"4771242530571152\": {\"rank\": 9}, \"4729865204929217\": {\"rank\": 11}, \"5227030658679832\": {\"rank\": 5}, \"5098892165386529\": {\"rank\": 3}, \"5227033426395410\": {\"rank\": 7}, \"5098180301293263\": {\"rank\": 27}, \"5227021961789895\": {\"rank\": 32}, \"5098850816361182\": {\"rank\": 4}, \"5098927756676455\": {\"rank\": 29}, \"4772782082362589\": {\"rank\": 10}, \"5099159923462629\": {\"rank\": 25}, \"5227017865005776\": {\"rank\": 2}, \"4729864450739777\": {\"rank\": 12}, \"5227035819770081\": {\"rank\": 17}, \"5227047972766518\": {\"rank\": 19}, \"5227025285253821\": {\"rank\": 22}, \"5227025000567809\": {\"rank\": 23}, \"5227037931602850\": {\"rank\": 26}, \"5227033577654687\": {\"rank\": 30}, \"5227007958058405\": {\"rank\": 31}}}",
+      "version": "2025-10-29 11:36:34.012000-4572",
+      "chat_status_stage": 1,
+      "loop_times": 200,
+      "share_info": {
+        "status": 3,
+        "display_name": "#美国又有实验用猴跑了#",
+        "url": "http://t.cn/AXAZ2iLU",
+        "page_id": "232964dd51bc032b41c7e18c5a4455576e048d",
+        "tips": "#美国又有实验用猴跑了#的相关内容，来智搜看看",
+        "unify_md5": "29aeb0b50f99c140829f03e12eda1313"
+      },
+      "mid_list": null,
+      "reference_num": 32,
+      "status_stage": 4,
+      "link_list": [
+        "sinaweibo://detail?mblogid=5098379313415765",
+        "sinaweibo://detail?mblogid=5227017865005776",
+        "sinaweibo://detail?mblogid=5098892165386529",
+        "sinaweibo://detail?mblogid=5098850816361182",
+        "sinaweibo://detail?mblogid=5227030658679832",
+        "sinaweibo://detail?mblogid=5227028781731412",
+        "sinaweibo://detail?mblogid=5227033426395410",
+        "sinaweibo://detail?mblogid=4729794199815940",
+        "sinaweibo://detail?mblogid=4771242530571152",
+        "sinaweibo://detail?mblogid=4772782082362589",
+        "sinaweibo://detail?mblogid=4729865204929217",
+        "sinaweibo://detail?mblogid=4729864450739777",
+        "historyweibo://5099121578610196",
+        "historyweibo://5099121578610196",
+        "historyweibo://5098795111287919",
+        "sinaweibo://detail?mblogid=5227016689551405",
+        "sinaweibo://detail?mblogid=5227035819770081",
+        "sinaweibo://detail?mblogid=5227004884683519",
+        "sinaweibo://detail?mblogid=5227047972766518",
+        "sinaweibo://detail?mblogid=5227008490997353",
+        "sinaweibo://detail?mblogid=5227026806211278",
+        "sinaweibo://detail?mblogid=5227025285253821",
+        "sinaweibo://detail?mblogid=5227025000567809",
+        "sinaweibo://detail?mblogid=5098916297577134",
+        "sinaweibo://detail?mblogid=5099159923462629",
+        "sinaweibo://detail?mblogid=5227037931602850",
+        "sinaweibo://detail?mblogid=5098180301293263",
+        "sinaweibo://detail?mblogid=5098558217001463",
+        "sinaweibo://detail?mblogid=5098927756676455",
+        "sinaweibo://detail?mblogid=5227033577654687",
+        "sinaweibo://detail?mblogid=5227007958058405",
+        "sinaweibo://detail?mblogid=5227021961789895",
+        "sinaweibo://detail?mblogid=5227026441310263",
+        "sinaweibo://detail?mblogid=4729910213477421",
+        "sinaweibo://detail?mblogid=4729839624393764"
+      ],
+      "model": "deepseek",
+      "scheme": "sinaweibo://cardlist?containerid=100103type%3D225%26q%3D%23%E7%BE%8E%E5%9B%BD%E5%8F%88%E6%9C%89%E5%AE%9E%E9%AA%8C%E7%94%A8%E7%8C%B4%E8%B7%91%E4%BA%86%23%26t%3D&extparam=ai_model%3Ddeepseek%26ori_ai_title%3D%E5%8F%82%E8%80%83%E5%8D%9A%E6%96%87%26material_version%3D1761708994",
+      "card_multimodal": {
+        "data": [
+          {
+            "video_url": "https://video.weibo.com/show?fid=1034:4729781703606283",
+            "scheme": "sinaweibo://video/vvs?mid=4729794199815940&multi_paragraph=2&multi_count=0",
+            "type": "v",
+            "hit_score_new": 98.925781,
+            "doc_score": 5135,
+            "img_pid": "d83fbe7egy1gyqp3lcjc0j20zn0k2apb",
+            "w": 1283,
+            "vtype": 0,
+            "img": "http://wx4.sinaimg.cn/middle/d83fbe7egy1gyqp3lcjc0j20zn0k2apb.jpg",
+            "h": 722,
+            "hit_score_final": 86.955475,
+            "cur_mid": "4729794199815940",
+            "user_name": "李三金Alex看世界",
+            "click_rate": 0,
+            "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/d83fbe7ely8h292y2fgszj20u00u0mzp.jpg?KID=imgbed,tva&Expires=1761719794&ssig=K5H4sDuTiZ"
+          },
+          {
+            "video_url": "https://video.weibo.com/show?fid=1034:4729831968145445",
+            "scheme": "sinaweibo://video/vvs?mid=4729910213477421&multi_paragraph=2&multi_count=1",
+            "type": "v",
+            "hit_score_new": 80.810547,
+            "doc_score": 3993,
+            "img_pid": "00828iRkly1gyqutcgxhkj31hc0u0jwt",
+            "w": 1920,
+            "vtype": 0,
+            "img": "http://wx3.sinaimg.cn/middle/00828iRkly1gyqutcgxhkj31hc0u0jwt.jpg",
+            "h": 1080,
+            "hit_score_final": 75.686333,
+            "cur_mid": "4729910213477421",
+            "user_name": "胜利主义章北海",
+            "click_rate": 0,
+            "user_avatar": "https://tvax4.sinaimg.cn/crop.0.0.232.232.50/87f7b519ly8hkt4jphc9jj206g06gjrb.jpg?KID=imgbed,tva&Expires=1761719794&ssig=AUxXnlXqkE"
+          },
+          {
+            "video_url": "https://video.weibo.com/show?fid=1034:4771242268622932",
+            "scheme": "sinaweibo://video/vvs?mid=4771242530571152&multi_paragraph=2&multi_count=2",
+            "type": "v",
+            "hit_score_new": 95.703125,
+            "doc_score": 4594,
+            "img_pid": "795d5a35gy1h2eyptxkdbj20mi0u0q5q",
+            "w": 810,
+            "vtype": 0,
+            "img": "http://wx2.sinaimg.cn/middle/795d5a35gy1h2eyptxkdbj20mi0u0q5q.jpg",
+            "h": 1080,
+            "hit_score_final": 84.221878,
+            "cur_mid": "4771242530571152",
+            "user_name": "马上谈",
+            "click_rate": 0,
+            "user_avatar": "https://tvax4.sinaimg.cn/crop.0.0.996.996.50/795d5a35ly8gdm2rszmc3j20ro0roq4g.jpg?KID=imgbed,tva&Expires=1761719794&ssig=4x4qY%2BgyfY"
+          },
+          {
+            "video_url": "https://video.weibo.com/show?fid=1034:4729781703606283",
+            "scheme": "sinaweibo://video/vvs?mid=4729794199815940&multi_paragraph=2&multi_count=0",
+            "type": "v",
+            "hit_score_new": 98.925781,
+            "doc_score": 5135,
+            "img_pid": "d83fbe7egy1gyqp3lcjc0j20zn0k2apb",
+            "w": 1283,
+            "vtype": 0,
+            "img": "http://wx4.sinaimg.cn/middle/d83fbe7egy1gyqp3lcjc0j20zn0k2apb.jpg",
+            "h": 722,
+            "hit_score_final": 86.955475,
+            "cur_mid": "4729794199815940",
+            "user_name": "李三金Alex看世界",
+            "click_rate": 0,
+            "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/d83fbe7ely8h292y2fgszj20u00u0mzp.jpg?KID=imgbed,tva&Expires=1761719794&ssig=K5H4sDuTiZ"
+          }
+        ],
+        "type": "mediablock"
+      },
+      "share_card_multimodal": {
+        "video_url": "https://video.weibo.com/show?fid=1034:4729781703606283",
+        "scheme": "sinaweibo://video/vvs?mid=4729794199815940&multi_paragraph=2&multi_count=0",
+        "type": "v",
+        "hit_score_new": 98.925781,
+        "doc_score": 5135,
+        "img_pid": "d83fbe7egy1gyqp3lcjc0j20zn0k2apb",
+        "w": 1283,
+        "vtype": 0,
+        "img": "http://wx4.sinaimg.cn/middle/d83fbe7egy1gyqp3lcjc0j20zn0k2apb.jpg",
+        "h": 722,
+        "hit_score_final": 86.955475,
+        "cur_mid": "4729794199815940",
+        "user_name": "李三金Alex看世界",
+        "click_rate": 0,
+        "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/d83fbe7ely8h292y2fgszj20u00u0mzp.jpg?KID=imgbed,tva&Expires=1761719794&ssig=K5H4sDuTiZ"
+      },
+      "msg_json": "{}",
+      "basemodel": "实验组2",
+      "share_text": "#美国又有实验用猴跑了#的相关内容，来智搜看看",
+      "page_id": "232964dd51bc032b41c7e18c5a4455576e048d",
+      "query": "#美国又有实验用猴跑了#",
+      "qs_status_info": "{\"qs_r_status\":0,\"ab_lab\":{},\"qs_q_status\":0,\"qs_status\":0,\"qs_u_status\":0,\"qs_c_status\":8388608}",
+      "q_attr": {
+        "from_uid": "",
+        "from_request_id": ""
+      },
+      "msg": "<think><br>嗯，用户查询的是关于美国实验用猴逃跑事件的整合信息。从搜索结果来看，这个主题涉及多个独立事件，时间跨度从2022年到2025年，需要特别注意区分不同事件的时间线和具体情况。<br><br>用户可能希望了解最新事件的完整情况，同时也想看看这类事件是否有某种模式或潜在风险。我注意到搜索结果里混杂了事实报道和阴谋论内容，需要特别谨慎处理。<br><br>先梳理核心事件：最新一起发生在2025年10月28日密西西比州，卡车翻车导致猴子逃脱。这与2024年11月南卡罗来纳州43只猴子出逃事件以及2022年宾夕法尼亚州事故是三个独立案件。<br><br>关于病毒风险的说法存在矛盾：警方称最新事件中的猴子携带丙肝、疱疹和新冠，但杜兰大学否认有传染性。这种官方口径不一的情况在过往事件中也出现过。<br><br>值得关注的是民众反应：有用户质疑\"怎么每年都有\"，也有人联想到政治阴谋。但更需重视的是2022年确实发生过接触者感染案例，这说明实际风险确实存在。<br><br>在整理回答时，我会把三起事件按倒序排列，突出最新事件。病毒争议部分单独成段说明矛盾点，安全建议则整合实验室管理漏洞这个共同问题。最后补充科研价值背景，帮助用户全面理解事件重要性。<br><br>对于阴谋论内容，考虑在风险提示部分客观陈述\"存在舆论关联\"但不必展开，重点保持在对可验证事实的陈述上。猴痘关联性这类猜测仅作为补充信息提及。<br><br></think><br>以下是针对美国实验用猴逃跑事件的综合梳理与分析：<br>### 🚨 **一、最新事件：2025年10月28日密西西比州卡车翻车事故**<br>1. **事件经过**  <br>   - 美国密西西比州59号州际公路，一辆运送恒河猴的卡车侧翻，多只猴子逃脱。  <br>   - 警方确认除一只在逃外，其余猴子均被射杀。```wbCustomBlock{\"type\": \"quoted\", \"index\": 6, \"data\": {\"num\": [16, 18, 20], \"version\": 2, \"quote_list\": [{\"name\": \"红星新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5227016689551405\", \"index\": 16, \"label\": \"大v\"}, {\"name\": \"海客新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5227004884683519\", \"index\": 18, \"label\": \"\"}, {\"name\": \"CCTV国际时讯\", \"scheme\": \"sinaweibo://detail?mblogid=5227008490997353\", \"index\": 20, \"label\": \"\"}], \"name\": \"红星新闻\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.512.512.50/006FcX4dly8h8vgewp7wsj30e80e8mxd.jpg?KID=imgbed,tva&Expires=1761719794&ssig=Abh%2BqvNmR8\", \"scheme\": \"sinaweibo://detail?mblogid=5227016689551405\", \"vType\": 3}}```  <br>   - 涉事猴子由杜兰大学国家生物医学研究中心提供，原计划运往科研机构。```wbCustomBlock{\"type\": \"quoted\", \"index\": 7, \"data\": {\"num\": [16, 20], \"version\": 2, \"quote_list\": [{\"name\": \"CCTV国际时讯\", \"scheme\": \"sinaweibo://detail?mblogid=5227008490997353\", \"index\": 20, \"label\": \"大v\"}, {\"name\": \"红星新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5227016689551405\", \"index\": 16, \"label\": \"\"}], \"name\": \"CCTV国际时讯\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.600.600.50/51c2815dly8h8vgcrzvr1j20go0gomz6.jpg?KID=imgbed,tva&Expires=1761719794&ssig=JxJVJME%2FoF\", \"scheme\": \"sinaweibo://detail?mblogid=5227008490997353\", \"vType\": 3}}```<br><br>2. **安全争议**  <br>   - **警方警告**：猴子携带丙型肝炎、疱疹和新冠病毒，具有攻击性，呼吁民众远离并报警。```wbCustomBlock{\"type\": \"quoted\", \"index\": 9, \"data\": {\"num\": [18, 33], \"version\": 2, \"quote_list\": [{\"name\": \"海客新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5227004884683519\", \"index\": 18, \"label\": \"大v\"}, {\"name\": \"中国新闻周刊\", \"scheme\": \"sinaweibo://detail?mblogid=5227026441310263\", \"index\": 33, \"label\": \"\"}], \"name\": \"海客新闻\", \"img\": \"https://tvax2.sinaimg.cn/crop.133.133.333.333.50/00828iRkly8h8vhstk8esj30go0gomxj.jpg?KID=imgbed,tva&Expires=1761719794&ssig=8mWrLsYC2P\", \"scheme\": \"sinaweibo://detail?mblogid=5227004884683519\", \"vType\": 3}}```  <br>   - **杜兰大学反驳**：声明猴子“不具有传染性”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 10, \"data\": {\"num\": [16, 20], \"version\": 2, \"quote_list\": [{\"name\": \"红星新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5227016689551405\", \"index\": 16, \"label\": \"\"}, {\"name\": \"CCTV国际时讯\", \"scheme\": \"sinaweibo://detail?mblogid=5227008490997353\", \"index\": 20, \"label\": \"\"}]}}```  <br>   - **现场处理**：司机曾提醒需穿防护装备，密西西比州野生动物部门介入调查。```wbCustomBlock{\"type\": \"quoted\", \"index\": 11, \"data\": {\"num\": [6, 21], \"version\": 2, \"quote_list\": [{\"name\": \"潇湘晨报\", \"scheme\": \"sinaweibo://detail?mblogid=5227028781731412\", \"index\": 6, \"label\": \"大v\"}, {\"name\": \"蜜糖宝贝ic\", \"scheme\": \"sinaweibo://detail?mblogid=5227026806211278\", \"index\": 21, \"label\": \"\"}], \"name\": \"潇湘晨报\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.826.826.50/001O24LNly8h8viu4nck1j60my0myq3m02.jpg?KID=imgbed,tva&Expires=1761719794&ssig=lagFXdWc6F\", \"scheme\": \"sinaweibo://detail?mblogid=5227028781731412\", \"vType\": 3}}```<br>### ⚠️ **二、历史同类事件回顾**<br>1. **2024年11月：南卡罗来纳州实验室逃脱**  <br>   - **事件**：43只雌性恒河猴因员工未关闭围栏从“阿尔法起源”实验室逃脱。  <br>   - **处置**：部分猴子被找回，警方称猴子未感染疾病，但美国疾控中心（CDC）警告可能携带致命B病毒。```wbCustomBlock{\"type\": \"quoted\", \"index\": 16, \"data\": {\"num\": [1, 24, 28], \"version\": 2, \"quote_list\": [{\"name\": \"财联社APP\", \"scheme\": \"sinaweibo://detail?mblogid=5098916297577134\", \"index\": 24, \"label\": \"大v\"}, {\"name\": \"CCTV国际时讯\", \"scheme\": \"sinaweibo://detail?mblogid=5098379313415765\", \"index\": 1, \"label\": \"\"}, {\"name\": \"林步里\", \"scheme\": \"sinaweibo://detail?mblogid=5098558217001463\", \"index\": 28, \"label\": \"\"}], \"name\": \"财联社APP\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.180.180.50/aafc85c3ly8h8vg6ezotfj2050050dfn.jpg?KID=imgbed,tva&Expires=1761719794&ssig=x3hCMYlLyG\", \"scheme\": \"sinaweibo://detail?mblogid=5098916297577134\", \"vType\": 3}}```  <br>   - **背景**：该机构曾多次发生类似事故，2018年因管理疏漏被罚款。```wbCustomBlock{\"type\": \"quoted\", \"index\": 17, \"data\": {\"num\": [21], \"version\": 2, \"quote_list\": [{\"name\": \"蜜糖宝贝ic\", \"scheme\": \"sinaweibo://detail?mblogid=5227026806211278\", \"index\": 21, \"label\": \"\"}]}}```<br><br>2. **2022年1月：宾夕法尼亚州运输事故**  <br>   - **事件**：运送100只食蟹猕猴的卡车翻车，4只逃脱，3只被安乐死。  <br>   - **后果**：一名接触猴子的女子出现红眼、咳嗽等类似新冠症状，就医后接受抗病毒治疗。```wbCustomBlock{\"type\": \"quoted\", \"index\": 20, \"data\": {\"num\": [8, 34, 35], \"version\": 2, \"quote_list\": [{\"name\": \"李三金Alex看世界\", \"scheme\": \"sinaweibo://detail?mblogid=4729794199815940\", \"index\": 8, \"label\": \"大v\"}, {\"name\": \"胜利主义章北海\", \"scheme\": \"sinaweibo://detail?mblogid=4729910213477421\", \"index\": 34, \"label\": \"\"}, {\"name\": \"科学探索\", \"scheme\": \"sinaweibo://detail?mblogid=4729839624393764\", \"index\": 35, \"label\": \"\"}], \"name\": \"李三金Alex看世界\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/d83fbe7ely8h292y2fgszj20u00u0mzp.jpg?KID=imgbed,tva&Expires=1761719794&ssig=K5H4sDuTiZ\", \"scheme\": \"sinaweibo://detail?mblogid=4729794199815940\", \"vType\": 0}}```  <br>   - **质疑**：美国疾控中心未公布猴子用途，异常处理引发公众疑虑。```wbCustomBlock{\"type\": \"quoted\", \"index\": 21, \"data\": {\"num\": [9, 11], \"version\": 2, \"quote_list\": [{\"name\": \"冰彬兵\", \"scheme\": \"sinaweibo://detail?mblogid=4729865204929217\", \"index\": 11, \"label\": \"大v\"}, {\"name\": \"马上谈\", \"scheme\": \"sinaweibo://detail?mblogid=4771242530571152\", \"index\": 9, \"label\": \"\"}], \"name\": \"冰彬兵\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/6769611fly8gdinw922poj20u00u0jtm.jpg?KID=imgbed,tva&Expires=1761719794&ssig=bzW0zkiiF%2B\", \"scheme\": \"sinaweibo://detail?mblogid=4729865204929217\", \"vType\": 0}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=4729794199815940&multi_paragraph=2&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/d83fbe7ely8h292y2fgszj20u00u0mzp.jpg?KID=imgbed,tva&Expires=1761719794&ssig=K5H4sDuTiZ) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">李三金Alex看世界</span><img src=\"http://wx4.sinaimg.cn/middle/d83fbe7egy1gyqp3lcjc0j20zn0k2apb.jpg\" data-width=722 data-height=1283></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=4729910213477421&multi_paragraph=2&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.232.232.50/87f7b519ly8hkt4jphc9jj206g06gjrb.jpg?KID=imgbed,tva&Expires=1761719794&ssig=AUxXnlXqkE) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">胜利主义章北海</span><img src=\"http://wx3.sinaimg.cn/middle/00828iRkly1gyqutcgxhkj31hc0u0jwt.jpg\" data-width=1080 data-height=1920></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=4771242530571152&multi_paragraph=2&multi_count=2\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.996.996.50/795d5a35ly8gdm2rszmc3j20ro0roq4g.jpg?KID=imgbed,tva&Expires=1761719794&ssig=4x4qY%2BgyfY) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">马上谈</span><img src=\"http://wx2.sinaimg.cn/middle/795d5a35gy1h2eyptxkdbj20mi0u0q5q.jpg\" data-width=1080 data-height=810></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=4729865204929217&multi_paragraph=2&multi_count=3\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/6769611fly8gdinw922poj20u00u0jtm.jpg?KID=imgbed,tva&Expires=1761719794&ssig=bzW0zkiiF%2B) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">冰彬兵</span><img src=\"http://wx4.sinaimg.cn/middle/6769611fly1gyqymieofxj21hc0u0n02.jpg\" data-width=1080 data-height=1920></div></media-block><br>### 🔍 **三、争议焦点与潜在风险**<br>1. **病毒威胁矛盾**  <br>   - 警方与研究机构对猴子是否携带病毒说法不一（如2025年事件中警方称猴带新冠病毒，杜兰大学否认）。```wbCustomBlock{\"type\": \"quoted\", \"index\": 25, \"data\": {\"num\": [5, 16, 20], \"version\": 2, \"quote_list\": [{\"name\": \"赵盛烨\", \"scheme\": \"sinaweibo://detail?mblogid=5227030658679832\", \"index\": 5, \"label\": \"大v\"}, {\"name\": \"红星新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5227016689551405\", \"index\": 16, \"label\": \"\"}, {\"name\": \"CCTV国际时讯\", \"scheme\": \"sinaweibo://detail?mblogid=5227008490997353\", \"index\": 20, \"label\": \"\"}], \"name\": \"赵盛烨\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/56a0b2edly8i261lntrndj20u00u0tac.jpg?KID=imgbed,tva&Expires=1761719794&ssig=YK3ZS5qHpA\", \"scheme\": \"sinaweibo://detail?mblogid=5227030658679832\", \"vType\": 0}}```  <br>   - 恒河猴可能携带B病毒（致死率80%）、猴痘、结核病等，接触者可能面临严重健康风险。```wbCustomBlock{\"type\": \"quoted\", \"index\": 26, \"data\": {\"num\": [3, 24], \"version\": 2, \"quote_list\": [{\"name\": \"小凡好摄\", \"scheme\": \"sinaweibo://detail?mblogid=5098892165386529\", \"index\": 3, \"label\": \"大v\"}, {\"name\": \"财联社APP\", \"scheme\": \"sinaweibo://detail?mblogid=5098916297577134\", \"index\": 24, \"label\": \"\"}], \"name\": \"小凡好摄\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/62eff6aely8h0vmre31cnj20u00u0tba.jpg?KID=imgbed,tva&Expires=1761719794&ssig=GeoZhTaJze\", \"scheme\": \"sinaweibo://detail?mblogid=5098892165386529\", \"vType\": 0}}```<br><br>2. **实验室管理漏洞**  <br>   - 美国近年至少发生4起实验猴逃脱事件，涉及运输事故、围栏未关等低级错误。```wbCustomBlock{\"type\": \"quoted\", \"index\": 28, \"data\": {\"num\": [7, 21, 27], \"version\": 2, \"quote_list\": [{\"name\": \"内幕live_9zov\", \"scheme\": \"sinaweibo://detail?mblogid=5098180301293263\", \"index\": 27, \"label\": \"大v\"}, {\"name\": \"白马向前走\", \"scheme\": \"sinaweibo://detail?mblogid=5227033426395410\", \"index\": 7, \"label\": \"\"}, {\"name\": \"蜜糖宝贝ic\", \"scheme\": \"sinaweibo://detail?mblogid=5227026806211278\", \"index\": 21, \"label\": \"\"}], \"name\": \"内幕live_9zov\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.400.400.50/007lGiwOly8hbkxte0qc0j30b40b4aas.jpg?KID=imgbed,tva&Expires=1761719794&ssig=SqXqx420XY\", \"scheme\": \"sinaweibo://detail?mblogid=5098180301293263\", \"vType\": 0}}```  <br>   - 涉事机构“阿尔法起源”多次违规，暴露生物安全管理缺陷。```wbCustomBlock{\"type\": \"quoted\", \"index\": 29, \"data\": {\"num\": [32], \"version\": 2, \"quote_list\": [{\"name\": \"财小柑cc\", \"scheme\": \"sinaweibo://detail?mblogid=5227021961789895\", \"index\": 32, \"label\": \"\"}]}}```<br><br>3. **舆论猜测**  <br>   - 部分观点关联政治事件（如2024年大选期间逃脱事件），质疑人为故意放跑。```wbCustomBlock{\"type\": \"quoted\", \"index\": 31, \"data\": {\"num\": [4, 29], \"version\": 2, \"quote_list\": [{\"name\": \"大大大餅干丶\", \"scheme\": \"sinaweibo://detail?mblogid=5098850816361182\", \"index\": 4, \"label\": \"\"}, {\"name\": \"六爷阿旦\", \"scheme\": \"sinaweibo://detail?mblogid=5098927756676455\", \"index\": 29, \"label\": \"\"}], \"name\": \"大大大餅干丶\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/0067Agcoly8hbpykwao06j30u00u076f.jpg?KID=imgbed,tva&Expires=1761719794&ssig=Q9%2BGJV1MIc\", \"scheme\": \"sinaweibo://detail?mblogid=5098850816361182\", \"vType\": 0}}```  <br>   - 猴痘疫情爆发（2022年）与实验猴逃脱时间相近，引发溯源联想。```wbCustomBlock{\"type\": \"quoted\", \"index\": 32, \"data\": {\"num\": [10, 25], \"version\": 2, \"quote_list\": [{\"name\": \"凤凰网\", \"scheme\": \"sinaweibo://detail?mblogid=5099159923462629\", \"index\": 25, \"label\": \"\"}, {\"name\": \"乔老爷玩转地球\", \"scheme\": \"sinaweibo://detail?mblogid=4772782082362589\", \"index\": 10, \"label\": \"\"}], \"name\": \"凤凰网\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.639.639.50/002R01w7ly8h8vgkpj1nzj60hr0hrjs202.jpg?KID=imgbed,tva&Expires=1761719794&ssig=Mnel7scq9Q\", \"scheme\": \"sinaweibo://detail?mblogid=5099159923462629\", \"vType\": 3}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5098892165386529&multi_paragraph=3&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/62eff6aely8h0vmre31cnj20u00u0tba.jpg?KID=imgbed,tva&Expires=1761719794&ssig=GeoZhTaJze) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">小凡好摄</span><img src=\"http://wx4.sinaimg.cn/middle/62eff6aegy1hvg8q8spw5j20zm0k0wfo.jpg\" data-width=720 data-height=1282></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5227033426395410&multi_paragraph=3&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/007lvb5ily8i6skkut3hnj30u00u0goq.jpg?KID=imgbed,tva&Expires=1761719794&ssig=YEHHviBtFw) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">白马向前走</span><img src=\"http://wx3.sinaimg.cn/middle/007lvb5ily1i6t1l747i4j30k00zkac9.jpg\" data-width=1280 data-height=720></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5098850816361182&multi_paragraph=3&multi_count=2\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/0067Agcoly8hbpykwao06j30u00u076f.jpg?KID=imgbed,tva&Expires=1761719794&ssig=Q9%2BGJV1MIc) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">大大大餅干丶</span><img src=\"http://wx3.sinaimg.cn/middle/0067Agcogy1hvg3x4aplzj30u01iqakt.jpg\" data-width=1970 data-height=1080></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=4772782082362589&multi_paragraph=3&multi_count=3\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.996.996.50/e6eca5d2ly8gs1fec2h0xj20ro0rowfs.jpg?KID=imgbed,tva&Expires=1761719794&ssig=lvs4Hw1BTY) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">乔老爷玩转地球</span><img src=\"http://wx3.sinaimg.cn/middle/e6eca5d2gy1h2jv7mqxufj20u00gvmz3.jpg\" data-width=607 data-height=1080></div></media-block><br>### 🛡️ **四、安全建议与应对措施**<br>- **民众防护**：锁好门窗，避免接触不明猴子，发现后立即报警。```wbCustomBlock{\"type\": \"quoted\", \"index\": 35, \"data\": {\"num\": [1, 20], \"version\": 2, \"quote_list\": [{\"name\": \"CCTV国际时讯\", \"scheme\": \"sinaweibo://detail?mblogid=5098379313415765\", \"index\": 1, \"label\": \"\"}, {\"name\": \"CCTV国际时讯\", \"scheme\": \"sinaweibo://detail?mblogid=5227008490997353\", \"index\": 20, \"label\": \"\"}]}}```  <br>- **机构责任**：加强运输密封性、员工培训及围栏双重保险设计。```wbCustomBlock{\"type\": \"quoted\", \"index\": 36, \"data\": {\"num\": [21, 32], \"version\": 2, \"quote_list\": [{\"name\": \"蜜糖宝贝ic\", \"scheme\": \"sinaweibo://detail?mblogid=5227026806211278\", \"index\": 21, \"label\": \"\"}, {\"name\": \"财小柑cc\", \"scheme\": \"sinaweibo://detail?mblogid=5227021961789895\", \"index\": 32, \"label\": \"\"}]}}```  <br>- **国际关注**：中国自2020年限制对美出口实验猴（占美国需求60%），推动美国反思生物链依赖。```wbCustomBlock{\"type\": \"quoted\", \"index\": 37, \"data\": {\"num\": [25], \"version\": 2, \"quote_list\": [{\"name\": \"凤凰网\", \"scheme\": \"sinaweibo://detail?mblogid=5099159923462629\", \"index\": 25, \"label\": \"\"}]}}```<br>### 💎 **五、实验猴的科研价值与伦理困境**<br>- **科研地位**：恒河猴因基因与人类相似度达93%，是疫苗研发、脑疾病研究的核心实验对象。```wbCustomBlock{\"type\": \"quoted\", \"index\": 40, \"data\": {\"num\": [16, 25, 32], \"version\": 2, \"quote_list\": [{\"name\": \"红星新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5227016689551405\", \"index\": 16, \"label\": \"\"}, {\"name\": \"凤凰网\", \"scheme\": \"sinaweibo://detail?mblogid=5099159923462629\", \"index\": 25, \"label\": \"\"}, {\"name\": \"财小柑cc\", \"scheme\": \"sinaweibo://detail?mblogid=5227021961789895\", \"index\": 32, \"label\": \"\"}]}}```  <br>- **伦理争议**：高价值实验猴（单价1万美元）被射杀引发动物保护组织抗议。```wbCustomBlock{\"type\": \"quoted\", \"index\": 41, \"data\": {\"num\": [11, 35], \"version\": 2, \"quote_list\": [{\"name\": \"冰彬兵\", \"scheme\": \"sinaweibo://detail?mblogid=4729865204929217\", \"index\": 11, \"label\": \"\"}, {\"name\": \"科学探索\", \"scheme\": \"sinaweibo://detail?mblogid=4729839624393764\", \"index\": 35, \"label\": \"\"}]}}```  <br>- **替代趋势**：全球推动“减少、优化、替代”实验动物原则，加速类器官芯片等新技术研发。```wbCustomBlock{\"type\": \"quoted\", \"index\": 42, \"data\": {\"num\": [25], \"version\": 2, \"quote_list\": [{\"name\": \"凤凰网\", \"scheme\": \"sinaweibo://detail?mblogid=5099159923462629\", \"index\": 25, \"label\": \"\"}]}}```<br>### 📌 **风险提示**  <br>部分网络猜测（如“生物战阴谋论”）缺乏实证，需以官方调查为准；接触实验猴的潜在健康风险已被多起案例证实，需严肃对待。```wbCustomBlock{\"type\": \"quoted\", \"index\": 44, \"data\": {\"num\": [4, 29, 34, 35], \"version\": 2, \"quote_list\": [{\"name\": \"六爷阿旦\", \"scheme\": \"sinaweibo://detail?mblogid=5098927756676455\", \"index\": 29, \"label\": \"\"}, {\"name\": \"大大大餅干丶\", \"scheme\": \"sinaweibo://detail?mblogid=5098850816361182\", \"index\": 4, \"label\": \"\"}, {\"name\": \"胜利主义章北海\", \"scheme\": \"sinaweibo://detail?mblogid=4729910213477421\", \"index\": 34, \"label\": \"\"}, {\"name\": \"科学探索\", \"scheme\": \"sinaweibo://detail?mblogid=4729839624393764\", \"index\": 35, \"label\": \"\"}], \"name\": \"六爷阿旦\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.75.1004.1004.50/4fef7b18ly8gewe35pocyj21hf0u04be.jpg?KID=imgbed,tva&Expires=1761719794&ssig=b9MRguTzk1\", \"scheme\": \"sinaweibo://detail?mblogid=5098927756676455\", \"vType\": 0}}```<br>",
+      "profile_image_url": "",
+      "top_quote_list": {},
+      "analysis_time": 1761709178
+    }
+  },
+  "links": [
+    "sinaweibo://detail?mblogid=5098379313415765",
+    "sinaweibo://detail?mblogid=5227017865005776",
+    "sinaweibo://detail?mblogid=5098892165386529",
+    "sinaweibo://detail?mblogid=5098850816361182",
+    "sinaweibo://detail?mblogid=5227030658679832",
+    "sinaweibo://detail?mblogid=5227028781731412",
+    "sinaweibo://detail?mblogid=5227033426395410",
+    "sinaweibo://detail?mblogid=4729794199815940",
+    "sinaweibo://detail?mblogid=4771242530571152",
+    "sinaweibo://detail?mblogid=4772782082362589",
+    "sinaweibo://detail?mblogid=4729865204929217",
+    "sinaweibo://detail?mblogid=4729864450739777",
+    "historyweibo://5099121578610196",
+    "historyweibo://5099121578610196",
+    "historyweibo://5098795111287919",
+    "sinaweibo://detail?mblogid=5227016689551405",
+    "sinaweibo://detail?mblogid=5227035819770081",
+    "sinaweibo://detail?mblogid=5227004884683519",
+    "sinaweibo://detail?mblogid=5227047972766518",
+    "sinaweibo://detail?mblogid=5227008490997353",
+    "sinaweibo://detail?mblogid=5227026806211278",
+    "sinaweibo://detail?mblogid=5227025285253821",
+    "sinaweibo://detail?mblogid=5227025000567809",
+    "sinaweibo://detail?mblogid=5098916297577134",
+    "sinaweibo://detail?mblogid=5099159923462629",
+    "sinaweibo://detail?mblogid=5227037931602850",
+    "sinaweibo://detail?mblogid=5098180301293263",
+    "sinaweibo://detail?mblogid=5098558217001463",
+    "sinaweibo://detail?mblogid=5098927756676455",
+    "sinaweibo://detail?mblogid=5227033577654687",
+    "sinaweibo://detail?mblogid=5227007958058405",
+    "sinaweibo://detail?mblogid=5227021961789895",
+    "sinaweibo://detail?mblogid=5227026441310263",
+    "sinaweibo://detail?mblogid=4729910213477421",
+    "sinaweibo://detail?mblogid=4729839624393764"
+  ],
+  "media": [
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/d83fbe7egy1gyqp3lcjc0j20zn0k2apb.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/d83fbe7egy1gyqp3lcjc0j20zn0k2apb.jpg",
+      "alt": "李三金Alex看世界",
+      "width": 722,
+      "height": 1283,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/d83fbe7egy1gyqp3lcjc0j20zn0k2apb.jpg"
+      ],
+      "user": "李三金Alex看世界"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/00828iRkly1gyqutcgxhkj31hc0u0jwt.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/00828iRkly1gyqutcgxhkj31hc0u0jwt.jpg",
+      "alt": "胜利主义章北海",
+      "width": 1080,
+      "height": 1920,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/00828iRkly1gyqutcgxhkj31hc0u0jwt.jpg"
+      ],
+      "user": "胜利主义章北海"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/795d5a35gy1h2eyptxkdbj20mi0u0q5q.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/795d5a35gy1h2eyptxkdbj20mi0u0q5q.jpg",
+      "alt": "马上谈",
+      "width": 1080,
+      "height": 810,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/795d5a35gy1h2eyptxkdbj20mi0u0q5q.jpg"
+      ],
+      "user": "马上谈"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/6769611fly1gyqymieofxj21hc0u0n02.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/6769611fly1gyqymieofxj21hc0u0n02.jpg",
+      "alt": "冰彬兵",
+      "width": 1080,
+      "height": 1920,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx4.sinaimg.cn/large/6769611fly1gyqymieofxj21hc0u0n02.jpg"
+      ],
+      "user": "冰彬兵"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/62eff6aegy1hvg8q8spw5j20zm0k0wfo.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/62eff6aegy1hvg8q8spw5j20zm0k0wfo.jpg",
+      "alt": "小凡好摄",
+      "width": 720,
+      "height": 1282,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/62eff6aegy1hvg8q8spw5j20zm0k0wfo.jpg"
+      ],
+      "user": "小凡好摄"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/007lvb5ily1i6t1l747i4j30k00zkac9.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/007lvb5ily1i6t1l747i4j30k00zkac9.jpg",
+      "alt": "白马向前走",
+      "width": 1280,
+      "height": 720,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/007lvb5ily1i6t1l747i4j30k00zkac9.jpg"
+      ],
+      "user": "白马向前走"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/0067Agcogy1hvg3x4aplzj30u01iqakt.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/0067Agcogy1hvg3x4aplzj30u01iqakt.jpg",
+      "alt": "大大大餅干丶",
+      "width": 1970,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/0067Agcogy1hvg3x4aplzj30u01iqakt.jpg"
+      ],
+      "user": "大大大餅干丶"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/e6eca5d2gy1h2jv7mqxufj20u00gvmz3.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/e6eca5d2gy1h2jv7mqxufj20u00gvmz3.jpg",
+      "alt": "乔老爷玩转地球",
+      "width": 607,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx4.sinaimg.cn/large/e6eca5d2gy1h2jv7mqxufj20u00gvmz3.jpg"
+      ],
+      "user": "乔老爷玩转地球"
+    }
+  ],
+  "html_path": "data/aicard/hourly/2025-10-29/11/topic-29aeb0b5.html"
+}

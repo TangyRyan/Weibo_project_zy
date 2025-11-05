@@ -1,0 +1,286 @@
+{
+  "meta": {
+    "query": "#JackeyLove击杀Faker#",
+    "status_code": 200,
+    "fetched_at": "2025-11-02T18:29:42+08:00",
+    "response": {
+      "page_id": "232964aae348e489681e004067c98e311b2334",
+      "mid_list": null,
+      "reference_num": 22,
+      "query_category": "",
+      "status_stage": 4,
+      "scheme": "sinaweibo://cardlist?containerid=100103type%3D225%26q%3D%23jackeylove%E5%87%BB%E6%9D%80faker%23%26t%3D&extparam=ai_model%3Ddeepseek%26ori_ai_title%3D%E5%8F%82%E8%80%83%E5%8D%9A%E6%96%87%26material_version%3D1762078760",
+      "top_quote_list": {},
+      "card_multimodal": {
+        "type": "mediablock",
+        "data": [
+          {
+            "img": "http://wx4.sinaimg.cn/middle/006MPQOcly1i6vw00vyzdj31hc0u0whh.jpg",
+            "type": "v",
+            "cur_mid": "5227925173701450",
+            "user_avatar": "https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/006MPQOcly8i172ndyg5nj30u00u0jw4.jpg?KID=imgbed,tva&Expires=1762089560&ssig=Bxjvd%2F3Lvc",
+            "user_name": "网瘾少女哈尼酱",
+            "video_url": "https://video.weibo.com/show?fid=1034:5227923825950793",
+            "h": 1080,
+            "scheme": "sinaweibo://video/vvs?mid=5227925173701450&multi_paragraph=2&multi_count=0",
+            "w": 1920,
+            "hit_score_new": 58.447266,
+            "click_rate": 0.09240784194989,
+            "hit_score_final": 59.068359,
+            "doc_score": 3398,
+            "img_pid": "006MPQOcly1i6vw00vyzdj31hc0u0whh",
+            "vtype": 0
+          },
+          {
+            "img": "http://wx2.sinaimg.cn/middle/006cmbhQgy1i6vcepn3y1j30k00b7mym.jpg",
+            "type": "p",
+            "cur_mid": "5227760494844146",
+            "user_avatar": "https://tvax2.sinaimg.cn/crop.0.0.439.439.50/006cmbhQly8h8uglinec1j30c70c73yz.jpg?KID=imgbed,tva&Expires=1762089560&ssig=ejfYaD%2BwDU",
+            "user_name": "英雄联盟神吐槽",
+            "video_url": "",
+            "h": 403,
+            "scheme": "sinaweibo://multimedia?mix_mid=5227760494844146&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=2&multi_count=1",
+            "w": 720,
+            "hit_score_new": 57.666016,
+            "click_rate": 0.079329608938547,
+            "hit_score_final": 61.399609,
+            "doc_score": 2347,
+            "img_pid": "006cmbhQgy1i6vcepn3y1j30k00b7mym",
+            "vtype": 0
+          },
+          {
+            "img": "http://wx3.sinaimg.cn/middle/006X1wLXly1i6y06ynlf0j30zk0k0qo9.jpg",
+            "type": "p",
+            "cur_mid": "5228588393565762",
+            "user_avatar": "https://tvax4.sinaimg.cn/crop.0.0.512.512.50/006X1wLXly8i0vjnz4vxkj30e80e8dfz.jpg?KID=imgbed,tva&Expires=1762089560&ssig=coOuNGrUo3",
+            "user_name": "虎扑电竞",
+            "video_url": "",
+            "h": 720,
+            "scheme": "sinaweibo://multimedia?mix_mid=5228588393565762&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=2&multi_count=2",
+            "w": 1280,
+            "hit_score_new": 56.835938,
+            "click_rate": 0.06,
+            "hit_score_final": 57.301559,
+            "doc_score": 3651,
+            "img_pid": "006X1wLXly1i6y06ynlf0j30zk0k0qo9",
+            "vtype": 0
+          },
+          {
+            "img": "http://wx4.sinaimg.cn/middle/006MPQOcly1i6vw00vyzdj31hc0u0whh.jpg",
+            "type": "v",
+            "cur_mid": "5227925173701450",
+            "user_avatar": "https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/006MPQOcly8i172ndyg5nj30u00u0jw4.jpg?KID=imgbed,tva&Expires=1762089560&ssig=Bxjvd%2F3Lvc",
+            "user_name": "网瘾少女哈尼酱",
+            "video_url": "https://video.weibo.com/show?fid=1034:5227923825950793",
+            "h": 1080,
+            "scheme": "sinaweibo://video/vvs?mid=5227925173701450&multi_paragraph=2&multi_count=0",
+            "w": 1920,
+            "hit_score_new": 58.447266,
+            "click_rate": 0.09240784194989,
+            "hit_score_final": 59.068359,
+            "doc_score": 3398,
+            "img_pid": "006MPQOcly1i6vw00vyzdj31hc0u0whh",
+            "vtype": 0
+          }
+        ]
+      },
+      "profile_image_url": "",
+      "basemodel": "实验组7",
+      "query": "#JackeyLove击杀Faker#",
+      "current_time": 1762079384,
+      "cot": 1,
+      "chat_status_stage": 1,
+      "news_analyze": {},
+      "reliable_tips": "{\"gold_orange_v_mids\": [\"5228588393565762\", \"5227925173701450\", \"5227760494844146\", \"5225986494830303\", \"5226005616395889\", \"5228594587766167\", \"5227904722275004\", \"5228556286169295\", \"5228283492567635\", \"5228478855385643\", \"5217965399343822\"], \"gold_orange_v_ratio\": \"50%\", \"media_mids\": [], \"media_ratio\": \"0%\", \"verified_mids\": [\"5228575944870889\", \"5228597782515476\", \"5228579678062401\", \"5228595568188407\", \"5228589558794604\", \"5228592146418145\"], \"verified_ratio\": \"27%\", \"normal_mids\": [\"5228591747960394\", \"5228591530118260\", \"5228591623440202\", \"5228593829118272\", \"5228599406756434\"], \"normal_ratio\": \"23%\", \"ref_mid_rank\": {\"5228575944870889\": {\"rank\": 2}, \"5228597782515476\": {\"rank\": 12}, \"5228579678062401\": {\"rank\": 20}, \"5228595568188407\": {\"rank\": 1}, \"5228591747960394\": {\"rank\": 10}, \"5228589558794604\": {\"rank\": 14}, \"5228591530118260\": {\"rank\": 15}, \"5228591623440202\": {\"rank\": 16}, \"5228593829118272\": {\"rank\": 11}, \"5228588393565762\": {\"rank\": 22}, \"5227925173701450\": {\"rank\": 7}, \"5227760494844146\": {\"rank\": 21}, \"5225986494830303\": {\"rank\": 5}, \"5226005616395889\": {\"rank\": 19}, \"5228594587766167\": {\"rank\": 4}, \"5227904722275004\": {\"rank\": 8}, \"5228556286169295\": {\"rank\": 17}, \"5228283492567635\": {\"rank\": 3}, \"5228478855385643\": {\"rank\": 6}, \"5228599406756434\": {\"rank\": 9}, \"5228592146418145\": {\"rank\": 13}, \"5217965399343822\": {\"rank\": 18}}}",
+      "qs_status": 0,
+      "q_attr": {
+        "from_uid": "",
+        "reply_cid": "",
+        "from_request_id": "",
+        "mid": "",
+        "comment_from_type": ""
+      },
+      "ext_show": {},
+      "version": "2025-11-02 18:19:20.029000-5228",
+      "share_text": "#JackeyLove击杀Faker#的相关内容，来智搜看看",
+      "comment_info": {},
+      "uid": "",
+      "share_info": {
+        "page_id": "232964aae348e489681e004067c98e311b2334",
+        "unify_md5": "34161cdcce68c8880334f3ced6fe93a4",
+        "status": 3,
+        "url": "http://t.cn/AXAS6URw",
+        "display_name": "#JackeyLove击杀Faker#",
+        "comment_content": "",
+        "tips": "#JackeyLove击杀Faker#的相关内容，来智搜看看"
+      },
+      "zs_risk_control": {
+        "think_text_close": 0,
+        "land_button_close": 0
+      },
+      "unify_md5": "34161cdcce68c8880334f3ced6fe93a4",
+      "status": 2,
+      "ab_suffix": "default",
+      "wenda": {
+        "forward_gen": 0
+      },
+      "show_ctrl": {
+        "quote": {}
+      },
+      "msg": "<think><br>嗯，用户发来了一个关于\"jackeylove击杀faker\"的查询结果汇总，要求我分析这些搜索结果并整理出相关信息。看起来这是一个电竞领域的特定事件，发生在2025年英雄联盟全球总决赛期间。<br><br>从这些搜索结果来看，这个事件有几个关键点：<br>首先是事件本身，在2025年11月2日举行的S15全球总决赛半决赛中，TES对阵T1的第二局比赛里，JackeyLove使用飞机成功击杀了Faker使用的加里奥。这个操作被记录并成为话题焦点，但要注意的是，这只是一次单次击杀，整场比赛和系列赛的结果是TES以0-3败给了T1。<br><br>然后看比赛背景，当时T1已经是2-0领先，Faker正在冲击个人第六个世界冠军。而JackeyLove这场比赛也达成了S赛300击杀的里程碑。<br><br>关于这次击杀引发的讨论很有意思。一方面它被新浪新闻等媒体作为\"优质搜索结果\"报道，但另一方面很多普通用户嘲讽这个热搜词条\"JackeyLove击杀Faker\"，认为这像是赢了比赛的宣传，而实际上TES是被横扫出局。有用户直接说\"击杀了所以呢？t1把tes击杀了三次\"，还有说\"看词条还以为是滔搏3:0赢了T1呢\"。<br><br>赛事数据方面，官方账号提供了详细信息：第二局6分钟时Faker的加里奥反而先拿了一血，20分钟时T1辅助Keria的妮蔻大招命中三人，Gumayusi卡莎拿到三杀，最终26分钟T1推平基地。本局MVP给到了Keria。<br><br>Faker的历史战绩也被提及，这是他第8次打进全球总决赛决赛，此前获得5冠2亚，而且在全球总决赛BO5中对阵LPL队伍保持全胜，达到10胜0负的恐怖战绩。<br><br>用户们对JackeyLove的评价呈现两极分化，有人认为\"今天的哥哥没啥好黑的\"，但也有人嘲讽他是\"陀螺\"，还有用户翻出历史称他曾在S14泉水钩faker结果被反杀。<br><br>结合所有信息，用户应该是在询问这场比赛中JackeyLove对Faker的击杀事件，但实际上这可能是个具有误导性的热搜。我需要清晰说明这次击杀只是个单次操作，放在整个系列赛的背景下，TES实际上是惨败。同时也要提供Faker和T1的统治级表现作为背景，让用户理解这次击杀的实际意义不大。<br><br>在组织回答时，我会按比赛实况、赛事背景、争议话题、历史数据的顺序来呈现，这样逻辑更清晰。尤其要强调\"击杀Faker\"这个热搜与比赛结果的巨大反差，这是最有戏剧性的部分。<br><br></think><br>关于2025年英雄联盟全球总决赛半决赛中 **JackeyLove（喻文波）在比赛中击杀Faker（李相赫）** 的事件，结合比赛实况与舆论反馈，核心信息归纳如下：<br>### 一、比赛实况：单次击杀与整体结果  <br>1. **事件发生背景**  <br>   在2025年11月2日S15全球总决赛半决赛 **TES vs T1 第二局比赛**中，T1以2-0领先。本局JackeyLove使用飞机（库奇），Faker使用加里奥。在比赛进程中，JackeyLove成功完成对Faker的击杀。```wbCustomBlock{\"type\": \"quoted\", \"index\": 4, \"data\": {\"num\": [2, 12], \"version\": 2, \"quote_list\": [{\"name\": \"新浪新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5228575944870889\", \"index\": 2, \"label\": \"\"}, {\"name\": \"kress7\", \"scheme\": \"sinaweibo://detail?mblogid=5228597782515476\", \"index\": 12, \"label\": \"\"}]}}```  <br><br>2. **比赛结果与击杀意义**  <br>   - **击杀未改变战局**：尽管此次击杀成为焦点操作，但T1凭借Keria妮蔻的关键大招控场、Gumayusi卡莎三杀等表现，最终在26分钟推平TES基地，T1以3-0比分晋级决赛。```wbCustomBlock{\"type\": \"quoted\", \"index\": 6, \"data\": {\"num\": [12, 20], \"version\": 2, \"quote_list\": [{\"name\": \"英雄联盟\", \"scheme\": \"sinaweibo://detail?mblogid=5228579678062401\", \"index\": 20, \"label\": \"大v\"}, {\"name\": \"kress7\", \"scheme\": \"sinaweibo://detail?mblogid=5228597782515476\", \"index\": 12, \"label\": \"\"}], \"name\": \"英雄联盟\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.600.600.50/006f8wK2ly8i6mfm5sdyaj60go0godi002.jpg?KID=imgbed,tva&Expires=1762089560&ssig=IHSM8pJ%2F7e\", \"scheme\": \"sinaweibo://detail?mblogid=5228579678062401\", \"vType\": 7}}```  <br>   - **TES整体失利**：TES最终不敌T1止步四强，赛后其官微发文“未越关山，此志不渝”回应结果。```wbCustomBlock{\"type\": \"quoted\", \"index\": 7, \"data\": {\"num\": [1], \"version\": 2, \"quote_list\": [{\"name\": \"新浪新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5228595568188407\", \"index\": 1, \"label\": \"\"}]}}```<br>### 二、赛事背景与舆论争议  <br>1. **热搜词条的争议性**  <br>   - **话题热度与讽刺**：微博热搜词条“#JackeyLove击杀Faker#”引发大量讨论，部分网友质疑其误导性，认为单次击杀在0-3溃败的背景下被过度放大。例如：```wbCustomBlock{\"type\": \"quoted\", \"index\": 11, \"data\": {\"num\": [10, 14, 15, 16], \"version\": 2, \"quote_list\": [{\"name\": \"Centripetal_J1\", \"scheme\": \"sinaweibo://detail?mblogid=5228589558794604\", \"index\": 14, \"label\": \"大v\"}, {\"name\": \"不能走太快地上都是水\", \"scheme\": \"sinaweibo://detail?mblogid=5228591747960394\", \"index\": 10, \"label\": \"\"}, {\"name\": \"是李的柚子吖\", \"scheme\": \"sinaweibo://detail?mblogid=5228591530118260\", \"index\": 15, \"label\": \"\"}, {\"name\": \"凶首是我L\", \"scheme\": \"sinaweibo://detail?mblogid=5228591623440202\", \"index\": 16, \"label\": \"\"}], \"name\": \"Centripetal_J1\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/008kdT2oly8i5klvl2bjjj30u00u0q53.jpg?KID=imgbed,tva&Expires=1762089560&ssig=TzMtJxzZ3f\", \"scheme\": \"sinaweibo://detail?mblogid=5228589558794604\", \"vType\": 0}}```  <br>     > “击杀了所以呢？T1把TES击杀了三次”；```wbCustomBlock{\"type\": \"quoted\", \"index\": 12, \"data\": {\"num\": [14], \"version\": 2, \"quote_list\": [{\"name\": \"Centripetal_J1\", \"scheme\": \"sinaweibo://detail?mblogid=5228589558794604\", \"index\": 14, \"label\": \"\"}]}}```  <br>     > “看词条还以为是滔搏3:0赢了T1”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 13, \"data\": {\"num\": [15], \"version\": 2, \"quote_list\": [{\"name\": \"是李的柚子吖\", \"scheme\": \"sinaweibo://detail?mblogid=5228591530118260\", \"index\": 15, \"label\": \"\"}]}}```  <br>   - **支持者观点**：亦有声音认为JackeyLove本场表现值得肯定，无需苛责。```wbCustomBlock{\"type\": \"quoted\", \"index\": 14, \"data\": {\"num\": [11], \"version\": 2, \"quote_list\": [{\"name\": \"你以为我傻咩\", \"scheme\": \"sinaweibo://detail?mblogid=5228593829118272\", \"index\": 11, \"label\": \"\"}]}}```  <br><br>2. **Faker的统治力背景**  <br>   - **历史战绩**：此战是Faker生涯第8次晋级全球总决赛决赛，此前已获5冠2亚。```wbCustomBlock{\"type\": \"quoted\", \"index\": 16, \"data\": {\"num\": [22], \"version\": 2, \"quote_list\": [{\"name\": \"虎扑电竞\", \"scheme\": \"sinaweibo://detail?mblogid=5228588393565762\", \"index\": 22, \"label\": \"大v\"}], \"name\": \"虎扑电竞\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.512.512.50/006X1wLXly8i0vjnz4vxkj30e80e8dfz.jpg?KID=imgbed,tva&Expires=1762089560&ssig=coOuNGrUo3\", \"scheme\": \"sinaweibo://detail?mblogid=5228588393565762\", \"vType\": 0}}```  <br>   - **LPL“心魔”**：Faker在S赛BO5中对阵LPL队伍保持全胜（截至当时10胜0负），被解说称为“LPL最严厉的父亲”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 17, \"data\": {\"num\": [7, 21], \"version\": 2, \"quote_list\": [{\"name\": \"网瘾少女哈尼酱\", \"scheme\": \"sinaweibo://detail?mblogid=5227925173701450\", \"index\": 7, \"label\": \"大v\"}, {\"name\": \"英雄联盟神吐槽\", \"scheme\": \"sinaweibo://detail?mblogid=5227760494844146\", \"index\": 21, \"label\": \"\"}], \"name\": \"网瘾少女哈尼酱\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/006MPQOcly8i172ndyg5nj30u00u0jw4.jpg?KID=imgbed,tva&Expires=1762089560&ssig=Bxjvd%2F3Lvc\", \"scheme\": \"sinaweibo://detail?mblogid=5227925173701450\", \"vType\": 0}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5227925173701450&multi_paragraph=2&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/006MPQOcly8i172ndyg5nj30u00u0jw4.jpg?KID=imgbed,tva&Expires=1762089560&ssig=Bxjvd%2F3Lvc) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">网瘾少女哈尼酱</span><img src=\"http://wx4.sinaimg.cn/middle/006MPQOcly1i6vw00vyzdj31hc0u0whh.jpg\" data-width=1080 data-height=1920></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5227760494844146&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=2&multi_count=1\"><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.439.439.50/006cmbhQly8h8uglinec1j30c70c73yz.jpg?KID=imgbed,tva&Expires=1762089560&ssig=ejfYaD%2BwDU) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">英雄联盟神吐槽</span><img src=\"http://wx2.sinaimg.cn/middle/006cmbhQgy1i6vcepn3y1j30k00b7mym.jpg\" data-width=403 data-height=720></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5228588393565762&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=2&multi_count=2\"><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.512.512.50/006X1wLXly8i0vjnz4vxkj30e80e8dfz.jpg?KID=imgbed,tva&Expires=1762089560&ssig=coOuNGrUo3) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">虎扑电竞</span><img src=\"http://wx3.sinaimg.cn/middle/006X1wLXly1i6y06ynlf0j30zk0k0qo9.jpg\" data-width=720 data-height=1280></div></media-block><br>### 三、关联信息补充  <br>1. **JackeyLove的里程碑**  <br>   在此次击杀前，JackeyLove于S15瑞士轮阶段达成 **“S赛300击杀”** 成就，其中对阵BLG时闪现秒杀ON的操作被列为当日TOP2精彩时刻。```wbCustomBlock{\"type\": \"quoted\", \"index\": 20, \"data\": {\"num\": [5, 19], \"version\": 2, \"quote_list\": [{\"name\": \"英雄联盟赛事\", \"scheme\": \"sinaweibo://detail?mblogid=5226005616395889\", \"index\": 19, \"label\": \"大v\"}, {\"name\": \"熔岩巧克力芝士虾滑\", \"scheme\": \"sinaweibo://detail?mblogid=5225986494830303\", \"index\": 5, \"label\": \"\"}], \"name\": \"英雄联盟赛事\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.600.600.50/006hzhGely8i5wr5w2dcwj30go0goq3i.jpg?KID=imgbed,tva&Expires=1762089560&ssig=IG%2Fk4o4fyb\", \"scheme\": \"sinaweibo://detail?mblogid=5226005616395889\", \"vType\": 0}}```  <br><br>2. **赛前期待与落差**  <br>   - 部分观众曾期待TES创造奇迹，如“陀螺理论”（高速旋转后击破T1），或设想JackeyLove决赛闪现五杀场景。```wbCustomBlock{\"type\": \"quoted\", \"index\": 22, \"data\": {\"num\": [4, 8, 17], \"version\": 2, \"quote_list\": [{\"name\": \"我是电竞小生\", \"scheme\": \"sinaweibo://detail?mblogid=5228594587766167\", \"index\": 4, \"label\": \"大v\"}, {\"name\": \"Ahri_Yo\", \"scheme\": \"sinaweibo://detail?mblogid=5227904722275004\", \"index\": 8, \"label\": \"\"}, {\"name\": \"Ahri_Yo\", \"scheme\": \"sinaweibo://detail?mblogid=5228556286169295\", \"index\": 17, \"label\": \"\"}], \"name\": \"我是电竞小生\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.600.600.50/006BPLKbly8gx4n5qvexbj30go0gogp4.jpg?KID=imgbed,tva&Expires=1762089560&ssig=hN1yW9Ga0%2B\", \"scheme\": \"sinaweibo://detail?mblogid=5228594587766167\", \"vType\": 0}}```  <br>   - Uzi赛前曾鼓励TES：“希望他们拿下比赛，打出一场精彩对决”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 23, \"data\": {\"num\": [2], \"version\": 2, \"quote_list\": [{\"name\": \"新浪新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5228575944870889\", \"index\": 2, \"label\": \"\"}]}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5225986494830303&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=3&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.512.512.50/005Zfik2ly8hyx9rbt8g5j30e80e80t3.jpg?KID=imgbed,tva&Expires=1762089560&ssig=4tPlHBlxaC) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">熔岩巧克力芝士虾滑</span><img src=\"http://wx3.sinaimg.cn/middle/005Zfik2ly1i6ppcp26w4j30qo101448.jpg\" data-width=1297 data-height=960></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5227904722275004&multi_paragraph=3&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.928.928.50/008wPWroly8hrhlpd2wi1j30ps0psgnw.jpg?KID=imgbed,tva&Expires=1762089560&ssig=9hyldpOjvN) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">Ahri_Yo</span><img src=\"http://wx3.sinaimg.cn/middle/008wPWrogy1i6vtmkq5m2j31400mjwp0.jpg\" data-width=811 data-height=1440></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5228594587766167&multi_paragraph=3&multi_count=2\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.600.600.50/006BPLKbly8gx4n5qvexbj30go0gogp4.jpg?KID=imgbed,tva&Expires=1762089560&ssig=hN1yW9Ga0%2B) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">我是电竞小生</span><img src=\"http://wx2.sinaimg.cn/middle/006BPLKbly1i6y0ttzu32j31hc0okn0t.jpg\" data-width=884 data-height=1920></div></media-block><br>### 四、总结  <br>**JackeyLove击杀Faker** 是S15半决赛第二局中的一次高光操作，但因发生在TES被T1全面压制的比赛中（最终0-3落败），其意义被舆论两极解读：  <br>- **客观层面**：仅是一次单杀，未影响系列赛结果。  <br>- **象征层面**：反映了LPL选手在对抗Faker时的“突破欲”，但同时也凸显了T1对LPL的持续压制力。  <br>赛事核心结局仍是 **Faker率T1晋级决赛，冲击个人第六冠**。```wbCustomBlock{\"type\": \"quoted\", \"index\": 27, \"data\": {\"num\": [20, 22], \"version\": 2, \"quote_list\": [{\"name\": \"英雄联盟\", \"scheme\": \"sinaweibo://detail?mblogid=5228579678062401\", \"index\": 20, \"label\": \"\"}, {\"name\": \"虎扑电竞\", \"scheme\": \"sinaweibo://detail?mblogid=5228588393565762\", \"index\": 22, \"label\": \"\"}]}}```<br>",
+      "share_card_multimodal": {
+        "img": "http://wx4.sinaimg.cn/middle/006MPQOcly1i6vw00vyzdj31hc0u0whh.jpg",
+        "type": "v",
+        "cur_mid": "5227925173701450",
+        "user_avatar": "https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/006MPQOcly8i172ndyg5nj30u00u0jw4.jpg?KID=imgbed,tva&Expires=1762089560&ssig=Bxjvd%2F3Lvc",
+        "user_name": "网瘾少女哈尼酱",
+        "video_url": "https://video.weibo.com/show?fid=1034:5227923825950793",
+        "h": 1080,
+        "scheme": "sinaweibo://video/vvs?mid=5227925173701450&multi_paragraph=2&multi_count=0",
+        "w": 1920,
+        "hit_score_new": 58.447266,
+        "click_rate": 0.09240784194989,
+        "hit_score_final": 59.068359,
+        "doc_score": 3398,
+        "img_pid": "006MPQOcly1i6vw00vyzdj31hc0u0whh",
+        "vtype": 0
+      },
+      "abtest_info": {
+        "chat_entrance": 1
+      },
+      "sorted_material_list": null,
+      "model": "deepseek",
+      "msg_json": "{}",
+      "qs_status_info": "{\"qs_status\":0,\"qs_r_status\":0,\"ab_lab\":{},\"qs_q_status\":0,\"qs_u_status\":0,\"qs_c_status\":8388608}",
+      "query_field": "47",
+      "analysis_time": 1762078942,
+      "msg_format": "markdown",
+      "link_list": [
+        "sinaweibo://detail?mblogid=5228595568188407",
+        "sinaweibo://detail?mblogid=5228575944870889",
+        "sinaweibo://detail?mblogid=5228283492567635",
+        "sinaweibo://detail?mblogid=5228594587766167",
+        "sinaweibo://detail?mblogid=5225986494830303",
+        "sinaweibo://detail?mblogid=5228478855385643",
+        "sinaweibo://detail?mblogid=5227925173701450",
+        "sinaweibo://detail?mblogid=5227904722275004",
+        "sinaweibo://detail?mblogid=5228599406756434",
+        "sinaweibo://detail?mblogid=5228591747960394",
+        "sinaweibo://detail?mblogid=5228593829118272",
+        "sinaweibo://detail?mblogid=5228597782515476",
+        "sinaweibo://detail?mblogid=5228592146418145",
+        "sinaweibo://detail?mblogid=5228589558794604",
+        "sinaweibo://detail?mblogid=5228591530118260",
+        "sinaweibo://detail?mblogid=5228591623440202",
+        "sinaweibo://detail?mblogid=5228556286169295",
+        "sinaweibo://detail?mblogid=5217965399343822",
+        "sinaweibo://detail?mblogid=5226005616395889",
+        "sinaweibo://detail?mblogid=5228579678062401",
+        "sinaweibo://detail?mblogid=5227760494844146",
+        "sinaweibo://detail?mblogid=5228588393565762"
+      ],
+      "user_info": {},
+      "loop_times": 200,
+      "short_url": "http://t.cn/AXASfIzJ"
+    }
+  },
+  "links": [
+    "sinaweibo://detail?mblogid=5228595568188407",
+    "sinaweibo://detail?mblogid=5228575944870889",
+    "sinaweibo://detail?mblogid=5228283492567635",
+    "sinaweibo://detail?mblogid=5228594587766167",
+    "sinaweibo://detail?mblogid=5225986494830303",
+    "sinaweibo://detail?mblogid=5228478855385643",
+    "sinaweibo://detail?mblogid=5227925173701450",
+    "sinaweibo://detail?mblogid=5227904722275004",
+    "sinaweibo://detail?mblogid=5228599406756434",
+    "sinaweibo://detail?mblogid=5228591747960394",
+    "sinaweibo://detail?mblogid=5228593829118272",
+    "sinaweibo://detail?mblogid=5228597782515476",
+    "sinaweibo://detail?mblogid=5228592146418145",
+    "sinaweibo://detail?mblogid=5228589558794604",
+    "sinaweibo://detail?mblogid=5228591530118260",
+    "sinaweibo://detail?mblogid=5228591623440202",
+    "sinaweibo://detail?mblogid=5228556286169295",
+    "sinaweibo://detail?mblogid=5217965399343822",
+    "sinaweibo://detail?mblogid=5226005616395889",
+    "sinaweibo://detail?mblogid=5228579678062401",
+    "sinaweibo://detail?mblogid=5227760494844146",
+    "sinaweibo://detail?mblogid=5228588393565762"
+  ],
+  "media": [
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/006MPQOcly1i6vw00vyzdj31hc0u0whh.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/006MPQOcly1i6vw00vyzdj31hc0u0whh.jpg",
+      "alt": "网瘾少女哈尼酱",
+      "width": 1080,
+      "height": 1920,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/006MPQOcly1i6vw00vyzdj31hc0u0whh.jpg"
+      ],
+      "user": "网瘾少女哈尼酱"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/006cmbhQgy1i6vcepn3y1j30k00b7mym.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/006cmbhQgy1i6vcepn3y1j30k00b7mym.jpg",
+      "alt": "英雄联盟神吐槽",
+      "width": 403,
+      "height": 720,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/006cmbhQgy1i6vcepn3y1j30k00b7mym.jpg"
+      ],
+      "user": "英雄联盟神吐槽"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/006X1wLXly1i6y06ynlf0j30zk0k0qo9.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/006X1wLXly1i6y06ynlf0j30zk0k0qo9.jpg",
+      "alt": "虎扑电竞",
+      "width": 720,
+      "height": 1280,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/006X1wLXly1i6y06ynlf0j30zk0k0qo9.jpg"
+      ],
+      "user": "虎扑电竞"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/005Zfik2ly1i6ppcp26w4j30qo101448.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/005Zfik2ly1i6ppcp26w4j30qo101448.jpg",
+      "alt": "熔岩巧克力芝士虾滑",
+      "width": 1297,
+      "height": 960,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/005Zfik2ly1i6ppcp26w4j30qo101448.jpg"
+      ],
+      "user": "熔岩巧克力芝士虾滑"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/008wPWrogy1i6vtmkq5m2j31400mjwp0.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/008wPWrogy1i6vtmkq5m2j31400mjwp0.jpg",
+      "alt": "Ahri_Yo",
+      "width": 811,
+      "height": 1440,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/008wPWrogy1i6vtmkq5m2j31400mjwp0.jpg"
+      ],
+      "user": "Ahri_Yo"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/006BPLKbly1i6y0ttzu32j31hc0okn0t.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/006BPLKbly1i6y0ttzu32j31hc0okn0t.jpg",
+      "alt": "我是电竞小生",
+      "width": 884,
+      "height": 1920,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/006BPLKbly1i6y0ttzu32j31hc0okn0t.jpg"
+      ],
+      "user": "我是电竞小生"
+    }
+  ],
+  "html_path": "data/aicard/hourly/2025-11-02/18/jackeylove-faker.html"
+}

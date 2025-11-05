@@ -1,0 +1,309 @@
+{
+  "meta": {
+    "query": "#郭焱为孙颖莎送上生日祝福#",
+    "status_code": 200,
+    "fetched_at": "2025-11-04T14:43:29+08:00",
+    "response": {
+      "top_quote_list": {},
+      "short_url": "http://t.cn/AXAW1ki2",
+      "card_multimodal": {
+        "type": "mediablock",
+        "data": [
+          {
+            "type": "v",
+            "cur_mid": "5229201395287169",
+            "user_name": "中国蓝新闻",
+            "vtype": 3,
+            "user_avatar": "https://tvax2.sinaimg.cn/crop.0.0.1000.1000.50/8842ff52ly8heqfusvnwbj20rs0rsmxx.jpg?KID=imgbed,tva&Expires=1762248667&ssig=qOyZJgo5la",
+            "hit_score_new": 0,
+            "video_url": "https://video.weibo.com/show?fid=1034:5229201087725613",
+            "img": "http://wx4.sinaimg.cn/middle/8842ff52ly1i6zykgrg6tj20u01hcjtv.jpg",
+            "scheme": "sinaweibo://video/vvs?mid=5229201395287169&multi_paragraph=1&multi_count=0",
+            "doc_score": 0,
+            "img_pid": "8842ff52ly1i6zykgrg6tj20u01hcjtv",
+            "h": 1920,
+            "click_rate": 0.02335396736072,
+            "click_num": 0,
+            "w": 1080,
+            "hit_score_final": 0
+          },
+          {
+            "type": "v",
+            "cur_mid": "5229246731521315",
+            "user_name": "楚人头帝",
+            "vtype": 0,
+            "user_avatar": "https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/008vwmz2ly8i1l3g8gaz5j30u00u0tas.jpg?KID=imgbed,tva&Expires=1762248667&ssig=aELjZAmD5N",
+            "hit_score_new": 55.419922,
+            "video_url": "https://video.weibo.com/show?fid=1034:5229246197727245",
+            "img": "http://wx2.sinaimg.cn/middle/008vwmz2ly1i703s74ivrj30qo0k0q49.jpg",
+            "scheme": "sinaweibo://video/vvs?mid=5229246731521315&multi_paragraph=1&multi_count=1",
+            "doc_score": 3231,
+            "img_pid": "008vwmz2ly1i703s74ivrj30qo0k0q49",
+            "h": 720,
+            "click_rate": 0,
+            "click_num": 0,
+            "w": 960,
+            "hit_score_final": 60.45195
+          },
+          {
+            "type": "v",
+            "cur_mid": "5229245945087875",
+            "user_name": "才净净",
+            "vtype": 0,
+            "user_avatar": "https://tvax2.sinaimg.cn/crop.0.0.620.620.50/008rxsomly8gyfi2mmzjxj30h80h83yo.jpg?KID=imgbed,tva&Expires=1762248667&ssig=xcrv70Btrw",
+            "hit_score_new": 93.164062,
+            "video_url": "https://video.weibo.com/show?fid=1034:5229245815783465",
+            "img": "http://wx2.sinaimg.cn/middle/008rxsomly1i703pc5t6qj30k00zkac5.jpg",
+            "scheme": "sinaweibo://video/vvs?mid=5229245945087875&multi_paragraph=1&multi_count=2",
+            "doc_score": 3492,
+            "img_pid": "008rxsomly1i703pc5t6qj30k00zkac5",
+            "h": 1280,
+            "click_rate": 0,
+            "click_num": 0,
+            "w": 720,
+            "hit_score_final": 82.698441
+          },
+          {
+            "type": "v",
+            "cur_mid": "5229201395287169",
+            "user_name": "中国蓝新闻",
+            "vtype": 3,
+            "user_avatar": "https://tvax2.sinaimg.cn/crop.0.0.1000.1000.50/8842ff52ly8heqfusvnwbj20rs0rsmxx.jpg?KID=imgbed,tva&Expires=1762248667&ssig=qOyZJgo5la",
+            "hit_score_new": 0,
+            "video_url": "https://video.weibo.com/show?fid=1034:5229201087725613",
+            "img": "http://wx4.sinaimg.cn/middle/8842ff52ly1i6zykgrg6tj20u01hcjtv.jpg",
+            "scheme": "sinaweibo://video/vvs?mid=5229201395287169&multi_paragraph=1&multi_count=0",
+            "doc_score": 0,
+            "img_pid": "8842ff52ly1i6zykgrg6tj20u01hcjtv",
+            "h": 1920,
+            "click_rate": 0.02335396736072,
+            "click_num": 0,
+            "w": 1080,
+            "hit_score_final": 0
+          }
+        ]
+      },
+      "query_field": "20",
+      "model": "deepseek",
+      "basemodel": "实验组5",
+      "reliable_tips": "{\"gold_orange_v_mids\": [\"5229246731521315\", \"5229257825453818\", \"5229179421331855\", \"5229256819084737\", \"5229245945087875\", \"5229194225123566\", \"5229222089987334\", \"5229189235477508\", \"5229200756703278\", \"5229191688882683\", \"5229242653607118\", \"5229258054041655\", \"5229237630141582\", \"5229192863026823\", \"5229198810547738\", \"5229186350057693\", \"5229223901398030\", \"5229195787502562\"], \"gold_orange_v_ratio\": \"64%\", \"media_mids\": [\"5229201395287169\", \"5229049909872997\", \"5229051184678442\", \"5229202976805356\", \"5229265094183761\"], \"media_ratio\": \"18%\", \"verified_mids\": [\"5229247279923556\", \"5229169383573654\", \"5096979996083488\", \"5229198731378869\"], \"verified_ratio\": \"14%\", \"normal_mids\": [\"5229266121002027\"], \"normal_ratio\": \"4%\", \"ref_mid_rank\": {\"5229201395287169\": {\"rank\": 1}, \"5229246731521315\": {\"rank\": 7}, \"5229257825453818\": {\"rank\": 23}, \"5229179421331855\": {\"rank\": 26}, \"5229256819084737\": {\"rank\": 24}, \"5229245945087875\": {\"rank\": 30}, \"5229194225123566\": {\"rank\": 12}, \"5229247279923556\": {\"rank\": 15}, \"5229169383573654\": {\"rank\": 14}, \"5229049909872997\": {\"rank\": 19}, \"5229051184678442\": {\"rank\": 17}, \"5229202976805356\": {\"rank\": 25}, \"5229222089987334\": {\"rank\": 20}, \"5096979996083488\": {\"rank\": 5}, \"5229266121002027\": {\"rank\": 21}, \"5229189235477508\": {\"rank\": 13}, \"5229200756703278\": {\"rank\": 28}, \"5229191688882683\": {\"rank\": 2}, \"5229242653607118\": {\"rank\": 3}, \"5229258054041655\": {\"rank\": 4}, \"5229198731378869\": {\"rank\": 6}, \"5229237630141582\": {\"rank\": 11}, \"5229192863026823\": {\"rank\": 16}, \"5229198810547738\": {\"rank\": 18}, \"5229265094183761\": {\"rank\": 22}, \"5229186350057693\": {\"rank\": 27}, \"5229223901398030\": {\"rank\": 29}, \"5229195787502562\": {\"rank\": 31}}, \"reliable_summary\": \"核心事件可靠程度低，郭焱的祝福视频实际发布于2024年11月4日，2025年生日当天未发布新视频，媒体报道可能引用旧内容引发误解。\"}",
+      "q_attr": {
+        "from_request_id": "",
+        "mid": "",
+        "comment_from_type": "",
+        "reply_cid": "",
+        "from_uid": ""
+      },
+      "abtest_info": {
+        "chat_entrance": 1
+      },
+      "cot": 1,
+      "qs_status": 0,
+      "share_info": {
+        "unify_md5": "faf5338b6b9a939c58689fb0c6713dce",
+        "comment_content": "",
+        "status": 3,
+        "url": "http://t.cn/AXAlMlG1",
+        "display_name": "#郭焱为孙颖莎送上生日祝福#",
+        "page_id": "2329647196ad67229d39f10faf4e4f147a0a35",
+        "tips": "#郭焱为孙颖莎送上生日祝福#的相关内容，来智搜看看"
+      },
+      "scheme": "sinaweibo://cardlist?containerid=100103type%3D225%26q%3D%23%E9%83%AD%E7%84%B1%E4%B8%BA%E5%AD%99%E9%A2%96%E8%8E%8E%E9%80%81%E4%B8%8A%E7%94%9F%E6%97%A5%E7%A5%9D%E7%A6%8F%23%26t%3D&extparam=ai_model%3Ddeepseek%26ori_ai_title%3D%E5%8F%82%E8%80%83%E5%8D%9A%E6%96%87%26material_version%3D1762237867",
+      "sorted_material_list": null,
+      "page_id": "2329647196ad67229d39f10faf4e4f147a0a35",
+      "news_analyze": {},
+      "share_text": "#郭焱为孙颖莎送上生日祝福#的相关内容，来智搜看看",
+      "status": 2,
+      "version": "2025-11-04 14:31:07.013000-4005",
+      "ab_suffix": "default",
+      "show_ctrl": {
+        "quote": {}
+      },
+      "unify_md5": "faf5338b6b9a939c58689fb0c6713dce",
+      "comment_info": {},
+      "ext_show": {},
+      "msg_json": "{}",
+      "query_category": "Ip",
+      "qs_status_info": "{\"ab_lab\":{},\"qs_c_status\":8388608,\"qs_r_status\":0,\"qs_u_status\":0,\"qs_status\":0,\"qs_q_status\":0}",
+      "mid_list": null,
+      "loop_times": 200,
+      "uid": "",
+      "msg": "<think><br><br>嗯，用户查询的是郭焱为孙颖莎送生日祝福的事件。看了搜索结果，发现一个关键矛盾点：很多媒体和账号说郭焱在2025年发了新祝福视频，但结果8和9明确指出这是误传，实际视频是2024年发布的。这个时间差需要澄清清楚。<br><br>先梳理核心事实：郭焱确实在2024年11月4日发布过孙颖莎的24岁生日祝福视频，内容包含训练花絮和寄语。但2025年当天她本人没发新内容。不过2025年这个话题下仍有大量相关动态：<br>- 结果1提到郭焱\"发视频\"，但结合结果8看可能是媒体误用旧素材。<br>- 结果7和23描述郭焱在介绍全运会备战情况时顺带祝福孙颖莎，这可能是2025年的新行为。<br>- 结果24和30则聚焦她对孙颖莎\"健康涨球\"的寄语，强调师徒情。<br><br>其他重要信息：<br>- 多方祝福：WTT世界乒联、国际奥委会都发了庆生内容，队友孙铭阳还卡点喊她\"小胖墩\"。<br>- 孙颖莎现状：当天她在备战全运会训练中过生日，将第三次冲击女单冠军，若成功就是现役唯一\"单打四金王\"。<br>- 球迷反应：有人买她代言产品支持，但也出现质疑蹭热度的声音。<br><br>时间线上要特别注意区分2024和2025两个节点。回答结构可以这样安排：先澄清祝福视频的真实发布时间，再说明2025年郭焱的实际动作（如备战报道中的提及），接着展开其他方面的祝福和孙颖莎的现状，最后提一下争议。这样既澄清误解又全面覆盖事件。<br><br>用户可能想了解事件全貌，也可能关注孙颖莎近况。需要平衡澄清事实和传递生日氛围——既要指出媒体误传，又不能冲淡庆生主题。在表达上可以用\"值得一提的是\"这类转折自然带出时间澄清，重点仍落在大家对她的认可上。<br><br></think><br>2025年11月4日，中国乒乓球运动员孙颖莎迎来25岁生日，其恩师、前国乒名将郭焱通过多种形式为她送上祝福，引发广泛关注。以下是事件的核心脉络与多方反响：<br>### 🎂 **一、郭焱的祝福内容与背景**<br>1. **祝福形式与核心寄语**  <br>   郭焱在介绍全运会备战情况的视频中，特别为孙颖莎送上生日祝福，强调她\"健康涨球，继续闪耀\"的期许。视频透露孙颖莎生日当天仍在河北队坚持全天高强度训练，因兼项多项目比赛，体能训练成为重点。尽管部分媒体误称郭焱发布了\"新祝福视频\"，但实际2025年她未单独发布庆生视频，而是将祝福融入全运会备战报道中。```wbCustomBlock{\"type\": \"quoted\", \"index\": 3, \"data\": {\"num\": [1, 7, 23, 26], \"version\": 2, \"quote_list\": [{\"name\": \"中国蓝新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5229201395287169\", \"index\": 1, \"label\": \"大v\"}, {\"name\": \"楚人头帝\", \"scheme\": \"sinaweibo://detail?mblogid=5229246731521315\", \"index\": 7, \"label\": \"\"}, {\"name\": \"甜味幻想小猫\", \"scheme\": \"sinaweibo://detail?mblogid=5229257825453818\", \"index\": 23, \"label\": \"\"}, {\"name\": \"国球人生\", \"scheme\": \"sinaweibo://detail?mblogid=5229179421331855\", \"index\": 26, \"label\": \"\"}], \"name\": \"中国蓝新闻\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.1000.1000.50/8842ff52ly8heqfusvnwbj20rs0rsmxx.jpg?KID=imgbed,tva&Expires=1762248667&ssig=qOyZJgo5la\", \"scheme\": \"sinaweibo://detail?mblogid=5229201395287169\", \"vType\": 3}}```<br><br>2. **师徒情谊与行业认可**  <br>   郭焱曾指导孙颖莎训练，其简洁的\"健康涨球\"寄语被粉丝解读为\"前辈对后辈最熨帖的关怀\"，既认可她17个世界冠军、霸榜世界第一超百周的成就，也隐含对其高强度赛程下保持健康的关切。祝福中特别提及孙颖莎\"暴力莎\"的赛场统治力，彰显师徒间的深度了解。```wbCustomBlock{\"type\": \"quoted\", \"index\": 4, \"data\": {\"num\": [24, 30], \"version\": 2, \"quote_list\": [{\"name\": \"才净净\", \"scheme\": \"sinaweibo://detail?mblogid=5229245945087875\", \"index\": 30, \"label\": \"大v\"}, {\"name\": \"CC是小嘀呱\", \"scheme\": \"sinaweibo://detail?mblogid=5229256819084737\", \"index\": 24, \"label\": \"\"}], \"name\": \"才净净\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.620.620.50/008rxsomly8gyfi2mmzjxj30h80h83yo.jpg?KID=imgbed,tva&Expires=1762248667&ssig=xcrv70Btrw\", \"scheme\": \"sinaweibo://detail?mblogid=5229245945087875\", \"vType\": 0}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5229201395287169&multi_paragraph=1&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.1000.1000.50/8842ff52ly8heqfusvnwbj20rs0rsmxx.jpg?KID=imgbed,tva&Expires=1762248667&ssig=qOyZJgo5la) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">中国蓝新闻</span><img src=\"http://wx4.sinaimg.cn/middle/8842ff52ly1i6zykgrg6tj20u01hcjtv.jpg\" data-width=1920 data-height=1080></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5229246731521315&multi_paragraph=1&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/008vwmz2ly8i1l3g8gaz5j30u00u0tas.jpg?KID=imgbed,tva&Expires=1762248667&ssig=aELjZAmD5N) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">楚人头帝</span><img src=\"http://wx2.sinaimg.cn/middle/008vwmz2ly1i703s74ivrj30qo0k0q49.jpg\" data-width=720 data-height=960></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5229245945087875&multi_paragraph=1&multi_count=2\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.620.620.50/008rxsomly8gyfi2mmzjxj30h80h83yo.jpg?KID=imgbed,tva&Expires=1762248667&ssig=xcrv70Btrw) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">才净净</span><img src=\"http://wx2.sinaimg.cn/middle/008rxsomly1i703pc5t6qj30k00zkac5.jpg\" data-width=1280 data-height=720></div></media-block><br>### 🌟 **二、多方祝福汇聚**<br>1. **国际组织与国家队**  <br>   - **WTT世界乒联**：以\"莎场逐光，不负韶华；球拍为刃，不负热爱\"为题，赞誉她\"用汗水写下的每一页都闪闪发光\"。```wbCustomBlock{\"type\": \"quoted\", \"index\": 7, \"data\": {\"num\": [12, 15], \"version\": 2, \"quote_list\": [{\"name\": \"天津交通广播\", \"scheme\": \"sinaweibo://detail?mblogid=5229247279923556\", \"index\": 15, \"label\": \"大v\"}, {\"name\": \"妮说体育\", \"scheme\": \"sinaweibo://detail?mblogid=5229194225123566\", \"index\": 12, \"label\": \"\"}], \"name\": \"天津交通广播\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.800.800.50/002gREBVly1h8vgfb7yijj60m80m8aan02.jpg?KID=imgbed,tva&Expires=1762248667&ssig=w9F%2BcI2W5h\", \"scheme\": \"sinaweibo://detail?mblogid=5229247279923556\", \"vType\": 3}}```  <br>   - **国际奥委会**：发布孙颖莎从布宜诺斯艾利斯到巴黎的精彩瞬间集锦，致敬其奥运征程。```wbCustomBlock{\"type\": \"quoted\", \"index\": 8, \"data\": {\"num\": [14], \"version\": 2, \"quote_list\": [{\"name\": \"梨视频\", \"scheme\": \"sinaweibo://detail?mblogid=5229169383573654\", \"index\": 14, \"label\": \"大v\"}], \"name\": \"梨视频\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.600.600.50/006yllNVly8h8wegdfz5fj30go0gojru.jpg?KID=imgbed,tva&Expires=1762248667&ssig=lB5aDD1Wtg\", \"scheme\": \"sinaweibo://detail?mblogid=5229169383573654\", \"vType\": 3}}```  <br>   - **队友孙铭阳**：零点卡点送祝福，昵称她\"小胖墩\"，愿其\"付出甘之如饴，所得归于欢喜\"。```wbCustomBlock{\"type\": \"quoted\", \"index\": 9, \"data\": {\"num\": [19], \"version\": 2, \"quote_list\": [{\"name\": \"星视频\", \"scheme\": \"sinaweibo://detail?mblogid=5229049909872997\", \"index\": 19, \"label\": \"大v\"}], \"name\": \"星视频\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.600.600.50/0070ni15ly8hcmk65avs5j30go0godgt.jpg?KID=imgbed,tva&Expires=1762248667&ssig=hfl5IEP137\", \"scheme\": \"sinaweibo://detail?mblogid=5229049909872997\", \"vType\": 3}}```<br><br>2. **媒体与时尚品牌**  <br>   - **《嘉人》杂志**：以诗意长文\"穿过时间的信\"为主题，祝福她\"新岁捱得新天地\"。```wbCustomBlock{\"type\": \"quoted\", \"index\": 11, \"data\": {\"num\": [17], \"version\": 2, \"quote_list\": [{\"name\": \"星视频\", \"scheme\": \"sinaweibo://detail?mblogid=5229051184678442\", \"index\": 17, \"label\": \"\"}]}}```  <br>   - **中国蓝新闻、陕视新闻等媒体**：专题报道生日动态，突出其全运会\"三冲女单金牌\"的历史意义。```wbCustomBlock{\"type\": \"quoted\", \"index\": 12, \"data\": {\"num\": [1, 25], \"version\": 2, \"quote_list\": [{\"name\": \"陕视新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5229202976805356\", \"index\": 25, \"label\": \"大v\"}, {\"name\": \"中国蓝新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5229201395287169\", \"index\": 1, \"label\": \"\"}], \"name\": \"陕视新闻\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.512.512.50/c0855202ly8haox29q27gj20e80e8weu.jpg?KID=imgbed,tva&Expires=1762248667&ssig=0sfLzao7%2FQ\", \"scheme\": \"sinaweibo://detail?mblogid=5229202976805356\", \"vType\": 3}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5229051184678442&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=2&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.600.600.50/0070ni15ly8hcmk65avs5j30go0godgt.jpg?KID=imgbed,tva&Expires=1762248667&ssig=hfl5IEP137) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">星视频</span><img src=\"http://wx3.sinaimg.cn/middle/0070ni15gy1i6zhcf3s6gj30fz0hw79w.jpg\" data-width=644 data-height=575></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5229049909872997&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=2&multi_count=1\"><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.600.600.50/0070ni15ly8hcmk65avs5j30go0godgt.jpg?KID=imgbed,tva&Expires=1762248667&ssig=hfl5IEP137) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">星视频</span><img src=\"http://wx1.sinaimg.cn/middle/0070ni15gy1i6zh64nfvej30fp07xjuk.jpg\" data-width=285 data-height=565></div></media-block><br>### 🏓 **三、孙颖莎的生日挑战与目标**<br>1. **全运会冲刺与密集赛程**  <br>   生日当晚，孙颖莎需飞赴澳门集训，备战11月7日开幕的全运会。作为女单1号种子，她将第三次冲击全运会女单冠军，若成功将成为现役唯一集齐世界杯、世乒赛、亚运会、全运会\"单打四金王\"的选手。年末她还需参加4项大赛，密集赛程引发球迷对其体能消耗的关切。```wbCustomBlock{\"type\": \"quoted\", \"index\": 14, \"data\": {\"num\": [7, 20, 25], \"version\": 2, \"quote_list\": [{\"name\": \"体界风云\", \"scheme\": \"sinaweibo://detail?mblogid=5229222089987334\", \"index\": 20, \"label\": \"大v\"}, {\"name\": \"楚人头帝\", \"scheme\": \"sinaweibo://detail?mblogid=5229246731521315\", \"index\": 7, \"label\": \"\"}, {\"name\": \"陕视新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5229202976805356\", \"index\": 25, \"label\": \"\"}], \"name\": \"体界风云\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.499.499.50/0074reLQly8hvkuakxttjj30dv0dv74j.jpg?KID=imgbed,tva&Expires=1762248667&ssig=1o99uK1tgF\", \"scheme\": \"sinaweibo://detail?mblogid=5229222089987334\", \"vType\": 0}}```<br><br>2. **球迷行动与争议**  <br>   - **支持活动**：多地球迷购买孙颖莎代言的麦片、护肤品等产品表达支持，话题#郭焱为孙颖莎送上生日祝福#登热搜。```wbCustomBlock{\"type\": \"quoted\", \"index\": 16, \"data\": {\"num\": [5], \"version\": 2, \"quote_list\": [{\"name\": \"郭焱\", \"scheme\": \"sinaweibo://detail?mblogid=5096979996083488\", \"index\": 5, \"label\": \"大v\"}], \"name\": \"郭焱\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.996.996.50/3ea79886ly8fuug376gxwj20ro0ro780.jpg?KID=imgbed,tva&Expires=1762248667&ssig=1%2B3dOkppn9\", \"scheme\": \"sinaweibo://detail?mblogid=5096979996083488\", \"vType\": 0}}```  <br>   - **质疑声音**：个别网友认为部分账号\"蹭热度\"，引发小范围争议。```wbCustomBlock{\"type\": \"quoted\", \"index\": 17, \"data\": {\"num\": [21], \"version\": 2, \"quote_list\": [{\"name\": \"酸菜鱼什么时候轮回\", \"scheme\": \"sinaweibo://detail?mblogid=5229266121002027\", \"index\": 21, \"label\": \"\"}]}}```<br>### 💬 **四、祝福金句与公众反响**<br>> \"赛场是披荆斩棘的强者，未来更可期\"（媒体评价）```wbCustomBlock{\"type\": \"quoted\", \"index\": 19, \"data\": {\"num\": [13], \"version\": 2, \"quote_list\": [{\"name\": \"动力体坛\", \"scheme\": \"sinaweibo://detail?mblogid=5229189235477508\", \"index\": 13, \"label\": \"大v\"}], \"name\": \"动力体坛\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.800.800.50/008oAVmaly8hozqodjuuxj30m80m8wfp.jpg?KID=imgbed,tva&Expires=1762248667&ssig=cJQIO%2BBnwz\", \"scheme\": \"sinaweibo://detail?mblogid=5229189235477508\", \"vType\": 0}}```  <br>> \"25岁的光，照亮追梦者的路\"（球迷留言）```wbCustomBlock{\"type\": \"quoted\", \"index\": 20, \"data\": {\"num\": [28], \"version\": 2, \"quote_list\": [{\"name\": \"有树枝的阿色\", \"scheme\": \"sinaweibo://detail?mblogid=5229200756703278\", \"index\": 28, \"label\": \"大v\"}], \"name\": \"有树枝的阿色\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/87e99469ly8i45af2dxowj20u00u00uq.jpg?KID=imgbed,tva&Expires=1762248667&ssig=0xZR2ulKO2\", \"scheme\": \"sinaweibo://detail?mblogid=5229200756703278\", \"vType\": 0}}```  <br>> \"从前辈眼中，她仍是值得期许的后起之秀\"（体育评论）```wbCustomBlock{\"type\": \"quoted\", \"index\": 21, \"data\": {\"num\": [24], \"version\": 2, \"quote_list\": [{\"name\": \"CC是小嘀呱\", \"scheme\": \"sinaweibo://detail?mblogid=5229256819084737\", \"index\": 24, \"label\": \"\"}]}}```<br><br>---<br><br>**结语**：孙颖莎的25岁生日在训练场中度过，身后是恩师的嘱托、全球球迷的瞩目，以及冲击\"单打四金王\"的历史使命。正如WTT所言：\"时光带不走的，是仍然温热的话。\"这份生日祝福，既是乒乓精神的接力，也是新征程的号角。```wbCustomBlock{\"type\": \"quoted\", \"index\": 23, \"data\": {\"num\": [20], \"version\": 2, \"quote_list\": [{\"name\": \"体界风云\", \"scheme\": \"sinaweibo://detail?mblogid=5229222089987334\", \"index\": 20, \"label\": \"\"}]}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5229200756703278&multi_paragraph=4&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/87e99469ly8i45af2dxowj20u00u00uq.jpg?KID=imgbed,tva&Expires=1762248667&ssig=0xZR2ulKO2) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">有树枝的阿色</span><img src=\"http://wx2.sinaimg.cn/middle/87e99469ly1i6zyiitmx8j20k00zkwhy.jpg\" data-width=1280 data-height=720></div></media-block><br>",
+      "analysis_time": 1762238122,
+      "wenda": {
+        "forward_gen": 0
+      },
+      "share_card_multimodal": {
+        "type": "v",
+        "cur_mid": "5229201395287169",
+        "user_name": "中国蓝新闻",
+        "vtype": 3,
+        "user_avatar": "https://tvax2.sinaimg.cn/crop.0.0.1000.1000.50/8842ff52ly8heqfusvnwbj20rs0rsmxx.jpg?KID=imgbed,tva&Expires=1762248667&ssig=qOyZJgo5la",
+        "hit_score_new": 0,
+        "video_url": "https://video.weibo.com/show?fid=1034:5229201087725613",
+        "img": "http://wx4.sinaimg.cn/middle/8842ff52ly1i6zykgrg6tj20u01hcjtv.jpg",
+        "scheme": "sinaweibo://video/vvs?mid=5229201395287169&multi_paragraph=1&multi_count=0",
+        "doc_score": 0,
+        "img_pid": "8842ff52ly1i6zykgrg6tj20u01hcjtv",
+        "h": 1920,
+        "click_rate": 0.02335396736072,
+        "click_num": 0,
+        "w": 1080,
+        "hit_score_final": 0
+      },
+      "zs_risk_control": {
+        "land_button_close": 0,
+        "think_text_close": 0
+      },
+      "query": "#郭焱为孙颖莎送上生日祝福#",
+      "msg_format": "markdown",
+      "current_time": 1762238611,
+      "profile_image_url": "",
+      "user_info": {},
+      "reference_num": 28,
+      "chat_status_stage": 1,
+      "status_stage": 4,
+      "link_list": [
+        "sinaweibo://detail?mblogid=5229201395287169",
+        "sinaweibo://detail?mblogid=5229191688882683",
+        "sinaweibo://detail?mblogid=5229242653607118",
+        "sinaweibo://detail?mblogid=5229258054041655",
+        "sinaweibo://detail?mblogid=5096979996083488",
+        "sinaweibo://detail?mblogid=5229198731378869",
+        "sinaweibo://detail?mblogid=5229246731521315",
+        "broadsocial_res://",
+        "broadsocial_res://",
+        "historyweibo://5229201395287169",
+        "sinaweibo://detail?mblogid=5229237630141582",
+        "sinaweibo://detail?mblogid=5229194225123566",
+        "sinaweibo://detail?mblogid=5229189235477508",
+        "sinaweibo://detail?mblogid=5229169383573654",
+        "sinaweibo://detail?mblogid=5229247279923556",
+        "sinaweibo://detail?mblogid=5229192863026823",
+        "sinaweibo://detail?mblogid=5229051184678442",
+        "sinaweibo://detail?mblogid=5229198810547738",
+        "sinaweibo://detail?mblogid=5229049909872997",
+        "sinaweibo://detail?mblogid=5229222089987334",
+        "sinaweibo://detail?mblogid=5229266121002027",
+        "sinaweibo://detail?mblogid=5229265094183761",
+        "sinaweibo://detail?mblogid=5229257825453818",
+        "sinaweibo://detail?mblogid=5229256819084737",
+        "sinaweibo://detail?mblogid=5229202976805356",
+        "sinaweibo://detail?mblogid=5229179421331855",
+        "sinaweibo://detail?mblogid=5229186350057693",
+        "sinaweibo://detail?mblogid=5229200756703278",
+        "sinaweibo://detail?mblogid=5229223901398030",
+        "sinaweibo://detail?mblogid=5229245945087875",
+        "sinaweibo://detail?mblogid=5229195787502562"
+      ]
+    }
+  },
+  "links": [
+    "sinaweibo://detail?mblogid=5229201395287169",
+    "sinaweibo://detail?mblogid=5229191688882683",
+    "sinaweibo://detail?mblogid=5229242653607118",
+    "sinaweibo://detail?mblogid=5229258054041655",
+    "sinaweibo://detail?mblogid=5096979996083488",
+    "sinaweibo://detail?mblogid=5229198731378869",
+    "sinaweibo://detail?mblogid=5229246731521315",
+    "broadsocial_res://",
+    "broadsocial_res://",
+    "historyweibo://5229201395287169",
+    "sinaweibo://detail?mblogid=5229237630141582",
+    "sinaweibo://detail?mblogid=5229194225123566",
+    "sinaweibo://detail?mblogid=5229189235477508",
+    "sinaweibo://detail?mblogid=5229169383573654",
+    "sinaweibo://detail?mblogid=5229247279923556",
+    "sinaweibo://detail?mblogid=5229192863026823",
+    "sinaweibo://detail?mblogid=5229051184678442",
+    "sinaweibo://detail?mblogid=5229198810547738",
+    "sinaweibo://detail?mblogid=5229049909872997",
+    "sinaweibo://detail?mblogid=5229222089987334",
+    "sinaweibo://detail?mblogid=5229266121002027",
+    "sinaweibo://detail?mblogid=5229265094183761",
+    "sinaweibo://detail?mblogid=5229257825453818",
+    "sinaweibo://detail?mblogid=5229256819084737",
+    "sinaweibo://detail?mblogid=5229202976805356",
+    "sinaweibo://detail?mblogid=5229179421331855",
+    "sinaweibo://detail?mblogid=5229186350057693",
+    "sinaweibo://detail?mblogid=5229200756703278",
+    "sinaweibo://detail?mblogid=5229223901398030",
+    "sinaweibo://detail?mblogid=5229245945087875",
+    "sinaweibo://detail?mblogid=5229195787502562"
+  ],
+  "media": [
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/8842ff52ly1i6zykgrg6tj20u01hcjtv.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/8842ff52ly1i6zykgrg6tj20u01hcjtv.jpg",
+      "alt": "中国蓝新闻",
+      "width": 1920,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/8842ff52ly1i6zykgrg6tj20u01hcjtv.jpg"
+      ],
+      "user": "中国蓝新闻"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/008vwmz2ly1i703s74ivrj30qo0k0q49.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/008vwmz2ly1i703s74ivrj30qo0k0q49.jpg",
+      "alt": "楚人头帝",
+      "width": 720,
+      "height": 960,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/008vwmz2ly1i703s74ivrj30qo0k0q49.jpg"
+      ],
+      "user": "楚人头帝"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/008rxsomly1i703pc5t6qj30k00zkac5.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/008rxsomly1i703pc5t6qj30k00zkac5.jpg",
+      "alt": "才净净",
+      "width": 1280,
+      "height": 720,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/008rxsomly1i703pc5t6qj30k00zkac5.jpg"
+      ],
+      "user": "才净净"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/0070ni15gy1i6zhcf3s6gj30fz0hw79w.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/0070ni15gy1i6zhcf3s6gj30fz0hw79w.jpg",
+      "alt": "星视频",
+      "width": 644,
+      "height": 575,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/0070ni15gy1i6zhcf3s6gj30fz0hw79w.jpg"
+      ],
+      "user": "星视频"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/0070ni15gy1i6zh64nfvej30fp07xjuk.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/0070ni15gy1i6zh64nfvej30fp07xjuk.jpg",
+      "alt": "星视频",
+      "width": 285,
+      "height": 565,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/0070ni15gy1i6zh64nfvej30fp07xjuk.jpg"
+      ],
+      "user": "星视频"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/87e99469ly1i6zyiitmx8j20k00zkwhy.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/87e99469ly1i6zyiitmx8j20k00zkwhy.jpg",
+      "alt": "有树枝的阿色",
+      "width": 1280,
+      "height": 720,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/87e99469ly1i6zyiitmx8j20k00zkwhy.jpg"
+      ],
+      "user": "有树枝的阿色"
+    }
+  ],
+  "html_path": "data/aicard/hourly/2025-11-04/14/topic-faf5338b.html"
+}

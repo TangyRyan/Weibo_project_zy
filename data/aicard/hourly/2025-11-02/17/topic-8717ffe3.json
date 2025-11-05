@@ -1,0 +1,448 @@
+{
+  "meta": {
+    "query": "#糖尿病不是吃糖吃出来的#",
+    "status_code": 200,
+    "fetched_at": "2025-11-02T17:28:23+08:00",
+    "response": {
+      "reference_num": 57,
+      "query_category": "Medical",
+      "status_stage": 4,
+      "chat_status_stage": 1,
+      "top_quote_list": {},
+      "profile_image_url": "",
+      "card_multimodal": {
+        "type": "mediablock",
+        "data": [
+          {
+            "type": "p",
+            "vtype": 0,
+            "click_rate": 0.06,
+            "video_url": "",
+            "img": "http://wx1.sinaimg.cn/middle/71c26dc5ly1i0spz659gcg20dc0dc7dp.gif",
+            "cur_mid": "5159225505349970",
+            "h": 480,
+            "scheme": "sinaweibo://multimedia?mix_mid=5159225505349970&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=0",
+            "user_name": "眼科小超人老梁",
+            "w": 480,
+            "user_avatar": "https://tva3.sinaimg.cn/crop.61.34.139.139.50/71c26dc5jw8f3vyncqid9j206z05l3yd.jpg?KID=imgbed,tva&Expires=1762085938&ssig=689RPA%2BrM4",
+            "img_pid": "71c26dc5ly1i0spz659gcg20dc0dc7dp",
+            "hit_score_final": 78.839066,
+            "hit_score_new": 83.398438,
+            "doc_score": 5302
+          },
+          {
+            "type": "v",
+            "vtype": 0,
+            "click_rate": 0,
+            "video_url": "https://video.weibo.com/show?fid=1034:5097124614832257",
+            "img": "http://wx4.sinaimg.cn/middle/00763XoIgy1hvalsrlbyqj30u01hcdhp.jpg",
+            "cur_mid": "5097304426811000",
+            "h": 1920,
+            "scheme": "sinaweibo://video/vvs?mid=5097304426811000&multi_paragraph=1&multi_count=1",
+            "user_name": "上海滩蚂蚁哥",
+            "w": 1080,
+            "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.863.863.50/00763XoIly8hzm633nupij30nz0nzacj.jpg?KID=imgbed,tva&Expires=1762085938&ssig=%2B1shdt3bGt",
+            "img_pid": "00763XoIgy1hvalsrlbyqj30u01hcdhp",
+            "hit_score_final": 78.116798,
+            "hit_score_new": 82.861328,
+            "doc_score": 3414
+          },
+          {
+            "type": "v",
+            "vtype": 0,
+            "click_rate": 0,
+            "video_url": "https://video.weibo.com/show?fid=1034:5194495160156187",
+            "img": "http://wx1.sinaimg.cn/middle/0084LG9uly1i3x8nichk9j30k00lcwfa.jpg",
+            "cur_mid": "5194495566288311",
+            "h": 768,
+            "scheme": "sinaweibo://video/vvs?mid=5194495566288311&multi_paragraph=1&multi_count=2",
+            "user_name": "资本大事纪",
+            "w": 720,
+            "user_avatar": "https://tvax4.sinaimg.cn/crop.0.0.996.996.50/0084LG9uly8gfi9y95dlyj30ro0ron0o.jpg?KID=imgbed,tva&Expires=1762085938&ssig=XDZFudaXdj",
+            "img_pid": "0084LG9uly1i3x8nichk9j30k00lcwfa",
+            "hit_score_final": 81.603127,
+            "hit_score_new": 88.671875,
+            "doc_score": 4888
+          },
+          {
+            "type": "p",
+            "vtype": 0,
+            "click_rate": 0.06,
+            "video_url": "",
+            "img": "http://wx1.sinaimg.cn/middle/71c26dc5ly1i0spz659gcg20dc0dc7dp.gif",
+            "cur_mid": "5159225505349970",
+            "h": 480,
+            "scheme": "sinaweibo://multimedia?mix_mid=5159225505349970&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=0",
+            "user_name": "眼科小超人老梁",
+            "w": 480,
+            "user_avatar": "https://tva3.sinaimg.cn/crop.61.34.139.139.50/71c26dc5jw8f3vyncqid9j206z05l3yd.jpg?KID=imgbed,tva&Expires=1762085938&ssig=689RPA%2BrM4",
+            "img_pid": "71c26dc5ly1i0spz659gcg20dc0dc7dp",
+            "hit_score_final": 78.839066,
+            "hit_score_new": 83.398438,
+            "doc_score": 5302
+          }
+        ]
+      },
+      "model": "deepseek",
+      "basemodel": "实验组8",
+      "query_field": "50",
+      "query": "#糖尿病不是吃糖吃出来的#",
+      "loop_times": 200,
+      "ab_suffix": "default",
+      "cot": 1,
+      "version": "2025-11-02 17:18:58.023000-6629",
+      "abtest_info": {
+        "chat_entrance": 1
+      },
+      "qs_status_info": "{\"ab_lab\":{},\"qs_r_status\":0,\"qs_status\":0,\"qs_u_status\":0,\"qs_c_status\":8388608,\"qs_q_status\":0}",
+      "uid": "",
+      "unify_md5": "8717ffe3b6c7fb466b6489adfb92605f",
+      "wenda": {
+        "forward_gen": 0
+      },
+      "mid_list": null,
+      "share_text": "#糖尿病不是吃糖吃出来的#的相关内容，来智搜看看",
+      "msg_json": "{}",
+      "reliable_tips": "{\"gold_orange_v_mids\": [\"5159225505349970\", \"5194495566288311\", \"5097304426811000\", \"5192932242230636\", \"5200323477506438\", \"5219514801196047\", \"5192387954999945\", \"5193318063407937\", \"5204546317975965\", \"4975881099674235\", \"5193062538022251\", \"5228579390755461\", \"5208211591268772\", \"5228465642799135\", \"5202170065981816\", \"5228583098255921\", \"5228579728394443\", \"5207246104954244\", \"5214008665443646\", \"5194363643888485\", \"5199638036485716\", \"5001982748395010\", \"5002010959285796\", \"5208210509662517\", \"5228583853231863\", \"5228583203375960\", \"5228582826937457\", \"5191612641577701\", \"5171046383622930\", \"5101366177694186\", \"5100914106700029\", \"5001968239510172\", \"5150647809475053\"], \"gold_orange_v_ratio\": \"58%\", \"media_mids\": [\"5005922533638806\", \"4980670936122169\", \"5212196222533921\", \"4836132166305072\", \"4703328674251571\", \"5228559173946332\", \"5170856956527744\"], \"media_ratio\": \"12%\", \"verified_mids\": [\"5228582735450889\", \"5128073333442820\", \"5100702867393504\", \"5204292945316004\", \"5194421721369496\", \"5001986196639596\", \"5228583268124586\", \"5201051934265288\", \"5001969705943701\", \"5228580046375976\", \"5228578916535821\", \"4967921812243212\"], \"verified_ratio\": \"21%\", \"normal_mids\": [\"5228583725307597\", \"5228581269801278\", \"5228577220201577\", \"5228584314865899\", \"5228580965188081\"], \"normal_ratio\": \"9%\", \"ref_mid_rank\": {\"5159225505349970\": {\"rank\": 3}, \"5194495566288311\": {\"rank\": 8}, \"5097304426811000\": {\"rank\": 24}, \"5192932242230636\": {\"rank\": 5}, \"5200323477506438\": {\"rank\": 15}, \"5219514801196047\": {\"rank\": 9}, \"5228582735450889\": {\"rank\": 41}, \"5192387954999945\": {\"rank\": 2}, \"5128073333442820\": {\"rank\": 6}, \"5193318063407937\": {\"rank\": 14}, \"5204546317975965\": {\"rank\": 19}, \"4975881099674235\": {\"rank\": 26}, \"5228583725307597\": {\"rank\": 36}, \"5193062538022251\": {\"rank\": 55}, \"5100702867393504\": {\"rank\": 25}, \"5228581269801278\": {\"rank\": 42}, \"5228577220201577\": {\"rank\": 48}, \"5204292945316004\": {\"rank\": 49}, \"5194421721369496\": {\"rank\": 22}, \"5228579390755461\": {\"rank\": 46}, \"5001986196639596\": {\"rank\": 11}, \"5208211591268772\": {\"rank\": 31}, \"5228465642799135\": {\"rank\": 1}, \"5228583268124586\": {\"rank\": 37}, \"5201051934265288\": {\"rank\": 50}, \"5202170065981816\": {\"rank\": 51}, \"5228583098255921\": {\"rank\": 39}, \"5005922533638806\": {\"rank\": 12}, \"5228579728394443\": {\"rank\": 45}, \"5207246104954244\": {\"rank\": 60}, \"4980670936122169\": {\"rank\": 4}, \"5214008665443646\": {\"rank\": 7}, \"5194363643888485\": {\"rank\": 10}, \"5212196222533921\": {\"rank\": 13}, \"5199638036485716\": {\"rank\": 16}, \"5001982748395010\": {\"rank\": 17}, \"5001969705943701\": {\"rank\": 18}, \"5002010959285796\": {\"rank\": 20}, \"4836132166305072\": {\"rank\": 21}, \"4703328674251571\": {\"rank\": 23}, \"5208210509662517\": {\"rank\": 32}, \"5228559173946332\": {\"rank\": 33}, \"5228584314865899\": {\"rank\": 34}, \"5228583853231863\": {\"rank\": 35}, \"5228583203375960\": {\"rank\": 38}, \"5228582826937457\": {\"rank\": 40}, \"5228580965188081\": {\"rank\": 43}, \"5228580046375976\": {\"rank\": 44}, \"5228578916535821\": {\"rank\": 47}, \"5191612641577701\": {\"rank\": 52}, \"5171046383622930\": {\"rank\": 53}, \"5170856956527744\": {\"rank\": 54}, \"5101366177694186\": {\"rank\": 56}, \"4967921812243212\": {\"rank\": 57}, \"5100914106700029\": {\"rank\": 58}, \"5001968239510172\": {\"rank\": 59}, \"5150647809475053\": {\"rank\": 61}}}",
+      "qs_status": 0,
+      "scheme": "sinaweibo://cardlist?containerid=100103type%3D225%26q%3D%23%E7%B3%96%E5%B0%BF%E7%97%85%E4%B8%8D%E6%98%AF%E5%90%83%E7%B3%96%E5%90%83%E5%87%BA%E6%9D%A5%E7%9A%84%23%26t%3D&extparam=ai_model%3Ddeepseek%26ori_ai_title%3D%E5%8F%82%E8%80%83%E5%8D%9A%E6%96%87%26material_version%3D1762075138",
+      "status": 2,
+      "news_analyze": {},
+      "share_card_multimodal": {
+        "type": "p",
+        "vtype": 0,
+        "click_rate": 0.06,
+        "video_url": "",
+        "img": "http://wx1.sinaimg.cn/middle/71c26dc5ly1i0spz659gcg20dc0dc7dp.gif",
+        "cur_mid": "5159225505349970",
+        "h": 480,
+        "scheme": "sinaweibo://multimedia?mix_mid=5159225505349970&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=0",
+        "user_name": "眼科小超人老梁",
+        "w": 480,
+        "user_avatar": "https://tva3.sinaimg.cn/crop.61.34.139.139.50/71c26dc5jw8f3vyncqid9j206z05l3yd.jpg?KID=imgbed,tva&Expires=1762085938&ssig=689RPA%2BrM4",
+        "img_pid": "71c26dc5ly1i0spz659gcg20dc0dc7dp",
+        "hit_score_final": 78.839066,
+        "hit_score_new": 83.398438,
+        "doc_score": 5302
+      },
+      "short_url": "http://t.cn/A6k68ICQ",
+      "msg": "<think><br><br>嗯，用户给我发了一条查询\"糖尿病不是吃糖吃出来的\"，还提供了大量搜索结果。我需要仔细分析这些信息，找出糖尿病和吃糖之间的关系真相。<br><br>先看看搜索结果的核心观点。多位医生和专业机构都强调糖尿病不是直接由吃糖导致的。四川大学华西医院的专家童南伟明确表示吃甜食和糖尿病没有直接关系，关键是怎么吃、吃多少。这个观点很权威，值得参考。<br><br>那糖尿病的真正病因是什么呢？搜索结果中有几个关键点：<br>- 核心问题是胰岛素功能障碍，要么分泌不足（1型），要么细胞抵抗胰岛素（2型）<br>- 2型糖尿病主要和能量过剩与胰岛素抵抗相关，长期高热量饮食会导致胰岛β细胞超负荷工作<br>- 内脏脂肪堆积会释放炎症因子，干扰胰岛素信号传递<br>- 遗传因素也很重要，父母一方患病子女风险增40%，双方患病风险达70%<br><br>有几个常见误区需要澄清：<br>很多人以为不吃甜食就不会得糖尿病，但精制碳水如白米饭、面条升糖指数比蔗糖还高。有案例显示有人不喝奶茶却因主食过量确诊糖尿病。<br>还有人觉得瘦子不会得糖尿病，其实肌肉量低、内脏脂肪高的\"瘦胖子\"风险也很高。<br>糖尿病年轻化趋势明显，我国20-40岁患者已超20%，不再是\"老年病\"。<br><br>搜索结果还提到一些重要风险因素：<br>- 腰围超标（男≥90cm/女≥80cm）是重要预警信号<br>- 熬夜和压力会升高皮质醇，直接对抗胰岛素<br>- 久坐会使肌肉代谢能力下降，每天久坐超6小时风险增19%<br><br>生活习惯调整很关键：<br>饮食上建议\"先菜后肉再主食\"，这样餐后血糖升幅能降低50%。添加糖每日最好控制在25克以内。<br>运动方面，每周150分钟有氧加两次力量训练，胰岛素敏感性可提升40%。<br>高危人群（家族史、肥胖等）应每年检测空腹血糖和糖化血红蛋白。<br><br>对于已患病者，在血糖稳定时可少量食用低GI水果（苹果、柚子）或代糖食品，避免空腹吃糖，搭配坚果酸奶延缓吸收。<br><br>最后要提醒的是，这些信息不能替代专业诊疗，如果出现多饮多尿等症状应及时就医。早期干预很重要，43%的糖尿病前期患者可逆转为正常血糖。<br><br>我注意到结果27特别提到女性腰围标准调整为80cm更科学，这点在总结时需要更新。<br><br></think><br>糖尿病并非直接由“吃糖”引起，而是身体代谢系统（尤其是胰岛素调节机制）受损的结果。其核心成因与多种因素相关，以下是关键解析及科学预防建议：<br>### 🔍 **一、核心机制：胰岛素功能障碍是根源**<br>1. **胰岛素抵抗（占2型糖尿病90%以上）**  <br>   细胞对胰岛素敏感性下降，血糖无法有效进入细胞利用，滞留在血液中导致高血糖。长期高糖、高热量饮食引发的**内脏脂肪堆积**会释放炎症因子，干扰胰岛素信号传递。```wbCustomBlock{\"type\": \"quoted\", \"index\": 4, \"data\": {\"num\": [3, 8, 24], \"version\": 2, \"quote_list\": [{\"name\": \"眼科小超人老梁\", \"scheme\": \"sinaweibo://detail?mblogid=5159225505349970\", \"index\": 3, \"label\": \"大v\"}, {\"name\": \"资本大事纪\", \"scheme\": \"sinaweibo://detail?mblogid=5194495566288311\", \"index\": 8, \"label\": \"\"}, {\"name\": \"上海滩蚂蚁哥\", \"scheme\": \"sinaweibo://detail?mblogid=5097304426811000\", \"index\": 24, \"label\": \"\"}], \"name\": \"眼科小超人老梁\", \"img\": \"https://tva3.sinaimg.cn/crop.61.34.139.139.50/71c26dc5jw8f3vyncqid9j206z05l3yd.jpg?KID=imgbed,tva&Expires=1762085938&ssig=689RPA%2BrM4\", \"scheme\": \"sinaweibo://detail?mblogid=5159225505349970\", \"vType\": 0}}```<br>   <br>2. **胰岛β细胞衰竭**  <br>   胰腺长期超负荷分泌胰岛素（如长期暴饮暴食），最终功能衰退，如同“过劳死”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 5, \"data\": {\"num\": [3, 5, 15], \"version\": 2, \"quote_list\": [{\"name\": \"医疗圈那点事\", \"scheme\": \"sinaweibo://detail?mblogid=5192932242230636\", \"index\": 5, \"label\": \"大v\"}, {\"name\": \"眼科小超人老梁\", \"scheme\": \"sinaweibo://detail?mblogid=5159225505349970\", \"index\": 3, \"label\": \"\"}, {\"name\": \"远处守护你\", \"scheme\": \"sinaweibo://detail?mblogid=5200323477506438\", \"index\": 15, \"label\": \"\"}], \"name\": \"医疗圈那点事\", \"img\": \"https://tva4.sinaimg.cn/crop.0.0.640.640.50/559368bdjw8eh3hz2z2d6j20hs0hswgh.jpg?KID=imgbed,tva&Expires=1762085938&ssig=%2BS3ppaQ%2FIn\", \"scheme\": \"sinaweibo://detail?mblogid=5192932242230636\", \"vType\": 0}}```<br><br>> **通俗比喻**：胰岛素是打开细胞大门的“钥匙”。锁孔生锈（抵抗）或钥匙不足（分泌不足），都会使血糖滞留血液中。```wbCustomBlock{\"type\": \"quoted\", \"index\": 6, \"data\": {\"num\": [9, 41], \"version\": 2, \"quote_list\": [{\"name\": \"铅医蔷薇\", \"scheme\": \"sinaweibo://detail?mblogid=5219514801196047\", \"index\": 9, \"label\": \"大v\"}, {\"name\": \"栀露桑冷\", \"scheme\": \"sinaweibo://detail?mblogid=5228582735450889\", \"index\": 41, \"label\": \"\"}], \"name\": \"铅医蔷薇\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/904e0203ly8hu25bnnthnj20u00u0gow.jpg?KID=imgbed,tva&Expires=1762085938&ssig=lafo%2FvvGyH\", \"scheme\": \"sinaweibo://detail?mblogid=5219514801196047\", \"vType\": 0}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5159225505349970&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tva3.sinaimg.cn/crop.61.34.139.139.50/71c26dc5jw8f3vyncqid9j206z05l3yd.jpg?KID=imgbed,tva&Expires=1762085938&ssig=689RPA%2BrM4) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">眼科小超人老梁</span><img src=\"http://wx1.sinaimg.cn/middle/71c26dc5ly1i0spz659gcg20dc0dc7dp.gif\" data-width=480 data-height=480></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5097304426811000&multi_paragraph=1&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.863.863.50/00763XoIly8hzm633nupij30nz0nzacj.jpg?KID=imgbed,tva&Expires=1762085938&ssig=%2B1shdt3bGt) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">上海滩蚂蚁哥</span><img src=\"http://wx4.sinaimg.cn/middle/00763XoIgy1hvalsrlbyqj30u01hcdhp.jpg\" data-width=1920 data-height=1080></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5194495566288311&multi_paragraph=1&multi_count=2\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.996.996.50/0084LG9uly8gfi9y95dlyj30ro0ron0o.jpg?KID=imgbed,tva&Expires=1762085938&ssig=XDZFudaXdj) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">资本大事纪</span><img src=\"http://wx1.sinaimg.cn/middle/0084LG9uly1i3x8nichk9j30k00lcwfa.jpg\" data-width=768 data-height=720></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5192932242230636&multi_paragraph=1&multi_count=3\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tva4.sinaimg.cn/crop.0.0.640.640.50/559368bdjw8eh3hz2z2d6j20hs0hswgh.jpg?KID=imgbed,tva&Expires=1762085938&ssig=%2BS3ppaQ%2FIn) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">医疗圈那点事</span><img src=\"http://wx3.sinaimg.cn/middle/559368bdly1i3s94m6bq6j21400u00ty.jpg\" data-width=1080 data-height=1440></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5200323477506438&multi_paragraph=1&multi_count=4\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/006lNbTNly8i4r4tj0pzcj30u00u0myt.jpg?KID=imgbed,tva&Expires=1762085938&ssig=N5d2Ly9ESL) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">远处守护你</span><img src=\"http://wx4.sinaimg.cn/middle/006lNbTNly1i4ftyeiyhuj30u00gvgmn.jpg\" data-width=607 data-height=1080></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5219514801196047&multi_paragraph=1&multi_count=5\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/904e0203ly8hu25bnnthnj20u00u0gow.jpg?KID=imgbed,tva&Expires=1762085938&ssig=lafo%2FvvGyH) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">铅医蔷薇</span><img src=\"http://wx1.sinaimg.cn/middle/904e0203ly1i6523nlpqmj21hc0u0414.jpg\" data-width=1080 data-height=1920></div></media-block><br>### ⚠️ **二、糖尿病的真正诱因：多因素协同作用**<br>| **风险类别**       | **关键机制与数据**                                                                 |<br>|---------------------|----------------------------------------------------------------------------------|<br>| **遗传因素**        | 父母一方患糖尿病，子女风险增加40%；双方患病风险达70%，华人遗传易感性是白人的1.6倍。 |<br>| **内脏脂肪堆积**    | 男性腰围≥90cm、女性≥80cm时，胰岛素敏感性显著下降。肌肉量低的“瘦胖子”同样高危。 |<br>| **生活方式**        | - 久坐超6小时/天 → 糖尿病风险增19%（肌肉代谢糖能力下降）    - 熬夜/压力大 → 皮质醇升高，直接对抗胰岛素。 |<br>| **其他诱因**        | 妊娠期糖尿病（产后10年内风险50%）、肠道菌群失衡、自身免疫疾病（1型）。 |<br><br>```wbCustomBlock{\"type\": \"quoted\", \"index\": 8, \"data\": {\"num\": [2, 5, 6, 8, 14, 15, 19, 26, 36, 55], \"version\": 2, \"quote_list\": [{\"name\": \"Amy小北京\", \"scheme\": \"sinaweibo://detail?mblogid=5192387954999945\", \"index\": 2, \"label\": \"大v\"}, {\"name\": \"医疗圈那点事\", \"scheme\": \"sinaweibo://detail?mblogid=5192932242230636\", \"index\": 5, \"label\": \"\"}, {\"name\": \"临床营养窦攀\", \"scheme\": \"sinaweibo://detail?mblogid=5128073333442820\", \"index\": 6, \"label\": \"\"}, {\"name\": \"资本大事纪\", \"scheme\": \"sinaweibo://detail?mblogid=5194495566288311\", \"index\": 8, \"label\": \"\"}, {\"name\": \"杜婉冬\", \"scheme\": \"sinaweibo://detail?mblogid=5193318063407937\", \"index\": 14, \"label\": \"\"}, {\"name\": \"远处守护你\", \"scheme\": \"sinaweibo://detail?mblogid=5200323477506438\", \"index\": 15, \"label\": \"\"}, {\"name\": \"大强聊娱乐\", \"scheme\": \"sinaweibo://detail?mblogid=5204546317975965\", \"index\": 19, \"label\": \"\"}, {\"name\": \"总要给我干饭吧_\", \"scheme\": \"sinaweibo://detail?mblogid=4975881099674235\", \"index\": 26, \"label\": \"\"}, {\"name\": \"胖罐子pang\", \"scheme\": \"sinaweibo://detail?mblogid=5228583725307597\", \"index\": 36, \"label\": \"\"}, {\"name\": \"Amy小北京\", \"scheme\": \"sinaweibo://detail?mblogid=5193062538022251\", \"index\": 55, \"label\": \"\"}], \"name\": \"Amy小北京\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/67084c5fly8hwcernkvaij20u00u0acv.jpg?KID=imgbed,tva&Expires=1762085938&ssig=%2BolN8vVgx8\", \"scheme\": \"sinaweibo://detail?mblogid=5192387954999945\", \"vType\": 0}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5193318063407937&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=2&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/6c673c2dly8g31b7zuqwrj20u00u0dif.jpg?KID=imgbed,tva&Expires=1762085938&ssig=NxOQaBk%2FtL) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">杜婉冬</span><img src=\"http://wx1.sinaimg.cn/middle/6c673c2dly1i3tgredtmoj20u01fegs5.jpg\" data-width=1850 data-height=1080></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5128073333442820&multi_paragraph=2&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/574144bbly8h8yqqvcqs3j20u00u0q4e.jpg?KID=imgbed,tva&Expires=1762085938&ssig=9Axqk01NLH) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">临床营养窦攀</span><img src=\"http://wx4.sinaimg.cn/middle/574144bbly1hy1c1zn1zmj20u01hcwha.jpg\" data-width=1920 data-height=1080></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5204546317975965&multi_paragraph=2&multi_count=2\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.640.640.50/008hgQwJly8hch77c7jxwj30hs0hs0u2.jpg?KID=imgbed,tva&Expires=1762085938&ssig=ihkmmfGbZK) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">大强聊娱乐</span><img src=\"http://wx2.sinaimg.cn/middle/008hgQwJly1i4tazxq6qjj30qo0k03zg.jpg\" data-width=720 data-height=960></div></media-block><br>### ❌ **三、常见误区澄清**<br>1. **误区**：“不吃甜食就不会得糖尿病”  <br>   **真相**：精制碳水（白米饭、面条）升糖指数高于蔗糖，过量摄入同样引发代谢紊乱。案例如“不喝奶茶却因主食过量确诊糖尿病”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 11, \"data\": {\"num\": [8, 24, 25], \"version\": 2, \"quote_list\": [{\"name\": \"今日张店\", \"scheme\": \"sinaweibo://detail?mblogid=5100702867393504\", \"index\": 25, \"label\": \"大v\"}, {\"name\": \"资本大事纪\", \"scheme\": \"sinaweibo://detail?mblogid=5194495566288311\", \"index\": 8, \"label\": \"\"}, {\"name\": \"上海滩蚂蚁哥\", \"scheme\": \"sinaweibo://detail?mblogid=5097304426811000\", \"index\": 24, \"label\": \"\"}], \"name\": \"今日张店\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/dcc1a87cly8hj1igtvkfaj20u00u0n1w.jpg?KID=imgbed,tva&Expires=1762085938&ssig=Nr%2BbJWNiYF\", \"scheme\": \"sinaweibo://detail?mblogid=5100702867393504\", \"vType\": 1}}```<br>   <br>2. **误区**：“糖尿病是老年病”  <br>   **真相**：我国20-40岁糖尿病患者占比超20%。年轻化主因是外卖高油碳、含糖饮料、熬夜等。```wbCustomBlock{\"type\": \"quoted\", \"index\": 12, \"data\": {\"num\": [26, 42, 48], \"version\": 2, \"quote_list\": [{\"name\": \"总要给我干饭吧_\", \"scheme\": \"sinaweibo://detail?mblogid=4975881099674235\", \"index\": 26, \"label\": \"\"}, {\"name\": \"pass张惠惠\", \"scheme\": \"sinaweibo://detail?mblogid=5228581269801278\", \"index\": 42, \"label\": \"\"}, {\"name\": \"肖十七郎X\", \"scheme\": \"sinaweibo://detail?mblogid=5228577220201577\", \"index\": 48, \"label\": \"\"}]}}```<br>   <br>3. **误区**：“无糖饮料绝对安全”  <br>   **真相**：代糖虽不直接升血糖，但可能扰乱食欲调节机制，长期饮用仍关联糖尿病风险上升。```wbCustomBlock{\"type\": \"quoted\", \"index\": 13, \"data\": {\"num\": [8, 49], \"version\": 2, \"quote_list\": [{\"name\": \"资本大事纪\", \"scheme\": \"sinaweibo://detail?mblogid=5194495566288311\", \"index\": 8, \"label\": \"\"}, {\"name\": \"北京市大兴区疾病预防控制中心\", \"scheme\": \"sinaweibo://detail?mblogid=5204292945316004\", \"index\": 49, \"label\": \"\"}]}}```<br>### 🛡️ **四、科学预防：聚焦胰岛素敏感性提升**<br>#### **饮食策略**<br>- **顺序疗法**：先吃蔬菜→蛋白质→最后主食，餐后血糖升幅降低50%。```wbCustomBlock{\"type\": \"quoted\", \"index\": 17, \"data\": {\"num\": [9, 22, 46], \"version\": 2, \"quote_list\": [{\"name\": \"是笑疯了\", \"scheme\": \"sinaweibo://detail?mblogid=5194421721369496\", \"index\": 22, \"label\": \"大v\"}, {\"name\": \"铅医蔷薇\", \"scheme\": \"sinaweibo://detail?mblogid=5219514801196047\", \"index\": 9, \"label\": \"\"}, {\"name\": \"吴吴一家人\", \"scheme\": \"sinaweibo://detail?mblogid=5228579390755461\", \"index\": 46, \"label\": \"\"}], \"name\": \"是笑疯了\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/007ZvXGLly8i5r00bc5d6j30u00u042p.jpg?KID=imgbed,tva&Expires=1762085938&ssig=OyI511P%2FgF\", \"scheme\": \"sinaweibo://detail?mblogid=5194421721369496\", \"vType\": 0}}```  <br>- **碳水优化**：用燕麦、糙米替代白米饭，每日添加糖≤25g（约6茶匙）。```wbCustomBlock{\"type\": \"quoted\", \"index\": 18, \"data\": {\"num\": [11, 31, 49], \"version\": 2, \"quote_list\": [{\"name\": \"曹展注册营养师\", \"scheme\": \"sinaweibo://detail?mblogid=5208211591268772\", \"index\": 31, \"label\": \"大v\"}, {\"name\": \"临床营养师周勤\", \"scheme\": \"sinaweibo://detail?mblogid=5001986196639596\", \"index\": 11, \"label\": \"\"}, {\"name\": \"北京市大兴区疾病预防控制中心\", \"scheme\": \"sinaweibo://detail?mblogid=5204292945316004\", \"index\": 49, \"label\": \"\"}], \"name\": \"曹展注册营养师\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/007wK2ZFly8hduky6ohzmj30u00u0ab9.jpg?KID=imgbed,tva&Expires=1762085938&ssig=m23SemoZrv\", \"scheme\": \"sinaweibo://detail?mblogid=5208211591268772\", \"vType\": 0}}```  <br>- **避免极端戒碳**：断碳（＜130g/天）反致代谢率暴跌20%-30%，引发激素紊乱。```wbCustomBlock{\"type\": \"quoted\", \"index\": 19, \"data\": {\"num\": [14], \"version\": 2, \"quote_list\": [{\"name\": \"杜婉冬\", \"scheme\": \"sinaweibo://detail?mblogid=5193318063407937\", \"index\": 14, \"label\": \"大v\"}], \"name\": \"杜婉冬\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/6c673c2dly8g31b7zuqwrj20u00u0dif.jpg?KID=imgbed,tva&Expires=1762085938&ssig=NxOQaBk%2FtL\", \"scheme\": \"sinaweibo://detail?mblogid=5193318063407937\", \"vType\": 0}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5194421721369496&multi_paragraph=5&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/007ZvXGLly8i5r00bc5d6j30u00u042p.jpg?KID=imgbed,tva&Expires=1762085938&ssig=OyI511P%2FgF) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">是笑疯了</span><img src=\"http://wx2.sinaimg.cn/middle/007ZvXGLly1i3x064w2y4j30k00zk75n.jpg\" data-width=1280 data-height=720></div></media-block><br>#### **运动增肌**<br>- 肌肉是消耗葡萄糖的主力军。每周150分钟有氧（快走/游泳） + 2次力量训练（深蹲/举铁），胰岛素敏感性可提升40%。```wbCustomBlock{\"type\": \"quoted\", \"index\": 21, \"data\": {\"num\": [1, 37, 50], \"version\": 2, \"quote_list\": [{\"name\": \"梧州消防\", \"scheme\": \"sinaweibo://detail?mblogid=5228583268124586\", \"index\": 37, \"label\": \"大v\"}, {\"name\": \"知名青年小新\", \"scheme\": \"sinaweibo://detail?mblogid=5228465642799135\", \"index\": 1, \"label\": \"\"}, {\"name\": \"平洲翡翠小琪\", \"scheme\": \"sinaweibo://detail?mblogid=5201051934265288\", \"index\": 50, \"label\": \"\"}], \"name\": \"梧州消防\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.179.179.50/dc646100ly8h8wf2b10mxj204z04z0so.jpg?KID=imgbed,tva&Expires=1762085938&ssig=2uO1mfngRC\", \"scheme\": \"sinaweibo://detail?mblogid=5228583268124586\", \"vType\": 1}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5228465642799135&multi_paragraph=6&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.1059.1059.50/007Dwi7Lly8hhet3tcd4nj30tf0tfwgm.jpg?KID=imgbed,tva&Expires=1762085938&ssig=heTO%2FyC2A5) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">知名青年小新</span><img src=\"http://wx3.sinaimg.cn/middle/007Dwi7Lly1i6xm2tpnu4j30k00zk3zv.jpg\" data-width=1280 data-height=720></div></media-block><br>#### **高危人群筛查**<br>  符合任一项需每年检测血糖：  <br>  - 直系亲属患糖尿病  <br>  - BMI≥24 或腰围超标（男≥90cm/女≥80cm）  <br>  - 妊娠期糖尿病史。```wbCustomBlock{\"type\": \"quoted\", \"index\": 25, \"data\": {\"num\": [8, 51], \"version\": 2, \"quote_list\": [{\"name\": \"MK-久遇\", \"scheme\": \"sinaweibo://detail?mblogid=5202170065981816\", \"index\": 51, \"label\": \"大v\"}, {\"name\": \"资本大事纪\", \"scheme\": \"sinaweibo://detail?mblogid=5194495566288311\", \"index\": 8, \"label\": \"\"}], \"name\": \"MK-久遇\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.513.513.50/007VD4GQly8hn9e0gdk30j30e90e9aai.jpg?KID=imgbed,tva&Expires=1762085938&ssig=9ZaB5M3qQr\", \"scheme\": \"sinaweibo://detail?mblogid=5202170065981816\", \"vType\": 0}}```<br><br>> 💎 **关键结论**：早期干预可使43%糖尿病前期患者逆转至正常血糖。预防核心在于：```wbCustomBlock{\"type\": \"quoted\", \"index\": 26, \"data\": {\"num\": [39], \"version\": 2, \"quote_list\": [{\"name\": \"豆味極猪_Koiuu\", \"scheme\": \"sinaweibo://detail?mblogid=5228583098255921\", \"index\": 39, \"label\": \"\"}]}}```  <br>> ✅ **控制腰围**（男＜90cm，女＜80cm）减少内脏脂肪；  <br>> ✅ **增肌运动**提升胰岛素敏感性；  <br>> ✅ **定期监测**空腹血糖与糖化血红蛋白（HbA1c＜5.7%为安全值）。<br>### ⚠️ **风险提示**<br>本文内容仅作健康科普，**不可替代专业诊疗**。若出现多饮、多尿、体重骤降或皮肤顽固瘙痒等症状，请及时就医。患者血糖稳定时，可遵医嘱少量食用低GI水果（苹果、柚子）或代糖食品，避免空腹摄入并搭配蛋白质（如坚果）延缓吸收。```wbCustomBlock{\"type\": \"quoted\", \"index\": 31, \"data\": {\"num\": [8, 12, 45, 60], \"version\": 2, \"quote_list\": [{\"name\": \"央视网\", \"scheme\": \"sinaweibo://detail?mblogid=5005922533638806\", \"index\": 12, \"label\": \"\"}, {\"name\": \"资本大事纪\", \"scheme\": \"sinaweibo://detail?mblogid=5194495566288311\", \"index\": 8, \"label\": \"\"}, {\"name\": \"Ayan_宝宝\", \"scheme\": \"sinaweibo://detail?mblogid=5228579728394443\", \"index\": 45, \"label\": \"\"}, {\"name\": \"急诊科的大徐\", \"scheme\": \"sinaweibo://detail?mblogid=5207246104954244\", \"index\": 60, \"label\": \"\"}], \"name\": \"央视网\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.180.180.50/003z5L7fly8h8ursf868gj6050050mwz02.jpg?KID=imgbed,tva&Expires=1762085938&ssig=a2veB9giEn\", \"scheme\": \"sinaweibo://detail?mblogid=5005922533638806\", \"vType\": 3}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5207246104954244&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=8&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.357.357.50/0076Nl6Uly8hxi22bl90yj309x09x0sr.jpg?KID=imgbed,tva&Expires=1762085938&ssig=7VbJnG9ts7) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">急诊科的大徐</span><img src=\"http://wx1.sinaimg.cn/middle/0076Nl6Uly1i4xwkn1mmgj30j60eeahj.jpg\" data-width=518 data-height=690></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5005922533638806&multi_paragraph=8&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.180.180.50/003z5L7fly8h8ursf868gj6050050mwz02.jpg?KID=imgbed,tva&Expires=1762085938&ssig=a2veB9giEn) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">央视网</span><img src=\"http://wx4.sinaimg.cn/middle/003z5L7fly1hn394jbvncj60lt0c945p02.jpg\" data-width=441 data-height=785></div></media-block><br>",
+      "zs_risk_control": {
+        "think_text_close": 0,
+        "land_button_close": 0
+      },
+      "link_list": [
+        "sinaweibo://detail?mblogid=5228465642799135",
+        "sinaweibo://detail?mblogid=5192387954999945",
+        "sinaweibo://detail?mblogid=5159225505349970",
+        "sinaweibo://detail?mblogid=4980670936122169",
+        "sinaweibo://detail?mblogid=5192932242230636",
+        "sinaweibo://detail?mblogid=5128073333442820",
+        "sinaweibo://detail?mblogid=5214008665443646",
+        "sinaweibo://detail?mblogid=5194495566288311",
+        "sinaweibo://detail?mblogid=5219514801196047",
+        "sinaweibo://detail?mblogid=5194363643888485",
+        "sinaweibo://detail?mblogid=5001986196639596",
+        "sinaweibo://detail?mblogid=5005922533638806",
+        "sinaweibo://detail?mblogid=5212196222533921",
+        "sinaweibo://detail?mblogid=5193318063407937",
+        "sinaweibo://detail?mblogid=5200323477506438",
+        "sinaweibo://detail?mblogid=5199638036485716",
+        "sinaweibo://detail?mblogid=5001982748395010",
+        "sinaweibo://detail?mblogid=5001969705943701",
+        "sinaweibo://detail?mblogid=5204546317975965",
+        "sinaweibo://detail?mblogid=5002010959285796",
+        "sinaweibo://detail?mblogid=4836132166305072",
+        "sinaweibo://detail?mblogid=5194421721369496",
+        "sinaweibo://detail?mblogid=4703328674251571",
+        "sinaweibo://detail?mblogid=5097304426811000",
+        "sinaweibo://detail?mblogid=5100702867393504",
+        "sinaweibo://detail?mblogid=4975881099674235",
+        "broadsocial_res://",
+        "ctr://",
+        "historyweibo://5192387954999945",
+        "historyweibo://5100900672079948",
+        "sinaweibo://detail?mblogid=5208211591268772",
+        "sinaweibo://detail?mblogid=5208210509662517",
+        "sinaweibo://detail?mblogid=5228559173946332",
+        "sinaweibo://detail?mblogid=5228584314865899",
+        "sinaweibo://detail?mblogid=5228583853231863",
+        "sinaweibo://detail?mblogid=5228583725307597",
+        "sinaweibo://detail?mblogid=5228583268124586",
+        "sinaweibo://detail?mblogid=5228583203375960",
+        "sinaweibo://detail?mblogid=5228583098255921",
+        "sinaweibo://detail?mblogid=5228582826937457",
+        "sinaweibo://detail?mblogid=5228582735450889",
+        "sinaweibo://detail?mblogid=5228581269801278",
+        "sinaweibo://detail?mblogid=5228580965188081",
+        "sinaweibo://detail?mblogid=5228580046375976",
+        "sinaweibo://detail?mblogid=5228579728394443",
+        "sinaweibo://detail?mblogid=5228579390755461",
+        "sinaweibo://detail?mblogid=5228578916535821",
+        "sinaweibo://detail?mblogid=5228577220201577",
+        "sinaweibo://detail?mblogid=5204292945316004",
+        "sinaweibo://detail?mblogid=5201051934265288",
+        "sinaweibo://detail?mblogid=5202170065981816",
+        "sinaweibo://detail?mblogid=5191612641577701",
+        "sinaweibo://detail?mblogid=5171046383622930",
+        "sinaweibo://detail?mblogid=5170856956527744",
+        "sinaweibo://detail?mblogid=5193062538022251",
+        "sinaweibo://detail?mblogid=5101366177694186",
+        "sinaweibo://detail?mblogid=4967921812243212",
+        "sinaweibo://detail?mblogid=5100914106700029",
+        "sinaweibo://detail?mblogid=5001968239510172",
+        "sinaweibo://detail?mblogid=5207246104954244",
+        "sinaweibo://detail?mblogid=5150647809475053"
+      ],
+      "q_attr": {
+        "from_uid": "",
+        "reply_cid": "",
+        "comment_from_type": "",
+        "from_request_id": "",
+        "mid": ""
+      },
+      "show_ctrl": {
+        "quote": {}
+      },
+      "analysis_time": 1762075307,
+      "msg_format": "markdown",
+      "page_id": "23296417a08664c3c9a299a448750459ce9f11",
+      "comment_info": {},
+      "ext_show": {},
+      "sorted_material_list": null,
+      "user_info": {},
+      "current_time": 1762075705,
+      "share_info": {
+        "page_id": "23296417a08664c3c9a299a448750459ce9f11",
+        "tips": "#糖尿病不是吃糖吃出来的#的相关内容，来智搜看看",
+        "display_name": "#糖尿病不是吃糖吃出来的#",
+        "status": 3,
+        "url": "http://t.cn/A6FhHJDf",
+        "unify_md5": "8717ffe3b6c7fb466b6489adfb92605f",
+        "comment_content": ""
+      }
+    }
+  },
+  "links": [
+    "sinaweibo://detail?mblogid=5228465642799135",
+    "sinaweibo://detail?mblogid=5192387954999945",
+    "sinaweibo://detail?mblogid=5159225505349970",
+    "sinaweibo://detail?mblogid=4980670936122169",
+    "sinaweibo://detail?mblogid=5192932242230636",
+    "sinaweibo://detail?mblogid=5128073333442820",
+    "sinaweibo://detail?mblogid=5214008665443646",
+    "sinaweibo://detail?mblogid=5194495566288311",
+    "sinaweibo://detail?mblogid=5219514801196047",
+    "sinaweibo://detail?mblogid=5194363643888485",
+    "sinaweibo://detail?mblogid=5001986196639596",
+    "sinaweibo://detail?mblogid=5005922533638806",
+    "sinaweibo://detail?mblogid=5212196222533921",
+    "sinaweibo://detail?mblogid=5193318063407937",
+    "sinaweibo://detail?mblogid=5200323477506438",
+    "sinaweibo://detail?mblogid=5199638036485716",
+    "sinaweibo://detail?mblogid=5001982748395010",
+    "sinaweibo://detail?mblogid=5001969705943701",
+    "sinaweibo://detail?mblogid=5204546317975965",
+    "sinaweibo://detail?mblogid=5002010959285796",
+    "sinaweibo://detail?mblogid=4836132166305072",
+    "sinaweibo://detail?mblogid=5194421721369496",
+    "sinaweibo://detail?mblogid=4703328674251571",
+    "sinaweibo://detail?mblogid=5097304426811000",
+    "sinaweibo://detail?mblogid=5100702867393504",
+    "sinaweibo://detail?mblogid=4975881099674235",
+    "broadsocial_res://",
+    "ctr://",
+    "historyweibo://5192387954999945",
+    "historyweibo://5100900672079948",
+    "sinaweibo://detail?mblogid=5208211591268772",
+    "sinaweibo://detail?mblogid=5208210509662517",
+    "sinaweibo://detail?mblogid=5228559173946332",
+    "sinaweibo://detail?mblogid=5228584314865899",
+    "sinaweibo://detail?mblogid=5228583853231863",
+    "sinaweibo://detail?mblogid=5228583725307597",
+    "sinaweibo://detail?mblogid=5228583268124586",
+    "sinaweibo://detail?mblogid=5228583203375960",
+    "sinaweibo://detail?mblogid=5228583098255921",
+    "sinaweibo://detail?mblogid=5228582826937457",
+    "sinaweibo://detail?mblogid=5228582735450889",
+    "sinaweibo://detail?mblogid=5228581269801278",
+    "sinaweibo://detail?mblogid=5228580965188081",
+    "sinaweibo://detail?mblogid=5228580046375976",
+    "sinaweibo://detail?mblogid=5228579728394443",
+    "sinaweibo://detail?mblogid=5228579390755461",
+    "sinaweibo://detail?mblogid=5228578916535821",
+    "sinaweibo://detail?mblogid=5228577220201577",
+    "sinaweibo://detail?mblogid=5204292945316004",
+    "sinaweibo://detail?mblogid=5201051934265288",
+    "sinaweibo://detail?mblogid=5202170065981816",
+    "sinaweibo://detail?mblogid=5191612641577701",
+    "sinaweibo://detail?mblogid=5171046383622930",
+    "sinaweibo://detail?mblogid=5170856956527744",
+    "sinaweibo://detail?mblogid=5193062538022251",
+    "sinaweibo://detail?mblogid=5101366177694186",
+    "sinaweibo://detail?mblogid=4967921812243212",
+    "sinaweibo://detail?mblogid=5100914106700029",
+    "sinaweibo://detail?mblogid=5001968239510172",
+    "sinaweibo://detail?mblogid=5207246104954244",
+    "sinaweibo://detail?mblogid=5150647809475053"
+  ],
+  "media": [
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/71c26dc5ly1i0spz659gcg20dc0dc7dp.gif",
+      "secure_url": "https://wx1.sinaimg.cn/middle/71c26dc5ly1i0spz659gcg20dc0dc7dp.gif",
+      "alt": "眼科小超人老梁",
+      "width": 480,
+      "height": 480,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/71c26dc5ly1i0spz659gcg20dc0dc7dp.jpg"
+      ],
+      "user": "眼科小超人老梁"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/00763XoIgy1hvalsrlbyqj30u01hcdhp.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/00763XoIgy1hvalsrlbyqj30u01hcdhp.jpg",
+      "alt": "上海滩蚂蚁哥",
+      "width": 1920,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/00763XoIgy1hvalsrlbyqj30u01hcdhp.jpg"
+      ],
+      "user": "上海滩蚂蚁哥"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/0084LG9uly1i3x8nichk9j30k00lcwfa.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/0084LG9uly1i3x8nichk9j30k00lcwfa.jpg",
+      "alt": "资本大事纪",
+      "width": 768,
+      "height": 720,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/0084LG9uly1i3x8nichk9j30k00lcwfa.jpg"
+      ],
+      "user": "资本大事纪"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/559368bdly1i3s94m6bq6j21400u00ty.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/559368bdly1i3s94m6bq6j21400u00ty.jpg",
+      "alt": "医疗圈那点事",
+      "width": 1080,
+      "height": 1440,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx4.sinaimg.cn/large/559368bdly1i3s94m6bq6j21400u00ty.jpg"
+      ],
+      "user": "医疗圈那点事"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/006lNbTNly1i4ftyeiyhuj30u00gvgmn.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/006lNbTNly1i4ftyeiyhuj30u00gvgmn.jpg",
+      "alt": "远处守护你",
+      "width": 607,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/006lNbTNly1i4ftyeiyhuj30u00gvgmn.jpg"
+      ],
+      "user": "远处守护你"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/904e0203ly1i6523nlpqmj21hc0u0414.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/904e0203ly1i6523nlpqmj21hc0u0414.jpg",
+      "alt": "铅医蔷薇",
+      "width": 1080,
+      "height": 1920,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/904e0203ly1i6523nlpqmj21hc0u0414.jpg"
+      ],
+      "user": "铅医蔷薇"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/6c673c2dly1i3tgredtmoj20u01fegs5.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/6c673c2dly1i3tgredtmoj20u01fegs5.jpg",
+      "alt": "杜婉冬",
+      "width": 1850,
+      "height": 1080,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/6c673c2dly1i3tgredtmoj20u01fegs5.jpg"
+      ],
+      "user": "杜婉冬"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/574144bbly1hy1c1zn1zmj20u01hcwha.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/574144bbly1hy1c1zn1zmj20u01hcwha.jpg",
+      "alt": "临床营养窦攀",
+      "width": 1920,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/574144bbly1hy1c1zn1zmj20u01hcwha.jpg"
+      ],
+      "user": "临床营养窦攀"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/008hgQwJly1i4tazxq6qjj30qo0k03zg.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/008hgQwJly1i4tazxq6qjj30qo0k03zg.jpg",
+      "alt": "大强聊娱乐",
+      "width": 720,
+      "height": 960,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/008hgQwJly1i4tazxq6qjj30qo0k03zg.jpg"
+      ],
+      "user": "大强聊娱乐"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/007ZvXGLly1i3x064w2y4j30k00zk75n.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/007ZvXGLly1i3x064w2y4j30k00zk75n.jpg",
+      "alt": "是笑疯了",
+      "width": 1280,
+      "height": 720,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/007ZvXGLly1i3x064w2y4j30k00zk75n.jpg"
+      ],
+      "user": "是笑疯了"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/007Dwi7Lly1i6xm2tpnu4j30k00zk3zv.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/007Dwi7Lly1i6xm2tpnu4j30k00zk3zv.jpg",
+      "alt": "知名青年小新",
+      "width": 1280,
+      "height": 720,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/007Dwi7Lly1i6xm2tpnu4j30k00zk3zv.jpg"
+      ],
+      "user": "知名青年小新"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/0076Nl6Uly1i4xwkn1mmgj30j60eeahj.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/0076Nl6Uly1i4xwkn1mmgj30j60eeahj.jpg",
+      "alt": "急诊科的大徐",
+      "width": 518,
+      "height": 690,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/0076Nl6Uly1i4xwkn1mmgj30j60eeahj.jpg"
+      ],
+      "user": "急诊科的大徐"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/003z5L7fly1hn394jbvncj60lt0c945p02.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/003z5L7fly1hn394jbvncj60lt0c945p02.jpg",
+      "alt": "央视网",
+      "width": 441,
+      "height": 785,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/003z5L7fly1hn394jbvncj60lt0c945p02.jpg"
+      ],
+      "user": "央视网"
+    }
+  ],
+  "html_path": "data/aicard/hourly/2025-11-02/17/topic-8717ffe3.html"
+}

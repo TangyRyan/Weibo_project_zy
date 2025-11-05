@@ -1,0 +1,305 @@
+{
+  "meta": {
+    "query": "#重阳久久安康#",
+    "status_code": 200,
+    "fetched_at": "2025-10-29T01:31:04+08:00",
+    "response": {
+      "share_card_multimodal": {
+        "hit_score_new": 0,
+        "h": 2120,
+        "hit_score_final": 0,
+        "type": "p",
+        "cur_mid": "5226873438077132",
+        "w": 1080,
+        "user_name": "央视新闻",
+        "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.690.690.50/002TLsr9ly8i653ifvwbtj60j60j6aai02.jpg?KID=imgbed,tva&Expires=1761683283&ssig=xkVBIVsEFb",
+        "img": "http://wx4.sinaimg.cn/middle/002TLsr9ly1i6sieilj2mj60u01mwb2c02.jpg",
+        "video_url": "",
+        "vtype": 3,
+        "click_rate": 0.06,
+        "scheme": "sinaweibo://multimedia?mix_mid=5226873438077132&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=0",
+        "doc_score": 0,
+        "img_pid": "002TLsr9ly1i6sieilj2mj60u01mwb2c02"
+      },
+      "basemodel": "实验组3",
+      "uid": "",
+      "page_id": "2329649aa56d387686600deccf557170c96b2c",
+      "sorted_material_list": "[{\"mid\": \"5226873438077132\", \"rank\": 1, \"type\": \"weibo\"}, {\"mid\": \"5226601648488642\", \"rank\": 6, \"type\": \"weibo\"}, {\"mid\": \"5226805491401812\", \"rank\": 8, \"type\": \"weibo\"}, {\"mid\": \"5226881842678164\", \"rank\": 12, \"type\": \"weibo\"}, {\"mid\": \"5226875494599630\", \"rank\": 16, \"type\": \"weibo\"}, {\"mid\": \"5226670769572664\", \"rank\": 7, \"type\": \"weibo\"}, {\"mid\": \"5226858300052048\", \"rank\": 19, \"type\": \"weibo\"}, {\"mid\": \"5201657325421513\", \"rank\": 38, \"type\": \"weibo\"}, {\"mid\": \"5226863423391206\", \"rank\": 18, \"type\": \"weibo\"}, {\"mid\": \"5226353404415719\", \"rank\": 9, \"type\": \"weibo\"}, {\"mid\": \"5226757124784470\", \"rank\": 28, \"type\": \"weibo\"}, {\"mid\": \"5226832062055949\", \"rank\": 23, \"type\": \"weibo\"}, {\"mid\": \"5226786213335751\", \"rank\": 27, \"type\": \"weibo\"}, {\"mid\": \"5226724088350918\", \"rank\": 3, \"type\": \"weibo\"}, {\"mid\": \"5225694264557633\", \"rank\": 4, \"type\": \"weibo\"}, {\"mid\": \"5226850832093299\", \"rank\": 21, \"type\": \"weibo\"}, {\"mid\": \"5225760584634430\", \"rank\": 42, \"type\": \"weibo\"}, {\"mid\": \"5226830953189955\", \"rank\": 46, \"type\": \"weibo\"}, {\"mid\": \"5226761249887536\", \"rank\": 25, \"type\": \"weibo\"}, {\"mid\": \"5226425011667574\", \"rank\": 2, \"type\": \"weibo\"}, {\"mid\": \"5226873434408335\", \"rank\": 10, \"type\": \"weibo\"}, {\"mid\": \"5226873472159414\", \"rank\": 11, \"type\": \"weibo\"}, {\"mid\": \"5226880811925569\", \"rank\": 13, \"type\": \"weibo\"}, {\"mid\": \"5226877225796117\", \"rank\": 14, \"type\": \"weibo\"}, {\"mid\": \"5226876333199346\", \"rank\": 15, \"type\": \"weibo\"}, {\"mid\": \"5226874758500112\", \"rank\": 17, \"type\": \"weibo\"}, {\"mid\": \"5226855042651028\", \"rank\": 20, \"type\": \"weibo\"}, {\"mid\": \"5226845792375944\", \"rank\": 22, \"type\": \"weibo\"}, {\"mid\": \"5226815815945425\", \"rank\": 24, \"type\": \"weibo\"}, {\"mid\": \"5226639232598960\", \"rank\": 26, \"type\": \"weibo\"}, {\"mid\": \"5226774887662180\", \"rank\": 29, \"type\": \"weibo\"}, {\"mid\": \"5226773581136178\", \"rank\": 30, \"type\": \"weibo\"}, {\"mid\": \"5226765645777355\", \"rank\": 31, \"type\": \"weibo\"}, {\"mid\": \"5226692815097511\", \"rank\": 32, \"type\": \"weibo\"}, {\"mid\": \"5226615208673663\", \"rank\": 33, \"type\": \"weibo\"}, {\"mid\": \"5226842165346468\", \"rank\": 34, \"type\": \"weibo\"}, {\"mid\": \"5226819160376871\", \"rank\": 35, \"type\": \"weibo\"}, {\"mid\": \"5226824759251369\", \"rank\": 36, \"type\": \"weibo\"}, {\"mid\": \"5226738892148023\", \"rank\": 37, \"type\": \"weibo\"}, {\"mid\": \"5226369228474230\", \"rank\": 39, \"type\": \"weibo\"}, {\"mid\": \"5097781566640473\", \"rank\": 40, \"type\": \"weibo\"}, {\"mid\": \"5226463554181022\", \"rank\": 41, \"type\": \"weibo\"}, {\"mid\": \"5226873438343066\", \"rank\": 43, \"type\": \"weibo\"}, {\"mid\": \"5221211014693138\", \"rank\": 44, \"type\": \"weibo\"}, {\"mid\": \"5088314723407365\", \"rank\": 45, \"type\": \"weibo\"}, {\"mid\": \"5226804320928660\", \"rank\": 47, \"type\": \"weibo\"}, {\"mid\": \"5226607314993343\", \"rank\": 48, \"type\": \"weibo\"}]",
+      "msg_format": "markdown",
+      "qs_status": 0,
+      "query": "#重阳久久安康#",
+      "query_field": "41",
+      "chat_status_stage": 1,
+      "user_info": {},
+      "reliable_tips": "{\"gold_orange_v_mids\": [\"5226761249887536\", \"5226724088350918\", \"5226890495527713\", \"5226353404415719\", \"5225694264557633\", \"5226873434408335\", \"5226873472159414\", \"5226873438866934\", \"5226894556924054\", \"5226386340974391\", \"5226886938758265\", \"5226774887662180\", \"5226830953189955\"], \"gold_orange_v_ratio\": \"50%\", \"media_mids\": [\"5226873438077132\", \"5226805491401812\", \"5226601648488642\", \"5226425011667574\"], \"media_ratio\": \"15%\", \"verified_mids\": [\"5226261426733871\", \"5226765645777355\"], \"verified_ratio\": \"8%\", \"normal_mids\": [\"5226895203370149\", \"5226670769572664\", \"5226894490599824\", \"5226891657348737\", \"5226889331347089\", \"5226887733052401\", \"5225956404887629\"], \"normal_ratio\": \"27%\", \"ref_mid_rank\": {\"5226873438077132\": {\"rank\": 1}, \"5226805491401812\": {\"rank\": 9}, \"5226601648488642\": {\"rank\": 10}, \"5226895203370149\": {\"rank\": 16}, \"5226670769572664\": {\"rank\": 11}, \"5226761249887536\": {\"rank\": 12}, \"5226724088350918\": {\"rank\": 3}, \"5226261426733871\": {\"rank\": 4}, \"5226890495527713\": {\"rank\": 20}, \"5226425011667574\": {\"rank\": 2}, \"5226353404415719\": {\"rank\": 13}, \"5225694264557633\": {\"rank\": 5}, \"5226873434408335\": {\"rank\": 14}, \"5226873472159414\": {\"rank\": 15}, \"5226873438866934\": {\"rank\": 26}, \"5226894556924054\": {\"rank\": 17}, \"5226386340974391\": {\"rank\": 6}, \"5226894490599824\": {\"rank\": 18}, \"5226891657348737\": {\"rank\": 19}, \"5226889331347089\": {\"rank\": 21}, \"5226887733052401\": {\"rank\": 22}, \"5226886938758265\": {\"rank\": 23}, \"5226774887662180\": {\"rank\": 24}, \"5226830953189955\": {\"rank\": 25}, \"5226765645777355\": {\"rank\": 27}, \"5225956404887629\": {\"rank\": 28}}}",
+      "scheme": "sinaweibo://cardlist?containerid=100103type%3D225%26q%3D%23%E9%87%8D%E9%98%B3%E4%B9%85%E4%B9%85%E5%AE%89%E5%BA%B7%23%26t%3D&extparam=ai_model%3Ddeepseek%26ori_ai_title%3D%E5%8F%82%E8%80%83%E5%8D%9A%E6%96%87%26material_version%3D1761672483",
+      "status": 2,
+      "qs_status_info": "{\"ab_lab\":{},\"qs_q_status\":0,\"qs_u_status\":0,\"qs_r_status\":0,\"qs_status\":0,\"qs_c_status\":8388608}",
+      "show_ctrl": {
+        "quote": {}
+      },
+      "zs_risk_control": {
+        "think_text_close": 0,
+        "land_button_close": 0
+      },
+      "short_url": "http://t.cn/AXAz7gRj",
+      "wenda": {
+        "forward_gen": 0
+      },
+      "unify_md5": "d972b424832f6714e582a876bd496e2a",
+      "loop_times": 200,
+      "share_info": {
+        "unify_md5": "d972b424832f6714e582a876bd496e2a",
+        "url": "http://t.cn/AXAzvNUw",
+        "display_name": "#重阳久久安康#",
+        "status": 3,
+        "tips": "#重阳久久安康#的相关内容，来智搜看看",
+        "page_id": "2329649aa56d387686600deccf557170c96b2c"
+      },
+      "news_analyze": {},
+      "current_time": 1761672664,
+      "profile_image_url": "",
+      "analysis_time": 1761672637,
+      "model": "deepseek",
+      "cot": 1,
+      "share_text": "#重阳久久安康#的相关内容，来智搜看看",
+      "reference_num": 26,
+      "msg_json": "{}",
+      "q_attr": {
+        "from_uid": "",
+        "from_request_id": ""
+      },
+      "ab_suffix": "default",
+      "version": "2025-10-29 01:28:03.012000-8226",
+      "msg": "<think><br><br>嗯，用户查询的是\"重阳久久安康\"相关的搜索结果。这是一个典型的节日祝福相关的查询，用户可能在重阳节当天发送这个祝福语，需要了解它的背景、使用场景、文化含义等信息。<br><br>从搜索结果来看，这个祝福语非常流行，央视新闻、央视频、人民网等主流媒体都在使用。这应该是一个官方推广的重阳节祝福语形式。<br><br>祝福语的核心含义是\"长久安康\"，既呼应了重阳节\"九九\"的日期特征，又体现了节日敬老的核心主题。很多普通用户也在转发这个祝福语，说明它已经被大众广泛接受。<br><br>搜索结果中出现了几个值得注意的延伸信息：<br>一是关于2025年重阳节的特殊性，有资料提到这天恰逢天赦日，不过专业资料指出这种重合并不罕见；<br>二是关于老年健康问题，有账号提到我国老年人慢性病患病率达75.8%，这提醒我们在祝福的同时也要关注长辈的实际健康状况；<br>三是央视举办了重阳晚会，说明这是重要的节日文化活动。<br><br>在回答组织上，考虑这样安排：<br>先解释祝福语的本义和来源，再说明其使用场景，接着补充相关的健康提醒和文化活动信息。准备用分隔线将不同主题区分开，让结构更清晰。会在每个观点后标注引用的搜索结果编号，确保信息来源可追溯。<br><br>特别要注意对健康数据的表述要准确，因为资料显示\"超70%存在健康问题\"的说法不够严谨，需要说明大多数慢性病是可控制的。也要避免过度渲染天赦日的特殊性，毕竟专业资料显示这种重合并不罕见。<br><br>最后考虑加入一些祝福文案的示范和艺术作品的例子，让回答更有温度。整体保持积极温馨的节日氛围，同时提供实用信息。<br><br></think><br>“重阳久久安康”是2025年重阳节（10月29日）广泛传播的祝福语，承载着对长辈健康长寿、幸福绵长的美好祈愿。以下是相关核心信息与延伸内容：<br>### 一、祝福语内涵与使用场景  <br>1. **核心寓意**  <br>   “久久”呼应重阳节“九九”日期（农历九月初九），象征长久；“安康”则聚焦健康与平安，契合重阳敬老的核心主题。该祝福语被央视新闻、人民网等权威媒体推广，成为节日主流问候形式。```wbCustomBlock{\"type\": \"quoted\", \"index\": 3, \"data\": {\"num\": [1, 9, 10, 16], \"version\": 2, \"quote_list\": [{\"name\": \"央视新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5226873438077132\", \"index\": 1, \"label\": \"大v\"}, {\"name\": \"央视频\", \"scheme\": \"sinaweibo://detail?mblogid=5226805491401812\", \"index\": 9, \"label\": \"\"}, {\"name\": \"人民网\", \"scheme\": \"sinaweibo://detail?mblogid=5226601648488642\", \"index\": 10, \"label\": \"\"}, {\"name\": \"飞扬十月f\", \"scheme\": \"sinaweibo://detail?mblogid=5226895203370149\", \"index\": 16, \"label\": \"\"}], \"name\": \"央视新闻\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.690.690.50/002TLsr9ly8i653ifvwbtj60j60j6aai02.jpg?KID=imgbed,tva&Expires=1761683283&ssig=xkVBIVsEFb\", \"scheme\": \"sinaweibo://detail?mblogid=5226873438077132\", \"vType\": 3}}```<br><br>2. **创意表达范例**  <br>   - 诗意化文案：  <br>     “登高‘旺’远，福‘糕’寿高，‘茱’事如意，‘酒’久安康”（央视频创意设计）；  <br>     “陪伴是最长情的告白，趁秋光正好，趁爱的人未老”（用户文案精选）。```wbCustomBlock{\"type\": \"quoted\", \"index\": 5, \"data\": {\"num\": [9, 11], \"version\": 2, \"quote_list\": [{\"name\": \"央视频\", \"scheme\": \"sinaweibo://detail?mblogid=5226805491401812\", \"index\": 9, \"label\": \"大v\"}, {\"name\": \"Mia文案酱\", \"scheme\": \"sinaweibo://detail?mblogid=5226670769572664\", \"index\": 11, \"label\": \"\"}], \"name\": \"央视频\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.180.180.50/007S2YvRly1h8vgi91xayj3050050wec.jpg?KID=imgbed,tva&Expires=1761683283&ssig=jihud%2B6dFy\", \"scheme\": \"sinaweibo://detail?mblogid=5226805491401812\", \"vType\": 3}}```  <br>   - 传统符号：松鹤图象征“福泽绵长”，书画作品成为传递祝福的文化载体。```wbCustomBlock{\"type\": \"quoted\", \"index\": 6, \"data\": {\"num\": [10, 12], \"version\": 2, \"quote_list\": [{\"name\": \"人民网\", \"scheme\": \"sinaweibo://detail?mblogid=5226601648488642\", \"index\": 10, \"label\": \"大v\"}, {\"name\": \"o小怂包\", \"scheme\": \"sinaweibo://detail?mblogid=5226761249887536\", \"index\": 12, \"label\": \"\"}], \"name\": \"人民网\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.690.690.50/002uLDeXly8h8vh2k4apuj60j60j6gm402.jpg?KID=imgbed,tva&Expires=1761683283&ssig=UjRqGqWAle\", \"scheme\": \"sinaweibo://detail?mblogid=5226601648488642\", \"vType\": 3}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5226873438077132&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.690.690.50/002TLsr9ly8i653ifvwbtj60j60j6aai02.jpg?KID=imgbed,tva&Expires=1761683283&ssig=xkVBIVsEFb) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">央视新闻</span><img src=\"http://wx4.sinaimg.cn/middle/002TLsr9ly1i6sieilj2mj60u01mwb2c02.jpg\" data-width=2120 data-height=1080></div></media-block><br>### 二、社会关注与健康提醒  <br>1. **老年健康现状**  <br>   我国60岁以上老年人慢性病患病率约75.8%（如高血压、糖尿病），但80%患者通过规范管理可维持正常生活能力。需关注老人“隐瞒病情”“独居照护难”等问题。```wbCustomBlock{\"type\": \"quoted\", \"index\": 9, \"data\": {\"num\": [3], \"version\": 2, \"quote_list\": [{\"name\": \"小黑诸鸣\", \"scheme\": \"sinaweibo://detail?mblogid=5226724088350918\", \"index\": 3, \"label\": \"大v\"}], \"name\": \"小黑诸鸣\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/8046093fly8hebpquvdkpj20u00u00uw.jpg?KID=imgbed,tva&Expires=1761683283&ssig=R5wnCTRD%2FH\", \"scheme\": \"sinaweibo://detail?mblogid=5226724088350918\", \"vType\": 0}}```<br><br>2. **实用关爱建议**  <br>   - **日常行动**：陪诊就医、建立健康档案、定期监测慢病指标；```wbCustomBlock{\"type\": \"quoted\", \"index\": 11, \"data\": {\"num\": [3], \"version\": 2, \"quote_list\": [{\"name\": \"小黑诸鸣\", \"scheme\": \"sinaweibo://detail?mblogid=5226724088350918\", \"index\": 3, \"label\": \"\"}]}}```  <br>   - **节日关怀**：赠送保暖衣物、便携医疗设备，或简单陪伴登高赏秋。```wbCustomBlock{\"type\": \"quoted\", \"index\": 12, \"data\": {\"num\": [4, 20], \"version\": 2, \"quote_list\": [{\"name\": \"微浪旅行攻略咖\", \"scheme\": \"sinaweibo://detail?mblogid=5226261426733871\", \"index\": 4, \"label\": \"大v\"}, {\"name\": \"星也兴\", \"scheme\": \"sinaweibo://detail?mblogid=5226890495527713\", \"index\": 20, \"label\": \"\"}], \"name\": \"微浪旅行攻略咖\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.986.986.50/da18bfdbly8gef7ufrq9pj20re0re0v3.jpg?KID=imgbed,tva&Expires=1761683283&ssig=l4tMUIm0U9\", \"scheme\": \"sinaweibo://detail?mblogid=5226261426733871\", \"vType\": 0}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5226724088350918&multi_paragraph=2&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/8046093fly8hebpquvdkpj20u00u00uw.jpg?KID=imgbed,tva&Expires=1761683283&ssig=R5wnCTRD%2FH) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">小黑诸鸣</span><img src=\"http://wx4.sinaimg.cn/middle/8046093fly1i6s21oyufej20u01hc410.jpg\" data-width=1920 data-height=1080></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5226261426733871&multi_paragraph=2&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.986.986.50/da18bfdbly8gef7ufrq9pj20re0re0v3.jpg?KID=imgbed,tva&Expires=1761683283&ssig=l4tMUIm0U9) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">微浪旅行攻略咖</span><img src=\"http://wx3.sinaimg.cn/middle/da18bfdbly1i6qkxmbyn3j20k00zumyz.jpg\" data-width=1290 data-height=720></div></media-block><br>### 三、节日文化与特色活动  <br>1. **2025年重阳亮点**  <br>   - **央视重阳晚会**：10月29日播出，以“聆听家的故事，感受爱的温度”为主题，邀请国风艺人刘宇等演绎传统与现代融合的节目。```wbCustomBlock{\"type\": \"quoted\", \"index\": 16, \"data\": {\"num\": [2, 13], \"version\": 2, \"quote_list\": [{\"name\": \"鱼丸雷达突击队\", \"scheme\": \"sinaweibo://detail?mblogid=5226353404415719\", \"index\": 13, \"label\": \"大v\"}, {\"name\": \"央视新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5226425011667574\", \"index\": 2, \"label\": \"\"}], \"name\": \"鱼丸雷达突击队\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/008cZFlhly8hmndqkkq9mj30u00u0af6.jpg?KID=imgbed,tva&Expires=1761683283&ssig=jbBBCGOCRZ\", \"scheme\": \"sinaweibo://detail?mblogid=5226353404415719\", \"vType\": 0}}```  <br>   - **特殊天象解读**：  <br>     本次重阳与“天赦日”重合，部分民俗观点视其为祈福吉日，但专业资料指出此类重合非60年一遇（如2023年亦重合）。```wbCustomBlock{\"type\": \"quoted\", \"index\": 17, \"data\": {\"num\": [4], \"version\": 2, \"quote_list\": [{\"name\": \"微浪旅行攻略咖\", \"scheme\": \"sinaweibo://detail?mblogid=5226261426733871\", \"index\": 4, \"label\": \"\"}]}}```<br><br>2. **经典习俗传承**  <br>   - 登高望远（契合“岁岁登高”吉祥话）；```wbCustomBlock{\"type\": \"quoted\", \"index\": 19, \"data\": {\"num\": [5, 20], \"version\": 2, \"quote_list\": [{\"name\": \"明道易\", \"scheme\": \"sinaweibo://detail?mblogid=5225694264557633\", \"index\": 5, \"label\": \"大v\"}, {\"name\": \"星也兴\", \"scheme\": \"sinaweibo://detail?mblogid=5226890495527713\", \"index\": 20, \"label\": \"\"}], \"name\": \"明道易\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/6427f34fly8hyrbtke4ygj20u00u042r.jpg?KID=imgbed,tva&Expires=1761683283&ssig=L5%2F2%2B%2BxcLr\", \"scheme\": \"sinaweibo://detail?mblogid=5225694264557633\", \"vType\": 0}}```  <br>   - 插茱萸、饮菊花酒（御寒养生传统）。```wbCustomBlock{\"type\": \"quoted\", \"index\": 20, \"data\": {\"num\": [4], \"version\": 2, \"quote_list\": [{\"name\": \"微浪旅行攻略咖\", \"scheme\": \"sinaweibo://detail?mblogid=5226261426733871\", \"index\": 4, \"label\": \"\"}]}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5226353404415719&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=3&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/008cZFlhly8hmndqkkq9mj30u00u0af6.jpg?KID=imgbed,tva&Expires=1761683283&ssig=jbBBCGOCRZ) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">鱼丸雷达突击队</span><img src=\"http://wx2.sinaimg.cn/middle/008cZFlhgy1i6qvgsdp4ij32dc2da4j7.jpg\" data-width=3070 data-height=3072></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5226425011667574&multi_paragraph=3&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.690.690.50/002TLsr9ly8i653ifvwbtj60j60j6aai02.jpg?KID=imgbed,tva&Expires=1761683283&ssig=xkVBIVsEFb) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">央视新闻</span><img src=\"http://wx4.sinaimg.cn/middle/002TLsr9ly1i6r3p5bfuoj61y813ie8102.jpg\" data-width=1422 data-height=2528></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5225694264557633&multi_paragraph=3&multi_count=2\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/6427f34fly8hyrbtke4ygj20u00u042r.jpg?KID=imgbed,tva&Expires=1761683283&ssig=L5%2F2%2B%2BxcLr) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">明道易</span><img src=\"http://wx3.sinaimg.cn/middle/6427f34fgy1i6ort3l02kj20u0141tmw.jpg\" data-width=1441 data-height=1080></div></media-block><br>### 四、网友情感表达  <br>普通用户通过诗词、绘画传递祝福：  <br>- 苏轼《定风波·重阳》“古往今来谁不老”引发对豁达人生的共鸣；```wbCustomBlock{\"type\": \"quoted\", \"index\": 23, \"data\": {\"num\": [20], \"version\": 2, \"quote_list\": [{\"name\": \"星也兴\", \"scheme\": \"sinaweibo://detail?mblogid=5226890495527713\", \"index\": 20, \"label\": \"\"}]}}```  <br>- 动漫角色主题贺图（如斗罗大陆、神印王座）吸引年轻群体关注敬老文化。```wbCustomBlock{\"type\": \"quoted\", \"index\": 24, \"data\": {\"num\": [14, 15, 26], \"version\": 2, \"quote_list\": [{\"name\": \"斗罗大陆唐三主页\", \"scheme\": \"sinaweibo://detail?mblogid=5226873438866934\", \"index\": 26, \"label\": \"大v\"}, {\"name\": \"Iris_圣采儿记忆录\", \"scheme\": \"sinaweibo://detail?mblogid=5226873434408335\", \"index\": 14, \"label\": \"\"}, {\"name\": \"斗罗大陆小舞主页\", \"scheme\": \"sinaweibo://detail?mblogid=5226873472159414\", \"index\": 15, \"label\": \"\"}], \"name\": \"斗罗大陆唐三主页\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/008qF90Ily8i0md0tky8cj30u00u0dir.jpg?KID=imgbed,tva&Expires=1761683283&ssig=gh7cvWyRnX\", \"scheme\": \"sinaweibo://detail?mblogid=5226873438866934\", \"vType\": 0}}```  <br><br>> **重阳寄语**  <br>> 时光易逝，唯爱与陪伴永恒。愿为长辈拂去秋霜，以行动替代牵挂：  <br>> 🌄 **登高时**，牵住那双曾托举你的手；  <br>> 🍵 **闲坐间**，细听那些沉淀岁月的故事；  <br>> 📝 **日常中**，建一份专属健康档案，让关怀落在实处。  <br>> 岁岁重阳，今又重阳，唯愿安康不止于佳节。```wbCustomBlock{\"type\": \"quoted\", \"index\": 30, \"data\": {\"num\": [1, 3, 17], \"version\": 2, \"quote_list\": [{\"name\": \"央视新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5226873438077132\", \"index\": 1, \"label\": \"\"}, {\"name\": \"小黑诸鸣\", \"scheme\": \"sinaweibo://detail?mblogid=5226724088350918\", \"index\": 3, \"label\": \"\"}, {\"name\": \"只为你倾心-DW\", \"scheme\": \"sinaweibo://detail?mblogid=5226894556924054\", \"index\": 17, \"label\": \"\"}]}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5226873438866934&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=4&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/008qF90Ily8i0md0tky8cj30u00u0dir.jpg?KID=imgbed,tva&Expires=1761683283&ssig=gh7cvWyRnX) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">斗罗大陆唐三主页</span><img src=\"http://wx3.sinaimg.cn/middle/008qF90Ily1i6sdfoisl9j30rs0rs7wh.jpg\" data-width=1000 data-height=1000></div></media-block><br>",
+      "mid_list": null,
+      "ext_show": {},
+      "query_category": "",
+      "status_stage": 4,
+      "link_list": [
+        "sinaweibo://detail?mblogid=5226873438077132",
+        "sinaweibo://detail?mblogid=5226425011667574",
+        "sinaweibo://detail?mblogid=5226724088350918",
+        "sinaweibo://detail?mblogid=5226261426733871",
+        "sinaweibo://detail?mblogid=5225694264557633",
+        "sinaweibo://detail?mblogid=5226386340974391",
+        "broadsocial_res://",
+        "historyweibo://4959897740116835",
+        "sinaweibo://detail?mblogid=5226805491401812",
+        "sinaweibo://detail?mblogid=5226601648488642",
+        "sinaweibo://detail?mblogid=5226670769572664",
+        "sinaweibo://detail?mblogid=5226761249887536",
+        "sinaweibo://detail?mblogid=5226353404415719",
+        "sinaweibo://detail?mblogid=5226873434408335",
+        "sinaweibo://detail?mblogid=5226873472159414",
+        "sinaweibo://detail?mblogid=5226895203370149",
+        "sinaweibo://detail?mblogid=5226894556924054",
+        "sinaweibo://detail?mblogid=5226894490599824",
+        "sinaweibo://detail?mblogid=5226891657348737",
+        "sinaweibo://detail?mblogid=5226890495527713",
+        "sinaweibo://detail?mblogid=5226889331347089",
+        "sinaweibo://detail?mblogid=5226887733052401",
+        "sinaweibo://detail?mblogid=5226886938758265",
+        "sinaweibo://detail?mblogid=5226774887662180",
+        "sinaweibo://detail?mblogid=5226830953189955",
+        "sinaweibo://detail?mblogid=5226873438866934",
+        "sinaweibo://detail?mblogid=5226765645777355",
+        "sinaweibo://detail?mblogid=5225956404887629"
+      ],
+      "abtest_info": {
+        "chat_entrance": 1
+      },
+      "top_quote_list": {},
+      "card_multimodal": {
+        "type": "mediablock",
+        "data": [
+          {
+            "hit_score_new": 0,
+            "h": 2120,
+            "hit_score_final": 0,
+            "type": "p",
+            "cur_mid": "5226873438077132",
+            "w": 1080,
+            "user_name": "央视新闻",
+            "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.690.690.50/002TLsr9ly8i653ifvwbtj60j60j6aai02.jpg?KID=imgbed,tva&Expires=1761683283&ssig=xkVBIVsEFb",
+            "img": "http://wx4.sinaimg.cn/middle/002TLsr9ly1i6sieilj2mj60u01mwb2c02.jpg",
+            "video_url": "",
+            "vtype": 3,
+            "click_rate": 0.06,
+            "scheme": "sinaweibo://multimedia?mix_mid=5226873438077132&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=0",
+            "doc_score": 0,
+            "img_pid": "002TLsr9ly1i6sieilj2mj60u01mwb2c02"
+          },
+          {
+            "hit_score_new": 68.017578,
+            "h": 1920,
+            "hit_score_final": 72.810547,
+            "type": "v",
+            "cur_mid": "5226724088350918",
+            "w": 1080,
+            "user_name": "小黑诸鸣",
+            "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/8046093fly8hebpquvdkpj20u00u00uw.jpg?KID=imgbed,tva&Expires=1761683283&ssig=R5wnCTRD%2FH",
+            "img": "http://wx4.sinaimg.cn/middle/8046093fly1i6s21oyufej20u01hc410.jpg",
+            "video_url": "https://video.weibo.com/show?fid=1034:5226723302899719",
+            "vtype": 0,
+            "click_rate": 0,
+            "scheme": "sinaweibo://video/vvs?mid=5226724088350918&multi_paragraph=2&multi_count=0",
+            "doc_score": 3971,
+            "img_pid": "8046093fly1i6s21oyufej20u01hc410"
+          },
+          {
+            "hit_score_new": 92.431641,
+            "h": 1290,
+            "hit_score_final": 87.458984,
+            "type": "v",
+            "cur_mid": "5226261426733871",
+            "w": 720,
+            "user_name": "微浪旅行攻略咖",
+            "user_avatar": "https://tvax2.sinaimg.cn/crop.0.0.986.986.50/da18bfdbly8gef7ufrq9pj20re0re0v3.jpg?KID=imgbed,tva&Expires=1761683283&ssig=l4tMUIm0U9",
+            "img": "http://wx3.sinaimg.cn/middle/da18bfdbly1i6qkxmbyn3j20k00zumyz.jpg",
+            "video_url": "https://video.weibo.com/show?fid=1034:5226261262565407",
+            "vtype": 0,
+            "click_rate": 0,
+            "scheme": "sinaweibo://video/vvs?mid=5226261426733871&multi_paragraph=2&multi_count=1",
+            "doc_score": 3885,
+            "img_pid": "da18bfdbly1i6qkxmbyn3j20k00zumyz"
+          },
+          {
+            "hit_score_new": 0,
+            "h": 2120,
+            "hit_score_final": 0,
+            "type": "p",
+            "cur_mid": "5226873438077132",
+            "w": 1080,
+            "user_name": "央视新闻",
+            "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.690.690.50/002TLsr9ly8i653ifvwbtj60j60j6aai02.jpg?KID=imgbed,tva&Expires=1761683283&ssig=xkVBIVsEFb",
+            "img": "http://wx4.sinaimg.cn/middle/002TLsr9ly1i6sieilj2mj60u01mwb2c02.jpg",
+            "video_url": "",
+            "vtype": 3,
+            "click_rate": 0.06,
+            "scheme": "sinaweibo://multimedia?mix_mid=5226873438077132&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=0",
+            "doc_score": 0,
+            "img_pid": "002TLsr9ly1i6sieilj2mj60u01mwb2c02"
+          }
+        ]
+      }
+    }
+  },
+  "links": [
+    "sinaweibo://detail?mblogid=5226873438077132",
+    "sinaweibo://detail?mblogid=5226425011667574",
+    "sinaweibo://detail?mblogid=5226724088350918",
+    "sinaweibo://detail?mblogid=5226261426733871",
+    "sinaweibo://detail?mblogid=5225694264557633",
+    "sinaweibo://detail?mblogid=5226386340974391",
+    "broadsocial_res://",
+    "historyweibo://4959897740116835",
+    "sinaweibo://detail?mblogid=5226805491401812",
+    "sinaweibo://detail?mblogid=5226601648488642",
+    "sinaweibo://detail?mblogid=5226670769572664",
+    "sinaweibo://detail?mblogid=5226761249887536",
+    "sinaweibo://detail?mblogid=5226353404415719",
+    "sinaweibo://detail?mblogid=5226873434408335",
+    "sinaweibo://detail?mblogid=5226873472159414",
+    "sinaweibo://detail?mblogid=5226895203370149",
+    "sinaweibo://detail?mblogid=5226894556924054",
+    "sinaweibo://detail?mblogid=5226894490599824",
+    "sinaweibo://detail?mblogid=5226891657348737",
+    "sinaweibo://detail?mblogid=5226890495527713",
+    "sinaweibo://detail?mblogid=5226889331347089",
+    "sinaweibo://detail?mblogid=5226887733052401",
+    "sinaweibo://detail?mblogid=5226886938758265",
+    "sinaweibo://detail?mblogid=5226774887662180",
+    "sinaweibo://detail?mblogid=5226830953189955",
+    "sinaweibo://detail?mblogid=5226873438866934",
+    "sinaweibo://detail?mblogid=5226765645777355",
+    "sinaweibo://detail?mblogid=5225956404887629"
+  ],
+  "media": [
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/002TLsr9ly1i6sieilj2mj60u01mwb2c02.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/002TLsr9ly1i6sieilj2mj60u01mwb2c02.jpg",
+      "alt": "央视新闻",
+      "width": 2120,
+      "height": 1080,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/002TLsr9ly1i6sieilj2mj60u01mwb2c02.jpg"
+      ],
+      "user": "央视新闻"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/8046093fly1i6s21oyufej20u01hc410.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/8046093fly1i6s21oyufej20u01hc410.jpg",
+      "alt": "小黑诸鸣",
+      "width": 1920,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/8046093fly1i6s21oyufej20u01hc410.jpg"
+      ],
+      "user": "小黑诸鸣"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/da18bfdbly1i6qkxmbyn3j20k00zumyz.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/da18bfdbly1i6qkxmbyn3j20k00zumyz.jpg",
+      "alt": "微浪旅行攻略咖",
+      "width": 1290,
+      "height": 720,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/da18bfdbly1i6qkxmbyn3j20k00zumyz.jpg"
+      ],
+      "user": "微浪旅行攻略咖"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/008cZFlhgy1i6qvgsdp4ij32dc2da4j7.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/008cZFlhgy1i6qvgsdp4ij32dc2da4j7.jpg",
+      "alt": "鱼丸雷达突击队",
+      "width": 3070,
+      "height": 3072,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/008cZFlhgy1i6qvgsdp4ij32dc2da4j7.jpg"
+      ],
+      "user": "鱼丸雷达突击队"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/002TLsr9ly1i6r3p5bfuoj61y813ie8102.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/002TLsr9ly1i6r3p5bfuoj61y813ie8102.jpg",
+      "alt": "央视新闻",
+      "width": 1422,
+      "height": 2528,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/002TLsr9ly1i6r3p5bfuoj61y813ie8102.jpg"
+      ],
+      "user": "央视新闻"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/6427f34fgy1i6ort3l02kj20u0141tmw.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/6427f34fgy1i6ort3l02kj20u0141tmw.jpg",
+      "alt": "明道易",
+      "width": 1441,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/6427f34fgy1i6ort3l02kj20u0141tmw.jpg"
+      ],
+      "user": "明道易"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/008qF90Ily1i6sdfoisl9j30rs0rs7wh.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/008qF90Ily1i6sdfoisl9j30rs0rs7wh.jpg",
+      "alt": "斗罗大陆唐三主页",
+      "width": 1000,
+      "height": 1000,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/008qF90Ily1i6sdfoisl9j30rs0rs7wh.jpg"
+      ],
+      "user": "斗罗大陆唐三主页"
+    }
+  ],
+  "html_path": "data/aicard/hourly/2025-10-29/01/topic-d972b424.html"
+}

@@ -1,0 +1,451 @@
+{
+  "meta": {
+    "query": "#乘客开门杀致人损害谁担责#",
+    "status_code": 200,
+    "fetched_at": "2025-11-04T11:49:10+08:00",
+    "response": {
+      "short_url": "http://t.cn/AXAWmKRh",
+      "q_attr": {
+        "from_request_id": "1762227674",
+        "mid": "",
+        "reply_cid": "",
+        "comment_from_type": "",
+        "from_uid": "7808843271"
+      },
+      "comment_info": {},
+      "sorted_material_list": null,
+      "qs_status": 0,
+      "cot": 1,
+      "chat_status_stage": 1,
+      "scheme": "sinaweibo://cardlist?containerid=100103type%3D225%26q%3D%23%E4%B9%98%E5%AE%A2%E5%BC%80%E9%97%A8%E6%9D%80%E8%87%B4%E4%BA%BA%E6%8D%9F%E5%AE%B3%E8%B0%81%E6%8B%85%E8%B4%A3%23%26t%3D&extparam=ai_model%3Ddeepseek%26ori_ai_title%3D%E5%8F%82%E8%80%83%E5%8D%9A%E6%96%87%26material_version%3D1762227622",
+      "version": "2025-11-04 11:40:22.012000-4448",
+      "model": "deepseek",
+      "query_field": "57",
+      "abtest_info": {
+        "chat_entrance": 1
+      },
+      "query": "#乘客开门杀致人损害谁担责#",
+      "reliable_tips": "{\"gold_orange_v_mids\": [\"5223231632180601\", \"5223223455387324\", \"5223228701934524\", \"5223235455287445\", \"5223238472829588\", \"5223369498952240\", \"5223232031955444\", \"5229217885195642\", \"5229223570834945\", \"5229223073808932\", \"5229216966639830\", \"5229209696076555\", \"5223400077525502\", \"5223254883042677\", \"5223250654922313\", \"5223232430674028\"], \"gold_orange_v_ratio\": \"28%\", \"media_mids\": [\"5229195515136159\", \"5045962735357948\", \"5005234118066559\", \"4982398398235132\", \"5075284519552676\", \"5208291040560150\", \"5150195889735204\", \"5194081011761517\", \"5076659412405332\", \"5229219757166290\", \"5229212413464069\", \"5229212177009810\", \"5229210398622563\", \"5077030766641575\", \"5077028317956028\"], \"media_ratio\": \"26%\", \"verified_mids\": [\"5183571964200631\", \"5091503198176999\", \"5229209410864240\", \"5077363901858197\", \"5228950428844854\", \"5223374508787826\", \"5229222197989450\", \"5223392270877084\", \"5229211401062863\", \"5223382322513537\", \"5150592876416118\", \"5228925036793942\", \"5104612835068296\", \"5229200014576895\", \"5229209156846813\", \"5229219233926609\", \"5229220676239599\", \"5229215903384566\", \"5229213856303873\", \"5229210249463916\", \"5223372793579294\", \"5044353766004036\"], \"verified_ratio\": \"39%\", \"normal_mids\": [\"5229220625384606\", \"5229217000196056\", \"5229216834520073\", \"5229213099757753\"], \"normal_ratio\": \"7%\", \"ref_mid_rank\": {\"5229195515136159\": {\"rank\": 1}, \"5223231632180601\": {\"rank\": 3}, \"5045962735357948\": {\"rank\": 7}, \"5005234118066559\": {\"rank\": 9}, \"5183571964200631\": {\"rank\": 11}, \"4982398398235132\": {\"rank\": 8}, \"5091503198176999\": {\"rank\": 13}, \"5229209410864240\": {\"rank\": 46}, \"5223223455387324\": {\"rank\": 58}, \"5077363901858197\": {\"rank\": 17}, \"5075284519552676\": {\"rank\": 56}, \"5228950428844854\": {\"rank\": 25}, \"5208291040560150\": {\"rank\": 10}, \"5150195889735204\": {\"rank\": 49}, \"5194081011761517\": {\"rank\": 57}, \"5223374508787826\": {\"rank\": 15}, \"5223228701934524\": {\"rank\": 4}, \"5229222197989450\": {\"rank\": 30}, \"5223392270877084\": {\"rank\": 6}, \"5229211401062863\": {\"rank\": 42}, \"5223382322513537\": {\"rank\": 47}, \"5150592876416118\": {\"rank\": 18}, \"5228925036793942\": {\"rank\": 26}, \"5223235455287445\": {\"rank\": 52}, \"5223238472829588\": {\"rank\": 2}, \"5223369498952240\": {\"rank\": 5}, \"5223232031955444\": {\"rank\": 12}, \"5076659412405332\": {\"rank\": 14}, \"5104612835068296\": {\"rank\": 16}, \"5229200014576895\": {\"rank\": 22}, \"5229209156846813\": {\"rank\": 23}, \"5229217885195642\": {\"rank\": 24}, \"5229219233926609\": {\"rank\": 27}, \"5229223570834945\": {\"rank\": 28}, \"5229223073808932\": {\"rank\": 29}, \"5229220676239599\": {\"rank\": 31}, \"5229220625384606\": {\"rank\": 32}, \"5229219757166290\": {\"rank\": 33}, \"5229217000196056\": {\"rank\": 34}, \"5229216966639830\": {\"rank\": 35}, \"5229216834520073\": {\"rank\": 36}, \"5229215903384566\": {\"rank\": 37}, \"5229213856303873\": {\"rank\": 38}, \"5229213099757753\": {\"rank\": 39}, \"5229212413464069\": {\"rank\": 40}, \"5229212177009810\": {\"rank\": 41}, \"5229210398622563\": {\"rank\": 43}, \"5229210249463916\": {\"rank\": 44}, \"5229209696076555\": {\"rank\": 45}, \"5223400077525502\": {\"rank\": 48}, \"5223254883042677\": {\"rank\": 50}, \"5223250654922313\": {\"rank\": 51}, \"5223232430674028\": {\"rank\": 53}, \"5077030766641575\": {\"rank\": 54}, \"5223372793579294\": {\"rank\": 55}, \"5044353766004036\": {\"rank\": 59}, \"5077028317956028\": {\"rank\": 60}}}",
+      "unify_md5": "c7c9543f84b757f36f1e7055334c95ce",
+      "uid": "",
+      "wenda": {
+        "forward_gen": 0
+      },
+      "analysis_time": 1762227715,
+      "share_text": "#乘客开门杀致人损害谁担责#的相关内容，来智搜看看",
+      "status_stage": 4,
+      "msg_json": "{}",
+      "ab_suffix": "default",
+      "current_time": 1762228152,
+      "user_info": {},
+      "query_category": "Ip",
+      "ext_show": {},
+      "link_list": [
+        "sinaweibo://detail?mblogid=5229195515136159",
+        "sinaweibo://detail?mblogid=5223238472829588",
+        "sinaweibo://detail?mblogid=5223231632180601",
+        "sinaweibo://detail?mblogid=5223228701934524",
+        "sinaweibo://detail?mblogid=5223369498952240",
+        "sinaweibo://detail?mblogid=5223392270877084",
+        "sinaweibo://detail?mblogid=5045962735357948",
+        "sinaweibo://detail?mblogid=4982398398235132",
+        "sinaweibo://detail?mblogid=5005234118066559",
+        "sinaweibo://detail?mblogid=5208291040560150",
+        "sinaweibo://detail?mblogid=5183571964200631",
+        "sinaweibo://detail?mblogid=5223232031955444",
+        "sinaweibo://detail?mblogid=5091503198176999",
+        "sinaweibo://detail?mblogid=5076659412405332",
+        "sinaweibo://detail?mblogid=5223374508787826",
+        "sinaweibo://detail?mblogid=5104612835068296",
+        "sinaweibo://detail?mblogid=5077363901858197",
+        "sinaweibo://detail?mblogid=5150592876416118",
+        "historyweibo://5223125631634803",
+        "historyweibo://5221346331854245",
+        "historyweibo://5221346331854245",
+        "sinaweibo://detail?mblogid=5229200014576895",
+        "sinaweibo://detail?mblogid=5229209156846813",
+        "sinaweibo://detail?mblogid=5229217885195642",
+        "sinaweibo://detail?mblogid=5228950428844854",
+        "sinaweibo://detail?mblogid=5228925036793942",
+        "sinaweibo://detail?mblogid=5229219233926609",
+        "sinaweibo://detail?mblogid=5229223570834945",
+        "sinaweibo://detail?mblogid=5229223073808932",
+        "sinaweibo://detail?mblogid=5229222197989450",
+        "sinaweibo://detail?mblogid=5229220676239599",
+        "sinaweibo://detail?mblogid=5229220625384606",
+        "sinaweibo://detail?mblogid=5229219757166290",
+        "sinaweibo://detail?mblogid=5229217000196056",
+        "sinaweibo://detail?mblogid=5229216966639830",
+        "sinaweibo://detail?mblogid=5229216834520073",
+        "sinaweibo://detail?mblogid=5229215903384566",
+        "sinaweibo://detail?mblogid=5229213856303873",
+        "sinaweibo://detail?mblogid=5229213099757753",
+        "sinaweibo://detail?mblogid=5229212413464069",
+        "sinaweibo://detail?mblogid=5229212177009810",
+        "sinaweibo://detail?mblogid=5229211401062863",
+        "sinaweibo://detail?mblogid=5229210398622563",
+        "sinaweibo://detail?mblogid=5229210249463916",
+        "sinaweibo://detail?mblogid=5229209696076555",
+        "sinaweibo://detail?mblogid=5229209410864240",
+        "sinaweibo://detail?mblogid=5223382322513537",
+        "sinaweibo://detail?mblogid=5223400077525502",
+        "sinaweibo://detail?mblogid=5150195889735204",
+        "sinaweibo://detail?mblogid=5223254883042677",
+        "sinaweibo://detail?mblogid=5223250654922313",
+        "sinaweibo://detail?mblogid=5223235455287445",
+        "sinaweibo://detail?mblogid=5223232430674028",
+        "sinaweibo://detail?mblogid=5077030766641575",
+        "sinaweibo://detail?mblogid=5223372793579294",
+        "sinaweibo://detail?mblogid=5075284519552676",
+        "sinaweibo://detail?mblogid=5194081011761517",
+        "sinaweibo://detail?mblogid=5223223455387324",
+        "sinaweibo://detail?mblogid=5044353766004036",
+        "sinaweibo://detail?mblogid=5077028317956028"
+      ],
+      "top_quote_list": {},
+      "profile_image_url": "",
+      "card_multimodal": {
+        "type": "mediablock",
+        "data": [
+          {
+            "video_url": "",
+            "hit_score_new": 87.060547,
+            "scheme": "sinaweibo://multimedia?mix_mid=5045962735357948&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=0",
+            "h": 16365,
+            "img": "http://wx4.sinaimg.cn/middle/006FcX4dgy1hqrdw4u1jcj30micml1ky.jpg",
+            "click_rate": 0.06,
+            "w": 810,
+            "type": "p",
+            "img_pid": "006FcX4dgy1hqrdw4u1jcj30micml1ky",
+            "doc_score": 4077,
+            "cur_mid": "5045962735357948",
+            "hit_score_final": 79.836334,
+            "user_name": "红星新闻",
+            "vtype": 3,
+            "user_avatar": "https://tvax1.sinaimg.cn/crop.0.0.512.512.50/006FcX4dly8h8vgewp7wsj30e80e8mxd.jpg?KID=imgbed,tva&Expires=1762238422&ssig=63X4t9LDl0",
+            "click_num": 0
+          },
+          {
+            "video_url": "",
+            "hit_score_new": 81.591797,
+            "scheme": "sinaweibo://multimedia?mix_mid=5005234118066559&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=1",
+            "h": 246,
+            "img": "http://wx1.sinaimg.cn/middle/7c67abf5ly1hn5fyll8svj20bk06u0tg.jpg",
+            "click_rate": 0.06,
+            "w": 416,
+            "type": "p",
+            "img_pid": "7c67abf5ly1hn5fyll8svj20bk06u0tg",
+            "doc_score": 3611,
+            "cur_mid": "5005234118066559",
+            "hit_score_final": 74.955078,
+            "user_name": "法治日报",
+            "vtype": 3,
+            "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.640.640.50/7c67abf5ly8h8vg6gbb5mj20hs0hs0te.jpg?KID=imgbed,tva&Expires=1762238422&ssig=fjboZNreGD",
+            "click_num": 0
+          },
+          {
+            "video_url": "",
+            "hit_score_new": 90.722656,
+            "scheme": "sinaweibo://multimedia?mix_mid=4982398398235132&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=2",
+            "h": 512,
+            "img": "http://wx4.sinaimg.cn/middle/7c67abf5ly1hl4lnve0afj20xm0e8mzi.jpg",
+            "click_rate": 0.06,
+            "w": 1210,
+            "type": "p",
+            "img_pid": "7c67abf5ly1hl4lnve0afj20xm0e8mzi",
+            "doc_score": 3877,
+            "cur_mid": "4982398398235132",
+            "hit_score_final": 83.233597,
+            "user_name": "法治日报",
+            "vtype": 3,
+            "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.640.640.50/7c67abf5ly8h8vg6gbb5mj20hs0hs0te.jpg?KID=imgbed,tva&Expires=1762238422&ssig=fjboZNreGD",
+            "click_num": 0
+          },
+          {
+            "video_url": "",
+            "hit_score_new": 87.060547,
+            "scheme": "sinaweibo://multimedia?mix_mid=5045962735357948&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=0",
+            "h": 16365,
+            "img": "http://wx4.sinaimg.cn/middle/006FcX4dgy1hqrdw4u1jcj30micml1ky.jpg",
+            "click_rate": 0.06,
+            "w": 810,
+            "type": "p",
+            "img_pid": "006FcX4dgy1hqrdw4u1jcj30micml1ky",
+            "doc_score": 4077,
+            "cur_mid": "5045962735357948",
+            "hit_score_final": 79.836334,
+            "user_name": "红星新闻",
+            "vtype": 3,
+            "user_avatar": "https://tvax1.sinaimg.cn/crop.0.0.512.512.50/006FcX4dly8h8vgewp7wsj30e80e8mxd.jpg?KID=imgbed,tva&Expires=1762238422&ssig=63X4t9LDl0",
+            "click_num": 0
+          }
+        ]
+      },
+      "share_card_multimodal": {
+        "video_url": "",
+        "hit_score_new": 87.060547,
+        "scheme": "sinaweibo://multimedia?mix_mid=5045962735357948&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=0",
+        "h": 16365,
+        "img": "http://wx4.sinaimg.cn/middle/006FcX4dgy1hqrdw4u1jcj30micml1ky.jpg",
+        "click_rate": 0.06,
+        "w": 810,
+        "type": "p",
+        "img_pid": "006FcX4dgy1hqrdw4u1jcj30micml1ky",
+        "doc_score": 4077,
+        "cur_mid": "5045962735357948",
+        "hit_score_final": 79.836334,
+        "user_name": "红星新闻",
+        "vtype": 3,
+        "user_avatar": "https://tvax1.sinaimg.cn/crop.0.0.512.512.50/006FcX4dly8h8vgewp7wsj30e80e8mxd.jpg?KID=imgbed,tva&Expires=1762238422&ssig=63X4t9LDl0",
+        "click_num": 0
+      },
+      "news_analyze": {},
+      "basemodel": "实验组3",
+      "share_info": {
+        "display_name": "#乘客开门杀致人损害谁担责#",
+        "url": "http://t.cn/AXAWBCEk",
+        "status": 3,
+        "tips": "#乘客开门杀致人损害谁担责#的相关内容，来智搜看看",
+        "comment_content": "",
+        "page_id": "232964c3fdc522c40ec6877cfcc97d3f7c3a6a",
+        "unify_md5": "c7c9543f84b757f36f1e7055334c95ce"
+      },
+      "loop_times": 200,
+      "msg_format": "markdown",
+      "mid_list": null,
+      "qs_status_info": "{\"qs_status\":0,\"qs_u_status\":0,\"qs_c_status\":8388608,\"ab_lab\":{},\"qs_q_status\":0,\"qs_r_status\":0}",
+      "show_ctrl": {
+        "quote": {}
+      },
+      "status": 2,
+      "reference_num": 57,
+      "msg": "<think><br><br>嗯，用户询问的是\"乘客开门杀致人损害谁担责\"。这个问题涉及到交通事故责任划分，法律应用以及保险赔偿等多个方面。我需要从搜索结果中整理相关信息，并给出全面准确的回答。<br><br>先看看搜索结果中的关键案例和法律依据。结果1提到最高法发布的典型案例，明确指出保险公司和侵权人应依法赔付。结果3详细描述了汕头一起\"开门杀\"案件，司机因违规停车和未提醒乘客被判赔200万元。结果7是上海一中院的案例，网约车事故中司机承担70%责任，乘客承担30%。<br><br>关于责任划分的法律依据，结果9引用《道路交通安全法实施条例》第六十三条，规定开关车门不得妨碍其他车辆和行人通行。结果26提到《民法典》第一千二百一十三条，说明机动车一方责任应先由交强险赔偿，不足部分由商业险赔付，再不足由侵权人赔偿。<br><br>对于不同主体的责任，有这些要点：司机作为车辆实际控制人，必须确保停车合规（车身距路沿≤30厘米）并履行提醒义务；乘客作为开门行为的直接实施者，需使用\"荷式开门法\"观察后方；保险公司在交强险范围内先行赔付，但车辆私自变更使用性质可能导致商业险拒赔；网约车平台对注册司机资质审核不严需承担连带责任。<br><br>结果15介绍的\"荷式开门法\"很实用，即用离车门远的手开门，自然转身观察后方。结果19的赔偿构成分析显示，200万赔偿中约100万是残疾赔偿金，100万是终身护理费。<br><br>最后要提醒风险防范：司机应购买足额商业三者险（建议≥200万元），乘客养成二次观察习惯，骑行者需与停放车辆保持1米以上距离。结果49提到佛山一起\"开门杀\"致人死亡案，司机还被判处有期徒刑。<br><br>综合这些信息，将从责任主体划分、法律依据、赔偿标准和预防措施等方面组织回答，重点突出司机作为第一责任人的法律逻辑，以及各方的风险防范要点。<br><br></think><br>在“乘客开门杀”导致他人损害的案件中，责任主体及赔偿规则需根据具体情形综合判定，核心法律依据包括《道路交通安全法实施条例》第六十三条及《民法典》相关条款。以下是责任划分的核心要点：<br>### **一、责任主体与赔偿顺序**```wbCustomBlock{\"type\": \"quoted\", \"index\": 3, \"data\": {\"num\": [1, 3, 7, 9, 11], \"version\": 2, \"quote_list\": [{\"name\": \"人民日报\", \"scheme\": \"sinaweibo://detail?mblogid=5229195515136159\", \"index\": 1, \"label\": \"大v\"}, {\"name\": \"扬帆向北\", \"scheme\": \"sinaweibo://detail?mblogid=5223231632180601\", \"index\": 3, \"label\": \"\"}, {\"name\": \"红星新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5045962735357948\", \"index\": 7, \"label\": \"\"}, {\"name\": \"法治日报\", \"scheme\": \"sinaweibo://detail?mblogid=5005234118066559\", \"index\": 9, \"label\": \"\"}, {\"name\": \"槐荫检察\", \"scheme\": \"sinaweibo://detail?mblogid=5183571964200631\", \"index\": 11, \"label\": \"\"}], \"name\": \"人民日报\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.1018.1018.50/0033ImPzly8h8vgemh8kxj60sa0sadgw02.jpg?KID=imgbed,tva&Expires=1762238422&ssig=RMME%2F%2BHXMq\", \"scheme\": \"sinaweibo://detail?mblogid=5229195515136159\", \"vType\": 3}}```<br>1. **保险公司优先赔付**  <br>   - **交强险**：无论责任比例，均先行赔付（伤残赔偿上限18万元）；```wbCustomBlock{\"type\": \"quoted\", \"index\": 5, \"data\": {\"num\": [3, 8], \"version\": 2, \"quote_list\": [{\"name\": \"法治日报\", \"scheme\": \"sinaweibo://detail?mblogid=4982398398235132\", \"index\": 8, \"label\": \"大v\"}, {\"name\": \"扬帆向北\", \"scheme\": \"sinaweibo://detail?mblogid=5223231632180601\", \"index\": 3, \"label\": \"\"}], \"name\": \"法治日报\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.640.640.50/7c67abf5ly8h8vg6gbb5mj20hs0hs0te.jpg?KID=imgbed,tva&Expires=1762238422&ssig=fjboZNreGD\", \"scheme\": \"sinaweibo://detail?mblogid=4982398398235132\", \"vType\": 3}}```  <br>   - **商业三者险**：覆盖超出交强险部分，但若车辆使用性质变更（如家用车营运未告知保险公司），商业险可能拒赔。  <br>   *示例：汕头“开门杀”案中，保险公司仅赔18万，司机自担182万。*```wbCustomBlock{\"type\": \"quoted\", \"index\": 6, \"data\": {\"num\": [3, 7, 13], \"version\": 2, \"quote_list\": [{\"name\": \"红星新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5045962735357948\", \"index\": 7, \"label\": \"大v\"}, {\"name\": \"扬帆向北\", \"scheme\": \"sinaweibo://detail?mblogid=5223231632180601\", \"index\": 3, \"label\": \"\"}, {\"name\": \"槐荫检察\", \"scheme\": \"sinaweibo://detail?mblogid=5091503198176999\", \"index\": 13, \"label\": \"\"}], \"name\": \"红星新闻\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.512.512.50/006FcX4dly8h8vgewp7wsj30e80e8mxd.jpg?KID=imgbed,tva&Expires=1762238422&ssig=63X4t9LDl0\", \"scheme\": \"sinaweibo://detail?mblogid=5045962735357948\", \"vType\": 3}}```<br><br>2. **驾驶人责任（主责/全责）**  <br>   - **安全管控义务**：驾驶人需确保停靠合规（车身距路沿≤30厘米）、提醒乘客观察后方，否则承担主要或全部责任；```wbCustomBlock{\"type\": \"quoted\", \"index\": 8, \"data\": {\"num\": [3, 9], \"version\": 2, \"quote_list\": [{\"name\": \"扬帆向北\", \"scheme\": \"sinaweibo://detail?mblogid=5223231632180601\", \"index\": 3, \"label\": \"大v\"}, {\"name\": \"法治日报\", \"scheme\": \"sinaweibo://detail?mblogid=5005234118066559\", \"index\": 9, \"label\": \"\"}], \"name\": \"扬帆向北\", \"img\": \"https://tvax4.sinaimg.cn/crop.72.0.354.354.50/62673f0bly8fn4gwjd6gfj20dw09ugp8.jpg?KID=imgbed,tva&Expires=1762238422&ssig=z4XTbZyQly\", \"scheme\": \"sinaweibo://detail?mblogid=5223231632180601\", \"vType\": 0}}```  <br>   - **过错叠加**：若同时存在违规停车（如禁停区、非机动车道）和未提醒乘客，通常判全责（如汕头案）。```wbCustomBlock{\"type\": \"quoted\", \"index\": 9, \"data\": {\"num\": [3, 46, 58], \"version\": 2, \"quote_list\": [{\"name\": \"扬帆向北\", \"scheme\": \"sinaweibo://detail?mblogid=5223231632180601\", \"index\": 3, \"label\": \"\"}, {\"name\": \"赤貓瞳\", \"scheme\": \"sinaweibo://detail?mblogid=5229209410864240\", \"index\": 46, \"label\": \"\"}, {\"name\": \"簇拥春日的花\", \"scheme\": \"sinaweibo://detail?mblogid=5223223455387324\", \"index\": 58, \"label\": \"\"}]}}```<br><br>3. **乘客责任（次责/免责）**  <br>   - **次要责任（20%-30%）**：乘客未观察后方直接开门，但驾驶人已规范停车并提醒；```wbCustomBlock{\"type\": \"quoted\", \"index\": 11, \"data\": {\"num\": [7, 17, 56], \"version\": 2, \"quote_list\": [{\"name\": \"021视频\", \"scheme\": \"sinaweibo://detail?mblogid=5075284519552676\", \"index\": 56, \"label\": \"大v\"}, {\"name\": \"红星新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5045962735357948\", \"index\": 7, \"label\": \"\"}, {\"name\": \"四川监狱\", \"scheme\": \"sinaweibo://detail?mblogid=5077363901858197\", \"index\": 17, \"label\": \"\"}], \"name\": \"021视频\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.600.600.50/006607Oxly8h8vcuhyev0j30go0goq3q.jpg?KID=imgbed,tva&Expires=1762238422&ssig=mcBlI%2FdXwN\", \"scheme\": \"sinaweibo://detail?mblogid=5075284519552676\", \"vType\": 3}}```  <br>   - **免责情形**：若驾驶人明确提醒后乘客仍强行开门（如柳州出租车案），乘客可能单独担责。<br><br>4. **网约车平台连带责任**  <br>   - 平台对司机资质及车辆保险审核不严（如默许家用车营运），需对司机赔偿部分承担连带责任。```wbCustomBlock{\"type\": \"quoted\", \"index\": 14, \"data\": {\"num\": [7, 13, 25], \"version\": 2, \"quote_list\": [{\"name\": \"槐荫检察\", \"scheme\": \"sinaweibo://detail?mblogid=5091503198176999\", \"index\": 13, \"label\": \"大v\"}, {\"name\": \"红星新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5045962735357948\", \"index\": 7, \"label\": \"\"}, {\"name\": \"快豹社\", \"scheme\": \"sinaweibo://detail?mblogid=5228950428844854\", \"index\": 25, \"label\": \"\"}], \"name\": \"槐荫检察\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.600.600.50/00631aIzly8hoi84mf8wgj30go0godi4.jpg?KID=imgbed,tva&Expires=1762238422&ssig=jx9dKv08kf\", \"scheme\": \"sinaweibo://detail?mblogid=5091503198176999\", \"vType\": 1}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5045962735357948&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.512.512.50/006FcX4dly8h8vgewp7wsj30e80e8mxd.jpg?KID=imgbed,tva&Expires=1762238422&ssig=63X4t9LDl0) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">红星新闻</span><img src=\"http://wx4.sinaimg.cn/middle/006FcX4dgy1hqrdw4u1jcj30micml1ky.jpg\" data-width=16365 data-height=810></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5005234118066559&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=1\"><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.640.640.50/7c67abf5ly8h8vg6gbb5mj20hs0hs0te.jpg?KID=imgbed,tva&Expires=1762238422&ssig=fjboZNreGD) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">法治日报</span><img src=\"http://wx1.sinaimg.cn/middle/7c67abf5ly1hn5fyll8svj20bk06u0tg.jpg\" data-width=246 data-height=416></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=4982398398235132&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=2\"><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.640.640.50/7c67abf5ly8h8vg6gbb5mj20hs0hs0te.jpg?KID=imgbed,tva&Expires=1762238422&ssig=fjboZNreGD) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">法治日报</span><img src=\"http://wx4.sinaimg.cn/middle/7c67abf5ly1hl4lnve0afj20xm0e8mzi.jpg\" data-width=512 data-height=1210></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5223223455387324&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=1&multi_count=3\"><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/005ZvuRAly8i37s144grej30u00u041b.jpg?KID=imgbed,tva&Expires=1762238422&ssig=1iGRezRKie) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">簇拥春日的花</span><img src=\"http://wx1.sinaimg.cn/middle/005ZvuRAgy1i6gvweo4i6j30u013ogov.jpg\" data-width=1428 data-height=1080></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5091503198176999&multi_paragraph=1&multi_count=4\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.600.600.50/00631aIzly8hoi84mf8wgj30go0godi4.jpg?KID=imgbed,tva&Expires=1762238422&ssig=jx9dKv08kf) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">槐荫检察</span><img src=\"http://wx1.sinaimg.cn/middle/65fb5cbfly1huo9e4qvl2j21hc0u0tbf.jpg\" data-width=1080 data-height=1920></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5075284519552676&multi_paragraph=1&multi_count=5\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.600.600.50/006607Oxly8h8vcuhyev0j30go0goq3q.jpg?KID=imgbed,tva&Expires=1762238422&ssig=mcBlI%2FdXwN) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">021视频</span><img src=\"http://wx3.sinaimg.cn/middle/006607Oxgy1htcx8ob3tsj30k00qoqbe.jpg\" data-width=960 data-height=720></div></media-block><br>### **二、200万赔偿的构成与缺口**<br>| **赔偿项目**       | **金额估算** | **计算依据**                     |  <br>|--------------------|--------------|----------------------------------|  <br>| 残疾赔偿金         | ≈100万元     | 一级伤残按城镇居民收入×20年      |  <br>| 终身护理费         | ≈100万元     | 年均护工费5万×20年               |  <br>| 医疗费、精神抚慰金 | 余下部分     | 实际支出+法定补偿                |<br><br>  <br>**保险缺口警示**：若未购买商业三者险（建议保额≥200万），高额赔偿需侵权人自担。```wbCustomBlock{\"type\": \"quoted\", \"index\": 16, \"data\": {\"num\": [3, 25], \"version\": 2, \"quote_list\": [{\"name\": \"扬帆向北\", \"scheme\": \"sinaweibo://detail?mblogid=5223231632180601\", \"index\": 3, \"label\": \"\"}, {\"name\": \"快豹社\", \"scheme\": \"sinaweibo://detail?mblogid=5228950428844854\", \"index\": 25, \"label\": \"\"}]}}```<br>### **三、刑事风险升级情形**<br>若事故致人死亡或重伤，责任人可能被追刑责：```wbCustomBlock{\"type\": \"quoted\", \"index\": 18, \"data\": {\"num\": [10, 49, 58], \"version\": 2, \"quote_list\": [{\"name\": \"生活这一刻\", \"scheme\": \"sinaweibo://detail?mblogid=5208291040560150\", \"index\": 10, \"label\": \"大v\"}, {\"name\": \"中国新闻周刊\", \"scheme\": \"sinaweibo://detail?mblogid=5150195889735204\", \"index\": 49, \"label\": \"\"}, {\"name\": \"簇拥春日的花\", \"scheme\": \"sinaweibo://detail?mblogid=5223223455387324\", \"index\": 58, \"label\": \"\"}], \"name\": \"生活这一刻\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.490.490.50/91678d95ly8h8vgynrfr8j20dn0dmjrg.jpg?KID=imgbed,tva&Expires=1762238422&ssig=0vTHS5BLfi\", \"scheme\": \"sinaweibo://detail?mblogid=5208291040560150\", \"vType\": 3}}```  <br>- **交通肇事罪**：驾驶人违规停车+未提醒，致人死亡可判刑（如佛山网约车司机获刑1年）；```wbCustomBlock{\"type\": \"quoted\", \"index\": 19, \"data\": {\"num\": [49], \"version\": 2, \"quote_list\": [{\"name\": \"中国新闻周刊\", \"scheme\": \"sinaweibo://detail?mblogid=5150195889735204\", \"index\": 49, \"label\": \"大v\"}], \"name\": \"中国新闻周刊\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/001N9Ovwly8h8vgj46gr1j60u00u03zp02.jpg?KID=imgbed,tva&Expires=1762238422&ssig=XGdvz%2BYVdY\", \"scheme\": \"sinaweibo://detail?mblogid=5150195889735204\", \"vType\": 3}}```  <br>- **乘客刑责**：若乘客不听劝阻强行开门致死，亦可能担刑责。```wbCustomBlock{\"type\": \"quoted\", \"index\": 20, \"data\": {\"num\": [57], \"version\": 2, \"quote_list\": [{\"name\": \"长沙政法频道\", \"scheme\": \"sinaweibo://detail?mblogid=5194081011761517\", \"index\": 57, \"label\": \"大v\"}], \"name\": \"长沙政法频道\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.900.900.50/ca5d90b0ly8h8vgxwbr77j20p00p0752.jpg?KID=imgbed,tva&Expires=1762238422&ssig=yDB03DN6Kv\", \"scheme\": \"sinaweibo://detail?mblogid=5194081011761517\", \"vType\": 3}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5208291040560150&multi_paragraph=3&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.490.490.50/91678d95ly8h8vgynrfr8j20dn0dmjrg.jpg?KID=imgbed,tva&Expires=1762238422&ssig=0vTHS5BLfi) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">生活这一刻</span><img src=\"http://wx4.sinaimg.cn/middle/91678d95ly1i5592fghnhj20gw0u00tq.jpg\" data-width=1080 data-height=608></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5194081011761517&multi_paragraph=3&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.900.900.50/ca5d90b0ly8h8vgxwbr77j20p00p0752.jpg?KID=imgbed,tva&Expires=1762238422&ssig=yDB03DN6Kv) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">长沙政法频道</span><img src=\"http://wx4.sinaimg.cn/middle/ca5d90b0ly1i3vx2hu6hqj20u01hc411.jpg\" data-width=1920 data-height=1080></div></media-block><br>### **四、预防指南与避险措施**  <br>1. **驾驶人必做**  <br>   - 紧贴路沿停车（≤30厘米），禁停非机动车道/路口；```wbCustomBlock{\"type\": \"quoted\", \"index\": 24, \"data\": {\"num\": [3, 15], \"version\": 2, \"quote_list\": [{\"name\": \"平安泸州\", \"scheme\": \"sinaweibo://detail?mblogid=5223374508787826\", \"index\": 15, \"label\": \"大v\"}, {\"name\": \"扬帆向北\", \"scheme\": \"sinaweibo://detail?mblogid=5223231632180601\", \"index\": 3, \"label\": \"\"}], \"name\": \"平安泸州\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/a113078cly8h8vlyb3uloj20u00u0tc0.jpg?KID=imgbed,tva&Expires=1762238422&ssig=AtpbEC4OCp\", \"scheme\": \"sinaweibo://detail?mblogid=5223374508787826\", \"vType\": 1}}```  <br>   - 强制乘客使用“荷式开门法”（左门右手开，右门左手开）；```wbCustomBlock{\"type\": \"quoted\", \"index\": 25, \"data\": {\"num\": [4, 15, 30], \"version\": 2, \"quote_list\": [{\"name\": \"广汉公安\", \"scheme\": \"sinaweibo://detail?mblogid=5229222197989450\", \"index\": 30, \"label\": \"\"}, {\"name\": \"阿笨汽车观察\", \"scheme\": \"sinaweibo://detail?mblogid=5223228701934524\", \"index\": 4, \"label\": \"\"}, {\"name\": \"平安泸州\", \"scheme\": \"sinaweibo://detail?mblogid=5223374508787826\", \"index\": 15, \"label\": \"\"}], \"name\": \"广汉公安\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.600.600.50/005A09H7ly8h8v9dw3ql8j30go0goq52.jpg?KID=imgbed,tva&Expires=1762238422&ssig=yyx7b25E%2BK\", \"scheme\": \"sinaweibo://detail?mblogid=5229222197989450\", \"vType\": 1}}```  <br>   - 购买足额商业三者险（保额≥200万）。```wbCustomBlock{\"type\": \"quoted\", \"index\": 26, \"data\": {\"num\": [25], \"version\": 2, \"quote_list\": [{\"name\": \"快豹社\", \"scheme\": \"sinaweibo://detail?mblogid=5228950428844854\", \"index\": 25, \"label\": \"\"}]}}```<br><br>2. **乘客必守**  <br>   - 开门前转头观察，分段开门（先开小缝确认安全）；```wbCustomBlock{\"type\": \"quoted\", \"index\": 28, \"data\": {\"num\": [6, 42], \"version\": 2, \"quote_list\": [{\"name\": \"应急管理部\", \"scheme\": \"sinaweibo://detail?mblogid=5223392270877084\", \"index\": 6, \"label\": \"\"}, {\"name\": \"南粤女声\", \"scheme\": \"sinaweibo://detail?mblogid=5229211401062863\", \"index\": 42, \"label\": \"\"}], \"name\": \"应急管理部\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/005PxpDoly8gmcue150ltj30u00u00ur.jpg?KID=imgbed,tva&Expires=1762238422&ssig=ciPFOHH%2BxJ\", \"scheme\": \"sinaweibo://detail?mblogid=5223392270877084\", \"vType\": 1}}```  <br>   - 优先从右侧下车。```wbCustomBlock{\"type\": \"quoted\", \"index\": 29, \"data\": {\"num\": [30, 47], \"version\": 2, \"quote_list\": [{\"name\": \"湖南交警\", \"scheme\": \"sinaweibo://detail?mblogid=5223382322513537\", \"index\": 47, \"label\": \"\"}, {\"name\": \"广汉公安\", \"scheme\": \"sinaweibo://detail?mblogid=5229222197989450\", \"index\": 30, \"label\": \"\"}], \"name\": \"湖南交警\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.197.1080.1080.50/71e11971ly1h8vc47hkjwj20u014zq6x.jpg?KID=imgbed,tva&Expires=1762238422&ssig=TmnTJtf%2Bm1\", \"scheme\": \"sinaweibo://detail?mblogid=5223382322513537\", \"vType\": 1}}```<br><br>3. **骑行者避险**  <br>   - 与停放车辆保持≥1米横向距离；```wbCustomBlock{\"type\": \"quoted\", \"index\": 31, \"data\": {\"num\": [6, 18], \"version\": 2, \"quote_list\": [{\"name\": \"德州消防\", \"scheme\": \"sinaweibo://detail?mblogid=5150592876416118\", \"index\": 18, \"label\": \"\"}, {\"name\": \"应急管理部\", \"scheme\": \"sinaweibo://detail?mblogid=5223392270877084\", \"index\": 6, \"label\": \"\"}], \"name\": \"德州消防\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.293.293.50/97345d8aly8gdiysuzqugj208508pq36.jpg?KID=imgbed,tva&Expires=1762238422&ssig=hTmmT3Sq9I\", \"scheme\": \"sinaweibo://detail?mblogid=5150592876416118\", \"vType\": 1}}```  <br>   - 强制佩戴头盔（事故中头部重伤率超70%）。<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5223392270877084&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=4&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/005PxpDoly8gmcue150ltj30u00u00ur.jpg?KID=imgbed,tva&Expires=1762238422&ssig=ciPFOHH%2BxJ) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">应急管理部</span><img src=\"http://wx2.sinaimg.cn/middle/005PxpDoly1i6hff79cfbg30u01a4hdu.gif\" data-width=1660 data-height=1080></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5223374508787826&multi_paragraph=4&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/a113078cly8h8vlyb3uloj20u00u0tc0.jpg?KID=imgbed,tva&Expires=1762238422&ssig=AtpbEC4OCp) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">平安泸州</span><img src=\"http://wx3.sinaimg.cn/middle/780ddeb8ly1hsaigf7mk6j20u01407wh.jpg\" data-width=1440 data-height=1080></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5223228701934524&multi_paragraph=4&multi_count=2\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tva3.sinaimg.cn/crop.82.1.275.275.50/62e16eebjw8evfzhwme3pj20ci07r751.jpg?KID=imgbed,tva&Expires=1762238422&ssig=X23Psa1FhK) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">阿笨汽车观察</span><img src=\"http://wx3.sinaimg.cn/middle/62e16eebly1i6gwmoib95j20u0141gym.jpg\" data-width=1441 data-height=1080></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5223382322513537&multi_paragraph=4&multi_count=3\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.197.1080.1080.50/71e11971ly1h8vc47hkjwj20u014zq6x.jpg?KID=imgbed,tva&Expires=1762238422&ssig=TmnTJtf%2Bm1) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">湖南交警</span><img src=\"http://wx2.sinaimg.cn/middle/71e11971ly1i6c0se01lbj21hc0u0jva.jpg\" data-width=1080 data-height=1920></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5150592876416118&multi_paragraph=4&multi_count=4\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.293.293.50/97345d8aly8gdiysuzqugj208508pq36.jpg?KID=imgbed,tva&Expires=1762238422&ssig=hTmmT3Sq9I) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">德州消防</span><img src=\"http://wx4.sinaimg.cn/middle/c7ab8f4cly1hw6peyjlmuj20u01hc0v8.jpg\" data-width=1920 data-height=1080></div></media-block><br>### **五、最高法典型案例的明确导向**  <br>2025年10月30日发布的案例强调：  <br>- 驾驶人与乘客同属“机动车一方”，保险公司需对二者责任连带赔付；  <br>- 超出保险部分按过错比例分担（如驾驶人赔70%、乘客赔30%）。```wbCustomBlock{\"type\": \"quoted\", \"index\": 36, \"data\": {\"num\": [1, 25, 26], \"version\": 2, \"quote_list\": [{\"name\": \"人民日报\", \"scheme\": \"sinaweibo://detail?mblogid=5229195515136159\", \"index\": 1, \"label\": \"\"}, {\"name\": \"快豹社\", \"scheme\": \"sinaweibo://detail?mblogid=5228950428844854\", \"index\": 25, \"label\": \"\"}, {\"name\": \"杜洁律师\", \"scheme\": \"sinaweibo://detail?mblogid=5228925036793942\", \"index\": 26, \"label\": \"\"}]}}```<br>### 总结  <br>**责任本质**：司机是安全第一责任人，停车合规性、提醒义务、保险配置缺一不可；乘客未观察开门承担次要责任，但司机过错可覆盖乘客责任。  <br>**终极警示**：一次疏忽可能摧毁两个家庭——200万赔偿是对生命的敬畏，更是对侥幸心理的严厉惩戒。```wbCustomBlock{\"type\": \"quoted\", \"index\": 38, \"data\": {\"num\": [3, 52], \"version\": 2, \"quote_list\": [{\"name\": \"番茄和小贝贝\", \"scheme\": \"sinaweibo://detail?mblogid=5223235455287445\", \"index\": 52, \"label\": \"\"}, {\"name\": \"扬帆向北\", \"scheme\": \"sinaweibo://detail?mblogid=5223231632180601\", \"index\": 3, \"label\": \"\"}], \"name\": \"番茄和小贝贝\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.1068.1068.50/6dcea9cbly8hwq8zous92j20to0tojsw.jpg?KID=imgbed,tva&Expires=1762238422&ssig=XUlRKF8rnh\", \"scheme\": \"sinaweibo://detail?mblogid=5223235455287445\", \"vType\": 0}}```<br>",
+      "page_id": "232964c3fdc522c40ec6877cfcc97d3f7c3a6a",
+      "zs_risk_control": {
+        "think_text_close": 0,
+        "land_button_close": 0
+      }
+    }
+  },
+  "links": [
+    "sinaweibo://detail?mblogid=5229195515136159",
+    "sinaweibo://detail?mblogid=5223238472829588",
+    "sinaweibo://detail?mblogid=5223231632180601",
+    "sinaweibo://detail?mblogid=5223228701934524",
+    "sinaweibo://detail?mblogid=5223369498952240",
+    "sinaweibo://detail?mblogid=5223392270877084",
+    "sinaweibo://detail?mblogid=5045962735357948",
+    "sinaweibo://detail?mblogid=4982398398235132",
+    "sinaweibo://detail?mblogid=5005234118066559",
+    "sinaweibo://detail?mblogid=5208291040560150",
+    "sinaweibo://detail?mblogid=5183571964200631",
+    "sinaweibo://detail?mblogid=5223232031955444",
+    "sinaweibo://detail?mblogid=5091503198176999",
+    "sinaweibo://detail?mblogid=5076659412405332",
+    "sinaweibo://detail?mblogid=5223374508787826",
+    "sinaweibo://detail?mblogid=5104612835068296",
+    "sinaweibo://detail?mblogid=5077363901858197",
+    "sinaweibo://detail?mblogid=5150592876416118",
+    "historyweibo://5223125631634803",
+    "historyweibo://5221346331854245",
+    "historyweibo://5221346331854245",
+    "sinaweibo://detail?mblogid=5229200014576895",
+    "sinaweibo://detail?mblogid=5229209156846813",
+    "sinaweibo://detail?mblogid=5229217885195642",
+    "sinaweibo://detail?mblogid=5228950428844854",
+    "sinaweibo://detail?mblogid=5228925036793942",
+    "sinaweibo://detail?mblogid=5229219233926609",
+    "sinaweibo://detail?mblogid=5229223570834945",
+    "sinaweibo://detail?mblogid=5229223073808932",
+    "sinaweibo://detail?mblogid=5229222197989450",
+    "sinaweibo://detail?mblogid=5229220676239599",
+    "sinaweibo://detail?mblogid=5229220625384606",
+    "sinaweibo://detail?mblogid=5229219757166290",
+    "sinaweibo://detail?mblogid=5229217000196056",
+    "sinaweibo://detail?mblogid=5229216966639830",
+    "sinaweibo://detail?mblogid=5229216834520073",
+    "sinaweibo://detail?mblogid=5229215903384566",
+    "sinaweibo://detail?mblogid=5229213856303873",
+    "sinaweibo://detail?mblogid=5229213099757753",
+    "sinaweibo://detail?mblogid=5229212413464069",
+    "sinaweibo://detail?mblogid=5229212177009810",
+    "sinaweibo://detail?mblogid=5229211401062863",
+    "sinaweibo://detail?mblogid=5229210398622563",
+    "sinaweibo://detail?mblogid=5229210249463916",
+    "sinaweibo://detail?mblogid=5229209696076555",
+    "sinaweibo://detail?mblogid=5229209410864240",
+    "sinaweibo://detail?mblogid=5223382322513537",
+    "sinaweibo://detail?mblogid=5223400077525502",
+    "sinaweibo://detail?mblogid=5150195889735204",
+    "sinaweibo://detail?mblogid=5223254883042677",
+    "sinaweibo://detail?mblogid=5223250654922313",
+    "sinaweibo://detail?mblogid=5223235455287445",
+    "sinaweibo://detail?mblogid=5223232430674028",
+    "sinaweibo://detail?mblogid=5077030766641575",
+    "sinaweibo://detail?mblogid=5223372793579294",
+    "sinaweibo://detail?mblogid=5075284519552676",
+    "sinaweibo://detail?mblogid=5194081011761517",
+    "sinaweibo://detail?mblogid=5223223455387324",
+    "sinaweibo://detail?mblogid=5044353766004036",
+    "sinaweibo://detail?mblogid=5077028317956028"
+  ],
+  "media": [
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/006FcX4dgy1hqrdw4u1jcj30micml1ky.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/006FcX4dgy1hqrdw4u1jcj30micml1ky.jpg",
+      "alt": "红星新闻",
+      "width": 16365,
+      "height": 810,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/006FcX4dgy1hqrdw4u1jcj30micml1ky.jpg"
+      ],
+      "user": "红星新闻"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/7c67abf5ly1hn5fyll8svj20bk06u0tg.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/7c67abf5ly1hn5fyll8svj20bk06u0tg.jpg",
+      "alt": "法治日报",
+      "width": 246,
+      "height": 416,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/7c67abf5ly1hn5fyll8svj20bk06u0tg.jpg"
+      ],
+      "user": "法治日报"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/7c67abf5ly1hl4lnve0afj20xm0e8mzi.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/7c67abf5ly1hl4lnve0afj20xm0e8mzi.jpg",
+      "alt": "法治日报",
+      "width": 512,
+      "height": 1210,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/7c67abf5ly1hl4lnve0afj20xm0e8mzi.jpg"
+      ],
+      "user": "法治日报"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/005ZvuRAgy1i6gvweo4i6j30u013ogov.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/005ZvuRAgy1i6gvweo4i6j30u013ogov.jpg",
+      "alt": "簇拥春日的花",
+      "width": 1428,
+      "height": 1080,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx4.sinaimg.cn/large/005ZvuRAgy1i6gvweo4i6j30u013ogov.jpg"
+      ],
+      "user": "簇拥春日的花"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/65fb5cbfly1huo9e4qvl2j21hc0u0tbf.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/65fb5cbfly1huo9e4qvl2j21hc0u0tbf.jpg",
+      "alt": "槐荫检察",
+      "width": 1080,
+      "height": 1920,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/65fb5cbfly1huo9e4qvl2j21hc0u0tbf.jpg"
+      ],
+      "user": "槐荫检察"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/006607Oxgy1htcx8ob3tsj30k00qoqbe.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/006607Oxgy1htcx8ob3tsj30k00qoqbe.jpg",
+      "alt": "021视频",
+      "width": 960,
+      "height": 720,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/006607Oxgy1htcx8ob3tsj30k00qoqbe.jpg"
+      ],
+      "user": "021视频"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/91678d95ly1i5592fghnhj20gw0u00tq.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/91678d95ly1i5592fghnhj20gw0u00tq.jpg",
+      "alt": "生活这一刻",
+      "width": 1080,
+      "height": 608,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/91678d95ly1i5592fghnhj20gw0u00tq.jpg"
+      ],
+      "user": "生活这一刻"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/ca5d90b0ly1i3vx2hu6hqj20u01hc411.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/ca5d90b0ly1i3vx2hu6hqj20u01hc411.jpg",
+      "alt": "长沙政法频道",
+      "width": 1920,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/ca5d90b0ly1i3vx2hu6hqj20u01hc411.jpg"
+      ],
+      "user": "长沙政法频道"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/005PxpDoly1i6hff79cfbg30u01a4hdu.gif",
+      "secure_url": "https://wx2.sinaimg.cn/middle/005PxpDoly1i6hff79cfbg30u01a4hdu.gif",
+      "alt": "应急管理部",
+      "width": 1660,
+      "height": 1080,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/005PxpDoly1i6hff79cfbg30u01a4hdu.jpg"
+      ],
+      "user": "应急管理部"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/780ddeb8ly1hsaigf7mk6j20u01407wh.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/780ddeb8ly1hsaigf7mk6j20u01407wh.jpg",
+      "alt": "平安泸州",
+      "width": 1440,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/780ddeb8ly1hsaigf7mk6j20u01407wh.jpg"
+      ],
+      "user": "平安泸州"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/62e16eebly1i6gwmoib95j20u0141gym.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/62e16eebly1i6gwmoib95j20u0141gym.jpg",
+      "alt": "阿笨汽车观察",
+      "width": 1441,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/62e16eebly1i6gwmoib95j20u0141gym.jpg"
+      ],
+      "user": "阿笨汽车观察"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/71e11971ly1i6c0se01lbj21hc0u0jva.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/71e11971ly1i6c0se01lbj21hc0u0jva.jpg",
+      "alt": "湖南交警",
+      "width": 1080,
+      "height": 1920,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx4.sinaimg.cn/large/71e11971ly1i6c0se01lbj21hc0u0jva.jpg"
+      ],
+      "user": "湖南交警"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/c7ab8f4cly1hw6peyjlmuj20u01hc0v8.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/c7ab8f4cly1hw6peyjlmuj20u01hc0v8.jpg",
+      "alt": "德州消防",
+      "width": 1920,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/c7ab8f4cly1hw6peyjlmuj20u01hc0v8.jpg"
+      ],
+      "user": "德州消防"
+    }
+  ],
+  "html_path": "data/aicard/hourly/2025-11-04/11/topic-c7c9543f.html"
+}

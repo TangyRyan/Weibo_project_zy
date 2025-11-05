@@ -1,0 +1,557 @@
+{
+  "meta": {
+    "query": "#KPL一千零一夜#",
+    "status_code": 200,
+    "fetched_at": "2025-11-04T00:43:27+08:00",
+    "response": {
+      "q_attr": {
+        "from_uid": "",
+        "from_request_id": "",
+        "mid": "",
+        "reply_cid": "",
+        "comment_from_type": ""
+      },
+      "status": 2,
+      "short_url": "http://t.cn/A6kxrKcY",
+      "cot": 1,
+      "zs_risk_control": {
+        "think_text_close": 0,
+        "land_button_close": 0
+      },
+      "share_info": {
+        "unify_md5": "df1fcd388d2230677ea40b2015c33e66",
+        "url": "http://t.cn/AX74r41U",
+        "status": 3,
+        "page_id": "2329648c59a07f2229c887e3a08be32a764194",
+        "tips": "#KPL一千零一夜#的相关内容，来智搜看看",
+        "display_name": "#KPL一千零一夜#",
+        "comment_content": ""
+      },
+      "ab_suffix": "default",
+      "version": "2025-11-04 00:35:31.023999-6979",
+      "comment_info": {},
+      "uid": "",
+      "sorted_material_list": null,
+      "qs_status": 0,
+      "scheme": "sinaweibo://cardlist?containerid=100103type%3D225%26q%3D%23kpl%E4%B8%80%E5%8D%83%E9%9B%B6%E4%B8%80%E5%A4%9C%23%26t%3D&extparam=ai_model%3Ddeepseek%26ori_ai_title%3D%E5%8F%82%E8%80%83%E5%8D%9A%E6%96%87%26material_version%3D1762187731",
+      "card_multimodal": {
+        "type": "mediablock",
+        "data": [
+          {
+            "scheme": "sinaweibo://video/vvs?mid=5228926964340309&multi_paragraph=1&multi_count=0",
+            "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.600.600.50/6f0b57d3ly8hpxak2a0r3j20go0got9r.jpg?KID=imgbed,tva&Expires=1762198531&ssig=YyGddOuv1f",
+            "hit_score_final": 0,
+            "w": 1920,
+            "video_url": "https://video.weibo.com/show?fid=1034:5228663520559135",
+            "img": "http://wx3.sinaimg.cn/middle/006D5nCUly1i6y975drxtj31hc0u0ttw.jpg",
+            "vtype": 7,
+            "doc_score": 0,
+            "img_pid": "006D5nCUly1i6y975drxtj31hc0u0ttw",
+            "h": 1080,
+            "hit_score_new": 0,
+            "click_rate": 0.16843259042748,
+            "click_num": 0,
+            "user_name": "KPL王者荣耀职业联赛",
+            "type": "v",
+            "cur_mid": "5228926964340309"
+          },
+          {
+            "scheme": "sinaweibo://multimedia?mix_mid=5213368518708429&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=1&multi_count=1",
+            "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.600.600.50/6f0b57d3ly8hpxak2a0r3j20go0got9r.jpg?KID=imgbed,tva&Expires=1762198531&ssig=YyGddOuv1f",
+            "hit_score_final": 87.869141,
+            "w": 1920,
+            "video_url": "",
+            "img": "http://wx4.sinaimg.cn/middle/006D5nCUly1i5lfzbn2lsj31hc0u04ot.jpg",
+            "vtype": 7,
+            "doc_score": 4861,
+            "img_pid": "006D5nCUly1i5lfzbn2lsj31hc0u04ot",
+            "h": 1080,
+            "hit_score_new": 93.115234,
+            "click_rate": 0.15613026819923,
+            "click_num": 0,
+            "user_name": "KPL王者荣耀职业联赛",
+            "type": "p",
+            "cur_mid": "5213368518708429"
+          },
+          {
+            "scheme": "sinaweibo://multimedia?mix_mid=5219578078564299&from=search&content_show=1&mix_index=4&hide_index=1&multi_paragraph=1&multi_count=2",
+            "user_avatar": "https://tvax1.sinaimg.cn/crop.0.0.828.828.50/008gLPUuly8gq7op264ryj30n00n0myj.jpg?KID=imgbed,tva&Expires=1762198531&ssig=JhJGpZHCyt",
+            "hit_score_final": 80.256645,
+            "w": 1920,
+            "video_url": "",
+            "img": "http://wx4.sinaimg.cn/middle/008gLPUuly1i658z43cmhj31hc0u0jxn.jpg",
+            "vtype": 0,
+            "doc_score": 4508,
+            "img_pid": "008gLPUuly1i658z43cmhj31hc0u0jxn",
+            "h": 1080,
+            "hit_score_new": 88.427734,
+            "click_rate": 0.12962962962963,
+            "click_num": 0,
+            "user_name": "北京WB的训练机",
+            "type": "p",
+            "cur_mid": "5219578078564299"
+          },
+          {
+            "scheme": "sinaweibo://video/vvs?mid=5228926964340309&multi_paragraph=1&multi_count=0",
+            "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.600.600.50/6f0b57d3ly8hpxak2a0r3j20go0got9r.jpg?KID=imgbed,tva&Expires=1762198531&ssig=YyGddOuv1f",
+            "hit_score_final": 0,
+            "w": 1920,
+            "video_url": "https://video.weibo.com/show?fid=1034:5228663520559135",
+            "img": "http://wx3.sinaimg.cn/middle/006D5nCUly1i6y975drxtj31hc0u0ttw.jpg",
+            "vtype": 7,
+            "doc_score": 0,
+            "img_pid": "006D5nCUly1i6y975drxtj31hc0u0ttw",
+            "h": 1080,
+            "hit_score_new": 0,
+            "click_rate": 0.16843259042748,
+            "click_num": 0,
+            "user_name": "KPL王者荣耀职业联赛",
+            "type": "v",
+            "cur_mid": "5228926964340309"
+          }
+        ]
+      },
+      "msg": "<think><br><br>嗯，用户查询的是“kpl一千零一夜”，我需要从搜索结果中整理相关信息。用户可能是王者荣耀电竞爱好者，想了解这个衍生节目的详情。<br><br>先浏览所有搜索结果，发现大部分内容指向2025年KPL年度总决赛的特别节目《一千零一夜2》。这个节目是官方推出的电竞衍生综艺，属于平行世界对决主题的趣味竞技。核心信息包括：<br><br>节目分为四个阶段：10月8日启动的擂辣椒台赛是脑力抢答环节，10月15日突突突突围赛侧重体力对抗，10月22日淘气包马小汰赛主打经典小游戏，11月初的阿拉经总决赛是终极对决。参赛的12支战队包括AG、WB等热门队伍。<br><br>选手表现方面，AG一诺成为搞笑担当：他因n/l不分引发笑料，答题时盲目抢答扣分，还吐槽节目组剪辑；北京WB暖阳则展现学霸属性，答题正确率100%；清清被调侃“忠义”属性，因无条件支持一诺被Fly吐槽。追击战中一诺和清清的互动被形容为“KPL版猫和老鼠”。<br><br>11月3日第五期收官，AG夺得总冠军并喊出“七连冠”口号。配套福利包括鸟巢限定周边预售和决赛门票抽奖。<br><br>注意到部分结果涉及电视剧和文学名著《一千零一夜》[^28-30]，但和KPL无关，需要排除。最终决定按赛程亮点、选手名场面、节目影响三部分组织答案，突出电竞综艺的趣味性和选手反差萌。<br><br></think><br>以下是关于**2025年KPL年度总决赛衍生节目《一千零一夜》**的综合整理，结合节目亮点、赛制设计、选手表现及最新动态：<br>### 🔥 **节目核心亮点**<br>1. **主题与定位**  <br>   - 以“平行世界对决”为创意核心，集结**12支KPL战队选手**（如AG超玩会、北京WB、广州TTG等），通过趣味竞技展现选手赛场外的反差魅力。```wbCustomBlock{\"type\": \"quoted\", \"index\": 5, \"data\": {\"num\": [17], \"version\": 2, \"quote_list\": [{\"name\": \"KPL王者荣耀职业联赛\", \"scheme\": \"sinaweibo://detail?mblogid=5214038864171562\", \"index\": 17, \"label\": \"大v\"}], \"name\": \"KPL王者荣耀职业联赛\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.600.600.50/6f0b57d3ly8hpxak2a0r3j20go0got9r.jpg?KID=imgbed,tva&Expires=1762198531&ssig=YyGddOuv1f\", \"scheme\": \"sinaweibo://detail?mblogid=5214038864171562\", \"vType\": 7}}```  <br>   - 节目于**2025年10月8日首播**，每周三更新，11月3日第五期正式收官。```wbCustomBlock{\"type\": \"quoted\", \"index\": 6, \"data\": {\"num\": [1, 16, 57], \"version\": 2, \"quote_list\": [{\"name\": \"KPL王者荣耀职业联赛\", \"scheme\": \"sinaweibo://detail?mblogid=5228926964340309\", \"index\": 1, \"label\": \"\"}, {\"name\": \"KPL王者荣耀职业联赛\", \"scheme\": \"sinaweibo://detail?mblogid=5224578311260241\", \"index\": 16, \"label\": \"\"}, {\"name\": \"KPL王者荣耀职业联赛\", \"scheme\": \"sinaweibo://detail?mblogid=5213368518708429\", \"index\": 57, \"label\": \"\"}]}}```<br><br>2. **赛制四大阶段**  <br>   - **擂辣椒台赛（脑力对决）**：12支战队分大师组/精英组，通过BO5抢答循环赛晋级。北京WB暖阳以100%正确率封神，AG一诺则因抢答失误成“喜剧人”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 8, \"data\": {\"num\": [16], \"version\": 2, \"quote_list\": [{\"name\": \"KPL王者荣耀职业联赛\", \"scheme\": \"sinaweibo://detail?mblogid=5224578311260241\", \"index\": 16, \"label\": \"\"}]}}```  <br>   - **突突突突围赛（体力对抗）**：高顺位队伍自选对手，上演BO7单败淘汰。选手自创“直升机流打法”“棍林棒雨”等战术。```wbCustomBlock{\"type\": \"quoted\", \"index\": 9, \"data\": {\"num\": [5, 22], \"version\": 2, \"quote_list\": [{\"name\": \"广州TTG\", \"scheme\": \"sinaweibo://detail?mblogid=5222074349523422\", \"index\": 5, \"label\": \"大v\"}, {\"name\": \"游戏吐槽酱\", \"scheme\": \"sinaweibo://detail?mblogid=5224582765612363\", \"index\": 22, \"label\": \"\"}], \"name\": \"广州TTG\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.600.600.50/006XZElNly8hs718ogpodj30go0godhf.jpg?KID=imgbed,tva&Expires=1762198531&ssig=0r1YMAGCtj\", \"scheme\": \"sinaweibo://detail?mblogid=5222074349523422\", \"vType\": 7}}```  <br>   - **淘气包马小汰赛（经典游戏）**：八强抽签挑战泼水大战、气球对抗等。AG一诺与大帅上演“让二追三”，放狠话：“比赛和这里你们都赢不了！目标是七连冠！”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 10, \"data\": {\"num\": [1, 14], \"version\": 2, \"quote_list\": [{\"name\": \"一杯桃酿\", \"scheme\": \"sinaweibo://detail?mblogid=5228953696734209\", \"index\": 14, \"label\": \"大v\"}, {\"name\": \"KPL王者荣耀职业联赛\", \"scheme\": \"sinaweibo://detail?mblogid=5228926964340309\", \"index\": 1, \"label\": \"\"}], \"name\": \"一杯桃酿\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/e45ba1a4ly8i5fq3e9pxcj20u00u0go2.jpg?KID=imgbed,tva&Expires=1762198531&ssig=uXzx5oVGtb\", \"scheme\": \"sinaweibo://detail?mblogid=5228953696734209\", \"vType\": 0}}```  <br>   - **阿拉经总决赛（巅峰对决）**：BO3赛制，含平局触发“巅峰对决”机制。11月3日收官战中，**成都AG超玩会**夺得总冠军。```wbCustomBlock{\"type\": \"quoted\", \"index\": 11, \"data\": {\"num\": [1, 13], \"version\": 2, \"quote_list\": [{\"name\": \"熊熊无聊_\", \"scheme\": \"sinaweibo://detail?mblogid=5228952522065736\", \"index\": 13, \"label\": \"大v\"}, {\"name\": \"KPL王者荣耀职业联赛\", \"scheme\": \"sinaweibo://detail?mblogid=5228926964340309\", \"index\": 1, \"label\": \"\"}], \"name\": \"熊熊无聊_\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/00740vVCly8hsmlrxry5ej30u00u0go6.jpg?KID=imgbed,tva&Expires=1762198531&ssig=S2Xb5WQEtQ\", \"scheme\": \"sinaweibo://detail?mblogid=5228952522065736\", \"vType\": 0}}```<br><br>3. **选手名场面**  <br>   - **一诺的综艺感**：  <br>     - 答题环节因n/l不分（如将“吃”念成“ci”）引爆笑点；```wbCustomBlock{\"type\": \"quoted\", \"index\": 14, \"data\": {\"num\": [3, 47], \"version\": 2, \"quote_list\": [{\"name\": \"角落猫M\", \"scheme\": \"sinaweibo://detail?mblogid=5228944517496936\", \"index\": 3, \"label\": \"大v\"}, {\"name\": \"蒜香鱼薄荷酥\", \"scheme\": \"sinaweibo://detail?mblogid=5228942040763275\", \"index\": 47, \"label\": \"\"}], \"name\": \"角落猫M\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/006f2J2xly8hs9xi7l384j30u00u0tby.jpg?KID=imgbed,tva&Expires=1762198531&ssig=2w5hwY30Vq\", \"scheme\": \"sinaweibo://detail?mblogid=5228944517496936\", \"vType\": 0}}```  <br>     - 追击战中被清清“插翅难逃”，被调侃为“KPL猫和老鼠”；```wbCustomBlock{\"type\": \"quoted\", \"index\": 15, \"data\": {\"num\": [2, 61], \"version\": 2, \"quote_list\": [{\"name\": \"王者荣耀李小白君\", \"scheme\": \"sinaweibo://detail?mblogid=5229028358232831\", \"index\": 61, \"label\": \"大v\"}, {\"name\": \"角落猫M\", \"scheme\": \"sinaweibo://detail?mblogid=5228951502064824\", \"index\": 2, \"label\": \"\"}], \"name\": \"王者荣耀李小白君\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/bf588bb0ly8gxv0llzxgpj20u00u0q4x.jpg?KID=imgbed,tva&Expires=1762198531&ssig=6IqZ8Fzv%2Fa\", \"scheme\": \"sinaweibo://detail?mblogid=5229028358232831\", \"vType\": 0}}```  <br>     - 吐槽裁判干扰：“我要选B的，一直让我选D！”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 16, \"data\": {\"num\": [8, 9], \"version\": 2, \"quote_list\": [{\"name\": \"王者荣耀李小白君\", \"scheme\": \"sinaweibo://detail?mblogid=5219543531651612\", \"index\": 8, \"label\": \"\"}, {\"name\": \"角落猫M\", \"scheme\": \"sinaweibo://detail?mblogid=5219986814798933\", \"index\": 9, \"label\": \"\"}]}}```  <br>   - **高能互动**：  <br>     - 无畏与小落颜值合拍获赞“对眼睛很好”；```wbCustomBlock{\"type\": \"quoted\", \"index\": 18, \"data\": {\"num\": [20, 60], \"version\": 2, \"quote_list\": [{\"name\": \"小七仔旅行日记\", \"scheme\": \"sinaweibo://detail?mblogid=5227164404550818\", \"index\": 60, \"label\": \"大v\"}, {\"name\": \"角落猫M\", \"scheme\": \"sinaweibo://detail?mblogid=5219564342478875\", \"index\": 20, \"label\": \"\"}], \"name\": \"小七仔旅行日记\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/006HVvBvly8hy9sm7ksklj30u00u1q5s.jpg?KID=imgbed,tva&Expires=1762198531&ssig=Pk3K9ZOzl5\", \"scheme\": \"sinaweibo://detail?mblogid=5227164404550818\", \"vType\": 0}}```  <br>     - 北京WB暖阳与梓墨化身“答题兄弟”，默契十足。```wbCustomBlock{\"type\": \"quoted\", \"index\": 19, \"data\": {\"num\": [38, 55], \"version\": 2, \"quote_list\": [{\"name\": \"北京WB的训练机\", \"scheme\": \"sinaweibo://detail?mblogid=5219578078564299\", \"index\": 55, \"label\": \"大v\"}, {\"name\": \"北京WB王者荣耀分部\", \"scheme\": \"sinaweibo://detail?mblogid=5228930869234390\", \"index\": 38, \"label\": \"\"}], \"name\": \"北京WB的训练机\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.828.828.50/008gLPUuly8gq7op264ryj30n00n0myj.jpg?KID=imgbed,tva&Expires=1762198531&ssig=JhJGpZHCyt\", \"scheme\": \"sinaweibo://detail?mblogid=5219578078564299\", \"vType\": 0}}```  <br>   - **梗王诞生**：  <br>     - 清清因“无条件站队一诺”被Fly认证为“忠义清清”；```wbCustomBlock{\"type\": \"quoted\", \"index\": 21, \"data\": {\"num\": [56], \"version\": 2, \"quote_list\": [{\"name\": \"熊熊无聊_\", \"scheme\": \"sinaweibo://detail?mblogid=5219537236530322\", \"index\": 56, \"label\": \"\"}]}}```  <br>     - 大帅夺冠后高喊“七连冠”，AG团队口号出圈。```wbCustomBlock{\"type\": \"quoted\", \"index\": 22, \"data\": {\"num\": [13], \"version\": 2, \"quote_list\": [{\"name\": \"熊熊无聊_\", \"scheme\": \"sinaweibo://detail?mblogid=5228952522065736\", \"index\": 13, \"label\": \"\"}]}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5228926964340309&multi_paragraph=1&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.600.600.50/6f0b57d3ly8hpxak2a0r3j20go0got9r.jpg?KID=imgbed,tva&Expires=1762198531&ssig=YyGddOuv1f) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">KPL王者荣耀职业联赛</span><img src=\"http://wx3.sinaimg.cn/middle/006D5nCUly1i6y975drxtj31hc0u0ttw.jpg\" data-width=1080 data-height=1920></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5213368518708429&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=1&multi_count=1\"><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.600.600.50/6f0b57d3ly8hpxak2a0r3j20go0got9r.jpg?KID=imgbed,tva&Expires=1762198531&ssig=YyGddOuv1f) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">KPL王者荣耀职业联赛</span><img src=\"http://wx4.sinaimg.cn/middle/006D5nCUly1i5lfzbn2lsj31hc0u04ot.jpg\" data-width=1080 data-height=1920></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5219578078564299&from=search&content_show=1&mix_index=4&hide_index=1&multi_paragraph=1&multi_count=2\"><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.828.828.50/008gLPUuly8gq7op264ryj30n00n0myj.jpg?KID=imgbed,tva&Expires=1762198531&ssig=JhJGpZHCyt) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">北京WB的训练机</span><img src=\"http://wx4.sinaimg.cn/middle/008gLPUuly1i658z43cmhj31hc0u0jxn.jpg\" data-width=1080 data-height=1920></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5219564342478875&from=search&content_show=1&mix_index=2&hide_index=1&multi_paragraph=1&multi_count=3\"><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/006f2J2xly8hs9xi7l384j30u00u0tby.jpg?KID=imgbed,tva&Expires=1762198531&ssig=2w5hwY30Vq) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">角落猫M</span><img src=\"http://wx1.sinaimg.cn/middle/006f2J2xly1i657rdzgsyj31ls0win1x.jpg\" data-width=1170 data-height=2080></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5214038864171562&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=4\"><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.600.600.50/6f0b57d3ly8hpxak2a0r3j20go0got9r.jpg?KID=imgbed,tva&Expires=1762198531&ssig=YyGddOuv1f) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">KPL王者荣耀职业联赛</span><img src=\"http://wx4.sinaimg.cn/middle/006D5nCUgy1i5mvjsyavkj30u06k61kz.jpg\" data-width=8502 data-height=1080></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5228944517496936&multi_paragraph=1&multi_count=5\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/006f2J2xly8hs9xi7l384j30u00u0tby.jpg?KID=imgbed,tva&Expires=1762198531&ssig=2w5hwY30Vq) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">角落猫M</span><img src=\"http://wx2.sinaimg.cn/middle/006f2J2xly1i6z4zm56a2j31hc0u0tat.jpg\" data-width=1080 data-height=1920></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5228951502064824&multi_paragraph=1&multi_count=6\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/006f2J2xly8hs9xi7l384j30u00u0tby.jpg?KID=imgbed,tva&Expires=1762198531&ssig=2w5hwY30Vq) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">角落猫M</span><img src=\"http://wx3.sinaimg.cn/middle/006f2J2xly1i6z5vhee5bj31hc0u076o.jpg\" data-width=1080 data-height=1920></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5227164404550818&multi_paragraph=1&multi_count=7\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/006HVvBvly8hy9sm7ksklj30u00u1q5s.jpg?KID=imgbed,tva&Expires=1762198531&ssig=Pk3K9ZOzl5) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">小七仔旅行日记</span><img src=\"http://wx2.sinaimg.cn/middle/006HVvBvgy1i6tgkf0rj1j31hc0u0gv8.jpg\" data-width=1080 data-height=1920></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5228952522065736&multi_paragraph=1&multi_count=8\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/00740vVCly8hsmlrxry5ej30u00u0go6.jpg?KID=imgbed,tva&Expires=1762198531&ssig=S2Xb5WQEtQ) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">熊熊无聊_</span><img src=\"http://wx3.sinaimg.cn/middle/00740vVCgy1i6z60i5yv0j30u00gvwi2.jpg\" data-width=607 data-height=1080></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5222074349523422&multi_paragraph=1&multi_count=9\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.600.600.50/006XZElNly8hs718ogpodj30go0godhf.jpg?KID=imgbed,tva&Expires=1762198531&ssig=0r1YMAGCtj) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">广州TTG</span><img src=\"http://wx2.sinaimg.cn/middle/006XZElNgy1i6d32ntko4j31hc0u048s.jpg\" data-width=1080 data-height=1920></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5224582765612363&multi_paragraph=1&multi_count=10\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/006i0g4Oly8gmu38evnatj30u00u0acx.jpg?KID=imgbed,tva&Expires=1762198531&ssig=GaQ9v43zUi) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">游戏吐槽酱</span><img src=\"http://wx1.sinaimg.cn/middle/006i0g4Ogy1i6l850r4kmj31hc0u077v.jpg\" data-width=1080 data-height=1920></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5228953696734209&multi_paragraph=1&multi_count=11\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/e45ba1a4ly8i5fq3e9pxcj20u00u0go2.jpg?KID=imgbed,tva&Expires=1762198531&ssig=uXzx5oVGtb) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">一杯桃酿</span><img src=\"http://wx3.sinaimg.cn/middle/e45ba1a4gy1i6z64ut849j20u00gvdh9.jpg\" data-width=607 data-height=1080></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5229028358232831&multi_paragraph=1&multi_count=12\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/bf588bb0ly8gxv0llzxgpj20u00u0q4x.jpg?KID=imgbed,tva&Expires=1762198531&ssig=6IqZ8Fzv%2Fa) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">王者荣耀李小白君</span><img src=\"http://wx1.sinaimg.cn/middle/bf588bb0gy1i6zepsy8v5j20k0130js0.jpg\" data-width=1404 data-height=720></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5219543531651612&multi_paragraph=1&multi_count=13\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/bf588bb0ly8gxv0llzxgpj20u00u0q4x.jpg?KID=imgbed,tva&Expires=1762198531&ssig=6IqZ8Fzv%2Fa) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">王者荣耀李小白君</span><img src=\"http://wx3.sinaimg.cn/middle/bf588bb0gy1i655dzfm79j21hc0u0wig.jpg\" data-width=1080 data-height=1920></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5219537236530322&multi_paragraph=1&multi_count=14\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/00740vVCly8hsmlrxry5ej30u00u0go6.jpg?KID=imgbed,tva&Expires=1762198531&ssig=S2Xb5WQEtQ) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">熊熊无聊_</span><img src=\"http://wx3.sinaimg.cn/middle/00740vVCgy1i654ojguobj31hc0u076w.jpg\" data-width=1080 data-height=1920></div></media-block><br>### 🎉 **幕后花絮与观众反馈**<br>- **剪辑争议**：选手吐槽正片删减高能片段（如一诺“一挑六答题”），观众呼吁放出完整版。```wbCustomBlock{\"type\": \"quoted\", \"index\": 25, \"data\": {\"num\": [9], \"version\": 2, \"quote_list\": [{\"name\": \"角落猫M\", \"scheme\": \"sinaweibo://detail?mblogid=5219986814798933\", \"index\": 9, \"label\": \"\"}]}}```  <br>- **技术彩蛋**：道具设计藏梗，如“奔狼追击战”中选手模仿游戏技能动作。```wbCustomBlock{\"type\": \"quoted\", \"index\": 26, \"data\": {\"num\": [1, 15, 39], \"version\": 2, \"quote_list\": [{\"name\": \"王者小刀口\", \"scheme\": \"sinaweibo://detail?mblogid=5229025326012799\", \"index\": 39, \"label\": \"大v\"}, {\"name\": \"KPL王者荣耀职业联赛\", \"scheme\": \"sinaweibo://detail?mblogid=5228926964340309\", \"index\": 1, \"label\": \"\"}, {\"name\": \"熊熊无聊_\", \"scheme\": \"sinaweibo://detail?mblogid=5229019751776881\", \"index\": 15, \"label\": \"\"}], \"name\": \"王者小刀口\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/006vR4PMly8i4ja4q12q9j30u00u0tal.jpg?KID=imgbed,tva&Expires=1762198531&ssig=QG3y4fewjM\", \"scheme\": \"sinaweibo://detail?mblogid=5229025326012799\", \"vType\": 0}}```  <br>- **选手体验**：LGD小落、小白熊等发文称赞“好玩”“体验很棒”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 27, \"data\": {\"num\": [36, 37], \"version\": 2, \"quote_list\": [{\"name\": \"LGDNBW-小落\", \"scheme\": \"sinaweibo://detail?mblogid=5228967990919775\", \"index\": 36, \"label\": \"大v\"}, {\"name\": \"LGDNBW-小白熊\", \"scheme\": \"sinaweibo://detail?mblogid=5228976819669739\", \"index\": 37, \"label\": \"\"}], \"name\": \"LGDNBW-小落\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.512.512.50/008w2t1Nly8hhm7673y1rj30e80e8t95.jpg?KID=imgbed,tva&Expires=1762198531&ssig=5kCpiwckc6\", \"scheme\": \"sinaweibo://detail?mblogid=5228967990919775\", \"vType\": 0}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5229019751776881&multi_paragraph=2&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/00740vVCly8hsmlrxry5ej30u00u0go6.jpg?KID=imgbed,tva&Expires=1762198531&ssig=S2Xb5WQEtQ) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">熊熊无聊_</span><img src=\"http://wx3.sinaimg.cn/middle/00740vVCgy1i6zdmxg4fhj30ru0fowg8.jpg\" data-width=564 data-height=1002></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5229025326012799&multi_paragraph=2&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/006vR4PMly8i4ja4q12q9j30u00u0tal.jpg?KID=imgbed,tva&Expires=1762198531&ssig=QG3y4fewjM) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">王者小刀口</span><img src=\"http://wx1.sinaimg.cn/middle/006vR4PMly1i6zec5wfu7j31hc0u0jur.jpg\" data-width=1080 data-height=1920></div></media-block><br>### 🎁 **配套活动与福利**<br>1. **限定周边**  <br>   - 推出**鸟巢联名周边**，含拍立得（隐藏款双层撕拉设计）、流沙冰箱贴（复刻决赛“金色雨”特效）等，通过“巢极购”小程序预售。  <br>2. **粉丝福利**  <br>   - 参与战队官博互动（如AG、WB），可抽**鸟巢总决赛门票、iQOO手机、智能手表**。```wbCustomBlock{\"type\": \"quoted\", \"index\": 33, \"data\": {\"num\": [17, 52], \"version\": 2, \"quote_list\": [{\"name\": \"KPL王者荣耀职业联赛\", \"scheme\": \"sinaweibo://detail?mblogid=5214038864171562\", \"index\": 17, \"label\": \"\"}, {\"name\": \"KPL王者荣耀职业联赛\", \"scheme\": \"sinaweibo://detail?mblogid=5219066995802738\", \"index\": 52, \"label\": \"\"}]}}```  <br>3. **决赛信息**  <br>   - **年度总决赛**：11月8日北京鸟巢举行，总奖金池7000万，FMVP选手将获定制皮肤。```wbCustomBlock{\"type\": \"quoted\", \"index\": 35, \"data\": {\"num\": [40], \"version\": 2, \"quote_list\": [{\"name\": \"王者小刀口\", \"scheme\": \"sinaweibo://detail?mblogid=5228985577641009\", \"index\": 40, \"label\": \"\"}]}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5219066995802738&multi_paragraph=3&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.600.600.50/6f0b57d3ly8hpxak2a0r3j20go0got9r.jpg?KID=imgbed,tva&Expires=1762198531&ssig=YyGddOuv1f) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">KPL王者荣耀职业联赛</span><img src=\"http://wx2.sinaimg.cn/middle/006D5nCUly1i62xcndkxgj31390m31id.jpg\" data-width=795 data-height=1413></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5228985577641009&multi_paragraph=3&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/006vR4PMly8i4ja4q12q9j30u00u0tal.jpg?KID=imgbed,tva&Expires=1762198531&ssig=QG3y4fewjM) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">王者小刀口</span><img src=\"http://wx3.sinaimg.cn/middle/006vR4PMly1i6z9sj6hp3j30u00gv76l.jpg\" data-width=607 data-height=1080></div></media-block><br>### 💎 **节目价值与影响**<br>- **打破赛事边界**：将电竞热血与综艺幽默融合，成为休赛期“精神补给”，观众称其“暖心治愈”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 38, \"data\": {\"num\": [63], \"version\": 2, \"quote_list\": [{\"name\": \"YYDS\", \"scheme\": \"sinaweibo://detail?mblogid=5224592819621253\", \"index\": 63, \"label\": \"\"}], \"name\": \"YYDS\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.896.896.50/006Z3lk6ly8h4oae4bqkkj30ow0owdjo.jpg?KID=imgbed,tva&Expires=1762198531&ssig=g5jC%2B4SBxO\", \"scheme\": \"sinaweibo://detail?mblogid=5224592819621253\", \"vType\": 0}}```  <br>- **立体化选手形象**：展现赛场外真实性格（如一诺的莽撞搞笑、暖阳的冷静学霸），拉近与粉丝距离。```wbCustomBlock{\"type\": \"quoted\", \"index\": 39, \"data\": {\"num\": [13, 42], \"version\": 2, \"quote_list\": [{\"name\": \"摇铃唤小白鹿\", \"scheme\": \"sinaweibo://detail?mblogid=5228933952833897\", \"index\": 42, \"label\": \"\"}, {\"name\": \"熊熊无聊_\", \"scheme\": \"sinaweibo://detail?mblogid=5228952522065736\", \"index\": 13, \"label\": \"\"}], \"name\": \"摇铃唤小白鹿\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.512.512.50/005PFiWGly8hkfm577hoqj30e80e8jru.jpg?KID=imgbed,tva&Expires=1762198531&ssig=nx3grubn0Z\", \"scheme\": \"sinaweibo://detail?mblogid=5228933952833897\", \"vType\": 0}}```  <br>- **文化破圈**：话题#2025KPL年总一千零一夜#阅读量超10亿，选手片段二创席卷社交平台。```wbCustomBlock{\"type\": \"quoted\", \"index\": 40, \"data\": {\"num\": [1, 63], \"version\": 2, \"quote_list\": [{\"name\": \"KPL王者荣耀职业联赛\", \"scheme\": \"sinaweibo://detail?mblogid=5228926964340309\", \"index\": 1, \"label\": \"\"}, {\"name\": \"YYDS\", \"scheme\": \"sinaweibo://detail?mblogid=5224592819621253\", \"index\": 63, \"label\": \"\"}]}}```<br><br>> 📺 **追更提示**：完整片段可在**腾讯视频、KPL官博**回看，幕后花絮由俱乐部账号持续更新（如北京WB掉落梓墨、暖阳拍摄现场）。```wbCustomBlock{\"type\": \"quoted\", \"index\": 41, \"data\": {\"num\": [49, 55], \"version\": 2, \"quote_list\": [{\"name\": \"北京WB的训练机\", \"scheme\": \"sinaweibo://detail?mblogid=5224624933830672\", \"index\": 49, \"label\": \"\"}, {\"name\": \"北京WB的训练机\", \"scheme\": \"sinaweibo://detail?mblogid=5219578078564299\", \"index\": 55, \"label\": \"\"}]}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5224624933830672&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=4&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.828.828.50/008gLPUuly8gq7op264ryj30n00n0myj.jpg?KID=imgbed,tva&Expires=1762198531&ssig=JhJGpZHCyt) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">北京WB的训练机</span><img src=\"http://wx3.sinaimg.cn/middle/008gLPUuly1i6lcv1j6szj31400u07a2.jpg\" data-width=1080 data-height=1440></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5228933952833897&multi_paragraph=4&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.512.512.50/005PFiWGly8hkfm577hoqj30e80e8jru.jpg?KID=imgbed,tva&Expires=1762198531&ssig=nx3grubn0Z) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">摇铃唤小白鹿</span><img src=\"http://wx3.sinaimg.cn/middle/005PFiWGgy1i6z3vqghq8j31800os7bi.jpg\" data-width=892 data-height=1584></div></media-block><br>",
+      "share_text": "#KPL一千零一夜#的相关内容，来智搜看看",
+      "qs_status_info": "{\"qs_c_status\":8388608,\"qs_r_status\":0,\"qs_u_status\":0,\"qs_status\":0,\"qs_q_status\":0,\"ab_lab\":{}}",
+      "news_analyze": {},
+      "query": "#KPL一千零一夜#",
+      "mid_list": null,
+      "reference_num": 54,
+      "query_category": "Ip",
+      "status_stage": 4,
+      "link_list": [
+        "sinaweibo://detail?mblogid=5228926964340309",
+        "sinaweibo://detail?mblogid=5228951502064824",
+        "sinaweibo://detail?mblogid=5228944517496936",
+        "sinaweibo://detail?mblogid=5219370742841653",
+        "sinaweibo://detail?mblogid=5222074349523422",
+        "sinaweibo://detail?mblogid=5219557042029794",
+        "sinaweibo://detail?mblogid=5208325093591872",
+        "sinaweibo://detail?mblogid=5219543531651612",
+        "sinaweibo://detail?mblogid=5219986814798933",
+        "sinaweibo://detail?mblogid=5219894988639290",
+        "sinaweibo://detail?mblogid=5229002811245708",
+        "sinaweibo://detail?mblogid=5228946025088089",
+        "sinaweibo://detail?mblogid=5228952522065736",
+        "sinaweibo://detail?mblogid=5228953696734209",
+        "sinaweibo://detail?mblogid=5229019751776881",
+        "sinaweibo://detail?mblogid=5224578311260241",
+        "sinaweibo://detail?mblogid=5214038864171562",
+        "sinaweibo://detail?mblogid=5227124895254970",
+        "sinaweibo://detail?mblogid=5222182760219512",
+        "sinaweibo://detail?mblogid=5219564342478875",
+        "sinaweibo://detail?mblogid=5224583348617751",
+        "sinaweibo://detail?mblogid=5224582765612363",
+        "sinaweibo://detail?mblogid=5222079416504082",
+        "sinaweibo://detail?mblogid=5219539291998368",
+        "sinaweibo://detail?mblogid=5219555813099615",
+        "sinaweibo://detail?mblogid=5224972945196090",
+        "https://mbd.baidu.com/newspage/data/dtlandingsuper?from=2001k&nid=dt_5050754951110515361",
+        "http://m.news.yule.com.cn/html/201807/275275.html",
+        "http://zuowen.xuexiaodaquan.com/e/2021/0119/1646360.html",
+        "http://m.news.yule.com.cn/html/201807/274013.html",
+        "https://new.qq.com/rain/a/20251022A05RLL00",
+        "https://baike.baidu.com/item/%E4%B8%80%E5%8D%83%E9%9B%B6%E4%B8%80%E5%A4%9C/5030?fromModule=search-result_lemma",
+        "historyweibo://5227143358845454",
+        "historyweibo://5224584296794681",
+        "historyweibo://5219509336280935",
+        "sinaweibo://detail?mblogid=5228967990919775",
+        "sinaweibo://detail?mblogid=5228976819669739",
+        "sinaweibo://detail?mblogid=5228930869234390",
+        "sinaweibo://detail?mblogid=5229025326012799",
+        "sinaweibo://detail?mblogid=5228985577641009",
+        "sinaweibo://detail?mblogid=5228941885573556",
+        "sinaweibo://detail?mblogid=5228933952833897",
+        "sinaweibo://detail?mblogid=5228993390837848",
+        "sinaweibo://detail?mblogid=5228818404737424",
+        "sinaweibo://detail?mblogid=5229020895514995",
+        "sinaweibo://detail?mblogid=5228966023271460",
+        "sinaweibo://detail?mblogid=5228942040763275",
+        "sinaweibo://detail?mblogid=5228960985383678",
+        "sinaweibo://detail?mblogid=5224624933830672",
+        "sinaweibo://detail?mblogid=5224616958367105",
+        "sinaweibo://detail?mblogid=5225242689276679",
+        "sinaweibo://detail?mblogid=5219066995802738",
+        "sinaweibo://detail?mblogid=5219537635249102",
+        "sinaweibo://detail?mblogid=5219545279104644",
+        "sinaweibo://detail?mblogid=5219578078564299",
+        "sinaweibo://detail?mblogid=5219537236530322",
+        "sinaweibo://detail?mblogid=5213368518708429",
+        "sinaweibo://detail?mblogid=5222087625279441",
+        "sinaweibo://detail?mblogid=5219535210414728",
+        "sinaweibo://detail?mblogid=5227164404550818",
+        "sinaweibo://detail?mblogid=5229028358232831",
+        "sinaweibo://detail?mblogid=5213380958489892",
+        "sinaweibo://detail?mblogid=5224592819621253",
+        "http://cj.sina.cn/articles/view/2868370350/maaf7dbae03301nu8c",
+        "http://www.oh100.com/a/201203/63597.html"
+      ],
+      "page_id": "2329648c59a07f2229c887e3a08be32a764194",
+      "top_quote_list": {},
+      "profile_image_url": "",
+      "share_card_multimodal": {
+        "scheme": "sinaweibo://video/vvs?mid=5228926964340309&multi_paragraph=1&multi_count=0",
+        "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.600.600.50/6f0b57d3ly8hpxak2a0r3j20go0got9r.jpg?KID=imgbed,tva&Expires=1762198531&ssig=YyGddOuv1f",
+        "hit_score_final": 0,
+        "w": 1920,
+        "video_url": "https://video.weibo.com/show?fid=1034:5228663520559135",
+        "img": "http://wx3.sinaimg.cn/middle/006D5nCUly1i6y975drxtj31hc0u0ttw.jpg",
+        "vtype": 7,
+        "doc_score": 0,
+        "img_pid": "006D5nCUly1i6y975drxtj31hc0u0ttw",
+        "h": 1080,
+        "hit_score_new": 0,
+        "click_rate": 0.16843259042748,
+        "click_num": 0,
+        "user_name": "KPL王者荣耀职业联赛",
+        "type": "v",
+        "cur_mid": "5228926964340309"
+      },
+      "chat_status_stage": 1,
+      "basemodel": "实验组5",
+      "model": "deepseek",
+      "ext_show": {},
+      "show_ctrl": {
+        "quote": {}
+      },
+      "wenda": {
+        "forward_gen": 0
+      },
+      "query_field": "1",
+      "reliable_tips": "{\"gold_orange_v_mids\": [\"5224582765612363\", \"5228953696734209\", \"5228952522065736\", \"5228944517496936\", \"5228942040763275\", \"5228951502064824\", \"5229028358232831\", \"5219543531651612\", \"5219986814798933\", \"5219564342478875\", \"5227164404550818\", \"5219578078564299\", \"5219537236530322\", \"5229019751776881\", \"5229025326012799\", \"5228967990919775\", \"5228976819669739\", \"5228985577641009\", \"5224592819621253\", \"5228933952833897\", \"5224624933830672\", \"5219370742841653\", \"5219557042029794\", \"5208325093591872\", \"5219894988639290\", \"5229002811245708\", \"5227124895254970\", \"5224583348617751\", \"5222079416504082\", \"5219539291998368\", \"5219555813099615\", \"5224972945196090\", \"5228941885573556\", \"5228993390837848\", \"5228818404737424\", \"5229020895514995\", \"5224616958367105\", \"5219537635249102\", \"5222087625279441\", \"5219535210414728\", \"5213380958489892\"], \"gold_orange_v_ratio\": \"76%\", \"media_mids\": [\"5228960985383678\"], \"media_ratio\": \"2%\", \"verified_mids\": [\"5214038864171562\", \"5228926964340309\", \"5224578311260241\", \"5213368518708429\", \"5222074349523422\", \"5228930869234390\", \"5219066995802738\", \"5228946025088089\", \"5228966023271460\", \"5225242689276679\", \"5219545279104644\"], \"verified_ratio\": \"20%\", \"normal_mids\": [\"5222182760219512\"], \"normal_ratio\": \"2%\", \"ref_mid_rank\": {\"5214038864171562\": {\"rank\": 17}, \"5228926964340309\": {\"rank\": 1}, \"5224578311260241\": {\"rank\": 16}, \"5213368518708429\": {\"rank\": 57}, \"5222074349523422\": {\"rank\": 5}, \"5224582765612363\": {\"rank\": 22}, \"5228953696734209\": {\"rank\": 14}, \"5228952522065736\": {\"rank\": 13}, \"5228944517496936\": {\"rank\": 3}, \"5228942040763275\": {\"rank\": 47}, \"5228951502064824\": {\"rank\": 2}, \"5229028358232831\": {\"rank\": 61}, \"5219543531651612\": {\"rank\": 8}, \"5219986814798933\": {\"rank\": 9}, \"5219564342478875\": {\"rank\": 20}, \"5227164404550818\": {\"rank\": 60}, \"5228930869234390\": {\"rank\": 38}, \"5219578078564299\": {\"rank\": 55}, \"5219537236530322\": {\"rank\": 56}, \"5229019751776881\": {\"rank\": 15}, \"5229025326012799\": {\"rank\": 39}, \"5228967990919775\": {\"rank\": 36}, \"5228976819669739\": {\"rank\": 37}, \"5219066995802738\": {\"rank\": 52}, \"5228985577641009\": {\"rank\": 40}, \"5224592819621253\": {\"rank\": 63}, \"5228933952833897\": {\"rank\": 42}, \"5224624933830672\": {\"rank\": 49}, \"5219370742841653\": {\"rank\": 4}, \"5219557042029794\": {\"rank\": 6}, \"5208325093591872\": {\"rank\": 7}, \"5219894988639290\": {\"rank\": 10}, \"5229002811245708\": {\"rank\": 11}, \"5228946025088089\": {\"rank\": 12}, \"5227124895254970\": {\"rank\": 18}, \"5222182760219512\": {\"rank\": 19}, \"5224583348617751\": {\"rank\": 21}, \"5222079416504082\": {\"rank\": 23}, \"5219539291998368\": {\"rank\": 24}, \"5219555813099615\": {\"rank\": 25}, \"5224972945196090\": {\"rank\": 26}, \"5228941885573556\": {\"rank\": 41}, \"5228993390837848\": {\"rank\": 43}, \"5228818404737424\": {\"rank\": 44}, \"5229020895514995\": {\"rank\": 45}, \"5228966023271460\": {\"rank\": 46}, \"5228960985383678\": {\"rank\": 48}, \"5224616958367105\": {\"rank\": 50}, \"5225242689276679\": {\"rank\": 51}, \"5219537635249102\": {\"rank\": 53}, \"5219545279104644\": {\"rank\": 54}, \"5222087625279441\": {\"rank\": 58}, \"5219535210414728\": {\"rank\": 59}, \"5213380958489892\": {\"rank\": 62}}}",
+      "msg_format": "markdown",
+      "user_info": {},
+      "loop_times": 200,
+      "abtest_info": {
+        "chat_entrance": 1
+      },
+      "msg_json": "{}",
+      "current_time": 1762188209,
+      "unify_md5": "df1fcd388d2230677ea40b2015c33e66",
+      "analysis_time": 1762187910
+    }
+  },
+  "links": [
+    "sinaweibo://detail?mblogid=5228926964340309",
+    "sinaweibo://detail?mblogid=5228951502064824",
+    "sinaweibo://detail?mblogid=5228944517496936",
+    "sinaweibo://detail?mblogid=5219370742841653",
+    "sinaweibo://detail?mblogid=5222074349523422",
+    "sinaweibo://detail?mblogid=5219557042029794",
+    "sinaweibo://detail?mblogid=5208325093591872",
+    "sinaweibo://detail?mblogid=5219543531651612",
+    "sinaweibo://detail?mblogid=5219986814798933",
+    "sinaweibo://detail?mblogid=5219894988639290",
+    "sinaweibo://detail?mblogid=5229002811245708",
+    "sinaweibo://detail?mblogid=5228946025088089",
+    "sinaweibo://detail?mblogid=5228952522065736",
+    "sinaweibo://detail?mblogid=5228953696734209",
+    "sinaweibo://detail?mblogid=5229019751776881",
+    "sinaweibo://detail?mblogid=5224578311260241",
+    "sinaweibo://detail?mblogid=5214038864171562",
+    "sinaweibo://detail?mblogid=5227124895254970",
+    "sinaweibo://detail?mblogid=5222182760219512",
+    "sinaweibo://detail?mblogid=5219564342478875",
+    "sinaweibo://detail?mblogid=5224583348617751",
+    "sinaweibo://detail?mblogid=5224582765612363",
+    "sinaweibo://detail?mblogid=5222079416504082",
+    "sinaweibo://detail?mblogid=5219539291998368",
+    "sinaweibo://detail?mblogid=5219555813099615",
+    "sinaweibo://detail?mblogid=5224972945196090",
+    "https://mbd.baidu.com/newspage/data/dtlandingsuper?from=2001k&nid=dt_5050754951110515361",
+    "http://m.news.yule.com.cn/html/201807/275275.html",
+    "http://zuowen.xuexiaodaquan.com/e/2021/0119/1646360.html",
+    "http://m.news.yule.com.cn/html/201807/274013.html",
+    "https://new.qq.com/rain/a/20251022A05RLL00",
+    "https://baike.baidu.com/item/%E4%B8%80%E5%8D%83%E9%9B%B6%E4%B8%80%E5%A4%9C/5030?fromModule=search-result_lemma",
+    "historyweibo://5227143358845454",
+    "historyweibo://5224584296794681",
+    "historyweibo://5219509336280935",
+    "sinaweibo://detail?mblogid=5228967990919775",
+    "sinaweibo://detail?mblogid=5228976819669739",
+    "sinaweibo://detail?mblogid=5228930869234390",
+    "sinaweibo://detail?mblogid=5229025326012799",
+    "sinaweibo://detail?mblogid=5228985577641009",
+    "sinaweibo://detail?mblogid=5228941885573556",
+    "sinaweibo://detail?mblogid=5228933952833897",
+    "sinaweibo://detail?mblogid=5228993390837848",
+    "sinaweibo://detail?mblogid=5228818404737424",
+    "sinaweibo://detail?mblogid=5229020895514995",
+    "sinaweibo://detail?mblogid=5228966023271460",
+    "sinaweibo://detail?mblogid=5228942040763275",
+    "sinaweibo://detail?mblogid=5228960985383678",
+    "sinaweibo://detail?mblogid=5224624933830672",
+    "sinaweibo://detail?mblogid=5224616958367105",
+    "sinaweibo://detail?mblogid=5225242689276679",
+    "sinaweibo://detail?mblogid=5219066995802738",
+    "sinaweibo://detail?mblogid=5219537635249102",
+    "sinaweibo://detail?mblogid=5219545279104644",
+    "sinaweibo://detail?mblogid=5219578078564299",
+    "sinaweibo://detail?mblogid=5219537236530322",
+    "sinaweibo://detail?mblogid=5213368518708429",
+    "sinaweibo://detail?mblogid=5222087625279441",
+    "sinaweibo://detail?mblogid=5219535210414728",
+    "sinaweibo://detail?mblogid=5227164404550818",
+    "sinaweibo://detail?mblogid=5229028358232831",
+    "sinaweibo://detail?mblogid=5213380958489892",
+    "sinaweibo://detail?mblogid=5224592819621253",
+    "http://cj.sina.cn/articles/view/2868370350/maaf7dbae03301nu8c",
+    "http://www.oh100.com/a/201203/63597.html"
+  ],
+  "media": [
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/006D5nCUly1i6y975drxtj31hc0u0ttw.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/006D5nCUly1i6y975drxtj31hc0u0ttw.jpg",
+      "alt": "KPL王者荣耀职业联赛",
+      "width": 1080,
+      "height": 1920,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/006D5nCUly1i6y975drxtj31hc0u0ttw.jpg"
+      ],
+      "user": "KPL王者荣耀职业联赛"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/006D5nCUly1i5lfzbn2lsj31hc0u04ot.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/006D5nCUly1i5lfzbn2lsj31hc0u04ot.jpg",
+      "alt": "KPL王者荣耀职业联赛",
+      "width": 1080,
+      "height": 1920,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/006D5nCUly1i5lfzbn2lsj31hc0u04ot.jpg"
+      ],
+      "user": "KPL王者荣耀职业联赛"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/008gLPUuly1i658z43cmhj31hc0u0jxn.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/008gLPUuly1i658z43cmhj31hc0u0jxn.jpg",
+      "alt": "北京WB的训练机",
+      "width": 1080,
+      "height": 1920,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/008gLPUuly1i658z43cmhj31hc0u0jxn.jpg"
+      ],
+      "user": "北京WB的训练机"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/006f2J2xly1i657rdzgsyj31ls0win1x.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/006f2J2xly1i657rdzgsyj31ls0win1x.jpg",
+      "alt": "角落猫M",
+      "width": 1170,
+      "height": 2080,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx4.sinaimg.cn/large/006f2J2xly1i657rdzgsyj31ls0win1x.jpg"
+      ],
+      "user": "角落猫M"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/006D5nCUgy1i5mvjsyavkj30u06k61kz.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/006D5nCUgy1i5mvjsyavkj30u06k61kz.jpg",
+      "alt": "KPL王者荣耀职业联赛",
+      "width": 8502,
+      "height": 1080,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/006D5nCUgy1i5mvjsyavkj30u06k61kz.jpg"
+      ],
+      "user": "KPL王者荣耀职业联赛"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/006f2J2xly1i6z4zm56a2j31hc0u0tat.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/006f2J2xly1i6z4zm56a2j31hc0u0tat.jpg",
+      "alt": "角落猫M",
+      "width": 1080,
+      "height": 1920,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/006f2J2xly1i6z4zm56a2j31hc0u0tat.jpg"
+      ],
+      "user": "角落猫M"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/006f2J2xly1i6z5vhee5bj31hc0u076o.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/006f2J2xly1i6z5vhee5bj31hc0u076o.jpg",
+      "alt": "角落猫M",
+      "width": 1080,
+      "height": 1920,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/006f2J2xly1i6z5vhee5bj31hc0u076o.jpg"
+      ],
+      "user": "角落猫M"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/006HVvBvgy1i6tgkf0rj1j31hc0u0gv8.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/006HVvBvgy1i6tgkf0rj1j31hc0u0gv8.jpg",
+      "alt": "小七仔旅行日记",
+      "width": 1080,
+      "height": 1920,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx4.sinaimg.cn/large/006HVvBvgy1i6tgkf0rj1j31hc0u0gv8.jpg"
+      ],
+      "user": "小七仔旅行日记"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/00740vVCgy1i6z60i5yv0j30u00gvwi2.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/00740vVCgy1i6z60i5yv0j30u00gvwi2.jpg",
+      "alt": "熊熊无聊_",
+      "width": 607,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/00740vVCgy1i6z60i5yv0j30u00gvwi2.jpg"
+      ],
+      "user": "熊熊无聊_"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/006XZElNgy1i6d32ntko4j31hc0u048s.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/006XZElNgy1i6d32ntko4j31hc0u048s.jpg",
+      "alt": "广州TTG",
+      "width": 1080,
+      "height": 1920,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/006XZElNgy1i6d32ntko4j31hc0u048s.jpg"
+      ],
+      "user": "广州TTG"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/006i0g4Ogy1i6l850r4kmj31hc0u077v.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/006i0g4Ogy1i6l850r4kmj31hc0u077v.jpg",
+      "alt": "游戏吐槽酱",
+      "width": 1080,
+      "height": 1920,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/006i0g4Ogy1i6l850r4kmj31hc0u077v.jpg"
+      ],
+      "user": "游戏吐槽酱"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/e45ba1a4gy1i6z64ut849j20u00gvdh9.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/e45ba1a4gy1i6z64ut849j20u00gvdh9.jpg",
+      "alt": "一杯桃酿",
+      "width": 607,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx4.sinaimg.cn/large/e45ba1a4gy1i6z64ut849j20u00gvdh9.jpg"
+      ],
+      "user": "一杯桃酿"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/bf588bb0gy1i6zepsy8v5j20k0130js0.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/bf588bb0gy1i6zepsy8v5j20k0130js0.jpg",
+      "alt": "王者荣耀李小白君",
+      "width": 1404,
+      "height": 720,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/bf588bb0gy1i6zepsy8v5j20k0130js0.jpg"
+      ],
+      "user": "王者荣耀李小白君"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/bf588bb0gy1i655dzfm79j21hc0u0wig.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/bf588bb0gy1i655dzfm79j21hc0u0wig.jpg",
+      "alt": "王者荣耀李小白君",
+      "width": 1080,
+      "height": 1920,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/bf588bb0gy1i655dzfm79j21hc0u0wig.jpg"
+      ],
+      "user": "王者荣耀李小白君"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/00740vVCgy1i654ojguobj31hc0u076w.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/00740vVCgy1i654ojguobj31hc0u076w.jpg",
+      "alt": "熊熊无聊_",
+      "width": 1080,
+      "height": 1920,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/00740vVCgy1i654ojguobj31hc0u076w.jpg"
+      ],
+      "user": "熊熊无聊_"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/00740vVCgy1i6zdmxg4fhj30ru0fowg8.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/00740vVCgy1i6zdmxg4fhj30ru0fowg8.jpg",
+      "alt": "熊熊无聊_",
+      "width": 564,
+      "height": 1002,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/00740vVCgy1i6zdmxg4fhj30ru0fowg8.jpg"
+      ],
+      "user": "熊熊无聊_"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/006vR4PMly1i6zec5wfu7j31hc0u0jur.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/006vR4PMly1i6zec5wfu7j31hc0u0jur.jpg",
+      "alt": "王者小刀口",
+      "width": 1080,
+      "height": 1920,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/006vR4PMly1i6zec5wfu7j31hc0u0jur.jpg"
+      ],
+      "user": "王者小刀口"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/006D5nCUly1i62xcndkxgj31390m31id.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/006D5nCUly1i62xcndkxgj31390m31id.jpg",
+      "alt": "KPL王者荣耀职业联赛",
+      "width": 795,
+      "height": 1413,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/006D5nCUly1i62xcndkxgj31390m31id.jpg"
+      ],
+      "user": "KPL王者荣耀职业联赛"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/006vR4PMly1i6z9sj6hp3j30u00gv76l.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/006vR4PMly1i6z9sj6hp3j30u00gv76l.jpg",
+      "alt": "王者小刀口",
+      "width": 607,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/006vR4PMly1i6z9sj6hp3j30u00gv76l.jpg"
+      ],
+      "user": "王者小刀口"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/008gLPUuly1i6lcv1j6szj31400u07a2.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/008gLPUuly1i6lcv1j6szj31400u07a2.jpg",
+      "alt": "北京WB的训练机",
+      "width": 1080,
+      "height": 1440,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/008gLPUuly1i6lcv1j6szj31400u07a2.jpg"
+      ],
+      "user": "北京WB的训练机"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/005PFiWGgy1i6z3vqghq8j31800os7bi.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/005PFiWGgy1i6z3vqghq8j31800os7bi.jpg",
+      "alt": "摇铃唤小白鹿",
+      "width": 892,
+      "height": 1584,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/005PFiWGgy1i6z3vqghq8j31800os7bi.jpg"
+      ],
+      "user": "摇铃唤小白鹿"
+    }
+  ],
+  "html_path": "data/aicard/hourly/2025-11-04/00/kpl.html"
+}

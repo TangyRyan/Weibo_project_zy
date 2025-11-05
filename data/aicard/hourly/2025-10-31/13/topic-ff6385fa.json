@@ -1,0 +1,402 @@
+{
+  "meta": {
+    "query": "#柯淳说自己还没有作品#",
+    "status_code": 200,
+    "fetched_at": "2025-10-31T22:32:45+08:00",
+    "response": {
+      "top_quote_list": {},
+      "status": 2,
+      "card_multimodal": {
+        "type": "mediablock",
+        "data": [
+          {
+            "w": 1080,
+            "img": "http://wx4.sinaimg.cn/middle/0076EdUAly1i6vf2twtwdj30u01900ve.jpg",
+            "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/0076EdUAly8i1u20d0bu6j30u00u1dip.jpg?KID=imgbed,tva&Expires=1761908180&ssig=l9PlIFHPqx",
+            "h": 1620,
+            "cur_mid": "5227777730282969",
+            "user_name": "耶搜大王",
+            "scheme": "sinaweibo://multimedia?mix_mid=5227777730282969&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=1&multi_count=0",
+            "hit_score_final": 0,
+            "vtype": 0,
+            "video_url": "",
+            "click_rate": 0.060359750131708,
+            "hit_score_new": 0,
+            "doc_score": 0,
+            "img_pid": "0076EdUAly1i6vf2twtwdj30u01900ve",
+            "type": "p"
+          },
+          {
+            "w": 1301,
+            "img": "http://wx1.sinaimg.cn/middle/0076Fpdqly1i6vhh0fcg3j31050qotct.jpg",
+            "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/0076Fpdqly8h8v0x8ecp3j30u00u00um.jpg?KID=imgbed,tva&Expires=1761908180&ssig=eLq%2B4bbaha",
+            "h": 960,
+            "cur_mid": "5227798462730499",
+            "user_name": "娱闻酱",
+            "scheme": "sinaweibo://multimedia?mix_mid=5227798462730499&from=search&content_show=1&mix_index=3&hide_index=1&multi_paragraph=1&multi_count=1",
+            "hit_score_final": 90.242188,
+            "vtype": 0,
+            "video_url": "",
+            "click_rate": 0.06,
+            "hit_score_new": 97.070312,
+            "doc_score": 5143,
+            "img_pid": "0076Fpdqly1i6vhh0fcg3j31050qotct",
+            "type": "p"
+          },
+          {
+            "w": 1080,
+            "img": "http://wx4.sinaimg.cn/middle/0076Fp57ly1i6vgz45twsj30u00uw0y7.jpg",
+            "user_avatar": "https://tvax2.sinaimg.cn/crop.0.0.640.640.50/0076Fp57ly8g3ckrxj3xoj30hs0hs75b.jpg?KID=imgbed,tva&Expires=1761908180&ssig=IBWOmCIPUt",
+            "h": 1112,
+            "cur_mid": "5227794185325598",
+            "user_name": "代言",
+            "scheme": "sinaweibo://multimedia?mix_mid=5227794185325598&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=2",
+            "hit_score_final": 70.44101,
+            "vtype": 3,
+            "video_url": "",
+            "click_rate": 0.06,
+            "hit_score_new": 70.068359,
+            "doc_score": 4442,
+            "img_pid": "0076Fp57ly1i6vgz45twsj30u00uw0y7",
+            "type": "p"
+          },
+          {
+            "w": 1080,
+            "img": "http://wx4.sinaimg.cn/middle/0076EdUAly1i6vf2twtwdj30u01900ve.jpg",
+            "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/0076EdUAly8i1u20d0bu6j30u00u1dip.jpg?KID=imgbed,tva&Expires=1761908180&ssig=l9PlIFHPqx",
+            "h": 1620,
+            "cur_mid": "5227777730282969",
+            "user_name": "耶搜大王",
+            "scheme": "sinaweibo://multimedia?mix_mid=5227777730282969&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=1&multi_count=0",
+            "hit_score_final": 0,
+            "vtype": 0,
+            "video_url": "",
+            "click_rate": 0.060359750131708,
+            "hit_score_new": 0,
+            "doc_score": 0,
+            "img_pid": "0076EdUAly1i6vf2twtwdj30u01900ve",
+            "type": "p"
+          }
+        ]
+      },
+      "share_card_multimodal": {
+        "w": 1080,
+        "img": "http://wx4.sinaimg.cn/middle/0076EdUAly1i6vf2twtwdj30u01900ve.jpg",
+        "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/0076EdUAly8i1u20d0bu6j30u00u1dip.jpg?KID=imgbed,tva&Expires=1761908180&ssig=l9PlIFHPqx",
+        "h": 1620,
+        "cur_mid": "5227777730282969",
+        "user_name": "耶搜大王",
+        "scheme": "sinaweibo://multimedia?mix_mid=5227777730282969&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=1&multi_count=0",
+        "hit_score_final": 0,
+        "vtype": 0,
+        "video_url": "",
+        "click_rate": 0.060359750131708,
+        "hit_score_new": 0,
+        "doc_score": 0,
+        "img_pid": "0076EdUAly1i6vf2twtwdj30u01900ve",
+        "type": "p"
+      },
+      "basemodel": "实验组4",
+      "profile_image_url": "",
+      "unify_md5": "ff6385faa0f72dc113092c1c625dfa2d",
+      "page_id": "232964553d33f7f01aeb8fd7f87df75606612c",
+      "loop_times": 200,
+      "show_ctrl": {
+        "quote": {}
+      },
+      "current_time": 1761921165,
+      "uid": "",
+      "msg_format": "markdown",
+      "reference_num": 44,
+      "query_category": "",
+      "version": "2025-10-31 15:56:20.013999-8443",
+      "link_list": [
+        "sinaweibo://detail?mblogid=5227777730282969",
+        "sinaweibo://detail?mblogid=5227803810204454",
+        "sinaweibo://detail?mblogid=5227794185325598",
+        "sinaweibo://detail?mblogid=5226366385782831",
+        "sinaweibo://detail?mblogid=5217644548460428",
+        "sinaweibo://detail?mblogid=5224913448209934",
+        "sinaweibo://detail?mblogid=5226378167058514",
+        "sinaweibo://detail?mblogid=5213259705091512",
+        "sinaweibo://detail?mblogid=5220722351805612",
+        "broadsocial_res://",
+        "broadsocial_res://",
+        "historyweibo://5227777730282969",
+        "historyweibo://5153525286573567",
+        "historyweibo://5152379986251001",
+        "sinaweibo://detail?mblogid=5227806646602115",
+        "sinaweibo://detail?mblogid=5227806909012091",
+        "sinaweibo://detail?mblogid=5227804449050156",
+        "sinaweibo://detail?mblogid=5227798445953362",
+        "sinaweibo://detail?mblogid=5227798462730499",
+        "sinaweibo://detail?mblogid=5227833506139934",
+        "sinaweibo://detail?mblogid=5227796427440182",
+        "sinaweibo://detail?mblogid=5227801988825325",
+        "sinaweibo://detail?mblogid=5227797735806008",
+        "sinaweibo://detail?mblogid=5227799053080737",
+        "sinaweibo://detail?mblogid=5227802383357764",
+        "sinaweibo://detail?mblogid=5211781880349462",
+        "sinaweibo://detail?mblogid=5205188198793424",
+        "sinaweibo://detail?mblogid=5227805688203513",
+        "sinaweibo://detail?mblogid=5213241799869120",
+        "sinaweibo://detail?mblogid=5227804137357953",
+        "sinaweibo://detail?mblogid=5227814019401401",
+        "sinaweibo://detail?mblogid=5217591528523858",
+        "sinaweibo://detail?mblogid=5227804310372376",
+        "sinaweibo://detail?mblogid=5220864464785140",
+        "sinaweibo://detail?mblogid=5211628733992190",
+        "sinaweibo://detail?mblogid=5227507768623168",
+        "sinaweibo://detail?mblogid=5199235977054841",
+        "sinaweibo://detail?mblogid=5227795120654119",
+        "sinaweibo://detail?mblogid=5185788815871121",
+        "sinaweibo://detail?mblogid=5227812123316552",
+        "sinaweibo://detail?mblogid=5182548437110645",
+        "sinaweibo://detail?mblogid=5227583968905104",
+        "sinaweibo://detail?mblogid=5182156561452011",
+        "sinaweibo://detail?mblogid=5178203750794937",
+        "sinaweibo://detail?mblogid=5175255271736166",
+        "sinaweibo://detail?mblogid=5209117119483213",
+        "sinaweibo://detail?mblogid=5205326632062671",
+        "sinaweibo://detail?mblogid=5199287552056485",
+        "sinaweibo://detail?mblogid=5214807951415027",
+        "https://k.sina.cn/article_1974754790_75b45de604001gnag.html?from=ent&subch=oent&wm=3049_0032"
+      ],
+      "msg_json": "{}",
+      "query_field": "1",
+      "chat_status_stage": 1,
+      "model": "deepseek",
+      "wenda": {
+        "forward_gen": 0
+      },
+      "news_analyze": {},
+      "reliable_tips": "{\"gold_orange_v_mids\": [\"5227777730282969\", \"5227798462730499\", \"5227799053080737\", \"5213259705091512\", \"5213241799869120\", \"5227507768623168\", \"5224913448209934\", \"5227812123316552\", \"5227804310372376\", \"5227804449050156\", \"5227804137357953\", \"5227801988825325\", \"5227805688203513\", \"5227795120654119\", \"5227796427440182\", \"5227803810204454\", \"5217644548460428\", \"5226378167058514\", \"5220722351805612\", \"5227806646602115\", \"5227798445953362\", \"5227797735806008\", \"5227802383357764\", \"5220864464785140\", \"5185788815871121\", \"5178203750794937\", \"5175255271736166\", \"5205326632062671\", \"5199287552056485\"], \"gold_orange_v_ratio\": \"66%\", \"media_mids\": [], \"media_ratio\": \"0%\", \"verified_mids\": [\"5227794185325598\", \"5227806909012091\", \"5199235977054841\", \"5182548437110645\", \"5226366385782831\", \"5205188198793424\", \"5211628733992190\", \"5209117119483213\"], \"verified_ratio\": \"18%\", \"normal_mids\": [\"5227833506139934\", \"5211781880349462\", \"5227814019401401\", \"5217591528523858\", \"5227583968905104\", \"5182156561452011\", \"5214807951415027\"], \"normal_ratio\": \"16%\", \"ref_mid_rank\": {\"5227777730282969\": {\"rank\": 1}, \"5227794185325598\": {\"rank\": 3}, \"5227798462730499\": {\"rank\": 19}, \"5227799053080737\": {\"rank\": 24}, \"5213259705091512\": {\"rank\": 8}, \"5227806909012091\": {\"rank\": 16}, \"5213241799869120\": {\"rank\": 29}, \"5227507768623168\": {\"rank\": 36}, \"5224913448209934\": {\"rank\": 6}, \"5199235977054841\": {\"rank\": 37}, \"5182548437110645\": {\"rank\": 41}, \"5227812123316552\": {\"rank\": 40}, \"5227804310372376\": {\"rank\": 33}, \"5227804449050156\": {\"rank\": 17}, \"5227804137357953\": {\"rank\": 30}, \"5227801988825325\": {\"rank\": 22}, \"5227833506139934\": {\"rank\": 20}, \"5227805688203513\": {\"rank\": 28}, \"5227795120654119\": {\"rank\": 38}, \"5227796427440182\": {\"rank\": 21}, \"5227803810204454\": {\"rank\": 2}, \"5226366385782831\": {\"rank\": 4}, \"5217644548460428\": {\"rank\": 5}, \"5226378167058514\": {\"rank\": 7}, \"5220722351805612\": {\"rank\": 9}, \"5227806646602115\": {\"rank\": 15}, \"5227798445953362\": {\"rank\": 18}, \"5227797735806008\": {\"rank\": 23}, \"5227802383357764\": {\"rank\": 25}, \"5211781880349462\": {\"rank\": 26}, \"5205188198793424\": {\"rank\": 27}, \"5227814019401401\": {\"rank\": 31}, \"5217591528523858\": {\"rank\": 32}, \"5220864464785140\": {\"rank\": 34}, \"5211628733992190\": {\"rank\": 35}, \"5185788815871121\": {\"rank\": 39}, \"5227583968905104\": {\"rank\": 42}, \"5182156561452011\": {\"rank\": 43}, \"5178203750794937\": {\"rank\": 44}, \"5175255271736166\": {\"rank\": 45}, \"5209117119483213\": {\"rank\": 46}, \"5205326632062671\": {\"rank\": 47}, \"5199287552056485\": {\"rank\": 48}, \"5214807951415027\": {\"rank\": 49}}}",
+      "q_attr": {
+        "mid": "",
+        "reply_cid": "",
+        "comment_from_type": "",
+        "from_uid": "",
+        "from_request_id": ""
+      },
+      "zs_risk_control": {
+        "think_text_close": 0,
+        "land_button_close": 0
+      },
+      "analysis_time": 1761897623,
+      "comment_info": {},
+      "short_url": "http://t.cn/AXA5Vgee",
+      "share_text": "#柯淳说自己还没有作品#的相关内容，来智搜看看",
+      "ab_suffix": "default",
+      "mid_list": null,
+      "qs_status_info": "{\"qs_u_status\":0,\"qs_q_status\":0,\"qs_c_status\":8388608,\"qs_r_status\":0,\"qs_status\":0,\"ab_lab\":{}}",
+      "scheme": "sinaweibo://cardlist?containerid=100103type%3D225%26q%3D%23%E6%9F%AF%E6%B7%B3%E8%AF%B4%E8%87%AA%E5%B7%B1%E8%BF%98%E6%B2%A1%E6%9C%89%E4%BD%9C%E5%93%81%23%26t%3D&extparam=ai_model%3Ddeepseek%26ori_ai_title%3D%E5%8F%82%E8%80%83%E5%8D%9A%E6%96%87%26material_version%3D1761897380",
+      "cot": 1,
+      "status_stage": 4,
+      "sorted_material_list": null,
+      "msg": "<think><br><br>嗯，用户想了解柯淳说自己还没有作品这件事的背景和原因。这是一个关于娱乐明星的讨论话题，需要从多个角度分析。<br><br>从搜索结果来看，这件事发生在综艺节目《一路繁花》中。柯淳被刘嘉玲问到帅气男生为什么不谈恋爱时，他表示需要权衡爱情和事业，并强调自己\"没有作品加身\"。这个回答引发了热议，形成了话题#柯淳说自己还没有作品#。<br><br>有趣的是，柯淳其实已经是\"短剧一哥\"，主演过《好一个乖乖女》《栀栀复栀栀》《再见江野》等多部爆款短剧。2025年10月他还获得了中国网络视听金橙指数\"年度微短剧男演员\"奖项。所以他说\"没有作品\"似乎有些矛盾。<br><br>深入分析发现，柯淳对\"作品\"有严格定义，指的是获得主流影视圈认可的长剧。作为非科班出身的演员，他在《无限超越班3》中曾面临郝蕾\"技术性流泪\"的演技质疑，这让他渴望用长剧证明自己。<br><br>目前柯淳正处于转型关键期，正在拍摄36集长剧《炽夏》，饰演赛车手角色，为此还考取了专业执照。此外还有《危情逆恋》《不一样的她之糖衣》等长剧待播。他密集投入长剧拍摄，主动淡化短剧成绩，可能是为了专注更高目标。<br><br>节目中宁静的调侃也很有趣：\"等你有作品就成大叔了，没人在乎你了\"，幽默地指出了事业转型的时间压力。<br><br>舆论对此有不同声音：支持派赞赏他的谦逊态度；调侃派引用宁静的吐槽；客观派则认可他的短剧成绩，同时期待长剧突破。<br><br>柯淳的\"无作品论\"实际上是一种进取策略：短期降低公众期待，争取容错空间；长期将短剧流量转化为主流认可。这种清醒的事业规划，配合\"演员需用作品说话\"的表述，强化了他\"清醒事业批\"的人设。<br><br>在回答组织上，我会先介绍事件背景，然后分析柯淳的演艺实绩与言论的矛盾点，接着解读\"无作品\"论的深层含义，最后总结行业反响和事件本质。这样能全面呈现事件的来龙去脉。<br><br></think><br>以下是关于柯淳自称“没有作品”事件的综合分析，结合公开信息和行业背景，整理关键要点如下：<br>### 一、核心事件背景<br>1. **言论出处**  <br>   在综艺《一路繁花》中，柯淳被刘嘉玲问及“帅气男生为何不谈恋爱”时，回应需权衡爱情与事业，并强调自己“**尚无作品加身**”。该言论引发热议，话题#柯淳说自己还没有作品#单日阅读量激增。```wbCustomBlock{\"type\": \"quoted\", \"index\": 3, \"data\": {\"num\": [1, 3, 19], \"version\": 2, \"quote_list\": [{\"name\": \"耶搜大王\", \"scheme\": \"sinaweibo://detail?mblogid=5227777730282969\", \"index\": 1, \"label\": \"大v\"}, {\"name\": \"代言\", \"scheme\": \"sinaweibo://detail?mblogid=5227794185325598\", \"index\": 3, \"label\": \"\"}, {\"name\": \"娱闻酱\", \"scheme\": \"sinaweibo://detail?mblogid=5227798462730499\", \"index\": 19, \"label\": \"\"}], \"name\": \"耶搜大王\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/0076EdUAly8i1u20d0bu6j30u00u1dip.jpg?KID=imgbed,tva&Expires=1761908180&ssig=l9PlIFHPqx\", \"scheme\": \"sinaweibo://detail?mblogid=5227777730282969\", \"vType\": 0}}```  <br>   <br>2. **现场互动戏剧性**  <br>   演员宁静当场调侃：“**等你有作品就成大叔了，没人在乎你了！**”，幽默点出其事业转型的时间压力，成为话题传播的催化剂。```wbCustomBlock{\"type\": \"quoted\", \"index\": 4, \"data\": {\"num\": [19, 24], \"version\": 2, \"quote_list\": [{\"name\": \"娱闻酱\", \"scheme\": \"sinaweibo://detail?mblogid=5227798462730499\", \"index\": 19, \"label\": \"大v\"}, {\"name\": \"追星教父BOBO\", \"scheme\": \"sinaweibo://detail?mblogid=5227799053080737\", \"index\": 24, \"label\": \"\"}], \"name\": \"娱闻酱\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/0076Fpdqly8h8v0x8ecp3j30u00u00um.jpg?KID=imgbed,tva&Expires=1761908180&ssig=eLq%2B4bbaha\", \"scheme\": \"sinaweibo://detail?mblogid=5227798462730499\", \"vType\": 0}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5227777730282969&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=1&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/0076EdUAly8i1u20d0bu6j30u00u1dip.jpg?KID=imgbed,tva&Expires=1761908180&ssig=l9PlIFHPqx) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">耶搜大王</span><img src=\"http://wx4.sinaimg.cn/middle/0076EdUAly1i6vf2twtwdj30u01900ve.jpg\" data-width=1620 data-height=1080></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5227798462730499&from=search&content_show=1&mix_index=3&hide_index=1&multi_paragraph=1&multi_count=1\"><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/0076Fpdqly8h8v0x8ecp3j30u00u00um.jpg?KID=imgbed,tva&Expires=1761908180&ssig=eLq%2B4bbaha) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">娱闻酱</span><img src=\"http://wx1.sinaimg.cn/middle/0076Fpdqly1i6vhh0fcg3j31050qotct.jpg\" data-width=960 data-height=1301></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5227794185325598&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=2\"><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.640.640.50/0076Fp57ly8g3ckrxj3xoj30hs0hs75b.jpg?KID=imgbed,tva&Expires=1761908180&ssig=IBWOmCIPUt) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">代言</span><img src=\"http://wx4.sinaimg.cn/middle/0076Fp57ly1i6vgz45twsj30u00uw0y7.jpg\" data-width=1112 data-height=1080></div></media-block><br>### 二、柯淳的演艺实绩与“无作品”论的矛盾点<br>1. **短剧领域成就**  <br>   - **公认“短剧一哥”**：主演《好一个乖乖女》《栀栀复栀栀》《再见江野》等多部爆款短剧，其中《好一个乖乖女》的反套路霸总角色“段休冥”广受好评。```wbCustomBlock{\"type\": \"quoted\", \"index\": 7, \"data\": {\"num\": [8, 16, 29], \"version\": 2, \"quote_list\": [{\"name\": \"柯淳的Yuki姐\", \"scheme\": \"sinaweibo://detail?mblogid=5213259705091512\", \"index\": 8, \"label\": \"\"}, {\"name\": \"想不到名字-许愿被柯淳翻牌版\", \"scheme\": \"sinaweibo://detail?mblogid=5227806909012091\", \"index\": 16, \"label\": \"\"}, {\"name\": \"kk-kellyen\", \"scheme\": \"sinaweibo://detail?mblogid=5213241799869120\", \"index\": 29, \"label\": \"\"}]}}```  <br>   - **行业认可**：2025年10月获中国网络视听金橙指数“年度微短剧男演员”奖项，印证其短剧领域的商业价值与影响力。```wbCustomBlock{\"type\": \"quoted\", \"index\": 8, \"data\": {\"num\": [36], \"version\": 2, \"quote_list\": [{\"name\": \"十六季天晴\", \"scheme\": \"sinaweibo://detail?mblogid=5227507768623168\", \"index\": 36, \"label\": \"大v\"}], \"name\": \"十六季天晴\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.720.720.50/00897GTfgy1i4pdqujaloj30k00k0jrw.jpg?KID=imgbed,tva&Expires=1761908180&ssig=rvDyqp98k3\", \"scheme\": \"sinaweibo://detail?mblogid=5227507768623168\", \"vType\": 0}}```  <br>   <br>2. **待播长剧与转型进展**  <br>   - **主流影视尝试**：已杀青/拍摄中的项目包括36集长剧《炽夏》（饰演赛车手，为角色考取专业执照）、悬疑剧《危情逆恋》、都市剧《不一样的她之糖衣》。```wbCustomBlock{\"type\": \"quoted\", \"index\": 10, \"data\": {\"num\": [6, 37, 41], \"version\": 2, \"quote_list\": [{\"name\": \"娱乐数码君\", \"scheme\": \"sinaweibo://detail?mblogid=5224913448209934\", \"index\": 6, \"label\": \"大v\"}, {\"name\": \"倒影里的星星为你落下来了\", \"scheme\": \"sinaweibo://detail?mblogid=5199235977054841\", \"index\": 37, \"label\": \"\"}, {\"name\": \"过客a桃桃\", \"scheme\": \"sinaweibo://detail?mblogid=5182548437110645\", \"index\": 41, \"label\": \"\"}], \"name\": \"娱乐数码君\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.1000.1000.50/8ede0d00ly8h7xv8sp46rj20rs0rtmzo.jpg?KID=imgbed,tva&Expires=1761908180&ssig=nXxCK32AG8\", \"scheme\": \"sinaweibo://detail?mblogid=5224913448209934\", \"vType\": 0}}```  <br>   - **综艺曝光**：除《一路繁花》外，参与《无限超越班3》《向山海出发》等节目，展现多面性格。```wbCustomBlock{\"type\": \"quoted\", \"index\": 11, \"data\": {\"num\": [37, 40], \"version\": 2, \"quote_list\": [{\"name\": \"圈内顶流\", \"scheme\": \"sinaweibo://detail?mblogid=5227812123316552\", \"index\": 40, \"label\": \"大v\"}, {\"name\": \"倒影里的星星为你落下来了\", \"scheme\": \"sinaweibo://detail?mblogid=5199235977054841\", \"index\": 37, \"label\": \"\"}], \"name\": \"圈内顶流\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/005GKY8ily8gl8r1d2mnnj30u00u075j.jpg?KID=imgbed,tva&Expires=1761908180&ssig=UoPnfRy9eY\", \"scheme\": \"sinaweibo://detail?mblogid=5227812123316552\", \"vType\": 0}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5199235977054841&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=2&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/ded7bf24ly1i6oyd55v63j20u00u0q6i.jpg?KID=imgbed,tva&Expires=1761908180&ssig=txJwAh2RNQ) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">倒影里的星星为你落下来了</span><img src=\"http://wx3.sinaimg.cn/middle/ded7bf24ly1i4cd42g8ckj20qo0zkk29.jpg\" data-width=1280 data-height=960></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5227507768623168&from=search&content_show=1&mix_index=4&hide_index=1&multi_paragraph=2&multi_count=1\"><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.720.720.50/00897GTfgy1i4pdqujaloj30k00k0jrw.jpg?KID=imgbed,tva&Expires=1761908180&ssig=rvDyqp98k3) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">十六季天晴</span><img src=\"http://wx3.sinaimg.cn/middle/00897GTfgy1i6uk06aaaxj30ng1evjvv.jpg\" data-width=1831 data-height=844></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5227806909012091&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=2&multi_count=2\"><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/0073tMVPly8i3h0hpgu97j30u00u00ur.jpg?KID=imgbed,tva&Expires=1761908180&ssig=xox5a13Ugd) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">想不到名字-许愿被柯淳翻牌版</span><img src=\"http://wx1.sinaimg.cn/middle/0073tMVPgy1i6vifbrnnuj31jk2bc4qp.jpg\" data-width=3000 data-height=2000></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5213259705091512&multi_paragraph=2&multi_count=3\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/a7e30f8fly8i6rekhjtumj20u00u0jts.jpg?KID=imgbed,tva&Expires=1761908180&ssig=00nhd%2Bp9Ie) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">柯淳的Yuki姐</span><img src=\"http://wx4.sinaimg.cn/middle/a7e30f8fly1i5l3ph5b9uj20k00ywjrr.jpg\" data-width=1256 data-height=720></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5224913448209934&multi_paragraph=2&multi_count=4\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.1000.1000.50/8ede0d00ly8h7xv8sp46rj20rs0rtmzo.jpg?KID=imgbed,tva&Expires=1761908180&ssig=nXxCK32AG8) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">娱乐数码君</span><img src=\"http://wx1.sinaimg.cn/middle/8ede0d00ly1i6ma4bt6edj21hc0u0wg2.jpg\" data-width=1080 data-height=1920></div></media-block><br>### 三、自称“无作品”的深层解读<br>1. **行业定位的自我要求**  <br>   - **对主流认可的追求**：柯淳在《无限超越班3》中坦言，非科班出身使其面临演技质疑（如郝蕾评价“技术性流泪”），因此将“作品”**严格定义为获得主流影视圈认可的长剧成果**。```wbCustomBlock{\"type\": \"quoted\", \"index\": 14, \"data\": {\"num\": [33], \"version\": 2, \"quote_list\": [{\"name\": \"小怡夏日恋啵记\", \"scheme\": \"sinaweibo://detail?mblogid=5227804310372376\", \"index\": 33, \"label\": \"大v\"}], \"name\": \"小怡夏日恋啵记\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.1024.1024.50/007lGtuVly8i0huy97i7jj30sg0sgwkg.jpg?KID=imgbed,tva&Expires=1761908180&ssig=m2yc64gAXD\", \"scheme\": \"sinaweibo://detail?mblogid=5227804310372376\", \"vType\": 0}}```  <br>   - **短剧演员的转型焦虑**：尽管短剧播放量数据亮眼（如网传《好一个乖乖女》总播20亿），但业内普遍存在“短剧≠代表作”的认知壁垒。```wbCustomBlock{\"type\": \"quoted\", \"index\": 15, \"data\": {\"num\": [17], \"version\": 2, \"quote_list\": [{\"name\": \"车影追风\", \"scheme\": \"sinaweibo://detail?mblogid=5227804449050156\", \"index\": 17, \"label\": \"大v\"}], \"name\": \"车影追风\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.1036.1036.50/005Wcj97ly8hurls6eteyj30ss0ssmz4.jpg?KID=imgbed,tva&Expires=1761908180&ssig=kEgsauQJ5t\", \"scheme\": \"sinaweibo://detail?mblogid=5227804449050156\", \"vType\": 0}}```  <br><br>2. **事业规划的逻辑自洽**  <br>   - **专注长剧转型期**：目前行程密集投入长剧拍摄（如《炽夏》需封闭训练调琴技能），主动淡化短剧成绩以聚焦更高目标。```wbCustomBlock{\"type\": \"quoted\", \"index\": 17, \"data\": {\"num\": [6], \"version\": 2, \"quote_list\": [{\"name\": \"娱乐数码君\", \"scheme\": \"sinaweibo://detail?mblogid=5224913448209934\", \"index\": 6, \"label\": \"\"}]}}```  <br>   - **维护粉丝关系**：曾表示“演员需用作品说话”，避免恋爱话题分散事业焦点，契合其“清醒事业批”人设。```wbCustomBlock{\"type\": \"quoted\", \"index\": 18, \"data\": {\"num\": [1, 30], \"version\": 2, \"quote_list\": [{\"name\": \"耶搜大王\", \"scheme\": \"sinaweibo://detail?mblogid=5227777730282969\", \"index\": 1, \"label\": \"\"}, {\"name\": \"张张只喝粥\", \"scheme\": \"sinaweibo://detail?mblogid=5227804137357953\", \"index\": 30, \"label\": \"\"}]}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5227804449050156&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=3&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.1036.1036.50/005Wcj97ly8hurls6eteyj30ss0ssmz4.jpg?KID=imgbed,tva&Expires=1761908180&ssig=kEgsauQJ5t) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">车影追风</span><img src=\"http://wx2.sinaimg.cn/middle/005Wcj97gy1i6vi5r1esgj30fa0i8myn.jpg\" data-width=656 data-height=550></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5227804137357953&multi_paragraph=3&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/006CCEgMly8i5mvaeejd4j30u00u0dhz.jpg?KID=imgbed,tva&Expires=1761908180&ssig=jdFS6N8JO0) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">张张只喝粥</span><img src=\"http://wx3.sinaimg.cn/middle/006CCEgMly1i6vi0hiup8j30u0141ag8.jpg\" data-width=1441 data-height=1080></div></media-block><br>### 四、行业与公众反响<br>1. **前辈力挺短剧价值**  <br>   刘晓庆在节目中称柯淳为“一哥”，何赛飞强调“短剧是载体，质量与艺术性并存”，间接肯定其现有成就。```wbCustomBlock{\"type\": \"quoted\", \"index\": 20, \"data\": {\"num\": [1, 22], \"version\": 2, \"quote_list\": [{\"name\": \"羊肉泡馍加个剧\", \"scheme\": \"sinaweibo://detail?mblogid=5227801988825325\", \"index\": 22, \"label\": \"大v\"}, {\"name\": \"耶搜大王\", \"scheme\": \"sinaweibo://detail?mblogid=5227777730282969\", \"index\": 1, \"label\": \"\"}], \"name\": \"羊肉泡馍加个剧\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.1022.1022.50/007bn3Tnly8h8v14fwoysj30sf0se75q.jpg?KID=imgbed,tva&Expires=1761908180&ssig=DQKJMOuU%2B3\", \"scheme\": \"sinaweibo://detail?mblogid=5227801988825325\", \"vType\": 0}}```  <br><br>2. **多元舆论声音**  <br>   - **支持派**：赞其“不浮躁”“格局打开”，谦逊态度是长期发展的优势。```wbCustomBlock{\"type\": \"quoted\", \"index\": 22, \"data\": {\"num\": [20, 28, 30], \"version\": 2, \"quote_list\": [{\"name\": \"疏影830\", \"scheme\": \"sinaweibo://detail?mblogid=5227833506139934\", \"index\": 20, \"label\": \"\"}, {\"name\": \"蜀黍冲浪指南\", \"scheme\": \"sinaweibo://detail?mblogid=5227805688203513\", \"index\": 28, \"label\": \"\"}, {\"name\": \"张张只喝粥\", \"scheme\": \"sinaweibo://detail?mblogid=5227804137357953\", \"index\": 30, \"label\": \"\"}]}}```  <br>   - **调侃派**：引用宁静吐槽提醒艺人黄金期有限。```wbCustomBlock{\"type\": \"quoted\", \"index\": 23, \"data\": {\"num\": [24, 38], \"version\": 2, \"quote_list\": [{\"name\": \"追星教父BOBO\", \"scheme\": \"sinaweibo://detail?mblogid=5227799053080737\", \"index\": 24, \"label\": \"大v\"}, {\"name\": \"追影寻综咖喱酱\", \"scheme\": \"sinaweibo://detail?mblogid=5227795120654119\", \"index\": 38, \"label\": \"\"}], \"name\": \"追星教父BOBO\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/007blEluly8h0pf3x1tfqj30u00u0tcn.jpg?KID=imgbed,tva&Expires=1761908180&ssig=%2BbXkFNjycv\", \"scheme\": \"sinaweibo://detail?mblogid=5227799053080737\", \"vType\": 0}}```  <br>   - **客观派**：认可短剧成绩，同时期待长剧突破，“**用角色证明实力**”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 24, \"data\": {\"num\": [17, 21, 33], \"version\": 2, \"quote_list\": [{\"name\": \"车影追风\", \"scheme\": \"sinaweibo://detail?mblogid=5227804449050156\", \"index\": 17, \"label\": \"\"}, {\"name\": \"慕甜甜早睡了\", \"scheme\": \"sinaweibo://detail?mblogid=5227796427440182\", \"index\": 21, \"label\": \"\"}, {\"name\": \"小怡夏日恋啵记\", \"scheme\": \"sinaweibo://detail?mblogid=5227804310372376\", \"index\": 33, \"label\": \"\"}]}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5227805688203513&multi_paragraph=4&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.1024.1024.50/007bn9ytly8i68jti6guhj30sg0sgdhb.jpg?KID=imgbed,tva&Expires=1761908180&ssig=it1YymYgac) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">蜀黍冲浪指南</span><img src=\"http://wx4.sinaimg.cn/middle/007bn9ytly1i6viavkidfj30ok0dst9k.jpg\" data-width=496 data-height=884></div></media-block><br>### 五、本质：事业野心的另类表达<br>柯淳的“无作品”论实为一种**进取策略**：  <br>- **短期**：以谦逊姿态降低公众期待，为长剧转型争取容错空间；  <br>- **长期**：将短剧流量转化为主流认可，打破行业偏见。  <br>其待播长剧的市场反馈，将成为检验这句话的关键标尺。```wbCustomBlock{\"type\": \"quoted\", \"index\": 27, \"data\": {\"num\": [33], \"version\": 2, \"quote_list\": [{\"name\": \"小怡夏日恋啵记\", \"scheme\": \"sinaweibo://detail?mblogid=5227804310372376\", \"index\": 33, \"label\": \"\"}]}}```  <br><br>> **风险提示**：短剧播放量数据（如《好一个乖乖女》网传20亿）未获平台官方认证，引用时需谨慎。<br>",
+      "user_info": {},
+      "abtest_info": {
+        "chat_entrance": 1
+      },
+      "query": "#柯淳说自己还没有作品#",
+      "ext_show": {},
+      "qs_status": 0,
+      "share_info": {
+        "display_name": "#柯淳说自己还没有作品#",
+        "comment_content": "",
+        "tips": "#柯淳说自己还没有作品#的相关内容，来智搜看看",
+        "url": "http://t.cn/AXA5owzk",
+        "unify_md5": "ff6385faa0f72dc113092c1c625dfa2d",
+        "page_id": "232964553d33f7f01aeb8fd7f87df75606612c",
+        "status": 3
+      }
+    }
+  },
+  "links": [
+    "sinaweibo://detail?mblogid=5227777730282969",
+    "sinaweibo://detail?mblogid=5227803810204454",
+    "sinaweibo://detail?mblogid=5227794185325598",
+    "sinaweibo://detail?mblogid=5226366385782831",
+    "sinaweibo://detail?mblogid=5217644548460428",
+    "sinaweibo://detail?mblogid=5224913448209934",
+    "sinaweibo://detail?mblogid=5226378167058514",
+    "sinaweibo://detail?mblogid=5213259705091512",
+    "sinaweibo://detail?mblogid=5220722351805612",
+    "broadsocial_res://",
+    "broadsocial_res://",
+    "historyweibo://5227777730282969",
+    "historyweibo://5153525286573567",
+    "historyweibo://5152379986251001",
+    "sinaweibo://detail?mblogid=5227806646602115",
+    "sinaweibo://detail?mblogid=5227806909012091",
+    "sinaweibo://detail?mblogid=5227804449050156",
+    "sinaweibo://detail?mblogid=5227798445953362",
+    "sinaweibo://detail?mblogid=5227798462730499",
+    "sinaweibo://detail?mblogid=5227833506139934",
+    "sinaweibo://detail?mblogid=5227796427440182",
+    "sinaweibo://detail?mblogid=5227801988825325",
+    "sinaweibo://detail?mblogid=5227797735806008",
+    "sinaweibo://detail?mblogid=5227799053080737",
+    "sinaweibo://detail?mblogid=5227802383357764",
+    "sinaweibo://detail?mblogid=5211781880349462",
+    "sinaweibo://detail?mblogid=5205188198793424",
+    "sinaweibo://detail?mblogid=5227805688203513",
+    "sinaweibo://detail?mblogid=5213241799869120",
+    "sinaweibo://detail?mblogid=5227804137357953",
+    "sinaweibo://detail?mblogid=5227814019401401",
+    "sinaweibo://detail?mblogid=5217591528523858",
+    "sinaweibo://detail?mblogid=5227804310372376",
+    "sinaweibo://detail?mblogid=5220864464785140",
+    "sinaweibo://detail?mblogid=5211628733992190",
+    "sinaweibo://detail?mblogid=5227507768623168",
+    "sinaweibo://detail?mblogid=5199235977054841",
+    "sinaweibo://detail?mblogid=5227795120654119",
+    "sinaweibo://detail?mblogid=5185788815871121",
+    "sinaweibo://detail?mblogid=5227812123316552",
+    "sinaweibo://detail?mblogid=5182548437110645",
+    "sinaweibo://detail?mblogid=5227583968905104",
+    "sinaweibo://detail?mblogid=5182156561452011",
+    "sinaweibo://detail?mblogid=5178203750794937",
+    "sinaweibo://detail?mblogid=5175255271736166",
+    "sinaweibo://detail?mblogid=5209117119483213",
+    "sinaweibo://detail?mblogid=5205326632062671",
+    "sinaweibo://detail?mblogid=5199287552056485",
+    "sinaweibo://detail?mblogid=5214807951415027",
+    "https://k.sina.cn/article_1974754790_75b45de604001gnag.html?from=ent&subch=oent&wm=3049_0032"
+  ],
+  "media": [
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/0076EdUAly1i6vf2twtwdj30u01900ve.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/0076EdUAly1i6vf2twtwdj30u01900ve.jpg",
+      "alt": "耶搜大王",
+      "width": 1620,
+      "height": 1080,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/0076EdUAly1i6vf2twtwdj30u01900ve.jpg"
+      ],
+      "user": "耶搜大王"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/0076Fpdqly1i6vhh0fcg3j31050qotct.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/0076Fpdqly1i6vhh0fcg3j31050qotct.jpg",
+      "alt": "娱闻酱",
+      "width": 960,
+      "height": 1301,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/0076Fpdqly1i6vhh0fcg3j31050qotct.jpg"
+      ],
+      "user": "娱闻酱"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/0076Fp57ly1i6vgz45twsj30u00uw0y7.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/0076Fp57ly1i6vgz45twsj30u00uw0y7.jpg",
+      "alt": "代言",
+      "width": 1112,
+      "height": 1080,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/0076Fp57ly1i6vgz45twsj30u00uw0y7.jpg"
+      ],
+      "user": "代言"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/ded7bf24ly1i4cd42g8ckj20qo0zkk29.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/ded7bf24ly1i4cd42g8ckj20qo0zkk29.jpg",
+      "alt": "倒影里的星星为你落下来了",
+      "width": 1280,
+      "height": 960,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/ded7bf24ly1i4cd42g8ckj20qo0zkk29.jpg"
+      ],
+      "user": "倒影里的星星为你落下来了"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/00897GTfgy1i6uk06aaaxj30ng1evjvv.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/00897GTfgy1i6uk06aaaxj30ng1evjvv.jpg",
+      "alt": "十六季天晴",
+      "width": 1831,
+      "height": 844,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/00897GTfgy1i6uk06aaaxj30ng1evjvv.jpg"
+      ],
+      "user": "十六季天晴"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/0073tMVPgy1i6vifbrnnuj31jk2bc4qp.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/0073tMVPgy1i6vifbrnnuj31jk2bc4qp.jpg",
+      "alt": "想不到名字-许愿被柯淳翻牌版",
+      "width": 3000,
+      "height": 2000,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/0073tMVPgy1i6vifbrnnuj31jk2bc4qp.jpg"
+      ],
+      "user": "想不到名字-许愿被柯淳翻牌版"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/a7e30f8fly1i5l3ph5b9uj20k00ywjrr.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/a7e30f8fly1i5l3ph5b9uj20k00ywjrr.jpg",
+      "alt": "柯淳的Yuki姐",
+      "width": 1256,
+      "height": 720,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx4.sinaimg.cn/large/a7e30f8fly1i5l3ph5b9uj20k00ywjrr.jpg"
+      ],
+      "user": "柯淳的Yuki姐"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/8ede0d00ly1i6ma4bt6edj21hc0u0wg2.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/8ede0d00ly1i6ma4bt6edj21hc0u0wg2.jpg",
+      "alt": "娱乐数码君",
+      "width": 1080,
+      "height": 1920,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/8ede0d00ly1i6ma4bt6edj21hc0u0wg2.jpg"
+      ],
+      "user": "娱乐数码君"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/005Wcj97gy1i6vi5r1esgj30fa0i8myn.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/005Wcj97gy1i6vi5r1esgj30fa0i8myn.jpg",
+      "alt": "车影追风",
+      "width": 656,
+      "height": 550,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/005Wcj97gy1i6vi5r1esgj30fa0i8myn.jpg"
+      ],
+      "user": "车影追风"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/006CCEgMly1i6vi0hiup8j30u0141ag8.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/006CCEgMly1i6vi0hiup8j30u0141ag8.jpg",
+      "alt": "张张只喝粥",
+      "width": 1441,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/006CCEgMly1i6vi0hiup8j30u0141ag8.jpg"
+      ],
+      "user": "张张只喝粥"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/007bn9ytly1i6viavkidfj30ok0dst9k.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/007bn9ytly1i6viavkidfj30ok0dst9k.jpg",
+      "alt": "蜀黍冲浪指南",
+      "width": 496,
+      "height": 884,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/007bn9ytly1i6viavkidfj30ok0dst9k.jpg"
+      ],
+      "user": "蜀黍冲浪指南"
+    }
+  ],
+  "html_path": "data/aicard/hourly/2025-10-31/13/topic-ff6385fa.html"
+}

@@ -1,0 +1,256 @@
+{
+  "meta": {
+    "query": "#竹林七贤荣启期跨700年砖墙同框#",
+    "status_code": 200,
+    "fetched_at": "2025-11-02T16:37:00+08:00",
+    "response": {
+      "query_field": "8",
+      "chat_status_stage": 1,
+      "current_time": 1762072622,
+      "profile_image_url": "",
+      "user_info": {},
+      "sorted_material_list": null,
+      "model": "deepseek",
+      "status_stage": 4,
+      "cot": 1,
+      "top_quote_list": {},
+      "card_multimodal": {
+        "type": "mediablock",
+        "data": [
+          {
+            "vtype": 0,
+            "h": 3567,
+            "hit_score_new": 68.261719,
+            "hit_score_final": 67.357025,
+            "w": 5542,
+            "img_pid": "006XMWxbly1i40uj4kau7j349y2r3u14",
+            "doc_score": 3352,
+            "click_rate": 0.14285714285714,
+            "img": "http://wx2.sinaimg.cn/middle/006XMWxbly1i40uj4kau7j349y2r3u14.jpg",
+            "video_url": "",
+            "cur_mid": "5195693737907289",
+            "type": "p",
+            "user_name": "黑敀",
+            "scheme": "sinaweibo://multimedia?mix_mid=5195693737907289&from=search&content_show=1&mix_index=4&hide_index=1&multi_paragraph=1&multi_count=0",
+            "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.664.664.50/006XMWxbly8g0bnijg9t9j30ig0ihabi.jpg?KID=imgbed,tva&Expires=1762083060&ssig=j8jVwmP5Mj"
+          },
+          {
+            "vtype": 1,
+            "h": 768,
+            "hit_score_new": 0,
+            "hit_score_final": 70,
+            "w": 1079,
+            "img_pid": "005CjguWly1g7rydg0232j30tz0lc7k5",
+            "doc_score": 1580,
+            "click_rate": 0.06,
+            "img": "http://wx1.sinaimg.cn/middle/005CjguWly1g7rydg0232j30tz0lc7k5.jpg",
+            "video_url": "",
+            "cur_mid": "4426140351356557",
+            "type": "p",
+            "user_name": "博物南京",
+            "scheme": "sinaweibo://multimedia?mix_mid=4426140351356557&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=1",
+            "user_avatar": "https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/005CjguWly8hloj9ztjthj30u00u0dgp.jpg?KID=imgbed,tva&Expires=1762083060&ssig=2%2FZ4p%2Bdb1A"
+          },
+          {
+            "vtype": 1,
+            "h": 1924,
+            "hit_score_new": 87.5,
+            "hit_score_final": 75.700005,
+            "w": 1083,
+            "img_pid": "007HOdNuly1hhjom560hhj30u31hg4qp",
+            "doc_score": 2755,
+            "click_rate": 0.06,
+            "img": "http://wx4.sinaimg.cn/middle/007HOdNuly1hhjom560hhj30u31hg4qp.jpg",
+            "video_url": "",
+            "cur_mid": "4942323462440815",
+            "type": "p",
+            "user_name": "中国历史研究院",
+            "scheme": "sinaweibo://multimedia?mix_mid=4942323462440815&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=2",
+            "user_avatar": "https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/007HOdNuly8h91yka1h94j30u00u0wfb.jpg?KID=imgbed,tva&Expires=1762083060&ssig=U%2FadwYc%2BLk"
+          },
+          {
+            "vtype": 0,
+            "h": 3567,
+            "hit_score_new": 68.261719,
+            "hit_score_final": 67.357025,
+            "w": 5542,
+            "img_pid": "006XMWxbly1i40uj4kau7j349y2r3u14",
+            "doc_score": 3352,
+            "click_rate": 0.14285714285714,
+            "img": "http://wx2.sinaimg.cn/middle/006XMWxbly1i40uj4kau7j349y2r3u14.jpg",
+            "video_url": "",
+            "cur_mid": "5195693737907289",
+            "type": "p",
+            "user_name": "黑敀",
+            "scheme": "sinaweibo://multimedia?mix_mid=5195693737907289&from=search&content_show=1&mix_index=4&hide_index=1&multi_paragraph=1&multi_count=0",
+            "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.664.664.50/006XMWxbly8g0bnijg9t9j30ig0ihabi.jpg?KID=imgbed,tva&Expires=1762083060&ssig=j8jVwmP5Mj"
+          }
+        ]
+      },
+      "share_card_multimodal": {
+        "vtype": 0,
+        "h": 3567,
+        "hit_score_new": 68.261719,
+        "hit_score_final": 67.357025,
+        "w": 5542,
+        "img_pid": "006XMWxbly1i40uj4kau7j349y2r3u14",
+        "doc_score": 3352,
+        "click_rate": 0.14285714285714,
+        "img": "http://wx2.sinaimg.cn/middle/006XMWxbly1i40uj4kau7j349y2r3u14.jpg",
+        "video_url": "",
+        "cur_mid": "5195693737907289",
+        "type": "p",
+        "user_name": "黑敀",
+        "scheme": "sinaweibo://multimedia?mix_mid=5195693737907289&from=search&content_show=1&mix_index=4&hide_index=1&multi_paragraph=1&multi_count=0",
+        "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.664.664.50/006XMWxbly8g0bnijg9t9j30ig0ihabi.jpg?KID=imgbed,tva&Expires=1762083060&ssig=j8jVwmP5Mj"
+      },
+      "share_text": "#竹林七贤荣启期跨700年砖墙同框#的相关内容，来智搜看看",
+      "comment_info": {},
+      "qs_status": 0,
+      "share_info": {
+        "page_id": "23296418f1b851bce755f9471bbd1d84be1147",
+        "display_name": "#竹林七贤荣启期跨700年砖墙同框#",
+        "tips": "#竹林七贤荣启期跨700年砖墙同框#的相关内容，来智搜看看",
+        "unify_md5": "97f14cc5cdfa50d331dec6ed47a4b2b0",
+        "comment_content": "",
+        "status": 3,
+        "url": "http://t.cn/AXAay7Ic"
+      },
+      "show_ctrl": {
+        "quote": {}
+      },
+      "uid": "",
+      "scheme": "sinaweibo://cardlist?containerid=100103type%3D225%26q%3D%23%E7%AB%B9%E6%9E%97%E4%B8%83%E8%B4%A4%E8%8D%A3%E5%90%AF%E6%9C%9F%E8%B7%A8700%E5%B9%B4%E7%A0%96%E5%A2%99%E5%90%8C%E6%A1%86%23%26t%3D&extparam=ai_model%3Ddeepseek%26ori_ai_title%3D%E5%8F%82%E8%80%83%E5%8D%9A%E6%96%87%26material_version%3D1762072260",
+      "abtest_info": {
+        "chat_entrance": 1
+      },
+      "query": "#竹林七贤荣启期跨700年砖墙同框#",
+      "wenda": {
+        "forward_gen": 0
+      },
+      "ab_suffix": "default",
+      "query_category": "Ip",
+      "q_attr": {
+        "mid": "",
+        "reply_cid": "",
+        "comment_from_type": "",
+        "from_uid": "",
+        "from_request_id": ""
+      },
+      "reliable_tips": "{\"gold_orange_v_mids\": [\"5195693737907289\"], \"gold_orange_v_ratio\": \"10%\", \"media_mids\": [\"5228543747294357\", \"5228558536411761\", \"5228479041766967\", \"5228529848682712\"], \"media_ratio\": \"40%\", \"verified_mids\": [\"5228551215255010\", \"4426140351356557\", \"5228525444666891\", \"4942323462440815\"], \"verified_ratio\": \"40%\", \"normal_mids\": [\"5190100125745902\"], \"normal_ratio\": \"10%\", \"ref_mid_rank\": {\"5228551215255010\": {\"rank\": 5}, \"4426140351356557\": {\"rank\": 8}, \"5228543747294357\": {\"rank\": 6}, \"5228525444666891\": {\"rank\": 10}, \"5195693737907289\": {\"rank\": 9}, \"4942323462440815\": {\"rank\": 12}, \"5228558536411761\": {\"rank\": 13}, \"5228479041766967\": {\"rank\": 1}, \"5228529848682712\": {\"rank\": 7}, \"5190100125745902\": {\"rank\": 11}}}",
+      "link_list": [
+        "sinaweibo://detail?mblogid=5228479041766967",
+        "broadsocial_res://",
+        "broadsocial_res://",
+        "historyweibo://5228479041766967",
+        "sinaweibo://detail?mblogid=5228551215255010",
+        "sinaweibo://detail?mblogid=5228543747294357",
+        "sinaweibo://detail?mblogid=5228529848682712",
+        "sinaweibo://detail?mblogid=4426140351356557",
+        "sinaweibo://detail?mblogid=5195693737907289",
+        "sinaweibo://detail?mblogid=5228525444666891",
+        "sinaweibo://detail?mblogid=5190100125745902",
+        "sinaweibo://detail?mblogid=4942323462440815",
+        "sinaweibo://detail?mblogid=5228558536411761"
+      ],
+      "qs_status_info": "{\"qs_c_status\":8388608,\"qs_r_status\":0,\"qs_status\":0,\"qs_u_status\":0,\"ab_lab\":{},\"qs_q_status\":0}",
+      "msg": "<think><br>嗯，用户让我整理关于\"竹林七贤荣启期跨700年砖墙同框\"的信息。让我看看搜索结果里有什么好东西。<br><br>哇，这个文物故事太有意思了！南京博物院藏的这幅砖画居然让相隔700年的两组人物同框。竹林七贤是魏晋名士，荣启期是春秋隐士，完全不是同一个时代的人，但古代匠人用青砖把他们刻在一起。这种穿越时空的艺术构思放在今天也很前卫啊。<br><br>仔细看资料，这幅砖画是1960年在南京西善桥宫山墓葬出土的。最震撼的是它的制作工艺——居然用了近300块带密码的\"拼图砖\"。每块砖侧面刻着\"上行\"\"四象\"这类编码，就像现代拼图的索引系统。南朝匠人先把画稿分段刻在木模上，再压印到砖坯烧制，这种\"模印拼嵌\"技术比欧洲教堂彩绘玻璃早了好几百年，妥妥的古代黑科技！<br><br>尺寸数据有点混乱啊。多个媒体说长2.4米高0.88米，但博物院资料显示实际高0.78-0.8米。看来报道时可能取了近似值。具体人物也很有意思：南壁是嵇康弹琴、阮籍长啸、山涛喝酒、王戎玩如意；北壁向秀沉思、刘玲品酒、阮咸抱着以他命名的琴，加上披发的荣启期。银杏松柏这些植物符号象征着文明传承。<br><br>用户应该会好奇为什么要把不同时代的人放一起。原来荣启期被孔子称赞\"善乎自宽\"，他的豁达与七贤的隐逸精神形成跨时空共鸣。更打动我的是，砖画承载着\"宁为玉碎不为瓦全\"的风骨，连现代展厅都特意用银杏剪影呼应千年意象。<br><br>整理时要注意时效性。2025年11月多家媒体集中报道这个话题，但核心资料其实2019年就有文博账号说明过工艺细节。尺寸争议需要同时呈现媒体报道和博物院数据。对了，还看到个有趣的点：这是现存最早的竹林七贤组图，填补了六朝绘画史空白——之前他们只存在于文字记载呢。<br><br>最后检查风险点：尺寸差异要注明来源；\"超级拼图\"这类网络用语出自媒体账号，直接引用时需要保留其口语化特色；工艺原理部分优先采用考古学者罗宗真的专业解释。<br><br></think><br>关于“竹林七贤与荣启期砖画”这一跨越700年时空对话的国宝级文物，综合整理核心信息如下：<br>### 🎨 **文物核心信息**<br>1. **发现与价值**  <br>   - 1960年出土于南京西善桥宫山南朝大墓，分布于墓室南北两壁。```wbCustomBlock{\"type\": \"quoted\", \"index\": 5, \"data\": {\"num\": [5, 8], \"version\": 2, \"quote_list\": [{\"name\": \"共青团中央\", \"scheme\": \"sinaweibo://detail?mblogid=5228551215255010\", \"index\": 5, \"label\": \"大v\"}, {\"name\": \"博物南京\", \"scheme\": \"sinaweibo://detail?mblogid=4426140351356557\", \"index\": 8, \"label\": \"\"}], \"name\": \"共青团中央\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.600.600.50/004isIazly8ht9hper28ej60go0got9m02.jpg?KID=imgbed,tva&Expires=1762083060&ssig=CZ1NAeagyN\", \"scheme\": \"sinaweibo://detail?mblogid=5228551215255010\", \"vType\": 1}}```  <br>   - **尺寸争议**：  <br>     - 主流报道称每幅长2.4米、高0.88米；```wbCustomBlock{\"type\": \"quoted\", \"index\": 7, \"data\": {\"num\": [5, 6, 10], \"version\": 2, \"quote_list\": [{\"name\": \"都市报道\", \"scheme\": \"sinaweibo://detail?mblogid=5228543747294357\", \"index\": 6, \"label\": \"大v\"}, {\"name\": \"共青团中央\", \"scheme\": \"sinaweibo://detail?mblogid=5228551215255010\", \"index\": 5, \"label\": \"\"}, {\"name\": \"辽宁共青团\", \"scheme\": \"sinaweibo://detail?mblogid=5228525444666891\", \"index\": 10, \"label\": \"\"}], \"name\": \"都市报道\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.540.540.50/65db6561ly8h8vjdw0iptj20f00f0mxw.jpg?KID=imgbed,tva&Expires=1762083060&ssig=KPY7K8Obir\", \"scheme\": \"sinaweibo://detail?mblogid=5228543747294357\", \"vType\": 3}}```  <br>     - 考古资料与南京博物院记录显示实际高度为0.78-0.8米。```wbCustomBlock{\"type\": \"quoted\", \"index\": 8, \"data\": {\"num\": [8], \"version\": 2, \"quote_list\": [{\"name\": \"博物南京\", \"scheme\": \"sinaweibo://detail?mblogid=4426140351356557\", \"index\": 8, \"label\": \"大v\"}], \"name\": \"博物南京\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/005CjguWly8hloj9ztjthj30u00u0dgp.jpg?KID=imgbed,tva&Expires=1762083060&ssig=2%2FZ4p%2Bdb1A\", \"scheme\": \"sinaweibo://detail?mblogid=4426140351356557\", \"vType\": 1}}```  <br>   - 由近300块青砖拼嵌而成，是现存规模最大、保存最完好的南朝砖画，填补六朝绘画史空白，重构中国绘画史脉络。```wbCustomBlock{\"type\": \"quoted\", \"index\": 9, \"data\": {\"num\": [9, 12], \"version\": 2, \"quote_list\": [{\"name\": \"中国历史研究院\", \"scheme\": \"sinaweibo://detail?mblogid=4942323462440815\", \"index\": 12, \"label\": \"大v\"}, {\"name\": \"黑敀\", \"scheme\": \"sinaweibo://detail?mblogid=5195693737907289\", \"index\": 9, \"label\": \"\"}], \"name\": \"中国历史研究院\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/007HOdNuly8h91yka1h94j30u00u0wfb.jpg?KID=imgbed,tva&Expires=1762083060&ssig=U%2FadwYc%2BLk\", \"scheme\": \"sinaweibo://detail?mblogid=4942323462440815\", \"vType\": 1}}```<br><br>2. **人物与象征**  <br>   - **竹林七贤**（魏晋时期）：  <br>     - 嵇康（抚琴）、阮籍（长啸）、山涛（饮酒）、王戎（持如意）、向秀（沉思）、刘伶（品酒）、阮咸（抱阮琴）。```wbCustomBlock{\"type\": \"quoted\", \"index\": 12, \"data\": {\"num\": [5], \"version\": 2, \"quote_list\": [{\"name\": \"共青团中央\", \"scheme\": \"sinaweibo://detail?mblogid=5228551215255010\", \"index\": 5, \"label\": \"\"}]}}```  <br>   - **荣启期**（春秋时期）：  <br>     - 早于七贤约700年，孔子赞其“善乎自宽”的豁达人生观，象征隐逸精神的跨时代共鸣。```wbCustomBlock{\"type\": \"quoted\", \"index\": 14, \"data\": {\"num\": [12], \"version\": 2, \"quote_list\": [{\"name\": \"中国历史研究院\", \"scheme\": \"sinaweibo://detail?mblogid=4942323462440815\", \"index\": 12, \"label\": \"\"}]}}```  <br>   - **植物意象**：银杏、松柏象征文明传承与永恒生命力。```wbCustomBlock{\"type\": \"quoted\", \"index\": 15, \"data\": {\"num\": [6], \"version\": 2, \"quote_list\": [{\"name\": \"都市报道\", \"scheme\": \"sinaweibo://detail?mblogid=5228543747294357\", \"index\": 6, \"label\": \"\"}]}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5195693737907289&from=search&content_show=1&mix_index=4&hide_index=1&multi_paragraph=1&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.664.664.50/006XMWxbly8g0bnijg9t9j30ig0ihabi.jpg?KID=imgbed,tva&Expires=1762083060&ssig=j8jVwmP5Mj) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">黑敀</span><img src=\"http://wx2.sinaimg.cn/middle/006XMWxbly1i40uj4kau7j349y2r3u14.jpg\" data-width=3567 data-height=5542></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=4426140351356557&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=1\"><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/005CjguWly8hloj9ztjthj30u00u0dgp.jpg?KID=imgbed,tva&Expires=1762083060&ssig=2%2FZ4p%2Bdb1A) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">博物南京</span><img src=\"http://wx1.sinaimg.cn/middle/005CjguWly1g7rydg0232j30tz0lc7k5.jpg\" data-width=768 data-height=1079></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=4942323462440815&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=2\"><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/007HOdNuly8h91yka1h94j30u00u0wfb.jpg?KID=imgbed,tva&Expires=1762083060&ssig=U%2FadwYc%2BLk) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">中国历史研究院</span><img src=\"http://wx4.sinaimg.cn/middle/007HOdNuly1hhjom560hhj30u31hg4qp.jpg\" data-width=1924 data-height=1083></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5228551215255010&multi_paragraph=1&multi_count=3\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.600.600.50/004isIazly8ht9hper28ej60go0got9m02.jpg?KID=imgbed,tva&Expires=1762083060&ssig=CZ1NAeagyN) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">共青团中央</span><img src=\"http://wx1.sinaimg.cn/middle/0085luCvly1i6wzsmarrhj31hc0u0nl9.jpg\" data-width=1080 data-height=1920></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5228525444666891&multi_paragraph=1&multi_count=4\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.842.842.50/7bf67cf4ly8hqniqomf55j20ne0neq3x.jpg?KID=imgbed,tva&Expires=1762083060&ssig=iR1j5vsCKB) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">辽宁共青团</span><img src=\"http://wx3.sinaimg.cn/middle/0033ImPzly1i6xsa3r17yj615i0nc1g302.jpg\" data-width=840 data-height=1494></div></media-block><br>### ⚙️ **超前工艺：南朝“超级拼图”**<br>1. **模印拼嵌技术**  <br>   - **步骤**：  <br>     → 分段雕刻绘画粉本于木模；  <br>     → 压印于未烧制砖坯；  <br>     → 砖侧刻“上行”“四象”“绣佐”等方位编码（类似现代拼图索引）；  <br>     → 烧制后按编码拼砌复原。```wbCustomBlock{\"type\": \"quoted\", \"index\": 19, \"data\": {\"num\": [5, 8], \"version\": 2, \"quote_list\": [{\"name\": \"共青团中央\", \"scheme\": \"sinaweibo://detail?mblogid=5228551215255010\", \"index\": 5, \"label\": \"\"}, {\"name\": \"博物南京\", \"scheme\": \"sinaweibo://detail?mblogid=4426140351356557\", \"index\": 8, \"label\": \"\"}]}}```  <br>   - **历史意义**：比欧洲教堂彩绘玻璃的模块化工艺早数百年，体现古代精密智慧。```wbCustomBlock{\"type\": \"quoted\", \"index\": 20, \"data\": {\"num\": [5, 6], \"version\": 2, \"quote_list\": [{\"name\": \"共青团中央\", \"scheme\": \"sinaweibo://detail?mblogid=5228551215255010\", \"index\": 5, \"label\": \"\"}, {\"name\": \"都市报道\", \"scheme\": \"sinaweibo://detail?mblogid=5228543747294357\", \"index\": 6, \"label\": \"\"}]}}```<br><br>2. **工程精密性**  <br>   - 每块砖为独立单元，需严格按编码组合，容错率极低，堪称古代系统工程典范。```wbCustomBlock{\"type\": \"quoted\", \"index\": 22, \"data\": {\"num\": [9], \"version\": 2, \"quote_list\": [{\"name\": \"黑敀\", \"scheme\": \"sinaweibo://detail?mblogid=5195693737907289\", \"index\": 9, \"label\": \"大v\"}], \"name\": \"黑敀\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.664.664.50/006XMWxbly8g0bnijg9t9j30ig0ihabi.jpg?KID=imgbed,tva&Expires=1762083060&ssig=j8jVwmP5Mj\", \"scheme\": \"sinaweibo://detail?mblogid=5195693737907289\", \"vType\": 0}}```<br>### 🌟 **文化内涵与今世回响**<br>1. **精神内核**  <br>   - 砖画承载“宁为玉碎，不为瓦全”的文人风骨，八位人物均展现乱世中对自由与理想的坚守。```wbCustomBlock{\"type\": \"quoted\", \"index\": 26, \"data\": {\"num\": [5, 6], \"version\": 2, \"quote_list\": [{\"name\": \"共青团中央\", \"scheme\": \"sinaweibo://detail?mblogid=5228551215255010\", \"index\": 5, \"label\": \"\"}, {\"name\": \"都市报道\", \"scheme\": \"sinaweibo://detail?mblogid=5228543747294357\", \"index\": 6, \"label\": \"\"}]}}```  <br>   - 荣启期与七贤的“同框”，凸显超越时代的灵魂共振。```wbCustomBlock{\"type\": \"quoted\", \"index\": 27, \"data\": {\"num\": [12], \"version\": 2, \"quote_list\": [{\"name\": \"中国历史研究院\", \"scheme\": \"sinaweibo://detail?mblogid=4942323462440815\", \"index\": 12, \"label\": \"\"}]}}```<br><br>2. **古今对话**  <br>   - 南京博物院展厅设计将砖画中的银杏意象投射于玻璃幕墙，形成千年文明剪影的叠加。```wbCustomBlock{\"type\": \"quoted\", \"index\": 29, \"data\": {\"num\": [6], \"version\": 2, \"quote_list\": [{\"name\": \"都市报道\", \"scheme\": \"sinaweibo://detail?mblogid=5228543747294357\", \"index\": 6, \"label\": \"\"}]}}```  <br>   - 成为“松弛感”“穿越”等现代话题的灵感来源，引发公众对古人精神世界的共鸣。```wbCustomBlock{\"type\": \"quoted\", \"index\": 30, \"data\": {\"num\": [10, 13], \"version\": 2, \"quote_list\": [{\"name\": \"商丘交通广播\", \"scheme\": \"sinaweibo://detail?mblogid=5228558536411761\", \"index\": 13, \"label\": \"大v\"}, {\"name\": \"辽宁共青团\", \"scheme\": \"sinaweibo://detail?mblogid=5228525444666891\", \"index\": 10, \"label\": \"\"}], \"name\": \"商丘交通广播\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/83d8de93ly8h8vggxza85j20u00u0dgp.jpg?KID=imgbed,tva&Expires=1762083060&ssig=Xp18WXxYpc\", \"scheme\": \"sinaweibo://detail?mblogid=5228558536411761\", \"vType\": 3}}```<br>### 📜 **争议与澄清**<br>- **尺寸差异**：媒体报道高度0.88米与博物院记录0.8米不一致，推测源于早期考古简报与后期精密测量的区别，应以博物院权威数据为准。```wbCustomBlock{\"type\": \"quoted\", \"index\": 33, \"data\": {\"num\": [8], \"version\": 2, \"quote_list\": [{\"name\": \"博物南京\", \"scheme\": \"sinaweibo://detail?mblogid=4426140351356557\", \"index\": 8, \"label\": \"\"}]}}```  <br>- **砖块数量**：部分资料称“600多块”，但主流考古报告明确为“近300块”，可能混淆了墓葬总砖量与壁画专用砖数量。```wbCustomBlock{\"type\": \"quoted\", \"index\": 34, \"data\": {\"num\": [9], \"version\": 2, \"quote_list\": [{\"name\": \"黑敀\", \"scheme\": \"sinaweibo://detail?mblogid=5195693737907289\", \"index\": 9, \"label\": \"\"}]}}```<br><br>此砖画以青砖为纸、风骨为墨，实现了中华文明跨越七百年的精神对话，其工艺之精、立意之深，至今仍为艺术史与工程学双重奇迹。<br>",
+      "news_analyze": {},
+      "version": "2025-11-02 16:31:00.026000-5082",
+      "page_id": "23296418f1b851bce755f9471bbd1d84be1147",
+      "unify_md5": "97f14cc5cdfa50d331dec6ed47a4b2b0",
+      "reference_num": 10,
+      "zs_risk_control": {
+        "think_text_close": 0,
+        "land_button_close": 0
+      },
+      "short_url": "http://t.cn/AXAX0Ym3",
+      "ext_show": {},
+      "msg_format": "markdown",
+      "loop_times": 200,
+      "analysis_time": 1762072482,
+      "msg_json": "{}",
+      "basemodel": "实验组7",
+      "mid_list": null,
+      "status": 2
+    }
+  },
+  "links": [
+    "sinaweibo://detail?mblogid=5228479041766967",
+    "broadsocial_res://",
+    "broadsocial_res://",
+    "historyweibo://5228479041766967",
+    "sinaweibo://detail?mblogid=5228551215255010",
+    "sinaweibo://detail?mblogid=5228543747294357",
+    "sinaweibo://detail?mblogid=5228529848682712",
+    "sinaweibo://detail?mblogid=4426140351356557",
+    "sinaweibo://detail?mblogid=5195693737907289",
+    "sinaweibo://detail?mblogid=5228525444666891",
+    "sinaweibo://detail?mblogid=5190100125745902",
+    "sinaweibo://detail?mblogid=4942323462440815",
+    "sinaweibo://detail?mblogid=5228558536411761"
+  ],
+  "media": [
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/006XMWxbly1i40uj4kau7j349y2r3u14.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/006XMWxbly1i40uj4kau7j349y2r3u14.jpg",
+      "alt": "黑敀",
+      "width": 3567,
+      "height": 5542,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/006XMWxbly1i40uj4kau7j349y2r3u14.jpg"
+      ],
+      "user": "黑敀"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/005CjguWly1g7rydg0232j30tz0lc7k5.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/005CjguWly1g7rydg0232j30tz0lc7k5.jpg",
+      "alt": "博物南京",
+      "width": 768,
+      "height": 1079,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/005CjguWly1g7rydg0232j30tz0lc7k5.jpg"
+      ],
+      "user": "博物南京"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/007HOdNuly1hhjom560hhj30u31hg4qp.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/007HOdNuly1hhjom560hhj30u31hg4qp.jpg",
+      "alt": "中国历史研究院",
+      "width": 1924,
+      "height": 1083,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/007HOdNuly1hhjom560hhj30u31hg4qp.jpg"
+      ],
+      "user": "中国历史研究院"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/0085luCvly1i6wzsmarrhj31hc0u0nl9.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/0085luCvly1i6wzsmarrhj31hc0u0nl9.jpg",
+      "alt": "共青团中央",
+      "width": 1080,
+      "height": 1920,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx4.sinaimg.cn/large/0085luCvly1i6wzsmarrhj31hc0u0nl9.jpg"
+      ],
+      "user": "共青团中央"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/0033ImPzly1i6xsa3r17yj615i0nc1g302.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/0033ImPzly1i6xsa3r17yj615i0nc1g302.jpg",
+      "alt": "辽宁共青团",
+      "width": 840,
+      "height": 1494,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/0033ImPzly1i6xsa3r17yj615i0nc1g302.jpg"
+      ],
+      "user": "辽宁共青团"
+    }
+  ],
+  "html_path": "data/aicard/hourly/2025-11-02/16/700.html"
+}

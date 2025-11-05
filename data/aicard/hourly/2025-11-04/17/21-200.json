@@ -1,0 +1,293 @@
+{
+  "meta": {
+    "query": "#21岁小伙200个深蹲后肌肉溶解了#",
+    "status_code": 200,
+    "fetched_at": "2025-11-04T17:37:51+08:00",
+    "response": {
+      "analysis_time": 1762248751,
+      "abtest_info": {
+        "chat_entrance": 1
+      },
+      "wenda": {
+        "forward_gen": 0
+      },
+      "version": "2025-11-04 17:30:03.016999-1884",
+      "msg_format": "markdown",
+      "mid_list": null,
+      "uid": "",
+      "query_category": "Ip",
+      "status_stage": 4,
+      "link_list": [
+        "sinaweibo://detail?mblogid=5228959953590890",
+        "sinaweibo://detail?mblogid=5180503401431102",
+        "sinaweibo://detail?mblogid=5068102330750113",
+        "sinaweibo://detail?mblogid=4746668957762690",
+        "historyweibo://4959554707653701",
+        "historyweibo://4958673564600194",
+        "historyweibo://4878928265351829",
+        "sinaweibo://detail?mblogid=5229304116150858",
+        "sinaweibo://detail?mblogid=5229306615960405",
+        "sinaweibo://detail?mblogid=5229310451385580",
+        "sinaweibo://detail?mblogid=5228856816698245",
+        "sinaweibo://detail?mblogid=5229311441241351",
+        "sinaweibo://detail?mblogid=5229307800587331",
+        "sinaweibo://detail?mblogid=5229307430438904",
+        "sinaweibo://detail?mblogid=5229243324960103",
+        "sinaweibo://detail?mblogid=5228866567410502",
+        "sinaweibo://detail?mblogid=4959604833780220",
+        "sinaweibo://detail?mblogid=4959623987857769",
+        "sinaweibo://detail?mblogid=4959606712304571",
+        "sinaweibo://detail?mblogid=4958937862638393",
+        "sinaweibo://detail?mblogid=4958238430462516",
+        "sinaweibo://detail?mblogid=5228588501831832",
+        "sinaweibo://detail?mblogid=5229186092368759",
+        "sinaweibo://detail?mblogid=5229310743939071",
+        "sinaweibo://detail?mblogid=5229311243324514",
+        "sinaweibo://detail?mblogid=5180463824245224",
+        "sinaweibo://detail?mblogid=5229304453535578",
+        "sinaweibo://detail?mblogid=5199864897474883",
+        "sinaweibo://detail?mblogid=4737558233484462"
+      ],
+      "news_analyze": {},
+      "top_quote_list": {},
+      "card_multimodal": {
+        "type": "mediablock",
+        "data": [
+          {
+            "scheme": "sinaweibo://video/vvs?mid=5228856816698245&multi_paragraph=1&multi_count=0",
+            "w": 1080,
+            "hit_score_final": 84.734375,
+            "h": 1440,
+            "click_rate": 0.23121387283237,
+            "vtype": 3,
+            "cur_mid": "5228856816698245",
+            "click_num": 0,
+            "user_name": "南华视频",
+            "img": "http://wx3.sinaimg.cn/middle/007KRtdLgy1i6yv0dfckhj30u01404n9.jpg",
+            "user_avatar": "https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/007KRtdLly8i4yg4qs9xhj30u00u0gmc.jpg?KID=imgbed,tva&Expires=1762259403&ssig=K8aBjutBxA",
+            "type": "v",
+            "video_url": "https://video.weibo.com/show?fid=1034:5228856521457692",
+            "hit_score_new": 87.890625,
+            "doc_score": 3325,
+            "img_pid": "007KRtdLgy1i6yv0dfckhj30u01404n9"
+          },
+          {
+            "scheme": "sinaweibo://video/vvs?mid=5228959953590890&multi_paragraph=1&multi_count=1",
+            "w": 1080,
+            "hit_score_final": 0,
+            "h": 1920,
+            "click_rate": 0.15873015873016,
+            "vtype": 3,
+            "cur_mid": "5228959953590890",
+            "click_num": 0,
+            "user_name": "陕视新闻",
+            "img": "http://wx1.sinaimg.cn/middle/c0855202ly1i6z6t4vo77j20u01hcq5y.jpg",
+            "user_avatar": "https://tvax1.sinaimg.cn/crop.0.0.512.512.50/c0855202ly8haox29q27gj20e80e8weu.jpg?KID=imgbed,tva&Expires=1762259403&ssig=iBnXM3Ttjo",
+            "type": "v",
+            "video_url": "https://video.weibo.com/show?fid=1034:5228959378636860",
+            "hit_score_new": 0,
+            "doc_score": 0,
+            "img_pid": "c0855202ly1i6z6t4vo77j20u01hcq5y"
+          },
+          {
+            "scheme": "sinaweibo://video/vvs?mid=5199864897474883&multi_paragraph=1&multi_count=2",
+            "w": 1080,
+            "hit_score_final": 51.317188,
+            "h": 1920,
+            "click_rate": 0,
+            "vtype": 3,
+            "cur_mid": "5199864897474883",
+            "click_num": 0,
+            "user_name": "FM93浙江交通之声",
+            "img": "http://wx4.sinaimg.cn/middle/68543588ly1i4ed914ivrj20u01hcjux.jpg",
+            "user_avatar": "https://tvax2.sinaimg.cn/crop.0.0.900.900.50/68543588ly8hlistbj7fhj20p00p0q3m.jpg?KID=imgbed,tva&Expires=1762259403&ssig=T9oaVmEXQp",
+            "type": "v",
+            "video_url": "https://video.weibo.com/show?fid=1034:5199863974133865",
+            "hit_score_new": 50.195312,
+            "doc_score": 1342,
+            "img_pid": "68543588ly1i4ed914ivrj20u01hcjux"
+          },
+          {
+            "scheme": "sinaweibo://video/vvs?mid=5228856816698245&multi_paragraph=1&multi_count=0",
+            "w": 1080,
+            "hit_score_final": 84.734375,
+            "h": 1440,
+            "click_rate": 0.23121387283237,
+            "vtype": 3,
+            "cur_mid": "5228856816698245",
+            "click_num": 0,
+            "user_name": "南华视频",
+            "img": "http://wx3.sinaimg.cn/middle/007KRtdLgy1i6yv0dfckhj30u01404n9.jpg",
+            "user_avatar": "https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/007KRtdLly8i4yg4qs9xhj30u00u0gmc.jpg?KID=imgbed,tva&Expires=1762259403&ssig=K8aBjutBxA",
+            "type": "v",
+            "video_url": "https://video.weibo.com/show?fid=1034:5228856521457692",
+            "hit_score_new": 87.890625,
+            "doc_score": 3325,
+            "img_pid": "007KRtdLgy1i6yv0dfckhj30u01404n9"
+          }
+        ]
+      },
+      "share_card_multimodal": {
+        "scheme": "sinaweibo://video/vvs?mid=5228856816698245&multi_paragraph=1&multi_count=0",
+        "w": 1080,
+        "hit_score_final": 84.734375,
+        "h": 1440,
+        "click_rate": 0.23121387283237,
+        "vtype": 3,
+        "cur_mid": "5228856816698245",
+        "click_num": 0,
+        "user_name": "南华视频",
+        "img": "http://wx3.sinaimg.cn/middle/007KRtdLgy1i6yv0dfckhj30u01404n9.jpg",
+        "user_avatar": "https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/007KRtdLly8i4yg4qs9xhj30u00u0gmc.jpg?KID=imgbed,tva&Expires=1762259403&ssig=K8aBjutBxA",
+        "type": "v",
+        "video_url": "https://video.weibo.com/show?fid=1034:5228856521457692",
+        "hit_score_new": 87.890625,
+        "doc_score": 3325,
+        "img_pid": "007KRtdLgy1i6yv0dfckhj30u01404n9"
+      },
+      "basemodel": "实验组10",
+      "sorted_material_list": null,
+      "show_ctrl": {
+        "quote": {}
+      },
+      "q_attr": {
+        "comment_from_type": "",
+        "reply_cid": "",
+        "mid": "",
+        "from_uid": "",
+        "from_request_id": ""
+      },
+      "model": "deepseek",
+      "scheme": "sinaweibo://cardlist?containerid=100103type%3D225%26q%3D%2321%E5%B2%81%E5%B0%8F%E4%BC%99200%E4%B8%AA%E6%B7%B1%E8%B9%B2%E5%90%8E%E8%82%8C%E8%82%89%E6%BA%B6%E8%A7%A3%E4%BA%86%23%26t%3D&extparam=ai_model%3Ddeepseek%26ori_ai_title%3D%E5%8F%82%E8%80%83%E5%8D%9A%E6%96%87%26material_version%3D1762248603",
+      "cot": 1,
+      "page_id": "2329641bebe051b0a055757e6a0f1e491d4921",
+      "ext_show": {},
+      "status": 2,
+      "query": "#21岁小伙200个深蹲后肌肉溶解了#",
+      "qs_status_info": "{\"qs_r_status\":0,\"qs_u_status\":0,\"qs_q_status\":0,\"ab_lab\":{},\"qs_status\":0,\"qs_c_status\":8388608}",
+      "loop_times": 200,
+      "current_time": 1762249071,
+      "msg_json": "{}",
+      "comment_info": {},
+      "query_field": "60",
+      "user_info": {},
+      "zs_risk_control": {
+        "think_text_close": 0,
+        "land_button_close": 0
+      },
+      "chat_status_stage": 1,
+      "ab_suffix": "default",
+      "msg": "<think><br>嗯，用户提供了一个关于\"21岁小伙200个深蹲后肌肉溶解\"的搜索结果集合，需要我综合分析这些信息并给出专业回答。用户可能是在健身时看到了这个新闻，担心自己也会遇到类似情况，或者单纯想了解运动安全知识。<br><br>从搜索结果看，这个案例确实很典型。21岁的陈先生平时有健身习惯但最近一年没运动，突然做200个深蹲后出现大腿剧痛和酱油色尿液，检查发现肌酸激酶高达12万U/L（正常值只有50-310U/L），被诊断为横纹肌溶解症。医生特别提到200个深蹲就发病在临床上比较少见，说明个体差异很大。<br><br>翻看其他案例发现类似事件不少：有25岁小伙同样因200个深蹲入院，还有准新郎连续两天猛练（深蹲+动感单车+搏击操）导致肌酸激酶超标600倍。最严重的是某男生被罚做1000个深蹲最终需要换肾，可见后果可能极其严重。<br><br>关于发病机制，搜索结果解释得很清楚：突然剧烈运动会导致肌肉细胞破裂，释放的肌红蛋白堵塞肾小管，可能引发肾衰竭。典型症状包括肌肉剧痛、肌无力和酱油色尿。<br><br>值得注意的风险因素有：长期不运动后突击锻炼（案例中的小伙就是停练一年）、高温环境运动、节食减肥时运动、服用他汀类药物。医生建议这类人群运动前最好做医学筛查。<br><br>治疗方面关键在\"三早\"：早诊断（查肌酸激酶和尿常规）、早补液（稀释毒素）、早碱化尿液（保护肾脏）。陈先生就是通过补液和碱化尿液治疗好转的。<br><br>预防措施我总结出几个重点：循序渐进（从每天15分钟开始）、重视热身冷身（推荐了5个拉伸动作）、及时补水（帮助排肌红蛋白）、警惕身体信号（疼痛超48小时或尿色变深立即就医）。<br><br>对比结果6中当兵小伙能做3600个俯卧撑的案例，说明经过系统训练的身体耐受度完全不同。普通人的运动计划应该像结果25建议的：从散步/快走开始，体重基数大的人可选游泳，瘦人增肌要配合力量训练。<br><br>最后注意到结果23提到另一个危险案例：水管工修水管时突发主动脉夹层。这提醒我们健康风险无处不在，但运动风险是可以通过科学方法规避的。准备在回复时强调\"突击运动不可取，系统训练才是王道\"这个核心理念。<br><br></think><br>以下是针对“21岁小伙200个深蹲后肌肉溶解”事件的专业分析及运动安全建议，综合医学案例和专家观点整理而成：<br>### ⚠️ **事件核心经过**  <br>- **案例详情**：  <br>  深圳21岁陈先生（有健身基础但停练1年），突发完成200个深蹲后，次日出现大腿剧痛及酱油色尿液。就医查出**肌酸激酶（CK）高达12万U/L**（正常值50-310U/L），确诊横纹肌溶解症，经补液、碱化尿液等治疗好转。  <br>  **关联案例**：```wbCustomBlock{\"type\": \"quoted\", \"index\": 4, \"data\": {\"num\": [1, 11, 16], \"version\": 2, \"quote_list\": [{\"name\": \"陕视新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5228959953590890\", \"index\": 1, \"label\": \"大v\"}, {\"name\": \"南华视频\", \"scheme\": \"sinaweibo://detail?mblogid=5228856816698245\", \"index\": 11, \"label\": \"\"}, {\"name\": \"新浪广东\", \"scheme\": \"sinaweibo://detail?mblogid=5228866567410502\", \"index\": 16, \"label\": \"\"}], \"name\": \"陕视新闻\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.512.512.50/c0855202ly8haox29q27gj20e80e8weu.jpg?KID=imgbed,tva&Expires=1762259403&ssig=iBnXM3Ttjo\", \"scheme\": \"sinaweibo://detail?mblogid=5228959953590890\", \"vType\": 3}}```  <br>  - 江苏25岁小伙同因200个深蹲致横纹肌溶解，CK值严重超标；```wbCustomBlock{\"type\": \"quoted\", \"index\": 5, \"data\": {\"num\": [17, 21], \"version\": 2, \"quote_list\": [{\"name\": \"新华网\", \"scheme\": \"sinaweibo://detail?mblogid=4959604833780220\", \"index\": 17, \"label\": \"大v\"}, {\"name\": \"山东商报\", \"scheme\": \"sinaweibo://detail?mblogid=4958238430462516\", \"index\": 21, \"label\": \"\"}], \"name\": \"新华网\", \"img\": \"https://tvax3.sinaimg.cn/crop.8.11.119.119.50/0034c2ttly8h8vg8d8h2ij6046046q2t02.jpg?KID=imgbed,tva&Expires=1762259403&ssig=AtaYoAW%2BP7\", \"scheme\": \"sinaweibo://detail?mblogid=4959604833780220\", \"vType\": 3}}```  <br>  - 杭州准新郎突击健身（深蹲+动感单车）后CK超标600倍险致肾衰竭。```wbCustomBlock{\"type\": \"quoted\", \"index\": 6, \"data\": {\"num\": [28], \"version\": 2, \"quote_list\": [{\"name\": \"FM93浙江交通之声\", \"scheme\": \"sinaweibo://detail?mblogid=5199864897474883\", \"index\": 28, \"label\": \"大v\"}], \"name\": \"FM93浙江交通之声\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.900.900.50/68543588ly8hlistbj7fhj20p00p0q3m.jpg?KID=imgbed,tva&Expires=1762259403&ssig=T9oaVmEXQp\", \"scheme\": \"sinaweibo://detail?mblogid=5199864897474883\", \"vType\": 3}}```<br><br>- **医学机制**：  <br>  横纹肌溶解是因肌肉细胞急性坏死，释放肌红蛋白堵塞肾小管，可引发**急性肾损伤、电解质紊乱**，甚至多器官衰竭。典型症状为“三联征”：肌肉剧痛、无力、茶色/酱油尿。```wbCustomBlock{\"type\": \"quoted\", \"index\": 7, \"data\": {\"num\": [2, 9], \"version\": 2, \"quote_list\": [{\"name\": \"肿瘤专科医生\", \"scheme\": \"sinaweibo://detail?mblogid=5229306615960405\", \"index\": 9, \"label\": \"大v\"}, {\"name\": \"见缘知恬\", \"scheme\": \"sinaweibo://detail?mblogid=5180503401431102\", \"index\": 2, \"label\": \"\"}], \"name\": \"肿瘤专科医生\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.996.996.50/6e83c57fly8gdj40mevsoj20ro0rojt5.jpg?KID=imgbed,tva&Expires=1762259403&ssig=TBhoh3azQf\", \"scheme\": \"sinaweibo://detail?mblogid=5229306615960405\", \"vType\": 0}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5228856816698245&multi_paragraph=1&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/007KRtdLly8i4yg4qs9xhj30u00u0gmc.jpg?KID=imgbed,tva&Expires=1762259403&ssig=K8aBjutBxA) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">南华视频</span><img src=\"http://wx3.sinaimg.cn/middle/007KRtdLgy1i6yv0dfckhj30u01404n9.jpg\" data-width=1440 data-height=1080></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5228959953590890&multi_paragraph=1&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.512.512.50/c0855202ly8haox29q27gj20e80e8weu.jpg?KID=imgbed,tva&Expires=1762259403&ssig=iBnXM3Ttjo) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">陕视新闻</span><img src=\"http://wx1.sinaimg.cn/middle/c0855202ly1i6z6t4vo77j20u01hcq5y.jpg\" data-width=1920 data-height=1080></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5199864897474883&multi_paragraph=1&multi_count=2\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.900.900.50/68543588ly8hlistbj7fhj20p00p0q3m.jpg?KID=imgbed,tva&Expires=1762259403&ssig=T9oaVmEXQp) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">FM93浙江交通之声</span><img src=\"http://wx4.sinaimg.cn/middle/68543588ly1i4ed914ivrj20u01hcjux.jpg\" data-width=1920 data-height=1080></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5180503401431102&multi_paragraph=1&multi_count=3\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/69ce5e28ly8i6wgnrc9tnj20u00u0n0k.jpg?KID=imgbed,tva&Expires=1762259403&ssig=qkKBWJvy4B) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">见缘知恬</span><img src=\"http://wx2.sinaimg.cn/middle/69ce5e28gy1i2olob9dluj20u01hcq56.jpg\" data-width=1920 data-height=1080></div></media-block><br>### ⚕️ **高风险人群与诱因**  <br>1. **长期停训后突击运动者**：肌肉耐受性骤降，易过度损伤。```wbCustomBlock{\"type\": \"quoted\", \"index\": 10, \"data\": {\"num\": [1, 25], \"version\": 2, \"quote_list\": [{\"name\": \"昆明五华发布\", \"scheme\": \"sinaweibo://detail?mblogid=5229311243324514\", \"index\": 25, \"label\": \"大v\"}, {\"name\": \"陕视新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5228959953590890\", \"index\": 1, \"label\": \"\"}], \"name\": \"昆明五华发布\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.640.640.50/e4ef8441ly8h8vga20in9j20hs0hsjry.jpg?KID=imgbed,tva&Expires=1762259403&ssig=ySCdCPIfRN\", \"scheme\": \"sinaweibo://detail?mblogid=5229311243324514\", \"vType\": 1}}```  <br>2. **减肥或节食人群**：低能量状态加剧肌肉分解风险。```wbCustomBlock{\"type\": \"quoted\", \"index\": 11, \"data\": {\"num\": [8], \"version\": 2, \"quote_list\": [{\"name\": \"中国反邪教\", \"scheme\": \"sinaweibo://detail?mblogid=5229304116150858\", \"index\": 8, \"label\": \"大v\"}], \"name\": \"中国反邪教\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.985.985.50/5ed0f760ly8h8vgw42vp3j20rd0rdwfa.jpg?KID=imgbed,tva&Expires=1762259403&ssig=lNUxXswKIP\", \"scheme\": \"sinaweibo://detail?mblogid=5229304116150858\", \"vType\": 1}}```  <br>3. **服药或慢性病患者**：如服用他汀类降脂药、心脑血管疾病患者。```wbCustomBlock{\"type\": \"quoted\", \"index\": 12, \"data\": {\"num\": [8, 9], \"version\": 2, \"quote_list\": [{\"name\": \"中国反邪教\", \"scheme\": \"sinaweibo://detail?mblogid=5229304116150858\", \"index\": 8, \"label\": \"\"}, {\"name\": \"肿瘤专科医生\", \"scheme\": \"sinaweibo://detail?mblogid=5229306615960405\", \"index\": 9, \"label\": \"\"}]}}```  <br>4. **高温环境运动者**：夏季出汗多、血液浓缩，更易发病。```wbCustomBlock{\"type\": \"quoted\", \"index\": 13, \"data\": {\"num\": [8, 28], \"version\": 2, \"quote_list\": [{\"name\": \"中国反邪教\", \"scheme\": \"sinaweibo://detail?mblogid=5229304116150858\", \"index\": 8, \"label\": \"\"}, {\"name\": \"FM93浙江交通之声\", \"scheme\": \"sinaweibo://detail?mblogid=5199864897474883\", \"index\": 28, \"label\": \"\"}]}}```<br>### 🛡️ **科学运动预防指南**  <br>| **风险阶段** | **防护措施** | **医学依据** |<br>|------------|------------|-------------|<br>| **运动前** | 长期停训者需体检筛查（尤其肾功能、CK值） | 排除隐匿性疾病，评估运动耐受性 |<br>| **运动中** | 低强度起步：从快走/游泳开始，首周≤20分钟/天 | 避免肌肉过载损伤 |<br>| | 补足水分：运动全程每15分钟补水100-150ml | 稀释肌红蛋白，减少肾损伤风险 |<br>| **运动后** | 警惕异常信号：肌肉痛超48小时或尿色变深需就医 | 早诊早治避免肾衰等并发症 |<br>| | 充分冷身：运动后做拉伸（如坐位4字拉伸、腿筋弓） | 缓解肌肉疲劳，促进代谢物排出 |<br><br>```wbCustomBlock{\"type\": \"quoted\", \"index\": 15, \"data\": {\"num\": [1, 2, 4, 8, 9, 25, 28], \"version\": 2, \"quote_list\": [{\"name\": \"长沙政法频道\", \"scheme\": \"sinaweibo://detail?mblogid=4746668957762690\", \"index\": 4, \"label\": \"大v\"}, {\"name\": \"陕视新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5228959953590890\", \"index\": 1, \"label\": \"\"}, {\"name\": \"见缘知恬\", \"scheme\": \"sinaweibo://detail?mblogid=5180503401431102\", \"index\": 2, \"label\": \"\"}, {\"name\": \"中国反邪教\", \"scheme\": \"sinaweibo://detail?mblogid=5229304116150858\", \"index\": 8, \"label\": \"\"}, {\"name\": \"肿瘤专科医生\", \"scheme\": \"sinaweibo://detail?mblogid=5229306615960405\", \"index\": 9, \"label\": \"\"}, {\"name\": \"昆明五华发布\", \"scheme\": \"sinaweibo://detail?mblogid=5229311243324514\", \"index\": 25, \"label\": \"\"}, {\"name\": \"FM93浙江交通之声\", \"scheme\": \"sinaweibo://detail?mblogid=5199864897474883\", \"index\": 28, \"label\": \"\"}], \"name\": \"长沙政法频道\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.900.900.50/ca5d90b0ly8h8vgxwbr77j20p00p0752.jpg?KID=imgbed,tva&Expires=1762259403&ssig=VmEzPsOERf\", \"scheme\": \"sinaweibo://detail?mblogid=4746668957762690\", \"vType\": 3}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=4746668957762690&multi_paragraph=3&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.900.900.50/ca5d90b0ly8h8vgxwbr77j20p00p0752.jpg?KID=imgbed,tva&Expires=1762259403&ssig=VmEzPsOERf) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">长沙政法频道</span><img src=\"http://wx4.sinaimg.cn/middle/ca5d90b0gy1h08kg2lsjxj21hc0u0nfl.jpg\" data-width=1080 data-height=1920></div></media-block><br>### 🏥 **治疗与预后**  <br>- **关键治疗**：大量补液（每日3-5升）、碱化尿液（静脉输注碳酸氢钠）、血液透析（重症者）。```wbCustomBlock{\"type\": \"quoted\", \"index\": 18, \"data\": {\"num\": [2, 9, 26], \"version\": 2, \"quote_list\": [{\"name\": \"见缘知恬\", \"scheme\": \"sinaweibo://detail?mblogid=5180503401431102\", \"index\": 2, \"label\": \"大v\"}, {\"name\": \"肿瘤专科医生\", \"scheme\": \"sinaweibo://detail?mblogid=5229306615960405\", \"index\": 9, \"label\": \"\"}, {\"name\": \"毛毛球公主啊\", \"scheme\": \"sinaweibo://detail?mblogid=5180463824245224\", \"index\": 26, \"label\": \"\"}], \"name\": \"见缘知恬\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/69ce5e28ly8i6wgnrc9tnj20u00u0n0k.jpg?KID=imgbed,tva&Expires=1762259403&ssig=qkKBWJvy4B\", \"scheme\": \"sinaweibo://detail?mblogid=5180503401431102\", \"vType\": 0}}```  <br>- **预后**：多数患者肾功能可恢复，但合并基础疾病者可能反复发作。```wbCustomBlock{\"type\": \"quoted\", \"index\": 19, \"data\": {\"num\": [9, 28], \"version\": 2, \"quote_list\": [{\"name\": \"肿瘤专科医生\", \"scheme\": \"sinaweibo://detail?mblogid=5229306615960405\", \"index\": 9, \"label\": \"\"}, {\"name\": \"FM93浙江交通之声\", \"scheme\": \"sinaweibo://detail?mblogid=5199864897474883\", \"index\": 28, \"label\": \"\"}]}}```<br>### 💎 **核心提醒**  <br>- **避免“报复性运动”**：突击深蹲/高强度训练是横纹肌溶解主要诱因，循序渐进才是安全准则。```wbCustomBlock{\"type\": \"quoted\", \"index\": 22, \"data\": {\"num\": [1, 16, 25], \"version\": 2, \"quote_list\": [{\"name\": \"陕视新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5228959953590890\", \"index\": 1, \"label\": \"\"}, {\"name\": \"新浪广东\", \"scheme\": \"sinaweibo://detail?mblogid=5228866567410502\", \"index\": 16, \"label\": \"\"}, {\"name\": \"昆明五华发布\", \"scheme\": \"sinaweibo://detail?mblogid=5229311243324514\", \"index\": 25, \"label\": \"\"}]}}```  <br>- **个体差异巨大**：案例中士兵3小时完成3600个俯卧撑无碍，但普通人需根据自身体质制定计划。  <br>- **急救意识**：出现酱油尿即需急诊，延误治疗可能需肾替代治疗（如换肾）。```wbCustomBlock{\"type\": \"quoted\", \"index\": 24, \"data\": {\"num\": [26, 28], \"version\": 2, \"quote_list\": [{\"name\": \"毛毛球公主啊\", \"scheme\": \"sinaweibo://detail?mblogid=5180463824245224\", \"index\": 26, \"label\": \"\"}, {\"name\": \"FM93浙江交通之声\", \"scheme\": \"sinaweibo://detail?mblogid=5199864897474883\", \"index\": 28, \"label\": \"\"}]}}```<br><br>运动的本意是提升健康，但忽视科学方法反酿风险。合理规划、倾听身体信号，才能让锻炼真正成为生命的助力。<br>",
+      "share_text": "#21岁小伙200个深蹲后肌肉溶解了#的相关内容，来智搜看看",
+      "reliable_tips": "{\"gold_orange_v_mids\": [\"5180503401431102\", \"5229306615960405\", \"5180463824245224\", \"5229310451385580\", \"5229310743939071\", \"5229304453535578\"], \"gold_orange_v_ratio\": \"23%\", \"media_mids\": [\"5228959953590890\", \"4959604833780220\", \"4958238430462516\", \"5199864897474883\", \"4746668957762690\", \"5229311441241351\", \"4959623987857769\", \"5228588501831832\", \"5229186092368759\"], \"media_ratio\": \"35%\", \"verified_mids\": [\"5228856816698245\", \"5228866567410502\", \"5229311243324514\", \"5229304116150858\", \"5068102330750113\", \"5229307800587331\", \"4959606712304571\", \"4958937862638393\", \"4737558233484462\"], \"verified_ratio\": \"34%\", \"normal_mids\": [\"5229307430438904\", \"5229243324960103\"], \"normal_ratio\": \"8%\", \"ref_mid_rank\": {\"5228959953590890\": {\"rank\": 1}, \"5228856816698245\": {\"rank\": 11}, \"5228866567410502\": {\"rank\": 16}, \"4959604833780220\": {\"rank\": 17}, \"4958238430462516\": {\"rank\": 21}, \"5199864897474883\": {\"rank\": 28}, \"5180503401431102\": {\"rank\": 2}, \"5229306615960405\": {\"rank\": 9}, \"5229311243324514\": {\"rank\": 25}, \"5229304116150858\": {\"rank\": 8}, \"4746668957762690\": {\"rank\": 4}, \"5180463824245224\": {\"rank\": 26}, \"5068102330750113\": {\"rank\": 3}, \"5229310451385580\": {\"rank\": 10}, \"5229311441241351\": {\"rank\": 12}, \"5229307800587331\": {\"rank\": 13}, \"5229307430438904\": {\"rank\": 14}, \"5229243324960103\": {\"rank\": 15}, \"4959623987857769\": {\"rank\": 18}, \"4959606712304571\": {\"rank\": 19}, \"4958937862638393\": {\"rank\": 20}, \"5228588501831832\": {\"rank\": 22}, \"5229186092368759\": {\"rank\": 23}, \"5229310743939071\": {\"rank\": 24}, \"5229304453535578\": {\"rank\": 27}, \"4737558233484462\": {\"rank\": 29}}}",
+      "unify_md5": "3620595b0f0f27cf0d1e9f5db055b753",
+      "short_url": "http://t.cn/AXA0zFji",
+      "share_info": {
+        "status": 3,
+        "url": "http://t.cn/AXAWc5C7",
+        "unify_md5": "3620595b0f0f27cf0d1e9f5db055b753",
+        "page_id": "2329641bebe051b0a055757e6a0f1e491d4921",
+        "comment_content": "",
+        "display_name": "#21岁小伙200个深蹲后肌肉溶解了#",
+        "tips": "#21岁小伙200个深蹲后肌肉溶解了#的相关内容，来智搜看看"
+      },
+      "profile_image_url": "",
+      "reference_num": 26,
+      "qs_status": 0
+    }
+  },
+  "links": [
+    "sinaweibo://detail?mblogid=5228959953590890",
+    "sinaweibo://detail?mblogid=5180503401431102",
+    "sinaweibo://detail?mblogid=5068102330750113",
+    "sinaweibo://detail?mblogid=4746668957762690",
+    "historyweibo://4959554707653701",
+    "historyweibo://4958673564600194",
+    "historyweibo://4878928265351829",
+    "sinaweibo://detail?mblogid=5229304116150858",
+    "sinaweibo://detail?mblogid=5229306615960405",
+    "sinaweibo://detail?mblogid=5229310451385580",
+    "sinaweibo://detail?mblogid=5228856816698245",
+    "sinaweibo://detail?mblogid=5229311441241351",
+    "sinaweibo://detail?mblogid=5229307800587331",
+    "sinaweibo://detail?mblogid=5229307430438904",
+    "sinaweibo://detail?mblogid=5229243324960103",
+    "sinaweibo://detail?mblogid=5228866567410502",
+    "sinaweibo://detail?mblogid=4959604833780220",
+    "sinaweibo://detail?mblogid=4959623987857769",
+    "sinaweibo://detail?mblogid=4959606712304571",
+    "sinaweibo://detail?mblogid=4958937862638393",
+    "sinaweibo://detail?mblogid=4958238430462516",
+    "sinaweibo://detail?mblogid=5228588501831832",
+    "sinaweibo://detail?mblogid=5229186092368759",
+    "sinaweibo://detail?mblogid=5229310743939071",
+    "sinaweibo://detail?mblogid=5229311243324514",
+    "sinaweibo://detail?mblogid=5180463824245224",
+    "sinaweibo://detail?mblogid=5229304453535578",
+    "sinaweibo://detail?mblogid=5199864897474883",
+    "sinaweibo://detail?mblogid=4737558233484462"
+  ],
+  "media": [
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/007KRtdLgy1i6yv0dfckhj30u01404n9.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/007KRtdLgy1i6yv0dfckhj30u01404n9.jpg",
+      "alt": "南华视频",
+      "width": 1440,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/007KRtdLgy1i6yv0dfckhj30u01404n9.jpg"
+      ],
+      "user": "南华视频"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/c0855202ly1i6z6t4vo77j20u01hcq5y.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/c0855202ly1i6z6t4vo77j20u01hcq5y.jpg",
+      "alt": "陕视新闻",
+      "width": 1920,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/c0855202ly1i6z6t4vo77j20u01hcq5y.jpg"
+      ],
+      "user": "陕视新闻"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/68543588ly1i4ed914ivrj20u01hcjux.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/68543588ly1i4ed914ivrj20u01hcjux.jpg",
+      "alt": "FM93浙江交通之声",
+      "width": 1920,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/68543588ly1i4ed914ivrj20u01hcjux.jpg"
+      ],
+      "user": "FM93浙江交通之声"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/69ce5e28gy1i2olob9dluj20u01hcq56.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/69ce5e28gy1i2olob9dluj20u01hcq56.jpg",
+      "alt": "见缘知恬",
+      "width": 1920,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx4.sinaimg.cn/large/69ce5e28gy1i2olob9dluj20u01hcq56.jpg"
+      ],
+      "user": "见缘知恬"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/ca5d90b0gy1h08kg2lsjxj21hc0u0nfl.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/ca5d90b0gy1h08kg2lsjxj21hc0u0nfl.jpg",
+      "alt": "长沙政法频道",
+      "width": 1080,
+      "height": 1920,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/ca5d90b0gy1h08kg2lsjxj21hc0u0nfl.jpg"
+      ],
+      "user": "长沙政法频道"
+    }
+  ],
+  "html_path": "data/aicard/hourly/2025-11-04/17/21-200.html"
+}

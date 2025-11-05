@@ -1,0 +1,319 @@
+{
+  "meta": {
+    "query": "#王耀庆工作室回应#",
+    "status_code": 200,
+    "fetched_at": "2025-10-29T10:13:15+08:00",
+    "response": {
+      "page_id": "2329642ba5c9afaa82a5cfe7fd074fd3953963",
+      "unify_md5": "4ff4c31f9f7302cce826ebe7948eea7e",
+      "current_time": 1761703997,
+      "profile_image_url": "",
+      "user_info": {},
+      "zs_risk_control": {
+        "think_text_close": 0,
+        "land_button_close": 0
+      },
+      "query_field": "1",
+      "status_stage": 4,
+      "chat_status_stage": 1,
+      "cot": 1,
+      "card_multimodal": {
+        "type": "mediablock",
+        "data": [
+          {
+            "user_avatar": "https://tvax1.sinaimg.cn/crop.0.0.1076.1076.50/005MmbHVly8i6s71zetgfj30tw0twacg.jpg?KID=imgbed,tva&Expires=1761714546&ssig=1PTWQOaAhw",
+            "h": 1440,
+            "video_url": "",
+            "click_rate": 0.20338983050847,
+            "hit_score_new": 89.892578,
+            "doc_score": 4265,
+            "img_pid": "005MmbHVgy1i6sy55bz9ij30u0140gqv",
+            "vtype": 0,
+            "hit_score_final": 76.73555,
+            "img": "http://wx1.sinaimg.cn/middle/005MmbHVgy1i6sy55bz9ij30u0140gqv.jpg",
+            "w": 1080,
+            "cur_mid": "5227000855790393",
+            "type": "p",
+            "scheme": "sinaweibo://multimedia?mix_mid=5227000855790393&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=1&multi_count=0",
+            "user_name": "Acases"
+          },
+          {
+            "user_avatar": "https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/006JwFOPly1i6ma79xuhlj30u00u0q4b.jpg?KID=imgbed,tva&Expires=1761714546&ssig=3hHCtDLyMT",
+            "h": 1280,
+            "video_url": "https://video.weibo.com/show?fid=1034:5226990454898701",
+            "click_rate": 0,
+            "hit_score_new": 95.361328,
+            "doc_score": 6025,
+            "img_pid": "006JwFOPly1i6swohhd9ij30k00zk759",
+            "vtype": 0,
+            "hit_score_final": 89.216797,
+            "img": "http://wx4.sinaimg.cn/middle/006JwFOPly1i6swohhd9ij30k00zk759.jpg",
+            "w": 720,
+            "cur_mid": "5226991524513463",
+            "type": "v",
+            "scheme": "sinaweibo://multimedia?mix_mid=5226991524513463&mix_index=0&multi_paragraph=1&multi_count=1",
+            "user_name": "你丸玩噜-1030腾讯看山河枕卫韫"
+          },
+          {
+            "user_avatar": "https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/005zilAkgy1i3kxeojuvcj30u00u0juf.jpg?KID=imgbed,tva&Expires=1761714546&ssig=%2FfLB70Itkc",
+            "h": 607,
+            "video_url": "https://video.weibo.com/show?fid=1034:5226995370360847",
+            "click_rate": 0,
+            "hit_score_new": 0,
+            "doc_score": 5407,
+            "img_pid": "005zilAkgy1i6sx8s9xk9j30u00gvdhu",
+            "vtype": 0,
+            "hit_score_final": 80,
+            "img": "http://wx4.sinaimg.cn/middle/005zilAkgy1i6sx8s9xk9j30u00gvdhu.jpg",
+            "w": 1080,
+            "cur_mid": "5226995462182296",
+            "type": "v",
+            "scheme": "sinaweibo://video/vvs?mid=5226995462182296&multi_paragraph=3&multi_count=0",
+            "user_name": "一丈凡尘"
+          },
+          {
+            "user_avatar": "https://tvax1.sinaimg.cn/crop.0.0.1076.1076.50/005MmbHVly8i6s71zetgfj30tw0twacg.jpg?KID=imgbed,tva&Expires=1761714546&ssig=1PTWQOaAhw",
+            "h": 1440,
+            "video_url": "",
+            "click_rate": 0.20338983050847,
+            "hit_score_new": 89.892578,
+            "doc_score": 4265,
+            "img_pid": "005MmbHVgy1i6sy55bz9ij30u0140gqv",
+            "vtype": 0,
+            "hit_score_final": 76.73555,
+            "img": "http://wx1.sinaimg.cn/middle/005MmbHVgy1i6sy55bz9ij30u0140gqv.jpg",
+            "w": 1080,
+            "cur_mid": "5227000855790393",
+            "type": "p",
+            "scheme": "sinaweibo://multimedia?mix_mid=5227000855790393&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=1&multi_count=0",
+            "user_name": "Acases"
+          }
+        ]
+      },
+      "msg_json": "{}",
+      "reliable_tips": "{\"gold_orange_v_mids\": [\"5226991524513463\", \"5226998898624921\", \"5227000855790393\", \"5226995462182296\", \"5226992301507148\", \"5227021166972403\", \"5226984577959628\", \"5227008112199954\", \"5226986777346331\", \"5227011939502192\", \"5226991436434212\", \"5226993441834768\", \"5226996030508808\", \"5226996067994108\", \"5227022558432191\", \"5227012362077676\", \"5227009112543133\", \"5227003248903538\", \"5226879948163887\", \"5226998410511605\", \"5226992320643335\", \"5227001700680179\", \"5227000119165533\", \"4853812827260940\", \"5226988598198943\"], \"gold_orange_v_ratio\": \"66%\", \"media_mids\": [\"5226986408772902\", \"5226998181923674\", \"5227026197776139\"], \"media_ratio\": \"8%\", \"verified_mids\": [\"5226858962489435\", \"5226902383755294\", \"5226985824456506\", \"5227026376295286\", \"5226877646016450\"], \"verified_ratio\": \"13%\", \"normal_mids\": [\"5227025522757870\", \"5227026090558402\", \"5227025788044179\", \"5227025740862919\", \"5227025067412721\"], \"normal_ratio\": \"13%\", \"ref_mid_rank\": {\"5226991524513463\": {\"rank\": 6}, \"5226998898624921\": {\"rank\": 18}, \"5226986408772902\": {\"rank\": 25}, \"5227000855790393\": {\"rank\": 28}, \"5226858962489435\": {\"rank\": 1}, \"5226995462182296\": {\"rank\": 8}, \"5226992301507148\": {\"rank\": 12}, \"5226998181923674\": {\"rank\": 35}, \"5227021166972403\": {\"rank\": 37}, \"5226984577959628\": {\"rank\": 2}, \"5226902383755294\": {\"rank\": 3}, \"5227008112199954\": {\"rank\": 20}, \"5226986777346331\": {\"rank\": 23}, \"5227026197776139\": {\"rank\": 30}, \"5226985824456506\": {\"rank\": 4}, \"5227011939502192\": {\"rank\": 19}, \"5226991436434212\": {\"rank\": 16}, \"5226993441834768\": {\"rank\": 17}, \"5226996030508808\": {\"rank\": 10}, \"5226996067994108\": {\"rank\": 11}, \"5227025522757870\": {\"rank\": 34}, \"5227022558432191\": {\"rank\": 21}, \"5227026376295286\": {\"rank\": 29}, \"5227012362077676\": {\"rank\": 38}, \"5227009112543133\": {\"rank\": 27}, \"5227026090558402\": {\"rank\": 31}, \"5227003248903538\": {\"rank\": 5}, \"5226879948163887\": {\"rank\": 7}, \"5226998410511605\": {\"rank\": 9}, \"5226992320643335\": {\"rank\": 22}, \"5227001700680179\": {\"rank\": 24}, \"5227000119165533\": {\"rank\": 26}, \"5227025788044179\": {\"rank\": 32}, \"5227025740862919\": {\"rank\": 33}, \"5227025067412721\": {\"rank\": 36}, \"5226877646016450\": {\"rank\": 39}, \"4853812827260940\": {\"rank\": 40}, \"5226988598198943\": {\"rank\": 41}}}",
+      "q_attr": {
+        "from_request_id": "",
+        "from_uid": ""
+      },
+      "show_ctrl": {
+        "quote": {}
+      },
+      "uid": "",
+      "qs_status": 0,
+      "query": "#王耀庆工作室回应#",
+      "loop_times": 200,
+      "share_info": {
+        "display_name": "#王耀庆工作室回应#",
+        "page_id": "2329642ba5c9afaa82a5cfe7fd074fd3953963",
+        "tips": "#王耀庆工作室回应#的相关内容，来智搜看看",
+        "status": 3,
+        "url": "http://t.cn/AXAzpDpX",
+        "unify_md5": "4ff4c31f9f7302cce826ebe7948eea7e"
+      },
+      "version": "2025-10-29 10:09:06.015000-2794",
+      "ext_show": {},
+      "status": 2,
+      "abtest_info": {
+        "chat_entrance": 1
+      },
+      "wenda": {
+        "forward_gen": 0
+      },
+      "basemodel": "实验组1",
+      "msg": "<think><br><br>嗯，用户搜索了\"王耀庆工作室回应\"，我需要整理这个事件的来龙去脉。浏览了搜索结果，发现这是关于王耀庆在ELLE盛典直播中的主持争议引发的系列回应。<br><br>先理清时间线：10月28日ELLE盛典上，王耀庆对钟楚曦说\"想要抢..抢..抢着送上祝福了吧\"这句话特别关键，尤其是重复的\"抢\"字。这被解读为影射钟楚曦前几天在VOGUE盛典的\"抢C位\"风波。当时钟楚曦表情明显僵硬，回了句\"吓死我了\"。<br><br>当天23：02工作室就发了第一条回应：\"以后不做活动直播间主持人啦。不好玩 不背锅\"。这个回应引发两极反应，有人觉得是消极抵抗网络暴力，也有人批评是推卸责任。<br><br>到了29日凌晨，工作室发了详细长文澄清，主要解释三点：那次口误是因为台本临时调整导致\"吃螺丝\"（业内术语），本意只是说\"抢着送祝福\"；强调王耀庆的咖位\"没资格调侃事件\"；强烈谴责网络暴力，把恶意评论比作\"文明世界的H废水\"。<br><br>舆论反应特别有意思。支持方认为这只是王耀庆一贯的幽默风格，而且钟楚曦如果高情商接梗可能就化解了；反对方则指责这是\"贴脸开大\"的职场霸凌，尤其工作室\"不背锅\"的声明显得缺乏诚意。<br><br>事件还引发行业反思：公众人物幽默的边界问题，直播即时性带来的风险，以及艺人团队应对舆情的策略。<br><br>在整理回复时需要突出冲突核心点：三个\"抢\"字的争议解读；工作室两次回应的反差效果；舆论的严重对立；以及事件反映的行业深层问题。考虑用清晰的模块呈现，在关键争议处加粗强调，保持客观立场同时呈现多方观点。<br><br></think><br>以下为王耀庆工作室回应的完整事件梳理与分析，综合多方信息整理关键脉络：<br>### ⚡️ **一、事件核心争议：ELLE盛典直播风波**<br>1. **争议引爆点**  <br>   在2025年10月28日ELLE风尚大典直播中，王耀庆担任主持人时对嘉宾钟楚曦调侃：  <br>   > “又来到ELLE盛典上，想要抢..抢..抢着给大家送上祝福了吧？”  <br>   其中刻意重复的“抢”字被解读为影射钟楚曦此前在VOGUE盛典合影环节的“抢C位”争议（该争议已持续发酵数日）。现场钟楚曦表情尴尬，回应“吓死我了”，相关片段迅速登上热搜。```wbCustomBlock{\"type\": \"quoted\", \"index\": 5, \"data\": {\"num\": [6, 18, 25], \"version\": 2, \"quote_list\": [{\"name\": \"中国蓝新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5226986408772902\", \"index\": 25, \"label\": \"大v\"}, {\"name\": \"你丸玩噜-1030腾讯看山河枕卫韫\", \"scheme\": \"sinaweibo://detail?mblogid=5226991524513463\", \"index\": 6, \"label\": \"\"}, {\"name\": \"秋日顶片\", \"scheme\": \"sinaweibo://detail?mblogid=5226998898624921\", \"index\": 18, \"label\": \"\"}], \"name\": \"中国蓝新闻\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.1000.1000.50/8842ff52ly8heqfusvnwbj20rs0rsmxx.jpg?KID=imgbed,tva&Expires=1761714546&ssig=JeuAJHMWv%2F\", \"scheme\": \"sinaweibo://detail?mblogid=5226986408772902\", \"vType\": 3}}```<br><br>2. **争议背景**  <br>   钟楚曦因VOGUE盛典站位问题正处舆论风口，遭持续网暴并删除大量社交动态。王耀庆的“抢”字发言被部分网友视为对其的公开嘲讽。```wbCustomBlock{\"type\": \"quoted\", \"index\": 6, \"data\": {\"num\": [28], \"version\": 2, \"quote_list\": [{\"name\": \"Acases\", \"scheme\": \"sinaweibo://detail?mblogid=5227000855790393\", \"index\": 28, \"label\": \"\"}]}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5227000855790393&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=1&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.1076.1076.50/005MmbHVly8i6s71zetgfj30tw0twacg.jpg?KID=imgbed,tva&Expires=1761714546&ssig=1PTWQOaAhw) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">Acases</span><img src=\"http://wx1.sinaimg.cn/middle/005MmbHVgy1i6sy55bz9ij30u0140gqv.jpg\" data-width=1440 data-height=1080></div><div data-type=\"v\" data-scheme=\"sinaweibo://multimedia?mix_mid=5226991524513463&mix_index=0&multi_paragraph=1&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/006JwFOPly1i6ma79xuhlj30u00u0q4b.jpg?KID=imgbed,tva&Expires=1761714546&ssig=3hHCtDLyMT) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">你丸玩噜-1030腾讯看山河枕卫韫</span><img src=\"http://wx4.sinaimg.cn/middle/006JwFOPly1i6swohhd9ij30k00zk759.jpg\" data-width=1280 data-height=720></div></media-block><br>### 📢 **二、工作室两次正式回应**<br>#### **1. 首次声明（10月28日23:02）**  <br>   工作室简短发文：  <br>   > **“以后不做活动直播间主持人啦。不好玩 不背锅”**  <br>   宣布退出活动主持工作，将主持争议定性为“无趣且拒绝担责”。该声明被批态度消极，缺乏解决诚意。```wbCustomBlock{\"type\": \"quoted\", \"index\": 10, \"data\": {\"num\": [1, 8, 12, 35, 37], \"version\": 2, \"quote_list\": [{\"name\": \"钱江视频\", \"scheme\": \"sinaweibo://detail?mblogid=5226998181923674\", \"index\": 35, \"label\": \"大v\"}, {\"name\": \"王耀庆工作室\", \"scheme\": \"sinaweibo://detail?mblogid=5226858962489435\", \"index\": 1, \"label\": \"\"}, {\"name\": \"一丈凡尘\", \"scheme\": \"sinaweibo://detail?mblogid=5226995462182296\", \"index\": 8, \"label\": \"\"}, {\"name\": \"我是小叮当哪\", \"scheme\": \"sinaweibo://detail?mblogid=5226992301507148\", \"index\": 12, \"label\": \"\"}, {\"name\": \"Polarisssss-\", \"scheme\": \"sinaweibo://detail?mblogid=5227021166972403\", \"index\": 37, \"label\": \"\"}], \"name\": \"钱江视频\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.512.512.50/67f865afly8h8vg6w30czj20e80e8t92.jpg?KID=imgbed,tva&Expires=1761714546&ssig=ZC82CjVPpr\", \"scheme\": \"sinaweibo://detail?mblogid=5226998181923674\", \"vType\": 3}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5226995462182296&multi_paragraph=3&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/005zilAkgy1i3kxeojuvcj30u00u0juf.jpg?KID=imgbed,tva&Expires=1761714546&ssig=%2FfLB70Itkc) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">一丈凡尘</span><img src=\"http://wx4.sinaimg.cn/middle/005zilAkgy1i6sx8s9xk9j30u00gvdhu.jpg\" data-width=607 data-height=1080></div></media-block><br>#### **2. 二次长文澄清（10月29日凌晨）**  <br>   工作室发布千字说明，核心要点如下：<br>   - **否认恶意调侃**：解释“抢”字卡顿是因台本临时调整导致口误（业内称“吃螺丝”），原意仅为“抢着送祝福”；强调镜头未完整捕捉嘉宾谦让位次过程。```wbCustomBlock{\"type\": \"quoted\", \"index\": 12, \"data\": {\"num\": [2, 3, 20], \"version\": 2, \"quote_list\": [{\"name\": \"王耀庆工作室\", \"scheme\": \"sinaweibo://detail?mblogid=5226902383755294\", \"index\": 3, \"label\": \"大v\"}, {\"name\": \"追剧大赏\", \"scheme\": \"sinaweibo://detail?mblogid=5226984577959628\", \"index\": 2, \"label\": \"\"}, {\"name\": \"一只小团子嘻\", \"scheme\": \"sinaweibo://detail?mblogid=5227008112199954\", \"index\": 20, \"label\": \"\"}], \"name\": \"王耀庆工作室\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.1242.1242.50/006ciMAhly8fhn39fuen7j30yi0yidie.jpg?KID=imgbed,tva&Expires=1761714546&ssig=Bpws0sMgel\", \"scheme\": \"sinaweibo://detail?mblogid=5226902383755294\", \"vType\": 7}}```<br>   - **自我定位与立场**：  <br>     - 自称“以目前在内娱的咖位远没有资格参与或调侃事件”，表明无意针对钟楚曦；```wbCustomBlock{\"type\": \"quoted\", \"index\": 14, \"data\": {\"num\": [3, 23], \"version\": 2, \"quote_list\": [{\"name\": \"橘子娱乐\", \"scheme\": \"sinaweibo://detail?mblogid=5226986777346331\", \"index\": 23, \"label\": \"大v\"}, {\"name\": \"王耀庆工作室\", \"scheme\": \"sinaweibo://detail?mblogid=5226902383755294\", \"index\": 3, \"label\": \"\"}], \"name\": \"橘子娱乐\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.811.811.50/005M7XdTly8h8vnv7l2aij30mj0mj3yz.jpg?KID=imgbed,tva&Expires=1761714546&ssig=%2BQcjR3%2Flt%2F\", \"scheme\": \"sinaweibo://detail?mblogid=5226986777346331\", \"vType\": 0}}```  <br>     - 痛斥“网络霸凌”，批评恶意剪辑和二创解读，将部分评论称为“文明世界的H废水”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 15, \"data\": {\"num\": [3, 30], \"version\": 2, \"quote_list\": [{\"name\": \"王耀庆工作室\", \"scheme\": \"sinaweibo://detail?mblogid=5226902383755294\", \"index\": 3, \"label\": \"\"}, {\"name\": \"老友记TV\", \"scheme\": \"sinaweibo://detail?mblogid=5227026197776139\", \"index\": 30, \"label\": \"\"}]}}```<br>   - **呼吁平息风波**：希望“网络狂欢顺利谢幕”，反对煽动性别对立和语言暴力。```wbCustomBlock{\"type\": \"quoted\", \"index\": 16, \"data\": {\"num\": [4, 19], \"version\": 2, \"quote_list\": [{\"name\": \"新浪娱乐\", \"scheme\": \"sinaweibo://detail?mblogid=5226985824456506\", \"index\": 4, \"label\": \"\"}, {\"name\": \"拾光彤彤\", \"scheme\": \"sinaweibo://detail?mblogid=5227011939502192\", \"index\": 19, \"label\": \"\"}]}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5226984577959628&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=4&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/006PGz2Vly8gcdnam3emvj30u00u0jsa.jpg?KID=imgbed,tva&Expires=1761714546&ssig=nzC6BPY8Oc) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">追剧大赏</span><img src=\"http://wx4.sinaimg.cn/middle/006PGz2Vgy1i6svzc9zxfj310o16nq9r.jpg\" data-width=1535 data-height=1320></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5226902383755294&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=4&multi_count=1\"><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.1242.1242.50/006ciMAhly8fhn39fuen7j30yi0yidie.jpg?KID=imgbed,tva&Expires=1761714546&ssig=Bpws0sMgel) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">王耀庆工作室</span><img src=\"http://wx1.sinaimg.cn/middle/006ciMAhgy1i6smjzpne3j30zj1u3ajd.jpg\" data-width=2379 data-height=1279></div></media-block><br>### ⚖️ **三、舆论两极分化**<br>#### **支持观点**  <br>- **即兴幽默被误读**：王耀庆一贯以无厘头风格著称，本意是活跃气氛；钟楚曦若高情商接梗（如回应“不敢抢了”）可化解尴尬。```wbCustomBlock{\"type\": \"quoted\", \"index\": 20, \"data\": {\"num\": [16, 17, 20], \"version\": 2, \"quote_list\": [{\"name\": \"一只小团子嘻\", \"scheme\": \"sinaweibo://detail?mblogid=5227008112199954\", \"index\": 20, \"label\": \"大v\"}, {\"name\": \"我是无敌战斗\", \"scheme\": \"sinaweibo://detail?mblogid=5226991436434212\", \"index\": 16, \"label\": \"\"}, {\"name\": \"踩黑扛把子\", \"scheme\": \"sinaweibo://detail?mblogid=5226993441834768\", \"index\": 17, \"label\": \"\"}], \"name\": \"一只小团子嘻\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/006on1LSly8i5j0s62d0dj30u00u076v.jpg?KID=imgbed,tva&Expires=1761714546&ssig=yIo2zuiswR\", \"scheme\": \"sinaweibo://detail?mblogid=5227008112199954\", \"vType\": 0}}```  <br>- **抵制网络暴力**：长文对恶意解读的批判引发共鸣，认为公众对艺人言行过度苛刻。```wbCustomBlock{\"type\": \"quoted\", \"index\": 21, \"data\": {\"num\": [10, 11, 34], \"version\": 2, \"quote_list\": [{\"name\": \"李冷冷·\", \"scheme\": \"sinaweibo://detail?mblogid=5226996067994108\", \"index\": 11, \"label\": \"大v\"}, {\"name\": \"许仙的白娘子来了\", \"scheme\": \"sinaweibo://detail?mblogid=5226996030508808\", \"index\": 10, \"label\": \"\"}, {\"name\": \"守护你我最爱的任\", \"scheme\": \"sinaweibo://detail?mblogid=5227025522757870\", \"index\": 34, \"label\": \"\"}], \"name\": \"李冷冷·\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/005Jlv9Ily8hr0dlcv7tnj30u00u0jv7.jpg?KID=imgbed,tva&Expires=1761714546&ssig=WjfsXmrrgV\", \"scheme\": \"sinaweibo://detail?mblogid=5226996067994108\", \"vType\": 0}}```<br>#### **批评声音**  <br>- **职场霸凌嫌疑**：在他人舆论敏感期“贴脸开大”，属公开羞辱；工作室“不背锅”声明被指推卸责任。```wbCustomBlock{\"type\": \"quoted\", \"index\": 23, \"data\": {\"num\": [18, 21, 29], \"version\": 2, \"quote_list\": [{\"name\": \"秦祎墨\", \"scheme\": \"sinaweibo://detail?mblogid=5227022558432191\", \"index\": 21, \"label\": \"大v\"}, {\"name\": \"秋日顶片\", \"scheme\": \"sinaweibo://detail?mblogid=5226998898624921\", \"index\": 18, \"label\": \"\"}, {\"name\": \"大田狗永一\", \"scheme\": \"sinaweibo://detail?mblogid=5227026376295286\", \"index\": 29, \"label\": \"\"}], \"name\": \"秦祎墨\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/001I5kally8i65g4if476j60u00u077g02.jpg?KID=imgbed,tva&Expires=1761714546&ssig=slqllH3cDi\", \"scheme\": \"sinaweibo://detail?mblogid=5227022558432191\", \"vType\": 0}}```  <br>- **回应策略失误**：未直接向钟楚曦道歉，将合理批评与网络暴力混为一谈。```wbCustomBlock{\"type\": \"quoted\", \"index\": 24, \"data\": {\"num\": [8, 37, 38], \"version\": 2, \"quote_list\": [{\"name\": \"一丈凡尘\", \"scheme\": \"sinaweibo://detail?mblogid=5226995462182296\", \"index\": 8, \"label\": \"大v\"}, {\"name\": \"Polarisssss-\", \"scheme\": \"sinaweibo://detail?mblogid=5227021166972403\", \"index\": 37, \"label\": \"\"}, {\"name\": \"魚卷不卷yo\", \"scheme\": \"sinaweibo://detail?mblogid=5227012362077676\", \"index\": 38, \"label\": \"\"}], \"name\": \"一丈凡尘\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/005zilAkgy1i3kxeojuvcj30u00u0juf.jpg?KID=imgbed,tva&Expires=1761714546&ssig=%2FfLB70Itkc\", \"scheme\": \"sinaweibo://detail?mblogid=5226995462182296\", \"vType\": 0}}```<br>### 🔍 **四、行业反思与启示**<br>1. **幽默的边界争议**  <br>   公众人物需区分场合调整表达：综艺式调侃在正式盛典中易被解读为冒犯，需兼顾语境敏感性。```wbCustomBlock{\"type\": \"quoted\", \"index\": 27, \"data\": {\"num\": [8, 27, 38], \"version\": 2, \"quote_list\": [{\"name\": \"一丈凡尘\", \"scheme\": \"sinaweibo://detail?mblogid=5226995462182296\", \"index\": 8, \"label\": \"\"}, {\"name\": \"妙梗冲浪手\", \"scheme\": \"sinaweibo://detail?mblogid=5227009112543133\", \"index\": 27, \"label\": \"\"}, {\"name\": \"魚卷不卷yo\", \"scheme\": \"sinaweibo://detail?mblogid=5227012362077676\", \"index\": 38, \"label\": \"\"}]}}```<br><br>2. **舆情应对的教训**  <br>   - **声明措辞失当**：首轮“不背锅”回应激化矛盾，被批“茶言茶语”；二次长文虽补充细节仍被指缺乏共情。```wbCustomBlock{\"type\": \"quoted\", \"index\": 29, \"data\": {\"num\": [37, 38], \"version\": 2, \"quote_list\": [{\"name\": \"Polarisssss-\", \"scheme\": \"sinaweibo://detail?mblogid=5227021166972403\", \"index\": 37, \"label\": \"\"}, {\"name\": \"魚卷不卷yo\", \"scheme\": \"sinaweibo://detail?mblogid=5227012362077676\", \"index\": 38, \"label\": \"\"}]}}```  <br>   - **平台责任缺失**：活动方未在彩排规避敏感话题，暴露风险预判不足；片段化传播加剧误读。<br><br>3. **网络生态的恶性循环**  <br>   从“抢C位”到“贴脸开大”，事件揭示流量驱动下艺人沦为牺牲品的常态。王耀庆长文警句引发深思：  <br>   > “拿着放大镜去揣测他人的恶意，本不该变成常态……世间的美好会被消磨得无影无踪”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 32, \"data\": {\"num\": [3], \"version\": 2, \"quote_list\": [{\"name\": \"王耀庆工作室\", \"scheme\": \"sinaweibo://detail?mblogid=5226902383755294\", \"index\": 3, \"label\": \"\"}]}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5227009112543133&multi_paragraph=8&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.40.0.890.890.50/0063ODw2ly8i0kzoa5xicj30qy0oq0v8.jpg?KID=imgbed,tva&Expires=1761714546&ssig=FmFRJpPEMt) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">妙梗冲浪手</span><img src=\"http://wx2.sinaimg.cn/middle/0063ODw2ly1i6sysu7a7cj30dc0g8aab.jpg\" data-width=584 data-height=480></div></media-block><br>### 💎 **五、事件结局与影响**<br>- **王耀庆方**：仅宣布退出**活动直播间主持**，未涉及影视、综艺等其他工作。```wbCustomBlock{\"type\": \"quoted\", \"index\": 35, \"data\": {\"num\": [19], \"version\": 2, \"quote_list\": [{\"name\": \"拾光彤彤\", \"scheme\": \"sinaweibo://detail?mblogid=5227011939502192\", \"index\": 19, \"label\": \"\"}]}}```  <br>- **行业启示**：  <br>  - 真正的幽默需以共情为前提，而非消费他人痛点；  <br>  - 艺人与公众的互动边界、平台舆情管理机制亟待规范。```wbCustomBlock{\"type\": \"quoted\", \"index\": 38, \"data\": {\"num\": [31, 38], \"version\": 2, \"quote_list\": [{\"name\": \"末日海胆\", \"scheme\": \"sinaweibo://detail?mblogid=5227026090558402\", \"index\": 31, \"label\": \"\"}, {\"name\": \"魚卷不卷yo\", \"scheme\": \"sinaweibo://detail?mblogid=5227012362077676\", \"index\": 38, \"label\": \"\"}]}}```<br><br>> **事件本质**：表面是口误引发的误会，实为对畸形网络生态的抗议。正如王耀庆所冀：“让狂欢谢幕，让专业回归”。<br>",
+      "news_analyze": {},
+      "reference_num": 38,
+      "msg_format": "markdown",
+      "short_url": "http://t.cn/AXAzbrXW",
+      "share_card_multimodal": {
+        "user_avatar": "https://tvax1.sinaimg.cn/crop.0.0.1076.1076.50/005MmbHVly8i6s71zetgfj30tw0twacg.jpg?KID=imgbed,tva&Expires=1761714546&ssig=1PTWQOaAhw",
+        "h": 1440,
+        "video_url": "",
+        "click_rate": 0.20338983050847,
+        "hit_score_new": 89.892578,
+        "doc_score": 4265,
+        "img_pid": "005MmbHVgy1i6sy55bz9ij30u0140gqv",
+        "vtype": 0,
+        "hit_score_final": 76.73555,
+        "img": "http://wx1.sinaimg.cn/middle/005MmbHVgy1i6sy55bz9ij30u0140gqv.jpg",
+        "w": 1080,
+        "cur_mid": "5227000855790393",
+        "type": "p",
+        "scheme": "sinaweibo://multimedia?mix_mid=5227000855790393&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=1&multi_count=0",
+        "user_name": "Acases"
+      },
+      "analysis_time": 1761703898,
+      "scheme": "sinaweibo://cardlist?containerid=100103type%3D225%26q%3D%23%E7%8E%8B%E8%80%80%E5%BA%86%E5%B7%A5%E4%BD%9C%E5%AE%A4%E5%9B%9E%E5%BA%94%23%26t%3D&extparam=ai_model%3Ddeepseek%26ori_ai_title%3D%E5%8F%82%E8%80%83%E5%8D%9A%E6%96%87%26material_version%3D1761703746",
+      "mid_list": null,
+      "query_category": "Gossip",
+      "share_text": "#王耀庆工作室回应#的相关内容，来智搜看看",
+      "ab_suffix": "default",
+      "top_quote_list": {},
+      "model": "deepseek",
+      "sorted_material_list": null,
+      "qs_status_info": "{\"ab_lab\":{},\"qs_u_status\":0,\"qs_r_status\":0,\"qs_status\":0,\"qs_q_status\":0,\"qs_c_status\":8388608}",
+      "link_list": [
+        "sinaweibo://detail?mblogid=5226858962489435",
+        "sinaweibo://detail?mblogid=5226984577959628",
+        "sinaweibo://detail?mblogid=5226902383755294",
+        "sinaweibo://detail?mblogid=5226985824456506",
+        "sinaweibo://detail?mblogid=5227003248903538",
+        "sinaweibo://detail?mblogid=5226991524513463",
+        "sinaweibo://detail?mblogid=5226879948163887",
+        "sinaweibo://detail?mblogid=5226995462182296",
+        "sinaweibo://detail?mblogid=5226998410511605",
+        "sinaweibo://detail?mblogid=5226996030508808",
+        "sinaweibo://detail?mblogid=5226996067994108",
+        "sinaweibo://detail?mblogid=5226992301507148",
+        "historyweibo://5226858962489435",
+        "historyweibo://5226858962489435",
+        "historyweibo://5226910918902097",
+        "sinaweibo://detail?mblogid=5226991436434212",
+        "sinaweibo://detail?mblogid=5226993441834768",
+        "sinaweibo://detail?mblogid=5226998898624921",
+        "sinaweibo://detail?mblogid=5227011939502192",
+        "sinaweibo://detail?mblogid=5227008112199954",
+        "sinaweibo://detail?mblogid=5227022558432191",
+        "sinaweibo://detail?mblogid=5226992320643335",
+        "sinaweibo://detail?mblogid=5226986777346331",
+        "sinaweibo://detail?mblogid=5227001700680179",
+        "sinaweibo://detail?mblogid=5226986408772902",
+        "sinaweibo://detail?mblogid=5227000119165533",
+        "sinaweibo://detail?mblogid=5227009112543133",
+        "sinaweibo://detail?mblogid=5227000855790393",
+        "sinaweibo://detail?mblogid=5227026376295286",
+        "sinaweibo://detail?mblogid=5227026197776139",
+        "sinaweibo://detail?mblogid=5227026090558402",
+        "sinaweibo://detail?mblogid=5227025788044179",
+        "sinaweibo://detail?mblogid=5227025740862919",
+        "sinaweibo://detail?mblogid=5227025522757870",
+        "sinaweibo://detail?mblogid=5226998181923674",
+        "sinaweibo://detail?mblogid=5227025067412721",
+        "sinaweibo://detail?mblogid=5227021166972403",
+        "sinaweibo://detail?mblogid=5227012362077676",
+        "sinaweibo://detail?mblogid=5226877646016450",
+        "sinaweibo://detail?mblogid=4853812827260940",
+        "sinaweibo://detail?mblogid=5226988598198943"
+      ]
+    }
+  },
+  "links": [
+    "sinaweibo://detail?mblogid=5226858962489435",
+    "sinaweibo://detail?mblogid=5226984577959628",
+    "sinaweibo://detail?mblogid=5226902383755294",
+    "sinaweibo://detail?mblogid=5226985824456506",
+    "sinaweibo://detail?mblogid=5227003248903538",
+    "sinaweibo://detail?mblogid=5226991524513463",
+    "sinaweibo://detail?mblogid=5226879948163887",
+    "sinaweibo://detail?mblogid=5226995462182296",
+    "sinaweibo://detail?mblogid=5226998410511605",
+    "sinaweibo://detail?mblogid=5226996030508808",
+    "sinaweibo://detail?mblogid=5226996067994108",
+    "sinaweibo://detail?mblogid=5226992301507148",
+    "historyweibo://5226858962489435",
+    "historyweibo://5226858962489435",
+    "historyweibo://5226910918902097",
+    "sinaweibo://detail?mblogid=5226991436434212",
+    "sinaweibo://detail?mblogid=5226993441834768",
+    "sinaweibo://detail?mblogid=5226998898624921",
+    "sinaweibo://detail?mblogid=5227011939502192",
+    "sinaweibo://detail?mblogid=5227008112199954",
+    "sinaweibo://detail?mblogid=5227022558432191",
+    "sinaweibo://detail?mblogid=5226992320643335",
+    "sinaweibo://detail?mblogid=5226986777346331",
+    "sinaweibo://detail?mblogid=5227001700680179",
+    "sinaweibo://detail?mblogid=5226986408772902",
+    "sinaweibo://detail?mblogid=5227000119165533",
+    "sinaweibo://detail?mblogid=5227009112543133",
+    "sinaweibo://detail?mblogid=5227000855790393",
+    "sinaweibo://detail?mblogid=5227026376295286",
+    "sinaweibo://detail?mblogid=5227026197776139",
+    "sinaweibo://detail?mblogid=5227026090558402",
+    "sinaweibo://detail?mblogid=5227025788044179",
+    "sinaweibo://detail?mblogid=5227025740862919",
+    "sinaweibo://detail?mblogid=5227025522757870",
+    "sinaweibo://detail?mblogid=5226998181923674",
+    "sinaweibo://detail?mblogid=5227025067412721",
+    "sinaweibo://detail?mblogid=5227021166972403",
+    "sinaweibo://detail?mblogid=5227012362077676",
+    "sinaweibo://detail?mblogid=5226877646016450",
+    "sinaweibo://detail?mblogid=4853812827260940",
+    "sinaweibo://detail?mblogid=5226988598198943"
+  ],
+  "media": [
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/005MmbHVgy1i6sy55bz9ij30u0140gqv.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/005MmbHVgy1i6sy55bz9ij30u0140gqv.jpg",
+      "alt": "Acases",
+      "width": 1440,
+      "height": 1080,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/005MmbHVgy1i6sy55bz9ij30u0140gqv.jpg"
+      ],
+      "user": "Acases"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/006JwFOPly1i6swohhd9ij30k00zk759.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/006JwFOPly1i6swohhd9ij30k00zk759.jpg",
+      "alt": "你丸玩噜-1030腾讯看山河枕卫韫",
+      "width": 1280,
+      "height": 720,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/006JwFOPly1i6swohhd9ij30k00zk759.jpg"
+      ],
+      "user": "你丸玩噜-1030腾讯看山河枕卫韫"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/005zilAkgy1i6sx8s9xk9j30u00gvdhu.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/005zilAkgy1i6sx8s9xk9j30u00gvdhu.jpg",
+      "alt": "一丈凡尘",
+      "width": 607,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/005zilAkgy1i6sx8s9xk9j30u00gvdhu.jpg"
+      ],
+      "user": "一丈凡尘"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/006PGz2Vgy1i6svzc9zxfj310o16nq9r.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/006PGz2Vgy1i6svzc9zxfj310o16nq9r.jpg",
+      "alt": "追剧大赏",
+      "width": 1535,
+      "height": 1320,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/006PGz2Vgy1i6svzc9zxfj310o16nq9r.jpg"
+      ],
+      "user": "追剧大赏"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/006ciMAhgy1i6smjzpne3j30zj1u3ajd.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/006ciMAhgy1i6smjzpne3j30zj1u3ajd.jpg",
+      "alt": "王耀庆工作室",
+      "width": 2379,
+      "height": 1279,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/006ciMAhgy1i6smjzpne3j30zj1u3ajd.jpg"
+      ],
+      "user": "王耀庆工作室"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/0063ODw2ly1i6sysu7a7cj30dc0g8aab.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/0063ODw2ly1i6sysu7a7cj30dc0g8aab.jpg",
+      "alt": "妙梗冲浪手",
+      "width": 584,
+      "height": 480,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/0063ODw2ly1i6sysu7a7cj30dc0g8aab.jpg"
+      ],
+      "user": "妙梗冲浪手"
+    }
+  ],
+  "html_path": "data/aicard/hourly/2025-10-29/10/topic-4ff4c31f.html"
+}

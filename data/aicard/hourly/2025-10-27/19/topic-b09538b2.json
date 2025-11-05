@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "query": "#习近平主席生动阐释亚太合作#",
+    "status_code": 200,
+    "fetched_at": "2025-10-28T17:58:29+08:00",
+    "response": {
+      "ext_show": {},
+      "analysis_time": 0,
+      "qs_status": 10,
+      "abtest_info": {
+        "chat_entrance": 1
+      },
+      "zs_risk_control": {
+        "land_button_close": 1,
+        "ban_chat_enterance": 1,
+        "may_be_ask_show": 0,
+        "think_text_close": 1,
+        "share": 1
+      },
+      "model": "",
+      "ab_suffix": "default",
+      "qs_status_info": "{\"qs_c_status\":0,\"qs_u_status\":0,\"qs_q_status\":8218,\"qs_r_status\":0,\"qs_status\":10,\"ab_lab\":{}}",
+      "loop_times": 200,
+      "query": "#习近平主席生动阐释亚太合作#",
+      "msg": "抱歉，这个问题我暂时无法回答，换个问题试试吧",
+      "cot": 1,
+      "status": 3,
+      "uid": "",
+      "wenda": {
+        "forward_gen": 0
+      },
+      "share_info": {
+        "display_name": "#习近平主席生动阐释亚太合作#",
+        "unify_md5": "b09538b2739fa19fa407886a851e64e3",
+        "status": 1,
+        "page_id": "",
+        "url": "http://t.cn/AXwD6ZTu",
+        "tips": "#习近平主席生动阐释亚太合作#的相关内容，来智搜看看"
+      }
+    }
+  },
+  "links": [],
+  "media": [],
+  "html_path": "data/aicard/hourly/2025-10-27/19/topic-b09538b2.html"
+}

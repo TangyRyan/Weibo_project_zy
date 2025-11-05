@@ -1,0 +1,264 @@
+{
+  "meta": {
+    "query": "#高薪职位吸引求职简历再出售#",
+    "status_code": 200,
+    "fetched_at": "2025-10-31T22:31:33+08:00",
+    "response": {
+      "top_quote_list": {},
+      "card_multimodal": {
+        "type": "mediablock",
+        "data": [
+          {
+            "user_name": "大嘴老爷车",
+            "click_rate": 0.06,
+            "img": "http://wx3.sinaimg.cn/middle/8e7332d3gy1i6vbhs2pg9j20u017wtga.jpg",
+            "hit_score_final": 84.844925,
+            "video_url": "",
+            "h": 1580,
+            "hit_score_new": 93.408203,
+            "doc_score": 4105,
+            "img_pid": "8e7332d3gy1i6vbhs2pg9j20u017wtga",
+            "type": "p",
+            "scheme": "sinaweibo://multimedia?mix_mid=5227746403812902&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=0&multi_count=0",
+            "w": 1080,
+            "user_avatar": "https://tva2.sinaimg.cn/crop.7.0.287.287.50/8e7332d3gw1eqtc3fp862j20a4083wf7.jpg?KID=imgbed,tva&Expires=1761895742&ssig=iYr0jBW9Ar",
+            "vtype": 0,
+            "cur_mid": "5227746403812902"
+          },
+          {
+            "user_name": "看看新闻Knews",
+            "click_rate": 0,
+            "img": "http://wx3.sinaimg.cn/middle/6e05a6daly8hvysvvvhepj20zk0k0n0p.jpg",
+            "hit_score_final": 60.103905,
+            "video_url": "https://video.weibo.com/show?fid=1034:5104709372149796",
+            "h": 720,
+            "hit_score_new": 60.839844,
+            "doc_score": 2037,
+            "img_pid": "6e05a6daly8hvysvvvhepj20zk0k0n0p",
+            "type": "v",
+            "scheme": "sinaweibo://video/vvs?mid=5104711063313099&multi_paragraph=0&multi_count=1",
+            "w": 1280,
+            "user_avatar": "https://tvax2.sinaimg.cn/crop.0.0.410.410.50/6e05a6daly1h8vg7kmg7ej20be0bemxf.jpg?KID=imgbed,tva&Expires=1761895742&ssig=5%2BR443sEtq",
+            "vtype": 3,
+            "cur_mid": "5104711063313099"
+          },
+          {
+            "user_name": "槐荫检察",
+            "click_rate": 0,
+            "img": "http://wx4.sinaimg.cn/middle/003z5L7fly1i68oy6lwgxj61hc0u077802.jpg",
+            "hit_score_final": 53.944923,
+            "video_url": "https://video.weibo.com/show?fid=1034:5220653985366053",
+            "h": 1080,
+            "hit_score_new": 55.908203,
+            "doc_score": 2608,
+            "img_pid": "003z5L7fly1i68oy6lwgxj61hc0u077802",
+            "type": "v",
+            "scheme": "sinaweibo://video/vvs?mid=5221210333909849&multi_paragraph=0&multi_count=2",
+            "w": 1920,
+            "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.600.600.50/00631aIzly8hoi84mf8wgj30go0godi4.jpg?KID=imgbed,tva&Expires=1761895742&ssig=JQXySXzLZJ",
+            "vtype": 1,
+            "cur_mid": "5221210333909849"
+          },
+          {
+            "user_name": "大嘴老爷车",
+            "click_rate": 0.06,
+            "img": "http://wx3.sinaimg.cn/middle/8e7332d3gy1i6vbhs2pg9j20u017wtga.jpg",
+            "hit_score_final": 84.844925,
+            "video_url": "",
+            "h": 1580,
+            "hit_score_new": 93.408203,
+            "doc_score": 4105,
+            "img_pid": "8e7332d3gy1i6vbhs2pg9j20u017wtga",
+            "type": "p",
+            "scheme": "sinaweibo://multimedia?mix_mid=5227746403812902&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=0&multi_count=0",
+            "w": 1080,
+            "user_avatar": "https://tva2.sinaimg.cn/crop.7.0.287.287.50/8e7332d3gw1eqtc3fp862j20a4083wf7.jpg?KID=imgbed,tva&Expires=1761895742&ssig=iYr0jBW9Ar",
+            "vtype": 0,
+            "cur_mid": "5227746403812902"
+          }
+        ]
+      },
+      "share_card_multimodal": {
+        "user_name": "大嘴老爷车",
+        "click_rate": 0.06,
+        "img": "http://wx3.sinaimg.cn/middle/8e7332d3gy1i6vbhs2pg9j20u017wtga.jpg",
+        "hit_score_final": 84.844925,
+        "video_url": "",
+        "h": 1580,
+        "hit_score_new": 93.408203,
+        "doc_score": 4105,
+        "img_pid": "8e7332d3gy1i6vbhs2pg9j20u017wtga",
+        "type": "p",
+        "scheme": "sinaweibo://multimedia?mix_mid=5227746403812902&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=0&multi_count=0",
+        "w": 1080,
+        "user_avatar": "https://tva2.sinaimg.cn/crop.7.0.287.287.50/8e7332d3gw1eqtc3fp862j20a4083wf7.jpg?KID=imgbed,tva&Expires=1761895742&ssig=iYr0jBW9Ar",
+        "vtype": 0,
+        "cur_mid": "5227746403812902"
+      },
+      "basemodel": "实验组3",
+      "wenda": {
+        "forward_gen": 0
+      },
+      "status": 2,
+      "query_category": "Ip",
+      "short_url": "http://t.cn/AXAqTddt",
+      "scheme": "sinaweibo://cardlist?containerid=100103type%3D225%26q%3D%23%E9%AB%98%E8%96%AA%E8%81%8C%E4%BD%8D%E5%90%B8%E5%BC%95%E6%B1%82%E8%81%8C%E7%AE%80%E5%8E%86%E5%86%8D%E5%87%BA%E5%94%AE%23%26t%3D&extparam=ai_model%3Ddeepseek%26ori_ai_title%3D%E5%8F%82%E8%80%83%E5%8D%9A%E6%96%87%26material_version%3D1761884942",
+      "show_ctrl": {
+        "quote": {}
+      },
+      "msg": "<think><br><br>嗯，用户的问题是关于\"高薪职位吸引求职简历再出售\"的搜索结果整理。我看到了很多搜索结果，需要从中提取关键信息，综合回答。<br><br>首先查看一下搜索结果内容。结果1和结果7都提到山西太原网安部门破获的案件，犯罪嫌疑人吴某从2024年8月起发布虚假高薪职位，获取简历后出售，共出售3200多条信息，获利9800元。这个案件是最近发生的，时效性很强。<br><br>结果2讲述了一个上海的案件，公司用求职者信息抵员工工资，然后员工用这些信息推销课程牟利。法院判决被告赔偿4万多元并公开道歉。这个案例展示了另一种非法获取简历的方式。<br><br>结果4提供了很全面的分析，详细说明了犯罪手法：发布虚假高薪职位、低价出售简历（每条2-3元）、信息二次利用（推销、诈骗等）。还列出了求职者面临的风险：财产损失、隐私泄露等，并给出了防骗策略。<br><br>结果8和结果9提供了实用的防骗指南，提醒求职者不要缴纳任何费用，注意保护个人信息。结果12是一位用户的亲身经历，提到面试时被要求填写过多个人信息，后来意识到这些信息可能被出售。<br><br>还有一些结果提到了相关案件，如结果17讲述了一个求职者陷入刷单骗局的案例，背后还涉及洗钱链条；结果23提到简历倒卖黑色产业链，简历最低只卖2元一条。<br><br>我考虑设计回答时应该包括几个核心部分：犯罪手法与案例、受害者面临的风险、防范措施和法律制裁。这样能全面覆盖用户想了解的内容。准备用一些小标题和符号来组织信息，让结构更清晰。在关键数据处会加粗强调，比如\"3200余条信息获利9800余元\"、\"每条信息售价仅2-3元\"这些数字。<br><br>在防骗建议部分，准备重点强调信息保护、企业核查和资金安全这三个方面，因为搜索结果中提供了很多实用建议。还会提醒求职者注意法律维权途径。<br><br>最后会在结语部分做个总结，强调需要法律、平台和个人三方共同努力来解决这个问题。<br><br></think><br>### 🔍 **核心案件与犯罪手法**  <br>1. **山西太原虚假招聘案**  <br>   - **犯罪过程**：吴某自2024年8月起在招聘平台虚构高薪职位（如月薪7000-9000元的司机、行政岗），吸引求职者投递简历，非法获取姓名、手机号、社交账号、履职经历等敏感信息，累计出售3200余条，获利9800元。```wbCustomBlock{\"type\": \"quoted\", \"index\": 4, \"data\": {\"num\": [1, 7, 15], \"version\": 2, \"quote_list\": [{\"name\": \"央视新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5227717034510598\", \"index\": 1, \"label\": \"大v\"}, {\"name\": \"检察日报\", \"scheme\": \"sinaweibo://detail?mblogid=5227786671227245\", \"index\": 7, \"label\": \"\"}, {\"name\": \"IT之家\", \"scheme\": \"sinaweibo://detail?mblogid=5227729487662829\", \"index\": 15, \"label\": \"\"}], \"name\": \"央视新闻\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.690.690.50/002TLsr9ly8i653ifvwbtj60j60j6aai02.jpg?KID=imgbed,tva&Expires=1761895742&ssig=KqTK6eN3%2FR\", \"scheme\": \"sinaweibo://detail?mblogid=5227717034510598\", \"vType\": 3}}```  <br>   - **信息流向**：简历以**每条2-3元低价出售**给下游诈骗团伙或培训机构，用于电话推销、贷款诱导或精准诈骗。```wbCustomBlock{\"type\": \"quoted\", \"index\": 5, \"data\": {\"num\": [9, 16], \"version\": 2, \"quote_list\": [{\"name\": \"大嘴老爷车\", \"scheme\": \"sinaweibo://detail?mblogid=5227746403812902\", \"index\": 16, \"label\": \"大v\"}, {\"name\": \"斌叔神吐槽\", \"scheme\": \"sinaweibo://detail?mblogid=5227754627794897\", \"index\": 9, \"label\": \"\"}], \"name\": \"大嘴老爷车\", \"img\": \"https://tva2.sinaimg.cn/crop.7.0.287.287.50/8e7332d3gw1eqtc3fp862j20a4083wf7.jpg?KID=imgbed,tva&Expires=1761895742&ssig=iYr0jBW9Ar\", \"scheme\": \"sinaweibo://detail?mblogid=5227746403812902\", \"vType\": 0}}```  <br><br>2. **上海“简历抵薪”案**  <br>   - 博远公司（人力资源机构）长期发布虚假职位套取简历，拖欠员工工资后用求职者信息抵债（每条3元）。前员工王某利用信息推销培训课程牟利，最终法院判4名被告赔偿4万元、公开道歉并永久删除信息。```wbCustomBlock{\"type\": \"quoted\", \"index\": 7, \"data\": {\"num\": [2], \"version\": 2, \"quote_list\": [{\"name\": \"看看新闻Knews\", \"scheme\": \"sinaweibo://detail?mblogid=5104711063313099\", \"index\": 2, \"label\": \"大v\"}], \"name\": \"看看新闻Knews\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.410.410.50/6e05a6daly1h8vg7kmg7ej20be0bemxf.jpg?KID=imgbed,tva&Expires=1761895742&ssig=5%2BR443sEtq\", \"scheme\": \"sinaweibo://detail?mblogid=5104711063313099\", \"vType\": 3}}```  <br><br>3. **黑色产业链运作模式**  <br>   - **信息二次利用**：  <br>     - **推销诈骗**：培训机构购买简历后推销高价课程。```wbCustomBlock{\"type\": \"quoted\", \"index\": 10, \"data\": {\"num\": [2, 9], \"version\": 2, \"quote_list\": [{\"name\": \"看看新闻Knews\", \"scheme\": \"sinaweibo://detail?mblogid=5104711063313099\", \"index\": 2, \"label\": \"\"}, {\"name\": \"斌叔神吐槽\", \"scheme\": \"sinaweibo://detail?mblogid=5227754627794897\", \"index\": 9, \"label\": \"\"}]}}```  <br>     - **精准诈骗**：冒充猎头以“更高薪职位”诱骗培训费、押金，或诱导刷单投资。```wbCustomBlock{\"type\": \"quoted\", \"index\": 11, \"data\": {\"num\": [17], \"version\": 2, \"quote_list\": [{\"name\": \"槐荫检察\", \"scheme\": \"sinaweibo://detail?mblogid=5221210333909849\", \"index\": 17, \"label\": \"大v\"}], \"name\": \"槐荫检察\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.600.600.50/00631aIzly8hoi84mf8wgj30go0godi4.jpg?KID=imgbed,tva&Expires=1761895742&ssig=JQXySXzLZJ\", \"scheme\": \"sinaweibo://detail?mblogid=5221210333909849\", \"vType\": 1}}```  <br>     - **洗钱链条**：涉诈资金通过皮包公司伪造合同，经虚拟币交易洗白至境外。```wbCustomBlock{\"type\": \"quoted\", \"index\": 12, \"data\": {\"num\": [17, 23], \"version\": 2, \"quote_list\": [{\"name\": \"菏泽巨野县法院\", \"scheme\": \"sinaweibo://detail?mblogid=4583227753505441\", \"index\": 23, \"label\": \"大v\"}, {\"name\": \"槐荫检察\", \"scheme\": \"sinaweibo://detail?mblogid=5221210333909849\", \"index\": 17, \"label\": \"\"}], \"name\": \"菏泽巨野县法院\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.995.995.50/8c9df687ly8h8v0iu3tujj20rn0rngoe.jpg?KID=imgbed,tva&Expires=1761895742&ssig=WX4KMt4D%2FW\", \"scheme\": \"sinaweibo://detail?mblogid=4583227753505441\", \"vType\": 1}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5227746403812902&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=0&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tva2.sinaimg.cn/crop.7.0.287.287.50/8e7332d3gw1eqtc3fp862j20a4083wf7.jpg?KID=imgbed,tva&Expires=1761895742&ssig=iYr0jBW9Ar) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">大嘴老爷车</span><img src=\"http://wx3.sinaimg.cn/middle/8e7332d3gy1i6vbhs2pg9j20u017wtga.jpg\" data-width=1580 data-height=1080></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5104711063313099&multi_paragraph=0&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.410.410.50/6e05a6daly1h8vg7kmg7ej20be0bemxf.jpg?KID=imgbed,tva&Expires=1761895742&ssig=5%2BR443sEtq) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">看看新闻Knews</span><img src=\"http://wx3.sinaimg.cn/middle/6e05a6daly8hvysvvvhepj20zk0k0n0p.jpg\" data-width=720 data-height=1280></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5221210333909849&multi_paragraph=0&multi_count=2\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.600.600.50/00631aIzly8hoi84mf8wgj30go0godi4.jpg?KID=imgbed,tva&Expires=1761895742&ssig=JQXySXzLZJ) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">槐荫检察</span><img src=\"http://wx4.sinaimg.cn/middle/003z5L7fly1i68oy6lwgxj61hc0u077802.jpg\" data-width=1080 data-height=1920></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=4583227753505441&multi_paragraph=0&multi_count=3\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.995.995.50/8c9df687ly8h8v0iu3tujj20rn0rngoe.jpg?KID=imgbed,tva&Expires=1761895742&ssig=WX4KMt4D%2FW) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">菏泽巨野县法院</span><img src=\"http://wx2.sinaimg.cn/middle/6b0e1e9dly1glr4ommbetj21hc0u0diu.jpg\" data-width=1080 data-height=1920></div></media-block><br>### ⚠️ **求职者面临的衍生风险**  <br>1. **财产损失陷阱**  <br>   - **招转培**：面试后要求交上万元培训费才能上岗。```wbCustomBlock{\"type\": \"quoted\", \"index\": 16, \"data\": {\"num\": [9], \"version\": 2, \"quote_list\": [{\"name\": \"斌叔神吐槽\", \"scheme\": \"sinaweibo://detail?mblogid=5227754627794897\", \"index\": 9, \"label\": \"\"}]}}```  <br>   - **招转贷**：以“高薪司机”诱骗贷款购车，最终工作落空且负债。```wbCustomBlock{\"type\": \"quoted\", \"index\": 17, \"data\": {\"num\": [9, 17], \"version\": 2, \"quote_list\": [{\"name\": \"斌叔神吐槽\", \"scheme\": \"sinaweibo://detail?mblogid=5227754627794897\", \"index\": 9, \"label\": \"\"}, {\"name\": \"槐荫检察\", \"scheme\": \"sinaweibo://detail?mblogid=5221210333909849\", \"index\": 17, \"label\": \"\"}]}}```  <br>   - **刷单返利**：假借试岗诱导垫资刷单，初期返利后卷款消失。```wbCustomBlock{\"type\": \"quoted\", \"index\": 18, \"data\": {\"num\": [17], \"version\": 2, \"quote_list\": [{\"name\": \"槐荫检察\", \"scheme\": \"sinaweibo://detail?mblogid=5221210333909849\", \"index\": 17, \"label\": \"\"}]}}```  <br><br>2. **隐私泄露连锁反应**  <br>   - 频繁收到骚扰电话（推销、诈骗）；```wbCustomBlock{\"type\": \"quoted\", \"index\": 20, \"data\": {\"num\": [12, 20], \"version\": 2, \"quote_list\": [{\"name\": \"才daidai\", \"scheme\": \"sinaweibo://detail?mblogid=5227741520858170\", \"index\": 20, \"label\": \"大v\"}, {\"name\": \"李十一YG\", \"scheme\": \"sinaweibo://detail?mblogid=5227751956288569\", \"index\": 12, \"label\": \"\"}], \"name\": \"才daidai\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.932.932.50/006Xawvqly8fmompv5v8pj30pw0px44i.jpg?KID=imgbed,tva&Expires=1761895742&ssig=IxZ5ZaQkIo\", \"scheme\": \"sinaweibo://detail?mblogid=5227741520858170\", \"vType\": 0}}```  <br>   - 信息被用于注册黑灰产账号（洗钱、刷单），甚至被倒卖至暗网。```wbCustomBlock{\"type\": \"quoted\", \"index\": 21, \"data\": {\"num\": [19, 23], \"version\": 2, \"quote_list\": [{\"name\": \"爱喝柠檬水的tingdada\", \"scheme\": \"sinaweibo://detail?mblogid=5227750891716805\", \"index\": 19, \"label\": \"\"}, {\"name\": \"菏泽巨野县法院\", \"scheme\": \"sinaweibo://detail?mblogid=4583227753505441\", \"index\": 23, \"label\": \"\"}]}}```<br>### 🛡️ **个人防骗必备策略**  <br>1. **信息填写原则**  <br>   - 拒填与职位无关信息：身份证号、房产车辆、家庭成员详情等；```wbCustomBlock{\"type\": \"quoted\", \"index\": 25, \"data\": {\"num\": [12], \"version\": 2, \"quote_list\": [{\"name\": \"李十一YG\", \"scheme\": \"sinaweibo://detail?mblogid=5227751956288569\", \"index\": 12, \"label\": \"\"}]}}```  <br>   - 使用备用电话/邮箱投递简历，避免主号泄露。```wbCustomBlock{\"type\": \"quoted\", \"index\": 26, \"data\": {\"num\": [21], \"version\": 2, \"quote_list\": [{\"name\": \"青海在线网官微\", \"scheme\": \"sinaweibo://detail?mblogid=5227733971371077\", \"index\": 21, \"label\": \"\"}]}}```  <br><br>2. **企业及岗位真实性核查**  <br>   - **查资质**：通过天眼查/企查查核实公司注册信息，确认招聘平台认证标志；  <br>   - **搜舆情**：检索“公司名+骗局/投诉”，查看求职者评价；```wbCustomBlock{\"type\": \"quoted\", \"index\": 29, \"data\": {\"num\": [21], \"version\": 2, \"quote_list\": [{\"name\": \"青海在线网官微\", \"scheme\": \"sinaweibo://detail?mblogid=5227733971371077\", \"index\": 21, \"label\": \"\"}]}}```  <br>   - **警惕异常**：薪资远超行业水平、面试流程简陋（仅线上沟通）、急迫要求入职。```wbCustomBlock{\"type\": \"quoted\", \"index\": 30, \"data\": {\"num\": [8], \"version\": 2, \"quote_list\": [{\"name\": \"美丽开远\", \"scheme\": \"sinaweibo://detail?mblogid=5227767259990605\", \"index\": 8, \"label\": \"大v\"}], \"name\": \"美丽开远\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.182.182.50/6b1fac16ly8h8vg73eo96j20520523yf.jpg?KID=imgbed,tva&Expires=1761895742&ssig=6eHB4sm%2BE5\", \"scheme\": \"sinaweibo://detail?mblogid=5227767259990605\", \"vType\": 1}}```  <br><br>3. **资金安全底线**  <br>   - **不交任何费用**：押金、保证金、培训费、工装费等均属违法；```wbCustomBlock{\"type\": \"quoted\", \"index\": 32, \"data\": {\"num\": [8, 9], \"version\": 2, \"quote_list\": [{\"name\": \"美丽开远\", \"scheme\": \"sinaweibo://detail?mblogid=5227767259990605\", \"index\": 8, \"label\": \"\"}, {\"name\": \"斌叔神吐槽\", \"scheme\": \"sinaweibo://detail?mblogid=5227754627794897\", \"index\": 9, \"label\": \"\"}]}}```  <br>   - **不签“抵债协议”**：警惕用个人信息折抵工资的非法提议。```wbCustomBlock{\"type\": \"quoted\", \"index\": 33, \"data\": {\"num\": [2], \"version\": 2, \"quote_list\": [{\"name\": \"看看新闻Knews\", \"scheme\": \"sinaweibo://detail?mblogid=5104711063313099\", \"index\": 2, \"label\": \"\"}]}}```  <br><br>4. **证据留存与维权**  <br>   - 保存聊天记录、合同截图；  <br>   - 遭遇诈骗立即报警，并向平台及12377违法举报中心投诉。```wbCustomBlock{\"type\": \"quoted\", \"index\": 36, \"data\": {\"num\": [21], \"version\": 2, \"quote_list\": [{\"name\": \"青海在线网官微\", \"scheme\": \"sinaweibo://detail?mblogid=5227733971371077\", \"index\": 21, \"label\": \"\"}]}}```<br>### ⚖️ **法律制裁与平台责任**  <br>1. **司法严惩**  <br>   - 买卖个人信息可判 **3-7年有期徒刑**（《刑法》第253条）；```wbCustomBlock{\"type\": \"quoted\", \"index\": 40, \"data\": {\"num\": [13, 23], \"version\": 2, \"quote_list\": [{\"name\": \"广西政法\", \"scheme\": \"sinaweibo://detail?mblogid=5227748630202800\", \"index\": 13, \"label\": \"大v\"}, {\"name\": \"菏泽巨野县法院\", \"scheme\": \"sinaweibo://detail?mblogid=4583227753505441\", \"index\": 23, \"label\": \"\"}], \"name\": \"广西政法\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/005OBbY3ly8gdi7d5csb0j30u00u0q6s.jpg?KID=imgbed,tva&Expires=1761895742&ssig=E9V3zl3iid\", \"scheme\": \"sinaweibo://detail?mblogid=5227748630202800\", \"vType\": 1}}```  <br>   - 上海某案中，4名被告被判赔偿4万元、公开道歉并永久删除信息。```wbCustomBlock{\"type\": \"quoted\", \"index\": 41, \"data\": {\"num\": [2], \"version\": 2, \"quote_list\": [{\"name\": \"看看新闻Knews\", \"scheme\": \"sinaweibo://detail?mblogid=5104711063313099\", \"index\": 2, \"label\": \"\"}]}}```  <br><br>2. **平台监管缺位**  <br>   - 部分平台“三重审核”仅依赖用户反馈，无权威机构认证有效性；  <br>   - 需强化企业资质审核、异常岗位监测（如短期大量招聘），而非仅靠用户举报。```wbCustomBlock{\"type\": \"quoted\", \"index\": 44, \"data\": {\"num\": [19], \"version\": 2, \"quote_list\": [{\"name\": \"爱喝柠檬水的tingdada\", \"scheme\": \"sinaweibo://detail?mblogid=5227750891716805\", \"index\": 19, \"label\": \"\"}]}}```  <br><br>3. **公益诉讼推进**  <br>   - 检察机关对侵犯个人信息行为提起民事公益诉讼（如上海案例），扩大维权覆盖面。```wbCustomBlock{\"type\": \"quoted\", \"index\": 46, \"data\": {\"num\": [2], \"version\": 2, \"quote_list\": [{\"name\": \"看看新闻Knews\", \"scheme\": \"sinaweibo://detail?mblogid=5104711063313099\", \"index\": 2, \"label\": \"\"}]}}```<br>### 💎 **总结**  <br>“高薪诱饵-简历收割-信息转售”的犯罪链条暴露了招聘平台审核缺位与求职者信息保护意识薄弱。规避风险需牢记：  <br>> **凡收取费用、索要无关信息、承诺违背常理高薪的岗位，均为高危信号**。  <br>治理需从**法律严惩、平台监管、个人警惕**三方面发力，切断黑色产业链生存土壤。```wbCustomBlock{\"type\": \"quoted\", \"index\": 48, \"data\": {\"num\": [8, 9], \"version\": 2, \"quote_list\": [{\"name\": \"美丽开远\", \"scheme\": \"sinaweibo://detail?mblogid=5227767259990605\", \"index\": 8, \"label\": \"\"}, {\"name\": \"斌叔神吐槽\", \"scheme\": \"sinaweibo://detail?mblogid=5227754627794897\", \"index\": 9, \"label\": \"\"}]}}```<br>",
+      "query": "#高薪职位吸引求职简历再出售#",
+      "msg_format": "markdown",
+      "model": "deepseek",
+      "ext_show": {},
+      "cot": 1,
+      "query_field": "60",
+      "chat_status_stage": 1,
+      "current_time": 1761921092,
+      "profile_image_url": "",
+      "reliable_tips": "{\"gold_orange_v_mids\": [\"5227746403812902\", \"5227741520858170\", \"5227750891716805\", \"5227753242887120\", \"5202826546121264\", \"5193412873552970\"], \"gold_orange_v_ratio\": \"32%\", \"media_mids\": [\"5227717034510598\", \"5227786671227245\", \"5104711063313099\"], \"media_ratio\": \"16%\", \"verified_mids\": [\"5227729487662829\", \"5227754627794897\", \"5221210333909849\", \"4583227753505441\", \"5227751956288569\", \"5227733971371077\", \"5227767259990605\", \"5227748630202800\"], \"verified_ratio\": \"42%\", \"normal_mids\": [\"5227748717232177\", \"5227737696438158\"], \"normal_ratio\": \"10%\", \"ref_mid_rank\": {\"5227717034510598\": {\"rank\": 1}, \"5227786671227245\": {\"rank\": 7}, \"5227729487662829\": {\"rank\": 15}, \"5227754627794897\": {\"rank\": 9}, \"5227746403812902\": {\"rank\": 16}, \"5104711063313099\": {\"rank\": 2}, \"5221210333909849\": {\"rank\": 17}, \"4583227753505441\": {\"rank\": 23}, \"5227751956288569\": {\"rank\": 12}, \"5227741520858170\": {\"rank\": 20}, \"5227750891716805\": {\"rank\": 19}, \"5227733971371077\": {\"rank\": 21}, \"5227767259990605\": {\"rank\": 8}, \"5227748630202800\": {\"rank\": 13}, \"5227753242887120\": {\"rank\": 10}, \"5227748717232177\": {\"rank\": 11}, \"5227737696438158\": {\"rank\": 14}, \"5202826546121264\": {\"rank\": 18}, \"5193412873552970\": {\"rank\": 22}}}",
+      "qs_status": 0,
+      "sorted_material_list": null,
+      "qs_status_info": "{\"qs_q_status\":0,\"qs_u_status\":0,\"qs_status\":0,\"ab_lab\":{},\"qs_c_status\":8388608,\"qs_r_status\":0}",
+      "loop_times": 200,
+      "unify_md5": "0f826562b4b2c00f4f56aaecd9933d16",
+      "q_attr": {
+        "from_request_id": "",
+        "reply_cid": "",
+        "comment_from_type": "",
+        "from_uid": "",
+        "mid": ""
+      },
+      "analysis_time": 1761885119,
+      "uid": "",
+      "share_info": {
+        "status": 3,
+        "tips": "#高薪职位吸引求职简历再出售#的相关内容，来智搜看看",
+        "page_id": "2329640d408b0fdd76c8f2bcd753735b479f1e",
+        "display_name": "#高薪职位吸引求职简历再出售#",
+        "url": "http://t.cn/AXAqT1Hi",
+        "unify_md5": "0f826562b4b2c00f4f56aaecd9933d16",
+        "comment_content": ""
+      },
+      "share_text": "#高薪职位吸引求职简历再出售#的相关内容，来智搜看看",
+      "ab_suffix": "default",
+      "comment_info": {},
+      "zs_risk_control": {
+        "think_text_close": 0,
+        "land_button_close": 0
+      },
+      "msg_json": "{}",
+      "version": "2025-10-31 12:29:02.023000-3839",
+      "user_info": {},
+      "abtest_info": {
+        "chat_entrance": 1
+      },
+      "news_analyze": {},
+      "mid_list": null,
+      "reference_num": 19,
+      "status_stage": 4,
+      "link_list": [
+        "sinaweibo://detail?mblogid=5227717034510598",
+        "sinaweibo://detail?mblogid=5104711063313099",
+        "broadsocial_res://",
+        "historyweibo://5227717034510598",
+        "historyweibo://4851376067189900",
+        "historyweibo://4851376067189900",
+        "sinaweibo://detail?mblogid=5227786671227245",
+        "sinaweibo://detail?mblogid=5227767259990605",
+        "sinaweibo://detail?mblogid=5227754627794897",
+        "sinaweibo://detail?mblogid=5227753242887120",
+        "sinaweibo://detail?mblogid=5227748717232177",
+        "sinaweibo://detail?mblogid=5227751956288569",
+        "sinaweibo://detail?mblogid=5227748630202800",
+        "sinaweibo://detail?mblogid=5227737696438158",
+        "sinaweibo://detail?mblogid=5227729487662829",
+        "sinaweibo://detail?mblogid=5227746403812902",
+        "sinaweibo://detail?mblogid=5221210333909849",
+        "sinaweibo://detail?mblogid=5202826546121264",
+        "sinaweibo://detail?mblogid=5227750891716805",
+        "sinaweibo://detail?mblogid=5227741520858170",
+        "sinaweibo://detail?mblogid=5227733971371077",
+        "sinaweibo://detail?mblogid=5193412873552970",
+        "sinaweibo://detail?mblogid=4583227753505441"
+      ],
+      "page_id": "2329640d408b0fdd76c8f2bcd753735b479f1e"
+    }
+  },
+  "links": [
+    "sinaweibo://detail?mblogid=5227717034510598",
+    "sinaweibo://detail?mblogid=5104711063313099",
+    "broadsocial_res://",
+    "historyweibo://5227717034510598",
+    "historyweibo://4851376067189900",
+    "historyweibo://4851376067189900",
+    "sinaweibo://detail?mblogid=5227786671227245",
+    "sinaweibo://detail?mblogid=5227767259990605",
+    "sinaweibo://detail?mblogid=5227754627794897",
+    "sinaweibo://detail?mblogid=5227753242887120",
+    "sinaweibo://detail?mblogid=5227748717232177",
+    "sinaweibo://detail?mblogid=5227751956288569",
+    "sinaweibo://detail?mblogid=5227748630202800",
+    "sinaweibo://detail?mblogid=5227737696438158",
+    "sinaweibo://detail?mblogid=5227729487662829",
+    "sinaweibo://detail?mblogid=5227746403812902",
+    "sinaweibo://detail?mblogid=5221210333909849",
+    "sinaweibo://detail?mblogid=5202826546121264",
+    "sinaweibo://detail?mblogid=5227750891716805",
+    "sinaweibo://detail?mblogid=5227741520858170",
+    "sinaweibo://detail?mblogid=5227733971371077",
+    "sinaweibo://detail?mblogid=5193412873552970",
+    "sinaweibo://detail?mblogid=4583227753505441"
+  ],
+  "media": [
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/8e7332d3gy1i6vbhs2pg9j20u017wtga.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/8e7332d3gy1i6vbhs2pg9j20u017wtga.jpg",
+      "alt": "大嘴老爷车",
+      "width": 1580,
+      "height": 1080,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/8e7332d3gy1i6vbhs2pg9j20u017wtga.jpg"
+      ],
+      "user": "大嘴老爷车"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/6e05a6daly8hvysvvvhepj20zk0k0n0p.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/6e05a6daly8hvysvvvhepj20zk0k0n0p.jpg",
+      "alt": "看看新闻Knews",
+      "width": 720,
+      "height": 1280,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/6e05a6daly8hvysvvvhepj20zk0k0n0p.jpg"
+      ],
+      "user": "看看新闻Knews"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/003z5L7fly1i68oy6lwgxj61hc0u077802.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/003z5L7fly1i68oy6lwgxj61hc0u077802.jpg",
+      "alt": "槐荫检察",
+      "width": 1080,
+      "height": 1920,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/003z5L7fly1i68oy6lwgxj61hc0u077802.jpg"
+      ],
+      "user": "槐荫检察"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/6b0e1e9dly1glr4ommbetj21hc0u0diu.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/6b0e1e9dly1glr4ommbetj21hc0u0diu.jpg",
+      "alt": "菏泽巨野县法院",
+      "width": 1080,
+      "height": 1920,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx4.sinaimg.cn/large/6b0e1e9dly1glr4ommbetj21hc0u0diu.jpg"
+      ],
+      "user": "菏泽巨野县法院"
+    }
+  ],
+  "html_path": "data/aicard/hourly/2025-10-31/10/topic-0f826562.html"
+}

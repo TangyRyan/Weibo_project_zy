@@ -1,0 +1,282 @@
+{
+  "meta": {
+    "query": "#薛之谦 湖泊#",
+    "status_code": 200,
+    "fetched_at": "2025-10-31T22:35:42+08:00",
+    "response": {
+      "news_analyze": {},
+      "zs_risk_control": {
+        "think_text_close": 0,
+        "land_button_close": 0
+      },
+      "page_id": "232964de16c73a5027ffcbdfd6b37430865be1",
+      "ext_show": {},
+      "user_info": {},
+      "loop_times": 200,
+      "ab_suffix": "default",
+      "share_info": {
+        "unify_md5": "765eceb1e8d38d7ddb7ae16f8e1180c8",
+        "url": "http://t.cn/AXAfPvda",
+        "comment_content": "",
+        "page_id": "232964de16c73a5027ffcbdfd6b37430865be1",
+        "status": 3,
+        "tips": "#薛之谦 湖泊#的相关内容，来智搜看看",
+        "display_name": "#薛之谦 湖泊#"
+      },
+      "model": "deepseek",
+      "comment_info": {},
+      "reference_num": 29,
+      "sorted_material_list": null,
+      "unify_md5": "765eceb1e8d38d7ddb7ae16f8e1180c8",
+      "link_list": [
+        "sinaweibo://detail?mblogid=5227921829794882",
+        "sinaweibo://detail?mblogid=5227921918136068",
+        "sinaweibo://detail?mblogid=5227908026340896",
+        "sinaweibo://detail?mblogid=5226875175831153",
+        "sinaweibo://detail?mblogid=5227910764958852",
+        "sinaweibo://detail?mblogid=5227909675484851",
+        "sinaweibo://detail?mblogid=5227923524292445",
+        "historyweibo://5219265554942825",
+        "historyweibo://5217399281812811",
+        "historyweibo://5212650610885694",
+        "sinaweibo://detail?mblogid=5227922974574465",
+        "sinaweibo://detail?mblogid=5227926284670162",
+        "sinaweibo://detail?mblogid=5227924657799374",
+        "sinaweibo://detail?mblogid=5227922912975729",
+        "sinaweibo://detail?mblogid=5227923430970798",
+        "sinaweibo://detail?mblogid=5227906915111169",
+        "sinaweibo://detail?mblogid=5227924385175776",
+        "sinaweibo://detail?mblogid=5227910211830795",
+        "sinaweibo://detail?mblogid=5227917686866945",
+        "sinaweibo://detail?mblogid=5227922849009506",
+        "sinaweibo://detail?mblogid=5227910949505369",
+        "sinaweibo://detail?mblogid=5227079198311402",
+        "sinaweibo://detail?mblogid=5227930045389026",
+        "sinaweibo://detail?mblogid=5227930022319328",
+        "sinaweibo://detail?mblogid=5227929799496639",
+        "sinaweibo://detail?mblogid=5227929723994361",
+        "sinaweibo://detail?mblogid=5227926970965602",
+        "sinaweibo://detail?mblogid=5227929005202075",
+        "sinaweibo://detail?mblogid=5227928977409587",
+        "sinaweibo://detail?mblogid=4824592927954286",
+        "sinaweibo://detail?mblogid=5221818798966517",
+        "sinaweibo://detail?mblogid=4591788716989592"
+      ],
+      "version": "2025-10-31 21:58:42.028000-7361",
+      "top_quote_list": {},
+      "show_ctrl": {
+        "quote": {}
+      },
+      "status": 2,
+      "basemodel": "实验组9",
+      "scheme": "sinaweibo://cardlist?containerid=100103type%3D225%26q%3D%23%E8%96%9B%E4%B9%8B%E8%B0%A6%20%E6%B9%96%E6%B3%8A%23%26t%3D&extparam=ai_model%3Ddeepseek%26ori_ai_title%3D%E5%8F%82%E8%80%83%E5%8D%9A%E6%96%87%26material_version%3D1761919122",
+      "q_attr": {
+        "reply_cid": "",
+        "from_uid": "",
+        "mid": "",
+        "from_request_id": "",
+        "comment_from_type": ""
+      },
+      "query": "#薛之谦 湖泊#",
+      "uid": "",
+      "wenda": {
+        "forward_gen": 0
+      },
+      "reliable_tips": "{\"gold_orange_v_mids\": [\"5227921829794882\", \"5227917686866945\", \"5227910949505369\", \"5227923524292445\", \"5227926284670162\", \"5227924657799374\", \"5227930022319328\", \"5227910764958852\", \"5227926970965602\", \"5227908026340896\", \"5227924385175776\", \"5227910211830795\", \"5227079198311402\"], \"gold_orange_v_ratio\": \"45%\", \"media_mids\": [], \"media_ratio\": \"0%\", \"verified_mids\": [\"5227922849009506\", \"5227921918136068\", \"5227922974574465\", \"5227923430970798\", \"5227922912975729\", \"4824592927954286\", \"5226875175831153\", \"5227909675484851\", \"4591788716989592\"], \"verified_ratio\": \"31%\", \"normal_mids\": [\"5221818798966517\", \"5227906915111169\", \"5227929723994361\", \"5227930045389026\", \"5227929799496639\", \"5227929005202075\", \"5227928977409587\"], \"normal_ratio\": \"24%\", \"ref_mid_rank\": {\"5227922849009506\": {\"rank\": 20}, \"5227921829794882\": {\"rank\": 1}, \"5227921918136068\": {\"rank\": 2}, \"5227922974574465\": {\"rank\": 11}, \"5227923430970798\": {\"rank\": 15}, \"5227917686866945\": {\"rank\": 19}, \"5221818798966517\": {\"rank\": 31}, \"5227910949505369\": {\"rank\": 21}, \"5227923524292445\": {\"rank\": 7}, \"5227926284670162\": {\"rank\": 12}, \"5227922912975729\": {\"rank\": 14}, \"5227924657799374\": {\"rank\": 13}, \"5227906915111169\": {\"rank\": 16}, \"5227929723994361\": {\"rank\": 26}, \"5227930022319328\": {\"rank\": 24}, \"5227910764958852\": {\"rank\": 5}, \"5227926970965602\": {\"rank\": 27}, \"4824592927954286\": {\"rank\": 30}, \"5227908026340896\": {\"rank\": 3}, \"5226875175831153\": {\"rank\": 4}, \"5227909675484851\": {\"rank\": 6}, \"5227924385175776\": {\"rank\": 17}, \"5227910211830795\": {\"rank\": 18}, \"5227079198311402\": {\"rank\": 22}, \"5227930045389026\": {\"rank\": 23}, \"5227929799496639\": {\"rank\": 25}, \"5227929005202075\": {\"rank\": 28}, \"5227928977409587\": {\"rank\": 29}, \"4591788716989592\": {\"rank\": 32}}}",
+      "share_card_multimodal": {
+        "type": "v",
+        "click_rate": 0,
+        "h": 1080,
+        "vtype": 0,
+        "hit_score_final": 0,
+        "cur_mid": "5227921829794882",
+        "user_name": "薛之谦",
+        "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/001lRKvwly8guxfz4c5d0j60u00u075802.jpg?KID=imgbed,tva&Expires=1761929922&ssig=zYnWW9VMiW",
+        "img": "http://wx4.sinaimg.cn/middle/001lRKvwly1i6vvlv3hzej61hc0u0dhs02.jpg",
+        "video_url": "https://video.weibo.com/show?fid=1034:5227919396503573",
+        "scheme": "sinaweibo://video/vvs?mid=5227921829794882&multi_paragraph=1&multi_count=0",
+        "hit_score_new": 0,
+        "doc_score": 0,
+        "img_pid": "001lRKvwly1i6vvlv3hzej61hc0u0dhs02",
+        "w": 1920
+      },
+      "msg": "<think><br><br>嗯，用户查询的是\"薛之谦 湖泊\"，看起来是想了解薛之谦和《湖泊》这首歌的相关信息。让我仔细看看搜索结果里的内容。<br><br>从搜索结果来看，《湖泊》是薛之谦在2025年10月31日发布的新歌，是综艺节目《音乐缘计划》第二季第二期的作品。这首歌的创作背景很有意思，是由音乐人张荣昊作词作曲的，薛之谦担任音乐总监。从用户分享的微博内容看，这首歌的舞台表演设计非常特别，采用了跨代际的合唱团形式 - 前排是穿着白衣的儿童合唱团，后排是穿着黑衣的老年合唱团。这种设计形成了强烈的视觉和听觉对比。<br><br>在音乐特色方面，搜索结果提到这首歌展现了\"极致的演唱难度\"，薛之谦的嗓音与童声的纯净、老年合唱的沧桑感交织在一起，营造出独特的层次感。有乐评人用\"温柔而不失力量\"、\"独一无二的救赎感\"来形容这首歌的听感体验。<br><br>我还注意到一个有趣的幕后花絮：有位叫Lunar鹿娜的合唱团成员专门从温哥华飞到南京参与录制，她在微博分享了与薛之谦合作的经历，称赞他\"人好好\"、\"人好帅\"、\"唱歌太好听了简直是无敌了\"。<br><br>关于歌曲主题，从部分曝光的歌词\"既不能挣脱 那只能沉默\"和\"水快要淹漫\"来看，似乎是在探讨人在社会环境中的处境。有观众解读这首歌表达了\"社会就像一个湖泊，我们会因各种事情深陷其中\"的意境。<br><br>目前这首歌已经在多个音乐平台上线，包括网易云音乐。从网友反馈看，普遍评价很高，出现了\"神吧\"、\"神仙\"、\"完全被震撼\"等强烈褒奖。有听众描述听歌时的生理反应是\"起了一身鸡皮疙瘩\"，还有人说听着听着\"心情也慢慢平静下来了\"。<br><br>考虑到今天是10月31日，正好是这首歌发布的日子，这些信息都非常及时。我会在回复时突出歌曲的发布信息、创作特色、舞台亮点和听众反馈这几个关键点，让用户全面了解这首新歌的情况。<br><br></think><br>薛之谦的新歌《湖泊》于**2025年10月31日**在综艺节目《音乐缘计划第二季》第二期正式首唱，这首作品凭借创新的艺术表达和深刻的社会立意引发广泛热议。以下是综合整理的核心信息：<br>### 🎤 **一、歌曲背景与首演信息**<br>1. **发布平台与时间**  <br>   - 歌曲通过江苏卫视《音乐缘计划第二季》第2期首演（10月31日播出），节目音频同步上线网易云音乐等平台。```wbCustomBlock{\"type\": \"quoted\", \"index\": 5, \"data\": {\"num\": [20], \"version\": 2, \"quote_list\": [{\"name\": \"网易云音乐\", \"scheme\": \"sinaweibo://detail?mblogid=5227922849009506\", \"index\": 20, \"label\": \"\"}]}}```  <br>   - 薛之谦本人在微博官宣新歌，并联动节目官方账号“音乐缘计划”发布舞台直拍及剧照。```wbCustomBlock{\"type\": \"quoted\", \"index\": 6, \"data\": {\"num\": [1, 2, 11, 15], \"version\": 2, \"quote_list\": [{\"name\": \"薛之谦\", \"scheme\": \"sinaweibo://detail?mblogid=5227921829794882\", \"index\": 1, \"label\": \"大v\"}, {\"name\": \"音乐缘计划\", \"scheme\": \"sinaweibo://detail?mblogid=5227921918136068\", \"index\": 2, \"label\": \"\"}, {\"name\": \"音乐缘计划\", \"scheme\": \"sinaweibo://detail?mblogid=5227922974574465\", \"index\": 11, \"label\": \"\"}, {\"name\": \"音乐缘计划\", \"scheme\": \"sinaweibo://detail?mblogid=5227923430970798\", \"index\": 15, \"label\": \"\"}], \"name\": \"薛之谦\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/001lRKvwly8guxfz4c5d0j60u00u075802.jpg?KID=imgbed,tva&Expires=1761929922&ssig=zYnWW9VMiW\", \"scheme\": \"sinaweibo://detail?mblogid=5227921829794882\", \"vType\": 0}}```<br><br>2. **创作团队**  <br>   - 词曲由音乐人**张荣昊**创作（代表作《情书》），薛之谦担任音乐监制。```wbCustomBlock{\"type\": \"quoted\", \"index\": 8, \"data\": {\"num\": [19, 31], \"version\": 2, \"quote_list\": [{\"name\": \"一个极度热爱薛之谦的美少女卓\", \"scheme\": \"sinaweibo://detail?mblogid=5227917686866945\", \"index\": 19, \"label\": \"大v\"}, {\"name\": \"风衣外套_\", \"scheme\": \"sinaweibo://detail?mblogid=5221818798966517\", \"index\": 31, \"label\": \"\"}], \"name\": \"一个极度热爱薛之谦的美少女卓\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.480.480.50/7d19dc85ly8hwygtx9466j20dc0dcdfx.jpg?KID=imgbed,tva&Expires=1761929922&ssig=gHs%2FIB7O7y\", \"scheme\": \"sinaweibo://detail?mblogid=5227917686866945\", \"vType\": 0}}```  <br>   - 编曲融入童声与老年合唱团，前者由中国人民大学附属小学亮甲校区合唱团参与录制。```wbCustomBlock{\"type\": \"quoted\", \"index\": 9, \"data\": {\"num\": [19], \"version\": 2, \"quote_list\": [{\"name\": \"一个极度热爱薛之谦的美少女卓\", \"scheme\": \"sinaweibo://detail?mblogid=5227917686866945\", \"index\": 19, \"label\": \"\"}]}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5227921829794882&multi_paragraph=1&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/001lRKvwly8guxfz4c5d0j60u00u075802.jpg?KID=imgbed,tva&Expires=1761929922&ssig=zYnWW9VMiW) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">薛之谦</span><img src=\"http://wx4.sinaimg.cn/middle/001lRKvwly1i6vvlv3hzej61hc0u0dhs02.jpg\" data-width=1080 data-height=1920></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5227921918136068&multi_paragraph=1&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.600.600.50/006t5sQuly8i5gsa6mnu6j30go0goq4z.jpg?KID=imgbed,tva&Expires=1761929922&ssig=7CPjS6npU3) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">音乐缘计划</span><img src=\"http://wx4.sinaimg.cn/middle/006t5sQuly1i6vvlt82xhj31hc0u0q4q.jpg\" data-width=1080 data-height=1920></div></media-block><br>### 🌊 **二、艺术特色与舞台设计**<br>1. **跨世代声线融合**  <br>   - 舞台采用“双合唱团”形式：**前排白衣儿童**（纯净声线）与**后排黑衣老者**（沧桑音色），构建声浪帷幕，演绎生命不同阶段的交织。```wbCustomBlock{\"type\": \"quoted\", \"index\": 13, \"data\": {\"num\": [2, 11, 21], \"version\": 2, \"quote_list\": [{\"name\": \"音乐缘计划\", \"scheme\": \"sinaweibo://detail?mblogid=5227921918136068\", \"index\": 2, \"label\": \"大v\"}, {\"name\": \"音乐缘计划\", \"scheme\": \"sinaweibo://detail?mblogid=5227922974574465\", \"index\": 11, \"label\": \"\"}, {\"name\": \"爆米花哲学\", \"scheme\": \"sinaweibo://detail?mblogid=5227910949505369\", \"index\": 21, \"label\": \"\"}], \"name\": \"音乐缘计划\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.600.600.50/006t5sQuly8i5gsa6mnu6j30go0goq4z.jpg?KID=imgbed,tva&Expires=1761929922&ssig=7CPjS6npU3\", \"scheme\": \"sinaweibo://detail?mblogid=5227921918136068\", \"vType\": 3}}```  <br>   - 薛之谦的嗓音作为主线贯穿，三者叠加形成“静谧湖面被风拂过”的层次感，被乐评称为“救赎感神级演绎”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 14, \"data\": {\"num\": [7, 12], \"version\": 2, \"quote_list\": [{\"name\": \"朝阳区在逃富婆\", \"scheme\": \"sinaweibo://detail?mblogid=5227923524292445\", \"index\": 7, \"label\": \"大v\"}, {\"name\": \"祈念诗绪\", \"scheme\": \"sinaweibo://detail?mblogid=5227926284670162\", \"index\": 12, \"label\": \"\"}], \"name\": \"朝阳区在逃富婆\", \"img\": \"https://tvax1.sinaimg.cn/crop.7.22.415.415.50/7e682393ly8gtv3i2v7r2j20c80c73yx.jpg?KID=imgbed,tva&Expires=1761929922&ssig=2lqiniDwjU\", \"scheme\": \"sinaweibo://detail?mblogid=5227923524292445\", \"vType\": 0}}```<br><br>2. **视觉符号隐喻**  <br>   - 舞台背景疑似设计为“一排排佛像”，结合光影波动营造“湖泊幽深蔓延”的意境。```wbCustomBlock{\"type\": \"quoted\", \"index\": 16, \"data\": {\"num\": [14, 21], \"version\": 2, \"quote_list\": [{\"name\": \"薛之谦的小话筒\", \"scheme\": \"sinaweibo://detail?mblogid=5227922912975729\", \"index\": 14, \"label\": \"大v\"}, {\"name\": \"爆米花哲学\", \"scheme\": \"sinaweibo://detail?mblogid=5227910949505369\", \"index\": 21, \"label\": \"\"}], \"name\": \"薛之谦的小话筒\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/006qBakHly8hy3vs6lmwjj30u00u0q59.jpg?KID=imgbed,tva&Expires=1761929922&ssig=0RS0TNvzlh\", \"scheme\": \"sinaweibo://detail?mblogid=5227922912975729\", \"vType\": 7}}```  <br>   - 歌词“既不能挣脱，那只能沉默”“水快要淹漫”等，暗示个体在社会洪流中的沉浮与挣扎。```wbCustomBlock{\"type\": \"quoted\", \"index\": 17, \"data\": {\"num\": [13, 31], \"version\": 2, \"quote_list\": [{\"name\": \"恬一口奶薛\", \"scheme\": \"sinaweibo://detail?mblogid=5227924657799374\", \"index\": 13, \"label\": \"大v\"}, {\"name\": \"风衣外套_\", \"scheme\": \"sinaweibo://detail?mblogid=5221818798966517\", \"index\": 31, \"label\": \"\"}], \"name\": \"恬一口奶薛\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/0079aMd4ly8hx2t5o8k6yj30u00u0wpq.jpg?KID=imgbed,tva&Expires=1761929922&ssig=Zia2vlUF0R\", \"scheme\": \"sinaweibo://detail?mblogid=5227924657799374\", \"vType\": 0}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5227910949505369&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=2&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/005ZJlyDly8i3mopwwpumj30u00u00u0.jpg?KID=imgbed,tva&Expires=1761929922&ssig=UamoLAQ7bz) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">爆米花哲学</span><img src=\"http://wx3.sinaimg.cn/middle/005ZJlyDly1i6vudj15b6j32300w846d.jpg\" data-width=1160 data-height=2700></div></media-block><br>### 💬 **三、社会反响与听众评价**<br>1. **情感共鸣强烈**  <br>   - 大量听众反馈“起鸡皮疙瘩”“听感震撼”，称其嗓音自带故事感，温柔中蕴含力量，引发关于“救赎”“抚慰”的深度共情。```wbCustomBlock{\"type\": \"quoted\", \"index\": 21, \"data\": {\"num\": [7, 12, 16, 26], \"version\": 2, \"quote_list\": [{\"name\": \"朝阳区在逃富婆\", \"scheme\": \"sinaweibo://detail?mblogid=5227923524292445\", \"index\": 7, \"label\": \"\"}, {\"name\": \"祈念诗绪\", \"scheme\": \"sinaweibo://detail?mblogid=5227926284670162\", \"index\": 12, \"label\": \"\"}, {\"name\": \"别来打扰我睡觉啦_\", \"scheme\": \"sinaweibo://detail?mblogid=5227906915111169\", \"index\": 16, \"label\": \"\"}, {\"name\": \"好過冬天\", \"scheme\": \"sinaweibo://detail?mblogid=5227929723994361\", \"index\": 26, \"label\": \"\"}]}}```  <br>   - 合唱团设计被赞“颠覆传统”，童声与老声的碰撞象征“生命轮回”，强化歌曲哲理性。```wbCustomBlock{\"type\": \"quoted\", \"index\": 22, \"data\": {\"num\": [21, 24], \"version\": 2, \"quote_list\": [{\"name\": \"爆米花哲学\", \"scheme\": \"sinaweibo://detail?mblogid=5227910949505369\", \"index\": 21, \"label\": \"大v\"}, {\"name\": \"槐序协奏曲_\", \"scheme\": \"sinaweibo://detail?mblogid=5227930022319328\", \"index\": 24, \"label\": \"\"}], \"name\": \"爆米花哲学\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/005ZJlyDly8i3mopwwpumj30u00u00u0.jpg?KID=imgbed,tva&Expires=1761929922&ssig=UamoLAQ7bz\", \"scheme\": \"sinaweibo://detail?mblogid=5227910949505369\", \"vType\": 0}}```<br><br>2. **行业口碑扩散**  <br>   - 认证乐评人评价：“舞台升维为沉浸式环境戏剧”，突破综艺音乐竞演范式。```wbCustomBlock{\"type\": \"quoted\", \"index\": 24, \"data\": {\"num\": [5, 31], \"version\": 2, \"quote_list\": [{\"name\": \"文娱第三只眼\", \"scheme\": \"sinaweibo://detail?mblogid=5227910764958852\", \"index\": 5, \"label\": \"大v\"}, {\"name\": \"风衣外套_\", \"scheme\": \"sinaweibo://detail?mblogid=5221818798966517\", \"index\": 31, \"label\": \"\"}], \"name\": \"文娱第三只眼\", \"img\": \"https://tva2.sinaimg.cn/crop.2.12.314.314.50/51b9960bjw1esxnr9hsy8j2094094jsc.jpg?KID=imgbed,tva&Expires=1761929922&ssig=8TBHLYCgWv\", \"scheme\": \"sinaweibo://detail?mblogid=5227910764958852\", \"vType\": 0}}```  <br>   - 网友自发创建话题#谁懂薛之谦湖泊唱出的救赎感#，单日阅读量激增。```wbCustomBlock{\"type\": \"quoted\", \"index\": 25, \"data\": {\"num\": [7, 13], \"version\": 2, \"quote_list\": [{\"name\": \"朝阳区在逃富婆\", \"scheme\": \"sinaweibo://detail?mblogid=5227923524292445\", \"index\": 7, \"label\": \"\"}, {\"name\": \"恬一口奶薛\", \"scheme\": \"sinaweibo://detail?mblogid=5227924657799374\", \"index\": 13, \"label\": \"\"}]}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5227910764958852&multi_paragraph=3&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tva2.sinaimg.cn/crop.2.12.314.314.50/51b9960bjw1esxnr9hsy8j2094094jsc.jpg?KID=imgbed,tva&Expires=1761929922&ssig=8TBHLYCgWv) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">文娱第三只眼</span><img src=\"http://wx2.sinaimg.cn/middle/51b9960bgy1i6vucbr5k8j20ru0fo0tx.jpg\" data-width=564 data-height=1002></div></media-block><br>### 🔍 **四、延伸信息与幕后故事**<br>1. **录制花絮**  <br>   - 合唱团成员Lunar鹿娜透露，为参与录制专程从温哥华飞赴南京，称薛之谦“现场演唱无敌”“主动邀团体合照”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 29, \"data\": {\"num\": [27], \"version\": 2, \"quote_list\": [{\"name\": \"薛之谦别过来你蠢到我了\", \"scheme\": \"sinaweibo://detail?mblogid=5227926970965602\", \"index\": 27, \"label\": \"大v\"}], \"name\": \"薛之谦别过来你蠢到我了\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/bce7065aly8i630wpc9z3j20u00u0q62.jpg?KID=imgbed,tva&Expires=1761929922&ssig=EsD8LEX93Y\", \"scheme\": \"sinaweibo://detail?mblogid=5227926970965602\", \"vType\": 0}}```  <br>   - 早期观众repo提到，薛之谦录制时身穿黑色紧身衣，“瘦到令人心疼”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 30, \"data\": {\"num\": [31], \"version\": 2, \"quote_list\": [{\"name\": \"风衣外套_\", \"scheme\": \"sinaweibo://detail?mblogid=5221818798966517\", \"index\": 31, \"label\": \"\"}]}}```<br><br>2. **主题关联性**  <br>   - 歌曲延续薛之谦近年关注社会议题的创作方向（如环保主题《跃》），探讨个体与环境的共生关系。```wbCustomBlock{\"type\": \"quoted\", \"index\": 32, \"data\": {\"num\": [31], \"version\": 2, \"quote_list\": [{\"name\": \"风衣外套_\", \"scheme\": \"sinaweibo://detail?mblogid=5221818798966517\", \"index\": 31, \"label\": \"\"}]}}```  <br>   - 部分听众联想其旧作《陪你去流浪》歌词“我看着湖面平平淡淡”，视为情感脉络的呼应。```wbCustomBlock{\"type\": \"quoted\", \"index\": 33, \"data\": {\"num\": [30], \"version\": 2, \"quote_list\": [{\"name\": \"研承Orack_\", \"scheme\": \"sinaweibo://detail?mblogid=4824592927954286\", \"index\": 30, \"label\": \"\"}]}}```<br>### 📢 **五、收听与传播渠道**<br>| **形式**       | **平台**                |  <br>|----------------|-------------------------|  <br>| **舞台纯享版** | 江苏卫视、爱奇艺 |  <br>| **音频版**     | 网易云音乐          |  <br>| **直拍片段**   | 微博```wbCustomBlock{\"type\": \"midquoted\", \"index\": \"5926613262_1\", \"data\": {\"name\": \"音乐缘计划\", \"scheme\": \"https://weibo.com/u/5926613262\"}}```     |<br><br>```wbCustomBlock{\"type\": \"quoted\", \"index\": 35, \"data\": {\"num\": [5, 11, 19, 20], \"version\": 2, \"quote_list\": [{\"name\": \"文娱第三只眼\", \"scheme\": \"sinaweibo://detail?mblogid=5227910764958852\", \"index\": 5, \"label\": \"\"}, {\"name\": \"音乐缘计划\", \"scheme\": \"sinaweibo://detail?mblogid=5227922974574465\", \"index\": 11, \"label\": \"\"}, {\"name\": \"一个极度热爱薛之谦的美少女卓\", \"scheme\": \"sinaweibo://detail?mblogid=5227917686866945\", \"index\": 19, \"label\": \"\"}, {\"name\": \"网易云音乐\", \"scheme\": \"sinaweibo://detail?mblogid=5227922849009506\", \"index\": 20, \"label\": \"\"}]}}```<br><br>---<br><br>《湖泊》以“声景交融”的实验性表达，成为薛之谦音乐叙事的新里程碑。其内核既是对生命沉浮的诗意凝练，亦是对集体情感的深刻疗愈，印证了听众所言——“薛之谦让音乐成为照见灵魂的湖面”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 37, \"data\": {\"num\": [7, 26], \"version\": 2, \"quote_list\": [{\"name\": \"朝阳区在逃富婆\", \"scheme\": \"sinaweibo://detail?mblogid=5227923524292445\", \"index\": 7, \"label\": \"\"}, {\"name\": \"好過冬天\", \"scheme\": \"sinaweibo://detail?mblogid=5227929723994361\", \"index\": 26, \"label\": \"\"}]}}```<br>",
+      "profile_image_url": "",
+      "msg_format": "markdown",
+      "qs_status_info": "{\"qs_u_status\":0,\"ab_lab\":{},\"qs_status\":0,\"qs_q_status\":0,\"qs_r_status\":0,\"qs_c_status\":8388608}",
+      "query_category": "Ip",
+      "msg_json": "{}",
+      "card_multimodal": {
+        "type": "mediablock",
+        "data": [
+          {
+            "type": "v",
+            "click_rate": 0,
+            "h": 1080,
+            "vtype": 0,
+            "hit_score_final": 0,
+            "cur_mid": "5227921829794882",
+            "user_name": "薛之谦",
+            "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/001lRKvwly8guxfz4c5d0j60u00u075802.jpg?KID=imgbed,tva&Expires=1761929922&ssig=zYnWW9VMiW",
+            "img": "http://wx4.sinaimg.cn/middle/001lRKvwly1i6vvlv3hzej61hc0u0dhs02.jpg",
+            "video_url": "https://video.weibo.com/show?fid=1034:5227919396503573",
+            "scheme": "sinaweibo://video/vvs?mid=5227921829794882&multi_paragraph=1&multi_count=0",
+            "hit_score_new": 0,
+            "doc_score": 0,
+            "img_pid": "001lRKvwly1i6vvlv3hzej61hc0u0dhs02",
+            "w": 1920
+          },
+          {
+            "type": "v",
+            "click_rate": 0,
+            "h": 1080,
+            "vtype": 3,
+            "hit_score_final": 91.414062,
+            "cur_mid": "5227921918136068",
+            "user_name": "音乐缘计划",
+            "user_avatar": "https://tvax4.sinaimg.cn/crop.0.0.600.600.50/006t5sQuly8i5gsa6mnu6j30go0goq4z.jpg?KID=imgbed,tva&Expires=1761929922&ssig=7CPjS6npU3",
+            "img": "http://wx4.sinaimg.cn/middle/006t5sQuly1i6vvlt82xhj31hc0u0q4q.jpg",
+            "video_url": "https://video.weibo.com/show?fid=1034:5227921392992377",
+            "scheme": "sinaweibo://video/vvs?mid=5227921918136068&multi_paragraph=1&multi_count=1",
+            "hit_score_new": 99.023438,
+            "doc_score": 7323,
+            "img_pid": "006t5sQuly1i6vvlt82xhj31hc0u0q4q",
+            "w": 1920
+          },
+          {
+            "type": "p",
+            "click_rate": 0,
+            "h": 1160,
+            "vtype": 0,
+            "hit_score_final": 70.104294,
+            "cur_mid": "5227910949505369",
+            "user_name": "爆米花哲学",
+            "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/005ZJlyDly8i3mopwwpumj30u00u00u0.jpg?KID=imgbed,tva&Expires=1761929922&ssig=UamoLAQ7bz",
+            "img": "http://wx3.sinaimg.cn/middle/005ZJlyDly1i6vudj15b6j32300w846d.jpg",
+            "video_url": "",
+            "scheme": "sinaweibo://multimedia?mix_mid=5227910949505369&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=2&multi_count=0",
+            "hit_score_new": 78.173828,
+            "doc_score": 4579,
+            "img_pid": "005ZJlyDly1i6vudj15b6j32300w846d",
+            "w": 2700
+          },
+          {
+            "type": "v",
+            "click_rate": 0,
+            "h": 1080,
+            "vtype": 0,
+            "hit_score_final": 0,
+            "cur_mid": "5227921829794882",
+            "user_name": "薛之谦",
+            "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/001lRKvwly8guxfz4c5d0j60u00u075802.jpg?KID=imgbed,tva&Expires=1761929922&ssig=zYnWW9VMiW",
+            "img": "http://wx4.sinaimg.cn/middle/001lRKvwly1i6vvlv3hzej61hc0u0dhs02.jpg",
+            "video_url": "https://video.weibo.com/show?fid=1034:5227919396503573",
+            "scheme": "sinaweibo://video/vvs?mid=5227921829794882&multi_paragraph=1&multi_count=0",
+            "hit_score_new": 0,
+            "doc_score": 0,
+            "img_pid": "001lRKvwly1i6vvlv3hzej61hc0u0dhs02",
+            "w": 1920
+          }
+        ]
+      },
+      "analysis_time": 1761919301,
+      "abtest_info": {
+        "chat_entrance": 1
+      },
+      "cot": 1,
+      "current_time": 1761921342,
+      "status_stage": 4,
+      "short_url": "http://t.cn/AXzE7nkA",
+      "mid_list": null,
+      "query_field": "1",
+      "chat_status_stage": 1,
+      "share_text": "#薛之谦 湖泊#的相关内容，来智搜看看",
+      "qs_status": 0
+    }
+  },
+  "links": [
+    "sinaweibo://detail?mblogid=5227921829794882",
+    "sinaweibo://detail?mblogid=5227921918136068",
+    "sinaweibo://detail?mblogid=5227908026340896",
+    "sinaweibo://detail?mblogid=5226875175831153",
+    "sinaweibo://detail?mblogid=5227910764958852",
+    "sinaweibo://detail?mblogid=5227909675484851",
+    "sinaweibo://detail?mblogid=5227923524292445",
+    "historyweibo://5219265554942825",
+    "historyweibo://5217399281812811",
+    "historyweibo://5212650610885694",
+    "sinaweibo://detail?mblogid=5227922974574465",
+    "sinaweibo://detail?mblogid=5227926284670162",
+    "sinaweibo://detail?mblogid=5227924657799374",
+    "sinaweibo://detail?mblogid=5227922912975729",
+    "sinaweibo://detail?mblogid=5227923430970798",
+    "sinaweibo://detail?mblogid=5227906915111169",
+    "sinaweibo://detail?mblogid=5227924385175776",
+    "sinaweibo://detail?mblogid=5227910211830795",
+    "sinaweibo://detail?mblogid=5227917686866945",
+    "sinaweibo://detail?mblogid=5227922849009506",
+    "sinaweibo://detail?mblogid=5227910949505369",
+    "sinaweibo://detail?mblogid=5227079198311402",
+    "sinaweibo://detail?mblogid=5227930045389026",
+    "sinaweibo://detail?mblogid=5227930022319328",
+    "sinaweibo://detail?mblogid=5227929799496639",
+    "sinaweibo://detail?mblogid=5227929723994361",
+    "sinaweibo://detail?mblogid=5227926970965602",
+    "sinaweibo://detail?mblogid=5227929005202075",
+    "sinaweibo://detail?mblogid=5227928977409587",
+    "sinaweibo://detail?mblogid=4824592927954286",
+    "sinaweibo://detail?mblogid=5221818798966517",
+    "sinaweibo://detail?mblogid=4591788716989592"
+  ],
+  "media": [
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/001lRKvwly1i6vvlv3hzej61hc0u0dhs02.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/001lRKvwly1i6vvlv3hzej61hc0u0dhs02.jpg",
+      "alt": "薛之谦",
+      "width": 1080,
+      "height": 1920,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/001lRKvwly1i6vvlv3hzej61hc0u0dhs02.jpg"
+      ],
+      "user": "薛之谦"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/006t5sQuly1i6vvlt82xhj31hc0u0q4q.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/006t5sQuly1i6vvlt82xhj31hc0u0q4q.jpg",
+      "alt": "音乐缘计划",
+      "width": 1080,
+      "height": 1920,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/006t5sQuly1i6vvlt82xhj31hc0u0q4q.jpg"
+      ],
+      "user": "音乐缘计划"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/005ZJlyDly1i6vudj15b6j32300w846d.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/005ZJlyDly1i6vudj15b6j32300w846d.jpg",
+      "alt": "爆米花哲学",
+      "width": 1160,
+      "height": 2700,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/005ZJlyDly1i6vudj15b6j32300w846d.jpg"
+      ],
+      "user": "爆米花哲学"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/51b9960bgy1i6vucbr5k8j20ru0fo0tx.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/51b9960bgy1i6vucbr5k8j20ru0fo0tx.jpg",
+      "alt": "文娱第三只眼",
+      "width": 564,
+      "height": 1002,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/51b9960bgy1i6vucbr5k8j20ru0fo0tx.jpg"
+      ],
+      "user": "文娱第三只眼"
+    }
+  ],
+  "html_path": "data/aicard/hourly/2025-10-31/21/topic-765eceb1.html"
+}

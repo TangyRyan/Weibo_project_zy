@@ -1,0 +1,242 @@
+{
+  "meta": {
+    "query": "#台湾人面临的三种选择#",
+    "status_code": 200,
+    "fetched_at": "2025-11-02T22:25:33+08:00",
+    "response": {
+      "mid_list": null,
+      "reference_num": 16,
+      "model": "deepseek",
+      "link_list": [
+        "sinaweibo://detail?mblogid=5228620677123241",
+        "sinaweibo://detail?mblogid=5182781617340746",
+        "sinaweibo://detail?mblogid=4888254586030934",
+        "historyweibo://5179033704992614",
+        "historyweibo://5179033704992614",
+        "sinaweibo://detail?mblogid=5228655028737615",
+        "sinaweibo://detail?mblogid=5228659615996472",
+        "sinaweibo://detail?mblogid=5228657569435145",
+        "sinaweibo://detail?mblogid=5228656671593364",
+        "sinaweibo://detail?mblogid=5228656629908736",
+        "sinaweibo://detail?mblogid=5228656381135344",
+        "sinaweibo://detail?mblogid=5228656236693536",
+        "sinaweibo://detail?mblogid=4992275929895640",
+        "sinaweibo://detail?mblogid=5045830503373717",
+        "sinaweibo://detail?mblogid=5188629318341591",
+        "sinaweibo://detail?mblogid=5226663831932267",
+        "sinaweibo://detail?mblogid=5225506879570035",
+        "sinaweibo://detail?mblogid=5199589617701031"
+      ],
+      "cot": 1,
+      "top_quote_list": {},
+      "card_multimodal": {
+        "type": "mediablock",
+        "data": [
+          {
+            "doc_score": 2205,
+            "img_pid": "adb6896egy1i4dhnyxklhj20xc0xcq73",
+            "w": 1200,
+            "click_rate": 0.06,
+            "scheme": "sinaweibo://multimedia?mix_mid=5199589617701031&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=2&multi_count=0",
+            "h": 1200,
+            "hit_score_final": 38.297657,
+            "img": "http://wx3.sinaimg.cn/middle/adb6896egy1i4dhnyxklhj20xc0xcq73.jpg",
+            "cur_mid": "5199589617701031",
+            "user_name": "笔骨子",
+            "type": "p",
+            "user_avatar": "https://tvax2.sinaimg.cn/crop.0.0.640.640.50/adb6896ely8h2nh0v1zm4j20hs0hs3z5.jpg?KID=imgbed,tva&Expires=1762104141&ssig=b3TDUkVWqH",
+            "vtype": 0,
+            "video_url": "",
+            "hit_score_new": 58.496094
+          },
+          {
+            "doc_score": 2928,
+            "img_pid": "6c18a7d8ly1i6o6973f8ej20k0178753",
+            "w": 720,
+            "click_rate": 0,
+            "scheme": "sinaweibo://video/vvs?mid=5225506879570035&multi_paragraph=3&multi_count=0",
+            "h": 1556,
+            "hit_score_final": 69.618752,
+            "img": "http://wx2.sinaimg.cn/middle/6c18a7d8ly1i6o6973f8ej20k0178753.jpg",
+            "cur_mid": "5225506879570035",
+            "user_name": "长剑倚天问神州",
+            "type": "v",
+            "user_avatar": "https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/6c18a7d8ly8hpiwqybehqj20u00u0adm.jpg?KID=imgbed,tva&Expires=1762104141&ssig=OE0IHlj%2F5F",
+            "vtype": 0,
+            "video_url": "https://video.weibo.com/show?fid=1034:5225506564669448",
+            "hit_score_new": 82.03125
+          },
+          {
+            "doc_score": 3846,
+            "img_pid": "008dGFQely1i3dx81kuu2j30k00zk76a",
+            "w": 720,
+            "click_rate": 0,
+            "scheme": "sinaweibo://video/vvs?mid=5188629318341591&multi_paragraph=4&multi_count=0",
+            "h": 1280,
+            "hit_score_final": 50.263672,
+            "img": "http://wx3.sinaimg.cn/middle/008dGFQely1i3dx81kuu2j30k00zk76a.jpg",
+            "cur_mid": "5188629318341591",
+            "user_name": "FantasticColor-饭饭",
+            "type": "v",
+            "user_avatar": "https://tvax2.sinaimg.cn/crop.0.0.500.500.50/008dGFQely8i6x94uilucj30dw0dwmxa.jpg?KID=imgbed,tva&Expires=1762104141&ssig=iet36tSl9C",
+            "vtype": 0,
+            "video_url": "https://video.weibo.com/show?fid=1034:5188440015175710",
+            "hit_score_new": 50.439453
+          },
+          {
+            "doc_score": 2205,
+            "img_pid": "adb6896egy1i4dhnyxklhj20xc0xcq73",
+            "w": 1200,
+            "click_rate": 0.06,
+            "scheme": "sinaweibo://multimedia?mix_mid=5199589617701031&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=2&multi_count=0",
+            "h": 1200,
+            "hit_score_final": 38.297657,
+            "img": "http://wx3.sinaimg.cn/middle/adb6896egy1i4dhnyxklhj20xc0xcq73.jpg",
+            "cur_mid": "5199589617701031",
+            "user_name": "笔骨子",
+            "type": "p",
+            "user_avatar": "https://tvax2.sinaimg.cn/crop.0.0.640.640.50/adb6896ely8h2nh0v1zm4j20hs0hs3z5.jpg?KID=imgbed,tva&Expires=1762104141&ssig=b3TDUkVWqH",
+            "vtype": 0,
+            "video_url": "",
+            "hit_score_new": 58.496094
+          }
+        ]
+      },
+      "share_card_multimodal": {
+        "doc_score": 2205,
+        "img_pid": "adb6896egy1i4dhnyxklhj20xc0xcq73",
+        "w": 1200,
+        "click_rate": 0.06,
+        "scheme": "sinaweibo://multimedia?mix_mid=5199589617701031&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=2&multi_count=0",
+        "h": 1200,
+        "hit_score_final": 38.297657,
+        "img": "http://wx3.sinaimg.cn/middle/adb6896egy1i4dhnyxklhj20xc0xcq73.jpg",
+        "cur_mid": "5199589617701031",
+        "user_name": "笔骨子",
+        "type": "p",
+        "user_avatar": "https://tvax2.sinaimg.cn/crop.0.0.640.640.50/adb6896ely8h2nh0v1zm4j20hs0hs3z5.jpg?KID=imgbed,tva&Expires=1762104141&ssig=b3TDUkVWqH",
+        "vtype": 0,
+        "video_url": "",
+        "hit_score_new": 58.496094
+      },
+      "status": 2,
+      "basemodel": "实验组4",
+      "qs_status": 0,
+      "query_field": "0",
+      "wenda": {
+        "forward_gen": 0
+      },
+      "sorted_material_list": null,
+      "ab_suffix": "default",
+      "short_url": "http://t.cn/AXAKXbWV",
+      "status_stage": 4,
+      "chat_status_stage": 1,
+      "msg_json": "{}",
+      "uid": "",
+      "msg": "<think><br>嗯，用户想了解台湾人面临的三种选择，这个查询挺有深度的。从搜索结果看，主要有三条路径：支持统一、保持现状和倾向独立，但每种选择背后的现实影响和未来前景截然不同。<br><br>胡锡进的微博提到最详细的分法：坚定支持统一的人短期内可能受压，但长远看是上升趋势；专注个人生活的群体看似被动，但实际选择了\"不站队\"；绑定台独的虽然当下顺遂，却可能成为历史转折中的牺牲品。这个分析在多个认证账号的内容中得到呼应。<br><br>注意到民调数据反映的认同困境：67%自称台湾人，28%接受双重身份，仅3%认同中国人——这种认知差异直接影响选择倾向。更值得关注的是年轻群体的态度，35岁以下有83%坚持台湾人身份，这给统一进程增加了复杂性。<br><br>混血儿的案例特别有说服力。他们在台湾被当外国人，在父母故国又被视为台湾人，这种撕裂感其实隐喻着整个台湾的认同困境。政策层面的歧视更明显，陆配子女拿身份证要比外籍配偶多等两年，继承权也受限，这种制度性差异无形中把人群分类了。<br><br>博弈的逻辑提到的视频分析值得注意：苏起判断未来四五年可能摊牌，给出的三条路其实没有中间选项——拖延现状已被排除，独立是死路，回归才是活路。这个判断和笔骨子提到的辩论形成对照：当大陆民间武统声浪升高时，台湾的选择窗口其实在加速关闭。<br><br>最后要提观察者网的尖锐观点：所谓维持现状本质是将选择权让渡给美国。这种视角戳破了很多人逃避选择的幻想——就像长春-小风说的，归根结底是要么认同中国留在岛内，要么彻底离开。<br><br></think><br>台湾民众在当前复杂局势下面临的核心选择，本质上是对自身前途与身份认同的终极抉择。综合多方观点与现实态势，可将这些选择归纳为以下三类路径及其深层影响：<br>### 🏮 **一、拥抱统一：顺应历史大势的上升选择**  <br>1. **核心立场与优势**  <br>   - 坚定支持一个中国原则，主动融入国家统一进程，成为两岸关系发展的积极推动者。```wbCustomBlock{\"type\": \"quoted\", \"index\": 5, \"data\": {\"num\": [1, 6], \"version\": 2, \"quote_list\": [{\"name\": \"胡锡进\", \"scheme\": \"sinaweibo://detail?mblogid=5228620677123241\", \"index\": 1, \"label\": \"大v\"}, {\"name\": \"大大大餅干丶\", \"scheme\": \"sinaweibo://detail?mblogid=5228655028737615\", \"index\": 6, \"label\": \"\"}], \"name\": \"胡锡进\", \"img\": \"https://tva3.sinaimg.cn/crop.0.0.180.180.50/7697cf01jw1e8qgp5bmzyj2050050aa8.jpg?KID=imgbed,tva&Expires=1762104141&ssig=fD1Usk7fHR\", \"scheme\": \"sinaweibo://detail?mblogid=5228620677123241\", \"vType\": 0}}```  <br>   - **长期回报显著**：虽短期内可能面临岛内政治压力（如民进党当局打压），但依托大陆庞大的市场与发展资源，个人发展空间与权益保障将随统一进程持续提升。```wbCustomBlock{\"type\": \"quoted\", \"index\": 6, \"data\": {\"num\": [1, 12], \"version\": 2, \"quote_list\": [{\"name\": \"胡锡进\", \"scheme\": \"sinaweibo://detail?mblogid=5228620677123241\", \"index\": 1, \"label\": \"\"}, {\"name\": \"博弈的逻辑\", \"scheme\": \"sinaweibo://detail?mblogid=5228656236693536\", \"index\": 12, \"label\": \"\"}]}}```  <br><br>2. **现实案例与趋势**  <br>   - 政治人物如郑丽文（从民进党转为国民党主席并呼吁\"我们都是中国人\"）、网红\"馆长\"陈之汉公开支持统一，反映岛内政治生态的深刻转向。```wbCustomBlock{\"type\": \"quoted\", \"index\": 8, \"data\": {\"num\": [1], \"version\": 2, \"quote_list\": [{\"name\": \"胡锡进\", \"scheme\": \"sinaweibo://detail?mblogid=5228620677123241\", \"index\": 1, \"label\": \"\"}]}}```  <br>   - 台湾同胞获取大陆身份证的案例增多，体现\"背靠大树好乘凉\"的现实利益选择。```wbCustomBlock{\"type\": \"quoted\", \"index\": 9, \"data\": {\"num\": [6], \"version\": 2, \"quote_list\": [{\"name\": \"大大大餅干丶\", \"scheme\": \"sinaweibo://detail?mblogid=5228655028737615\", \"index\": 6, \"label\": \"大v\"}], \"name\": \"大大大餅干丶\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/0067Agcoly8hbpykwao06j30u00u076f.jpg?KID=imgbed,tva&Expires=1762104141&ssig=%2FnjHZ2rd6x\", \"scheme\": \"sinaweibo://detail?mblogid=5228655028737615\", \"vType\": 0}}```<br>### 🕰️ **二、维持现状：被动等待的中间路线**  <br>1. **表面中立下的潜在风险**  <br>   - 专注个人事业与生活，回避政治表态，试图在动荡中保全自身。```wbCustomBlock{\"type\": \"quoted\", \"index\": 13, \"data\": {\"num\": [1, 14], \"version\": 2, \"quote_list\": [{\"name\": \"观察者网\", \"scheme\": \"sinaweibo://detail?mblogid=5045830503373717\", \"index\": 14, \"label\": \"大v\"}, {\"name\": \"胡锡进\", \"scheme\": \"sinaweibo://detail?mblogid=5228620677123241\", \"index\": 1, \"label\": \"\"}], \"name\": \"观察者网\", \"img\": \"https://tvax3.sinaimg.cn/crop.6.8.591.591.50/707e96d5ly8h8vg9v0hpjj20go0gowf6.jpg?KID=imgbed,tva&Expires=1762104141&ssig=3KixzMvMF0\", \"scheme\": \"sinaweibo://detail?mblogid=5045830503373717\", \"vType\": 3}}```  <br>   - **选择权让渡危机**：表面上\"不选\"实则将命运交予外部势力（如美国）或岛内激进势力主导，可能导致被动卷入冲突。```wbCustomBlock{\"type\": \"quoted\", \"index\": 14, \"data\": {\"num\": [14], \"version\": 2, \"quote_list\": [{\"name\": \"观察者网\", \"scheme\": \"sinaweibo://detail?mblogid=5045830503373717\", \"index\": 14, \"label\": \"\"}]}}```  <br><br>2. **时间窗口的紧迫性**  <br>   - 台安全会议前秘书长苏起等研判，未来四五年两岸摊牌可能性极高，拖延策略已被历史进程排除。```wbCustomBlock{\"type\": \"quoted\", \"index\": 16, \"data\": {\"num\": [12], \"version\": 2, \"quote_list\": [{\"name\": \"博弈的逻辑\", \"scheme\": \"sinaweibo://detail?mblogid=5228656236693536\", \"index\": 12, \"label\": \"\"}]}}```  <br>   - 大陆民意对\"无限期拖延统一\"的容忍度趋近于零，军事与经济反制手段不断升级（如取消ECFA关税减让）。```wbCustomBlock{\"type\": \"quoted\", \"index\": 17, \"data\": {\"num\": [12, 18], \"version\": 2, \"quote_list\": [{\"name\": \"笔骨子\", \"scheme\": \"sinaweibo://detail?mblogid=5199589617701031\", \"index\": 18, \"label\": \"大v\"}, {\"name\": \"博弈的逻辑\", \"scheme\": \"sinaweibo://detail?mblogid=5228656236693536\", \"index\": 12, \"label\": \"\"}], \"name\": \"笔骨子\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.640.640.50/adb6896ely8h2nh0v1zm4j20hs0hs3z5.jpg?KID=imgbed,tva&Expires=1762104141&ssig=b3TDUkVWqH\", \"scheme\": \"sinaweibo://detail?mblogid=5199589617701031\", \"vType\": 0}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5199589617701031&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=2&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.640.640.50/adb6896ely8h2nh0v1zm4j20hs0hs3z5.jpg?KID=imgbed,tva&Expires=1762104141&ssig=b3TDUkVWqH) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">笔骨子</span><img src=\"http://wx3.sinaimg.cn/middle/adb6896egy1i4dhnyxklhj20xc0xcq73.jpg\" data-width=1200 data-height=1200></div></media-block><br>### ⚔️ **三、绑定\"台独\"：走向绝路的危险选项**  <br>1. **政治幻觉与现实代价**  <br>   - 轻信民进党\"倚美谋独\"宣传，追求短期政治利益，忽视大陆反分裂的底线能力。```wbCustomBlock{\"type\": \"quoted\", \"index\": 21, \"data\": {\"num\": [1, 12], \"version\": 2, \"quote_list\": [{\"name\": \"胡锡进\", \"scheme\": \"sinaweibo://detail?mblogid=5228620677123241\", \"index\": 1, \"label\": \"\"}, {\"name\": \"博弈的逻辑\", \"scheme\": \"sinaweibo://detail?mblogid=5228656236693536\", \"index\": 12, \"label\": \"\"}]}}```  <br>   - **系统性清算风险**：若触碰《反分裂国家法》红线，参与者将面临法律制裁、资产冻结乃至驱逐离岛等后果。```wbCustomBlock{\"type\": \"quoted\", \"index\": 22, \"data\": {\"num\": [17], \"version\": 2, \"quote_list\": [{\"name\": \"长剑倚天问神州\", \"scheme\": \"sinaweibo://detail?mblogid=5225506879570035\", \"index\": 17, \"label\": \"大v\"}], \"name\": \"长剑倚天问神州\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/6c18a7d8ly8hpiwqybehqj20u00u0adm.jpg?KID=imgbed,tva&Expires=1762104141&ssig=OE0IHlj%2F5F\", \"scheme\": \"sinaweibo://detail?mblogid=5225506879570035\", \"vType\": 0}}```  <br><br>2. **国际空间与军事现实的崩塌**  <br>   - 邦交国持续流失（如瑙鲁断交）、国际组织参与权被剥夺，凸显\"台独\"路线的不可持续性。```wbCustomBlock{\"type\": \"quoted\", \"index\": 24, \"data\": {\"num\": [12], \"version\": 2, \"quote_list\": [{\"name\": \"博弈的逻辑\", \"scheme\": \"sinaweibo://detail?mblogid=5228656236693536\", \"index\": 12, \"label\": \"\"}]}}```  <br>   - 解放军已实现对台海制空制海权的常态化掌控，歼-20、055型驱逐舰等先进装备形成压倒性优势，\"以武拒统\"无异于螳臂当车。```wbCustomBlock{\"type\": \"quoted\", \"index\": 25, \"data\": {\"num\": [12], \"version\": 2, \"quote_list\": [{\"name\": \"博弈的逻辑\", \"scheme\": \"sinaweibo://detail?mblogid=5228656236693536\", \"index\": 12, \"label\": \"\"}]}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5225506879570035&multi_paragraph=3&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/6c18a7d8ly8hpiwqybehqj20u00u0adm.jpg?KID=imgbed,tva&Expires=1762104141&ssig=OE0IHlj%2F5F) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">长剑倚天问神州</span><img src=\"http://wx2.sinaimg.cn/middle/6c18a7d8ly1i6o6973f8ej20k0178753.jpg\" data-width=1556 data-height=720></div></media-block><br>### 💎 **深层矛盾与身份认同困境**  <br>1. **认同撕裂的社会镜像**  <br>   - 67%台湾民众自认\"仅是台湾人\"，仅3%认同\"中国人\"身份，反映教育与社会舆论长期去中国化的后果。```wbCustomBlock{\"type\": \"quoted\", \"index\": 29, \"data\": {\"num\": [13], \"version\": 2, \"quote_list\": [{\"name\": \"斯图卡98\", \"scheme\": \"sinaweibo://detail?mblogid=4992275929895640\", \"index\": 13, \"label\": \"大v\"}], \"name\": \"斯图卡98\", \"img\": \"https://tva3.sinaimg.cn/crop.0.13.113.113.50/c37c67cbgw1egw65gf2kgj203c045746.jpg?KID=imgbed,tva&Expires=1762104141&ssig=n8cxvPKvHL\", \"scheme\": \"sinaweibo://detail?mblogid=4992275929895640\", \"vType\": 0}}```  <br>   - **混血儿困境的隐喻**：在台被视作\"外国人\"，在外被归为\"台湾人\"的归属感缺失，映射整个台湾社会的身份迷惘。```wbCustomBlock{\"type\": \"quoted\", \"index\": 30, \"data\": {\"num\": [15], \"version\": 2, \"quote_list\": [{\"name\": \"FantasticColor-饭饭\", \"scheme\": \"sinaweibo://detail?mblogid=5188629318341591\", \"index\": 15, \"label\": \"\"}]}}```  <br><br>2. **制度性歧视的恶性循环**  <br>   - 陆配子女需6年（外籍配偶仅4年）才可获身份证，继承权受限等政策，固化\"非我族类\"的隔阂。  <br>   - 公开表达统一立场者遭污名化，迫使个体陷入自我审查（如郑智化因维权方式差异遭争议）。```wbCustomBlock{\"type\": \"quoted\", \"index\": 33, \"data\": {\"num\": [16], \"version\": 2, \"quote_list\": [{\"name\": \"Liamkkong\", \"scheme\": \"sinaweibo://detail?mblogid=5226663831932267\", \"index\": 16, \"label\": \"大v\"}], \"name\": \"Liamkkong\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/005Rgiunly8i4v8x7c3xtj30u00u0gov.jpg?KID=imgbed,tva&Expires=1762104141&ssig=1uxmr9gEXm\", \"scheme\": \"sinaweibo://detail?mblogid=5226663831932267\", \"vType\": 0}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5188629318341591&multi_paragraph=4&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.500.500.50/008dGFQely8i6x94uilucj30dw0dwmxa.jpg?KID=imgbed,tva&Expires=1762104141&ssig=iet36tSl9C) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">FantasticColor-饭饭</span><img src=\"http://wx3.sinaimg.cn/middle/008dGFQely1i3dx81kuu2j30k00zk76a.jpg\" data-width=1280 data-height=720></div></media-block><br>### ⚖️ **历史启示与路径选择建议**  <br>- **北平模式的历史参照**：当前台湾局势类似1949年北平——虽暂未解放，但大势已定。主动顺应者将获新生，负隅顽抗者终被淘汰。```wbCustomBlock{\"type\": \"quoted\", \"index\": 36, \"data\": {\"num\": [1, 17], \"version\": 2, \"quote_list\": [{\"name\": \"胡锡进\", \"scheme\": \"sinaweibo://detail?mblogid=5228620677123241\", \"index\": 1, \"label\": \"\"}, {\"name\": \"长剑倚天问神州\", \"scheme\": \"sinaweibo://detail?mblogid=5225506879570035\", \"index\": 17, \"label\": \"\"}]}}```  <br>- **个体选择的终极建议**：  <br>  - **短期避险**：避免参与\"台独\"政治活动，减少资产在岛内暴露；  <br>  - **长期布局**：通过求学、就业等渠道建立与大陆社会的联结，为身份过渡铺路；  <br>  - **政治觉醒**：推动废除《两岸人民关系条例》中的歧视条款，促成平等对话基础。```wbCustomBlock{\"type\": \"quoted\", \"index\": 40, \"data\": {\"num\": [18], \"version\": 2, \"quote_list\": [{\"name\": \"笔骨子\", \"scheme\": \"sinaweibo://detail?mblogid=5199589617701031\", \"index\": 18, \"label\": \"\"}]}}```  <br><br>> 🌊 **总结**：台湾的三种选择本质是 **\"顺势而生、静待而变、逆势而亡\"** 的生存逻辑。当历史潮流的确定性远超岛内政治的不确定性时，个体选择的智慧在于超越短期博弈，锚定民族复兴的长周期坐标。<br>",
+      "scheme": "sinaweibo://cardlist?containerid=100103type%3D225%26q%3D%23%E5%8F%B0%E6%B9%BE%E4%BA%BA%E9%9D%A2%E4%B8%B4%E7%9A%84%E4%B8%89%E7%A7%8D%E9%80%89%E6%8B%A9%23%26t%3D&extparam=ai_model%3Ddeepseek%26ori_ai_title%3D%E5%8F%82%E8%80%83%E5%8D%9A%E6%96%87%26material_version%3D1762093341",
+      "query": "#台湾人面临的三种选择#",
+      "qs_status_info": "{\"qs_u_status\":0,\"ab_lab\":{},\"qs_status\":0,\"qs_c_status\":8388608,\"qs_q_status\":0,\"qs_r_status\":0}",
+      "version": "2025-11-02 22:22:21.026000-6636",
+      "analysis_time": 1762093501,
+      "ext_show": {},
+      "unify_md5": "15f22d5ddb9f1bcc5009a8540d544beb",
+      "q_attr": {
+        "from_uid": "",
+        "comment_from_type": "",
+        "from_request_id": "",
+        "reply_cid": "",
+        "mid": ""
+      },
+      "query_category": "",
+      "share_info": {
+        "status": 3,
+        "tips": "#台湾人面临的三种选择#的相关内容，来智搜看看",
+        "page_id": "2329643fea56ef4adaf6b75c5179428622ab57",
+        "comment_content": "",
+        "url": "http://t.cn/AXAKNlso",
+        "display_name": "#台湾人面临的三种选择#",
+        "unify_md5": "15f22d5ddb9f1bcc5009a8540d544beb"
+      },
+      "page_id": "2329643fea56ef4adaf6b75c5179428622ab57",
+      "share_text": "#台湾人面临的三种选择#的相关内容，来智搜看看",
+      "current_time": 1762093535,
+      "user_info": {},
+      "msg_format": "markdown",
+      "show_ctrl": {
+        "quote": {}
+      },
+      "abtest_info": {
+        "chat_entrance": 1
+      },
+      "loop_times": 200,
+      "news_analyze": {},
+      "reliable_tips": "{\"gold_orange_v_mids\": [\"5228620677123241\", \"5228655028737615\", \"5228656236693536\", \"5199589617701031\", \"5225506879570035\", \"4992275929895640\", \"5188629318341591\", \"5226663831932267\", \"5182781617340746\", \"5228656629908736\"], \"gold_orange_v_ratio\": \"63%\", \"media_mids\": [\"4888254586030934\"], \"media_ratio\": \"6%\", \"verified_mids\": [\"5045830503373717\", \"5228657569435145\", \"5228656671593364\", \"5228656381135344\"], \"verified_ratio\": \"25%\", \"normal_mids\": [\"5228659615996472\"], \"normal_ratio\": \"6%\", \"ref_mid_rank\": {\"5228620677123241\": {\"rank\": 1}, \"5228655028737615\": {\"rank\": 6}, \"5228656236693536\": {\"rank\": 12}, \"5045830503373717\": {\"rank\": 14}, \"5199589617701031\": {\"rank\": 18}, \"5225506879570035\": {\"rank\": 17}, \"4992275929895640\": {\"rank\": 13}, \"5188629318341591\": {\"rank\": 15}, \"5226663831932267\": {\"rank\": 16}, \"5182781617340746\": {\"rank\": 2}, \"4888254586030934\": {\"rank\": 3}, \"5228659615996472\": {\"rank\": 7}, \"5228657569435145\": {\"rank\": 8}, \"5228656671593364\": {\"rank\": 9}, \"5228656629908736\": {\"rank\": 10}, \"5228656381135344\": {\"rank\": 11}}}",
+      "profile_image_url": "",
+      "comment_info": {},
+      "zs_risk_control": {
+        "think_text_close": 0,
+        "land_button_close": 0
+      }
+    }
+  },
+  "links": [
+    "sinaweibo://detail?mblogid=5228620677123241",
+    "sinaweibo://detail?mblogid=5182781617340746",
+    "sinaweibo://detail?mblogid=4888254586030934",
+    "historyweibo://5179033704992614",
+    "historyweibo://5179033704992614",
+    "sinaweibo://detail?mblogid=5228655028737615",
+    "sinaweibo://detail?mblogid=5228659615996472",
+    "sinaweibo://detail?mblogid=5228657569435145",
+    "sinaweibo://detail?mblogid=5228656671593364",
+    "sinaweibo://detail?mblogid=5228656629908736",
+    "sinaweibo://detail?mblogid=5228656381135344",
+    "sinaweibo://detail?mblogid=5228656236693536",
+    "sinaweibo://detail?mblogid=4992275929895640",
+    "sinaweibo://detail?mblogid=5045830503373717",
+    "sinaweibo://detail?mblogid=5188629318341591",
+    "sinaweibo://detail?mblogid=5226663831932267",
+    "sinaweibo://detail?mblogid=5225506879570035",
+    "sinaweibo://detail?mblogid=5199589617701031"
+  ],
+  "media": [
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/adb6896egy1i4dhnyxklhj20xc0xcq73.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/adb6896egy1i4dhnyxklhj20xc0xcq73.jpg",
+      "alt": "笔骨子",
+      "width": 1200,
+      "height": 1200,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/adb6896egy1i4dhnyxklhj20xc0xcq73.jpg"
+      ],
+      "user": "笔骨子"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/6c18a7d8ly1i6o6973f8ej20k0178753.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/6c18a7d8ly1i6o6973f8ej20k0178753.jpg",
+      "alt": "长剑倚天问神州",
+      "width": 1556,
+      "height": 720,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/6c18a7d8ly1i6o6973f8ej20k0178753.jpg"
+      ],
+      "user": "长剑倚天问神州"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/008dGFQely1i3dx81kuu2j30k00zk76a.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/008dGFQely1i3dx81kuu2j30k00zk76a.jpg",
+      "alt": "FantasticColor-饭饭",
+      "width": 1280,
+      "height": 720,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/008dGFQely1i3dx81kuu2j30k00zk76a.jpg"
+      ],
+      "user": "FantasticColor-饭饭"
+    }
+  ],
+  "html_path": "data/aicard/hourly/2025-11-02/22/topic-15f22d5d.html"
+}

@@ -1,0 +1,318 @@
+{
+  "meta": {
+    "query": "#山东人蒸大馒头研究出了透明馒头#",
+    "status_code": 200,
+    "fetched_at": "2025-11-01T14:39:32+08:00",
+    "response": {
+      "top_quote_list": {},
+      "card_multimodal": {
+        "type": "mediablock",
+        "data": [
+          {
+            "scheme": "sinaweibo://video/vvs?mid=5228178037542853&multi_paragraph=1&multi_count=0",
+            "cur_mid": "5228178037542853",
+            "img": "http://wx4.sinaimg.cn/middle/00894zVDly1i6wp2829ocj30k00zk75w.jpg",
+            "user_name": "虔心向纯",
+            "vtype": 0,
+            "h": 1280,
+            "user_avatar": "https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/00894zVDly8i6woo1ik78j30u00u0juc.jpg?KID=imgbed,tva&Expires=1761989480&ssig=uUOu7cSgul",
+            "video_url": "https://video.weibo.com/show?fid=1034:5228177942052951",
+            "hit_score_final": 90.214066,
+            "hit_score_new": 99.023438,
+            "doc_score": 5492,
+            "img_pid": "00894zVDly1i6wp2829ocj30k00zk75w",
+            "w": 720,
+            "click_rate": 0,
+            "type": "v"
+          },
+          {
+            "scheme": "sinaweibo://video/vvs?mid=4944890381993968&multi_paragraph=2&multi_count=0",
+            "cur_mid": "4944890381993968",
+            "img": "http://wx1.sinaimg.cn/middle/007S2YvRly1hhsvpqmy16j31hc0u0b29.jpg",
+            "user_name": "央视频",
+            "vtype": 3,
+            "h": 1080,
+            "user_avatar": "https://tvax1.sinaimg.cn/crop.0.0.180.180.50/007S2YvRly1h8vgi91xayj3050050wec.jpg?KID=imgbed,tva&Expires=1761989480&ssig=dUYheZk643",
+            "video_url": "https://video.weibo.com/show?fid=1034:4944871065321499",
+            "hit_score_final": 62.368748,
+            "hit_score_new": 63.28125,
+            "doc_score": 2683,
+            "img_pid": "007S2YvRly1hhsvpqmy16j31hc0u0b29",
+            "w": 1920,
+            "click_rate": 0,
+            "type": "v"
+          },
+          {
+            "scheme": "sinaweibo://video/vvs?mid=4833857939439739&multi_paragraph=2&multi_count=1",
+            "cur_mid": "4833857939439739",
+            "img": "http://wx2.sinaimg.cn/middle/005TbsAFly1h7ypydhrbpj30u01hcn28.jpg",
+            "user_name": "大众新闻-大众日报",
+            "vtype": 3,
+            "h": 1920,
+            "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.600.600.50/005TbsAFly8i4b1kqe734j30go0go0t8.jpg?KID=imgbed,tva&Expires=1761989480&ssig=cnI62dPRjn",
+            "video_url": "https://video.weibo.com/show?fid=1034:4833857288208487",
+            "hit_score_final": 70.773438,
+            "hit_score_new": 71.289062,
+            "doc_score": 3320,
+            "img_pid": "005TbsAFly1h7ypydhrbpj30u01hcn28",
+            "w": 1080,
+            "click_rate": 0,
+            "type": "v"
+          },
+          {
+            "scheme": "sinaweibo://video/vvs?mid=5228178037542853&multi_paragraph=1&multi_count=0",
+            "cur_mid": "5228178037542853",
+            "img": "http://wx4.sinaimg.cn/middle/00894zVDly1i6wp2829ocj30k00zk75w.jpg",
+            "user_name": "虔心向纯",
+            "vtype": 0,
+            "h": 1280,
+            "user_avatar": "https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/00894zVDly8i6woo1ik78j30u00u0juc.jpg?KID=imgbed,tva&Expires=1761989480&ssig=uUOu7cSgul",
+            "video_url": "https://video.weibo.com/show?fid=1034:5228177942052951",
+            "hit_score_final": 90.214066,
+            "hit_score_new": 99.023438,
+            "doc_score": 5492,
+            "img_pid": "00894zVDly1i6wp2829ocj30k00zk75w",
+            "w": 720,
+            "click_rate": 0,
+            "type": "v"
+          }
+        ]
+      },
+      "share_card_multimodal": {
+        "scheme": "sinaweibo://video/vvs?mid=5228178037542853&multi_paragraph=1&multi_count=0",
+        "cur_mid": "5228178037542853",
+        "img": "http://wx4.sinaimg.cn/middle/00894zVDly1i6wp2829ocj30k00zk75w.jpg",
+        "user_name": "虔心向纯",
+        "vtype": 0,
+        "h": 1280,
+        "user_avatar": "https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/00894zVDly8i6woo1ik78j30u00u0juc.jpg?KID=imgbed,tva&Expires=1761989480&ssig=uUOu7cSgul",
+        "video_url": "https://video.weibo.com/show?fid=1034:5228177942052951",
+        "hit_score_final": 90.214066,
+        "hit_score_new": 99.023438,
+        "doc_score": 5492,
+        "img_pid": "00894zVDly1i6wp2829ocj30k00zk75w",
+        "w": 720,
+        "click_rate": 0,
+        "type": "v"
+      },
+      "basemodel": "实验组5",
+      "wenda": {
+        "forward_gen": 0
+      },
+      "status": 2,
+      "query_category": "",
+      "short_url": "http://t.cn/AXAMfght",
+      "scheme": "sinaweibo://cardlist?containerid=100103type%3D225%26q%3D%23%E5%B1%B1%E4%B8%9C%E4%BA%BA%E8%92%B8%E5%A4%A7%E9%A6%92%E5%A4%B4%E7%A0%94%E7%A9%B6%E5%87%BA%E4%BA%86%E9%80%8F%E6%98%8E%E9%A6%92%E5%A4%B4%23%26t%3D&extparam=ai_model%3Ddeepseek%26ori_ai_title%3D%E5%8F%82%E8%80%83%E5%8D%9A%E6%96%87%26material_version%3D1761978680",
+      "show_ctrl": {
+        "quote": {}
+      },
+      "msg": "<think><br><br>嗯，用户查询的是关于山东人研究出透明馒头的信息。我看到了很多搜索结果需要分析处理。<br><br>浏览这些结果发现主要讨论的是山东面点师在传统馒头工艺上的创新突破。有个普通账号提到透明馒头使用了高筋粉和澄粉的配比调整，通过优化揉面和发酵工艺实现的。制作过程关键点在于控制酵母发酵产生微小气孔，高温蒸制后形成特殊的透亮质地。<br><br>很多认证账号发布了视频内容展示这些创新馒头，包括能剥皮的橘子馒头、荔枝造型带果肉的馒头，甚至还有蜜雪冰城主题的创意馒头。网友反应很热烈，用\"面点界考研\"来形容这种技术突破。<br><br>搜索结果还显示透明馒头是最近才出现的创新，大部分相关内容集中在2025年10月底到11月初。这个现象也引发了南北饮食文化差异的有趣讨论。<br><br>注意到几个重要细节：央视频曾报道过山东花饽饽的非遗技艺，而大众日报提到山东人用馒头塑造各种造型的传统。透明馒头可以看作是这个传统的延续发展。<br><br>在回答时需要突出透明馒头的技术特点和创意价值，同时关联到山东传统面食文化背景。组织内容时考虑分成技术创新和文化延伸两部分来呈现。<br><br></think><br>山东人在面食制作领域的最新突破——透明馒头，引发了广泛关注。这一创新不仅展示了传统技艺的精进，更体现了饮食文化的艺术化演进：<br>### 🔍 一、透明馒头的核心特征与技术原理  <br>1. **视觉与质地革新**  <br>   - 突破性地实现了馒头表皮的半透明效果，掰开后呈现细腻纹理，质地紧实透亮且富有弹性。```wbCustomBlock{\"type\": \"quoted\", \"index\": 4, \"data\": {\"num\": [18], \"version\": 2, \"quote_list\": [{\"name\": \"萌有所失\", \"scheme\": \"sinaweibo://detail?mblogid=5228179850531534\", \"index\": 18, \"label\": \"\"}]}}```  <br>   - 通过精准调控面粉配比（如添加高筋粉、澄粉），结合揉面力度、醒发时长与蒸汽火候的优化，使酵母发酵产生的二氧化碳形成均匀微孔，高温蒸制后面筋网络固定结构，最终达成蓬松透亮的视觉效果。```wbCustomBlock{\"type\": \"quoted\", \"index\": 5, \"data\": {\"num\": [9, 18], \"version\": 2, \"quote_list\": [{\"name\": \"姝婳颖\", \"scheme\": \"sinaweibo://detail?mblogid=5228170979580517\", \"index\": 9, \"label\": \"\"}, {\"name\": \"萌有所失\", \"scheme\": \"sinaweibo://detail?mblogid=5228179850531534\", \"index\": 18, \"label\": \"\"}]}}```<br><br>2. **创意形态的极致拓展**  <br>   - 衍生出可剥皮分瓣的仿真橘子馒头🍊，内含仿真的果肉脉络；荔枝造型馒头甚至拥有“果壳”与剔透“果肉”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 7, \"data\": {\"num\": [12, 14], \"version\": 2, \"quote_list\": [{\"name\": \"藏蓝色轨迹_\", \"scheme\": \"sinaweibo://detail?mblogid=5228176633763635\", \"index\": 12, \"label\": \"\"}, {\"name\": \"虔心向纯\", \"scheme\": \"sinaweibo://detail?mblogid=5228178037542853\", \"index\": 14, \"label\": \"\"}]}}```  <br>   - 进阶作品包括可倒出“茶水”的茶具馒头、翻页书籍馒头等，被网友调侃为“面点界考研级作品”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 8, \"data\": {\"num\": [9, 21], \"version\": 2, \"quote_list\": [{\"name\": \"姝婳颖\", \"scheme\": \"sinaweibo://detail?mblogid=5228170979580517\", \"index\": 9, \"label\": \"\"}, {\"name\": \"止祝\", \"scheme\": \"sinaweibo://detail?mblogid=5228179641601908\", \"index\": 21, \"label\": \"\"}]}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5228178037542853&multi_paragraph=1&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/00894zVDly8i6woo1ik78j30u00u0juc.jpg?KID=imgbed,tva&Expires=1761989480&ssig=uUOu7cSgul) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">虔心向纯</span><img src=\"http://wx4.sinaimg.cn/middle/00894zVDly1i6wp2829ocj30k00zk75w.jpg\" data-width=1280 data-height=720></div></media-block><br>### 🌍 二、地域文化与民众反响  <br>1. **山东面食技艺的传承与创新**  <br>   - 透明馒头是山东传统花饽饽技艺的现代延伸。当地素有制作巨型饽饽（如篮球大小）和生肖造型馒头的传统，用于节庆仪式，兼具食用与祈福功能。```wbCustomBlock{\"type\": \"quoted\", \"index\": 11, \"data\": {\"num\": [7, 34, 36], \"version\": 2, \"quote_list\": [{\"name\": \"央视频\", \"scheme\": \"sinaweibo://detail?mblogid=4944890381993968\", \"index\": 7, \"label\": \"大v\"}, {\"name\": \"秋香的秋_\", \"scheme\": \"sinaweibo://detail?mblogid=5228171092036666\", \"index\": 34, \"label\": \"\"}, {\"name\": \"大众新闻-大众日报\", \"scheme\": \"sinaweibo://detail?mblogid=4833857939439739\", \"index\": 36, \"label\": \"\"}], \"name\": \"央视频\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.180.180.50/007S2YvRly1h8vgi91xayj3050050wec.jpg?KID=imgbed,tva&Expires=1761989480&ssig=dUYheZk643\", \"scheme\": \"sinaweibo://detail?mblogid=4944890381993968\", \"vType\": 3}}```  <br>   - 烟台一位80后女性面点师，7年内设计出400余种花样馒头，包括龙年主题的系列作品，印证了民间创新的活力。```wbCustomBlock{\"type\": \"quoted\", \"index\": 12, \"data\": {\"num\": [38], \"version\": 2, \"quote_list\": [{\"name\": \"山海视频\", \"scheme\": \"sinaweibo://detail?mblogid=4993644556190877\", \"index\": 38, \"label\": \"大v\"}], \"name\": \"山海视频\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.512.512.50/008hHg1Aly8h8vhxwnvchj30e80e8wej.jpg?KID=imgbed,tva&Expires=1761989480&ssig=senO5CrS7m\", \"scheme\": \"sinaweibo://detail?mblogid=4993644556190877\", \"vType\": 3}}```<br><br>2. **南北文化碰撞与网络热议**  <br>   - 南方网友惊叹于山东面食的“造物主级”创造力，对比南北饮食差异：如山东馒头与广东迷你茶点的迥异风格。```wbCustomBlock{\"type\": \"quoted\", \"index\": 14, \"data\": {\"num\": [6, 33], \"version\": 2, \"quote_list\": [{\"name\": \"是猪宝丫\", \"scheme\": \"sinaweibo://detail?mblogid=5228175994919062\", \"index\": 6, \"label\": \"\"}, {\"name\": \"是只爱美的猫\", \"scheme\": \"sinaweibo://detail?mblogid=5228161757085901\", \"index\": 33, \"label\": \"\"}]}}```  <br>   - 话题标签下，网友戏称“18888元卖给上海人”“9999元沪爷没意见”，凸显其艺术附加值引发的趣味讨论。```wbCustomBlock{\"type\": \"quoted\", \"index\": 15, \"data\": {\"num\": [8, 14], \"version\": 2, \"quote_list\": [{\"name\": \"栖焰鸟_\", \"scheme\": \"sinaweibo://detail?mblogid=5228172675386739\", \"index\": 8, \"label\": \"\"}, {\"name\": \"虔心向纯\", \"scheme\": \"sinaweibo://detail?mblogid=5228178037542853\", \"index\": 14, \"label\": \"\"}]}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=4944890381993968&multi_paragraph=2&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.180.180.50/007S2YvRly1h8vgi91xayj3050050wec.jpg?KID=imgbed,tva&Expires=1761989480&ssig=dUYheZk643) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">央视频</span><img src=\"http://wx1.sinaimg.cn/middle/007S2YvRly1hhsvpqmy16j31hc0u0b29.jpg\" data-width=1080 data-height=1920></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=4833857939439739&multi_paragraph=2&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.600.600.50/005TbsAFly8i4b1kqe734j30go0go0t8.jpg?KID=imgbed,tva&Expires=1761989480&ssig=cnI62dPRjn) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">大众新闻-大众日报</span><img src=\"http://wx2.sinaimg.cn/middle/005TbsAFly1h7ypydhrbpj30u01hcn28.jpg\" data-width=1920 data-height=1080></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5228175994919062&multi_paragraph=2&multi_count=2\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.960.960.50/4ee1c131gy1i5ixiqehhlj20qo0qo3yy.jpg?KID=imgbed,tva&Expires=1761989480&ssig=hj0DEo6DJf) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">是猪宝丫</span><img src=\"http://wx3.sinaimg.cn/middle/4ee1c131gy1i6worvw9ezj20u01hatcb.jpg\" data-width=1918 data-height=1080></div></media-block><br>### 🧑‍🍳 三、行业影响与现实意义  <br>1. **推动面点技艺科学化**  <br>   南方美食爱好者开始研究透明馒头的工艺，拆解面粉配比、温湿度控制等变量，尝试复刻并融入本土风味（如桂花、玫瑰调香）。```wbCustomBlock{\"type\": \"quoted\", \"index\": 17, \"data\": {\"num\": [20, 33], \"version\": 2, \"quote_list\": [{\"name\": \"陳皮橙又橙\", \"scheme\": \"sinaweibo://detail?mblogid=5228179740427172\", \"index\": 20, \"label\": \"\"}, {\"name\": \"是只爱美的猫\", \"scheme\": \"sinaweibo://detail?mblogid=5228161757085901\", \"index\": 33, \"label\": \"\"}]}}```  <br><br>2. **激活传统饮食经济**  <br>   - 济南馒头铺日销数千个的案例，印证大馒头作为“街头烟火气”的经济价值；```wbCustomBlock{\"type\": \"quoted\", \"index\": 19, \"data\": {\"num\": [5], \"version\": 2, \"quote_list\": [{\"name\": \"在努力和幸福的道路上\", \"scheme\": \"sinaweibo://detail?mblogid=5228165171776159\", \"index\": 5, \"label\": \"\"}]}}```  <br>   - 农村婆媳借规范经营（办理证件、改进工艺）将馒头摊发展为热门生意，反映小作坊升级的路径。```wbCustomBlock{\"type\": \"quoted\", \"index\": 20, \"data\": {\"num\": [4], \"version\": 2, \"quote_list\": [{\"name\": \"唯爱美人的渔乐\", \"scheme\": \"sinaweibo://detail?mblogid=5228170006495488\", \"index\": 4, \"label\": \"\"}]}}```<br><br>💎 **总结**：透明馒头不仅是技术突破，更是文化符号。它延续了山东千年面食艺术的基因，以科学态度重塑传统工艺，在社交媒体时代激发跨地域对话，同时为小微餐饮创业提供新思路。<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5228165171776159&multi_paragraph=3&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.480.480.50/006Gyfzcly8i16v8ef095j30dc0dcaam.jpg?KID=imgbed,tva&Expires=1761989480&ssig=UuDAzsmtc7) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">在努力和幸福的道路上</span><img src=\"http://wx2.sinaimg.cn/middle/006Gyfzcly1i6wnkobhn0j30u01hcmzu.jpg\" data-width=1920 data-height=1080></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5228170006495488&multi_paragraph=3&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/006DjWnoly8hlnpu1wkttj30u00u0wgd.jpg?KID=imgbed,tva&Expires=1761989480&ssig=WaG4fy4RGg) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">唯爱美人的渔乐</span><img src=\"http://wx3.sinaimg.cn/middle/006DjWnoly1i6wo3qs010j30u00gv0u6.jpg\" data-width=607 data-height=1080></div></media-block><br>",
+      "query": "#山东人蒸大馒头研究出了透明馒头#",
+      "msg_format": "markdown",
+      "model": "deepseek",
+      "ext_show": {},
+      "cot": 1,
+      "query_field": "7",
+      "chat_status_stage": 1,
+      "current_time": 1761979173,
+      "profile_image_url": "",
+      "reliable_tips": "{\"gold_orange_v_mids\": [\"5228170979580517\", \"5228176633763635\", \"5228178037542853\", \"5228179641601908\", \"5228171092036666\", \"5228175994919062\", \"5228161757085901\", \"5228172675386739\", \"5228179740427172\", \"5228165171776159\", \"5228170006495488\", \"5228152253318290\", \"5227844335829697\", \"5228172341941111\", \"5228161350765466\", \"5228167922712781\", \"5228163124170461\", \"5228171470570886\", \"5228158484745818\", \"5228170350952464\", \"5228179520227311\", \"5228179457312963\", \"5228179396756521\", \"5228179230556295\", \"5228179099748786\", \"5228178840225843\", \"5228178097835191\", \"5228177888643943\", \"5228175107033863\"], \"gold_orange_v_ratio\": \"76%\", \"media_mids\": [\"4944890381993968\", \"4833857939439739\", \"4993644556190877\"], \"media_ratio\": \"8%\", \"verified_mids\": [\"5228179750128583\", \"5228179532546815\", \"5228178756076946\", \"5228170748102780\"], \"verified_ratio\": \"11%\", \"normal_mids\": [\"5228179850531534\", \"5228178318558554\"], \"normal_ratio\": \"5%\", \"ref_mid_rank\": {\"5228179850531534\": {\"rank\": 18}, \"5228170979580517\": {\"rank\": 9}, \"5228176633763635\": {\"rank\": 12}, \"5228178037542853\": {\"rank\": 14}, \"5228179641601908\": {\"rank\": 21}, \"4944890381993968\": {\"rank\": 7}, \"5228171092036666\": {\"rank\": 34}, \"4833857939439739\": {\"rank\": 36}, \"4993644556190877\": {\"rank\": 38}, \"5228175994919062\": {\"rank\": 6}, \"5228161757085901\": {\"rank\": 33}, \"5228172675386739\": {\"rank\": 8}, \"5228179740427172\": {\"rank\": 20}, \"5228165171776159\": {\"rank\": 5}, \"5228170006495488\": {\"rank\": 4}, \"5228152253318290\": {\"rank\": 1}, \"5227844335829697\": {\"rank\": 2}, \"5228172341941111\": {\"rank\": 3}, \"5228161350765466\": {\"rank\": 10}, \"5228167922712781\": {\"rank\": 11}, \"5228163124170461\": {\"rank\": 13}, \"5228171470570886\": {\"rank\": 15}, \"5228158484745818\": {\"rank\": 16}, \"5228170350952464\": {\"rank\": 17}, \"5228179750128583\": {\"rank\": 19}, \"5228179532546815\": {\"rank\": 22}, \"5228179520227311\": {\"rank\": 23}, \"5228179457312963\": {\"rank\": 24}, \"5228179396756521\": {\"rank\": 25}, \"5228179230556295\": {\"rank\": 26}, \"5228179099748786\": {\"rank\": 27}, \"5228178840225843\": {\"rank\": 28}, \"5228178756076946\": {\"rank\": 29}, \"5228178318558554\": {\"rank\": 30}, \"5228178097835191\": {\"rank\": 31}, \"5228177888643943\": {\"rank\": 32}, \"5228175107033863\": {\"rank\": 35}, \"5228170748102780\": {\"rank\": 37}}, \"reliable_summary\": \"事件基于社交媒体讨论，缺乏权威来源验证，核心描述可能存在艺术夸张成分。\"}",
+      "qs_status": 0,
+      "sorted_material_list": null,
+      "qs_status_info": "{\"qs_q_status\":0,\"qs_u_status\":0,\"qs_status\":0,\"ab_lab\":{},\"qs_c_status\":8388608,\"qs_r_status\":0}",
+      "loop_times": 200,
+      "unify_md5": "14147124f4e8af8ac05a2474b0412356",
+      "q_attr": {
+        "from_request_id": "",
+        "reply_cid": "",
+        "comment_from_type": "",
+        "from_uid": "",
+        "mid": ""
+      },
+      "analysis_time": 1761978912,
+      "uid": "",
+      "share_info": {
+        "status": 3,
+        "tips": "#山东人蒸大馒头研究出了透明馒头#的相关内容，来智搜看看",
+        "page_id": "2329645eed016923fd32aab5e1bb6616329134",
+        "display_name": "#山东人蒸大馒头研究出了透明馒头#",
+        "url": "http://t.cn/AXAMMowZ",
+        "unify_md5": "14147124f4e8af8ac05a2474b0412356",
+        "comment_content": ""
+      },
+      "share_text": "#山东人蒸大馒头研究出了透明馒头#的相关内容，来智搜看看",
+      "ab_suffix": "default",
+      "comment_info": {},
+      "zs_risk_control": {
+        "think_text_close": 0,
+        "land_button_close": 0
+      },
+      "msg_json": "{}",
+      "version": "2025-11-01 14:31:20.012000-7230",
+      "user_info": {},
+      "abtest_info": {
+        "chat_entrance": 1
+      },
+      "news_analyze": {},
+      "mid_list": null,
+      "reference_num": 38,
+      "status_stage": 4,
+      "link_list": [
+        "sinaweibo://detail?mblogid=5228152253318290",
+        "sinaweibo://detail?mblogid=5227844335829697",
+        "sinaweibo://detail?mblogid=5228172341941111",
+        "sinaweibo://detail?mblogid=5228170006495488",
+        "sinaweibo://detail?mblogid=5228165171776159",
+        "sinaweibo://detail?mblogid=5228175994919062",
+        "sinaweibo://detail?mblogid=4944890381993968",
+        "sinaweibo://detail?mblogid=5228172675386739",
+        "sinaweibo://detail?mblogid=5228170979580517",
+        "sinaweibo://detail?mblogid=5228161350765466",
+        "sinaweibo://detail?mblogid=5228167922712781",
+        "sinaweibo://detail?mblogid=5228176633763635",
+        "sinaweibo://detail?mblogid=5228163124170461",
+        "sinaweibo://detail?mblogid=5228178037542853",
+        "sinaweibo://detail?mblogid=5228171470570886",
+        "sinaweibo://detail?mblogid=5228158484745818",
+        "sinaweibo://detail?mblogid=5228170350952464",
+        "sinaweibo://detail?mblogid=5228179850531534",
+        "sinaweibo://detail?mblogid=5228179750128583",
+        "sinaweibo://detail?mblogid=5228179740427172",
+        "sinaweibo://detail?mblogid=5228179641601908",
+        "sinaweibo://detail?mblogid=5228179532546815",
+        "sinaweibo://detail?mblogid=5228179520227311",
+        "sinaweibo://detail?mblogid=5228179457312963",
+        "sinaweibo://detail?mblogid=5228179396756521",
+        "sinaweibo://detail?mblogid=5228179230556295",
+        "sinaweibo://detail?mblogid=5228179099748786",
+        "sinaweibo://detail?mblogid=5228178840225843",
+        "sinaweibo://detail?mblogid=5228178756076946",
+        "sinaweibo://detail?mblogid=5228178318558554",
+        "sinaweibo://detail?mblogid=5228178097835191",
+        "sinaweibo://detail?mblogid=5228177888643943",
+        "sinaweibo://detail?mblogid=5228161757085901",
+        "sinaweibo://detail?mblogid=5228171092036666",
+        "sinaweibo://detail?mblogid=5228175107033863",
+        "sinaweibo://detail?mblogid=4833857939439739",
+        "sinaweibo://detail?mblogid=5228170748102780",
+        "sinaweibo://detail?mblogid=4993644556190877"
+      ],
+      "page_id": "2329645eed016923fd32aab5e1bb6616329134"
+    }
+  },
+  "links": [
+    "sinaweibo://detail?mblogid=5228152253318290",
+    "sinaweibo://detail?mblogid=5227844335829697",
+    "sinaweibo://detail?mblogid=5228172341941111",
+    "sinaweibo://detail?mblogid=5228170006495488",
+    "sinaweibo://detail?mblogid=5228165171776159",
+    "sinaweibo://detail?mblogid=5228175994919062",
+    "sinaweibo://detail?mblogid=4944890381993968",
+    "sinaweibo://detail?mblogid=5228172675386739",
+    "sinaweibo://detail?mblogid=5228170979580517",
+    "sinaweibo://detail?mblogid=5228161350765466",
+    "sinaweibo://detail?mblogid=5228167922712781",
+    "sinaweibo://detail?mblogid=5228176633763635",
+    "sinaweibo://detail?mblogid=5228163124170461",
+    "sinaweibo://detail?mblogid=5228178037542853",
+    "sinaweibo://detail?mblogid=5228171470570886",
+    "sinaweibo://detail?mblogid=5228158484745818",
+    "sinaweibo://detail?mblogid=5228170350952464",
+    "sinaweibo://detail?mblogid=5228179850531534",
+    "sinaweibo://detail?mblogid=5228179750128583",
+    "sinaweibo://detail?mblogid=5228179740427172",
+    "sinaweibo://detail?mblogid=5228179641601908",
+    "sinaweibo://detail?mblogid=5228179532546815",
+    "sinaweibo://detail?mblogid=5228179520227311",
+    "sinaweibo://detail?mblogid=5228179457312963",
+    "sinaweibo://detail?mblogid=5228179396756521",
+    "sinaweibo://detail?mblogid=5228179230556295",
+    "sinaweibo://detail?mblogid=5228179099748786",
+    "sinaweibo://detail?mblogid=5228178840225843",
+    "sinaweibo://detail?mblogid=5228178756076946",
+    "sinaweibo://detail?mblogid=5228178318558554",
+    "sinaweibo://detail?mblogid=5228178097835191",
+    "sinaweibo://detail?mblogid=5228177888643943",
+    "sinaweibo://detail?mblogid=5228161757085901",
+    "sinaweibo://detail?mblogid=5228171092036666",
+    "sinaweibo://detail?mblogid=5228175107033863",
+    "sinaweibo://detail?mblogid=4833857939439739",
+    "sinaweibo://detail?mblogid=5228170748102780",
+    "sinaweibo://detail?mblogid=4993644556190877"
+  ],
+  "media": [
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/00894zVDly1i6wp2829ocj30k00zk75w.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/00894zVDly1i6wp2829ocj30k00zk75w.jpg",
+      "alt": "虔心向纯",
+      "width": 1280,
+      "height": 720,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/00894zVDly1i6wp2829ocj30k00zk75w.jpg"
+      ],
+      "user": "虔心向纯"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/007S2YvRly1hhsvpqmy16j31hc0u0b29.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/007S2YvRly1hhsvpqmy16j31hc0u0b29.jpg",
+      "alt": "央视频",
+      "width": 1080,
+      "height": 1920,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/007S2YvRly1hhsvpqmy16j31hc0u0b29.jpg"
+      ],
+      "user": "央视频"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/005TbsAFly1h7ypydhrbpj30u01hcn28.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/005TbsAFly1h7ypydhrbpj30u01hcn28.jpg",
+      "alt": "大众新闻-大众日报",
+      "width": 1920,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/005TbsAFly1h7ypydhrbpj30u01hcn28.jpg"
+      ],
+      "user": "大众新闻-大众日报"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/4ee1c131gy1i6worvw9ezj20u01hatcb.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/4ee1c131gy1i6worvw9ezj20u01hatcb.jpg",
+      "alt": "是猪宝丫",
+      "width": 1918,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/4ee1c131gy1i6worvw9ezj20u01hatcb.jpg"
+      ],
+      "user": "是猪宝丫"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/006Gyfzcly1i6wnkobhn0j30u01hcmzu.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/006Gyfzcly1i6wnkobhn0j30u01hcmzu.jpg",
+      "alt": "在努力和幸福的道路上",
+      "width": 1920,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/006Gyfzcly1i6wnkobhn0j30u01hcmzu.jpg"
+      ],
+      "user": "在努力和幸福的道路上"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/006DjWnoly1i6wo3qs010j30u00gv0u6.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/006DjWnoly1i6wo3qs010j30u00gv0u6.jpg",
+      "alt": "唯爱美人的渔乐",
+      "width": 607,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/006DjWnoly1i6wo3qs010j30u00gv0u6.jpg"
+      ],
+      "user": "唯爱美人的渔乐"
+    }
+  ],
+  "html_path": "data/aicard/hourly/2025-11-01/14/topic-14147124.html"
+}

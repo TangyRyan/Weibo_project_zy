@@ -1,0 +1,256 @@
+{
+  "meta": {
+    "query": "#中行回应被罚9790万#",
+    "status_code": 200,
+    "fetched_at": "2025-11-01T10:13:51+08:00",
+    "response": {
+      "query_category": "",
+      "model": "deepseek",
+      "cot": 1,
+      "query_field": "12",
+      "page_id": "2329641a866e55373c71632b8135d140182a45",
+      "scheme": "sinaweibo://cardlist?containerid=100103type%3D225%26q%3D%23%E4%B8%AD%E8%A1%8C%E5%9B%9E%E5%BA%94%E8%A2%AB%E7%BD%9A9790%E4%B8%87%23%26t%3D&extparam=ai_model%3Ddeepseek%26ori_ai_title%3D%E5%8F%82%E8%80%83%E5%8D%9A%E6%96%87%26material_version%3D1761962937",
+      "reliable_tips": "{\"gold_orange_v_mids\": [\"5227882422994903\", \"5228074895411760\", \"5227894466158478\", \"5228113407509215\", \"5228085341324922\", \"5228109209272788\", \"5228073327003058\"], \"gold_orange_v_ratio\": \"35%\", \"media_mids\": [\"5228088284940761\", \"5227864861708796\"], \"media_ratio\": \"10%\", \"verified_mids\": [\"5227888372354471\", \"5227919136000260\", \"5227861390655896\", \"5227880775944065\", \"5228081003364593\", \"5228102949013030\", \"5227861833156406\", \"5227886727398937\", \"5227883723229438\", \"5228084187368565\"], \"verified_ratio\": \"50%\", \"normal_mids\": [\"5228094723719919\"], \"normal_ratio\": \"5%\", \"ref_mid_rank\": {\"5227888372354471\": {\"rank\": 1}, \"5227919136000260\": {\"rank\": 8}, \"5227861390655896\": {\"rank\": 10}, \"5227882422994903\": {\"rank\": 19}, \"5228074895411760\": {\"rank\": 13}, \"5227880775944065\": {\"rank\": 21}, \"5227894466158478\": {\"rank\": 9}, \"5228088284940761\": {\"rank\": 17}, \"5228081003364593\": {\"rank\": 2}, \"5227864861708796\": {\"rank\": 12}, \"5228102949013030\": {\"rank\": 16}, \"5228113407509215\": {\"rank\": 14}, \"5228094723719919\": {\"rank\": 20}, \"5228085341324922\": {\"rank\": 11}, \"5228109209272788\": {\"rank\": 15}, \"5228073327003058\": {\"rank\": 18}, \"5227861833156406\": {\"rank\": 22}, \"5227886727398937\": {\"rank\": 23}, \"5227883723229438\": {\"rank\": 24}, \"5228084187368565\": {\"rank\": 25}}}",
+      "qs_status": 0,
+      "mid_list": null,
+      "version": "2025-11-01 10:08:57.023000-7106",
+      "status_stage": 4,
+      "current_time": 1761963231,
+      "user_info": {},
+      "top_quote_list": {},
+      "sorted_material_list": null,
+      "share_card_multimodal": {
+        "cur_mid": "5227888372354471",
+        "type": "p",
+        "user_name": "新浪财经",
+        "scheme": "sinaweibo://multimedia?mix_mid=5227888372354471&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=0",
+        "user_avatar": "https://tvax4.sinaimg.cn/crop.26.42.647.647.50/001MUaj1ly8h8vgnehpw0j60j60j6wf602.jpg?KID=imgbed,tva&Expires=1761973737&ssig=Vgv9DokSj%2B",
+        "h": 250,
+        "img": "http://wx1.sinaimg.cn/middle/001MUaj1gy1i6vrsc3s3kj60i106ydj902.jpg",
+        "hit_score_new": 0,
+        "doc_score": 0,
+        "img_pid": "001MUaj1gy1i6vrsc3s3kj60i106ydj902",
+        "w": 649,
+        "click_rate": 0.062200956937799,
+        "video_url": "",
+        "vtype": 3,
+        "hit_score_final": 0
+      },
+      "comment_info": {},
+      "zs_risk_control": {
+        "think_text_close": 0,
+        "land_button_close": 0
+      },
+      "chat_status_stage": 1,
+      "news_analyze": {},
+      "qs_status_info": "{\"ab_lab\":{},\"qs_c_status\":8388608,\"qs_r_status\":0,\"qs_status\":0,\"qs_u_status\":0,\"qs_q_status\":0}",
+      "show_ctrl": {
+        "quote": {}
+      },
+      "wenda": {
+        "forward_gen": 0
+      },
+      "query": "#中行回应被罚9790万#",
+      "share_text": "#中行回应被罚9790万#的相关内容，来智搜看看",
+      "reference_num": 20,
+      "abtest_info": {
+        "chat_entrance": 1
+      },
+      "uid": "",
+      "profile_image_url": "",
+      "msg_format": "markdown",
+      "short_url": "http://t.cn/AXAfALPx",
+      "basemodel": "实验组7",
+      "share_info": {
+        "tips": "#中行回应被罚9790万#的相关内容，来智搜看看",
+        "unify_md5": "3d252c1ef0d19f534a183e1ec5a00362",
+        "page_id": "2329641a866e55373c71632b8135d140182a45",
+        "comment_content": "",
+        "display_name": "#中行回应被罚9790万#",
+        "url": "http://t.cn/AXAIHu5F",
+        "status": 3
+      },
+      "analysis_time": 1761963143,
+      "msg_json": "{}",
+      "unify_md5": "3d252c1ef0d19f534a183e1ec5a00362",
+      "link_list": [
+        "sinaweibo://detail?mblogid=5227888372354471",
+        "sinaweibo://detail?mblogid=5228081003364593",
+        "broadsocial_res://",
+        "broadsocial_res://",
+        "historyweibo://4999219220059299",
+        "historyweibo://4974236207415757",
+        "historyweibo://4616535492004631",
+        "sinaweibo://detail?mblogid=5227919136000260",
+        "sinaweibo://detail?mblogid=5227894466158478",
+        "sinaweibo://detail?mblogid=5227861390655896",
+        "sinaweibo://detail?mblogid=5228085341324922",
+        "sinaweibo://detail?mblogid=5227864861708796",
+        "sinaweibo://detail?mblogid=5228074895411760",
+        "sinaweibo://detail?mblogid=5228113407509215",
+        "sinaweibo://detail?mblogid=5228109209272788",
+        "sinaweibo://detail?mblogid=5228102949013030",
+        "sinaweibo://detail?mblogid=5228088284940761",
+        "sinaweibo://detail?mblogid=5228073327003058",
+        "sinaweibo://detail?mblogid=5227882422994903",
+        "sinaweibo://detail?mblogid=5228094723719919",
+        "sinaweibo://detail?mblogid=5227880775944065",
+        "sinaweibo://detail?mblogid=5227861833156406",
+        "sinaweibo://detail?mblogid=5227886727398937",
+        "sinaweibo://detail?mblogid=5227883723229438",
+        "sinaweibo://detail?mblogid=5228084187368565"
+      ],
+      "q_attr": {
+        "reply_cid": "",
+        "from_uid": "",
+        "from_request_id": "",
+        "comment_from_type": "",
+        "mid": ""
+      },
+      "card_multimodal": {
+        "type": "mediablock",
+        "data": [
+          {
+            "cur_mid": "5227888372354471",
+            "type": "p",
+            "user_name": "新浪财经",
+            "scheme": "sinaweibo://multimedia?mix_mid=5227888372354471&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=0",
+            "user_avatar": "https://tvax4.sinaimg.cn/crop.26.42.647.647.50/001MUaj1ly8h8vgnehpw0j60j60j6wf602.jpg?KID=imgbed,tva&Expires=1761973737&ssig=Vgv9DokSj%2B",
+            "h": 250,
+            "img": "http://wx1.sinaimg.cn/middle/001MUaj1gy1i6vrsc3s3kj60i106ydj902.jpg",
+            "hit_score_new": 0,
+            "doc_score": 0,
+            "img_pid": "001MUaj1gy1i6vrsc3s3kj60i106ydj902",
+            "w": 649,
+            "click_rate": 0.062200956937799,
+            "video_url": "",
+            "vtype": 3,
+            "hit_score_final": 0
+          },
+          {
+            "cur_mid": "5227880775944065",
+            "type": "p",
+            "user_name": "经理人杂志",
+            "scheme": "sinaweibo://multimedia?mix_mid=5227880775944065&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=1",
+            "user_avatar": "https://tva3.sinaimg.cn/crop.0.0.180.180.50/4c4760a9jw1e8qgp5bmzyj2050050aa8.jpg?KID=imgbed,tva&Expires=1761973738&ssig=srVuupAKf5",
+            "h": 332,
+            "img": "http://wx3.sinaimg.cn/middle/4c4760a9gy1i6vqwipt7sj20k00980wg.jpg",
+            "hit_score_new": 90.380859,
+            "doc_score": 2618,
+            "img_pid": "4c4760a9gy1i6vqwipt7sj20k00980wg",
+            "w": 720,
+            "click_rate": 0.06,
+            "video_url": "",
+            "vtype": 3,
+            "hit_score_final": 82.628517
+          },
+          {
+            "cur_mid": "5227864861708796",
+            "type": "v",
+            "user_name": "北京日报",
+            "scheme": "sinaweibo://video/vvs?mid=5227864861708796&multi_paragraph=3&multi_count=0",
+            "user_avatar": "https://tvax4.sinaimg.cn/crop.0.0.600.600.50/0024aA4lly8i51bp1z4bcj60go0goq3g02.jpg?KID=imgbed,tva&Expires=1761973737&ssig=LPGfrzUCpI",
+            "h": 1280,
+            "img": "http://wx2.sinaimg.cn/middle/0024aA4lly1i6vpk1bfyij60k00zkq5502.jpg",
+            "hit_score_new": 98.730469,
+            "doc_score": 5382,
+            "img_pid": "0024aA4lly1i6vpk1bfyij60k00zkq5502",
+            "w": 720,
+            "click_rate": 0.021290261442726,
+            "video_url": "https://video.weibo.com/show?fid=1034:5227868800614442",
+            "vtype": 3,
+            "hit_score_final": 83.238281
+          },
+          {
+            "cur_mid": "5227888372354471",
+            "type": "p",
+            "user_name": "新浪财经",
+            "scheme": "sinaweibo://multimedia?mix_mid=5227888372354471&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=0",
+            "user_avatar": "https://tvax4.sinaimg.cn/crop.26.42.647.647.50/001MUaj1ly8h8vgnehpw0j60j60j6wf602.jpg?KID=imgbed,tva&Expires=1761973737&ssig=Vgv9DokSj%2B",
+            "h": 250,
+            "img": "http://wx1.sinaimg.cn/middle/001MUaj1gy1i6vrsc3s3kj60i106ydj902.jpg",
+            "hit_score_new": 0,
+            "doc_score": 0,
+            "img_pid": "001MUaj1gy1i6vrsc3s3kj60i106ydj902",
+            "w": 649,
+            "click_rate": 0.062200956937799,
+            "video_url": "",
+            "vtype": 3,
+            "hit_score_final": 0
+          }
+        ]
+      },
+      "ab_suffix": "default",
+      "ext_show": {},
+      "msg": "<think><br><br>嗯，用户想了解中国银行被罚款9790万的相关情况。我看到了很多搜索结果，需要整理出关键信息并组织好回答。<br><br>首先看一下核心事实：根据搜索结果1和8，国家金融监督管理总局在10月31日公布了对中国银行的处罚决定，罚款9790万元，同时还有5名责任人被警告并合计罚款30万元。违规行为涉及多个方面，包括公司治理、贷款、同业票据、资产质量及不良资产处置等业务管理不审慎。<br><br>关于中行的回应，搜索结果1、9和17都提到中国银行表示这次处罚是基于2023年现场检查发现的问题，他们已\"高度重视、立行立改\"，目前基本完成整改。中行还承诺会继续提升风险管理水平，服务实体经济。<br><br>从更广的背景看，搜索结果2、8、12显示当天还有多家银行被罚：农行2720万、民生银行5865万、平安银行1880万、浦发银行1270万。这显示监管力度在加强。<br><br>值得注意的是搜索结果13和16提到\"双罚制\"成为常态，既罚机构也罚责任人。搜索结果14提示说有些自媒体提到的\"罚金激增\"数据未获官方确认，而搜索结果3、4则直接指出所谓\"三季度金融罚没金额增46.4%\"等说法没有权威数据支持。<br><br>关于外界反应，搜索结果15调侃了中行回应的\"标准话术\"，搜索结果20则指出9790万对中行前三季度1776亿净利润来说影响不大。<br><br>我会在回答中突出处罚事实、中行回应、行业背景、监管趋势和外界评价这几个方面，避免引用不可靠的数据说法，同时标注引用来源。<br><br></think><br>关于中国银行因违规被罚9790万元的事件，结合中国银行的官方回应及监管背景，核心信息整理如下：<br>### ⚖️ 一、处罚核心事实<br>1. **处罚主体与金额**  <br>   国家金融监督管理总局于2025年10月31日公布行政处罚决定，中国银行因 **\"公司治理、贷款、同业票据、资产质量及不良资产处置等业务管理不审慎\"** ，被处以**9790万元罚款**；同时对陈梓、刘伶俐等5名责任人警告并合计罚款30万元。```wbCustomBlock{\"type\": \"quoted\", \"index\": 3, \"data\": {\"num\": [1, 8, 10, 19], \"version\": 2, \"quote_list\": [{\"name\": \"财经网\", \"scheme\": \"sinaweibo://detail?mblogid=5227919136000260\", \"index\": 8, \"label\": \"大v\"}, {\"name\": \"新浪财经\", \"scheme\": \"sinaweibo://detail?mblogid=5227888372354471\", \"index\": 1, \"label\": \"\"}, {\"name\": \"新浪财经\", \"scheme\": \"sinaweibo://detail?mblogid=5227861390655896\", \"index\": 10, \"label\": \"\"}, {\"name\": \"钱局观V\", \"scheme\": \"sinaweibo://detail?mblogid=5227882422994903\", \"index\": 19, \"label\": \"\"}], \"name\": \"财经网\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.511.511.50/001N82aNly8h8vhmw7f3dj60e70e774n02.jpg?KID=imgbed,tva&Expires=1761973737&ssig=BN35O6Ok4e\", \"scheme\": \"sinaweibo://detail?mblogid=5227919136000260\", \"vType\": 3}}```<br><br>2. **主要违规行为**  <br>   涉及贷款审查不严、信贷资金流向失控（如违规流入房地产或股市）、票据业务风控漏洞、不良资产处置不合规等，暴露了内控机制的多环节失效。```wbCustomBlock{\"type\": \"quoted\", \"index\": 4, \"data\": {\"num\": [1, 8, 13, 21], \"version\": 2, \"quote_list\": [{\"name\": \"袁者之\", \"scheme\": \"sinaweibo://detail?mblogid=5228074895411760\", \"index\": 13, \"label\": \"大v\"}, {\"name\": \"新浪财经\", \"scheme\": \"sinaweibo://detail?mblogid=5227888372354471\", \"index\": 1, \"label\": \"\"}, {\"name\": \"财经网\", \"scheme\": \"sinaweibo://detail?mblogid=5227919136000260\", \"index\": 8, \"label\": \"\"}, {\"name\": \"经理人杂志\", \"scheme\": \"sinaweibo://detail?mblogid=5227880775944065\", \"index\": 21, \"label\": \"\"}], \"name\": \"袁者之\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/e6242c21ly8huwiggtq5wj20u00u0q42.jpg?KID=imgbed,tva&Expires=1761973737&ssig=sbX%2FblDXzP\", \"scheme\": \"sinaweibo://detail?mblogid=5228074895411760\", \"vType\": 0}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5227888372354471&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.26.42.647.647.50/001MUaj1ly8h8vgnehpw0j60j60j6wf602.jpg?KID=imgbed,tva&Expires=1761973737&ssig=Vgv9DokSj%2B) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">新浪财经</span><img src=\"http://wx1.sinaimg.cn/middle/001MUaj1gy1i6vrsc3s3kj60i106ydj902.jpg\" data-width=250 data-height=649></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5227880775944065&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=1\"><span class=\"vator\" style=\"display: none;background: url(https://tva3.sinaimg.cn/crop.0.0.180.180.50/4c4760a9jw1e8qgp5bmzyj2050050aa8.jpg?KID=imgbed,tva&Expires=1761973738&ssig=srVuupAKf5) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">经理人杂志</span><img src=\"http://wx3.sinaimg.cn/middle/4c4760a9gy1i6vqwipt7sj20k00980wg.jpg\" data-width=332 data-height=720></div></media-block><br>### 🔧 二、中国银行回应要点<br>1. **整改进展**  <br>   中行称处罚基于 **2023年风险管理及内控有效性现场检查** 发现的问题，已 **\"基本完成整改\"** ，措施包括：  <br>   - 立行立改问题项，严肃追责相关人员；  <br>   - 剖析根源并\"举一反三\"，完善制度流程。```wbCustomBlock{\"type\": \"quoted\", \"index\": 8, \"data\": {\"num\": [1, 9, 17], \"version\": 2, \"quote_list\": [{\"name\": \"每日经济新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5228088284940761\", \"index\": 17, \"label\": \"大v\"}, {\"name\": \"新浪财经\", \"scheme\": \"sinaweibo://detail?mblogid=5227888372354471\", \"index\": 1, \"label\": \"\"}, {\"name\": \"苏世山成长价值投资\", \"scheme\": \"sinaweibo://detail?mblogid=5227894466158478\", \"index\": 9, \"label\": \"\"}], \"name\": \"每日经济新闻\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.600.600.50/001NBLkrly8h8viaqqljmj60go0gomxj02.jpg?KID=imgbed,tva&Expires=1761973737&ssig=T2qd9uy%2F4B\", \"scheme\": \"sinaweibo://detail?mblogid=5228088284940761\", \"vType\": 3}}```<br><br>2. **后续承诺**  <br>   强调将 **\"依法合规经营\"** ，提升风险管理和内部控制能力，强化服务实体经济。```wbCustomBlock{\"type\": \"quoted\", \"index\": 9, \"data\": {\"num\": [1, 9, 17], \"version\": 2, \"quote_list\": [{\"name\": \"苏世山成长价值投资\", \"scheme\": \"sinaweibo://detail?mblogid=5227894466158478\", \"index\": 9, \"label\": \"大v\"}, {\"name\": \"新浪财经\", \"scheme\": \"sinaweibo://detail?mblogid=5227888372354471\", \"index\": 1, \"label\": \"\"}, {\"name\": \"每日经济新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5228088284940761\", \"index\": 17, \"label\": \"\"}], \"name\": \"苏世山成长价值投资\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.996.996.50/824455d4ly8glgox84w0mj20ro0rojsp.jpg?KID=imgbed,tva&Expires=1761973737&ssig=EQ3tM%2FJtmM\", \"scheme\": \"sinaweibo://detail?mblogid=5227894466158478\", \"vType\": 0}}```<br>### 🌐 三、行业监管背景与趋势<br>1. **同日多家银行被罚**  <br>   - 农业银行（2720万）：信贷资金违规流入房地产、销售不合规；  <br>   - 民生银行（5865万）：贷款及票据管理漏洞、数据报送造假；  <br>   - 平安银行（1880万）、浦发银行（1270万）：互联网贷款及代销业务风控缺陷。```wbCustomBlock{\"type\": \"quoted\", \"index\": 14, \"data\": {\"num\": [2, 8, 12], \"version\": 2, \"quote_list\": [{\"name\": \"北京日报\", \"scheme\": \"sinaweibo://detail?mblogid=5227864861708796\", \"index\": 12, \"label\": \"大v\"}, {\"name\": \"高礼成蹊\", \"scheme\": \"sinaweibo://detail?mblogid=5228081003364593\", \"index\": 2, \"label\": \"\"}, {\"name\": \"财经网\", \"scheme\": \"sinaweibo://detail?mblogid=5227919136000260\", \"index\": 8, \"label\": \"\"}], \"name\": \"北京日报\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.600.600.50/0024aA4lly8i51bp1z4bcj60go0goq3g02.jpg?KID=imgbed,tva&Expires=1761973737&ssig=LPGfrzUCpI\", \"scheme\": \"sinaweibo://detail?mblogid=5227864861708796\", \"vType\": 3}}```<br><br>2. **监管升级信号**  <br>   - **\"双罚制\"常态化**：机构与个人责任同步追究（如中行5名责任人被罚）；```wbCustomBlock{\"type\": \"quoted\", \"index\": 16, \"data\": {\"num\": [13, 21], \"version\": 2, \"quote_list\": [{\"name\": \"袁者之\", \"scheme\": \"sinaweibo://detail?mblogid=5228074895411760\", \"index\": 13, \"label\": \"\"}, {\"name\": \"经理人杂志\", \"scheme\": \"sinaweibo://detail?mblogid=5227880775944065\", \"index\": 21, \"label\": \"\"}]}}```  <br>   - **穿透式监管强化**：聚焦资金空转、监管套利、数据真实性等问题，推动银行从\"形式合规\"转向\"实质风控\"。```wbCustomBlock{\"type\": \"quoted\", \"index\": 17, \"data\": {\"num\": [2, 13, 16], \"version\": 2, \"quote_list\": [{\"name\": \"高礼成蹊\", \"scheme\": \"sinaweibo://detail?mblogid=5228081003364593\", \"index\": 2, \"label\": \"\"}, {\"name\": \"袁者之\", \"scheme\": \"sinaweibo://detail?mblogid=5228074895411760\", \"index\": 13, \"label\": \"\"}, {\"name\": \"热搜电台\", \"scheme\": \"sinaweibo://detail?mblogid=5228102949013030\", \"index\": 16, \"label\": \"\"}]}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5227864861708796&multi_paragraph=3&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.600.600.50/0024aA4lly8i51bp1z4bcj60go0goq3g02.jpg?KID=imgbed,tva&Expires=1761973737&ssig=LPGfrzUCpI) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">北京日报</span><img src=\"http://wx2.sinaimg.cn/middle/0024aA4lly1i6vpk1bfyij60k00zkq5502.jpg\" data-width=1280 data-height=720></div></media-block><br>### ⚠️ 四、争议与待观察点<br>1. **数据真实性争议**  <br>   部分自媒体提及\"三季度金融罚金同比激增46.4%\"等数据，**未获官方证实**。```wbCustomBlock{\"type\": \"quoted\", \"index\": 19, \"data\": {\"num\": [14], \"version\": 2, \"quote_list\": [{\"name\": \"巧犬茶酱\", \"scheme\": \"sinaweibo://detail?mblogid=5228113407509215\", \"index\": 14, \"label\": \"\"}]}}```<br><br>2. **整改成效存疑**  <br>   中行虽宣称完成整改，但农行曾在2023年因同类问题被罚后再次受罚，**历史重复违规现象引发对整改长效性的质疑**。```wbCustomBlock{\"type\": \"quoted\", \"index\": 20, \"data\": {\"num\": [2, 14], \"version\": 2, \"quote_list\": [{\"name\": \"高礼成蹊\", \"scheme\": \"sinaweibo://detail?mblogid=5228081003364593\", \"index\": 2, \"label\": \"\"}, {\"name\": \"巧犬茶酱\", \"scheme\": \"sinaweibo://detail?mblogid=5228113407509215\", \"index\": 14, \"label\": \"\"}]}}```<br>### 💎 五、事件影响分析<br>- **行业警示**：监管以\"长牙带刺\"措施倒逼银行夯实内控，遏制资金脱实向虚；```wbCustomBlock{\"type\": \"quoted\", \"index\": 22, \"data\": {\"num\": [13, 16], \"version\": 2, \"quote_list\": [{\"name\": \"袁者之\", \"scheme\": \"sinaweibo://detail?mblogid=5228074895411760\", \"index\": 13, \"label\": \"\"}, {\"name\": \"热搜电台\", \"scheme\": \"sinaweibo://detail?mblogid=5228102949013030\", \"index\": 16, \"label\": \"\"}]}}```  <br>- **中行应对**：9790万元罚款占其2025年前三季度净利润（1776亿元）比例极低，短期财务影响有限，但声誉风险需关注。```wbCustomBlock{\"type\": \"quoted\", \"index\": 23, \"data\": {\"num\": [20], \"version\": 2, \"quote_list\": [{\"name\": \"竹里幸福\", \"scheme\": \"sinaweibo://detail?mblogid=5228094723719919\", \"index\": 20, \"label\": \"\"}]}}```<br><br>综上，此次处罚反映了金融监管对银行业务合规性的高压态势，中行回应聚焦整改承诺，但实际效果需持续验证。<br>",
+      "loop_times": 200,
+      "status": 2
+    }
+  },
+  "links": [
+    "sinaweibo://detail?mblogid=5227888372354471",
+    "sinaweibo://detail?mblogid=5228081003364593",
+    "broadsocial_res://",
+    "broadsocial_res://",
+    "historyweibo://4999219220059299",
+    "historyweibo://4974236207415757",
+    "historyweibo://4616535492004631",
+    "sinaweibo://detail?mblogid=5227919136000260",
+    "sinaweibo://detail?mblogid=5227894466158478",
+    "sinaweibo://detail?mblogid=5227861390655896",
+    "sinaweibo://detail?mblogid=5228085341324922",
+    "sinaweibo://detail?mblogid=5227864861708796",
+    "sinaweibo://detail?mblogid=5228074895411760",
+    "sinaweibo://detail?mblogid=5228113407509215",
+    "sinaweibo://detail?mblogid=5228109209272788",
+    "sinaweibo://detail?mblogid=5228102949013030",
+    "sinaweibo://detail?mblogid=5228088284940761",
+    "sinaweibo://detail?mblogid=5228073327003058",
+    "sinaweibo://detail?mblogid=5227882422994903",
+    "sinaweibo://detail?mblogid=5228094723719919",
+    "sinaweibo://detail?mblogid=5227880775944065",
+    "sinaweibo://detail?mblogid=5227861833156406",
+    "sinaweibo://detail?mblogid=5227886727398937",
+    "sinaweibo://detail?mblogid=5227883723229438",
+    "sinaweibo://detail?mblogid=5228084187368565"
+  ],
+  "media": [
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/001MUaj1gy1i6vrsc3s3kj60i106ydj902.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/001MUaj1gy1i6vrsc3s3kj60i106ydj902.jpg",
+      "alt": "新浪财经",
+      "width": 250,
+      "height": 649,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/001MUaj1gy1i6vrsc3s3kj60i106ydj902.jpg"
+      ],
+      "user": "新浪财经"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/4c4760a9gy1i6vqwipt7sj20k00980wg.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/4c4760a9gy1i6vqwipt7sj20k00980wg.jpg",
+      "alt": "经理人杂志",
+      "width": 332,
+      "height": 720,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/4c4760a9gy1i6vqwipt7sj20k00980wg.jpg"
+      ],
+      "user": "经理人杂志"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/0024aA4lly1i6vpk1bfyij60k00zkq5502.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/0024aA4lly1i6vpk1bfyij60k00zkq5502.jpg",
+      "alt": "北京日报",
+      "width": 1280,
+      "height": 720,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/0024aA4lly1i6vpk1bfyij60k00zkq5502.jpg"
+      ],
+      "user": "北京日报"
+    }
+  ],
+  "html_path": "data/aicard/hourly/2025-11-01/10/9790.html"
+}

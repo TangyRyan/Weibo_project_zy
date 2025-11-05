@@ -1,0 +1,350 @@
+{
+  "meta": {
+    "query": "#Ning说AL这种输是最可惜的#",
+    "status_code": 200,
+    "fetched_at": "2025-11-01T04:35:08+08:00",
+    "response": {
+      "ext_show": {},
+      "ab_suffix": "default",
+      "page_id": "2329647374efee28694082d7bec5ba347cf504",
+      "reference_num": 26,
+      "status": 2,
+      "scheme": "sinaweibo://cardlist?containerid=100103type%3D225%26q%3D%23ning%E8%AF%B4al%E8%BF%99%E7%A7%8D%E8%BE%93%E6%98%AF%E6%9C%80%E5%8F%AF%E6%83%9C%E7%9A%84%23%26t%3D&extparam=ai_model%3Ddeepseek%26ori_ai_title%3D%E5%8F%82%E8%80%83%E5%8D%9A%E6%96%87%26material_version%3D1761942377",
+      "news_analyze": {},
+      "analysis_time": 1761942569,
+      "qs_status_info": "{\"qs_status\":0,\"ab_lab\":{},\"qs_c_status\":8388608,\"qs_r_status\":0,\"qs_q_status\":0,\"qs_u_status\":0}",
+      "query": "#Ning说AL这种输是最可惜的#",
+      "abtest_info": {
+        "chat_entrance": 1
+      },
+      "show_ctrl": {
+        "quote": {}
+      },
+      "model": "deepseek",
+      "qs_status": 0,
+      "cot": 1,
+      "card_multimodal": {
+        "type": "mediablock",
+        "data": [
+          {
+            "user_avatar": "https://tvax2.sinaimg.cn/crop.0.0.750.750.50/007rJKiBly8gwbbpdmgnfj30ku0kuwfp.jpg?KID=imgbed,tva&Expires=1761953177&ssig=f9tui5GjKS",
+            "vtype": 0,
+            "hit_score_new": 0,
+            "doc_score": 0,
+            "img_pid": "007rJKiBly1i6vtdug556j31e00u0ac4",
+            "video_url": "https://video.weibo.com/show?fid=1034:5227902099456134",
+            "click_rate": 0.18401700205412,
+            "scheme": "sinaweibo://video/vvs?mid=5227903102749395&multi_paragraph=1&multi_count=0",
+            "hit_score_final": 0,
+            "type": "v",
+            "h": 1080,
+            "cur_mid": "5227903102749395",
+            "img": "http://wx1.sinaimg.cn/middle/007rJKiBly1i6vtdug556j31e00u0ac4.jpg",
+            "user_name": "大脸恰瓜",
+            "w": 1800
+          },
+          {
+            "user_avatar": "https://tvax2.sinaimg.cn/crop.0.0.750.750.50/007rJKiBly8gwbbpdmgnfj30ku0kuwfp.jpg?KID=imgbed,tva&Expires=1761953177&ssig=f9tui5GjKS",
+            "vtype": 0,
+            "hit_score_new": 88.574219,
+            "doc_score": 5955,
+            "img_pid": "007rJKiBly1i6vuxpg4d0j31hc0u0gol",
+            "video_url": "https://video.weibo.com/show?fid=1034:5227915617435725",
+            "click_rate": 0.1750960195191,
+            "scheme": "sinaweibo://video/vvs?mid=5227915883057358&multi_paragraph=1&multi_count=1",
+            "hit_score_final": 77.144531,
+            "type": "v",
+            "h": 1080,
+            "cur_mid": "5227915883057358",
+            "img": "http://wx3.sinaimg.cn/middle/007rJKiBly1i6vuxpg4d0j31hc0u0gol.jpg",
+            "user_name": "大脸恰瓜",
+            "w": 1920
+          },
+          {
+            "user_avatar": "https://tvax1.sinaimg.cn/crop.0.0.995.995.50/6696c8a3ly8h7da23145uj20rn0rngmu.jpg?KID=imgbed,tva&Expires=1761953177&ssig=7YsNIKV8wQ",
+            "vtype": 0,
+            "hit_score_new": 99.023438,
+            "doc_score": 6600,
+            "img_pid": "6696c8a3gy1i6vy23tlgqj217q0om40i",
+            "video_url": "https://video.weibo.com/show?fid=1034:5227942582616127",
+            "click_rate": 0.099768858069965,
+            "scheme": "sinaweibo://video/vvs?mid=5227942935790837&multi_paragraph=1&multi_count=2",
+            "hit_score_final": 91.414062,
+            "type": "v",
+            "h": 886,
+            "cur_mid": "5227942935790837",
+            "img": "http://wx3.sinaimg.cn/middle/6696c8a3gy1i6vy23tlgqj217q0om40i.jpg",
+            "user_name": "貌美如花似邹霞",
+            "w": 1574
+          },
+          {
+            "user_avatar": "https://tvax2.sinaimg.cn/crop.0.0.750.750.50/007rJKiBly8gwbbpdmgnfj30ku0kuwfp.jpg?KID=imgbed,tva&Expires=1761953177&ssig=f9tui5GjKS",
+            "vtype": 0,
+            "hit_score_new": 0,
+            "doc_score": 0,
+            "img_pid": "007rJKiBly1i6vtdug556j31e00u0ac4",
+            "video_url": "https://video.weibo.com/show?fid=1034:5227902099456134",
+            "click_rate": 0.18401700205412,
+            "scheme": "sinaweibo://video/vvs?mid=5227903102749395&multi_paragraph=1&multi_count=0",
+            "hit_score_final": 0,
+            "type": "v",
+            "h": 1080,
+            "cur_mid": "5227903102749395",
+            "img": "http://wx1.sinaimg.cn/middle/007rJKiBly1i6vtdug556j31e00u0ac4.jpg",
+            "user_name": "大脸恰瓜",
+            "w": 1800
+          }
+        ]
+      },
+      "share_card_multimodal": {
+        "user_avatar": "https://tvax2.sinaimg.cn/crop.0.0.750.750.50/007rJKiBly8gwbbpdmgnfj30ku0kuwfp.jpg?KID=imgbed,tva&Expires=1761953177&ssig=f9tui5GjKS",
+        "vtype": 0,
+        "hit_score_new": 0,
+        "doc_score": 0,
+        "img_pid": "007rJKiBly1i6vtdug556j31e00u0ac4",
+        "video_url": "https://video.weibo.com/show?fid=1034:5227902099456134",
+        "click_rate": 0.18401700205412,
+        "scheme": "sinaweibo://video/vvs?mid=5227903102749395&multi_paragraph=1&multi_count=0",
+        "hit_score_final": 0,
+        "type": "v",
+        "h": 1080,
+        "cur_mid": "5227903102749395",
+        "img": "http://wx1.sinaimg.cn/middle/007rJKiBly1i6vtdug556j31e00u0ac4.jpg",
+        "user_name": "大脸恰瓜",
+        "w": 1800
+      },
+      "msg_json": "{}",
+      "share_info": {
+        "url": "http://t.cn/AXAfvEbc",
+        "tips": "#Ning说AL这种输是最可惜的#的相关内容，来智搜看看",
+        "display_name": "#Ning说AL这种输是最可惜的#",
+        "page_id": "2329647374efee28694082d7bec5ba347cf504",
+        "comment_content": "",
+        "unify_md5": "5d4c6a53fefe5c613e4412c58bf3fd07",
+        "status": 3
+      },
+      "current_time": 1761942909,
+      "profile_image_url": "",
+      "basemodel": "实验组8",
+      "wenda": {
+        "forward_gen": 0
+      },
+      "version": "2025-11-01 04:26:17.006999-7349",
+      "chat_status_stage": 1,
+      "mid_list": null,
+      "uid": "",
+      "loop_times": 200,
+      "query_field": "47",
+      "status_stage": 4,
+      "reliable_tips": "{\"gold_orange_v_mids\": [\"5227903102749395\", \"5227942935790837\", \"5227915883057358\", \"5227853373505589\", \"5227839517364404\", \"5227918618003142\", \"5227986267669291\", \"5227905296107262\", \"5227854990414301\", \"5227901986543359\", \"5227952589509909\", \"5227915345139669\", \"5227936032754091\", \"5227918733085288\", \"5227949503809343\", \"5227909687025525\", \"5227867589053172\", \"5227895360328552\", \"5227850051619799\", \"5227523030913485\", \"5227131371261734\"], \"gold_orange_v_ratio\": \"81%\", \"media_mids\": [], \"media_ratio\": \"0%\", \"verified_mids\": [], \"verified_ratio\": \"0%\", \"normal_mids\": [\"5227960239915774\", \"5227956326634919\", \"5227948819092213\", \"5227948196235150\", \"5227911831357452\"], \"normal_ratio\": \"19%\", \"ref_mid_rank\": {\"5227903102749395\": {\"rank\": 1}, \"5227942935790837\": {\"rank\": 2}, \"5227915883057358\": {\"rank\": 3}, \"5227853373505589\": {\"rank\": 13}, \"5227839517364404\": {\"rank\": 21}, \"5227918618003142\": {\"rank\": 7}, \"5227986267669291\": {\"rank\": 5}, \"5227905296107262\": {\"rank\": 6}, \"5227854990414301\": {\"rank\": 8}, \"5227901986543359\": {\"rank\": 19}, \"5227952589509909\": {\"rank\": 14}, \"5227915345139669\": {\"rank\": 17}, \"5227936032754091\": {\"rank\": 4}, \"5227918733085288\": {\"rank\": 16}, \"5227960239915774\": {\"rank\": 24}, \"5227949503809343\": {\"rank\": 11}, \"5227909687025525\": {\"rank\": 12}, \"5227867589053172\": {\"rank\": 15}, \"5227895360328552\": {\"rank\": 18}, \"5227850051619799\": {\"rank\": 20}, \"5227523030913485\": {\"rank\": 22}, \"5227131371261734\": {\"rank\": 23}, \"5227956326634919\": {\"rank\": 25}, \"5227948819092213\": {\"rank\": 26}, \"5227948196235150\": {\"rank\": 27}, \"5227911831357452\": {\"rank\": 28}}}",
+      "q_attr": {
+        "from_request_id": "",
+        "reply_cid": "",
+        "comment_from_type": "",
+        "mid": "",
+        "from_uid": ""
+      },
+      "short_url": "http://t.cn/AXAfyk8I",
+      "comment_info": {},
+      "zs_risk_control": {
+        "think_text_close": 0,
+        "land_button_close": 0
+      },
+      "query_category": "",
+      "msg_format": "markdown",
+      "share_text": "#Ning说AL这种输是最可惜的#的相关内容，来智搜看看",
+      "unify_md5": "5d4c6a53fefe5c613e4412c58bf3fd07",
+      "link_list": [
+        "sinaweibo://detail?mblogid=5227903102749395",
+        "sinaweibo://detail?mblogid=5227942935790837",
+        "sinaweibo://detail?mblogid=5227915883057358",
+        "sinaweibo://detail?mblogid=5227936032754091",
+        "sinaweibo://detail?mblogid=5227986267669291",
+        "sinaweibo://detail?mblogid=5227905296107262",
+        "sinaweibo://detail?mblogid=5227918618003142",
+        "sinaweibo://detail?mblogid=5227854990414301",
+        "broadsocial_res://",
+        "historyweibo://5225007593559606",
+        "sinaweibo://detail?mblogid=5227949503809343",
+        "sinaweibo://detail?mblogid=5227909687025525",
+        "sinaweibo://detail?mblogid=5227853373505589",
+        "sinaweibo://detail?mblogid=5227952589509909",
+        "sinaweibo://detail?mblogid=5227867589053172",
+        "sinaweibo://detail?mblogid=5227918733085288",
+        "sinaweibo://detail?mblogid=5227915345139669",
+        "sinaweibo://detail?mblogid=5227895360328552",
+        "sinaweibo://detail?mblogid=5227901986543359",
+        "sinaweibo://detail?mblogid=5227850051619799",
+        "sinaweibo://detail?mblogid=5227839517364404",
+        "sinaweibo://detail?mblogid=5227523030913485",
+        "sinaweibo://detail?mblogid=5227131371261734",
+        "sinaweibo://detail?mblogid=5227960239915774",
+        "sinaweibo://detail?mblogid=5227956326634919",
+        "sinaweibo://detail?mblogid=5227948819092213",
+        "sinaweibo://detail?mblogid=5227948196235150",
+        "sinaweibo://detail?mblogid=5227911831357452",
+        "https://cn.bing.com/search?q=Ning%E8%AF%B4GEN%E6%98%AF%E6%95%85%E6%84%8F%E8%BE%93AL&rdr=1&rdrig=1R6HYG2DPO2T44Y3O7QJX2A1J00851G6&first=1",
+        "https://m.toutiao.com/a1846817857262663/"
+      ],
+      "msg": "<think><br>嗯，用户想要了解Ning评价AL战队失利的内容，特别是\"这种输是最可惜的\"具体指什么。用户可能是电竞爱好者，关注LPL赛区表现，尤其在意中韩对抗的赛事结果。<br><br>从搜索结果看，Ning的原话在多个微博被引用，核心是描述AL对阵T1时2-3惜败带来的强烈遗憾感。这种情绪在电竞圈引发广泛共鸣，需要具体解释这种\"可惜\"的独特之处。<br><br>首先分析Ning的完整表述：\"你不是赢不了，但又感觉赢不了\"。这种矛盾心理很关键——AL并非实力悬殊的惨败，而是多次触手可及却差最后一口气。结合职业选手视角，Ning强调普通人难以体会那种高压下的无力感，这是专业视角的补充。<br><br>比赛细节佐证了这种说法：AL成为S6以来首支在S赛八强从T1手里赢下单局的LPL队伍，且两次将T1逼入决胜局（MSI和S15）。更震撼的是，AL全年七次打满BO5全部落败，包括两次输给GEN、两次输TES等，这种\"始终差一步\"的宿命感强化了可惜程度。<br><br>赛场表现上，Hope赛后采访提到\"最后一把多做好一点就能赢\"，教练后台痛哭，Tarzan瘫坐不甘的画面都说明队伍自身也认定机会存在。战术层面，Ning指出AL后期阵容选择保守，以及关键听牌龙丢失的致命失误，这些细节让\"可惜\"更具象。<br><br>有意思的是，这种遗憾引发两种舆论：多数观众表示\"意难平\"，认为AL虽败犹荣；也有声音质疑\"2-3惜败比0-3更该骂\"的论调，反映出电竞观众对\"虽败犹荣\"的接受度存在分歧。<br><br>最后需要补充背景：Ning此前因\"GEN故意输AL\"言论引发争议，这次评价AL惜败时相对克制，可能考虑到舆论压力。而AL作为赛季初不被看好的队伍，从\"季后赛都进不去\"到S八强，这种逆袭背景也让惋惜情绪更浓烈。<br><br>用户可能还想知道这种评价对后续赛事的影响——Ning将压力给到TES，但Doinb等已悲观预测LCK内战。或许可以提醒用户，电竞的戏剧性就在于\"不可能\"常被打破（如S8的IG）。<br><br></think><br>关于前职业选手Ning评价AL战队在2025年S15全球总决赛八强赛2-3惜败T1时所说的**“这种输是最可惜的”**，综合搜索结果中的多方信息，其核心含义和背景如下：<br>### 🔥 **一、Ning的“最可惜”本质：触手可及的胜利与无力感**<br>1. **心理状态的精准描述**  <br>   Ning在直播中强调，AL的失败是“明明能赢，却差最后一口气”的无力感。他结合自身职业经历解释道：```wbCustomBlock{\"type\": \"quoted\", \"index\": 4, \"data\": {\"num\": [1, 2], \"version\": 2, \"quote_list\": [{\"name\": \"大脸恰瓜\", \"scheme\": \"sinaweibo://detail?mblogid=5227903102749395\", \"index\": 1, \"label\": \"大v\"}, {\"name\": \"貌美如花似邹霞\", \"scheme\": \"sinaweibo://detail?mblogid=5227942935790837\", \"index\": 2, \"label\": \"\"}], \"name\": \"大脸恰瓜\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.750.750.50/007rJKiBly8gwbbpdmgnfj30ku0kuwfp.jpg?KID=imgbed,tva&Expires=1761953177&ssig=f9tui5GjKS\", \"scheme\": \"sinaweibo://detail?mblogid=5227903102749395\", \"vType\": 0}}```  <br>   > “你不是赢不了，但又感觉赢不了……很多人没打过职业，想象不到那种感觉。”  <br>   这种矛盾心理源于AL在比赛中多次接近胜利（如先赢两局），却因关键失误或战术保守错失赛点，最终被T1翻盘。```wbCustomBlock{\"type\": \"quoted\", \"index\": 5, \"data\": {\"num\": [1], \"version\": 2, \"quote_list\": [{\"name\": \"大脸恰瓜\", \"scheme\": \"sinaweibo://detail?mblogid=5227903102749395\", \"index\": 1, \"label\": \"\"}]}}```<br><br>2. **历史数据的残酷印证**  <br>   - **全年BO5决胜局全败**：2025年AL共7次打满BO5（五局三胜制）均告失败，包括两次对阵T1（MSI决赛、S15八强）、两次对阵GEN（MSI、石油杯决赛）、两次对阵TES（LPL季后赛）等。```wbCustomBlock{\"type\": \"quoted\", \"index\": 7, \"data\": {\"num\": [3], \"version\": 2, \"quote_list\": [{\"name\": \"大脸恰瓜\", \"scheme\": \"sinaweibo://detail?mblogid=5227915883057358\", \"index\": 3, \"label\": \"\"}]}}```  <br>   - **S赛对T1的突破与遗憾**：AL成为S6以来首支在S赛八强赛从T1手中赢下单局的LPL队伍（此前RNG、LNG、TES均0-3溃败），但仍未能打破“BO5不胜T1”的魔咒。```wbCustomBlock{\"type\": \"quoted\", \"index\": 8, \"data\": {\"num\": [13], \"version\": 2, \"quote_list\": [{\"name\": \"英雄联盟神吐槽\", \"scheme\": \"sinaweibo://detail?mblogid=5227853373505589\", \"index\": 13, \"label\": \"大v\"}], \"name\": \"英雄联盟神吐槽\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.439.439.50/006cmbhQly8h8uglinec1j30c70c73yz.jpg?KID=imgbed,tva&Expires=1761953177&ssig=NIBLQRBNVI\", \"scheme\": \"sinaweibo://detail?mblogid=5227853373505589\", \"vType\": 0}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5227903102749395&multi_paragraph=1&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.750.750.50/007rJKiBly8gwbbpdmgnfj30ku0kuwfp.jpg?KID=imgbed,tva&Expires=1761953177&ssig=f9tui5GjKS) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">大脸恰瓜</span><img src=\"http://wx1.sinaimg.cn/middle/007rJKiBly1i6vtdug556j31e00u0ac4.jpg\" data-width=1080 data-height=1800></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5227915883057358&multi_paragraph=1&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.750.750.50/007rJKiBly8gwbbpdmgnfj30ku0kuwfp.jpg?KID=imgbed,tva&Expires=1761953177&ssig=f9tui5GjKS) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">大脸恰瓜</span><img src=\"http://wx3.sinaimg.cn/middle/007rJKiBly1i6vuxpg4d0j31hc0u0gol.jpg\" data-width=1080 data-height=1920></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5227942935790837&multi_paragraph=1&multi_count=2\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.995.995.50/6696c8a3ly8h7da23145uj20rn0rngmu.jpg?KID=imgbed,tva&Expires=1761953177&ssig=7YsNIKV8wQ) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">貌美如花似邹霞</span><img src=\"http://wx3.sinaimg.cn/middle/6696c8a3gy1i6vy23tlgqj217q0om40i.jpg\" data-width=886 data-height=1574></div></media-block><br>### ⚔️ **二、为何“最可惜”？——关键败因分析**<br>1. **战术选择争议**  <br>   Ning在比赛中批评AL**“打得太保守”**：  <br>   - 选择后期阵容却陷入T1熟悉的运营节奏，未能发挥前期优势。```wbCustomBlock{\"type\": \"quoted\", \"index\": 12, \"data\": {\"num\": [21], \"version\": 2, \"quote_list\": [{\"name\": \"电竞食神\", \"scheme\": \"sinaweibo://detail?mblogid=5227839517364404\", \"index\": 21, \"label\": \"大v\"}], \"name\": \"电竞食神\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.580.580.50/007Zmmt8ly8gdijugsmcfj30g40g4my1.jpg?KID=imgbed,tva&Expires=1761953177&ssig=glaa1ffx8w\", \"scheme\": \"sinaweibo://detail?mblogid=5227839517364404\", \"vType\": 0}}```  <br>   - 关键资源控制失误（如第五局听牌龙被抢），导致经济优势无法转化为胜势。```wbCustomBlock{\"type\": \"quoted\", \"index\": 13, \"data\": {\"num\": [7], \"version\": 2, \"quote_list\": [{\"name\": \"手游娘\", \"scheme\": \"sinaweibo://detail?mblogid=5227918618003142\", \"index\": 7, \"label\": \"大v\"}], \"name\": \"手游娘\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.512.512.50/006tKURaly8h8ugpvui47j30e80e83z5.jpg?KID=imgbed,tva&Expires=1761953177&ssig=Ux%2Fk4aF%2Fh0\", \"scheme\": \"sinaweibo://detail?mblogid=5227918618003142\", \"vType\": 0}}```<br><br>2. **选手状态波动**  <br>   - **Hope的“两极分化”表现**：第二局希维尔carry全场，但第四局EZ激进E脸葬送局势，第五局被T1团战拉扯压制。赛后Hope坦言：“最后一把多做好一点就能赢”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 15, \"data\": {\"num\": [2, 5, 6, 8], \"version\": 2, \"quote_list\": [{\"name\": \"召唤师Park\", \"scheme\": \"sinaweibo://detail?mblogid=5227986267669291\", \"index\": 5, \"label\": \"大v\"}, {\"name\": \"貌美如花似邹霞\", \"scheme\": \"sinaweibo://detail?mblogid=5227942935790837\", \"index\": 2, \"label\": \"\"}, {\"name\": \"动漫游戏君\", \"scheme\": \"sinaweibo://detail?mblogid=5227905296107262\", \"index\": 6, \"label\": \"\"}, {\"name\": \"游叔\", \"scheme\": \"sinaweibo://detail?mblogid=5227854990414301\", \"index\": 8, \"label\": \"\"}], \"name\": \"召唤师Park\", \"img\": \"https://tvax2.sinaimg.cn/crop.16.21.551.551.50/96542c59ly8geqtawegnej20gr0gq0to.jpg?KID=imgbed,tva&Expires=1761953177&ssig=%2B6UkxPHh28\", \"scheme\": \"sinaweibo://detail?mblogid=5227986267669291\", \"vType\": 0}}```  <br>   - **Tarzan的悲情时刻**：作为队内核心，Tarzan第五局拿出工具人打野难挽败局，赛后瘫坐椅子长叹的画面引发共鸣。```wbCustomBlock{\"type\": \"quoted\", \"index\": 16, \"data\": {\"num\": [6], \"version\": 2, \"quote_list\": [{\"name\": \"动漫游戏君\", \"scheme\": \"sinaweibo://detail?mblogid=5227905296107262\", \"index\": 6, \"label\": \"大v\"}], \"name\": \"动漫游戏君\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.690.690.50/006i8XEzly8hojzsvemjvj30j60j6my1.jpg?KID=imgbed,tva&Expires=1761953177&ssig=5%2FH6FU2ifo\", \"scheme\": \"sinaweibo://detail?mblogid=5227905296107262\", \"vType\": 0}}```<br><br>3. **T1的“冠军底蕴”压制**  <br>   T1在决胜局展现极强的团战运营能力，通过占位、Poke和拉扯瓦解AL攻势，尤其Faker的指挥成为AL“翻不过的山”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 17, \"data\": {\"num\": [5, 19, 21], \"version\": 2, \"quote_list\": [{\"name\": \"汉堡杨_\", \"scheme\": \"sinaweibo://detail?mblogid=5227901986543359\", \"index\": 19, \"label\": \"大v\"}, {\"name\": \"召唤师Park\", \"scheme\": \"sinaweibo://detail?mblogid=5227986267669291\", \"index\": 5, \"label\": \"\"}, {\"name\": \"电竞食神\", \"scheme\": \"sinaweibo://detail?mblogid=5227839517364404\", \"index\": 21, \"label\": \"\"}], \"name\": \"汉堡杨_\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/7e420d6bly8hjjct73j44j20u00u0jun.jpg?KID=imgbed,tva&Expires=1761953177&ssig=7aivBRkH9g\", \"scheme\": \"sinaweibo://detail?mblogid=5227901986543359\", \"vType\": 0}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5227905296107262&multi_paragraph=2&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.690.690.50/006i8XEzly8hojzsvemjvj30j60j6my1.jpg?KID=imgbed,tva&Expires=1761953177&ssig=5%2FH6FU2ifo) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">动漫游戏君</span><img src=\"http://wx3.sinaimg.cn/middle/006i8XEzly1i6vtxtoo2pj30zk0k0q47.jpg\" data-width=720 data-height=1280></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5227918618003142&multi_paragraph=2&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.512.512.50/006tKURaly8h8ugpvui47j30e80e83z5.jpg?KID=imgbed,tva&Expires=1761953177&ssig=Ux%2Fk4aF%2Fh0) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">手游娘</span><img src=\"http://wx3.sinaimg.cn/middle/006tKURaly1i6vv9onnvsj30zk0k0ab3.jpg\" data-width=720 data-height=1280></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5227901986543359&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=2&multi_count=2\"><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/7e420d6bly8hjjct73j44j20u00u0jun.jpg?KID=imgbed,tva&Expires=1761953177&ssig=7aivBRkH9g) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">汉堡杨_</span><img src=\"http://wx3.sinaimg.cn/middle/7e420d6bgy1i6vtcl3h1nj22c0340npd.jpg\" data-width=4032 data-height=3024></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5227839517364404&multi_paragraph=2&multi_count=3\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.580.580.50/007Zmmt8ly8gdijugsmcfj30g40g4my1.jpg?KID=imgbed,tva&Expires=1761953177&ssig=glaa1ffx8w) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">电竞食神</span><img src=\"http://wx4.sinaimg.cn/middle/007Zmmt8ly1i6vm5fukydj31hc0u043c.jpg\" data-width=1080 data-height=1920></div></media-block><br>### 💔 **三、舆论共鸣：从“意难平”到“集体创伤”**<br>1. **赛区情绪的爆发点**  <br>   - AL教练在后台痛哭，粉丝用“燃尽最后一颗子弹”形容其拼尽全力却功亏一篑。```wbCustomBlock{\"type\": \"quoted\", \"index\": 21, \"data\": {\"num\": [2, 14], \"version\": 2, \"quote_list\": [{\"name\": \"阿笨汽车观察\", \"scheme\": \"sinaweibo://detail?mblogid=5227952589509909\", \"index\": 14, \"label\": \"大v\"}, {\"name\": \"貌美如花似邹霞\", \"scheme\": \"sinaweibo://detail?mblogid=5227942935790837\", \"index\": 2, \"label\": \"\"}], \"name\": \"阿笨汽车观察\", \"img\": \"https://tva3.sinaimg.cn/crop.82.1.275.275.50/62e16eebjw8evfzhwme3pj20ci07r751.jpg?KID=imgbed,tva&Expires=1761953177&ssig=zC0PTdDji8\", \"scheme\": \"sinaweibo://detail?mblogid=5227952589509909\", \"vType\": 0}}```  <br>   - 多位解说（如姿态、水晶哥）直播中情绪崩溃，慨叹“憋屈”“差一口气”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 22, \"data\": {\"num\": [7, 17], \"version\": 2, \"quote_list\": [{\"name\": \"利昂昂昂昂\", \"scheme\": \"sinaweibo://detail?mblogid=5227915345139669\", \"index\": 17, \"label\": \"大v\"}, {\"name\": \"手游娘\", \"scheme\": \"sinaweibo://detail?mblogid=5227918618003142\", \"index\": 7, \"label\": \"\"}], \"name\": \"利昂昂昂昂\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.656.656.50/006pd7KLly8hc9u9l483tj30i80i8my4.jpg?KID=imgbed,tva&Expires=1761953177&ssig=Ss0eHu%2BHYK\", \"scheme\": \"sinaweibo://detail?mblogid=5227915345139669\", \"vType\": 0}}```<br><br>2. **对LPL的连锁影响**  <br>   - **TES成为最后希望**：AL出局后，LPL仅剩TES迎战T1，但Doinb等圈内人悲观预测“TES难赢T1”，部分观众甚至认为“AL整体实力强于TES”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 24, \"data\": {\"num\": [3, 4, 16], \"version\": 2, \"quote_list\": [{\"name\": \"诞仔游戏安利\", \"scheme\": \"sinaweibo://detail?mblogid=5227918733085288\", \"index\": 16, \"label\": \"大v\"}, {\"name\": \"大脸恰瓜\", \"scheme\": \"sinaweibo://detail?mblogid=5227915883057358\", \"index\": 3, \"label\": \"\"}, {\"name\": \"我是电竞小生\", \"scheme\": \"sinaweibo://detail?mblogid=5227936032754091\", \"index\": 4, \"label\": \"\"}], \"name\": \"诞仔游戏安利\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.512.512.50/93e15f83ly8hlc72kvmpuj20e80e8mxy.jpg?KID=imgbed,tva&Expires=1761953177&ssig=gyHZxWLNUb\", \"scheme\": \"sinaweibo://detail?mblogid=5227918733085288\", \"vType\": 0}}```  <br>   - **恐韩症加剧**：T1在S赛BO5中对LPL战队保持全胜纪录，AL的惜败进一步强化“无法翻越Faker”的无力感。```wbCustomBlock{\"type\": \"quoted\", \"index\": 25, \"data\": {\"num\": [13, 17], \"version\": 2, \"quote_list\": [{\"name\": \"英雄联盟神吐槽\", \"scheme\": \"sinaweibo://detail?mblogid=5227853373505589\", \"index\": 13, \"label\": \"\"}, {\"name\": \"利昂昂昂昂\", \"scheme\": \"sinaweibo://detail?mblogid=5227915345139669\", \"index\": 17, \"label\": \"\"}]}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5227936032754091&multi_paragraph=3&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.600.600.50/006BPLKbly8gx4n5qvexbj30go0gogp4.jpg?KID=imgbed,tva&Expires=1761953177&ssig=otvbhiX%2BB6) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">我是电竞小生</span><img src=\"http://wx1.sinaimg.cn/middle/006BPLKbly1i6vx3wllwmj31hc0okac0.jpg\" data-width=884 data-height=1920></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5227918733085288&multi_paragraph=3&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.512.512.50/93e15f83ly8hlc72kvmpuj20e80e8mxy.jpg?KID=imgbed,tva&Expires=1761953177&ssig=gyHZxWLNUb) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">诞仔游戏安利</span><img src=\"http://wx4.sinaimg.cn/middle/93e15f83ly1i6vv988zbxj20zi0i43zt.jpg\" data-width=652 data-height=1278></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5227915345139669&multi_paragraph=3&multi_count=2\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.656.656.50/006pd7KLly8hc9u9l483tj30i80i8my4.jpg?KID=imgbed,tva&Expires=1761953177&ssig=Ss0eHu%2BHYK) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">利昂昂昂昂</span><img src=\"http://wx4.sinaimg.cn/middle/006pd7KLly1i6vuvpcbmyj30zk0hw770.jpg\" data-width=644 data-height=1280></div></media-block><br>### 📌 **总结：Ning观点的深层意义**<br>Ning的“最可惜”不仅是对AL失利的共情，更是对**电竞职业化进程中精神压力**的注解：  <br>- **职业选手的独特困境**：高压下“触手可及却失之交臂”的崩溃感，远超普通观众的想象。```wbCustomBlock{\"type\": \"quoted\", \"index\": 28, \"data\": {\"num\": [1, 24], \"version\": 2, \"quote_list\": [{\"name\": \"大脸恰瓜\", \"scheme\": \"sinaweibo://detail?mblogid=5227903102749395\", \"index\": 1, \"label\": \"\"}, {\"name\": \"forelovers\", \"scheme\": \"sinaweibo://detail?mblogid=5227960239915774\", \"index\": 24, \"label\": \"\"}]}}```  <br>- **LPL赛区的集体焦虑**：AL全年7次BO5决胜局全败，折射出赛区关键战心理素质与LCK的差距。```wbCustomBlock{\"type\": \"quoted\", \"index\": 29, \"data\": {\"num\": [13], \"version\": 2, \"quote_list\": [{\"name\": \"英雄联盟神吐槽\", \"scheme\": \"sinaweibo://detail?mblogid=5227853373505589\", \"index\": 13, \"label\": \"\"}]}}```  <br><br>> 正如粉丝所言：“从季后赛都进不去到S赛八强，AL已足够优秀，但无法调理的遗憾才是电竞最残酷的底色。”```wbCustomBlock{\"type\": \"quoted\", \"index\": 30, \"data\": {\"num\": [24], \"version\": 2, \"quote_list\": [{\"name\": \"forelovers\", \"scheme\": \"sinaweibo://detail?mblogid=5227960239915774\", \"index\": 24, \"label\": \"\"}]}}```<br>",
+      "top_quote_list": {},
+      "user_info": {},
+      "sorted_material_list": null
+    }
+  },
+  "links": [
+    "sinaweibo://detail?mblogid=5227903102749395",
+    "sinaweibo://detail?mblogid=5227942935790837",
+    "sinaweibo://detail?mblogid=5227915883057358",
+    "sinaweibo://detail?mblogid=5227936032754091",
+    "sinaweibo://detail?mblogid=5227986267669291",
+    "sinaweibo://detail?mblogid=5227905296107262",
+    "sinaweibo://detail?mblogid=5227918618003142",
+    "sinaweibo://detail?mblogid=5227854990414301",
+    "broadsocial_res://",
+    "historyweibo://5225007593559606",
+    "sinaweibo://detail?mblogid=5227949503809343",
+    "sinaweibo://detail?mblogid=5227909687025525",
+    "sinaweibo://detail?mblogid=5227853373505589",
+    "sinaweibo://detail?mblogid=5227952589509909",
+    "sinaweibo://detail?mblogid=5227867589053172",
+    "sinaweibo://detail?mblogid=5227918733085288",
+    "sinaweibo://detail?mblogid=5227915345139669",
+    "sinaweibo://detail?mblogid=5227895360328552",
+    "sinaweibo://detail?mblogid=5227901986543359",
+    "sinaweibo://detail?mblogid=5227850051619799",
+    "sinaweibo://detail?mblogid=5227839517364404",
+    "sinaweibo://detail?mblogid=5227523030913485",
+    "sinaweibo://detail?mblogid=5227131371261734",
+    "sinaweibo://detail?mblogid=5227960239915774",
+    "sinaweibo://detail?mblogid=5227956326634919",
+    "sinaweibo://detail?mblogid=5227948819092213",
+    "sinaweibo://detail?mblogid=5227948196235150",
+    "sinaweibo://detail?mblogid=5227911831357452",
+    "https://cn.bing.com/search?q=Ning%E8%AF%B4GEN%E6%98%AF%E6%95%85%E6%84%8F%E8%BE%93AL&rdr=1&rdrig=1R6HYG2DPO2T44Y3O7QJX2A1J00851G6&first=1",
+    "https://m.toutiao.com/a1846817857262663/"
+  ],
+  "media": [
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/007rJKiBly1i6vtdug556j31e00u0ac4.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/007rJKiBly1i6vtdug556j31e00u0ac4.jpg",
+      "alt": "大脸恰瓜",
+      "width": 1080,
+      "height": 1800,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/007rJKiBly1i6vtdug556j31e00u0ac4.jpg"
+      ],
+      "user": "大脸恰瓜"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/007rJKiBly1i6vuxpg4d0j31hc0u0gol.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/007rJKiBly1i6vuxpg4d0j31hc0u0gol.jpg",
+      "alt": "大脸恰瓜",
+      "width": 1080,
+      "height": 1920,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/007rJKiBly1i6vuxpg4d0j31hc0u0gol.jpg"
+      ],
+      "user": "大脸恰瓜"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/6696c8a3gy1i6vy23tlgqj217q0om40i.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/6696c8a3gy1i6vy23tlgqj217q0om40i.jpg",
+      "alt": "貌美如花似邹霞",
+      "width": 886,
+      "height": 1574,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/6696c8a3gy1i6vy23tlgqj217q0om40i.jpg"
+      ],
+      "user": "貌美如花似邹霞"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/006i8XEzly1i6vtxtoo2pj30zk0k0q47.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/006i8XEzly1i6vtxtoo2pj30zk0k0q47.jpg",
+      "alt": "动漫游戏君",
+      "width": 720,
+      "height": 1280,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/006i8XEzly1i6vtxtoo2pj30zk0k0q47.jpg"
+      ],
+      "user": "动漫游戏君"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/006tKURaly1i6vv9onnvsj30zk0k0ab3.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/006tKURaly1i6vv9onnvsj30zk0k0ab3.jpg",
+      "alt": "手游娘",
+      "width": 720,
+      "height": 1280,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/006tKURaly1i6vv9onnvsj30zk0k0ab3.jpg"
+      ],
+      "user": "手游娘"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/7e420d6bgy1i6vtcl3h1nj22c0340npd.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/7e420d6bgy1i6vtcl3h1nj22c0340npd.jpg",
+      "alt": "汉堡杨_",
+      "width": 4032,
+      "height": 3024,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/7e420d6bgy1i6vtcl3h1nj22c0340npd.jpg"
+      ],
+      "user": "汉堡杨_"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/007Zmmt8ly1i6vm5fukydj31hc0u043c.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/007Zmmt8ly1i6vm5fukydj31hc0u043c.jpg",
+      "alt": "电竞食神",
+      "width": 1080,
+      "height": 1920,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx4.sinaimg.cn/large/007Zmmt8ly1i6vm5fukydj31hc0u043c.jpg"
+      ],
+      "user": "电竞食神"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/006BPLKbly1i6vx3wllwmj31hc0okac0.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/006BPLKbly1i6vx3wllwmj31hc0okac0.jpg",
+      "alt": "我是电竞小生",
+      "width": 884,
+      "height": 1920,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/006BPLKbly1i6vx3wllwmj31hc0okac0.jpg"
+      ],
+      "user": "我是电竞小生"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/93e15f83ly1i6vv988zbxj20zi0i43zt.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/93e15f83ly1i6vv988zbxj20zi0i43zt.jpg",
+      "alt": "诞仔游戏安利",
+      "width": 652,
+      "height": 1278,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/93e15f83ly1i6vv988zbxj20zi0i43zt.jpg"
+      ],
+      "user": "诞仔游戏安利"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/006pd7KLly1i6vuvpcbmyj30zk0hw770.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/006pd7KLly1i6vuvpcbmyj30zk0hw770.jpg",
+      "alt": "利昂昂昂昂",
+      "width": 644,
+      "height": 1280,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/006pd7KLly1i6vuvpcbmyj30zk0hw770.jpg"
+      ],
+      "user": "利昂昂昂昂"
+    }
+  ],
+  "html_path": "data/aicard/hourly/2025-11-01/04/ning-al.html"
+}

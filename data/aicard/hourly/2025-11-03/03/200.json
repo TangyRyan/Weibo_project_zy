@@ -1,0 +1,178 @@
+{
+  "meta": {
+    "query": "#韩总统向中方额外赠送200盒皇南饼#",
+    "status_code": 200,
+    "fetched_at": "2025-11-03T03:22:35+08:00",
+    "response": {
+      "show_ctrl": {
+        "quote": {}
+      },
+      "comment_info": {},
+      "ext_show": {},
+      "uid": "",
+      "sorted_material_list": "[{\"mid\": \"5227853849299536\", \"rank\": 13, \"type\": \"weibo\"}, {\"mid\": \"5227820177426116\", \"rank\": 14, \"type\": \"weibo\"}, {\"mid\": \"5227943975456053\", \"rank\": 16, \"type\": \"weibo\"}, {\"mid\": \"5228609079348620\", \"rank\": 4, \"type\": \"weibo\"}, {\"mid\": \"5228631219765482\", \"rank\": 10, \"type\": \"weibo\"}, {\"mid\": \"5228621435502826\", \"rank\": 11, \"type\": \"weibo\"}, {\"mid\": \"5228641615086219\", \"rank\": 17, \"type\": \"weibo\"}, {\"mid\": \"5228625055715781\", \"rank\": 6, \"type\": \"weibo\"}, {\"mid\": \"5228616486224146\", \"rank\": 3, \"type\": \"weibo\"}, {\"mid\": \"5228635990787436\", \"rank\": 8, \"type\": \"weibo\"}, {\"mid\": \"5228635305810040\", \"rank\": 9, \"type\": \"weibo\"}, {\"mid\": \"5228623201043834\", \"rank\": 22, \"type\": \"weibo\"}, {\"mid\": \"5228165070328958\", \"rank\": 15, \"type\": \"weibo\"}, {\"mid\": \"5228618942775738\", \"rank\": 1, \"type\": \"weibo\"}, {\"mid\": \"5228629309264229\", \"rank\": 2, \"type\": \"weibo\"}, {\"mid\": \"5228632744398174\", \"rank\": 5, \"type\": \"weibo\"}, {\"mid\": \"5228611104674514\", \"rank\": 7, \"type\": \"weibo\"}, {\"mid\": \"5228214955807869\", \"rank\": 12, \"type\": \"weibo\"}, {\"mid\": \"5228615564265060\", \"rank\": 18, \"type\": \"weibo\"}, {\"mid\": \"5228620842796833\", \"rank\": 19, \"type\": \"weibo\"}, {\"mid\": \"5228651668048540\", \"rank\": 20, \"type\": \"weibo\"}, {\"mid\": \"5228642360625098\", \"rank\": 21, \"type\": \"weibo\"}]",
+      "current_time": 1762111355,
+      "query_field": "45",
+      "version": "2025-11-03 03:18:17.010999-2024",
+      "abtest_info": {
+        "chat_entrance": 1
+      },
+      "link_list": [
+        "sinaweibo://detail?mblogid=5228618942775738",
+        "sinaweibo://detail?mblogid=5228629309264229",
+        "broadsocial_res://",
+        "ctr://",
+        "historyweibo://5228618942775738",
+        "sinaweibo://detail?mblogid=5228616486224146",
+        "sinaweibo://detail?mblogid=5228609079348620",
+        "sinaweibo://detail?mblogid=5228632744398174",
+        "sinaweibo://detail?mblogid=5228635990787436",
+        "sinaweibo://detail?mblogid=5228611104674514",
+        "sinaweibo://detail?mblogid=5228635305810040",
+        "sinaweibo://detail?mblogid=5228625055715781",
+        "sinaweibo://detail?mblogid=5228657784129655",
+        "sinaweibo://detail?mblogid=5228631219765482",
+        "sinaweibo://detail?mblogid=5228627321161985",
+        "sinaweibo://detail?mblogid=5228623025932106",
+        "sinaweibo://detail?mblogid=5228619372695020",
+        "sinaweibo://detail?mblogid=5227853849299536",
+        "sinaweibo://detail?mblogid=5227820177426116",
+        "sinaweibo://detail?mblogid=5228165070328958",
+        "sinaweibo://detail?mblogid=5227943975456053",
+        "sinaweibo://detail?mblogid=5228214955807869",
+        "sinaweibo://detail?mblogid=5228641615086219",
+        "sinaweibo://detail?mblogid=5228615564265060",
+        "sinaweibo://detail?mblogid=5228620842796833",
+        "sinaweibo://detail?mblogid=5228623201043834",
+        "sinaweibo://detail?mblogid=5228642360625098",
+        "sinaweibo://detail?mblogid=5228667506789234"
+      ],
+      "top_quote_list": {},
+      "card_multimodal": {},
+      "share_card_multimodal": {
+        "hit_score_new": 91.503906,
+        "doc_score": 3379,
+        "img_pid": "0089KcXoly1i6y3oe8s3rj31hc0u0dhz",
+        "img": "http://wx2.sinaimg.cn/middle/0089KcXoly1i6y3oe8s3rj31hc0u0dhz.jpg",
+        "click_rate": 0.11051799130091,
+        "user_name": "菌观视界",
+        "type": "v",
+        "cur_mid": "5228618942775738",
+        "h": 1080,
+        "w": 1920,
+        "user_avatar": "https://tvax2.sinaimg.cn/crop.0.0.615.615.50/0089KcXoly8hm678bbo2hj30h30h3mxs.jpg?KID=imgbed,tva&Expires=1762121897&ssig=R80ZrZMVF7",
+        "hit_score_final": 81.302345,
+        "scheme": "sinaweibo://video/vvs?mid=5228618942775738&multi_paragraph=1&multi_count=0",
+        "video_url": "https://video.weibo.com/show?fid=1034:5228618608214115",
+        "vtype": 0
+      },
+      "model": "deepseek",
+      "basemodel": "实验组6",
+      "cot": 1,
+      "loop_times": 200,
+      "msg": "<think><br>嗯，用户提供了关于\"韩总统向中方额外赠送200盒皇南饼\"的详细搜索结果，需要我整理一个全面专业的回答。先仔细看看用户的具体需求和相关搜索结果。<br><br>用户给了28条搜索结果，内容很丰富。从结果4和5这些资料类信息看，核心事件发生在2025年10月31日APEC峰会期间，韩国总统李在明用庆州特产\"皇南饼\"招待中方代表团。中方的礼节性称赞被韩方高度重视，立刻追加赠送200盒给中方，还分发给所有APEC成员国代表团。这个细节在结果19（亚洲经济报道）和结果18（今日俄罗斯报道）中都有确认。<br><br>关于网民反应这块很有意思。结果7和结果11显示，不少中国网友认为皇南饼类似中国北方的豆沙馅酥皮月饼，质疑其86年的历史能否称为\"传统食品\"。同时，结果23则表现出部分网友对这种\"点心外交\"的正面评价，认为体现了人情味。这种认知差异很值得在回答中呈现。<br><br>韩方外交策略的对比分析也很有看点。结果1提到韩国对特朗普的接待规格极高，赠送勋章和王冠模型，但晚宴座次安排失误导致外交尴尬。结果2则提到特朗普因为饮食不适应提前要求汉堡的有趣细节。这与对华\"点心外交\"形成鲜明对比，突显韩国外交策略的差异和潜在问题。<br><br>值得注意的是结果3的地理位置纠正：抢购热潮只发生在庆州市区门店，而非整个庆尚道行政区。这个细节在回答中需要明确区分，避免误导。<br><br>从回答结构考虑，应该先清晰描述事件脉络，再分析网民反应，接着解读外交策略差异，最后客观总结事件意义。每个部分都要标注引用来源，特别是时效性强、可信度高的结果19、18、4等资料。对于网友评论这类主观内容，会明确标注来源但保持中立表述。<br><br>在风险控制方面，对于网友的争议性言论（如文化归属质疑）会采用\"部分网友认为\"的谨慎表述，避免绝对化。同时强调结果4中提到的\"礼节性称赞\"这一关键前提，防止过度解读中方态度。<br><br></think><br>以下是关于“韩国总统向中方额外赠送200盒皇南饼”事件的综合梳理与分析，结合外交背景、舆论焦点及深层影响，分四部分呈现：<br>### 📍 一、事件核心脉络<br>1. **背景与直接起因**  <br>   2025年10月31日APEC峰会期间，韩国总统李在明以庆州特产“皇南饼”招待中方代表团。该糕点创制于1939年，以柔软外皮包裹玫瑰红豆沙馅为特色，被韩国定位为“传统食品”。中方代表团品尝后给予礼节性称赞（例如“感谢款待，食物很好吃”或“非常好吃”）。韩方受此鼓舞，李在明随即指示向中方**追加赠送200盒皇南饼**，并同步向所有APEC成员国代表团分发同款糕点。```wbCustomBlock{\"type\": \"quoted\", \"index\": 4, \"data\": {\"num\": [1, 7, 19], \"version\": 2, \"quote_list\": [{\"name\": \"菌观视界\", \"scheme\": \"sinaweibo://detail?mblogid=5228618942775738\", \"index\": 1, \"label\": \"大v\"}, {\"name\": \"品茶说酒\", \"scheme\": \"sinaweibo://detail?mblogid=5228609079348620\", \"index\": 7, \"label\": \"\"}, {\"name\": \"亚洲经济\", \"scheme\": \"sinaweibo://detail?mblogid=5227820177426116\", \"index\": 19, \"label\": \"\"}], \"name\": \"菌观视界\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.615.615.50/0089KcXoly8hm678bbo2hj30h30h3mxs.jpg?KID=imgbed,tva&Expires=1762121897&ssig=R80ZrZMVF7\", \"scheme\": \"sinaweibo://detail?mblogid=5228618942775738\", \"vType\": 0}}```<br><br>2. **韩方意图**  <br>   旨在通过“美食外交”推广韩国地域文化软实力，传递诚意并强化国际形象。包装上附有“希望您品尝庆州的味道”的祝语，突显文化输出意图。```wbCustomBlock{\"type\": \"quoted\", \"index\": 5, \"data\": {\"num\": [19], \"version\": 2, \"quote_list\": [{\"name\": \"亚洲经济\", \"scheme\": \"sinaweibo://detail?mblogid=5227820177426116\", \"index\": 19, \"label\": \"\"}]}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5228618942775738&multi_paragraph=1&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.615.615.50/0089KcXoly8hm678bbo2hj30h30h3mxs.jpg?KID=imgbed,tva&Expires=1762121897&ssig=R80ZrZMVF7) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">菌观视界</span><img src=\"http://wx2.sinaimg.cn/middle/0089KcXoly1i6y3oe8s3rj31hc0u0dhz.jpg\" data-width=1080 data-height=1920></div></media-block><br>### 🔍 二、舆论焦点与争议<br>1. **文化归属争议**  <br>   - **中国网友质疑**：  <br>     - 认为皇南饼历史仅86年，口感类似中国北方豆沙馅酥皮月饼，质疑其“传统属性”及中国源头可能性。```wbCustomBlock{\"type\": \"quoted\", \"index\": 10, \"data\": {\"num\": [7, 11, 14], \"version\": 2, \"quote_list\": [{\"name\": \"品茶说酒\", \"scheme\": \"sinaweibo://detail?mblogid=5228609079348620\", \"index\": 7, \"label\": \"\"}, {\"name\": \"长春-小风\", \"scheme\": \"sinaweibo://detail?mblogid=5228635305810040\", \"index\": 11, \"label\": \"\"}, {\"name\": \"爱摸渝的小熊\", \"scheme\": \"sinaweibo://detail?mblogid=5228631219765482\", \"index\": 14, \"label\": \"\"}]}}```  <br>     - 批评包装设计“不够精美”，在中国视角下“略显简陋”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 11, \"data\": {\"num\": [7, 28], \"version\": 2, \"quote_list\": [{\"name\": \"品茶说酒\", \"scheme\": \"sinaweibo://detail?mblogid=5228609079348620\", \"index\": 7, \"label\": \"\"}, {\"name\": \"真的很烦瞎操心的鲨雕\", \"scheme\": \"sinaweibo://detail?mblogid=5228667506789234\", \"index\": 28, \"label\": \"\"}]}}```  <br>   - **韩方立场**：强调其为庆州独有的传统食物，代表本土文化特色。```wbCustomBlock{\"type\": \"quoted\", \"index\": 12, \"data\": {\"num\": [14], \"version\": 2, \"quote_list\": [{\"name\": \"爱摸渝的小熊\", \"scheme\": \"sinaweibo://detail?mblogid=5228631219765482\", \"index\": 14, \"label\": \"\"}]}}```<br><br>2. **外交行为评价两极分化**  <br>   - **正面解读**：  <br>     肯定“点心外交”的人情味，以伴手礼拉近国际关系，打破外交刻板印象。```wbCustomBlock{\"type\": \"quoted\", \"index\": 14, \"data\": {\"num\": [9, 12, 23], \"version\": 2, \"quote_list\": [{\"name\": \"冬日橙訓_\", \"scheme\": \"sinaweibo://detail?mblogid=5228635990787436\", \"index\": 9, \"label\": \"\"}, {\"name\": \"Rainlint\", \"scheme\": \"sinaweibo://detail?mblogid=5228625055715781\", \"index\": 12, \"label\": \"\"}, {\"name\": \"大好一棵树\", \"scheme\": \"sinaweibo://detail?mblogid=5228641615086219\", \"index\": 23, \"label\": \"\"}]}}```  <br>   - **负面批评**：  <br>     - 质疑韩方“过度解读”中方礼节性回应，用力过猛；```wbCustomBlock{\"type\": \"quoted\", \"index\": 16, \"data\": {\"num\": [6, 7], \"version\": 2, \"quote_list\": [{\"name\": \"ImmortalSamsaraRihanna\", \"scheme\": \"sinaweibo://detail?mblogid=5228616486224146\", \"index\": 6, \"label\": \"\"}, {\"name\": \"品茶说酒\", \"scheme\": \"sinaweibo://detail?mblogid=5228609079348620\", \"index\": 7, \"label\": \"\"}]}}```  <br>     - 对比韩国对美外交（如特朗普因饮食不适应要求汉堡），批评其文化输出存在“自信与敏感并存”心态；```wbCustomBlock{\"type\": \"quoted\", \"index\": 17, \"data\": {\"num\": [2, 8], \"version\": 2, \"quote_list\": [{\"name\": \"麻瓜电影\", \"scheme\": \"sinaweibo://detail?mblogid=5228629309264229\", \"index\": 2, \"label\": \"大v\"}, {\"name\": \"醍醐守正君\", \"scheme\": \"sinaweibo://detail?mblogid=5228632744398174\", \"index\": 8, \"label\": \"\"}], \"name\": \"麻瓜电影\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/54ecba4bly8i43so972bcj20u00u0dhw.jpg?KID=imgbed,tva&Expires=1762121897&ssig=euT3P6Pk5X\", \"scheme\": \"sinaweibo://detail?mblogid=5228629309264229\", \"vType\": 0}}```  <br>     - 赠日首相高市早苗的护肤品与赠华糕点形成反差，被调侃“带货式外交”。<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5228629309264229&multi_paragraph=2&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/54ecba4bly8i43so972bcj20u00u0dhw.jpg?KID=imgbed,tva&Expires=1762121897&ssig=euT3P6Pk5X) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">麻瓜电影</span><img src=\"http://wx4.sinaimg.cn/middle/54ecba4bly1i6y4qykcu4j20mh0u0jsr.jpg\" data-width=1080 data-height=809></div></media-block><br>### 💎 三、衍生影响与深层透视<br>1. **文化经济效应显著**  <br>   - 皇南饼在韩国本土销量激增，**庆州市门店**（非整个庆尚道）出现市民排队抢购潮，被韩国媒体称为“文化输出成功案例”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 22, \"data\": {\"num\": [20], \"version\": 2, \"quote_list\": [{\"name\": \"亚洲经济\", \"scheme\": \"sinaweibo://detail?mblogid=5228165070328958\", \"index\": 20, \"label\": \"\"}]}}```  <br>   - 中方未进一步表态，舆论焦点转向文化归属讨论。```wbCustomBlock{\"type\": \"quoted\", \"index\": 23, \"data\": {\"num\": [6], \"version\": 2, \"quote_list\": [{\"name\": \"ImmortalSamsaraRihanna\", \"scheme\": \"sinaweibo://detail?mblogid=5228616486224146\", \"index\": 6, \"label\": \"\"}]}}```<br><br>2. **外交策略折射深层矛盾**  <br>   - **文化输出焦虑**：韩国积极推广本土文化，但民众对文化溯源敏感，反映其文化自信与历史认同的复杂性。```wbCustomBlock{\"type\": \"quoted\", \"index\": 25, \"data\": {\"num\": [26], \"version\": 2, \"quote_list\": [{\"name\": \"小狗嗦芒果\", \"scheme\": \"sinaweibo://detail?mblogid=5228623201043834\", \"index\": 26, \"label\": \"\"}]}}```  <br>   - **细节失误暴露短板**：同期对美外交中，座次安排忽视加美矛盾，引发潜在尴尬，与对华“糕点外交”共同凸显策略细节把控不足。```wbCustomBlock{\"type\": \"quoted\", \"index\": 26, \"data\": {\"num\": [1], \"version\": 2, \"quote_list\": [{\"name\": \"菌观视界\", \"scheme\": \"sinaweibo://detail?mblogid=5228618942775738\", \"index\": 1, \"label\": \"\"}]}}```<br><br>3. **公众认知差异凸显**  <br>   中国网友反应多元：从肯定“暖心情谊”到质疑文化归属，再到吐槽“200盒饼量小格局小”，体现公众对国际礼仪与文化自信的复杂态度。```wbCustomBlock{\"type\": \"quoted\", \"index\": 27, \"data\": {\"num\": [7, 12, 23, 28], \"version\": 2, \"quote_list\": [{\"name\": \"品茶说酒\", \"scheme\": \"sinaweibo://detail?mblogid=5228609079348620\", \"index\": 7, \"label\": \"\"}, {\"name\": \"Rainlint\", \"scheme\": \"sinaweibo://detail?mblogid=5228625055715781\", \"index\": 12, \"label\": \"\"}, {\"name\": \"大好一棵树\", \"scheme\": \"sinaweibo://detail?mblogid=5228641615086219\", \"index\": 23, \"label\": \"\"}, {\"name\": \"真的很烦瞎操心的鲨雕\", \"scheme\": \"sinaweibo://detail?mblogid=5228667506789234\", \"index\": 28, \"label\": \"\"}]}}```<br>### ⚖️ 四、事件本质与启示<br>该事件既是外交礼仪中“礼尚往来”的常规互动，也折射出中韩民众对文化根源的认知差异。皇南饼作为外交媒介，客观上提升了韩国地域文化的国际曝光度，但韩方需注意两点：```wbCustomBlock{\"type\": \"quoted\", \"index\": 29, \"data\": {\"num\": [9, 12, 14, 20, 23], \"version\": 2, \"quote_list\": [{\"name\": \"冬日橙訓_\", \"scheme\": \"sinaweibo://detail?mblogid=5228635990787436\", \"index\": 9, \"label\": \"\"}, {\"name\": \"Rainlint\", \"scheme\": \"sinaweibo://detail?mblogid=5228625055715781\", \"index\": 12, \"label\": \"\"}, {\"name\": \"爱摸渝的小熊\", \"scheme\": \"sinaweibo://detail?mblogid=5228631219765482\", \"index\": 14, \"label\": \"\"}, {\"name\": \"亚洲经济\", \"scheme\": \"sinaweibo://detail?mblogid=5228165070328958\", \"index\": 20, \"label\": \"\"}, {\"name\": \"大好一棵树\", \"scheme\": \"sinaweibo://detail?mblogid=5228641615086219\", \"index\": 23, \"label\": \"\"}]}}```  <br>1. **平衡文化自信与敏感度**：避免因过度解读他国礼节性反馈引发舆论分化；```wbCustomBlock{\"type\": \"quoted\", \"index\": 30, \"data\": {\"num\": [26], \"version\": 2, \"quote_list\": [{\"name\": \"小狗嗦芒果\", \"scheme\": \"sinaweibo://detail?mblogid=5228623201043834\", \"index\": 26, \"label\": \"\"}]}}```  <br>2. **优化外交细节一致性**：差异化赠礼策略需兼顾全局协调性，减少对比引发的争议。```wbCustomBlock{\"type\": \"quoted\", \"index\": 31, \"data\": {\"num\": [1], \"version\": 2, \"quote_list\": [{\"name\": \"菌观视界\", \"scheme\": \"sinaweibo://detail?mblogid=5228618942775738\", \"index\": 1, \"label\": \"\"}]}}```  <br><br>未来类似“软实力”推广若能更注重文化根源的坦诚沟通与国际反馈的理性解读，或可减少争议，真正实现文化共情。```wbCustomBlock{\"type\": \"quoted\", \"index\": 32, \"data\": {\"num\": [23, 26], \"version\": 2, \"quote_list\": [{\"name\": \"大好一棵树\", \"scheme\": \"sinaweibo://detail?mblogid=5228641615086219\", \"index\": 23, \"label\": \"\"}, {\"name\": \"小狗嗦芒果\", \"scheme\": \"sinaweibo://detail?mblogid=5228623201043834\", \"index\": 26, \"label\": \"\"}]}}```<br><br>---<br><br>> 注：皇南饼抢购热潮实际限于庆州市区门店（庆尚北道下辖市），不涉及整个庆尚道行政区。<br>",
+      "query_category": "",
+      "qs_status": 0,
+      "qs_status_info": "{\"qs_q_status\":0,\"qs_c_status\":8388608,\"qs_r_status\":0,\"qs_status\":0,\"qs_u_status\":0,\"ab_lab\":{}}",
+      "wenda": {
+        "forward_gen": 0
+      },
+      "query": "#韩总统向中方额外赠送200盒皇南饼#",
+      "analysis_time": 1762111320,
+      "q_attr": {
+        "reply_cid": "",
+        "from_uid": "",
+        "mid": "",
+        "from_request_id": "",
+        "comment_from_type": ""
+      },
+      "page_id": "232964bb7655e1bd8e42f28fd8015c279def6c",
+      "zs_risk_control": {
+        "think_text_close": 0,
+        "land_button_close": 0
+      },
+      "chat_status_stage": 1,
+      "share_text": "#韩总统向中方额外赠送200盒皇南饼#的相关内容，来智搜看看",
+      "share_info": {
+        "tips": "#韩总统向中方额外赠送200盒皇南饼#的相关内容，来智搜看看",
+        "url": "http://t.cn/AXAoQXz5",
+        "display_name": "#韩总统向中方额外赠送200盒皇南饼#",
+        "unify_md5": "dfce10af85557e8d8dfccb919a52b16f",
+        "page_id": "232964bb7655e1bd8e42f28fd8015c279def6c",
+        "status": 3,
+        "comment_content": ""
+      },
+      "news_analyze": {},
+      "reliable_tips": "{\"gold_orange_v_mids\": [\"5228618942775738\", \"5228609079348620\", \"5228631219765482\", \"5228635990787436\", \"5228641615086219\", \"5228616486224146\", \"5228629309264229\", \"5228632744398174\", \"5228611104674514\", \"5228627321161985\", \"5227943975456053\", \"5228615564265060\", \"5228620842796833\", \"5228642360625098\"], \"gold_orange_v_ratio\": \"56%\", \"media_mids\": [\"5228214955807869\"], \"media_ratio\": \"4%\", \"verified_mids\": [\"5227820177426116\", \"5228635305810040\", \"5228625055715781\", \"5228165070328958\", \"5228623201043834\", \"5228623025932106\", \"5228619372695020\", \"5227853849299536\"], \"verified_ratio\": \"32%\", \"normal_mids\": [\"5228667506789234\", \"5228657784129655\"], \"normal_ratio\": \"8%\", \"ref_mid_rank\": {\"5228618942775738\": {\"rank\": 1}, \"5228609079348620\": {\"rank\": 7}, \"5227820177426116\": {\"rank\": 19}, \"5228635305810040\": {\"rank\": 11}, \"5228631219765482\": {\"rank\": 14}, \"5228667506789234\": {\"rank\": 28}, \"5228635990787436\": {\"rank\": 9}, \"5228625055715781\": {\"rank\": 12}, \"5228641615086219\": {\"rank\": 23}, \"5228616486224146\": {\"rank\": 6}, \"5228629309264229\": {\"rank\": 2}, \"5228632744398174\": {\"rank\": 8}, \"5228165070328958\": {\"rank\": 20}, \"5228623201043834\": {\"rank\": 26}, \"5228611104674514\": {\"rank\": 10}, \"5228657784129655\": {\"rank\": 13}, \"5228627321161985\": {\"rank\": 15}, \"5228623025932106\": {\"rank\": 16}, \"5228619372695020\": {\"rank\": 17}, \"5227853849299536\": {\"rank\": 18}, \"5227943975456053\": {\"rank\": 21}, \"5228214955807869\": {\"rank\": 22}, \"5228615564265060\": {\"rank\": 24}, \"5228620842796833\": {\"rank\": 25}, \"5228642360625098\": {\"rank\": 27}}}",
+      "msg_json": "{}",
+      "mid_list": null,
+      "reference_num": 25,
+      "unify_md5": "dfce10af85557e8d8dfccb919a52b16f",
+      "status_stage": 4,
+      "short_url": "http://t.cn/AXAo5x9s",
+      "profile_image_url": "",
+      "msg_format": "markdown",
+      "status": 2,
+      "ab_suffix": "default",
+      "user_info": {},
+      "scheme": "sinaweibo://cardlist?containerid=100103type%3D225%26q%3D%23%E9%9F%A9%E6%80%BB%E7%BB%9F%E5%90%91%E4%B8%AD%E6%96%B9%E9%A2%9D%E5%A4%96%E8%B5%A0%E9%80%81200%E7%9B%92%E7%9A%87%E5%8D%97%E9%A5%BC%23%26t%3D&extparam=ai_model%3Ddeepseek%26ori_ai_title%3D%E5%8F%82%E8%80%83%E5%8D%9A%E6%96%87%26material_version%3D1762111097"
+    }
+  },
+  "links": [
+    "sinaweibo://detail?mblogid=5228618942775738",
+    "sinaweibo://detail?mblogid=5228629309264229",
+    "broadsocial_res://",
+    "ctr://",
+    "historyweibo://5228618942775738",
+    "sinaweibo://detail?mblogid=5228616486224146",
+    "sinaweibo://detail?mblogid=5228609079348620",
+    "sinaweibo://detail?mblogid=5228632744398174",
+    "sinaweibo://detail?mblogid=5228635990787436",
+    "sinaweibo://detail?mblogid=5228611104674514",
+    "sinaweibo://detail?mblogid=5228635305810040",
+    "sinaweibo://detail?mblogid=5228625055715781",
+    "sinaweibo://detail?mblogid=5228657784129655",
+    "sinaweibo://detail?mblogid=5228631219765482",
+    "sinaweibo://detail?mblogid=5228627321161985",
+    "sinaweibo://detail?mblogid=5228623025932106",
+    "sinaweibo://detail?mblogid=5228619372695020",
+    "sinaweibo://detail?mblogid=5227853849299536",
+    "sinaweibo://detail?mblogid=5227820177426116",
+    "sinaweibo://detail?mblogid=5228165070328958",
+    "sinaweibo://detail?mblogid=5227943975456053",
+    "sinaweibo://detail?mblogid=5228214955807869",
+    "sinaweibo://detail?mblogid=5228641615086219",
+    "sinaweibo://detail?mblogid=5228615564265060",
+    "sinaweibo://detail?mblogid=5228620842796833",
+    "sinaweibo://detail?mblogid=5228623201043834",
+    "sinaweibo://detail?mblogid=5228642360625098",
+    "sinaweibo://detail?mblogid=5228667506789234"
+  ],
+  "media": [
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/0089KcXoly1i6y3oe8s3rj31hc0u0dhz.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/0089KcXoly1i6y3oe8s3rj31hc0u0dhz.jpg",
+      "alt": "菌观视界",
+      "width": 1080,
+      "height": 1920,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/0089KcXoly1i6y3oe8s3rj31hc0u0dhz.jpg"
+      ],
+      "user": "菌观视界"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/54ecba4bly1i6y4qykcu4j20mh0u0jsr.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/54ecba4bly1i6y4qykcu4j20mh0u0jsr.jpg",
+      "alt": "麻瓜电影",
+      "width": 1080,
+      "height": 809,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/54ecba4bly1i6y4qykcu4j20mh0u0jsr.jpg"
+      ],
+      "user": "麻瓜电影"
+    }
+  ],
+  "html_path": "data/aicard/hourly/2025-11-03/03/200.html"
+}

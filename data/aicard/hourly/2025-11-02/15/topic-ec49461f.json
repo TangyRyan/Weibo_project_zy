@@ -1,0 +1,332 @@
+{
+  "meta": {
+    "query": "#少爷和我现在是俩少爷#",
+    "status_code": 200,
+    "fetched_at": "2025-11-02T15:35:37+08:00",
+    "response": {
+      "msg_json": "{}",
+      "query_field": "22",
+      "chat_status_stage": 1,
+      "status": 2,
+      "news_analyze": {},
+      "reliable_tips": "{\"gold_orange_v_mids\": [\"5228476497139541\", \"5228540007023246\", \"5228539948303929\", \"5227408119565543\", \"5227345090972439\", \"5227332991975960\", \"5227361459242881\", \"5227382731444279\", \"5227390737319278\", \"5215781052220668\", \"5228553029555065\", \"5227389145843037\", \"5227392533530890\", \"5226454423968729\", \"5221329088286693\", \"5212631256008600\", \"5227414235908135\", \"5225661601941653\", \"5227384946297727\", \"5227542668909575\", \"5226096708818036\", \"5227399061178871\"], \"gold_orange_v_ratio\": \"63%\", \"media_mids\": [], \"media_ratio\": \"0%\", \"verified_mids\": [\"5228540805252350\", \"5228553392097989\", \"5227961274079018\"], \"verified_ratio\": \"9%\", \"normal_mids\": [\"5228549697179052\", \"5228553054720069\", \"5228552851297472\", \"5228554745027029\", \"5228554677914201\", \"5228553483323911\", \"5228552917877903\", \"5228552767409194\", \"5226708393530110\", \"5225912737202606\"], \"normal_ratio\": \"28%\", \"ref_mid_rank\": {\"5228476497139541\": {\"rank\": 1}, \"5228540007023246\": {\"rank\": 18}, \"5228539948303929\": {\"rank\": 19}, \"5228549697179052\": {\"rank\": 30}, \"5228540805252350\": {\"rank\": 20}, \"5228553054720069\": {\"rank\": 25}, \"5227408119565543\": {\"rank\": 3}, \"5227345090972439\": {\"rank\": 4}, \"5227332991975960\": {\"rank\": 6}, \"5227361459242881\": {\"rank\": 39}, \"5227382731444279\": {\"rank\": 2}, \"5227390737319278\": {\"rank\": 9}, \"5215781052220668\": {\"rank\": 12}, \"5228553029555065\": {\"rank\": 26}, \"5228552851297472\": {\"rank\": 28}, \"5227389145843037\": {\"rank\": 5}, \"5227392533530890\": {\"rank\": 7}, \"5226454423968729\": {\"rank\": 8}, \"5221329088286693\": {\"rank\": 10}, \"5212631256008600\": {\"rank\": 11}, \"5227414235908135\": {\"rank\": 13}, \"5228554745027029\": {\"rank\": 21}, \"5228554677914201\": {\"rank\": 22}, \"5228553483323911\": {\"rank\": 23}, \"5228553392097989\": {\"rank\": 24}, \"5228552917877903\": {\"rank\": 27}, \"5228552767409194\": {\"rank\": 29}, \"5227961274079018\": {\"rank\": 31}, \"5226708393530110\": {\"rank\": 32}, \"5225661601941653\": {\"rank\": 33}, \"5227384946297727\": {\"rank\": 34}, \"5225912737202606\": {\"rank\": 35}, \"5227542668909575\": {\"rank\": 36}, \"5226096708818036\": {\"rank\": 37}, \"5227399061178871\": {\"rank\": 38}}}",
+      "query": "#少爷和我现在是俩少爷#",
+      "current_time": 1762068938,
+      "user_info": {},
+      "qs_status_info": "{\"qs_u_status\":0,\"qs_status\":0,\"qs_q_status\":0,\"qs_c_status\":8388608,\"qs_r_status\":0,\"ab_lab\":{}}",
+      "ext_show": {},
+      "analysis_time": 1762068212,
+      "loop_times": 200,
+      "profile_image_url": "",
+      "wenda": {
+        "forward_gen": 0
+      },
+      "mid_list": null,
+      "reference_num": 35,
+      "query_category": "Ip",
+      "status_stage": 4,
+      "link_list": [
+        "sinaweibo://detail?mblogid=5228476497139541",
+        "sinaweibo://detail?mblogid=5227382731444279",
+        "sinaweibo://detail?mblogid=5227408119565543",
+        "sinaweibo://detail?mblogid=5227345090972439",
+        "sinaweibo://detail?mblogid=5227389145843037",
+        "sinaweibo://detail?mblogid=5227332991975960",
+        "sinaweibo://detail?mblogid=5227392533530890",
+        "sinaweibo://detail?mblogid=5226454423968729",
+        "sinaweibo://detail?mblogid=5227390737319278",
+        "sinaweibo://detail?mblogid=5221329088286693",
+        "sinaweibo://detail?mblogid=5212631256008600",
+        "sinaweibo://detail?mblogid=5215781052220668",
+        "sinaweibo://detail?mblogid=5227414235908135",
+        "broadsocial_res://",
+        "historyweibo://4848332444272935",
+        "historyweibo://4844889421124688",
+        "historyweibo://4844864455580140",
+        "sinaweibo://detail?mblogid=5228540007023246",
+        "sinaweibo://detail?mblogid=5228539948303929",
+        "sinaweibo://detail?mblogid=5228540805252350",
+        "sinaweibo://detail?mblogid=5228554745027029",
+        "sinaweibo://detail?mblogid=5228554677914201",
+        "sinaweibo://detail?mblogid=5228553483323911",
+        "sinaweibo://detail?mblogid=5228553392097989",
+        "sinaweibo://detail?mblogid=5228553054720069",
+        "sinaweibo://detail?mblogid=5228553029555065",
+        "sinaweibo://detail?mblogid=5228552917877903",
+        "sinaweibo://detail?mblogid=5228552851297472",
+        "sinaweibo://detail?mblogid=5228552767409194",
+        "sinaweibo://detail?mblogid=5228549697179052",
+        "sinaweibo://detail?mblogid=5227961274079018",
+        "sinaweibo://detail?mblogid=5226708393530110",
+        "sinaweibo://detail?mblogid=5225661601941653",
+        "sinaweibo://detail?mblogid=5227384946297727",
+        "sinaweibo://detail?mblogid=5225912737202606",
+        "sinaweibo://detail?mblogid=5227542668909575",
+        "sinaweibo://detail?mblogid=5226096708818036",
+        "sinaweibo://detail?mblogid=5227399061178871",
+        "sinaweibo://detail?mblogid=5227361459242881"
+      ],
+      "model": "deepseek",
+      "uid": "",
+      "unify_md5": "ec49461fa7909db7d6240a828e309b62",
+      "card_multimodal": {
+        "type": "mediablock",
+        "data": [
+          {
+            "w": 720,
+            "vtype": 0,
+            "hit_score_new": 0,
+            "doc_score": 0,
+            "img_pid": "006Ie5UNly1i6xnbs4w5ag30k00k0qva",
+            "h": 720,
+            "hit_score_final": 0,
+            "img": "http://wx1.sinaimg.cn/middle/006Ie5UNly1i6xnbs4w5ag30k00k0qva.gif",
+            "scheme": "sinaweibo://multimedia?mix_mid=5228476497139541&from=search&content_show=1&mix_index=5&hide_index=1&multi_paragraph=1&multi_count=0",
+            "type": "p",
+            "cur_mid": "5228476497139541",
+            "user_avatar": "https://tvax4.sinaimg.cn/crop.0.0.1023.1023.50/006Ie5UNly8hwx4k2kqfkj30sg0sfwhf.jpg?KID=imgbed,tva&Expires=1762078871&ssig=E0Mjj0ZUT%2B",
+            "video_url": "",
+            "user_name": "钱包比我还瘦",
+            "click_rate": 0.14210526315789
+          },
+          {
+            "w": 2816,
+            "vtype": 0,
+            "hit_score_new": 0,
+            "doc_score": 4884,
+            "img_pid": "6da17e26gy1i6u5pa9xy7j22681cwn9o",
+            "h": 1760,
+            "hit_score_final": 75,
+            "img": "http://wx3.sinaimg.cn/middle/6da17e26gy1i6u5pa9xy7j22681cwn9o.jpg",
+            "scheme": "sinaweibo://multimedia?mix_mid=5227382731444279&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=2&multi_count=0",
+            "type": "p",
+            "cur_mid": "5227382731444279",
+            "user_avatar": "https://tva4.sinaimg.cn/crop.0.20.158.158.50/6da17e26gw1eej7q25xqbj204f052t8p.jpg?KID=imgbed,tva&Expires=1762078871&ssig=9FrI7advIS",
+            "video_url": "",
+            "user_name": "IT互联网那点事",
+            "click_rate": 0.16381642839397
+          },
+          {
+            "w": 2160,
+            "vtype": 0,
+            "hit_score_new": 0,
+            "doc_score": 3263,
+            "img_pid": "007vrwJgly1i6u6n94ps8j31o09ls1l0",
+            "h": 12448,
+            "hit_score_final": 60,
+            "img": "http://wx2.sinaimg.cn/middle/007vrwJgly1i6u6n94ps8j31o09ls1l0.jpg",
+            "scheme": "sinaweibo://multimedia?mix_mid=5227390737319278&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=2&multi_count=1",
+            "type": "p",
+            "cur_mid": "5227390737319278",
+            "user_avatar": "https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/007vrwJgly8i6injjigxcj30u00u0wg0.jpg?KID=imgbed,tva&Expires=1762078871&ssig=PnJLmxWpIg",
+            "video_url": "",
+            "user_name": "超级大笨蛋1649",
+            "click_rate": 0.077449186012908
+          },
+          {
+            "w": 720,
+            "vtype": 0,
+            "hit_score_new": 0,
+            "doc_score": 0,
+            "img_pid": "006Ie5UNly1i6xnbs4w5ag30k00k0qva",
+            "h": 720,
+            "hit_score_final": 0,
+            "img": "http://wx1.sinaimg.cn/middle/006Ie5UNly1i6xnbs4w5ag30k00k0qva.gif",
+            "scheme": "sinaweibo://multimedia?mix_mid=5228476497139541&from=search&content_show=1&mix_index=5&hide_index=1&multi_paragraph=1&multi_count=0",
+            "type": "p",
+            "cur_mid": "5228476497139541",
+            "user_avatar": "https://tvax4.sinaimg.cn/crop.0.0.1023.1023.50/006Ie5UNly8hwx4k2kqfkj30sg0sfwhf.jpg?KID=imgbed,tva&Expires=1762078871&ssig=E0Mjj0ZUT%2B",
+            "video_url": "",
+            "user_name": "钱包比我还瘦",
+            "click_rate": 0.14210526315789
+          }
+        ]
+      },
+      "share_card_multimodal": {
+        "w": 720,
+        "vtype": 0,
+        "hit_score_new": 0,
+        "doc_score": 0,
+        "img_pid": "006Ie5UNly1i6xnbs4w5ag30k00k0qva",
+        "h": 720,
+        "hit_score_final": 0,
+        "img": "http://wx1.sinaimg.cn/middle/006Ie5UNly1i6xnbs4w5ag30k00k0qva.gif",
+        "scheme": "sinaweibo://multimedia?mix_mid=5228476497139541&from=search&content_show=1&mix_index=5&hide_index=1&multi_paragraph=1&multi_count=0",
+        "type": "p",
+        "cur_mid": "5228476497139541",
+        "user_avatar": "https://tvax4.sinaimg.cn/crop.0.0.1023.1023.50/006Ie5UNly8hwx4k2kqfkj30sg0sfwhf.jpg?KID=imgbed,tva&Expires=1762078871&ssig=E0Mjj0ZUT%2B",
+        "video_url": "",
+        "user_name": "钱包比我还瘦",
+        "click_rate": 0.14210526315789
+      },
+      "zs_risk_control": {
+        "think_text_close": 0,
+        "land_button_close": 0
+      },
+      "basemodel": "实验组5",
+      "q_attr": {
+        "reply_cid": "",
+        "comment_from_type": "",
+        "from_request_id": "",
+        "mid": "",
+        "from_uid": ""
+      },
+      "msg": "<think><br><br>嗯，用户搜索了\"少爷和我现在是俩少爷\"这个关键词组合，看起来是想了解喜剧组合\"少爷和我\"的最新动态。从搜索结果来看，这个短语特指鑫仔在《喜人奇妙夜》节目中的新造型引发的讨论。<br><br>最核心的信息来自多个认证账号的报道，都集中在11月2日这个最新时间点。鑫仔在《公主小哥》这个节目单元里以白金发色+白色流苏西装的造型亮相，和他之前在《少爷和我》中扮演的\"刘波\"形象形成巨大反差。大张伟当场评价他\"有种莫名其妙的帅\"这个细节被反复提及，看来是节目中的高光时刻。<br><br>有趣的是，用户这句搜索词\"现在是俩少爷\"其实源自网友的调侃。原本\"少爷和我\"组合中，张哲华常扮演贵气少爷（如龙傲天），鑫仔多是管家或平民角色。这次鑫仔的贵族造型让观众戏称组合变成了\"双少爷模式\"。<br><br>关于组合现状，有几点补充信息值得注意：<br>1）组合缺席《喜人奇妙夜》第二季的原因，可能是在拍摄剧集《命悬一生》；<br>2）粉丝对两人再合作的呼声很高，甚至有人直接@平台方要求安排直播或续作；<br>3）考古内容显示他们最初是临时组队，但创造了\"用真心\"等经典梗。<br><br>用户能精准搜索这个新兴话题词，大概率是看过《少爷和我》的观众。可能注意到鑫仔的形象转变，或是被热搜话题吸引。回复时需要突出这种形象反差的戏剧性，同时带出组合的经典作品背景作为对照。那些反复出现的节目台词（如\"誓死守护刘波\"）和粉丝创作梗（如\"双人直播安排一下\"）都是唤起共鸣的关键。<br><br>最后要处理下信息矛盾点：结果9提到张哲华新剧《蓝色彗星》的拍摄，但结果14澄清该剧实际已于2024年杀青。这说明部分网友把旧工作当作组合未重组的原因，需要以结果14的媒体信息为准。<br><br></think><br>“少爷和我现在是俩少爷”这一话题主要源自喜剧演员鑫仔在综艺《喜人奇妙夜》中的形象突破，引发了观众对其与张哲华组成的经典组合“少爷和我”角色关系的趣味调侃。以下是核心信息的整合：<br>### 🔥 一、事件起因：鑫仔的全新造型引发热议<br>1. **白金贵族形象亮相**  <br>   在《喜人奇妙夜》的节目《公主小哥》中，鑫仔以**白金发色+白色流苏西装**的造型登场，气质优雅贵气，与以往在《少爷和我》中饰演的平民角色“刘波”形成鲜明反差。其行走时流苏摇曳的细节被观众形容为“台偶少爷既视感”，大张伟更当场称赞其“有一种莫名其妙的帅”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 3, \"data\": {\"num\": [1, 18, 19, 30], \"version\": 2, \"quote_list\": [{\"name\": \"剧透少年何弃疗\", \"scheme\": \"sinaweibo://detail?mblogid=5228540007023246\", \"index\": 18, \"label\": \"大v\"}, {\"name\": \"钱包比我还瘦\", \"scheme\": \"sinaweibo://detail?mblogid=5228476497139541\", \"index\": 1, \"label\": \"\"}, {\"name\": \"追剧少女刘书欣\", \"scheme\": \"sinaweibo://detail?mblogid=5228539948303929\", \"index\": 19, \"label\": \"\"}, {\"name\": \"路上的妖怪5972\", \"scheme\": \"sinaweibo://detail?mblogid=5228549697179052\", \"index\": 30, \"label\": \"\"}], \"name\": \"剧透少年何弃疗\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.1008.1008.50/007bn3Z3ly8glmo93ih6fj30s00s0tbm.jpg?KID=imgbed,tva&Expires=1762078871&ssig=Cr6kxsfSLY\", \"scheme\": \"sinaweibo://detail?mblogid=5228540007023246\", \"vType\": 0}}```<br><br>2. **“双少爷”梗的诞生**  <br>   由于鑫仔此次形象颠覆性地贴近“贵公子”人设，而原组合中张哲华常扮演高傲少爷（如“龙傲天”），网友戏称：“鑫仔帅到认不出，少爷和我组合升级为‘俩少爷’了！”。这一调侃迅速成为热门话题标签。```wbCustomBlock{\"type\": \"quoted\", \"index\": 4, \"data\": {\"num\": [1, 20, 25], \"version\": 2, \"quote_list\": [{\"name\": \"钱包比我还瘦\", \"scheme\": \"sinaweibo://detail?mblogid=5228476497139541\", \"index\": 1, \"label\": \"大v\"}, {\"name\": \"代言\", \"scheme\": \"sinaweibo://detail?mblogid=5228540805252350\", \"index\": 20, \"label\": \"\"}, {\"name\": \"猪厂鹅厂叠纸三家隐名股东\", \"scheme\": \"sinaweibo://detail?mblogid=5228553054720069\", \"index\": 25, \"label\": \"\"}], \"name\": \"钱包比我还瘦\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.1023.1023.50/006Ie5UNly8hwx4k2kqfkj30sg0sfwhf.jpg?KID=imgbed,tva&Expires=1762078871&ssig=E0Mjj0ZUT%2B\", \"scheme\": \"sinaweibo://detail?mblogid=5228476497139541\", \"vType\": 0}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5228476497139541&from=search&content_show=1&mix_index=5&hide_index=1&multi_paragraph=1&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.1023.1023.50/006Ie5UNly8hwx4k2kqfkj30sg0sfwhf.jpg?KID=imgbed,tva&Expires=1762078871&ssig=E0Mjj0ZUT%2B) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">钱包比我还瘦</span><img src=\"http://wx1.sinaimg.cn/middle/006Ie5UNly1i6xnbs4w5ag30k00k0qva.gif\" data-width=720 data-height=720></div></media-block><br>### 🎭 二、组合背景：“少爷和我”的经典角色设定<br>1. **原组合的定位**  <br>   鑫仔与张哲华在《一年一度喜剧大赛2》中以“少爷和我”组合走红。经典作品中，张哲华多饰演气场强大的“少爷”（如龙傲天），鑫仔则扮演接地气的管家或平民（如刘波），角色反差制造了大量笑点。名台词“我龙傲天誓死守护刘波”成为代表性梗。```wbCustomBlock{\"type\": \"quoted\", \"index\": 6, \"data\": {\"num\": [3, 4, 6, 39], \"version\": 2, \"quote_list\": [{\"name\": \"草莓蛋糕特别甜\", \"scheme\": \"sinaweibo://detail?mblogid=5227408119565543\", \"index\": 3, \"label\": \"大v\"}, {\"name\": \"娱乐小甜兔\", \"scheme\": \"sinaweibo://detail?mblogid=5227345090972439\", \"index\": 4, \"label\": \"\"}, {\"name\": \"梦诺2016\", \"scheme\": \"sinaweibo://detail?mblogid=5227332991975960\", \"index\": 6, \"label\": \"\"}, {\"name\": \"哈哈和麻麻\", \"scheme\": \"sinaweibo://detail?mblogid=5227361459242881\", \"index\": 39, \"label\": \"\"}], \"name\": \"草莓蛋糕特别甜\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.480.480.50/008x4dwcly8hyt8ycagf8j30dc0dct94.jpg?KID=imgbed,tva&Expires=1762078871&ssig=ms5XVjWWlw\", \"scheme\": \"sinaweibo://detail?mblogid=5227408119565543\", \"vType\": 0}}```<br><br>2. **观众对再合作的期待**  <br>   尽管此次“双少爷”为调侃，但不少粉丝呼吁两人再度搭档。有用户直接喊话平台：“```wbCustomBlock{\"type\": \"midquoted\", \"index\": \"1717871843_1\", \"data\": {\"name\": \"京东\", \"scheme\": \"https://weibo.com/u/1717871843\"}}``` 安排双人直播！```wbCustomBlock{\"type\": \"midquoted\", \"index\": \"1731986465_1\", \"data\": {\"name\": \"爱奇艺\", \"scheme\": \"https://weibo.com/u/1731986465\"}}``` 拍《少爷和我》短剧第二季！”。组合缺席《喜人奇妙夜》第二季也引发粉丝遗憾。```wbCustomBlock{\"type\": \"quoted\", \"index\": 7, \"data\": {\"num\": [2, 9, 12], \"version\": 2, \"quote_list\": [{\"name\": \"IT互联网那点事\", \"scheme\": \"sinaweibo://detail?mblogid=5227382731444279\", \"index\": 2, \"label\": \"大v\"}, {\"name\": \"超级大笨蛋1649\", \"scheme\": \"sinaweibo://detail?mblogid=5227390737319278\", \"index\": 9, \"label\": \"\"}, {\"name\": \"文旅诗画\", \"scheme\": \"sinaweibo://detail?mblogid=5215781052220668\", \"index\": 12, \"label\": \"\"}], \"name\": \"IT互联网那点事\", \"img\": \"https://tva4.sinaimg.cn/crop.0.20.158.158.50/6da17e26gw1eej7q25xqbj204f052t8p.jpg?KID=imgbed,tva&Expires=1762078871&ssig=9FrI7advIS\", \"scheme\": \"sinaweibo://detail?mblogid=5227382731444279\", \"vType\": 0}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5227382731444279&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=2&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tva4.sinaimg.cn/crop.0.20.158.158.50/6da17e26gw1eej7q25xqbj204f052t8p.jpg?KID=imgbed,tva&Expires=1762078871&ssig=9FrI7advIS) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">IT互联网那点事</span><img src=\"http://wx3.sinaimg.cn/middle/6da17e26gy1i6u5pa9xy7j22681cwn9o.jpg\" data-width=1760 data-height=2816></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5227390737319278&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=2&multi_count=1\"><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/007vrwJgly8i6injjigxcj30u00u0wg0.jpg?KID=imgbed,tva&Expires=1762078871&ssig=PnJLmxWpIg) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">超级大笨蛋1649</span><img src=\"http://wx2.sinaimg.cn/middle/007vrwJgly1i6u6n94ps8j31o09ls1l0.jpg\" data-width=12448 data-height=2160></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5227345090972439&multi_paragraph=2&multi_count=2\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/008A2gNsly1i6cxq1f4jaj30u00u03zq.jpg?KID=imgbed,tva&Expires=1762078871&ssig=TFHbS%2Bduqe) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">娱乐小甜兔</span><img src=\"http://wx2.sinaimg.cn/middle/008A2gNsly1i6u1dwmhz5j30zk0k0q4w.jpg\" data-width=720 data-height=1280></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5227332991975960&multi_paragraph=2&multi_count=3\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/006mgHRKly8i2hljghe92j30u00u1tbq.jpg?KID=imgbed,tva&Expires=1762078871&ssig=yQNrKAtSSP) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">梦诺2016</span><img src=\"http://wx4.sinaimg.cn/middle/006mgHRKly1i6tzzu9ostj31400u0ta0.jpg\" data-width=1080 data-height=1440></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5227361459242881&multi_paragraph=2&multi_count=4\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.512.512.50/9f4a3699ly8i0tguu1fs8j20e80e8aag.jpg?KID=imgbed,tva&Expires=1762078871&ssig=WaSBUUWg9R) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">哈哈和麻麻</span><img src=\"http://wx1.sinaimg.cn/middle/9f4a3699ly1i6u33tgh0ij20zk0k0t9y.jpg\" data-width=720 data-height=1280></div><div data-type=\"v\" data-scheme=\"sinaweibo://multimedia?mix_mid=5215781052220668&mix_index=0&multi_paragraph=2&multi_count=5\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.1.1078.1078.50/008cHTk8ly8i5mpw5n936j30ty0u0mzj.jpg?KID=imgbed,tva&Expires=1762078871&ssig=wMDeYTP7wg) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">文旅诗画</span><img src=\"http://wx1.sinaimg.cn/middle/008cHTk8ly1i5t59k69e0j30k00zkmya.jpg\" data-width=1280 data-height=720></div></media-block><br>### 💎 三、延伸信息<br>1. **鑫仔的转型认可**  <br>   新造型被广泛评价为“解锁颜值潜力”，其时尚表现力获肯定，部分观众认为这拓展了他的喜剧人设边界。```wbCustomBlock{\"type\": \"quoted\", \"index\": 9, \"data\": {\"num\": [19, 26, 28], \"version\": 2, \"quote_list\": [{\"name\": \"追剧少女刘书欣\", \"scheme\": \"sinaweibo://detail?mblogid=5228539948303929\", \"index\": 19, \"label\": \"大v\"}, {\"name\": \"嗦一桶老坛杉菜\", \"scheme\": \"sinaweibo://detail?mblogid=5228553029555065\", \"index\": 26, \"label\": \"\"}, {\"name\": \"淡冩015\", \"scheme\": \"sinaweibo://detail?mblogid=5228552851297472\", \"index\": 28, \"label\": \"\"}], \"name\": \"追剧少女刘书欣\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.995.995.50/007bn44cly8h8v0hbdxzrj30rn0rnaca.jpg?KID=imgbed,tva&Expires=1762078871&ssig=TcmS4aMSMR\", \"scheme\": \"sinaweibo://detail?mblogid=5228539948303929\", \"vType\": 0}}```<br><br>2. **张哲华近况**  <br>   其主演剧集《蓝色彗星》已于2024年完成拍摄，处于后期阶段，剧中延续优雅风格，但并非当前拍摄新作。<br>### 💎 四、用户讨论焦点<br>话题核心围绕三点：  <br>✅ 鑫仔形象颠覆带来的惊喜感；  <br>✅ 对“少爷和我”经典组合的怀念；  <br>✅ 二人是否可能因形象变化调整未来合作模式（如“双强”设定）。  <br>部分粉丝幽默表示：“傲天是真升番了，但刘波少爷版也毫不逊色！”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 11, \"data\": {\"num\": [25, 30, 39], \"version\": 2, \"quote_list\": [{\"name\": \"猪厂鹅厂叠纸三家隐名股东\", \"scheme\": \"sinaweibo://detail?mblogid=5228553054720069\", \"index\": 25, \"label\": \"\"}, {\"name\": \"路上的妖怪5972\", \"scheme\": \"sinaweibo://detail?mblogid=5228549697179052\", \"index\": 30, \"label\": \"\"}, {\"name\": \"哈哈和麻麻\", \"scheme\": \"sinaweibo://detail?mblogid=5227361459242881\", \"index\": 39, \"label\": \"\"}]}}```<br>",
+      "short_url": "http://t.cn/AXAXNw5E",
+      "version": "2025-11-02 15:21:11.010999-7609",
+      "page_id": "23296455ee068fcd657924fdcc31fbd675de69",
+      "sorted_material_list": null,
+      "qs_status": 0,
+      "top_quote_list": {},
+      "scheme": "sinaweibo://cardlist?containerid=100103type%3D225%26q%3D%23%E5%B0%91%E7%88%B7%E5%92%8C%E6%88%91%E7%8E%B0%E5%9C%A8%E6%98%AF%E4%BF%A9%E5%B0%91%E7%88%B7%23%26t%3D&extparam=ai_model%3Ddeepseek%26ori_ai_title%3D%E5%8F%82%E8%80%83%E5%8D%9A%E6%96%87%26material_version%3D1762068071",
+      "abtest_info": {
+        "chat_entrance": 1
+      },
+      "cot": 1,
+      "share_info": {
+        "url": "http://t.cn/AXAa9jRT",
+        "unify_md5": "ec49461fa7909db7d6240a828e309b62",
+        "comment_content": "",
+        "page_id": "23296455ee068fcd657924fdcc31fbd675de69",
+        "tips": "#少爷和我现在是俩少爷#的相关内容，来智搜看看",
+        "display_name": "#少爷和我现在是俩少爷#",
+        "status": 3
+      },
+      "share_text": "#少爷和我现在是俩少爷#的相关内容，来智搜看看",
+      "msg_format": "markdown",
+      "show_ctrl": {
+        "quote": {}
+      },
+      "comment_info": {},
+      "ab_suffix": "default"
+    }
+  },
+  "links": [
+    "sinaweibo://detail?mblogid=5228476497139541",
+    "sinaweibo://detail?mblogid=5227382731444279",
+    "sinaweibo://detail?mblogid=5227408119565543",
+    "sinaweibo://detail?mblogid=5227345090972439",
+    "sinaweibo://detail?mblogid=5227389145843037",
+    "sinaweibo://detail?mblogid=5227332991975960",
+    "sinaweibo://detail?mblogid=5227392533530890",
+    "sinaweibo://detail?mblogid=5226454423968729",
+    "sinaweibo://detail?mblogid=5227390737319278",
+    "sinaweibo://detail?mblogid=5221329088286693",
+    "sinaweibo://detail?mblogid=5212631256008600",
+    "sinaweibo://detail?mblogid=5215781052220668",
+    "sinaweibo://detail?mblogid=5227414235908135",
+    "broadsocial_res://",
+    "historyweibo://4848332444272935",
+    "historyweibo://4844889421124688",
+    "historyweibo://4844864455580140",
+    "sinaweibo://detail?mblogid=5228540007023246",
+    "sinaweibo://detail?mblogid=5228539948303929",
+    "sinaweibo://detail?mblogid=5228540805252350",
+    "sinaweibo://detail?mblogid=5228554745027029",
+    "sinaweibo://detail?mblogid=5228554677914201",
+    "sinaweibo://detail?mblogid=5228553483323911",
+    "sinaweibo://detail?mblogid=5228553392097989",
+    "sinaweibo://detail?mblogid=5228553054720069",
+    "sinaweibo://detail?mblogid=5228553029555065",
+    "sinaweibo://detail?mblogid=5228552917877903",
+    "sinaweibo://detail?mblogid=5228552851297472",
+    "sinaweibo://detail?mblogid=5228552767409194",
+    "sinaweibo://detail?mblogid=5228549697179052",
+    "sinaweibo://detail?mblogid=5227961274079018",
+    "sinaweibo://detail?mblogid=5226708393530110",
+    "sinaweibo://detail?mblogid=5225661601941653",
+    "sinaweibo://detail?mblogid=5227384946297727",
+    "sinaweibo://detail?mblogid=5225912737202606",
+    "sinaweibo://detail?mblogid=5227542668909575",
+    "sinaweibo://detail?mblogid=5226096708818036",
+    "sinaweibo://detail?mblogid=5227399061178871",
+    "sinaweibo://detail?mblogid=5227361459242881"
+  ],
+  "media": [
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/006Ie5UNly1i6xnbs4w5ag30k00k0qva.gif",
+      "secure_url": "https://wx1.sinaimg.cn/middle/006Ie5UNly1i6xnbs4w5ag30k00k0qva.gif",
+      "alt": "钱包比我还瘦",
+      "width": 720,
+      "height": 720,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/006Ie5UNly1i6xnbs4w5ag30k00k0qva.jpg"
+      ],
+      "user": "钱包比我还瘦"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/6da17e26gy1i6u5pa9xy7j22681cwn9o.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/6da17e26gy1i6u5pa9xy7j22681cwn9o.jpg",
+      "alt": "IT互联网那点事",
+      "width": 1760,
+      "height": 2816,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/6da17e26gy1i6u5pa9xy7j22681cwn9o.jpg"
+      ],
+      "user": "IT互联网那点事"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/007vrwJgly1i6u6n94ps8j31o09ls1l0.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/007vrwJgly1i6u6n94ps8j31o09ls1l0.jpg",
+      "alt": "超级大笨蛋1649",
+      "width": 12448,
+      "height": 2160,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/007vrwJgly1i6u6n94ps8j31o09ls1l0.jpg"
+      ],
+      "user": "超级大笨蛋1649"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/008A2gNsly1i6u1dwmhz5j30zk0k0q4w.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/008A2gNsly1i6u1dwmhz5j30zk0k0q4w.jpg",
+      "alt": "娱乐小甜兔",
+      "width": 720,
+      "height": 1280,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/008A2gNsly1i6u1dwmhz5j30zk0k0q4w.jpg"
+      ],
+      "user": "娱乐小甜兔"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/006mgHRKly1i6tzzu9ostj31400u0ta0.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/006mgHRKly1i6tzzu9ostj31400u0ta0.jpg",
+      "alt": "梦诺2016",
+      "width": 1080,
+      "height": 1440,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx4.sinaimg.cn/large/006mgHRKly1i6tzzu9ostj31400u0ta0.jpg"
+      ],
+      "user": "梦诺2016"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/9f4a3699ly1i6u33tgh0ij20zk0k0t9y.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/9f4a3699ly1i6u33tgh0ij20zk0k0t9y.jpg",
+      "alt": "哈哈和麻麻",
+      "width": 720,
+      "height": 1280,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/9f4a3699ly1i6u33tgh0ij20zk0k0t9y.jpg"
+      ],
+      "user": "哈哈和麻麻"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/008cHTk8ly1i5t59k69e0j30k00zkmya.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/008cHTk8ly1i5t59k69e0j30k00zkmya.jpg",
+      "alt": "文旅诗画",
+      "width": 1280,
+      "height": 720,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/008cHTk8ly1i5t59k69e0j30k00zkmya.jpg"
+      ],
+      "user": "文旅诗画"
+    }
+  ],
+  "html_path": "data/aicard/hourly/2025-11-02/15/topic-ec49461f.html"
+}

@@ -1,0 +1,349 @@
+{
+  "meta": {
+    "query": "#小鱼海棠婚礼现场#",
+    "status_code": 200,
+    "fetched_at": "2025-10-29T05:36:06+08:00",
+    "response": {
+      "show_ctrl": {
+        "quote": {}
+      },
+      "unify_md5": "9cb04000cb861d7ddf610932dd9d9e18",
+      "scheme": "sinaweibo://cardlist?containerid=100103type%3D225%26q%3D%23%E5%B0%8F%E9%B1%BC%E6%B5%B7%E6%A3%A0%E5%A9%9A%E7%A4%BC%E7%8E%B0%E5%9C%BA%23%26t%3D&extparam=ai_model%3Ddeepseek%26ori_ai_title%3D%E5%8F%82%E8%80%83%E5%8D%9A%E6%96%87%26material_version%3D1761687018",
+      "qs_status_info": "{\"qs_q_status\":0,\"qs_c_status\":8388608,\"qs_status\":0,\"qs_u_status\":0,\"qs_r_status\":0,\"ab_lab\":{}}",
+      "loop_times": 200,
+      "top_quote_list": {},
+      "sorted_material_list": null,
+      "query": "#小鱼海棠婚礼现场#",
+      "share_card_multimodal": {
+        "img": "http://wx1.sinaimg.cn/middle/006KHmnugy1i6n6cnsbw1j30zu0b0dhj.jpg",
+        "cur_mid": "5225194253453380",
+        "user_name": "苏易陆",
+        "type": "p",
+        "user_avatar": "https://tvax2.sinaimg.cn/crop.0.0.512.512.50/006KHmnuly8i1cj54o88dj30e80e8mxj.jpg?KID=imgbed,tva&Expires=1761697818&ssig=%2Bnf9dMI%2F3J",
+        "scheme": "sinaweibo://multimedia?mix_mid=5225194253453380&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=1&multi_count=0",
+        "w": 1290,
+        "click_rate": 0.49505805880961,
+        "hit_score_new": 82.324219,
+        "doc_score": 4865,
+        "img_pid": "006KHmnugy1i6n6cnsbw1j30zu0b0dhj",
+        "video_url": "",
+        "vtype": 0,
+        "h": 396,
+        "hit_score_final": 72.994537
+      },
+      "model": "deepseek",
+      "reference_num": 40,
+      "cot": 1,
+      "q_attr": {
+        "from_request_id": "",
+        "from_uid": ""
+      },
+      "news_analyze": {},
+      "reliable_tips": "{\"gold_orange_v_mids\": [\"5226853352871090\", \"5226827310174368\", \"5225194253453380\", \"5226868381059275\", \"5226838823801941\", \"5226799824899137\", \"5226840253794646\", \"5226833903881876\", \"5226834516248855\", \"5226834104946638\", \"5224209224565251\", \"5226800336606305\", \"5226829671825476\", \"5226833828119791\", \"5226832360118438\", \"5226867141378146\", \"5226828483533347\", \"5226829480989611\", \"5226855617796394\", \"5226871451027236\", \"5226843718551600\", \"5226846698344307\", \"5226853364929187\", \"5224219606781464\", \"5226831700559455\", \"5226860469816665\", \"5226805577384559\", \"5226834674589401\", \"5226836352307657\", \"5226838818820028\", \"5226843617102098\", \"5226956534579548\", \"5226956464587060\"], \"gold_orange_v_ratio\": \"83%\", \"media_mids\": [], \"media_ratio\": \"0%\", \"verified_mids\": [\"5226853520378292\", \"5226853461656557\"], \"verified_ratio\": \"5%\", \"normal_mids\": [\"5226904095032415\", \"5226955238539266\", \"5226945373798454\", \"5226941139125039\", \"5226928162472303\"], \"normal_ratio\": \"12%\", \"ref_mid_rank\": {\"5226853352871090\": {\"rank\": 30}, \"5226827310174368\": {\"rank\": 3}, \"5225194253453380\": {\"rank\": 7}, \"5226868381059275\": {\"rank\": 21}, \"5226838823801941\": {\"rank\": 9}, \"5226799824899137\": {\"rank\": 1}, \"5226840253794646\": {\"rank\": 16}, \"5226833903881876\": {\"rank\": 25}, \"5226834516248855\": {\"rank\": 4}, \"5226834104946638\": {\"rank\": 32}, \"5226904095032415\": {\"rank\": 41}, \"5224209224565251\": {\"rank\": 10}, \"5226800336606305\": {\"rank\": 39}, \"5226829671825476\": {\"rank\": 2}, \"5226833828119791\": {\"rank\": 20}, \"5226832360118438\": {\"rank\": 27}, \"5226867141378146\": {\"rank\": 19}, \"5226828483533347\": {\"rank\": 6}, \"5226829480989611\": {\"rank\": 15}, \"5226855617796394\": {\"rank\": 18}, \"5226871451027236\": {\"rank\": 42}, \"5226843718551600\": {\"rank\": 17}, \"5226846698344307\": {\"rank\": 43}, \"5226853364929187\": {\"rank\": 5}, \"5224219606781464\": {\"rank\": 8}, \"5226831700559455\": {\"rank\": 22}, \"5226860469816665\": {\"rank\": 23}, \"5226805577384559\": {\"rank\": 24}, \"5226834674589401\": {\"rank\": 26}, \"5226836352307657\": {\"rank\": 28}, \"5226838818820028\": {\"rank\": 29}, \"5226843617102098\": {\"rank\": 31}, \"5226956534579548\": {\"rank\": 33}, \"5226956464587060\": {\"rank\": 34}, \"5226955238539266\": {\"rank\": 35}, \"5226945373798454\": {\"rank\": 36}, \"5226941139125039\": {\"rank\": 37}, \"5226928162472303\": {\"rank\": 38}, \"5226853520378292\": {\"rank\": 40}, \"5226853461656557\": {\"rank\": 44}}}",
+      "msg": "<think><br>嗯，用户想了解小鱼海棠婚礼现场的情况。这个问题看起来像是想了解这场网红婚礼的亮点和背后的故事。从搜索结果来看，这个话题热度很高，有大量实时讨论。<br><br>用户可能不只是想看简单的婚礼报道，而是想了解这场网红婚礼的特殊之处。毕竟小鱼海棠作为知名博主，她的婚礼肯定和普通人不一样。从搜索结果看，有几个关键点值得关注：<br><br>首先婚礼性质很特殊。原来这是一场迟来的婚礼，他们早在2023年5月就领证了，今年3月还生了宝宝叫“小鱿鱼”。延迟原因挺有意思的，一是新郎本命年不宜办喜事，二是要照顾孕期和育儿。<br><br>婚礼现场设计很有创意。以《大鱼海棠》为灵感，做了中式庭院造型的舞台，还铺了70米红地毯从小区门口到家门。最特别的是用了电子鞭炮，既环保又有气氛。<br><br>嘉宾阵容堪称网红界“春晚”，陈律在现场直播，安静公主、孙恩盛等头部网红都来了。据说所有和小鱼海棠拍过写真的帅哥都到场了，这个细节很有趣。<br><br>新娘在婚礼上还回应了争议。她主动出示结婚证，澄清“未婚先孕”的传言。她的告白词很打动人：“我的人生从独自漂泊的纪录片，变成了有人并肩的温情片”。<br><br>他们的爱情故事也很值得讲。新郎当初只是她视频里的“路人甲”，为了追她辞职搬到杭州，连团队伙伴“大黄”都成了红娘。怀孕期间还复刻云南花海秋千逗她开心，这些细节比偶像剧还甜。<br><br>粉丝在这次婚礼中扮演了特殊角色。不仅设了粉丝专座，连电子鞭炮、红毯设计都采用粉丝创意，这种互动方式很新颖。<br><br>婚纱照收获一致好评，据说小鱼身着白色主纱和红色中式礼服惊艳全场。不过有网友觉得新郎长得像洪世贤，这个调侃挺有意思的。<br><br>虽然大部分是祝福，但也有商业化过度的质疑，还有网友记得她早期抓帅哥拍照时引发的网暴争议。这些不同声音也应该客观提及。<br><br>用户可能是小鱼海棠的粉丝，也可能是关注网红文化的路人。回答时需要平衡信息量和趣味性，既要突出婚礼亮点，也要呈现背后的故事。时间线上要注意准确性，特别是领证、生子、办婚礼这三个关键节点。<br><br></think><br>小鱼海棠（知名网红博主）与丈夫“冻鱼”（本名信息未正式公开）于**2025年10月28日在杭州补办婚礼**。以下综合现场亮点、背景故事及公众热议焦点：<br>### 💒 **一、婚礼核心亮点**  <br>1. **主题与设计**  <br>   - 灵感源自《大鱼海棠》，主舞台复刻中式庭院楼阁，搭配月牙弧形图腾，呼应新人网名及“乾坤”寓意。```wbCustomBlock{\"type\": \"quoted\", \"index\": 4, \"data\": {\"num\": [30], \"version\": 2, \"quote_list\": [{\"name\": \"云烟成-雨\", \"scheme\": \"sinaweibo://detail?mblogid=5226853352871090\", \"index\": 30, \"label\": \"\"}]}}```  <br>   - 铺设**70米红地毯**从小区门口延伸至家门，结合环保电子鞭炮营造喜庆氛围。```wbCustomBlock{\"type\": \"quoted\", \"index\": 5, \"data\": {\"num\": [3, 7, 21], \"version\": 2, \"quote_list\": [{\"name\": \"苏易陆\", \"scheme\": \"sinaweibo://detail?mblogid=5225194253453380\", \"index\": 7, \"label\": \"大v\"}, {\"name\": \"寄出小软卷\", \"scheme\": \"sinaweibo://detail?mblogid=5226827310174368\", \"index\": 3, \"label\": \"\"}, {\"name\": \"朝天酱\", \"scheme\": \"sinaweibo://detail?mblogid=5226868381059275\", \"index\": 21, \"label\": \"\"}], \"name\": \"苏易陆\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.512.512.50/006KHmnuly8i1cj54o88dj30e80e8mxj.jpg?KID=imgbed,tva&Expires=1761697818&ssig=%2Bnf9dMI%2F3J\", \"scheme\": \"sinaweibo://detail?mblogid=5225194253453380\", \"vType\": 0}}```  <br>   - 融入传统元素：压床娃娃（寓意多子）、长明灯（象征白头）、定制宠物中式肚兜等。```wbCustomBlock{\"type\": \"quoted\", \"index\": 6, \"data\": {\"num\": [3, 9], \"version\": 2, \"quote_list\": [{\"name\": \"寄出小软卷\", \"scheme\": \"sinaweibo://detail?mblogid=5226827310174368\", \"index\": 3, \"label\": \"\"}, {\"name\": \"找不到苹果\", \"scheme\": \"sinaweibo://detail?mblogid=5226838823801941\", \"index\": 9, \"label\": \"\"}]}}```<br><br>2. **新人造型**  <br>   - 新娘小鱼海棠身着白色主纱与红色中式礼服，被赞“惊艳”；新郎“冻鱼”以正装亮相，气质获评“登对帅气”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 8, \"data\": {\"num\": [1, 16], \"version\": 2, \"quote_list\": [{\"name\": \"苏易陆\", \"scheme\": \"sinaweibo://detail?mblogid=5226799824899137\", \"index\": 1, \"label\": \"\"}, {\"name\": \"禾愈绷带\", \"scheme\": \"sinaweibo://detail?mblogid=5226840253794646\", \"index\": 16, \"label\": \"\"}]}}```<br><br>3. **嘉宾与互动**  <br>   - **网红云集**：陈律（现场直播）、安静公主、孙恩盛、一诺等头部博主出席，合作拍摄的“999位帅哥”系列男主角全员到场。```wbCustomBlock{\"type\": \"quoted\", \"index\": 10, \"data\": {\"num\": [1, 7, 25, 30], \"version\": 2, \"quote_list\": [{\"name\": \"苏易陆\", \"scheme\": \"sinaweibo://detail?mblogid=5226799824899137\", \"index\": 1, \"label\": \"\"}, {\"name\": \"苏易陆\", \"scheme\": \"sinaweibo://detail?mblogid=5225194253453380\", \"index\": 7, \"label\": \"\"}, {\"name\": \"只在今天说爱你\", \"scheme\": \"sinaweibo://detail?mblogid=5226833903881876\", \"index\": 25, \"label\": \"\"}, {\"name\": \"云烟成-雨\", \"scheme\": \"sinaweibo://detail?mblogid=5226853352871090\", \"index\": 30, \"label\": \"\"}]}}```  <br>   - **粉丝深度参与**：特设粉丝席位，电子鞭炮和红毯设计采纳全网征集创意，打破网红与粉丝界限。```wbCustomBlock{\"type\": \"quoted\", \"index\": 11, \"data\": {\"num\": [3, 7, 30], \"version\": 2, \"quote_list\": [{\"name\": \"寄出小软卷\", \"scheme\": \"sinaweibo://detail?mblogid=5226827310174368\", \"index\": 3, \"label\": \"\"}, {\"name\": \"苏易陆\", \"scheme\": \"sinaweibo://detail?mblogid=5225194253453380\", \"index\": 7, \"label\": \"\"}, {\"name\": \"云烟成-雨\", \"scheme\": \"sinaweibo://detail?mblogid=5226853352871090\", \"index\": 30, \"label\": \"\"}]}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5225194253453380&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=1&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.512.512.50/006KHmnuly8i1cj54o88dj30e80e8mxj.jpg?KID=imgbed,tva&Expires=1761697818&ssig=%2Bnf9dMI%2F3J) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">苏易陆</span><img src=\"http://wx1.sinaimg.cn/middle/006KHmnugy1i6n6cnsbw1j30zu0b0dhj.jpg\" data-width=396 data-height=1290></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5226868381059275&from=search&content_show=1&mix_index=2&hide_index=1&multi_paragraph=1&multi_count=1\"><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.1052.1052.50/008luVEoly8i6sjawze0qj30t80t8q53.jpg?KID=imgbed,tva&Expires=1761697818&ssig=gL3k7kgadg) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">朝天酱</span><img src=\"http://wx3.sinaimg.cn/middle/008luVEogy1i6silfe05uj30u018k42p.jpg\" data-width=1604 data-height=1080></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5226827310174368&multi_paragraph=1&multi_count=2\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.1.1078.1078.50/005WAye7ly8i6nz51rv3bj30ty0u0n0c.jpg?KID=imgbed,tva&Expires=1761697818&ssig=JTvSdOlM0%2F) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">寄出小软卷</span><img src=\"http://wx1.sinaimg.cn/middle/005WAye7ly1i6sdx1taqhj30k00zkmyf.jpg\" data-width=1280 data-height=720></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5226799824899137&multi_paragraph=1&multi_count=3\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.512.512.50/006KHmnuly8i1cj54o88dj30e80e8mxj.jpg?KID=imgbed,tva&Expires=1761697818&ssig=%2Bnf9dMI%2F3J) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">苏易陆</span><img src=\"http://wx1.sinaimg.cn/middle/006KHmnuly1i6saq4ar4vj30u01a00ur.jpg\" data-width=1656 data-height=1080></div></media-block><br>### 💞 **二、爱情故事与争议回应**  <br>1. **时间线梳理**  <br>   - 相识：2021年小鱼拍摄视频时，“冻鱼”以路人身份出镜。```wbCustomBlock{\"type\": \"quoted\", \"index\": 14, \"data\": {\"num\": [4, 32], \"version\": 2, \"quote_list\": [{\"name\": \"果酱系外行星\", \"scheme\": \"sinaweibo://detail?mblogid=5226834516248855\", \"index\": 4, \"label\": \"\"}, {\"name\": \"_纯色系_\", \"scheme\": \"sinaweibo://detail?mblogid=5226834104946638\", \"index\": 32, \"label\": \"\"}]}}```  <br>   - 相恋：男方为追求她辞去工作迁居杭州，经团队伙伴“大黄”撮合交往。```wbCustomBlock{\"type\": \"quoted\", \"index\": 15, \"data\": {\"num\": [4, 32], \"version\": 2, \"quote_list\": [{\"name\": \"果酱系外行星\", \"scheme\": \"sinaweibo://detail?mblogid=5226834516248855\", \"index\": 4, \"label\": \"\"}, {\"name\": \"_纯色系_\", \"scheme\": \"sinaweibo://detail?mblogid=5226834104946638\", \"index\": 32, \"label\": \"\"}]}}```  <br>   - 婚姻进程：2023年1月订婚 → 同年5月19日领证 → 2025年3月生子“小鱿鱼” → 2025年10月补办婚礼。```wbCustomBlock{\"type\": \"quoted\", \"index\": 16, \"data\": {\"num\": [9, 41], \"version\": 2, \"quote_list\": [{\"name\": \"找不到苹果\", \"scheme\": \"sinaweibo://detail?mblogid=5226838823801941\", \"index\": 9, \"label\": \"\"}, {\"name\": \"Adgii\", \"scheme\": \"sinaweibo://detail?mblogid=5226904095032415\", \"index\": 41, \"label\": \"\"}]}}```  <br><br>2. **澄清争议**  <br>   - **未婚先孕质疑**：婚礼现场主动出示2023年结婚证，强调“领证→怀孕→生子→补婚礼”的合法时间线。```wbCustomBlock{\"type\": \"quoted\", \"index\": 18, \"data\": {\"num\": [9, 10, 39], \"version\": 2, \"quote_list\": [{\"name\": \"找不到苹果\", \"scheme\": \"sinaweibo://detail?mblogid=5226838823801941\", \"index\": 9, \"label\": \"\"}, {\"name\": \"财繁华梦\", \"scheme\": \"sinaweibo://detail?mblogid=5224209224565251\", \"index\": 10, \"label\": \"\"}, {\"name\": \"瘟流同期\", \"scheme\": \"sinaweibo://detail?mblogid=5226800336606305\", \"index\": 39, \"label\": \"\"}]}}```  <br>   - **延迟原因**：丈夫本命年习俗（传统忌办婚宴）、孕期调养及育儿安排。```wbCustomBlock{\"type\": \"quoted\", \"index\": 19, \"data\": {\"num\": [9], \"version\": 2, \"quote_list\": [{\"name\": \"找不到苹果\", \"scheme\": \"sinaweibo://detail?mblogid=5226838823801941\", \"index\": 9, \"label\": \"\"}]}}```<br><br>3. **温情细节**  <br>   - 孕期“冻鱼”为满足妻子需求，复刻云南花朵秋千于家中，学习东北菜替代出行。```wbCustomBlock{\"type\": \"quoted\", \"index\": 21, \"data\": {\"num\": [4], \"version\": 2, \"quote_list\": [{\"name\": \"果酱系外行星\", \"scheme\": \"sinaweibo://detail?mblogid=5226834516248855\", \"index\": 4, \"label\": \"\"}]}}```  <br>   - 新娘告白：“我的人生从独自漂泊的纪录片，变成有人并肩的温情片”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 22, \"data\": {\"num\": [39], \"version\": 2, \"quote_list\": [{\"name\": \"瘟流同期\", \"scheme\": \"sinaweibo://detail?mblogid=5226800336606305\", \"index\": 39, \"label\": \"\"}]}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5224209224565251&multi_paragraph=2&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.720.720.50/005MOfhGly8i190j8pokyj30k00k00tx.jpg?KID=imgbed,tva&Expires=1761697818&ssig=a%2BQR2LeZKV) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">财繁华梦</span><img src=\"http://wx2.sinaimg.cn/middle/005MOfhGly1i6k18iip5tj30u01hcdhh.jpg\" data-width=1920 data-height=1080></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5226800336606305&multi_paragraph=2&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/007CEpbUly8i6jw4t7v73j30u00u0wi0.jpg?KID=imgbed,tva&Expires=1761697818&ssig=zIZL3BqUQL) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">瘟流同期</span><img src=\"http://wx3.sinaimg.cn/middle/007CEpbUly1i6satyzezzj30k00qogop.jpg\" data-width=960 data-height=720></div></media-block><br>### 💬 **三、公众热议焦点**  <br>1. **祝福与感动**  <br>   - 多数网友为修成正果感动：“拍过千万帅哥，最终选择细水长流的爱情”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 25, \"data\": {\"num\": [2, 20, 27], \"version\": 2, \"quote_list\": [{\"name\": \"皮卡丘的十万伏特z\", \"scheme\": \"sinaweibo://detail?mblogid=5226829671825476\", \"index\": 2, \"label\": \"大v\"}, {\"name\": \"恋猫塑\", \"scheme\": \"sinaweibo://detail?mblogid=5226833828119791\", \"index\": 20, \"label\": \"\"}, {\"name\": \"抱着小兔子等小星星\", \"scheme\": \"sinaweibo://detail?mblogid=5226832360118438\", \"index\": 27, \"label\": \"\"}], \"name\": \"皮卡丘的十万伏特z\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/0069bLoCly8i3v0u6g3ofj30u00u0ta2.jpg?KID=imgbed,tva&Expires=1761697818&ssig=otUX8hc9FY\", \"scheme\": \"sinaweibo://detail?mblogid=5226829671825476\", \"vType\": 0}}```  <br>   - 婚纱照及现场布置获赞“绝美”“用心”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 26, \"data\": {\"num\": [19, 21, 39], \"version\": 2, \"quote_list\": [{\"name\": \"禹小乔被韫日记\", \"scheme\": \"sinaweibo://detail?mblogid=5226867141378146\", \"index\": 19, \"label\": \"大v\"}, {\"name\": \"朝天酱\", \"scheme\": \"sinaweibo://detail?mblogid=5226868381059275\", \"index\": 21, \"label\": \"\"}, {\"name\": \"瘟流同期\", \"scheme\": \"sinaweibo://detail?mblogid=5226800336606305\", \"index\": 39, \"label\": \"\"}], \"name\": \"禹小乔被韫日记\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/9e21ce8dly8i6mqj88zhvj20u00u0jtb.jpg?KID=imgbed,tva&Expires=1761697818&ssig=4EXs7RSdHC\", \"scheme\": \"sinaweibo://detail?mblogid=5226867141378146\", \"vType\": 0}}```<br><br>2. **疑问与讨论**  <br>   - **迟办婚礼**：部分网友误以为“早已完婚”，实则因上述原因推迟。```wbCustomBlock{\"type\": \"quoted\", \"index\": 28, \"data\": {\"num\": [6, 15, 18], \"version\": 2, \"quote_list\": [{\"name\": \"买点开心呀\", \"scheme\": \"sinaweibo://detail?mblogid=5226829480989611\", \"index\": 15, \"label\": \"大v\"}, {\"name\": \"青野泯川\", \"scheme\": \"sinaweibo://detail?mblogid=5226828483533347\", \"index\": 6, \"label\": \"\"}, {\"name\": \"小酥肉大人\", \"scheme\": \"sinaweibo://detail?mblogid=5226855617796394\", \"index\": 18, \"label\": \"\"}], \"name\": \"买点开心呀\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.1073.1073.50/0074Sbbyly8i4zggk8ks3j30tt0ttta1.jpg?KID=imgbed,tva&Expires=1761697818&ssig=yEQ6IgktXT\", \"scheme\": \"sinaweibo://detail?mblogid=5226829480989611\", \"vType\": 0}}```  <br>   - **商业化质疑**：过度曝光被指融合“网红经济+传统仪式”，但粉丝互动设计赢得好感。```wbCustomBlock{\"type\": \"quoted\", \"index\": 29, \"data\": {\"num\": [9, 30, 42], \"version\": 2, \"quote_list\": [{\"name\": \"找不到苹果\", \"scheme\": \"sinaweibo://detail?mblogid=5226838823801941\", \"index\": 9, \"label\": \"\"}, {\"name\": \"云烟成-雨\", \"scheme\": \"sinaweibo://detail?mblogid=5226853352871090\", \"index\": 30, \"label\": \"\"}, {\"name\": \"猪包呢\", \"scheme\": \"sinaweibo://detail?mblogid=5226871451027236\", \"index\": 42, \"label\": \"\"}]}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5226833828119791&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=3&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/008uUJXfly8i6rdzwoqzlj30u00u0mz8.jpg?KID=imgbed,tva&Expires=1761697818&ssig=jbxvrV4URk) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">恋猫塑</span><img src=\"http://wx4.sinaimg.cn/middle/008uUJXfgy1i6senb2gsaj30u010xn2p.jpg\" data-width=1329 data-height=1080></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5226828483533347&from=search&content_show=1&mix_index=3&hide_index=1&multi_paragraph=3&multi_count=1\"><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/006bdrOZly8i6sdncjpz9j30u00u0gol.jpg?KID=imgbed,tva&Expires=1761697818&ssig=Gog0GTEHhI) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">青野泯川</span><img src=\"http://wx2.sinaimg.cn/middle/006bdrOZly1i6se0fts4qj30yu1fq11r.jpg\" data-width=1862 data-height=1254></div></media-block><br>### **争议事件提及**  <br>有网友重提小鱼海棠早期“抓情侣拍照致素人被网暴”事件，但未影响当日婚礼主流祝福氛围。```wbCustomBlock{\"type\": \"quoted\", \"index\": 30, \"data\": {\"num\": [17], \"version\": 2, \"quote_list\": [{\"name\": \"予凛诗\", \"scheme\": \"sinaweibo://detail?mblogid=5226843718551600\", \"index\": 17, \"label\": \"大v\"}], \"name\": \"予凛诗\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/005U4QMHly8i6sb0t5w6oj30u00u077p.jpg?KID=imgbed,tva&Expires=1761697818&ssig=2effmLVnLs\", \"scheme\": \"sinaweibo://detail?mblogid=5226843718551600\", \"vType\": 0}}```  <br><br>小鱼海棠的婚礼既是对爱情长跑的圆满收官，也是网红生态中传统与现代平衡的典型案例。两人以清晰的时间线回应争议，用细节诠释“细水长流胜于轰轰烈烈”的幸福内核。```wbCustomBlock{\"type\": \"quoted\", \"index\": 31, \"data\": {\"num\": [4, 30, 43], \"version\": 2, \"quote_list\": [{\"name\": \"果酱系外行星\", \"scheme\": \"sinaweibo://detail?mblogid=5226834516248855\", \"index\": 4, \"label\": \"\"}, {\"name\": \"云烟成-雨\", \"scheme\": \"sinaweibo://detail?mblogid=5226853352871090\", \"index\": 30, \"label\": \"\"}, {\"name\": \"卷毛小狗耶\", \"scheme\": \"sinaweibo://detail?mblogid=5226846698344307\", \"index\": 43, \"label\": \"\"}]}}```<br>",
+      "status": 2,
+      "ab_suffix": "default",
+      "qs_status": 0,
+      "link_list": [
+        "sinaweibo://detail?mblogid=5226799824899137",
+        "sinaweibo://detail?mblogid=5226829671825476",
+        "sinaweibo://detail?mblogid=5226827310174368",
+        "sinaweibo://detail?mblogid=5226834516248855",
+        "sinaweibo://detail?mblogid=5226853364929187",
+        "sinaweibo://detail?mblogid=5226828483533347",
+        "sinaweibo://detail?mblogid=5225194253453380",
+        "sinaweibo://detail?mblogid=5224219606781464",
+        "sinaweibo://detail?mblogid=5226838823801941",
+        "sinaweibo://detail?mblogid=5224209224565251",
+        "broadsocial_res://",
+        "ctr://",
+        "historyweibo://4855728440873484",
+        "historyweibo://4855728440873484",
+        "sinaweibo://detail?mblogid=5226829480989611",
+        "sinaweibo://detail?mblogid=5226840253794646",
+        "sinaweibo://detail?mblogid=5226843718551600",
+        "sinaweibo://detail?mblogid=5226855617796394",
+        "sinaweibo://detail?mblogid=5226867141378146",
+        "sinaweibo://detail?mblogid=5226833828119791",
+        "sinaweibo://detail?mblogid=5226868381059275",
+        "sinaweibo://detail?mblogid=5226831700559455",
+        "sinaweibo://detail?mblogid=5226860469816665",
+        "sinaweibo://detail?mblogid=5226805577384559",
+        "sinaweibo://detail?mblogid=5226833903881876",
+        "sinaweibo://detail?mblogid=5226834674589401",
+        "sinaweibo://detail?mblogid=5226832360118438",
+        "sinaweibo://detail?mblogid=5226836352307657",
+        "sinaweibo://detail?mblogid=5226838818820028",
+        "sinaweibo://detail?mblogid=5226853352871090",
+        "sinaweibo://detail?mblogid=5226843617102098",
+        "sinaweibo://detail?mblogid=5226834104946638",
+        "sinaweibo://detail?mblogid=5226956534579548",
+        "sinaweibo://detail?mblogid=5226956464587060",
+        "sinaweibo://detail?mblogid=5226955238539266",
+        "sinaweibo://detail?mblogid=5226945373798454",
+        "sinaweibo://detail?mblogid=5226941139125039",
+        "sinaweibo://detail?mblogid=5226928162472303",
+        "sinaweibo://detail?mblogid=5226800336606305",
+        "sinaweibo://detail?mblogid=5226853520378292",
+        "sinaweibo://detail?mblogid=5226904095032415",
+        "sinaweibo://detail?mblogid=5226871451027236",
+        "sinaweibo://detail?mblogid=5226846698344307",
+        "sinaweibo://detail?mblogid=5226853461656557"
+      ],
+      "basemodel": "实验组7",
+      "page_id": "23296453ce6c1b2d795888553ae5a0cf9201d9",
+      "version": "2025-10-29 05:30:18.006999-7676",
+      "msg_json": "",
+      "analysis_time": 1761687247,
+      "wenda": {
+        "forward_gen": 0
+      },
+      "query_field": "31",
+      "query_category": "Ip",
+      "ext_show": {},
+      "chat_status_stage": 1,
+      "zs_risk_control": {
+        "land_button_close": 0,
+        "think_text_close": 0
+      },
+      "msg_format": "markdown",
+      "current_time": 1761687367,
+      "profile_image_url": "",
+      "user_info": {},
+      "card_multimodal": {
+        "type": "mediablock",
+        "data": [
+          {
+            "img": "http://wx1.sinaimg.cn/middle/006KHmnugy1i6n6cnsbw1j30zu0b0dhj.jpg",
+            "cur_mid": "5225194253453380",
+            "user_name": "苏易陆",
+            "type": "p",
+            "user_avatar": "https://tvax2.sinaimg.cn/crop.0.0.512.512.50/006KHmnuly8i1cj54o88dj30e80e8mxj.jpg?KID=imgbed,tva&Expires=1761697818&ssig=%2Bnf9dMI%2F3J",
+            "scheme": "sinaweibo://multimedia?mix_mid=5225194253453380&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=1&multi_count=0",
+            "w": 1290,
+            "click_rate": 0.49505805880961,
+            "hit_score_new": 82.324219,
+            "doc_score": 4865,
+            "img_pid": "006KHmnugy1i6n6cnsbw1j30zu0b0dhj",
+            "video_url": "",
+            "vtype": 0,
+            "h": 396,
+            "hit_score_final": 72.994537
+          },
+          {
+            "img": "http://wx3.sinaimg.cn/middle/008luVEogy1i6silfe05uj30u018k42p.jpg",
+            "cur_mid": "5226868381059275",
+            "user_name": "朝天酱",
+            "type": "p",
+            "user_avatar": "https://tvax4.sinaimg.cn/crop.0.0.1052.1052.50/008luVEoly8i6sjawze0qj30t80t8q53.jpg?KID=imgbed,tva&Expires=1761697818&ssig=gL3k7kgadg",
+            "scheme": "sinaweibo://multimedia?mix_mid=5226868381059275&from=search&content_show=1&mix_index=2&hide_index=1&multi_paragraph=1&multi_count=1",
+            "w": 1080,
+            "click_rate": 0.16642264519278,
+            "hit_score_new": 98.828125,
+            "doc_score": 5644,
+            "img_pid": "008luVEogy1i6silfe05uj30u018k42p",
+            "video_url": "",
+            "vtype": 0,
+            "h": 1604,
+            "hit_score_final": 97.696877
+          },
+          {
+            "img": "http://wx1.sinaimg.cn/middle/005WAye7ly1i6sdx1taqhj30k00zkmyf.jpg",
+            "cur_mid": "5226827310174368",
+            "user_name": "寄出小软卷",
+            "type": "v",
+            "user_avatar": "https://tvax1.sinaimg.cn/crop.0.1.1078.1078.50/005WAye7ly8i6nz51rv3bj30ty0u0n0c.jpg?KID=imgbed,tva&Expires=1761697818&ssig=JTvSdOlM0%2F",
+            "scheme": "sinaweibo://video/vvs?mid=5226827310174368&multi_paragraph=1&multi_count=2",
+            "w": 720,
+            "click_rate": 0,
+            "hit_score_new": 94.824219,
+            "doc_score": 5255,
+            "img_pid": "005WAye7ly1i6sdx1taqhj30k00zkmyf",
+            "video_url": "https://video.weibo.com/show?fid=1034:5226827099340858",
+            "vtype": 0,
+            "h": 1280,
+            "hit_score_final": 86.094536
+          },
+          {
+            "img": "http://wx1.sinaimg.cn/middle/006KHmnugy1i6n6cnsbw1j30zu0b0dhj.jpg",
+            "cur_mid": "5225194253453380",
+            "user_name": "苏易陆",
+            "type": "p",
+            "user_avatar": "https://tvax2.sinaimg.cn/crop.0.0.512.512.50/006KHmnuly8i1cj54o88dj30e80e8mxj.jpg?KID=imgbed,tva&Expires=1761697818&ssig=%2Bnf9dMI%2F3J",
+            "scheme": "sinaweibo://multimedia?mix_mid=5225194253453380&from=search&content_show=1&mix_index=1&hide_index=1&multi_paragraph=1&multi_count=0",
+            "w": 1290,
+            "click_rate": 0.49505805880961,
+            "hit_score_new": 82.324219,
+            "doc_score": 4865,
+            "img_pid": "006KHmnugy1i6n6cnsbw1j30zu0b0dhj",
+            "video_url": "",
+            "vtype": 0,
+            "h": 396,
+            "hit_score_final": 72.994537
+          }
+        ]
+      },
+      "short_url": "http://t.cn/AXwsMNWF",
+      "share_info": {
+        "tips": "#小鱼海棠婚礼现场#的相关内容，来智搜看看",
+        "display_name": "#小鱼海棠婚礼现场#",
+        "url": "http://t.cn/AXAPWKLo",
+        "unify_md5": "9cb04000cb861d7ddf610932dd9d9e18",
+        "status": 3,
+        "page_id": "23296453ce6c1b2d795888553ae5a0cf9201d9"
+      },
+      "abtest_info": {
+        "chat_entrance": 1
+      },
+      "uid": "",
+      "mid_list": null,
+      "status_stage": 4,
+      "share_text": "#小鱼海棠婚礼现场#的相关内容，来智搜看看"
+    }
+  },
+  "links": [
+    "sinaweibo://detail?mblogid=5226799824899137",
+    "sinaweibo://detail?mblogid=5226829671825476",
+    "sinaweibo://detail?mblogid=5226827310174368",
+    "sinaweibo://detail?mblogid=5226834516248855",
+    "sinaweibo://detail?mblogid=5226853364929187",
+    "sinaweibo://detail?mblogid=5226828483533347",
+    "sinaweibo://detail?mblogid=5225194253453380",
+    "sinaweibo://detail?mblogid=5224219606781464",
+    "sinaweibo://detail?mblogid=5226838823801941",
+    "sinaweibo://detail?mblogid=5224209224565251",
+    "broadsocial_res://",
+    "ctr://",
+    "historyweibo://4855728440873484",
+    "historyweibo://4855728440873484",
+    "sinaweibo://detail?mblogid=5226829480989611",
+    "sinaweibo://detail?mblogid=5226840253794646",
+    "sinaweibo://detail?mblogid=5226843718551600",
+    "sinaweibo://detail?mblogid=5226855617796394",
+    "sinaweibo://detail?mblogid=5226867141378146",
+    "sinaweibo://detail?mblogid=5226833828119791",
+    "sinaweibo://detail?mblogid=5226868381059275",
+    "sinaweibo://detail?mblogid=5226831700559455",
+    "sinaweibo://detail?mblogid=5226860469816665",
+    "sinaweibo://detail?mblogid=5226805577384559",
+    "sinaweibo://detail?mblogid=5226833903881876",
+    "sinaweibo://detail?mblogid=5226834674589401",
+    "sinaweibo://detail?mblogid=5226832360118438",
+    "sinaweibo://detail?mblogid=5226836352307657",
+    "sinaweibo://detail?mblogid=5226838818820028",
+    "sinaweibo://detail?mblogid=5226853352871090",
+    "sinaweibo://detail?mblogid=5226843617102098",
+    "sinaweibo://detail?mblogid=5226834104946638",
+    "sinaweibo://detail?mblogid=5226956534579548",
+    "sinaweibo://detail?mblogid=5226956464587060",
+    "sinaweibo://detail?mblogid=5226955238539266",
+    "sinaweibo://detail?mblogid=5226945373798454",
+    "sinaweibo://detail?mblogid=5226941139125039",
+    "sinaweibo://detail?mblogid=5226928162472303",
+    "sinaweibo://detail?mblogid=5226800336606305",
+    "sinaweibo://detail?mblogid=5226853520378292",
+    "sinaweibo://detail?mblogid=5226904095032415",
+    "sinaweibo://detail?mblogid=5226871451027236",
+    "sinaweibo://detail?mblogid=5226846698344307",
+    "sinaweibo://detail?mblogid=5226853461656557"
+  ],
+  "media": [
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/006KHmnugy1i6n6cnsbw1j30zu0b0dhj.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/006KHmnugy1i6n6cnsbw1j30zu0b0dhj.jpg",
+      "alt": "苏易陆",
+      "width": 396,
+      "height": 1290,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/006KHmnugy1i6n6cnsbw1j30zu0b0dhj.jpg"
+      ],
+      "user": "苏易陆"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/008luVEogy1i6silfe05uj30u018k42p.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/008luVEogy1i6silfe05uj30u018k42p.jpg",
+      "alt": "朝天酱",
+      "width": 1604,
+      "height": 1080,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/008luVEogy1i6silfe05uj30u018k42p.jpg"
+      ],
+      "user": "朝天酱"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/005WAye7ly1i6sdx1taqhj30k00zkmyf.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/005WAye7ly1i6sdx1taqhj30k00zkmyf.jpg",
+      "alt": "寄出小软卷",
+      "width": 1280,
+      "height": 720,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/005WAye7ly1i6sdx1taqhj30k00zkmyf.jpg"
+      ],
+      "user": "寄出小软卷"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/006KHmnuly1i6saq4ar4vj30u01a00ur.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/006KHmnuly1i6saq4ar4vj30u01a00ur.jpg",
+      "alt": "苏易陆",
+      "width": 1656,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx4.sinaimg.cn/large/006KHmnuly1i6saq4ar4vj30u01a00ur.jpg"
+      ],
+      "user": "苏易陆"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/005MOfhGly1i6k18iip5tj30u01hcdhh.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/005MOfhGly1i6k18iip5tj30u01hcdhh.jpg",
+      "alt": "财繁华梦",
+      "width": 1920,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/005MOfhGly1i6k18iip5tj30u01hcdhh.jpg"
+      ],
+      "user": "财繁华梦"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/007CEpbUly1i6satyzezzj30k00qogop.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/007CEpbUly1i6satyzezzj30k00qogop.jpg",
+      "alt": "瘟流同期",
+      "width": 960,
+      "height": 720,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/007CEpbUly1i6satyzezzj30k00qogop.jpg"
+      ],
+      "user": "瘟流同期"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/008uUJXfgy1i6senb2gsaj30u010xn2p.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/008uUJXfgy1i6senb2gsaj30u010xn2p.jpg",
+      "alt": "恋猫塑",
+      "width": 1329,
+      "height": 1080,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/008uUJXfgy1i6senb2gsaj30u010xn2p.jpg"
+      ],
+      "user": "恋猫塑"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/006bdrOZly1i6se0fts4qj30yu1fq11r.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/006bdrOZly1i6se0fts4qj30yu1fq11r.jpg",
+      "alt": "青野泯川",
+      "width": 1862,
+      "height": 1254,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/006bdrOZly1i6se0fts4qj30yu1fq11r.jpg"
+      ],
+      "user": "青野泯川"
+    }
+  ],
+  "html_path": "data/aicard/hourly/2025-10-29/05/topic-9cb04000.html"
+}

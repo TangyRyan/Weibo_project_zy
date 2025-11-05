@@ -1,0 +1,343 @@
+{
+  "meta": {
+    "query": "#何炅 最近谣传我有衰老焦虑#",
+    "status_code": 200,
+    "fetched_at": "2025-11-04T05:30:18+08:00",
+    "response": {
+      "share_card_multimodal": {
+        "user_avatar": "https://tvax4.sinaimg.cn/crop.0.0.655.655.50/b901bd64ly8i48qrgb72cj20i70i7jsw.jpg?KID=imgbed,tva&Expires=1762215543&ssig=Xo9rwRauCa",
+        "img_pid": "b901bd64ly1i6c7coeql2j20lw0u1wfu",
+        "img": "http://wx4.sinaimg.cn/middle/b901bd64ly1i6c7coeql2j20lw0u1wfu.jpg",
+        "scheme": "sinaweibo://multimedia?mix_mid=5221944968610813&from=search&content_show=1&mix_index=3&hide_index=1&multi_paragraph=1&multi_count=0",
+        "hit_score_new": 99.023438,
+        "vtype": 0,
+        "h": 1081,
+        "w": 788,
+        "click_rate": 0.21311475409836,
+        "click_num": 0,
+        "doc_score": 5221,
+        "video_url": "",
+        "cur_mid": "5221944968610813",
+        "hit_score_final": 95.014069,
+        "user_name": "揪只皮卡",
+        "type": "p"
+      },
+      "user_info": {},
+      "basemodel": "实验组7",
+      "scheme": "sinaweibo://cardlist?containerid=100103type%3D225%26q%3D%23%E4%BD%95%E7%82%85%20%E6%9C%80%E8%BF%91%E8%B0%A3%E4%BC%A0%E6%88%91%E6%9C%89%E8%A1%B0%E8%80%81%E7%84%A6%E8%99%91%23%26t%3D&extparam=ai_model%3Ddeepseek%26ori_ai_title%3D%E5%8F%82%E8%80%83%E5%8D%9A%E6%96%87%26material_version%3D1762204743",
+      "query_field": "1",
+      "reliable_tips": "{\"gold_orange_v_mids\": [\"5221994003957654\", \"5221944968610813\", \"5220505630280594\", \"5221986839563703\", \"5222384835758041\", \"5221994674260425\", \"5222358134817776\", \"5229012655281240\", \"5229014294994048\", \"5229008956690426\", \"5229014677721123\", \"5229011464359024\", \"5229010728782279\", \"5229127440270330\", \"5229034500000038\", \"5229031550357170\", \"5229032222495717\", \"5222000348106461\", \"5229044158694273\", \"5229023751834381\", \"5221988606151600\", \"5221975116482051\", \"5221978688456402\", \"5229071652095739\", \"5228325455790650\", \"5222360274964248\", \"5220728104554247\"], \"gold_orange_v_ratio\": \"71%\", \"media_mids\": [\"5222133447788797\", \"5229014173359729\"], \"media_ratio\": \"5%\", \"verified_mids\": [\"5229012084852432\", \"5227794503567304\", \"5229127956956528\"], \"verified_ratio\": \"8%\", \"normal_mids\": [\"5229126132171005\", \"5229124413293024\", \"5229121231651152\", \"5229116720416145\", \"5229115422540255\", \"5229077582840126\"], \"normal_ratio\": \"16%\", \"ref_mid_rank\": {\"5221994003957654\": {\"rank\": 3}, \"5221944968610813\": {\"rank\": 5}, \"5220505630280594\": {\"rank\": 7}, \"5221986839563703\": {\"rank\": 10}, \"5222384835758041\": {\"rank\": 11}, \"5221994674260425\": {\"rank\": 35}, \"5222358134817776\": {\"rank\": 38}, \"5222133447788797\": {\"rank\": 42}, \"5229012655281240\": {\"rank\": 1}, \"5229014294994048\": {\"rank\": 12}, \"5229008956690426\": {\"rank\": 13}, \"5229014677721123\": {\"rank\": 20}, \"5229011464359024\": {\"rank\": 21}, \"5229010728782279\": {\"rank\": 22}, \"5229012084852432\": {\"rank\": 26}, \"5229127440270330\": {\"rank\": 29}, \"5229014173359729\": {\"rank\": 2}, \"5229034500000038\": {\"rank\": 27}, \"5229031550357170\": {\"rank\": 23}, \"5229032222495717\": {\"rank\": 36}, \"5222000348106461\": {\"rank\": 40}, \"5229044158694273\": {\"rank\": 24}, \"5229023751834381\": {\"rank\": 4}, \"5221988606151600\": {\"rank\": 6}, \"5221975116482051\": {\"rank\": 8}, \"5221978688456402\": {\"rank\": 9}, \"5227794503567304\": {\"rank\": 18}, \"5229071652095739\": {\"rank\": 19}, \"5228325455790650\": {\"rank\": 25}, \"5229127956956528\": {\"rank\": 28}, \"5229126132171005\": {\"rank\": 30}, \"5229124413293024\": {\"rank\": 31}, \"5229121231651152\": {\"rank\": 32}, \"5229116720416145\": {\"rank\": 33}, \"5229115422540255\": {\"rank\": 34}, \"5229077582840126\": {\"rank\": 37}, \"5222360274964248\": {\"rank\": 39}, \"5220728104554247\": {\"rank\": 41}}}",
+      "qs_status_info": "{\"qs_c_status\":8388608,\"qs_r_status\":0,\"qs_u_status\":0,\"ab_lab\":{},\"qs_status\":0,\"qs_q_status\":0}",
+      "loop_times": 200,
+      "query": "#何炅 最近谣传我有衰老焦虑#",
+      "ext_show": {},
+      "reference_num": 38,
+      "query_category": "Ip",
+      "status_stage": 4,
+      "version": "2025-11-04 05:19:03.009000-6701",
+      "sorted_material_list": null,
+      "uid": "",
+      "msg_format": "markdown",
+      "model": "deepseek",
+      "abtest_info": {
+        "chat_entrance": 1
+      },
+      "msg_json": "{}",
+      "cot": 1,
+      "share_text": "#何炅 最近谣传我有衰老焦虑#的相关内容，来智搜看看",
+      "msg": "<think><br>嗯，用户想了解何炅关于衰老焦虑的传闻，以及他是如何回应的。从多个搜索结果来看，这确实是一个引起热议的话题。<br><br>首先注意到，2025年10月期间，何炅在综艺节目《向往的生活》中提到自己\"如何停止衰老\"的困惑。他说自己\"又近视又老花\"，还提到背台词需要反复查看等细节。这些言论引发了\"何炅断崖式衰老\"的讨论。有网友感慨\"不老男神\"也会老去，还有人分析说他的焦虑源于对工作的热爱，担心衰老会影响主持能力。<br><br>但真正重要的是何炅在2025年11月3日\"微博视界大会\"上的正面回应。他直接辟谣：\"最近谣传我有衰老焦虑，说我又近视又老花，我只能告诉大家，我现在眼神好得很！\"。他坦然承认衰老是自然现象，但强调自己从未焦虑过，因为\"自信是一个被爱和快乐包裹着的人\"。<br><br>更令人感动的是，何炅提到2025年是他主持生涯30周年（实际从1994年开始是31年），他豪迈表示\"今年30年不重要，准备再来个30年40年不成问题\"。现场观众齐声回应\"何老师我们爱你\"，场面十分温馨。<br><br>有趣的是，还有人提到何炅在\"王者荣耀共创之夜\"活动中因误读游戏术语\"T0区\"为\"to区\"，被网友调侃\"不要虐待五旬老人\"。这种善意的调侃反而体现了公众对他的爱护。<br><br>整体来看，何炅用\"被爱包裹\"的哲学化解了年龄焦虑，他的态度启示我们：真正的年轻来自内心充盈而非外貌，当职业与热爱结合，岁月反而成为成长的注脚。<br><br></think><br>何炅近期关于“衰老焦虑”的传闻及相关回应，核心事实与态度可综合梳理如下：<br>### 🔍 **一、传闻起源：节目发言引发热议**<br>2025年10月，何炅在综艺《向往的生活》中坦言面临衰老带来的生理变化，提到“**又近视又老花**”（阅读需调大字号、背台词反复查看）、“**穿针手抖**”等细节，并直接提出困惑：“**我要如何停止衰老？**”。这些言论被部分媒体解读为“断崖式衰老”“51岁陷入焦虑”，引发网友对“不老男神”首次显露衰老信号的讨论。```wbCustomBlock{\"type\": \"quoted\", \"index\": 2, \"data\": {\"num\": [3, 5, 7, 10, 11, 35, 38, 42], \"version\": 2, \"quote_list\": [{\"name\": \"极目新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5222133447788797\", \"index\": 42, \"label\": \"大v\"}, {\"name\": \"一线明星娱乐\", \"scheme\": \"sinaweibo://detail?mblogid=5221994003957654\", \"index\": 3, \"label\": \"\"}, {\"name\": \"揪只皮卡\", \"scheme\": \"sinaweibo://detail?mblogid=5221944968610813\", \"index\": 5, \"label\": \"\"}, {\"name\": \"蟹老板来笼生煎包\", \"scheme\": \"sinaweibo://detail?mblogid=5220505630280594\", \"index\": 7, \"label\": \"\"}, {\"name\": \"千涸的眼\", \"scheme\": \"sinaweibo://detail?mblogid=5221986839563703\", \"index\": 10, \"label\": \"\"}, {\"name\": \"猪又崽\", \"scheme\": \"sinaweibo://detail?mblogid=5222384835758041\", \"index\": 11, \"label\": \"\"}, {\"name\": \"饭圈杂谈\", \"scheme\": \"sinaweibo://detail?mblogid=5221994674260425\", \"index\": 35, \"label\": \"\"}, {\"name\": \"是金城武总会发光\", \"scheme\": \"sinaweibo://detail?mblogid=5222358134817776\", \"index\": 38, \"label\": \"\"}], \"name\": \"极目新闻\", \"img\": \"https://tvax4.sinaimg.cn/crop.111.343.857.857.50/001SsZ0Mly8h8vhiw5c7tj60u016w0us02.jpg?KID=imgbed,tva&Expires=1762215543&ssig=3f45uzfCEf\", \"scheme\": \"sinaweibo://detail?mblogid=5222133447788797\", \"vType\": 3}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5221944968610813&from=search&content_show=1&mix_index=3&hide_index=1&multi_paragraph=1&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.655.655.50/b901bd64ly8i48qrgb72cj20i70i7jsw.jpg?KID=imgbed,tva&Expires=1762215543&ssig=Xo9rwRauCa) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">揪只皮卡</span><img src=\"http://wx4.sinaimg.cn/middle/b901bd64ly1i6c7coeql2j20lw0u1wfu.jpg\" data-width=1081 data-height=788></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5221994003957654&multi_paragraph=1&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.996.996.50/51ac883aly8glxu7psfncj20ro0rotc3.jpg?KID=imgbed,tva&Expires=1762215543&ssig=KIFQTDcaIk) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">一线明星娱乐</span><img src=\"http://wx4.sinaimg.cn/middle/51ac883aly1i6cytpmg6aj20u00u0q3y.jpg\" data-width=1080 data-height=1080></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5222384835758041&multi_paragraph=1&multi_count=2\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.888.888.50/006jeoKIly1hp2br18y1tj30oo0ootab.jpg?KID=imgbed,tva&Expires=1762215543&ssig=GFyzuM8woM) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">猪又崽</span><img src=\"http://wx4.sinaimg.cn/middle/006jeoKIly1i6e7pnmvo4j30k00ewmxq.jpg\" data-width=536 data-height=720></div></media-block><br>### 🎤 **二、公开辟谣：2025微博视界大会正面回应**<br>同年11月3日，何炅在“微博视界大会”现场主动回应传闻，核心观点如下：<br>1. **否认视力与焦虑传言**  <br>   针对“衰老焦虑”“又近视又老花”的说法，他明确表示：“**最近谣传我有衰老焦虑，说我又近视又老花，我只能告诉大家，我现在眼神好得很！**”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 4, \"data\": {\"num\": [1, 12, 13, 20, 21, 22], \"version\": 2, \"quote_list\": [{\"name\": \"会火\", \"scheme\": \"sinaweibo://detail?mblogid=5229010728782279\", \"index\": 22, \"label\": \"大v\"}, {\"name\": \"星姐微博\", \"scheme\": \"sinaweibo://detail?mblogid=5229012655281240\", \"index\": 1, \"label\": \"\"}, {\"name\": \"首都一橘\", \"scheme\": \"sinaweibo://detail?mblogid=5229014294994048\", \"index\": 12, \"label\": \"\"}, {\"name\": \"烫金真爱册\", \"scheme\": \"sinaweibo://detail?mblogid=5229008956690426\", \"index\": 13, \"label\": \"\"}, {\"name\": \"橘子娱乐\", \"scheme\": \"sinaweibo://detail?mblogid=5229014677721123\", \"index\": 20, \"label\": \"\"}, {\"name\": \"酒酿熊子\", \"scheme\": \"sinaweibo://detail?mblogid=5229011464359024\", \"index\": 21, \"label\": \"\"}], \"name\": \"会火\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/00448XYOly8hr3sojtj9ej60u00u0aau02.jpg?KID=imgbed,tva&Expires=1762215543&ssig=v7obxWMDis\", \"scheme\": \"sinaweibo://detail?mblogid=5229010728782279\", \"vType\": 0}}```<br>   <br>2. **坦然接纳自然规律**  <br>   他承认“**衰老是每一天都在发生的事情**”，但强调：“**我从来没有焦虑过，因为我自信我是一个被爱和快乐包裹着的人**”。他认为皱纹或疲惫感是观众赋予的能量，让自己“**勇敢去呼吸、去休息**”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 5, \"data\": {\"num\": [12, 20, 26, 29], \"version\": 2, \"quote_list\": [{\"name\": \"橘子娱乐\", \"scheme\": \"sinaweibo://detail?mblogid=5229014677721123\", \"index\": 20, \"label\": \"大v\"}, {\"name\": \"首都一橘\", \"scheme\": \"sinaweibo://detail?mblogid=5229014294994048\", \"index\": 12, \"label\": \"\"}, {\"name\": \"新浪综艺\", \"scheme\": \"sinaweibo://detail?mblogid=5229012084852432\", \"index\": 26, \"label\": \"\"}, {\"name\": \"吓鼠小星叶了\", \"scheme\": \"sinaweibo://detail?mblogid=5229127440270330\", \"index\": 29, \"label\": \"\"}], \"name\": \"橘子娱乐\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.811.811.50/005M7XdTly8h8vnv7l2aij30mj0mj3yz.jpg?KID=imgbed,tva&Expires=1762215543&ssig=sZIAWj6ApF\", \"scheme\": \"sinaweibo://detail?mblogid=5229014677721123\", \"vType\": 0}}```<br><br>3. **职业宣言：计划再战三四十年**  <br>   适逢主持生涯30周年（实际从1994年央视首秀起已31年），他豪迈表态：“**今年30年不重要，我准备再来个30年、40年不成问题！**”现场观众以集体告白“何老师我们爱你！”回应。```wbCustomBlock{\"type\": \"quoted\", \"index\": 6, \"data\": {\"num\": [1, 2, 12, 20, 27], \"version\": 2, \"quote_list\": [{\"name\": \"现代快报\", \"scheme\": \"sinaweibo://detail?mblogid=5229014173359729\", \"index\": 2, \"label\": \"大v\"}, {\"name\": \"星姐微博\", \"scheme\": \"sinaweibo://detail?mblogid=5229012655281240\", \"index\": 1, \"label\": \"\"}, {\"name\": \"首都一橘\", \"scheme\": \"sinaweibo://detail?mblogid=5229014294994048\", \"index\": 12, \"label\": \"\"}, {\"name\": \"橘子娱乐\", \"scheme\": \"sinaweibo://detail?mblogid=5229014677721123\", \"index\": 20, \"label\": \"\"}, {\"name\": \"软绻泪\", \"scheme\": \"sinaweibo://detail?mblogid=5229034500000038\", \"index\": 27, \"label\": \"\"}], \"name\": \"现代快报\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.800.800.50/001O7v94ly8i32vyvssrkj60m80m8js002.jpg?KID=imgbed,tva&Expires=1762215543&ssig=zW29KtY1gM\", \"scheme\": \"sinaweibo://detail?mblogid=5229014173359729\", \"vType\": 3}}```<media-block><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5229014173359729&multi_paragraph=2&multi_count=0\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.800.800.50/001O7v94ly8i32vyvssrkj60m80m8js002.jpg?KID=imgbed,tva&Expires=1762215543&ssig=zW29KtY1gM) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">现代快报</span><img src=\"http://wx3.sinaimg.cn/middle/001O7v94ly1i6zd1oi0ybj60oo1hcjsn02.jpg\" data-width=1920 data-height=888></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5229008956690426&multi_paragraph=2&multi_count=1\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/0079UAaply8i6m3lhlabgj30u00u0gnq.jpg?KID=imgbed,tva&Expires=1762215543&ssig=jCYoW%2F29js) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">烫金真爱册</span><img src=\"http://wx2.sinaimg.cn/middle/0079UAaply1i6zcfo1gmaj30u01hcdiw.jpg\" data-width=1920 data-height=1080></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5229012655281240&multi_paragraph=2&multi_count=2\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.512.512.50/005zonqQly8gqawq1cgqnj30e80e8wfa.jpg?KID=imgbed,tva&Expires=1762215543&ssig=OfIrUMj3ov) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">星姐微博</span><img src=\"http://wx3.sinaimg.cn/middle/005zonqQgy1i6zcu8nidpj30o20djwms.jpg\" data-width=487 data-height=866></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5229012084852432&multi_paragraph=2&multi_count=3\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.996.996.50/00237iRply8h8v3qn6hwkj60ro0romyj02.jpg?KID=imgbed,tva&Expires=1762215543&ssig=h67t9Nxzpx) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">新浪综艺</span><img src=\"http://wx1.sinaimg.cn/middle/00237iRply1i6zcttealej60u01hcae602.jpg\" data-width=1920 data-height=1080></div></media-block><br>### 💡 **三、回应的深层背景与公众共鸣**<br>1. **破除“冻龄神话”标签**  <br>   此前公众长期视何炅为“不老男神”，其生理变化的细节易被放大。此次主动澄清，旨在打破外界对“永葆青春”的虚妄期待，呼吁接纳自然老化。```wbCustomBlock{\"type\": \"quoted\", \"index\": 8, \"data\": {\"num\": [23], \"version\": 2, \"quote_list\": [{\"name\": \"网恋被钓三千次內\", \"scheme\": \"sinaweibo://detail?mblogid=5229031550357170\", \"index\": 23, \"label\": \"大v\"}], \"name\": \"网恋被钓三千次內\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.480.480.50/005vixpVly8i6oxw2g9flj30dc0dcdgk.jpg?KID=imgbed,tva&Expires=1762215543&ssig=WxibU8VAkh\", \"scheme\": \"sinaweibo://detail?mblogid=5229031550357170\", \"vType\": 0}}```<br>   <br>2. **焦虑本质：对职业的热爱与责任**  <br>   何炅曾表示工作是其“**最重要的东西**”，因工作带来成长、人际关系及人生意义。衰老焦虑部分源于对职业能力可能衰退的担忧，正如网友所言：“他怕的不是变老，而是告别热爱的舞台”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 9, \"data\": {\"num\": [5, 7, 36, 40], \"version\": 2, \"quote_list\": [{\"name\": \"揪只皮卡\", \"scheme\": \"sinaweibo://detail?mblogid=5221944968610813\", \"index\": 5, \"label\": \"\"}, {\"name\": \"蟹老板来笼生煎包\", \"scheme\": \"sinaweibo://detail?mblogid=5220505630280594\", \"index\": 7, \"label\": \"\"}, {\"name\": \"四宝妈mindy\", \"scheme\": \"sinaweibo://detail?mblogid=5229032222495717\", \"index\": 36, \"label\": \"\"}, {\"name\": \"梦芯宜\", \"scheme\": \"sinaweibo://detail?mblogid=5222000348106461\", \"index\": 40, \"label\": \"\"}]}}```<br><br>3. **公众的情感投射**  <br>   何炅的衰老话题触发集体共鸣：“他老了，我们也长大了”。其主持生涯贯穿几代人青春，网友感慨：“与其说他怕老，不如说怕青春逝去的是我们”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 10, \"data\": {\"num\": [10, 24, 35, 38], \"version\": 2, \"quote_list\": [{\"name\": \"饭圈杂谈\", \"scheme\": \"sinaweibo://detail?mblogid=5221994674260425\", \"index\": 35, \"label\": \"大v\"}, {\"name\": \"千涸的眼\", \"scheme\": \"sinaweibo://detail?mblogid=5221986839563703\", \"index\": 10, \"label\": \"\"}, {\"name\": \"在逃炸土豆\", \"scheme\": \"sinaweibo://detail?mblogid=5229044158694273\", \"index\": 24, \"label\": \"\"}, {\"name\": \"是金城武总会发光\", \"scheme\": \"sinaweibo://detail?mblogid=5222358134817776\", \"index\": 38, \"label\": \"\"}], \"name\": \"饭圈杂谈\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.400.400.50/62a39907ly8ggkrix45bkj20b40b40tr.jpg?KID=imgbed,tva&Expires=1762215543&ssig=ENRTje7eCv\", \"scheme\": \"sinaweibo://detail?mblogid=5221994674260425\", \"vType\": 0}}```<br>### 🌟 **四、社会意义：重构衰老认知的示范**<br>何炅将衰老转化为“被爱滋养的勋章”，传递出积极价值观：  <br>- **拒绝外貌焦虑**：真正的年轻态源于内心丰盈与持续热忱，而非胶原蛋白；```wbCustomBlock{\"type\": \"quoted\", \"index\": 12, \"data\": {\"num\": [36], \"version\": 2, \"quote_list\": [{\"name\": \"四宝妈mindy\", \"scheme\": \"sinaweibo://detail?mblogid=5229032222495717\", \"index\": 36, \"label\": \"\"}]}}```  <br>- **职业与热爱的共生**：当工作成为生命支柱，年龄便非枷锁而是成长的注脚；```wbCustomBlock{\"type\": \"quoted\", \"index\": 13, \"data\": {\"num\": [27, 40], \"version\": 2, \"quote_list\": [{\"name\": \"软绻泪\", \"scheme\": \"sinaweibo://detail?mblogid=5229034500000038\", \"index\": 27, \"label\": \"\"}, {\"name\": \"梦芯宜\", \"scheme\": \"sinaweibo://detail?mblogid=5222000348106461\", \"index\": 40, \"label\": \"\"}]}}```  <br>- **公众人物的责任**：其坦诚推动社会正视年龄议题，与刘涛等艺人“与岁月和解”的呼吁形成共振。<br><br>---<br><br>何炅的回应不仅澄清了个人状态，更成为一堂关于时间、价值与接纳的公开课。如他所言：“被爱包裹的人，连皱纹都是勋章”——这份从容，恰是岁月馈赠的底气。```wbCustomBlock{\"type\": \"quoted\", \"index\": 16, \"data\": {\"num\": [12, 36, 40], \"version\": 2, \"quote_list\": [{\"name\": \"首都一橘\", \"scheme\": \"sinaweibo://detail?mblogid=5229014294994048\", \"index\": 12, \"label\": \"大v\"}, {\"name\": \"四宝妈mindy\", \"scheme\": \"sinaweibo://detail?mblogid=5229032222495717\", \"index\": 36, \"label\": \"\"}, {\"name\": \"梦芯宜\", \"scheme\": \"sinaweibo://detail?mblogid=5222000348106461\", \"index\": 40, \"label\": \"\"}], \"name\": \"首都一橘\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/c58e1435ly8h8wcyg2f4uj20u00u0jtr.jpg?KID=imgbed,tva&Expires=1762215543&ssig=xRqx9MNoC3\", \"scheme\": \"sinaweibo://detail?mblogid=5229014294994048\", \"vType\": 0}}```<br>",
+      "current_time": 1762205419,
+      "top_quote_list": {},
+      "qs_status": 0,
+      "wenda": {
+        "forward_gen": 0
+      },
+      "analysis_time": 1762204877,
+      "q_attr": {
+        "from_uid": "",
+        "from_request_id": "",
+        "reply_cid": "",
+        "comment_from_type": "",
+        "mid": ""
+      },
+      "ab_suffix": "default",
+      "page_id": "232964776a8e2af42920ad5e93ee47107fa7fc",
+      "unify_md5": "044902d1fec7c2ef7fbf18ef602f8c12",
+      "mid_list": null,
+      "zs_risk_control": {
+        "think_text_close": 0,
+        "land_button_close": 0
+      },
+      "profile_image_url": "",
+      "link_list": [
+        "sinaweibo://detail?mblogid=5229012655281240",
+        "sinaweibo://detail?mblogid=5229014173359729",
+        "sinaweibo://detail?mblogid=5221994003957654",
+        "sinaweibo://detail?mblogid=5229023751834381",
+        "sinaweibo://detail?mblogid=5221944968610813",
+        "sinaweibo://detail?mblogid=5221988606151600",
+        "sinaweibo://detail?mblogid=5220505630280594",
+        "sinaweibo://detail?mblogid=5221975116482051",
+        "sinaweibo://detail?mblogid=5221978688456402",
+        "sinaweibo://detail?mblogid=5221986839563703",
+        "sinaweibo://detail?mblogid=5222384835758041",
+        "sinaweibo://detail?mblogid=5229014294994048",
+        "sinaweibo://detail?mblogid=5229008956690426",
+        "broadsocial_res://",
+        "historyweibo://5229014399845320",
+        "historyweibo://5229012655281240",
+        "historyweibo://5226363432997654",
+        "sinaweibo://detail?mblogid=5227794503567304",
+        "sinaweibo://detail?mblogid=5229071652095739",
+        "sinaweibo://detail?mblogid=5229014677721123",
+        "sinaweibo://detail?mblogid=5229011464359024",
+        "sinaweibo://detail?mblogid=5229010728782279",
+        "sinaweibo://detail?mblogid=5229031550357170",
+        "sinaweibo://detail?mblogid=5229044158694273",
+        "sinaweibo://detail?mblogid=5228325455790650",
+        "sinaweibo://detail?mblogid=5229012084852432",
+        "sinaweibo://detail?mblogid=5229034500000038",
+        "sinaweibo://detail?mblogid=5229127956956528",
+        "sinaweibo://detail?mblogid=5229127440270330",
+        "sinaweibo://detail?mblogid=5229126132171005",
+        "sinaweibo://detail?mblogid=5229124413293024",
+        "sinaweibo://detail?mblogid=5229121231651152",
+        "sinaweibo://detail?mblogid=5229116720416145",
+        "sinaweibo://detail?mblogid=5229115422540255",
+        "sinaweibo://detail?mblogid=5221994674260425",
+        "sinaweibo://detail?mblogid=5229032222495717",
+        "sinaweibo://detail?mblogid=5229077582840126",
+        "sinaweibo://detail?mblogid=5222358134817776",
+        "sinaweibo://detail?mblogid=5222360274964248",
+        "sinaweibo://detail?mblogid=5222000348106461",
+        "sinaweibo://detail?mblogid=5220728104554247",
+        "sinaweibo://detail?mblogid=5222133447788797"
+      ],
+      "news_analyze": {},
+      "share_info": {
+        "page_id": "232964776a8e2af42920ad5e93ee47107fa7fc",
+        "status": 3,
+        "unify_md5": "044902d1fec7c2ef7fbf18ef602f8c12",
+        "tips": "#何炅 最近谣传我有衰老焦虑#的相关内容，来智搜看看",
+        "display_name": "#何炅 最近谣传我有衰老焦虑#",
+        "comment_content": "",
+        "url": "http://t.cn/AXAOs3U8"
+      },
+      "status": 2,
+      "show_ctrl": {
+        "quote": {}
+      },
+      "short_url": "http://t.cn/AXAOKxie",
+      "comment_info": {},
+      "chat_status_stage": 1,
+      "card_multimodal": {
+        "type": "mediablock",
+        "data": [
+          {
+            "user_avatar": "https://tvax4.sinaimg.cn/crop.0.0.655.655.50/b901bd64ly8i48qrgb72cj20i70i7jsw.jpg?KID=imgbed,tva&Expires=1762215543&ssig=Xo9rwRauCa",
+            "img_pid": "b901bd64ly1i6c7coeql2j20lw0u1wfu",
+            "img": "http://wx4.sinaimg.cn/middle/b901bd64ly1i6c7coeql2j20lw0u1wfu.jpg",
+            "scheme": "sinaweibo://multimedia?mix_mid=5221944968610813&from=search&content_show=1&mix_index=3&hide_index=1&multi_paragraph=1&multi_count=0",
+            "hit_score_new": 99.023438,
+            "vtype": 0,
+            "h": 1081,
+            "w": 788,
+            "click_rate": 0.21311475409836,
+            "click_num": 0,
+            "doc_score": 5221,
+            "video_url": "",
+            "cur_mid": "5221944968610813",
+            "hit_score_final": 95.014069,
+            "user_name": "揪只皮卡",
+            "type": "p"
+          },
+          {
+            "user_avatar": "https://tvax4.sinaimg.cn/crop.0.0.996.996.50/51ac883aly8glxu7psfncj20ro0rotc3.jpg?KID=imgbed,tva&Expires=1762215543&ssig=KIFQTDcaIk",
+            "img_pid": "51ac883aly1i6cytpmg6aj20u00u0q3y",
+            "img": "http://wx4.sinaimg.cn/middle/51ac883aly1i6cytpmg6aj20u00u0q3y.jpg",
+            "scheme": "sinaweibo://video/vvs?mid=5221994003957654&multi_paragraph=1&multi_count=1",
+            "hit_score_new": 76.855469,
+            "vtype": 0,
+            "h": 1080,
+            "w": 1080,
+            "click_rate": 0,
+            "click_num": 0,
+            "doc_score": 3829,
+            "video_url": "https://video.weibo.com/show?fid=1034:5221993667035182",
+            "cur_mid": "5221994003957654",
+            "hit_score_final": 71.71328,
+            "user_name": "一线明星娱乐",
+            "type": "v"
+          },
+          {
+            "user_avatar": "https://tvax4.sinaimg.cn/crop.0.0.888.888.50/006jeoKIly1hp2br18y1tj30oo0ootab.jpg?KID=imgbed,tva&Expires=1762215543&ssig=GFyzuM8woM",
+            "img_pid": "006jeoKIly1i6e7pnmvo4j30k00ewmxq",
+            "img": "http://wx4.sinaimg.cn/middle/006jeoKIly1i6e7pnmvo4j30k00ewmxq.jpg",
+            "scheme": "sinaweibo://video/vvs?mid=5222384835758041&multi_paragraph=1&multi_count=2",
+            "hit_score_new": 80.761719,
+            "vtype": 0,
+            "h": 536,
+            "w": 720,
+            "click_rate": 0,
+            "click_num": 0,
+            "doc_score": 3384,
+            "video_url": "https://video.weibo.com/show?fid=1034:5222384492544080",
+            "cur_mid": "5222384835758041",
+            "hit_score_final": 76.057037,
+            "user_name": "猪又崽",
+            "type": "v"
+          },
+          {
+            "user_avatar": "https://tvax4.sinaimg.cn/crop.0.0.655.655.50/b901bd64ly8i48qrgb72cj20i70i7jsw.jpg?KID=imgbed,tva&Expires=1762215543&ssig=Xo9rwRauCa",
+            "img_pid": "b901bd64ly1i6c7coeql2j20lw0u1wfu",
+            "img": "http://wx4.sinaimg.cn/middle/b901bd64ly1i6c7coeql2j20lw0u1wfu.jpg",
+            "scheme": "sinaweibo://multimedia?mix_mid=5221944968610813&from=search&content_show=1&mix_index=3&hide_index=1&multi_paragraph=1&multi_count=0",
+            "hit_score_new": 99.023438,
+            "vtype": 0,
+            "h": 1081,
+            "w": 788,
+            "click_rate": 0.21311475409836,
+            "click_num": 0,
+            "doc_score": 5221,
+            "video_url": "",
+            "cur_mid": "5221944968610813",
+            "hit_score_final": 95.014069,
+            "user_name": "揪只皮卡",
+            "type": "p"
+          }
+        ]
+      }
+    }
+  },
+  "links": [
+    "sinaweibo://detail?mblogid=5229012655281240",
+    "sinaweibo://detail?mblogid=5229014173359729",
+    "sinaweibo://detail?mblogid=5221994003957654",
+    "sinaweibo://detail?mblogid=5229023751834381",
+    "sinaweibo://detail?mblogid=5221944968610813",
+    "sinaweibo://detail?mblogid=5221988606151600",
+    "sinaweibo://detail?mblogid=5220505630280594",
+    "sinaweibo://detail?mblogid=5221975116482051",
+    "sinaweibo://detail?mblogid=5221978688456402",
+    "sinaweibo://detail?mblogid=5221986839563703",
+    "sinaweibo://detail?mblogid=5222384835758041",
+    "sinaweibo://detail?mblogid=5229014294994048",
+    "sinaweibo://detail?mblogid=5229008956690426",
+    "broadsocial_res://",
+    "historyweibo://5229014399845320",
+    "historyweibo://5229012655281240",
+    "historyweibo://5226363432997654",
+    "sinaweibo://detail?mblogid=5227794503567304",
+    "sinaweibo://detail?mblogid=5229071652095739",
+    "sinaweibo://detail?mblogid=5229014677721123",
+    "sinaweibo://detail?mblogid=5229011464359024",
+    "sinaweibo://detail?mblogid=5229010728782279",
+    "sinaweibo://detail?mblogid=5229031550357170",
+    "sinaweibo://detail?mblogid=5229044158694273",
+    "sinaweibo://detail?mblogid=5228325455790650",
+    "sinaweibo://detail?mblogid=5229012084852432",
+    "sinaweibo://detail?mblogid=5229034500000038",
+    "sinaweibo://detail?mblogid=5229127956956528",
+    "sinaweibo://detail?mblogid=5229127440270330",
+    "sinaweibo://detail?mblogid=5229126132171005",
+    "sinaweibo://detail?mblogid=5229124413293024",
+    "sinaweibo://detail?mblogid=5229121231651152",
+    "sinaweibo://detail?mblogid=5229116720416145",
+    "sinaweibo://detail?mblogid=5229115422540255",
+    "sinaweibo://detail?mblogid=5221994674260425",
+    "sinaweibo://detail?mblogid=5229032222495717",
+    "sinaweibo://detail?mblogid=5229077582840126",
+    "sinaweibo://detail?mblogid=5222358134817776",
+    "sinaweibo://detail?mblogid=5222360274964248",
+    "sinaweibo://detail?mblogid=5222000348106461",
+    "sinaweibo://detail?mblogid=5220728104554247",
+    "sinaweibo://detail?mblogid=5222133447788797"
+  ],
+  "media": [
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/b901bd64ly1i6c7coeql2j20lw0u1wfu.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/b901bd64ly1i6c7coeql2j20lw0u1wfu.jpg",
+      "alt": "揪只皮卡",
+      "width": 1081,
+      "height": 788,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/b901bd64ly1i6c7coeql2j20lw0u1wfu.jpg"
+      ],
+      "user": "揪只皮卡"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/51ac883aly1i6cytpmg6aj20u00u0q3y.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/51ac883aly1i6cytpmg6aj20u00u0q3y.jpg",
+      "alt": "一线明星娱乐",
+      "width": 1080,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/51ac883aly1i6cytpmg6aj20u00u0q3y.jpg"
+      ],
+      "user": "一线明星娱乐"
+    },
+    {
+      "original_url": "http://wx4.sinaimg.cn/middle/006jeoKIly1i6e7pnmvo4j30k00ewmxq.jpg",
+      "secure_url": "https://wx4.sinaimg.cn/middle/006jeoKIly1i6e7pnmvo4j30k00ewmxq.jpg",
+      "alt": "猪又崽",
+      "width": 536,
+      "height": 720,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/006jeoKIly1i6e7pnmvo4j30k00ewmxq.jpg"
+      ],
+      "user": "猪又崽"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/001O7v94ly1i6zd1oi0ybj60oo1hcjsn02.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/001O7v94ly1i6zd1oi0ybj60oo1hcjsn02.jpg",
+      "alt": "现代快报",
+      "width": 1920,
+      "height": 888,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/001O7v94ly1i6zd1oi0ybj60oo1hcjsn02.jpg"
+      ],
+      "user": "现代快报"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/0079UAaply1i6zcfo1gmaj30u01hcdiw.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/0079UAaply1i6zcfo1gmaj30u01hcdiw.jpg",
+      "alt": "烫金真爱册",
+      "width": 1920,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/0079UAaply1i6zcfo1gmaj30u01hcdiw.jpg"
+      ],
+      "user": "烫金真爱册"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/005zonqQgy1i6zcu8nidpj30o20djwms.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/005zonqQgy1i6zcu8nidpj30o20djwms.jpg",
+      "alt": "星姐微博",
+      "width": 487,
+      "height": 866,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/005zonqQgy1i6zcu8nidpj30o20djwms.jpg"
+      ],
+      "user": "星姐微博"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/00237iRply1i6zcttealej60u01hcae602.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/00237iRply1i6zcttealej60u01hcae602.jpg",
+      "alt": "新浪综艺",
+      "width": 1920,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx4.sinaimg.cn/large/00237iRply1i6zcttealej60u01hcae602.jpg"
+      ],
+      "user": "新浪综艺"
+    }
+  ],
+  "html_path": "data/aicard/hourly/2025-11-04/05/topic-044902d1.html"
+}

@@ -1,0 +1,160 @@
+{
+  "meta": {
+    "query": "#阿迪达斯为北马跑者加油你行的#",
+    "status_code": 200,
+    "fetched_at": "2025-11-02T13:32:53+08:00",
+    "response": {
+      "qs_status_info": "{\"qs_q_status\":0,\"qs_r_status\":0,\"qs_u_status\":0,\"qs_status\":0,\"ab_lab\":{},\"qs_c_status\":8388608}",
+      "status": 2,
+      "model": "deepseek",
+      "unify_md5": "333292cdc358a34c11b79d08e14de84d",
+      "cot": 1,
+      "short_url": "http://t.cn/AXAtDaJN",
+      "qs_status": 0,
+      "page_id": "23296492ea9b66b45482397dc5f5a738597ba7",
+      "current_time": 1762061574,
+      "profile_image_url": "",
+      "user_info": {},
+      "scheme": "sinaweibo://cardlist?containerid=100103type%3D225%26q%3D%23%E9%98%BF%E8%BF%AA%E8%BE%BE%E6%96%AF%E4%B8%BA%E5%8C%97%E9%A9%AC%E8%B7%91%E8%80%85%E5%8A%A0%E6%B2%B9%E4%BD%A0%E8%A1%8C%E7%9A%84%23%26t%3D&extparam=ai_model%3Ddeepseek%26ori_ai_title%3D%E5%8F%82%E8%80%83%E5%8D%9A%E6%96%87%26material_version%3D1762060880",
+      "share_info": {
+        "page_id": "23296492ea9b66b45482397dc5f5a738597ba7",
+        "comment_content": "",
+        "status": 3,
+        "unify_md5": "333292cdc358a34c11b79d08e14de84d",
+        "url": "http://t.cn/AXA64L67",
+        "tips": "#阿迪达斯为北马跑者加油你行的#的相关内容，来智搜看看",
+        "display_name": "#阿迪达斯为北马跑者加油你行的#"
+      },
+      "version": "2025-11-02 13:21:20.022000-1720",
+      "card_multimodal": {},
+      "share_card_multimodal": {
+        "cur_mid": "5228097215400175",
+        "vtype": 0,
+        "user_name": "素年时锦饭",
+        "w": 3588,
+        "user_avatar": "https://tvax4.sinaimg.cn/crop.0.0.512.512.50/76d00275ly8hs78ukb6ctj20e80e875f.jpg?KID=imgbed,tva&Expires=1762071680&ssig=GVlFR%2F0INi",
+        "h": 2681,
+        "video_url": "",
+        "type": "p",
+        "hit_score_new": 60.791016,
+        "hit_score_final": 60.474609,
+        "img_pid": "76d00275ly1i6wfneu77cj22ro22hnpf",
+        "doc_score": 3009,
+        "click_rate": 0,
+        "scheme": "sinaweibo://multimedia?mix_mid=5228097215400175&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=0",
+        "img": "http://wx3.sinaimg.cn/middle/76d00275ly1i6wfneu77cj22ro22hnpf.jpg"
+      },
+      "query": "#阿迪达斯为北马跑者加油你行的#",
+      "basemodel": "实验组6",
+      "reliable_tips": "{\"gold_orange_v_mids\": [\"5228511736627451\", \"5228330018406568\", \"5228468569900506\", \"5228454486478786\", \"5228097215400175\", \"5228425545515763\", \"5228332931090932\", \"5228451529493909\", \"5228451691761157\", \"5228488223098398\", \"5228518137925696\", \"5228451361195931\", \"5228522806183477\", \"5228509700031187\", \"5228328535721534\"], \"gold_orange_v_ratio\": \"60%\", \"media_mids\": [], \"media_ratio\": \"0%\", \"verified_mids\": [\"5228326098832551\", \"5228522922574203\", \"5228514156482725\", \"5228429213696867\", \"5228505148687142\", \"5096372335018264\"], \"verified_ratio\": \"24%\", \"normal_mids\": [\"5228510428006512\", \"5228496120976236\", \"5228491490722635\", \"5228324188330082\"], \"normal_ratio\": \"16%\", \"ref_mid_rank\": {\"5228511736627451\": {\"rank\": 3}, \"5228330018406568\": {\"rank\": 23}, \"5228468569900506\": {\"rank\": 24}, \"5228454486478786\": {\"rank\": 21}, \"5228097215400175\": {\"rank\": 2}, \"5228425545515763\": {\"rank\": 10}, \"5228332931090932\": {\"rank\": 19}, \"5228451529493909\": {\"rank\": 20}, \"5228451691761157\": {\"rank\": 25}, \"5228326098832551\": {\"rank\": 14}, \"5228488223098398\": {\"rank\": 17}, \"5228518137925696\": {\"rank\": 22}, \"5228522922574203\": {\"rank\": 6}, \"5228514156482725\": {\"rank\": 1}, \"5228451361195931\": {\"rank\": 4}, \"5228429213696867\": {\"rank\": 5}, \"5228522806183477\": {\"rank\": 7}, \"5228510428006512\": {\"rank\": 8}, \"5228505148687142\": {\"rank\": 9}, \"5228509700031187\": {\"rank\": 11}, \"5228496120976236\": {\"rank\": 12}, \"5228491490722635\": {\"rank\": 13}, \"5228324188330082\": {\"rank\": 15}, \"5096372335018264\": {\"rank\": 16}, \"5228328535721534\": {\"rank\": 18}}}",
+      "abtest_info": {
+        "chat_entrance": 1
+      },
+      "zs_risk_control": {
+        "think_text_close": 0,
+        "land_button_close": 0
+      },
+      "loop_times": 200,
+      "ext_show": {},
+      "wenda": {
+        "forward_gen": 0
+      },
+      "chat_status_stage": 1,
+      "show_ctrl": {
+        "quote": {}
+      },
+      "analysis_time": 1762061050,
+      "msg_json": "{}",
+      "query_field": "51",
+      "q_attr": {
+        "reply_cid": "",
+        "from_uid": "",
+        "mid": "",
+        "from_request_id": "",
+        "comment_from_type": ""
+      },
+      "news_analyze": {},
+      "query_category": "",
+      "mid_list": null,
+      "reference_num": 25,
+      "status_stage": 4,
+      "link_list": [
+        "sinaweibo://detail?mblogid=5228514156482725",
+        "sinaweibo://detail?mblogid=5228097215400175",
+        "sinaweibo://detail?mblogid=5228511736627451",
+        "sinaweibo://detail?mblogid=5228451361195931",
+        "sinaweibo://detail?mblogid=5228429213696867",
+        "sinaweibo://detail?mblogid=5228522922574203",
+        "sinaweibo://detail?mblogid=5228522806183477",
+        "sinaweibo://detail?mblogid=5228510428006512",
+        "sinaweibo://detail?mblogid=5228505148687142",
+        "sinaweibo://detail?mblogid=5228425545515763",
+        "sinaweibo://detail?mblogid=5228509700031187",
+        "sinaweibo://detail?mblogid=5228496120976236",
+        "sinaweibo://detail?mblogid=5228491490722635",
+        "sinaweibo://detail?mblogid=5228326098832551",
+        "sinaweibo://detail?mblogid=5228324188330082",
+        "sinaweibo://detail?mblogid=5096372335018264",
+        "sinaweibo://detail?mblogid=5228488223098398",
+        "sinaweibo://detail?mblogid=5228328535721534",
+        "sinaweibo://detail?mblogid=5228332931090932",
+        "sinaweibo://detail?mblogid=5228451529493909",
+        "sinaweibo://detail?mblogid=5228454486478786",
+        "sinaweibo://detail?mblogid=5228518137925696",
+        "sinaweibo://detail?mblogid=5228330018406568",
+        "sinaweibo://detail?mblogid=5228468569900506",
+        "sinaweibo://detail?mblogid=5228451691761157"
+      ],
+      "sorted_material_list": null,
+      "msg": "<think><br>嗯，用户发来了一个关于\"阿迪达斯为北马跑者加油你行的\"的搜索结果整理任务，要求我根据25条微博内容总结出核心信息。看起来用户需要一份关于阿迪达斯在2025年北京马拉松中品牌营销活动的综合报告。<br><br>用户可能是市场分析人员或体育行业从业者，想了解阿迪达斯在这次大型赛事中的营销策略。从搜索结果看，信息集中在11月1-2日，时效性很强，需要重点突出\"科技赋能\"、\"精神共鸣\"和\"双轨策略\"这三个维度。<br><br>我注意到几个关键信息点：首先是阿迪达斯ADIZERO系列跑鞋的技术优势，特别是PRO 4和BOSTON 13两款专业跑鞋帮助选手包揽男女冠军。其次是品牌打造的\"你行的\"精神符号，这个口号成功引发了普通跑者的情感共鸣，比如有位用户分享了陪伴八年的阿迪外套。<br><br>比较有趣的是阿迪达斯的双轨策略：既服务精英选手又兼顾大众跑者。在搜索结果中看到他们提供了从训练营到赛后恢复的全周期服务，连AR加油站这种细节都考虑到了。而用户生成内容(UGC)的传播效果也很突出，像\"战损跑鞋\"这样的故事成为情感纽带。<br><br>有些结果内容不相关需要过滤，比如提到罗永浩和双十一的内容显然偏离主题。这些普通账号的促销信息可信度较低。重点采用带\"优质搜索结果\"标签的和认证账号内容。<br><br>考虑在回复时用三个板块结构化呈现：科技创新部分会突出跑鞋参数和赛事成绩；服务体系则要包含训练营、AR加油站等特色；精神价值方面重点讲UGC故事和\"你行的\"口号传播效果。准备在品牌影响部分引用关于双轨策略的分析，说明如何平衡竞技与大众体育。<br><br>用户可能还想知道活动成效，可惜搜索结果里缺乏具体数据。不过从看到有3.2万人参赛的规模描述，也显示用户自发传播效果良好，这些都可以作为成效佐证。<br><br></think><br>以下是关于阿迪达斯支持2025年北京马拉松（北马）的核心信息整理，综合了品牌行动、用户反馈及社会影响三个维度：<br>### 🚀 **一、科技创新与专业装备**<br>1. **精英竞速装备突破**  <br>   - ADIZERO系列跑鞋助力选手包揽男女组冠军：  <br>     - **ADIZERO ADIOS PRO 4**：采用Lightstrike Pro中底+仿生碳柱技术，增强推进力；马牌橡胶大底提升赛道抓地力。跑者实测反馈其轻盈回弹特性显著减轻足部负担，完赛后恢复效率更高，被称为“马拉松神器”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 6, \"data\": {\"num\": [3, 23, 24], \"version\": 2, \"quote_list\": [{\"name\": \"Mr_少陵\", \"scheme\": \"sinaweibo://detail?mblogid=5228511736627451\", \"index\": 3, \"label\": \"大v\"}, {\"name\": \"鲸矜枝关\", \"scheme\": \"sinaweibo://detail?mblogid=5228330018406568\", \"index\": 23, \"label\": \"\"}, {\"name\": \"鲸矜枝关\", \"scheme\": \"sinaweibo://detail?mblogid=5228468569900506\", \"index\": 24, \"label\": \"\"}], \"name\": \"Mr_少陵\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.512.512.50/8f63b2a3ly8g59ian43a7j20e80e8dgi.jpg?KID=imgbed,tva&Expires=1762071680&ssig=LkOjyYGl45\", \"scheme\": \"sinaweibo://detail?mblogid=5228511736627451\", \"vType\": 0}}```  <br>     - **限定款设计**：推出北马元素限定礼盒（如ADIZERO BOSTON 13），中底泡棉用量增加13.8%优化缓震性。```wbCustomBlock{\"type\": \"quoted\", \"index\": 7, \"data\": {\"num\": [23, 24], \"version\": 2, \"quote_list\": [{\"name\": \"鲸矜枝关\", \"scheme\": \"sinaweibo://detail?mblogid=5228330018406568\", \"index\": 23, \"label\": \"\"}, {\"name\": \"鲸矜枝关\", \"scheme\": \"sinaweibo://detail?mblogid=5228468569900506\", \"index\": 24, \"label\": \"\"}]}}```  <br>   - **赛事成绩佐证**：ADIZERO 0系列跑鞋赋能选手刷新成绩，延续北马赛道速度传奇。```wbCustomBlock{\"type\": \"quoted\", \"index\": 8, \"data\": {\"num\": [3, 21], \"version\": 2, \"quote_list\": [{\"name\": \"月照梨花影\", \"scheme\": \"sinaweibo://detail?mblogid=5228454486478786\", \"index\": 21, \"label\": \"大v\"}, {\"name\": \"Mr_少陵\", \"scheme\": \"sinaweibo://detail?mblogid=5228511736627451\", \"index\": 3, \"label\": \"\"}], \"name\": \"月照梨花影\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.1080.1080.50/005BzfOjly1i5vsxw6aa9j30u00u0wfs.jpg?KID=imgbed,tva&Expires=1762071680&ssig=qrNFsQuMRM\", \"scheme\": \"sinaweibo://detail?mblogid=5228454486478786\", \"vType\": 0}}```<br><br>2. **大众产品耐用性获情感认同**  <br>   - 普通跑者分享阿迪装备陪伴成长的故事：例如八年旧衣保暖性依旧、退役“战损跑鞋”见证从500米到5公里的进步历程，凸显产品长期耐用性。用户强调装备对“健康跑”非竞速的陪伴价值。```wbCustomBlock{\"type\": \"quoted\", \"index\": 10, \"data\": {\"num\": [2, 10, 19, 20], \"version\": 2, \"quote_list\": [{\"name\": \"素年时锦饭\", \"scheme\": \"sinaweibo://detail?mblogid=5228097215400175\", \"index\": 2, \"label\": \"大v\"}, {\"name\": \"椰雾眠雨\", \"scheme\": \"sinaweibo://detail?mblogid=5228425545515763\", \"index\": 10, \"label\": \"\"}, {\"name\": \"这个米米\", \"scheme\": \"sinaweibo://detail?mblogid=5228332931090932\", \"index\": 19, \"label\": \"\"}, {\"name\": \"方知颖鳴\", \"scheme\": \"sinaweibo://detail?mblogid=5228451529493909\", \"index\": 20, \"label\": \"\"}], \"name\": \"素年时锦饭\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.512.512.50/76d00275ly8hs78ukb6ctj20e80e875f.jpg?KID=imgbed,tva&Expires=1762071680&ssig=GVlFR%2F0INi\", \"scheme\": \"sinaweibo://detail?mblogid=5228097215400175\", \"vType\": 0}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5228097215400175&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.512.512.50/76d00275ly8hs78ukb6ctj20e80e875f.jpg?KID=imgbed,tva&Expires=1762071680&ssig=GVlFR%2F0INi) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">素年时锦饭</span><img src=\"http://wx3.sinaimg.cn/middle/76d00275ly1i6wfneu77cj22ro22hnpf.jpg\" data-width=2681 data-height=3588></div></media-block><br>### 🤝 **二、全周期服务体系**<br>1. **赛前科学训练支持**  <br>   - 阿迪达斯联合专业教练开设**北马训练营**，为跑者定制高强度、场景化训练计划，结合ADIZERO装备科学备赛，助力刷新PB（个人最佳）。```wbCustomBlock{\"type\": \"quoted\", \"index\": 14, \"data\": {\"num\": [3, 21, 25], \"version\": 2, \"quote_list\": [{\"name\": \"在桥上写日记的小金鱼\", \"scheme\": \"sinaweibo://detail?mblogid=5228451691761157\", \"index\": 25, \"label\": \"大v\"}, {\"name\": \"Mr_少陵\", \"scheme\": \"sinaweibo://detail?mblogid=5228511736627451\", \"index\": 3, \"label\": \"\"}, {\"name\": \"月照梨花影\", \"scheme\": \"sinaweibo://detail?mblogid=5228454486478786\", \"index\": 21, \"label\": \"\"}], \"name\": \"在桥上写日记的小金鱼\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.220.220.50/008HFylvly8i0omipq5n5j3064064q2v.jpg?KID=imgbed,tva&Expires=1762071680&ssig=4d4FYXGkBM\", \"scheme\": \"sinaweibo://detail?mblogid=5228451691761157\", \"vType\": 0}}```<br><br>2. **赛中全方位保障**  <br>   - **AR加油站**：赛道沿途设置增强现实互动点，用沉浸式氛围为跑者加油。```wbCustomBlock{\"type\": \"quoted\", \"index\": 16, \"data\": {\"num\": [3, 21], \"version\": 2, \"quote_list\": [{\"name\": \"Mr_少陵\", \"scheme\": \"sinaweibo://detail?mblogid=5228511736627451\", \"index\": 3, \"label\": \"\"}, {\"name\": \"月照梨花影\", \"scheme\": \"sinaweibo://detail?mblogid=5228454486478786\", \"index\": 21, \"label\": \"\"}]}}```  <br>   - **后勤服务**：提供赛事指引、补给支持及人员保障，覆盖3.2万名参赛者。```wbCustomBlock{\"type\": \"quoted\", \"index\": 17, \"data\": {\"num\": [21, 25], \"version\": 2, \"quote_list\": [{\"name\": \"月照梨花影\", \"scheme\": \"sinaweibo://detail?mblogid=5228454486478786\", \"index\": 21, \"label\": \"\"}, {\"name\": \"在桥上写日记的小金鱼\", \"scheme\": \"sinaweibo://detail?mblogid=5228451691761157\", \"index\": 25, \"label\": \"\"}]}}```<br><br>3. **赛后专业恢复**  <br>   - 设立运动恢复区，配备专业康复人员提供拉伸服务，缓解运动疲劳。```wbCustomBlock{\"type\": \"quoted\", \"index\": 19, \"data\": {\"num\": [3, 21], \"version\": 2, \"quote_list\": [{\"name\": \"Mr_少陵\", \"scheme\": \"sinaweibo://detail?mblogid=5228511736627451\", \"index\": 3, \"label\": \"\"}, {\"name\": \"月照梨花影\", \"scheme\": \"sinaweibo://detail?mblogid=5228454486478786\", \"index\": 21, \"label\": \"\"}]}}```<br>### ❤️ **三、“你行的”精神价值与用户共鸣**<br>1. **口号深度绑定用户故事**  <br>   - **“你行的”精神符号**：以“北马当快不让”为口号，覆盖从完赛目标到PB挑战的全层级跑者需求。```wbCustomBlock{\"type\": \"quoted\", \"index\": 23, \"data\": {\"num\": [10, 14, 17], \"version\": 2, \"quote_list\": [{\"name\": \"椰雾眠雨\", \"scheme\": \"sinaweibo://detail?mblogid=5228425545515763\", \"index\": 10, \"label\": \"大v\"}, {\"name\": \"烊烊眰恦\", \"scheme\": \"sinaweibo://detail?mblogid=5228326098832551\", \"index\": 14, \"label\": \"\"}, {\"name\": \"OrangePeachHappyCottage\", \"scheme\": \"sinaweibo://detail?mblogid=5228488223098398\", \"index\": 17, \"label\": \"\"}], \"name\": \"椰雾眠雨\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.1080.1080.50/0086EtJ5ly8i51w537qqqj30u00u0wj3.jpg?KID=imgbed,tva&Expires=1762071680&ssig=Q66fiqtcx8\", \"scheme\": \"sinaweibo://detail?mblogid=5228425545515763\", \"vType\": 0}}```  <br>   - **真实情感载体**：用户自发分享突破自我的经历（如普通跑者借助基础款装备养成运动习惯），将产品转化为情感纽带。```wbCustomBlock{\"type\": \"quoted\", \"index\": 24, \"data\": {\"num\": [2, 10, 20], \"version\": 2, \"quote_list\": [{\"name\": \"素年时锦饭\", \"scheme\": \"sinaweibo://detail?mblogid=5228097215400175\", \"index\": 2, \"label\": \"\"}, {\"name\": \"椰雾眠雨\", \"scheme\": \"sinaweibo://detail?mblogid=5228425545515763\", \"index\": 10, \"label\": \"\"}, {\"name\": \"方知颖鳴\", \"scheme\": \"sinaweibo://detail?mblogid=5228451529493909\", \"index\": 20, \"label\": \"\"}]}}```<br><br>2. **双轨策略融合竞技与大众**  <br>   - **精英突破**：尖端科技助力冠军诞生，强化品牌专业形象。```wbCustomBlock{\"type\": \"quoted\", \"index\": 26, \"data\": {\"num\": [3, 24], \"version\": 2, \"quote_list\": [{\"name\": \"Mr_少陵\", \"scheme\": \"sinaweibo://detail?mblogid=5228511736627451\", \"index\": 3, \"label\": \"\"}, {\"name\": \"鲸矜枝关\", \"scheme\": \"sinaweibo://detail?mblogid=5228468569900506\", \"index\": 24, \"label\": \"\"}]}}```  <br>   - **大众陪伴**：耐用产品支持健康生活，形成“突破自我”的共识。```wbCustomBlock{\"type\": \"quoted\", \"index\": 27, \"data\": {\"num\": [17, 19, 22], \"version\": 2, \"quote_list\": [{\"name\": \"OrangePeachHappyCottage\", \"scheme\": \"sinaweibo://detail?mblogid=5228488223098398\", \"index\": 17, \"label\": \"\"}, {\"name\": \"这个米米\", \"scheme\": \"sinaweibo://detail?mblogid=5228332931090932\", \"index\": 19, \"label\": \"\"}, {\"name\": \"小极致-\", \"scheme\": \"sinaweibo://detail?mblogid=5228518137925696\", \"index\": 22, \"label\": \"\"}]}}```<br>### 🌍 **四、品牌影响与社会价值**<br>- **推动全民跑步文化**：阿迪达斯对北马的支持超越商业赞助，成为全民健康生活的推动力。其“科技+服务+精神”三维体系，使赛事成为中国群众体育发展的缩影。```wbCustomBlock{\"type\": \"quoted\", \"index\": 30, \"data\": {\"num\": [6, 17, 22], \"version\": 2, \"quote_list\": [{\"name\": \"聆吱浅城\", \"scheme\": \"sinaweibo://detail?mblogid=5228522922574203\", \"index\": 6, \"label\": \"\"}, {\"name\": \"OrangePeachHappyCottage\", \"scheme\": \"sinaweibo://detail?mblogid=5228488223098398\", \"index\": 17, \"label\": \"\"}, {\"name\": \"小极致-\", \"scheme\": \"sinaweibo://detail?mblogid=5228518137925696\", \"index\": 22, \"label\": \"\"}]}}```  <br>- **本土化战略深化**：通过支持北马等赛事助力北京建设“国际赛事名城”，践行“在中国，为中国”策略。```wbCustomBlock{\"type\": \"quoted\", \"index\": 31, \"data\": {\"num\": [17, 21], \"version\": 2, \"quote_list\": [{\"name\": \"OrangePeachHappyCottage\", \"scheme\": \"sinaweibo://detail?mblogid=5228488223098398\", \"index\": 17, \"label\": \"\"}, {\"name\": \"月照梨花影\", \"scheme\": \"sinaweibo://detail?mblogid=5228454486478786\", \"index\": 21, \"label\": \"\"}]}}```<br>### 💎 **总结**  <br>阿迪达斯以科技装备赋能精英选手突破极限，以耐用产品及全周期服务陪伴大众成长，将“你行的”升华为跑者社群的精神符号。其双轨策略不仅彰显竞技体育的突破性，更诠释了大众运动的普适价值，持续引领中国全民跑步文化发展。```wbCustomBlock{\"type\": \"quoted\", \"index\": 33, \"data\": {\"num\": [6, 17, 22, 25], \"version\": 2, \"quote_list\": [{\"name\": \"聆吱浅城\", \"scheme\": \"sinaweibo://detail?mblogid=5228522922574203\", \"index\": 6, \"label\": \"\"}, {\"name\": \"OrangePeachHappyCottage\", \"scheme\": \"sinaweibo://detail?mblogid=5228488223098398\", \"index\": 17, \"label\": \"\"}, {\"name\": \"小极致-\", \"scheme\": \"sinaweibo://detail?mblogid=5228518137925696\", \"index\": 22, \"label\": \"\"}, {\"name\": \"在桥上写日记的小金鱼\", \"scheme\": \"sinaweibo://detail?mblogid=5228451691761157\", \"index\": 25, \"label\": \"\"}]}}```<br>",
+      "top_quote_list": {},
+      "uid": "",
+      "comment_info": {},
+      "ab_suffix": "default",
+      "msg_format": "markdown",
+      "share_text": "#阿迪达斯为北马跑者加油你行的#的相关内容，来智搜看看"
+    }
+  },
+  "links": [
+    "sinaweibo://detail?mblogid=5228514156482725",
+    "sinaweibo://detail?mblogid=5228097215400175",
+    "sinaweibo://detail?mblogid=5228511736627451",
+    "sinaweibo://detail?mblogid=5228451361195931",
+    "sinaweibo://detail?mblogid=5228429213696867",
+    "sinaweibo://detail?mblogid=5228522922574203",
+    "sinaweibo://detail?mblogid=5228522806183477",
+    "sinaweibo://detail?mblogid=5228510428006512",
+    "sinaweibo://detail?mblogid=5228505148687142",
+    "sinaweibo://detail?mblogid=5228425545515763",
+    "sinaweibo://detail?mblogid=5228509700031187",
+    "sinaweibo://detail?mblogid=5228496120976236",
+    "sinaweibo://detail?mblogid=5228491490722635",
+    "sinaweibo://detail?mblogid=5228326098832551",
+    "sinaweibo://detail?mblogid=5228324188330082",
+    "sinaweibo://detail?mblogid=5096372335018264",
+    "sinaweibo://detail?mblogid=5228488223098398",
+    "sinaweibo://detail?mblogid=5228328535721534",
+    "sinaweibo://detail?mblogid=5228332931090932",
+    "sinaweibo://detail?mblogid=5228451529493909",
+    "sinaweibo://detail?mblogid=5228454486478786",
+    "sinaweibo://detail?mblogid=5228518137925696",
+    "sinaweibo://detail?mblogid=5228330018406568",
+    "sinaweibo://detail?mblogid=5228468569900506",
+    "sinaweibo://detail?mblogid=5228451691761157"
+  ],
+  "media": [
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/76d00275ly1i6wfneu77cj22ro22hnpf.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/76d00275ly1i6wfneu77cj22ro22hnpf.jpg",
+      "alt": "素年时锦饭",
+      "width": 2681,
+      "height": 3588,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/76d00275ly1i6wfneu77cj22ro22hnpf.jpg"
+      ],
+      "user": "素年时锦饭"
+    }
+  ],
+  "html_path": "data/aicard/hourly/2025-11-02/13/topic-333292cd.html"
+}

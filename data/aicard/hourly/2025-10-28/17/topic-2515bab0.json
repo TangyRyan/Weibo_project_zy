@@ -1,0 +1,335 @@
+{
+  "meta": {
+    "query": "#中国新能源车以创新引领全球产业#",
+    "status_code": 200,
+    "fetched_at": "2025-10-28T17:33:06+08:00",
+    "response": {
+      "show_ctrl": {
+        "quote": {}
+      },
+      "unify_md5": "2515bab046325b96f41667d9bafabaac",
+      "scheme": "sinaweibo://cardlist?containerid=100103type%3D225%26q%3D%23%E4%B8%AD%E5%9B%BD%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E4%BB%A5%E5%88%9B%E6%96%B0%E5%BC%95%E9%A2%86%E5%85%A8%E7%90%83%E4%BA%A7%E4%B8%9A%23%26t%3D&extparam=ai_model%3Ddeepseek%26ori_ai_title%3D%E5%8F%82%E8%80%83%E5%8D%9A%E6%96%87%26material_version%3D1761643579",
+      "qs_status_info": "{\"qs_q_status\":0,\"qs_c_status\":8388608,\"qs_status\":0,\"qs_u_status\":0,\"qs_r_status\":0,\"ab_lab\":{}}",
+      "loop_times": 200,
+      "top_quote_list": {},
+      "sorted_material_list": null,
+      "query": "#中国新能源车以创新引领全球产业#",
+      "share_card_multimodal": {
+        "video_url": "",
+        "img": "http://wx1.sinaimg.cn/middle/0072F4dIly1i6s4vl1e9vj30u01130v1.jpg",
+        "hit_score_new": 99.023438,
+        "doc_score": 6083,
+        "img_pid": "0072F4dIly1i6s4vl1e9vj30u01130v1",
+        "scheme": "sinaweibo://multimedia?mix_mid=5226748423964946&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=0",
+        "w": 1080,
+        "cur_mid": "5226748423964946",
+        "h": 1335,
+        "type": "p",
+        "vtype": 0,
+        "user_name": "宋只小喵",
+        "click_rate": 0,
+        "user_avatar": "https://tvax2.sinaimg.cn/crop.0.0.511.511.50/0072F4dIly8h8w2pmrjn1j30e70e7mxm.jpg?KID=imgbed,tva&Expires=1761654379&ssig=OKBJ3G%2BeLb",
+        "hit_score_final": 91.414062
+      },
+      "model": "deepseek",
+      "reference_num": 31,
+      "cot": 1,
+      "q_attr": {
+        "from_request_id": "",
+        "from_uid": ""
+      },
+      "news_analyze": {},
+      "reliable_tips": "{\"gold_orange_v_mids\": [\"5226748423964946\", \"5226750113220687\", \"5226763628314814\", \"5226765775802676\", \"5226763421746618\", \"5226769057581065\", \"5226747864810732\", \"5226766438238377\", \"5226681225710210\", \"5226764390632456\", \"5226748675363300\", \"5226763811819116\", \"5226761749268551\", \"5226769201762241\", \"5226749648699686\", \"5226749168191329\", \"5226749780563070\", \"5226774256157337\", \"5226750433036533\"], \"gold_orange_v_ratio\": \"61%\", \"media_mids\": [\"5226742584708277\", \"5226769229549062\", \"5226757835985523\", \"5226758039406243\", \"5226757885006095\", \"5226759853447033\", \"5226752389417478\"], \"media_ratio\": \"23%\", \"verified_mids\": [\"5226752638717562\", \"5226757848041523\", \"5226757716443491\", \"5226756709814873\", \"5226750810523781\"], \"verified_ratio\": \"16%\", \"normal_mids\": [], \"normal_ratio\": \"0%\", \"ref_mid_rank\": {\"5226742584708277\": {\"rank\": 1}, \"5226748423964946\": {\"rank\": 5}, \"5226750113220687\": {\"rank\": 11}, \"5226763628314814\": {\"rank\": 14}, \"5226769229549062\": {\"rank\": 28}, \"5226752638717562\": {\"rank\": 6}, \"5226757848041523\": {\"rank\": 8}, \"5226757835985523\": {\"rank\": 26}, \"5226765775802676\": {\"rank\": 3}, \"5226758039406243\": {\"rank\": 4}, \"5226763421746618\": {\"rank\": 7}, \"5226757716443491\": {\"rank\": 13}, \"5226769057581065\": {\"rank\": 16}, \"5226756709814873\": {\"rank\": 29}, \"5226747864810732\": {\"rank\": 20}, \"5226757885006095\": {\"rank\": 31}, \"5226766438238377\": {\"rank\": 10}, \"5226681225710210\": {\"rank\": 24}, \"5226764390632456\": {\"rank\": 15}, \"5226748675363300\": {\"rank\": 19}, \"5226750810523781\": {\"rank\": 2}, \"5226759853447033\": {\"rank\": 9}, \"5226763811819116\": {\"rank\": 12}, \"5226761749268551\": {\"rank\": 17}, \"5226769201762241\": {\"rank\": 18}, \"5226749648699686\": {\"rank\": 21}, \"5226749168191329\": {\"rank\": 22}, \"5226749780563070\": {\"rank\": 23}, \"5226774256157337\": {\"rank\": 25}, \"5226750433036533\": {\"rank\": 27}, \"5226752389417478\": {\"rank\": 30}}}",
+      "msg": "<think><br>嗯，用户给了一个关于中国新能源车产业的查询，还提供了31条搜索结果。这些结果基本都是2025年10月28日当天的微博内容，时效性很强。用户可能是想了解中国新能源车当前的发展状况，特别是创新方面的突破和全球影响。<br><br>这么多搜索结果里，有几个关键信息点很突出：首先是2025年9月出口量22.2万辆、同比增长100.9%的数据在多个结果中反复出现，说明这是核心突破。其次是小米SU7 Ultra在纽北赛道破纪录的事被多次提及，这应该是近期重大技术突破的代表事件。<br><br>用户可能还想了解技术细节，结果中提到不少创新点：固态电池续航超千公里、快充10分钟补能400公里、极寒环境适应性等。还有产业链方面的信息，比如宁德时代电池全球占比近七成，以及政府政策支持如《节能与新能源汽车技术路线图3.0》。<br><br>有趣的是，结果17提到新能源车不会完全取代燃油车的观点，但其他结果都聚焦在新能源车的突破上。用户可能更关注创新引领的部分，这个次要信息可以简单带过。<br><br>在整理回答时，考虑分成几个逻辑块：先用出口数据说明市场地位，再重点讲三大技术突破领域（电池、补能、智能），接着分析产业链协同模式，最后展望未来。每个点都要引用多个结果佐证，比如讲电池技术时要把结果5的固态电池、结果3的低温适应性、结果13的宁德时代市占率等综合起来。<br><br>要注意避免简单罗列账号内容，而是把分散在31条结果里的信息重新整合。比如关于纽北纪录的细节，结果2提到小米纪录片，结果6讲市场表现，结果9描述工程师精神，需要把这些融合成一段完整叙述。<br><br>最后那些科普类内容（结果22的车型分类、结果23的参数解读）和个别离题信息用户可能不太关注，可以舍弃。重点突出\"创新引领\"这个主题，用硬核技术数据和全球市场表现来支撑观点。<br><br></think><br>以下是关于中国新能源汽车以创新引领全球产业的综合分析，综合搜索结果中的核心信息与行业背景整理而成：<br>### ⚡️**一、市场表现与全球突破**<br>1. **出口爆发式增长**  <br>   • 2025年9月中国新能源汽车出口量达**22.2万辆**，同比增长**100.9%**，创历史新高。  <br>   • 全球市场份额占比**67.7%**（每售出3辆新能源车中有2辆来自中国）。```wbCustomBlock{\"type\": \"quoted\", \"index\": 4, \"data\": {\"num\": [1, 5, 11, 14, 28], \"version\": 2, \"quote_list\": [{\"name\": \"央视新闻\", \"scheme\": \"sinaweibo://detail?mblogid=5226742584708277\", \"index\": 1, \"label\": \"大v\"}, {\"name\": \"宋只小喵\", \"scheme\": \"sinaweibo://detail?mblogid=5226748423964946\", \"index\": 5, \"label\": \"\"}, {\"name\": \"追波逐影\", \"scheme\": \"sinaweibo://detail?mblogid=5226750113220687\", \"index\": 11, \"label\": \"\"}, {\"name\": \"关于dodo张\", \"scheme\": \"sinaweibo://detail?mblogid=5226763628314814\", \"index\": 14, \"label\": \"\"}, {\"name\": \"大河财立方\", \"scheme\": \"sinaweibo://detail?mblogid=5226769229549062\", \"index\": 28, \"label\": \"\"}], \"name\": \"央视新闻\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.690.690.50/002TLsr9ly8i653ifvwbtj60j60j6aai02.jpg?KID=imgbed,tva&Expires=1761654379&ssig=4J9KvmLzn%2B\", \"scheme\": \"sinaweibo://detail?mblogid=5226742584708277\", \"vType\": 3}}```  <br><br>2. **高端市场突破**  <br>   • 小米SU7 Ultra上市后稳居全球50万以上高端纯电车型销量第二，截至2025年9月终端销量超1.5万辆。  <br>   • 中国品牌频繁亮相国际赛道：小米SU7 Ultra以**7分04秒957**刷新纽北赛道纪录，成为全球最速量产电车；比亚迪仰望U9同步刷新超跑组纪录。```wbCustomBlock{\"type\": \"quoted\", \"index\": 5, \"data\": {\"num\": [6, 8, 26, 28], \"version\": 2, \"quote_list\": [{\"name\": \"大河网\", \"scheme\": \"sinaweibo://detail?mblogid=5226757835985523\", \"index\": 26, \"label\": \"大v\"}, {\"name\": \"Vista看天下\", \"scheme\": \"sinaweibo://detail?mblogid=5226752638717562\", \"index\": 6, \"label\": \"\"}, {\"name\": \"大江晚报\", \"scheme\": \"sinaweibo://detail?mblogid=5226757848041523\", \"index\": 8, \"label\": \"\"}, {\"name\": \"大河财立方\", \"scheme\": \"sinaweibo://detail?mblogid=5226769229549062\", \"index\": 28, \"label\": \"\"}], \"name\": \"大河网\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.599.599.50/001ZLPbxly8i3wzyx78c9j60gn0gnq3a02.jpg?KID=imgbed,tva&Expires=1761654379&ssig=j8fW0YrLeS\", \"scheme\": \"sinaweibo://detail?mblogid=5226757835985523\", \"vType\": 3}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5226748423964946&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.511.511.50/0072F4dIly8h8w2pmrjn1j30e70e7mxm.jpg?KID=imgbed,tva&Expires=1761654379&ssig=OKBJ3G%2BeLb) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">宋只小喵</span><img src=\"http://wx1.sinaimg.cn/middle/0072F4dIly1i6s4vl1e9vj30u01130v1.jpg\" data-width=1335 data-height=1080></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5226750113220687&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=1\"><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.996.996.50/006lSUZwly8gdl9mvrnehj30ro0rowgo.jpg?KID=imgbed,tva&Expires=1761654379&ssig=k9khGY9agu) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">追波逐影</span><img src=\"http://wx3.sinaimg.cn/middle/006lSUZwgy1i6s52jzgxij30go0goq4b.jpg\" data-width=600 data-height=600></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5226752638717562&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=2\"><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.512.512.50/001rzo4Rly8hj09ep9fd9j60e80e8dfz02.jpg?KID=imgbed,tva&Expires=1761654379&ssig=wvxPfD6DVK) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">Vista看天下</span><img src=\"http://wx3.sinaimg.cn/middle/001rzo4Rgy1i6s50dai60j60qn0zkaxi02.jpg\" data-width=1280 data-height=959></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5226757848041523&multi_paragraph=1&multi_count=3\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.640.640.50/001TNbXAly8hpabr4oydoj60hs0hs75h02.jpg?KID=imgbed,tva&Expires=1761654379&ssig=XzbyYi5YKP) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">大江晚报</span><img src=\"http://wx2.sinaimg.cn/middle/008AGV4Yly1i6s4899734j30qo0f0amf.jpg\" data-width=540 data-height=960></div></media-block><br>### 🔋**二、技术创新硬实力**  <br>1. **电池技术全球领先**  <br>   • **固态电池**能量密度突破，实现续航超1000公里。  <br>   • 宁德时代占据全球动力电池**近70%市场份额**，主导核心供应链。  <br>   • 极寒适应性技术：电池可在**-30°C至-40°C**环境稳定运行。```wbCustomBlock{\"type\": \"quoted\", \"index\": 8, \"data\": {\"num\": [3, 4, 5, 7, 13], \"version\": 2, \"quote_list\": [{\"name\": \"聊城晚报\", \"scheme\": \"sinaweibo://detail?mblogid=5226758039406243\", \"index\": 4, \"label\": \"大v\"}, {\"name\": \"番茄酱soso\", \"scheme\": \"sinaweibo://detail?mblogid=5226765775802676\", \"index\": 3, \"label\": \"\"}, {\"name\": \"宋只小喵\", \"scheme\": \"sinaweibo://detail?mblogid=5226748423964946\", \"index\": 5, \"label\": \"\"}, {\"name\": \"丁丁旅行\", \"scheme\": \"sinaweibo://detail?mblogid=5226763421746618\", \"index\": 7, \"label\": \"\"}, {\"name\": \"光芒视频\", \"scheme\": \"sinaweibo://detail?mblogid=5226757716443491\", \"index\": 13, \"label\": \"\"}], \"name\": \"聊城晚报\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.600.600.50/6593d04dly8hcc9hegnvfj20go0got9i.jpg?KID=imgbed,tva&Expires=1761654379&ssig=RXy9uaT4bv\", \"scheme\": \"sinaweibo://detail?mblogid=5226758039406243\", \"vType\": 3}}```  <br><br>2. **补能效率革命**  <br>   • 快充技术普及：**10分钟补能400公里**，大幅缓解续航焦虑。  <br>   • 多合一电驱系统转速突破**30000rpm**，混动车型综合续航跨越**2000公里**。```wbCustomBlock{\"type\": \"quoted\", \"index\": 9, \"data\": {\"num\": [5, 11, 16, 29], \"version\": 2, \"quote_list\": [{\"name\": \"牛丸科技\", \"scheme\": \"sinaweibo://detail?mblogid=5226769057581065\", \"index\": 16, \"label\": \"大v\"}, {\"name\": \"宋只小喵\", \"scheme\": \"sinaweibo://detail?mblogid=5226748423964946\", \"index\": 5, \"label\": \"\"}, {\"name\": \"追波逐影\", \"scheme\": \"sinaweibo://detail?mblogid=5226750113220687\", \"index\": 11, \"label\": \"\"}, {\"name\": \"新车场\", \"scheme\": \"sinaweibo://detail?mblogid=5226756709814873\", \"index\": 29, \"label\": \"\"}], \"name\": \"牛丸科技\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/77546895ly8hhyk5apj4zj20u00u00uh.jpg?KID=imgbed,tva&Expires=1761654379&ssig=lGuFpTbNni\", \"scheme\": \"sinaweibo://detail?mblogid=5226769057581065\", \"vType\": 0}}```  <br><br>3. **智能化技术迭代**  <br>   • 智能驾驶算法突破国外专利封锁，多传感器融合技术达世界前列。  <br>   • 车载系统支持方言识别、路况预判及自适应学习能力，实现“越开越懂用户”。```wbCustomBlock{\"type\": \"quoted\", \"index\": 10, \"data\": {\"num\": [3, 7, 11, 13], \"version\": 2, \"quote_list\": [{\"name\": \"番茄酱soso\", \"scheme\": \"sinaweibo://detail?mblogid=5226765775802676\", \"index\": 3, \"label\": \"大v\"}, {\"name\": \"丁丁旅行\", \"scheme\": \"sinaweibo://detail?mblogid=5226763421746618\", \"index\": 7, \"label\": \"\"}, {\"name\": \"追波逐影\", \"scheme\": \"sinaweibo://detail?mblogid=5226750113220687\", \"index\": 11, \"label\": \"\"}, {\"name\": \"光芒视频\", \"scheme\": \"sinaweibo://detail?mblogid=5226757716443491\", \"index\": 13, \"label\": \"\"}], \"name\": \"番茄酱soso\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.995.995.50/c7eb1e74ly8hp8hf2y8kgj20rn0rndie.jpg?KID=imgbed,tva&Expires=1761654379&ssig=KY1rwm7m1T\", \"scheme\": \"sinaweibo://detail?mblogid=5226765775802676\", \"vType\": 0}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5226758039406243&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=2&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.600.600.50/6593d04dly8hcc9hegnvfj20go0got9i.jpg?KID=imgbed,tva&Expires=1761654379&ssig=RXy9uaT4bv) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">聊城晚报</span><img src=\"http://wx3.sinaimg.cn/middle/6593d04dly1i6s5zcjk99j20qn0zkwj9.jpg\" data-width=1280 data-height=959></div><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5226765775802676&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=2&multi_count=1\"><span class=\"vator\" style=\"display: none;background: url(https://tvax2.sinaimg.cn/crop.0.0.995.995.50/c7eb1e74ly8hp8hf2y8kgj20rn0rndie.jpg?KID=imgbed,tva&Expires=1761654379&ssig=KY1rwm7m1T) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">番茄酱soso</span><img src=\"http://wx2.sinaimg.cn/middle/c7eb1e74ly1i6s6vbn5xtj20z00sg7gh.jpg\" data-width=1024 data-height=1260></div><div data-type=\"v\" data-scheme=\"sinaweibo://video/vvs?mid=5226757716443491&multi_paragraph=2&multi_count=2\"><span class=\"arrow\"></span><span class=\"vator\" style=\"display: none;background: url(https://tvax3.sinaimg.cn/crop.0.0.1002.1002.50/0080XO97ly8gog28jsgqpj30ru0ru74n.jpg?KID=imgbed,tva&Expires=1761654379&ssig=6zzWJy6aXO) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">光芒视频</span><img src=\"http://wx1.sinaimg.cn/middle/007Sj1S0ly1i6s2fhcbimj30u01hcq6h.jpg\" data-width=1920 data-height=1080></div></media-block><br>### 🌐**三、产业链协同创新模式**  <br>1. **“产学研政”协同发力**  <br>   • 国家战略引导：《节能与新能源汽车技术路线图3.0》规划全球化发展路径。  <br>   • 企业-科研机构联合攻关核心技术，如电解液配方优化、电控系统自主研发等。```wbCustomBlock{\"type\": \"quoted\", \"index\": 13, \"data\": {\"num\": [4, 7, 20, 31], \"version\": 2, \"quote_list\": [{\"name\": \"掌上温岭\", \"scheme\": \"sinaweibo://detail?mblogid=5226757885006095\", \"index\": 31, \"label\": \"大v\"}, {\"name\": \"聊城晚报\", \"scheme\": \"sinaweibo://detail?mblogid=5226758039406243\", \"index\": 4, \"label\": \"\"}, {\"name\": \"丁丁旅行\", \"scheme\": \"sinaweibo://detail?mblogid=5226763421746618\", \"index\": 7, \"label\": \"\"}, {\"name\": \"史实君\", \"scheme\": \"sinaweibo://detail?mblogid=5226747864810732\", \"index\": 20, \"label\": \"\"}], \"name\": \"掌上温岭\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.600.600.50/5940cab1ly8hcmi0ldm6wj20go0got8z.jpg?KID=imgbed,tva&Expires=1761654379&ssig=hjOkr0kAIS\", \"scheme\": \"sinaweibo://detail?mblogid=5226757885006095\", \"vType\": 3}}```  <br><br>2. **全产业链优势整合**  <br>   • **前端创新**：小米、比亚迪、小鹏等聚焦三电技术、底盘调校与性能优化。  <br>   • **中端控制**：宁德时代等企业构建电池供应链壁垒。  <br>   • **后端支持**：政策激励与基建配套加速技术落地。```wbCustomBlock{\"type\": \"quoted\", \"index\": 14, \"data\": {\"num\": [4, 13, 20, 26, 28, 31], \"version\": 2, \"quote_list\": [{\"name\": \"大河财立方\", \"scheme\": \"sinaweibo://detail?mblogid=5226769229549062\", \"index\": 28, \"label\": \"大v\"}, {\"name\": \"聊城晚报\", \"scheme\": \"sinaweibo://detail?mblogid=5226758039406243\", \"index\": 4, \"label\": \"\"}, {\"name\": \"光芒视频\", \"scheme\": \"sinaweibo://detail?mblogid=5226757716443491\", \"index\": 13, \"label\": \"\"}, {\"name\": \"史实君\", \"scheme\": \"sinaweibo://detail?mblogid=5226747864810732\", \"index\": 20, \"label\": \"\"}, {\"name\": \"大河网\", \"scheme\": \"sinaweibo://detail?mblogid=5226757835985523\", \"index\": 26, \"label\": \"\"}, {\"name\": \"掌上温岭\", \"scheme\": \"sinaweibo://detail?mblogid=5226757885006095\", \"index\": 31, \"label\": \"\"}], \"name\": \"大河财立方\", \"img\": \"https://tvax1.sinaimg.cn/crop.0.0.640.640.50/006WP2UVly8h8vkp7qhcnj30hs0hsjrs.jpg?KID=imgbed,tva&Expires=1761654379&ssig=OqsK2I8Y6V\", \"scheme\": \"sinaweibo://detail?mblogid=5226769229549062\", \"vType\": 3}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5226747864810732&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=3&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.996.996.50/008cyL4lly8gkzbq89kxqj30ro0roq5n.jpg?KID=imgbed,tva&Expires=1761654379&ssig=PSY%2BeGVBgt) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">史实君</span><img src=\"http://wx2.sinaimg.cn/middle/008cyL4lly1i6s4t9xkqsj30v40fidgr.jpg\" data-width=558 data-height=1120></div></media-block><br>### 🏆**四、全球化影响与行业重塑**  <br>1. **改写全球汽车贸易格局**  <br>   • 中国在2023年成为全球最大汽车出口国，2024年出口量达**570万辆**，新能源车贡献核心增量。  <br>   • 技术标准输出：中国快充协议、电池安全规范成为多国参考标准。```wbCustomBlock{\"type\": \"quoted\", \"index\": 17, \"data\": {\"num\": [10, 16, 24, 28], \"version\": 2, \"quote_list\": [{\"name\": \"科技感知\", \"scheme\": \"sinaweibo://detail?mblogid=5226766438238377\", \"index\": 10, \"label\": \"大v\"}, {\"name\": \"牛丸科技\", \"scheme\": \"sinaweibo://detail?mblogid=5226769057581065\", \"index\": 16, \"label\": \"\"}, {\"name\": \"猫叔在硅谷\", \"scheme\": \"sinaweibo://detail?mblogid=5226681225710210\", \"index\": 24, \"label\": \"\"}, {\"name\": \"大河财立方\", \"scheme\": \"sinaweibo://detail?mblogid=5226769229549062\", \"index\": 28, \"label\": \"\"}], \"name\": \"科技感知\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.512.512.50/9154070fly8hishfow22vj20e80e8q3g.jpg?KID=imgbed,tva&Expires=1761654379&ssig=rBAzk%2Fu8gc\", \"scheme\": \"sinaweibo://detail?mblogid=5226766438238377\", \"vType\": 0}}```  <br><br>2. **文化认同与品牌升级**  <br>   • 用户感知转变：从“国产车=组装货”到“技术领先者”的品牌认知重塑。  <br>   • 国际用户主动选择中国新能源车，欧洲、东南亚市场渗透率显著提升。```wbCustomBlock{\"type\": \"quoted\", \"index\": 18, \"data\": {\"num\": [7, 14, 15, 16], \"version\": 2, \"quote_list\": [{\"name\": \"丁丁旅行\", \"scheme\": \"sinaweibo://detail?mblogid=5226763421746618\", \"index\": 7, \"label\": \"大v\"}, {\"name\": \"关于dodo张\", \"scheme\": \"sinaweibo://detail?mblogid=5226763628314814\", \"index\": 14, \"label\": \"\"}, {\"name\": \"Anry-Young\", \"scheme\": \"sinaweibo://detail?mblogid=5226764390632456\", \"index\": 15, \"label\": \"\"}, {\"name\": \"牛丸科技\", \"scheme\": \"sinaweibo://detail?mblogid=5226769057581065\", \"index\": 16, \"label\": \"\"}], \"name\": \"丁丁旅行\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.1080.1080.50/7f229825ly8i5sfym93csj20u00u0whg.jpg?KID=imgbed,tva&Expires=1761654379&ssig=BT2frACgX1\", \"scheme\": \"sinaweibo://detail?mblogid=5226763421746618\", \"vType\": 0}}```<media-block><div data-type=\"p\" data-scheme=\"sinaweibo://multimedia?mix_mid=5226764390632456&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=4&multi_count=0\"><span class=\"vator\" style=\"display: none;background: url(https://tvax4.sinaimg.cn/crop.0.0.1080.1080.50/4dafff71ly8hv020k1s77j20u00u00yg.jpg?KID=imgbed,tva&Expires=1761654379&ssig=k0lsDp1Oc6) no-repeat;background-size: contain;\"></span><span class=\"nick\" style=\"display: none\">Anry-Young</span><img src=\"http://wx3.sinaimg.cn/middle/4dafff71gy1i6s6p9lsenj21hc0u0dvv.jpg\" data-width=1080 data-height=1920></div></media-block><br>### 🔮**五、未来挑战与方向**  <br>1. **技术持续攻坚**  <br>   • 下一代电池材料（如钠离子电池）、超充网络覆盖、车路协同V2X技术研发。  <br>   • 智能化与安全平衡：解决自动驾驶伦理及数据隐私问题。```wbCustomBlock{\"type\": \"quoted\", \"index\": 21, \"data\": {\"num\": [13, 19], \"version\": 2, \"quote_list\": [{\"name\": \"君子和而不同999\", \"scheme\": \"sinaweibo://detail?mblogid=5226748675363300\", \"index\": 19, \"label\": \"大v\"}, {\"name\": \"光芒视频\", \"scheme\": \"sinaweibo://detail?mblogid=5226757716443491\", \"index\": 13, \"label\": \"\"}], \"name\": \"君子和而不同999\", \"img\": \"https://tvax3.sinaimg.cn/crop.0.0.995.995.50/006JQFXFly8i413gkromaj30rn0rnwfo.jpg?KID=imgbed,tva&Expires=1761654379&ssig=%2BP36v7nEnL\", \"scheme\": \"sinaweibo://detail?mblogid=5226748675363300\", \"vType\": 0}}```  <br><br>2. **全球化竞争深化**  <br>   • 应对欧美碳关税政策，加速本土化生产布局（如海外建厂）。  <br>   • 品牌高端化：从“性价比”向“技术溢价”转型。```wbCustomBlock{\"type\": \"quoted\", \"index\": 22, \"data\": {\"num\": [6, 24, 26, 28], \"version\": 2, \"quote_list\": [{\"name\": \"Vista看天下\", \"scheme\": \"sinaweibo://detail?mblogid=5226752638717562\", \"index\": 6, \"label\": \"\"}, {\"name\": \"猫叔在硅谷\", \"scheme\": \"sinaweibo://detail?mblogid=5226681225710210\", \"index\": 24, \"label\": \"\"}, {\"name\": \"大河网\", \"scheme\": \"sinaweibo://detail?mblogid=5226757835985523\", \"index\": 26, \"label\": \"\"}, {\"name\": \"大河财立方\", \"scheme\": \"sinaweibo://detail?mblogid=5226769229549062\", \"index\": 28, \"label\": \"\"}], \"name\": \"Vista看天下\", \"img\": \"https://tvax2.sinaimg.cn/crop.0.0.512.512.50/001rzo4Rly8hj09ep9fd9j60e80e8dfz02.jpg?KID=imgbed,tva&Expires=1761654379&ssig=wvxPfD6DVK\", \"scheme\": \"sinaweibo://detail?mblogid=5226752638717562\", \"vType\": 3}}```<br>### 💎**结语**  <br>中国新能源汽车的崛起，是**技术攻坚、产业链协同与国家战略**三位一体的成果。从电池续航突破到智能驾驶领跑，从出口翻番到赛道夺冠，中国品牌正以体系化创新打破全球汽车产业旧格局，将“电动化、智能化”定义为行业新标准。未来需持续强化核心技术自主权，推动绿色技术普惠全球，真正实现从“汽车大国”向“汽车强国”的跨越。```wbCustomBlock{\"type\": \"quoted\", \"index\": 24, \"data\": {\"num\": [4, 13, 20, 28], \"version\": 2, \"quote_list\": [{\"name\": \"史实君\", \"scheme\": \"sinaweibo://detail?mblogid=5226747864810732\", \"index\": 20, \"label\": \"\"}, {\"name\": \"聊城晚报\", \"scheme\": \"sinaweibo://detail?mblogid=5226758039406243\", \"index\": 4, \"label\": \"\"}, {\"name\": \"光芒视频\", \"scheme\": \"sinaweibo://detail?mblogid=5226757716443491\", \"index\": 13, \"label\": \"\"}, {\"name\": \"大河财立方\", \"scheme\": \"sinaweibo://detail?mblogid=5226769229549062\", \"index\": 28, \"label\": \"\"}], \"name\": \"史实君\", \"img\": \"https://tvax4.sinaimg.cn/crop.0.0.996.996.50/008cyL4lly8gkzbq89kxqj30ro0roq5n.jpg?KID=imgbed,tva&Expires=1761654379&ssig=PSY%2BeGVBgt\", \"scheme\": \"sinaweibo://detail?mblogid=5226747864810732\", \"vType\": 0}}```<br>",
+      "status": 2,
+      "ab_suffix": "default",
+      "qs_status": 0,
+      "link_list": [
+        "sinaweibo://detail?mblogid=5226742584708277",
+        "sinaweibo://detail?mblogid=5226750810523781",
+        "sinaweibo://detail?mblogid=5226765775802676",
+        "sinaweibo://detail?mblogid=5226758039406243",
+        "sinaweibo://detail?mblogid=5226748423964946",
+        "sinaweibo://detail?mblogid=5226752638717562",
+        "sinaweibo://detail?mblogid=5226763421746618",
+        "sinaweibo://detail?mblogid=5226757848041523",
+        "sinaweibo://detail?mblogid=5226759853447033",
+        "sinaweibo://detail?mblogid=5226766438238377",
+        "sinaweibo://detail?mblogid=5226750113220687",
+        "sinaweibo://detail?mblogid=5226763811819116",
+        "sinaweibo://detail?mblogid=5226757716443491",
+        "sinaweibo://detail?mblogid=5226763628314814",
+        "sinaweibo://detail?mblogid=5226764390632456",
+        "sinaweibo://detail?mblogid=5226769057581065",
+        "sinaweibo://detail?mblogid=5226761749268551",
+        "sinaweibo://detail?mblogid=5226769201762241",
+        "sinaweibo://detail?mblogid=5226748675363300",
+        "sinaweibo://detail?mblogid=5226747864810732",
+        "sinaweibo://detail?mblogid=5226749648699686",
+        "sinaweibo://detail?mblogid=5226749168191329",
+        "sinaweibo://detail?mblogid=5226749780563070",
+        "sinaweibo://detail?mblogid=5226681225710210",
+        "sinaweibo://detail?mblogid=5226774256157337",
+        "sinaweibo://detail?mblogid=5226757835985523",
+        "sinaweibo://detail?mblogid=5226750433036533",
+        "sinaweibo://detail?mblogid=5226769229549062",
+        "sinaweibo://detail?mblogid=5226756709814873",
+        "sinaweibo://detail?mblogid=5226752389417478",
+        "sinaweibo://detail?mblogid=5226757885006095"
+      ],
+      "basemodel": "实验组7",
+      "page_id": "2329644cff199ba201a7a1847a45f1ae6d5d10",
+      "version": "2025-10-28 17:26:19.068000-1520",
+      "msg_json": "{}",
+      "analysis_time": 1761643652,
+      "wenda": {
+        "forward_gen": 0
+      },
+      "query_field": "5",
+      "query_category": "Ip",
+      "ext_show": {},
+      "chat_status_stage": 1,
+      "zs_risk_control": {
+        "land_button_close": 0,
+        "think_text_close": 0
+      },
+      "msg_format": "markdown",
+      "current_time": 1761643986,
+      "profile_image_url": "",
+      "user_info": {},
+      "card_multimodal": {
+        "type": "mediablock",
+        "data": [
+          {
+            "video_url": "",
+            "img": "http://wx1.sinaimg.cn/middle/0072F4dIly1i6s4vl1e9vj30u01130v1.jpg",
+            "hit_score_new": 99.023438,
+            "doc_score": 6083,
+            "img_pid": "0072F4dIly1i6s4vl1e9vj30u01130v1",
+            "scheme": "sinaweibo://multimedia?mix_mid=5226748423964946&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=0",
+            "w": 1080,
+            "cur_mid": "5226748423964946",
+            "h": 1335,
+            "type": "p",
+            "vtype": 0,
+            "user_name": "宋只小喵",
+            "click_rate": 0,
+            "user_avatar": "https://tvax2.sinaimg.cn/crop.0.0.511.511.50/0072F4dIly8h8w2pmrjn1j30e70e7mxm.jpg?KID=imgbed,tva&Expires=1761654379&ssig=OKBJ3G%2BeLb",
+            "hit_score_final": 91.414062
+          },
+          {
+            "video_url": "",
+            "img": "http://wx3.sinaimg.cn/middle/006lSUZwgy1i6s52jzgxij30go0goq4b.jpg",
+            "hit_score_new": 99.023438,
+            "doc_score": 5307,
+            "img_pid": "006lSUZwgy1i6s52jzgxij30go0goq4b",
+            "scheme": "sinaweibo://multimedia?mix_mid=5226750113220687&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=1",
+            "w": 600,
+            "cur_mid": "5226750113220687",
+            "h": 600,
+            "type": "p",
+            "vtype": 0,
+            "user_name": "追波逐影",
+            "click_rate": 0,
+            "user_avatar": "https://tvax3.sinaimg.cn/crop.0.0.996.996.50/006lSUZwly8gdl9mvrnehj30ro0rowgo.jpg?KID=imgbed,tva&Expires=1761654379&ssig=k9khGY9agu",
+            "hit_score_final": 89.814064
+          },
+          {
+            "video_url": "",
+            "img": "http://wx3.sinaimg.cn/middle/001rzo4Rgy1i6s50dai60j60qn0zkaxi02.jpg",
+            "hit_score_new": 98.535156,
+            "doc_score": 5677,
+            "img_pid": "001rzo4Rgy1i6s50dai60j60qn0zkaxi02",
+            "scheme": "sinaweibo://multimedia?mix_mid=5226752638717562&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=2",
+            "w": 959,
+            "cur_mid": "5226752638717562",
+            "h": 1280,
+            "type": "p",
+            "vtype": 3,
+            "user_name": "Vista看天下",
+            "click_rate": 0,
+            "user_avatar": "https://tvax2.sinaimg.cn/crop.0.0.512.512.50/001rzo4Rly8hj09ep9fd9j60e80e8dfz02.jpg?KID=imgbed,tva&Expires=1761654379&ssig=wvxPfD6DVK",
+            "hit_score_final": 83.121094
+          },
+          {
+            "video_url": "",
+            "img": "http://wx1.sinaimg.cn/middle/0072F4dIly1i6s4vl1e9vj30u01130v1.jpg",
+            "hit_score_new": 99.023438,
+            "doc_score": 6083,
+            "img_pid": "0072F4dIly1i6s4vl1e9vj30u01130v1",
+            "scheme": "sinaweibo://multimedia?mix_mid=5226748423964946&from=search&content_show=1&mix_index=0&hide_index=1&multi_paragraph=1&multi_count=0",
+            "w": 1080,
+            "cur_mid": "5226748423964946",
+            "h": 1335,
+            "type": "p",
+            "vtype": 0,
+            "user_name": "宋只小喵",
+            "click_rate": 0,
+            "user_avatar": "https://tvax2.sinaimg.cn/crop.0.0.511.511.50/0072F4dIly8h8w2pmrjn1j30e70e7mxm.jpg?KID=imgbed,tva&Expires=1761654379&ssig=OKBJ3G%2BeLb",
+            "hit_score_final": 91.414062
+          }
+        ]
+      },
+      "short_url": "http://t.cn/AXAvtnz3",
+      "share_info": {
+        "tips": "#中国新能源车以创新引领全球产业#的相关内容，来智搜看看",
+        "display_name": "#中国新能源车以创新引领全球产业#",
+        "url": "http://t.cn/AXAPA6sE",
+        "unify_md5": "2515bab046325b96f41667d9bafabaac",
+        "status": 3,
+        "page_id": "2329644cff199ba201a7a1847a45f1ae6d5d10"
+      },
+      "abtest_info": {
+        "chat_entrance": 1
+      },
+      "uid": "",
+      "mid_list": null,
+      "status_stage": 4,
+      "share_text": "#中国新能源车以创新引领全球产业#的相关内容，来智搜看看"
+    }
+  },
+  "links": [
+    "sinaweibo://detail?mblogid=5226742584708277",
+    "sinaweibo://detail?mblogid=5226750810523781",
+    "sinaweibo://detail?mblogid=5226765775802676",
+    "sinaweibo://detail?mblogid=5226758039406243",
+    "sinaweibo://detail?mblogid=5226748423964946",
+    "sinaweibo://detail?mblogid=5226752638717562",
+    "sinaweibo://detail?mblogid=5226763421746618",
+    "sinaweibo://detail?mblogid=5226757848041523",
+    "sinaweibo://detail?mblogid=5226759853447033",
+    "sinaweibo://detail?mblogid=5226766438238377",
+    "sinaweibo://detail?mblogid=5226750113220687",
+    "sinaweibo://detail?mblogid=5226763811819116",
+    "sinaweibo://detail?mblogid=5226757716443491",
+    "sinaweibo://detail?mblogid=5226763628314814",
+    "sinaweibo://detail?mblogid=5226764390632456",
+    "sinaweibo://detail?mblogid=5226769057581065",
+    "sinaweibo://detail?mblogid=5226761749268551",
+    "sinaweibo://detail?mblogid=5226769201762241",
+    "sinaweibo://detail?mblogid=5226748675363300",
+    "sinaweibo://detail?mblogid=5226747864810732",
+    "sinaweibo://detail?mblogid=5226749648699686",
+    "sinaweibo://detail?mblogid=5226749168191329",
+    "sinaweibo://detail?mblogid=5226749780563070",
+    "sinaweibo://detail?mblogid=5226681225710210",
+    "sinaweibo://detail?mblogid=5226774256157337",
+    "sinaweibo://detail?mblogid=5226757835985523",
+    "sinaweibo://detail?mblogid=5226750433036533",
+    "sinaweibo://detail?mblogid=5226769229549062",
+    "sinaweibo://detail?mblogid=5226756709814873",
+    "sinaweibo://detail?mblogid=5226752389417478",
+    "sinaweibo://detail?mblogid=5226757885006095"
+  ],
+  "media": [
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/0072F4dIly1i6s4vl1e9vj30u01130v1.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/0072F4dIly1i6s4vl1e9vj30u01130v1.jpg",
+      "alt": "宋只小喵",
+      "width": 1335,
+      "height": 1080,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/0072F4dIly1i6s4vl1e9vj30u01130v1.jpg"
+      ],
+      "user": "宋只小喵"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/006lSUZwgy1i6s52jzgxij30go0goq4b.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/006lSUZwgy1i6s52jzgxij30go0goq4b.jpg",
+      "alt": "追波逐影",
+      "width": 600,
+      "height": 600,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/006lSUZwgy1i6s52jzgxij30go0goq4b.jpg"
+      ],
+      "user": "追波逐影"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/001rzo4Rgy1i6s50dai60j60qn0zkaxi02.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/001rzo4Rgy1i6s50dai60j60qn0zkaxi02.jpg",
+      "alt": "Vista看天下",
+      "width": 1280,
+      "height": 959,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/001rzo4Rgy1i6s50dai60j60qn0zkaxi02.jpg"
+      ],
+      "user": "Vista看天下"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/008AGV4Yly1i6s4899734j30qo0f0amf.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/008AGV4Yly1i6s4899734j30qo0f0amf.jpg",
+      "alt": "大江晚报",
+      "width": 540,
+      "height": 960,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx4.sinaimg.cn/large/008AGV4Yly1i6s4899734j30qo0f0amf.jpg"
+      ],
+      "user": "大江晚报"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/6593d04dly1i6s5zcjk99j20qn0zkwj9.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/6593d04dly1i6s5zcjk99j20qn0zkwj9.jpg",
+      "alt": "聊城晚报",
+      "width": 1280,
+      "height": 959,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/6593d04dly1i6s5zcjk99j20qn0zkwj9.jpg"
+      ],
+      "user": "聊城晚报"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/c7eb1e74ly1i6s6vbn5xtj20z00sg7gh.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/c7eb1e74ly1i6s6vbn5xtj20z00sg7gh.jpg",
+      "alt": "番茄酱soso",
+      "width": 1024,
+      "height": 1260,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx2.sinaimg.cn/large/c7eb1e74ly1i6s6vbn5xtj20z00sg7gh.jpg"
+      ],
+      "user": "番茄酱soso"
+    },
+    {
+      "original_url": "http://wx1.sinaimg.cn/middle/007Sj1S0ly1i6s2fhcbimj30u01hcq6h.jpg",
+      "secure_url": "https://wx1.sinaimg.cn/middle/007Sj1S0ly1i6s2fhcbimj30u01hcq6h.jpg",
+      "alt": "光芒视频",
+      "width": 1920,
+      "height": 1080,
+      "media_type": "v",
+      "mirrors": [
+        "https://wx3.sinaimg.cn/large/007Sj1S0ly1i6s2fhcbimj30u01hcq6h.jpg"
+      ],
+      "user": "光芒视频"
+    },
+    {
+      "original_url": "http://wx2.sinaimg.cn/middle/008cyL4lly1i6s4t9xkqsj30v40fidgr.jpg",
+      "secure_url": "https://wx2.sinaimg.cn/middle/008cyL4lly1i6s4t9xkqsj30v40fidgr.jpg",
+      "alt": "史实君",
+      "width": 558,
+      "height": 1120,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/008cyL4lly1i6s4t9xkqsj30v40fidgr.jpg"
+      ],
+      "user": "史实君"
+    },
+    {
+      "original_url": "http://wx3.sinaimg.cn/middle/4dafff71gy1i6s6p9lsenj21hc0u0dvv.jpg",
+      "secure_url": "https://wx3.sinaimg.cn/middle/4dafff71gy1i6s6p9lsenj21hc0u0dvv.jpg",
+      "alt": "Anry-Young",
+      "width": 1080,
+      "height": 1920,
+      "media_type": "p",
+      "mirrors": [
+        "https://wx1.sinaimg.cn/large/4dafff71gy1i6s6p9lsenj21hc0u0dvv.jpg"
+      ],
+      "user": "Anry-Young"
+    }
+  ],
+  "html_path": "data/aicard/hourly/2025-10-28/17/topic-2515bab0.html"
+}
