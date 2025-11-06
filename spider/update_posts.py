@@ -6,7 +6,7 @@ from pathlib import Path
 from typing import Any, Dict, List, Optional, Sequence
 
 from spider.crawler_core import CHINA_TZ, CrawlParams, crawl_topic, ensure_hashtag_format, slugify_title
-from Weibo_zy.weibo_enhanced.topic_detail import WeiboPost, get_top_20_hot_posts
+from spider.weibo_topic_detail import WeiboPost, get_top_20_hot_posts
 
 # ------- CONFIG -------
 TARGET_DATE = "2025-10-25"
